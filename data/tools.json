@@ -626,7 +626,7 @@
     "subcategory": "ai-image-illustration"
   },
   {
-    "slug": "蛙蛙写作",
+    "slug": "wawa-writing",
     "name": "蛙蛙写作",
     "description": "AI小说和内容创作工具",
     "url": "https://wawawriter.com/app/?utm_source=aigongjuji",
@@ -643,7 +643,7 @@
     "subcategory": "ai-writing-novel"
   },
   {
-    "slug": "讯飞绘文",
+    "slug": "xunfei-article",
     "name": "讯飞绘文",
     "description": "AI批量原创，多平台矩阵号管理",
     "url": "https://turbodesk.xfyun.cn/?channelid=aitool1",
@@ -2241,7 +2241,7 @@
     "subcategory": "ai-writing-article"
   },
   {
-    "slug": "绘蛙",
+    "slug": "huiwa",
     "name": "绘蛙",
     "description": "AI电商设计工具",
     "url": "https://ihuiwa.paluai.com/aibot",
@@ -5218,7 +5218,7 @@
     "subcategory": "ai-video-digital-human"
   },
   {
-    "slug": "白日梦",
+    "slug": "fantasy-art",
     "name": "白日梦",
     "description": "领先AI创作平台，可生成最长50分钟的视频",
     "url": "https://aibrm.paluai.com/bairimeng",
@@ -5233,23 +5233,6 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation"
-  },
-  {
-    "slug": "即梦",
-    "name": "即梦",
-    "description": "一站式AI视频、图片、数字人创作工具",
-    "url": "https://jimeng.jianying.com/ai-tool/home/?utm_medium=aitools&amp;utm_source=aibot&amp;utm_campaign=null&amp;utm_content=hw_jm_aibot",
-    "categories": [
-      "ai-video"
-    ],
-    "tags": [
-      "AI视频工"
-    ],
-    "featured": false,
-    "rating": 4.0,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-video-digital-human"
   },
   {
     "slug": "tool76349",
@@ -6629,7 +6612,7 @@
     "subcategory": "ai-office-ppt"
   },
   {
-    "slug": "咔片ppt",
+    "slug": "kapian-ppt",
     "name": "咔片PPT",
     "description": "AI PPT制作工具，设计美化全流程自动化",
     "url": "https://www.cappt.cc/?mtm_campaign=CZQD-aibot-zxsl-10008",
@@ -7258,7 +7241,7 @@
     "subcategory": "ai-office-doc"
   },
   {
-    "slug": "办公小浣熊",
+    "slug": "office-raccoon",
     "name": "办公小浣熊",
     "description": "最强AI数据分析助手",
     "url": "https://www.xiaohuanxiong.com/login?utm_source=blmay1",
@@ -10063,7 +10046,7 @@
     "subcategory": "ai-agent-framework"
   },
   {
-    "slug": "码上飞",
+    "slug": "mashangfei",
     "name": "码上飞",
     "description": "一句话生成微信小程序、APP、H5网页",
     "url": "https://ml-explore.github.io/mlx/build/html/index.html",
@@ -12428,7 +12411,7 @@
     "subcategory": "ai-chat-general"
   },
   {
-    "slug": "秒哒",
+    "slug": "miaoda",
     "name": "秒哒",
     "description": "无代码AI应用开发平台，一句话做应用",
     "url": "https://ai-bot.cn/wordware",
@@ -13700,7 +13683,7 @@
     "subcategory": "ai-coding-generator"
   },
   {
-    "slug": "堆友ai",
+    "slug": "duiyou-ai",
     "name": "堆友AI",
     "description": "专为设计师打造的AI设计服务平台",
     "url": "https://www.designkit.cn/?channel=10026",
@@ -13731,7 +13714,7 @@
     "subcategory": "ai-writing-article"
   },
   {
-    "slug": "星流ai",
+    "slug": "xingliu-ai",
     "name": "星流AI",
     "description": "一站式 AI 设计与创作工具",
     "url": "https://www.douhuiai.com/?utm_source=ai-bot.cn",
