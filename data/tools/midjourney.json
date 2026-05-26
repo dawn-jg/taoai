@@ -1,0 +1,18 @@
+{
+  "slug": "midjourney",
+  "name": "Midjourney",
+  "description": "全球最流行的AI绘画工具，以高质量艺术风格著称",
+  "url": "https://www.midjourney.com",
+  "categories": [
+    "ai-image"
+  ],
+  "tags": [
+    "高质量",
+    "艺术",
+    "付费"
+  ],
+  "featured": true,
+  "rating": 4.8,
+  "pricing": "paid",
+  "createdAt": "2022-07-01"
+}

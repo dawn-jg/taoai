@@ -1,0 +1,18 @@
+{
+  "slug": "kling",
+  "name": "可灵AI",
+  "description": "快手推出的AI视频生成工具，支持文本和图片生成高质量视频",
+  "url": "https://klingai.com",
+  "categories": [
+    "ai-video"
+  ],
+  "tags": [
+    "视频生成",
+    "快手",
+    "中文"
+  ],
+  "featured": false,
+  "rating": 4.5,
+  "pricing": "freemium",
+  "createdAt": "2024-06-01"
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "leonardo",
+  "name": "Leonardo AI",
+  "description": "AI图像生成平台，提供丰富的模型和风格选项",
+  "url": "https://leonardo.ai",
+  "categories": [
+    "ai-image"
+  ],
+  "tags": [
+    "图片生成",
+    "模型多",
+    "游戏素材"
+  ],
+  "featured": false,
+  "rating": 4.5,
+  "pricing": "freemium",
+  "createdAt": "2022-12-01"
+}

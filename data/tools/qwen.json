@@ -1,0 +1,19 @@
+{
+  "slug": "qwen",
+  "name": "通义千问",
+  "description": "阿里云推出的大语言模型，集成文生图、代码生成、文档解析等能力",
+  "url": "https://tongyi.aliyun.com",
+  "categories": [
+    "ai-chat",
+    "ai-coding"
+  ],
+  "tags": [
+    "免费",
+    "中文",
+    "多模态"
+  ],
+  "featured": true,
+  "rating": 4.5,
+  "pricing": "free",
+  "createdAt": "2023-04-07"
+}

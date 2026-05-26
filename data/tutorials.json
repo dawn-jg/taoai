@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "deepseek-beginners",
+    "title": "DeepSeek 新手入门指南：从注册到高手",
+    "summary": "手把手教你注册和使用 DeepSeek，掌握高效提问技巧。",
+    "content": "DeepSeek 作为目前最强大的免费 AI 助手之一，已经成为许多人的日常工作伙伴。本文将从账号注册开始，逐步带你掌握高效使用 DeepSeek 的技巧。",
+    "date": "2026-05-10",
+    "category": "AI对话"
+  },
+  {
+    "slug": "ai-prompt-engineering",
+    "title": "提示词工程完全指南",
+    "summary": "系统学习提示词工程的核心原则和高级技巧，全面提升AI输出质量。",
+    "content": "提示词工程（Prompt Engineering）是使用AI工具的核心技能。一个好的提示词可以让AI输出质量提升数倍。本文涵盖角色设定、链式思考、Few-shot等核心技巧。",
+    "date": "2026-05-01",
+    "category": "AI提示词"
+  },
+  {
+    "slug": "cursor-vibe-coding",
+    "title": "用Cursor做Vibe Coding：AI编程新体验",
+    "summary": "体验Cursor的Vibe Coding模式，用自然语言描述需求就能生成完整应用。",
+    "content": "Vibe Coding 是 AI 编程的最新潮流——你只需要用自然语言描述想要什么，AI 就能帮你生成完整的代码。Cursor 是目前最好的 Vibe Coding 工具之一。",
+    "date": "2026-04-25",
+    "category": "AI编程"
+  },
+  {
+    "slug": "ai-video-generation",
+    "title": "2025年AI视频生成工具横向评测",
+    "summary": "实测可灵、即梦、Sora、Pika四大AI视频工具，从画质、一致性、可控性全面对比。",
+    "content": "AI视频生成在2025年迎来了爆发式增长。本文将深度评测当前最主流的四款AI视频生成工具：可灵AI、即梦AI、Sora和Pika。",
+    "date": "2026-04-15",
+    "category": "AI视频"
+  },
+  {
+    "slug": "ai-writing-xiaohongshu",
+    "title": "用AI写出小红书爆款笔记",
+    "summary": "掌握AI写作的精髓，让你的小红书笔记篇篇爆款。",
+    "content": "小红书是目前最适合AI创作者的平台之一。本文将分享一套经过验证的方法论，帮助你用AI写出从小红书平台获得大量曝光的笔记。",
+    "date": "2026-04-10",
+    "category": "AI写作"
+  }
+]

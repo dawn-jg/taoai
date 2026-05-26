@@ -1,0 +1,18 @@
+{
+  "slug": "trae",
+  "name": "TRAE",
+  "description": "字节跳动推出的AI编程IDE，支持Vibe Coding模式",
+  "url": "https://www.trae.ai",
+  "categories": [
+    "ai-coding"
+  ],
+  "tags": [
+    "IDE",
+    "免费",
+    "AI编程"
+  ],
+  "featured": true,
+  "rating": 4.4,
+  "pricing": "free",
+  "createdAt": "2025-03-01"
+}

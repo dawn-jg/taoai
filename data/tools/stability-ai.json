@@ -1,0 +1,18 @@
+{
+  "slug": "stability-ai",
+  "name": "Stable Diffusion",
+  "description": "开源AI绘画模型，支持本地部署，社区活跃插件丰富",
+  "url": "https://stability.ai",
+  "categories": [
+    "ai-image"
+  ],
+  "tags": [
+    "开源",
+    "本地部署",
+    "免费"
+  ],
+  "featured": false,
+  "rating": 4.6,
+  "pricing": "free",
+  "createdAt": "2022-08-01"
+}

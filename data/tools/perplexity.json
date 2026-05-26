@@ -1,0 +1,18 @@
+{
+  "slug": "perplexity",
+  "name": "Perplexity",
+  "description": "AI搜索引擎，实时联网搜索并给出带引用的综合回答",
+  "url": "https://www.perplexity.ai",
+  "categories": [
+    "ai-search"
+  ],
+  "tags": [
+    "搜索",
+    "引用",
+    "实时"
+  ],
+  "featured": false,
+  "rating": 4.6,
+  "pricing": "freemium",
+  "createdAt": "2023-01-01"
+}

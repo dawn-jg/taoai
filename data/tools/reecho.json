@@ -1,0 +1,18 @@
+{
+  "slug": "reecho",
+  "name": "Reecho",
+  "description": "AI语音克隆与配音工具，支持声音克隆和情感化配音",
+  "url": "https://www.reecho.cn",
+  "categories": [
+    "ai-audio"
+  ],
+  "tags": [
+    "配音",
+    "语音克隆",
+    "免费"
+  ],
+  "featured": false,
+  "rating": 4.3,
+  "pricing": "freemium",
+  "createdAt": "2024-03-01"
+}

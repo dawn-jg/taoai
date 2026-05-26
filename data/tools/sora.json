@@ -1,0 +1,18 @@
+{
+  "slug": "sora",
+  "name": "Sora",
+  "description": "OpenAI推出的文本到视频生成模型，能生成长达一分钟的高质量视频",
+  "url": "https://sora.com",
+  "categories": [
+    "ai-video"
+  ],
+  "tags": [
+    "OpenAI",
+    "高质量",
+    "视频"
+  ],
+  "featured": true,
+  "rating": 4.7,
+  "pricing": "paid",
+  "createdAt": "2024-02-01"
+}

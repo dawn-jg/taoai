@@ -1,0 +1,19 @@
+{
+  "slug": "jianying",
+  "name": "剪映AI",
+  "description": "剪映Pro集成的AI视频编辑功能，智能抠像、AI配音、文字成片",
+  "url": "https://jimeng.jianying.com",
+  "categories": [
+    "ai-video",
+    "ai-design"
+  ],
+  "tags": [
+    "视频编辑",
+    "免费",
+    "剪辑"
+  ],
+  "featured": false,
+  "rating": 4.5,
+  "pricing": "free",
+  "createdAt": "2023-12-01"
+}

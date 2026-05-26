@@ -1,0 +1,82 @@
+[
+  {
+    "id": "chat",
+    "name": "AI对话",
+    "slug": "ai-chat",
+    "icon": "💬",
+    "count": 8,
+    "description": "智能对话助手，问答、聊天、创作全能"
+  },
+  {
+    "id": "writing",
+    "name": "AI写作",
+    "slug": "ai-writing",
+    "icon": "✍️",
+    "count": 6,
+    "description": "智能写作工具，文章、文案、小说一键生成"
+  },
+  {
+    "id": "image",
+    "name": "AI绘画",
+    "slug": "ai-image",
+    "icon": "🎨",
+    "count": 7,
+    "description": "AI绘画与图像生成，文生图、图生图"
+  },
+  {
+    "id": "video",
+    "name": "AI视频",
+    "slug": "ai-video",
+    "icon": "🎬",
+    "count": 5,
+    "description": "AI视频生成与编辑工具"
+  },
+  {
+    "id": "coding",
+    "name": "AI编程",
+    "slug": "ai-coding",
+    "icon": "💻",
+    "count": 5,
+    "description": "AI辅助编程与代码生成"
+  },
+  {
+    "id": "office",
+    "name": "AI办公",
+    "slug": "ai-office",
+    "icon": "📊",
+    "count": 4,
+    "description": "AI办公效率工具"
+  },
+  {
+    "id": "audio",
+    "name": "AI音频",
+    "slug": "ai-audio",
+    "icon": "🎵",
+    "count": 3,
+    "description": "AI音乐生成与音频处理"
+  },
+  {
+    "id": "search",
+    "name": "AI搜索",
+    "slug": "ai-search",
+    "icon": "🔍",
+    "count": 4,
+    "description": "新一代AI搜索引擎"
+  },
+  {
+    "id": "design",
+    "name": "AI设计",
+    "slug": "ai-design",
+    "icon": "🖌️",
+    "count": 4,
+    "description": "AI辅助设计与创意工具"
+  },
+  {
+    "id": "prompt",
+    "name": "AI提示词",
+    "slug": "ai-prompt",
+    "icon": "⚡",
+    "count": 3,
+    "description": "提示词工程与Prompt管理"
+  }
+]

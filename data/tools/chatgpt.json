@@ -1,0 +1,18 @@
+{
+  "slug": "chatgpt",
+  "name": "ChatGPT",
+  "description": "OpenAI推出的旗舰AI对话助手，支持文本、图像、代码多模态交互",
+  "url": "https://chatgpt.com",
+  "categories": [
+    "ai-chat"
+  ],
+  "tags": [
+    "多模态",
+    "GPT-4o",
+    "插件"
+  ],
+  "featured": true,
+  "rating": 4.7,
+  "pricing": "freemium",
+  "createdAt": "2022-11-30"
+}

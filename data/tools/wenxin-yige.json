@@ -1,0 +1,18 @@
+{
+  "slug": "wenxin-yige",
+  "name": "文心一格",
+  "description": "百度AI绘画平台，支持中文提示词生成国风等多样化图片",
+  "url": "https://yige.baidu.com",
+  "categories": [
+    "ai-image"
+  ],
+  "tags": [
+    "百度",
+    "国风",
+    "免费"
+  ],
+  "featured": false,
+  "rating": 4.2,
+  "pricing": "free",
+  "createdAt": "2023-08-01"
+}

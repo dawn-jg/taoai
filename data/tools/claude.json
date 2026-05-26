@@ -1,0 +1,19 @@
+{
+  "slug": "claude",
+  "name": "Claude",
+  "description": "Anthropic推出的AI助手，以安全、长上下文、优质写作能力著称",
+  "url": "https://claude.ai",
+  "categories": [
+    "ai-chat",
+    "ai-writing"
+  ],
+  "tags": [
+    "安全",
+    "长上下文",
+    "写作"
+  ],
+  "featured": true,
+  "rating": 4.7,
+  "pricing": "freemium",
+  "createdAt": "2023-03-01"
+}

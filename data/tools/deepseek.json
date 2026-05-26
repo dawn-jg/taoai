@@ -1,0 +1,19 @@
+{
+  "slug": "deepseek",
+  "name": "DeepSeek",
+  "description": "深度求索推出的强大开源大模型，推理能力出色，支持长上下文，完全免费",
+  "url": "https://www.deepseek.com",
+  "categories": [
+    "ai-chat"
+  ],
+  "tags": [
+    "免费",
+    "开源",
+    "推理",
+    "长上下文"
+  ],
+  "featured": true,
+  "rating": 4.8,
+  "pricing": "free",
+  "createdAt": "2025-01-20"
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "tongyi-lingma",
+  "name": "通义灵码",
+  "description": "阿里推出的AI编程助手，支持多种IDE，代码补全和智能问答",
+  "url": "https://tongyi.aliyun.com/lingma",
+  "categories": [
+    "ai-coding"
+  ],
+  "tags": [
+    "编程",
+    "补全",
+    "免费"
+  ],
+  "featured": false,
+  "rating": 4.3,
+  "pricing": "free",
+  "createdAt": "2023-10-01"
+}

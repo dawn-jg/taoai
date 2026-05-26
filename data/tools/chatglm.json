@@ -1,0 +1,18 @@
+{
+  "slug": "chatglm",
+  "name": "智谱清言",
+  "description": "智谱AI推出的大模型助手，基于GLM架构，支持多轮对话和工具调用",
+  "url": "https://chatglm.cn",
+  "categories": [
+    "ai-chat"
+  ],
+  "tags": [
+    "国产",
+    "GLM",
+    "免费"
+  ],
+  "featured": false,
+  "rating": 4.4,
+  "pricing": "free",
+  "createdAt": "2023-03-01"
+}

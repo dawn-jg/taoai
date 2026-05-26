@@ -1,0 +1,18 @@
+{
+  "slug": "cloudmusic-xiaowei",
+  "name": "网易天音",
+  "description": "网易推出的AI音乐创作工具，支持AI作曲、编曲",
+  "url": "https://tianyin.163.com",
+  "categories": [
+    "ai-audio"
+  ],
+  "tags": [
+    "音乐",
+    "作曲",
+    "中文"
+  ],
+  "featured": false,
+  "rating": 4.2,
+  "pricing": "free",
+  "createdAt": "2024-04-01"
+}

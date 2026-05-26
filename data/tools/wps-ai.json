@@ -1,0 +1,18 @@
+{
+  "slug": "wps-ai",
+  "name": "WPS AI",
+  "description": "金山WPS集成AI能力，支持智能写作、表格处理、PPT生成",
+  "url": "https://ai.wps.cn",
+  "categories": [
+    "ai-office"
+  ],
+  "tags": [
+    "办公",
+    "WPS",
+    "文档"
+  ],
+  "featured": false,
+  "rating": 4.3,
+  "pricing": "freemium",
+  "createdAt": "2024-01-01"
+}
