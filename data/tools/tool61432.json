@@ -1,0 +1,16 @@
+{
+  "slug": "tool61432",
+  "name": "Tool-61432",
+  "description": "美团推出的自研大模型AI对话平台",
+  "url": "https://longcat.chat/?utm_source=ai-bot.cn",
+  "categories": [
+    "ai-chat"
+  ],
+  "tags": [
+    "AI聊天助"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "tool5509",
+  "name": "Tool-5509",
+  "description": "中科院与武智院推出的千亿参数全模态大模型和助手",
+  "url": "https://taichu-web.ia.ac.cn/#/welcome",
+  "categories": [
+    "ai-chat"
+  ],
+  "tags": [
+    "AI聊天助"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

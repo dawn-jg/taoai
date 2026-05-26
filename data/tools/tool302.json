@@ -1,0 +1,16 @@
+{
+  "slug": "tool302",
+  "name": "Tool-302",
+  "description": "Zyro推出的AI图片背景移除工具",
+  "url": "https://zyro.com/tools/image-background-remover",
+  "categories": [
+    "ai-image"
+  ],
+  "tags": [
+    "AI图像工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

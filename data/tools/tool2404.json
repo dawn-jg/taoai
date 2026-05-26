@@ -1,0 +1,16 @@
+{
+  "slug": "tool2404",
+  "name": "Tool-2404",
+  "description": "ZAKER新闻推出的AI写作工具",
+  "url": "https://ai.zaker.cn",
+  "categories": [
+    "ai-writing"
+  ],
+  "tags": [
+    "AI写作工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

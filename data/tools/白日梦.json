@@ -1,0 +1,16 @@
+{
+  "slug": "白日梦",
+  "name": "白日梦",
+  "description": "领先AI创作平台，可生成最长50分钟的视频",
+  "url": "https://aibrm.paluai.com/bairimeng",
+  "categories": [
+    "ai-video"
+  ],
+  "tags": [
+    "AI视频工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

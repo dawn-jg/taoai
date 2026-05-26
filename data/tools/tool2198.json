@@ -1,0 +1,16 @@
+{
+  "slug": "tool2198",
+  "name": "Tool-2198",
+  "description": "百度最新上线的AI搜索对话工具",
+  "url": "https://chat.baidu.com",
+  "categories": [
+    "ai-chat"
+  ],
+  "tags": [
+    "AI聊天助"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

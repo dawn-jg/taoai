@@ -1,0 +1,16 @@
+{
+  "slug": "tool1369",
+  "name": "Tool-1369",
+  "description": "你的贴身智能翻译专家",
+  "url": "https://fanyi.sogou.com/text",
+  "categories": [
+    "ai-office"
+  ],
+  "tags": [
+    "AI办公工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

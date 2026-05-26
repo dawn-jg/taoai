@@ -1,0 +1,16 @@
+{
+  "slug": "tool1149",
+  "name": "Tool-1149",
+  "description": "AI将文本输入转换为Excel公式处理",
+  "url": "https://excelformularizer.com",
+  "categories": [
+    "ai-office"
+  ],
+  "tags": [
+    "AI办公工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

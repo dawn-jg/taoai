@@ -1,0 +1,16 @@
+{
+  "slug": "tool945",
+  "name": "Tool-945",
+  "description": "微软推出的在线设计海报和宣传图工具",
+  "url": "https://designer.microsoft.com",
+  "categories": [
+    "ai-design"
+  ],
+  "tags": [
+    "AI设计工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

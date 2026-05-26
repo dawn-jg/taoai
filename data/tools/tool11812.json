@@ -1,0 +1,16 @@
+{
+  "slug": "tool11812",
+  "name": "Tool-11812",
+  "description": "CSDN推出的AI技术问答工具",
+  "url": "https://so.csdn.net/chat?utm_source=ai-bot.cn",
+  "categories": [
+    "ai-coding"
+  ],
+  "tags": [
+    "AI编程工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

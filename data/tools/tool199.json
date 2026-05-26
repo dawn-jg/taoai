@@ -1,0 +1,16 @@
+{
+  "slug": "tool199",
+  "name": "Tool-199",
+  "description": "AI英语语法和拼写检查写作助手",
+  "url": "https://www.grammarly.com",
+  "categories": [
+    "ai-writing"
+  ],
+  "tags": [
+    "AI写作工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

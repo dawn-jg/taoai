@@ -1,0 +1,16 @@
+{
+  "slug": "tool111",
+  "name": "Tool-111",
+  "description": "免费的AI编程工具，智能生成和补全代码",
+  "url": "https://www.codeium.com",
+  "categories": [
+    "ai-coding"
+  ],
+  "tags": [
+    "AI编程工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "free",
+  "createdAt": "2025-01-01"
+}

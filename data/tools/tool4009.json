@@ -1,0 +1,16 @@
+{
+  "slug": "tool4009",
+  "name": "Tool-4009",
+  "description": "搜狐推出的AI图片生成平台",
+  "url": "https://ai.sohu.com/?utm_source=ai-bot.cn",
+  "categories": [
+    "ai-image"
+  ],
+  "tags": [
+    "AI图像工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

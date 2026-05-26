@@ -1,0 +1,16 @@
+{
+  "slug": "tool222",
+  "name": "Tool-222",
+  "description": "Media.io推出的AI图片放大工具",
+  "url": "https://www.media.io/image-upscaler.html",
+  "categories": [
+    "ai-image"
+  ],
+  "tags": [
+    "AI图像工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

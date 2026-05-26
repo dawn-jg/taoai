@@ -1,0 +1,16 @@
+{
+  "slug": "tool5269",
+  "name": "Tool-5269",
+  "description": "阿里推出的免费AI编程工具，基于通义大模型",
+  "url": "https://lingma.aliyun.com/lingma",
+  "categories": [
+    "ai-coding"
+  ],
+  "tags": [
+    "AI编程工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "free",
+  "createdAt": "2025-01-01"
+}

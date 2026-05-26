@@ -1,0 +1,16 @@
+{
+  "slug": "tool2235",
+  "name": "Tool-2235",
+  "description": "AI渲染转化手绘图为产品设计图",
+  "url": "https://www.vizcom.ai",
+  "categories": [
+    "ai-design"
+  ],
+  "tags": [
+    "AI设计工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

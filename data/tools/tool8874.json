@@ -1,0 +1,16 @@
+{
+  "slug": "tool8874",
+  "name": "Tool-8874",
+  "description": "Mistral推出的AI对话聊天助手",
+  "url": "https://chat.mistral.ai/?utm_source=ai-bot.cn",
+  "categories": [
+    "ai-chat"
+  ],
+  "tags": [
+    "AI聊天助"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

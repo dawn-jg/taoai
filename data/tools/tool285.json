@@ -1,0 +1,16 @@
+{
+  "slug": "tool285",
+  "name": "Tool-285",
+  "description": "在线抠图和去除图片背景",
+  "url": "https://www.erase.bg/zh",
+  "categories": [
+    "ai-image"
+  ],
+  "tags": [
+    "AI图像工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

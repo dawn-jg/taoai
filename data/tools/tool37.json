@@ -1,0 +1,16 @@
+{
+  "slug": "tool37",
+  "name": "Tool-37",
+  "description": "腾讯AI Lab开发的智能创作助手",
+  "url": "https://effidit.qq.com",
+  "categories": [
+    "ai-writing"
+  ],
+  "tags": [
+    "AI写作工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

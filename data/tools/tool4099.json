@@ -1,0 +1,16 @@
+{
+  "slug": "tool4099",
+  "name": "Tool-4099",
+  "description": "百度推出的AI编程助手，基于文心大模型",
+  "url": "https://comate.baidu.com/?inviteCode=8f8or9cz",
+  "categories": [
+    "ai-coding"
+  ],
+  "tags": [
+    "AI编程工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

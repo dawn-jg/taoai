@@ -1,0 +1,16 @@
+{
+  "slug": "tool5273",
+  "name": "Tool-5273",
+  "description": "基于通义大模型的AI阅读助手，可智能阅读网页、论文、图书和文档",
+  "url": "https://tongyi.aliyun.com/zhiwen#/?ref=ai-bot.cn",
+  "categories": [
+    "ai-office"
+  ],
+  "tags": [
+    "AI办公工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

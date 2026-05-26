@@ -1,0 +1,16 @@
+{
+  "slug": "tool150",
+  "name": "Tool-150",
+  "description": "AI高保真原型设计",
+  "url": "https://www.usegalileo.ai",
+  "categories": [
+    "ai-design"
+  ],
+  "tags": [
+    "AI设计工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

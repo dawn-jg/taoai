@@ -1,0 +1,16 @@
+{
+  "slug": "tool987",
+  "name": "Tool-987",
+  "description": "AI真人口播视频生成工具",
+  "url": "https://www.d-id.com",
+  "categories": [
+    "ai-video"
+  ],
+  "tags": [
+    "AI视频工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

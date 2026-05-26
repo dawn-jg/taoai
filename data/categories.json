@@ -4,7 +4,7 @@
     "name": "AI写作工具",
     "slug": "ai-writing",
     "icon": "✍️",
-    "count": 6,
+    "count": 97,
     "description": "AI写作、文案创作、论文辅助"
   },
   {
@@ -12,7 +12,7 @@
     "name": "AI图像工具",
     "slug": "ai-image",
     "icon": "🎨",
-    "count": 7,
+    "count": 173,
     "description": "AI绘画、图像生成与编辑"
   },
   {
@@ -20,7 +20,7 @@
     "name": "AI视频工具",
     "slug": "ai-video",
     "icon": "🎬",
-    "count": 5,
+    "count": 96,
     "description": "AI视频生成与编辑工具"
   },
   {
@@ -28,7 +28,7 @@
     "name": "AI办公工具",
     "slug": "ai-office",
     "icon": "📊",
-    "count": 4,
+    "count": 199,
     "description": "AI办公效率、PPT、文档"
   },
   {
@@ -36,7 +36,7 @@
     "name": "AI智能体",
     "slug": "ai-agent",
     "icon": "🤖",
-    "count": 3,
+    "count": 81,
     "description": "AI Agent智能体搭建平台"
   },
   {
@@ -44,7 +44,7 @@
     "name": "AI聊天助手",
     "slug": "ai-chat",
     "icon": "💬",
-    "count": 8,
+    "count": 74,
     "description": "智能对话、问答助手"
   },
   {
@@ -52,7 +52,7 @@
     "name": "AI编程工具",
     "slug": "ai-coding",
     "icon": "💻",
-    "count": 5,
+    "count": 78,
     "description": "AI编程、代码生成与辅助"
   },
   {
@@ -60,7 +60,7 @@
     "name": "AI设计工具",
     "slug": "ai-design",
     "icon": "🖌️",
-    "count": 4,
+    "count": 91,
     "description": "AI辅助设计与创意工具"
   },
   {
@@ -68,7 +68,7 @@
     "name": "AI音频工具",
     "slug": "ai-audio",
     "icon": "🎵",
-    "count": 3,
+    "count": 83,
     "description": "AI音乐、配音与音频处理"
   },
   {
@@ -76,7 +76,7 @@
     "name": "AI搜索引擎",
     "slug": "ai-search",
     "icon": "🔍",
-    "count": 4,
+    "count": 41,
     "description": "新一代AI搜索引擎"
   },
   {
@@ -84,7 +84,7 @@
     "name": "AI开发平台",
     "slug": "ai-platform",
     "icon": "⚙️",
-    "count": 3,
+    "count": 79,
     "description": "AI开发框架、模型平台"
   },
   {
@@ -92,7 +92,7 @@
     "name": "AI学习网站",
     "slug": "ai-learning",
     "icon": "📚",
-    "count": 2,
+    "count": 24,
     "description": "AI教程与学习资源"
   },
   {
@@ -100,7 +100,7 @@
     "name": "AI训练模型",
     "slug": "ai-models",
     "icon": "🧠",
-    "count": 3,
+    "count": 44,
     "description": "大模型、开源模型"
   },
   {
@@ -108,7 +108,7 @@
     "name": "AI内容检测",
     "slug": "ai-detection",
     "icon": "🔎",
-    "count": 2,
+    "count": 27,
     "description": "AI内容检测、去AI、查重"
   },
   {
@@ -116,7 +116,7 @@
     "name": "AI提示指令",
     "slug": "ai-prompt",
     "icon": "⚡",
-    "count": 2,
+    "count": 22,
     "description": "提示词工程与Prompt管理"
   },
   {
@@ -124,7 +124,7 @@
     "name": "AI应用集",
     "slug": "ai-apps",
     "icon": "📱",
-    "count": 3,
+    "count": 0,
     "description": "各行业AI应用集合"
   }
 ]

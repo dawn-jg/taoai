@@ -1,0 +1,16 @@
+{
+  "slug": "tool669",
+  "name": "Tool-669",
+  "description": "百度推出的基于文心大模型的AI智能助手",
+  "url": "https://yiyan.baidu.com/?utm_source=ai-bot.cn",
+  "categories": [
+    "ai-chat"
+  ],
+  "tags": [
+    "AI聊天助"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

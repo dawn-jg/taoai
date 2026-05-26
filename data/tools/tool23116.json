@@ -1,0 +1,16 @@
+{
+  "slug": "tool23116",
+  "name": "Tool-23116",
+  "description": "网易有道推出的智能写作辅助工具，支持100多种语言",
+  "url": "https://fanyi.youdao.com/aiwrite?utm_source=ai-bot.cn",
+  "categories": [
+    "ai-writing"
+  ],
+  "tags": [
+    "AI写作工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

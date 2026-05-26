@@ -1,0 +1,16 @@
+{
+  "slug": "tool5678",
+  "name": "Tool-5678",
+  "description": "元象XVERSE大模型驱动的AI聊天助手",
+  "url": "https://chat.xverse.cn/home/index.html?ref=ai-bot.cn",
+  "categories": [
+    "ai-chat"
+  ],
+  "tags": [
+    "AI聊天助"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

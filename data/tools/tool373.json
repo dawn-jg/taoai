@@ -1,0 +1,16 @@
+{
+  "slug": "tool373",
+  "name": "Tool-373",
+  "description": "Excel和Google Sheets表格AI处理工具",
+  "url": "https://sheetplus.ai",
+  "categories": [
+    "ai-office"
+  ],
+  "tags": [
+    "AI办公工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

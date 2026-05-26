@@ -1,0 +1,16 @@
+{
+  "slug": "tool1714",
+  "name": "Tool-1714",
+  "description": "360搜索最新推出的AI对话聊天机器人",
+  "url": "https://ai.360.com/?src=ai-bot.cn",
+  "categories": [
+    "ai-chat"
+  ],
+  "tags": [
+    "AI聊天助"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

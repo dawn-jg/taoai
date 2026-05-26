@@ -1,0 +1,16 @@
+{
+  "slug": "tool1145",
+  "name": "Tool-1145",
+  "description": "集成了AI功能的在线表格处理工具",
+  "url": "https://rows.com",
+  "categories": [
+    "ai-office"
+  ],
+  "tags": [
+    "AI办公工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

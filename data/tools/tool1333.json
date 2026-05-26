@@ -1,0 +1,16 @@
+{
+  "slug": "tool1333",
+  "name": "Tool-1333",
+  "description": "AI一键帮助你创作营销内容",
+  "url": "https://aiapp.cc/?ref=ai-bot.cn",
+  "categories": [
+    "ai-writing"
+  ],
+  "tags": [
+    "AI写作工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

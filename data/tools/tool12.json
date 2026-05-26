@@ -1,0 +1,16 @@
+{
+  "slug": "tool12",
+  "name": "Tool-12",
+  "description": "AI驱动的文字生产力工具",
+  "url": "https://www.mypitaya.com",
+  "categories": [
+    "ai-writing"
+  ],
+  "tags": [
+    "AI写作工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

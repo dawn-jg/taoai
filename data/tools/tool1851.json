@@ -1,0 +1,16 @@
+{
+  "slug": "tool1851",
+  "name": "Tool-1851",
+  "description": "阿里巴巴达摩院推出的多领域多语种的在线机器翻译",
+  "url": "https://translate.alibaba.com/?ref=ai-bot.cn",
+  "categories": [
+    "ai-office"
+  ],
+  "tags": [
+    "AI办公工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

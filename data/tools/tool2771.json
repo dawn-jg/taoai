@@ -1,0 +1,16 @@
+{
+  "slug": "tool2771",
+  "name": "Tool-2771",
+  "description": "虎博科技推出的AI对话聊天机器人，基于TigerBot开源大模型",
+  "url": "https://tigerbot.com/?utm_source=ai-bot.cn",
+  "categories": [
+    "ai-chat"
+  ],
+  "tags": [
+    "AI聊天助"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

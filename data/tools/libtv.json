@@ -1,0 +1,16 @@
+{
+  "slug": "libtv",
+  "name": "LibTV",
+  "description": "专业AI视频创作平台，支持Seedance 2.0（真人参考）",
+  "url": "https://www.liblib.tv/?sourceid=005902&amp;utm=cg&amp;cgv=aibot",
+  "categories": [
+    "ai-video"
+  ],
+  "tags": [
+    "AI视频工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

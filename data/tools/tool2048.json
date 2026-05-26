@@ -1,0 +1,16 @@
+{
+  "slug": "tool2048",
+  "name": "Tool-2048",
+  "description": "京东推出的商品图智能设计小工具",
+  "url": "https://ling.jd.com",
+  "categories": [
+    "ai-image"
+  ],
+  "tags": [
+    "AI图像工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

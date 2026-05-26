@@ -1,0 +1,16 @@
+{
+  "slug": "tool1616",
+  "name": "Tool-1616",
+  "description": "亚马逊推出的免费AI编程助手",
+  "url": "https://aws.amazon.com/codewhisperer",
+  "categories": [
+    "ai-coding"
+  ],
+  "tags": [
+    "AI编程工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "free",
+  "createdAt": "2025-01-01"
+}

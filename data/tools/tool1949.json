@@ -1,0 +1,16 @@
+{
+  "slug": "tool1949",
+  "name": "Tool-1949",
+  "description": "智能简历制作软件，基于GPT的简历优化和简历代写",
+  "url": "https://www.52cv.com",
+  "categories": [
+    "ai-office"
+  ],
+  "tags": [
+    "AI办公工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

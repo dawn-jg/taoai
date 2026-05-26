@@ -1,0 +1,16 @@
+{
+  "slug": "tool1372",
+  "name": "Tool-1372",
+  "description": "你免费的随身翻译",
+  "url": "https://fanyi.qq.com",
+  "categories": [
+    "ai-office"
+  ],
+  "tags": [
+    "AI办公工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "free",
+  "createdAt": "2025-01-01"
+}

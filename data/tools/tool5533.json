@@ -1,0 +1,16 @@
+{
+  "slug": "tool5533",
+  "name": "Tool-5533",
+  "description": "基于孟子GPT大模型的AI对话机器人",
+  "url": "https://www.langboat.com/portal/mengzi-gpt?from=ai-bot.cn",
+  "categories": [
+    "ai-chat"
+  ],
+  "tags": [
+    "AI聊天助"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

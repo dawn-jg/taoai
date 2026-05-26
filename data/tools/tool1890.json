@@ -1,0 +1,16 @@
+{
+  "slug": "tool1890",
+  "name": "Tool-1890",
+  "description": "集成了AI问答的AI搜索引擎",
+  "url": "https://ai-bot.cn/sites/1890.html",
+  "categories": [
+    "ai-chat"
+  ],
+  "tags": [
+    "AI聊天助"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

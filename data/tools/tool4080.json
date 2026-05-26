@@ -1,0 +1,16 @@
+{
+  "slug": "tool4080",
+  "name": "Tool-4080",
+  "description": "钉钉推出的个人版办公应用程序，内置AI智能助手，可进行AI创作、AI对话、AI绘画",
+  "url": "https://workspace.dingtalk.com/welcome?utm_source=ai-bot.cn",
+  "categories": [
+    "ai-office"
+  ],
+  "tags": [
+    "AI办公工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}

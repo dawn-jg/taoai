@@ -1,0 +1,16 @@
+{
+  "slug": "tool116",
+  "name": "Tool-116",
+  "description": "21世纪的终端工具（内置AI命令搜索）",
+  "url": "https://www.warp.dev",
+  "categories": [
+    "ai-coding"
+  ],
+  "tags": [
+    "AI编程工"
+  ],
+  "featured": false,
+  "rating": 4.0,
+  "pricing": "freemium",
+  "createdAt": "2025-01-01"
+}
