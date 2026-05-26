@@ -5,7 +5,7 @@ import newsData from '@/data/news.json';
 import tutorialsData from '@/data/tutorials.json';
 
 export const tools = toolsData as AITool[];
-export const categories = categoriesData as Category[];
+export const categories = categoriesData as unknown as Category[];
 export const newsItems = newsData as NewsItem[];
 export const tutorialItems = tutorialsData as TutorialItem[];
 
