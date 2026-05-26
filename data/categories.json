@@ -118,13 +118,5 @@
     "icon": "⚡",
     "count": 22,
     "description": "提示词工程与Prompt管理"
-  },
-  {
-    "id": "apps",
-    "name": "AI应用集",
-    "slug": "ai-apps",
-    "icon": "📱",
-    "count": 0,
-    "description": "各行业AI应用集合"
   }
 ]
