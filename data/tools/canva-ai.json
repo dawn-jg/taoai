@@ -1,15 +1,14 @@
 {
   "slug": "canva-ai",
   "name": "Canva AI",
-  "description": "在线设计平台Canva集成AI设计功能，一键生成海报、Logo等",
+  "description": "在线设计+AI功能",
   "url": "https://www.canva.com",
   "categories": [
     "ai-design"
   ],
   "tags": [
     "设计",
-    "模板",
-    "在线"
+    "模板"
   ],
   "featured": false,
   "rating": 4.6,

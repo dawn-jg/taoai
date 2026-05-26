@@ -1,7 +1,7 @@
 {
   "slug": "doubao",
   "name": "豆包",
-  "description": "字节跳动推出的AI智能助手，集成写作、翻译、编程、办公等多场景能力",
+  "description": "字节跳动AI智能助手，写作文案翻译编程全能",
   "url": "https://www.doubao.com",
   "categories": [
     "ai-chat",
@@ -9,7 +9,6 @@
   ],
   "tags": [
     "免费",
-    "中文友好",
     "多场景"
   ],
   "featured": true,

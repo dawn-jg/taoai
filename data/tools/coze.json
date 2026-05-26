@@ -1,14 +1,14 @@
 {
   "slug": "coze",
   "name": "扣子/Coze",
-  "description": "字节跳动推出的AI Bot开发平台，支持自定义智能体搭建",
+  "description": "字节AI Bot开发平台",
   "url": "https://www.coze.com",
   "categories": [
-    "ai-chat"
+    "ai-agent",
+    "ai-platform"
   ],
   "tags": [
     "智能体",
-    "Bot",
     "搭建"
   ],
   "featured": false,

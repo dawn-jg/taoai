@@ -1,14 +1,13 @@
 {
   "slug": "aippt",
   "name": "AiPPT",
-  "description": "AI快速生成高质量PPT，支持多种模板和风格",
+  "description": "AI快速生成PPT",
   "url": "https://www.aippt.cn",
   "categories": [
     "ai-office"
   ],
   "tags": [
     "PPT",
-    "模板",
     "快速"
   ],
   "featured": false,

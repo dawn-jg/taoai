@@ -1,14 +1,13 @@
 {
   "slug": "ai-bot",
   "name": "AI工具集",
-  "description": "收录数千款AI工具的导航站，覆盖写作、绘画、视频、编程等全品类",
+  "description": "数千款AI工具导航站",
   "url": "https://ai-bot.cn",
   "categories": [
     "ai-prompt"
   ],
   "tags": [
     "导航",
-    "收录",
     "大全"
   ],
   "featured": false,

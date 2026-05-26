@@ -1,7 +1,7 @@
 {
   "slug": "tongyi-xiangma",
   "name": "通义万相",
-  "description": "阿里AI绘画与视频生成平台，支持文生图、图生视频",
+  "description": "阿里AI绘画与视频平台",
   "url": "https://tongyi.aliyun.com/wanxiang",
   "categories": [
     "ai-image",
@@ -9,8 +9,7 @@
   ],
   "tags": [
     "阿里",
-    "免费",
-    "多模态"
+    "免费"
   ],
   "featured": false,
   "rating": 4.3,

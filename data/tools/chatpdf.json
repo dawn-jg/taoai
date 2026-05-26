@@ -1,15 +1,14 @@
 {
   "slug": "chatpdf",
   "name": "ChatPDF",
-  "description": "AI文档对话工具，上传PDF即可与文档内容对话问答",
+  "description": "PDF文档对话",
   "url": "https://www.chatpdf.com",
   "categories": [
     "ai-office"
   ],
   "tags": [
     "PDF",
-    "文档",
-    "问答"
+    "文档"
   ],
   "featured": false,
   "rating": 4.4,

@@ -1,14 +1,13 @@
 {
   "slug": "metaso",
   "name": "秘塔AI搜索",
-  "description": "新一代AI搜索引擎，无广告直达结果，支持深度搜索模式",
+  "description": "无广告直达结果的AI搜索引擎",
   "url": "https://metaso.cn",
   "categories": [
     "ai-search"
   ],
   "tags": [
     "搜索",
-    "免费",
     "无广告"
   ],
   "featured": true,

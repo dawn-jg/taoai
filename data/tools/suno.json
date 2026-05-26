@@ -1,15 +1,14 @@
 {
   "slug": "suno",
   "name": "Suno",
-  "description": "AI音乐生成工具，输入文本提示即可生成完整歌曲",
+  "description": "AI音乐生成，文字提示即可创作歌曲",
   "url": "https://suno.com",
   "categories": [
     "ai-audio"
   ],
   "tags": [
     "音乐生成",
-    "AI作曲",
-    "创意"
+    "AI作曲"
   ],
   "featured": true,
   "rating": 4.6,

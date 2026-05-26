@@ -1,82 +1,130 @@
 [
   {
-    "id": "chat",
-    "name": "AI对话",
-    "slug": "ai-chat",
-    "icon": "💬",
-    "count": 8,
-    "description": "智能对话助手，问答、聊天、创作全能"
-  },
-  {
     "id": "writing",
-    "name": "AI写作",
+    "name": "AI写作工具",
     "slug": "ai-writing",
     "icon": "✍️",
     "count": 6,
-    "description": "智能写作工具，文章、文案、小说一键生成"
+    "description": "AI写作、文案创作、论文辅助"
   },
   {
     "id": "image",
-    "name": "AI绘画",
+    "name": "AI图像工具",
     "slug": "ai-image",
     "icon": "🎨",
     "count": 7,
-    "description": "AI绘画与图像生成，文生图、图生图"
+    "description": "AI绘画、图像生成与编辑"
   },
   {
     "id": "video",
-    "name": "AI视频",
+    "name": "AI视频工具",
     "slug": "ai-video",
     "icon": "🎬",
     "count": 5,
     "description": "AI视频生成与编辑工具"
   },
   {
-    "id": "coding",
-    "name": "AI编程",
-    "slug": "ai-coding",
-    "icon": "💻",
-    "count": 5,
-    "description": "AI辅助编程与代码生成"
-  },
-  {
     "id": "office",
-    "name": "AI办公",
+    "name": "AI办公工具",
     "slug": "ai-office",
     "icon": "📊",
     "count": 4,
-    "description": "AI办公效率工具"
+    "description": "AI办公效率、PPT、文档"
   },
   {
-    "id": "audio",
-    "name": "AI音频",
-    "slug": "ai-audio",
-    "icon": "🎵",
+    "id": "agent",
+    "name": "AI智能体",
+    "slug": "ai-agent",
+    "icon": "🤖",
     "count": 3,
-    "description": "AI音乐生成与音频处理"
+    "description": "AI Agent智能体搭建平台"
   },
   {
-    "id": "search",
-    "name": "AI搜索",
-    "slug": "ai-search",
-    "icon": "🔍",
-    "count": 4,
-    "description": "新一代AI搜索引擎"
+    "id": "chat",
+    "name": "AI聊天助手",
+    "slug": "ai-chat",
+    "icon": "💬",
+    "count": 8,
+    "description": "智能对话、问答助手"
+  },
+  {
+    "id": "coding",
+    "name": "AI编程工具",
+    "slug": "ai-coding",
+    "icon": "💻",
+    "count": 5,
+    "description": "AI编程、代码生成与辅助"
   },
   {
     "id": "design",
-    "name": "AI设计",
+    "name": "AI设计工具",
     "slug": "ai-design",
     "icon": "🖌️",
     "count": 4,
     "description": "AI辅助设计与创意工具"
   },
   {
+    "id": "audio",
+    "name": "AI音频工具",
+    "slug": "ai-audio",
+    "icon": "🎵",
+    "count": 3,
+    "description": "AI音乐、配音与音频处理"
+  },
+  {
+    "id": "search",
+    "name": "AI搜索引擎",
+    "slug": "ai-search",
+    "icon": "🔍",
+    "count": 4,
+    "description": "新一代AI搜索引擎"
+  },
+  {
+    "id": "platform",
+    "name": "AI开发平台",
+    "slug": "ai-platform",
+    "icon": "⚙️",
+    "count": 3,
+    "description": "AI开发框架、模型平台"
+  },
+  {
+    "id": "learning",
+    "name": "AI学习网站",
+    "slug": "ai-learning",
+    "icon": "📚",
+    "count": 2,
+    "description": "AI教程与学习资源"
+  },
+  {
+    "id": "models",
+    "name": "AI训练模型",
+    "slug": "ai-models",
+    "icon": "🧠",
+    "count": 3,
+    "description": "大模型、开源模型"
+  },
+  {
+    "id": "detection",
+    "name": "AI内容检测",
+    "slug": "ai-detection",
+    "icon": "🔎",
+    "count": 2,
+    "description": "AI内容检测、去AI、查重"
+  },
+  {
     "id": "prompt",
-    "name": "AI提示词",
+    "name": "AI提示指令",
     "slug": "ai-prompt",
     "icon": "⚡",
-    "count": 3,
+    "count": 2,
     "description": "提示词工程与Prompt管理"
+  },
+  {
+    "id": "apps",
+    "name": "AI应用集",
+    "slug": "ai-apps",
+    "icon": "📱",
+    "count": 3,
+    "description": "各行业AI应用集合"
   }
 ]

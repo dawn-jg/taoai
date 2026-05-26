@@ -1,15 +1,14 @@
 {
   "slug": "gamma-app",
   "name": "Gamma",
-  "description": "AI演示文稿工具，一句话生成精美PPT",
+  "description": "AI演示文稿，一句话生成PPT",
   "url": "https://gamma.app",
   "categories": [
     "ai-office"
   ],
   "tags": [
     "PPT",
-    "演示",
-    "模板"
+    "演示"
   ],
   "featured": false,
   "rating": 4.5,

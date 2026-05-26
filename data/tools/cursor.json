@@ -1,15 +1,14 @@
 {
   "slug": "cursor",
   "name": "Cursor",
-  "description": "AI-first代码编辑器，集成GPT-4和Claude，支持智能补全和对话式编程",
+  "description": "AI-first代码编辑器",
   "url": "https://www.cursor.com",
   "categories": [
     "ai-coding"
   ],
   "tags": [
     "代码编辑",
-    "AI补全",
-    "IDE"
+    "AI补全"
   ],
   "featured": true,
   "rating": 4.7,

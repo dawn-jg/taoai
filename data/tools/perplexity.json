@@ -1,15 +1,14 @@
 {
   "slug": "perplexity",
   "name": "Perplexity",
-  "description": "AI搜索引擎，实时联网搜索并给出带引用的综合回答",
+  "description": "AI搜索引擎，实时联网+引用",
   "url": "https://www.perplexity.ai",
   "categories": [
     "ai-search"
   ],
   "tags": [
     "搜索",
-    "引用",
-    "实时"
+    "引用"
   ],
   "featured": false,
   "rating": 4.6,
