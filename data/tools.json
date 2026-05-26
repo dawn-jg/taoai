@@ -64,7 +64,8 @@
     "featured": true,
     "rating": 4.6,
     "pricing": "freemium",
-    "createdAt": "2023-08-01"
+    "createdAt": "2023-08-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "qwen",
@@ -117,7 +118,8 @@
     "featured": true,
     "rating": 4.5,
     "pricing": "freemium",
-    "createdAt": "2024-05-01"
+    "createdAt": "2024-05-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "midjourney",
@@ -134,7 +136,8 @@
     "featured": true,
     "rating": 4.8,
     "pricing": "paid",
-    "createdAt": "2022-07-01"
+    "createdAt": "2022-07-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "cursor",
@@ -199,7 +202,8 @@
     "featured": true,
     "rating": 4.4,
     "pricing": "freemium",
-    "createdAt": "2025-03-01"
+    "createdAt": "2025-03-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "kling",
@@ -234,7 +238,8 @@
     "featured": false,
     "rating": 4.3,
     "pricing": "free",
-    "createdAt": "2024-03-01"
+    "createdAt": "2024-03-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "chatglm",
@@ -337,7 +342,8 @@
     "featured": false,
     "rating": 4.6,
     "pricing": "free",
-    "createdAt": "2022-08-01"
+    "createdAt": "2022-08-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "kimi",
@@ -470,7 +476,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "ai-bot",
@@ -574,7 +581,8 @@
     "featured": false,
     "rating": 4.5,
     "pricing": "freemium",
-    "createdAt": "2022-12-01"
+    "createdAt": "2022-12-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "wenxin-yige",
@@ -591,7 +599,8 @@
     "featured": false,
     "rating": 4.2,
     "pricing": "free",
-    "createdAt": "2023-08-01"
+    "createdAt": "2023-08-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "蛙蛙写作",
@@ -2128,7 +2137,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool3382",
@@ -2144,7 +2154,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool6474",
@@ -2160,7 +2171,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool17330",
@@ -2176,7 +2188,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool56",
@@ -2192,7 +2205,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool2400",
@@ -2208,7 +2222,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool123",
@@ -2224,7 +2239,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool6297",
@@ -2240,7 +2256,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool63437",
@@ -2257,7 +2274,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool56061",
@@ -2273,7 +2291,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool3400",
@@ -2289,7 +2308,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool13002",
@@ -2305,7 +2325,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool4749",
@@ -2321,7 +2342,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool2976",
@@ -2337,7 +2359,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool70059",
@@ -2353,7 +2376,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool60138",
@@ -2369,7 +2393,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool70008",
@@ -2385,7 +2410,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool1412",
@@ -2401,7 +2427,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool74842",
@@ -2417,7 +2444,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool71738",
@@ -2433,7 +2461,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "paid",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool70659",
@@ -2449,7 +2478,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool70073",
@@ -2465,7 +2495,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool68984",
@@ -2481,7 +2512,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool7050",
@@ -2497,7 +2529,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool56504",
@@ -2513,7 +2546,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool18077",
@@ -2529,7 +2563,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool693",
@@ -2545,7 +2580,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool61384",
@@ -2561,7 +2597,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool68318",
@@ -2577,7 +2614,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool33694",
@@ -2593,7 +2631,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool49519",
@@ -2609,7 +2648,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool57727",
@@ -2625,7 +2665,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool6245",
@@ -2641,7 +2682,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool41196",
@@ -2657,7 +2699,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool12165",
@@ -2673,7 +2716,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool70979",
@@ -2689,7 +2733,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool69883",
@@ -2705,7 +2750,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool24841",
@@ -2721,7 +2767,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool50029",
@@ -2737,7 +2784,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool25529",
@@ -2753,7 +2801,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool13023",
@@ -2769,7 +2818,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool17398",
@@ -2785,7 +2835,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool175",
@@ -2801,7 +2852,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool173",
@@ -2817,7 +2869,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool11541",
@@ -2833,7 +2886,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool26931",
@@ -2849,7 +2903,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool13722",
@@ -2865,7 +2920,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool2048",
@@ -2881,7 +2937,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool6749",
@@ -2897,7 +2954,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool61408",
@@ -2913,7 +2971,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-3d"
   },
   {
     "slug": "tool60471",
@@ -2929,7 +2988,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-3d"
   },
   {
     "slug": "tool38482",
@@ -2945,7 +3005,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool70251",
@@ -2961,7 +3022,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-3d"
   },
   {
     "slug": "tool66545",
@@ -2977,7 +3039,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-3d"
   },
   {
     "slug": "tool57279",
@@ -2993,7 +3056,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-3d"
   },
   {
     "slug": "tool74348",
@@ -3009,7 +3073,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-3d"
   },
   {
     "slug": "tool59706",
@@ -3025,7 +3090,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool38477",
@@ -3041,7 +3107,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-3d"
   },
   {
     "slug": "tool67092",
@@ -3057,7 +3124,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-3d"
   },
   {
     "slug": "tool69990",
@@ -3073,7 +3141,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-3d"
   },
   {
     "slug": "tool11164",
@@ -3089,7 +3158,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-3d"
   },
   {
     "slug": "tool6080",
@@ -3105,7 +3175,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-3d"
   },
   {
     "slug": "tool61375",
@@ -3121,7 +3192,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool68297",
@@ -3137,7 +3209,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool1991",
@@ -3153,7 +3226,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool4483",
@@ -3169,7 +3243,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool18104",
@@ -3185,7 +3260,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool32253",
@@ -3201,7 +3277,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool61292",
@@ -3217,7 +3294,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool7983",
@@ -3233,7 +3311,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool88",
@@ -3249,7 +3328,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool242",
@@ -3265,7 +3345,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool221",
@@ -3281,7 +3362,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool285",
@@ -3297,7 +3379,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool9946",
@@ -3313,7 +3396,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool313",
@@ -3329,7 +3413,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool87",
@@ -3345,7 +3430,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool274",
@@ -3361,7 +3447,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool311",
@@ -3377,7 +3464,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool306",
@@ -3393,7 +3481,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool42689",
@@ -3409,7 +3498,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool304",
@@ -3425,7 +3515,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool312",
@@ -3441,7 +3532,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool302",
@@ -3457,7 +3549,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool284",
@@ -3473,7 +3566,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool310",
@@ -3489,7 +3583,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool1780",
@@ -3505,7 +3600,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool303",
@@ -3521,7 +3617,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool174",
@@ -3537,7 +3634,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-product"
   },
   {
     "slug": "tool178",
@@ -3553,7 +3651,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool12769",
@@ -3569,7 +3668,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool5198",
@@ -3585,7 +3685,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool2382",
@@ -3601,7 +3702,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool58",
@@ -3617,7 +3719,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool10982",
@@ -3633,7 +3736,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-enhance"
   },
   {
     "slug": "tool912",
@@ -3649,7 +3753,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool726",
@@ -3665,7 +3770,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool4009",
@@ -3681,7 +3787,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool11123",
@@ -3697,7 +3804,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool12987",
@@ -3713,7 +3821,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool2505",
@@ -3729,7 +3838,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool2342",
@@ -3745,7 +3855,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool1818",
@@ -3761,7 +3872,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool6463",
@@ -3777,7 +3889,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool6840",
@@ -3793,7 +3906,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool4212",
@@ -3809,7 +3923,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool6492",
@@ -3825,7 +3940,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool2762",
@@ -3841,7 +3957,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool151",
@@ -3857,7 +3974,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool3529",
@@ -3873,7 +3991,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool2676",
@@ -3889,7 +4008,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool61388",
@@ -3905,7 +4025,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool56509",
@@ -3921,7 +4042,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-enhance"
   },
   {
     "slug": "tool33867",
@@ -3937,7 +4059,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool68439",
@@ -3953,7 +4076,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool1531",
@@ -3969,7 +4093,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool2576",
@@ -3985,7 +4110,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool210",
@@ -4001,7 +4127,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool14941",
@@ -4017,7 +4144,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool7402",
@@ -4033,7 +4161,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool2333",
@@ -4049,7 +4178,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool217",
@@ -4065,7 +4195,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool220",
@@ -4081,7 +4212,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool219",
@@ -4097,7 +4229,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool218",
@@ -4113,7 +4246,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool216",
@@ -4129,7 +4263,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool222",
@@ -4145,7 +4280,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool215",
@@ -4161,7 +4297,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool213",
@@ -4177,7 +4314,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool212",
@@ -4193,7 +4331,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool211",
@@ -4209,7 +4348,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool223",
@@ -4225,7 +4365,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool275",
@@ -4241,7 +4382,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-upscale"
   },
   {
     "slug": "tool214",
@@ -4257,7 +4399,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool61396",
@@ -4273,7 +4416,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool28404",
@@ -4289,7 +4433,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool33683",
@@ -4305,7 +4450,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool68305",
@@ -4321,7 +4467,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-object-remove"
   },
   {
     "slug": "tool49506",
@@ -4337,7 +4484,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool268",
@@ -4353,7 +4501,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-object-remove"
   },
   {
     "slug": "tool9056",
@@ -4369,7 +4518,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "free",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-object-remove"
   },
   {
     "slug": "tool691",
@@ -4385,7 +4535,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-object-remove"
   },
   {
     "slug": "tool688",
@@ -4401,7 +4552,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-object-remove"
   },
   {
     "slug": "tool687",
@@ -4417,7 +4569,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-object-remove"
   },
   {
     "slug": "tool307",
@@ -4433,7 +4586,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "paid",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-enhance"
   },
   {
     "slug": "tool21260",
@@ -4449,7 +4603,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-object-remove"
   },
   {
     "slug": "tool43780",
@@ -4465,7 +4620,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool21255",
@@ -4481,7 +4637,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool273",
@@ -4497,7 +4654,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-object-remove"
   },
   {
     "slug": "tool1683",
@@ -4513,7 +4671,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-background-remove"
   },
   {
     "slug": "tool49491",
@@ -4529,7 +4688,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool976",
@@ -4545,7 +4705,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool299",
@@ -4561,7 +4722,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool69515",
@@ -4577,7 +4739,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool2042",
@@ -4593,7 +4756,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-enhance"
   },
   {
     "slug": "tool6590",
@@ -4609,7 +4773,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-enhance"
   },
   {
     "slug": "tool1680",
@@ -4625,7 +4790,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-enhance"
   },
   {
     "slug": "tool6075",
@@ -4641,7 +4807,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool6575",
@@ -4657,7 +4824,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool69820",
@@ -4673,7 +4841,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-enhance"
   },
   {
     "slug": "tool154",
@@ -4689,7 +4858,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-enhance"
   },
   {
     "slug": "tool17485",
@@ -4705,7 +4875,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-enhance"
   },
   {
     "slug": "tool4246",
@@ -4721,7 +4892,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-enhance"
   },
   {
     "slug": "tool308",
@@ -4737,7 +4909,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-enhance"
   },
   {
     "slug": "tool104",
@@ -4753,7 +4926,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-enhance"
   },
   {
     "slug": "tool126",
@@ -4769,7 +4943,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool42692",
@@ -4785,7 +4960,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-enhance"
   },
   {
     "slug": "libtv",
@@ -11729,7 +11905,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool6519",
@@ -12927,7 +13104,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "星流ai",
@@ -12957,7 +13135,8 @@
     "featured": false,
     "rating": 4.0,
     "pricing": "freemium",
-    "createdAt": "2025-01-01"
+    "createdAt": "2025-01-01",
+    "subcategory": "ai-image-illustration"
   },
   {
     "slug": "tool2029",

@@ -10,6 +10,7 @@ export interface AITool {
   pricing: 'free' | 'freemium' | 'paid';
   screenshots?: string[];
   createdAt: string;
+  subcategory?: string;
 }
 
 export interface Category {
@@ -19,6 +20,7 @@ export interface Category {
   icon: string;
   count: number;
   description: string;
+  subcategories?: Record<string, string>;
 }
 
 export interface NewsItem {

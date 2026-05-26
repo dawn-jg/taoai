@@ -13,7 +13,16 @@
     "slug": "ai-image",
     "icon": "🎨",
     "count": 179,
-    "description": "AI绘画、图像生成与编辑"
+    "description": "AI绘画、图像生成与编辑",
+    "subcategories": {
+      "ai-image-illustration": "AI图片插画生成",
+      "ai-image-background-remove": "AI图片背景移除",
+      "ai-image-object-remove": "AI图片物体抹除",
+      "ai-image-upscale": "AI图片无损放大",
+      "ai-image-enhance": "AI图片优化修复",
+      "ai-image-product": "AI商品图生成",
+      "ai-image-3d": "AI 3D模型生成"
+    }
   },
   {
     "id": "video",

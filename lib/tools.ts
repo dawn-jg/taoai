@@ -21,6 +21,14 @@ export function getToolsByCategory(categorySlug: string): AITool[] {
   return tools.filter(t => t.categories.includes(categorySlug));
 }
 
+export function getToolsByCategoryAndSubcategory(categorySlug: string, subcategory?: string): AITool[] {
+  let result = tools.filter(t => t.categories.includes(categorySlug));
+  if (subcategory) {
+    result = result.filter(t => t.subcategory === subcategory);
+  }
+  return result;
+}
+
 export function getFeaturedTools(): AITool[] {
   return tools.filter(t => t.featured);
 }
