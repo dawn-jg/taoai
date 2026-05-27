@@ -11,7 +11,6 @@ export interface AITool {
   screenshots?: string[];
   createdAt: string;
   subcategory?: string;
-  logo?: string;
 }
 
 export interface Category {
