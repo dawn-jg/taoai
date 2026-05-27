@@ -12,6 +12,7 @@ export interface AITool {
   createdAt: string;
   subcategory?: string;
   logo?: string;
+  domain?: string;
 }
 
 export interface Category {

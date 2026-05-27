@@ -10,7 +10,7 @@ export default function ToolCard({ tool }: { tool: AITool }) {
       <div className="flex items-start justify-between mb-2">
         <div className="flex items-center gap-2 min-w-0">
           {tool.logo && (
-            <ToolLogo src={tool.logo} alt="" className="w-5 h-5 rounded shrink-0" />
+            <ToolLogo src={tool.logo} domain={tool.domain} alt="" className="w-6 h-6 rounded shrink-0" />
           )}
           <h3 className="text-sm font-semibold text-gray-900 truncate">{tool.name}</h3>
         </div>

@@ -44,7 +44,7 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
           <div>
             <div className="flex items-center gap-3">
               {tool.logo && (
-                <ToolLogo src={tool.logo} alt="" className="w-10 h-10 rounded-lg shrink-0" />
+                <ToolLogo src={tool.logo} domain={tool.domain} alt="" className="w-12 h-12 rounded-lg shrink-0" />
               )}
               <h1 className="text-xl font-bold text-gray-900 mb-2">{tool.name}</h1>
             </div>
