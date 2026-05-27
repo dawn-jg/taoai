@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { AITool } from '@/types';
+import ToolLogo from './ToolLogo';
 
 export default function ToolCard({ tool }: { tool: AITool }) {
   const pricingLabel: Record<string, string> = { free: '免费', freemium: '免费增值', paid: '付费' };
@@ -7,7 +8,12 @@ export default function ToolCard({ tool }: { tool: AITool }) {
   return (
     <Link href={`/tools/${tool.slug}`} className="block bg-white rounded-lg border border-gray-200 p-4 hover:shadow-md hover:border-blue-200 transition-all">
       <div className="flex items-start justify-between mb-2">
-        <h3 className="text-sm font-semibold text-gray-900">{tool.name}</h3>
+        <div className="flex items-center gap-2 min-w-0">
+          {tool.logo && (
+            <ToolLogo src={tool.logo} alt="" className="w-5 h-5 rounded shrink-0" />
+          )}
+          <h3 className="text-sm font-semibold text-gray-900 truncate">{tool.name}</h3>
+        </div>
         <span className={`shrink-0 ml-2 text-[10px] font-medium px-1.5 py-0.5 rounded-full ${pricingColor[tool.pricing]}`}>{pricingLabel[tool.pricing]}</span>
       </div>
       <p className="text-xs text-gray-500 line-clamp-2 mb-2 leading-relaxed">{tool.description}</p>
