@@ -38,7 +38,7 @@
     "pricing": "freemium",
     "createdAt": "2022-11-30",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=64",
+    "logo": "/logos/chatgpt.png",
     "domain": "chatgpt.com"
   },
   {
@@ -93,7 +93,7 @@
     "pricing": "free",
     "createdAt": "2023-04-07",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=tongyi.aliyun.com&sz=64",
+    "logo": "/logos/qwen.png",
     "domain": "tongyi.aliyun.com"
   },
   {
@@ -134,7 +134,7 @@
     "pricing": "freemium",
     "createdAt": "2024-05-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=jimeng.jianying.com&sz=64",
+    "logo": "/logos/jimeng.png",
     "domain": "jimeng.jianying.com"
   },
   {
@@ -154,7 +154,7 @@
     "pricing": "paid",
     "createdAt": "2022-07-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=www.midjourney.com&sz=64",
+    "logo": "/logos/midjourney.png",
     "domain": "midjourney.com"
   },
   {
@@ -194,7 +194,7 @@
     "pricing": "freemium",
     "createdAt": "2023-08-01",
     "subcategory": "ai-audio-music",
-    "logo": "https://www.google.com/s2/favicons?domain=suno.com&sz=64",
+    "logo": "/logos/suno.png",
     "domain": "suno.com"
   },
   {
@@ -269,7 +269,7 @@
     "pricing": "free",
     "createdAt": "2024-03-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=tongyi.aliyun.com&sz=64",
+    "logo": "/logos/tongyi-xiangma.png",
     "domain": "tongyi.aliyun.com"
   },
   {
@@ -309,7 +309,7 @@
     "pricing": "freemium",
     "createdAt": "2023-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=www.perplexity.ai&sz=64",
+    "logo": "/logos/perplexity.png",
     "domain": "perplexity.ai"
   },
   {
@@ -329,7 +329,7 @@
     "pricing": "freemium",
     "createdAt": "2023-05-01",
     "subcategory": "ai-office-ppt",
-    "logo": "https://www.google.com/s2/favicons?domain=gamma.app&sz=64",
+    "logo": "/logos/gamma-app.jpg",
     "domain": "gamma.app"
   },
   {
@@ -349,7 +349,7 @@
     "pricing": "freemium",
     "createdAt": "2024-01-01",
     "subcategory": "ai-office-excel",
-    "logo": "https://www.google.com/s2/favicons?domain=ai.wps.cn&sz=64",
+    "logo": "/logos/wps-ai.png",
     "domain": "ai.wps.cn"
   },
   {
@@ -369,7 +369,7 @@
     "pricing": "freemium",
     "createdAt": "2023-07-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=pika.art&sz=64",
+    "logo": "/logos/pika.png",
     "domain": "pika.art"
   },
   {
@@ -430,7 +430,7 @@
     "pricing": "free",
     "createdAt": "2024-04-01",
     "subcategory": "ai-audio-music",
-    "logo": "https://www.google.com/s2/favicons?domain=tianyin.163.com&sz=64",
+    "logo": "/logos/cloudmusic-xiaowei.png",
     "domain": "tianyin.163.com"
   },
   {
@@ -450,7 +450,7 @@
     "pricing": "freemium",
     "createdAt": "2023-06-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.canva.com&sz=64",
+    "logo": "/logos/canva-ai.png",
     "domain": "canva.com"
   },
   {
@@ -490,7 +490,7 @@
     "pricing": "paid",
     "createdAt": "2024-02-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=sora.com&sz=64",
+    "logo": "/logos/sora.png",
     "domain": "sora.com"
   },
   {
@@ -511,7 +511,7 @@
     "pricing": "freemium",
     "createdAt": "2023-03-01",
     "subcategory": "ai-writing-article",
-    "logo": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "logo": "/logos/claude.png",
     "domain": "claude.ai"
   },
   {
@@ -564,7 +564,7 @@
     "pricing": "free",
     "createdAt": "2023-01-01",
     "subcategory": "ai-prompt-library",
-    "logo": "https://www.google.com/s2/favicons?domain=ai-bot.cn&sz=64",
+    "logo": "/logos/ai-bot.png",
     "domain": "ai-bot.cn"
   },
   {
@@ -585,7 +585,7 @@
     "pricing": "free",
     "createdAt": "2023-12-01",
     "subcategory": "ai-video-edit",
-    "logo": "https://www.google.com/s2/favicons?domain=jimeng.jianying.com&sz=64",
+    "logo": "/logos/jianying.png",
     "domain": "jimeng.jianying.com"
   },
   {
@@ -605,7 +605,7 @@
     "pricing": "freemium",
     "createdAt": "2023-06-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.chatpdf.com&sz=64",
+    "logo": "/logos/chatpdf.png",
     "domain": "chatpdf.com"
   },
   {
@@ -646,7 +646,7 @@
     "pricing": "free",
     "createdAt": "2023-10-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=tongyi.aliyun.com&sz=64",
+    "logo": "/logos/tongyi-lingma.png",
     "domain": "tongyi.aliyun.com"
   },
   {
@@ -666,7 +666,7 @@
     "pricing": "freemium",
     "createdAt": "2022-12-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=leonardo.ai&sz=64",
+    "logo": "/logos/leonardo.png",
     "domain": "leonardo.ai"
   },
   {
@@ -686,7 +686,7 @@
     "pricing": "free",
     "createdAt": "2023-08-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=yige.baidu.com&sz=64",
+    "logo": "/logos/wenxin-yige.png",
     "domain": "yige.baidu.com"
   },
   {
@@ -705,7 +705,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=wawawriter.com&sz=64",
+    "logo": "/logos/wawa-writing.png",
     "domain": "wawawriter.com"
   },
   {
@@ -781,7 +781,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-paper",
-    "logo": "https://www.google.com/s2/favicons?domain=app.qinyanai.com&sz=64",
+    "logo": "/logos/tool56573.png",
     "domain": "app.qinyanai.com"
   },
   {
@@ -819,7 +819,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-paper",
-    "logo": "https://www.google.com/s2/favicons?domain=gaoyiai.com&sz=64",
+    "logo": "/logos/tool36409.jpg",
     "domain": "gaoyiai.com"
   },
   {
@@ -838,7 +838,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-paper",
-    "logo": "https://www.google.com/s2/favicons?domain=www.qianbixiezuo.com&sz=64",
+    "logo": "/logos/tool7358.png",
     "domain": "qianbixiezuo.com"
   },
   {
@@ -914,7 +914,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=flowmuse.ai&sz=64",
+    "logo": "/logos/tool69212.png",
     "domain": "flowmuse.ai"
   },
   {
@@ -971,7 +971,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=youmind.com&sz=64",
+    "logo": "/logos/tool61208.png",
     "domain": "youmind.com"
   },
   {
@@ -1028,7 +1028,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-article",
-    "logo": "https://www.google.com/s2/favicons?domain=miaobi.xinhuaskl.com&sz=64",
+    "logo": "/logos/tool6498.png",
     "domain": "miaobi.xinhuaskl.com"
   },
   {
@@ -1104,7 +1104,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-article",
-    "logo": "https://www.google.com/s2/favicons?domain=www.xiaoyuxiezuo.com&sz=64",
+    "logo": "/logos/tool18646.png",
     "domain": "xiaoyuxiezuo.com"
   },
   {
@@ -1237,7 +1237,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-paper",
-    "logo": "https://www.google.com/s2/favicons?domain=rubriq.cn&sz=64",
+    "logo": "/logos/tool65034.jpg",
     "domain": "rubriq.cn"
   },
   {
@@ -1275,7 +1275,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=www.creatifyone.com&sz=64",
+    "logo": "/logos/tool16669.png",
     "domain": "creatifyone.com"
   },
   {
@@ -1313,7 +1313,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=muset.ai&sz=64",
+    "logo": "/logos/tool62139.png",
     "domain": "muset.ai"
   },
   {
@@ -1446,7 +1446,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=flowus.cn&sz=64",
+    "logo": "/logos/tool7313.png",
     "domain": "flowus.cn"
   },
   {
@@ -1541,7 +1541,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=if.caiyunai.com&sz=64",
+    "logo": "/logos/tool913.jpg",
     "domain": "if.caiyunai.com"
   },
   {
@@ -1579,7 +1579,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=inkfox-ai.com&sz=64",
+    "logo": "/logos/tool15321.png",
     "domain": "inkfox-ai.com"
   },
   {
@@ -1617,7 +1617,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=www.lingxisuxie.com&sz=64",
+    "logo": "/logos/tool59700.jpg",
     "domain": "lingxisuxie.com"
   },
   {
@@ -1693,7 +1693,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-translate",
-    "logo": "https://www.google.com/s2/favicons?domain=www.grammarly.com&sz=64",
+    "logo": "/logos/tool199.png",
     "domain": "grammarly.com"
   },
   {
@@ -1997,7 +1997,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=zuojia.baidu.com&sz=64",
+    "logo": "/logos/tool4430.png",
     "domain": "zuojia.baidu.com"
   },
   {
@@ -2054,7 +2054,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=muset.ai&sz=64",
+    "logo": "/logos/tool1325.png",
     "domain": "muset.ai"
   },
   {
@@ -2149,7 +2149,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=novelai.net&sz=64",
+    "logo": "/logos/tool1062.png",
     "domain": "novelai.net"
   },
   {
@@ -2187,7 +2187,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=write.bigan.net&sz=64",
+    "logo": "/logos/tool575.png",
     "domain": "write.bigan.net"
   },
   {
@@ -2225,7 +2225,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=ai.koalaoffice.com&sz=64",
+    "logo": "/logos/tool580.png",
     "domain": "ai.koalaoffice.com"
   },
   {
@@ -2301,7 +2301,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-article",
-    "logo": "https://www.google.com/s2/favicons?domain=ai.koalaoffice.com&sz=64",
+    "logo": "/logos/tool24575.png",
     "domain": "ai.koalaoffice.com"
   },
   {
@@ -2358,7 +2358,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=www.yizhuan5.com&sz=64",
+    "logo": "/logos/tool36.jpg",
     "domain": "yizhuan5.com"
   },
   {
@@ -2377,7 +2377,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=www.giiso.com&sz=64",
+    "logo": "/logos/tool35.png",
     "domain": "giiso.com"
   },
   {
@@ -2491,7 +2491,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-article",
-    "logo": "https://www.google.com/s2/favicons?domain=wawawriter.com&sz=64",
+    "logo": "/logos/tool782.png",
     "domain": "wawawriter.com"
   },
   {
@@ -2511,7 +2511,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-product",
-    "logo": "https://ai-bot.cn/wp-content/uploads/2024/03/ihuiwa-icon.png",
+    "logo": "/logos/huiwa.png",
     "domain": "ihuiwa.paluai.com"
   },
   {
@@ -2530,7 +2530,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=d.design&sz=64",
+    "logo": "/logos/tool3382.png",
     "domain": "d.design"
   },
   {
@@ -2568,7 +2568,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=abeiai.com&sz=64",
+    "logo": "/logos/tool17330.png",
     "domain": "abeiai.com"
   },
   {
@@ -2587,7 +2587,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=www.midjourney.com&sz=64",
+    "logo": "/logos/tool56.png",
     "domain": "midjourney.com"
   },
   {
@@ -2644,7 +2644,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=civitai.com&sz=64",
+    "logo": "/logos/tool6297.png",
     "domain": "civitai.com"
   },
   {
@@ -2702,7 +2702,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=tongyi.aliyun.com&sz=64",
+    "logo": "/logos/tool3400.png",
     "domain": "tongyi.aliyun.com"
   },
   {
@@ -2721,7 +2721,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=app.klingai.com&sz=64",
+    "logo": "/logos/tool13002.png",
     "domain": "app.klingai.com"
   },
   {
@@ -2740,7 +2740,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=miaohua.sensetime.com&sz=64",
+    "logo": "/logos/tool4749.png",
     "domain": "miaohua.sensetime.com"
   },
   {
@@ -2854,7 +2854,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=miguo.ai&sz=64",
+    "logo": "/logos/tool74842.png",
     "domain": "miguo.ai?utm_source=ai-bot.cn"
   },
   {
@@ -2949,7 +2949,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=www.krea.ai&sz=64",
+    "logo": "/logos/tool7050.png",
     "domain": "krea.ai"
   },
   {
@@ -2968,7 +2968,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=kira.art&sz=64",
+    "logo": "/logos/tool56504.png",
     "domain": "kira.art"
   },
   {
@@ -2987,7 +2987,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-product",
-    "logo": "https://www.google.com/s2/favicons?domain=www.photoroom.com&sz=64",
+    "logo": "/logos/tool18077.png",
     "domain": "photoroom.com"
   },
   {
@@ -3025,7 +3025,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-product",
-    "logo": "https://www.google.com/s2/favicons?domain=d.design&sz=64",
+    "logo": "/logos/tool61384.png",
     "domain": "d.design"
   },
   {
@@ -3234,7 +3234,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=admuse.qq.com&sz=64",
+    "logo": "/logos/tool50029.png",
     "domain": "admuse.qq.com"
   },
   {
@@ -3291,7 +3291,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-product",
-    "logo": "https://www.google.com/s2/favicons?domain=chuangziyou.com&sz=64",
+    "logo": "/logos/tool17398.png",
     "domain": "chuangziyou.com"
   },
   {
@@ -3329,7 +3329,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-product",
-    "logo": "https://www.google.com/s2/favicons?domain=mokker.ai&sz=64",
+    "logo": "/logos/tool173.png",
     "domain": "mokker.ai"
   },
   {
@@ -3367,7 +3367,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-product",
-    "logo": "https://www.google.com/s2/favicons?domain=tushengsheng.com&sz=64",
+    "logo": "/logos/tool26931.png",
     "domain": "tushengsheng.com"
   },
   {
@@ -3424,7 +3424,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-product",
-    "logo": "https://www.google.com/s2/favicons?domain=www.redoon.cn&sz=64",
+    "logo": "/logos/tool6749.png",
     "domain": "redoon.cn"
   },
   {
@@ -3462,7 +3462,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-3d",
-    "logo": "https://www.google.com/s2/favicons?domain=www.tripo3d.ai&sz=64",
+    "logo": "/logos/tool60471.png",
     "domain": "tripo3d.ai"
   },
   {
@@ -3481,7 +3481,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-3d",
-    "logo": "https://www.google.com/s2/favicons?domain=3d.hunyuan.tencent.com&sz=64",
+    "logo": "/logos/tool38482.png",
     "domain": "3d.hunyuan.tencent.com"
   },
   {
@@ -3557,7 +3557,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-3d",
-    "logo": "https://www.google.com/s2/favicons?domain=omma.build&sz=64",
+    "logo": "/logos/tool74348.png",
     "domain": "omma.build"
   },
   {
@@ -3614,7 +3614,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-3d",
-    "logo": "https://www.google.com/s2/favicons?domain=www.style3d.ai&sz=64",
+    "logo": "/logos/tool67092.png",
     "domain": "style3d.ai"
   },
   {
@@ -3633,7 +3633,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-3d",
-    "logo": "https://www.google.com/s2/favicons?domain=www.luxreal.ai&sz=64",
+    "logo": "/logos/tool69990.png",
     "domain": "luxreal.ai"
   },
   {
@@ -3747,7 +3747,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-background-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=d.design&sz=64",
+    "logo": "/logos/tool4483.png",
     "domain": "d.design"
   },
   {
@@ -3842,7 +3842,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-background-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=icons8.com&sz=64",
+    "logo": "/logos/tool88.png",
     "domain": "icons8.com"
   },
   {
@@ -3880,7 +3880,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-background-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=clipdrop.co&sz=64",
+    "logo": "/logos/tool221.png",
     "domain": "clipdrop.co"
   },
   {
@@ -3899,7 +3899,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-background-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=www.erase.bg&sz=64",
+    "logo": "/logos/tool285.png",
     "domain": "erase.bg"
   },
   {
@@ -3918,7 +3918,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-background-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=hisheai.com&sz=64",
+    "logo": "/logos/tool9946.png",
     "domain": "hisheai.com"
   },
   {
@@ -3975,7 +3975,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=magicstudio.com&sz=64",
+    "logo": "/logos/tool274.png",
     "domain": "magicstudio.com"
   },
   {
@@ -3994,7 +3994,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-background-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=www.slazzer.com&sz=64",
+    "logo": "/logos/tool311.png",
     "domain": "slazzer.com"
   },
   {
@@ -4013,7 +4013,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-background-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=www.cutout.pro&sz=64",
+    "logo": "/logos/tool306.png",
     "domain": "cutout.pro"
   },
   {
@@ -4070,7 +4070,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-background-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=tools.picsart.com&sz=64",
+    "logo": "/logos/tool312.png",
     "domain": "tools.picsart.com"
   },
   {
@@ -4146,7 +4146,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-background-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=www.tukeli.net&sz=64",
+    "logo": "/logos/tool1780.png",
     "domain": "tukeli.net"
   },
   {
@@ -4165,7 +4165,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-background-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=hotpot.ai&sz=64",
+    "logo": "/logos/tool303.png",
     "domain": "hotpot.ai"
   },
   {
@@ -4184,7 +4184,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-product",
-    "logo": "https://www.google.com/s2/favicons?domain=www.stylized.ai&sz=64",
+    "logo": "/logos/tool174.png",
     "domain": "stylized.ai"
   },
   {
@@ -4203,7 +4203,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=www.booth.ai&sz=64",
+    "logo": "/logos/tool178.png",
     "domain": "booth.ai"
   },
   {
@@ -4298,7 +4298,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=photo.baidu.com&sz=64",
+    "logo": "/logos/tool10982.png",
     "domain": "photo.baidu.com"
   },
   {
@@ -4336,7 +4336,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=ai-bot.cn&sz=64",
+    "logo": "/logos/tool726.png",
     "domain": "ai-bot.cn"
   },
   {
@@ -4355,7 +4355,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=ai.sohu.com&sz=64",
+    "logo": "/logos/tool4009.png",
     "domain": "ai.sohu.com"
   },
   {
@@ -4488,7 +4488,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=aigc.360.com&sz=64",
+    "logo": "/logos/tool6840.png",
     "domain": "aigc.360.com"
   },
   {
@@ -4583,7 +4583,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=clipdrop.co&sz=64",
+    "logo": "/logos/tool3529.png",
     "domain": "clipdrop.co"
   },
   {
@@ -4621,7 +4621,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-upscale",
-    "logo": "https://www.google.com/s2/favicons?domain=d.design&sz=64",
+    "logo": "/logos/tool61388.png",
     "domain": "d.design"
   },
   {
@@ -4697,7 +4697,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-upscale",
-    "logo": "https://www.google.com/s2/favicons?domain=www.upscayl.org&sz=64",
+    "logo": "/logos/tool1531.png",
     "domain": "upscayl.org"
   },
   {
@@ -4716,7 +4716,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-background-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=icons8.com&sz=64",
+    "logo": "/logos/tool2576.png",
     "domain": "icons8.com"
   },
   {
@@ -4773,7 +4773,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-upscale",
-    "logo": "https://www.google.com/s2/favicons?domain=magnific.ai&sz=64",
+    "logo": "/logos/tool7402.png",
     "domain": "magnific.ai"
   },
   {
@@ -4792,7 +4792,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-upscale",
-    "logo": "https://www.google.com/s2/favicons?domain=letsenhance.io&sz=64",
+    "logo": "/logos/tool2333.png",
     "domain": "letsenhance.io"
   },
   {
@@ -4811,7 +4811,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-upscale",
-    "logo": "https://www.google.com/s2/favicons?domain=icons8.com&sz=64",
+    "logo": "/logos/tool217.png",
     "domain": "icons8.com"
   },
   {
@@ -4830,7 +4830,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-upscale",
-    "logo": "https://www.google.com/s2/favicons?domain=clipdrop.co&sz=64",
+    "logo": "/logos/tool220.png",
     "domain": "clipdrop.co"
   },
   {
@@ -4868,7 +4868,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-upscale",
-    "logo": "https://www.google.com/s2/favicons?domain=www.fotor.com&sz=64",
+    "logo": "/logos/tool218.png",
     "domain": "fotor.com"
   },
   {
@@ -4906,7 +4906,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-upscale",
-    "logo": "https://www.google.com/s2/favicons?domain=www.media.io&sz=64",
+    "logo": "/logos/tool222.png",
     "domain": "media.io"
   },
   {
@@ -4925,7 +4925,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-upscale",
-    "logo": "https://www.google.com/s2/favicons?domain=www.upscale.media&sz=64",
+    "logo": "/logos/tool215.png",
     "domain": "upscale.media"
   },
   {
@@ -5001,7 +5001,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-upscale",
-    "logo": "https://www.google.com/s2/favicons?domain=upscalepics.com&sz=64",
+    "logo": "/logos/tool223.png",
     "domain": "upscalepics.com"
   },
   {
@@ -5020,7 +5020,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-upscale",
-    "logo": "https://www.google.com/s2/favicons?domain=magicstudio.com&sz=64",
+    "logo": "/logos/tool275.png",
     "domain": "magicstudio.com"
   },
   {
@@ -5039,7 +5039,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=pixelhunter.io&sz=64",
+    "logo": "/logos/tool214.jpg",
     "domain": "pixelhunter.io"
   },
   {
@@ -5058,7 +5058,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=d.design&sz=64",
+    "logo": "/logos/tool61396.png",
     "domain": "d.design"
   },
   {
@@ -5153,7 +5153,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-object-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=www.hama.app&sz=64",
+    "logo": "/logos/tool268.png",
     "domain": "hama.app"
   },
   {
@@ -5210,7 +5210,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-object-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=snapedit.app&sz=64",
+    "logo": "/logos/tool688.png",
     "domain": "snapedit.app"
   },
   {
@@ -5229,7 +5229,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-object-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=cleanup.pictures&sz=64",
+    "logo": "/logos/tool687.png",
     "domain": "cleanup.pictures"
   },
   {
@@ -5248,7 +5248,7 @@
     "pricing": "paid",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=www.cutout.pro&sz=64",
+    "logo": "/logos/tool307.png",
     "domain": "cutout.pro"
   },
   {
@@ -5267,7 +5267,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-object-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=beecut.cn&sz=64",
+    "logo": "/logos/tool21260.png",
     "domain": "beecut.cn"
   },
   {
@@ -5324,7 +5324,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=magicstudio.com&sz=64",
+    "logo": "/logos/tool273.png",
     "domain": "magicstudio.com"
   },
   {
@@ -5343,7 +5343,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=www.watermarkremover.io&sz=64",
+    "logo": "/logos/tool1683.png",
     "domain": "watermarkremover.io"
   },
   {
@@ -5381,7 +5381,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=facet.ai&sz=64",
+    "logo": "/logos/tool976.png",
     "domain": "facet.ai"
   },
   {
@@ -5400,7 +5400,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=clipdrop.co&sz=64",
+    "logo": "/logos/tool299.png",
     "domain": "clipdrop.co"
   },
   {
@@ -5514,7 +5514,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=www.aixtsy.com&sz=64",
+    "logo": "/logos/tool6575.png",
     "domain": "aixtsy.com"
   },
   {
@@ -5552,7 +5552,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-enhance",
-    "logo": "https://www.google.com/s2/favicons?domain=www.restorephotos.io&sz=64",
+    "logo": "/logos/tool154.png",
     "domain": "restorephotos.io"
   },
   {
@@ -5609,7 +5609,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-enhance",
-    "logo": "https://www.google.com/s2/favicons?domain=www.cutout.pro&sz=64",
+    "logo": "/logos/tool308.png",
     "domain": "cutout.pro"
   },
   {
@@ -5647,7 +5647,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=playgroundai.com&sz=64",
+    "logo": "/logos/tool126.png",
     "domain": "playgroundai.com"
   },
   {
@@ -5723,7 +5723,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=d.design&sz=64",
+    "logo": "/logos/tool61400.png",
     "domain": "d.design"
   },
   {
@@ -5742,7 +5742,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=soundviewai.com&sz=64",
+    "logo": "/logos/tool35756.jpg",
     "domain": "soundviewai.com"
   },
   {
@@ -5780,7 +5780,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-digital-human",
-    "logo": "https://www.google.com/s2/favicons?domain=heygen.com&sz=64",
+    "logo": "/logos/tool60917.png",
     "domain": "heygen.com"
   },
   {
@@ -5837,7 +5837,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=aibrm.paluai.com&sz=64",
+    "logo": "/logos/fantasy-art.png",
     "domain": "aibrm.paluai.com"
   },
   {
@@ -5875,7 +5875,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=fas.st&sz=64",
+    "logo": "/logos/tool70438.png",
     "domain": "fas.st"
   },
   {
@@ -5913,7 +5913,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-digital-human",
-    "logo": "https://www.google.com/s2/favicons?domain=www.joypix.ai&sz=64",
+    "logo": "/logos/tool45413.png",
     "domain": "joypix.ai"
   },
   {
@@ -5932,7 +5932,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=kling.kuaishou.com&sz=64",
+    "logo": "/logos/tool13186.png",
     "domain": "kling.kuaishou.com"
   },
   {
@@ -5970,7 +5970,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=video.hunyuan.tencent.com&sz=64",
+    "logo": "/logos/tool46196.png",
     "domain": "video.hunyuan.tencent.com"
   },
   {
@@ -5989,7 +5989,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://ai-bot.cn/wp-content/uploads/2026/05/Makefun-icon.png",
+    "logo": "/logos/tool78142.png",
     "domain": "makefun.ai"
   },
   {
@@ -6027,7 +6027,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=www.vidu.cn&sz=64",
+    "logo": "/logos/tool14695.png",
     "domain": "vidu.cn"
   },
   {
@@ -6065,7 +6065,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=www.tapnow.ai&sz=64",
+    "logo": "/logos/tool66332.png",
     "domain": "tapnow.ai"
   },
   {
@@ -6103,7 +6103,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=www.flova.ai&sz=64",
+    "logo": "/logos/tool76121.png",
     "domain": "flova.ai"
   },
   {
@@ -6160,7 +6160,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=vibepaper-ai.com&sz=64",
+    "logo": "/logos/tool76823.png",
     "domain": "vibepaper-ai.com"
   },
   {
@@ -6198,7 +6198,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=zorqai.com&sz=64",
+    "logo": "/logos/tool76054.png",
     "domain": "zorqai.com"
   },
   {
@@ -6236,7 +6236,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=www.topview.ai&sz=64",
+    "logo": "/logos/tool76205.png",
     "domain": "topview.ai"
   },
   {
@@ -6293,7 +6293,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=linghuiai.net&sz=64",
+    "logo": "/logos/tool75762.png",
     "domain": "linghuiai.net"
   },
   {
@@ -6312,7 +6312,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=www.pixmax.cn&sz=64",
+    "logo": "/logos/tool75615.jpg",
     "domain": "pixmax.cn"
   },
   {
@@ -6369,7 +6369,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=www.huasheng.cn&sz=64",
+    "logo": "/logos/tool67673.png",
     "domain": "huasheng.cn"
   },
   {
@@ -6426,7 +6426,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=anishort.ai&sz=64",
+    "logo": "/logos/tool73422.png",
     "domain": "anishort.ai"
   },
   {
@@ -6502,7 +6502,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-edit",
-    "logo": "https://www.google.com/s2/favicons?domain=nextcut-ai.com&sz=64",
+    "logo": "/logos/tool69946.png",
     "domain": "nextcut-ai.com"
   },
   {
@@ -6559,7 +6559,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=komiko.app&sz=64",
+    "logo": "/logos/tool68087.png",
     "domain": "komiko.app"
   },
   {
@@ -6578,7 +6578,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-digital-human",
-    "logo": "https://www.google.com/s2/favicons?domain=www.keevx.com&sz=64",
+    "logo": "/logos/tool60378.png",
     "domain": "keevx.com"
   },
   {
@@ -6597,7 +6597,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=aic.oceanengine.com&sz=64",
+    "logo": "/logos/tool5560.jpg",
     "domain": "aic.oceanengine.com"
   },
   {
@@ -6654,7 +6654,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=kc.kuaishou.com&sz=64",
+    "logo": "/logos/tool62311.png",
     "domain": "kc.kuaishou.com"
   },
   {
@@ -6673,7 +6673,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=a2e.ai&sz=64",
+    "logo": "/logos/tool69913.png",
     "domain": "a2e.ai"
   },
   {
@@ -6711,7 +6711,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=runwayml.com&sz=64",
+    "logo": "/logos/tool240.png",
     "domain": "runwayml.com"
   },
   {
@@ -6730,7 +6730,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-edit",
-    "logo": "https://www.google.com/s2/favicons?domain=pika.art&sz=64",
+    "logo": "/logos/tool6263.png",
     "domain": "pika.art"
   },
   {
@@ -6749,7 +6749,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-digital-human",
-    "logo": "https://www.google.com/s2/favicons?domain=www.kreadoai.com&sz=64",
+    "logo": "/logos/tool12385.png",
     "domain": "kreadoai.com"
   },
   {
@@ -6768,7 +6768,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=sekotalk.com&sz=64",
+    "logo": "/logos/tool63158.png",
     "domain": "sekotalk.com"
   },
   {
@@ -6806,7 +6806,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=jurilu.paluai.com&sz=64",
+    "logo": "/logos/tool16162.png",
     "domain": "jurilu.paluai.com"
   },
   {
@@ -6825,7 +6825,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=www.boba.video&sz=64",
+    "logo": "/logos/tool59515.png",
     "domain": "boba.video"
   },
   {
@@ -6844,7 +6844,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=lumalabs.ai&sz=64",
+    "logo": "/logos/tool13455.png",
     "domain": "lumalabs.ai"
   },
   {
@@ -6882,7 +6882,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=www.hedra.com&sz=64",
+    "logo": "/logos/tool13679.png",
     "domain": "hedra.com"
   },
   {
@@ -6939,7 +6939,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-digital-human",
-    "logo": "https://www.google.com/s2/favicons?domain=ai-bot.cn&sz=64",
+    "logo": "/logos/tool16651.png",
     "domain": "ai-bot.cn"
   },
   {
@@ -6958,7 +6958,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=admuse.qq.com&sz=64",
+    "logo": "/logos/tool50033.png",
     "domain": "admuse.qq.com"
   },
   {
@@ -6996,7 +6996,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=skyreels.ai&sz=64",
+    "logo": "/logos/tool16753.png",
     "domain": "skyreels.ai"
   },
   {
@@ -7015,7 +7015,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=www.moki.cn&sz=64",
+    "logo": "/logos/tool13399.png",
     "domain": "moki.cn"
   },
   {
@@ -7034,7 +7034,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=flowgpt.com&sz=64",
+    "logo": "/logos/tool20030.png",
     "domain": "flowgpt.com"
   },
   {
@@ -7072,7 +7072,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=xunguang.com&sz=64",
+    "logo": "/logos/tool14162.png",
     "domain": "xunguang.com"
   },
   {
@@ -7148,7 +7148,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-digital-human",
-    "logo": "https://www.google.com/s2/favicons?domain=www.d-id.com&sz=64",
+    "logo": "/logos/tool987.png",
     "domain": "d-id.com"
   },
   {
@@ -7167,7 +7167,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=www.stablevideo.com&sz=64",
+    "logo": "/logos/tool8662.png",
     "domain": "stablevideo.com"
   },
   {
@@ -7186,7 +7186,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=onestory.art&sz=64",
+    "logo": "/logos/tool15182.png",
     "domain": "onestory.art"
   },
   {
@@ -7243,7 +7243,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=www.sensetime.com&sz=64",
+    "logo": "/logos/tool14067.png",
     "domain": "sensetime.com"
   },
   {
@@ -7281,7 +7281,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=www.artink.art&sz=64",
+    "logo": "/logos/tool24161.png",
     "domain": "artink.art"
   },
   {
@@ -7300,7 +7300,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=lensgo.ai&sz=64",
+    "logo": "/logos/tool23891.png",
     "domain": "lensgo.ai"
   },
   {
@@ -7414,7 +7414,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-ppt",
-    "logo": "https://www.google.com/s2/favicons?domain=pptgo.cn&sz=64",
+    "logo": "/logos/tool13808.png",
     "domain": "pptgo.cn"
   },
   {
@@ -7433,7 +7433,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-ppt",
-    "logo": "https://www.google.com/s2/favicons?domain=www.islide.cc&sz=64",
+    "logo": "/logos/tool8840.png",
     "domain": "islide.cc"
   },
   {
@@ -7642,7 +7642,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.tenorshare.ai&sz=64",
+    "logo": "/logos/tool68868.png",
     "domain": "tenorshare.ai"
   },
   {
@@ -7661,7 +7661,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.picdoc.cn&sz=64",
+    "logo": "/logos/tool53412.png",
     "domain": "picdoc.cn"
   },
   {
@@ -7737,7 +7737,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.feixianglaoshi.com&sz=64",
+    "logo": "/logos/tool67628.png",
     "domain": "feixianglaoshi.com"
   },
   {
@@ -7794,7 +7794,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.narraland.com&sz=64",
+    "logo": "/logos/tool72530.png",
     "domain": "narraland.com?utm_source=ai-bot.cn"
   },
   {
@@ -7851,7 +7851,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-ppt",
-    "logo": "https://www.google.com/s2/favicons?domain=www.mindshow.vip&sz=64",
+    "logo": "/logos/tool67508.png",
     "domain": "mindshow.vip"
   },
   {
@@ -7870,7 +7870,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.voxdeck.ai&sz=64",
+    "logo": "/logos/tool59512.png",
     "domain": "voxdeck.ai"
   },
   {
@@ -7927,7 +7927,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=tongyi.aliyun.com&sz=64",
+    "logo": "/logos/tool11436.png",
     "domain": "tongyi.aliyun.com"
   },
   {
@@ -7946,7 +7946,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=ailegal.baidu.com&sz=64",
+    "logo": "/logos/tool11432.png",
     "domain": "ailegal.baidu.com"
   },
   {
@@ -8041,7 +8041,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.fazhi.law&sz=64",
+    "logo": "/logos/tool17480.png",
     "domain": "fazhi.law"
   },
   {
@@ -8098,7 +8098,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://ai-bot.cn/wp-content/uploads/2023/12/sensetime-raccoon-code-icon.png",
+    "logo": "/logos/office-raccoon.png",
     "domain": "xiaohuanxiong.com"
   },
   {
@@ -8117,7 +8117,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-excel",
-    "logo": "https://www.google.com/s2/favicons?domain=www.chatexcel.com&sz=64",
+    "logo": "/logos/tool69072.png",
     "domain": "chatexcel.com"
   },
   {
@@ -8174,7 +8174,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=beacon.qq.com&sz=64",
+    "logo": "/logos/tool63302.png",
     "domain": "beacon.qq.com"
   },
   {
@@ -8193,7 +8193,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-excel",
-    "logo": "https://www.google.com/s2/favicons?domain=www.tryshortcut.ai&sz=64",
+    "logo": "/logos/tool59541.png",
     "domain": "tryshortcut.ai"
   },
   {
@@ -8288,7 +8288,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-excel",
-    "logo": "https://www.google.com/s2/favicons?domain=ajelix.com&sz=64",
+    "logo": "/logos/tool371.png",
     "domain": "ajelix.com"
   },
   {
@@ -8307,7 +8307,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-excel",
-    "logo": "https://www.google.com/s2/favicons?domain=sheetplus.ai&sz=64",
+    "logo": "/logos/tool373.png",
     "domain": "sheetplus.ai"
   },
   {
@@ -8383,7 +8383,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-excel",
-    "logo": "https://www.google.com/s2/favicons?domain=www.formx.ai&sz=64",
+    "logo": "/logos/tool374.png",
     "domain": "formx.ai"
   },
   {
@@ -8402,7 +8402,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-excel",
-    "logo": "https://www.google.com/s2/favicons?domain=rows.com&sz=64",
+    "logo": "/logos/tool1145.png",
     "domain": "rows.com"
   },
   {
@@ -8459,7 +8459,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-excel",
-    "logo": "https://www.google.com/s2/favicons?domain=excelformularizer.com&sz=64",
+    "logo": "/logos/tool1149.png",
     "domain": "excelformularizer.com"
   },
   {
@@ -8478,7 +8478,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.txyz.ai&sz=64",
+    "logo": "/logos/tool11135.png",
     "domain": "txyz.ai"
   },
   {
@@ -8592,7 +8592,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.igenflow.com&sz=64",
+    "logo": "/logos/tool59743.png",
     "domain": "igenflow.com"
   },
   {
@@ -8611,7 +8611,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=noedgeai.com&sz=64",
+    "logo": "/logos/tool29778.png",
     "domain": "noedgeai.com"
   },
   {
@@ -8649,7 +8649,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=ai.wps.cn&sz=64",
+    "logo": "/logos/tool1737.png",
     "domain": "ai.wps.cn"
   },
   {
@@ -8668,7 +8668,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=docs.qq.com&sz=64",
+    "logo": "/logos/tool8079.png",
     "domain": "docs.qq.com"
   },
   {
@@ -8725,7 +8725,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-meeting",
-    "logo": "https://www.google.com/s2/favicons?domain=coda.io&sz=64",
+    "logo": "/logos/tool2957.png",
     "domain": "coda.io"
   },
   {
@@ -8744,7 +8744,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=read.youdao.com&sz=64",
+    "logo": "/logos/tool7120.png",
     "domain": "read.youdao.com"
   },
   {
@@ -8801,7 +8801,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=tongyi.aliyun.com&sz=64",
+    "logo": "/logos/tool5273.png",
     "domain": "tongyi.aliyun.com"
   },
   {
@@ -8839,7 +8839,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=chatdoc.xfyun.cn&sz=64",
+    "logo": "/logos/tool5564.png",
     "domain": "chatdoc.xfyun.cn"
   },
   {
@@ -8877,7 +8877,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=pdf.ai&sz=64",
+    "logo": "/logos/tool6251.png",
     "domain": "pdf.ai"
   },
   {
@@ -8915,7 +8915,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=knowme.xiaoduoai.com&sz=64",
+    "logo": "/logos/tool6765.jpg",
     "domain": "knowme.xiaoduoai.com"
   },
   {
@@ -8934,7 +8934,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=paper.iflytek.com&sz=64",
+    "logo": "/logos/tool6468.png",
     "domain": "paper.iflytek.com"
   },
   {
@@ -8953,7 +8953,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-ppt",
-    "logo": "https://www.google.com/s2/favicons?domain=www.wanzhi01.com&sz=64",
+    "logo": "/logos/tool9794.png",
     "domain": "wanzhi01.com"
   },
   {
@@ -9029,7 +9029,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=boardmix.cn&sz=64",
+    "logo": "/logos/tool1534.png",
     "domain": "boardmix.cn"
   },
   {
@@ -9143,7 +9143,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=imiaoban.com&sz=64",
+    "logo": "/logos/tool24687.png",
     "domain": "imiaoban.com"
   },
   {
@@ -9295,7 +9295,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=whimsical.com&sz=64",
+    "logo": "/logos/tool464.png",
     "domain": "whimsical.com"
   },
   {
@@ -9371,7 +9371,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.ayoa.com&sz=64",
+    "logo": "/logos/tool1156.png",
     "domain": "ayoa.com"
   },
   {
@@ -9390,7 +9390,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=upcv.tech&sz=64",
+    "logo": "/logos/tool56807.png",
     "domain": "upcv.tech"
   },
   {
@@ -9409,7 +9409,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.wondercv.com&sz=64",
+    "logo": "/logos/tool56512.png",
     "domain": "wondercv.com"
   },
   {
@@ -9466,7 +9466,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=niumianoffer.com&sz=64",
+    "logo": "/logos/tool62342.png",
     "domain": "niumianoffer.com"
   },
   {
@@ -9504,7 +9504,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.xmatrix.tech&sz=64",
+    "logo": "/logos/tool73202.png",
     "domain": "xmatrix.tech"
   },
   {
@@ -9523,7 +9523,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=aijianli.cn&sz=64",
+    "logo": "/logos/tool73092.png",
     "domain": "aijianli.cn?utm_source=ai-bot.cn"
   },
   {
@@ -9789,7 +9789,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=pan.baidu.com&sz=64",
+    "logo": "/logos/tool28201.png",
     "domain": "pan.baidu.com"
   },
   {
@@ -9941,7 +9941,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-meeting",
-    "logo": "https://www.google.com/s2/favicons?domain=work.duiopen.com&sz=64",
+    "logo": "/logos/tool1185.png",
     "domain": "work.duiopen.com"
   },
   {
@@ -9979,7 +9979,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-meeting",
-    "logo": "https://www.google.com/s2/favicons?domain=noty.ai&sz=64",
+    "logo": "/logos/tool1147.png",
     "domain": "noty.ai"
   },
   {
@@ -10017,7 +10017,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-excel",
-    "logo": "https://www.google.com/s2/favicons?domain=base.feishu.cn&sz=64",
+    "logo": "/logos/tool46015.png",
     "domain": "base.feishu.cn"
   },
   {
@@ -10055,7 +10055,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=tinywow.com&sz=64",
+    "logo": "/logos/tool605.png",
     "domain": "tinywow.com"
   },
   {
@@ -10093,7 +10093,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-meeting",
-    "logo": "https://www.google.com/s2/favicons?domain=www.wolai.com&sz=64",
+    "logo": "/logos/tool59463.png",
     "domain": "wolai.com"
   },
   {
@@ -10131,7 +10131,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=chattoc.aichris.cc&sz=64",
+    "logo": "/logos/tool71384.png",
     "domain": "chattoc.aichris.cc"
   },
   {
@@ -10150,7 +10150,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.loom.com&sz=64",
+    "logo": "/logos/tool69878.png",
     "domain": "loom.com"
   },
   {
@@ -10226,7 +10226,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.easyclaw.app&sz=64",
+    "logo": "/logos/tool71587.png",
     "domain": "easyclaw.app"
   },
   {
@@ -10245,7 +10245,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=mtywatch.com&sz=64",
+    "logo": "/logos/tool68533.png",
     "domain": "mtywatch.com?c=lksadjknxzc812ad"
   },
   {
@@ -10283,7 +10283,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.findme.net.cn&sz=64",
+    "logo": "/logos/tool63755.png",
     "domain": "findme.net.cn?utm_source=ai-bot.cn"
   },
   {
@@ -10302,7 +10302,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=monica.cn&sz=64",
+    "logo": "/logos/tool1632.png",
     "domain": "monica.cn"
   },
   {
@@ -10321,7 +10321,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=lingxi.wps.cn&sz=64",
+    "logo": "/logos/tool17620.png",
     "domain": "lingxi.wps.cn"
   },
   {
@@ -10340,7 +10340,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=glif.app&sz=64",
+    "logo": "/logos/tool13979.png",
     "domain": "glif.app"
   },
   {
@@ -10378,7 +10378,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=pan.baidu.com&sz=64",
+    "logo": "/logos/tool3921.png",
     "domain": "pan.baidu.com"
   },
   {
@@ -10454,7 +10454,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=tongyi.aliyun.com&sz=64",
+    "logo": "/logos/tool19653.png",
     "domain": "tongyi.aliyun.com"
   },
   {
@@ -10473,7 +10473,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.tongdaai.com&sz=64",
+    "logo": "/logos/tool11524.png",
     "domain": "tongdaai.com"
   },
   {
@@ -10492,7 +10492,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.yingdao.com&sz=64",
+    "logo": "/logos/tool11300.png",
     "domain": "yingdao.com"
   },
   {
@@ -10511,7 +10511,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.tongdaai.com&sz=64",
+    "logo": "/logos/tool13064.png",
     "domain": "tongdaai.com"
   },
   {
@@ -10587,7 +10587,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=immersivetranslate.com&sz=64",
+    "logo": "/logos/tool16725.png",
     "domain": "immersivetranslate.com"
   },
   {
@@ -10625,7 +10625,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=translate.google.com&sz=64",
+    "logo": "/logos/tool1381.png",
     "domain": "translate.google.com"
   },
   {
@@ -10644,7 +10644,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=d.design&sz=64",
+    "logo": "/logos/tool61392.png",
     "domain": "d.design"
   },
   {
@@ -10682,7 +10682,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=belindoc.com&sz=64",
+    "logo": "/logos/tool59392.png",
     "domain": "belindoc.com"
   },
   {
@@ -10853,7 +10853,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=translate.alibaba.com&sz=64",
+    "logo": "/logos/tool1851.png",
     "domain": "translate.alibaba.com"
   },
   {
@@ -10910,7 +10910,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.xiangjifanyi.com&sz=64",
+    "logo": "/logos/tool2921.png",
     "domain": "xiangjifanyi.com"
   },
   {
@@ -10948,7 +10948,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=fanyi.xfyun.cn&sz=64",
+    "logo": "/logos/tool1389.png",
     "domain": "fanyi.xfyun.cn"
   },
   {
@@ -11081,7 +11081,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=www.dumate.cn&sz=64",
+    "logo": "/logos/dumate.png",
     "domain": "dumate.cn"
   },
   {
@@ -11100,7 +11100,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=www.volcengine.com&sz=64",
+    "logo": "/logos/tool74340.png",
     "domain": "volcengine.com"
   },
   {
@@ -11157,7 +11157,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=www.aipyaipy.com&sz=64",
+    "logo": "/logos/tool63774.png",
     "domain": "aipyaipy.com"
   },
   {
@@ -11214,7 +11214,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=d.design&sz=64",
+    "logo": "/logos/tool77488.png",
     "domain": "d.design"
   },
   {
@@ -11254,7 +11254,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=qoder.com&sz=64",
+    "logo": "/logos/tool72782.png",
     "domain": "qoder.com"
   },
   {
@@ -11292,7 +11292,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=clawd.bot&sz=64",
+    "logo": "/logos/tool70880.png",
     "domain": "clawd.bot"
   },
   {
@@ -11330,7 +11330,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=www.coze.cn&sz=64",
+    "logo": "/logos/tool65797.png",
     "domain": "coze.cn"
   },
   {
@@ -11349,7 +11349,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=www.codebuddy.cn&sz=64",
+    "logo": "/logos/tool73160.jpg",
     "domain": "codebuddy.cn"
   },
   {
@@ -11406,7 +11406,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=agent.minimaxi.com&sz=64",
+    "logo": "/logos/tool77290.png",
     "domain": "agent.minimaxi.com"
   },
   {
@@ -11463,7 +11463,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=moxt.ai&sz=64",
+    "logo": "/logos/tool76261.png",
     "domain": "moxt.ai"
   },
   {
@@ -11501,7 +11501,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=www.genspark.ai&sz=64",
+    "logo": "/logos/tool66341.png",
     "domain": "genspark.ai"
   },
   {
@@ -11539,7 +11539,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=www.lovart.ai&sz=64",
+    "logo": "/logos/tool67498.png",
     "domain": "lovart.ai"
   },
   {
@@ -11558,7 +11558,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=hub.minimax.io&sz=64",
+    "logo": "/logos/tool76942.png",
     "domain": "hub.minimax.io"
   },
   {
@@ -11577,7 +11577,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=claw.guanjia.qq.com&sz=64",
+    "logo": "/logos/tool73177.png",
     "domain": "claw.guanjia.qq.com"
   },
   {
@@ -11596,7 +11596,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=loomy.xunfei.cn&sz=64",
+    "logo": "/logos/tool73695.png",
     "domain": "loomy.xunfei.cn"
   },
   {
@@ -11653,7 +11653,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=agent-polis.com&sz=64",
+    "logo": "/logos/tool75645.png",
     "domain": "agent-polis.com?from=aibot"
   },
   {
@@ -11672,7 +11672,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=agent.minimaxi.com&sz=64",
+    "logo": "/logos/tool75430.png",
     "domain": "agent.minimaxi.com"
   },
   {
@@ -11691,7 +11691,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=loopit.com.cn&sz=64",
+    "logo": "/logos/tool75881.png",
     "domain": "loopit.com.cn"
   },
   {
@@ -11710,7 +11710,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=turix.ai&sz=64",
+    "logo": "/logos/tool75258.png",
     "domain": "turix.ai"
   },
   {
@@ -11748,7 +11748,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-automation",
-    "logo": "https://www.google.com/s2/favicons?domain=www.accio.com&sz=64",
+    "logo": "/logos/tool74245.png",
     "domain": "accio.com"
   },
   {
@@ -11786,7 +11786,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=nexu.io&sz=64",
+    "logo": "/logos/tool74636.png",
     "domain": "nexu.io"
   },
   {
@@ -11843,7 +11843,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=agent.minimaxi.com&sz=64",
+    "logo": "/logos/tool72731.png",
     "domain": "agent.minimaxi.com"
   },
   {
@@ -11919,7 +11919,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=xyq.jianying.com&sz=64",
+    "logo": "/logos/tool72152.png",
     "domain": "xyq.jianying.com"
   },
   {
@@ -11938,7 +11938,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=operator.gc.com.cn&sz=64",
+    "logo": "/logos/tool73722.png",
     "domain": "operator.gc.com.cn"
   },
   {
@@ -11957,7 +11957,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=winclaw.winicssec.com&sz=64",
+    "logo": "/logos/tool73379.png",
     "domain": "winclaw.winicssec.com"
   },
   {
@@ -11976,7 +11976,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=skillhub.tencent.com&sz=64",
+    "logo": "/logos/tool73259.png",
     "domain": "skillhub.tencent.com"
   },
   {
@@ -12033,7 +12033,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=mixboard.google.com&sz=64",
+    "logo": "/logos/tool68239.png",
     "domain": "mixboard.google.com"
   },
   {
@@ -12052,7 +12052,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=memu.bot&sz=64",
+    "logo": "/logos/tool71465.png",
     "domain": "memu.bot"
   },
   {
@@ -12109,7 +12109,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=agnes-ai.com&sz=64",
+    "logo": "/logos/tool59375.png",
     "domain": "agnes-ai.com"
   },
   {
@@ -12147,7 +12147,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=www.anygen.io&sz=64",
+    "logo": "/logos/tool69424.png",
     "domain": "anygen.io"
   },
   {
@@ -12223,7 +12223,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=www.alphashop.cn&sz=64",
+    "logo": "/logos/tool67279.png",
     "domain": "alphashop.cn"
   },
   {
@@ -12261,7 +12261,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=agent.bitaihub.com&sz=64",
+    "logo": "/logos/tool67818.png",
     "domain": "agent.bitaihub.com"
   },
   {
@@ -12280,7 +12280,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=flowmuse.ai&sz=64",
+    "logo": "/logos/tool67911.png",
     "domain": "flowmuse.ai"
   },
   {
@@ -12318,7 +12318,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=www.operaneon.com&sz=64",
+    "logo": "/logos/tool64120.png",
     "domain": "operaneon.com"
   },
   {
@@ -12337,7 +12337,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=seko.sensetime.com&sz=64",
+    "logo": "/logos/tool58360.png",
     "domain": "seko.sensetime.com"
   },
   {
@@ -12470,7 +12470,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=zeabur.com&sz=64",
+    "logo": "/logos/tool58176.png",
     "domain": "zeabur.com"
   },
   {
@@ -12489,7 +12489,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=myshell.ai&sz=64",
+    "logo": "/logos/tool58058.png",
     "domain": "myshell.ai"
   },
   {
@@ -12527,7 +12527,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=x.hundun.cn&sz=64",
+    "logo": "/logos/tool62815.png",
     "domain": "x.hundun.cn"
   },
   {
@@ -12546,7 +12546,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=www.browseros.com&sz=64",
+    "logo": "/logos/tool58161.png",
     "domain": "browseros.com"
   },
   {
@@ -12622,7 +12622,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=doudou.paluai.com&sz=64",
+    "logo": "/logos/tool14769.png",
     "domain": "doudou.paluai.com"
   },
   {
@@ -12641,7 +12641,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "logo": "/logos/tool460.png",
     "domain": "claude.ai"
   },
   {
@@ -12736,7 +12736,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=grok.com&sz=64",
+    "logo": "/logos/tool5368.png",
     "domain": "grok.com"
   },
   {
@@ -12793,7 +12793,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=longcat.chat&sz=64",
+    "logo": "/logos/tool61432.png",
     "domain": "longcat.chat"
   },
   {
@@ -12812,7 +12812,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=yiyan.baidu.com&sz=64",
+    "logo": "/logos/tool669.png",
     "domain": "yiyan.baidu.com"
   },
   {
@@ -12888,7 +12888,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=www.wenxiaobai.com&sz=64",
+    "logo": "/logos/tool14215.png",
     "domain": "wenxiaobai.com"
   },
   {
@@ -13021,7 +13021,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=www.me.bot&sz=64",
+    "logo": "/logos/tool16356.png",
     "domain": "me.bot"
   },
   {
@@ -13040,7 +13040,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-roleplay",
-    "logo": "https://www.google.com/s2/favicons?domain=www.sayloai.com&sz=64",
+    "logo": "/logos/tool21956.png",
     "domain": "sayloai.com"
   },
   {
@@ -13059,7 +13059,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=poe.com&sz=64",
+    "logo": "/logos/tool459.png",
     "domain": "poe.com"
   },
   {
@@ -13078,7 +13078,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=copilot.microsoft.com&sz=64",
+    "logo": "/logos/tool6019.png",
     "domain": "copilot.microsoft.com"
   },
   {
@@ -13097,7 +13097,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-roleplay",
-    "logo": "https://www.google.com/s2/favicons?domain=ai-bot.cn&sz=64",
+    "logo": "/logos/tool137.png",
     "domain": "ai-bot.cn"
   },
   {
@@ -13173,7 +13173,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-roleplay",
-    "logo": "https://www.google.com/s2/favicons?domain=tongyi.aliyun.com&sz=64",
+    "logo": "/logos/tool14310.png",
     "domain": "tongyi.aliyun.com"
   },
   {
@@ -13192,7 +13192,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=cueme.cn&sz=64",
+    "logo": "/logos/tool20683.png",
     "domain": "cueme.cn"
   },
   {
@@ -13268,7 +13268,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=wukong.com&sz=64",
+    "logo": "/logos/tool4841.png",
     "domain": "wukong.com"
   },
   {
@@ -13287,7 +13287,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=taichu-web.ia.ac.cn&sz=64",
+    "logo": "/logos/tool5509.png",
     "domain": "taichu-web.ia.ac.cn"
   },
   {
@@ -13344,7 +13344,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=www.ciciai.com&sz=64",
+    "logo": "/logos/tool14574.png",
     "domain": "ciciai.com"
   },
   {
@@ -13363,7 +13363,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=chat.baichuan-ai.com&sz=64",
+    "logo": "/logos/tool4453.png",
     "domain": "chat.baichuan-ai.com"
   },
   {
@@ -13382,7 +13382,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=chat.mistral.ai&sz=64",
+    "logo": "/logos/tool8874.png",
     "domain": "chat.mistral.ai"
   },
   {
@@ -13420,7 +13420,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=cloud.baidu.com&sz=64",
+    "logo": "/logos/tool6290.png",
     "domain": "cloud.baidu.com"
   },
   {
@@ -13534,7 +13534,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=www.modelscope.cn&sz=64",
+    "logo": "/logos/tool3403.png",
     "domain": "modelscope.cn"
   },
   {
@@ -13572,7 +13572,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "logo": "/logos/tool1978.png",
     "domain": "claude.ai"
   },
   {
@@ -13610,7 +13610,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=research.stability.ai&sz=64",
+    "logo": "/logos/tool3973.png",
     "domain": "research.stability.ai"
   },
   {
@@ -13629,7 +13629,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=wukong.com&sz=64",
+    "logo": "/logos/tool1220.png",
     "domain": "wukong.com"
   },
   {
@@ -13648,7 +13648,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=poe.com&sz=64",
+    "logo": "/logos/tool141.png",
     "domain": "poe.com"
   },
   {
@@ -13667,7 +13667,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=www.modelscope.cn&sz=64",
+    "logo": "/logos/tool140.png",
     "domain": "modelscope.cn"
   },
   {
@@ -13686,7 +13686,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=www.flowith.io&sz=64",
+    "logo": "/logos/tool139.png",
     "domain": "flowith.io"
   },
   {
@@ -13705,7 +13705,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=ai-bot.cn&sz=64",
+    "logo": "/logos/tool138.png",
     "domain": "ai-bot.cn"
   },
   {
@@ -13724,7 +13724,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=doudou.paluai.com&sz=64",
+    "logo": "/logos/tool163.png",
     "domain": "doudou.paluai.com"
   },
   {
@@ -13743,7 +13743,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=grok.com&sz=64",
+    "logo": "/logos/tool1656.png",
     "domain": "grok.com"
   },
   {
@@ -13781,7 +13781,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-roleplay",
-    "logo": "https://www.google.com/s2/favicons?domain=longcat.chat&sz=64",
+    "logo": "/logos/tool1710.png",
     "domain": "longcat.chat"
   },
   {
@@ -13890,7 +13890,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-article",
-    "logo": "https://ai-bot.cn/wp-content/uploads/2025/02/miaoda-logo.png",
+    "logo": "/logos/miaoda.png",
     "domain": "ai-bot.cn"
   },
   {
@@ -13909,7 +13909,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=www.xiaohuanxiong.com&sz=64",
+    "logo": "/logos/tool6519.png",
     "domain": "xiaohuanxiong.com"
   },
   {
@@ -13928,7 +13928,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "logo": "/logos/tool53.png",
     "domain": "openai.com"
   },
   {
@@ -13966,7 +13966,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=qoder.com&sz=64",
+    "logo": "/logos/tool60584.png",
     "domain": "qoder.com"
   },
   {
@@ -14023,7 +14023,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-ide",
-    "logo": "https://www.google.com/s2/favicons?domain=antigravity.google&sz=64",
+    "logo": "/logos/tool66843.png",
     "domain": "antigravity.google"
   },
   {
@@ -14061,7 +14061,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-ide",
-    "logo": "https://www.google.com/s2/favicons?domain=www.cursor.com&sz=64",
+    "logo": "/logos/tool906.png",
     "domain": "cursor.com"
   },
   {
@@ -14080,7 +14080,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=www.youware.com&sz=64",
+    "logo": "/logos/tool70432.png",
     "domain": "youware.com"
   },
   {
@@ -14099,7 +14099,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-ide",
-    "logo": "https://www.google.com/s2/favicons?domain=zcode-ai.com&sz=64",
+    "logo": "/logos/tool69134.png",
     "domain": "zcode-ai.com"
   },
   {
@@ -14156,7 +14156,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-ide",
-    "logo": "https://www.google.com/s2/favicons?domain=catpaw.meituan.com&sz=64",
+    "logo": "/logos/tool65836.jpg",
     "domain": "catpaw.meituan.com"
   },
   {
@@ -14194,7 +14194,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=monkeycode-ai.com&sz=64",
+    "logo": "/logos/tool70526.png",
     "domain": "monkeycode-ai.com"
   },
   {
@@ -14213,7 +14213,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=cli.iflow.cn&sz=64",
+    "logo": "/logos/tool64688.png",
     "domain": "cli.iflow.cn"
   },
   {
@@ -14232,7 +14232,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=lingma.aliyun.com&sz=64",
+    "logo": "/logos/tool5269.png",
     "domain": "lingma.aliyun.com"
   },
   {
@@ -14289,7 +14289,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-ide",
-    "logo": "https://www.google.com/s2/favicons?domain=www.codeflicker.ai&sz=64",
+    "logo": "/logos/tool64617.png",
     "domain": "codeflicker.ai"
   },
   {
@@ -14308,7 +14308,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=www.warp.dev&sz=64",
+    "logo": "/logos/tool61842.png",
     "domain": "warp.dev"
   },
   {
@@ -14384,7 +14384,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=codegeex.cn&sz=64",
+    "logo": "/logos/tool1131.png",
     "domain": "codegeex.cn"
   },
   {
@@ -14441,7 +14441,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-ide",
-    "logo": "https://www.google.com/s2/favicons?domain=joycode.jd.com&sz=64",
+    "logo": "/logos/tool57642.png",
     "domain": "joycode.jd.com"
   },
   {
@@ -14479,7 +14479,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=iflycode.xfyun.cn&sz=64",
+    "logo": "/logos/tool4055.png",
     "domain": "iflycode.xfyun.cn"
   },
   {
@@ -14536,7 +14536,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=www.huaweicloud.com&sz=64",
+    "logo": "/logos/tool55229.png",
     "domain": "huaweicloud.com"
   },
   {
@@ -14593,7 +14593,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=tabby.tabbyml.com&sz=64",
+    "logo": "/logos/tool9382.jpg",
     "domain": "tabby.tabbyml.com"
   },
   {
@@ -14631,7 +14631,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=coderider.gitlab.cn&sz=64",
+    "logo": "/logos/tool12890.png",
     "domain": "coderider.gitlab.cn"
   },
   {
@@ -14650,7 +14650,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=about.gitlab.com&sz=64",
+    "logo": "/logos/tool11414.png",
     "domain": "about.gitlab.com"
   },
   {
@@ -14707,7 +14707,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=plandex.ai&sz=64",
+    "logo": "/logos/tool10880.png",
     "domain": "plandex.ai"
   },
   {
@@ -14745,7 +14745,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=www.useblackbox.io&sz=64",
+    "logo": "/logos/tool1908.png",
     "domain": "useblackbox.io"
   },
   {
@@ -14764,7 +14764,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=soloist.ai&sz=64",
+    "logo": "/logos/tool6690.png",
     "domain": "soloist.ai"
   },
   {
@@ -14821,7 +14821,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=v0.app&sz=64",
+    "logo": "/logos/tool4794.png",
     "domain": "v0.app"
   },
   {
@@ -14935,7 +14935,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=www.airops.com&sz=64",
+    "logo": "/logos/tool772.png",
     "domain": "airops.com"
   },
   {
@@ -14992,7 +14992,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-ide",
-    "logo": "https://www.google.com/s2/favicons?domain=replit.com&sz=64",
+    "logo": "/logos/tool853.png",
     "domain": "replit.com"
   },
   {
@@ -15049,7 +15049,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=fronty.com&sz=64",
+    "logo": "/logos/tool928.png",
     "domain": "fronty.com"
   },
   {
@@ -15068,7 +15068,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=www.marsx.dev&sz=64",
+    "logo": "/logos/tool161.png",
     "domain": "marsx.dev"
   },
   {
@@ -15125,7 +15125,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=www.warp.dev&sz=64",
+    "logo": "/logos/tool116.png",
     "domain": "warp.dev"
   },
   {
@@ -15163,7 +15163,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=codesnippets.ai&sz=64",
+    "logo": "/logos/tool113.png",
     "domain": "codesnippets.ai"
   },
   {
@@ -15182,7 +15182,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=hocoos.com&sz=64",
+    "logo": "/logos/tool2127.png",
     "domain": "hocoos.com"
   },
   {
@@ -15201,7 +15201,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=httpie.io&sz=64",
+    "logo": "/logos/tool480.png",
     "domain": "httpie.io"
   },
   {
@@ -15220,7 +15220,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=ai-code-reviewer.com&sz=64",
+    "logo": "/logos/tool479.png",
     "domain": "ai-code-reviewer.com"
   },
   {
@@ -15239,7 +15239,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=visualstudio.microsoft.com&sz=64",
+    "logo": "/logos/tool112.png",
     "domain": "visualstudio.microsoft.com"
   },
   {
@@ -15277,7 +15277,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=www.codeium.com&sz=64",
+    "logo": "/logos/tool111.png",
     "domain": "codeium.com"
   },
   {
@@ -15400,7 +15400,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.figma.com&sz=64",
+    "logo": "/logos/tool13896.png",
     "domain": "figma.com"
   },
   {
@@ -15495,7 +15495,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=paico.cn&sz=64",
+    "logo": "/logos/tool4435.png",
     "domain": "paico.cn"
   },
   {
@@ -15514,7 +15514,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.recraft.ai&sz=64",
+    "logo": "/logos/tool3171.png",
     "domain": "recraft.ai"
   },
   {
@@ -15533,7 +15533,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=stitch.withgoogle.com&sz=64",
+    "logo": "/logos/tool73947.jpg",
     "domain": "stitch.withgoogle.com"
   },
   {
@@ -15552,7 +15552,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=miora.cn&sz=64",
+    "logo": "/logos/tool74421.png",
     "domain": "miora.cn"
   },
   {
@@ -15628,7 +15628,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=quiver.ai&sz=64",
+    "logo": "/logos/tool76253.png",
     "domain": "quiver.ai?utm_source=ai-bot.cn"
   },
   {
@@ -15723,7 +15723,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.isheji.com&sz=64",
+    "logo": "/logos/tool24811.jpg",
     "domain": "isheji.com"
   },
   {
@@ -15742,7 +15742,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.pagepop.cn&sz=64",
+    "logo": "/logos/tool72579.png",
     "domain": "pagepop.cn"
   },
   {
@@ -15818,7 +15818,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-poster",
-    "logo": "https://www.google.com/s2/favicons?domain=designer.microsoft.com&sz=64",
+    "logo": "/logos/tool945.png",
     "domain": "designer.microsoft.com"
   },
   {
@@ -15837,7 +15837,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-ui",
-    "logo": "https://www.google.com/s2/favicons?domain=www.uxbot.cn&sz=64",
+    "logo": "/logos/tool65752.png",
     "domain": "uxbot.cn"
   },
   {
@@ -15875,7 +15875,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-logo",
-    "logo": "https://www.google.com/s2/favicons?domain=www.logosc.cn&sz=64",
+    "logo": "/logos/tool1414.jpg",
     "domain": "logosc.cn"
   },
   {
@@ -15894,7 +15894,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-logo",
-    "logo": "https://www.google.com/s2/favicons?domain=looka.com&sz=64",
+    "logo": "/logos/tool595.png",
     "domain": "looka.com"
   },
   {
@@ -15951,7 +15951,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.figma.com&sz=64",
+    "logo": "/logos/tool4487.png",
     "domain": "figma.com"
   },
   {
@@ -15970,7 +15970,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-poster",
-    "logo": "https://www.google.com/s2/favicons?domain=d.design&sz=64",
+    "logo": "/logos/tool1986.png",
     "domain": "d.design"
   },
   {
@@ -15989,7 +15989,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.canva.com&sz=64",
+    "logo": "/logos/tool1087.png",
     "domain": "canva.com"
   },
   {
@@ -16046,7 +16046,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.logosc.cn&sz=64",
+    "logo": "/logos/tool61515.jpg",
     "domain": "logosc.cn"
   },
   {
@@ -16065,7 +16065,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-logo",
-    "logo": "https://www.google.com/s2/favicons?domain=www.logoai.com&sz=64",
+    "logo": "/logos/tool27582.png",
     "domain": "logoai.com"
   },
   {
@@ -16160,7 +16160,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=jiangziai.com&sz=64",
+    "logo": "/logos/tool16181.jpg",
     "domain": "jiangziai.com"
   },
   {
@@ -16236,7 +16236,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=ibihun.com&sz=64",
+    "logo": "/logos/tool33149.png",
     "domain": "ibihun.com"
   },
   {
@@ -16255,7 +16255,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-ui",
-    "logo": "https://www.google.com/s2/favicons?domain=creatie.ai&sz=64",
+    "logo": "/logos/tool9772.png",
     "domain": "creatie.ai"
   },
   {
@@ -16274,7 +16274,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.kittl.com&sz=64",
+    "logo": "/logos/tool7993.png",
     "domain": "kittl.com"
   },
   {
@@ -16312,7 +16312,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=ilus.ai&sz=64",
+    "logo": "/logos/tool12026.png",
     "domain": "ilus.ai"
   },
   {
@@ -16350,7 +16350,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.framer.com&sz=64",
+    "logo": "/logos/tool2891.jpg",
     "domain": "framer.com"
   },
   {
@@ -16369,7 +16369,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-logo",
-    "logo": "https://www.google.com/s2/favicons?domain=logolivery.ai&sz=64",
+    "logo": "/logos/tool3006.png",
     "domain": "logolivery.ai"
   },
   {
@@ -16426,7 +16426,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-logo",
-    "logo": "https://www.google.com/s2/favicons?domain=logodiffusion.com&sz=64",
+    "logo": "/logos/tool6622.png",
     "domain": "logodiffusion.com"
   },
   {
@@ -16483,7 +16483,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.modaiyun.com&sz=64",
+    "logo": "/logos/tool3632.png",
     "domain": "modaiyun.com"
   },
   {
@@ -16502,7 +16502,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.vizcom.ai&sz=64",
+    "logo": "/logos/tool2235.png",
     "domain": "vizcom.ai"
   },
   {
@@ -16521,7 +16521,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.dora.run&sz=64",
+    "logo": "/logos/tool2462.png",
     "domain": "dora.run"
   },
   {
@@ -16559,7 +16559,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.usegalileo.ai&sz=64",
+    "logo": "/logos/tool150.jpg",
     "domain": "usegalileo.ai"
   },
   {
@@ -16578,7 +16578,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=spline.design&sz=64",
+    "logo": "/logos/tool1202.png",
     "domain": "spline.design"
   },
   {
@@ -16597,7 +16597,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-poster",
-    "logo": "https://www.google.com/s2/favicons?domain=hihaibao.com&sz=64",
+    "logo": "/logos/tool9943.png",
     "domain": "hihaibao.com?from=ai-bot"
   },
   {
@@ -16616,7 +16616,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-logo",
-    "logo": "https://www.google.com/s2/favicons?domain=www.illostration.com&sz=64",
+    "logo": "/logos/tool176.png",
     "domain": "illostration.com"
   },
   {
@@ -16654,7 +16654,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=lumalabs.ai&sz=64",
+    "logo": "/logos/tool923.png",
     "domain": "lumalabs.ai"
   },
   {
@@ -16711,7 +16711,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-logo",
-    "logo": "https://www.google.com/s2/favicons?domain=www.khroma.co&sz=64",
+    "logo": "/logos/tool1957.png",
     "domain": "khroma.co"
   },
   {
@@ -16806,7 +16806,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-logo",
-    "logo": "https://www.google.com/s2/favicons?domain=brandmark.io&sz=64",
+    "logo": "/logos/tool165.png",
     "domain": "brandmark.io"
   },
   {
@@ -16844,7 +16844,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.obviously.ai&sz=64",
+    "logo": "/logos/tool162.jpg",
     "domain": "obviously.ai"
   },
   {
@@ -16882,7 +16882,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=magician.design&sz=64",
+    "logo": "/logos/tool148.png",
     "domain": "magician.design"
   },
   {
@@ -16939,7 +16939,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.khroma.co&sz=64",
+    "logo": "/logos/tool106.png",
     "domain": "khroma.co"
   },
   {
@@ -17015,7 +17015,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=peiyin.xunfei.cn&sz=64",
+    "logo": "/logos/tool246.png",
     "domain": "peiyin.xunfei.cn"
   },
   {
@@ -17034,7 +17034,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=www.douge.com&sz=64",
+    "logo": "/logos/tool75064.jpg",
     "domain": "douge.com"
   },
   {
@@ -17072,7 +17072,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-music",
-    "logo": "https://www.google.com/s2/favicons?domain=www.suno.ai&sz=64",
+    "logo": "/logos/tool6968.png",
     "domain": "suno.ai"
   },
   {
@@ -17129,7 +17129,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=lang123.top&sz=64",
+    "logo": "/logos/tool14585.png",
     "domain": "lang123.top"
   },
   {
@@ -17167,7 +17167,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=www.iflyrec.com&sz=64",
+    "logo": "/logos/tool18898.png",
     "domain": "iflyrec.com"
   },
   {
@@ -17186,7 +17186,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=notebooklm.google&sz=64",
+    "logo": "/logos/tool21562.png",
     "domain": "notebooklm.google"
   },
   {
@@ -17243,7 +17243,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-music",
-    "logo": "https://www.google.com/s2/favicons?domain=www.haimian.com&sz=64",
+    "logo": "/logos/tool13336.png",
     "domain": "haimian.com"
   },
   {
@@ -17338,7 +17338,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-music",
-    "logo": "https://www.google.com/s2/favicons?domain=www.yinfeng.cn&sz=64",
+    "logo": "/logos/tool18655.png",
     "domain": "yinfeng.cn"
   },
   {
@@ -17376,7 +17376,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=audioeditor.ximalaya.com&sz=64",
+    "logo": "/logos/tool28064.png",
     "domain": "audioeditor.ximalaya.com"
   },
   {
@@ -17395,7 +17395,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=audiomyst.baidu.com&sz=64",
+    "logo": "/logos/tool65354.png",
     "domain": "audiomyst.baidu.com"
   },
   {
@@ -17414,7 +17414,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=memo.ac&sz=64",
+    "logo": "/logos/tool17999.png",
     "domain": "memo.ac"
   },
   {
@@ -17433,7 +17433,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-clone",
-    "logo": "https://www.google.com/s2/favicons?domain=www.reecho.ai&sz=64",
+    "logo": "/logos/tool8681.png",
     "domain": "reecho.ai"
   },
   {
@@ -17471,7 +17471,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-music",
-    "logo": "https://www.google.com/s2/favicons?domain=tianyin.163.com&sz=64",
+    "logo": "/logos/tool702.png",
     "domain": "tianyin.163.com"
   },
   {
@@ -17566,7 +17566,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=lovo.ai&sz=64",
+    "logo": "/logos/tool14893.png",
     "domain": "lovo.ai"
   },
   {
@@ -17718,7 +17718,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-music",
-    "logo": "https://www.google.com/s2/favicons?domain=xstudio.music.163.com&sz=64",
+    "logo": "/logos/tool2906.png",
     "domain": "xstudio.music.163.com"
   },
   {
@@ -17756,7 +17756,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=www.wondercraft.ai&sz=64",
+    "logo": "/logos/tool12550.png",
     "domain": "wondercraft.ai"
   },
   {
@@ -17813,7 +17813,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=www.optimizerai.xyz&sz=64",
+    "logo": "/logos/tool11254.png",
     "domain": "optimizerai.xyz"
   },
   {
@@ -17908,7 +17908,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=www.resemble.ai&sz=64",
+    "logo": "/logos/tool124.png",
     "domain": "resemble.ai"
   },
   {
@@ -18003,7 +18003,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=yueyin.zhipianbang.com&sz=64",
+    "logo": "/logos/tool2405.png",
     "domain": "yueyin.zhipianbang.com?utm_source=ai-bot.cn"
   },
   {
@@ -18060,7 +18060,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-music",
-    "logo": "https://www.google.com/s2/favicons?domain=www.beatoven.ai&sz=64",
+    "logo": "/logos/tool2160.png",
     "domain": "beatoven.ai"
   },
   {
@@ -18098,7 +18098,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=audo.ai&sz=64",
+    "logo": "/logos/tool119.png",
     "domain": "audo.ai"
   },
   {
@@ -18136,7 +18136,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=www.assemblyai.com&sz=64",
+    "logo": "/logos/tool120.png",
     "domain": "assemblyai.com"
   },
   {
@@ -18174,7 +18174,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=krisp.ai&sz=64",
+    "logo": "/logos/tool47.png",
     "domain": "krisp.ai"
   },
   {
@@ -18212,7 +18212,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=murf.ai&sz=64",
+    "logo": "/logos/tool251.png",
     "domain": "murf.ai"
   },
   {
@@ -18231,7 +18231,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-music",
-    "logo": "https://www.google.com/s2/favicons?domain=www.lemonaide.ai&sz=64",
+    "logo": "/logos/tool82.png",
     "domain": "lemonaide.ai"
   },
   {
@@ -18288,7 +18288,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=lovo.ai&sz=64",
+    "logo": "/logos/tool252.png",
     "domain": "lovo.ai"
   },
   {
@@ -18326,7 +18326,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=www.veed.io&sz=64",
+    "logo": "/logos/tool249.png",
     "domain": "veed.io"
   },
   {
@@ -18421,7 +18421,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-edit",
-    "logo": "https://www.google.com/s2/favicons?domain=voice.ai&sz=64",
+    "logo": "/logos/tool402.png",
     "domain": "voice.ai"
   },
   {
@@ -18478,7 +18478,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=www.wellsaid.io&sz=64",
+    "logo": "/logos/tool398.png",
     "domain": "wellsaid.io"
   },
   {
@@ -18497,7 +18497,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=www.notta.ai&sz=64",
+    "logo": "/logos/tool1301.png",
     "domain": "notta.ai"
   },
   {
@@ -18535,7 +18535,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=www.perplexity.ai&sz=64",
+    "logo": "/logos/tool65226.png",
     "domain": "perplexity.ai"
   },
   {
@@ -18554,7 +18554,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-academic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.bohrium.com&sz=64",
+    "logo": "/logos/tool58169.png",
     "domain": "bohrium.com"
   },
   {
@@ -18573,7 +18573,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=dexa.ai&sz=64",
+    "logo": "/logos/tool14609.png",
     "domain": "dexa.ai"
   },
   {
@@ -18592,7 +18592,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-academic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.aminer.cn&sz=64",
+    "logo": "/logos/tool14355.png",
     "domain": "aminer.cn"
   },
   {
@@ -18611,7 +18611,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=iflow.cn&sz=64",
+    "logo": "/logos/tool14200.png",
     "domain": "iflow.cn"
   },
   {
@@ -18630,7 +18630,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=devv.ai&sz=64",
+    "logo": "/logos/tool7108.png",
     "domain": "devv.ai"
   },
   {
@@ -18649,7 +18649,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=zhida.zhihu.com&sz=64",
+    "logo": "/logos/tool13966.png",
     "domain": "zhida.zhihu.com"
   },
   {
@@ -18706,7 +18706,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=felo.ai&sz=64",
+    "logo": "/logos/tool18048.png",
     "domain": "felo.ai"
   },
   {
@@ -18763,7 +18763,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=bochaai.com&sz=64",
+    "logo": "/logos/tool11402.png",
     "domain": "bochaai.com"
   },
   {
@@ -18782,7 +18782,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-academic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.wispaper.ai&sz=64",
+    "logo": "/logos/tool62394.png",
     "domain": "wispaper.ai"
   },
   {
@@ -18801,7 +18801,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=www.cusp.ai&sz=64",
+    "logo": "/logos/tool15220.png",
     "domain": "cusp.ai"
   },
   {
@@ -18915,7 +18915,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=dexa.ai&sz=64",
+    "logo": "/logos/tool15211.png",
     "domain": "dexa.ai"
   },
   {
@@ -18934,7 +18934,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=www.xanswer.com&sz=64",
+    "logo": "/logos/tool15156.png",
     "domain": "xanswer.com"
   },
   {
@@ -18953,7 +18953,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=www.glean.com&sz=64",
+    "logo": "/logos/tool16367.png",
     "domain": "glean.com"
   },
   {
@@ -19048,7 +19048,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=iask.ai&sz=64",
+    "logo": "/logos/tool11849.png",
     "domain": "iask.ai"
   },
   {
@@ -19086,7 +19086,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=komo.ai&sz=64",
+    "logo": "/logos/tool11850.png",
     "domain": "komo.ai"
   },
   {
@@ -19162,7 +19162,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=thinkany.ai&sz=64",
+    "logo": "/logos/tool11855.png",
     "domain": "thinkany.ai"
   },
   {
@@ -19257,7 +19257,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64",
+    "logo": "/logos/tool71659.png",
     "domain": "huggingface.co"
   },
   {
@@ -19276,7 +19276,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=www.bigmodel.cn&sz=64",
+    "logo": "/logos/tool15446.png",
     "domain": "bigmodel.cn"
   },
   {
@@ -19295,7 +19295,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=bailian.console.aliyun.com&sz=64",
+    "logo": "/logos/tool50019.png",
     "domain": "bailian.console.aliyun.com"
   },
   {
@@ -19314,7 +19314,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=www.volcengine.com&sz=64",
+    "logo": "/logos/tool77337.png",
     "domain": "volcengine.com"
   },
   {
@@ -19352,7 +19352,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=64",
+    "logo": "/logos/tool61081.jpg",
     "domain": "aistudio.google.com"
   },
   {
@@ -19428,7 +19428,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=meoo.com&sz=64",
+    "logo": "/logos/tool75263.png",
     "domain": "meoo.com"
   },
   {
@@ -19447,7 +19447,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=wanxiaozhi.aliyun.com&sz=64",
+    "logo": "/logos/tool77243.png",
     "domain": "wanxiaozhi.aliyun.com"
   },
   {
@@ -19485,7 +19485,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=trickle.so&sz=64",
+    "logo": "/logos/tool58463.png",
     "domain": "trickle.so"
   },
   {
@@ -19542,7 +19542,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-api",
-    "logo": "https://www.google.com/s2/favicons?domain=ofox.ai&sz=64",
+    "logo": "/logos/tool77667.png",
     "domain": "ofox.ai"
   },
   {
@@ -19561,7 +19561,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=worldclaw.ai&sz=64",
+    "logo": "/logos/tool76617.png",
     "domain": "worldclaw.ai"
   },
   {
@@ -19580,7 +19580,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-api",
-    "logo": "https://www.google.com/s2/favicons?domain=tokendance.space&sz=64",
+    "logo": "/logos/tool76277.png",
     "domain": "tokendance.space"
   },
   {
@@ -19637,7 +19637,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-api",
-    "logo": "https://www.google.com/s2/favicons?domain=b.ai&sz=64",
+    "logo": "/logos/tool76652.png",
     "domain": "b.ai"
   },
   {
@@ -19713,7 +19713,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=aippy.ai&sz=64",
+    "logo": "/logos/tool74846.png",
     "domain": "aippy.ai"
   },
   {
@@ -19732,7 +19732,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=www.inscode.net&sz=64",
+    "logo": "/logos/tool67000.png",
     "domain": "inscode.net"
   },
   {
@@ -19770,7 +19770,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=gapp.so&sz=64",
+    "logo": "/logos/tool75111.png",
     "domain": "gapp.so"
   },
   {
@@ -19789,7 +19789,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=shuyanai.com&sz=64",
+    "logo": "/logos/tool71707.png",
     "domain": "shuyanai.com"
   },
   {
@@ -19846,7 +19846,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=www.llamafactory.online&sz=64",
+    "logo": "/logos/tool67872.png",
     "domain": "llamafactory.online"
   },
   {
@@ -19865,7 +19865,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-training",
-    "logo": "https://www.google.com/s2/favicons?domain=www.lab4ai.cn&sz=64",
+    "logo": "/logos/tool67775.png",
     "domain": "lab4ai.cn"
   },
   {
@@ -19922,7 +19922,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-api",
-    "logo": "https://www.google.com/s2/favicons?domain=www.tokenpony.cn&sz=64",
+    "logo": "/logos/tool64827.png",
     "domain": "tokenpony.cn"
   },
   {
@@ -19941,7 +19941,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=refly.ai&sz=64",
+    "logo": "/logos/tool58318.png",
     "domain": "refly.ai"
   },
   {
@@ -19960,7 +19960,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=dakou.iflow.cn&sz=64",
+    "logo": "/logos/tool64715.png",
     "domain": "dakou.iflow.cn"
   },
   {
@@ -19979,7 +19979,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=creao.ai&sz=64",
+    "logo": "/logos/tool62299.png",
     "domain": "creao.ai"
   },
   {
@@ -19998,7 +19998,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=ai-bot.cn&sz=64",
+    "logo": "/logos/tool15416.png",
     "domain": "ai-bot.cn"
   },
   {
@@ -20017,7 +20017,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=www.tianrang.com&sz=64",
+    "logo": "/logos/tool8536.png",
     "domain": "tianrang.com"
   },
   {
@@ -20112,7 +20112,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-api",
-    "logo": "https://www.google.com/s2/favicons?domain=longcat.chat&sz=64",
+    "logo": "/logos/tool62159.png",
     "domain": "longcat.chat"
   },
   {
@@ -20150,7 +20150,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=cloud.infini-ai.com&sz=64",
+    "logo": "/logos/tool34774.png",
     "domain": "cloud.infini-ai.com"
   },
   {
@@ -20188,7 +20188,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=bigmodel.cn&sz=64",
+    "logo": "/logos/tool29524.png",
     "domain": "bigmodel.cn"
   },
   {
@@ -20245,7 +20245,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=yanxi.jd.com&sz=64",
+    "logo": "/logos/tool14871.png",
     "domain": "yanxi.jd.com"
   },
   {
@@ -20378,7 +20378,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=www.tensorflow.org&sz=64",
+    "logo": "/logos/tool48.png",
     "domain": "tensorflow.org"
   },
   {
@@ -20397,7 +20397,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=mxnet.apache.org&sz=64",
+    "logo": "/logos/tool62.png",
     "domain": "mxnet.apache.org"
   },
   {
@@ -20416,7 +20416,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=scikit-learn.org&sz=64",
+    "logo": "/logos/tool60.png",
     "domain": "scikit-learn.org"
   },
   {
@@ -20530,7 +20530,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=caffe.berkeleyvision.org&sz=64",
+    "logo": "/logos/tool64.png",
     "domain": "caffe.berkeleyvision.org"
   },
   {
@@ -20549,7 +20549,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=numpy.org&sz=64",
+    "logo": "/logos/tool780.png",
     "domain": "numpy.org"
   },
   {
@@ -20568,7 +20568,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-training",
-    "logo": "https://www.google.com/s2/favicons?domain=deeplearning4j.konduit.ai&sz=64",
+    "logo": "/logos/tool1268.jpg",
     "domain": "deeplearning4j.konduit.ai"
   },
   {
@@ -20625,7 +20625,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=docs.langchain.com&sz=64",
+    "logo": "/logos/tool1430.png",
     "domain": "docs.langchain.com"
   },
   {
@@ -20644,7 +20644,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-training",
-    "logo": "https://www.google.com/s2/favicons?domain=lightning.ai&sz=64",
+    "logo": "/logos/tool1848.jpg",
     "domain": "lightning.ai"
   },
   {
@@ -20701,7 +20701,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=anakin.ai&sz=64",
+    "logo": "/logos/tool8970.png",
     "domain": "anakin.ai"
   },
   {
@@ -20739,7 +20739,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-learning-tutor",
-    "logo": "https://www.google.com/s2/favicons?domain=d.design&sz=64",
+    "logo": "/logos/tool61404.png",
     "domain": "d.design"
   },
   {
@@ -20758,7 +20758,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-learning-tutor",
-    "logo": "https://www.google.com/s2/favicons?domain=aisharenet.com&sz=64",
+    "logo": "/logos/tool59568.png",
     "domain": "aisharenet.com"
   },
   {
@@ -20815,7 +20815,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-learning-tutor",
-    "logo": "https://www.google.com/s2/favicons?domain=www.xue8nav.com&sz=64",
+    "logo": "/logos/tool60386.png",
     "domain": "xue8nav.com"
   },
   {
@@ -20834,7 +20834,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-learning-tutor",
-    "logo": "https://www.google.com/s2/favicons?domain=lynote.ai&sz=64",
+    "logo": "/logos/tool72897.jpg",
     "domain": "lynote.ai"
   },
   {
@@ -20910,7 +20910,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-learning-course",
-    "logo": "https://www.google.com/s2/favicons?domain=zh.d2l.ai&sz=64",
+    "logo": "/logos/tool432.png",
     "domain": "zh.d2l.ai"
   },
   {
@@ -20929,7 +20929,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-learning-course",
-    "logo": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=64",
+    "logo": "/logos/tool437.png",
     "domain": "machinelearningmastery.com"
   },
   {
@@ -20948,7 +20948,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-learning-course",
-    "logo": "https://www.google.com/s2/favicons?domain=microsoft.github.io&sz=64",
+    "logo": "/logos/tool6039.png",
     "domain": "microsoft.github.io"
   },
   {
@@ -20967,7 +20967,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-learning-course",
-    "logo": "https://www.google.com/s2/favicons?domain=microsoft.github.io&sz=64",
+    "logo": "/logos/tool1462.png",
     "domain": "microsoft.github.io"
   },
   {
@@ -21043,7 +21043,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-learning-tutor",
-    "logo": "https://www.google.com/s2/favicons?domain=coach.microsoft.com&sz=64",
+    "logo": "/logos/tool7785.png",
     "domain": "coach.microsoft.com"
   },
   {
@@ -21119,7 +21119,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-learning-tutor",
-    "logo": "https://www.google.com/s2/favicons?domain=www.udacity.com&sz=64",
+    "logo": "/logos/tool1055.png",
     "domain": "udacity.com"
   },
   {
@@ -21138,7 +21138,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-learning-tutor",
-    "logo": "https://www.google.com/s2/favicons?domain=ai.google&sz=64",
+    "logo": "/logos/tool20.png",
     "domain": "ai.google"
   },
   {
@@ -21195,7 +21195,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=www.cherry-ai.com&sz=64",
+    "logo": "/logos/tool60108.png",
     "domain": "cherry-ai.com"
   },
   {
@@ -21214,7 +21214,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=ollama.ai&sz=64",
+    "logo": "/logos/tool5973.png",
     "domain": "ollama.ai"
   },
   {
@@ -21233,7 +21233,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=www.modelscope.cn&sz=64",
+    "logo": "/logos/tool1487.png",
     "domain": "modelscope.cn"
   },
   {
@@ -21290,7 +21290,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=www.aivinla.com&sz=64",
+    "logo": "/logos/tool50603.png",
     "domain": "aivinla.com"
   },
   {
@@ -21309,7 +21309,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=agpt.co&sz=64",
+    "logo": "/logos/tool1626.png",
     "domain": "agpt.co"
   },
   {
@@ -21328,7 +21328,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=jan.ai&sz=64",
+    "logo": "/logos/tool7412.png",
     "domain": "jan.ai"
   },
   {
@@ -21347,7 +21347,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=agentgpt.reworkd.ai&sz=64",
+    "logo": "/logos/tool1623.png",
     "domain": "agentgpt.reworkd.ai"
   },
   {
@@ -21385,7 +21385,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=llama.meta.com&sz=64",
+    "logo": "/logos/tool11341.jpg",
     "domain": "llama.meta.com"
   },
   {
@@ -21404,7 +21404,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=ai.google.dev&sz=64",
+    "logo": "/logos/tool8623.png",
     "domain": "ai.google.dev"
   },
   {
@@ -21480,7 +21480,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=wenxin.baidu.com&sz=64",
+    "logo": "/logos/tool1078.png",
     "domain": "wenxin.baidu.com"
   },
   {
@@ -21632,7 +21632,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64",
+    "logo": "/logos/tool51.png",
     "domain": "huggingface.co"
   },
   {
@@ -21708,7 +21708,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-video",
-    "logo": "https://www.google.com/s2/favicons?domain=research.runwayml.com&sz=64",
+    "logo": "/logos/tool1076.png",
     "domain": "research.runwayml.com"
   },
   {
@@ -21746,7 +21746,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=ai.google&sz=64",
+    "logo": "/logos/tool1077.png",
     "domain": "ai.google"
   },
   {
@@ -21784,7 +21784,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=64",
+    "logo": "/logos/tool52.png",
     "domain": "huggingface.co"
   },
   {
@@ -21860,7 +21860,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=www.lobe.ai&sz=64",
+    "logo": "/logos/tool439.png",
     "domain": "lobe.ai"
   },
   {
@@ -21898,7 +21898,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=replicate.com&sz=64",
+    "logo": "/logos/tool155.jpg",
     "domain": "replicate.com"
   },
   {
@@ -21917,7 +21917,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=www.evidentlyai.com&sz=64",
+    "logo": "/logos/tool778.png",
     "domain": "evidentlyai.com"
   },
   {
@@ -21974,7 +21974,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-detection-content",
-    "logo": "https://www.google.com/s2/favicons?domain=matrix.tencent.com&sz=64",
+    "logo": "/logos/tool68275.png",
     "domain": "matrix.tencent.com"
   },
   {
@@ -22050,7 +22050,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-detection-content",
-    "logo": "https://www.google.com/s2/favicons?domain=www.proofig.com&sz=64",
+    "logo": "/logos/tool7189.png",
     "domain": "proofig.com"
   },
   {
@@ -22069,7 +22069,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-detection-content",
-    "logo": "https://www.google.com/s2/favicons?domain=www.writecream.com&sz=64",
+    "logo": "/logos/tool407.svg",
     "domain": "writecream.com"
   },
   {
@@ -22164,7 +22164,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-detection-optimize",
-    "logo": "https://www.google.com/s2/favicons?domain=xueshu.tuanxiang.com&sz=64",
+    "logo": "/logos/tool16912.jpg",
     "domain": "xueshu.tuanxiang.com"
   },
   {
@@ -22183,7 +22183,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-detection-content",
-    "logo": "https://www.google.com/s2/favicons?domain=writer.com&sz=64",
+    "logo": "/logos/tool393.png",
     "domain": "writer.com"
   },
   {
@@ -22202,7 +22202,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-detection-content",
-    "logo": "https://www.google.com/s2/favicons?domain=originality.ai&sz=64",
+    "logo": "/logos/tool180.png",
     "domain": "originality.ai"
   },
   {
@@ -22259,7 +22259,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-detection-plagiarism",
-    "logo": "https://www.google.com/s2/favicons?domain=speedai.com&sz=64",
+    "logo": "/logos/tool70682.png",
     "domain": "speedai.com"
   },
   {
@@ -22278,7 +22278,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-detection-plagiarism",
-    "logo": "https://www.google.com/s2/favicons?domain=gaoyiai.com&sz=64",
+    "logo": "/logos/tool67455.jpg",
     "domain": "gaoyiai.com"
   },
   {
@@ -22354,7 +22354,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-detection-plagiarism",
-    "logo": "https://www.google.com/s2/favicons?domain=www.qianbiaigc.com&sz=64",
+    "logo": "/logos/tool67460.png",
     "domain": "qianbiaigc.com"
   },
   {
@@ -22449,7 +22449,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-detection-plagiarism",
-    "logo": "https://www.google.com/s2/favicons?domain=www.xyzscience.com&sz=64",
+    "logo": "/logos/tool73605.png",
     "domain": "xyzscience.com"
   },
   {
@@ -22506,7 +22506,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-prompt-market",
-    "logo": "https://www.google.com/s2/favicons?domain=prompts.explinks.com&sz=64",
+    "logo": "/logos/tool68309.png",
     "domain": "prompts.explinks.com"
   },
   {
@@ -22525,7 +22525,7 @@
     "pricing": "paid",
     "createdAt": "2025-01-01",
     "subcategory": "ai-prompt-library",
-    "logo": "https://www.google.com/s2/favicons?domain=www.promptingguide.ai&sz=64",
+    "logo": "/logos/tool2818.png",
     "domain": "promptingguide.ai"
   },
   {
@@ -22544,7 +22544,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-prompt-library",
-    "logo": "https://www.google.com/s2/favicons?domain=cloud.google.com&sz=64",
+    "logo": "/logos/tool61488.png",
     "domain": "cloud.google.com"
   },
   {
@@ -22582,7 +22582,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-prompt-library",
-    "logo": "https://www.google.com/s2/favicons?domain=openart.ai&sz=64",
+    "logo": "/logos/tool767.png",
     "domain": "openart.ai"
   },
   {
@@ -22620,7 +22620,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-prompt-optimize",
-    "logo": "https://www.google.com/s2/favicons?domain=prompthero.com&sz=64",
+    "logo": "/logos/tool743.png",
     "domain": "prompthero.com"
   },
   {
@@ -22677,7 +22677,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-prompt-library",
-    "logo": "https://www.google.com/s2/favicons?domain=www.aishort.top&sz=64",
+    "logo": "/logos/tool23106.png",
     "domain": "aishort.top"
   },
   {
@@ -22791,7 +22791,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-prompt-library",
-    "logo": "https://www.google.com/s2/favicons?domain=prompt.noonshot.com&sz=64",
+    "logo": "/logos/tool760.png",
     "domain": "prompt.noonshot.com"
   },
   {
@@ -22829,7 +22829,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-prompt-library",
-    "logo": "https://www.google.com/s2/favicons?domain=moxby.com&sz=64",
+    "logo": "/logos/tool747.png",
     "domain": "moxby.com"
   },
   {
@@ -22848,7 +22848,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-prompt-library",
-    "logo": "https://www.google.com/s2/favicons?domain=prompts.chat&sz=64",
+    "logo": "/logos/tool746.png",
     "domain": "prompts.chat"
   },
   {
@@ -22867,7 +22867,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-prompt-library",
-    "logo": "https://www.google.com/s2/favicons?domain=learningprompt.wiki&sz=64",
+    "logo": "/logos/tool744.png",
     "domain": "learningprompt.wiki"
   }
 ]
