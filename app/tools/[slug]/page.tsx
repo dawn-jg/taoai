@@ -41,7 +41,12 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
       <div className="bg-white rounded-xl border border-gray-200 p-6 mb-4">
         <div className="flex items-start justify-between mb-4">
           <div>
-            <h1 className="text-xl font-bold text-gray-900 mb-2">{tool.name}</h1>
+            <div className="flex items-center gap-3">
+              {tool.logo && (
+                <img src={tool.logo} alt="" className="w-10 h-10 rounded-lg shrink-0" />
+              )}
+              <h1 className="text-xl font-bold text-gray-900 mb-2">{tool.name}</h1>
+            </div>
             <div className="flex items-center gap-2">
               <span className={`text-xs font-medium px-2 py-0.5 rounded-full ${pricingColor[tool.pricing]}`}>{pricingLabel[tool.pricing]}</span>
               <div className="flex items-center gap-1 text-xs text-yellow-500">
