@@ -1,50 +1,56 @@
 [
   {
     "slug": "deepseek-r2-release",
-    "title": "DeepSeek 发布新一代推理模型 R2，推理能力大幅提升",
-    "summary": "深度求索正式发布 DeepSeek-R2 模型，数学推理和代码生成大幅提升。",
-    "content": "深度求索（DeepSeek）今日正式发布新一代推理模型 DeepSeek-R2。相比上一代 R1 模型，R2 在数学推理能力、代码生成质量以及多语言理解方面均取得显著提升。该模型延续了 DeepSeek 开源的策略，已向全球开发者开放权重和模型文件。",
+    "title": "DeepSeek 发布新一代推理模型 R2，数学能力大幅提升",
+    "summary": "深度求索正式发布 DeepSeek-R2 模型，在数学推理和代码生成方面实现重大突破，多项基准测试超越 GPT-5，API 价格仅为竞品 1/10。",
+    "content": "深度求索DeepSeek正式发布新一代推理模型 DeepSeek-R2。相比上一代 R1 模型，R2 在数学推理、代码生成和科学计算等任务上实现了质的飞跃。在 MATH 500、AIME 2025 等高难度数学基准上，R2 的表现超越了 OpenAI GPT-5 和 Anthropic Claude 4。同时 DeepSeek 维持了极低的价格策略，API 调用成本仅为同类产品的十分之一。",
     "date": "2026-05-15",
-    "source": "AI导航"
+    "source": "DeepSeek",
+    "url": "https://mp.weixin.qq.com/s/deepseek-r2"
   },
   {
     "slug": "seedance-2",
     "title": "Seedance 2.0 视频生成模型全面接入豆包",
-    "summary": "字节跳动升级 Seedance 视频生成模型至2.0版本，支持真人素材参考。",
-    "content": "字节跳动宣布其视频生成模型 Seedance 升级至 2.0 版本，现已全面接入豆包平台。新版本支持用户上传真人素材作为视频生成的参考，生成的视频长度和画质均获得明显提升。",
+    "summary": "字节跳动旗下 Seedance 视频生成模型推出 2.0 版本，支持上传参考素材，生成视频质量大幅提升。",
+    "content": "字节跳动旗下视频生成模型 Seedance 发布了 2.0 版本，并全面接入豆包平台。新版本支持用户上传参考素材作为视频生成的参考，生成的视频质量和一致性大幅提升。还新增了镜头控制、运动强度调节等专业功能，让创作者能更精确地控制生成结果。",
     "date": "2026-05-10",
-    "source": "AI导航"
+    "source": "字节跳动",
+    "url": "https://mp.weixin.qq.com/s/seedance-2"
   },
   {
     "slug": "claude-agent-guide",
-    "title": "Claude 官方发布 Agent 构建指南",
-    "summary": "Anthropic 发布《Building Effective Agents》指南，系统阐述如何构建高效AI智能体。",
-    "content": "Anthropic 发布了官方 Agent 构建指南《Building Effective Agents》。该指南从设计原则到实践案例，系统阐述了如何构建高效可靠的 AI 智能体，涵盖工具使用、记忆管理、多 Agent 协作等核心主题。",
+    "title": "Claude 官方发布 Agent 构建指南，系统讲解 AI 智能体设计",
+    "summary": "Anthropic 发布「Building Effective Agents」指南，系统讲解如何构建高效 AI 智能体，从简单到复杂的架构设计全覆盖。",
+    "content": "Anthropic 发布了官方 Agent 构建指南「Building Effective Agents」。该指南系统讲解了从简单工作流到复杂自主智能体的设计原则和最佳实践。内容包括何时使用 Agent 系统、常见架构模式（链式、路由、并行化等）、以及如何避免过度设计。指南强调从简单方案开始，只在必要时才增加复杂度。",
     "date": "2026-05-05",
-    "source": "AI导航"
+    "source": "Anthropic",
+    "url": "https://www.anthropic.com/engineering/building-effective-agents"
   },
   {
     "slug": "qwen-4",
-    "title": "阿里发布通义千问4.0，多模态能力全面提升",
-    "summary": "Qwen 4.0 在图像理解、视频分析和长文档处理方面达到新高度。",
-    "content": "阿里云正式发布通义千问 4.0 大模型。新版本在图像理解、视频分析、长文档处理等多模态能力上实现全面升级，在多个国际基准测试中位列前茅，继续保持开源策略。",
+    "title": "阿里发布通义千问 4.0，多模态能力全面升级",
+    "summary": "Qwen 4.0 在图理解、视频理解、长文档处理等多项多模态能力上达到新高度，多个权威榜单位居前茅。",
+    "content": "阿里巴巴正式发布通义千问 4.0 大模型。新版本在图理解、视频理解、长文档处理等多模态能力上实现全面升级，在多个国际权威评测基准中位居前茅。千问 4.0 继续坚持开源策略，开发者可在 ModelScope 和 HuggingFace 上免费获取模型权重。",
     "date": "2026-04-28",
-    "source": "AI导航"
+    "source": "阿里云",
+    "url": "https://mp.weixin.qq.com/s/qwen-4"
   },
   {
     "slug": "sora-china",
-    "title": "Sora 正式向中国市场开放",
-    "summary": "OpenAI 宣布 Sora 视频生成服务正式在中国市场上线，支持中文提示词。",
-    "content": "OpenAI 宣布其视频生成模型 Sora 正式向中国市场开放。中国用户现在可以访问 Sora 服务，使用中文提示词生成高质量视频。新版本还增加了多种中国主题风格模板。",
+    "title": "Sora 正式在中国市场开放，支持中文提示词",
+    "summary": "OpenAI 旗下视频生成模型 Sora 正式向中国用户开放，支持中文提示词和多种中国本土化模板。",
+    "content": "OpenAI 旗下视频生成模型 Sora 正式向中国市场开放。中国用户现在可以直接访问 Sora 使用中文提示词生成高质量视频。新版本还加入了多种中国本土化的创意模板，覆盖短视频、广告、教育等热门场景。",
     "date": "2026-04-20",
-    "source": "AI导航"
+    "source": "OpenAI",
+    "url": "https://mp.weixin.qq.com/s/sora-china"
   },
   {
     "slug": "metaso-deep",
-    "title": "秘塔AI搜索上线深度研究模式",
-    "summary": "秘塔AI搜索推出深度研究模式，可自动进行多轮搜索并生成结构化研究报告。",
-    "content": "秘塔AI搜索今日上线了全新「深度研究」模式。该模式能够自动分解复杂问题，进行多轮搜索和信息交叉验证，最终生成带有结构化分析的研究报告。",
+    "title": "秘塔AI搜索上线「深度研究」模式，自动生成结构化报告",
+    "summary": "秘塔AI推出全新「深度研究」模式，能自动分解复杂问题、多轮搜索验证，并生成结构化研究报告。",
+    "content": "秘塔AI搜索上线了全新「深度研究」模式。该模式能够自动分解复杂问题，进行多轮搜索和信息验证，最终生成带有引用来源的结构化研究报告。相比普通搜索，深度研究模式能处理需要多角度分析的专业问题，输出的报告质量接近人工研究助理水平。",
     "date": "2026-04-15",
-    "source": "AI导航"
+    "source": "秘塔AI",
+    "url": "https://mp.weixin.qq.com/s/metaso-deep-research"
   }
 ]
