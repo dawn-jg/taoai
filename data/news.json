@@ -6,7 +6,7 @@
     "content": "深度求索DeepSeek正式发布新一代推理模型 DeepSeek-R2。相比上一代 R1 模型，R2 在数学推理、代码生成和科学计算等任务上实现了质的飞跃。在 MATH 500、AIME 2025 等高难度数学基准上，R2 的表现超越了 OpenAI GPT-5 和 Anthropic Claude 4。同时 DeepSeek 维持了极低的价格策略，API 调用成本仅为同类产品的十分之一。",
     "date": "2026-05-15",
     "source": "DeepSeek",
-    "url": "https://mp.weixin.qq.com/s/deepseek-r2"
+    "url": "https://blog.csdn.net/2401_84204413/article/details/157652240"
   },
   {
     "slug": "seedance-2",
@@ -15,7 +15,7 @@
     "content": "字节跳动旗下视频生成模型 Seedance 发布了 2.0 版本，并全面接入豆包平台。新版本支持用户上传参考素材作为视频生成的参考，生成的视频质量和一致性大幅提升。还新增了镜头控制、运动强度调节等专业功能，让创作者能更精确地控制生成结果。",
     "date": "2026-05-10",
     "source": "字节跳动",
-    "url": "https://mp.weixin.qq.com/s/seedance-2"
+    "url": "https://new.qq.com/rain/a/20260508A07IMG00"
   },
   {
     "slug": "claude-agent-guide",
@@ -29,11 +29,11 @@
   {
     "slug": "qwen-4",
     "title": "阿里发布通义千问 4.0，多模态能力全面升级",
-    "summary": "Qwen 4.0 在图理解、视频理解、长文档处理等多项多模态能力上达到新高度，多个权威榜单位居前茅。",
+    "summary": "Qwen 4.0 在理解、视频理解、长文档处理等多项多模态能力上达到新高度，多个权威榜单位居前茅。",
     "content": "阿里巴巴正式发布通义千问 4.0 大模型。新版本在图理解、视频理解、长文档处理等多模态能力上实现全面升级，在多个国际权威评测基准中位居前茅。千问 4.0 继续坚持开源策略，开发者可在 ModelScope 和 HuggingFace 上免费获取模型权重。",
     "date": "2026-04-28",
     "source": "阿里云",
-    "url": "https://mp.weixin.qq.com/s/qwen-4"
+    "url": "https://qwenlm.github.io/blog/"
   },
   {
     "slug": "sora-china",
@@ -42,7 +42,7 @@
     "content": "OpenAI 旗下视频生成模型 Sora 正式向中国市场开放。中国用户现在可以直接访问 Sora 使用中文提示词生成高质量视频。新版本还加入了多种中国本土化的创意模板，覆盖短视频、广告、教育等热门场景。",
     "date": "2026-04-20",
     "source": "OpenAI",
-    "url": "https://mp.weixin.qq.com/s/sora-china"
+    "url": "https://www.ennews.com/news-88036.html"
   },
   {
     "slug": "metaso-deep",
@@ -51,6 +51,6 @@
     "content": "秘塔AI搜索上线了全新「深度研究」模式。该模式能够自动分解复杂问题，进行多轮搜索和信息验证，最终生成带有引用来源的结构化研究报告。相比普通搜索，深度研究模式能处理需要多角度分析的专业问题，输出的报告质量接近人工研究助理水平。",
     "date": "2026-04-15",
     "source": "秘塔AI",
-    "url": "https://mp.weixin.qq.com/s/metaso-deep-research"
+    "url": "https://metaso.cn/"
   }
 ]
