@@ -19,7 +19,13 @@
     "createdAt": "2025-01-20",
     "subcategory": "ai-chat-general",
     "logo": "/logos/deepseek.png",
-    "domain": "deepseek.com"
+    "domain": "deepseek.com",
+    "screenshots": [
+      "/screenshots/deepseek/screenshot-1.png",
+      "/screenshots/deepseek/screenshot-2.png",
+      "/screenshots/deepseek/screenshot-3.png",
+      "/screenshots/deepseek/screenshot-4.png"
+    ]
   },
   {
     "slug": "chatgpt",
