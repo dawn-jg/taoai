@@ -33,8 +33,10 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# python scripts
+# temp/scraping files
 _*.py
 _*.txt
+_*.html
+_*.json
 
 _batch_status.md
