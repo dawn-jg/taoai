@@ -1,0 +1,42 @@
+[
+  {
+    "title": "DeepSeek 新手入门指南：从注册到高手",
+    "slug": "deepseek-beginners",
+    "category": "AI对话",
+    "date": "2026-05-10",
+    "thumbnail": "",
+    "is_new": false
+  },
+  {
+    "title": "提示词工程完全指南",
+    "slug": "ai-prompt-engineering",
+    "category": "AI提示词",
+    "date": "2026-05-01",
+    "thumbnail": "",
+    "is_new": false
+  },
+  {
+    "title": "用Cursor做Vibe Coding：AI编程新体验",
+    "slug": "cursor-vibe-coding",
+    "category": "AI编程",
+    "date": "2026-04-25",
+    "thumbnail": "",
+    "is_new": false
+  },
+  {
+    "title": "2025年AI视频生成工具横向评测",
+    "slug": "ai-video-generation",
+    "category": "AI视频",
+    "date": "2026-04-15",
+    "thumbnail": "",
+    "is_new": false
+  },
+  {
+    "title": "用AI写出小红书爆款笔记",
+    "slug": "ai-writing-xiaohongshu",
+    "category": "AI写作",
+    "date": "2026-04-10",
+    "thumbnail": "",
+    "is_new": false
+  }
+]

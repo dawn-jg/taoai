@@ -45,4 +45,7 @@ export interface TutorialItem {
   content: string;
   date: string;
   category: string;
+  is_new?: boolean;
+  thumbnail?: string;
+  url?: string;
 }
