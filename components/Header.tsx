@@ -18,6 +18,8 @@ export default function Header() {
         <div className="text-sm text-gray-500">
           <Link href="/" className="text-blue-600 hover:underline">首页</Link>
           <span className="mx-2">/</span>
+          <Link href="/content" className="text-blue-600 hover:underline ml-4">AI内容库</Link>
+          <span className="mx-2 text-gray-300">·</span>
           <span className="text-gray-400">发现最好的AI工具</span>
         </div>
         <form onSubmit={handleSearch} className="flex items-center">

@@ -4,9 +4,9 @@ import { usePathname } from 'next/navigation';
 import { categories } from '@/lib/tools';
 
 const secondaryNav = [
+  { name: '📖 AI内容库', href: '/content' },
   { name: '📰 每日AI快讯', href: '/news' },
   { name: '📚 AI教程资源', href: '/tutorials' },
-  { name: '📖 AI百科', href: '/tutorials' },
 ];
 
 export default function LeftSidebar() {
