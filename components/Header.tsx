@@ -15,11 +15,9 @@ export default function Header() {
   return (
     <header className="h-14 bg-white border-b border-gray-200 flex items-center px-6">
       <div className="flex items-center justify-between w-full max-w-7xl mx-auto">
-        <div className="text-sm text-gray-500">
-          <Link href="/" className="text-blue-600 hover:underline">首页</Link>
-          <span className="mx-2">/</span>
-          <Link href="/content" className="text-blue-600 hover:underline ml-4">AI内容库</Link>
-          <span className="mx-2 text-gray-300">·</span>
+        <div className="flex items-center gap-2 text-sm">
+          <span className="text-blue-600 font-medium">TaoAI</span>
+          <span className="text-gray-300">·</span>
           <span className="text-gray-400">发现最好的AI工具</span>
         </div>
         <form onSubmit={handleSearch} className="flex items-center">

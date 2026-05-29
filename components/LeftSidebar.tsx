@@ -37,7 +37,7 @@ export default function LeftSidebar() {
             key={cat.slug}
             href={`/categories/${cat.slug}`}
             className={`flex items-center justify-between px-3 py-2 text-sm rounded-lg transition-colors ${
-              pathname.includes(cat.slug)
+              pathname === `/categories/${cat.slug}` || pathname.startsWith(`/categories/${cat.slug}/`)
                 ? 'bg-blue-50 text-blue-700 font-medium'
                 : 'text-gray-600 hover:bg-gray-100'
             }`}

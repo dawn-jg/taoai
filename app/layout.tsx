@@ -14,6 +14,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="zh-CN" className="h-full">
       <head>
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <meta property="og:title" content="TaoAI - AI导航 | 发现最好的AI工具" />
+        <meta property="og:description" content="收录数百款AI工具，覆盖AI对话、写作、绘画、视频、编程等全品类" />
+        <meta property="og:type" content="website" />
+        <meta name="twitter:card" content="summary_large_image" />
         <script charSet="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js" />
         <script>{`LA.init({id:"LCklhM4QMEncFfxL",ck:"LCklhM4QMEncFfxL"})`}</script>
       </head>

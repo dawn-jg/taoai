@@ -87,3 +87,32 @@ body {
 .tool-content .text-sm {
   font-size: 0.875rem;
 }
+
+/* Table styling for ai-bot content */
+.tool-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.75rem 0;
+  font-size: 0.8125rem;
+}
+.tool-content th,
+.tool-content td {
+  border: 1px solid #e5e7eb;
+  padding: 0.5rem 0.625rem;
+  text-align: left;
+  vertical-align: top;
+}
+.tool-content th {
+  background: #f9fafb;
+  font-weight: 600;
+  color: #1f2937;
+}
+.tool-content tbody tr:nth-child(even) {
+  background: #f9fafb;
+}
+.tool-content tbody tr:hover {
+  background: #eff6ff;
+}
+.tool-content .section-image {
+  margin: 0.75rem 0;
+}
