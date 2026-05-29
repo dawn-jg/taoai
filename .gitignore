@@ -36,3 +36,5 @@ next-env.d.ts
 # python scripts
 _*.py
 _*.txt
+
+_batch_status.md
