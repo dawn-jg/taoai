@@ -60,11 +60,8 @@ export default function TutorialsPage() {
               </h2>
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                 {tutorials.map((tutorial, i) => (
-                  <a
+                  <div
                     key={tutorial.slug}
-                    href={tutorial.url || '#'}
-                    target="_blank"
-                    rel="noopener noreferrer"
                     className="group block bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-lg hover:border-blue-200 transition-all"
                   >
                     {/* Thumbnail */}
@@ -106,7 +103,7 @@ export default function TutorialsPage() {
                         <time>{tutorial.date}</time>
                       </div>
                     </div>
-                  </a>
+                  </div>
                 ))}
               </div>
             </section>
