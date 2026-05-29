@@ -59,6 +59,10 @@ export function getTutorials(): TutorialItem[] {
   return tutorialItems;
 }
 
+export function getTutorialBySlug(slug: string): TutorialItem | undefined {
+  return tutorialItems.find(t => t.slug === slug);
+}
+
 export function getLatestNews(limit = 3): NewsItem[] {
   return newsItems.slice(0, limit);
 }
