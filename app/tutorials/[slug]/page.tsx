@@ -65,17 +65,7 @@ export default async function TutorialDetailPage({ params }: Props) {
           </div>
         )}
 
-        {/* Source link */}
-        <div className="mt-12 pt-6 border-t border-gray-200 text-center">
-          <a
-            href={tutorial.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-sm text-blue-600 hover:text-blue-800 underline"
-          >
-            查看原文（ai-bot.cn）→
-          </a>
-        </div>
+
       </article>
     </div>
   );
