@@ -22,7 +22,8 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
   const pricingLabel: Record<string, string> = { free: '免费', freemium: '免费增值', paid: '付费' };
   const pricingColor: Record<string, string> = { free: 'bg-green-100 text-green-700', freemium: 'bg-blue-100 text-blue-700', paid: 'bg-orange-100 text-orange-700' };
   const cats = getCategories();
-  const relatedTools = getAllTools().filter(t => t.slug !== slug && t.categories.some(c => tool.categories.includes(c))).slice(0, 4);
+  const relatedTools = getAllTools().filter(t => t.slug !== slug && t.categories.some(c => tool.categories.includes(c))).slice(0, 6);
+  const hasDetails = tool.detailed_content && tool.detailed_content.length > 0;
 
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 py-6">
@@ -97,103 +98,106 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
                 <div className="aspect-video bg-gray-100 relative overflow-hidden">
                   <img src={src} alt={`${tool.name} 截图 ${i + 1}`} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" loading="lazy" />
                 </div>
-                <div className="px-3 py-2 text-xs text-gray-400">
-                  截图 {i + 1} — 点击查看原图
-                </div>
+                <div className="px-3 py-2 text-xs text-gray-400">截图 {i + 1} — 点击查看原图</div>
               </a>
             ))}
           </div>
         </div>
       )}
 
-      {/* ===== Content Sections ===== */}
-      <div className="space-y-5">
-
-        {/* What is */}
-        <SectionCard title={`什么是 ${tool.name}`}>
-          <p className="text-sm text-gray-700 leading-relaxed mb-3">
-            {tool.name} 是一款 {tool.description}。作为 AI 工具生态中的优秀产品，{tool.name} 在 {tool.tags.slice(0, 3).join('、')} 等场景中表现出色，帮助用户提升效率、激发创造力。
-          </p>
-          <div className="bg-blue-50 border-l-4 border-blue-400 p-3 rounded-r">
-            <p className="text-xs text-blue-700">
-              💡 {tool.name} 支持 {tool.pricing === 'free' ? '完全免费使用' : tool.pricing === 'freemium' ? '免费版 + 付费高级功能' : '付费订阅'}，
-              访问官网了解更多信息。
+      {/* ===== Content: Detailed (from ai-bot) or Generic ===== */}
+      {hasDetails ? (
+        /* ===== Detailed Content from ai-bot ===== */
+        <div className="space-y-4">
+          {tool.detailed_content!.map((section, i) => (
+            <div key={i} className="bg-white rounded-xl border border-gray-200 p-5">
+              {section.title && (
+                <h2 className="text-base font-bold text-gray-900 mb-3">{section.title}</h2>
+              )}
+              <div
+                className="tool-content prose-sm"
+                dangerouslySetInnerHTML={{ __html: section.html }}
+              />
+            </div>
+          ))}
+        </div>
+      ) : (
+        /* ===== Generic Content (fallback) ===== */
+        <div className="space-y-5">
+          <SectionCard title={`什么是 ${tool.name}`}>
+            <p className="text-sm text-gray-700 leading-relaxed mb-3">
+              {tool.name} 是一款 {tool.description}。作为 AI 工具生态中的优秀产品，{tool.name} 在 {tool.tags.slice(0, 3).join('、')} 等场景中表现出色，帮助用户提升效率、激发创造力。
             </p>
-          </div>
-        </SectionCard>
+            <div className="bg-blue-50 border-l-4 border-blue-400 p-3 rounded-r">
+              <p className="text-xs text-blue-700">
+                💡 {tool.name} 支持 {tool.pricing === 'free' ? '完全免费使用' : tool.pricing === 'freemium' ? '免费版 + 付费高级功能' : '付费订阅'}，
+                访问官网了解更多信息。
+              </p>
+            </div>
+          </SectionCard>
 
-        {/* Features */}
-        <SectionCard title="主要功能">
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-            {tool.tags.map((tag, i) => (
-              <div key={i} className="flex items-start gap-2.5 p-3 bg-gray-50 rounded-lg">
-                <span className="shrink-0 w-6 h-6 flex items-center justify-center rounded-full bg-blue-100 text-blue-600 text-xs font-bold">{(i + 1).toString().padStart(2, '0')}</span>
-                <div>
-                  <h4 className="text-sm font-semibold text-gray-900">{tag}</h4>
-                  <p className="text-xs text-gray-500 mt-0.5">在 {tag} 方面提供专业级能力支持，满足多样化创作需求。</p>
-                </div>
-              </div>
-            ))}
-          </div>
-        </SectionCard>
-
-        {/* Tech highlights */}
-        <SectionCard title="技术优势">
-          <div className="space-y-3">
-            <TechRow icon="🚀" title="响应速度快" desc={`${tool.name} 推理响应速度快，延迟低，适合实时交互场景。`} />
-            <TechRow icon="🎯" title="效果出色" desc={`在${tool.tags[0] || '核心'}场景下表现优异，输出质量稳定可靠。`} />
-            <TechRow icon="💰" title="性价比高" desc={tool.pricing === 'free' ? '完全免费，无任何隐藏费用。' : '提供灵活的定价方案，满足不同用户需求。'} />
-            <TechRow icon="🔌" title="接入便捷" desc="支持 API 调用，可快速集成到现有工作流中。" />
-          </div>
-        </SectionCard>
-
-        {/* How to use */}
-        <SectionCard title={`如何使用 ${tool.name}`}>
-          <ol className="space-y-3">
-            <Step num={1} title="访问官网" desc={`打开浏览器访问 ${tool.url}，进入 ${tool.name} 官方网站。`} />
-            <Step num={2} title="注册/登录" desc="根据页面提示完成账号注册或直接登录（支持第三方登录）。" />
-            <Step num={3} title="选择功能" desc={`在控制台中选择需要的 ${tool.tags.slice(0, 2).join(' / ')} 等功能模块开始使用。`} />
-            <Step num={4} title="查看文档" desc="如需深入了解，可查看官方文档或在本站搜索相关教程。" />
-          </ol>
-        </SectionCard>
-
-        {/* Pricing */}
-        <SectionCard title="价格信息">
-          <div className="text-sm text-gray-700 leading-relaxed">
-            {tool.pricing === 'free' && (
-              <p>✅ <strong>{tool.name}</strong> 目前完全<strong className="text-green-600">免费</strong>使用，无需付费即可体验全部核心功能。</p>
-            )}
-            {tool.pricing === 'freemium' && (
-              <p>✅ <strong>{tool.name}</strong> 提供<strong className="text-blue-600">免费版</strong>，同时提供付费高级版，解锁更多功能和更高配额。</p>
-            )}
-            {tool.pricing === 'paid' && (
-              <p>✅ <strong>{tool.name}</strong> 为付费工具，提供多种订阅方案，可按需选择。</p>
-            )}
-          </div>
-        </SectionCard>
-
-        {/* Related tools */}
-        {relatedTools.length > 0 && (
-          <div className="bg-white rounded-xl border border-gray-200 p-5">
-            <h2 className="text-base font-bold text-gray-900 mb-3">类似于 {tool.name} 的工具</h2>
-            <p className="text-xs text-gray-400 mb-3">同类 AI 工具推荐，供对比参考</p>
+          <SectionCard title="主要功能">
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-              {relatedTools.map(t => (
-                <Link key={t.slug} href={`/tools/${t.slug}`} className="block bg-gray-50 hover:bg-blue-50 border border-gray-100 rounded-lg p-3 transition-colors">
-                  <div className="flex items-center gap-2">
-                    {t.logo && <ToolLogo src={t.logo} domain={t.domain} alt="" className="w-8 h-8 rounded-md shrink-0 bg-white object-contain p-0.5" />}
-                    <div className="min-w-0">
-                      <h4 className="text-sm font-semibold text-gray-900 truncate">{t.name}</h4>
-                      <p className="text-xs text-gray-500 truncate">{t.description}</p>
-                    </div>
+              {tool.tags.map((tag, i) => (
+                <div key={i} className="flex items-start gap-2.5 p-3 bg-gray-50 rounded-lg">
+                  <span className="shrink-0 w-6 h-6 flex items-center justify-center rounded-full bg-blue-100 text-blue-600 text-xs font-bold">{(i + 1).toString().padStart(2, '0')}</span>
+                  <div>
+                    <h4 className="text-sm font-semibold text-gray-900">{tag}</h4>
+                    <p className="text-xs text-gray-500 mt-0.5">在 {tag} 方面提供专业级能力支持，满足多样化创作需求。</p>
                   </div>
-                </Link>
+                </div>
               ))}
             </div>
-          </div>
-        )}
+          </SectionCard>
 
-      </div>
+          <SectionCard title="技术优势">
+            <div className="space-y-3">
+              <TechRow icon="🚀" title="响应速度快" desc={`${tool.name} 推理响应速度快，延迟低，适合实时交互场景。`} />
+              <TechRow icon="🎯" title="效果出色" desc={`在${tool.tags[0] || '核心'}场景下表现优异，输出质量稳定可靠。`} />
+              <TechRow icon="💰" title="性价比高" desc={tool.pricing === 'free' ? '完全免费，无任何隐藏费用。' : '提供灵活的定价方案，满足不同用户需求。'} />
+              <TechRow icon="🔌" title="接入便捷" desc="支持 API 调用，可快速集成到现有工作流中。" />
+            </div>
+          </SectionCard>
+
+          <SectionCard title={`如何使用 ${tool.name}`}>
+            <ol className="space-y-3">
+              <Step num={1} title="访问官网" desc={`打开浏览器访问 ${tool.url}，进入 ${tool.name} 官方网站。`} />
+              <Step num={2} title="注册/登录" desc="根据页面提示完成账号注册或直接登录（支持第三方登录）。" />
+              <Step num={3} title="选择功能" desc={`在控制台中选择需要的 ${tool.tags.slice(0, 2).join(' / ')} 等功能模块开始使用。`} />
+              <Step num={4} title="查看文档" desc="如需深入了解，可查看官方文档或在本站搜索相关教程。" />
+            </ol>
+          </SectionCard>
+
+          <SectionCard title="价格信息">
+            <div className="text-sm text-gray-700 leading-relaxed">
+              {tool.pricing === 'free' && <p>✅ <strong>{tool.name}</strong> 目前完全<strong className="text-green-600">免费</strong>使用，无需付费即可体验全部核心功能。</p>}
+              {tool.pricing === 'freemium' && <p>✅ <strong>{tool.name}</strong> 提供<strong className="text-blue-600">免费版</strong>，同时提供付费高级版，解锁更多功能和更高配额。</p>}
+              {tool.pricing === 'paid' && <p>✅ <strong>{tool.name}</strong> 为付费工具，提供多种订阅方案，可按需选择。</p>}
+            </div>
+          </SectionCard>
+        </div>
+      )}
+
+      {/* ===== Related Tools ===== */}
+      {relatedTools.length > 0 && (
+        <div className="mt-5 bg-white rounded-xl border border-gray-200 p-5">
+          <h2 className="text-base font-bold text-gray-900 mb-3">类似于 {tool.name} 的工具</h2>
+          <p className="text-xs text-gray-400 mb-3">同类 AI 工具推荐，供对比参考</p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
+            {relatedTools.map(t => (
+              <Link key={t.slug} href={`/tools/${t.slug}`} className="block bg-gray-50 hover:bg-blue-50 border border-gray-100 rounded-lg p-3 transition-colors">
+                <div className="flex items-center gap-2">
+                  {t.logo && <ToolLogo src={t.logo} domain={t.domain} alt="" className="w-8 h-8 rounded-md shrink-0 bg-white object-contain p-0.5" />}
+                  <div className="min-w-0">
+                    <h4 className="text-sm font-semibold text-gray-900 truncate">{t.name}</h4>
+                    <p className="text-xs text-gray-500 truncate">{t.description}</p>
+                  </div>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </div>
+      )}
     </div>
   );
 }

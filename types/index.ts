@@ -13,6 +13,10 @@ export interface AITool {
   subcategory?: string;
   logo?: string;
   domain?: string;
+  detailed_content?: {
+    title: string;
+    html: string;
+  }[];
 }
 
 export interface Category {
