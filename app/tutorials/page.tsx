@@ -1,5 +1,11 @@
+import type { Metadata } from 'next';
 import { getTutorials } from '@/lib/tools';
 import Link from 'next/link';
+
+export const metadata: Metadata = {
+  title: 'AI教程资源 - AI工具集 | TaoAI',
+  description: '精选 AI 工具的使用教程、上手指南与深度评测，帮你快速掌握各类 AI 产品的玩法与技巧。',
+};
 
 const CATEGORIES = ['AI教程', 'AI工具', '综合指南'];
 
