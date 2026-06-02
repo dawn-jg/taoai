@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/logo.svg" />
+    <!-- Google Fonts removed: blocked in China, causes blank page in WeChat WebView -->
+    <!-- Inter font loaded locally or via Chinese CDN if needed -->
+    <title>Agent云Token工场 - 国内领先的大模型 API 聚合与极速推理云平台</title>
+    <meta name="description" content="专为开发者打造的 AI 推理云，一站式提供 Qwen3.6、DeepSeek-V4、Kimi K2.5、GLM-5.1 等顶尖大模型 API 服务。支持开箱即用、模型微调托管与企业级私有化部署，实现极致推理加速与成本优化。" />
+    <meta name="keywords" content="大模型API, AI模型托管, Agent推理云, Qwen3.6 API, DeepSeek-V4接口, AI私有化部署。" />
+    <!-- Baidu Tongji（仅生产环境域名启用） -->
+    <script>
+      (function() {
+        if (location.hostname !== "www.agentsyun.com") return;
+        var _hmt = window._hmt = window._hmt || [];
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?61d5add13b324b211c5c339da401bb9b";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+      })();
+    </script>
+    <!-- 51.LA 统计（仅生产环境域名启用） -->
+    <script>
+      (function() {
+        if (location.hostname !== "www.agentsyun.com") return;
+        var la = document.createElement("script");
+        la.charset = "UTF-8";
+        la.id = "LA_COLLECT";
+        la.src = "//sdk.51.la/js-sdk-pro.min.js";
+        la.onload = function() {
+          if (window.LA) window.LA.init({ id: "3Q5P8trBEz7cx52h", ck: "3Q5P8trBEz7cx52h" });
+        };
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(la, s);
+      })();
+    </script>
+  <script defer src="https://static.file.huizhihuyu.com/huizhiApiPlatform/dist/static/js/lib-polyfill.453e2076.js"></script><script defer src="https://static.file.huizhihuyu.com/huizhiApiPlatform/dist/static/js/lib-react.3f723d87.js"></script><script defer src="https://static.file.huizhihuyu.com/huizhiApiPlatform/dist/static/js/lib-router.124b6452.js"></script><script defer src="https://static.file.huizhihuyu.com/huizhiApiPlatform/dist/static/js/108.17d1b56e.js"></script><script defer src="https://static.file.huizhihuyu.com/huizhiApiPlatform/dist/static/js/index.f5f82570.js"></script><link href="https://static.file.huizhihuyu.com/huizhiApiPlatform/dist/static/css/index.99953eec.css" rel="stylesheet"></head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/index.tsx"></script>
+  </body>
+</html>

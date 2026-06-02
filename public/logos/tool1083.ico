@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="智源研究院是人工智能领域的新型研发机构，汇集国际顶尖人工智能学者，聚焦核心技术与原始创新，旨在推动人工智能领域发展政策、学术思想、理论基础、顶尖人才与产业生态的五大源头创新。" />
+    <meta name="keywords" content="BAAI，智源，悟道，大模型，北京人工智能 " />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:title" content="BAAI智源研究院" />
+    <meta property="og:description" content="智源研究院是人工智能领域的新型研发机构，汇集国际顶尖人工智能学者，聚焦核心技术与原始创新，旨在推动人工智能领域发展政策、学术思想、理论基础、顶尖人才与产业生态的五大源头创新。" />
+    <meta property="og:image" content="/Upfile/File/2025-02-26/c843bcbb-5278-418d-bda6-f199bd9797f9..png" />
+    <meta name="author" content="www.uemo.net" />
+    <link rel="icon" href="/Upfile/File/2025-02-26/c843bcbb-5278-418d-bda6-f199bd9797f9..png" />
+    <link href="https://static.jsmo.xin/uebuilder/v4/page/UePage.css" rel="stylesheet" />
+    <link href="/desktop/css/chunk-common.css" rel="stylesheet" />
+    <title>BAAI智源研究院</title>
+    <script type="module" crossorigin src="/assets/index-Bf6_YY3Q.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

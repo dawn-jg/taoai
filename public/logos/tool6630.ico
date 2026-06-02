@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Audiobox</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="/M_Favicon_1632.ico" type="image/x-icon">
+    <style>
+      @font-face {
+        font-family: "Optimistic";
+        src: url("/fonts/Optimistic_W_VF.woff2") format("woff2");
+        font-weight: 100 900;
+        font-display: swap;
+      }
+      body {
+        font-family: Optimistic, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        background-color: #020406;
+        color: #FFF;
+        margin: 0px;
+      }
+      .page {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+      }
+      @supports (min-height: 100dvh) {
+        .page {
+          min-height: 100dvh;
+        }
+      }
+      .main-section {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-bottom: 12vh;
+      }
+      .content {
+        max-width: 576px;
+        width: calc(100% - 48px);
+        padding: 24px;
+        text-align: left;
+      }
+      .meta-logo {
+        width: 67px;
+        height: 40px;
+        margin-bottom: 24px;
+      }
+      .title {
+        display: inline-block;
+        background: linear-gradient(to right, rgb(231, 113, 174), rgb(117, 99, 226));
+        background-clip: text;
+        -webkit-background-clip: text;
+        font-size: 32px;
+        font-weight: 600;
+        margin-bottom: 16px;
+        color: transparent;
+      }
+      .subtitle {
+        font-size: 16px;
+        font-weight: 300;
+        margin: 0 0 24px 0;
+        color: #A6ACB2;
+        line-height: 1.6;
+      }
+      .learn-more {
+        color: #66A3FF;
+        text-decoration: none;
+        font-weight: 500;
+      }
+      .learn-more:hover {
+        text-decoration: underline;
+      }
+      .footer {
+        display: flex;
+        justify-content: center;
+        gap: 1.5rem;
+        padding: 0 1.75rem 1.5rem;
+        font-size: 0.8125rem;
+        color: #A6ACB2;
+      }
+
+      @media (max-width: 768px) {
+        .content {
+          margin: 20px;
+        }
+        .title {
+          font-size: 30px;
+        }
+        .subtitle {
+          font-size: 14px;
+        }
+        .footer {
+          gap: 1rem;
+          font-size: 0.75rem;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="page">
+      <div class="main-section">
+        <div class="content">
+          <div><img class="meta-logo" src="/metaLogo.svg" alt="Meta Logo"/></div>
+          <div><div class="title">Audiobox</div></div>
+          <p class="subtitle">As of February 2026, the Audiobox Demo is no longer available.</p>
+          <p class="subtitle">We appreciate your interest in exploring our research and technology through this demo. Over time, we regularly review and update our portfolio of public demos to ensure we are providing the most relevant and impactful experiences.</p>
+          <p class="subtitle">If you are looking for information about our ongoing research, new demos, or related projects, please visit <a class="learn-more" href="https://ai.meta.com/research">ai.meta.com/research</a>.</p>
+        </div>
+      </div>
+      <div class="footer">
+        <span>&copy; <script>document.write(new Date().getFullYear())</script> Meta</span>
+      </div>
+    </div>
+  </body>
+</html>
