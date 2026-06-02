@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="description"
+      content="光子AI 是一款专为服装类电商设计的智能商品图生成平台，融合了最前沿的 AI 图像生成技术，支持一键AI换模特、AI换装、AI商品图制作，可轻松生成虚拟模特图、白底图与场景图。平台提供AI换背景、AI换脸、AI修图、AI换色等多种实用功能，帮助商家快速制作符合平台调性的高质量商品图，适配跨境电商平台、独立站、TikTok小店、Shopify店铺、淘宝、拼多多、京东、抖音等多个场景。无需拍摄、无需模特，一键生成多版本商拍图和种草图，大幅降低拍摄成本，同时提升出图效率和商品转化率，是电商设计师与运营团队的得力助手。"
+    />
+    <meta
+      name="keywords"
+      content="AI换衣，AI换模特，AI模特图，模特图生成，AI服装图，商品图生成，模特替换工具，上身图制作，AI拍照替代，商品图自动化，AI换衣服工具，模特AI换装生成器，虚拟模特穿搭图生成，自动生成服装上身效果图，AI试衣服软件，AI服装模型替换，在线AI换模特服务，服装电商AI模特换装，AI上身图生成工具"
+    />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="renderer" content="webkit" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover"
+    />
+    <title>光子AI-服饰商拍生成平台</title>
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="https://m.hellobike.com/resource/gallery/171/BYqAw2Of_logo.png?x-oss-process=image/quality,q_80"
+    />
+    <meta content="no-referrer" name="referrer" />
+    <link rel="stylesheet" href="/antd.35bd0fea.css" />
+    <link rel="stylesheet" href="/components.4ef98531.chunk.css" />
+    <link rel="stylesheet" href="/umi.639fa4fa.css" />
+    <script>
+      window.routerBase = "/";
+    </script>
+    <script>
+      //! umi version: 3.5.21
+    </script>
+    <script src="https://m.hellobike.com/resource/helloyun/15697/wcs-bundle.js"></script>
+    <script>
+      !(function (n) {
+        var e = {};
+        function t(r) {
+          if (e[r]) return e[r].exports;
+          var o = (e[r] = { i: r, l: !1, exports: {} });
+          return n[r].call(o.exports, o, o.exports, t), (o.l = !0), o.exports;
+        }
+        (t.m = n),
+          (t.c = e),
+          (t.d = function (n, e, r) {
+            t.o(n, e) ||
+              Object.defineProperty(n, e, { enumerable: !0, get: r });
+          }),
+          (t.r = function (n) {
+            "undefined" != typeof Symbol &&
+              Symbol.toStringTag &&
+              Object.defineProperty(n, Symbol.toStringTag, { value: "Module" }),
+              Object.defineProperty(n, "__esModule", { value: !0 });
+          }),
+          (t.t = function (n, e) {
+            if ((1 & e && (n = t(n)), 8 & e)) return n;
+            if (4 & e && "object" == typeof n && n && n.__esModule) return n;
+            var r = Object.create(null);
+            if (
+              (t.r(r),
+              Object.defineProperty(r, "default", { enumerable: !0, value: n }),
+              2 & e && "string" != typeof n)
+            )
+              for (var o in n)
+                t.d(
+                  r,
+                  o,
+                  function (e) {
+                    return n[e];
+                  }.bind(null, o)
+                );
+            return r;
+          }),
+          (t.n = function (n) {
+            var e =
+              n && n.__esModule
+                ? function () {
+                    return n.default;
+                  }
+                : function () {
+                    return n;
+                  };
+            return t.d(e, "a", e), e;
+          }),
+          (t.o = function (n, e) {
+            return Object.prototype.hasOwnProperty.call(n, e);
+          }),
+          (t.p = ""),
+          t((t.s = 6));
+      })([
+        function (n, e, t) {
+          "use strict";
+          t.d(e, "d", function () {
+            return r;
+          }),
+            t.d(e, "e", function () {
+              return o;
+            }),
+            t.d(e, "b", function () {
+              return i;
+            }),
+            t.d(e, "c", function () {
+              return u;
+            }),
+            t.d(e, "a", function () {
+              return a;
+            }),
+            t.d(e, "f", function () {
+              return c;
+            });
+          var r = "__TIANQI_ACTION_QUEUE__",
+            o = "__TIANQI_UBT_ACTION_QUEUE__",
+            i = "__TIANQI_GLOBAL_EVENT_BUS__",
+            u = {
+              RESUME_BODY_OBSERVER: "resumeBodyObserver",
+              STOP_BODY_OBSERVER: "stopBodyObserver",
+              SEND_PAGE_PERFORMANCE_LOG: "sendPagePerformanceLog",
+              PAGELOAD_PERFORMANCE_NOISE_APPEAR:
+                "pageload_performance_noise_appear",
+              RESUME_USER_INTERACTION_LISTENER: "resumeUserInteractionListener",
+            },
+            a = "TianQiApm",
+            c = "TianQi";
+        },
+        function (n, e, t) {
+          "use strict";
+          t.d(e, "a", function () {
+            return r;
+          });
+          var r = (function () {
+            function n() {}
+            return (
+              (n.getSdkInstalled = function () {
+                return n.sdkInstalled;
+              }),
+              (n.setSdkInstalled = function (e) {
+                return (n.sdkInstalled = e);
+              }),
+              (n.sdkInstalled = !1),
+              n
+            );
+          })();
+        },
+        function (n, e, t) {
+          "use strict";
+          t.d(e, "a", function () {
+            return o;
+          });
+          var r = t(1);
+          function o(n, e, t) {
+            var o = (window[n] = {});
+            Object.keys(t).forEach(function (i) {
+              var u = t[i],
+                a = (o[i] = {});
+              u.forEach(function (t) {
+                a[t] = function () {
+                  for (var o, u = [], a = 0; a < arguments.length; a++)
+                    u[a] = arguments[a];
+                  r.a.getSdkInstalled()
+                    ? (o = window[n][i])[t].apply(o, u)
+                    : window[e].push({
+                        actionType: "API_CALL",
+                        entryName: i,
+                        apiName: t,
+                        params: u,
+                      });
+                };
+              });
+            });
+          }
+        },
+        function (n, e, t) {
+          "use strict";
+          function r(n) {
+            var e = n.bundleId,
+              t = n.bundleName,
+              r = n.onLoadCallback,
+              o = document.getElementById(e);
+            if (!o) {
+              ((o = document.createElement("script")).id = e),
+                (o.src =
+                  "https://m.hellobike.com/npm/@hb/tianqi@7.0.1-beta.11/lib/" +
+                  t +
+                  ".js"),
+                (o.defer = !0),
+                (o.crossOrigin = "anonymous");
+              var i = document.getElementsByTagName("script")[0];
+              i.parentNode.insertBefore(o, i);
+            }
+            o.onload = r;
+          }
+          t.d(e, "a", function () {
+            return r;
+          });
+        },
+        function (n, e, t) {
+          "use strict";
+          t.d(e, "a", function () {
+            return u;
+          });
+          var r = t(0),
+            o = t(1),
+            i = t(3);
+          function u(n) {
+            var e = "ubt." + n;
+            Object(i.a)({
+              bundleId: "tianQiUbtBundle",
+              bundleName: e,
+              onLoadCallback: function () {
+                window[r.f] &&
+                  window[r.f].sdkVersion &&
+                  o.a.setSdkInstalled(!0);
+              },
+            });
+          }
+        },
+        function (n, e, t) {
+          "use strict";
+          t.d(e, "a", function () {
+            return i;
+          });
+          var r = t(0),
+            o = t(2);
+          function i() {
+            if (!window[r.f] || !window[r.f].sdkVersion) {
+              window[r.e] = [];
+              Object(o.a)(r.f, r.e, {
+                UBT: [
+                  "config",
+                  "bindData",
+                  "pageView",
+                  "pageViewOut",
+                  "clickButton",
+                  "moduleExpose",
+                  "customEventWithPointId",
+                  "customEvent",
+                  "bindUTM",
+                  "bindPTM",
+                  "verify",
+                  "sendError",
+                  "bindUserInfo",
+                  "bindUbtAddress",
+                  "send",
+                  "timeStart",
+                  "timeEnd",
+                  "setLogLevel",
+                  "payment",
+                  "clickResource",
+                  "appLocationDiff",
+                  "routerEnter",
+                  "routerLeave",
+                ],
+              });
+            }
+          }
+        },
+        function (n, e, t) {
+          "use strict";
+          t.r(e);
+          var r = t(4),
+            o = t(5);
+          Object(o.a)(), Object(r.a)("h5");
+        },
+      ]);
+    </script>
+    <script>
+      !(function (e) {
+        var n = {};
+        function t(r) {
+          if (n[r]) return n[r].exports;
+          var o = (n[r] = { i: r, l: !1, exports: {} });
+          return e[r].call(o.exports, o, o.exports, t), (o.l = !0), o.exports;
+        }
+        (t.m = e),
+          (t.c = n),
+          (t.d = function (e, n, r) {
+            t.o(e, n) ||
+              Object.defineProperty(e, n, { enumerable: !0, get: r });
+          }),
+          (t.r = function (e) {
+            "undefined" != typeof Symbol &&
+              Symbol.toStringTag &&
+              Object.defineProperty(e, Symbol.toStringTag, { value: "Module" }),
+              Object.defineProperty(e, "__esModule", { value: !0 });
+          }),
+          (t.t = function (e, n) {
+            if ((1 & n && (e = t(e)), 8 & n)) return e;
+            if (4 & n && "object" == typeof e && e && e.__esModule) return e;
+            var r = Object.create(null);
+            if (
+              (t.r(r),
+              Object.defineProperty(r, "default", { enumerable: !0, value: e }),
+              2 & n && "string" != typeof e)
+            )
+              for (var o in e)
+                t.d(
+                  r,
+                  o,
+                  function (n) {
+                    return e[n];
+                  }.bind(null, o)
+                );
+            return r;
+          }),
+          (t.n = function (e) {
+            var n =
+              e && e.__esModule
+                ? function () {
+                    return e.default;
+                  }
+                : function () {
+                    return e;
+                  };
+            return t.d(n, "a", n), n;
+          }),
+          (t.o = function (e, n) {
+            return Object.prototype.hasOwnProperty.call(e, n);
+          }),
+          (t.p = ""),
+          t((t.s = 8));
+      })([
+        function (e, n, t) {
+          "use strict";
+          t.d(n, "d", function () {
+            return r;
+          }),
+            t.d(n, "e", function () {
+              return o;
+            }),
+            t.d(n, "b", function () {
+              return i;
+            }),
+            t.d(n, "c", function () {
+              return a;
+            }),
+            t.d(n, "a", function () {
+              return c;
+            }),
+            t.d(n, "f", function () {
+              return s;
+            });
+          var r = "__TIANQI_ACTION_QUEUE__",
+            o = "__TIANQI_UBT_ACTION_QUEUE__",
+            i = "__TIANQI_GLOBAL_EVENT_BUS__",
+            a = {
+              RESUME_BODY_OBSERVER: "resumeBodyObserver",
+              STOP_BODY_OBSERVER: "stopBodyObserver",
+              SEND_PAGE_PERFORMANCE_LOG: "sendPagePerformanceLog",
+              PAGELOAD_PERFORMANCE_NOISE_APPEAR:
+                "pageload_performance_noise_appear",
+              RESUME_USER_INTERACTION_LISTENER: "resumeUserInteractionListener",
+            },
+            c = "TianQiApm",
+            s = "TianQi";
+        },
+        function (e, n, t) {
+          "use strict";
+          t.d(n, "a", function () {
+            return r;
+          });
+          var r = (function () {
+            function e() {}
+            return (
+              (e.getSdkInstalled = function () {
+                return e.sdkInstalled;
+              }),
+              (e.setSdkInstalled = function (n) {
+                return (e.sdkInstalled = n);
+              }),
+              (e.sdkInstalled = !1),
+              e
+            );
+          })();
+        },
+        function (e, n, t) {
+          "use strict";
+          t.d(n, "a", function () {
+            return o;
+          });
+          var r = t(1);
+          function o(e, n, t) {
+            var o = (window[e] = {});
+            Object.keys(t).forEach(function (i) {
+              var a = t[i],
+                c = (o[i] = {});
+              a.forEach(function (t) {
+                c[t] = function () {
+                  for (var o, a = [], c = 0; c < arguments.length; c++)
+                    a[c] = arguments[c];
+                  r.a.getSdkInstalled()
+                    ? (o = window[e][i])[t].apply(o, a)
+                    : window[n].push({
+                        actionType: "API_CALL",
+                        entryName: i,
+                        apiName: t,
+                        params: a,
+                      });
+                };
+              });
+            });
+          }
+        },
+        function (e, n, t) {
+          "use strict";
+          function r(e) {
+            var n = e.bundleId,
+              t = e.bundleName,
+              r = e.onLoadCallback,
+              o = document.getElementById(n);
+            if (!o) {
+              ((o = document.createElement("script")).id = n),
+                (o.src =
+                  "https://m.hellobike.com/npm/@hb/tianqi@7.0.1-beta.11/lib/" +
+                  t +
+                  ".js"),
+                (o.defer = !0),
+                (o.crossOrigin = "anonymous");
+              var i = document.getElementsByTagName("script")[0];
+              i.parentNode.insertBefore(o, i);
+            }
+            o.onload = r;
+          }
+          t.d(n, "a", function () {
+            return r;
+          });
+        },
+        ,
+        ,
+        ,
+        ,
+        function (e, n, t) {
+          "use strict";
+          t.r(n);
+          var r,
+            o = t(0),
+            i = t(1),
+            a = t(3),
+            c = {},
+            s =
+              ((r = 0),
+              function () {
+                return (r += 1);
+              });
+          var u = (function () {
+              function e() {}
+              return (
+                (e.on = function (e, n) {
+                  var t = s();
+                  return (
+                    c[e] || (c[e] = {}),
+                    (c[e][t] = n),
+                    {
+                      off: function () {
+                        delete c[e][t],
+                          0 === Object.keys(c[e]).length && delete c[e];
+                      },
+                    }
+                  );
+                }),
+                (e.emit = function (e, n) {
+                  c[e] &&
+                    Object.keys(c[e]).forEach(function (t) {
+                      return c[e][t](n);
+                    });
+                }),
+                e
+              );
+            })(),
+            d = {
+              bodyObserver: null,
+              domMutationsImportanceObjectList: [],
+              userActionOccurBeforeSdkLoaded: !1,
+              disMissUserInteraction: !1,
+              setBodyObserver: function (e) {
+                this.bodyObserver = e;
+              },
+              getBodyObserver: function () {
+                return this.bodyObserver;
+              },
+              addMutationsImportanceObject: function (e) {
+                this.domMutationsImportanceObjectList.push(e);
+              },
+              getDomMutationsImportanceObjectList: function () {
+                return this.domMutationsImportanceObjectList;
+              },
+              clearDomMutationsImportanceObjectList: function () {
+                this.domMutationsImportanceObjectList = [];
+              },
+              setUserActionOccurBeforeSdkLoadedTrue: function () {
+                this.userActionOccurBeforeSdkLoaded = !0;
+              },
+              getUserActionOccurBeforeSdkLoaded: function () {
+                return this.userActionOccurBeforeSdkLoaded;
+              },
+              setDisMissUserInteraction: function (e) {
+                this.disMissUserInteraction = e;
+              },
+              getDisMissUserInteraction: function () {
+                return this.disMissUserInteraction;
+              },
+            };
+          function f(e) {
+            window[o.d].push({
+              actionType: "EVENT",
+              eventName: "error",
+              useCapture: !1,
+              params: e,
+            });
+          }
+          function l(e) {
+            window[o.d].push({
+              actionType: "EVENT",
+              eventName: "error",
+              useCapture: !0,
+              params: e,
+            });
+          }
+          function m(e) {
+            window[o.d].push({
+              actionType: "EVENT",
+              eventName: "unhandledrejection",
+              params: e,
+            });
+          }
+          var p = t(2);
+          function E() {
+            return window.MutationObserver;
+          }
+          function O(e) {
+            var n = "";
+            try {
+              if (e)
+                n =
+                  e.localName +
+                  (e.id ? "#" + e.id : "") +
+                  (e.className ? "." + e.className.replace(/ /g, ".") : "");
+            } catch (e) {}
+            return n;
+          }
+          var v = function (e) {
+            return "[object NodeList]" === Object.prototype.toString.call(e);
+          };
+          function _(e, n) {
+            var t = 0,
+              r = e.children;
+            if (r && r.length) {
+              for (var o = r.length - 1; o >= 0; o--) t += _(r[o], t > 0);
+              0 !== t || n || w(e) || (t = 0);
+            } else
+              t = w(e)
+                ? (function (e) {
+                    if (e) {
+                      if (
+                        [
+                          "SCRIPT",
+                          "STYLE",
+                          "META",
+                          "HEAD",
+                          "LINK",
+                          "NOSCRIPT",
+                        ].indexOf(e.tagName) > -1
+                      )
+                        return 0;
+                      if (
+                        [
+                          "CANVAS",
+                          "OBJECT",
+                          "EMBED",
+                          "VIDEO",
+                          "SVG",
+                          "IMG",
+                          "IMAGE",
+                        ].indexOf(e.tagName) > -1
+                      )
+                        return 2;
+                      if (e.textContent) return 1;
+                    }
+                    return 0;
+                  })(e)
+                : 0;
+            return t;
+          }
+          function b(e) {
+            try {
+              return (
+                e instanceof HTMLElement &&
+                (function (e) {
+                  for (; e; ) {
+                    if (e === document.body) return !0;
+                    e = e.parentNode;
+                  }
+                  return !1;
+                })(e) &&
+                ((n = e.className),
+                (t = n),
+                !(
+                  "[object String]" === Object.prototype.toString.call(t) &&
+                  ["vc-", "eruda-"].some(function (e) {
+                    return 0 === n.indexOf(e);
+                  })
+                ))
+              );
+            } catch (e) {
+              return !1;
+            }
+            var n, t;
+          }
+          function w(e) {
+            return (
+              e.getBoundingClientRect &&
+              e.getBoundingClientRect().top < window.innerHeight
+            );
+          }
+          function I() {
+            d.clearDomMutationsImportanceObjectList(),
+              E() &&
+                d
+                  .getBodyObserver()
+                  .observe(document, { childList: !0, subtree: !0 });
+          }
+          var g = !1;
+          try {
+            var N = Object.defineProperty({}, "passive", {
+                get: function () {
+                  g = !0;
+                },
+              }),
+              y = function () {};
+            window.addEventListener("testPassive", y, N),
+              window.removeEventListener("testPassive", y, N);
+          } catch (e) {}
+          var A = [
+            { eventName: "click" },
+            { eventName: "wheel", options: !!g && { passive: !0 } },
+          ];
+          function L(e) {
+            e.isTrusted &&
+              (d.getDisMissUserInteraction()
+                ? d.setDisMissUserInteraction(!1)
+                : (i.a.getSdkInstalled()
+                    ? u.emit(o.c.PAGELOAD_PERFORMANCE_NOISE_APPEAR)
+                    : d.setUserActionOccurBeforeSdkLoadedTrue(),
+                  h()));
+          }
+          function S() {
+            A.forEach(function (e) {
+              window.addEventListener(e.eventName, L, e.options);
+            });
+          }
+          function h() {
+            A.forEach(function (e) {
+              window.removeEventListener(e.eventName, L, e.options);
+            });
+          }
+          u.on(o.c.RESUME_BODY_OBSERVER, function () {
+            I(), h(), d.setDisMissUserInteraction(!0), S();
+          }),
+            u.on(o.c.STOP_BODY_OBSERVER, function () {
+              E() && d.getBodyObserver().disconnect(),
+                u.emit(
+                  o.c.SEND_PAGE_PERFORMANCE_LOG,
+                  d.getDomMutationsImportanceObjectList()
+                );
+            }),
+            (window[o.b] = u),
+            S(),
+            (function () {
+              if (!window[o.a] || !window[o.a].sdkVersion) {
+                window[o.d] = [];
+                Object(p.a)(o.a, o.d, {
+                  UBT: ["config", "bindData"],
+                  APM: ["log", "sendError"],
+                }),
+                  window.addEventListener("error", f),
+                  window.addEventListener("error", l, !0),
+                  window.addEventListener("unhandledrejection", m);
+              }
+            })(),
+            Object(a.a)({
+              bundleId: "tianQiApmBundle",
+              bundleName: "apm.web",
+              onLoadCallback: function () {
+                window[o.a] &&
+                  window[o.a].sdkVersion &&
+                  (window.removeEventListener("error", f),
+                  window.removeEventListener("error", l, !0),
+                  window.removeEventListener("unhandledrejection", m),
+                  i.a.setSdkInstalled(!0),
+                  d.getUserActionOccurBeforeSdkLoaded() &&
+                    u.emit(o.c.PAGELOAD_PERFORMANCE_NOISE_APPEAR));
+              },
+            }),
+            window.addEventListener("load", function () {
+              var e = window.__build_params_env,
+                n = window.__build_params_categoryId,
+                t = window.__build_params_platform,
+                r = window.__build_params_appName,
+                i = window.__build_params_appVersion;
+              e &&
+                n &&
+                t &&
+                r &&
+                i &&
+                (window[o.a].UBT.config({
+                  env: e,
+                  categoryId: n,
+                  debug: "pro" !== e,
+                  logTimeout: "pro" === e ? 3e4 : 5e3,
+                }),
+                window[o.a].UBT.bindData({
+                  platform: t,
+                  appName: r,
+                  appVersion: i,
+                }));
+            }),
+            (function () {
+              if (E()) {
+                var e = new window.MutationObserver(function (e) {
+                  if (
+                    ((u = e),
+                    "[object Array]" === Object.prototype.toString.call(u))
+                  ) {
+                    for (
+                      var n, t = 0, r = -1, o = 0, i = e;
+                      o < i.length;
+                      o++
+                    ) {
+                      var a = i[o],
+                        c = a && a.addedNodes;
+                      if (v(c))
+                        Array.prototype.slice.call(c).forEach(function (e) {
+                          if (b(e)) {
+                            var o = _(e, !1);
+                            o > r && ((r = o), (n = e)), (t += o);
+                          }
+                        });
+                    }
+                    var s = {
+                      importanceScore: t,
+                      mutationOccurTimestamp: Date.now(),
+                      mostImportantElementName: O(n),
+                    };
+                    d.addMutationsImportanceObject(s);
+                  }
+                  var u;
+                });
+                d.setBodyObserver(e), I();
+              }
+            })();
+        },
+      ]);
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- built files will be auto injected -->
+
+    <script src="https://m.hellobike.com/npm/react@17.0.2/umd/react.production.min.js"></script>
+    <script src="https://m.hellobike.com/npm/react-dom@17.0.2/umd/react-dom.production.min.js"></script>
+    <script src="https://m.hellobike.com/npm/axios@0.20.0/dist/axios.min.js"></script>
+    <script src="https://cdn.hellobike.com/npm/moment@2.22.2/min/moment.min.js"></script>
+    <script src="https://cdn.hellobike.com/npm/moment@2.22.2/locale/zh-cn.js"></script>
+    <script src="/rc.5265b0fe.js"></script>
+    <script src="/antd.d42468d1.js"></script>
+    <script src="/ant-design.f4cdfd94.js"></script>
+    <script src="/ali-oss.ced34c1e.js"></script>
+    <script src="/fabric.415296bf.async.js"></script>
+    <script src="/hbh5.7304aabe.async.js"></script>
+    <script src="/react-vendors.374574d8.js"></script>
+    <script src="/other-vendors.f19e6e3b.js"></script>
+    <script src="/components.ec62a627.async.js"></script>
+    <script src="/umi.2fe238ed.js"></script>
+  </body>
+</html>

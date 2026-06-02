@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?992bad0bcb2a26a5db517d3fc68efef5";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script>
+    window.onload = function() {
+      // 新的目标URL
+      const targetUrl = 'https://flowith.io/?inv=AIBOTT'
+      setTimeout(function() {
+          window.location.href = targetUrl;
+      }, 10);
+    };
+  </script>
+</head>
+<body>
+<!-- 页面内容 -->
+</body>
+</html>

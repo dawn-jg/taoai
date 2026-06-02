@@ -26,15 +26,8 @@ function countFiles(dir) {
 const before = countFiles(outDir);
 console.log(`Before cleanup: ${before} files`);
 
-// Delete logos/
-const logosDir = path.join(outDir, "logos");
-if (fs.existsSync(logosDir)) {
-  const logosCount = countFiles(logosDir);
-  fs.rmSync(logosDir, { recursive: true, force: true });
-  console.log(`Deleted logos/: ${logosCount} files`);
-}
-
-// Delete all .txt files recursively
+// Delete only RSC .txt files (not logos, not other content)
+// Keep logos/ directory - tools need local logo images!
 let txtCount = 0;
 function removeTxt(dir) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
