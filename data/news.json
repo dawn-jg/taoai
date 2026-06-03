@@ -1,56 +1,110 @@
 [
   {
-    "slug": "deepseek-r2-release",
-    "title": "DeepSeek 发布新一代推理模型 R2，数学能力大幅提升",
-    "summary": "深度求索正式发布 DeepSeek-R2 模型，在数学推理和代码生成方面实现重大突破，多项基准测试超越 GPT-5，API 价格仅为竞品 1/10。",
-    "content": "深度求索DeepSeek正式发布新一代推理模型 DeepSeek-R2。相比上一代 R1 模型，R2 在数学推理、代码生成和科学计算等任务上实现了质的飞跃。在 MATH 500、AIME 2025 等高难度数学基准上，R2 的表现超越了 OpenAI GPT-5 和 Anthropic Claude 4。同时 DeepSeek 维持了极低的价格策略，API 调用成本仅为同类产品的十分之一。",
-    "date": "2026-05-15",
-    "source": "DeepSeek",
-    "url": "https://blog.csdn.net/2401_84204413/article/details/157652240"
-  },
-  {
-    "slug": "seedance-2",
-    "title": "Seedance 2.0 视频生成模型全面接入豆包",
-    "summary": "字节跳动旗下 Seedance 视频生成模型推出 2.0 版本，支持上传参考素材，生成视频质量大幅提升。",
-    "content": "字节跳动旗下视频生成模型 Seedance 发布了 2.0 版本，并全面接入豆包平台。新版本支持用户上传参考素材作为视频生成的参考，生成的视频质量和一致性大幅提升。还新增了镜头控制、运动强度调节等专业功能，让创作者能更精确地控制生成结果。",
-    "date": "2026-05-10",
+    "slug": "seedance-2-launch",
+    "title": "Seedance 2.0 正式上线，支持真人素材参考",
+    "summary": "字节跳动视频生成模型 Seedance 发布 2.0 版本，支持上传真人素材作为参考，全面接入 LibTV 和豆包平台。",
+    "content": "字节跳动 Seed 团队推出的 Seedance 视频生成模型正式发布 2.0 版本。新版本最大亮点是支持上传真人素材作为视频生成的参考，大幅提升了生成视频的质量和一致性。同时新增了镜头控制、运动强度调节等专业功能，让创作者能更精确地控制生成结果。Seedance 2.0 已全面接入豆包和 LibTV 平台。",
+    "date": "2026-06-03",
     "source": "字节跳动",
-    "url": "https://new.qq.com/rain/a/20260508A07IMG00"
+    "url": "https://ai-bot.cn"
   },
   {
-    "slug": "claude-agent-guide",
-    "title": "Claude 官方发布 Agent 构建指南，系统讲解 AI 智能体设计",
-    "summary": "Anthropic 发布「Building Effective Agents」指南，系统讲解如何构建高效 AI 智能体，从简单到复杂的架构设计全覆盖。",
-    "content": "Anthropic 发布了官方 Agent 构建指南「Building Effective Agents」。该指南系统讲解了从简单工作流到复杂自主智能体的设计原则和最佳实践。内容包括何时使用 Agent 系统、常见架构模式（链式、路由、并行化等）、以及如何避免过度设计。指南强调从简单方案开始，只在必要时才增加复杂度。",
-    "date": "2026-05-05",
-    "source": "Anthropic",
-    "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    "slug": "dumate-baidu-desktop",
+    "title": "百度发布 DuMate 桌面端 AI 智能体",
+    "summary": "百度正式发布桌面端 AI 智能体 DuMate，整合大模型能力，支持本地办公自动化。",
+    "content": "百度推出了桌面端 AI 智能体 DuMate，旨在将大模型能力直接带到用户桌面上。DuMate 可以理解用户的屏幕内容，自动完成文件处理、信息检索、日程管理等办公任务，标志着百度在 AI Agent 领域的一个重要布局。",
+    "date": "2026-06-03",
+    "source": "百度",
+    "url": "https://ai-bot.cn"
   },
   {
-    "slug": "qwen-4",
-    "title": "阿里发布通义千问 4.0，多模态能力全面升级",
-    "summary": "Qwen 4.0 在理解、视频理解、长文档处理等多项多模态能力上达到新高度，多个权威榜单位居前茅。",
-    "content": "阿里巴巴正式发布通义千问 4.0 大模型。新版本在图理解、视频理解、长文档处理等多模态能力上实现全面升级，在多个国际权威评测基准中位居前茅。千问 4.0 继续坚持开源策略，开发者可在 ModelScope 和 HuggingFace 上免费获取模型权重。",
-    "date": "2026-04-28",
-    "source": "阿里云",
-    "url": "https://qwenlm.github.io/blog/"
+    "slug": "miaoda-nocode-platform",
+    "title": "秒哒：百度无代码 AI 应用开发平台上线",
+    "summary": "百度推出秒哒平台，一句话即可生成 AI 应用，零代码门槛让任何人都能开发。",
+    "content": "百度正式上线秒哒无代码 AI 应用开发平台。用户只需用自然语言描述需求，平台即可自动生成完整的 AI 应用，包括小程序、网页和 API 服务。秒哒内置了文心大模型能力，支持多种应用场景，大幅降低了 AI 应用开发的门槛。",
+    "date": "2026-06-02",
+    "source": "百度",
+    "url": "https://ai-bot.cn"
   },
   {
-    "slug": "sora-china",
-    "title": "Sora 正式在中国市场开放，支持中文提示词",
-    "summary": "OpenAI 旗下视频生成模型 Sora 正式向中国用户开放，支持中文提示词和多种中国本土化模板。",
-    "content": "OpenAI 旗下视频生成模型 Sora 正式向中国市场开放。中国用户现在可以直接访问 Sora 使用中文提示词生成高质量视频。新版本还加入了多种中国本土化的创意模板，覆盖短视频、广告、教育等热门场景。",
-    "date": "2026-04-20",
+    "slug": "qclaw-arkclaw-astronclaw",
+    "title": "OpenClaw 生态爆发：QClaw、ArkClaw、AstronClaw 集中上线",
+    "summary": "基于 OpenClaw 开源框架，腾讯、火山引擎、科大讯飞分别推出本地 AI 助手方案。",
+    "content": "OpenClaw 开源生态近期迎来集中爆发。腾讯电脑管家推出 QClaw 本地 AI 助手，火山引擎上线云端托管版 ArkClaw，科大讯飞发布 AstronClaw。三家大厂基于同一开源框架提供差异化服务，覆盖本地、云端和企业级场景，标志着中国 AI Agent 市场进入快速发展期。",
+    "date": "2026-06-01",
+    "source": "综合资讯",
+    "url": "https://ai-bot.cn"
+  },
+  {
+    "slug": "openai-build-agents-guide",
+    "title": "OpenAI 发布《构建 Agents 实用指南》",
+    "summary": "OpenAI 官方推出 Agents 构建指南 PDF，系统讲解 AI 智能体设计原则和最佳实践。",
+    "content": "OpenAI 发布了《构建 Agents 实用指南》PDF 文档，系统讲解了从简单工作流到复杂自主智能体的设计原则。内容涵盖何时使用 Agent 系统、常见架构模式（链式、路由、并行化等）、工具定义与使用、以及如何避免过度设计。该指南强调从简单方案开始，只在必要时增加复杂度。",
+    "date": "2026-05-30",
     "source": "OpenAI",
-    "url": "https://www.ennews.com/news-88036.html"
+    "url": "https://ai-bot.cn"
   },
   {
-    "slug": "metaso-deep",
-    "title": "秘塔AI搜索上线「深度研究」模式，自动生成结构化报告",
-    "summary": "秘塔AI推出全新「深度研究」模式，能自动分解复杂问题、多轮搜索验证，并生成结构化研究报告。",
-    "content": "秘塔AI搜索上线了全新「深度研究」模式。该模式能够自动分解复杂问题，进行多轮搜索和信息验证，最终生成带有引用来源的结构化研究报告。相比普通搜索，深度研究模式能处理需要多角度分析的专业问题，输出的报告质量接近人工研究助理水平。",
-    "date": "2026-04-15",
-    "source": "秘塔AI",
-    "url": "https://metaso.cn/"
+    "slug": "google-prompt-engineering-whitepaper",
+    "title": "谷歌发布 Prompt Engineering 提示词工程白皮书",
+    "summary": "谷歌推出提示词工程系统化指导文档，涵盖 Prompt 设计原则和高级技巧。",
+    "content": "谷歌正式发布了《Prompt Engineering》提示词工程白皮书。文档系统化地介绍了提示词的设计原则、常见模式和高级技巧，包括 few-shot 提示、Chain-of-Thought（思维链）、ReAct 模式等。适合从入门到进阶的 AI 使用者和开发者参考。中文版已同步发布。",
+    "date": "2026-05-28",
+    "source": "Google",
+    "url": "https://ai-bot.cn"
+  },
+  {
+    "slug": "anthropic-ai-economy-report",
+    "title": "Anthropic 发布《AI 经济指数报告》",
+    "summary": "Anthropic 推出 38 页中文版 AI 经济报告，分析 AI 对各行业的经济影响。",
+    "content": "Anthropic 发布了《AI 经济指数报告》中文版，全长 38 页。报告深入分析了 AI 技术对全球经济的影响，覆盖软件开发、内容创作、客户服务、数据分析等多个行业。数据显示 AI 使用率在过去一年增长了 3 倍，其中编程和写作是 AI 渗透率最高的两个领域。",
+    "date": "2026-05-25",
+    "source": "Anthropic",
+    "url": "https://ai-bot.cn"
+  },
+  {
+    "slug": "like-mv-ai-music-video",
+    "title": "立刻MV：一站式 AI 音乐视频创作工具上线",
+    "summary": "全新 AI MV 创作平台，输入歌词或选择曲风即可生成完整音乐视频。",
+    "content": "立刻MV 是一款一站式 AI 音乐视频（MV）创作工具，新收录于 AI 工具集。用户只需输入歌词或选择曲风，AI 即可自动生成完整的音乐视频，包括作曲、演唱、画面生成和剪辑。支持多种音乐风格和视觉风格，为音乐创作者和内容创作者提供了全新的创作方式。",
+    "date": "2026-06-03",
+    "source": "立刻MV",
+    "url": "https://ai-bot.cn"
+  },
+  {
+    "slug": "interiorize-ai-design",
+    "title": "Interiorize：AI 室内设计工具新上线",
+    "summary": "专注空间改造的 AI 室内设计工具，上传照片即可生成多种设计方案。",
+    "content": "Interiorize 是一款专注于空间改造的 AI 室内设计工具，最新收录于 AI 工具集。用户上传房间照片后，AI 可自动识别空间结构，生成多种风格的室内设计方案。支持实时预览、家具替换和材料更换，为装修用户和设计师提供了高效的可视化设计体验。",
+    "date": "2026-06-02",
+    "source": "Interiorize",
+    "url": "https://ai-bot.cn"
+  },
+  {
+    "slug": "duiyou-agent-design",
+    "title": "堆友AI 设计智能体上线",
+    "summary": "堆友推出 AI 设计 Agent，实现设计流程自动化，一键生成多风格视觉方案。",
+    "content": "堆友AI 正式上线设计智能体（Agent）功能。用户可以用自然语言描述设计需求，Agent 自动完成从创意构思到成品输出的全流程，支持海报、Banner、Logo、UI 界面等多种设计类型。智能体还能记住用户的偏好风格，实现个性化设计体验，大大提升了设计效率。",
+    "date": "2026-06-01",
+    "source": "堆友AI",
+    "url": "https://ai-bot.cn"
+  },
+  {
+    "slug": "jiaozhi-weave-creative",
+    "title": "交织 Weave：AI 全能创作平台新收录",
+    "summary": "支持文生图、图生视频、视频编辑一站式 AI 创意实现的综合创作平台。",
+    "content": "交织 Weave 是一款 AI 全能创作平台，新近收录于 AI 工具集。平台整合了文生图、图生视频、视频编辑、音乐生成等多种 AI 能力，创作者可以在一个平台上完成从构思到成品的全流程。支持团队协作和项目版本管理，适合广告创意、自媒体内容制作等场景。",
+    "date": "2026-06-01",
+    "source": "交织 Weave",
+    "url": "https://ai-bot.cn"
+  },
+  {
+    "slug": "haimeta-ai-content",
+    "title": "Haimeta：全链路 AI 内容平台上线",
+    "summary": "覆盖内容策划、生产、分发全流程的 AI 创意平台，一站式内容工厂。",
+    "content": "Haimeta 是一个 AI 内容创意平台，提供从内容策划、AI 生产到多渠道分发的全链路体验。平台内置了多种 AI 模型，支持图文、视频、音频等多种内容形态的生成。特别针对社交媒体营销场景优化，可以帮助品牌和创作者大幅提升内容产出效率。",
+    "date": "2026-05-31",
+    "source": "Haimeta",
+    "url": "https://ai-bot.cn"
   }
 ]
