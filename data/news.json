@@ -5,7 +5,8 @@
     "date": "2026-03-18",
     "source": "MiniMax 稀宇科技",
     "slug": "minimax推出minimax-m27开启模型的自我进化",
-    "content": "MiniMax发布M2.7模型，首次实现模型深度参与自我迭代，可构建复杂Agent Harness，在SWE-Pro基准测试得分56.22%接近Opus水平，GDPval-AA的ELO得分1495为开源最高。"
+    "content": "MiniMax发布M2.7模型，首次实现模型深度参与自我迭代，可构建复杂Agent Harness，在SWE-Pro基准测试得分56.22%接近Opus水平，GDPval-AA的ELO得分1495为开源最高。",
+    "url": "https://ai-bot.cn/minimax-m2-7/"
   },
   {
     "title": "LiblibAI推出专业AI视频创作平台LibTV",
@@ -13,7 +14,8 @@
     "date": "2026-03-18",
     "source": "哩布哩布AI",
     "slug": "liblibai推出专业ai视频创作平台libtv",
-    "content": "LiblibAI推出首个同时面向人类创作者与AI Agent的专业视频创作平台，支持剧本解析、分镜管理、角色三视图等20余种专业AI能力，集成豆包、可灵、Kimi等顶级模型。"
+    "content": "LiblibAI推出首个同时面向人类创作者与AI Agent的专业视频创作平台，支持剧本解析、分镜管理、角色三视图等20余种专业AI能力，集成豆包、可灵、Kimi等顶级模型。",
+    "url": "https://ai-bot.cn/sites/73776.html"
   },
   {
     "title": "昆仑万维Skywork正式推出云端AI原生助理SkyClaw",
@@ -21,7 +23,8 @@
     "date": "2026-03-18",
     "source": "昆仑万维集团",
     "slug": "昆仑万维skywork正式推出云端ai原生助理skyclaw",
-    "content": "Skywork正式推出SkyClaw，发布首批六大官方Skills涵盖PPT、Document、Excel、Design、Search及Mureka Music Maker，基于OpenClaw深度重构，支持24/7云端持续运行。"
+    "content": "Skywork正式推出SkyClaw，发布首批六大官方Skills涵盖PPT、Document、Excel、Design、Search及Mureka Music Maker，基于OpenClaw深度重构，支持24/7云端持续运行。",
+    "url": "https://ai-bot.cn/skyclaw/"
   },
   {
     "title": "百度推出龙虾全家桶，全面布局OpenClaw生态",
@@ -29,7 +32,8 @@
     "date": "2026-03-18",
     "source": "百度",
     "slug": "百度推出龙虾全家桶全面布局openclaw生态",
-    "content": "百度AI DAY推出龙虾全家桶：桌面AI智能体DuMate、手机龙虾应用RedClaw、小度家用小龙虾、云端虾DuClaw及安全虾。百度搜索Skill在OpenClaw官方商店下载量超4.5万次全球第一。"
+    "content": "百度AI DAY推出龙虾全家桶：桌面AI智能体DuMate、手机龙虾应用RedClaw、小度家用小龙虾、云端虾DuClaw及安全虾。百度搜索Skill在OpenClaw官方商店下载量超4.5万次全球第一。",
+    "url": "https://ai-bot.cn/sites/73722.html"
   },
   {
     "title": "科大讯飞正式发布桌面级AI智能助理Loomy",
@@ -37,7 +41,8 @@
     "date": "2026-03-17",
     "source": "讯飞开放平台",
     "slug": "科大讯飞正式发布桌面级ai智能助理loomy",
-    "content": "讯飞开放平台基于AstronClaw推出桌面级智能助理Loomy，主打本地办公场景，支持文件整理、数据分析、内容创作等任务，最快1分钟完成部署，兼容OpenClaw技能体系及MCP协议。"
+    "content": "讯飞开放平台基于AstronClaw推出桌面级智能助理Loomy，主打本地办公场景，支持文件整理、数据分析、内容创作等任务，最快1分钟完成部署，兼容OpenClaw技能体系及MCP协议。",
+    "url": "https://ai-bot.cn/sites/73695.html"
   },
   {
     "title": "商汤办公小浣熊技能模板功能开启内测",
@@ -45,7 +50,8 @@
     "date": "2026-03-17",
     "source": "商汤小浣熊",
     "slug": "商汤办公小浣熊技能模板功能开启内测",
-    "content": "商汤办公小浣熊推出技能模板内测功能，用户可创建、保存和复用自定义技能模板，将常用分析流程标准化，提升办公效率，目前内测申请已开放。"
+    "content": "商汤办公小浣熊推出技能模板内测功能，用户可创建、保存和复用自定义技能模板，将常用分析流程标准化，提升办公效率，目前内测申请已开放。",
+    "url": "https://ai-bot.cn/xiaohuanxiong/"
   },
   {
     "title": "阿里巴巴推出全球首个企业级AI原生工作平台悟空",
@@ -53,7 +59,8 @@
     "date": "2026-03-17",
     "source": "阿里巴巴",
     "slug": "阿里巴巴推出全球首个企业级ai原生工作平台悟空",
-    "content": "阿里推出企业级AI原生工作平台悟空，内置钉钉，主打企业级安全，AI Agent自动继承企业权限规则，所有操作在安全沙箱中运行。"
+    "content": "阿里推出企业级AI原生工作平台悟空，内置钉钉，主打企业级安全，AI Agent自动继承企业权限规则，所有操作在安全沙箱中运行。",
+    "url": "https://ai-bot.cn/sites/73661.html"
   },
   {
     "title": "全球首个自进化个人AI产品MuleRun正式推出",
@@ -61,7 +68,8 @@
     "date": "2026-03-17",
     "source": "量子位",
     "slug": "全球首个自进化个人ai产品mulerun正式推出",
-    "content": "MuleRun（骡子快跑）正式发布，主打零门槛使用，无需部署安装打开网页即可操作，具备7x24小时云端持续运行、自主进化、主动触达及群体智慧共享等特性。"
+    "content": "MuleRun（骡子快跑）正式发布，主打零门槛使用，无需部署安装打开网页即可操作，具备7x24小时云端持续运行、自主进化、主动触达及群体智慧共享等特性。",
+    "url": "https://ai-bot.cn/mulerun/"
   },
   {
     "title": "清华开源OpenMAIC，国内首个L4级AI课堂",
@@ -69,7 +77,8 @@
     "date": "2026-03-16",
     "source": "机器之心",
     "slug": "清华开源openmaic国内首个l4级ai课堂",
-    "content": "清华大学研究团队开源国内首个L4级AI课堂平台OpenMAIC，通过多智能体协作将PDF、论文等资料自动生成互动式课堂，配备AI老师、助教及虚拟学生角色。"
+    "content": "清华大学研究团队开源国内首个L4级AI课堂平台OpenMAIC，通过多智能体协作将PDF、论文等资料自动生成互动式课堂，配备AI老师、助教及虚拟学生角色。",
+    "url": "https://ai-bot.cn/openmaic/"
   },
   {
     "title": "科大讯飞AstronClaw全面开放，接入企业微信和钉钉",
@@ -77,7 +86,8 @@
     "date": "2026-03-12",
     "source": "讯飞开放平台",
     "slug": "科大讯飞astronclaw全面开放接入企业微信和钉钉",
-    "content": "讯飞AstronClaw全面开放，基于OpenClaw打造云端AI助手，内置120+官方Skills并支持ClawHub生态10000+技能，集成星火X2、Kimi-K2.5、GLM-5等多款旗舰大模型。"
+    "content": "讯飞AstronClaw全面开放，基于OpenClaw打造云端AI助手，内置120+官方Skills并支持ClawHub生态10000+技能，集成星火X2、Kimi-K2.5、GLM-5等多款旗舰大模型。",
+    "url": "https://ai-bot.cn/sites/73413.html"
   },
   {
     "title": "爱诗科技完成C轮融资，用户规模突破1亿",
@@ -85,7 +95,8 @@
     "date": "2026-03-12",
     "source": "爱诗科技AIsphere",
     "slug": "爱诗科技完成c轮融资用户规模突破1亿",
-    "content": "AI视频生成企业爱诗科技完成C轮融资由鼎晖领投，PixVerse V5.6模型在Artificial Analysis榜单中图生视频与文生视频位列全球第二，全球首发实时世界模型PixVerse R1。"
+    "content": "AI视频生成企业爱诗科技完成C轮融资由鼎晖领投，PixVerse V5.6模型在Artificial Analysis榜单中图生视频与文生视频位列全球第二，全球首发实时世界模型PixVerse R1。",
+    "url": "https://ai-bot.cn/pixverse-r1/"
   },
   {
     "title": "光轮智能完成10亿元融资，全球首个具身数据独角兽诞生",
@@ -93,7 +104,8 @@
     "date": "2026-03-12",
     "source": "光轮智能",
     "slug": "光轮智能完成10亿元融资全球首个具身数据独角兽诞生",
-    "content": "光轮智能完成10亿元A++及A+++轮融资，成为全球首个具身数据领域独角兽，已服务英伟达、谷歌、Figure AI、字节、智元等头部客户。"
+    "content": "光轮智能完成10亿元A++及A+++轮融资，成为全球首个具身数据领域独角兽，已服务英伟达、谷歌、Figure AI、字节、智元等头部客户。",
+    "url": "https://ai-bot.cn"
   },
   {
     "title": "Meta收购AI社交网络Moltbook，布局智能体身份注册表",
@@ -101,7 +113,8 @@
     "date": "2026-03-11",
     "source": "机器之心",
     "slug": "meta收购ai社交网络moltbook布局智能体身份注册表",
-    "content": "Meta正式收购AI社交网络Moltbook，创始人Matt Schlicht和Ben Parr将加入Meta超级智能实验室。Moltbook上线一个多月即吸引19.4万个AI智能体和超200万帖子。"
+    "content": "Meta正式收购AI社交网络Moltbook，创始人Matt Schlicht和Ben Parr将加入Meta超级智能实验室。Moltbook上线一个多月即吸引19.4万个AI智能体和超200万帖子。",
+    "url": "https://ai-bot.cn"
   },
   {
     "title": "百度智能云发布DuClaw零部署OpenClaw服务",
@@ -109,7 +122,8 @@
     "date": "2026-03-11",
     "source": "百度",
     "slug": "百度智能云发布duclaw零部署openclaw服务",
-    "content": "百度智能云发布零部署DuClaw服务，用户无需选择镜像、部署服务器或配置API Key即可即开即用，内置百度搜索、百科等Skills，支持多款主流大模型灵活切换。"
+    "content": "百度智能云发布零部署DuClaw服务，用户无需选择镜像、部署服务器或配置API Key即可即开即用，内置百度搜索、百科等Skills，支持多款主流大模型灵活切换。",
+    "url": "https://ai-bot.cn"
   },
   {
     "title": "Dify完成3000万美元融资，红杉中国领投",
@@ -117,6 +131,7 @@
     "date": "2026-03-11",
     "source": "Dify",
     "slug": "dify完成3000万美元融资红杉中国领投",
-    "content": "AI应用开发平台Dify完成3000万美元Pre-A轮融资由红杉中国领投，本轮融资将用于提升Agent可靠性、企业级运营管控能力及建设开源生态。"
+    "content": "AI应用开发平台Dify完成3000万美元Pre-A轮融资由红杉中国领投，本轮融资将用于提升Agent可靠性、企业级运营管控能力及建设开源生态。",
+    "url": "https://ai-bot.cn"
   }
 ]

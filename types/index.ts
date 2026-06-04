@@ -36,6 +36,7 @@ export interface NewsItem {
   content: string;
   date: string;
   source: string;
+  url?: string;
 }
 
 export interface TutorialItem {
