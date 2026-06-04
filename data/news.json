@@ -1,152 +1,110 @@
 [
   {
-    "slug": "minimax推出minimax-m2-7开启模型的自我进化",
-    "title": "MiniMax推出MiniMax M2.7，开启模型的自我进化",
-    "summary": "MiniMax发布M2.7模型，首次实现模型深度参与自我迭代，在SWE-Pro基准测试中得分56.22%接近Opus水平。",
-    "content": "MiniMax推出MiniMax M2.7模型，首次实现模型深度参与自我迭代。模型可构建复杂Agent Harness，通过Agent Teams、复杂Skills等能力完成高度复杂的生产力任务。在软件工程领域，M2.7在SWE-Pro基准测试中得分56.22%接近Opus水平，在VIBE-Pro端到端项目交付中达55.6%。在专业办公领域，GDPval-AA的ELO得分1495为开源最高。",
-    "date": "2026-03-18",
-    "source": "MiniMax 稀宇科技",
-    "url": "https://ai-bot.cn/minimax-m2-7/",
-    "category": "大模型"
+    "slug": "suno-4-billion-funding",
+    "title": "AI音乐公司 Suno 获4亿美元融资",
+    "summary": "AI音乐独角兽Suno完成4亿美元融资，估值翻倍至54亿美元，由Bond Capital领投。订阅用户已突破200万，年销售额有望达3亿美元。",
+    "content": "AI音乐独角兽Suno完成4亿美元融资，估值翻倍至54亿美元，由Bond Capital领投，IVP等跟投。公司订阅用户已突破200万，年销售额有望达3亿美元，计划年底扩招70%员工。Suno已与华纳音乐达成和解并签署授权协议，此前仍面临环球、索尼、华纳三大唱片公司的版权侵权诉讼。",
+    "date": "2026-06-04",
+    "source": "Z Potentials",
+    "url": "https://mp.weixin.qq.com/s/onjGSsaPZAlUAdZr81mYEg"
   },
   {
-    "slug": "liblibai推出专业ai视频创作平台libtv",
-    "title": "LiblibAI推出专业AI视频创作平台LibTV",
-    "summary": "LiblibAI推出首个面向人类创作者与AI Agent的专业视频创作平台，支持无限画布式工作流，集成豆包、可灵、Kimi等模型。",
-    "content": "LiblibAI推出首个同时面向人类创作者与AI Agent的专业视频创作平台LibTV，平台提供无限画布式工作流，支持剧本解析、分镜管理、角色三视图、多机位生成等20余种专业AI能力，集成豆包、可灵、Kimi等顶级模型。Agent可通过Skill接口调用LibTV，实现一句话生成5分钟短剧、音乐转MV、视频风格复刻等自动化创作。",
-    "date": "2026-03-18",
-    "source": "哩布哩布AI",
-    "url": "https://ai-bot.cn/sites/73776.html",
-    "category": "视频生成"
+    "slug": "kimi-work-beta",
+    "title": "月之暗面推出通用型本地 Agent「Kimi Work」Beta版",
+    "summary": "月之暗面推出面向知识工作者的通用型本地Agent「Kimi Work」Beta版，支持安装Skills、运行定时任务，可自主创建最多300个子Agent的集群协作。",
+    "content": "月之暗面推出面向知识工作者的通用型本地Agent「Kimi Work」Beta版，随Kimi最新测试版Mac和Windows客户端发布。其内核为Kimi Code，支持安装Skills、运行定时任务，内置Kimi WebBridge浏览器操作能力，可自主创建最多300个子Agent的集群协作。Beta版支持金融分析、科研数据清洗、办公报告生成等场景，目前开放内测。",
+    "date": "2026-06-04",
+    "source": "月之暗面Kimi",
+    "url": "https://mp.weixin.qq.com/s/guE7g4kpu_PdrDT0a7DhzA"
   },
   {
-    "slug": "skywork正式推出云端ai原生助理skyclaw",
-    "title": "Skywork正式推出云端AI原生助理SkyClaw",
-    "summary": "昆仑万维旗下Skywork推出云端AI原生助理SkyClaw，首批发布六大官方Skills，基于OpenClaw深度重构，支持24/7云端运行。",
-    "content": "昆仑万维旗下Skywork正式推出云端AI原生助理SkyClaw，发布首批六大官方Skills，涵盖Skywork PPT、Document、Excel、Design、Search及Mureka Music Maker，用户可通过GitHub或Clawhub平台调用。SkyClaw基于开源架构OpenClaw深度重构，支持24/7云端持续运行，本地离线也能自动完成任务。",
-    "date": "2026-03-18",
-    "source": "昆仑万维集团",
-    "url": "https://ai-bot.cn/skyclaw/",
-    "category": "AI智能体"
+    "slug": "joyai-echo-open-source",
+    "title": "京东开源长音视频生成框架 JoyAI-Echo",
+    "summary": "京东推出JoyAI-Echo长音视频生成框架，通过跨模态音视频记忆库等技术，解决角色一致性、声音稳定性和生成速度三大行业难题。",
+    "content": "京东推出JoyAI-Echo长音视频生成框架，通过跨模态音视频记忆库、记忆驱动后训练推理速度提升7.5倍、Director Agent对话式编辑及轻量化实时超分四项技术创新，解决角色一致性、声音稳定性和生成速度三大行业难题。实测显示框架5分钟视频角色与音色高度一致，语音准确率达0.8646。",
+    "date": "2026-06-04",
+    "source": "京东黑板报",
+    "url": "https://mp.weixin.qq.com/s/tISrnBhhxZnJmtbyfeB8sg"
   },
   {
-    "slug": "百度推出openclaw生态龙虾全家桶",
-    "title": "百度推出OpenClaw生态\"龙虾\"全家桶",
-    "summary": "百度AI DAY推出全系OpenClaw产品：桌面DuMate、手机RedClaw、小度家用版、云端DuClaw及安全虾。百度搜索Skill下载量全球第一。",
-    "content": "百度AI DAY推出\"龙虾\"全家桶，全面布局OpenClaw生态。核心产品包括：桌面AI智能体DuMate、手机龙虾应用RedClaw、小度\"家用小龙虾\"、云端虾DuClaw及安全虾。百度搜索Skill在OpenClaw官方商店下载量超4.5万次，位居全球第一。",
-    "date": "2026-03-18",
-    "source": "百度",
-    "url": "https://ai-bot.cn/sites/73722.html",
-    "category": "AI智能体"
+    "slug": "hermes-desktop-release",
+    "title": "Nous Research 推出 Hermes 官方桌面端 Hermes Desktop",
+    "summary": "Nous Research推出Hermes官方桌面客户端，支持macOS/Windows/Linux三端，具备持久记忆、任务调度、子代理委派及隔离沙箱等核心能力。",
+    "content": "Nous Research推出Hermes官方桌面客户端（预览），支持macOS、Windows和Linux三端。工具具备持久记忆、任务调度、子代理委派、网页浏览、多模态推理及隔离沙箱等核心能力，可直接在本地桌面运行，彻底告别终端命令行。",
+    "date": "2026-06-04",
+    "source": "AI工具集",
+    "url": "https://ai-bot.cn/nous-research-hermes-desktop/"
   },
   {
-    "slug": "科大讯飞正式发布桌面级ai智能助理loomy",
-    "title": "科大讯飞正式发布桌面级AI智能助理Loomy",
-    "summary": "讯飞推出基于AstronClaw的桌面智能助理Loomy，支持文件整理、数据分析、内容创作，最快1分钟完成部署，兼容OpenClaw技能体系。",
-    "content": "讯飞开放平台推出基于AstronClaw的桌面级智能助理Loomy，产品主打本地办公场景，支持文件整理、数据分析、内容创作等任务，最快1分钟完成部署。Loomy采用\"目录级隔离\"安全机制，仅访问授权目录，并支持QQ、飞书、钉钉等IM工具远程操控。产品兼容OpenClaw技能体系及MCP协议，支持DeepSeek、MiniMax等主流模型切换。",
-    "date": "2026-03-17",
-    "source": "讯飞开放平台",
-    "url": "https://ai-bot.cn/sites/73695.html",
-    "category": "AI智能体"
+    "slug": "openai-codex-three-updates",
+    "title": "OpenAI 发布 AI 编程智能体 Codex 三项更新",
+    "summary": "OpenAI宣布Codex三项更新：智能体插件预置6个岗位技能包、注释功能精准修改、站点功能一键转网站。周活跃用户已达500万。",
+    "content": "OpenAI宣布编程智能体Codex三项更新：智能体插件预置6个岗位技能包，企业无需编程可部署AI员工；注释功能支持对生成内容指哪改哪精准修改；站点功能可将文档一键转为交互式网站。Codex周活跃用户已达500万，较年初增长8倍。同时OpenAI计划将Codex引入ChatGPT，支持AWS平台一键部署。",
+    "date": "2026-06-03",
+    "source": "智东西",
+    "url": "https://mp.weixin.qq.com/s/3nHDmHMYRCmuEuziq2P_oA"
   },
   {
-    "slug": "商汤办公小浣熊技能模板功能开启内测",
-    "title": "商汤办公小浣熊「技能模板」功能开启内测",
-    "summary": "商汤办公小浣熊推出技能模板内测功能，用户可创建、保存和复用自定义数据分析技能模板，避免重复工作。",
-    "content": "商汤办公小浣熊正式推出技能模板内测功能，帮助用户避免重复数据分析工作。用户可创建、保存和复用自定义技能模板，提升办公效率。功能支持将常用分析流程标准化，实现一键调用。目前内测申请已开放，用户可前往官网体验。",
-    "date": "2026-03-17",
-    "source": "商汤小浣熊",
-    "url": "https://ai-bot.cn/xiaohuanxiong/",
-    "category": "AI办公"
+    "slug": "windsurf-devin-desktop",
+    "title": "Windsurf 升级更名为 Devin Desktop",
+    "summary": "Cognition宣布Windsurf正式升级为Devin Desktop，从AI IDE转型为Agent指挥中心，支持Kanban管理和ACP开放协议。",
+    "content": "Cognition宣布Windsurf正式升级为Devin Desktop，从AI IDE转型为Agent指挥中心。新版本引入Kanban统一管理本地与云端Agent，新增Spaces实现跨Agent上下文共享，支持ACP开放协议接入Codex、Claude Agent等第三方Agent。",
+    "date": "2026-06-03",
+    "source": "Devin",
+    "url": "https://devin.ai/blog/windsurf-is-now-devin-desktop/"
   },
   {
-    "slug": "阿里巴巴推出全球首个企业级agent平台悟空",
-    "title": "阿里巴巴推出全球首个企业级Agent平台\"悟空\"",
-    "summary": "阿里正式推出全球首个企业级AI原生工作平台悟空，内置钉钉，支持企业权限自动继承和安全沙箱运行。",
-    "content": "阿里巴巴正式推出全球首个企业级AI原生工作平台\"悟空\"。平台定位为独立应用，同时内置钉钉，支持连接企业钉钉账号及安全访问权限。悟空主打企业级安全，AI Agent自动继承企业权限规则，所有操作在安全沙箱中运行。",
-    "date": "2026-03-17",
-    "source": "阿里巴巴",
-    "url": "https://ai-bot.cn/sites/73661.html",
-    "category": "AI智能体"
+    "slug": "microsoft-seven-mai-models",
+    "title": "微软推出七款全新 MAI 模型",
+    "summary": "微软推出七款自研MAI模型，包括推理、图像、语音等模型，均从零训练无蒸馏，共享统一数据规范与评估框架。",
+    "content": "微软推出全新自研MAI模型，包括MAI-Thinking-1推理模型、MAI-Image-2.5图像模型、MAI-Image-2.5-Flash高效版图像模型、MAI-Voice-2语音模型、MAI-Voice-2-Flash高效版语音模型、MAI-Transcribe-1.5语音转文本模型及MAI-Code-1-Flash编码模型。所有模型均从零训练，无蒸馏。",
+    "date": "2026-06-03",
+    "source": "Microsoft.ai",
+    "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/"
   },
   {
-    "slug": "全球首个自进化个人ai产品mulerun正式发布",
-    "title": "全球首个自进化个人AI产品MuleRun正式发布",
-    "summary": "MuleRun骡子快跑发布，0门槛使用，7×24小时云端运行，支持自主进化、主动触达和群体智慧共享。",
-    "content": "全球首个自进化个人AI产品MuleRun（骡子快跑）正式发布。产品主打\"0门槛\"使用，无需部署安装，打开网页即可操作。MuleRun具备7×24小时云端持续运行能力，用户离线也能自动执行任务。产品核心特性包括自主进化、主动触达以及群体智慧共享，开放Agent网络生态，优质Agent可一键复用。",
-    "date": "2026-03-17",
+    "slug": "qianwen-app-open-third-party",
+    "title": "千问App向第三方Agent、Skill全面开放",
+    "summary": "千问App宣布向第三方Agent和Skill全面开放，肯德基、瑞幸、蜜雪冰城等首批企业正在测试，将陆续上线。",
+    "content": "千问App宣布向第三方Agent和Skill全面开放，所有企业均可在千问运营品牌Agent。肯德基、瑞幸、蜜雪冰城、东方航空等首批企业正在测试，将陆续上线。Agent具备记忆与主动规划能力，可主动提供行程提醒、权益到期、复购推荐等服务。",
+    "date": "2026-06-03",
+    "source": "千问APP",
+    "url": "https://mp.weixin.qq.com/s/rUcQ-QxC3xmKfrK18fV0Yw"
+  },
+  {
+    "slug": "bytedance-bernini-open-source",
+    "title": "字节跳动开源统一视频生成与编辑框架 Bernini",
+    "summary": "字节跳动开源Bernini统一视频生成与编辑框架，引入多模态大模型作为规划师，大幅提升AI视频编辑的可控性。",
+    "content": "字节跳动开源Bernini统一视频生成与编辑框架。框架创新性地引入多模态大模型作为规划师，模型能理解用户意图与语义目标，再交由扩散模型进行高质量视觉渲染，大幅提升AI视频编辑的可控性。",
+    "date": "2026-06-03",
     "source": "量子位",
-    "url": "https://ai-bot.cn/mulerun/",
-    "category": "AI智能体"
+    "url": "https://mp.weixin.qq.com/s/3CYSuFeN6Tk2eHFMsgjxVg"
   },
   {
-    "slug": "清华开源openmaic国内首个l4级ai课堂",
-    "title": "清华开源OpenMAIC，国内首个L4级AI课堂",
-    "summary": "清华大学开源L4级AI课堂平台，通过多智能体协作将PDF等资料自动生成互动式课堂，配备AI老师、助教及虚拟学生。",
-    "content": "清华大学研究团队开源国内首个L4级AI课堂平台OpenMAIC，平台通过多智能体协作，将PDF、论文等资料自动生成互动式课堂，配备AI老师、助教及虚拟学生角色，实现语音讲解、实时互动、白板标注等功能。教师上传材料，系统可自动解析生成课件、测验及PBL网页，大幅降低备课成本。",
-    "date": "2026-03-16",
-    "source": "机器之心",
-    "url": "https://ai-bot.cn/openmaic/",
-    "category": "AI教育"
+    "slug": "qwen3-7-plus-multimodal",
+    "title": "阿里通义推出多模态智能体基座模型 Qwen3.7-Plus",
+    "summary": "阿里推出Qwen3.7-Plus多模态模型，将视觉与语言统一为智能体基座，可感知场景、操作GUI、生成代码并执行任务。",
+    "content": "阿里推出Qwen3.7-Plus多模态模型。模型将视觉与语言统一为智能体基座，能感知场景、操作GUI、生成代码并执行任务。模型具备多模态推理、视觉编程和浏览器自动化等能力，可完成APP全链路开发等复杂工作流。在全球权威视觉榜单Vision Arena中，阿里跻身全球前五、中国第一。",
+    "date": "2026-06-02",
+    "source": "千问大模型",
+    "url": "https://mp.weixin.qq.com/s/Q-eoyZwit8c5EoOppGvQrg"
   },
   {
-    "slug": "讯飞astronclaw全面开放内置120个官方skills",
-    "title": "讯飞AstronClaw全面开放，内置120+官方Skills",
-    "summary": "科大讯飞AstronClaw全面开放，基于OpenClaw打造云端AI助手，接入企业微信、钉钉、飞书，集成星火X2等多款大模型。",
-    "content": "科大讯飞AstronClaw全面开放，基于OpenClaw打造云端AI助手，支持一键部署、沙箱隔离运行保障数据安全。产品接入企业微信、钉钉、飞书等主流IM，内置120+官方Skills并支持调用ClawHub生态10,000+技能，覆盖办公、营销、金融等场景。集成星火X2、Kimi-K2.5、GLM-5等多款旗舰大模型。",
-    "date": "2026-03-12",
-    "source": "讯飞开放平台",
-    "url": "https://ai-bot.cn/sites/73413.html",
-    "category": "AI智能体"
+    "slug": "alibaba-yugou-platform",
+    "title": "阿里达摩院推出 AI 原生开发平台「语构」",
+    "summary": "阿里达摩院推出AI原生开发平台「语构」，以Vibe Coding为核心范式，用户通过自然语言描述可生成完整数字产品。",
+    "content": "阿里达摩院推出AI原生开发平台「语构」，以Vibe Coding为核心范式，用户通过自然语言描述可生成完整可用的数字产品。平台覆盖需求理解、智能追问、自动开发到预览发布的全链路，内置大模型对话、文生图、机器翻译等标准化资源接口。",
+    "date": "2026-06-02",
+    "source": "AI工具集",
+    "url": "https://ai-bot.cn/creo4u/"
   },
   {
-    "slug": "爱诗科技完成c轮融资用户规模突破1亿",
-    "title": "爱诗科技完成C轮融资，用户规模突破1亿",
-    "summary": "AI视频企业爱诗科技完成C轮融资，鼎晖领投，PixVerse V5.6位列全球第二，首发实时世界模型PixVerse R1。",
-    "content": "AI视频生成企业爱诗科技宣布完成C轮融资，由鼎晖香港基金、鼎晖VGC、鼎晖百孚领投，中国儒意、三七互娱、亦庄国投、众为资本等跟投。本轮资金将用于视频基础模型迭代、实时世界模型研发及全球化团队建设。其PixVerse V5.6模型在Artificial Analysis榜单中位列图生视频与文生视频全球第二，全球首发实时世界模型PixVerse R1，用户规模已突破1亿。",
-    "date": "2026-03-12",
-    "source": "爱诗科技AIsphere",
-    "url": "https://ai-bot.cn/pixverse-r1/",
-    "category": "融资"
-  },
-  {
-    "slug": "光轮智能完成10亿元融资成全球首个具身数据独角兽",
-    "title": "光轮智能完成10亿元融资，成全球首个具身数据独角兽",
-    "summary": "光轮智能完成10亿元A++轮融资，成为全球首个具身数据领域独角兽，已服务英伟达、谷歌、Figure AI等客户。",
-    "content": "光轮智能完成10亿元A++及A+++轮融资，投资方包括新希望集团、三安光电家族办公室、奥克斯等产业方及建投华科等财务机构，成为全球首个具身数据领域独角兽。公司构建世界-行为-评测三层架构，已服务英伟达、谷歌、Figure AI、字节、智元等头部客户。",
-    "date": "2026-03-12",
-    "source": "光轮智能",
-    "url": "https://mp.weixin.qq.com/s/8KZA0lEiYDt-ZxWxHDKVUQ",
-    "category": "融资"
-  },
-  {
-    "slug": "dify完成3000万美元融资红杉中国领投",
-    "title": "Dify完成3000万美元融资，红杉中国领投",
-    "summary": "AI应用开发平台Dify完成3000万美元Pre-A轮融资，红杉中国领投，将用于提升Agent可靠性及开源生态建设。",
-    "content": "AI应用开发平台Dify完成3000万美元Pre-A轮融资，由红杉中国领投，GL Ventures、Alt-Alpha Capital、五源资本等跟投。本轮融资将用于提升Agent可靠性、企业级运营管控能力、降低构建门槛及建设开源生态。Dify是一个开源的Agentic Workflow构建平台，提供可视化构建器和生产级工程基础设施。",
-    "date": "2026-03-11",
-    "source": "Dify",
-    "url": "https://ai-bot.cn/dify/",
-    "category": "融资"
-  },
-  {
-    "slug": "智谱发布autoclaw澳龙国内首个一键安装本地版openclaw",
-    "title": "智谱发布AutoClaw（澳龙）：国内首个一键安装本地版OpenClaw",
-    "summary": "智谱上线AutoClaw，支持一键安装本地版OpenClaw，预置50+热门Skills，支持Mac和Windows双平台，1分钟完成部署。",
-    "content": "智谱正式上线AutoClaw（中文名\"澳龙\"），成为国内首个支持一键安装的本地版OpenClaw工具。产品预置50+热门Skills，支持macOS和Windows双平台，1分钟即可完成部署，一键接入飞书等即时通讯工具。AutoClaw内置智谱专为Agent场景优化的Pony-Alpha-2模型（内测中），集成AutoGLM Browser-Use浏览器操作能力。",
-    "date": "2026-03-10",
-    "source": "智谱",
-    "url": "https://ai-bot.cn/sites/73229.html",
-    "category": "AI智能体"
-  },
-  {
-    "slug": "腾讯推出qclaw一键安装直接打通微信",
-    "title": "腾讯推出QClaw：一键安装，直接打通微信",
-    "summary": "腾讯电脑管家推出QClaw，基于OpenClaw打造的本地AI助手，零配置关联微信，支持远程操控电脑完成各类任务。",
-    "content": "腾讯电脑管家推出QClaw，基于OpenClaw打造的本地AI助手，支持Mac和Windows双端，内置Kimi-2.5等模型。核心亮点是零配置直接关联微信，用户可通过微信远程操控电脑完成任务，如处理文档、社媒运营、GitHub项目开发等。数据全部本地存储保障隐私，依托5000+Skills生态。",
-    "date": "2026-03-10",
-    "source": "APPSO",
-    "url": "https://ai-bot.cn/sites/73177.html",
-    "category": "AI智能体"
+    "slug": "alphabet-80-billion-funding",
+    "title": "谷歌母公司 Alphabet 宣布 800 亿美元大额融资，用于 AI 支出",
+    "summary": "Alphabet宣布800亿美元股权融资用于AI基础设施与算力建设，伯克希尔·哈撒韦私募投资100亿美元。",
+    "content": "谷歌母公司Alphabet宣布总额800亿美元股权融资，用于AI基础设施与算力建设。其中300亿美元为公开发行，400亿美元按市值发行，伯克希尔·哈撒韦私募投资100亿美元。公司此前预计2026年资本支出达1800至1900亿美元，2027年将进一步提升。",
+    "date": "2026-06-02",
+    "source": "IT之家",
+    "url": "https://www.ithome.com/0/958/473.htm"
   }
 ]
