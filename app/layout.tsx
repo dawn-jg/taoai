@@ -22,6 +22,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <meta name="twitter:card" content="summary_large_image" />
         <script charSet="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js" />
         <script>{`LA.init({id:"LCklhM4QMEncFfxL",ck:"LCklhM4QMEncFfxL"})`}</script>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7487473818971469" crossOrigin="anonymous" />
       </head>
       <body className="min-h-full flex">
         <LeftSidebar />
