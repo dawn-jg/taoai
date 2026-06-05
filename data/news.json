@@ -1,110 +1,110 @@
 [
-  {
-    "slug": "suno-4-billion-funding",
-    "title": "AI音乐公司 Suno 获4亿美元融资",
-    "summary": "AI音乐独角兽Suno完成4亿美元融资，估值翻倍至54亿美元，由Bond Capital领投。订阅用户已突破200万，年销售额有望达3亿美元。",
-    "content": "AI音乐独角兽Suno完成4亿美元融资，估值翻倍至54亿美元，由Bond Capital领投，IVP等跟投。公司订阅用户已突破200万，年销售额有望达3亿美元，计划年底扩招70%员工。Suno已与华纳音乐达成和解并签署授权协议，此前仍面临环球、索尼、华纳三大唱片公司的版权侵权诉讼。",
-    "date": "2026-06-04",
-    "source": "Z Potentials",
-    "url": "https://mp.weixin.qq.com/s/onjGSsaPZAlUAdZr81mYEg"
-  },
-  {
-    "slug": "kimi-work-beta",
-    "title": "月之暗面推出通用型本地 Agent「Kimi Work」Beta版",
-    "summary": "月之暗面推出面向知识工作者的通用型本地Agent「Kimi Work」Beta版，支持安装Skills、运行定时任务，可自主创建最多300个子Agent的集群协作。",
-    "content": "月之暗面推出面向知识工作者的通用型本地Agent「Kimi Work」Beta版，随Kimi最新测试版Mac和Windows客户端发布。其内核为Kimi Code，支持安装Skills、运行定时任务，内置Kimi WebBridge浏览器操作能力，可自主创建最多300个子Agent的集群协作。Beta版支持金融分析、科研数据清洗、办公报告生成等场景，目前开放内测。",
-    "date": "2026-06-04",
-    "source": "月之暗面Kimi",
-    "url": "https://mp.weixin.qq.com/s/guE7g4kpu_PdrDT0a7DhzA"
-  },
-  {
-    "slug": "joyai-echo-open-source",
-    "title": "京东开源长音视频生成框架 JoyAI-Echo",
-    "summary": "京东推出JoyAI-Echo长音视频生成框架，通过跨模态音视频记忆库等技术，解决角色一致性、声音稳定性和生成速度三大行业难题。",
-    "content": "京东推出JoyAI-Echo长音视频生成框架，通过跨模态音视频记忆库、记忆驱动后训练推理速度提升7.5倍、Director Agent对话式编辑及轻量化实时超分四项技术创新，解决角色一致性、声音稳定性和生成速度三大行业难题。实测显示框架5分钟视频角色与音色高度一致，语音准确率达0.8646。",
-    "date": "2026-06-04",
-    "source": "京东黑板报",
-    "url": "https://mp.weixin.qq.com/s/tISrnBhhxZnJmtbyfeB8sg"
-  },
-  {
-    "slug": "hermes-desktop-release",
-    "title": "Nous Research 推出 Hermes 官方桌面端 Hermes Desktop",
-    "summary": "Nous Research推出Hermes官方桌面客户端，支持macOS/Windows/Linux三端，具备持久记忆、任务调度、子代理委派及隔离沙箱等核心能力。",
-    "content": "Nous Research推出Hermes官方桌面客户端（预览），支持macOS、Windows和Linux三端。工具具备持久记忆、任务调度、子代理委派、网页浏览、多模态推理及隔离沙箱等核心能力，可直接在本地桌面运行，彻底告别终端命令行。",
-    "date": "2026-06-04",
-    "source": "AI工具集",
-    "url": "https://ai-bot.cn/nous-research-hermes-desktop/"
-  },
-  {
-    "slug": "openai-codex-three-updates",
-    "title": "OpenAI 发布 AI 编程智能体 Codex 三项更新",
-    "summary": "OpenAI宣布Codex三项更新：智能体插件预置6个岗位技能包、注释功能精准修改、站点功能一键转网站。周活跃用户已达500万。",
-    "content": "OpenAI宣布编程智能体Codex三项更新：智能体插件预置6个岗位技能包，企业无需编程可部署AI员工；注释功能支持对生成内容指哪改哪精准修改；站点功能可将文档一键转为交互式网站。Codex周活跃用户已达500万，较年初增长8倍。同时OpenAI计划将Codex引入ChatGPT，支持AWS平台一键部署。",
-    "date": "2026-06-03",
-    "source": "智东西",
-    "url": "https://mp.weixin.qq.com/s/3nHDmHMYRCmuEuziq2P_oA"
-  },
-  {
-    "slug": "windsurf-devin-desktop",
-    "title": "Windsurf 升级更名为 Devin Desktop",
-    "summary": "Cognition宣布Windsurf正式升级为Devin Desktop，从AI IDE转型为Agent指挥中心，支持Kanban管理和ACP开放协议。",
-    "content": "Cognition宣布Windsurf正式升级为Devin Desktop，从AI IDE转型为Agent指挥中心。新版本引入Kanban统一管理本地与云端Agent，新增Spaces实现跨Agent上下文共享，支持ACP开放协议接入Codex、Claude Agent等第三方Agent。",
-    "date": "2026-06-03",
-    "source": "Devin",
-    "url": "https://devin.ai/blog/windsurf-is-now-devin-desktop/"
-  },
-  {
-    "slug": "microsoft-seven-mai-models",
-    "title": "微软推出七款全新 MAI 模型",
-    "summary": "微软推出七款自研MAI模型，包括推理、图像、语音等模型，均从零训练无蒸馏，共享统一数据规范与评估框架。",
-    "content": "微软推出全新自研MAI模型，包括MAI-Thinking-1推理模型、MAI-Image-2.5图像模型、MAI-Image-2.5-Flash高效版图像模型、MAI-Voice-2语音模型、MAI-Voice-2-Flash高效版语音模型、MAI-Transcribe-1.5语音转文本模型及MAI-Code-1-Flash编码模型。所有模型均从零训练，无蒸馏。",
-    "date": "2026-06-03",
-    "source": "Microsoft.ai",
-    "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/"
-  },
-  {
-    "slug": "qianwen-app-open-third-party",
-    "title": "千问App向第三方Agent、Skill全面开放",
-    "summary": "千问App宣布向第三方Agent和Skill全面开放，肯德基、瑞幸、蜜雪冰城等首批企业正在测试，将陆续上线。",
-    "content": "千问App宣布向第三方Agent和Skill全面开放，所有企业均可在千问运营品牌Agent。肯德基、瑞幸、蜜雪冰城、东方航空等首批企业正在测试，将陆续上线。Agent具备记忆与主动规划能力，可主动提供行程提醒、权益到期、复购推荐等服务。",
-    "date": "2026-06-03",
-    "source": "千问APP",
-    "url": "https://mp.weixin.qq.com/s/rUcQ-QxC3xmKfrK18fV0Yw"
-  },
-  {
-    "slug": "bytedance-bernini-open-source",
-    "title": "字节跳动开源统一视频生成与编辑框架 Bernini",
-    "summary": "字节跳动开源Bernini统一视频生成与编辑框架，引入多模态大模型作为规划师，大幅提升AI视频编辑的可控性。",
-    "content": "字节跳动开源Bernini统一视频生成与编辑框架。框架创新性地引入多模态大模型作为规划师，模型能理解用户意图与语义目标，再交由扩散模型进行高质量视觉渲染，大幅提升AI视频编辑的可控性。",
-    "date": "2026-06-03",
-    "source": "量子位",
-    "url": "https://mp.weixin.qq.com/s/3CYSuFeN6Tk2eHFMsgjxVg"
-  },
-  {
-    "slug": "qwen3-7-plus-multimodal",
-    "title": "阿里通义推出多模态智能体基座模型 Qwen3.7-Plus",
-    "summary": "阿里推出Qwen3.7-Plus多模态模型，将视觉与语言统一为智能体基座，可感知场景、操作GUI、生成代码并执行任务。",
-    "content": "阿里推出Qwen3.7-Plus多模态模型。模型将视觉与语言统一为智能体基座，能感知场景、操作GUI、生成代码并执行任务。模型具备多模态推理、视觉编程和浏览器自动化等能力，可完成APP全链路开发等复杂工作流。在全球权威视觉榜单Vision Arena中，阿里跻身全球前五、中国第一。",
-    "date": "2026-06-02",
-    "source": "千问大模型",
-    "url": "https://mp.weixin.qq.com/s/Q-eoyZwit8c5EoOppGvQrg"
-  },
-  {
-    "slug": "alibaba-yugou-platform",
-    "title": "阿里达摩院推出 AI 原生开发平台「语构」",
-    "summary": "阿里达摩院推出AI原生开发平台「语构」，以Vibe Coding为核心范式，用户通过自然语言描述可生成完整数字产品。",
-    "content": "阿里达摩院推出AI原生开发平台「语构」，以Vibe Coding为核心范式，用户通过自然语言描述可生成完整可用的数字产品。平台覆盖需求理解、智能追问、自动开发到预览发布的全链路，内置大模型对话、文生图、机器翻译等标准化资源接口。",
-    "date": "2026-06-02",
-    "source": "AI工具集",
-    "url": "https://ai-bot.cn/creo4u/"
-  },
-  {
-    "slug": "alphabet-80-billion-funding",
-    "title": "谷歌母公司 Alphabet 宣布 800 亿美元大额融资，用于 AI 支出",
-    "summary": "Alphabet宣布800亿美元股权融资用于AI基础设施与算力建设，伯克希尔·哈撒韦私募投资100亿美元。",
-    "content": "谷歌母公司Alphabet宣布总额800亿美元股权融资，用于AI基础设施与算力建设。其中300亿美元为公开发行，400亿美元按市值发行，伯克希尔·哈撒韦私募投资100亿美元。公司此前预计2026年资本支出达1800至1900亿美元，2027年将进一步提升。",
-    "date": "2026-06-02",
-    "source": "IT之家",
-    "url": "https://www.ithome.com/0/958/473.htm"
-  }
+    {
+        "slug":  "suno-4-billion-funding",
+        "title":  "AI音乐公司 Suno 获4亿美元融资",
+        "summary":  "AI音乐独角兽Suno完成4亿美元融资，估值翻倍至54亿美元，由Bond Capital领投。订阅用户已突破200万，年销售额有望达3亿美元。",
+        "content":  "AI音乐独角兽Suno完成4亿美元融资，估值翻倍至54亿美元，由Bond Capital领投，IVP等跟投。公司订阅用户已突破200万，年销售额有望达3亿美元，计划年底扩招70%员工。Suno已与华纳音乐达成和解并签署授权协议，此前仍面临环球、索尼、华纳三大唱片公司的版权侵权诉讼。",
+        "date":  "2026-06-04",
+        "source":  "Z Potentials",
+        "url":  "https://mp.weixin.qq.com/s/onjGSsaPZAlUAdZr81mYEg"
+    },
+    {
+        "slug":  "kimi-work-beta",
+        "title":  "月之暗面推出通用型本地 Agent「Kimi Work」Beta版",
+        "summary":  "月之暗面推出面向知识工作者的通用型本地Agent「Kimi Work」Beta版，支持安装Skills、运行定时任务，可自主创建最多300个子Agent的集群协作。",
+        "content":  "月之暗面推出面向知识工作者的通用型本地Agent「Kimi Work」Beta版，随Kimi最新测试版Mac和Windows客户端发布。其内核为Kimi Code，支持安装Skills、运行定时任务，内置Kimi WebBridge浏览器操作能力，可自主创建最多300个子Agent的集群协作。Beta版支持金融分析、科研数据清洗、办公报告生成等场景，目前开放内测。",
+        "date":  "2026-06-04",
+        "source":  "月之暗面Kimi",
+        "url":  "https://mp.weixin.qq.com/s/guE7g4kpu_PdrDT0a7DhzA"
+    },
+    {
+        "slug":  "joyai-echo-open-source",
+        "title":  "京东开源长音视频生成框架 JoyAI-Echo",
+        "summary":  "京东推出JoyAI-Echo长音视频生成框架，通过跨模态音视频记忆库等技术，解决角色一致性、声音稳定性和生成速度三大行业难题。",
+        "content":  "京东推出JoyAI-Echo长音视频生成框架，通过跨模态音视频记忆库、记忆驱动后训练推理速度提升7.5倍、Director Agent对话式编辑及轻量化实时超分四项技术创新，解决角色一致性、声音稳定性和生成速度三大行业难题。实测显示框架5分钟视频角色与音色高度一致，语音准确率达0.8646。",
+        "date":  "2026-06-04",
+        "source":  "京东黑板报",
+        "url":  "https://mp.weixin.qq.com/s/tISrnBhhxZnJmtbyfeB8sg"
+    },
+    {
+        "slug":  "hermes-desktop-release",
+        "title":  "Nous Research 推出 Hermes 官方桌面端 Hermes Desktop",
+        "summary":  "Nous Research推出Hermes官方桌面客户端，支持macOS/Windows/Linux三端，具备持久记忆、任务调度、子代理委派及隔离沙箱等核心能力。",
+        "content":  "Nous Research推出Hermes官方桌面客户端（预览），支持macOS、Windows和Linux三端。工具具备持久记忆、任务调度、子代理委派、网页浏览、多模态推理及隔离沙箱等核心能力，可直接在本地桌面运行，彻底告别终端命令行。",
+        "date":  "2026-06-04",
+        "source":  "AI工具集",
+        "url":  "https://new.qq.com/rain/a/20260604A041NM00"
+    },
+    {
+        "slug":  "openai-codex-three-updates",
+        "title":  "OpenAI 发布 AI 编程智能体 Codex 三项更新",
+        "summary":  "OpenAI宣布Codex三项更新：智能体插件预置6个岗位技能包、注释功能精准修改、站点功能一键转网站。周活跃用户已达500万。",
+        "content":  "OpenAI宣布编程智能体Codex三项更新：智能体插件预置6个岗位技能包，企业无需编程可部署AI员工；注释功能支持对生成内容指哪改哪精准修改；站点功能可将文档一键转为交互式网站。Codex周活跃用户已达500万，较年初增长8倍。同时OpenAI计划将Codex引入ChatGPT，支持AWS平台一键部署。",
+        "date":  "2026-06-03",
+        "source":  "智东西",
+        "url":  "https://mp.weixin.qq.com/s/3nHDmHMYRCmuEuziq2P_oA"
+    },
+    {
+        "slug":  "windsurf-devin-desktop",
+        "title":  "Windsurf 升级更名为 Devin Desktop",
+        "summary":  "Cognition宣布Windsurf正式升级为Devin Desktop，从AI IDE转型为Agent指挥中心，支持Kanban管理和ACP开放协议。",
+        "content":  "Cognition宣布Windsurf正式升级为Devin Desktop，从AI IDE转型为Agent指挥中心。新版本引入Kanban统一管理本地与云端Agent，新增Spaces实现跨Agent上下文共享，支持ACP开放协议接入Codex、Claude Agent等第三方Agent。",
+        "date":  "2026-06-03",
+        "source":  "Devin",
+        "url":  "https://devin.ai/blog/windsurf-is-now-devin-desktop/"
+    },
+    {
+        "slug":  "microsoft-seven-mai-models",
+        "title":  "微软推出七款全新 MAI 模型",
+        "summary":  "微软推出七款自研MAI模型，包括推理、图像、语音等模型，均从零训练无蒸馏，共享统一数据规范与评估框架。",
+        "content":  "微软推出全新自研MAI模型，包括MAI-Thinking-1推理模型、MAI-Image-2.5图像模型、MAI-Image-2.5-Flash高效版图像模型、MAI-Voice-2语音模型、MAI-Voice-2-Flash高效版语音模型、MAI-Transcribe-1.5语音转文本模型及MAI-Code-1-Flash编码模型。所有模型均从零训练，无蒸馏。",
+        "date":  "2026-06-03",
+        "source":  "Microsoft.ai",
+        "url":  "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/"
+    },
+    {
+        "slug":  "qianwen-app-open-third-party",
+        "title":  "千问App向第三方Agent、Skill全面开放",
+        "summary":  "千问App宣布向第三方Agent和Skill全面开放，肯德基、瑞幸、蜜雪冰城等首批企业正在测试，将陆续上线。",
+        "content":  "千问App宣布向第三方Agent和Skill全面开放，所有企业均可在千问运营品牌Agent。肯德基、瑞幸、蜜雪冰城、东方航空等首批企业正在测试，将陆续上线。Agent具备记忆与主动规划能力，可主动提供行程提醒、权益到期、复购推荐等服务。",
+        "date":  "2026-06-03",
+        "source":  "千问APP",
+        "url":  "https://mp.weixin.qq.com/s/rUcQ-QxC3xmKfrK18fV0Yw"
+    },
+    {
+        "slug":  "bytedance-bernini-open-source",
+        "title":  "字节跳动开源统一视频生成与编辑框架 Bernini",
+        "summary":  "字节跳动开源Bernini统一视频生成与编辑框架，引入多模态大模型作为规划师，大幅提升AI视频编辑的可控性。",
+        "content":  "字节跳动开源Bernini统一视频生成与编辑框架。框架创新性地引入多模态大模型作为规划师，模型能理解用户意图与语义目标，再交由扩散模型进行高质量视觉渲染，大幅提升AI视频编辑的可控性。",
+        "date":  "2026-06-03",
+        "source":  "量子位",
+        "url":  "https://mp.weixin.qq.com/s/3CYSuFeN6Tk2eHFMsgjxVg"
+    },
+    {
+        "slug":  "qwen3-7-plus-multimodal",
+        "title":  "阿里通义推出多模态智能体基座模型 Qwen3.7-Plus",
+        "summary":  "阿里推出Qwen3.7-Plus多模态模型，将视觉与语言统一为智能体基座，可感知场景、操作GUI、生成代码并执行任务。",
+        "content":  "阿里推出Qwen3.7-Plus多模态模型。模型将视觉与语言统一为智能体基座，能感知场景、操作GUI、生成代码并执行任务。模型具备多模态推理、视觉编程和浏览器自动化等能力，可完成APP全链路开发等复杂工作流。在全球权威视觉榜单Vision Arena中，阿里跻身全球前五、中国第一。",
+        "date":  "2026-06-02",
+        "source":  "千问大模型",
+        "url":  "https://mp.weixin.qq.com/s/Q-eoyZwit8c5EoOppGvQrg"
+    },
+    {
+        "slug":  "alibaba-yugou-platform",
+        "title":  "阿里达摩院推出 AI 原生开发平台「语构」",
+        "summary":  "阿里达摩院推出AI原生开发平台「语构」，以Vibe Coding为核心范式，用户通过自然语言描述可生成完整数字产品。",
+        "content":  "阿里达摩院推出AI原生开发平台「语构」，以Vibe Coding为核心范式，用户通过自然语言描述可生成完整可用的数字产品。平台覆盖需求理解、智能追问、自动开发到预览发布的全链路，内置大模型对话、文生图、机器翻译等标准化资源接口。",
+        "date":  "2026-06-02",
+        "source":  "AI工具集",
+        "url":  "https://new.qq.com/rain/a/20260602A035JG00"
+    },
+    {
+        "slug":  "alphabet-80-billion-funding",
+        "title":  "谷歌母公司 Alphabet 宣布 800 亿美元大额融资，用于 AI 支出",
+        "summary":  "Alphabet宣布800亿美元股权融资用于AI基础设施与算力建设，伯克希尔·哈撒韦私募投资100亿美元。",
+        "content":  "谷歌母公司Alphabet宣布总额800亿美元股权融资，用于AI基础设施与算力建设。其中300亿美元为公开发行，400亿美元按市值发行，伯克希尔·哈撒韦私募投资100亿美元。公司此前预计2026年资本支出达1800至1900亿美元，2027年将进一步提升。",
+        "date":  "2026-06-02",
+        "source":  "IT之家",
+        "url":  "https://www.ithome.com/0/958/473.htm"
+    }
 ]
