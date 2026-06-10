@@ -1,7 +1,7 @@
 [
   {
     "slug": "minimax-m2-7-self-evolution",
-    "title": "MiniMax推出MiniMax M2.7，开启模型的自我进化",
+    "title": "MiniMax推出M2.7，开启模型自我进化",
     "summary": "MiniMax推出M2.7模型，首次实现模型深度参与自我迭代，可构建复杂Agent Harness。SWE-Pro基准得分56.22%接近Opus水平。",
     "content": "MiniMax推出MiniMax M2.7模型，首次实现模型深度参与自我迭代。模型可构建复杂Agent Harness，通过Agent Teams、复杂Skills等能力完成高度复杂的生产力任务。在软件工程领域，M2.7在SWE-Pro基准测试中得分56.22%接近Opus水平，在VIBE-Pro端到端项目交付中达55.6%。在专业办公领域，GDPval-AA的ELO得分1495为开源最高。",
     "date": "2026-03-18",
@@ -55,7 +55,7 @@
   },
   {
     "slug": "alibaba-wukong-enterprise-agent-platform",
-    "title": "全球首个企业级Agent平台悟空来了",
+    "title": "全球首个企业级Agent平台悟空正式发布",
     "summary": "阿里巴巴推出全球首个企业级AI原生工作平台悟空，内置钉钉，支持企业权限继承和安全沙箱运行，定位为独立应用。",
     "content": "阿里巴巴正式推出全球首个企业级AI原生工作平台悟空。平台定位为独立应用，同时内置钉钉，支持连接企业钉钉账号及安全访问权限。悟空主打企业级安全，AI Agent自动继承企业权限规则，所有操作在安全沙箱中运行。",
     "date": "2026-03-17",
@@ -64,17 +64,17 @@
   },
   {
     "slug": "mulerun-self-evolving-personal-ai",
-    "title": "全球首个自进化个人AI：MuleRun正式推出",
-    "summary": "MuleRun（骡子快跑）正式发布，主打0门槛使用，无需部署安装，7×24小时云端持续运行，具备自主进化、主动触达及群体智慧共享能力。",
-    "content": "全球首个自进化个人AI产品MuleRun（骡子快跑）正式发布。产品主打0门槛使用，无需部署安装，打开网页即可操作。MuleRun具备7×24小时云端持续运行能力，用户离线也能自动执行任务。产品核心特性包括自主进化、主动触达以及群体智慧共享，开放Agent网络生态，优质Agent可一键复用。",
+    "title": "全球首个自进化个人AI产品MuleRun正式发布",
+    "summary": "MuleRun正式发布，主打零门槛使用，无需部署安装。具备7x24小时云端持续运行能力，核心特性包括自主进化、主动触达及群体智慧共享。",
+    "content": "全球首个自进化个人AI产品MuleRun（骡子快跑）正式发布。产品主打零门槛使用，无需部署安装，打开网页即可操作。MuleRun具备7×24小时云端持续运行能力，用户离线也能自动执行任务。产品核心特性包括自主进化、主动触达以及群体智慧共享，开放Agent网络生态，优质Agent可一键复用。",
     "date": "2026-03-17",
     "source": "量子位",
     "url": "https://ai-bot.cn/mulerun/"
   },
   {
     "slug": "tsinghua-openmaic-l4-ai-classroom",
-    "title": "清华开源OpenMAIC，国内首个L4级AI课堂",
-    "summary": "清华大学开源国内首个L4级AI课堂平台OpenMAIC，通过多智能体协作将PDF、论文自动生成互动式课堂，配备AI老师、助教及虚拟学生角色。",
+    "title": "清华开源国内首个L4级AI课堂OpenMAIC",
+    "summary": "清华大学研究团队开源国内首个L4级AI课堂平台OpenMAIC，通过多智能体协作将PDF、论文等资料自动生成互动式课堂。",
     "content": "清华大学研究团队开源国内首个L4级AI课堂平台OpenMAIC，平台通过多智能体协作，将PDF、论文等资料自动生成互动式课堂，配备AI老师、助教及虚拟学生角色，实现语音讲解、实时互动、白板标注等功能。教师上传材料，系统可自动解析生成课件、测验及PBL网页，大幅降低备课成本。",
     "date": "2026-03-16",
     "source": "机器之心",
@@ -82,29 +82,56 @@
   },
   {
     "slug": "iflytek-astronclaw-full-launch",
-    "title": "讯飞AstronClaw全面开放，安全养虾发布",
-    "summary": "科大讯飞AstronClaw全面开放，支持一键部署、沙箱隔离，接入企业微信、钉钉、飞书，内置120+官方Skills，集成星火X2等多款旗舰大模型。",
-    "content": "科大讯飞AstronClaw全面开放，基于OpenClaw打造云端AI助手，支持一键部署、沙箱隔离运行保障数据安全。产品接入企业微信、钉钉、飞书等主流IM，内置120+官方Skills并支持调用ClawHub生态10000+技能，覆盖办公、营销、金融等场景。集成星火X2、Kimi-K2.5、GLM-5等多款旗舰大模型。",
+    "title": "讯飞AstronClaw全面开放，内置120+官方Skills",
+    "summary": "科大讯飞AstronClaw全面开放，基于OpenClaw打造云端AI助手，集成120+官方Skills和星火X2、Kimi-K2.5、GLM-5等旗舰大模型。",
+    "content": "科大讯飞AstronClaw全面开放，基于OpenClaw打造云端AI助手，支持一键部署、沙箱隔离运行保障数据安全。产品接入企业微信、钉钉、飞书等主流IM，内置120+官方Skills并支持调用ClawHub生态10,000+技能，覆盖办公、营销、金融等场景。集成星火X2、Kimi-K2.5、GLM-5等多款旗舰大模型。",
     "date": "2026-03-12",
     "source": "讯飞开放平台",
     "url": "https://ai-bot.cn/sites/73413.html"
   },
   {
     "slug": "aishi-tech-series-c-funding",
-    "title": "爱诗科技完成C轮融资，鼎晖领投",
-    "summary": "AI视频企业爱诗科技完成C轮融资，鼎晖领投，中国儒意、三七互娱等跟投。PixVerse V5.6全球第二，用户突破1亿，全球首发实时世界模型PixVerse R1。",
-    "content": "AI视频生成企业爱诗科技宣布完成C轮融资，由鼎晖香港基金、鼎晖VGC、鼎晖百孚领投，中国儒意、三七互娱、亦庄国投、众为资本等国内外多家机构跟投。本轮资金将用于视频基础模型迭代、实时世界模型研发及全球化团队建设。其PixVerse V5.6模型在Artificial Analysis榜单中位列图生视频与文生视频全球第二，全球首发实时世界模型PixVerse R1，用户规模已突破1亿。",
+    "title": "爱诗科技完成C轮融资，用户规模突破1亿",
+    "summary": "AI视频生成企业爱诗科技完成C轮融资，由鼎晖领投。PixVerse V5.6模型位列全球第二，全球首发实时世界模型PixVerse R1。",
+    "content": "AI视频生成企业爱诗科技宣布完成C轮融资，由鼎晖香港基金、鼎晖VGC、鼎晖百孚领投，中国儒意、三七互娱、亦庄国投、众为资本等国内外多家机构跟投。其PixVerse V5.6模型在Artificial Analysis榜单中位列图生视频与文生视频全球第二，全球首发实时世界模型PixVerse R1，用户规模已突破1亿。",
     "date": "2026-03-12",
     "source": "爱诗科技AIsphere",
     "url": "https://ai-bot.cn/pixverse-r1/"
   },
   {
-    "slug": "lightwheel-1b-funding-embodied-data-unicorn",
-    "title": "光轮智能完成10亿元融资，全球首个具身数据独角兽诞生",
-    "summary": "光轮智能完成10亿元A++及A+++轮融资，成为全球首个具身数据领域独角兽，已服务英伟达、谷歌、Figure AI、字节、智元等头部客户。",
+    "slug": "guanglun-intelligence-1b-funding",
+    "title": "光轮智能完成10亿元融资，具身数据独角兽诞生",
+    "summary": "光轮智能完成10亿元融资，成为全球首个具身数据领域独角兽，已服务英伟达、谷歌、Figure AI、字节、智元等头部客户。",
     "content": "光轮智能完成10亿元A++及A+++轮融资，投资方包括新希望集团、三安光电家族办公室、奥克斯等产业方及建投华科等财务机构，成为全球首个具身数据领域独角兽。公司构建世界-行为-评测三层架构，提供物理仿真、规模化数据生产与模型评测服务，已服务英伟达、谷歌、Figure AI、字节、智元等头部客户。",
     "date": "2026-03-12",
     "source": "光轮智能",
-    "url": "https://ai-bot.cn/"
+    "url": "https://mp.weixin.qq.com/s/8KZA0lEiYDt-ZxWxHDKVUQ"
+  },
+  {
+    "slug": "meta-acquires-moltbook-ai-social",
+    "title": "Meta收购AI社交网络Moltbook",
+    "summary": "Meta正式收购AI社交网络Moltbook，创始人将加入Meta超级智能实验室。Moltbook上线一个多月即吸引19.4万个AI智能体和超200万帖子。",
+    "content": "Meta正式收购AI社交网络Moltbook，创始人Matt Schlicht和Ben Parr将于3月16日加入Meta超级智能实验室（MSL）。Moltbook上线一个多月即吸引19.4万个AI智能体和超200万帖子。Meta看中其智能体验证身份与互联的系统机制，为构建智能体身份注册表铺路。",
+    "date": "2026-03-11",
+    "source": "机器之心",
+    "url": "https://ai-bot.cn/moltbook/"
+  },
+  {
+    "slug": "baidu-duclaw-zero-deploy-openclaw",
+    "title": "百度智能云发布DuClaw零部署OpenClaw服务",
+    "summary": "百度智能云发布DuClaw，无需选择镜像、部署服务器或配置API Key即可即开即用，内置百度搜索、百科、学术搜索等Skills。",
+    "content": "百度智能云发布零部署OpenClaw服务DuClaw，用户无需选择镜像、部署服务器或配置API Key即可即开即用。DuClaw内置百度搜索、百科、学术搜索等百度优势Skills，并支持DeepSeek、Kimi-K2.5等多款主流大模型灵活切换。目前网页端已上线，后续将接入企业微信、钉钉、飞书等应用。",
+    "date": "2026-03-11",
+    "source": "百度",
+    "url": "https://ai-bot.cn/duclaw/"
+  },
+  {
+    "slug": "dify-30m-funding-sequoia-china",
+    "title": "Dify完成3000万美元融资，红杉中国领投",
+    "summary": "AI应用开发平台Dify完成3000万美元Pre-A轮融资，由红杉中国领投，用于提升Agent可靠性和企业级运营管控能力。",
+    "content": "AI应用开发平台Dify完成3000万美元Pre-A轮融资，由红杉中国领投，GL Ventures、Alt-Alpha Capital、五源资本等跟投。本轮融资将用于提升Agent可靠性、企业级运营管控能力、降低构建门槛及建设开源生态。Dify是一个开源的Agentic Workflow构建平台，提供可视化构建器和生产级工程基础设施。",
+    "date": "2026-03-11",
+    "source": "Dify",
+    "url": "https://ai-bot.cn/dify/"
   }
 ]
