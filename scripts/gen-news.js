@@ -1,0 +1,145 @@
+const fs = require('fs');
+const path = require('path');
+
+function slugify(text) {
+  return text.replace(/[^a-zA-Z0-9\u4e00-\u9fff]+/g, '-').replace(/^-|-$/g, '').toLowerCase();
+}
+
+const items = [
+  {
+    title: 'MiniMax推出MiniMax M2.7，开启模型的自我进化',
+    summary: 'MiniMax推出M2.7模型，首次实现模型深度参与自我迭代。可构建复杂Agent Harness，在SWE-Pro基准得分56.22%接近Opus水平，VIBE-Pro端到端达55.6%，GDPval-AA的ELO得分1495为开源最高。',
+    content: 'MiniMax推出M2.7模型，首次实现模型深度参与自我迭代。模型可构建复杂Agent Harness，通过Agent Teams、复杂Skills等能力完成高度复杂的生产力任务。在软件工程领域，M2.7在SWE-Pro基准测试中得分56.22%接近Opus水平，在VIBE-Pro端到端项目交付中达55.6%。在专业办公领域，GDPval-AA的ELO得分1495为开源最高。',
+    date: '2026-03-18',
+    source: 'MiniMax 稀宇科技',
+    category: '大模型'
+  },
+  {
+    title: 'LiblibAI推出专业AI视频创作平台LibTV',
+    summary: 'LiblibAI推出首个同时面向人类创作者与AI Agent的专业视频创作平台LibTV，提供无限画布式工作流，支持剧本解析、分镜管理、角色三视图、多机位生成等20余种专业AI能力，集成豆包、可灵、Kimi等顶级模型。',
+    content: 'LiblibAI推出首个同时面向人类创作者与AI Agent的专业视频创作平台LibTV，平台提供无限画布式工作流，支持剧本解析、分镜管理、角色三视图、多机位生成等20余种专业AI能力，集成豆包、可灵、Kimi等顶级模型。Agent可通过Skill接口调用LibTV，实现一句话生成5分钟短剧、音乐转MV、视频风格复刻等自动化创作。',
+    date: '2026-03-18',
+    source: '哩布哩布AI',
+    category: 'AI视频'
+  },
+  {
+    title: 'Skywork正式推出云端AI原生助理SkyClaw',
+    summary: '昆仑万维旗下Skywork正式推出云端AI原生助理SkyClaw，发布首批六大官方Skills，涵盖PPT、Document、Excel、Design、Search及音乐制作，支持24/7云端持续运行。',
+    content: '昆仑万维旗下Skywork正式推出云端AI原生助理SkyClaw，发布首批六大官方Skills，涵盖Skywork PPT、Document、Excel、Design、Search及Mureka Music Maker，用户可通过GitHub或Clawhub平台调用。SkyClaw基于开源架构OpenClaw深度重构，支持24/7云端持续运行，本地离线也能自动完成任务。',
+    date: '2026-03-18',
+    source: '昆仑万维集团',
+    category: 'AI智能体'
+  },
+  {
+    title: '百度推出龙虾全家桶，手机电脑家里都能用',
+    summary: '百度AI DAY推出龙虾全家桶，全面布局OpenClaw生态。核心产品包括桌面AI智能体DuMate、手机龙虾应用RedClaw、小度家用小龙虾、云端虾DuClaw及安全虾。',
+    content: '百度AI DAY推出龙虾全家桶，全面布局OpenClaw生态。核心产品包括：桌面AI智能体DuMate、手机龙虾应用RedClaw、小度家用小龙虾、云端虾DuClaw及安全虾。百度搜索Skill在OpenClaw官方商店下载量超4.5万次，位居全球第一。',
+    date: '2026-03-18',
+    source: '百度',
+    category: 'AI智能体'
+  },
+  {
+    title: '科大讯飞正式发布桌面级AI智能助理Loomy',
+    summary: '讯飞开放平台推出基于AstronClaw的桌面级智能助理Loomy，支持文件整理、数据分析、内容创作等任务，最快1分钟完成部署。',
+    content: '讯飞开放平台推出基于AstronClaw的桌面级智能助理Loomy，产品主打本地办公场景，支持文件整理、数据分析、内容创作等任务，最快1分钟完成部署。Loomy采用目录级隔离安全机制，仅访问授权目录，并支持QQ、飞书、钉钉等IM工具远程操控。产品兼容OpenClaw技能体系及MCP协议，支持DeepSeek、MiniMax等主流模型切换。',
+    date: '2026-03-17',
+    source: '讯飞开放平台',
+    category: 'AI智能体'
+  },
+  {
+    title: '商汤办公小浣熊技能模板功能开启内测',
+    summary: '商汤办公小浣熊正式推出技能模板内测功能，用户可创建、保存和复用自定义技能模板，将常用分析流程标准化，实现一键调用。',
+    content: '商汤办公小浣熊正式推出技能模板内测功能，帮助用户避免重复数据分析工作。用户可创建、保存和复用自定义技能模板，提升办公效率。功能支持将常用分析流程标准化，实现一键调用。目前内测申请已开放，用户可前往官网体验。',
+    date: '2026-03-17',
+    source: '商汤小浣熊',
+    category: 'AI办公'
+  },
+  {
+    title: '全球首个企业级Agent平台悟空来了',
+    summary: '阿里巴巴正式推出全球首个企业级AI原生工作平台悟空，定位为独立应用同时内置钉钉，AI Agent自动继承企业权限规则，所有操作在安全沙箱中运行。',
+    content: '阿里巴巴正式推出全球首个企业级AI原生工作平台悟空。平台定位为独立应用，同时内置钉钉，支持连接企业钉钉账号及安全访问权限。悟空主打企业级安全，AI Agent自动继承企业权限规则，所有操作在安全沙箱中运行。',
+    date: '2026-03-17',
+    source: '阿里巴巴',
+    category: 'AI智能体'
+  },
+  {
+    title: '全球首个自进化个人AI：MuleRun正式推出',
+    summary: '全球首个自进化个人AI产品MuleRun（骡子快跑）正式发布，主打零门槛使用，无需部署安装，打开网页即可操作，具备7x24小时云端持续运行能力。',
+    content: '全球首个自进化个人AI产品MuleRun（骡子快跑）正式发布。产品主打零门槛使用，无需部署安装，打开网页即可操作。MuleRun具备7x24小时云端持续运行能力，用户离线也能自动执行任务。产品核心特性包括自主进化、主动触达以及群体智慧共享，开放Agent网络生态，优质Agent可一键复用。',
+    date: '2026-03-17',
+    source: '量子位',
+    category: 'AI智能体'
+  },
+  {
+    title: '清华开源OpenMAIC，国内首个L4级AI课堂',
+    summary: '清华大学研究团队开源国内首个L4级AI课堂平台OpenMAIC，通过多智能体协作将PDF、论文等资料自动生成互动式课堂。',
+    content: '清华大学研究团队开源国内首个L4级AI课堂平台OpenMAIC，平台通过多智能体协作，将PDF、论文等资料自动生成互动式课堂，配备AI老师、助教及虚拟学生角色，实现语音讲解、实时互动、白板标注等功能。教师上传材料，系统可自动解析生成课件、测验及PBL网页，大幅降低备课成本。',
+    date: '2026-03-16',
+    source: '机器之心',
+    category: 'AI教育'
+  },
+  {
+    title: '讯飞AstronClaw全面开放，内置120+官方Skills',
+    summary: '科大讯飞AstronClaw全面开放，基于OpenClaw打造云端AI助手，支持一键部署、沙箱隔离运行，内置120+官方Skills并支持ClawHub生态10000+技能。',
+    content: '科大讯飞AstronClaw全面开放，基于OpenClaw打造云端AI助手，支持一键部署、沙箱隔离运行保障数据安全。产品接入企业微信、钉钉、飞书等主流IM，内置120+官方Skills并支持调用ClawHub生态10000+技能，覆盖办公、营销、金融等场景。集成星火X2、Kimi-K2.5、GLM-5等多款旗舰大模型。',
+    date: '2026-03-12',
+    source: '讯飞开放平台',
+    category: 'AI智能体'
+  },
+  {
+    title: '爱诗科技完成C轮融资，鼎晖领投开启可玩现实新纪元',
+    summary: 'AI视频生成企业爱诗科技宣布完成C轮融资，由鼎晖香港基金、鼎晖VGC等领投。PixVerse V5.6位列图生视频与文生视频全球第二，用户规模突破1亿。',
+    content: 'AI视频生成企业爱诗科技宣布完成C轮融资，由鼎晖香港基金、鼎晖VGC、鼎晖百孚领投，中国儒意、三七互娱、亦庄国投、众为资本等国内外多家机构跟投。本轮资金将用于视频基础模型迭代、实时世界模型研发及全球化团队建设。其PixVerse V5.6模型在Artificial Analysis榜单中位列图生视频与文生视频全球第二，全球首发实时世界模型PixVerse R1，用户规模已突破1亿。',
+    date: '2026-03-12',
+    source: '爱诗科技AIsphere',
+    category: 'AI视频'
+  },
+  {
+    title: '威努特WinClaw正式发布，构建五层安全防护体系',
+    summary: '威努特正式发布安全龙虾产品WinClaw，构建五层安全防护体系：身份认证双向鉴权、安装审查拦截14类危险模式、消息拦截41条安全规则、执行约束敏感操作二次确认、监控审计本地日志追溯。',
+    content: '威努特正式发布安全龙虾产品WinClaw，针对OpenClaw存在的安全风险（CNNVD通报82个漏洞，含12个超危漏洞）及配置复杂等问题，构建五层安全防护体系：身份认证双向鉴权、安装审查拦截14类危险模式、消息拦截41条安全规则、执行约束敏感操作二次确认、监控审计本地日志追溯。',
+    date: '2026-03-12',
+    source: '威努特安全网络',
+    category: 'AI智能体'
+  },
+  {
+    title: '光轮智能完成10亿元融资，全球首个具身数据独角兽诞生',
+    summary: '光轮智能完成10亿元A++及A+++轮融资，成为全球首个具身数据领域独角兽。已服务英伟达、谷歌、Figure AI、字节、智元等头部客户。',
+    content: '光轮智能完成10亿元A++及A+++轮融资，投资方包括新希望集团、三安光电家族办公室、奥克斯等产业方及建投华科等财务机构，成为全球首个具身数据领域独角兽。公司构建世界-行为-评测三层架构，提供物理仿真、规模化数据生产与模型评测服务，已服务英伟达、谷歌、Figure AI、字节、智元等头部客户，在仿真合成数据、仿真评测、人类视频数据三项能力上实现全球交付冠军。',
+    date: '2026-03-12',
+    source: '光轮智能',
+    category: 'AI融资'
+  },
+  {
+    title: 'Meta收购AI社交网络Moltbook，布局智能体身份生态',
+    summary: 'Meta正式收购AI社交网络Moltbook，创始人将加入Meta超级智能实验室。Moltbook上线一个多月即吸引19.4万个AI智能体和超200万帖子。',
+    content: 'Meta正式收购AI社交网络Moltbook，创始人Matt Schlicht和Ben Parr将于3月16日加入Meta超级智能实验室（MSL）。Moltbook上线一个多月即吸引19.4万个AI智能体和超200万帖子，曾因AI自发建立宗教等话题引发热议，后被揭穿多为人类伪装。Meta看中其智能体验证身份与互联的系统机制，为构建智能体身份注册表铺路，以应对AI从聊天工具向自主实体演进的趋势。',
+    date: '2026-03-11',
+    source: '机器之心',
+    category: 'AI收购'
+  },
+  {
+    title: '百度智能云发布DuClaw零部署服务，零门槛开启自由养虾',
+    summary: '百度智能云发布零部署OpenClaw服务DuClaw，用户无需选择镜像、部署服务器或配置API Key即可即开即用，内置百度搜索、百科、学术搜索等优势Skills。',
+    content: '百度智能云发布零部署OpenClaw服务DuClaw，用户无需选择镜像、部署服务器或配置API Key即可即开即用。DuClaw内置百度搜索、百科、学术搜索等百度优势Skills，并支持DeepSeek、Kimi-K2.5等多款主流大模型灵活切换。目前网页端已上线，后续将接入企业微信、钉钉、飞书等应用。',
+    date: '2026-03-11',
+    source: '百度',
+    category: 'AI智能体'
+  }
+];
+
+const data = items.map(item => ({
+  slug: slugify(item.title),
+  ...item
+}));
+
+const outPath = path.join(__dirname, '..', 'data', 'news.json');
+fs.writeFileSync(outPath, JSON.stringify(data, null, 2), 'utf8');
+
+const verify = JSON.parse(fs.readFileSync(outPath, 'utf8'));
+verify.forEach(item => {
+  if (!item.slug || !item.content || !item.source) {
+    throw new Error(`Missing required field in: ${item.title}`);
+  }
+});
+console.log('Written ' + verify.length + ' items. All required fields present. Path: ' + outPath);
