@@ -62,7 +62,9 @@ export default function TutorialsPage() {
                 {tutorials.map((tutorial, i) => (
                   <a
                     key={tutorial.slug}
-                    href={`/tutorials/${tutorial.slug}`}
+                    href={tutorial.url || `/tutorials/${tutorial.slug}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="group block bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-lg hover:border-blue-200 transition-all"
                   >
                     {/* Thumbnail */}
