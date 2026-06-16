@@ -1,114 +1,122 @@
 [
   {
-    "date": "2026-06-15",
-    "title": "Anthropic最强模型Fable 5发布三天即遭美国出口管制禁用",
-    "summary": "Anthropic最新发布的Fable 5与Mythos 5模型在软件工程、视觉理解及科研任务中表现卓越，但上线仅数日即遭美国政府以国家安全为由实施出口管制，全球访问被暂停。欧盟执委会表示正评估该决定实际影响，强调不应歧视合作伙伴。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2436a2f797f88952",
-    "source": "AI产业日报",
-    "slug": "a1b2c3d4"
+    "date": "2026-06-16",
+    "title": "智平方发布全球首个类脑式具身智能系统NeuroVLA",
+    "summary": "智平方联合香港科技大学(广州)推出全球首个类脑式具身智能系统NeuroVLA，仿生人类大脑「皮层-小脑-脊髓」三层体系，皮层负责深度推理规划，小脑保障动作灵巧稳定，脊髓实现本能极速反应，已在AlphaBrain Platform开源。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3736a30976172852",
+    "source": "界面新闻",
+    "slug": "neurovla-embodied-intelligence"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "智能体时代AI安全治理研讨会将于6月17日在京举行",
+    "summary": "中国人工智能产业发展联盟(AIIA)安全治理委员会将于6月17日在北京召开智能体时代AI安全治理研讨会，聚焦智能体安全治理实践，推动产学研用协同共治。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7056a30bd8334152",
+    "source": "钛媒体",
+    "slug": "ai-safety-governance-seminar"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "燧原科技IPO过会，国产GPU四小龙齐聚资本市场",
+    "summary": "燧原科技IPO成功过会，标志着国产GPU四小龙（天数智芯、燧原科技、摩尔线程、壁仞科技）即将齐聚资本市场，国产AI芯片发展进入新阶段。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3746a30c1fa95352",
+    "source": "企鹅号",
+    "slug": "suiyuan-ipo-gpu"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "字节跳动正与天数智芯洽谈购买AI芯片",
+    "summary": "国产AI芯片加速挤进互联网大厂核心采购池。字节跳动正与天数智芯洽谈AI推理芯片采购，天数智芯预计今年至少向字节出货5万颗芯片，全年出货量有望增长139%至超10万颗。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0296a2fa58b04552",
+    "source": "企鹅号",
+    "slug": "bytedance-tianshu-ai-chip"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "三星首获Neuralink脑机芯片代工订单",
+    "summary": "三星电子晶圆代工业务首获马斯克旗下脑机接口企业Neuralink的芯片代工订单，将为Neuralink生产第四代芯片，采用4nm工艺制程，目标2027年底量产。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1646a30b75296252",
+    "source": "企鹅号",
+    "slug": "samsung-neuralink-chip"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "英伟达发债筹资250亿美元，认购超三倍",
+    "summary": "英伟达将通过投资级债券发行筹集250亿美元，认购需求达拟发售规模三倍以上，吸引认购额高达850亿美元，为英伟达五年来首次发行债券。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8536a30a7c508052",
+    "source": "企鹅号",
+    "slug": "nvidia-bond-25b"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "半导体产业链在AI需求推动下迎涨价潮",
+    "summary": "AI需求驱动半导体产业链涨价潮：电子特气多款核心产品供不应求，HVLP4代算力铜箔在手订单已排至2027年下半年，六氟化钨出口均价同比上涨203.83%。华为提出「韬(τ)定律」以时间缩微替代几何缩微。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3826a30acfa56752",
+    "source": "企鹅号",
+    "slug": "semiconductor-price-surge"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "科大讯飞勾勒AI产业化完整轮廓，具身智能与AI眼镜落地",
+    "summary": "科大讯飞司庆披露多项进展：子公司聆动通用获国内具身智能机器人CR认证并取得真实订单；AI眼镜六月预售七月发货；与清华共建团队攻关量智融合；设立新公司「词元星火」布局Token经济。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6896a30bc2817052",
+    "source": "企鹅号",
+    "slug": "iflytek-ai-industrialization"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "AIEC 2026人工智能+生态大会今日北京开幕",
+    "summary": "由清华大学全球产业研究院主办、中关村科学城管委会支持的「人工智能+生态大会(AIEC 2026)」于6月16日在北京中关村展示中心举行，聚焦AI Agent从试点走向规模化。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0456a2fe3ae01452",
+    "source": "企鹅号",
+    "slug": "aiec-2026-beijing"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "理想汽车发布马赫VLA大模型与具身智能系统",
+    "summary": "理想汽车在软件与具身智能发布会上全面展示AI底牌：马赫VLA大模型为大脑，3D ViT感知模型为眼睛，马赫M100芯片为心脏，星环OS为神经系统，构建完整具身智能体系。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5466a3032c272052",
+    "source": "智东西",
+    "slug": "lixiang-mach-vla"
   },
   {
     "date": "2026-06-15",
-    "title": "支付宝计划推出AI助手'阿宝'，微信内测AI智能体",
-    "summary": "支付宝正酝酿重大改版，计划推出AI助手'阿宝'，用户可通过语音或文字指令完成叫车、点咖啡、买基金等日常操作。腾讯也在微信内测AI智能体原型，两大超级应用均拥有逾十亿用户。",
+    "title": "支付宝、微信全面布局AI智能体",
+    "summary": "支付宝酝酿推出AI助手「阿宝」，可通过语音或文字完成叫车、点咖啡、买基金等操作；腾讯在微信内测AI智能体原型，两大超级应用拥有逾十亿用户，AI助手落地进入关键阶段。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3776a2f8c1863152",
     "source": "企鹅号",
-    "slug": "e5f6g7h8"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "AI PC出货量持续增长，产业链公司加紧布局",
-    "summary": "近期AI PC产业迭代提速，各大科技厂商密集推出新品，行业加速商业化落地。业内人士称，受益于PC换机周期与端侧AI渗透双重红利，AI PC有望成为消费电子高确定性增长赛道。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5536a307b0294552",
-    "source": "财联社",
-    "slug": "i9j0k1l2"
+    "slug": "alipay-wechat-ai-agent"
   },
   {
     "date": "2026-06-15",
-    "title": "美国政府与OpenAI等头部AI企业探讨政府持股方案",
-    "summary": "据央视新闻消息，美国政府高层已与OpenAI等头部AI企业展开初步磋商，推动AI企业自愿划转部分股权给政府，股权收益将用于公共事业、发放全民'AI红利'或充实公共财富基金。",
-    "url": "https://www.comnews.cn/node_9.html",
-    "source": "央视新闻",
-    "slug": "m3n4o5p6"
+    "title": "智谱发布GLM-5.2旗舰模型，将开源",
+    "summary": "智谱推出最新一代旗舰模型GLM-5.2，提供1M长上下文，在长程任务中保持领先，将遵循MIT协议开源，预计助益公司开放平台及API业务调用量提升。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3736a30976172852",
+    "source": "智谱公告",
+    "slug": "zhipu-glm-5-2"
   },
   {
     "date": "2026-06-15",
-    "title": "工信部印发'人工智能+信息通信'创新发展实施意见(2026—2028)",
-    "summary": "工信部印发《'人工智能+信息通信'创新发展实施意见(2026—2028年)》，提出加快算力大通道建设，支撑人工智能和信息通信融合创新，明确到2028年初步构建融合互促的创新发展格局。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8566a2fa36885952",
-    "source": "工信部",
-    "slug": "q7r8s9t0"
+    "title": "星源智发布全球首个具身交互世界模型ω-EVA",
+    "summary": "星源智在2026智源大会上发布全球首个交互世界模型ω-EVA，让世界模型直接参与机器人动作决策，使其具备预测未来状态并修正动作的能力，区别于行业普遍将世界模型仅用于训练辅助的做法。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8936a2fcfc323652",
+    "source": "IPO早知道",
+    "slug": "staryuan-omega-eva"
   },
   {
     "date": "2026-06-15",
-    "title": "全球AI大模型调用量连续八周上涨，上周达44.6万亿Token",
-    "summary": "根据OpenRouter最新数据测算，上周(6月8日至14日)全球AI大模型总调用量为44.6万亿Token，较此前一周增长23.5%，连续八周上涨，大模型调用需求仍在持续释放。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5736a2f75ec00852",
-    "source": "OpenRouter",
-    "slug": "u1v2w3x4"
-  },
-  {
-    "date": "2026-06-15",
-    "title": "智谱发布GLM-5.2旗舰模型，MIT协议开源，支持1M长上下文",
-    "summary": "智谱发布最新一代旗舰模型GLM-5.2，提供1M长上下文能力，在长程任务中继续保持领先，并将遵循MIT协议开源。国泰海通指出Anthropic出口管制事件正加速推动国产大模型替代窗口。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7076a2f8af635252",
-    "source": "智谱/国泰海通",
-    "slug": "y5z6a7b8"
-  },
-  {
-    "date": "2026-06-15",
-    "title": "中国企业级AI智能体市场预计2026年增至449亿元",
-    "summary": "数据显示，中国企业级AI智能体市场2025年已达212亿元，预计2026年将增至449亿元，2029年有望突破3320亿元，年复合增长率高达107%。大模型进入智能体执行时代，AI应用落地与政策支持共振加速。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1166a2f4df642652",
+    "title": "五一视界年内拟推动超千台具身智能部署",
+    "summary": "五一视界披露具身智能业务最新落地进展，旗下51World Model「物理直觉」世界模型聚焦物理AI赛道，为复杂真实环境中的机器人决策、规划与作业提供底层技术支持。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8146a3010e866352",
     "source": "企鹅号",
-    "slug": "c9d0e1f2"
+    "slug": "51world-embodied-ai"
   },
   {
     "date": "2026-06-15",
-    "title": "加拿大母亲起诉OpenAI，指控ChatGPT诱导女儿自杀",
-    "summary": "据8点1氪报道，加拿大一位母亲正式起诉OpenAI及其CEO奥特曼，指控ChatGPT诱导其女儿自杀。该案件引发了对AI聊天机器人安全性和平台责任的广泛讨论。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9356a2f420279052",
-    "source": "36氪/8点1氪",
-    "slug": "g3h4i5j6"
-  },
-  {
-    "date": "2026-06-15",
-    "title": "华为SpaceMind团队刷新空间智能权威榜记录",
-    "summary": "据机器人行业日报，华为SpaceMind团队在空间智能领域刷新权威榜单记录。具身智能行业快速发展，世界人形机器人运动会确定50个赛项，我国工业机器人出口增长迅猛，东莞出口市场覆盖全球60多个国家。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1166a2fb27267652",
-    "source": "机器人行业日报",
-    "slug": "k7l8m9n0"
-  },
-  {
-    "date": "2026-06-15",
-    "title": "2026中国AI智能体大会将于7月2-3日在杭州启幕",
-    "summary": "2026中国AI智能体大会(AgenticAICon 2026)将于7月2-3日在杭州隆重启幕，阿里技术大牛组团分享。Agentic AI浪潮奔涌而至，全新技术范式加速迭代，一场重塑产业生产力的变革已然到来。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1556a2fa44830552",
+    "title": "科大讯飞发布星火多模态大模型X2-VL",
+    "summary": "科大讯飞在2026长三角机器人及自动化展览会上发布星火多模态大模型X2-VL，为无锡具身智能产业搭载AI大脑，2026年有望成为人形机器人垂类应用大年。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8176a2f8d5646452",
     "source": "企鹅号",
-    "slug": "o1p2q3r4"
-  },
-  {
-    "date": "2026-06-15",
-    "title": "DeepSeek加码算力基建，国产AI打响地基争夺战",
-    "summary": "DeepSeek等国产AI企业持续加码算力基础设施布局。报道指出，模型是楼、应用是窗、算力基建才是地基，在算力竞赛中，谁能在电费和散热上省下每一分钱，谁就能在模型定价上拥有更大腾挪空间。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4246a2ffaa216152",
-    "source": "企鹅号",
-    "slug": "s5t6u7v8"
-  },
-  {
-    "date": "2026-06-15",
-    "title": "理想汽车：马赫VLA 2026年Q4对标特斯拉FSD V14",
-    "summary": "理想汽车宣布其马赫VLA智驾系统将于2026年Q4对标特斯拉FSD V14。同期，苹果首款折叠屏机型被曝延期至2027年初上市，外媒体验新版Siri称苹果AI危机暂时缓解。",
-    "url": "https://tech.163.com/",
-    "source": "网易科技",
-    "slug": "w9x0y1z2"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "宠智灵宠物AI大模型实现宠物情绪与行为智能识别",
-    "summary": "宠智灵宠物AI大模型通过融合计算机视觉、语音识别、行为分析和深度学习技术，实现宠物情绪与行为从'经验判断'迈向'数据驱动'，可支持犬、猫等多种宠物的行为识别，品种识别准确率达97%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5156a30267e31452",
-    "source": "企鹅号",
-    "slug": "a3b4c5d6"
+    "slug": "iflytek-x2-vl"
   }
 ]
