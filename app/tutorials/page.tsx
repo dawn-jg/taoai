@@ -9,6 +9,32 @@ export const metadata: Metadata = {
 
 const CATEGORIES = ['AI教程', 'AI工具', '综合指南'];
 
+function getCardStyle(slug: string): { emoji: string; gradient: string } {
+  const s = slug.toLowerCase();
+  if (s.includes('cursor') || s.includes('vibe-coding') || s.includes('codex') || s.includes('claude-code') || s.includes('ai-coding')) {
+    return { emoji: '💻', gradient: 'from-cyan-500 to-blue-600' };
+  }
+  if (s.includes('seedance') || s.includes('kling') || s.includes('video') || s.includes('sora') || s.includes('pixverse') || s.includes('pika') || s.includes('wan-')) {
+    return { emoji: '🎬', gradient: 'from-purple-500 to-pink-500' };
+  }
+  if (s.includes('midjourney') || s.includes('jimeng-image') || s.includes('ai-painting') || s.includes('drawing')) {
+    return { emoji: '🎨', gradient: 'from-orange-400 to-rose-500' };
+  }
+  if (s.includes('deepseek') || s.includes('llm-') || s.includes('domestic-llm') || s.includes('kimi-k') || s.includes('glm') || s.includes('qwen') || s.includes('gpt-') || s.includes('gemini')) {
+    return { emoji: '🧠', gradient: 'from-emerald-500 to-teal-600' };
+  }
+  if (s.includes('openclaw') || s.includes('clawdbot') || s.includes('agent') || s.includes('dingtalk') || s.includes('feishu')) {
+    return { emoji: '🤖', gradient: 'from-indigo-500 to-violet-600' };
+  }
+  if (s.includes('thesis') || s.includes('writing') || s.includes('officeai') || s.includes('office-ai') || s.includes('microsoft-365') || s.includes('copilot') || s.includes('ai-tools-ordinary') || s.includes('best-ai-tools')) {
+    return { emoji: '📝', gradient: 'from-amber-500 to-yellow-600' };
+  }
+  if (s.includes('prompt')) {
+    return { emoji: '💡', gradient: 'from-red-400 to-orange-500' };
+  }
+  return { emoji: '📚', gradient: 'from-blue-400 to-indigo-500' };
+}
+
 export default function TutorialsPage() {
   const allTutorials = getTutorials();
 
@@ -67,27 +93,21 @@ export default function TutorialsPage() {
                     rel="noopener noreferrer"
                     className="group block bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-lg hover:border-blue-200 transition-all"
                   >
-                    {/* Thumbnail */}
-                    <div className="aspect-video bg-gray-100 relative overflow-hidden">
-                      {tutorial.thumbnail ? (
-                        <img
-                          src={tutorial.thumbnail}
-                          alt={tutorial.title}
-                          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                          loading={i < 3 ? 'eager' : 'lazy'}
-                        />
-                      ) : (
-                        <div className="w-full h-full flex items-center justify-center text-gray-300 text-4xl">
-                          📚
+                    {/* Card Header - gradient+emoji */}
+                    {(() => {
+                      const style = getCardStyle(tutorial.slug);
+                      return (
+                        <div className={`aspect-video bg-gradient-to-br ${style.gradient} relative overflow-hidden flex items-center justify-center`}>
+                          <span className="text-5xl group-hover:scale-110 transition-transform duration-300">{style.emoji}</span>
+                          {/* Badges */}
+                          <div className="absolute top-2 left-2 flex gap-1">
+                            {tutorial.is_new && (
+                              <span className="bg-red-500 text-white text-[10px] font-bold px-2 py-0.5 rounded-full">新</span>
+                            )}
+                          </div>
                         </div>
-                      )}
-                      {/* Badges */}
-                      <div className="absolute top-2 left-2 flex gap-1">
-                        {tutorial.is_new && (
-                          <span className="bg-red-500 text-white text-[10px] font-bold px-2 py-0.5 rounded-full">新</span>
-                        )}
-                      </div>
-                    </div>
+                      );
+                    })()}
 
                     {/* Content */}
                     <div className="p-4">
