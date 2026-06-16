@@ -1,122 +1,106 @@
 [
   {
     "date": "2026-06-16",
+    "title": "DeepSeek完成超500亿首轮融资，估值突破500亿美元",
+    "summary": "DeepSeek完成成立以来首轮融资，募资总额超500亿元人民币（约74亿美元），估值突破500亿美元，刷新中国AI初创企业融资纪录。梁文锋个人出资200亿元，腾讯投资100亿元，宁德时代投资50亿元。本轮采用无投票权+五年锁定期+无董事会席位的罕见结构。",
+    "url": "https://new.qq.com/rain/a/20260616A05GDD00",
+    "source": "腾讯网",
+    "slug": "deepseek-funding-50b"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "Anthropic新模型发布三天即遭美国政府禁用",
+    "summary": "6月12日Anthropic收到美国商务部紧急出口管制指令，要求禁止外籍人士访问其全新大模型Mythos 5与Fable 5。公司为确保合规关停全球全部用户访问权限，禁能源于亚马逊研究人员发现Fable模型存在潜在越狱漏洞。Anthropic高管已赴白宫谈判。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4886a307fd625952",
+    "source": "企鹅号",
+    "slug": "anthropic-claude-banned"
+  },
+  {
+    "date": "2026-06-15",
+    "title": "智元远征A3全尺寸人形机器人实现自主打乒乓球",
+    "summary": "智元远征A3在无遥控、无脚本、无人工干预的情况下，自主完成视觉感知、轨迹预测、全身运动规划与精准击球的全闭环控制，成为全球首个全程自主决策完成乒乓球对抗的全尺寸双足人形机器人。",
+    "url": "https://new.qq.com/rain/a/20260615A08GIT00",
+    "source": "腾讯网",
+    "slug": "agibot-a3-pingpong"
+  },
+  {
+    "date": "2026-06-16",
     "title": "智平方发布全球首个类脑式具身智能系统NeuroVLA",
-    "summary": "智平方联合香港科技大学(广州)推出全球首个类脑式具身智能系统NeuroVLA，仿生人类大脑「皮层-小脑-脊髓」三层体系，皮层负责深度推理规划，小脑保障动作灵巧稳定，脊髓实现本能极速反应，已在AlphaBrain Platform开源。",
+    "summary": "智平方联合香港科技大学（广州）推出全球首个类脑式具身智能系统NeuroVLA，同步在AlphaBrain Platform开源。该架构仿生人类大脑「皮层-小脑-脊髓」三层体系，皮层负责深度推理规划，小脑保障动作灵巧稳定，脊髓实现本能极速反应。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3736a30976172852",
-    "source": "界面新闻",
+    "source": "企鹅号",
     "slug": "neurovla-embodied-intelligence"
   },
   {
-    "date": "2026-06-16",
-    "title": "智能体时代AI安全治理研讨会将于6月17日在京举行",
-    "summary": "中国人工智能产业发展联盟(AIIA)安全治理委员会将于6月17日在北京召开智能体时代AI安全治理研讨会，聚焦智能体安全治理实践，推动产学研用协同共治。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7056a30bd8334152",
-    "source": "钛媒体",
-    "slug": "ai-safety-governance-seminar"
+    "date": "2026-06-15",
+    "title": "2026智源大会火爆举办，为世界模型定义四大路线",
+    "summary": "6月12日至14日，第八届北京智源大会在中关村国际创新中心举办，超1万人参会，成为年度AI领域现象级学术盛会。智源研究院院长王仲远提出「人工智能正从大语言模型向多模态大模型再向世界模型演进」的路径判断。",
+    "url": "https://new.qq.com/rain/a/20260615A08Q2V00",
+    "source": "腾讯网",
+    "slug": "baai-2026-world-model"
   },
   {
     "date": "2026-06-16",
-    "title": "燧原科技IPO过会，国产GPU四小龙齐聚资本市场",
-    "summary": "燧原科技IPO成功过会，标志着国产GPU四小龙（天数智芯、燧原科技、摩尔线程、壁仞科技）即将齐聚资本市场，国产AI芯片发展进入新阶段。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3746a30c1fa95352",
-    "source": "企鹅号",
-    "slug": "suiyuan-ipo-gpu"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "字节跳动正与天数智芯洽谈购买AI芯片",
-    "summary": "国产AI芯片加速挤进互联网大厂核心采购池。字节跳动正与天数智芯洽谈AI推理芯片采购，天数智芯预计今年至少向字节出货5万颗芯片，全年出货量有望增长139%至超10万颗。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0296a2fa58b04552",
-    "source": "企鹅号",
-    "slug": "bytedance-tianshu-ai-chip"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "三星首获Neuralink脑机芯片代工订单",
-    "summary": "三星电子晶圆代工业务首获马斯克旗下脑机接口企业Neuralink的芯片代工订单，将为Neuralink生产第四代芯片，采用4nm工艺制程，目标2027年底量产。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1646a30b75296252",
-    "source": "企鹅号",
-    "slug": "samsung-neuralink-chip"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "英伟达发债筹资250亿美元，认购超三倍",
-    "summary": "英伟达将通过投资级债券发行筹集250亿美元，认购需求达拟发售规模三倍以上，吸引认购额高达850亿美元，为英伟达五年来首次发行债券。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8536a30a7c508052",
-    "source": "企鹅号",
-    "slug": "nvidia-bond-25b"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "半导体产业链在AI需求推动下迎涨价潮",
-    "summary": "AI需求驱动半导体产业链涨价潮：电子特气多款核心产品供不应求，HVLP4代算力铜箔在手订单已排至2027年下半年，六氟化钨出口均价同比上涨203.83%。华为提出「韬(τ)定律」以时间缩微替代几何缩微。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3826a30acfa56752",
-    "source": "企鹅号",
-    "slug": "semiconductor-price-surge"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "科大讯飞勾勒AI产业化完整轮廓，具身智能与AI眼镜落地",
-    "summary": "科大讯飞司庆披露多项进展：子公司聆动通用获国内具身智能机器人CR认证并取得真实订单；AI眼镜六月预售七月发货；与清华共建团队攻关量智融合；设立新公司「词元星火」布局Token经济。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6896a30bc2817052",
-    "source": "企鹅号",
-    "slug": "iflytek-ai-industrialization"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "AIEC 2026人工智能+生态大会今日北京开幕",
-    "summary": "由清华大学全球产业研究院主办、中关村科学城管委会支持的「人工智能+生态大会(AIEC 2026)」于6月16日在北京中关村展示中心举行，聚焦AI Agent从试点走向规模化。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0456a2fe3ae01452",
-    "source": "企鹅号",
-    "slug": "aiec-2026-beijing"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "理想汽车发布马赫VLA大模型与具身智能系统",
-    "summary": "理想汽车在软件与具身智能发布会上全面展示AI底牌：马赫VLA大模型为大脑，3D ViT感知模型为眼睛，马赫M100芯片为心脏，星环OS为神经系统，构建完整具身智能体系。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5466a3032c272052",
-    "source": "智东西",
-    "slug": "lixiang-mach-vla"
+    "title": "华为开发者大会HDC 2026闭幕：HarmonyOS 6终端突破6600万",
+    "summary": "6月12日至14日华为开发者大会HDC 2026在东莞松山湖举办。搭载HarmonyOS 6的终端设备数突破6600万，注册开发者达1100万，应用市场可获取应用及服务超40万。大会发布HarmonyOS 7开发者Beta版并首展鸿蒙商用台式机。",
+    "url": "https://www.citreport.com/news/yejie/",
+    "source": "科技快报网",
+    "slug": "hdc-2026-harmonyos-7"
   },
   {
     "date": "2026-06-15",
-    "title": "支付宝、微信全面布局AI智能体",
-    "summary": "支付宝酝酿推出AI助手「阿宝」，可通过语音或文字完成叫车、点咖啡、买基金等操作；腾讯在微信内测AI智能体原型，两大超级应用拥有逾十亿用户，AI助手落地进入关键阶段。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3776a2f8c1863152",
+    "title": "美国政府与OpenAI等头部AI企业磋商政府持股",
+    "summary": "6月初美国政府高层已与OpenAI等头部AI企业展开初步磋商，探讨政府持股事宜。合作采用AI企业自愿划转部分股权给政府的模式，股权收益将用于公共事业、发放全民「AI红利」或充实公共财富基金。",
+    "url": "https://www.comnews.cn/node_9.html",
+    "source": "商务部国际商报",
+    "slug": "us-gov-openai-equity"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "全球AI大模型调用量连续八周上涨，中国占比近四成",
+    "summary": "上周全球AI大模型总调用量达44.6万亿Token，环比增长23.5%，连续八周上涨。中国调用量占比近四成，连续七周居全球首位。前五中前四为中国模型：DeepSeek-V4-Flash以4.41万亿居首，MiniMax M3升至第二。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8076a30f1d509952",
     "source": "企鹅号",
-    "slug": "alipay-wechat-ai-agent"
+    "slug": "global-ai-token-usage"
   },
   {
     "date": "2026-06-15",
-    "title": "智谱发布GLM-5.2旗舰模型，将开源",
-    "summary": "智谱推出最新一代旗舰模型GLM-5.2，提供1M长上下文，在长程任务中保持领先，将遵循MIT协议开源，预计助益公司开放平台及API业务调用量提升。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3736a30976172852",
-    "source": "智谱公告",
-    "slug": "zhipu-glm-5-2"
-  },
-  {
-    "date": "2026-06-15",
-    "title": "星源智发布全球首个具身交互世界模型ω-EVA",
-    "summary": "星源智在2026智源大会上发布全球首个交互世界模型ω-EVA，让世界模型直接参与机器人动作决策，使其具备预测未来状态并修正动作的能力，区别于行业普遍将世界模型仅用于训练辅助的做法。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8936a2fcfc323652",
-    "source": "IPO早知道",
-    "slug": "staryuan-omega-eva"
-  },
-  {
-    "date": "2026-06-15",
-    "title": "五一视界年内拟推动超千台具身智能部署",
-    "summary": "五一视界披露具身智能业务最新落地进展，旗下51World Model「物理直觉」世界模型聚焦物理AI赛道，为复杂真实环境中的机器人决策、规划与作业提供底层技术支持。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8146a3010e866352",
+    "title": "星源智发布具身交互世界模型「ω-EVA」",
+    "summary": "在2026智源大会上，星源智联合创始人孙振国发布具身交互世界模型ω-EVA，让具身智能从一次性预测和动作生成走向持续感知、想象、修正，并从真实交互中更新自身，实现从「看见世界」到「预判后果」的跨越。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3116a2fe29b57652",
     "source": "企鹅号",
-    "slug": "51world-embodied-ai"
+    "slug": "omega-eva-world-model"
   },
   {
     "date": "2026-06-15",
-    "title": "科大讯飞发布星火多模态大模型X2-VL",
-    "summary": "科大讯飞在2026长三角机器人及自动化展览会上发布星火多模态大模型X2-VL，为无锡具身智能产业搭载AI大脑，2026年有望成为人形机器人垂类应用大年。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8176a2f8d5646452",
+    "title": "苹果新版Siri获正面评价，AI危机暂时缓解",
+    "summary": "苹果加快推进新版Siri以应对AI竞争危机。据外媒最新体验，新版Siri在理解力和响应速度上明显改善，苹果AI战略危机得到阶段性缓解。另有消息称苹果首款折叠屏机型延期至2027年初上市。",
+    "url": "http://tech.163.com/",
+    "source": "网易科技",
+    "slug": "apple-siri-ai-crisis"
+  },
+  {
+    "date": "2026-06-15",
+    "title": "鸿蒙原生首个3D大模型AI应用V2Fun正式亮相",
+    "summary": "Vertex Lab旗下核心产品V2Fun鸿蒙原生App正式亮相华为开发者大会HDC 2026「鸿蒙星光大道」展区，同步上架华为应用市场，成为鸿蒙系统首个3D大模型AI原生应用。",
+    "url": "http://www.rmjtxw.com/news/kj/",
+    "source": "人民交通网",
+    "slug": "v2fun-harmonyos-3d-ai"
+  },
+  {
+    "date": "2026-06-15",
+    "title": "百度爱采购数智大会：AI驱动B2B迈入智能体时代",
+    "summary": "百度爱采购第五届数智大会在广州举行，宣布通过大模型技术赋能企业供应链全流程，推动B2B采购从搜索匹配向智能决策全面升级，AI智能体成为产业互联网的新引擎。",
+    "url": "http://www.2b.cn/",
+    "source": "托比网",
+    "slug": "baidu-ai-procurement-b2b"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "微信支付亮相2026中国国际金融展展示AI创新",
+    "summary": "微信支付亮相2026中国国际金融展，集中展示AI在支付领域的最新技术创新与惠民成果，包括AI智能风控、大模型驱动的商户服务等多项技术应用。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2446a310cd542752",
     "source": "企鹅号",
-    "slug": "iflytek-x2-vl"
+    "slug": "wechat-pay-finance-expo"
   }
 ]
