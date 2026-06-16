@@ -1,106 +1,114 @@
 [
   {
     "date": "2026-06-16",
-    "title": "DeepSeek完成超500亿首轮融资，估值突破500亿美元",
-    "summary": "DeepSeek完成成立以来首轮融资，募资总额超500亿元人民币（约74亿美元），估值突破500亿美元，刷新中国AI初创企业融资纪录。梁文锋个人出资200亿元，腾讯投资100亿元，宁德时代投资50亿元。本轮采用无投票权+五年锁定期+无董事会席位的罕见结构。",
-    "url": "https://new.qq.com/rain/a/20260616A05GDD00",
-    "source": "腾讯网",
-    "slug": "deepseek-funding-50b"
+    "title": "DeepSeek完成超500亿元首轮外部融资，估值突破500亿美元",
+    "summary": "DeepSeek完成成立以来首轮外部融资，募资总额超500亿元人民币（约74亿美元），估值突破500亿美元，创下中国AI行业单轮融资规模之最。腾讯、宁德时代、京东、网易和IDG资本参与此轮融资，创始人梁文锋个人出资约200亿元为最大出资方。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3066a30fb4229952",
+    "source": "企鹅号",
+    "slug": "deepseek-500-billion-financing"
   },
   {
     "date": "2026-06-16",
-    "title": "Anthropic新模型发布三天即遭美国政府禁用",
-    "summary": "6月12日Anthropic收到美国商务部紧急出口管制指令，要求禁止外籍人士访问其全新大模型Mythos 5与Fable 5。公司为确保合规关停全球全部用户访问权限，禁能源于亚马逊研究人员发现Fable模型存在潜在越狱漏洞。Anthropic高管已赴白宫谈判。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4886a307fd625952",
+    "title": "AI版支付宝「阿宝」正式开启邀测",
+    "summary": "支付宝正式推出AI版本，命名为「阿宝」，成为全球首个完成全端AI化的超级应用。目前已开启邀请测试，用户可在AI版和经典版之间切换，平台上已有上万个服务适配，覆盖政务、出行、生活等场景。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8966a3144d410252",
     "source": "企鹅号",
-    "slug": "anthropic-claude-banned"
-  },
-  {
-    "date": "2026-06-15",
-    "title": "智元远征A3全尺寸人形机器人实现自主打乒乓球",
-    "summary": "智元远征A3在无遥控、无脚本、无人工干预的情况下，自主完成视觉感知、轨迹预测、全身运动规划与精准击球的全闭环控制，成为全球首个全程自主决策完成乒乓球对抗的全尺寸双足人形机器人。",
-    "url": "https://new.qq.com/rain/a/20260615A08GIT00",
-    "source": "腾讯网",
-    "slug": "agibot-a3-pingpong"
+    "slug": "alipay-ai-abao-invitation-test"
   },
   {
     "date": "2026-06-16",
     "title": "智平方发布全球首个类脑式具身智能系统NeuroVLA",
-    "summary": "智平方联合香港科技大学（广州）推出全球首个类脑式具身智能系统NeuroVLA，同步在AlphaBrain Platform开源。该架构仿生人类大脑「皮层-小脑-脊髓」三层体系，皮层负责深度推理规划，小脑保障动作灵巧稳定，脊髓实现本能极速反应。",
+    "summary": "智平方联合香港科技大学（广州）发布类脑式具身智能系统NeuroVLA，仿生人类大脑「皮层-小脑-脊髓」三层体系，在AlphaBrain Platform开源。目前NeuroVLA已面向全行业开放。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3736a30976172852",
     "source": "企鹅号",
-    "slug": "neurovla-embodied-intelligence"
-  },
-  {
-    "date": "2026-06-15",
-    "title": "2026智源大会火爆举办，为世界模型定义四大路线",
-    "summary": "6月12日至14日，第八届北京智源大会在中关村国际创新中心举办，超1万人参会，成为年度AI领域现象级学术盛会。智源研究院院长王仲远提出「人工智能正从大语言模型向多模态大模型再向世界模型演进」的路径判断。",
-    "url": "https://new.qq.com/rain/a/20260615A08Q2V00",
-    "source": "腾讯网",
-    "slug": "baai-2026-world-model"
+    "slug": "zhipingfang-neurovla-embodied-intelligence"
   },
   {
     "date": "2026-06-16",
-    "title": "华为开发者大会HDC 2026闭幕：HarmonyOS 6终端突破6600万",
-    "summary": "6月12日至14日华为开发者大会HDC 2026在东莞松山湖举办。搭载HarmonyOS 6的终端设备数突破6600万，注册开发者达1100万，应用市场可获取应用及服务超40万。大会发布HarmonyOS 7开发者Beta版并首展鸿蒙商用台式机。",
-    "url": "https://www.citreport.com/news/yejie/",
-    "source": "科技快报网",
-    "slug": "hdc-2026-harmonyos-7"
-  },
-  {
-    "date": "2026-06-15",
-    "title": "美国政府与OpenAI等头部AI企业磋商政府持股",
-    "summary": "6月初美国政府高层已与OpenAI等头部AI企业展开初步磋商，探讨政府持股事宜。合作采用AI企业自愿划转部分股权给政府的模式，股权收益将用于公共事业、发放全民「AI红利」或充实公共财富基金。",
-    "url": "https://www.comnews.cn/node_9.html",
-    "source": "商务部国际商报",
-    "slug": "us-gov-openai-equity"
+    "title": "阿里发布Qwen-Robot系列具身智能大模型",
+    "summary": "阿里巴巴正式发布千问具身智能大模型Qwen-Robot系列，包含Qwen-RobotManip（操作）、Qwen-RobotNav（导航）和Qwen-RobotWorld（世界模型）三大核心模型，完善机器人从感知到决策再到执行的全链路能力框架。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8196a30d52e87252",
+    "source": "CNMO",
+    "slug": "alibaba-qwen-robot-embodied-ai"
   },
   {
     "date": "2026-06-16",
-    "title": "全球AI大模型调用量连续八周上涨，中国占比近四成",
-    "summary": "上周全球AI大模型总调用量达44.6万亿Token，环比增长23.5%，连续八周上涨。中国调用量占比近四成，连续七周居全球首位。前五中前四为中国模型：DeepSeek-V4-Flash以4.41万亿居首，MiniMax M3升至第二。",
+    "title": "林俊旸AI创企完成首轮融资，估值达20亿美元",
+    "summary": "前阿里巴巴通义千问大模型负责人林俊旸创办的AI实验室已完成首轮融资，投后估值达20亿美元（约135亿元人民币）。本轮由高榕创投和红杉中国领投，各出资1亿美元，腾讯出资2000万美元。林俊旸已启动新一轮融资。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8866a3132da75952",
+    "source": "企鹅号",
+    "slug": "linjunyang-ai-lab-20b-valuation"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "硅基流动完成超20亿元B轮融资",
+    "summary": "北京AI Infra创企硅基流动宣布完成超20亿元B轮融资，携程战投、壁仞战投、蔚来资本、商汤战投、中关村科学城等产业资本注资。至此硅基流动已获得能源、芯片、算力基础设施、云服务、大模型及场景应用全产业链头部企业投资。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4686a30f62792452",
+    "source": "智东西",
+    "slug": "siliconflow-2b-series-b"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "微信AI Agent生态启动，滴滴等多家平台首批接入",
+    "summary": "微信AI生态以智能体（Agent）为核心，用户可在微信中通过AI理解意图、调用服务并完成闭环。首批接入企业覆盖出行、本地生活、电商、旅游、餐饮等领域，滴滴已将核心网约车服务融入微信AI Agent。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8166a30852224952",
+    "source": "企鹅号",
+    "slug": "wechat-ai-agent-ecosystem"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "国地中心年内推出2.0版具身智能机器人实训场",
+    "summary": "国家地方共建人形机器人创新中心首席科学家江磊透露，年内将联合头部企业推出2.0版本具身智能机器人实训场。目前全国已建成7个互联互通的实训基地，当天还发布了机器人全生命周期示范应用区。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3936a3134dd81852",
+    "source": "证券时报",
+    "slug": "national-robot-training-field-2"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "深朴智能完成数亿元Pre-A轮融资，滴滴领投",
+    "summary": "通用具身智能机器人公司深朴智能（Simple AI）宣布完成数亿元Pre-A轮融资，由滴滴领投，梅花创投、柯力传感跟投，老股东创世伙伴创投、线性资本、普华资本持续加码。资金将用于具身智能机器人产品迭代与规模化商用。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1486a30e82b23952",
+    "source": "钛媒体",
+    "slug": "shenpu-simple-ai-prea-funding"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "Databricks推出企业级AI智能体Genie One",
+    "summary": "数据分析与AI公司Databricks宣布推出面向企业用户的AI智能体Genie One，定位为「智能协作同事」，可帮助财务、市场营销、销售等业务团队基于企业数据获取答案并制定决策，标志着其加速从数据业务向企业级AI拓展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6036a316a5350952",
+    "source": "企鹅号",
+    "slug": "databricks-genie-one-agent"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "Mistral AI拟以200亿欧元估值融资30亿欧元",
+    "summary": "巴黎AI初创公司Mistral AI正与投资者进行早期交涉，计划以约200亿欧元估值进行D轮融资，目标筹集约30亿欧元（约35亿美元）。该公司上一轮C轮融资于2025年9月完成，以100亿欧元估值筹集17亿欧元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8146a3120d722465",
+    "source": "企鹅号",
+    "slug": "mistral-ai-20b-euro-funding"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "字节跳动正与天数智芯谈判采购AI推理芯片",
+    "summary": "据市场媒体报道，字节跳动正与天数智芯进行谈判，拟采购用于推理任务的AI芯片。受此消息影响，天数智芯股价一度涨逾13%。此外，麒麟软件联合联想开天等推出全栈国产旗舰工作站，实现国产高端工作站软硬件全链条突破。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0446a30cb0830452",
+    "source": "智通财经",
+    "slug": "bytedance-tianshu-ai-chip"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "全球AI大模型总调用量连续八周上涨",
+    "summary": "根据OpenRouter最新数据，上周全球AI大模型总调用量达44亿次以上，连续八周上涨。截至6月16日，中证人工智能主题指数上涨0.62%，人工智能ETF易方达近1周规模增长5944.71万元。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8076a30f1d509952",
     "source": "企鹅号",
-    "slug": "global-ai-token-usage"
-  },
-  {
-    "date": "2026-06-15",
-    "title": "星源智发布具身交互世界模型「ω-EVA」",
-    "summary": "在2026智源大会上，星源智联合创始人孙振国发布具身交互世界模型ω-EVA，让具身智能从一次性预测和动作生成走向持续感知、想象、修正，并从真实交互中更新自身，实现从「看见世界」到「预判后果」的跨越。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3116a2fe29b57652",
-    "source": "企鹅号",
-    "slug": "omega-eva-world-model"
-  },
-  {
-    "date": "2026-06-15",
-    "title": "苹果新版Siri获正面评价，AI危机暂时缓解",
-    "summary": "苹果加快推进新版Siri以应对AI竞争危机。据外媒最新体验，新版Siri在理解力和响应速度上明显改善，苹果AI战略危机得到阶段性缓解。另有消息称苹果首款折叠屏机型延期至2027年初上市。",
-    "url": "http://tech.163.com/",
-    "source": "网易科技",
-    "slug": "apple-siri-ai-crisis"
-  },
-  {
-    "date": "2026-06-15",
-    "title": "鸿蒙原生首个3D大模型AI应用V2Fun正式亮相",
-    "summary": "Vertex Lab旗下核心产品V2Fun鸿蒙原生App正式亮相华为开发者大会HDC 2026「鸿蒙星光大道」展区，同步上架华为应用市场，成为鸿蒙系统首个3D大模型AI原生应用。",
-    "url": "http://www.rmjtxw.com/news/kj/",
-    "source": "人民交通网",
-    "slug": "v2fun-harmonyos-3d-ai"
-  },
-  {
-    "date": "2026-06-15",
-    "title": "百度爱采购数智大会：AI驱动B2B迈入智能体时代",
-    "summary": "百度爱采购第五届数智大会在广州举行，宣布通过大模型技术赋能企业供应链全流程，推动B2B采购从搜索匹配向智能决策全面升级，AI智能体成为产业互联网的新引擎。",
-    "url": "http://www.2b.cn/",
-    "source": "托比网",
-    "slug": "baidu-ai-procurement-b2b"
+    "slug": "global-ai-model-usage-8weeks-up"
   },
   {
     "date": "2026-06-16",
-    "title": "微信支付亮相2026中国国际金融展展示AI创新",
-    "summary": "微信支付亮相2026中国国际金融展，集中展示AI在支付领域的最新技术创新与惠民成果，包括AI智能风控、大模型驱动的商户服务等多项技术应用。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2446a310cd542752",
+    "title": "印度AI初创Sarvam完成2.34亿美元融资，跻身独角兽",
+    "summary": "印度AI初创公司Sarvam以15亿美元估值完成2.34亿美元融资，成为印度最新AI独角兽。本轮1.5亿美元来自HCLTech（战略领投方），Sarvam计划通过本轮B系列融资共募集3亿美元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2856a313dbc26652",
     "source": "企鹅号",
-    "slug": "wechat-pay-finance-expo"
+    "slug": "sarvam-ai-india-unicorn"
   }
 ]
