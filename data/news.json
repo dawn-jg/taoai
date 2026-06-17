@@ -1,114 +1,106 @@
 [
   {
-    "date": "2026-06-16",
-    "title": "DeepSeek完成超500亿元首轮外部融资，估值突破500亿美元",
-    "summary": "DeepSeek完成成立以来首轮外部融资，募资总额超500亿元人民币（约74亿美元），估值突破500亿美元，创下中国AI行业单轮融资规模之最。腾讯、宁德时代、京东、网易和IDG资本参与此轮融资，创始人梁文锋个人出资约200亿元为最大出资方。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3066a30fb4229952",
-    "source": "企鹅号",
-    "slug": "deepseek-500-billion-financing"
+    "date": "2026-06-17",
+    "title": "中国正筹建世界人工智能合作组织，7月将在上海举办2026世界人工智能大会",
+    "summary": "国新办新闻发布会宣布，中国正在加紧筹建世界人工智能合作组织，欢迎各方加入。今年7月将在上海举办2026世界人工智能大会暨人工智能全球治理高级别会议。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0686a32179681052",
+    "source": "证券之星",
+    "slug": "china-world-ai-cooperation-org"
   },
   {
     "date": "2026-06-16",
-    "title": "AI版支付宝「阿宝」正式开启邀测",
-    "summary": "支付宝正式推出AI版本，命名为「阿宝」，成为全球首个完成全端AI化的超级应用。目前已开启邀请测试，用户可在AI版和经典版之间切换，平台上已有上万个服务适配，覆盖政务、出行、生活等场景。",
+    "title": "DeepSeek完成超74亿美元首轮融资，估值超500亿美元",
+    "summary": "DeepSeek完成首轮融资，筹集超500亿元人民币（约74亿美元），估值超500亿美元。腾讯控股、宁德时代、京东、网易和IDG资本参投，其中腾讯和宁德时代各投约100亿元。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8966a3144d410252",
     "source": "企鹅号",
-    "slug": "alipay-ai-abao-invitation-test"
+    "slug": "deepseek-74b-funding"
   },
   {
     "date": "2026-06-16",
-    "title": "智平方发布全球首个类脑式具身智能系统NeuroVLA",
-    "summary": "智平方联合香港科技大学（广州）发布类脑式具身智能系统NeuroVLA，仿生人类大脑「皮层-小脑-脊髓」三层体系，在AlphaBrain Platform开源。目前NeuroVLA已面向全行业开放。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3736a30976172852",
+    "title": "AI版支付宝「阿宝」正式推出并开启邀测",
+    "summary": "支付宝正式推出AI版本，命名为「阿宝」，成为全球首个完成全端AI化的超级应用。用户可在AI版和经典版之间切换，平台上已有上万个服务适配，覆盖政务、出行、生活等场景。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5686a31e8b873152",
+    "source": "界面新闻",
+    "slug": "ai-alipay-abao-launch"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "阿里巴巴发布具身大模型Qwen-Robot系列",
+    "summary": "阿里巴巴发布千问具身智能大模型Qwen-Robot系列，包含VLA操作模型Qwen-RobotManip、VLN移动模型Qwen-RobotNav和世界模型Qwen-RobotWorld三大模型。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5686a31e8b873152",
+    "source": "界面新闻",
+    "slug": "alibaba-qwen-robot"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "科大讯飞发布四款企业级AI新品",
+    "summary": "科大讯飞星火企业军团发布四款企业级AI新品：星火营销助理、星火AI企业风控官、星火智能语音、星火智能推理平台，覆盖业务场景、人机交互、模型运行全体系。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9666a3206d654452",
+    "source": "人民财讯",
+    "slug": "iflytek-enterprise-ai-products"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "讯飞星火在2026新高考数学测评中表现突出",
+    "summary": "新京报组织六款AI大模型完成2026年新高考I卷数学作答测评，讯飞星火解题过程严谨规范，在数形结合及图形几何性质运用上优势突出，压轴题成为能力分水岭。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5846a32103422052",
     "source": "企鹅号",
-    "slug": "zhipingfang-neurovla-embodied-intelligence"
+    "slug": "iflytek-spark-gaokao-math"
   },
   {
     "date": "2026-06-16",
-    "title": "阿里发布Qwen-Robot系列具身智能大模型",
-    "summary": "阿里巴巴正式发布千问具身智能大模型Qwen-Robot系列，包含Qwen-RobotManip（操作）、Qwen-RobotNav（导航）和Qwen-RobotWorld（世界模型）三大核心模型，完善机器人从感知到决策再到执行的全链路能力框架。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8196a30d52e87252",
-    "source": "CNMO",
-    "slug": "alibaba-qwen-robot-embodied-ai"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "林俊旸AI创企完成首轮融资，估值达20亿美元",
-    "summary": "前阿里巴巴通义千问大模型负责人林俊旸创办的AI实验室已完成首轮融资，投后估值达20亿美元（约135亿元人民币）。本轮由高榕创投和红杉中国领投，各出资1亿美元，腾讯出资2000万美元。林俊旸已启动新一轮融资。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8866a3132da75952",
-    "source": "企鹅号",
-    "slug": "linjunyang-ai-lab-20b-valuation"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "硅基流动完成超20亿元B轮融资",
-    "summary": "北京AI Infra创企硅基流动宣布完成超20亿元B轮融资，携程战投、壁仞战投、蔚来资本、商汤战投、中关村科学城等产业资本注资。至此硅基流动已获得能源、芯片、算力基础设施、云服务、大模型及场景应用全产业链头部企业投资。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4686a30f62792452",
-    "source": "智东西",
-    "slug": "siliconflow-2b-series-b"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "微信AI Agent生态启动，滴滴等多家平台首批接入",
-    "summary": "微信AI生态以智能体（Agent）为核心，用户可在微信中通过AI理解意图、调用服务并完成闭环。首批接入企业覆盖出行、本地生活、电商、旅游、餐饮等领域，滴滴已将核心网约车服务融入微信AI Agent。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8166a30852224952",
-    "source": "企鹅号",
-    "slug": "wechat-ai-agent-ecosystem"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "国地中心年内推出2.0版具身智能机器人实训场",
-    "summary": "国家地方共建人形机器人创新中心首席科学家江磊透露，年内将联合头部企业推出2.0版本具身智能机器人实训场。目前全国已建成7个互联互通的实训基地，当天还发布了机器人全生命周期示范应用区。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3936a3134dd81852",
-    "source": "证券时报",
-    "slug": "national-robot-training-field-2"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "深朴智能完成数亿元Pre-A轮融资，滴滴领投",
-    "summary": "通用具身智能机器人公司深朴智能（Simple AI）宣布完成数亿元Pre-A轮融资，由滴滴领投，梅花创投、柯力传感跟投，老股东创世伙伴创投、线性资本、普华资本持续加码。资金将用于具身智能机器人产品迭代与规模化商用。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1486a30e82b23952",
-    "source": "钛媒体",
-    "slug": "shenpu-simple-ai-prea-funding"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "Databricks推出企业级AI智能体Genie One",
-    "summary": "数据分析与AI公司Databricks宣布推出面向企业用户的AI智能体Genie One，定位为「智能协作同事」，可帮助财务、市场营销、销售等业务团队基于企业数据获取答案并制定决策，标志着其加速从数据业务向企业级AI拓展。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6036a316a5350952",
-    "source": "企鹅号",
-    "slug": "databricks-genie-one-agent"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "Mistral AI拟以200亿欧元估值融资30亿欧元",
-    "summary": "巴黎AI初创公司Mistral AI正与投资者进行早期交涉，计划以约200亿欧元估值进行D轮融资，目标筹集约30亿欧元（约35亿美元）。该公司上一轮C轮融资于2025年9月完成，以100亿欧元估值筹集17亿欧元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8146a3120d722465",
-    "source": "企鹅号",
-    "slug": "mistral-ai-20b-euro-funding"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "字节跳动正与天数智芯谈判采购AI推理芯片",
-    "summary": "据市场媒体报道，字节跳动正与天数智芯进行谈判，拟采购用于推理任务的AI芯片。受此消息影响，天数智芯股价一度涨逾13%。此外，麒麟软件联合联想开天等推出全栈国产旗舰工作站，实现国产高端工作站软硬件全链条突破。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0446a30cb0830452",
-    "source": "智通财经",
-    "slug": "bytedance-tianshu-ai-chip"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "全球AI大模型总调用量连续八周上涨",
-    "summary": "根据OpenRouter最新数据，上周全球AI大模型总调用量达44亿次以上，连续八周上涨。截至6月16日，中证人工智能主题指数上涨0.62%，人工智能ETF易方达近1周规模增长5944.71万元。",
+    "title": "全球AI大模型调用量连续八周上涨，中国模型占据前五中四席",
+    "summary": "上周全球AI大模型总调用量达44.6万亿Token，环比增长23.5%。DeepSeek-V4-Flash以4.41万亿调用量居首，MiniMax M3升至第二，腾讯Hy3 preview第三。中国模型周调用量达18.42万亿Token，连续七周超美国居全球首位。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8076a30f1d509952",
     "source": "企鹅号",
-    "slug": "global-ai-model-usage-8weeks-up"
+    "slug": "global-ai-token-usage-ranking"
   },
   {
     "date": "2026-06-16",
-    "title": "印度AI初创Sarvam完成2.34亿美元融资，跻身独角兽",
-    "summary": "印度AI初创公司Sarvam以15亿美元估值完成2.34亿美元融资，成为印度最新AI独角兽。本轮1.5亿美元来自HCLTech（战略领投方），Sarvam计划通过本轮B系列融资共募集3亿美元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2856a313dbc26652",
+    "title": "美国商务部禁止Anthropic最先进大模型Fable和Mythos对外访问",
+    "summary": "美国商务部出台出口管制新规，对Anthropic旗下Fable和Mythos两款最先进大模型实施严格限制，全面禁止外国公民访问使用，管控范围覆盖美国境内外所有外籍人员。导火索是亚马逊研究人员提交报告称Fable存在「越狱」漏洞。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8926a313a7059552",
+    "source": "每日经济新闻",
+    "slug": "us-ban-anthropic-models"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "英伟达推出全球首款开放全模态物理AI模型Cosmos 3",
+    "summary": "英伟达正式推出全球首款开放全模态物理AI模型Cosmos 3，可原生处理文本、图像、视频、音频与动作指令，将机器人与智能汽车的开发周期从数月压缩至数天。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0246a31037e89652",
     "source": "企鹅号",
-    "slug": "sarvam-ai-india-unicorn"
+    "slug": "nvidia-cosmos-3"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "林俊旸AI创企完成数亿美元首轮融资，估值达20亿美元",
+    "summary": "据The Information报道，林俊旸的AI创业公司完成数亿美元首轮融资，估值达20亿美元（约135亿人民币）。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8866a3132da75952",
+    "source": "企鹅号",
+    "slug": "lin-junyang-ai-startup-funding"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "算力网开启万亿级投资周期，支撑人工智能高质量发展",
+    "summary": "央视新闻报道，算力网是国家顶层部署的基建「六张网」中最新的一张，正开启万亿级投资周期。「十五五」规划纲要提出深入推进「东数西算」工程，构建全国一体化算力网。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0686a32179681052",
+    "source": "央视新闻",
+    "slug": "computing-power-network-trillion"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "科大讯飞27周年司庆：宣布成立词元星火公司，加码Token经济",
+    "summary": "科大讯飞迎来27周年司庆，董事长刘庆峰表示将持续翻越国产算力训练大模型的无人区。现场展示了具身智能、量智融合、智能穿戴等成果，并宣布成立面向Token经济市场的新公司词元星火。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7896a3122af06852",
+    "source": "企鹅号",
+    "slug": "iflytek-27-anniversary-token"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "菏泽发布人工智能+行动实施方案（2026-2028年）",
+    "summary": "菏泽市对《「人工智能+」行动的实施方案（2026-2028年）》进行深入解读，划定未来三年全市人工智能发展的路线图，选择将AI嵌入实体经济的具体环节。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3776a31f64510652",
+    "source": "企鹅号",
+    "slug": "heze-ai-action-plan"
   }
 ]
