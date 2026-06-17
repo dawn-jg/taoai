@@ -1,106 +1,114 @@
 [
   {
     "date": "2026-06-17",
-    "title": "中国正筹建世界人工智能合作组织，7月将在上海举办2026世界人工智能大会",
-    "summary": "国新办新闻发布会宣布，中国正在加紧筹建世界人工智能合作组织，欢迎各方加入。今年7月将在上海举办2026世界人工智能大会暨人工智能全球治理高级别会议。",
+    "title": "中国正加紧筹建世界人工智能合作组织，7月上海举办WAIC 2026",
+    "summary": "国新办新闻发布会宣布，中国正在加紧筹建世界人工智能合作组织，欢迎各方加入共促智能向善。今年7月将在上海举办2026世界人工智能大会暨人工智能全球治理高级别会议。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0686a32179681052",
-    "source": "证券之星",
+    "source": "证券之星/新华社",
     "slug": "china-world-ai-cooperation-org"
   },
   {
-    "date": "2026-06-16",
-    "title": "DeepSeek完成超74亿美元首轮融资，估值超500亿美元",
-    "summary": "DeepSeek完成首轮融资，筹集超500亿元人民币（约74亿美元），估值超500亿美元。腾讯控股、宁德时代、京东、网易和IDG资本参投，其中腾讯和宁德时代各投约100亿元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8966a3144d410252",
-    "source": "企鹅号",
-    "slug": "deepseek-74b-funding"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "AI版支付宝「阿宝」正式推出并开启邀测",
-    "summary": "支付宝正式推出AI版本，命名为「阿宝」，成为全球首个完成全端AI化的超级应用。用户可在AI版和经典版之间切换，平台上已有上万个服务适配，覆盖政务、出行、生活等场景。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5686a31e8b873152",
-    "source": "界面新闻",
-    "slug": "ai-alipay-abao-launch"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "阿里巴巴发布具身大模型Qwen-Robot系列",
-    "summary": "阿里巴巴发布千问具身智能大模型Qwen-Robot系列，包含VLA操作模型Qwen-RobotManip、VLN移动模型Qwen-RobotNav和世界模型Qwen-RobotWorld三大模型。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5686a31e8b873152",
-    "source": "界面新闻",
-    "slug": "alibaba-qwen-robot"
+    "date": "2026-06-17",
+    "title": "算力网开启万亿级投资周期，支撑人工智能等高质量发展",
+    "summary": "央视新闻报道，算力网是国家顶层部署的基建「六张网」中最新的一张，正开启万亿级投资周期。「十五五」规划纲要提出深入推进「东数西算」工程，构建多层次算力设施体系和全国一体化算力网。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0686a32179681052",
+    "source": "央视新闻",
+    "slug": "computing-power-network-trillion"
   },
   {
     "date": "2026-06-17",
-    "title": "科大讯飞发布四款企业级AI新品",
-    "summary": "科大讯飞星火企业军团发布四款企业级AI新品：星火营销助理、星火AI企业风控官、星火智能语音、星火智能推理平台，覆盖业务场景、人机交互、模型运行全体系。",
+    "title": "DeepSeek估值超500亿美元，微软拟整合其模型至Copilot",
+    "summary": "DeepSeek已完成超500亿元人民币融资，估值突破500亿美元，成为中国最具价值AI初创企业。微软计划将定制的DeepSeek模型整合至Copilot Cowork应用，作为OpenAI和Anthropic模型的低成本替代方案。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8856a32109813752",
+    "source": "企鹅号",
+    "slug": "deepseek-50b-valuation-microsoft"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "微软考虑引入DeepSeek V4替代OpenAI，成本可降逾九成",
+    "summary": "微软正考虑采用DeepSeek V4微调版本替代Copilot Cowork目前使用的OpenAI与Anthropic模型。DeepSeek V4 Flash定价为输入0.14美元/百万Token，较Anthropic同类模型低约20-50倍，综合使用成本可下降逾九成。模型将完全托管在Azure云上。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6726a31fa0701852",
+    "source": "科技/IT之家",
+    "slug": "microsoft-deepseek-v4-copilot"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "OpenAI拟大幅下调Token定价，全球大模型价格战升温",
+    "summary": "OpenAI正考虑大幅下调产品Token收费标准，以应对Anthropic预期中的类似降价举措。此前DeepSeek已将V4-Pro模型API价格下调约75%，全球大模型价格竞争进一步升温。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2676a32315468552",
+    "source": "企鹅号",
+    "slug": "openai-token-price-cut"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "科大讯飞发布四款企业级AI新品，覆盖业务到模型全体系",
+    "summary": "科大讯飞星火企业军团集中发布四款企业级AI新品：星火营销助理、星火AI企业风控官、星火智能语音、星火智能推理平台，分别聚焦业务增长、风险管控、人机交互和模型运行层。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9666a3206d654452",
     "source": "人民财讯",
     "slug": "iflytek-enterprise-ai-products"
   },
   {
     "date": "2026-06-17",
-    "title": "讯飞星火在2026新高考数学测评中表现突出",
-    "summary": "新京报组织六款AI大模型完成2026年新高考I卷数学作答测评，讯飞星火解题过程严谨规范，在数形结合及图形几何性质运用上优势突出，压轴题成为能力分水岭。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5846a32103422052",
+    "title": "2026世界人工智能大会倒计时30天，超300款AI产品全球首发",
+    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议（WAIC 2026）将于7月17日-20日在上海举办，届时将有超过300款AI产品全球首发。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5526a326d1b58952",
+    "source": "科创板日报",
+    "slug": "waic-2026-countdown"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "人工智能生态大会AIEC 2026在京举行，AI从训练迈入推理阶段",
+    "summary": "6月16日，人工智能+生态大会（AIEC 2026）在北京举行，由清华大学全球产业研究院主办。阿里云、腾讯、月之暗面、火山引擎、浪潮信息、百川智能等机构代表参会，围绕「人工智能+」从战略部署迈向产业实践展开研讨。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0026a322f8790552",
     "source": "企鹅号",
-    "slug": "iflytek-spark-gaokao-math"
+    "slug": "aiec-2026-beijing"
   },
   {
     "date": "2026-06-16",
-    "title": "全球AI大模型调用量连续八周上涨，中国模型占据前五中四席",
-    "summary": "上周全球AI大模型总调用量达44.6万亿Token，环比增长23.5%。DeepSeek-V4-Flash以4.41万亿调用量居首，MiniMax M3升至第二，腾讯Hy3 preview第三。中国模型周调用量达18.42万亿Token，连续七周超美国居全球首位。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8076a30f1d509952",
+    "title": "AI版支付宝「阿宝」正式推出，全球首个全端AI化超级应用",
+    "summary": "支付宝正式推出AI版本，命名为「阿宝」，成为全球首个完成全端AI化的超级应用。新版本已启动邀请测试，将逐步向所有用户开放。目前平台上已有上万个服务适配，覆盖政务、出行、生活等场景。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8866a3132da75952",
+    "source": "界面新闻/蓝媒GPT",
+    "slug": "ai-alipay-abao-launch"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "DeepSeek首轮融资约500亿元落定，梁文锋个人出资200亿",
+    "summary": "DeepSeek完成公司成立以来首轮融资，总募资规模约500亿元人民币。创始人梁文锋个人出资约200亿元为最大单一出资方；腾讯出资约100亿元；宁德时代体系出资约50亿元；网易、京东、IDG资本等各出资约30亿元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2446a320dba17752",
     "source": "企鹅号",
-    "slug": "global-ai-token-usage-ranking"
+    "slug": "deepseek-first-round-funding"
   },
   {
     "date": "2026-06-16",
-    "title": "美国商务部禁止Anthropic最先进大模型Fable和Mythos对外访问",
-    "summary": "美国商务部出台出口管制新规，对Anthropic旗下Fable和Mythos两款最先进大模型实施严格限制，全面禁止外国公民访问使用，管控范围覆盖美国境内外所有外籍人员。导火索是亚马逊研究人员提交报告称Fable存在「越狱」漏洞。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8926a313a7059552",
-    "source": "每日经济新闻",
-    "slug": "us-ban-anthropic-models"
+    "title": "2026中国国际金融展开幕，AI智能体重塑金融业务",
+    "summary": "2026中国国际金融展在上海开幕，主题为「金融强国筑根基 数智创新向未来」。「金融科技」与「人工智能」成高频词，AI支付从「扫码」到「看一眼就付」，智能体百花齐放重塑金融业务。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0826a313fba56152",
+    "source": "科创板日报",
+    "slug": "china-finance-expo-2026-ai"
   },
   {
-    "date": "2026-06-16",
-    "title": "英伟达推出全球首款开放全模态物理AI模型Cosmos 3",
-    "summary": "英伟达正式推出全球首款开放全模态物理AI模型Cosmos 3，可原生处理文本、图像、视频、音频与动作指令，将机器人与智能汽车的开发周期从数月压缩至数天。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0246a31037e89652",
-    "source": "企鹅号",
-    "slug": "nvidia-cosmos-3"
+    "date": "2026-06-17",
+    "title": "硅基流动完成20亿融资，携程/晶科/壁仞/商汤联合押注",
+    "summary": "硅基流动完成新一轮融资，携程、晶科、壁仞科技、商汤科技等联合押注，夯实大模型底层算力基础设施。",
+    "url": "https://new.qq.com/rain/a/20260617A054CO00",
+    "source": "IT桔子",
+    "slug": "siliconflow-2b-funding"
   },
   {
-    "date": "2026-06-16",
+    "date": "2026-06-17",
+    "title": "阿联酋成立人工智能与数据管理局，90后AI部长领导",
+    "summary": "阿联酋宣布成立人工智能与数据联邦管理局，新机构将直接向阿联酋内阁汇报工作，由阿联酋90后人工智能、数字经济和远程工作应用国务部长奥马尔·苏丹·奥拉玛领导。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8656a3251b475352",
+    "source": "财联社",
+    "slug": "uae-ai-data-authority"
+  },
+  {
+    "date": "2026-06-15",
     "title": "林俊旸AI创企完成数亿美元首轮融资，估值达20亿美元",
-    "summary": "据The Information报道，林俊旸的AI创业公司完成数亿美元首轮融资，估值达20亿美元（约135亿人民币）。",
+    "summary": "据The Information报道，林俊旸的AI创业公司完成数亿美元首轮融资，估值达20亿美元（约135亿人民币）。林俊旸为知名AI研究者，此前在通义千问团队担任核心角色。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8866a3132da75952",
     "source": "企鹅号",
     "slug": "lin-junyang-ai-startup-funding"
-  },
-  {
-    "date": "2026-06-17",
-    "title": "算力网开启万亿级投资周期，支撑人工智能高质量发展",
-    "summary": "央视新闻报道，算力网是国家顶层部署的基建「六张网」中最新的一张，正开启万亿级投资周期。「十五五」规划纲要提出深入推进「东数西算」工程，构建全国一体化算力网。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0686a32179681052",
-    "source": "央视新闻",
-    "slug": "computing-power-network-trillion"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "科大讯飞27周年司庆：宣布成立词元星火公司，加码Token经济",
-    "summary": "科大讯飞迎来27周年司庆，董事长刘庆峰表示将持续翻越国产算力训练大模型的无人区。现场展示了具身智能、量智融合、智能穿戴等成果，并宣布成立面向Token经济市场的新公司词元星火。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7896a3122af06852",
-    "source": "企鹅号",
-    "slug": "iflytek-27-anniversary-token"
-  },
-  {
-    "date": "2026-06-17",
-    "title": "菏泽发布人工智能+行动实施方案（2026-2028年）",
-    "summary": "菏泽市对《「人工智能+」行动的实施方案（2026-2028年）》进行深入解读，划定未来三年全市人工智能发展的路线图，选择将AI嵌入实体经济的具体环节。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3776a31f64510652",
-    "source": "企鹅号",
-    "slug": "heze-ai-action-plan"
   }
 ]
