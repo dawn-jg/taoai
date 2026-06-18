@@ -1,114 +1,122 @@
 [
   {
-    "date": "2026-06-16",
-    "title": "DeepSeek完成首轮融资超500亿元，估值突破500亿美元",
-    "summary": "DeepSeek完成首轮外部融资，总规模超过500亿元人民币（约74亿美元），公司估值突破500亿美元。创始人梁文锋个人出资约200亿元，腾讯出资约100亿元，宁德时代体系出资约50亿元，京东、网易等也出现在投资方名单中。这打破DeepSeek多年来的不融资、不上市、不商业化原则，创下中国AI初创企业首轮融资规模最高纪录。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4836a32603a70252",
-    "source": "腾讯新闻",
+    "date": "2026-06-18",
+    "title": "上交所发布AI大模型企业适用科创板第五套上市标准审核指引",
+    "summary": "6月17日，上交所发布《科创板发行上市审核规则适用指引第10号》，明确支持尚未形成一定收入规模的优质AI大模型企业适用第五套上市标准，加快推进人工智能创新发展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1566a334e9248952",
+    "source": "腾讯网",
+    "slug": "sse-ai-listing-rules"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "DeepSeek完成首轮融资超500亿元，估值近590亿美元",
+    "summary": "DeepSeek完成首轮外部融资超500亿元人民币，估值从100亿美元飙升至近590亿美元，刷新了中国AI领域单轮融资最高纪录。创始人梁文锋个人出资约200亿元，腾讯出资约100亿元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8596a3373b311552",
+    "source": "腾讯网",
     "slug": "deepseek-500b-funding"
   },
   {
     "date": "2026-06-17",
-    "title": "智谱AI正式开源GLM-5.2旗舰模型，Code Arena全球可用模型第一",
-    "summary": "智谱AI正式开源旗舰大模型GLM-5.2，支持100万Token无损超长上下文，在Code Arena全球盲测榜单中位列全部可用模型第一名。模型采用宽松MIT开源协议，上线首日完成全系列国产算力芯片适配，国家超算互联网同步上线GLM-5.2模型API调用服务。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2856a33424641252",
-    "source": "每日经济新闻",
-    "slug": "zhipu-glm52-open-source"
+    "title": "2026世界人工智能大会将在上海举办，超300款AI产品全球首发",
+    "summary": "2026世界人工智能大会暨AI全球治理高级别会议（WAIC 2026）将于7月17日至20日在上海举办，以「智能伙伴，共创未来」为主题，由外交部、科技部、工信部等10个部门与上海市政府共同主办。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0166a3357ce76452",
+    "source": "IT之家",
+    "slug": "waic-2026-shanghai"
   },
   {
     "date": "2026-06-16",
-    "title": "AI版支付宝「阿宝」正式启动邀测，迈向超级Agent",
-    "summary": "支付宝迎来史上最大改版，AI版支付宝以邀测形式上线。用户无需手动切换多个页面，通过语音、文字对话即可完成转账、查账单、理财规划、票务预订等操作。AI助手可自动梳理消费账单、分析收支习惯、定制省钱方案，打通消费、信贷、理财全链路。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4016a335c7d13652",
-    "source": "企鹅号",
-    "slug": "alipay-ai-abo"
-  },
-  {
-    "date": "2026-06-17",
-    "title": "微信支付发布AI专属卡，打通智能体消费链路",
-    "summary": "微信支付正式发布AI专属卡，依托WorkBuddy平台打通智能体消费链路。此前微信已开启面向部分小程序开发者的AI生态接入能力内测，依托海量小程序生态打通智能服务链路。微信支付还在2026中国国际金融展上展示了AI创新、全球互联互通等最新实践成果。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7576a32742997652",
-    "source": "企鹅号",
-    "slug": "wechat-pay-ai-card"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "人工智能+生态大会AIEC2026在京举行，业界探讨AI规模应用路径",
-    "summary": "人工智能+生态大会（AIEC2026）在北京举行，由清华大学全球产业研究院主办。大会汇聚国家信息中心、IDC、阿里云、腾讯、月之暗面、火山引擎、浪潮信息、百川智能等机构代表，围绕人工智能+从战略部署迈向产业实践的关键路径展开研讨，认为AI已从训练阶段全面迈入推理阶段。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7166a327ec832052",
-    "source": "腾讯新闻",
-    "slug": "aiec-2026-beijing"
-  },
-  {
-    "date": "2026-06-17",
-    "title": "2026世界人工智能大会倒计时30天，超300款AI产品将全球首发",
-    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议（WAIC 2026）将于7月17日至20日在上海举办，以「智能伙伴，共创未来」为主题。大会由国家外交部、科技部、工信部等10个部门与上海市政府共同主办，届时将有超过300款AI产品实现全球首发。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5526a326d1b58952",
-    "source": "科创板日报",
-    "slug": "waic-2026-countdown"
-  },
-  {
-    "date": "2026-06-17",
-    "title": "阿里发布千问具身大模型Qwen-Robot系列，三大模型打造机器人通用底座",
-    "summary": "阿里巴巴正式推出千问首款完整具身智能模型矩阵Qwen-Robot系列，包含操作模型Qwen-RobotManip、导航模型Qwen-RobotNav和物理世界模型Qwen-RobotWorld，分别对应机器人精细操作、自主移动和环境预判能力。模型可独立部署也可协同完成复杂任务，降低不同形态机器人的算法适配成本。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9416a3276ac89252",
-    "source": "企鹅号",
+    "title": "阿里巴巴发布千问具身智能大模型Qwen-Robot系列",
+    "summary": "阿里巴巴推出千问首个完整具身智能模型矩阵Qwen-Robot系列，包含操作模型Qwen-RobotManip、导航模型Qwen-RobotNav和物理世界模型Qwen-RobotWorld，为不同形态机器人提供通用基础能力底座。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0306a33917e94852",
+    "source": "腾讯网",
     "slug": "alibaba-qwen-robot"
   },
   {
+    "date": "2026-06-18",
+    "title": "英伟达机器人自学安装GPU到主板，具身智能向工业场景渗透",
+    "summary": "英伟达GEAR实验室展示具身智能机器人最新成果：机器人通过自主探索学会将GPU安装到主板上，无需人工示教。核心突破在于自主探索而非预设编程，标志着具身智能正快速向工业场景渗透。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2036a33897e86252",
+    "source": "腾讯网",
+    "slug": "nvidia-robot-gpu-install"
+  },
+  {
     "date": "2026-06-17",
-    "title": "小米发布MiMo Claw正式版，支持千次连续工具调用",
-    "summary": "小米正式推出MiMo Claw通用AI智能体模型正式版本，核心突破为支持上千次无中断连续工具调用，长链路任务稳定性大幅提升。模型可自主串联文档检索、数据计算、设备控制、网络查询等多类工具，适配智能家居、办公自动化、机器人控制等场景。",
-    "url": "http://chinaz.com/",
+    "title": "越疆宣布将发布下一代陪伴交互AI人形机器人",
+    "summary": "协作机器人第一股越疆宣布将发布下一代陪伴交互AI人形机器人，以全栈自研的「空弈DobotWAM」具身大模型为智能大脑，专为家庭场景打造，是公司从工商业向家庭场景的里程碑式跨越。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8786a327c2560652",
+    "source": "腾讯网",
+    "slug": "yuejiang-humanoid-robot"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "大晓机器人发布一脑多型具身操作VLA模型ACE-Ego并开源",
+    "summary": "大晓机器人联合香港中文大学多媒体实验室发布全新一脑多型具身操作VLA模型ACE-Ego，提出大规模第一视角人类视频与多型机器人数据高效联合预训练新范式，在两大国际权威具身智能基准上领先。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2746a32904236252",
+    "source": "腾讯网",
+    "slug": "daxiao-ace-ego-vla"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "小米发布MiMo Claw正式版，免费时长增至4小时",
+    "summary": "小米正式推出MiMo Claw通用AI智能体模型正式版本，免费使用时长增至4小时。模型支持上千次无中断连续工具调用，适配智能家居、办公自动化和机器人控制等场景。",
+    "url": "https://chinaz.com/",
     "source": "站长之家",
     "slug": "xiaomi-mimo-claw"
   },
   {
     "date": "2026-06-17",
+    "title": "智谱AI开源GLM-5.2旗舰模型，1M无损上下文",
+    "summary": "智谱AI正式开源旗舰大模型GLM-5.2，支持100万Token无损超长上下文，在Code Arena全球盲测中位列全部可用模型第一名。模型上线首日完成全系列国产算力芯片适配。",
+    "url": "https://chinaz.com/",
+    "source": "站长之家",
+    "slug": "zhipu-glm52-open-source"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "AIEC 2026人工智能+生态大会在北京举办",
+    "summary": "人工智能+生态大会（AIEC 2026）在北京中关村展示中心举办，探讨AI从战略部署迈向产业实践的关键路径。大会汇聚国家信息中心、IDC、阿里云、腾讯等代表，一致认为AI已从训练阶段全面迈入推理阶段。",
+    "url": "https://www.xuanzhizhongguo.com/news",
+    "source": "选址中国",
+    "slug": "aiec-2026-beijing"
+  },
+  {
+    "date": "2026-06-17",
     "title": "xAI发布Grok Imagine Video 1.5，25秒生成720p视频",
-    "summary": "xAI发布Grok Imagine Video 1.5版本，720p视频渲染从40+秒降至25秒，API全面开放给开发者调用。新版本支持图片转视频功能，马斯克发推称「年底前AI可生成完整电影」。xAI选择速度优先路线，与Sora和Veo形成差异化竞争。",
+    "summary": "xAI发布Grok Imagine Video 1.5版本，720p视频渲染从40+秒降至25秒，API全面开放。马斯克称年底前AI可生成完整电影。xAI选择速度优先路线，与Sora和Veo形成差异化竞争。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8516a333d3e28052",
     "source": "硅谷大事件",
     "slug": "xai-grok-video-15"
   },
   {
-    "date": "2026-06-17",
-    "title": "SpaceX以600亿美元股票收购AI编程公司Cursor，首笔重大并购落地",
-    "summary": "SpaceX向SEC提交文件，宣布以600亿美元全股票交易收购AI编程工具Cursor母公司Anysphere，这是SpaceX登陆纳斯达克后的首笔重大并购。交易预计2026年Q3完成，Cursor将作为全资子公司独立运营，SpaceX将补齐AI编程和软件研发智能体能力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9416a3276ac89252",
-    "source": "企鹅号",
-    "slug": "spacex-acquires-cursor"
+    "date": "2026-06-18",
+    "title": "科大讯飞发布星火医疗大模型V3.5，MedBench评测第一",
+    "summary": "科大讯飞6月9日上线星火医疗大模型V3.5，在数据、算法、场景三大维度完成全面升级。模型在上海AI实验室MedBench智能体评测中取得98.9分位居第一，已在国内多所大型医院落地使用。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7016a33beb657852",
+    "source": "腾讯网",
+    "slug": "iflytek-medical-v35"
   },
   {
     "date": "2026-06-16",
-    "title": "G7领导人闭门会晤OpenAI、DeepMind、Anthropic三巨头，剑指模型出口管制",
-    "summary": "OpenAI、Google DeepMind、Anthropic三大AI巨头CEO与G7领导人在法国举行闭门工作午餐。G7联合声明将委托财政官员、监管机构及网络安全专家评估前沿AI模型对金融稳定、生产力和劳动力市场的影响，模型出口管制走向台前。",
+    "title": "G7领导人闭门会晤OpenAI、DeepMind、Anthropic三巨头",
+    "summary": "OpenAI、Google DeepMind、Anthropic三大AI巨头CEO与G7领导人在法国举行闭门午餐会。G7联合声明将委托财政官员和监管机构评估前沿AI模型对金融稳定、生产力和劳动力市场的影响。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8516a333d3e28052",
-    "source": "VOA/硅谷大事件",
+    "source": "硅谷大事件",
     "slug": "g7-ai-giants-meeting"
   },
   {
-    "date": "2026-06-17",
-    "title": "Google时隔6年再推AI智能音箱，深度集成Gemini，售价100美元",
-    "summary": "Google推出新一代Google Home智能音箱，内置Gemini AI助手，售价100美元，6月25日开售。这是Google自2020年以来首款全新设计的智能音箱，深度集成Gemini AI平台，用户可通过自然语言管理智能家居、查询信息和控制娱乐设备。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8516a333d3e28052",
-    "source": "Bloomberg/硅谷大事件",
-    "slug": "google-home-gemini-speaker"
-  },
-  {
     "date": "2026-06-18",
-    "title": "台积电产能告急，谷歌、AMD、特斯拉转单三星代工",
-    "summary": "由于AI基础设施需求远超台积电先进芯片制造产能，三星正收到来自谷歌、AMD、特斯拉等全球客户的芯片代工订单。谷歌正与三星讨论生产下一代Axion处理器及TPU代工服务，台积电3nm和5nm产能均已满载，三星3nm GAA工艺成为替代选项。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7006a334bf289652",
-    "source": "DIGITIMES/企鹅号",
-    "slug": "tsmc-capacity-samsung-orders"
+    "title": "字节跳动计划采购至少5万颗AI芯片，火山引擎发布Seedance 2.0 Mini",
+    "summary": "字节跳动在AI芯片领域加速布局，正与上海天数智芯和百度洽谈采购AI推理芯片，预计年内接收至少5万颗。同时火山引擎推出新版视频生成模型Seedance 2.0 Mini，生成成本降低一半。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4336a33b82991052",
+    "source": "企鹅号",
+    "slug": "bytedance-ai-chip-seedance"
   },
   {
     "date": "2026-06-17",
-    "title": "Nvidia展示AI机器人自学安装GPU到主板，具身智能向工业场景渗透",
-    "summary": "Nvidia发布视频展示具身智能机器人最新成果，机器人通过自主探索学会将GPU安装到主板上，无需人工示教。核心突破在于自主探索而非预设编程，机器人可自行理解高精度装配任务的物理规律。GPU安装容差通常在毫米级别，标志着具身智能正向工业场景快速渗透。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8516a333d3e28052",
-    "source": "Tom's Hardware/硅谷大事件",
-    "slug": "nvidia-robot-gpu-install"
+    "title": "阿里云QoderWork上线意识功能，AI助理开始长记性",
+    "summary": "阿里云旗下桌面AI助理QoderWork正式上线「意识」功能，AI助理能记住重要的事、忘记不重要的，还能从重复工作中学会新技能。系统模仿人类皮层-小脑-脊髓三级架构设计。",
+    "url": "https://www.iimedia.cn/c1088",
+    "source": "艾媒网",
+    "slug": "aliyun-qoderwork-memory"
   }
 ]
