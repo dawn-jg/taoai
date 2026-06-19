@@ -1,114 +1,114 @@
 [
   {
     "date": "2026-06-18",
-    "title": "商务部等八部门发布推进「人工智能+消费」发展实施意见",
-    "summary": "商务部等八部门发布《关于加快\u201c人工智能+消费\u201d发展的实施意见》，围绕提升AI商品消费、扩大AI服务消费等五方面提出17项具体举措，促进AI进千家万户、进千商万店。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3266a33a7a262552",
-    "source": "商务部",
-    "slug": "ai-consumption-policy-2026"
+    "title": "上交所发布AI大模型企业适用科创板第五套上市标准审核指引",
+    "summary": "上交所正式发布第10号指引，将科创板第五套标准适用范围扩大至人工智能领域，预计市值不低于40亿元的AI大模型企业可申请上市，智谱、MiniMax、明略科技等公司或受益。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0486a3387e342752",
+    "source": "企鹅号",
+    "slug": "sse-ai-ipo-guideline"
   },
   {
     "date": "2026-06-18",
-    "title": "工信部等七部门印发平台经济协同发展行动方案，引导AI创新布局",
-    "summary": "工信部等七部门联合印发《促进平台经济大中小企业协同发展行动方案(2026—2028年)》，引导平台企业加强通用大模型、行业大模型和智能体等AI领域创新布局，推动重点行业工业大模型与专用小模型协同开发部署。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9506a339ed458152",
-    "source": "工信部",
-    "slug": "platform-economy-ai-action-plan"
+    "title": "七部门联合印发促进平台经济大中小企业协同发展行动方案",
+    "summary": "工信部等七部门联合印发《促进平台经济大中小企业协同发展行动方案(2026—2028年)》，引导平台企业加强通用大模型、行业大模型和智能体等AI领域创新布局，推进高端芯片、下一代操作系统等技术突破。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1506a339e6431352",
+    "source": "企鹅号",
+    "slug": "seven-ministries-platform-ai-plan"
   },
   {
     "date": "2026-06-18",
-    "title": "Anthropic CEO在G7峰会呼吁：别在AI上内部分裂",
-    "summary": "美国政府对Anthropic前沿模型的出口管制升级为G7层面的政策讨论。Anthropic CEO达里奥·阿莫代伊在法国G7峰会上呼吁盟友间不要在AI问题上分裂，美国商务部长已与欧洲外交官探讨建立「信任伙伴」机制。",
+    "title": "商务部等八部门发布「人工智能+消费」发展实施意见",
+    "summary": "商务部等八部门发布《关于加快「人工智能+消费」发展的实施意见》，围绕提升AI商品消费、扩大AI服务消费等五方面提出17项具体举措，促进人工智能进千家万户。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5246a33a61654452",
+    "source": "企鹅号",
+    "slug": "ai-consumption-policy"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "DeepSeek识图模式正式上线，首次具备原生图像理解能力",
+    "summary": "DeepSeek面向所有用户开放识图模式，网页版和App端同步可用。该模式与快速模式、专家模式并列，具备完整图像理解能力，远超简单文字提取，识别常见物品和知名建筑速度快且准确。",
+    "url": "https://new.qq.com/rain/a/20260618A0764C00",
+    "source": "腾讯网",
+    "slug": "deepseek-vision-mode"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "科大讯飞发布SpaceMind智慧空间Agentic架构",
+    "summary": "科大讯飞举办2026 SpaceMind全球发布会，推出智慧空间Agentic架构，搭载60GHz毫米波雷达感知系统，采用「双路由+双模型」体系和多Agent协同机制，推动家庭、酒店、办公等场景从设备智能向空间智能跨越。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3816a33bde813252",
+    "source": "企鹅号",
+    "slug": "iflytek-spacemind"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "阿里巴巴发布千问具身智能大模型Qwen-Robot系列",
+    "summary": "阿里巴巴正式发布千问具身智能大模型Qwen-Robot系列，包含三大核心模型，分别对应机器人的操作、移动和认知能力，为物理AI和机器人落地提供基础模型支撑。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0946a3395d244852",
+    "source": "企鹅号",
+    "slug": "alibaba-qwen-robot"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "成都新增5款生成式AI大模型完成国家备案，总量升至23款",
+    "summary": "四川省互联网信息办公室发布备案通告，成都新增5款生成式AI大模型完成国家备案，包括蜀天云数大模型、数联慧眼大模型等，全市备案总量达23款，较2025年增幅53%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0986a33d96000452",
+    "source": "企鹅号",
+    "slug": "chengdu-ai-models-filing"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "AIEC 2026人工智能+生态大会在北京举行",
+    "summary": "AIEC 2026由清华大学全球产业研究院主办，阿里云、腾讯、月之暗面、火山引擎、浪潮信息、百川智能等机构专家共议「人工智能+」从战略部署迈向产业实践的关键路径。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4106a33fe3052552",
+    "source": "企鹅号",
+    "slug": "aiec-2026-beijing"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "OpenAI GPT-5.4联合Molecule.one改进药物合成反应",
+    "summary": "OpenAI与Molecule.one联合发布成果：GPT-5.4在近乎自主的条件下改进了一个常用药物合成反应，提出了化学家都觉得意外的方案，展示AI在科学研究中的原创能力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4416a34b98841752",
+    "source": "企鹅号",
+    "slug": "openai-gpt5-drug-synthesis"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "英伟达发布Cosmos 3全球首款开源物理AI全模态基础模型",
+    "summary": "英伟达发布Cosmos 3——全球首款完全开源的物理AI全模态基础模型，同步成立Cosmos联盟，联合思灵机器人、Black Forest Labs、Runway、Skild AI等共同推动下一代世界模型发展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0946a3395d244852",
+    "source": "企鹅号",
+    "slug": "nvidia-cosmos3"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "美国政府对Anthropic前沿模型实施芯片级出口管制，OpenAI表示担忧",
+    "summary": "美国政府对Anthropic前沿模型实施芯片级出口管制，引发行业连锁反应。Anthropic CEO在G7峰会上呼吁避免AI内部分裂，OpenAI则担心管制范围可能扩大至整个AI行业。",
     "url": "https://tech.163.com/it",
-    "source": "网易科技/金融时报",
-    "slug": "anthropic-ceo-g7-ai-split"
+    "source": "网易科技",
+    "slug": "anthropic-export-control"
   },
   {
-    "date": "2026-06-17",
-    "title": "2026世界人工智能大会倒计时30天，超300款AI新品全球首发",
-    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17-20日在上海举办，由外交部、科技部、工信部等10部门与上海市政府共同主办。大会首次创办WAIC Academic国际学术会议，图灵奖得主姚期智任大会主席。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0166a3357ce76452",
-    "source": "央视新闻/IT之家",
-    "slug": "waic-2026-countdown"
+    "date": "2026-06-18",
+    "title": "字节跳动计划采购至少5万颗AI芯片",
+    "summary": "据每日新闻消息，字节跳动计划采购至少5万颗AI芯片。同期，SK海力士已向主要客户供应12层HBM4E样品，国产GPU新品报价较预期提升20-30%，AI芯片供应链持续升温。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4336a33b82991052",
+    "source": "企鹅号",
+    "slug": "bytedance-ai-chip-procurement"
   },
   {
-    "date": "2026-06-17",
-    "title": "上交所发布AI大模型企业适用科创板第五套上市标准指引",
-    "summary": "上海证券交易所正式发布《发行上市审核规则适用指引第10号——人工智能大模型企业适用科创板第五套上市标准》，贯彻落实证监会在科创板设置科创成长层的意见，为AI大模型企业开辟上市通道。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3446a336e0297852",
-    "source": "上交所",
-    "slug": "sse-ai-ipo-rules"
+    "date": "2026-06-18",
+    "title": "《自然》发表两个独立AI模型可管理患者从诊断到治疗全过程",
+    "summary": "《自然》杂志6月17日发表论文，介绍两个独立的AI模型，能够为从诊断到治疗决策的多个患者管理阶段提供帮助，标志着AI在医疗领域迈向全流程患者管理。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "国家科技信息中心",
+    "slug": "nature-ai-patient-management"
   },
   {
-    "date": "2026-06-17",
-    "title": "法国Bull与鸿海合作在欧洲生产英伟达Vera Rubin NVL72机架",
-    "summary": "法国超算企业Bull宣布将与鸿海合作在欧洲完成NVIDIA Vera Rubin NVL72机架系统的制造，制造与初步测试在鸿海捷克工厂进行，最终组装与系统验证在Bull法国工厂完成。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3056a3256ad76452",
-    "source": "IT之家",
-    "slug": "bull-foxconn-vera-rubin-europe"
-  },
-  {
-    "date": "2026-06-17",
-    "title": "xAI发布Grok Imagine Video 1.5，25秒生成720P视频",
-    "summary": "xAI正式推出Grok Imagine Video 1.5版本，在Fast模式下生成6秒720P视频仅需25秒，API全面开放。该模型支持静态图一键生成带同步音频的短视频，马斯克放言年底可生成完整电影。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1936a3239c810952",
-    "source": "xAI/TechWeb",
-    "slug": "xai-grok-video-1-5"
-  },
-  {
-    "date": "2026-06-17",
-    "title": "xAI Grok 4.3模型在Amazon Bedrock正式可用",
-    "summary": "亚马逊云科技宣布xAI的Grok 4.3模型在Amazon Bedrock上正式可用，标志着xAI正式成为Amazon Bedrock的模型供应商之一，为企业构建生成式AI应用提供更多选择。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6416a32371a34452",
-    "source": "TechWeb",
-    "slug": "xai-grok-bedrock"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "英伟达公布AI基础设施扩建计划，高意厂区产能将提升四倍",
-    "summary": "英伟达正式公布AI基础设施重大扩建计划，其投资的高意公司厂区扩建项目正式开工。该工厂拥有全球首条实现规模化量产的6英寸磷化铟制造产线，扩建完成后产能将提升四倍。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8786a333abc08552",
-    "source": "央视财经/美联社",
-    "slug": "nvidia-infra-expansion"
-  },
-  {
-    "date": "2026-06-12",
-    "title": "美国政府以国家安全为由封禁Anthropic Fable5/Mythos5模型",
-    "summary": "美国政府发布出口管制指令，暂停所有外国国民对Anthropic最新旗舰模型Fable5和Mythos5的访问权限，包括Anthropic公司外籍员工。Anthropic被迫全球关停两款上线仅72小时的模型，创AI史上最快商用召回纪录。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9226a2e082a44152",
-    "source": "Anthropic/综合报道",
-    "slug": "anthropic-fable5-export-ban"
-  },
-  {
-    "date": "2026-06-12",
-    "title": "OpenAI据悉考虑大幅降价，与Anthropic展开IPO前价格战",
-    "summary": "知情人士称OpenAI正考虑大幅降低服务价格以应对竞争对手Anthropic可能采取的类似降价措施。两家公司在IPO前可能爆发价格战，此前DeepSeek已将V4-Pro模型API价格下调约75%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6856a2b4b6110352",
-    "source": "环球市场播报",
-    "slug": "openai-price-war"
-  },
-  {
-    "date": "2026-06-12",
-    "title": "英伟达向中国客户推销Vera CPU，最快8月上市",
-    "summary": "英伟达正式通知中国客户，其专为AI数据中心设计的首款Agentic AI独立CPU Vera最快将于今年8月上市，客户现可下单。Vera基于Arm架构，内存带宽达1.2TB/s，目前已全面投产。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1256a2bc5f863752",
-    "source": "综合报道",
-    "slug": "nvidia-vera-cpu-china"
-  },
-  {
-    "date": "2026-06-12",
-    "title": "余承东：华为盘古大模型要「从中国第一走向世界第一」",
-    "summary": "华为开发者大会2026上，余承东表示盘古大模型是大模型行业绝对的全球先驱者，并称在其字典里没有第二只有第一，华为大模型团队将一路赶超，从中国第一走向世界第一。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0056a2bf20a36052",
-    "source": "新浪科技",
-    "slug": "huawei-pangu-yu-chengdong"
-  },
-  {
-    "date": "2026-06-11",
-    "title": "华尔街日报：企业转向中国开源模型，AI成本最高可降95%",
-    "summary": "《华尔街日报》报道，越来越多企业和初创公司正转向中国开源模型如DeepSeek、智谱GLM等。部分企业表示使用开源模型可在特定场景下将AI任务成本降低95%，给OpenAI和Anthropic带来巨大降价压力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3846a2c273e08652",
-    "source": "华尔街日报",
-    "slug": "wsj-china-open-source-cost"
+    "date": "2026-06-18",
+    "title": "小米发布MiMo+Claw正式版，免费时长增至4小时",
+    "summary": "小米发布MiMo+Claw正式版，将免费使用时长增至4小时，持续加码AI助手赛道竞争。同期智谱AI开源GLM-5.2，主打1M无损上下文与长程代码能力。",
+    "url": "https://chinaz.com/",
+    "source": "站长之家",
+    "slug": "xiaomi-mimo-claw"
   }
 ]
