@@ -1,114 +1,122 @@
 [
   {
+    "date": "2026-06-20",
+    "title": "Anthropic永久在线智能体Conway曝光，GPT-5.6内测中",
+    "summary": "Anthropic下一代重磅产品Conway曝光：永久在线智能体，AI从被动响应转向主动打工模式，告别对话框交互范式。同时GPT-5.6也在悄悄内测中，巨头激战正加速颠覆工作流。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9736a35ca1789152",
+    "source": "量子位",
+    "slug": "anthropic-conway-gpt56"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "OpenAI在ChatGPT中试点广告功能，扩大至韩国市场",
+    "summary": "据韩媒ETNews报道，OpenAI将ChatGPT广告试点范围扩大至韩国市场，广告主要面向免费版及Go套餐成年用户，Plus、Pro、Business、Enterprise及Edu用户不受影响。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5406a35af8244752",
+    "source": "CNMO科技",
+    "slug": "openai-chatgpt-ads-korea"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "谷歌发布DiffusionGemma：扩散模型突破自回归瓶颈，推理速度提升4倍",
+    "summary": "谷歌推出实验性开放模型DiffusionGemma，采用扩散技术同时生成整段文本而非逐Token输出。推理时仅激活38亿参数，经量化后可在RTX 5090等消费级GPU上运行，生成速度最高可达自回归模型的4倍。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1126a356abb61652",
+    "source": "谷歌AI",
+    "slug": "google-diffusion-gemma"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "全球首个机器人通用小脑GPT模型发布：AstraBrain-WBC 0.5",
+    "summary": "河通用机器人发布全球首个人形机器人通用小脑GPT基础模型AstraBrain-WBC 0.5，基于2万小时人类动作数据训练，参数规模8040万，首次采用GPT风格因果Transformer架构，零样本追踪成功率从83.26%提升至92.58%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5516a355fed69452",
+    "source": "河通用机器人",
+    "slug": "astrabrain-robot-cerebellum-gpt"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "Waymo日订单量突破10万，自动驾驶进入规模化盈利临界点",
+    "summary": "Waymo在旧金山和凤凰城的日订单量突破10万单，标志着自动驾驶从技术验证正式跨入规模化盈利的临界点。过去五年资本市场对自动驾驶的态度经历起伏，这一里程碑具有分水岭意义。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8266a3551f813652",
+    "source": "Waymo",
+    "slug": "waymo-100k-daily-orders"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "亚马逊拟向第三方数据中心销售自研AI芯片，挑战英伟达",
+    "summary": "亚马逊AI业务负责人Peter DeSantis在巴黎透露，亚马逊已启动向其他公司数据中心出售定制AI芯片的讨论，此举将进一步加大对其英伟达主导地位的挑战。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1326a34bcdb16852",
+    "source": "钛媒体",
+    "slug": "amazon-ai-chip-third-party"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "科大讯飞SpaceMind空间智能架构发布，推动行业进入L2.5主动智能",
+    "summary": "科大讯飞推出SpaceMind空间智能架构，通过双路由+双模型设计解决大模型响应延迟和运行不稳定问题，多Agent协同模式赋予空间记忆与自主学习能力，推动AI Agent走进物理场景。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5766a355b7e47252",
+    "source": "科大讯飞",
+    "slug": "iflytek-spacemind-l25"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "理想汽车自研马赫AI芯片量产上车，5nm制程1280TOPS算力",
+    "summary": "理想汽车自研马赫AI芯片采用5纳米车规级工艺，单芯片算力1280TOPS，双芯算力2560TOPS，于2022年立项、2026年5月实现量产上车。此前比亚迪、蔚来、小鹏均已推出自研智驾芯片。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3366a3494a328852",
+    "source": "理想汽车",
+    "slug": "lixiang-mach-ai-chip"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "OpenAI GPT-5.4在近乎自主条件下改进药物合成反应",
+    "summary": "OpenAI与Molecule.one联合发布新成果：GPT-5.4在近乎自主的条件下改进了药物合成中一个常用反应，并提出了化学家都感到意外的方案，展示AI在科学发现领域的突破性应用。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4416a34b98841752",
+    "source": "量子位",
+    "slug": "openai-gpt54-drug-synthesis"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "Rivian涉嫌夸大初代车型自动驾驶能力遭车主集体诉讼",
+    "summary": "美国造车新势力Rivian因涉嫌夸大初代R1T皮卡和R1S SUV的自动驾驶能力，遭消费者集体起诉。原告指控Rivian曾宣称第一代车型最终将支持脱手脱眼驾驶功能但未兑现。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8346a355cc509652",
+    "source": "IT之家",
+    "slug": "rivian-autopilot-lawsuit"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "华为乾崑智驾ADS高阶功能包7月起或涨价3000元",
+    "summary": "消息称自2026年7月1日起华为乾崑智驾ADS高阶功能包优惠将收窄，叠加车企补贴后一次性买断价或上涨3000元。知情人士确认消息属实，鸿蒙智行销售人员表示涨价可能性很大。",
+    "url": "https://news.aigupiao.com/kind/industry",
+    "source": "爱股票",
+    "slug": "huawei-ads-price-hike"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "Transformer之父Noam Shazeer正式加盟OpenAI任架构研究负责人",
+    "summary": "Transformer架构核心奠基人之一Noam Shazeer正式离开谷歌加盟OpenAI，担任架构研究负责人。Shazeer是Transformer论文的合著者之一，其加入进一步强化OpenAI前沿研究实力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8366a34bc0558352",
+    "source": "量子位",
+    "slug": "noam-shazeer-joins-openai"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "WAIC 2026将于7月17-20日在上海举办，8月新加坡设亚太场",
+    "summary": "世界人工智能大会WAIC 2026将于7月17日至20日登陆上海，联动三大片区、围绕AI前沿议题设置七大板块内容，聚合全球产学研资资源。同期8月将在新加坡举办亚太场，开启全球化布局。",
+    "url": "https://www.36kr.com/motif/327686782977",
+    "source": "36氪",
+    "slug": "waic-2026-shanghai"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "OpenAI CEO Sam Altman警告：算力分配是下一个核武器级问题",
+    "summary": "Sam Altman发文警告称技术民主化正遭挑战，算力分配已成为下一个核武器级别的地缘政治问题，呼吁全球关注AI基础设施的公平分配。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7506a347acf20152",
+    "source": "蓝血研究",
+    "slug": "sam-altman-compute-warning"
+  },
+  {
     "date": "2026-06-19",
     "title": "商务部等八部门发布《关于加快人工智能+消费发展的实施意见》",
-    "summary": "商务部等八部门围绕提升人工智能+商品消费、扩大人工智能+服务消费等五方面，提出17项具体举措，从供需两侧同时发力，打通AI应用有产品无市场或有需求无供给的结构性堵点，促进人工智能进千家万户、进千商万店。",
+    "summary": "商务部等八部门围绕提升AI+商品消费、扩大AI+服务消费等五方面提出17项具体举措，从供需两侧同时发力，打通AI应用有产品无市场或有需求无供给的结构性堵点，加快推出新一代AI手机和智能电脑。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7096a34b15709852",
     "source": "商务部",
     "slug": "ai-consumption-policy-2026"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "智谱发布并开源GLM-5.2旗舰大模型，登顶全球开源模型第一",
-    "summary": "智谱发布新一代旗舰大模型GLM-5.2，采用MoE稀疏混合专家架构，总参数744B，激活参数约40B，支持1M tokens长上下文。在Code Arena和Design Arena均取得全球可用AI排名第一，Artificial Analysis综合榜取得51分，比肩Claude Opus 4.8，位居全球开源模型第一。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4616a33eced60052",
-    "source": "智谱AI",
-    "slug": "glm-52-global-top-open-source"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "科创板第五套标准扩围至大模型企业，智谱MiniMax回A有望提速",
-    "summary": "上交所发布《上海证券交易所发行上市审核规则适用指引第10号》，将科创板第五套上市标准适用范围扩大至人工智能大模型企业，支持尚未形成一定收入规模的优质AI大模型企业上市。正在筹备回A的智谱和MiniMax获得制度层面更多确定性。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8216a34bf7d26152",
-    "source": "上海证券报",
-    "slug": "star-market-ai-listing-rules"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "海通国际：腾讯AI布局被低估，WorkBuddy月访问量达885万",
-    "summary": "海通国际发布研报称市场可能低估了腾讯在AI时代的布局，特别是Agent harness(智能体驾驭工程)方面。报告指出腾讯WorkBuddy已成为中国使用量最高的编程产品，3月月访问量达885万，为第二名竞争对手的两倍以上，是日活最高的国内Agent工具之一。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1006a34bd7d82352",
-    "source": "智通财经",
-    "slug": "tencent-ai-workbuddy-valuation"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "埃森哲业绩不及预期引发IT服务股抛售，IBM跌超6%",
-    "summary": "埃森哲最新财报显示2026财年Q4营收展望逊于华尔街预期，股价大跌超17%。该公司长期赖以生存的人天计价与收费模式可能被AI智能体彻底颠覆，IBM受其影响股价自高点累计下跌超25%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8366a34bc0558352",
-    "source": "智通财经",
-    "slug": "accenture-ai-disruption-it-services"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "AIEC 2026人工智能+生态大会在北京举行",
-    "summary": "人工智能+生态大会(AIEC 2026)由清华大学全球产业研究院主办，中关村科学城管委会支持，来自国家信息中心、IDC、阿里云、腾讯、月之暗面、火山引擎、阶跃星辰、百川智能等机构和企业代表共聚一堂，围绕人工智能+从战略部署迈向产业实践的关键路径展开研讨。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4106a33fe3052552",
-    "source": "AIEC大会",
-    "slug": "aiec-2026-beijing"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "中国正加紧筹建世界人工智能合作组织",
-    "summary": "国新办举行《构建更加公正合理的全球治理体系：中国的理念、倡议与行动》白皮书新闻发布会，发改委副主任周海兵介绍中国正加紧筹建世界人工智能合作组织，欢迎各方加入共促智能向善，积极推动AI全球治理和国际合作。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5046a33d36f40752",
-    "source": "国家发改委",
-    "slug": "world-ai-cooperation-org"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "可信AI语料发展与治理全球倡议发布，确立六大核心标准",
-    "summary": "国际人工智能协会发布可信AI语料发展与治理全球倡议，提出构建面向全球AI发展的可信语料基础设施，确立六大核心标准：可验证来源、合法完整授权、事实准确性、伦理对齐与偏见缓解、统一标准化以及动态更新机制。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7726a33cdd094452",
-    "source": "中新网",
-    "slug": "trustworthy-ai-corpus-initiative"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "金融监管总局发布银行业保险业AI安全开发应用指导意见",
-    "summary": "国家金融监督管理总局发布指导意见，提出推进人工智能金融行业应用基础设施建设，促进AI应用成果在行业共享复用。鼓励大型金融机构向中小金融机构输出AI技术和管理经验，支持中小金融机构加强协作共同推进应用场景落地。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4456a33cf3e71852",
-    "source": "金融监管总局",
-    "slug": "fin-reg-ai-guidelines"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "马斯克预计中国大模型或在2027年Q1达到Fable水平",
-    "summary": "特斯拉CEO马斯克在社交媒体回复网友称，中国大模型可能在2027年一季度达到Anthropic的Fable水平。AI业内人士认为马斯克预测相对保守，中美模型水平时间差可能短于7个月。谷歌DeepMind CEO哈萨比斯此前也表示中国AI模型只差几个月就能赶上海外。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6526a33e2ef88852",
-    "source": "每经AI快讯",
-    "slug": "musk-china-ai-fable-prediction"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "成都新增5款生成式AI大模型完成国家备案，总量达23款",
-    "summary": "四川省互联网信息办公室发布备案通告，成都市新增5款生成式AI大模型完成国家备案，全市获国家备案大模型总量达23款，较2025年增幅53%。新增模型包括蜀天云数大模型(工业制造)和数联慧眼大模型(工业视觉检测)等。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0986a33d96000452",
-    "source": "成都日报",
-    "slug": "chengdu-5-new-ai-models-filing"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "通义千问精准预测世界杯比分，国产大模型全员入局赛事预测",
-    "summary": "2026美加墨世界杯期间，阿里通义千问连续精准命中墨西哥2:0南非、韩国2:1捷克两场比赛的比分与红牌事件，被网友称为新时代章鱼保罗。Kimi、DeepSeek、豆包、文心一言等五大国产大模型全员入局，对全部104场赛事展开公开预测。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8166a33efa018152",
-    "source": "阿里云",
-    "slug": "tongyi-qwen-worldcup-prediction"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "蔚来世界模型全新版本推送，超70万用户同步升级",
-    "summary": "蔚来世界模型全新版本于6月18日推送，超70万用户同步升级。蔚来成为行业首家实现通用芯片与自研芯片智能辅助驾驶共线开发的车企，新版本采用世界模型+监督微调+闭环强化学习三层训练框架，实现智能辅助驾驶直出方向盘和加减速踏板操作信号。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8216a34bf7d26152",
-    "source": "蔚来汽车",
-    "slug": "nio-world-model-update"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "医疗AI模型MIRA和谷歌AMIE在患者管理方面表现与医生相当",
-    "summary": "《自然》论文介绍了两个医疗AI模型——MIRA和谷歌AMIE。MIRA通过访问电子病历系统并进行对话收集信息，诊断准确率达87.8%，高于专家组的78.1%。AMIE基于大语言模型，能对多次就诊数据进行连续推理，在管理推理、治疗精准度和遵循临床指南等方面优于医生。",
-    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "自然杂志",
-    "slug": "medical-ai-mira-amie-patient-care"
   }
 ]
