@@ -1,114 +1,114 @@
 [
   {
-    "date": "2026-06-18",
-    "title": "上交所发布AI大模型企业适用科创板第五套上市标准审核指引",
-    "summary": "上交所正式发布第10号指引，将科创板第五套标准适用范围扩大至人工智能领域，预计市值不低于40亿元的AI大模型企业可申请上市，智谱、MiniMax、明略科技等公司或受益。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0486a3387e342752",
-    "source": "企鹅号",
-    "slug": "sse-ai-ipo-guideline"
+    "date": "2026-06-19",
+    "title": "商务部等八部门发布《关于加快人工智能+消费发展的实施意见》",
+    "summary": "商务部等八部门围绕提升人工智能+商品消费、扩大人工智能+服务消费等五方面，提出17项具体举措，从供需两侧同时发力，打通AI应用有产品无市场或有需求无供给的结构性堵点，促进人工智能进千家万户、进千商万店。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7096a34b15709852",
+    "source": "商务部",
+    "slug": "ai-consumption-policy-2026"
   },
   {
-    "date": "2026-06-18",
-    "title": "七部门联合印发促进平台经济大中小企业协同发展行动方案",
-    "summary": "工信部等七部门联合印发《促进平台经济大中小企业协同发展行动方案(2026—2028年)》，引导平台企业加强通用大模型、行业大模型和智能体等AI领域创新布局，推进高端芯片、下一代操作系统等技术突破。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1506a339e6431352",
-    "source": "企鹅号",
-    "slug": "seven-ministries-platform-ai-plan"
+    "date": "2026-06-19",
+    "title": "智谱发布并开源GLM-5.2旗舰大模型，登顶全球开源模型第一",
+    "summary": "智谱发布新一代旗舰大模型GLM-5.2，采用MoE稀疏混合专家架构，总参数744B，激活参数约40B，支持1M tokens长上下文。在Code Arena和Design Arena均取得全球可用AI排名第一，Artificial Analysis综合榜取得51分，比肩Claude Opus 4.8，位居全球开源模型第一。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4616a33eced60052",
+    "source": "智谱AI",
+    "slug": "glm-52-global-top-open-source"
   },
   {
-    "date": "2026-06-18",
-    "title": "商务部等八部门发布「人工智能+消费」发展实施意见",
-    "summary": "商务部等八部门发布《关于加快「人工智能+消费」发展的实施意见》，围绕提升AI商品消费、扩大AI服务消费等五方面提出17项具体举措，促进人工智能进千家万户。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5246a33a61654452",
-    "source": "企鹅号",
-    "slug": "ai-consumption-policy"
+    "date": "2026-06-19",
+    "title": "科创板第五套标准扩围至大模型企业，智谱MiniMax回A有望提速",
+    "summary": "上交所发布《上海证券交易所发行上市审核规则适用指引第10号》，将科创板第五套上市标准适用范围扩大至人工智能大模型企业，支持尚未形成一定收入规模的优质AI大模型企业上市。正在筹备回A的智谱和MiniMax获得制度层面更多确定性。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8216a34bf7d26152",
+    "source": "上海证券报",
+    "slug": "star-market-ai-listing-rules"
   },
   {
-    "date": "2026-06-18",
-    "title": "DeepSeek识图模式正式上线，首次具备原生图像理解能力",
-    "summary": "DeepSeek面向所有用户开放识图模式，网页版和App端同步可用。该模式与快速模式、专家模式并列，具备完整图像理解能力，远超简单文字提取，识别常见物品和知名建筑速度快且准确。",
-    "url": "https://new.qq.com/rain/a/20260618A0764C00",
-    "source": "腾讯网",
-    "slug": "deepseek-vision-mode"
+    "date": "2026-06-19",
+    "title": "海通国际：腾讯AI布局被低估，WorkBuddy月访问量达885万",
+    "summary": "海通国际发布研报称市场可能低估了腾讯在AI时代的布局，特别是Agent harness(智能体驾驭工程)方面。报告指出腾讯WorkBuddy已成为中国使用量最高的编程产品，3月月访问量达885万，为第二名竞争对手的两倍以上，是日活最高的国内Agent工具之一。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1006a34bd7d82352",
+    "source": "智通财经",
+    "slug": "tencent-ai-workbuddy-valuation"
   },
   {
-    "date": "2026-06-18",
-    "title": "科大讯飞发布SpaceMind智慧空间Agentic架构",
-    "summary": "科大讯飞举办2026 SpaceMind全球发布会，推出智慧空间Agentic架构，搭载60GHz毫米波雷达感知系统，采用「双路由+双模型」体系和多Agent协同机制，推动家庭、酒店、办公等场景从设备智能向空间智能跨越。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3816a33bde813252",
-    "source": "企鹅号",
-    "slug": "iflytek-spacemind"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "阿里巴巴发布千问具身智能大模型Qwen-Robot系列",
-    "summary": "阿里巴巴正式发布千问具身智能大模型Qwen-Robot系列，包含三大核心模型，分别对应机器人的操作、移动和认知能力，为物理AI和机器人落地提供基础模型支撑。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0946a3395d244852",
-    "source": "企鹅号",
-    "slug": "alibaba-qwen-robot"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "成都新增5款生成式AI大模型完成国家备案，总量升至23款",
-    "summary": "四川省互联网信息办公室发布备案通告，成都新增5款生成式AI大模型完成国家备案，包括蜀天云数大模型、数联慧眼大模型等，全市备案总量达23款，较2025年增幅53%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0986a33d96000452",
-    "source": "企鹅号",
-    "slug": "chengdu-ai-models-filing"
+    "date": "2026-06-19",
+    "title": "埃森哲业绩不及预期引发IT服务股抛售，IBM跌超6%",
+    "summary": "埃森哲最新财报显示2026财年Q4营收展望逊于华尔街预期，股价大跌超17%。该公司长期赖以生存的人天计价与收费模式可能被AI智能体彻底颠覆，IBM受其影响股价自高点累计下跌超25%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8366a34bc0558352",
+    "source": "智通财经",
+    "slug": "accenture-ai-disruption-it-services"
   },
   {
     "date": "2026-06-18",
     "title": "AIEC 2026人工智能+生态大会在北京举行",
-    "summary": "AIEC 2026由清华大学全球产业研究院主办，阿里云、腾讯、月之暗面、火山引擎、浪潮信息、百川智能等机构专家共议「人工智能+」从战略部署迈向产业实践的关键路径。",
+    "summary": "人工智能+生态大会(AIEC 2026)由清华大学全球产业研究院主办，中关村科学城管委会支持，来自国家信息中心、IDC、阿里云、腾讯、月之暗面、火山引擎、阶跃星辰、百川智能等机构和企业代表共聚一堂，围绕人工智能+从战略部署迈向产业实践的关键路径展开研讨。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4106a33fe3052552",
-    "source": "企鹅号",
+    "source": "AIEC大会",
     "slug": "aiec-2026-beijing"
   },
   {
-    "date": "2026-06-19",
-    "title": "OpenAI GPT-5.4联合Molecule.one改进药物合成反应",
-    "summary": "OpenAI与Molecule.one联合发布成果：GPT-5.4在近乎自主的条件下改进了一个常用药物合成反应，提出了化学家都觉得意外的方案，展示AI在科学研究中的原创能力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4416a34b98841752",
-    "source": "企鹅号",
-    "slug": "openai-gpt5-drug-synthesis"
+    "date": "2026-06-18",
+    "title": "中国正加紧筹建世界人工智能合作组织",
+    "summary": "国新办举行《构建更加公正合理的全球治理体系：中国的理念、倡议与行动》白皮书新闻发布会，发改委副主任周海兵介绍中国正加紧筹建世界人工智能合作组织，欢迎各方加入共促智能向善，积极推动AI全球治理和国际合作。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5046a33d36f40752",
+    "source": "国家发改委",
+    "slug": "world-ai-cooperation-org"
   },
   {
     "date": "2026-06-18",
-    "title": "英伟达发布Cosmos 3全球首款开源物理AI全模态基础模型",
-    "summary": "英伟达发布Cosmos 3——全球首款完全开源的物理AI全模态基础模型，同步成立Cosmos联盟，联合思灵机器人、Black Forest Labs、Runway、Skild AI等共同推动下一代世界模型发展。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0946a3395d244852",
-    "source": "企鹅号",
-    "slug": "nvidia-cosmos3"
+    "title": "可信AI语料发展与治理全球倡议发布，确立六大核心标准",
+    "summary": "国际人工智能协会发布可信AI语料发展与治理全球倡议，提出构建面向全球AI发展的可信语料基础设施，确立六大核心标准：可验证来源、合法完整授权、事实准确性、伦理对齐与偏见缓解、统一标准化以及动态更新机制。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7726a33cdd094452",
+    "source": "中新网",
+    "slug": "trustworthy-ai-corpus-initiative"
   },
   {
     "date": "2026-06-18",
-    "title": "美国政府对Anthropic前沿模型实施芯片级出口管制，OpenAI表示担忧",
-    "summary": "美国政府对Anthropic前沿模型实施芯片级出口管制，引发行业连锁反应。Anthropic CEO在G7峰会上呼吁避免AI内部分裂，OpenAI则担心管制范围可能扩大至整个AI行业。",
-    "url": "https://tech.163.com/it",
-    "source": "网易科技",
-    "slug": "anthropic-export-control"
+    "title": "金融监管总局发布银行业保险业AI安全开发应用指导意见",
+    "summary": "国家金融监督管理总局发布指导意见，提出推进人工智能金融行业应用基础设施建设，促进AI应用成果在行业共享复用。鼓励大型金融机构向中小金融机构输出AI技术和管理经验，支持中小金融机构加强协作共同推进应用场景落地。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4456a33cf3e71852",
+    "source": "金融监管总局",
+    "slug": "fin-reg-ai-guidelines"
   },
   {
     "date": "2026-06-18",
-    "title": "字节跳动计划采购至少5万颗AI芯片",
-    "summary": "据每日新闻消息，字节跳动计划采购至少5万颗AI芯片。同期，SK海力士已向主要客户供应12层HBM4E样品，国产GPU新品报价较预期提升20-30%，AI芯片供应链持续升温。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4336a33b82991052",
-    "source": "企鹅号",
-    "slug": "bytedance-ai-chip-procurement"
+    "title": "马斯克预计中国大模型或在2027年Q1达到Fable水平",
+    "summary": "特斯拉CEO马斯克在社交媒体回复网友称，中国大模型可能在2027年一季度达到Anthropic的Fable水平。AI业内人士认为马斯克预测相对保守，中美模型水平时间差可能短于7个月。谷歌DeepMind CEO哈萨比斯此前也表示中国AI模型只差几个月就能赶上海外。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6526a33e2ef88852",
+    "source": "每经AI快讯",
+    "slug": "musk-china-ai-fable-prediction"
   },
   {
     "date": "2026-06-18",
-    "title": "《自然》发表两个独立AI模型可管理患者从诊断到治疗全过程",
-    "summary": "《自然》杂志6月17日发表论文，介绍两个独立的AI模型，能够为从诊断到治疗决策的多个患者管理阶段提供帮助，标志着AI在医疗领域迈向全流程患者管理。",
+    "title": "成都新增5款生成式AI大模型完成国家备案，总量达23款",
+    "summary": "四川省互联网信息办公室发布备案通告，成都市新增5款生成式AI大模型完成国家备案，全市获国家备案大模型总量达23款，较2025年增幅53%。新增模型包括蜀天云数大模型(工业制造)和数联慧眼大模型(工业视觉检测)等。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0986a33d96000452",
+    "source": "成都日报",
+    "slug": "chengdu-5-new-ai-models-filing"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "通义千问精准预测世界杯比分，国产大模型全员入局赛事预测",
+    "summary": "2026美加墨世界杯期间，阿里通义千问连续精准命中墨西哥2:0南非、韩国2:1捷克两场比赛的比分与红牌事件，被网友称为新时代章鱼保罗。Kimi、DeepSeek、豆包、文心一言等五大国产大模型全员入局，对全部104场赛事展开公开预测。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8166a33efa018152",
+    "source": "阿里云",
+    "slug": "tongyi-qwen-worldcup-prediction"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "蔚来世界模型全新版本推送，超70万用户同步升级",
+    "summary": "蔚来世界模型全新版本于6月18日推送，超70万用户同步升级。蔚来成为行业首家实现通用芯片与自研芯片智能辅助驾驶共线开发的车企，新版本采用世界模型+监督微调+闭环强化学习三层训练框架，实现智能辅助驾驶直出方向盘和加减速踏板操作信号。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8216a34bf7d26152",
+    "source": "蔚来汽车",
+    "slug": "nio-world-model-update"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "医疗AI模型MIRA和谷歌AMIE在患者管理方面表现与医生相当",
+    "summary": "《自然》论文介绍了两个医疗AI模型——MIRA和谷歌AMIE。MIRA通过访问电子病历系统并进行对话收集信息，诊断准确率达87.8%，高于专家组的78.1%。AMIE基于大语言模型，能对多次就诊数据进行连续推理，在管理推理、治疗精准度和遵循临床指南等方面优于医生。",
     "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "国家科技信息中心",
-    "slug": "nature-ai-patient-management"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "小米发布MiMo+Claw正式版，免费时长增至4小时",
-    "summary": "小米发布MiMo+Claw正式版，将免费使用时长增至4小时，持续加码AI助手赛道竞争。同期智谱AI开源GLM-5.2，主打1M无损上下文与长程代码能力。",
-    "url": "https://chinaz.com/",
-    "source": "站长之家",
-    "slug": "xiaomi-mimo-claw"
+    "source": "自然杂志",
+    "slug": "medical-ai-mira-amie-patient-care"
   }
 ]
