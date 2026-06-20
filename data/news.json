@@ -1,114 +1,122 @@
 [
   {
     "date": "2026-06-20",
-    "title": "商务部等八部门发布「人工智能+消费」实施意见，提出17项举措",
-    "summary": "商务部等八部门发布《关于加快人工智能+消费发展的实施意见》，围绕提升AI商品消费、扩大AI服务消费等五方面提出17项具体举措，促进AI进千家万户、进千商万店。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5986a35d18f52152",
-    "source": "新华社",
-    "slug": "ai-consumption-policy-17-measures"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "GLM-5.2登顶Design Arena AI榜单，超越Claude Fable 5",
-    "summary": "智谱GLM-5.2在Design Arena单轮HTML网页设计评测中首次登顶总分第一，超越Claude Fable 5等模型。该模型能高效调用chart.js、three.js等第三方库，在91%的会话中使用TailwindCSS。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7636a35dfb709252",
-    "source": "IT之家",
-    "slug": "glm-5-2-design-arena-first"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "网易有道LobsterAI桌面级AI智能体亮相北京图博会",
-    "summary": "网易有道自主研发的桌面级AI智能体LobsterAI（有道龙虾）在第三十一届北京国际图书博览会现场演示，可自动调用设计工具、检索古籍数据库、匹配视觉素材完成创作任务。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0356a35f27441852",
-    "source": "央广网",
-    "slug": "lobster-ai-beijing-book-fair"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "智谱开源强化学习训练框架slime，GLM-5.2后训练仅用2天",
-    "summary": "智谱将其内部使用的强化学习训练框架slime开源，刚发布的GLM-5.2整个OPD后训练在该平台上仅用了大约2天时间完成，多项评测显示GLM-5.2水平介于Claude Opus 4.7和4.8之间。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0106a35695b46452",
+    "title": "商务部等八部门发布《关于加快人工智能+消费发展的实施意见》",
+    "summary": "商务部等八部门联合发布意见，围绕提升人工智能+商品消费、扩大人工智能+服务消费等五方面，提出17项具体举措，促进人工智能进千家万户、进千商万店。在商品消费领域，提出扩大智能终端供给，推动消费电子产品从功能型向智能型转变。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8966a364f5b25452",
     "source": "企鹅号",
-    "slug": "zhipu-open-source-rl-framework-slime"
+    "slug": "ai-consumption-policy-2026"
   },
   {
     "date": "2026-06-20",
-    "title": "WAIC 2026倒计时：7月17-20日上海举行，全球售票启动",
-    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海举行，大会联动三大片区、围绕AI前沿议题设置七大板块，并发布首个AI生态开放平台Hi WAIC APP。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8036a36061656452",
-    "source": "企鹅号",
-    "slug": "waic-2026-shanghai-countdown"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "2026人民数据大会「数据要素×AI」专题交流会在自贡举办",
-    "summary": "2026人民数据大会专题交流会「数据要素×人工智能——词元(Token)赋能数据，智能驱动场景」在四川省自贡市举办，聚焦数据要素如何支撑AI应用落地。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4896a35f64f65552",
-    "source": "企鹅号",
-    "slug": "people-data-conference-ai-zigong"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "智谱发布并开源新一代旗舰大模型GLM-5.2",
-    "summary": "智谱于6月17日上线并开源GLM-5.2，采用MoE稀疏混合专家架构，总参数744B，激活参数约40B，支持1M tokens长上下文。在Code Arena盲测中取得全球可用模型第一，Artificial Analysis综合榜得分51分。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9036a35037100752",
+    "title": "智谱发布开源大模型GLM-5.2，位居全球开源模型第一",
+    "summary": "智谱发布GLM-5.2，采用MoE架构，参数达744B，支持1M tokens长上下文处理。在Artificial Analysis榜单上表现优异，位居全球开源模型第一。马斯克和智谱创始人唐杰参与关于中美大模型追赶时间表的辩论。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4396a36111690552",
     "source": "企鹅号",
     "slug": "zhipu-glm-5-2-release"
   },
   {
     "date": "2026-06-19",
-    "title": "科创板第五套标准扩围至AI大模型企业，智谱、MiniMax回A提速",
-    "summary": "上交所发布指引，将科创板第五套上市标准适用对象扩展至AI大模型企业，支持尚未形成一定收入规模的优质大模型企业上市。正在筹备回A的智谱和MiniMax获得制度层面更多确定性。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8216a34bf7d26152",
-    "source": "上海证券报",
-    "slug": "star-market-fifth-standard-ai-llm"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "蔚来世界模型全新版本推送，超70万用户同步升级",
-    "summary": "蔚来世界模型全新版本于6月18日推送，超70万用户同步升级。蔚来成为行业首家实现通用芯片与自研芯片智能辅助驾驶共线开发的车企，采用世界模型+监督微调+闭环强化学习三层训练框架。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8216a34bf7d26152",
+    "title": "DeepSeek完成约510亿元A轮融资，估值接近4000亿元",
+    "summary": "企查查信息显示，6月15日DeepSeek新增A轮融资约510亿元，企业估值接近4000亿元。创始人梁文锋出资约200亿元，为本轮最大单一出资方。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1266a35156e59152",
     "source": "企鹅号",
-    "slug": "nio-world-model-update"
+    "slug": "deepseek-series-a-funding"
   },
   {
-    "date": "2026-06-19",
-    "title": "银河通用机器人发布人形机器人通用小脑GPT基础模型",
-    "summary": "银河通用机器人发布全球首个人形机器人通用小脑GPT基础模型AstraBrain-WBC 0.5，基于2万小时人类动作数据训练，参数规模达8040万，首次采用GPT风格的因果Transformer架构。",
-    "url": "https://www.3dmgame.com/news/",
-    "source": "3DM游戏网",
-    "slug": "galaxy-robot-astrabrain-wbc"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "科大讯飞发布SpaceMind智慧空间架构，AI Agent走进物理场景",
-    "summary": "科大讯飞SpaceMind智慧空间架构正式全球亮相，采用双路由+双模型设计解决大模型响应延迟问题，多Agent协同模式赋予空间记忆与自主学习能力，推动行业迈入L2.5主动智能阶段。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5766a355b7e47252",
+    "date": "2026-06-20",
+    "title": "AI版支付宝正式启动邀请测试",
+    "summary": "AI版支付宝正式启动邀请测试，后续将逐步向全量用户开放迭代。与此同时，微信也开启面向部分小程序开发者的AI生态接入能力内测，移动互联网核心应用迈入深度AI化新阶段。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2706a3609c019652",
     "source": "企鹅号",
-    "slug": "iflytek-spacemind-ai-agent"
+    "slug": "ai-alipay-launch"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "AI全面赋能618电商大促，首个AI原生大促诞生",
+    "summary": "今年618被业内认为是首个AI原生电商大促，AI渗透到电商选品、营销、客服、物流、售后等环节，落地场景覆盖消费全链路，正在重构电商行业底层逻辑。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1716a3624c356852",
+    "source": "企鹅号",
+    "slug": "ai-native-618-shopping"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "Football AI Pro亮相2026世界杯，AI战术分析系统首次大规模应用",
+    "summary": "国际足联与中国企业合作推出Football AI Pro生成式AI战术分析系统，整合超2000个数据指标和数百万个数据点，数秒内为教练提供战术洞察，已在墨西哥队对阵南非队的揭幕战中应用。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0996a3624b641552",
+    "source": "企鹅号",
+    "slug": "football-ai-pro-world-cup"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "Anthropic新模型Fable5和Mythos5被美国政府以国家安全为由封禁",
+    "summary": "当地时间6月12日，美国政府发布出口管制指令，暂停所有外国国民对Anthropic新系列模型Fable5和Mythos5的访问权限，包括Anthropic外籍员工，要求全球停用以确保合规。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9226a2e082a44152",
+    "source": "企鹅号",
+    "slug": "anthropic-models-banned"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "OpenAI向SEC秘密递交IPO申请，目标估值约1万亿美元",
+    "summary": "OpenAI于6月8-9日向SEC秘密递交S-1，目标估值约8500亿至1万亿美元，由高盛和摩根士丹利操刀，上市窗口预计在2026年9月至第四季度。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2306a33c6f324652",
+    "source": "企鹅号",
+    "slug": "openai-secret-ipo-filing"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "Anthropic抢先OpenAI秘密递交IPO申请，计划纳斯达克上市",
+    "summary": "Anthropic于6月1日抢在OpenAI之前秘密递交S-1，最新估值9650亿美元，IPO时可能跨过万亿门槛，计划2026年10月在纳斯达克上市。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2306a33c6f324652",
+    "source": "企鹅号",
+    "slug": "anthropic-ipo-filing"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "OpenAI就Anthropic出口管制表达深切忧虑",
+    "summary": "OpenAI首席战略官向员工表示，公司已向美国政府郑重表态：AI技术研发需要汇聚全球顶尖人才，这是美国领跑AI的核心原因。OpenAI仍在评估Anthropic监管措施带来的潜在影响。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5306a3274ba94152",
+    "source": "企鹅号",
+    "slug": "openai-anthropic-export-concerns"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "Anthropic年化营收300亿美元，超越OpenAI",
+    "summary": "Anthropic年化营收运行率(ARR)达300亿美元，超越OpenAI的240-250亿美元区间。Anthropic约85%收入来自企业客户，而OpenAI大部分营业额来自ChatGPT消费者订阅。",
+    "url": "https://blog.csdn.net/2501_91883294/article/details/160662117",
+    "source": "CSDN",
+    "slug": "anthropic-revenue-surpasses-openai"
+  },
+  {
+    "date": "2026-06-15",
+    "title": "Anthropic完成H轮650亿美元融资，估值9650亿美元",
+    "summary": "Anthropic宣布完成650亿美元H轮融资，投后估值9650亿美元，超越OpenAI成为全球最值钱AI创企。90天估值增长154%，创造了AI行业最快估值增长速度。",
+    "url": "https://blog.csdn.net/yp0to1/article/details/161511795",
+    "source": "CSDN",
+    "slug": "anthropic-h-round-funding"
   },
   {
     "date": "2026-06-19",
-    "title": "演语科技完成近3亿美元B+轮融资，估值超20亿美元",
-    "summary": "演语科技（Evoken）宣布完成近3亿美元B+轮融资，投后估值超20亿美元，领投方为Granite Asia、腾讯及顺为资本，红杉中国、蚂蚁集团、高榕资本等老股东持续追加。",
-    "url": "https://pitchhub.36kr.com/financing-flash",
+    "title": "WAIC 2026世界人工智能大会将于7月17-20日在上海举办",
+    "summary": "世界人工智能大会WAIC 2026将于7月17-20日登陆上海，联动三大片区、围绕AI前沿议题设置七大板块内容，聚合全球产学研资资源，同期将于8月在新加坡举办亚太场。",
+    "url": "https://www.36kr.com/motif/327686782977",
     "source": "36氪",
-    "slug": "evoken-300m-series-b-plus"
+    "slug": "waic-2026-shanghai"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "腾讯蚂蚁打响第二次消费AI大战",
+    "summary": "一季度OpenAI单季营收57亿美元但运营亏损扩大至93亿美元；Anthropic一季度营收48亿美元、二季度预计109亿美元有望短暂运营盈利。国内腾讯和蚂蚁加速AI应用布局。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4106a32c23793252",
+    "source": "企鹅号",
+    "slug": "tencent-ant-ai-competition"
   },
   {
     "date": "2026-06-19",
-    "title": "Manifold AI流形空间完成近10亿元PreA轮融资",
-    "summary": "Manifold AI流形空间宣布完成新一轮近10亿元融资，投资方包括中国国新旗下国新基金、淡马锡旗下毅峰资本、北汽产投、芯能创投等，四家老股东超额追加投资。",
-    "url": "https://pitchhub.36kr.com/financing-flash",
-    "source": "36氪",
-    "slug": "manifold-ai-1b-pre-a-round"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "极佳视界再获10亿元B2轮融资，世界模型驱动物理AGI",
-    "summary": "极佳视界完成10亿元B2轮融资，全球顶配资本阵容齐聚，市场投资意向远超原定募资目标，持续领跑世界模型驱动物理AGI赛道。",
-    "url": "https://pitchhub.36kr.com/financing-flash",
-    "source": "36氪",
-    "slug": "jijia-shijie-1b-b2-round"
+    "title": "苹果CEO库克确认iPhone等产品即将涨价",
+    "summary": "苹果CEO蒂姆·库克接受《华尔街日报》采访首次公开松口，受内存与存储芯片成本持续暴涨影响，苹果计划上调产品售价。",
+    "url": "https://ssxjd.com/",
+    "source": "书生家电网",
+    "slug": "apple-iphone-price-hike"
   }
 ]
