@@ -1,122 +1,114 @@
 [
   {
     "date": "2026-06-20",
-    "title": "Anthropic永久在线智能体Conway曝光，GPT-5.6内测中",
-    "summary": "Anthropic下一代重磅产品Conway曝光：永久在线智能体，AI从被动响应转向主动打工模式，告别对话框交互范式。同时GPT-5.6也在悄悄内测中，巨头激战正加速颠覆工作流。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9736a35ca1789152",
-    "source": "量子位",
-    "slug": "anthropic-conway-gpt56"
+    "title": "商务部等八部门发布「人工智能+消费」实施意见，提出17项举措",
+    "summary": "商务部等八部门发布《关于加快人工智能+消费发展的实施意见》，围绕提升AI商品消费、扩大AI服务消费等五方面提出17项具体举措，促进AI进千家万户、进千商万店。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5986a35d18f52152",
+    "source": "新华社",
+    "slug": "ai-consumption-policy-17-measures"
   },
   {
     "date": "2026-06-20",
-    "title": "OpenAI在ChatGPT中试点广告功能，扩大至韩国市场",
-    "summary": "据韩媒ETNews报道，OpenAI将ChatGPT广告试点范围扩大至韩国市场，广告主要面向免费版及Go套餐成年用户，Plus、Pro、Business、Enterprise及Edu用户不受影响。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5406a35af8244752",
-    "source": "CNMO科技",
-    "slug": "openai-chatgpt-ads-korea"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "谷歌发布DiffusionGemma：扩散模型突破自回归瓶颈，推理速度提升4倍",
-    "summary": "谷歌推出实验性开放模型DiffusionGemma，采用扩散技术同时生成整段文本而非逐Token输出。推理时仅激活38亿参数，经量化后可在RTX 5090等消费级GPU上运行，生成速度最高可达自回归模型的4倍。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1126a356abb61652",
-    "source": "谷歌AI",
-    "slug": "google-diffusion-gemma"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "全球首个机器人通用小脑GPT模型发布：AstraBrain-WBC 0.5",
-    "summary": "河通用机器人发布全球首个人形机器人通用小脑GPT基础模型AstraBrain-WBC 0.5，基于2万小时人类动作数据训练，参数规模8040万，首次采用GPT风格因果Transformer架构，零样本追踪成功率从83.26%提升至92.58%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5516a355fed69452",
-    "source": "河通用机器人",
-    "slug": "astrabrain-robot-cerebellum-gpt"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "Waymo日订单量突破10万，自动驾驶进入规模化盈利临界点",
-    "summary": "Waymo在旧金山和凤凰城的日订单量突破10万单，标志着自动驾驶从技术验证正式跨入规模化盈利的临界点。过去五年资本市场对自动驾驶的态度经历起伏，这一里程碑具有分水岭意义。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8266a3551f813652",
-    "source": "Waymo",
-    "slug": "waymo-100k-daily-orders"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "亚马逊拟向第三方数据中心销售自研AI芯片，挑战英伟达",
-    "summary": "亚马逊AI业务负责人Peter DeSantis在巴黎透露，亚马逊已启动向其他公司数据中心出售定制AI芯片的讨论，此举将进一步加大对其英伟达主导地位的挑战。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1326a34bcdb16852",
-    "source": "钛媒体",
-    "slug": "amazon-ai-chip-third-party"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "科大讯飞SpaceMind空间智能架构发布，推动行业进入L2.5主动智能",
-    "summary": "科大讯飞推出SpaceMind空间智能架构，通过双路由+双模型设计解决大模型响应延迟和运行不稳定问题，多Agent协同模式赋予空间记忆与自主学习能力，推动AI Agent走进物理场景。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5766a355b7e47252",
-    "source": "科大讯飞",
-    "slug": "iflytek-spacemind-l25"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "理想汽车自研马赫AI芯片量产上车，5nm制程1280TOPS算力",
-    "summary": "理想汽车自研马赫AI芯片采用5纳米车规级工艺，单芯片算力1280TOPS，双芯算力2560TOPS，于2022年立项、2026年5月实现量产上车。此前比亚迪、蔚来、小鹏均已推出自研智驾芯片。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3366a3494a328852",
-    "source": "理想汽车",
-    "slug": "lixiang-mach-ai-chip"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "OpenAI GPT-5.4在近乎自主条件下改进药物合成反应",
-    "summary": "OpenAI与Molecule.one联合发布新成果：GPT-5.4在近乎自主的条件下改进了药物合成中一个常用反应，并提出了化学家都感到意外的方案，展示AI在科学发现领域的突破性应用。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4416a34b98841752",
-    "source": "量子位",
-    "slug": "openai-gpt54-drug-synthesis"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "Rivian涉嫌夸大初代车型自动驾驶能力遭车主集体诉讼",
-    "summary": "美国造车新势力Rivian因涉嫌夸大初代R1T皮卡和R1S SUV的自动驾驶能力，遭消费者集体起诉。原告指控Rivian曾宣称第一代车型最终将支持脱手脱眼驾驶功能但未兑现。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8346a355cc509652",
+    "title": "GLM-5.2登顶Design Arena AI榜单，超越Claude Fable 5",
+    "summary": "智谱GLM-5.2在Design Arena单轮HTML网页设计评测中首次登顶总分第一，超越Claude Fable 5等模型。该模型能高效调用chart.js、three.js等第三方库，在91%的会话中使用TailwindCSS。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7636a35dfb709252",
     "source": "IT之家",
-    "slug": "rivian-autopilot-lawsuit"
+    "slug": "glm-5-2-design-arena-first"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "网易有道LobsterAI桌面级AI智能体亮相北京图博会",
+    "summary": "网易有道自主研发的桌面级AI智能体LobsterAI（有道龙虾）在第三十一届北京国际图书博览会现场演示，可自动调用设计工具、检索古籍数据库、匹配视觉素材完成创作任务。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0356a35f27441852",
+    "source": "央广网",
+    "slug": "lobster-ai-beijing-book-fair"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "智谱开源强化学习训练框架slime，GLM-5.2后训练仅用2天",
+    "summary": "智谱将其内部使用的强化学习训练框架slime开源，刚发布的GLM-5.2整个OPD后训练在该平台上仅用了大约2天时间完成，多项评测显示GLM-5.2水平介于Claude Opus 4.7和4.8之间。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0106a35695b46452",
+    "source": "企鹅号",
+    "slug": "zhipu-open-source-rl-framework-slime"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "WAIC 2026倒计时：7月17-20日上海举行，全球售票启动",
+    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海举行，大会联动三大片区、围绕AI前沿议题设置七大板块，并发布首个AI生态开放平台Hi WAIC APP。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8036a36061656452",
+    "source": "企鹅号",
+    "slug": "waic-2026-shanghai-countdown"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "2026人民数据大会「数据要素×AI」专题交流会在自贡举办",
+    "summary": "2026人民数据大会专题交流会「数据要素×人工智能——词元(Token)赋能数据，智能驱动场景」在四川省自贡市举办，聚焦数据要素如何支撑AI应用落地。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4896a35f64f65552",
+    "source": "企鹅号",
+    "slug": "people-data-conference-ai-zigong"
   },
   {
     "date": "2026-06-19",
-    "title": "华为乾崑智驾ADS高阶功能包7月起或涨价3000元",
-    "summary": "消息称自2026年7月1日起华为乾崑智驾ADS高阶功能包优惠将收窄，叠加车企补贴后一次性买断价或上涨3000元。知情人士确认消息属实，鸿蒙智行销售人员表示涨价可能性很大。",
-    "url": "https://news.aigupiao.com/kind/industry",
-    "source": "爱股票",
-    "slug": "huawei-ads-price-hike"
+    "title": "智谱发布并开源新一代旗舰大模型GLM-5.2",
+    "summary": "智谱于6月17日上线并开源GLM-5.2，采用MoE稀疏混合专家架构，总参数744B，激活参数约40B，支持1M tokens长上下文。在Code Arena盲测中取得全球可用模型第一，Artificial Analysis综合榜得分51分。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9036a35037100752",
+    "source": "企鹅号",
+    "slug": "zhipu-glm-5-2-release"
   },
   {
     "date": "2026-06-19",
-    "title": "Transformer之父Noam Shazeer正式加盟OpenAI任架构研究负责人",
-    "summary": "Transformer架构核心奠基人之一Noam Shazeer正式离开谷歌加盟OpenAI，担任架构研究负责人。Shazeer是Transformer论文的合著者之一，其加入进一步强化OpenAI前沿研究实力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8366a34bc0558352",
-    "source": "量子位",
-    "slug": "noam-shazeer-joins-openai"
+    "title": "科创板第五套标准扩围至AI大模型企业，智谱、MiniMax回A提速",
+    "summary": "上交所发布指引，将科创板第五套上市标准适用对象扩展至AI大模型企业，支持尚未形成一定收入规模的优质大模型企业上市。正在筹备回A的智谱和MiniMax获得制度层面更多确定性。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8216a34bf7d26152",
+    "source": "上海证券报",
+    "slug": "star-market-fifth-standard-ai-llm"
   },
   {
     "date": "2026-06-19",
-    "title": "WAIC 2026将于7月17-20日在上海举办，8月新加坡设亚太场",
-    "summary": "世界人工智能大会WAIC 2026将于7月17日至20日登陆上海，联动三大片区、围绕AI前沿议题设置七大板块内容，聚合全球产学研资资源。同期8月将在新加坡举办亚太场，开启全球化布局。",
-    "url": "https://www.36kr.com/motif/327686782977",
+    "title": "蔚来世界模型全新版本推送，超70万用户同步升级",
+    "summary": "蔚来世界模型全新版本于6月18日推送，超70万用户同步升级。蔚来成为行业首家实现通用芯片与自研芯片智能辅助驾驶共线开发的车企，采用世界模型+监督微调+闭环强化学习三层训练框架。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8216a34bf7d26152",
+    "source": "企鹅号",
+    "slug": "nio-world-model-update"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "银河通用机器人发布人形机器人通用小脑GPT基础模型",
+    "summary": "银河通用机器人发布全球首个人形机器人通用小脑GPT基础模型AstraBrain-WBC 0.5，基于2万小时人类动作数据训练，参数规模达8040万，首次采用GPT风格的因果Transformer架构。",
+    "url": "https://www.3dmgame.com/news/",
+    "source": "3DM游戏网",
+    "slug": "galaxy-robot-astrabrain-wbc"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "科大讯飞发布SpaceMind智慧空间架构，AI Agent走进物理场景",
+    "summary": "科大讯飞SpaceMind智慧空间架构正式全球亮相，采用双路由+双模型设计解决大模型响应延迟问题，多Agent协同模式赋予空间记忆与自主学习能力，推动行业迈入L2.5主动智能阶段。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5766a355b7e47252",
+    "source": "企鹅号",
+    "slug": "iflytek-spacemind-ai-agent"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "演语科技完成近3亿美元B+轮融资，估值超20亿美元",
+    "summary": "演语科技（Evoken）宣布完成近3亿美元B+轮融资，投后估值超20亿美元，领投方为Granite Asia、腾讯及顺为资本，红杉中国、蚂蚁集团、高榕资本等老股东持续追加。",
+    "url": "https://pitchhub.36kr.com/financing-flash",
     "source": "36氪",
-    "slug": "waic-2026-shanghai"
+    "slug": "evoken-300m-series-b-plus"
   },
   {
     "date": "2026-06-19",
-    "title": "OpenAI CEO Sam Altman警告：算力分配是下一个核武器级问题",
-    "summary": "Sam Altman发文警告称技术民主化正遭挑战，算力分配已成为下一个核武器级别的地缘政治问题，呼吁全球关注AI基础设施的公平分配。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7506a347acf20152",
-    "source": "蓝血研究",
-    "slug": "sam-altman-compute-warning"
+    "title": "Manifold AI流形空间完成近10亿元PreA轮融资",
+    "summary": "Manifold AI流形空间宣布完成新一轮近10亿元融资，投资方包括中国国新旗下国新基金、淡马锡旗下毅峰资本、北汽产投、芯能创投等，四家老股东超额追加投资。",
+    "url": "https://pitchhub.36kr.com/financing-flash",
+    "source": "36氪",
+    "slug": "manifold-ai-1b-pre-a-round"
   },
   {
     "date": "2026-06-19",
-    "title": "商务部等八部门发布《关于加快人工智能+消费发展的实施意见》",
-    "summary": "商务部等八部门围绕提升AI+商品消费、扩大AI+服务消费等五方面提出17项具体举措，从供需两侧同时发力，打通AI应用有产品无市场或有需求无供给的结构性堵点，加快推出新一代AI手机和智能电脑。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7096a34b15709852",
-    "source": "商务部",
-    "slug": "ai-consumption-policy-2026"
+    "title": "极佳视界再获10亿元B2轮融资，世界模型驱动物理AGI",
+    "summary": "极佳视界完成10亿元B2轮融资，全球顶配资本阵容齐聚，市场投资意向远超原定募资目标，持续领跑世界模型驱动物理AGI赛道。",
+    "url": "https://pitchhub.36kr.com/financing-flash",
+    "source": "36氪",
+    "slug": "jijia-shijie-1b-b2-round"
   }
 ]
