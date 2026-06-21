@@ -1,122 +1,122 @@
 [
   {
     "date": "2026-06-21",
-    "title": "商务部等八部门发布《关于加快人工智能+消费发展的实施意见》",
-    "summary": "商务部等八部门联合发布意见，围绕提升人工智能+商品消费、扩大人工智能+服务消费等五方面，提出17项具体举措，促进AI进千家万户、进千商万店，为AI在消费领域落地画出清晰路线图。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8966a364f5b25452",
-    "source": "企鹅号",
-    "slug": "ai-consumption-policy-2026"
+    "title": "OpenAI GPT-5.6 系列模型或下周发布",
+    "summary": "科技媒体报道OpenAI有望下周推出GPT-5.6系列模型，涵盖mini、标准版及Pro版。上下文窗口从100万tokens扩展至150万tokens，优化了长周期编码能力和Codex响应速度，在智能体编码工作中已优于Anthropic的Mythos系列。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0256a3732f741352",
+    "source": "极客早知道",
+    "slug": "openai-gpt-5-6-coming-soon"
   },
   {
     "date": "2026-06-20",
     "title": "智谱发布开源大模型GLM-5.2，位居全球开源模型第一",
-    "summary": "智谱发布GLM-5.2，采用MoE架构，参数达744B，支持1M tokens长上下文处理。在Artificial Analysis榜单上表现优异，位居全球开源模型第一，中金研报称其为首款真实能力达到Claude-Opus 4.6的国产模型。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4396a36111690552",
-    "source": "企鹅号",
+    "summary": "智谱发布GLM-5.2，采用MoE架构，参数达744B，支持1M tokens长上下文处理。在Artificial Analysis榜单上表现优异，位居全球开源模型第一。智谱称GLM-5.2在编程场景优势显著，API将于6月第三周正式上线并开源，遵循MIT协议。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8966a364f5b25452",
+    "source": "产业科技周报",
     "slug": "zhipu-glm-5-2-release"
   },
   {
     "date": "2026-06-20",
-    "title": "DeepSeek完成超500亿元A轮融资，腾讯100亿领投",
-    "summary": "DeepSeek官宣完成A轮融资，总融资额突破510亿，投后估值500亿美金。腾讯100亿领投，宁德时代、京东、网易跟投，杭州的阿里巴巴爆冷出局。创始人梁文锋出资约200亿元。",
+    "title": "DeepSeek完成超500亿元首轮融资，腾讯领投",
+    "summary": "DeepSeek官宣完成A轮融资，总融资额突破510亿元，投后估值500亿美元。腾讯100亿元领投，宁德时代、京东、网易跟投，阿里巴巴出局。梁文锋自掏200亿元，外部资本放弃投票权，仅作为纯财务投资。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1696a366f1e76852",
     "source": "企鹅号",
-    "slug": "deepseek-series-a-funding"
+    "slug": "deepseek-510b-funding"
   },
   {
     "date": "2026-06-20",
-    "title": "证监会宣布科创板第五套标准扩大至AI大模型领域",
-    "summary": "证监会主席吴清在陆家嘴论坛上宣布，将科创板第五套上市标准适用范围扩大至人工智能大模型领域。智谱已提交A股辅导备案并于6月17日变更为辅导验收状态，拟募资150亿元。国产AI迎来政策、产业、资本三重共振。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4606a3669d857052",
+    "title": "八部门发布「人工智能+消费」发展实施意见",
+    "summary": "商务部等八部门围绕提升人工智能+商品消费、扩大人工智能+服务消费等五方面，提出17项具体举措，促进人工智能进千家万户、进千商万店，扩大智能终端供给，推动消费电子产品从功能型向智能型转变。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0726a36c49588252",
+    "source": "经纬度",
+    "slug": "china-ai-consumption-policy"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "华为鸿蒙7发布，盘古大模型6.0嵌入系统内核",
+    "summary": "鸿蒙7正式发布，将百亿参数级别的盘古大模型6.0直接嵌入系统内核，实现端侧AI的本地部署。同时，昇腾910C国产AI算力集群成功完成1.6万亿参数大模型DeepSeek-V4-Pro的全参数后训练，标志国产算力从推理迈向训练阶段。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0086a36831136152",
     "source": "企鹅号",
-    "slug": "star-board-ai-ipo-policy"
+    "slug": "huawei-harmonyos-pangu-6"
   },
   {
     "date": "2026-06-20",
-    "title": "AI全面赋能618电商大促，首个AI原生电商大促",
-    "summary": "今年618被业内认为是首个AI原生电商大促。AI应用渗透到电商选品、营销、客服、物流、售后等多个环节，落地场景覆盖消费全链路，正在重构电商行业底层逻辑。",
-    "url": "http://finance.cnr.cn/gundong/",
-    "source": "央广网",
+    "title": "AI全面赋能618，业内称首个「AI原生」电商大促",
+    "summary": "2026年618被业内认为是首个AI原生电商大促。AI应用渗透到电商选品、营销、客服、物流、售后等多个环节，落地场景覆盖消费全链路，正在重构电商行业底层逻辑。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1716a3624c356852",
+    "source": "企鹅号",
     "slug": "ai-native-618-shopping"
   },
   {
     "date": "2026-06-20",
-    "title": "马斯克与智谱唐杰就中国AI追赶Fable时间表隔空对话",
-    "summary": "网友向马斯克提问中国大模型何时达到Anthropic Fable水平，马斯克回复可能在2027年一季度。智谱创始人唐杰回应称用不了这么久。此前美国政府要求Anthropic切断所有外国国民对Fable 5和Mythos 5的访问权限。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4876a3692f932065",
-    "source": "企鹅号",
-    "slug": "musk-tangjie-ai-debate"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "微软推出自研MAI系列模型，从采购商转型自研商",
-    "summary": "微软一口气推出七款自研MAI系列模型，从170亿参数的MAI-Mini到1.8万亿参数MoE架构旗舰MAI-Orion。MAI-Orion在15项基准测试中12项超越GPT-5预览版，推理成本仅为后者的38%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2076a368fa692652",
-    "source": "企鹅号",
-    "slug": "microsoft-mai-model-series"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "谷歌48小时内连失两大AI核心人物",
-    "summary": "Transformer奠基人之一、谷歌Gemini团队联席主管Noam Shazeer宣布离开谷歌，重返对手阵营担任OpenAI架构研究负责人。诺奖得主、Google DeepMind副总裁John Jumper也宣布加入Anthropic。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7276a3630ae64752",
-    "source": "爱范儿",
-    "slug": "google-ai-talent-exodus"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "华为昇腾910C完成DeepSeek-V4-Pro全参数后训练",
-    "summary": "深圳河套学院联合哈工大（深圳）、深圳市大数据研究院及华为团队，依托昇腾910C国产AI算力集群，成功完成1.6万亿参数大模型DeepSeek-V4-Pro的全参数后训练，标志国产算力从推理迈向复杂训练。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0086a36831136152",
-    "source": "企鹅号",
-    "slug": "huawei-ascend-deepseek-v4-pro"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "算苗科技发布面向大模型推理的3D TokenPU芯片A4E",
-    "summary": "算苗科技宣布旗下面向大模型推理的3D TokenPU芯片A4E已于6月15日正式流片，标志中国在高端AI算力芯片领域实现依托国产供应链、采用3D混合堆叠架构的大模型专用处理器落地。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3676a3247f700452",
-    "source": "企鹅号",
-    "slug": "suanmiao-3d-tokenpu-a4e"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "OpenAI GPT-5.6系列有望下周登场",
-    "summary": "科技媒体testingcatalog报道，OpenAI有望下周推出GPT-5.6系列模型，涵盖mini、标准版及Pro版。部分Pro订阅用户已在X平台发布首批输出，称质量大幅提升。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1296a36380b99852",
-    "source": "IT之家",
-    "slug": "openai-gpt-5-6-upcoming"
-  },
-  {
-    "date": "2026-06-20",
     "title": "AI版支付宝正式推出",
-    "summary": "AI版支付宝正式推出，标志着移动互联网核心应用迈入深度AI化新阶段。该版本将AI能力深度整合到支付和生活服务场景中。",
+    "summary": "AI版支付宝正式上线，标志着金融科技领域AI应用的进一步深化，是支付宝在人工智能方向的最新布局。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8966a364f5b25452",
-    "source": "企鹅号",
+    "source": "产业科技周报",
     "slug": "ai-alipay-launch"
   },
   {
     "date": "2026-06-20",
-    "title": "亚马逊、Meta等企业开始给员工AI用量设上限",
-    "summary": "据英国《金融时报》报道，亚马逊、沃尔玛、思科、优步和Meta等早期AI企业使用者开始给员工AI用量设上限、减少浪费式使用，或将任务导向更便宜的模型，AI账单压力正在显现。",
-    "url": "https://tech.163.com/it",
-    "source": "网易科技",
-    "slug": "enterprise-ai-usage-caps"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "国际足联推出Football AI Pro战术分析系统，AI助力世界杯",
-    "summary": "2026美加墨世界杯迈出关键一步，国际足联与中国企业合作推出Football AI Pro生成式AI战术分析系统。系统整合超2000个数据指标和数百万个数据点，数秒内即可为教练提供战术洞察。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0996a3624b641552",
+    "title": "微软发布七款自研MAI系列模型，与OpenAI展开竞争",
+    "summary": "微软于6月初一口气推出七款自研MAI系列模型，从170亿参数的MAI-Mini到1.8万亿参数的MoE架构旗舰MAI-Orion。MAI-Orion在15项基准测试中有12项超越GPT-5预览版，推理成本仅为后者38%，标志微软从模型采购商转型为模型自研商。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2076a368fa692652",
     "source": "企鹅号",
-    "slug": "fifa-football-ai-pro"
+    "slug": "microsoft-mai-models"
   },
   {
     "date": "2026-06-20",
-    "title": "DeepSeek、腾讯云等下调算力服务价格，算力加速普惠化",
-    "summary": "DeepSeek、腾讯云等近期下调算力服务价格，三大运营商推出Token套餐。人工智能快速发展背景下，算力正从稀缺产业资源加速向普惠型数字基础服务挺进。",
-    "url": "http://www.xbxxb.com/kj/1.html",
-    "source": "西北在线",
-    "slug": "ai-compute-price-cuts"
+    "title": "证监会放宽科创板第五套标准至AI大模型领域",
+    "summary": "证监会主席吴清在陆家嘴论坛上宣布将科创板第五套上市标准适用范围扩大至人工智能大模型领域。上交所正式发布相关指引，为尚未形成一定收入规模的优质大模型企业开辟A股融资通道。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4606a3669d857052",
+    "source": "企鹅号",
+    "slug": "star-market-ai-ipo-policy"
+  },
+  {
+    "date": "2026-06-21",
+    "title": "特斯拉申请「Amazing Abundance」商标，加速AI与机器人战略",
+    "summary": "特斯拉正式提交Amazing Abundance商标注册申请，表明企业将进一步深耕人工智能、人形机器人、自动驾驶系统，并依托自动化技术实现生产成本大幅下降的未来图景。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1436a37439137852",
+    "source": "财联社",
+    "slug": "tesla-amazing-abundance-trademark"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "英伟达联合CMU和伯克利推出具身智能框架ENPIRE",
+    "summary": "英伟达联合卡内基梅隆大学和UC Berkeley推出具身智能Autoresearch框架ENPIRE，让AI自主进行机器人技能研究和探索，标志着具身智能研究进入新阶段。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0306a36885f14552",
+    "source": "量子位",
+    "slug": "nvidia-empire-embodied-ai"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "2026湾区科技节深圳启幕，人形机器人成焦点",
+    "summary": "2026湾区科技节在深圳湾万象城正式启幕，集中展出人工智能、人形机器人等尖端AI技术成果。荣耀人形机器人「闪电」与「元气仔」带来人机互动展演，成为全场焦点。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1516a3683f352952",
+    "source": "封面新闻",
+    "slug": "bay-area-tech-festival-2026"
+  },
+  {
+    "date": "2026-06-21",
+    "title": "成都新增5款生成式AI大模型完成国家备案",
+    "summary": "四川省互联网信息办公室发布备案通告，成都市新增5款生成式人工智能大模型完成国家生成式AI服务备案。全市获国家备案大模型总量达23款，深耕工业智造、新闻传媒、财经教育、政务文书等垂直领域。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0656a37349b50552",
+    "source": "企鹅号",
+    "slug": "chengdu-5-new-ai-models"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "太初元碁携手上海交大推进AGI大模型研发",
+    "summary": "太初元碁与上海交通大学签署合作协议，提供国产AI训练算力集群助力AGI大模型研发。赵海教授团队完成首个AGI大模型原型BriLLM-MetaPred开发，初步展示原生类脑方案AGI的可行性。",
+    "url": "https://new.qq.com/rain/a/20260620A063EW00",
+    "source": "腾讯网",
+    "slug": "taichu-sjtu-agi-research"
+  },
+  {
+    "date": "2026-06-21",
+    "title": "2026世界人工智能大会(WAIC)即将登陆上海",
+    "summary": "2026世界人工智能大会(WAIC)即将在上海举办，作为中国人工智能领域规格最高、影响力最广的国家级平台之一，WAIC将成为全球技术创新成果发布、产业资源汇聚与生态合作对接的重要窗口。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7836a373ff254452",
+    "source": "企鹅号",
+    "slug": "waic-2026-shanghai"
   }
 ]
