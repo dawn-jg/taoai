@@ -1,122 +1,106 @@
 [
   {
-    "date": "2026-06-21",
-    "title": "OpenAI GPT-5.6 系列有望下周发布，含 mini/标准版/Pro 版",
-    "summary": "科技媒体 testingcatalog 报道称 OpenAI 有望下周推出 GPT-5.6 系列模型，涵盖 mini、标准版以及 Pro 版三个版本。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0256a3732f741352",
-    "source": "极客早知道",
-    "slug": "openai-gpt-5-6-next-week"
+    "date": "2026-06-22",
+    "title": "世界模型：人工智能的下一个前沿",
+    "summary": "全球顶级科研团队正致力于打造名为“世界模型”的AI大模型，研究者认为世界模型才能真正通向“智能”。在北京一场科技大会上，使用世界模型的机器人已能完成给垃圾桶套塑料袋、为鲜花包装透明外壳等高难度任务。世界模型有望让AI具备“推演未来”的能力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5776a3867f860552",
+    "source": "企鹅号",
+    "slug": "world-model-ai-frontier"
   },
   {
     "date": "2026-06-21",
-    "title": "诺奖得主约翰·江珀离开谷歌 DeepMind 加入 Anthropic",
-    "summary": "诺贝尔化学奖得主约翰·江珀宣布离开工作近九年的谷歌 DeepMind，加盟 AI 初创企业 Anthropic。此前谷歌 AI 工程副总裁、Gemini 联合负责人诺姆·沙泽尔也已加入 OpenAI。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4426a379c7979152",
+    "title": "黄仁勋最新访谈：AI是一场新工业革命",
+    "summary": "英伟达CEO黄仁勋在访谈中表示AI正引发一场新工业革命。与此同时，美国商务部工业与安全局(BIS)于5月31日紧急发布新指引，升级AI芯片出口管制，堵截中企通过海外子公司采购高端AI芯片的渠道。英伟达市值已突破5万亿美元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0566a37e67b26452",
+    "source": "企鹅号",
+    "slug": "jensen-huang-ai-industrial-revolution"
+  },
+  {
+    "date": "2026-06-21",
+    "title": "诺贝尔奖得主John Jumper离开DeepMind加盟Anthropic",
+    "summary": "诺贝尔奖得主、资深研究科学家约翰·江珀(John Jumper)于当地时间6月19日宣布，在谷歌DeepMind工作近九年后，决定离开并加入AI初创企业Anthropic。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5406a37627b97852",
     "source": "企鹅号",
     "slug": "john-jumper-joins-anthropic"
   },
   {
     "date": "2026-06-21",
-    "title": "成都市新增 5 款生成式 AI 大模型完成国家备案，总量达 23 款",
-    "summary": "四川省互联网信息办公室发布备案通告，成都新增 5 款生成式 AI 大模型完成国家备案，全市获国家备案大模型总量达 23 款，较 2025 年备案数量增加 53%。涵盖工业制造、工业视觉、政务办公、传媒、财经教育等领域。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0656a37349b50552",
+    "title": "金融监管总局发布银行业保险业首份AI安全开发应用指导意见",
+    "summary": "AI正从银行业的“技术选项”变为“生存刚需”。金融监管总局发布银行业保险业首份AI安全开发应用指导意见，从治理架构、开发应用、数据治理等多个维度为金融机构AI发展拧紧“安全阀”。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0566a37e96468252",
     "source": "企鹅号",
-    "slug": "chengdu-5-new-ai-models"
+    "slug": "banking-ai-safety-guidelines"
   },
   {
     "date": "2026-06-21",
-    "title": "Databricks 寻求新一轮融资，估值最高达 1750 亿美元",
-    "summary": "AI 数据独角兽 Databricks 正在寻求新一轮融资，估值最高可能达到 1750 亿美元（约 1.26 万亿元人民币）。今年 2 月其刚完成 50 亿美元融资，估值 1340 亿美元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9206a37a1e952452",
-    "source": "企鹅号",
-    "slug": "databricks-175b-valuation"
+    "title": "OpenAI GPT-5.6系列模型有望下周发布",
+    "summary": "据科技媒体testingcatalog报道，OpenAI有望下周推出GPT-5.6系列模型，涵盖mini版、标准版以及Pro版等多个版本，或将成为OpenAI迄今最强AI模型系列。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0256a3732f741352",
+    "source": "极客早知道/企鹅号",
+    "slug": "openai-gpt-5-6-next-week"
   },
   {
     "date": "2026-06-21",
-    "title": "金融 AI 竞争进入「为投研创造 Alpha」阶段，讯兔科技论坛在沪举行",
-    "summary": "财联社报道，讯兔科技 2026 金融 AI 生态论坛暨 PaiWork+ 发布会在上海举行，300 余位嘉宾到场。金融 AI 竞争正从「模型能回答什么」进入「能为投研创造多少 Alpha」的新阶段。",
+    "title": "讯兔科技金融AI生态论坛暨PaiWork+发布会在上海举行",
+    "summary": "6月18日，讯兔科技2026金融AI生态论坛暨PaiWork+发布会在上海举行，300余位来自金融、AI、学术与产业生态的嘉宾到场。金融AI竞争正从“模型能回答什么”进入“能为投研创造多少Alpha”的阶段。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3566a3797c079752",
-    "source": "财联社",
-    "slug": "finance-ai-alpha-competition"
+    "source": "财联社/企鹅号",
+    "slug": "xuntu-finance-ai-forum-paiwork"
   },
   {
     "date": "2026-06-21",
-    "title": "英伟达成 AI「最大地主」：市值 5.4 万亿美元，大模型巨头沦为算力佃农",
-    "summary": "新智元报道指出，英伟达凭借 GPU 垄断地位成为 AI 时代最大赢家，市值达 5.4 万亿美元，各大模型公司高度依赖其算力供给。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5166a37913a06152",
-    "source": "新智元",
-    "slug": "nvidia-5-4-trillion-ai-landlord"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "商务部等八部门发文促进「人工智能+消费」，提出 17 项举措",
-    "summary": "商务部等八部门发布《关于加快「人工智能+消费」发展的实施意见》，围绕提升 AI+商品消费、扩大 AI+服务消费等五方面提出 17 项具体举措，促进 AI 进千家万户、进千商万店。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7036a368ac437752",
-    "source": "央视新闻",
-    "slug": "ai-consumption-eight-ministries"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "2026 年 618：首个「AI 原生」电商大促，AI 全面赋能消费全链路",
-    "summary": "今年 618 被认为是首个「AI 原生」电商大促，AI 应用渗透到电商选品、营销、客服、物流、售后等全链路环节，京东、天猫、抖音等平台深度应用 AI 提升购物效率。",
-    "url": "http://www.xbxxb.com/kj/1.html",
-    "source": "西北在线",
-    "slug": "618-ai-native-ecommerce"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "证监会将科创板第五套上市标准扩大至 AI 大模型领域",
-    "summary": "证监会主席吴清在陆家嘴论坛上宣布将科创板第五套上市标准适用范围扩大至人工智能大模型领域，上交所同步发布相关指引，为国产 AI 大模型企业上市铺路。智谱、DeepSeek 等企业迎来政策利好。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4606a3669d857052",
+    "title": "摩根大通预计2030年AI基础设施建设总花费将达5.5万亿美元",
+    "summary": "摩根大通最新报告预计，到2030年人工智能超大规模数据中心运营商将投入约5.5万亿美元，较此前预测增加4000亿美元。报告指出超大规模数据中心运营商仍保持着“惊人的盈利能力”。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5326a37c83613652",
     "source": "企鹅号",
-    "slug": "star-market-ai-ipo"
+    "slug": "jpmorgan-ai-infrastructure-5-5-trillion"
   },
   {
-    "date": "2026-06-20",
-    "title": "智谱 GLM-5.2 模型全量开放，API 即将上线并开源（MIT 协议）",
-    "summary": "智谱最新模型 GLM-5.2 面向 GLM Coding Plan 全量用户开放，覆盖 Lite/Pro/Max/团队版，API 将于 6 月第三周正式上线并开源，遵循 MIT 协议。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4606a3669d857052",
+    "date": "2026-06-21",
+    "title": "阿里合伙人调整：AI科学家周靖人、CFO徐宏加入",
+    "summary": "根据阿里巴巴2025财务年度报告，通义大模型团队从零到一搭建、Qwen系列在全球模型中确立领先地位的关键人物周靖人正式成为阿里巴巴合伙人，同时CFO徐宏也加入合伙人行列。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4176a374ec684852",
     "source": "企鹅号",
-    "slug": "zhipu-glm-5-2-open-source"
+    "slug": "alibaba-ai-scientist-partner"
   },
   {
-    "date": "2026-06-20",
-    "title": "美国商务部对 Anthropic Fable/Mythos 模型实施严格出口管制",
-    "summary": "美国商务部出台出口管制新规，对 Anthropic 旗下 Fable 和 Mythos 两款最新大模型实施严格限制，全面禁止外国公民访问和使用，管控范围覆盖美国境内外所有外籍人员。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4606a3669d857052",
+    "date": "2026-06-21",
+    "title": "CVPR 2026收录字节Seed空间智能新突破SpatialTree",
+    "summary": "浙江大学、字节跳动Seed、北京交通大学等团队提出SpatialTree，被CVPR 2026收录。该研究将多模态大模型的空间智能重新整理为一棵能力树：从基础感知到心理地图、心理模拟，再到空间智能体行动，重新建构了MLLM空间能力路线图。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4826a374e0088052",
     "source": "企鹅号",
-    "slug": "us-export-control-anthropic"
+    "slug": "bytedance-spatialtree-cvpr-2026"
   },
   {
-    "date": "2026-06-20",
-    "title": "DeepSeek-V3 开源：API 价格仅为微软 MAI-Orion 1/15，迫使 OpenAI 和 Anthropic 降价",
-    "summary": "深度求索 6 月初开源第三代 MoE 模型 DeepSeek-V3，每百万 tokens 输入仅 0.28 美元，在中文数学推理与代码生成任务上性能接近 95% 对齐，直接迫使 OpenAI、Anthropic 下调 API 价格约 20-30%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2076a368fa692652",
+    "date": "2026-06-21",
+    "title": "LLM正进入“推荐系统化”深水区：性能霸权扼杀算法创新",
+    "summary": "分析指出，当前大模型架构正变得像推荐系统一样臃肿破碎，性能优化从锦上添花变为硬性门槛。“性能霸权”正在扼杀算法层面的创新，真正的突破点在于FlexAttention等底层框架的进化，让“可组合性”回归。",
+    "url": "https://news.qq.com/rain/a/20260621A02GI900",
+    "source": "腾讯新闻",
+    "slug": "llm-recommender-system-performance"
+  },
+  {
+    "date": "2026-06-21",
+    "title": "618电商大促：AI成流量核心入口，迈入“AI原生大促元年”",
+    "summary": "今年618期间，京东、天猫、抖音等电商平台深度应用AI技术提升购物效率和用户体验，AI成为电商流量核心入口，标志着电商行业正式迈入“AI原生大促元年”。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5406a37627b97852",
     "source": "企鹅号",
-    "slug": "deepseek-v3-open-source"
+    "slug": "618-ecommerce-ai-native"
   },
   {
-    "date": "2026-06-20",
-    "title": "2026 湾区科技节在深圳湾启幕，人形机器人成焦点",
-    "summary": "6 月 19 日，2026 湾区科技节在深圳湾万象城启幕，集中展出 AI、人形机器人等尖端技术成果。荣耀人形机器人「闪电」与「元气仔」带来人机互动展演成为全场焦点。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1516a3683f352952",
-    "source": "企鹅号",
-    "slug": "bay-area-tech-festival-2026"
+    "date": "2026-06-21",
+    "title": "国家发改委：中国将探索开展人工智能监管合作",
+    "summary": "国家发展改革委表示，中国将探索开展人工智能监管合作，推动AI产业规范健康发展。",
+    "url": "https://tech.163.com/",
+    "source": "网易科技",
+    "slug": "ndrc-ai-regulatory-cooperation"
   },
   {
-    "date": "2026-06-20",
-    "title": "挪威禁止小学生使用生成式 AI 工具",
-    "summary": "挪威首相斯特勒 6 月 19 日表示，为防止对学习产生负面影响，挪威将禁止小学生使用生成式人工智能工具，同时限制 AI 工具在高年级学生教育中的使用。",
-    "url": "https://36kr.com/newsflashes",
-    "source": "36氪",
-    "slug": "norway-bans-genai-primary-school"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "特朗普称不再将 Anthropic 视为国家安全威胁",
-    "summary": "美国总统特朗普在访谈节目中表示，他已经不再将美国人工智能公司 Anthropic 视为国家安全威胁。",
-    "url": "https://36kr.com/newsflashes",
-    "source": "财联社",
-    "slug": "trump-anthropic-no-threat"
+    "date": "2026-06-21",
+    "title": "全球OPC共创节将在北京举行，打造AI创造者年度派对",
+    "summary": "7月1日至4日，全球OPC共创节将在北京国家会议中心举行，旨在打造一场真正属于AI创造者的年度派对。该活动由全球数字经济大会组委会主办。",
+    "url": "https://www.bbtnews.com.cn/chuizhipd/yaowenzx/zhengjingpd/",
+    "source": "北京商报网",
+    "slug": "global-opc-festival-beijing"
   }
 ]
