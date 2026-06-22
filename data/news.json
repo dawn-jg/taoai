@@ -1,114 +1,114 @@
 [
   {
     "date": "2026-06-22",
-    "title": "微信AI助手「小微」灰度上线",
-    "summary": "微信AI助手「小微」小范围灰度上线，部分用户微信主界面左上角出现小眼睛图标入口。支持通过文字或语音对话操作微信原生功能、调起小程序，如帮助好友发送消息、查询朋友圈、预约服务等。",
+    "title": "OpenAI GPT-5.6 低调上线，3D与代码推理能力跃升",
+    "summary": "OpenAI在Pro端悄然上线GPT-5.6模型，推理速度显著提升，思考延迟降低80%以上，3D生成与代码推理能力大幅超越前代，可在1小时内完成完整浏览器游戏开发。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3276a38e03848352",
+    "source": "企鹅号",
+    "slug": "openai-gpt56"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "微信AI助手「小微」小范围灰度上线",
+    "summary": "微信AI已小范围灰度上线，部分网友微信主界面左上角出现小眼睛图标，即为AI助手「小微」测试版入口。小微支持通过文字或语音对话操作微信原生功能、调起小程序等。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0356a38806114752",
     "source": "界面新闻",
-    "slug": "wechat-ai-xiaowei-beta"
+    "slug": "wechat-ai-xiaowei"
   },
   {
     "date": "2026-06-22",
-    "title": "刘强东：未来不需要快递员，要送蓝领兄弟去培训",
-    "summary": "刘强东发表观点称未来不需要快递员，计划送蓝领兄弟去培训转型，引发社会对AI替代人工岗位的广泛讨论。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8576a38809664952",
+    "title": "智谱GLM-5.2大模型开源，国产AI开启普惠创新",
+    "summary": "智谱AI正式发布GLM-5.2大模型并全面开源。在Code Arena全球盲测中，GLM-5.2取得全球可用模型第一的成绩，并已在Day 0完成与华为昇腾、平头哥、摩尔线程、寒武纪等国产算力平台的推理适配。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5726a38f65a26352",
     "source": "企鹅号",
-    "slug": "liuqiangdong-ai-replace-courier"
+    "slug": "zhipu-glm52"
   },
   {
     "date": "2026-06-22",
-    "title": "挪威拟禁止小学生使用AI",
-    "summary": "挪威政府拟出台政策禁止小学生在校内使用AI工具，成为全球首个对低龄学生AI使用实施禁令的国家之一。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8576a38809664952",
+    "title": "Claude Fable 5 发布：SWE-Bench Pro达80.3%，单日迁移5000万行代码",
+    "summary": "Anthropic推出Claude Fable 5和Mythos 5双轨产品。Fable 5内置动态风险控制机制，在SWE-Bench Pro基准测试中达到80.3%得分，单日可迁移5000万行代码，被业界认为是最强AI模型。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1556a38966d70652",
     "source": "企鹅号",
-    "slug": "norway-ban-ai-primary-school"
+    "slug": "claude-fable5"
   },
   {
     "date": "2026-06-22",
-    "title": "八部门发布「人工智能+消费」实施意见",
-    "summary": "商务部等八部门发布《关于加快「人工智能+消费」发展的实施意见》，围绕提升AI商品消费、扩大AI服务消费等五方面提出17项具体举措，促进AI进千家万户、进千商万店。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2466a38957833752",
+    "title": "中国大模型周调用量连续八周超美国居全球首位",
+    "summary": "上周全球AI大模型总调用量达46.7万亿Token，连续九周上涨。中国大模型周调用量连续八周超美国并稳居全球首位，前四款上榜AI大模型均为国产：DeepSeek V4 Flash、MiMo-V2.5、MiniMax M3、Hy3 preview。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5496a38f85b89052",
     "source": "企鹅号",
-    "slug": "eight-ministries-ai-consumption"
+    "slug": "china-ai-call-volume"
   },
   {
     "date": "2026-06-22",
-    "title": "谷歌一周内丧失两位AI大佬，人才吸引力下降",
-    "summary": "谷歌一周内连续失去两位AI领域重要人物，外界担忧其人才吸引力正在下降，可能影响谷歌在AI竞争中的长期地位。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4316a38855f91052",
+    "title": "DeepSeek完成首轮超510亿元外部融资，估值约500亿美元",
+    "summary": "DeepSeek完成首轮外部融资，募资超过510亿元人民币，估值达到约500亿美元。梁文锋个人投入200亿元，腾讯、京东等巨头参与投资。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9716a3873c550052",
     "source": "企鹅号",
-    "slug": "google-loses-two-ai-leaders"
+    "slug": "deepseek-funding"
   },
   {
     "date": "2026-06-22",
-    "title": "现代汽车全资控股波士顿动力，人形机器人量产在即",
-    "summary": "现代汽车完成对波士顿动力的全资控股，人形机器人即将进入量产阶段，标志着机器人产业从实验室走向规模化商业落地。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4316a38855f91052",
+    "title": "SpaceX以600亿美元全股票交易收购Cursor母公司Anysphere",
+    "summary": "SpaceX向美国SEC提交文件，宣布以600亿美元的全股票交易收购AI编程工具Cursor的母公司Anysphere。Cursor将Claude、GPT等模型能力直接嵌入程序开发环境，此次收购引发业界广泛关注。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7936a38f2f095952",
     "source": "企鹅号",
-    "slug": "hyundai-boston-dynamics-mass-production"
+    "slug": "spacex-cursor-acquisition"
   },
   {
     "date": "2026-06-22",
-    "title": "GPT-5.6 Pro 泄露：一句话生成完整交互式游戏世界",
-    "summary": "OpenAI GPT-5.6 Pro版本泄露，可通过一句话指令在48分钟内生成类似《模拟人生》的完整交互式游戏世界，展示了大模型在内容生成领域的巨大潜力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4316a38855f91052",
-    "source": "企鹅号",
-    "slug": "gpt-5-6-pro-game-generation"
-  },
-  {
-    "date": "2026-06-22",
-    "title": "Cursor 发布全新 Composer 模型，算力投入提升 10-20 倍",
-    "summary": "AI编程工具Cursor发布全新Composer模型，算力投入相较此前提升10-20倍，在代码生成和推理能力上实现重大突破。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4316a38855f91052",
-    "source": "企鹅号",
-    "slug": "cursor-composer-model-launch"
-  },
-  {
-    "date": "2026-06-22",
-    "title": "G7 讨论「可信伙伴」机制，美国 AI 模型走向分级共享",
-    "summary": "G7峰会讨论「可信伙伴」机制，美国AI模型将走向分级共享模式，不同信任等级对应不同的模型访问权限和技术开放程度。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4316a38855f91052",
-    "source": "企鹅号",
-    "slug": "g7-trusted-partner-ai-sharing"
-  },
-  {
-    "date": "2026-06-22",
-    "title": "字节跳动洽谈采购国产AI芯片，扩充豆包推理GPU体系",
-    "summary": "字节跳动正与国产AI芯片厂商洽谈采购，拟用于豆包等AI应用的推理需求，进一步扩充国产GPU供应商体系。国金证券指出头部互联网厂商加速引入国产推理芯片，国产算力基础设施建设有望提速。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7496a389c8d82852",
-    "source": "企鹅号",
-    "slug": "bytedance-domestic-ai-chip-procurement"
-  },
-  {
-    "date": "2026-06-22",
-    "title": "中国放宽磷化铟衬底出口，缓解光通信上游原材料瓶颈",
-    "summary": "中国放宽部分磷化铟(InP)衬底出口，2026年首批约4000片衬底已于5月底发货，有望缓解光通信上游原材料瓶颈，推动二线光模块厂商产能释放。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7496a389c8d82852",
-    "source": "企鹅号",
-    "slug": "china-inp-substrate-export"
-  },
-  {
-    "date": "2026-06-22",
-    "title": "网易云音乐 AI 情感陪伴 App「妙时」因业务调整将停运",
-    "summary": "网易云音乐旗下AI情感陪伴App「妙时」因业务调整将停运。该应用主打AI情感陪伴功能，曾被视为网易在AI社交领域的重要探索。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0356a38806114752",
-    "source": "界面新闻",
-    "slug": "neteasemusic-miaoshi-shutdown"
-  },
-  {
-    "date": "2026-06-22",
-    "title": "AI 环保：2026 年中国环保一线的真实日常",
-    "summary": "AI正深度应用于中国环保一线：卫星AI分钟级锁定非法倾倒固废坐标，AI系统以每秒3次频率微调焚烧炉燃烧参数，烟气排放浓度降至欧盟标准的五分之一。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1076a38ae1d58452",
-    "source": "企鹅号",
-    "slug": "ai-environmental-protection-2026"
+    "title": "苹果新CEO特纳斯：重振设计团队列为首要任务",
+    "summary": "科技记者马克·古尔曼发文称，苹果工业设计团队影响力已降至数十年来最低点，新任CEO约翰·特纳斯将重振设计能力视为上任后的首要任务。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5256a38effc06952",
+    "source": "财联社",
+    "slug": "apple-ceo-design"
   },
   {
     "date": "2026-06-21",
-    "title": "诺贝尔奖得主 John Jumper 离开 DeepMind 加盟 Anthropic",
-    "summary": "诺贝尔奖得主、资深研究科学家约翰·江珀(John Jumper)于6月19日宣布离开谷歌DeepMind，在DeepMind工作近九年后，决定加入AI初创企业Anthropic。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5406a37627b97852",
+    "title": "阿里巴巴合伙人调整：AI科学家周靖人、CFO徐宏加入",
+    "summary": "阿里巴巴现任合伙人席位出现变化，邵晓锋退出，CFO徐宏和集团资深副总裁周靖人加入。周靖人担任阿里巴巴首席科学家，牵头成立阿里巴巴AI未来研究院。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7106a37f14d58952",
     "source": "企鹅号",
-    "slug": "john-jumper-joins-anthropic"
+    "slug": "alibaba-partners"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "具身智能独角兽酷哇科技拟赴港IPO，完成超6亿美元新融资",
+    "summary": "具身智能独角兽酷哇科技（Coowa）正筹备在香港上市，此前已隐秘完成超6亿美元新融资。华泰证券和德意志银行正作为联席保荐人协助推进上市事宜，计划未来两到三个月内递交港股IPO申请。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0476a38b2aa65752",
+    "source": "科创板日报",
+    "slug": "coowa-ipo"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "大咖机器人成立首年4轮数亿融资，金沙江创投等领投",
+    "summary": "DaxAI大咖机器人由前京东无人智驾核心成员与少年班博士组建，成立首年即完成4轮数亿元融资，金沙江创投、云时资本、盛世投资等领投，加速推进具身世界模型和「手脑一体」平台研发。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2476a38ed5547552",
+    "source": "企鹅号",
+    "slug": "daxai-robot-funding"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "挪威拟禁止6至13岁小学生使用生成式人工智能",
+    "summary": "据《自然》新闻报道，挪威将禁止6到13岁小学生使用生成式人工智能工具。同时有研究显示，随着越来越多专业人士在工作中依赖AI工具，其相关技能可能正在退化。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0396a38b52915252",
+    "source": "企鹅号",
+    "slug": "norway-ai-ban"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "LiblibAI母公司演语科技完成近3亿美元B+轮融资",
+    "summary": "演语科技正式披露近3亿美元B+轮融资，投后估值超20亿美元。本轮由Granite Asia、腾讯、顺为资本联合领投，红杉中国、高榕资本等现有股东持续加码，成为国内AI应用层迄今最大单笔融资之一。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2796a38c56864252",
+    "source": "企鹅号",
+    "slug": "liblibai-funding"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Anthropic拟引入苹果Digital ID完成用户身份核验以恢复Fable 5",
+    "summary": "受美国政府模型出口管制政策影响，Fable 5与Mythos 5已对所有用户停用。消息称Anthropic或将采用苹果Digital ID完成用户身份核验，限制仅美国公民可访问，以推动Fable 5重新开放。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5216a389a9250152",
+    "source": "IT之家",
+    "slug": "anthropic-digital-id"
   }
 ]
