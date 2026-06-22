@@ -7,6 +7,8 @@ const secondaryNav = [
   { name: '📖 AI内容库', href: '/content' },
   { name: '📰 每日AI快讯', href: '/news' },
   { name: '📚 AI教程资源', href: '/tutorials' },
+  { name: '📋 关于我们', href: '/about' },
+  { name: '📬 联系我们', href: '/contact' },
 ];
 
 export default function LeftSidebar() {
