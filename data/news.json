@@ -1,106 +1,114 @@
 [
   {
     "date": "2026-06-22",
-    "title": "世界模型：人工智能的下一个前沿",
-    "summary": "全球顶级科研团队正致力于打造名为“世界模型”的AI大模型，研究者认为世界模型才能真正通向“智能”。在北京一场科技大会上，使用世界模型的机器人已能完成给垃圾桶套塑料袋、为鲜花包装透明外壳等高难度任务。世界模型有望让AI具备“推演未来”的能力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5776a3867f860552",
+    "title": "微信AI助手「小微」灰度上线",
+    "summary": "微信AI助手「小微」小范围灰度上线，部分用户微信主界面左上角出现小眼睛图标入口。支持通过文字或语音对话操作微信原生功能、调起小程序，如帮助好友发送消息、查询朋友圈、预约服务等。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0356a38806114752",
+    "source": "界面新闻",
+    "slug": "wechat-ai-xiaowei-beta"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "刘强东：未来不需要快递员，要送蓝领兄弟去培训",
+    "summary": "刘强东发表观点称未来不需要快递员，计划送蓝领兄弟去培训转型，引发社会对AI替代人工岗位的广泛讨论。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8576a38809664952",
     "source": "企鹅号",
-    "slug": "world-model-ai-frontier"
+    "slug": "liuqiangdong-ai-replace-courier"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "挪威拟禁止小学生使用AI",
+    "summary": "挪威政府拟出台政策禁止小学生在校内使用AI工具，成为全球首个对低龄学生AI使用实施禁令的国家之一。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8576a38809664952",
+    "source": "企鹅号",
+    "slug": "norway-ban-ai-primary-school"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "八部门发布「人工智能+消费」实施意见",
+    "summary": "商务部等八部门发布《关于加快「人工智能+消费」发展的实施意见》，围绕提升AI商品消费、扩大AI服务消费等五方面提出17项具体举措，促进AI进千家万户、进千商万店。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2466a38957833752",
+    "source": "企鹅号",
+    "slug": "eight-ministries-ai-consumption"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "谷歌一周内丧失两位AI大佬，人才吸引力下降",
+    "summary": "谷歌一周内连续失去两位AI领域重要人物，外界担忧其人才吸引力正在下降，可能影响谷歌在AI竞争中的长期地位。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4316a38855f91052",
+    "source": "企鹅号",
+    "slug": "google-loses-two-ai-leaders"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "现代汽车全资控股波士顿动力，人形机器人量产在即",
+    "summary": "现代汽车完成对波士顿动力的全资控股，人形机器人即将进入量产阶段，标志着机器人产业从实验室走向规模化商业落地。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4316a38855f91052",
+    "source": "企鹅号",
+    "slug": "hyundai-boston-dynamics-mass-production"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "GPT-5.6 Pro 泄露：一句话生成完整交互式游戏世界",
+    "summary": "OpenAI GPT-5.6 Pro版本泄露，可通过一句话指令在48分钟内生成类似《模拟人生》的完整交互式游戏世界，展示了大模型在内容生成领域的巨大潜力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4316a38855f91052",
+    "source": "企鹅号",
+    "slug": "gpt-5-6-pro-game-generation"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Cursor 发布全新 Composer 模型，算力投入提升 10-20 倍",
+    "summary": "AI编程工具Cursor发布全新Composer模型，算力投入相较此前提升10-20倍，在代码生成和推理能力上实现重大突破。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4316a38855f91052",
+    "source": "企鹅号",
+    "slug": "cursor-composer-model-launch"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "G7 讨论「可信伙伴」机制，美国 AI 模型走向分级共享",
+    "summary": "G7峰会讨论「可信伙伴」机制，美国AI模型将走向分级共享模式，不同信任等级对应不同的模型访问权限和技术开放程度。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4316a38855f91052",
+    "source": "企鹅号",
+    "slug": "g7-trusted-partner-ai-sharing"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "字节跳动洽谈采购国产AI芯片，扩充豆包推理GPU体系",
+    "summary": "字节跳动正与国产AI芯片厂商洽谈采购，拟用于豆包等AI应用的推理需求，进一步扩充国产GPU供应商体系。国金证券指出头部互联网厂商加速引入国产推理芯片，国产算力基础设施建设有望提速。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7496a389c8d82852",
+    "source": "企鹅号",
+    "slug": "bytedance-domestic-ai-chip-procurement"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "中国放宽磷化铟衬底出口，缓解光通信上游原材料瓶颈",
+    "summary": "中国放宽部分磷化铟(InP)衬底出口，2026年首批约4000片衬底已于5月底发货，有望缓解光通信上游原材料瓶颈，推动二线光模块厂商产能释放。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7496a389c8d82852",
+    "source": "企鹅号",
+    "slug": "china-inp-substrate-export"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "网易云音乐 AI 情感陪伴 App「妙时」因业务调整将停运",
+    "summary": "网易云音乐旗下AI情感陪伴App「妙时」因业务调整将停运。该应用主打AI情感陪伴功能，曾被视为网易在AI社交领域的重要探索。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0356a38806114752",
+    "source": "界面新闻",
+    "slug": "neteasemusic-miaoshi-shutdown"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "AI 环保：2026 年中国环保一线的真实日常",
+    "summary": "AI正深度应用于中国环保一线：卫星AI分钟级锁定非法倾倒固废坐标，AI系统以每秒3次频率微调焚烧炉燃烧参数，烟气排放浓度降至欧盟标准的五分之一。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1076a38ae1d58452",
+    "source": "企鹅号",
+    "slug": "ai-environmental-protection-2026"
   },
   {
     "date": "2026-06-21",
-    "title": "黄仁勋最新访谈：AI是一场新工业革命",
-    "summary": "英伟达CEO黄仁勋在访谈中表示AI正引发一场新工业革命。与此同时，美国商务部工业与安全局(BIS)于5月31日紧急发布新指引，升级AI芯片出口管制，堵截中企通过海外子公司采购高端AI芯片的渠道。英伟达市值已突破5万亿美元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0566a37e67b26452",
-    "source": "企鹅号",
-    "slug": "jensen-huang-ai-industrial-revolution"
-  },
-  {
-    "date": "2026-06-21",
-    "title": "诺贝尔奖得主John Jumper离开DeepMind加盟Anthropic",
-    "summary": "诺贝尔奖得主、资深研究科学家约翰·江珀(John Jumper)于当地时间6月19日宣布，在谷歌DeepMind工作近九年后，决定离开并加入AI初创企业Anthropic。",
+    "title": "诺贝尔奖得主 John Jumper 离开 DeepMind 加盟 Anthropic",
+    "summary": "诺贝尔奖得主、资深研究科学家约翰·江珀(John Jumper)于6月19日宣布离开谷歌DeepMind，在DeepMind工作近九年后，决定加入AI初创企业Anthropic。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5406a37627b97852",
     "source": "企鹅号",
     "slug": "john-jumper-joins-anthropic"
-  },
-  {
-    "date": "2026-06-21",
-    "title": "金融监管总局发布银行业保险业首份AI安全开发应用指导意见",
-    "summary": "AI正从银行业的“技术选项”变为“生存刚需”。金融监管总局发布银行业保险业首份AI安全开发应用指导意见，从治理架构、开发应用、数据治理等多个维度为金融机构AI发展拧紧“安全阀”。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0566a37e96468252",
-    "source": "企鹅号",
-    "slug": "banking-ai-safety-guidelines"
-  },
-  {
-    "date": "2026-06-21",
-    "title": "OpenAI GPT-5.6系列模型有望下周发布",
-    "summary": "据科技媒体testingcatalog报道，OpenAI有望下周推出GPT-5.6系列模型，涵盖mini版、标准版以及Pro版等多个版本，或将成为OpenAI迄今最强AI模型系列。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0256a3732f741352",
-    "source": "极客早知道/企鹅号",
-    "slug": "openai-gpt-5-6-next-week"
-  },
-  {
-    "date": "2026-06-21",
-    "title": "讯兔科技金融AI生态论坛暨PaiWork+发布会在上海举行",
-    "summary": "6月18日，讯兔科技2026金融AI生态论坛暨PaiWork+发布会在上海举行，300余位来自金融、AI、学术与产业生态的嘉宾到场。金融AI竞争正从“模型能回答什么”进入“能为投研创造多少Alpha”的阶段。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3566a3797c079752",
-    "source": "财联社/企鹅号",
-    "slug": "xuntu-finance-ai-forum-paiwork"
-  },
-  {
-    "date": "2026-06-21",
-    "title": "摩根大通预计2030年AI基础设施建设总花费将达5.5万亿美元",
-    "summary": "摩根大通最新报告预计，到2030年人工智能超大规模数据中心运营商将投入约5.5万亿美元，较此前预测增加4000亿美元。报告指出超大规模数据中心运营商仍保持着“惊人的盈利能力”。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5326a37c83613652",
-    "source": "企鹅号",
-    "slug": "jpmorgan-ai-infrastructure-5-5-trillion"
-  },
-  {
-    "date": "2026-06-21",
-    "title": "阿里合伙人调整：AI科学家周靖人、CFO徐宏加入",
-    "summary": "根据阿里巴巴2025财务年度报告，通义大模型团队从零到一搭建、Qwen系列在全球模型中确立领先地位的关键人物周靖人正式成为阿里巴巴合伙人，同时CFO徐宏也加入合伙人行列。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4176a374ec684852",
-    "source": "企鹅号",
-    "slug": "alibaba-ai-scientist-partner"
-  },
-  {
-    "date": "2026-06-21",
-    "title": "CVPR 2026收录字节Seed空间智能新突破SpatialTree",
-    "summary": "浙江大学、字节跳动Seed、北京交通大学等团队提出SpatialTree，被CVPR 2026收录。该研究将多模态大模型的空间智能重新整理为一棵能力树：从基础感知到心理地图、心理模拟，再到空间智能体行动，重新建构了MLLM空间能力路线图。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4826a374e0088052",
-    "source": "企鹅号",
-    "slug": "bytedance-spatialtree-cvpr-2026"
-  },
-  {
-    "date": "2026-06-21",
-    "title": "LLM正进入“推荐系统化”深水区：性能霸权扼杀算法创新",
-    "summary": "分析指出，当前大模型架构正变得像推荐系统一样臃肿破碎，性能优化从锦上添花变为硬性门槛。“性能霸权”正在扼杀算法层面的创新，真正的突破点在于FlexAttention等底层框架的进化，让“可组合性”回归。",
-    "url": "https://news.qq.com/rain/a/20260621A02GI900",
-    "source": "腾讯新闻",
-    "slug": "llm-recommender-system-performance"
-  },
-  {
-    "date": "2026-06-21",
-    "title": "618电商大促：AI成流量核心入口，迈入“AI原生大促元年”",
-    "summary": "今年618期间，京东、天猫、抖音等电商平台深度应用AI技术提升购物效率和用户体验，AI成为电商流量核心入口，标志着电商行业正式迈入“AI原生大促元年”。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5406a37627b97852",
-    "source": "企鹅号",
-    "slug": "618-ecommerce-ai-native"
-  },
-  {
-    "date": "2026-06-21",
-    "title": "国家发改委：中国将探索开展人工智能监管合作",
-    "summary": "国家发展改革委表示，中国将探索开展人工智能监管合作，推动AI产业规范健康发展。",
-    "url": "https://tech.163.com/",
-    "source": "网易科技",
-    "slug": "ndrc-ai-regulatory-cooperation"
-  },
-  {
-    "date": "2026-06-21",
-    "title": "全球OPC共创节将在北京举行，打造AI创造者年度派对",
-    "summary": "7月1日至4日，全球OPC共创节将在北京国家会议中心举行，旨在打造一场真正属于AI创造者的年度派对。该活动由全球数字经济大会组委会主办。",
-    "url": "https://www.bbtnews.com.cn/chuizhipd/yaowenzx/zhengjingpd/",
-    "source": "北京商报网",
-    "slug": "global-opc-festival-beijing"
   }
 ]
