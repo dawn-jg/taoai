@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-06-22",
+    "date": "2026-06-23",
     "title": "OpenAI GPT-5.6 低调上线，3D与代码推理能力跃升",
     "summary": "OpenAI 在 Pro 端悄然上线 GPT-5.6 模型，推理速度显著提升，思考延迟降低 80% 以上，3D生成与代码推理能力大幅超越前代，可在1小时内完成完整浏览器游戏开发。",
     "url": "https://new.qq.com/rain/a/20260622A0B6B300",
@@ -8,7 +8,7 @@
     "slug": "openai-gpt56-launch"
   },
   {
-    "date": "2026-06-22",
+    "date": "2026-06-23",
     "title": "具身智能赛道单周吸金超60亿元，资本高度集中",
     "summary": "国内具身智能赛道热度持续，仅一周内就有15家相关企业斩获超60亿元融资。千寻智能三个月内完成四轮融资累计超45亿元；大咖机器人推出6.98万元起步价的双臂灵巧手人形机器人。",
     "url": "https://new.qq.com/rain/a/20260622A0D21800",
@@ -16,107 +16,99 @@
     "slug": "embodied-intelligence-60b-funding"
   },
   {
-    "date": "2026-06-22",
-    "title": "谷歌48小时内连失两位核心AI人才，股价大跌超6%",
-    "summary": "Transformer论文核心作者Noam Shazeer宣布离开谷歌加入OpenAI；48小时后，诺贝尔奖得主、AlphaFold核心人物John Jumper也宣布离职并转投Anthropic。谷歌股价创近一年最大单日跌幅，一度跌超7%。",
+    "date": "2026-06-23",
+    "title": "谷歌48小时内连失两位核心AI人才",
+    "summary": "Transformer论文核心作者、Gemini联合负责人Noam Shazeer宣布离开谷歌加入OpenAI；48小时后，诺贝尔奖得主、AlphaFold核心人物John Jumper宣布离职并转投Anthropic，引发业界对谷歌AI人才流失的关注。",
     "url": "https://new.qq.com/rain/a/20260622A0B6B300",
     "source": "腾讯网",
-    "slug": "google-loses-two-ai-leaders"
-  },
-  {
-    "date": "2026-06-22",
-    "title": "微信AI助手「小微」小范围灰度上线",
-    "summary": "微信AI已小范围灰度上线，部分网友微信主界面左上角出现小眼睛式样图标，即AI助手「小微」测试版入口。小微支持通过文字或语音对话操作微信原生功能、调起小程序等。",
-    "url": "https://new.qq.com/rain/a/20260622A0D21800",
-    "source": "腾讯网",
-    "slug": "wechat-ai-assistant-xiaowei"
-  },
-  {
-    "date": "2026-06-22",
-    "title": "八部门发布「人工智能+消费」发展实施意见",
-    "summary": "商务部等八部门发布《关于加快「人工智能+消费」发展的实施意见》，围绕提升AI+商品消费、扩大AI+服务消费等五方面提出17项具体举措，促进人工智能进千家万户。",
-    "url": "https://new.qq.com/rain/a/20260622A0D21800",
-    "source": "腾讯网",
-    "slug": "eight-ministries-ai-consumption"
+    "slug": "google-ai-brain-drain"
   },
   {
     "date": "2026-06-23",
-    "title": "支付宝正式推出AI钱包，智能消费全程可视",
-    "summary": "支付宝正式推出AI钱包功能，用户可在支付前、支付中对Agent任务进行实时管理，也能进行支付后的Agent账单查询，实现智能消费全程可视。此前已落地AI付、AI收两大核心产品。",
-    "url": "https://new.qq.com/rain/a/20260622A0D21800",
+    "title": "Reflection AI与SpaceX签署算力合作协议",
+    "summary": "开源AI初创公司Reflection AI与SpaceX签署大型算力合作协议，将使用Colossus基础设施的GB300使用权。协议规定从2026年7月起至2029年，Reflection每月向SpaceX支付1.5亿美元。",
+    "url": "https://new.qq.com/rain/a/20260623A09XK100",
     "source": "腾讯网",
-    "slug": "alipay-ai-wallet-launch"
+    "slug": "reflection-ai-spacex-deal"
   },
   {
-    "date": "2026-06-22",
-    "title": "OpenAI 2025年亏损385亿美元，计划靠广告养AI",
-    "summary": "经核实的审计文件显示，OpenAI 2025年收入130.7亿美元，总支出340亿美元，净亏损385亿美元。OpenAI公布新路线图，计划打造「个人AGI助手」，并探索广告商业模式。",
-    "url": "https://new.qq.com/rain/a/20260622A0B6B300",
+    "date": "2026-06-23",
+    "title": "英伟达发布Halos for Robotics全栈物理AI安全系统",
+    "summary": "英伟达发布业界首个全栈物理人工智能安全系统 Halos for Robotics，将自动驾驶安全技术扩展到机器人领域。敏捷机器人成为首家合作将其融入专有安全系统的公司。",
+    "url": "https://new.qq.com/rain/a/20260623A09XK100",
     "source": "腾讯网",
-    "slug": "openai-38b-loss-ad-plan"
+    "slug": "nvidia-halos-robotics-safety"
   },
   {
-    "date": "2026-06-22",
-    "title": "三星12万员工全面接入ChatGPT Enterprise和Codex",
-    "summary": "OpenAI宣布三星电子正在全球向员工部署ChatGPT Enterprise和Codex，加速公司AI采用。自2026年2月以来韩国Codex每周活跃用户增长了近800%。",
-    "url": "https://new.qq.com/rain/a/20260622A0D21800",
+    "date": "2026-06-23",
+    "title": "腾讯微信AI小范围灰度上线",
+    "summary": "6月21日，腾讯微信AI已小范围灰度上线，部分网友微信主界面左上角出现小眼睛式样图标，即AI助手「小微」测试版入口，标志着微信正式切入AI助手赛道。",
+    "url": "https://new.qq.com/rain/a/20260622A0G7DH00",
     "source": "腾讯网",
-    "slug": "samsung-120k-employees-chatgpt"
+    "slug": "wechat-ai-assistant-launch"
   },
   {
-    "date": "2026-06-22",
-    "title": "智谱市值突破万亿港元，大模型「双子星」齐涨",
-    "summary": "智谱盘中总市值一度突破万亿港元，股价最高涨超40%；MiniMax同步拉升涨超20%，总市值约1933亿港元。GLM-5.2在Code Arena评测中取得全球可用模型第一的成绩。",
-    "url": "https://new.qq.com/rain/a/20260622A0D21800",
+    "date": "2026-06-23",
+    "title": "中国大模型周调用量连续八周超美国 稳居全球首位",
+    "summary": "上周全球AI大模型总调用量达46.7万亿Token，连续九周上涨。中国周调用量连续八周稳居全球首位，前四名均为中国模型：DeepSeek V4 Flash、MiMo-V2.5、MiniMax M3、Hy3 preview。",
+    "url": "https://new.qq.com/rain/a/20260622A0G7DH00",
     "source": "腾讯网",
-    "slug": "zhipu-trillion-hkd-minimax-surge"
+    "slug": "china-llm-calls-surpass-us"
   },
   {
-    "date": "2026-06-22",
-    "title": "科创板扩围至AI大模型企业，上市「直达通道」开启",
-    "summary": "证监会主席吴清在陆家嘴论坛宣布，将扩大科创板第五套上市标准适用范围至人工智能领域。上交所发布指引，明确支持尚未形成一定收入规模的优质AI大模型企业在科创板上市。",
-    "url": "https://new.qq.com/rain/a/20260622A0D21800",
+    "date": "2026-06-23",
+    "title": "微软CEO纳德拉警告AI巨头权力过度集中",
+    "summary": "微软CEO萨蒂亚·纳德拉批评部分AI领袖一边警告白领工作消失、渲染安全风险，一边要求大规模扩建数据中心，自相矛盾。微软正推出低成本AI模型及Copilot工具，定位为企业级中立AI操作层。",
+    "url": "https://new.qq.com/rain/a/20260623A0B96M00",
     "source": "腾讯网",
-    "slug": "star-market-ai-listing-channel"
+    "slug": "nadella-warns-ai-power-concentration"
   },
   {
-    "date": "2026-06-22",
-    "title": "2026张江具身智能供应链大会：六大产业进阶趋势发布",
-    "summary": "以「具身智造，链接未来」为主题的大会在浦东张江开幕，汇聚产业链80余家企业。智元机器人精灵G2成为全球首个实现工业产线规模化落地的人形机器人，已获数亿元订单。",
-    "url": "https://new.qq.com/rain/a/20260622A0D21800",
+    "date": "2026-06-23",
+    "title": "美光科技与Anthropic开启深度合作",
+    "summary": "美光科技与Anthropic公司宣布达成协议，将扩大下一代AI基础设施规模。美光参与Anthropic的H轮融资，双方将分析内存和存储子系统在不同工作负载中的表现，推动能效和Token经济性提升。",
+    "url": "https://new.qq.com/rain/a/20260623A09W6100",
     "source": "腾讯网",
-    "slug": "zhangjiang-embodied-intelligence-conference"
+    "slug": "micron-anthropic-partnership"
   },
   {
-    "date": "2026-06-22",
-    "title": "AI医疗突破：瑞金医院完成全球首例AI自主穿刺活检",
-    "summary": "腾讯觅影2.0系统将肺结节检测准确率提升至98%，早期肺癌诊断时间从2周缩短至8分钟。上海瑞金医院完成全球首例AI自主穿刺活检，误差小于0.05毫米。",
-    "url": "https://new.qq.com/rain/a/20260622A0D21800",
+    "date": "2026-06-23",
+    "title": "北京打造人工智能第一城，AI学者达1.5万人",
+    "summary": "北京市十五五规划纲要明确提出推动AI成为新的万亿级产业集群。北京AI学者总量达1.5万人，AI独角兽企业占全国半数以上。",
+    "url": "https://new.qq.com/rain/a/20260623A0BTBE00",
     "source": "腾讯网",
-    "slug": "ai-medical-breakthrough-biopsy"
+    "slug": "beijing-ai-first-city"
   },
   {
-    "date": "2026-06-22",
-    "title": "大厂抢跑AI NAS：绿联开卖、小米定档Q3、迅雷入局",
-    "summary": "绿联、摩尔线程、小米、迅雷等企业纷纷推出Ultra系列高端NAS产品。小米NAS将深度融入米家生态，主打无感备份和AI相册分类；迅雷私有云定位「零门槛私有云」。",
-    "url": "https://new.qq.com/rain/a/20260622A0D21800",
-    "source": "腾讯网",
-    "slug": "ai-nas-race-ugreen-xiaomi-xunlei"
+    "date": "2026-06-23",
+    "title": "中国要求银行保险机构将AI风险纳入全面风险管理体系",
+    "summary": "中国国家金融监管总局公布《关于银行业保险业人工智能安全开发应用的指导意见》，从治理架构、开发应用、数据治理、算力建设、风险管理等方面提出32项指导性意见。",
+    "url": "http://finance.people.com.cn/n1/2026/0622/c1004-40457789.html",
+    "source": "人民网",
+    "slug": "china-financial-ai-risk-regulation"
   },
   {
-    "date": "2026-06-22",
-    "title": "中国科学家提出「AI语言」：人类难懂但模型能懂",
-    "summary": "中国科学家提出一种新型「AI语言」，这种语言人类难以理解但AI模型之间能高效沟通，为模型间交互开辟新方向。同时挪威宣布将禁止6到13岁小学生使用生成式人工智能。",
+    "date": "2026-06-23",
+    "title": "千寻智能三个月完成四轮融资累计超45亿元",
+    "summary": "具身智能明星公司千寻智能在三个月内完成四轮融资，累计金额超45亿元，成为国内具身智能赛道融资最快的公司之一，资本高度追捧。",
     "url": "https://new.qq.com/rain/a/20260622A0D21800",
     "source": "腾讯网",
-    "slug": "chinese-scientists-ai-language"
+    "slug": "qianxun-intelligence-45b-funding"
   },
   {
-    "date": "2026-06-22",
-    "title": "DeepSeek「识图模式」实测翻车：梁文锋被识别成张一鸣",
-    "summary": "记者实测DeepSeek识图模式时，上传DeepSeek创始人梁文锋照片被识别为字节跳动张一鸣，两次尝试结果相同，暴露了多模态识别准确率仍有较大提升空间。",
-    "url": "https://new.qq.com/rain/a/20260622A0D21800",
+    "date": "2026-06-23",
+    "title": "人工智能+迈向规模化落地",
+    "summary": "人工智能+正从单点技术应用转向开源模型破局、开放生态成势的规模化落地阶段。开源模型打破闭源垄断，开放生态将模型能力深度扩散至平台、工具、场景和组织，推动AI从可用走向规模化应用。",
+    "url": "https://new.qq.com/rain/a/20260623A07N0J00",
     "source": "腾讯网",
-    "slug": "deepseek-image-recognition-fail"
+    "slug": "ai-plus-scale-deployment"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "全球AI大模型周调用量达46.7万亿Token，连续九周上涨",
+    "summary": "Counterpoint Research数据显示，全球AI大模型调用需求持续释放，上周总调用量46.7万亿Token，较此前一周增长4.7%，连续九周上涨，市场需求仍处于快速增长通道。",
+    "url": "https://new.qq.com/rain/a/20260622A0G7DH00",
+    "source": "腾讯网",
+    "slug": "global-llm-call-volume-467t"
   }
 ]
