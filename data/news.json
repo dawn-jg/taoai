@@ -1,114 +1,106 @@
 [
   {
     "date": "2026-06-23",
-    "title": "字节跳动发布豆包大模型2.1 Pro，日均Token调用量突破180万亿",
-    "summary": "火山引擎在2026夏季FORCE原动力大会上发布豆包大模型2.1 Pro，编程及Agent能力大幅提升，多项评测优于Claude Opus 4.6。同期披露日均Token调用量突破180万亿，过去一年增长超10倍。视频生成模型Seedance 2.5预计7月上线。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0766a3a277b62152",
+    "title": "字节发布豆包大模型2.1，视频/图像/音频模型同步上新",
+    "summary": "火山引擎在FORCE原动力大会上集中发布豆包大模型2.1 Pro，以及Seedance 2.0 4K版、Seedream 5.0 Pro、Seed-Audio 1.0等多款模型。豆包日均Token调用量已突破180万亿，IDC数据显示火山引擎以49.5%市场份额位居中国公有云MaaS市场第一。",
+    "url": "https://new.qq.com/rain/a/20260623A06LL600",
     "source": "腾讯新闻",
-    "slug": "volcano-engine-doubao-21-pro"
+    "slug": "bytedance-doubao-models-20260623"
   },
   {
     "date": "2026-06-23",
-    "title": "Reflection AI与SpaceX签署算力合作协议，月付1.5亿美元",
-    "summary": "开源AI初创公司Reflection AI与SpaceX签署大型算力合作协议，将使用SpaceX Colossus基础设施的GB300。协议从2026年7月起至2029年，Reflection每月向SpaceX支付1.5亿美元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4366a39dfa301352",
+    "title": "豆包图像创作模型Seedream 5.0 Pro发布",
+    "summary": "豆包图像创作模型Seedream 5.0 Pro在交互式精准编辑、多图层分离、高密度信息表达、原生多语种文字生成四个方面实现升级。用户只需在画面上画个箭头、圈块区域，模型就能精准理解意图并完成修改。",
+    "url": "https://new.qq.com/rain/a/20260623A06N3G00",
     "source": "腾讯新闻",
-    "slug": "reflection-ai-spacex-deal"
+    "slug": "seedream-50-pro-launch-20260623"
   },
   {
     "date": "2026-06-23",
-    "title": "英伟达发布Halos for Robotics全栈物理AI安全系统",
-    "summary": "英伟达推出业界首个全栈物理人工智能安全系统Halos for Robotics，将自动驾驶安全技术扩展到机器人领域。敏捷机器人（Agility）成为首家合作公司，将系统集成至人形机器人Digit，用于工厂和物流场景。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0386a39ebc058452",
+    "title": "字节Seedance 2.5视频生成模型预计七月初正式上线",
+    "summary": "Seedance 2.5支持单段原生30秒视频直出，可同时导入50个全模态参考素材，实现可控性更强的视频生成与编辑。同时Seedance 2.0已完成功能迭代，新增原生4K视频生成能力。",
+    "url": "https://new.qq.com/rain/a/20260623A06KMV00",
     "source": "腾讯新闻",
-    "slug": "nvidia-halos-robotics-safety"
+    "slug": "seedance-25-july-launch-20260623"
   },
   {
     "date": "2026-06-23",
-    "title": "微软CEO纳德拉警告AI巨头权力过度集中，力推低成本多模型策略",
-    "summary": "微软CEO萨蒂亚·纳德拉批评部分AI领袖一边警告白领工作消失、渲染安全风险，一边要求大规模扩建数据中心。微软正定位为企业级中立AI操作层，推出更低成本AI模型及Copilot工具，支持用户在不同模型间灵活切换。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4386a39d1d134652",
+    "title": "火山引擎谭待：豆包还是会保持免费",
+    "summary": "火山引擎总裁谭待在FORCE原动力大会上回应豆包收费问题，称豆包整体会继续保持免费运营的核心定位。同时将推出面向专业生产力场景的专业版办公任务模式，搭载最新的豆包2.1 Pro模型。",
+    "url": "https://new.qq.com/rain/a/20260623A06J2A00",
     "source": "腾讯新闻",
-    "slug": "nadella-warns-ai-power-concentration"
+    "slug": "doubao-remains-free-20260623"
   },
   {
     "date": "2026-06-23",
-    "title": "北京打造人工智能第一城，AI学者达1.5万人，独角兽占全国半数以上",
-    "summary": "北京市十五五规划纲要明确推动AI成为万亿级产业集群。北京AI学者总量达1.5万人，占全球四成以上；AI独角兽企业占全国半数以上；累计备案上线大模型241款，居全国首位。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4306a39c51f66852",
+    "title": "华为云通过中国信通院可信AI-Token服务质量评估",
+    "summary": "华为云计算技术有限公司的华为云MaaS模型即服务通过信通院可信AI-Token服务质量评估，在模型服务能力、Token服务性能、Token服务可信、Token服务运维、Token服务用户体验、Token计量计费六大维度均满足指标要求。",
+    "url": "https://new.qq.com/rain/a/20260623A07HOH00",
     "source": "腾讯新闻",
-    "slug": "beijing-ai-first-city"
+    "slug": "huawei-cloud-trusted-ai-20260623"
   },
   {
     "date": "2026-06-23",
-    "title": "科技部启动新一代AI国家科技重大专项2026年度首批项目申报",
-    "summary": "科技部新一代人工智能国家科技重大专项办公室发布2026年度第一批公开项目申报指南，正式启动首批项目申报工作。该专项自2018年首次启动，在基础理论、关键共性技术、智能芯片等方向持续部署。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0666a39eebb84052",
+    "title": "3D生成大模型公司影眸科技完成数亿元A+轮融资",
+    "summary": "影眸科技完成数亿元A+轮融资，由上海国投先导、凯辉基金联合领投。公司专注3D视觉解决方案研发，核心产品Hyper3D以3D生成大模型Rodin为引擎。此前字节跳动、美团龙珠、红杉等机构曾投资该公司。",
+    "url": "https://new.qq.com/rain/a/20260623A0918V00",
     "source": "腾讯新闻",
-    "slug": "moe-ai-major-project-2026"
+    "slug": "yingmou-tech-funding-20260623"
   },
   {
     "date": "2026-06-23",
-    "title": "2026世界杯：中国AI黑科技全方位赋能国际顶级赛事",
-    "summary": "2026美加墨世界杯首次大规模落地中国AI裁判辅助系统。联想推出裁判视角AI视频增强系统，实时处理高清画面，毫秒级还原赛场细节。赛场部署FIFA AI Pro足球智能分析系统，自动生成对战分析报告。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6036a39e25f85252",
+    "title": "2026夏季达沃斯论坛大连启幕，AI成全场关键词",
+    "summary": "世界经济论坛第十七届新领军者年会（夏季达沃斯论坛）在大连开幕，来自90多个国家和地区的1700余名嘉宾参会，主题为「规模化创新」。AI成为全场焦点，嘉宾围绕AI与人类关系、技术规模化落地等议题展开讨论。",
+    "url": "https://new.qq.com/rain/a/20260623A03HQX00",
     "source": "腾讯新闻",
-    "slug": "china-ai-world-cup-2026"
+    "slug": "summer-davos-2026-dalian-ai-20260623"
   },
   {
     "date": "2026-06-23",
-    "title": "普华永道报告：中国企业AI适配度跻身全球第一梯队",
-    "summary": "普华永道在2026链博会发布《全球人工智能效能研究中国报告》显示，中国企业AI适配度处于全球第一梯队。在跨企业协作、客户需求响应等AI应用渗透率方面领先全球，跨行业协作渗透率是其他企业的2.3倍。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5176a3918da27752",
+    "title": "夏季达沃斯论坛发布2026年十大新兴技术",
+    "summary": "第十七届夏季达沃斯论坛发布《2026年十大新兴技术》报告，包括万物互联电网、直接提锂技术、世界模型、量子模拟药物发现、格密码学等。其中八项技术可直接作用于物理系统，标志着从软件优先的AI向物理世界的转变。",
+    "url": "https://new.qq.com/rain/a/20260623A062Y000",
     "source": "腾讯新闻",
-    "slug": "pwc-china-ai-readiness"
+    "slug": "top-10-emerging-technologies-2026-20260623"
   },
   {
     "date": "2026-06-23",
-    "title": "苹果发布iOS 27 beta2，Siri AI能力加强",
-    "summary": "苹果发布iOS 27 beta2内测系统，键盘新增「与Siri一起写作建议」功能，优化Siri AI响应速度，钱包应用新增分析功能，Liquid Glass自定义透明度页面汉化等。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2606a39fc2276352",
+    "title": "科大讯飞全栈AI翻译产品亮相夏季达沃斯",
+    "summary": "科大讯飞携全栈AI翻译软硬件产品矩阵深度参与达沃斯技术保障，提供多语种AI翻译透明屏、AI同传服务、离线翻译一体机等四类核心方案，覆盖37种语种，为全球嘉宾搭建无障碍沟通桥梁。",
+    "url": "https://new.qq.com/rain/a/20260623A08SIE00",
     "source": "腾讯新闻",
-    "slug": "apple-ios-27-beta2-siri"
+    "slug": "iflytek-ai-translation-davos-20260623"
   },
   {
     "date": "2026-06-23",
-    "title": "第四届链博会发布北京倡议：推动形成全球AI治理框架",
-    "summary": "在第四届中国国际供应链促进博览会上，中国贸促会同全球工商界代表共同发出北京倡议，提出共同提升产业链供应链韧性、共塑创新发展新优势，推动形成具有广泛共识的全球人工智能治理框架和规则。",
-    "url": "https://www.bbtnews.com.cn/chuizhipd/yaowenzx/zhengjingpd/",
-    "source": "北京商报",
-    "slug": "chain-expo-beijing-ai-governance"
-  },
-  {
-    "date": "2026-06-23",
-    "title": "Anthropic更新隐私政策，部分Claude用户需上传证件核验身份",
-    "summary": "Anthropic最新隐私政策新增条款，将在特定情形下要求用户证明年龄或身份。触发核验流程后，用户需上传护照、驾照等官方身份证件扫描照片。新政策将于7月8日正式生效。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9126a39c1ca81152",
+    "title": "阿里发布视频生成模型HappyHorse 1.1",
+    "summary": "阿里巴巴发布视频生成模型HappyHorse 1.1版本，在动态表现力、主体一致性、指令遵循、视觉质感和音频能力五个维度进行系统性升级。现已登陆HappyHorse官网、千问云及阿里云百炼平台。",
+    "url": "https://new.qq.com/rain/a/20260623A054OO00",
     "source": "腾讯新闻",
-    "slug": "anthropic-privacy-policy-id-verification"
+    "slug": "happyhorse-11-video-model-20260623"
   },
   {
     "date": "2026-06-23",
-    "title": "Anthropic工程负责人：Claude Code让程序员更孤独",
-    "summary": "负责Claude Code和Claude Cowork团队的Anthropic工程负责人Fiona Fung表示，工程师越依赖AI智能体，彼此之间的交流就越少。AI编程工具的普及正在加剧开发者的孤立感。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6486a39397735552",
-    "source": "IT之家",
-    "slug": "anthropic-claude-code-loneliness"
-  },
-  {
-    "date": "2026-06-23",
-    "title": "雷鸟创新AR眼镜2026年一季度全球出货量第一",
-    "summary": "Counterpoint Research、IDC、CINNO Research三家机构数据显示，雷鸟创新2026年一季度AR眼镜全球及国内出货量均排名第一，已连续4个季度全球出货量第一。IDC数据显示全球AR市场同比增长168.6%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7956a39ffba26652",
+    "title": "企业AI智能体WorkMate开源发布，聚焦塑化供应链",
+    "summary": "中央财经大学携手兆企供应链共同开源发布WorkMate超级AI工作伙伴。WorkMate基于Harness Engineering构建，知识图谱覆盖2000余个行业专业术语，支持一键部署、云端统一管控，兼容微信等主流办公软件。",
+    "url": "https://new.qq.com/rain/a/20260623A05UUN00",
     "source": "腾讯新闻",
-    "slug": "thunderbird-ar-global-shipment-leader"
+    "slug": "workmate-ai-agent-open-source-20260623"
   },
   {
     "date": "2026-06-23",
-    "title": "米YU7 GT取得全球首个纽北自动驾驶圈速纪录",
-    "summary": "小米汽车宣布，小米YU7 GT以10分29秒483的成绩，取得全球首个纽北（Nürburgring Nordschleife）自动驾驶圈速纪录。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8196a3a05c873852",
+    "title": "九号智能电动车国内出货突破1200万台",
+    "summary": "九号公司宣布，九号智能电动车在中国市场累计出货量正式突破1200万台。从1000万台到1200万台，九号持续刷新行业增长纪录，通过技术创新、产品升级与全球化布局不断打开新的市场空间。",
+    "url": "https://new.qq.com/rain/a/20260623A08THR00",
     "source": "腾讯新闻",
-    "slug": "xiaomi-yu7-gt-nurburgring-autopilot-record"
+    "slug": "ninebot-12-million-units-20260623"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "马斯克SpaceX签63亿美元AI算力大单，出租Colossus 2数据中心",
+    "summary": "开源AI初创公司Reflection AI与SpaceX签署大型算力协议，租用Colossus 2数据中心英伟达GB300芯片。合同月费1.5亿美元，持续至2029年，最高价值63亿美元，约合427亿元人民币。",
+    "url": "https://view.inews.qq.com/a/20260623A06I2K00",
+    "source": "腾讯新闻",
+    "slug": "spacex-ai-computing-deal-20260623"
   }
 ]
