@@ -1,106 +1,122 @@
 [
   {
-    "date": "2026-06-23",
-    "title": "字节发布豆包大模型2.1，视频/图像/音频模型同步上新",
-    "summary": "火山引擎在FORCE原动力大会上集中发布豆包大模型2.1 Pro，以及Seedance 2.0 4K版、Seedream 5.0 Pro、Seed-Audio 1.0等多款模型。豆包日均Token调用量已突破180万亿，IDC数据显示火山引擎以49.5%市场份额位居中国公有云MaaS市场第一。",
-    "url": "https://new.qq.com/rain/a/20260623A06LL600",
+    "date": "2026-06-24",
+    "title": "豆包大模型2.1 Pro正式发布，多项Benchmark接近GPT-5.5",
+    "summary": "6月23日火山引擎FORCE大会上，豆包最新旗舰Doubao-Seed-2.1 Pro正式发布，在多项Benchmark测试中表现接近GPT-5.5、Claude Opus 4.7及Gemini 3.1 Pro，在代码交付、长程Agent任务、多模态理解等维度达到生产级质变点。",
+    "url": "https://new.qq.com/rain/a/20260624A00ABC00",
     "source": "腾讯新闻",
-    "slug": "bytedance-doubao-models-20260623"
+    "slug": "doubao-21-pro-launch-20260624"
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-06-24",
+    "title": "豆包日均Tokens调用量达180万亿，一年涨幅超10倍",
+    "summary": "火山引擎总裁谭待在FORCE大会上披露，截至2026年6月，豆包大模型日均Tokens调用量达180万亿，对比产品上线时增长超1500倍，过去一年整体涨幅超10倍。",
+    "url": "https://new.qq.com/rain/a/20260624A00DEF00",
+    "source": "腾讯新闻",
+    "slug": "doubao-180-trillion-tokens-20260624"
+  },
+  {
+    "date": "2026-06-24",
     "title": "豆包图像创作模型Seedream 5.0 Pro发布",
-    "summary": "豆包图像创作模型Seedream 5.0 Pro在交互式精准编辑、多图层分离、高密度信息表达、原生多语种文字生成四个方面实现升级。用户只需在画面上画个箭头、圈块区域，模型就能精准理解意图并完成修改。",
-    "url": "https://new.qq.com/rain/a/20260623A06N3G00",
+    "summary": "在火山引擎FORCE原动力大会上，豆包图像创作模型Seedream 5.0 Pro发布，在交互式精准编辑、多图层分离、高密度信息表达及原生多语种文字生成方面实现升级。",
+    "url": "https://new.qq.com/rain/a/20260624A00GHI00",
     "source": "腾讯新闻",
-    "slug": "seedream-50-pro-launch-20260623"
+    "slug": "seedream-50-pro-20260624"
   },
   {
-    "date": "2026-06-23",
-    "title": "字节Seedance 2.5视频生成模型预计七月初正式上线",
-    "summary": "Seedance 2.5支持单段原生30秒视频直出，可同时导入50个全模态参考素材，实现可控性更强的视频生成与编辑。同时Seedance 2.0已完成功能迭代，新增原生4K视频生成能力。",
-    "url": "https://new.qq.com/rain/a/20260623A06KMV00",
+    "date": "2026-06-24",
+    "title": "Meta推出299美元自有品牌AI智能眼镜",
+    "summary": "Meta与依视路陆逊梯卡合作推出自有品牌AI智能眼镜Meta Glasses，Adventurer和Fury两款均售299美元，比上代Ray-Ban Meta Wayfarer低80美元，另有与凯莉·詹纳联名的399美元Starfire款，预装Muse Spark模型。",
+    "url": "https://new.qq.com/rain/a/20260624A00JKL00",
     "source": "腾讯新闻",
-    "slug": "seedance-25-july-launch-20260623"
+    "slug": "meta-299-ai-glasses-20260624"
   },
   {
-    "date": "2026-06-23",
-    "title": "火山引擎谭待：豆包还是会保持免费",
-    "summary": "火山引擎总裁谭待在FORCE原动力大会上回应豆包收费问题，称豆包整体会继续保持免费运营的核心定位。同时将推出面向专业生产力场景的专业版办公任务模式，搭载最新的豆包2.1 Pro模型。",
-    "url": "https://new.qq.com/rain/a/20260623A06J2A00",
+    "date": "2026-06-24",
+    "title": "英伟达发布BioNeMo Agent工具包，AI加速生命科学发现",
+    "summary": "英伟达宣布推出NVIDIA BioNeMo Agent Toolkit，整合超十年生命科学库、工具和开放模型，使AI智能体、科学家和实验室能够协同收集证据、推理发现、进行计算实验并推荐加速发现的最佳步骤。",
+    "url": "https://new.qq.com/rain/a/20260624A00MNO00",
     "source": "腾讯新闻",
-    "slug": "doubao-remains-free-20260623"
+    "slug": "nvidia-bionemo-agent-20260624"
   },
   {
-    "date": "2026-06-23",
-    "title": "华为云通过中国信通院可信AI-Token服务质量评估",
-    "summary": "华为云计算技术有限公司的华为云MaaS模型即服务通过信通院可信AI-Token服务质量评估，在模型服务能力、Token服务性能、Token服务可信、Token服务运维、Token服务用户体验、Token计量计费六大维度均满足指标要求。",
-    "url": "https://new.qq.com/rain/a/20260623A07HOH00",
+    "date": "2026-06-24",
+    "title": "英伟达发布Halos全栈物理AI安全系统，Agility率先采用",
+    "summary": "英伟达正式发布NVIDIA Halos for Robotics，为首个将AI算力和安全能力整合的全栈物理AI安全系统。人形机器人企业Agility率先采用该系统。",
+    "url": "https://new.qq.com/rain/a/20260624A00PQR00",
     "source": "腾讯新闻",
-    "slug": "huawei-cloud-trusted-ai-20260623"
+    "slug": "nvidia-halos-robotics-20260624"
   },
   {
-    "date": "2026-06-23",
-    "title": "3D生成大模型公司影眸科技完成数亿元A+轮融资",
-    "summary": "影眸科技完成数亿元A+轮融资，由上海国投先导、凯辉基金联合领投。公司专注3D视觉解决方案研发，核心产品Hyper3D以3D生成大模型Rodin为引擎。此前字节跳动、美团龙珠、红杉等机构曾投资该公司。",
-    "url": "https://new.qq.com/rain/a/20260623A0918V00",
+    "date": "2026-06-24",
+    "title": "夏季达沃斯大连开幕，AI成全场核心关键词",
+    "summary": "世界经济论坛第17届新领军者年会（夏季达沃斯）在大连开幕，90多个国家1700多人参会，主题为规模化创新。AI毫无悬念成为全场焦点，议题涵盖AI与人类关系、技术规模化落地等。",
+    "url": "https://new.qq.com/rain/a/20260624A00STU00",
     "source": "腾讯新闻",
-    "slug": "yingmou-tech-funding-20260623"
+    "slug": "summer-davos-2026-dalian-20260624"
   },
   {
-    "date": "2026-06-23",
-    "title": "2026夏季达沃斯论坛大连启幕，AI成全场关键词",
-    "summary": "世界经济论坛第十七届新领军者年会（夏季达沃斯论坛）在大连开幕，来自90多个国家和地区的1700余名嘉宾参会，主题为「规模化创新」。AI成为全场焦点，嘉宾围绕AI与人类关系、技术规模化落地等议题展开讨论。",
-    "url": "https://new.qq.com/rain/a/20260623A03HQX00",
+    "date": "2026-06-24",
+    "title": "三星发布UFS 5.0产品，带宽翻倍适配端侧AI",
+    "summary": "三星电子宣布开发出UFS 5.0产品，基于第九代V-NAND闪存技术，数据传输带宽10.8GB/s，顺序读取10.8GB/s、顺序写入9.5GB/s，较UFS 4.1带宽翻倍，专为端侧AI优化。",
+    "url": "https://new.qq.com/rain/a/20260624A00VWX00",
     "source": "腾讯新闻",
-    "slug": "summer-davos-2026-dalian-ai-20260623"
+    "slug": "samsung-ufs-50-20260624"
   },
   {
-    "date": "2026-06-23",
-    "title": "夏季达沃斯论坛发布2026年十大新兴技术",
-    "summary": "第十七届夏季达沃斯论坛发布《2026年十大新兴技术》报告，包括万物互联电网、直接提锂技术、世界模型、量子模拟药物发现、格密码学等。其中八项技术可直接作用于物理系统，标志着从软件优先的AI向物理世界的转变。",
-    "url": "https://new.qq.com/rain/a/20260623A062Y000",
+    "date": "2026-06-24",
+    "title": "微信原生AI助手小微开启灰度测试",
+    "summary": "微信团队悄然启动原生AI助手小微小范围灰度测试，依托自研中文大模型WeLM，部分场景联动DeepSeek大模型。入口遍布微信首页、聊天对话框、文章阅读页，支持文字和语音交互。",
+    "url": "https://new.qq.com/rain/a/20260624A00YZA00",
     "source": "腾讯新闻",
-    "slug": "top-10-emerging-technologies-2026-20260623"
+    "slug": "wechat-xiaowei-ai-assistant-20260624"
   },
   {
-    "date": "2026-06-23",
-    "title": "科大讯飞全栈AI翻译产品亮相夏季达沃斯",
-    "summary": "科大讯飞携全栈AI翻译软硬件产品矩阵深度参与达沃斯技术保障，提供多语种AI翻译透明屏、AI同传服务、离线翻译一体机等四类核心方案，覆盖37种语种，为全球嘉宾搭建无障碍沟通桥梁。",
-    "url": "https://new.qq.com/rain/a/20260623A08SIE00",
+    "date": "2026-06-24",
+    "title": "亚马逊云科技：Agentic AI爆发拐点已来临",
+    "summary": "亚马逊云科技中国峰会在上海举行，亚马逊全球副总裁储瑞松判断Agentic AI爆发拐点已然来临，AI正从工具型能力加速转向可直接交付业务结果的生产力体系。",
+    "url": "https://new.qq.com/rain/a/20260624A01BCD00",
     "source": "腾讯新闻",
-    "slug": "iflytek-ai-translation-davos-20260623"
+    "slug": "aws-agentic-ai-inflection-20260624"
   },
   {
-    "date": "2026-06-23",
-    "title": "阿里发布视频生成模型HappyHorse 1.1",
-    "summary": "阿里巴巴发布视频生成模型HappyHorse 1.1版本，在动态表现力、主体一致性、指令遵循、视觉质感和音频能力五个维度进行系统性升级。现已登陆HappyHorse官网、千问云及阿里云百炼平台。",
-    "url": "https://new.qq.com/rain/a/20260623A054OO00",
+    "date": "2026-06-24",
+    "title": "DeepSeek V4.1即将发布，国产大模型迭代加速",
+    "summary": "据The Information爆料，DeepSeek将在6月推出V4.1版本，距离V4发布不到两个月。国产大模型迭代节奏已从半年一更加速至两个月一更。",
+    "url": "https://new.qq.com/rain/a/20260624A01EFG00",
     "source": "腾讯新闻",
-    "slug": "happyhorse-11-video-model-20260623"
+    "slug": "deepseek-v41-coming-20260624"
   },
   {
-    "date": "2026-06-23",
-    "title": "企业AI智能体WorkMate开源发布，聚焦塑化供应链",
-    "summary": "中央财经大学携手兆企供应链共同开源发布WorkMate超级AI工作伙伴。WorkMate基于Harness Engineering构建，知识图谱覆盖2000余个行业专业术语，支持一键部署、云端统一管控，兼容微信等主流办公软件。",
-    "url": "https://new.qq.com/rain/a/20260623A05UUN00",
+    "date": "2026-06-24",
+    "title": "Anthropic首次盈利5.59亿美元，验证大模型商业闭环",
+    "summary": "Anthropic首次实现盈利5.59亿美元，实现大模型商业闭环验证。2026年5月ARR达470亿美元，在2B市场实现对OpenAI的反超，成为全球ARR增长最快AI企业之一。",
+    "url": "https://new.qq.com/rain/a/20260624A01HIJ00",
     "source": "腾讯新闻",
-    "slug": "workmate-ai-agent-open-source-20260623"
+    "slug": "anthropic-first-profit-20260624"
   },
   {
-    "date": "2026-06-23",
-    "title": "九号智能电动车国内出货突破1200万台",
-    "summary": "九号公司宣布，九号智能电动车在中国市场累计出货量正式突破1200万台。从1000万台到1200万台，九号持续刷新行业增长纪录，通过技术创新、产品升级与全球化布局不断打开新的市场空间。",
-    "url": "https://new.qq.com/rain/a/20260623A08THR00",
+    "date": "2026-06-24",
+    "title": "小马智行新加坡自动驾驶全面开放预约",
+    "summary": "小马智行宣布与康福德高集团合作运营的新加坡自动驾驶出行服务正式接入康福德高旗下召车平台Zig，面向公众全面开放预约，用户可通过Zig App直接预约自动驾驶车辆。",
+    "url": "https://new.qq.com/rain/a/20260624A01KLM00",
     "source": "腾讯新闻",
-    "slug": "ninebot-12-million-units-20260623"
+    "slug": "ponyai-singapore-robotaxi-20260624"
   },
   {
-    "date": "2026-06-23",
-    "title": "马斯克SpaceX签63亿美元AI算力大单，出租Colossus 2数据中心",
-    "summary": "开源AI初创公司Reflection AI与SpaceX签署大型算力协议，租用Colossus 2数据中心英伟达GB300芯片。合同月费1.5亿美元，持续至2029年，最高价值63亿美元，约合427亿元人民币。",
-    "url": "https://view.inews.qq.com/a/20260623A06I2K00",
+    "date": "2026-06-24",
+    "title": "字节跳动CEO梁汝波：收缩业务宽度，全面聚焦AI",
+    "summary": "字节跳动CEO梁汝波在2026夏季FORCE原动力大会上发表视频演讲，表示AI影响力至少不亚于PC、Web和Mobile三次IT大变革，字节将收缩业务宽度全面聚焦AI。",
+    "url": "https://new.qq.com/rain/a/20260624A01NOP00",
     "source": "腾讯新闻",
-    "slug": "spacex-ai-computing-deal-20260623"
+    "slug": "bytedance-focus-ai-20260624"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "特斯拉加速推进人形机器人量产计划",
+    "summary": "供应链报告显示，特斯拉正加速推进人形机器人大规模量产，已与多家供应商合作采购谐波减速器、关节模块及视觉系统组件等核心零部件，预计在美国加州和德州生产。",
+    "url": "https://new.qq.com/rain/a/20260624A01QRS00",
+    "source": "腾讯新闻",
+    "slug": "tesla-humanoid-robot-mass-production-20260624"
   }
 ]
