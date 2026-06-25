@@ -1,122 +1,122 @@
 [
   {
     "date": "2026-06-25",
+    "title": "OpenAI联手博通推出首款AI芯片，绕开英伟达",
+    "summary": "OpenAI与博通合作推出首款自研AI芯片，旨在减少对英伟达GPU的依赖，打破AI芯片市场垄断格局。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5706a3c7d5883252",
+    "source": "企鹅号",
+    "slug": "openai-broadcom-ai-chip"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "SpaceX将发展太空算力设施，黄仁勋谈AI投资回报率",
+    "summary": "SpaceX投资者透露，新型星舰火箭的快速可重复使用特性对实现轨道数据中心扩展AI算力至关重要，地球AI数据中心容量正日益受限。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8436a3c7f7324352",
+    "source": "企鹅号",
+    "slug": "spacex-orbital-data-center-ai"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "宇树科技Unitree R1人形机器人降价至2.99万元起",
+    "summary": "宇树科技宣布双足人形机器人Unitree R1官方售价由3.99万元下调至2.99万元起，即日起开放现货销售，配备26个高精度关节，支持多模态大模型交互。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8436a3c7f7324352",
+    "source": "企鹅号",
+    "slug": "unitree-r1-price-cut"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "SK海力士冲刺纳斯达克，半导体史上最大IPO融资294亿美元",
+    "summary": "SK海力士在纳斯达克上市，融资294亿美元成为半导体史上最大IPO，引发全球芯片行业高度关注。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5706a3c7d5883252",
+    "source": "企鹅号",
+    "slug": "sk-hynix-nasdaq-ipo"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "孙正义驳斥AI泡沫论：人工智能才刚刚起步",
+    "summary": "软银集团年度股东大会上，孙正义明确驳斥AI泡沫论，称此类观点是对AI产业的片面认知和轻视，希望在十年内将净资产提升至6.189万亿美元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2926a3c8ae561952",
+    "source": "路透社/企鹅号",
+    "slug": "masayoshi-son-ai-bubble-rebuttal"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "Anthropic年收470亿美元，B端市场反超OpenAI",
+    "summary": "中信证券研报数据显示，Anthropic 2026年5月ARR达470亿美元，在2B市场实现对OpenAI的反超，专注Coding生态和企业安全需求。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0646a3c128017752",
+    "source": "企鹅号",
+    "slug": "anthropic-47b-arr-enterprise"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "中科曙光灵晟超算登顶全球TOP500，中国超算重回世界第一",
+    "summary": "中科曙光发布全球首台实测算力突破2EFlops的E级超算灵晟，登顶最新TOP500榜单，标志着中国超算时隔九年重回世界第一。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9206a3c875264952",
+    "source": "企鹅号",
+    "slug": "sugon-lingsheng-top500"
+  },
+  {
+    "date": "2026-06-25",
     "title": "MWC上海开幕：AI从秀肌肉变成拼落地",
-    "summary": "6月24日，2026上海世界移动通信大会（MWC上海）在新国际博览中心开幕。本届大会主题明确——不再炫技，只看落地。工信部总工程师钟志红表示坚持适度超前建设算力基础设施。",
+    "summary": "2026上海世界移动通信大会开幕，工信部总工程师钟志红表示坚持适度超前建设算力基础设施。今年主题明确不再炫技，只看落地应用。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0646a3c128017752",
     "source": "企鹅号",
     "slug": "mwc-shanghai-2026-ai-landing"
   },
   {
     "date": "2026-06-25",
-    "title": "Anthropic年收470亿美元，B端反超OpenAI",
-    "summary": "中信证券研报数据显示，Anthropic 2026年5月ARR达470亿美元，在2B市场实现对OpenAI的反超。Anthropic专注Coding生态和企业安全需求，OpenAI则在C端更强势。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0646a3c128017752",
+    "title": "新华网：AI智能体不止聊天，真能干活",
+    "summary": "OpenClaw开源AI代理框架引发产业界竞逐，百度、阿里、腾讯、字节等科技巨头密集入局。国家网信办等三部门联合印发智能体规范发展实施意见。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4556a3c84cb22152",
+    "source": "新华网/企鹅号",
+    "slug": "xinhua-ai-agent-practical"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "我国科研机构主导的大模型成果首次登上Nature",
+    "summary": "我国科研机构主导的大模型成果首次登上Nature正刊，该研究探索用统一方式让机器同时学会看、听、说、写乃至行动的核心命题。",
+    "url": "https://www.guancha.cn/gongye%C2%B7keji?s=dhgongye%C2%B7keji",
+    "source": "观察者网",
+    "slug": "china-ai-model-nature-first"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "它石智航联合四大机构发布TacForeSight，破解机器人精细操作难题",
+    "summary": "它石智航联合四大顶尖机构发布TacForeSight，让机器人学会预判接触，破解擦拭、插接、拧紧等精细操作难题。",
+    "url": "https://www.admin5.com/tech/",
+    "source": "A5站长网",
+    "slug": "tacforesight-robot-precision"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "xAI加倍押注Grok视觉/图像生成，填补市场缺口",
+    "summary": "xAI宣布加倍押注Grok的视觉识别和图像生成能力，填补AI多模态市场的缺口，加强与OpenAI、Google的竞争。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5706a3c7d5883252",
     "source": "企鹅号",
-    "slug": "anthropic-47b-arr-2b-overtake-openai"
+    "slug": "xai-grok-vision-image-generation"
   },
   {
     "date": "2026-06-24",
-    "title": "英伟达发布BioNeMo Agent工具包，加码AI生命科学",
-    "summary": "英伟达宣布发布BioNeMo Agent工具包，包含十多年来NVIDIA生命科学库、工具和开放模型，使AI代理、科学家和实验室能够协作进行证据收集、推理发现和计算实验，加速药物发现。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9516a3b2ed854252",
+    "title": "Meta与微软领跑数据中心租赁，行业总承诺突破8500亿",
+    "summary": "Meta和微软在数据中心租赁市场领跑，行业总承诺金额突破8500亿美元，科技巨头加速布局AI算力基础设施。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5706a3c7d5883252",
     "source": "企鹅号",
-    "slug": "nvidia-bionemo-agent-toolkit"
+    "slug": "meta-microsoft-data-center-lease"
   },
   {
     "date": "2026-06-24",
-    "title": "中国超算灵晟登顶全球TOP500，CPU-only路线引关注",
-    "summary": "德国ISC2026大会发布全球超算TOP500榜单，位于深圳的全国产自主研制灵晟（LineShine）超级计算机以2.198EFlops持续双精度浮点性能登顶全球第一，时隔九年中国重回榜首。值得注意的是，它是CPU-only架构非传统GPU集群路线。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6366a3b614771352",
-    "source": "企鹅号",
-    "slug": "china-lineshine-supercomputer-top500"
-  },
-  {
-    "date": "2026-06-24",
-    "title": "ISC.AI 2026开幕：周鸿祎呼吁打造中国版AI安全大杀器",
-    "summary": "6月24日，ISC.AI 2026大会在北京召开。360集团创始人周鸿祎在开幕致辞中指出，智能体在带来颠覆性能力的同时也引发复杂安全问题，大会以智能体颠覆安全为主题，探讨智能体安全治理与新型安全挑战。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2486a3b54bb98752",
-    "source": "企鹅号",
-    "slug": "isc-ai-2026-zhouhongyi-ai-security"
-  },
-  {
-    "date": "2026-06-24",
-    "title": "科大讯飞AI翻译护航2026夏季达沃斯论坛",
-    "summary": "6月23日至25日，2026大连夏季达沃斯论坛举行，汇聚90余国1700余名嘉宾。科大讯飞作为官方AI翻译专属保障方，依托二十余年技术积淀，落地四类软硬件服务，全方位护航论坛涉外沟通。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8066a3b304d17352",
-    "source": "央广网",
-    "slug": "iflytek-ai-translation-davos-2026"
-  },
-  {
-    "date": "2026-06-24",
-    "title": "智谱市值突破万亿港元，国内首家大模型万亿俱乐部企业",
-    "summary": "智谱市值一度突破1万亿港元，成为国内首家迈入万亿俱乐部的大模型企业。6月中旬智谱发布并开源GLM-5.2大模型，支持100万token无损长上下文，全球编程与综合能力评测中稳居开源模型第一名。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9926a3bc68513952",
-    "source": "企鹅号",
-    "slug": "zhipu-trillion-hkd-valuation"
-  },
-  {
-    "date": "2026-06-24",
-    "title": "豆包大模型2.1发布，日均Token调用量突破180万亿",
-    "summary": "火山引擎FORCE原动力大会上，火山引擎总裁谭待宣布豆包大模型日均Tokens调用量突破180万亿大关，较发布初期飙升超1500倍。豆包2.1 Pro在代码生成、智能Agent、多模态处理三大核心能力上完成强化升级。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3916a3b3c1071252",
-    "source": "企鹅号",
-    "slug": "doubao-2-1-180-trillion-tokens"
-  },
-  {
-    "date": "2026-06-24",
-    "title": "特斯拉中国车机接入豆包+DeepSeek双模型方案",
-    "summary": "特斯拉中国区车机确认接入豆包大模型，采用豆包和DeepSeek双模型协同方案。豆包专注车辆控制（导航、空调、多媒体等），支持0.5秒快速响应和18种方言识别；DeepSeek专注AI闲聊与情感陪伴。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1916a3bccad07865",
-    "source": "CNMO科技",
-    "slug": "tesla-china-doubao-deepseek-dual-model"
-  },
-  {
-    "date": "2026-06-24",
-    "title": "阿里千问发布Qwen-AgentWorld，首个原生语言世界模型",
-    "summary": "千问大模型发布Qwen-AgentWorld首个原生语言世界模型（LWM），在七大领域中模拟智能体交互环境，覆盖文本类环境（MCP、Search、Terminal、SWE）与GUI类环境（Web、OS、Android），同步发布AgentWorldBench评测基准。",
-    "url": "https://new.qq.com/rain/a/20260624A09PZJ00",
-    "source": "腾讯网",
-    "slug": "qwen-agentworld-language-world-model"
-  },
-  {
-    "date": "2026-06-24",
-    "title": "网信办：中国累计900余款大模型上线服务",
-    "summary": "在MWC上海开幕式上，国家互联网信息办公室表示我国已形成从基础底座、模型框架到行业应用的完整AI产业体系。截至目前已累计有900余款大模型上线服务，覆盖工业、农业、教育、科研、文旅等多领域。",
-    "url": "https://new.qq.com/rain/a/20260624A09PZJ00",
-    "source": "腾讯网",
-    "slug": "china-900-plus-llms-online"
-  },
-  {
-    "date": "2026-06-24",
-    "title": "3D生成大模型公司影眸科技获数亿元融资",
-    "summary": "3D生成大模型公司影眸科技（Hyper3D.AI）宣布完成新一轮数亿元融资，由凯辉基金、上海国投先导领投。新模型RodinGen-2.5上线首月订阅用户与ARR环比增速均超400%，将发力游戏、电商、3D打印、具身智能等场景。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1486a3b118659552",
-    "source": "企鹅号",
-    "slug": "yingmou-tech-hyper3d-funding"
-  },
-  {
-    "date": "2026-06-24",
-    "title": "我国拟制定人形机器人变电站场景技术标准",
-    "summary": "我国拟制定《人形机器人变电站场景技术要求》，包括建立适用于变电站人形机器人的术语体系、从八个方面规定技术要求、规定全流程管理等，为行业提供统一的技术依据和测试评价方法，推动人形机器人走进更多场景。",
+    "title": "我国拟制定人形机器人变电站场景技术要求，推动行业标准化",
+    "summary": "我国拟制定《人形机器人变电站场景技术要求》，建立变电站人形机器人术语体系，从八个方面规定技术要求及全流程管理。",
     "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
     "source": "国家科技信息中心",
     "slug": "humanoid-robot-substation-standard"
   },
   {
     "date": "2026-06-24",
-    "title": "Meta发布全新Meta Glasses系列，起售价299美元",
-    "summary": "Meta宣布与依视路陆逊梯卡合作推出全新Meta Glasses系列，采用全新设计包含三种镜框款式，起售价299美元，较Meta Ray-Ban第二代至少便宜80美元，被视为AI硬件平台化的重要一步与市场扩张策略。",
-    "url": "https://www.iimedia.cn/c1040",
-    "source": "艾媒网",
-    "slug": "meta-glasses-299-launch"
-  },
-  {
-    "date": "2026-06-25",
-    "title": "长沙人工智能+软件融出产业厚度，AI落地制造业",
-    "summary": "视比特AI软件在三一产线上指挥机械臂，智慧眼大模型辅助医生诊断，沐曦GPU芯片持续迭代——长沙人工智能+软件产业布局一端扎根车间与诊室，一端深耕代码与芯片，AI真正走进了先进制造业。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4596a3c602449252",
-    "source": "企鹅号",
-    "slug": "changsha-ai-software-manufacturing"
+    "title": "TCL携三大产业亮相2026链博会，AI能力溢出普惠产业生态",
+    "summary": "TCL携三大产业亮相2026链博会，展示AI能力向产业生态溢出赋能的成果，推动人工智能在制造业中的规模化落地。",
+    "url": "http://union.china.com.cn/cmdt/node_522782.html",
+    "source": "中国网",
+    "slug": "tcl-ai-industrial-ecosystem"
   }
 ]
