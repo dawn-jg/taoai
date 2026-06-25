@@ -1,43 +1,43 @@
 [
   {
     "date": "2026-06-25",
+    "title": "MWC上海开幕：AI从秀肌肉变成拼落地",
+    "summary": "2026上海世界移动通信大会在新国际博览中心开幕，今年主题明确不再炫技只看落地。工信部总工程师钟志红表示坚持适度超前建设算力基础设施。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0646a3c128017752",
+    "source": "企鹅号",
+    "slug": "mwc-shanghai-2026-ai-landing"
+  },
+  {
+    "date": "2026-06-25",
     "title": "OpenAI联手博通推出首款AI芯片，绕开英伟达",
-    "summary": "OpenAI与博通合作推出首款自研AI芯片，旨在减少对英伟达GPU的依赖，打破AI芯片市场垄断格局。",
+    "summary": "OpenAI与博通合作推出首款自研AI芯片，旨在减少对英伟达GPU的依赖。这一战略举措标志着AI芯片市场格局的重大变化。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5706a3c7d5883252",
     "source": "企鹅号",
-    "slug": "openai-broadcom-ai-chip"
+    "slug": "openai-broadcom-first-ai-chip"
   },
   {
     "date": "2026-06-25",
-    "title": "SpaceX将发展太空算力设施，黄仁勋谈AI投资回报率",
-    "summary": "SpaceX投资者透露，新型星舰火箭的快速可重复使用特性对实现轨道数据中心扩展AI算力至关重要，地球AI数据中心容量正日益受限。",
+    "title": "SpaceX将发展太空算力设施，应对地球AI数据中心容量瓶颈",
+    "summary": "Andreessen Horowitz合伙人David George表示，星舰火箭的快速可重复使用特性对实现轨道数据中心扩展AI算力至关重要，地球AI数据中心容量正日益受限。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8436a3c7f7324352",
     "source": "企鹅号",
-    "slug": "spacex-orbital-data-center-ai"
+    "slug": "spacex-orbital-ai-data-center"
   },
   {
     "date": "2026-06-25",
-    "title": "宇树科技Unitree R1人形机器人降价至2.99万元起",
-    "summary": "宇树科技宣布双足人形机器人Unitree R1官方售价由3.99万元下调至2.99万元起，即日起开放现货销售，配备26个高精度关节，支持多模态大模型交互。",
+    "title": "宇树科技Unitree R1人形机器人降至2.99万元起，开放现货销售",
+    "summary": "宇树科技宣布双足人形机器人Unitree R1官方售价由3.99万元下调至2.99万元起，即日起开放现货销售。该机器人重25千克，配备26个高精度关节，支持多模态大模型交互。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8436a3c7f7324352",
     "source": "企鹅号",
-    "slug": "unitree-r1-price-cut"
+    "slug": "unitree-r1-price-cut-to-29900"
   },
   {
     "date": "2026-06-25",
-    "title": "SK海力士冲刺纳斯达克，半导体史上最大IPO融资294亿美元",
-    "summary": "SK海力士在纳斯达克上市，融资294亿美元成为半导体史上最大IPO，引发全球芯片行业高度关注。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5706a3c7d5883252",
-    "source": "企鹅号",
-    "slug": "sk-hynix-nasdaq-ipo"
-  },
-  {
-    "date": "2026-06-25",
-    "title": "孙正义驳斥AI泡沫论：人工智能才刚刚起步",
-    "summary": "软银集团年度股东大会上，孙正义明确驳斥AI泡沫论，称此类观点是对AI产业的片面认知和轻视，希望在十年内将净资产提升至6.189万亿美元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2926a3c8ae561952",
-    "source": "路透社/企鹅号",
-    "slug": "masayoshi-son-ai-bubble-rebuttal"
+    "title": "曹操出行与上海人工智能研究院合作成立AI创新中心",
+    "summary": "曹操出行宣布与上海人工智能研究院达成战略合作，成立曹操出行AI创新中心，聚焦出行全链路AI技术攻坚。同时发布RoboX战略，计划2030年投放10万辆Robotaxi和10万辆Robovan。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0356a3ce2eb92552",
+    "source": "央广网",
+    "slug": "caocao-ai-innovation-center"
   },
   {
     "date": "2026-06-25",
@@ -49,74 +49,82 @@
   },
   {
     "date": "2026-06-25",
-    "title": "中科曙光灵晟超算登顶全球TOP500，中国超算重回世界第一",
-    "summary": "中科曙光发布全球首台实测算力突破2EFlops的E级超算灵晟，登顶最新TOP500榜单，标志着中国超算时隔九年重回世界第一。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9206a3c875264952",
+    "title": "SK海力士冲刺纳斯达克，半导体史上最大IPO融资294亿美元",
+    "summary": "SK海力士在纳斯达克上市冲刺，融资294亿美元成为半导体史上最大IPO，引发全球芯片行业高度关注。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5706a3c7d5883252",
     "source": "企鹅号",
-    "slug": "sugon-lingsheng-top500"
+    "slug": "sk-hynix-29-billion-ipo"
   },
   {
     "date": "2026-06-25",
-    "title": "MWC上海开幕：AI从秀肌肉变成拼落地",
-    "summary": "2026上海世界移动通信大会开幕，工信部总工程师钟志红表示坚持适度超前建设算力基础设施。今年主题明确不再炫技，只看落地应用。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0646a3c128017752",
+    "title": "孙正义怒斥AI泡沫论，展望十年内资产翻倍",
+    "summary": "孙正义在公开场合明确驳斥AI泡沫论，称此类观点是对AI产业的片面认知和轻视，希望在十年内将净资产提升至6.189万亿美元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5706a3c7d5883252",
     "source": "企鹅号",
-    "slug": "mwc-shanghai-2026-ai-landing"
+    "slug": "masayoshi-son-ai-bubble-rebut"
   },
   {
     "date": "2026-06-25",
-    "title": "新华网：AI智能体不止聊天，真能干活",
-    "summary": "OpenClaw开源AI代理框架引发产业界竞逐，百度、阿里、腾讯、字节等科技巨头密集入局。国家网信办等三部门联合印发智能体规范发展实施意见。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4556a3c84cb22152",
-    "source": "新华网/企鹅号",
-    "slug": "xinhua-ai-agent-practical"
+    "title": "中国信通院联合360发布《企业级智能体技术与应用研究报告(2026年)》",
+    "summary": "在第十四届互联网安全大会上，中国信通院人工智能研究所联合三六零共同发布该报告，聚焦企业级智能体的技术能力、运营管理、应用实践与趋势展望。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6636a3ca7fa47452",
+    "source": "人民邮电报",
+    "slug": "caict-360-enterprise-agent-report"
   },
   {
-    "date": "2026-06-24",
-    "title": "我国科研机构主导的大模型成果首次登上Nature",
-    "summary": "我国科研机构主导的大模型成果首次登上Nature正刊，该研究探索用统一方式让机器同时学会看、听、说、写乃至行动的核心命题。",
-    "url": "https://www.guancha.cn/gongye%C2%B7keji?s=dhgongye%C2%B7keji",
-    "source": "观察者网",
-    "slug": "china-ai-model-nature-first"
-  },
-  {
-    "date": "2026-06-24",
-    "title": "它石智航联合四大机构发布TacForeSight，破解机器人精细操作难题",
-    "summary": "它石智航联合四大顶尖机构发布TacForeSight，让机器人学会预判接触，破解擦拭、插接、拧紧等精细操作难题。",
-    "url": "https://www.admin5.com/tech/",
-    "source": "A5站长网",
-    "slug": "tacforesight-robot-precision"
-  },
-  {
-    "date": "2026-06-24",
-    "title": "xAI加倍押注Grok视觉/图像生成，填补市场缺口",
-    "summary": "xAI宣布加倍押注Grok的视觉识别和图像生成能力，填补AI多模态市场的缺口，加强与OpenAI、Google的竞争。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5706a3c7d5883252",
+    "date": "2026-06-25",
+    "title": "谷歌AI核心研究人员转投Anthropic，人才流失引发市场质疑",
+    "summary": "谷歌两名顶尖AI研究人员Jonas Adler和Alexander Pritzel计划离职加入Anthropic，两人均被视为Gemini平台的关键贡献者，引发市场对谷歌AI蓝图面临阻力的担忧。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7196a3c85ed17652",
     "source": "企鹅号",
-    "slug": "xai-grok-vision-image-generation"
+    "slug": "google-ai-researchers-leave-to-anthropic"
   },
   {
-    "date": "2026-06-24",
-    "title": "Meta与微软领跑数据中心租赁，行业总承诺突破8500亿",
-    "summary": "Meta和微软在数据中心租赁市场领跑，行业总承诺金额突破8500亿美元，科技巨头加速布局AI算力基础设施。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5706a3c7d5883252",
+    "date": "2026-06-25",
+    "title": "中国发布《生成式人工智能服务管理办法》2026修订版，AI智能体纳入监管",
+    "summary": "中国发布2026年修订版管理办法，首次将AI智能体与自动化决策系统纳入监管范围，要求所有面向公众的AI应用必须进行安全评估与备案。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2366a3bc84893552",
     "source": "企鹅号",
-    "slug": "meta-microsoft-data-center-lease"
+    "slug": "china-gen-ai-regulations-2026"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "张亚勤：智能体落地提速，中国基建构筑AI竞争优势",
+    "summary": "清华大学智能产业研究院创始院长张亚勤在《探寻人工智能2026》节目中表示，智能体落地正在加速，中国的数字基础设施为AI发展构筑了独特竞争优势。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1506a3cf23349952",
+    "source": "今日头条",
+    "slug": "zhang-yaqin-ai-agent-landing"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "AI民用落地提速：2026深圳全球数智生态大会聚焦普惠AI",
+    "summary": "6月18日至20日，2026首届全球数智生态大会在深圳举办，汇聚80余家头部科技企业，发布居家、办公、教育、康养、文旅五大场景轻量化AI产品，宣告普惠AI全民落地元年到来。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5726a3cb97679652",
+    "source": "企鹅号",
+    "slug": "shenzhen-global-digital-eco-2026"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "中科曙光：AI推动先进计算变革，中国优势在产业和应用",
+    "summary": "中科曙光高级副总裁任京暘在国际超级计算大会上表示，AI提升全球算力需求，推动超算与智算深度融合。中国先进计算系统计算效能全球领先，需利用产业和应用优势实现创新互动。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0766a3ca84b57752",
+    "source": "企鹅号",
+    "slug": "sugon-ai-computing-china-advantage"
   },
   {
     "date": "2026-06-24",
     "title": "我国拟制定人形机器人变电站场景技术要求，推动行业标准化",
-    "summary": "我国拟制定《人形机器人变电站场景技术要求》，建立变电站人形机器人术语体系，从八个方面规定技术要求及全流程管理。",
+    "summary": "我国拟制定《人形机器人变电站场景技术要求》，建立变电站人形机器人术语体系，从八个方面规定技术要求及全流程管理，为行业提供统一技术依据。",
     "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
     "source": "国家科技信息中心",
     "slug": "humanoid-robot-substation-standard"
   },
   {
     "date": "2026-06-24",
-    "title": "TCL携三大产业亮相2026链博会，AI能力溢出普惠产业生态",
-    "summary": "TCL携三大产业亮相2026链博会，展示AI能力向产业生态溢出赋能的成果，推动人工智能在制造业中的规模化落地。",
-    "url": "http://union.china.com.cn/cmdt/node_522782.html",
-    "source": "中国网",
-    "slug": "tcl-ai-industrial-ecosystem"
+    "title": "它石智航联合四大机构发布TacForeSight，破解机器人精细操作难题",
+    "summary": "它石智航联合四大顶尖机构发布TacForeSight技术，让机器人学会预测接触变化，破解擦拭、插接、拧紧等精细操作难题。",
+    "url": "https://www.admin5.com/tech/",
+    "source": "A5站长网",
+    "slug": "tacforesight-robot-precision-manipulation"
   }
 ]
