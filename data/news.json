@@ -1,130 +1,122 @@
 [
   {
     "date": "2026-06-25",
-    "title": "MWC上海开幕：AI从秀肌肉变成拼落地",
-    "summary": "2026上海世界移动通信大会在新国际博览中心开幕，今年主题明确不再炫技只看落地。工信部总工程师钟志红表示坚持适度超前建设算力基础设施。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0646a3c128017752",
-    "source": "企鹅号",
-    "slug": "mwc-shanghai-2026-ai-landing"
+    "title": "OpenAI升级GPT-5.5 Instant，6月26日面向全球免费用户开放",
+    "summary": "OpenAI宣布向付费用户推送新版GPT-5.5 Instant，并将于6月26日全面开放给免费用户。新版模型幻觉率较上一代下降52.5%，AIME数学准确率从65.4%跃升至81.2%，多项基准指标接近两年前旗舰级模型水平。",
+    "url": "https://new.qq.com/rain/a/20260625A04TXA00",
+    "source": "腾讯网",
+    "slug": "openai-gpt55-instant-upgrade"
   },
   {
     "date": "2026-06-25",
-    "title": "OpenAI联手博通推出首款AI芯片，绕开英伟达",
-    "summary": "OpenAI与博通合作推出首款自研AI芯片，旨在减少对英伟达GPU的依赖。这一战略举措标志着AI芯片市场格局的重大变化。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5706a3c7d5883252",
-    "source": "企鹅号",
-    "slug": "openai-broadcom-first-ai-chip"
+    "title": "OpenAI联合博通发布首款自研AI推理芯片Jalapeño",
+    "summary": "OpenAI与半导体巨头博通联合发布首款定制AI推理芯片Jalapeño，专为大语言模型推理设计。工程样品已跑通GPT-5.3-Codex-Spark，推理成本相较传统GPU降低约50%，计划2026年底规模化部署。",
+    "url": "https://new.qq.com/rain/a/20260625A04VN300",
+    "source": "腾讯网",
+    "slug": "openai-broadcom-jalapeno-chip"
   },
   {
     "date": "2026-06-25",
-    "title": "SpaceX将发展太空算力设施，应对地球AI数据中心容量瓶颈",
-    "summary": "Andreessen Horowitz合伙人David George表示，星舰火箭的快速可重复使用特性对实现轨道数据中心扩展AI算力至关重要，地球AI数据中心容量正日益受限。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8436a3c7f7324352",
-    "source": "企鹅号",
-    "slug": "spacex-orbital-ai-data-center"
+    "title": "英伟达股东大会：黄仁勋宣告「AI工厂时代」来临",
+    "summary": "英伟达召开2026年度股东大会，黄仁勋将AI数据中心重新定义为「AI工厂」，每个Token都是利润单位。2026财年自由现金流超960亿美元，计划将50%以上自由现金流返还股东。中国营收占比已降至约9%。",
+    "url": "https://new.qq.com/rain/a/20260625A05P7L00",
+    "source": "腾讯网",
+    "slug": "nvidia-shareholder-meeting-ai-factory"
   },
   {
     "date": "2026-06-25",
-    "title": "宇树科技Unitree R1人形机器人降至2.99万元起，开放现货销售",
-    "summary": "宇树科技宣布双足人形机器人Unitree R1官方售价由3.99万元下调至2.99万元起，即日起开放现货销售。该机器人重25千克，配备26个高精度关节，支持多模态大模型交互。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8436a3c7f7324352",
-    "source": "企鹅号",
-    "slug": "unitree-r1-price-cut-to-29900"
+    "title": "企业微信5.0.9发布：AI自动总结客户需求，原生智能助理「大圆」内测",
+    "summary": "企业微信发布5.0.9版本，核心新增AI「服务总结」功能，可自动分析员工与客户聊天记录，梳理需求与成交卡点。首款原生AI智能助理「大圆」开启灰度内测，支持聊天总结、文档处理、定时任务等。",
+    "url": "https://new.qq.com/rain/a/20260625A09R0X00",
+    "source": "腾讯网",
+    "slug": "wecom-509-ai-update-dayuan"
   },
   {
     "date": "2026-06-25",
-    "title": "曹操出行与上海人工智能研究院合作成立AI创新中心",
-    "summary": "曹操出行宣布与上海人工智能研究院达成战略合作，成立曹操出行AI创新中心，聚焦出行全链路AI技术攻坚。同时发布RoboX战略，计划2030年投放10万辆Robotaxi和10万辆Robovan。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0356a3ce2eb92552",
+    "title": "曹操出行与上海人工智能研究院成立AI创新中心，发布RoboX战略",
+    "summary": "曹操出行宣布与上海人工智能研究院达成战略合作，成立「曹操出行AI创新中心」。同时发布RoboX战略，启动「双十万计划」，计划到2030年投放10万辆Robotaxi和10万辆Robovan。",
+    "url": "https://new.qq.com/rain/a/20260625A075DV00",
+    "source": "腾讯网",
+    "slug": "caocao-mobility-ai-innovation-center"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "阿布扎比MGX募集近500亿美元，成今年最大AI投资基金",
+    "summary": "阿布扎比科技投资公司MGX已募集近500亿美元，成为今年规模最大的AI投资基金。目标将资产管理规模扩大至1000亿美元以上。同期Menlo Ventures也募集了30亿美元创纪录基金，ALL in AI。",
+    "url": "https://new.qq.com/rain/a/20260626A04VAW00",
+    "source": "腾讯网",
+    "slug": "mgx-50-billion-ai-fund"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "2026 AI突破大奖揭晓，文远知行世界模型WeRide GENESIS获奖",
+    "summary": "2026 AI突破大奖评选结果揭晓，文远知行自研世界模型WeRide GENESIS被评为「年度最佳生成式AI综合解决方案」，与AMD、高通、戴尔等全球知名科技企业同台获奖。",
+    "url": "https://new.qq.com/rain/a/20260625A08GIA00",
+    "source": "腾讯网",
+    "slug": "weride-genesis-ai-breakthrough-awards"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "法国科技创新展聚焦人工智能工业应用",
+    "summary": "第十届法国科技创新展在巴黎举办，1.4万家初创企业参展。展会凸显AI从消费端向工业实体场景落地趋势，道达尔能源已部署超1.3万个AI传感器，达飞海运利用AI优化船舶调度方案。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6266a3dd15915452",
     "source": "央广网",
-    "slug": "caocao-ai-innovation-center"
+    "slug": "france-vivatech-ai-industry"
   },
   {
     "date": "2026-06-25",
-    "title": "Anthropic年收470亿美元，B端市场反超OpenAI",
-    "summary": "中信证券研报数据显示，Anthropic 2026年5月ARR达470亿美元，在2B市场实现对OpenAI的反超，专注Coding生态和企业安全需求。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0646a3c128017752",
-    "source": "企鹅号",
-    "slug": "anthropic-47b-arr-enterprise"
+    "title": "MWC26上海开幕，联想联合发布全球首款AI可信一体机",
+    "summary": "2026世界移动通信大会MWC26在上海举行，联想联合中国移动芯昇科技、熠序科技发布全球首款AI可信一体机，为AI智能体签发硬件级可信「身份证」，单节点可搭载40张GPU。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6006a3cc2ea64652",
+    "source": "腾讯网",
+    "slug": "mwc26-shanghai-lenovo-ai-trusted-server"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "台积电预计全球半导体市场2026年突破1万亿美元",
+    "summary": "台积电在闭门会上预计全球半导体市场将在2026年突破1万亿美元。HBM4量产爬坡速度达前代两倍，累计出货收入破10亿美元。人形机器人存储需求约为L2+自动驾驶汽车十倍，或成未来新引擎。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7226a3df81d17052",
+    "source": "腾讯网",
+    "slug": "tsmc-semiconductor-market-1-trillion"
   },
   {
     "date": "2026-06-25",
-    "title": "SK海力士冲刺纳斯达克，半导体史上最大IPO融资294亿美元",
-    "summary": "SK海力士在纳斯达克上市冲刺，融资294亿美元成为半导体史上最大IPO，引发全球芯片行业高度关注。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5706a3c7d5883252",
-    "source": "企鹅号",
-    "slug": "sk-hynix-29-billion-ipo"
+    "title": "谷歌两名AI研发重要人员拟跳槽至Anthropic",
+    "summary": "据报道，被视为谷歌Gemini大模型关键贡献者的Jonas Adler和Alexander Pritzel即将加入Anthropic。Adler曾参与谷歌AI编程项目，Pritzel则参与AI系统训练工作。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4986a3dc68d86852",
+    "source": "腾讯网",
+    "slug": "google-ai-researchers-join-anthropic"
   },
   {
     "date": "2026-06-25",
-    "title": "孙正义怒斥AI泡沫论，展望十年内资产翻倍",
-    "summary": "孙正义在公开场合明确驳斥AI泡沫论，称此类观点是对AI产业的片面认知和轻视，希望在十年内将净资产提升至6.189万亿美元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5706a3c7d5883252",
-    "source": "企鹅号",
-    "slug": "masayoshi-son-ai-bubble-rebut"
+    "title": "中欧「欧洲论坛」布鲁塞尔站举行，聚焦AI发展与合作机遇",
+    "summary": "中欧国际工商学院第十二届欧洲论坛布鲁塞尔站同步在上海和布鲁塞尔举行，中欧政商学界代表围绕「竞合共生：中欧AI发展合作机遇」主题，就AI技术创新、产业应用及治理规则展开交流。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3246a3de75f87352",
+    "source": "人民网",
+    "slug": "ceibs-europe-forum-ai-cooperation"
   },
   {
     "date": "2026-06-25",
-    "title": "中国信通院联合360发布《企业级智能体技术与应用研究报告(2026年)》",
-    "summary": "在第十四届互联网安全大会上，中国信通院人工智能研究所联合三六零共同发布该报告，聚焦企业级智能体的技术能力、运营管理、应用实践与趋势展望。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6636a3ca7fa47452",
-    "source": "人民邮电报",
-    "slug": "caict-360-enterprise-agent-report"
+    "title": "2026天府人工智能产业生态暨产品发布会在成都举行",
+    "summary": "「场景牵引 以用促产」2026天府人工智能产业生态暨产品发布会在成都举行，由四川省人工智能产业链链长办公室联合承办，汇聚行业头部企业及高校科研院所，共探四川AI产业创新发展路径。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0806a3d1eae08452",
+    "source": "时代网",
+    "slug": "tianfu-ai-industry-ecosystem-conference"
   },
   {
     "date": "2026-06-25",
-    "title": "谷歌AI核心研究人员转投Anthropic，人才流失引发市场质疑",
-    "summary": "谷歌两名顶尖AI研究人员Jonas Adler和Alexander Pritzel计划离职加入Anthropic，两人均被视为Gemini平台的关键贡献者，引发市场对谷歌AI蓝图面临阻力的担忧。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7196a3c85ed17652",
-    "source": "企鹅号",
-    "slug": "google-ai-researchers-leave-to-anthropic"
+    "title": "移远通信在MWC26发布割草机器人及AI学伴机解决方案",
+    "summary": "在MWC26上海展会期间，移远通信发布全新割草机器人整体解决方案，并与灵宇宙联合发布随身AI学伴机解决方案，同时推出基于MediaTek平台的首款旗舰级AI算力模组SP805FL系列。",
+    "url": "https://www.prnasia.com/releases/listpage-theme-93-all-1.shtml",
+    "source": "美通社",
+    "slug": "quectel-mwc26-ai-solutions"
   },
   {
     "date": "2026-06-25",
-    "title": "中国发布《生成式人工智能服务管理办法》2026修订版，AI智能体纳入监管",
-    "summary": "中国发布2026年修订版管理办法，首次将AI智能体与自动化决策系统纳入监管范围，要求所有面向公众的AI应用必须进行安全评估与备案。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2366a3bc84893552",
-    "source": "企鹅号",
-    "slug": "china-gen-ai-regulations-2026"
-  },
-  {
-    "date": "2026-06-25",
-    "title": "张亚勤：智能体落地提速，中国基建构筑AI竞争优势",
-    "summary": "清华大学智能产业研究院创始院长张亚勤在《探寻人工智能2026》节目中表示，智能体落地正在加速，中国的数字基础设施为AI发展构筑了独特竞争优势。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1506a3cf23349952",
-    "source": "今日头条",
-    "slug": "zhang-yaqin-ai-agent-landing"
-  },
-  {
-    "date": "2026-06-25",
-    "title": "AI民用落地提速：2026深圳全球数智生态大会聚焦普惠AI",
-    "summary": "6月18日至20日，2026首届全球数智生态大会在深圳举办，汇聚80余家头部科技企业，发布居家、办公、教育、康养、文旅五大场景轻量化AI产品，宣告普惠AI全民落地元年到来。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5726a3cb97679652",
-    "source": "企鹅号",
-    "slug": "shenzhen-global-digital-eco-2026"
-  },
-  {
-    "date": "2026-06-25",
-    "title": "中科曙光：AI推动先进计算变革，中国优势在产业和应用",
-    "summary": "中科曙光高级副总裁任京暘在国际超级计算大会上表示，AI提升全球算力需求，推动超算与智算深度融合。中国先进计算系统计算效能全球领先，需利用产业和应用优势实现创新互动。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0766a3ca84b57752",
-    "source": "企鹅号",
-    "slug": "sugon-ai-computing-china-advantage"
-  },
-  {
-    "date": "2026-06-24",
-    "title": "我国拟制定人形机器人变电站场景技术要求，推动行业标准化",
-    "summary": "我国拟制定《人形机器人变电站场景技术要求》，建立变电站人形机器人术语体系，从八个方面规定技术要求及全流程管理，为行业提供统一技术依据。",
-    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "国家科技信息中心",
-    "slug": "humanoid-robot-substation-standard"
-  },
-  {
-    "date": "2026-06-24",
-    "title": "它石智航联合四大机构发布TacForeSight，破解机器人精细操作难题",
-    "summary": "它石智航联合四大顶尖机构发布TacForeSight技术，让机器人学会预测接触变化，破解擦拭、插接、拧紧等精细操作难题。",
-    "url": "https://www.admin5.com/tech/",
-    "source": "A5站长网",
-    "slug": "tacforesight-robot-precision-manipulation"
+    "title": "交通运输部发布「人工智能+交通运输」典型应用场景行动方案",
+    "summary": "交通运输部发布《人工智能+交通运输典型应用场景创新行动方案》，推动AI在交通运输领域的规模化应用。同时长航系统人工智能应用技能大赛决赛名单揭晓。",
+    "url": "https://cjhy.mot.gov.cn/xw/",
+    "source": "长江航务管理局",
+    "slug": "transportation-ministry-ai-action-plan"
   }
 ]
