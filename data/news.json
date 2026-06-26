@@ -1,122 +1,122 @@
 [
-  {
-    "date": "2026-06-25",
-    "title": "OpenAI升级GPT-5.5 Instant，6月26日面向全球免费用户开放",
-    "summary": "OpenAI宣布向付费用户推送新版GPT-5.5 Instant，并将于6月26日全面开放给免费用户。新版模型幻觉率较上一代下降52.5%，AIME数学准确率从65.4%跃升至81.2%，多项基准指标接近两年前旗舰级模型水平。",
-    "url": "https://new.qq.com/rain/a/20260625A04TXA00",
-    "source": "腾讯网",
-    "slug": "openai-gpt55-instant-upgrade"
-  },
-  {
-    "date": "2026-06-25",
-    "title": "OpenAI联合博通发布首款自研AI推理芯片Jalapeño",
-    "summary": "OpenAI与半导体巨头博通联合发布首款定制AI推理芯片Jalapeño，专为大语言模型推理设计。工程样品已跑通GPT-5.3-Codex-Spark，推理成本相较传统GPU降低约50%，计划2026年底规模化部署。",
-    "url": "https://new.qq.com/rain/a/20260625A04VN300",
-    "source": "腾讯网",
-    "slug": "openai-broadcom-jalapeno-chip"
-  },
-  {
-    "date": "2026-06-25",
-    "title": "英伟达股东大会：黄仁勋宣告「AI工厂时代」来临",
-    "summary": "英伟达召开2026年度股东大会，黄仁勋将AI数据中心重新定义为「AI工厂」，每个Token都是利润单位。2026财年自由现金流超960亿美元，计划将50%以上自由现金流返还股东。中国营收占比已降至约9%。",
-    "url": "https://new.qq.com/rain/a/20260625A05P7L00",
-    "source": "腾讯网",
-    "slug": "nvidia-shareholder-meeting-ai-factory"
-  },
-  {
-    "date": "2026-06-25",
-    "title": "企业微信5.0.9发布：AI自动总结客户需求，原生智能助理「大圆」内测",
-    "summary": "企业微信发布5.0.9版本，核心新增AI「服务总结」功能，可自动分析员工与客户聊天记录，梳理需求与成交卡点。首款原生AI智能助理「大圆」开启灰度内测，支持聊天总结、文档处理、定时任务等。",
-    "url": "https://new.qq.com/rain/a/20260625A09R0X00",
-    "source": "腾讯网",
-    "slug": "wecom-509-ai-update-dayuan"
-  },
-  {
-    "date": "2026-06-25",
-    "title": "曹操出行与上海人工智能研究院成立AI创新中心，发布RoboX战略",
-    "summary": "曹操出行宣布与上海人工智能研究院达成战略合作，成立「曹操出行AI创新中心」。同时发布RoboX战略，启动「双十万计划」，计划到2030年投放10万辆Robotaxi和10万辆Robovan。",
-    "url": "https://new.qq.com/rain/a/20260625A075DV00",
-    "source": "腾讯网",
-    "slug": "caocao-mobility-ai-innovation-center"
-  },
-  {
-    "date": "2026-06-26",
-    "title": "阿布扎比MGX募集近500亿美元，成今年最大AI投资基金",
-    "summary": "阿布扎比科技投资公司MGX已募集近500亿美元，成为今年规模最大的AI投资基金。目标将资产管理规模扩大至1000亿美元以上。同期Menlo Ventures也募集了30亿美元创纪录基金，ALL in AI。",
-    "url": "https://new.qq.com/rain/a/20260626A04VAW00",
-    "source": "腾讯网",
-    "slug": "mgx-50-billion-ai-fund"
-  },
-  {
-    "date": "2026-06-25",
-    "title": "2026 AI突破大奖揭晓，文远知行世界模型WeRide GENESIS获奖",
-    "summary": "2026 AI突破大奖评选结果揭晓，文远知行自研世界模型WeRide GENESIS被评为「年度最佳生成式AI综合解决方案」，与AMD、高通、戴尔等全球知名科技企业同台获奖。",
-    "url": "https://new.qq.com/rain/a/20260625A08GIA00",
-    "source": "腾讯网",
-    "slug": "weride-genesis-ai-breakthrough-awards"
-  },
-  {
-    "date": "2026-06-26",
-    "title": "法国科技创新展聚焦人工智能工业应用",
-    "summary": "第十届法国科技创新展在巴黎举办，1.4万家初创企业参展。展会凸显AI从消费端向工业实体场景落地趋势，道达尔能源已部署超1.3万个AI传感器，达飞海运利用AI优化船舶调度方案。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6266a3dd15915452",
-    "source": "央广网",
-    "slug": "france-vivatech-ai-industry"
-  },
-  {
-    "date": "2026-06-25",
-    "title": "MWC26上海开幕，联想联合发布全球首款AI可信一体机",
-    "summary": "2026世界移动通信大会MWC26在上海举行，联想联合中国移动芯昇科技、熠序科技发布全球首款AI可信一体机，为AI智能体签发硬件级可信「身份证」，单节点可搭载40张GPU。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6006a3cc2ea64652",
-    "source": "腾讯网",
-    "slug": "mwc26-shanghai-lenovo-ai-trusted-server"
-  },
-  {
-    "date": "2026-06-26",
-    "title": "台积电预计全球半导体市场2026年突破1万亿美元",
-    "summary": "台积电在闭门会上预计全球半导体市场将在2026年突破1万亿美元。HBM4量产爬坡速度达前代两倍，累计出货收入破10亿美元。人形机器人存储需求约为L2+自动驾驶汽车十倍，或成未来新引擎。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7226a3df81d17052",
-    "source": "腾讯网",
-    "slug": "tsmc-semiconductor-market-1-trillion"
-  },
-  {
-    "date": "2026-06-25",
-    "title": "谷歌两名AI研发重要人员拟跳槽至Anthropic",
-    "summary": "据报道，被视为谷歌Gemini大模型关键贡献者的Jonas Adler和Alexander Pritzel即将加入Anthropic。Adler曾参与谷歌AI编程项目，Pritzel则参与AI系统训练工作。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4986a3dc68d86852",
-    "source": "腾讯网",
-    "slug": "google-ai-researchers-join-anthropic"
-  },
-  {
-    "date": "2026-06-25",
-    "title": "中欧「欧洲论坛」布鲁塞尔站举行，聚焦AI发展与合作机遇",
-    "summary": "中欧国际工商学院第十二届欧洲论坛布鲁塞尔站同步在上海和布鲁塞尔举行，中欧政商学界代表围绕「竞合共生：中欧AI发展合作机遇」主题，就AI技术创新、产业应用及治理规则展开交流。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3246a3de75f87352",
-    "source": "人民网",
-    "slug": "ceibs-europe-forum-ai-cooperation"
-  },
-  {
-    "date": "2026-06-25",
-    "title": "2026天府人工智能产业生态暨产品发布会在成都举行",
-    "summary": "「场景牵引 以用促产」2026天府人工智能产业生态暨产品发布会在成都举行，由四川省人工智能产业链链长办公室联合承办，汇聚行业头部企业及高校科研院所，共探四川AI产业创新发展路径。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0806a3d1eae08452",
-    "source": "时代网",
-    "slug": "tianfu-ai-industry-ecosystem-conference"
-  },
-  {
-    "date": "2026-06-25",
-    "title": "移远通信在MWC26发布割草机器人及AI学伴机解决方案",
-    "summary": "在MWC26上海展会期间，移远通信发布全新割草机器人整体解决方案，并与灵宇宙联合发布随身AI学伴机解决方案，同时推出基于MediaTek平台的首款旗舰级AI算力模组SP805FL系列。",
-    "url": "https://www.prnasia.com/releases/listpage-theme-93-all-1.shtml",
-    "source": "美通社",
-    "slug": "quectel-mwc26-ai-solutions"
-  },
-  {
-    "date": "2026-06-25",
-    "title": "交通运输部发布「人工智能+交通运输」典型应用场景行动方案",
-    "summary": "交通运输部发布《人工智能+交通运输典型应用场景创新行动方案》，推动AI在交通运输领域的规模化应用。同时长航系统人工智能应用技能大赛决赛名单揭晓。",
-    "url": "https://cjhy.mot.gov.cn/xw/",
-    "source": "长江航务管理局",
-    "slug": "transportation-ministry-ai-action-plan"
-  }
+    {
+        "slug":  "ai-stock-surge-june-26",
+        "source":  "企鹅号",
+        "date":  "2026-06-26",
+        "summary":  "资金集中流入AI算力硬件和人工智能应用两大方向，中科曙光凭借灵晟超算系统以2.198EFLOPS性能登顶全球TOP500第一名，封涨停成交额121亿元。寒武纪盘中市值超越茅台。",
+        "title":  "CS人工智能指数逆市大涨，AI算力与大模型落地加速推动板块重估",
+        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_4576a3e475e95252"
+    },
+    {
+        "slug":  "sugon-lingsheng-top500",
+        "source":  "企鹅号",
+        "date":  "2026-06-26",
+        "summary":  "中科曙光凭借灵晟超算系统以2.198EFLOPS性能登顶全球超级计算机TOP500第一名，验证了中国在超算领域的自主技术实力，为国产AI算力基础设施出海提供重要背书。",
+        "title":  "中科曙光灵晟超算系统登顶全球TOP500第一名",
+        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_4576a3e475e95252"
+    },
+    {
+        "slug":  "france-vivatech-ai-industry",
+        "source":  "企鹅号",
+        "date":  "2026-06-26",
+        "summary":  "第十届法国科技创新展在巴黎举办，1.4万家初创企业参展。道达尔部署超1.3万个AI传感器实时分析设备状态，西门子发布Eigen工程代理可提升工程效率50%。行业焦点从消费端转向工业实体场景落地。",
+        "title":  "法国科技创新展聚焦人工智能工业应用",
+        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_9676a3dbcd593352"
+    },
+    {
+        "slug":  "chain-expo-ai-trends",
+        "source":  "新华社/中国经济信息社",
+        "date":  "2026-06-26",
+        "summary":  "第四届链博会上，AI实时翻译眼镜、帮助患者康复的脑起搏器、可自主行驶的无人驾驶汽车等应用场景亮相。多家企业表示将深耕中国供应链，共同拥抱AI新机遇。",
+        "title":  "从链博会看AI产业发展新趋势",
+        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_4216a3e445175652"
+    },
+    {
+        "slug":  "soul-ai-ethics-committee",
+        "source":  "企鹅号",
+        "date":  "2026-06-26",
+        "summary":  "Soul App成立人工智能伦理与治理委员会，特邀高校及专业机构权威专家学者担任外部委员，探索系统性与实用性兼备的AI生态治理方案。",
+        "title":  "Soul App正式成立人工智能伦理与治理委员会",
+        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_2676a3e489353952"
+    },
+    {
+        "slug":  "iflytek-ai-procurement-platform",
+        "source":  "企鹅号",
+        "date":  "2026-06-26",
+        "summary":  "科大讯飞推出招采全链路AI智能体平台，响应八部门关于加快招标投标领域人工智能推广应用的实施意见，推动招标文件检测、智能辅助评标、围串标识别等场景应用。",
+        "title":  "科大讯飞发布招采全链路AI智能体平台",
+        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_6586a3e478e33852"
+    },
+    {
+        "slug":  "tsmc-semiconductor-1-trillion",
+        "source":  "企鹅号",
+        "date":  "2026-06-26",
+        "summary":  "台积电闭门会坚定业界AI信仰，HBM4量产爬坡速度达前代两倍，累计出货收入破10亿美元。人形机器人存储需求约为L2+自动驾驶汽车十倍，或成2030年后数十年扩张周期新引擎。",
+        "title":  "台积电预计全球半导体市场今年突破1万亿美元",
+        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_7226a3df81d17052"
+    },
+    {
+        "slug":  "beijing-ai-users-2-billion",
+        "source":  "企鹅号",
+        "date":  "2026-06-26",
+        "summary":  "北京头部大模型累计注册用户达20.5亿，面向全国近5万家机构提供API接口服务。北京市人工智能创新大赛近万部AIGC参赛作品触达网民超5000万人次，300个创新项目脱颖而出。",
+        "title":  "北京AI大模型注册用户破20亿",
+        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_7496a3de08653652"
+    },
+    {
+        "slug":  "nvidia-shareholder-meeting-ai-factory",
+        "source":  "企鹅号",
+        "date":  "2026-06-26",
+        "summary":  "英伟达年度股东大会上，黄仁勋提出AI工厂新概念，并透露2026财年英伟达来自中国的营收占比已降至约9%，较2022财年的26.4%大幅下滑。",
+        "title":  "英伟达股东大会：黄仁勋宣告AI工厂时代来临",
+        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_8826a3deae118952"
+    },
+    {
+        "slug":  "cas-ai-companies-hk-listing",
+        "source":  "企鹅号",
+        "date":  "2026-06-26",
+        "summary":  "决策大模型第一股中科闻歌上市港股引发关注，智谱等中科院系AI企业加速走向资本市场，港股AI板块迎来大模型国家队上市潮。",
+        "title":  "从智谱到中科闻歌，港股AI迎来中科院系大模型国家队",
+        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_3976a3e49ee59152"
+    },
+    {
+        "slug":  "nangang-steel-ai-models",
+        "source":  "企鹅号",
+        "date":  "2026-06-26",
+        "summary":  "南钢集团联合华为推出元冶大模型架构，交付周期缩短50%，订单准时率稳定至98.5%，完成从经验驱动向人工智能主导全产业链协同运营的模式转变。",
+        "title":  "AI重塑钢铁全产业链，南钢元冶生态大会落地200余项工业大模型应用",
+        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_6556a3e2f2a31652"
+    },
+    {
+        "slug":  "china-us-ai-open-source",
+        "source":  "中国日报/腾讯网",
+        "date":  "2026-06-26",
+        "summary":  "中国日报刊发评论文章指出，美国AI走垄断路线，中国AI走开源路线为全球贡献。多家中国AI企业持续开放大模型能力，推动全球AI技术普惠。",
+        "title":  "美国AI垄断为自己，中国AI开源为全球",
+        "url":  "https://new.qq.com/rain/a/20260626A03F8H00"
+    },
+    {
+        "slug":  "davos-physical-ai",
+        "source":  "企鹅号",
+        "date":  "2026-06-26",
+        "summary":  "2026大连夏季达沃斯论坛上，物理AI成为焦点，机械臂与人形机器人展示实时互动能力。专家认为物理AI将是AI下一阶段重要发展方向，世界模型被列为关键技术。",
+        "title":  "2026年夏季达沃斯论坛聚焦物理AI",
+        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_7106a3d39bd04665"
+    },
+    {
+        "slug":  "weride-ai-breakthrough-award",
+        "source":  "快科技",
+        "date":  "2026-06-25",
+        "summary":  "2026 AI突破大奖揭晓，文远知行自主研发的世界模型WeRide GENESIS获评年度最佳生成式AI综合解决方案，与AMD、高通、戴尔等全球知名科技企业同台获奖。",
+        "title":  "文远知行WeRide GENESIS获2026 AI突破大奖年度最佳生成式AI综合解决方案",
+        "url":  "https://news.mydrivers.com/itquan.html"
+    },
+    {
+        "slug":  "iflytek-spark-ai-risk-control",
+        "source":  "企鹅号",
+        "date":  "2026-06-26",
+        "summary":  "科大讯飞推出星火AI企业风控官，以企业风险体检为核心理念，整合底稿数字化、行业风控知识库、标准化规则库、受控AI推理多重能力，重构全链路智能风险评估体系。",
+        "title":  "科大讯飞星火AI企业风控官重塑风控链路",
+        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_6156a3d085290652"
+    }
 ]
