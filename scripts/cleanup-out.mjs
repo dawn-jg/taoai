@@ -26,15 +26,14 @@ function countFiles(dir) {
 const before = countFiles(outDir);
 console.log(`Before cleanup: ${before} files`);
 
-// Delete only RSC .txt files (not logos, not other content)
-// Keep logos/ directory - tools need local logo images!
+// Delete RSC .txt files, but preserve ads.txt
 let txtCount = 0;
 function removeTxt(dir) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const full = path.join(dir, entry.name);
     if (entry.isDirectory()) {
       removeTxt(full);
-    } else if (entry.name.endsWith(".txt")) {
+    } else if (entry.name.endsWith(".txt") && entry.name !== "ads.txt") {
       fs.unlinkSync(full);
       txtCount++;
     }
