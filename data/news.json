@@ -1,122 +1,122 @@
 [
   {
     "date": "2026-06-27",
-    "title": "美国企业加速部署AI：调查显示AI应用从试点过渡到生产阶段",
-    "summary": "加拿大皇家银行资本市场最新研究显示，超半数受访企业已将AI投入生产，另有35%预计六个月内实现生产。分析师Rishi Jaluria对2026下半年AI支出势头感到鼓舞，AI应用正从试点全面过渡到生产阶段。",
+    "title": "新华社发布权威AI时政资讯智能体「新华语典」",
+    "summary": "新华通讯社6月26日正式发布权威AI时政资讯智能体「新华语典」，基于新华社数据和大模型技术，搭建智能问答、订阅推送、知识库、智能体广场四大功能模块，围绕「学思想、找源头、推新闻、问新闻、辨真假、捋头绪、写文章」七大核心功能构建智能化理论服务体系。",
+    "url": "https://new.qq.com/rain/a/20260627A01Z5100",
+    "source": "腾讯网",
+    "slug": "xinhua-yudian-ai-launch"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "美国企业快速部署人工智能，调查显示AI应用过渡到生产阶段",
+    "summary": "加拿大皇家银行资本市场最新研究显示，企业在人工智能上的投入巨大且愿意投入更多。分析师Rishi Jaluria表示对2026下半年AI支出势头感到鼓舞，AI应用正从试点阶段向生产阶段过渡。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2636a3f384b26552",
     "source": "财联社",
     "slug": "us-enterprise-ai-production-transition"
   },
   {
     "date": "2026-06-27",
-    "title": "微信AI助手小微开启内测：自研WeLM模型+DeepSeek双引擎",
-    "summary": "微信原生AI助手小微正式开启小范围测试，驻留主界面左上角。主模型为微信自研中文大模型WeLM，部分调用DeepSeek回答，支持文字/语音对话、操作原生功能、调起小程序服务。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7006a3f3ffb62352",
-    "source": "腾讯科技",
-    "slug": "wechat-xiaowei-ai-assistant-beta"
-  },
-  {
-    "date": "2026-06-27",
-    "title": "第四届链博会首次设立人工智能专区，228家企业参展",
-    "summary": "6月22日至26日在北京举办的第四届链博会上，数字科技链升级为数智科技链并首次设立AI专区。58个展位汇聚228家全球企业，英伟达携110余家合作伙伴组团参展，集中展示近百项前沿AI落地成果。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0856a3f3b5373365",
-    "source": "新华社",
-    "slug": "chain-expo-ai-zone-2026"
-  },
-  {
-    "date": "2026-06-27",
-    "title": "字节跳动发布豆包大模型2.1 Pro，编程与Agent能力大幅提升",
-    "summary": "字节跳动火山引擎在Force原动力大会上发布豆包大模型2.1 Pro，需求理解、长期规划和工程交付能力显著增强，编程及Agent能力大幅提升，性能跻身全球前列。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8056a3f2c1453452",
+    "title": "字节跳动发布豆包大模型2.1 Pro，编程与Agent能力跨越「生产级质变点」",
+    "summary": "字节跳动火山引擎在FORCE原动力大会上发布豆包大模型2.1 Pro（Doubao-Seed-2.1 Pro），日均Token使用量突破180万亿。该模型在代码交付、长程Agent任务、多模态理解及企业级稳定运行四个维度达到生产级质变点，多项评测表现接近GPT-5.5、Claude Opus 4.7。",
+    "url": "https://new.qq.com/rain/a/20260623A03AK400",
     "source": "火山引擎",
     "slug": "bytedance-doubao-2-1-pro"
   },
   {
     "date": "2026-06-27",
-    "title": "黄仁勋：有用AI已能赚钱，英伟达计划回馈股东50%自由现金流",
-    "summary": "英伟达CEO黄仁勋表示有用的AI已经能赚钱了，并宣布计划将50%自由现金流回馈股东。英伟达持续看好AI产业商业化前景，推动AI从投入期进入盈利期。",
+    "title": "OpenAI发布GPT-5.6系列最强模型，因美国政府要求仅限限量预览",
+    "summary": "OpenAI于6月27日发布GPT-5.6系列模型，包括旗舰版Sol、均衡版Terra和轻量版Luna。Sol在编程、网络安全、生物学等多个基准测试刷新纪录。但因美国政府要求，现阶段仅向少数可信合作伙伴提供预览权限，暂未全面开放。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5936a3f1f4052552",
+    "source": "IT之家",
+    "slug": "openai-gpt-5-6-launch"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "黄仁勋:有用AI已能赚钱，英伟达计划回馈股东50%自由现金流",
+    "summary": "在英伟达2026年度股东大会上，黄仁勋释放明确信号:AI走出实验室验证阶段，迈向真实产业落地的生产周期。他提出「AI工厂」新叙事，并计划将50%自由现金流回馈股东，表明AI商业化进入盈利新阶段。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8056a3f2c1453452",
-    "source": "AI周报",
+    "source": "时代财经",
     "slug": "nvidia-huang-ai-profit-cash-return"
   },
   {
     "date": "2026-06-27",
-    "title": "苹果调整Mac芯片战略：跳过M5高端版，直接跃迁至M7",
-    "summary": "苹果正进行史上最大Mac芯片战略调整，跳过M5高端版本，下一代高端处理器直接跃迁至聚焦AI的M7系列。基础版M6计划最早今年推出，用于入门级Mac。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6456a3f227d30052",
-    "source": "彭博社",
-    "slug": "apple-mac-chip-m7-strategy-shift"
+    "title": "《人工智能 智能体互联》系列7项国家标准正式发布",
+    "summary": "国家市场监督管理总局发布《人工智能 智能体互联》系列7项国家标准，覆盖总体架构、身份码、身份管理、智能体描述、发现、交互、工具调用等核心环节，搭建起「身份标识-能力描述-供需发现-协同交互-工具调用」的全闭环标准规范体系。",
+    "url": "https://new.qq.com/rain/a/20260626A082H400",
+    "source": "市场监管总局",
+    "slug": "ai-agent-interconnection-national-standards"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "功率半导体再启阶梯式调价，AI算力集群功耗激增驱动涨价潮",
+    "summary": "由于AI算力集群功耗激增，功率半导体正成为存储之后的产业新增长引擎，行业再掀涨价潮。有厂商表示AI相关电源功率订单「爆满，根本做不过来」。立昂微、扬杰科技等国内厂商已发布10%-15%的价格上调通知。",
+    "url": "https://new.qq.com/rain/a/20260627A08MNG00",
+    "source": "科创板日报",
+    "slug": "power-semiconductor-price-hike-ai"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "智元机器人南昌工厂6天直播:8台精灵G2机器人覆盖质检全工段",
+    "summary": "6月23日至28日，智元机器人在南昌龙旗科技工厂进行为期6天的「进厂打工」直播，8台精灵G2机器人按早八晚七标准工时上岗，完整覆盖平板量产质检全工段，包括多媒体界面测试、音频测试、辐射杂散发射测试等多道高精度检测任务。",
+    "url": "https://new.qq.com/rain/a/20260627A03ZQL00",
+    "source": "观察者网",
+    "slug": "zhiyuan-robot-factory-livestream"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "苹果Vision Pro负责人Paul Meade离职，将加入OpenAI组建硬件部门",
+    "summary": "据媒体报道，苹果视觉产品业务副总裁Paul Meade将于下周离职加入OpenAI，负责组建OpenAI硬件部门并领导AI硬件设备研发。其2017年起执掌Vision Pro硬件工程，并领导智能眼镜项目。接任者为Vision Pro创始团队成员Fletcher Rothkopf。",
+    "url": "https://new.qq.com/rain/a/20260627A08NJO00",
+    "source": "科创板日报",
+    "slug": "apple-vision-pro-head-joins-openai"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "苹果上调iPad及Mac售价约20%，市值单日蒸发2630亿美元",
+    "summary": "因内存和存储芯片成本持续飙升，苹果宣布对MacBook和iPad等多款硬件产品实施全球提价，整体涨幅约20%。苹果市值单日蒸发2630亿美元，创史上第二大单日跌幅。苹果正游说美国政府以获准采购中国长鑫存储内存芯片缓解成本压力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4936a3fbecc91052",
+    "source": "澎湃新闻",
+    "slug": "apple-price-hike-ipad-mac"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "DeepSeek发布推理加速框架DSpark，梁文锋署名新论文",
+    "summary": "DeepSeek在GitHub发布最新论文，介绍推理加速框架DSpark，旨在解决大语言模型高并发场景下的推理效率瓶颈。该论文由DeepSeek与北京大学联合发布，创始人梁文锋位列作者名单。团队同步开源了DSpark模型权重及训练代码仓库DeepSpec。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2876a3fa6d321252",
+    "source": "DeepSeek",
+    "slug": "deepseek-dspark-inference-framework"
   },
   {
     "date": "2026-06-27",
     "title": "2026张江人工智能创新小镇生态日举办，打造AI原生产业新生态",
-    "summary": "以AI原生聚变新生为主题的2026张江人工智能创新小镇生态日在上海举行，发布小镇生态活动品牌体系，开展科创生态服务联盟授牌及科创企业赋能计划。",
+    "summary": "以「AI原生·聚变新生」为主题的2026张江人工智能创新小镇生态日在上海举行，发布小镇生态活动品牌体系，解读小镇IP「M」标识内涵，开展科创生态服务联盟授牌和科创企业赋能计划发布。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6466a3f97db38752",
     "source": "上海浦东",
     "slug": "zhangjiang-ai-innovation-town-2026"
   },
   {
     "date": "2026-06-27",
-    "title": "华东师范大学学报刊发多篇AI为第一作者的论文，引发热议",
-    "summary": "华东师范大学学报(教育科学版)将于8月刊出多篇由DeepSeek、Gemini等AI作为第一作者的论文，栏目为先锋论文选。期刊方表示这是一项社会实验，引发学界广泛讨论。",
+    "title": "华东师范大学学报刊发5篇AI为第一作者的论文，期刊方称为社会实验",
+    "summary": "《华东师范大学学报(教育科学版)》将于8月刊出5篇以DeepSeek、Gemini等AI为第一作者的论文，栏目为「先锋论文选」。期刊方表示这是一项社会实验，直面「当人类学者退居二作，科研范式重塑将何去何从」的命题。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3766a3f9e0134152",
     "source": "澎湃新闻",
     "slug": "journal-publishes-ai-first-author-papers"
   },
   {
     "date": "2026-06-27",
-    "title": "联想全栈Token方案亮相2026MWC上海，发布全球首款AI可信一体机",
-    "summary": "2026MWC上海展上，联想展示全栈Token产品与解决方案，包括天禧AI全场景智能产品、万全异构智算平台V5.0等，并发布全球首款AI可信一体机，推动AI智能体持证上岗。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9256a3f489694352",
-    "source": "联想",
-    "slug": "lenovo-full-stack-token-mwc-shanghai-2026"
+    "title": "SK海力士赴美上市倒计时，计划7月10日纳斯达克上市募资300亿美元",
+    "summary": "SK海力士预计于7月10日在纳斯达克发行美国存托凭证，计划筹集近300亿美元，有望成为史上规模最大的ADR发行之一。市场预计此举将扩大其全球投资者基础并推动估值重估，多家资产管理公司预计未来一年股价有30%上涨空间。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8056a3f2c1453452",
+    "source": "AI周报",
+    "slug": "sk-hynix-nasdaq-ipo"
   },
   {
-    "date": "2026-06-27",
-    "title": "中国超算灵晟重夺世界第一：华为鲲鹏架构纯CPU突破2Exaflop/s",
-    "summary": "基于华为鲲鹏架构的中国超算灵晟重夺世界第一，实测持续性能达2.198Exaflop/s，成为首台突破2Exaflop/s的超算系统。采用100%全液冷散热，搭载国产LX2处理器。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4816a3f4c0e08852",
-    "source": "科技日报",
-    "slug": "china-supercomputer-lingsheng-world-first"
-  },
-  {
-    "date": "2026-06-27",
-    "title": "Google DeepMind发布From AGI to ASI报告，推演通用到超级智能路线",
-    "summary": "DeepMind发布From AGI to ASI报告，预设AGI已实现。报告从算力增速切入，指出有效算力年增约十倍，一亿个通用智能协同工作本身即可构成超级智能。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4696a3f4c8648952",
-    "source": "Google DeepMind",
-    "slug": "deepmind-agi-to-asi-report"
-  },
-  {
-    "date": "2026-06-27",
-    "title": "优必选人形机器人U1开启预售，10天预订量突破5000台",
-    "summary": "优必选旗下消费级品牌优世界人形机器人U1在京东和天猫同步开启预售，10天预订量逼近4000台，累计超5000台。核心技术MWA采用隐空间世界模型，突破传统视觉感知局限。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4986a3f851e58652",
-    "source": "36氪",
-    "slug": "ubtech-humanoid-robot-u1-pre-sale"
-  },
-  {
-    "date": "2026-06-27",
-    "title": "2026南京软件大会开幕：聚焦AI引领软件产业数智化变革",
-    "summary": "以AI引领软件产业数智化变革为主题的2026南京软件大会开幕，聚焦AI产业化、自主工业软件、鸿蒙、开源生态等领域，构建覆盖芯片-算子-框架-模型-应用全链条验证体系。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9576a3f617336652",
-    "source": "南京日报",
-    "slug": "nanjing-software-conference-2026-ai"
-  },
-  {
-    "date": "2026-06-27",
-    "title": "商汤科技入选2026年生成式AI计算机视觉前沿技术创新者",
-    "summary": "上海徐汇本土企业商汤科技成功入选2026年生成式AI计算机视觉前沿技术创新者榜单，是仅有的两家中国厂商之一，彰显中国AI企业在全球计算机视觉领域的技术创新实力。",
-    "url": "http://www.xuhui.gov.cn/xwzx/",
-    "source": "徐汇区政府",
-    "slug": "sensetime-genai-computer-vision-top-innovator"
-  },
-  {
-    "date": "2026-06-27",
-    "title": "字节跳动发布Seedance 2.5：AI视频生成时长翻倍至30秒",
-    "summary": "字节跳动发布AI视频工具Seedance 2.5，单次生成时长翻倍至30秒，支持50份全模态参考素材，显著提升人物与风格一致性，新增局部编辑功能。",
-    "url": "https://www.chinaz.com/",
-    "source": "站长之家",
-    "slug": "bytedance-seedance-2-5-video-ai"
+    "date": "2026-06-28",
+    "title": "华为中国行2026·新疆人工智能产业峰会在乌鲁木齐成功举办",
+    "summary": "以「数智天山 算赢未来」为主题的华为中国行2026·新疆人工智能+产业峰会在乌鲁木齐举行，200余位嘉宾齐聚。峰会通过主题演讲、高端对话和沉浸展台形式，展示人工智能与行业深度融合的前沿成果，推动新疆特色产业高质量发展。",
+    "url": "https://new.qq.com/rain/a/20260628A01FSE00",
+    "source": "腾讯网",
+    "slug": "huawei-xinjiang-ai-summit-2026"
   }
 ]
