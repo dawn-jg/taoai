@@ -1,114 +1,122 @@
 [
   {
-    "date": "2026-06-26",
-    "title": "英伟达股东大会：黄仁勋宣告AI工厂时代来临",
-    "summary": "英伟达年度股东大会上，黄仁勋提出AI工厂新概念——客户买的不是计算工具，而是在建能直接创收的AI工厂。Blackwell平台Token吞吐量比次优平台高30倍，Vera Rubin平台全面量产。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8826a3deae118952",
+    "date": "2026-06-27",
+    "title": "美国企业加速部署AI：调查显示AI应用从试点过渡到生产阶段",
+    "summary": "加拿大皇家银行资本市场最新研究显示，企业对AI投入巨大且意愿持续增长。超半数受访者表示AI已投入生产，另有35%预计六个月内实现生产，AI应用正从试点阶段全面过渡到生产阶段。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2636a3f384b26552",
+    "source": "财联社",
+    "slug": "us-ai-production-survey"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "企业服务日报：联想全栈Token方案闪耀2026MWC上海",
+    "summary": "联想在2026世界移动通信大会上展示全栈Token产品与方案，包括天禧AI全场景智能产品、万全异构智算平台V5.0，并与中国移动芯昇科技、熠序科技联合发布全球首款AI可信一体机。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9256a3f489694352",
     "source": "企鹅号",
-    "slug": "nvidia-ai-factory-era"
+    "slug": "lenovo-mwc-shanghai-2026"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "字节跳动豆包大模型2.1 Pro发布：Coding与Agent能力达生产级",
+    "summary": "火山引擎正式发布豆包大模型2.1 Pro，在Coding、Agent、VLM三大核心方向实现能力跃升。Terminal Bench编程评测接近Claude Opus 4.7，SciCode科学计算得分超越Opus 4.7和GPT-5.5。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6686a3f36af17265",
+    "source": "企鹅号",
+    "slug": "doubao-2-1-pro-production-grade"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "4SAPI企业级AI集成网关正式上线，助力企业AI规模化落地",
+    "summary": "面向企业级市场的大模型集成网关服务商4SAPI宣布全新企业版平台正式上线，解决多模型统一接入和高效调度的工程挑战，助力企业AI规模化落地。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5396a3f454777752",
+    "source": "企鹅号",
+    "slug": "4sapi-enterprise-ai-gateway"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "第四届链博会首设人工智能专区，228家全球企业参展",
+    "summary": "6月22日至26日在北京举办的第四届链博会首次设立AI专区，原「数字科技链」升级为「数智科技链」。英伟达、高通、英特尔等中外AI领军企业集中展示从数据采集到场景落地的完整生态。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0856a3f3b5373365",
+    "source": "企鹅号",
+    "slug": "chain-expo-first-ai-zone"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "联想AI技术全方位赋能2026世界杯，3D数字人方案覆盖全部1263名球员",
+    "summary": "联想作为FIFA官方技术合作伙伴，为2026世界杯部署Football AI Pro超级智能体、VAR 3D数字人可视化方案、裁判视角AI视频增强系统等，覆盖48支球队全部1263名球员的3D数字建模。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7646a3f382570365",
+    "source": "企鹅号",
+    "slug": "lenovo-ai-world-cup-2026"
   },
   {
     "date": "2026-06-26",
     "title": "深度赋能：垂直领域AI应用走向规模化",
-    "summary": "夏季达沃斯论坛在大连闭幕，AI成为最热门话题。与会人士表示AI正在工业制造、医疗、能源等垂直领域加速落地，赋能实体经济发展。",
+    "summary": "夏季达沃斯论坛大连闭幕，AI成最热门话题。世界经济论坛AI卓越中心总负责人李响表示，AI将成为贯穿实体经济的重要底层能力，先进制造、能源电力、医疗健康最具创新潜力。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7446a3e4bee58152",
     "source": "企鹅号",
-    "slug": "davos-vertical-ai-scaling"
+    "slug": "davos-ai-vertical-scaling"
   },
   {
     "date": "2026-06-26",
-    "title": "从链博会看AI产业发展新趋势",
-    "summary": "第四届链博会上，AI实时翻译眼镜、脑起搏器康复设备、无人驾驶汽车等应用场景亮相。多家企业表示将深耕中国供应链，共同拥抱AI新机遇。",
+    "title": "从链博会看AI产业发展新趋势：物理AI走向真实社会",
+    "summary": "新华社报道，第四届链博会展示了AI眼镜、脑起搏器、无人驾驶汽车等应用。英伟达及生态合作伙伴展示具身智能，AI已从技术变量升维为产业底层操作系统。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4216a3e445175652",
     "source": "新华社/中国经济信息社",
-    "slug": "chain-expo-ai-trends"
+    "slug": "chain-expo-physical-ai"
   },
   {
     "date": "2026-06-26",
     "title": "Soul App正式成立人工智能伦理与治理委员会",
-    "summary": "Soul App成立人工智能伦理与治理委员会，特邀高校及专业机构权威专家学者担任外部委员，探索系统性与实用性兼备的AI生态治理方案。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2676a3e489353952",
-    "source": "企鹅号",
-    "slug": "soul-ai-ethics-committee"
-  },
-  {
-    "date": "2026-06-26",
-    "title": "科大讯飞发布招采全链路AI智能体平台",
-    "summary": "科大讯飞推出招采全链路AI智能体平台，响应八部门关于加快招标投标领域人工智能推广应用的实施意见，推动招标文件检测、智能辅助评标等场景应用。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6586a3e478e33852",
-    "source": "企鹅号",
-    "slug": "iflytek-ai-procurement"
-  },
-  {
-    "date": "2026-06-26",
-    "title": "台积电预计全球半导体市场今年突破1万亿美元",
-    "summary": "台积电闭门会坚定业界AI信仰，HBM4量产爬坡速度达前代两倍，累计出货收入破10亿美元。人形机器人存储需求约为L2+自动驾驶汽车十倍。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7226a3df81d17052",
-    "source": "企鹅号",
-    "slug": "tsmc-semiconductor-1-trillion"
-  },
-  {
-    "date": "2026-06-26",
-    "title": "北京头部大模型累计注册用户达20.5亿",
-    "summary": "北京推进242款大模型备案上线，数量全国第一。头部大模型累计注册用户20.5亿，面向全国近5万家机构提供API接口服务。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7496a3de08653652",
-    "source": "企鹅号",
-    "slug": "beijing-ai-users-2-billion"
-  },
-  {
-    "date": "2026-06-26",
-    "title": "OpenAI与博通联合发布首款定制AI芯片Jalapeño",
-    "summary": "OpenAI与博通联合发布首款定制芯片Jalapeño，专为大语言模型推理设计的ASIC专用集成电路，旨在提升AI运行速度与可靠性并降低使用门槛。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2976a3e567c95752",
-    "source": "企鹅号",
-    "slug": "openai-broadcom-ai-chip"
+    "summary": "6月23日，Soul App成立人工智能伦理与治理委员会，汇聚互联网治理、伦理学、社会学、法律等领域外部委员，涵盖AI伦理战略制定、产品前置评估、风险事件闭环管理等职能。",
+    "url": "https://new.qq.com/rain/a/20260626A08HD100",
+    "source": "腾讯网",
+    "slug": "soul-ai-ethics-governance"
   },
   {
     "date": "2026-06-26",
     "title": "2026世界人工智能大会前瞻：民用AI走向便民普惠新阶段",
-    "summary": "2026世界人工智能大会定于7月在上海举办，聚焦居家康养AI、文旅便民AI、校园轻量化AI、无障碍民生AI四大赛道，将发布多款平价民用智能设备。",
+    "summary": "2026世界人工智能大会定于7月17日至20日在上海举办，聚焦居家康养AI、文旅便民AI、校园轻量化AI、无障碍民生AI四大赛道，将全球首发多款平价民用智能设备。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9056a3e8e3c10952",
     "source": "企鹅号",
-    "slug": "waic-2026-civil-ai"
+    "slug": "waic-2026-civilian-ai"
   },
   {
     "date": "2026-06-26",
-    "title": "CS人工智能指数逆市大涨，AI算力与大模型落地加速",
-    "summary": "6月25日CS人工智能指数收报7488.84点，单日上涨3.42%。6月国产大模型迎多项进展：智谱GLM-5.2、豆包2.1、华为盘古5.5相继发布。中科曙光超算系统登顶全球TOP500。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4576a3e475e95252",
-    "source": "企鹅号",
-    "slug": "cs-ai-index-surge"
+    "title": "商汤科技获Gartner认证为全球生成式AI计算机视觉前沿技术创新者",
+    "summary": "Gartner发布视觉AI专题报告，商汤科技入选2026年生成式AI计算机视觉「前沿技术创新者」，为该类别仅有的两家中国厂商之一，标志着商汤推动视觉AI向视觉智能体演进获全球认可。",
+    "url": "https://new.qq.com/rain/a/20260625A06RKB00",
+    "source": "腾讯网",
+    "slug": "sensetime-gartner-genai-vision"
   },
   {
     "date": "2026-06-26",
-    "title": "科大讯飞星火四款新品驱动企业全链路智能化",
-    "summary": "科大讯飞推出星火营销助理、AI企业风控官、智能语音及智能推理平台四款企业级AI新品，针对客户经营低效、经验驱动风控等难题逐一破解。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2896a3dd9fc25052",
+    "title": "法国科技创新展聚焦人工智能工业应用",
+    "summary": "第十届法国科技创新展VivaTech在巴黎举办，聚焦AI从消费端向工业实体场景落地。道达尔能源部署超1.3万个AI传感器，西门子展示「Eigen」工程代理，可提升工程效率50%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5956a3e099c97952",
     "source": "企鹅号",
-    "slug": "iflytek-spark-4-products"
+    "slug": "vivatech-ai-industrial"
   },
   {
     "date": "2026-06-26",
-    "title": "豆包大模型2.1跨越质变点，AI生产力大爆发",
-    "summary": "火山引擎发布豆包大模型2.1系列，在Coding、Agent、VLM三大方向突破生产级质变点。火山引擎总裁谭待表示在Coding和Agent能力方面终于可以上桌了。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6396a3e52c409152",
-    "source": "企鹅号",
-    "slug": "doubao-2-1-breakthrough"
+    "title": "上半年AI热钱涌动，张江AI小镇生态日聚焦资本与产业融合",
+    "summary": "2026张江人工智能创新小镇生态日在上海举行，主题为「AI原生·聚变新生」。国资基金积极布局AI产业，大会发布科创生态服务联盟及科创企业赋能计划。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1286a3e952801552",
+    "source": "科创板日报",
+    "slug": "zhangjiang-ai-town-capital"
   },
   {
     "date": "2026-06-26",
-    "title": "AI重塑钢铁全产业链，南钢元冶落地200余项工业大模型应用",
-    "summary": "南钢以元冶钢铁大模型集群为核心，建成覆盖钢铁全流程的智能体矩阵，关键设备数字化率100%，生产能效提升5至10倍，研发周期缩短50%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6556a3e2f2a31652",
-    "source": "企鹅号",
-    "slug": "nangang-steel-ai-models"
+    "title": "联想联合中国移动芯昇科技等发布全球首款AI可信一体机",
+    "summary": "2026 MWC上海期间，联想联合中国移动芯昇科技、熠序科技发布全球首款AI可信一体机，以AI-eSIM芯片为国密安全锚点，为智能体签发硬件级可信身份凭证，单节点可搭载40张GPU。",
+    "url": "https://new.qq.com/rain/a/20260626A06Q2D00",
+    "source": "腾讯网/钛媒体",
+    "slug": "lenovo-ai-trusted-all-in-one"
   },
   {
-    "date": "2026-06-26",
-    "title": "今年最大AI基金诞生：阿布扎比MGX募集近500亿美元",
-    "summary": "阿布扎比科技投资公司MGX已募集近500亿美元，成为今年规模最大的AI投资基金。同期Menlo Ventures也募集了创纪录的30亿美元，ALL in AI。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2606a3df81563252",
+    "date": "2026-06-25",
+    "title": "2026全球数字经济大会7月2日启幕，人形机器人与世界模型集中亮相",
+    "summary": "2026全球数字经济大会将于7月2日在北京国家会议中心开幕，主题为「建设数字友好城市」。大会将密集推出近20项行业规则标准，并发布世界模型、人形机器人等一批新技术新产品。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2756a3d0c5d00652",
     "source": "企鹅号",
-    "slug": "mgx-50b-ai-fund"
+    "slug": "global-digital-economy-2026"
   }
 ]
