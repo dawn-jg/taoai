@@ -2,121 +2,121 @@
   {
     "date": "2026-06-27",
     "title": "美国企业加速部署AI：调查显示AI应用从试点过渡到生产阶段",
-    "summary": "加拿大皇家银行资本市场最新研究显示，企业对AI投入巨大且意愿持续增长。超半数受访者表示AI已投入生产，另有35%预计六个月内实现生产，AI应用正从试点阶段全面过渡到生产阶段。",
+    "summary": "加拿大皇家银行资本市场最新研究显示，超半数受访企业已将AI投入生产，另有35%预计六个月内实现生产。分析师Rishi Jaluria对2026下半年AI支出势头感到鼓舞，AI应用正从试点全面过渡到生产阶段。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2636a3f384b26552",
     "source": "财联社",
-    "slug": "us-ai-production-survey"
+    "slug": "us-enterprise-ai-production-transition"
   },
   {
     "date": "2026-06-27",
-    "title": "企业服务日报：联想全栈Token方案闪耀2026MWC上海",
-    "summary": "联想在2026世界移动通信大会上展示全栈Token产品与方案，包括天禧AI全场景智能产品、万全异构智算平台V5.0，并与中国移动芯昇科技、熠序科技联合发布全球首款AI可信一体机。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9256a3f489694352",
-    "source": "企鹅号",
-    "slug": "lenovo-mwc-shanghai-2026"
+    "title": "微信AI助手小微开启内测：自研WeLM模型+DeepSeek双引擎",
+    "summary": "微信原生AI助手小微正式开启小范围测试，驻留主界面左上角。主模型为微信自研中文大模型WeLM，部分调用DeepSeek回答，支持文字/语音对话、操作原生功能、调起小程序服务。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7006a3f3ffb62352",
+    "source": "腾讯科技",
+    "slug": "wechat-xiaowei-ai-assistant-beta"
   },
   {
     "date": "2026-06-27",
-    "title": "字节跳动豆包大模型2.1 Pro发布：Coding与Agent能力达生产级",
-    "summary": "火山引擎正式发布豆包大模型2.1 Pro，在Coding、Agent、VLM三大核心方向实现能力跃升。Terminal Bench编程评测接近Claude Opus 4.7，SciCode科学计算得分超越Opus 4.7和GPT-5.5。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6686a3f36af17265",
-    "source": "企鹅号",
-    "slug": "doubao-2-1-pro-production-grade"
-  },
-  {
-    "date": "2026-06-27",
-    "title": "4SAPI企业级AI集成网关正式上线，助力企业AI规模化落地",
-    "summary": "面向企业级市场的大模型集成网关服务商4SAPI宣布全新企业版平台正式上线，解决多模型统一接入和高效调度的工程挑战，助力企业AI规模化落地。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5396a3f454777752",
-    "source": "企鹅号",
-    "slug": "4sapi-enterprise-ai-gateway"
-  },
-  {
-    "date": "2026-06-27",
-    "title": "第四届链博会首设人工智能专区，228家全球企业参展",
-    "summary": "6月22日至26日在北京举办的第四届链博会首次设立AI专区，原「数字科技链」升级为「数智科技链」。英伟达、高通、英特尔等中外AI领军企业集中展示从数据采集到场景落地的完整生态。",
+    "title": "第四届链博会首次设立人工智能专区，228家企业参展",
+    "summary": "6月22日至26日在北京举办的第四届链博会上，数字科技链升级为数智科技链并首次设立AI专区。58个展位汇聚228家全球企业，英伟达携110余家合作伙伴组团参展，集中展示近百项前沿AI落地成果。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0856a3f3b5373365",
-    "source": "企鹅号",
-    "slug": "chain-expo-first-ai-zone"
+    "source": "新华社",
+    "slug": "chain-expo-ai-zone-2026"
   },
   {
-    "date": "2026-06-26",
-    "title": "联想AI技术全方位赋能2026世界杯，3D数字人方案覆盖全部1263名球员",
-    "summary": "联想作为FIFA官方技术合作伙伴，为2026世界杯部署Football AI Pro超级智能体、VAR 3D数字人可视化方案、裁判视角AI视频增强系统等，覆盖48支球队全部1263名球员的3D数字建模。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7646a3f382570365",
-    "source": "企鹅号",
-    "slug": "lenovo-ai-world-cup-2026"
+    "date": "2026-06-27",
+    "title": "字节跳动发布豆包大模型2.1 Pro，编程与Agent能力大幅提升",
+    "summary": "字节跳动火山引擎在Force原动力大会上发布豆包大模型2.1 Pro，需求理解、长期规划和工程交付能力显著增强，编程及Agent能力大幅提升，性能跻身全球前列。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8056a3f2c1453452",
+    "source": "火山引擎",
+    "slug": "bytedance-doubao-2-1-pro"
   },
   {
-    "date": "2026-06-26",
-    "title": "深度赋能：垂直领域AI应用走向规模化",
-    "summary": "夏季达沃斯论坛大连闭幕，AI成最热门话题。世界经济论坛AI卓越中心总负责人李响表示，AI将成为贯穿实体经济的重要底层能力，先进制造、能源电力、医疗健康最具创新潜力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7446a3e4bee58152",
-    "source": "企鹅号",
-    "slug": "davos-ai-vertical-scaling"
+    "date": "2026-06-27",
+    "title": "黄仁勋：有用AI已能赚钱，英伟达计划回馈股东50%自由现金流",
+    "summary": "英伟达CEO黄仁勋表示有用的AI已经能赚钱了，并宣布计划将50%自由现金流回馈股东。英伟达持续看好AI产业商业化前景，推动AI从投入期进入盈利期。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8056a3f2c1453452",
+    "source": "AI周报",
+    "slug": "nvidia-huang-ai-profit-cash-return"
   },
   {
-    "date": "2026-06-26",
-    "title": "从链博会看AI产业发展新趋势：物理AI走向真实社会",
-    "summary": "新华社报道，第四届链博会展示了AI眼镜、脑起搏器、无人驾驶汽车等应用。英伟达及生态合作伙伴展示具身智能，AI已从技术变量升维为产业底层操作系统。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4216a3e445175652",
-    "source": "新华社/中国经济信息社",
-    "slug": "chain-expo-physical-ai"
+    "date": "2026-06-27",
+    "title": "苹果调整Mac芯片战略：跳过M5高端版，直接跃迁至M7",
+    "summary": "苹果正进行史上最大Mac芯片战略调整，跳过M5高端版本，下一代高端处理器直接跃迁至聚焦AI的M7系列。基础版M6计划最早今年推出，用于入门级Mac。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6456a3f227d30052",
+    "source": "彭博社",
+    "slug": "apple-mac-chip-m7-strategy-shift"
   },
   {
-    "date": "2026-06-26",
-    "title": "Soul App正式成立人工智能伦理与治理委员会",
-    "summary": "6月23日，Soul App成立人工智能伦理与治理委员会，汇聚互联网治理、伦理学、社会学、法律等领域外部委员，涵盖AI伦理战略制定、产品前置评估、风险事件闭环管理等职能。",
-    "url": "https://new.qq.com/rain/a/20260626A08HD100",
-    "source": "腾讯网",
-    "slug": "soul-ai-ethics-governance"
+    "date": "2026-06-27",
+    "title": "2026张江人工智能创新小镇生态日举办，打造AI原生产业新生态",
+    "summary": "以AI原生聚变新生为主题的2026张江人工智能创新小镇生态日在上海举行，发布小镇生态活动品牌体系，开展科创生态服务联盟授牌及科创企业赋能计划。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6466a3f97db38752",
+    "source": "上海浦东",
+    "slug": "zhangjiang-ai-innovation-town-2026"
   },
   {
-    "date": "2026-06-26",
-    "title": "2026世界人工智能大会前瞻：民用AI走向便民普惠新阶段",
-    "summary": "2026世界人工智能大会定于7月17日至20日在上海举办，聚焦居家康养AI、文旅便民AI、校园轻量化AI、无障碍民生AI四大赛道，将全球首发多款平价民用智能设备。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9056a3e8e3c10952",
-    "source": "企鹅号",
-    "slug": "waic-2026-civilian-ai"
+    "date": "2026-06-27",
+    "title": "华东师范大学学报刊发多篇AI为第一作者的论文，引发热议",
+    "summary": "华东师范大学学报(教育科学版)将于8月刊出多篇由DeepSeek、Gemini等AI作为第一作者的论文，栏目为先锋论文选。期刊方表示这是一项社会实验，引发学界广泛讨论。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3766a3f9e0134152",
+    "source": "澎湃新闻",
+    "slug": "journal-publishes-ai-first-author-papers"
   },
   {
-    "date": "2026-06-26",
-    "title": "商汤科技获Gartner认证为全球生成式AI计算机视觉前沿技术创新者",
-    "summary": "Gartner发布视觉AI专题报告，商汤科技入选2026年生成式AI计算机视觉「前沿技术创新者」，为该类别仅有的两家中国厂商之一，标志着商汤推动视觉AI向视觉智能体演进获全球认可。",
-    "url": "https://new.qq.com/rain/a/20260625A06RKB00",
-    "source": "腾讯网",
-    "slug": "sensetime-gartner-genai-vision"
+    "date": "2026-06-27",
+    "title": "联想全栈Token方案亮相2026MWC上海，发布全球首款AI可信一体机",
+    "summary": "2026MWC上海展上，联想展示全栈Token产品与解决方案，包括天禧AI全场景智能产品、万全异构智算平台V5.0等，并发布全球首款AI可信一体机，推动AI智能体持证上岗。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9256a3f489694352",
+    "source": "联想",
+    "slug": "lenovo-full-stack-token-mwc-shanghai-2026"
   },
   {
-    "date": "2026-06-26",
-    "title": "法国科技创新展聚焦人工智能工业应用",
-    "summary": "第十届法国科技创新展VivaTech在巴黎举办，聚焦AI从消费端向工业实体场景落地。道达尔能源部署超1.3万个AI传感器，西门子展示「Eigen」工程代理，可提升工程效率50%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5956a3e099c97952",
-    "source": "企鹅号",
-    "slug": "vivatech-ai-industrial"
+    "date": "2026-06-27",
+    "title": "中国超算灵晟重夺世界第一：华为鲲鹏架构纯CPU突破2Exaflop/s",
+    "summary": "基于华为鲲鹏架构的中国超算灵晟重夺世界第一，实测持续性能达2.198Exaflop/s，成为首台突破2Exaflop/s的超算系统。采用100%全液冷散热，搭载国产LX2处理器。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4816a3f4c0e08852",
+    "source": "科技日报",
+    "slug": "china-supercomputer-lingsheng-world-first"
   },
   {
-    "date": "2026-06-26",
-    "title": "上半年AI热钱涌动，张江AI小镇生态日聚焦资本与产业融合",
-    "summary": "2026张江人工智能创新小镇生态日在上海举行，主题为「AI原生·聚变新生」。国资基金积极布局AI产业，大会发布科创生态服务联盟及科创企业赋能计划。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1286a3e952801552",
-    "source": "科创板日报",
-    "slug": "zhangjiang-ai-town-capital"
+    "date": "2026-06-27",
+    "title": "Google DeepMind发布From AGI to ASI报告，推演通用到超级智能路线",
+    "summary": "DeepMind发布From AGI to ASI报告，预设AGI已实现。报告从算力增速切入，指出有效算力年增约十倍，一亿个通用智能协同工作本身即可构成超级智能。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4696a3f4c8648952",
+    "source": "Google DeepMind",
+    "slug": "deepmind-agi-to-asi-report"
   },
   {
-    "date": "2026-06-26",
-    "title": "联想联合中国移动芯昇科技等发布全球首款AI可信一体机",
-    "summary": "2026 MWC上海期间，联想联合中国移动芯昇科技、熠序科技发布全球首款AI可信一体机，以AI-eSIM芯片为国密安全锚点，为智能体签发硬件级可信身份凭证，单节点可搭载40张GPU。",
-    "url": "https://new.qq.com/rain/a/20260626A06Q2D00",
-    "source": "腾讯网/钛媒体",
-    "slug": "lenovo-ai-trusted-all-in-one"
+    "date": "2026-06-27",
+    "title": "优必选人形机器人U1开启预售，10天预订量突破5000台",
+    "summary": "优必选旗下消费级品牌优世界人形机器人U1在京东和天猫同步开启预售，10天预订量逼近4000台，累计超5000台。核心技术MWA采用隐空间世界模型，突破传统视觉感知局限。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4986a3f851e58652",
+    "source": "36氪",
+    "slug": "ubtech-humanoid-robot-u1-pre-sale"
   },
   {
-    "date": "2026-06-25",
-    "title": "2026全球数字经济大会7月2日启幕，人形机器人与世界模型集中亮相",
-    "summary": "2026全球数字经济大会将于7月2日在北京国家会议中心开幕，主题为「建设数字友好城市」。大会将密集推出近20项行业规则标准，并发布世界模型、人形机器人等一批新技术新产品。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2756a3d0c5d00652",
-    "source": "企鹅号",
-    "slug": "global-digital-economy-2026"
+    "date": "2026-06-27",
+    "title": "2026南京软件大会开幕：聚焦AI引领软件产业数智化变革",
+    "summary": "以AI引领软件产业数智化变革为主题的2026南京软件大会开幕，聚焦AI产业化、自主工业软件、鸿蒙、开源生态等领域，构建覆盖芯片-算子-框架-模型-应用全链条验证体系。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9576a3f617336652",
+    "source": "南京日报",
+    "slug": "nanjing-software-conference-2026-ai"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "商汤科技入选2026年生成式AI计算机视觉前沿技术创新者",
+    "summary": "上海徐汇本土企业商汤科技成功入选2026年生成式AI计算机视觉前沿技术创新者榜单，是仅有的两家中国厂商之一，彰显中国AI企业在全球计算机视觉领域的技术创新实力。",
+    "url": "http://www.xuhui.gov.cn/xwzx/",
+    "source": "徐汇区政府",
+    "slug": "sensetime-genai-computer-vision-top-innovator"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "字节跳动发布Seedance 2.5：AI视频生成时长翻倍至30秒",
+    "summary": "字节跳动发布AI视频工具Seedance 2.5，单次生成时长翻倍至30秒，支持50份全模态参考素材，显著提升人物与风格一致性，新增局部编辑功能。",
+    "url": "https://www.chinaz.com/",
+    "source": "站长之家",
+    "slug": "bytedance-seedance-2-5-video-ai"
   }
 ]
