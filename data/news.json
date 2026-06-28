@@ -1,122 +1,122 @@
 [
-    {
-        "slug":  "us-lifts-anthropic-claude-mythos5-export-restrictions",
-        "source":  "华尔街见闻",
-        "date":  "2026-06-28",
-        "summary":  "美国商务部长卢特尼克致函Anthropic，宣布解除对Claude Mythos 5模型的出口限制，允许超过100家获政府批准的企业和联邦机构访问该模型，标志着双方两周对峙以来最重大的缓和。",
-        "title":  "美国放行Anthropic最强模型Claude Mythos 5，超100家机构获准使用",
-        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_9236a3f1c5d43052"
-    },
-    {
-        "slug":  "openai-gpt-5-6-series-launch",
-        "source":  "IT之家",
-        "date":  "2026-06-28",
-        "summary":  "OpenAI发布GPT-5.6系列模型，包括旗舰版Sol、均衡版Terra和轻量版Luna。Sol在编程、网络安全、生物学等多个基准测试刷新纪录，但因美国政府要求仅向少数可信合作伙伴提供预览权限。",
-        "title":  "OpenAI推出GPT-5.6系列三款模型，仅向少数合作伙伴开放预览",
-        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_5936a3f1f4052552"
-    },
-    {
-        "slug":  "deepseek-dspark-inference-framework",
-        "source":  "东方财富网",
-        "date":  "2026-06-27",
-        "summary":  "DeepSeek在GitHub发布最新论文，介绍推理加速框架DSpark，旨在解决大语言模型高并发场景下的推理效率瓶颈。论文由DeepSeek与北京大学联合发布，创始人梁文锋位列作者名单，团队同步开源了DSpark模型权重及训练代码库DeepSpec。",
-        "title":  "DeepSeek发布推理加速框架DSpark，梁文锋署名新论文",
-        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_2876a3fa6d321252"
-    },
-    {
-        "slug":  "kunlun-agi-family-zhongguancun-forum",
-        "source":  "腾讯网",
-        "date":  "2026-06-28",
-        "summary":  "昆仑万维旗下天工AI举办发布会，携Matrix-Game 3.0、SkyReels V4、Mureka V9三大核心模型亮相，正式宣告三大模型均跻身世界第一梯队。同时发布2026 AGI战略，目标打造AI经济平台。",
-        "title":  "昆仑万维携AIGC全家桶亮相中关村论坛，三大模型跻身世界第一梯队",
-        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_44269c9e07822752"
-    },
-    {
-        "slug":  "zhangjiang-ai-innovation-town-2026",
-        "source":  "上海浦东",
-        "date":  "2026-06-27",
-        "summary":  "以\u0027AI原生·聚变新生\u0027为主题的2026张江人工智能创新小镇生态日在上海举行，系统发布小镇生态活动品牌体系，解读小镇IP\u0027M\u0027标识内涵，同步开展科创生态服务联盟授牌、科创企业赋能计划发布仪式。",
-        "title":  "2026张江人工智能创新小镇生态日举办，打造AI原生产业新生态",
-        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_6466a3f97db38752"
-    },
-    {
-        "slug":  "huawei-agent-internet-core-competitiveness",
-        "source":  "中国基金报",
-        "date":  "2026-06-28",
-        "summary":  "在华为联合中国电信主办的论坛上，华为指出当前AI产业正式迈入规模化落地阶段。智能体、多模态应用爆发催生海量双向实时Token交互场景，对网络上行带宽、毫秒级时延、全链路可靠性提出严苛标准。",
-        "title":  "华为预判智能体互联网为核心竞争力，AI产业迈入规模化落地阶段",
-        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_7906a40979786752"
-    },
-    {
-        "slug":  "china-ai-global-competition-wapo",
-        "source":  "腾讯网",
-        "date":  "2026-06-28",
-        "summary":  "美国《华盛顿邮报》发文称，中国人工智能企业正凭借更低的成本与足够好用的模型，在全球范围内实现更广泛的普及。这种差异化竞争路线或助力中国企业在人工智能竞赛中取得后来居上的胜利。",
-        "title":  "中国企业正改写全球AI竞争格局，华盛顿邮报关注中国差异化路线",
-        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_5796a40600457852"
-    },
-    {
-        "slug":  "huawei-xinjiang-ai-summit",
-        "source":  "腾讯网",
-        "date":  "2026-06-27",
-        "summary":  "以\u0027数智天山 算赢未来\u0027为主题的华为中国行2026·新疆人工智能+产业峰会在乌鲁木齐举办，200余位嘉宾齐聚。峰会通过主题演讲、高端对话和沉浸展台形式，展示人工智能与行业深度融合的前沿成果。",
-        "title":  "华为中国行2026·新疆人工智能产业峰会在乌鲁木齐成功举办",
-        "url":  "https://new.qq.com/rain/a/20260628A01FSE00"
-    },
-    {
-        "slug":  "ai-agent-interconnection-national-standards",
-        "source":  "国家市场监督管理总局",
-        "date":  "2026-06-26",
-        "summary":  "国家市场监督管理总局发布《人工智能 智能体互联》系列7项国家标准，覆盖总体架构、身份码、身份管理、智能体描述、发现、交互、工具调用等核心环节，建立全闭环标准规范体系。",
-        "title":  "《人工智能 智能体互联》系列7项国家标准正式发布",
-        "url":  "https://new.qq.com/rain/a/20260626A082H400"
-    },
-    {
-        "slug":  "xinhua-yudian-ai-agent-launch",
-        "source":  "新华社",
-        "date":  "2026-06-26",
-        "summary":  "新华社正式发布权威AI时政资讯智能体\u0027新华语典\u0027，基于新华社数据和模型技术，搭建智能问答、订阅推送、知识库、智能体广场四大功能模块，围绕学思想、找源头、推新闻、问新闻等七大核心功能构建智能化理论服务体系。",
-        "title":  "新华社发布权威AI时政资讯智能体\u0027新华语典\u0027",
-        "url":  "https://new.qq.com/rain/a/20260627A01Z5100"
-    },
-    {
-        "slug":  "nanjing-software-conference-2026-ai",
-        "source":  "腾讯网",
-        "date":  "2026-06-27",
-        "summary":  "以\u0027AI引领软件产业数智化变革\u0027为主题的2026南京软件大会开幕，聚焦软件产业智能化、自主工业软件、鸿蒙、开源生态等领域。工信部数据显示2025年全国软件业务收入15.48万亿元，同比增长13.2%。",
-        "title":  "2026南京软件大会举行，聚焦\u0027AI引领软件产业数智化变革\u0027",
-        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_9576a3f617336652"
-    },
-    {
-        "slug":  "ai-reshaping-software-industry",
-        "source":  "腾讯网",
-        "date":  "2026-06-28",
-        "summary":  "在2026南京软件大会上，一批院士专家、部委机构、龙头企业紧扣\u0027人工智能+软件\u0027国家专项行动，同台研判行业变局。工业和信息化部数据显示2025年全国软件业务收入达15.48万亿元。",
-        "title":  "人工智能正在重构软件产业，院士专家研判行业变局",
-        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_5896a4080c613952"
-    },
-    {
-        "slug":  "chongqing-ai-innovation-ecology-conference",
-        "source":  "腾讯网",
-        "date":  "2026-06-27",
-        "summary":  "2026国际创新创业创意生态大会暨通用人工智能\u0027满天星\u0027挑战赛启动会在重庆人工智能湾区开幕，汇聚产业人才、龙头企业、创业导师、投融资机构等近千位嘉宾，共探AI时代三创融合新路径。",
-        "title":  "重庆加速建设全国人工智能应用高地，国际三创生态大会开幕",
-        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_5756a3fbb4980852"
-    },
-    {
-        "slug":  "ai-writing-controversy-hao-jingfang",
-        "source":  "腾讯网",
-        "date":  "2026-06-28",
-        "summary":  "科幻作家郝景芳在接受采访时称其少儿科幻小说中\u0027AI写作的比重已经占到一半\u0027，引发社交平台关于原创性、文学表达和创作边界的讨论。随后她澄清AI参与了50%工作量但直接写作过程仍由本人完成。",
-        "title":  "AI写作争议愈演愈烈，科幻作家郝景芳称AI写作占比达一半",
-        "url":  "https://so.html5.qq.com/page/real/search_news?docid=70000021_8226a40982304952"
-    },
-    {
-        "slug":  "ccf-multi-agent-system-conference-2026",
-        "source":  "中国计算机学会",
-        "date":  "2026-06-27",
-        "summary":  "为促进多智能体系统研究发展，第四届CCF多智能体系统会议（CCMAS 2026）于6月27日至28日在江苏苏州举办，由中国计算机学会主办，人工智能与模式识别专委会及南京大学共同承办。",
-        "title":  "第四届CCF多智能体系统会议在苏州举办",
-        "url":  "https://conf.ccf.org.cn/conf/index.htm"
-    }
+  {
+    "date": "2026-06-27",
+    "title": "全球AI收入首次覆盖资本开支，行业经济账迎来标志性转折",
+    "summary": "Exponential View报告显示，不含中国的全球AI销售额2026年Q1达250亿美元，连续第二季度超过折旧成本210亿美元，AI公司收入开始足以覆盖庞大资本开支。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2536a3fede722752",
+    "source": "企鹅号",
+    "slug": "global-ai-revenue-covers-capex"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "中国AI模型崛起抢占全球份额，OpenAI市场份额骤降",
+    "summary": "开放权重模型和DeepSeek等中国AI模型正在快速抢占全球市场份额，AI市场格局发生剧变，中国模型成为增长最快的力量。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2536a3fede722752",
+    "source": "企鹅号",
+    "slug": "china-ai-models-gaining-market-share"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "《人工智能 智能体互联》系列7项国家标准正式发布",
+    "summary": "市场监管总局发布7项国家标准，覆盖总体架构、身份码、身份管理、智能体描述、发现、交互、工具调用等核心环节，搭建闭环标准规范体系。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0146a3fec9d64265",
+    "source": "企鹅号",
+    "slug": "ai-agent-interconnection-national-standards"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "2026南京软件大会开幕：人工智能正重构软件产业",
+    "summary": "大会紧扣「人工智能+软件」国家专项行动，工信部数据显示2025年全国软件业务收入15.48万亿元，同比增长13.2%。南京提出打造「全国软件产业智能化第一城」。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5896a4080c613952",
+    "source": "企鹅号",
+    "slug": "nanjing-software-conference-ai-reconstructing"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "南京打造「鸿蒙先锋城市」：「开源鸿蒙×AI」专场活动举办",
+    "summary": "作为2026南京软件大会重大专场活动，「宁聚鸿蒙 Agent共生」活动在南京江北新区举办，南京将夯实自主软件底座，建成特色鲜明的鸿蒙先锋城市。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4556a3fd24734752",
+    "source": "企鹅号",
+    "slug": "nanjing-hongmeng-pilot-city"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "重庆加速建设全国人工智能应用高地",
+    "summary": "2026国际创新创业创意生态大会暨通用人工智能「满天星」挑战赛在重庆AI湾区开幕，助力重庆加速建设全国人工智能应用高地。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5756a3fbb4980852",
+    "source": "企鹅号",
+    "slug": "chongqing-ai-highland"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "中科闻歌正式登陆港交所主板，开盘大涨",
+    "summary": "中科闻歌(1956.HK)于6月26日在香港联合交易所主板挂牌上市，自2017年从中科院实验室创业，九年走向实际应用，是今年中科创星收获的第五个IPO。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1176a409ce444952",
+    "source": "企鹅号",
+    "slug": "zhongkewenge-listed-hkex"
+  },
+  {
+    "date": "2026-06-28",
+    "title": "华为联合中国电信主办AI高峰论坛：智能体互联网成核心竞争力",
+    "summary": "华为与中国电信联合主办的「升级智能化网络」高峰论坛上，华为预判AI竞争迈入规模化落地阶段，智能体、多模态应用爆发催生海量双向实时Token交互场景。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7906a40979786752",
+    "source": "企鹅号",
+    "slug": "huawei-china-telecom-ai-summit"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "华为中国行2026·新疆人工智能产业峰会在乌鲁木齐举办",
+    "summary": "以「数智天山算赢未来」为主题的华为中国行2026·新疆人工智能+产业峰会成功举办，全方位展示「人工智能+行业」深度融合的前沿成果。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8606a402daa97552",
+    "source": "企鹅号",
+    "slug": "huawei-xinjiang-ai-summit"
+  },
+  {
+    "date": "2026-06-28",
+    "title": "腾讯云AI深度解析：混元Hy3 preview混合专家模型发布",
+    "summary": "腾讯云AI产业应用大会上，腾讯高级执行副总裁汤道生与首席AI科学家姚顺雨同台，Hy3 preview模型总参数295B、激活21B，支持256K上下文。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1346a40e57f97752",
+    "source": "企鹅号",
+    "slug": "tencent-hunyuan-hy3-model"
+  },
+  {
+    "date": "2026-06-28",
+    "title": "昆仑万维携AIGC全家桶亮相中关村论坛，三大世界级模型发布",
+    "summary": "昆仑万维旗下天工AI发布Matrix-Game 3.0、SkyReels V4、Mureka V9三大模型，均跻身世界第一梯队，同步发布2026 AGI战略。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_44269c9e07822752",
+    "source": "企鹅号",
+    "slug": "kunlun-aigc-zhongguancun-forum"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "AI写作争议升温：雨果奖得主郝景芳称AI写作占比已达一半",
+    "summary": "科幻作家郝景芳在采访中称其《银河学院》中AI写作比重已占一半，引发社交平台关于原创性、文学表达和创作边界的广泛讨论。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8226a40982304952",
+    "source": "企鹅号",
+    "slug": "ai-writing-controversy-hao-jingfang"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "千问发布高考志愿填报Agent，免费服务全国考生",
+    "summary": "千问推出高考志愿填报Agent，为全国考生免费提供志愿填报咨询。艾媒咨询预计2026年全国AI志愿工具用户规模突破9200万人次。",
+    "url": "http://www.weste.net/",
+    "source": "威易网",
+    "slug": "qianwen-gaokao-agent"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "ISC.AI2026召开：李冰、周鸿祎等共议智能体安全治理",
+    "summary": "ISC.AI2026汇聚李冰、任贤良、赵志国、韩雪、邬贺铨、周鸿祎等业界人士，共同探讨AI时代智能体安全治理的前沿议题。",
+    "url": "http://www.weste.net/",
+    "source": "威易网",
+    "slug": "isc-ai-2026-agent-security"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "成都再添4家省级人工智能链主企业，总量增至12家",
+    "summary": "以「场景牵引以用促产」为主题的天府人工智能产业生态暨产品发布会在成都举行，成都省级AI链主企业总量增至12家，占全省92%。",
+    "url": "https://cd.scol.com.cn/",
+    "source": "四川在线",
+    "slug": "chengdu-ai-chain-leaders"
+  }
 ]
