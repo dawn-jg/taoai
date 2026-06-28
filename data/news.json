@@ -1,122 +1,114 @@
 [
   {
     "date": "2026-06-27",
-    "title": "全球AI收入首次覆盖资本开支，行业经济账迎来标志性转折",
-    "summary": "Exponential View报告显示，不含中国的全球AI销售额2026年Q1达250亿美元，连续第二季度超过折旧成本210亿美元，AI公司收入开始足以覆盖庞大资本开支。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2536a3fede722752",
-    "source": "企鹅号",
-    "slug": "global-ai-revenue-covers-capex"
+    "title": "OpenAI发布GPT-5.6三档模型：Sol/Terra/Luna",
+    "summary": "OpenAI正式推出GPT-5.6有限预览版，一次性发布三个版本：旗舰Sol主打复杂推理和代码，Terra面向日常工作，Luna走轻量高速路线。受美国政府审查影响，目前仅向少数合作伙伴开放。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2996a41538163052",
+    "source": "腾讯新闻",
+    "slug": "openai-gpt5-6-sol-terra-luna"
   },
   {
-    "date": "2026-06-27",
-    "title": "中国AI模型崛起抢占全球份额，OpenAI市场份额骤降",
-    "summary": "开放权重模型和DeepSeek等中国AI模型正在快速抢占全球市场份额，AI市场格局发生剧变，中国模型成为增长最快的力量。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2536a3fede722752",
-    "source": "企鹅号",
-    "slug": "china-ai-models-gaining-market-share"
+    "date": "2026-06-28",
+    "title": "美国政府拟松绑Anthropic Fable 5大模型管制",
+    "summary": "美国政府接近允许Anthropic恢复Fable 5模型访问权限。该模型因政府安全担忧已下线15天。消息人士预计政府最早下周解除限制，商务部已允许Anthropic向有限受信任用户恢复Mythos 5访问权限。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8756a410e9504052",
+    "source": "腾讯新闻",
+    "slug": "us-government-anthropic-fable5-unban"
   },
   {
-    "date": "2026-06-27",
-    "title": "《人工智能 智能体互联》系列7项国家标准正式发布",
-    "summary": "市场监管总局发布7项国家标准，覆盖总体架构、身份码、身份管理、智能体描述、发现、交互、工具调用等核心环节，搭建闭环标准规范体系。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0146a3fec9d64265",
-    "source": "企鹅号",
-    "slug": "ai-agent-interconnection-national-standards"
+    "date": "2026-06-28",
+    "title": "兰州大学成立人工智能学院",
+    "summary": "兰州大学人工智能学院聚焦大模型与智能计算、具身智能、智能交叉融合三大方向，打造立足西北、服务全国的AI人才培育与原始创新支点。",
+    "url": "https://new.qq.com/rain/a/20260628A07C8D00",
+    "source": "中新网",
+    "slug": "lanzhou-university-ai-college"
   },
   {
-    "date": "2026-06-27",
-    "title": "2026南京软件大会开幕：人工智能正重构软件产业",
-    "summary": "大会紧扣「人工智能+软件」国家专项行动，工信部数据显示2025年全国软件业务收入15.48万亿元，同比增长13.2%。南京提出打造「全国软件产业智能化第一城」。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5896a4080c613952",
-    "source": "企鹅号",
-    "slug": "nanjing-software-conference-ai-reconstructing"
+    "date": "2026-06-28",
+    "title": "四川印发AI产业链扶持政策，最高2000万元资金支持",
+    "summary": "四川省印发进一步促进人工智能产业链发展若干政策，聚焦智能制造、科学智能、智能医疗等八大领域，符合条件项目最高可获2000万元资金支持。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8986a41536250552",
+    "source": "人民财讯",
+    "slug": "sichuan-ai-policy-20-million"
   },
   {
-    "date": "2026-06-27",
-    "title": "南京打造「鸿蒙先锋城市」：「开源鸿蒙×AI」专场活动举办",
-    "summary": "作为2026南京软件大会重大专场活动，「宁聚鸿蒙 Agent共生」活动在南京江北新区举办，南京将夯实自主软件底座，建成特色鲜明的鸿蒙先锋城市。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4556a3fd24734752",
-    "source": "企鹅号",
-    "slug": "nanjing-hongmeng-pilot-city"
+    "date": "2026-06-28",
+    "title": "360推出Tulongfeng大模型，趁禁令窗口抢攻市场",
+    "summary": "在Anthropic Mythos 5和Fable 5因出口禁令被全球下架后，360推出Tulongfeng大模型直接对标Mythos。东京初创Sakana AI同期发布Fugu前沿模型，禁令真空期正被亚洲厂商迅速填补。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2996a41538163052",
+    "source": "腾讯新闻",
+    "slug": "360-tulongfeng-model-launch"
   },
   {
-    "date": "2026-06-27",
-    "title": "重庆加速建设全国人工智能应用高地",
-    "summary": "2026国际创新创业创意生态大会暨通用人工智能「满天星」挑战赛在重庆AI湾区开幕，助力重庆加速建设全国人工智能应用高地。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5756a3fbb4980852",
-    "source": "企鹅号",
-    "slug": "chongqing-ai-highland"
+    "date": "2026-06-28",
+    "title": "中国AI开源大模型全球累计下载量突破100亿次",
+    "summary": "国务院总理李强在2026年夏季达沃斯论坛开幕式上表示，中国人工智能开源大模型全球累计下载量已突破100亿次，中国新兴领域技术和产品带给世界的不是冲击而是机遇。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5436a40b35270352",
+    "source": "中新经纬",
+    "slug": "china-ai-open-source-10b-downloads"
+  },
+  {
+    "date": "2026-06-28",
+    "title": "孙正义公开质疑马斯克太空AI数据中心构想",
+    "summary": "软银创始人孙正义质疑马斯克将AI数据中心建到太空的设想。孙正义表示，电力仅占数据中心运营成本约7%，芯片和硬件等核心成本占比高达93%，省电并不能解决最贵最急的问题。",
+    "url": "https://tech.163.com/it",
+    "source": "网易科技",
+    "slug": "masayoshi-son-elon-musk-space-ai-data-center"
   },
   {
     "date": "2026-06-26",
-    "title": "中科闻歌正式登陆港交所主板，开盘大涨",
-    "summary": "中科闻歌(1956.HK)于6月26日在香港联合交易所主板挂牌上市，自2017年从中科院实验室创业，九年走向实际应用，是今年中科创星收获的第五个IPO。",
+    "title": "中科闻歌正式登陆香港联交所主板，开盘大涨",
+    "summary": "中科闻歌(1956.HK)于6月26日在香港联交所主板挂牌上市。该公司自2017年从中科院实验室创业，九年间逐步走向实际应用，致力于将人工智能技术落地于解决具体问题。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1176a409ce444952",
-    "source": "企鹅号",
-    "slug": "zhongkewenge-listed-hkex"
+    "source": "腾讯新闻",
+    "slug": "zhongke-wenge-hk-listing"
   },
   {
     "date": "2026-06-28",
-    "title": "华为联合中国电信主办AI高峰论坛：智能体互联网成核心竞争力",
-    "summary": "华为与中国电信联合主办的「升级智能化网络」高峰论坛上，华为预判AI竞争迈入规模化落地阶段，智能体、多模态应用爆发催生海量双向实时Token交互场景。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7906a40979786752",
-    "source": "企鹅号",
-    "slug": "huawei-china-telecom-ai-summit"
-  },
-  {
-    "date": "2026-06-26",
-    "title": "华为中国行2026·新疆人工智能产业峰会在乌鲁木齐举办",
-    "summary": "以「数智天山算赢未来」为主题的华为中国行2026·新疆人工智能+产业峰会成功举办，全方位展示「人工智能+行业」深度融合的前沿成果。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8606a402daa97552",
-    "source": "企鹅号",
-    "slug": "huawei-xinjiang-ai-summit"
+    "title": "南大与腾讯混元推出HYDRA多模态统一模型",
+    "summary": "南大王利民团队与腾讯混元推出HYDRA系列模型，提出基于ViT的统一视觉Tokenizer，实现图像视频理解和生成能力的统一。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1176a409ce444952",
+    "source": "腾讯新闻",
+    "slug": "nju-tencent-hunyuan-hydra-multimodal"
   },
   {
     "date": "2026-06-28",
-    "title": "腾讯云AI深度解析：混元Hy3 preview混合专家模型发布",
-    "summary": "腾讯云AI产业应用大会上，腾讯高级执行副总裁汤道生与首席AI科学家姚顺雨同台，Hy3 preview模型总参数295B、激活21B，支持256K上下文。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1346a40e57f97752",
-    "source": "企鹅号",
-    "slug": "tencent-hunyuan-hy3-model"
+    "title": "苹果Xcode 26.6正式发布，集成谷歌Gemini编程助手",
+    "summary": "苹果Xcode 26.6正式发布，集成谷歌Gemini编程助手并升级SDK。同时美团小店有AI行动落地北京，为中小商家提供免费AI课程。",
+    "url": "http://chinaz.com/",
+    "source": "站长之家",
+    "slug": "apple-xcode-26-6-gemini"
   },
   {
     "date": "2026-06-28",
-    "title": "昆仑万维携AIGC全家桶亮相中关村论坛，三大世界级模型发布",
-    "summary": "昆仑万维旗下天工AI发布Matrix-Game 3.0、SkyReels V4、Mureka V9三大模型，均跻身世界第一梯队，同步发布2026 AGI战略。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_44269c9e07822752",
-    "source": "企鹅号",
-    "slug": "kunlun-aigc-zhongguancun-forum"
-  },
-  {
-    "date": "2026-06-27",
-    "title": "AI写作争议升温：雨果奖得主郝景芳称AI写作占比已达一半",
-    "summary": "科幻作家郝景芳在采访中称其《银河学院》中AI写作比重已占一半，引发社交平台关于原创性、文学表达和创作边界的广泛讨论。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8226a40982304952",
-    "source": "企鹅号",
-    "slug": "ai-writing-controversy-hao-jingfang"
-  },
-  {
-    "date": "2026-06-27",
     "title": "千问发布高考志愿填报Agent，免费服务全国考生",
-    "summary": "千问推出高考志愿填报Agent，为全国考生免费提供志愿填报咨询。艾媒咨询预计2026年全国AI志愿工具用户规模突破9200万人次。",
+    "summary": "千问发布高考志愿填报Agent，为全国考生免费提供志愿填报咨询服务。据艾媒咨询数据，2026年全国AI志愿工具用户规模将突破9200万人次。",
     "url": "http://www.weste.net/",
     "source": "威易网",
     "slug": "qianwen-gaokao-agent"
   },
   {
-    "date": "2026-06-27",
-    "title": "ISC.AI2026召开：李冰、周鸿祎等共议智能体安全治理",
-    "summary": "ISC.AI2026汇聚李冰、任贤良、赵志国、韩雪、邬贺铨、周鸿祎等业界人士，共同探讨AI时代智能体安全治理的前沿议题。",
-    "url": "http://www.weste.net/",
-    "source": "威易网",
-    "slug": "isc-ai-2026-agent-security"
+    "date": "2026-06-28",
+    "title": "马斯克官宣SpaceX太空AI算力项目Starmind",
+    "summary": "马斯克正式确认SpaceX近地轨道人工智能算力项目命名为Starmind，计划向近地轨道发射至多100万颗专用计算卫星，在太空搭建分布式AI算力集群。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6866a41304b24365",
+    "source": "腾讯新闻",
+    "slug": "spacex-starmind-orbital-ai"
   },
   {
-    "date": "2026-06-27",
-    "title": "成都再添4家省级人工智能链主企业，总量增至12家",
-    "summary": "以「场景牵引以用促产」为主题的天府人工智能产业生态暨产品发布会在成都举行，成都省级AI链主企业总量增至12家，占全省92%。",
-    "url": "https://cd.scol.com.cn/",
-    "source": "四川在线",
-    "slug": "chengdu-ai-chain-leaders"
+    "date": "2026-06-28",
+    "title": "华为预判智能体互联网成AI核心竞争力",
+    "summary": "华为联合中国电信主办论坛表示AI产业正式迈入规模化落地阶段。智能体、多模态应用爆发催生海量实时Token交互场景，对网络上行带宽和毫秒级时延提出严苛标准。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7906a40979786752",
+    "source": "中国基金报",
+    "slug": "huawei-agent-internet-core-competitiveness"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "浙江聚力打造人工智能创新发展高地",
+    "summary": "杭州余杭区与阿里巴巴联合打造模域空间产业空间，总面积达6万平方米。聚集AI创业团队，开发者社区举办智能体开发技术分享，一批AI创新成果和智能终端产品集中亮相。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1526a41507d48452",
+    "source": "腾讯新闻",
+    "slug": "zhejiang-ai-innovation-hub"
   }
 ]
