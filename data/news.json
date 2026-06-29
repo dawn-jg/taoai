@@ -1,122 +1,122 @@
 [
   {
-    "date": "2026-06-29",
-    "title": "OpenAI发布GPT-5.6三档模型，旗舰Sol受限开放",
-    "summary": "6月27日，OpenAI正式推出GPT-5.6系列，包含旗舰Sol、均衡型Terra和轻量级Luna三款模型。Sol在编程测试Terminal-Bench 2.1上刷新纪录，接近Claude Mythos水平，但因美政府审查目前仅向少数合作伙伴开放。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2996a41538163052",
+    "date": "2026-06-30",
+    "title": "Stripe联合Anthropic、OpenAI基金会、盖茨发起5亿美元Intercept项目攻克感冒",
+    "summary": "全球支付巨头Stripe宣布联合Anthropic、OpenAI基金会、Flu Lab、比尔·盖茨等推出Intercept项目，预算5亿美元，旨在开发可预防超75%有症状感染的广谱预防药物（BSPs），并推动空气净化和杀菌技术（ACTs）普及。呼吸道感染每年造成约6000亿美元生产力损失。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4996a42b3bc95052",
     "source": "腾讯新闻",
-    "slug": "openai-gpt56-launch"
+    "slug": "stripe-intercept-5-billion-cold"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "Anthropic Mythos 5获批部分解禁，美对大模型出口管制引关注",
+    "summary": "6月27日Anthropic宣布Mythos 5已获部分解禁，一批美国机构获准使用。同时推动Fable 5重新面向大众开放。此前美政府以国家安全为由发出紧急出口管制指令，禁止外国主体访问Fable 5和Mythos 5，限制涵盖美国境内所有外籍人士。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6556a42eadc82552",
+    "source": "腾讯新闻",
+    "slug": "anthropic-mythos5-partial-lift"
   },
   {
     "date": "2026-06-29",
-    "title": "特朗普政府拟一周内解禁Anthropic最强模型Fable 5",
-    "summary": "美国政府最快可能于一周内解除对Anthropic最强AI模型Fable 5的使用限制。此前Mythos 5已获准向部分\u201c可信合作伙伴\u201d开放。Fable 5最终解禁方案仍待美国国防部和国家安全局批准。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8006a41b50f54052",
-    "source": "每经",
-    "slug": "anthropic-fable5-lift-restrictions"
+    "title": "中国AI大模型周调用量连续九周稳居全球第一",
+    "summary": "据OpenRouter最新数据，上周全球AI大模型总调用量46.7万亿Token。中国大模型周调用量连续九周超过美国居全球首位，全球调用量排名前三均为中国AI大模型。同期美国大模型周调用量环比下滑26.22%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0316a42081080452",
+    "source": "每日经济新闻",
+    "slug": "china-ai-model-calls-first-nine-weeks"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "DeepSeek V4正式版官宣7月中旬上线，引入峰谷定价机制",
+    "summary": "DeepSeek团队宣布V4正式版计划7月中旬上线，拥有百万字超长上下文，在Agent能力、世界知识和推理性能上均实现国内与开源领域领先。模型分大小两个版本，同步引入峰谷定价机制。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1036a42461f80252",
+    "source": "腾讯新闻",
+    "slug": "deepseek-v4-launch-july"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "DeepSeek联合北京大学开源DSpark推理加速框架",
+    "summary": "6月27日，DeepSeek联合北京大学发布DSpark推理加速框架并开源全栈推测性解码框架DeepSpec。这是DeepSeek完成500亿元融资后首项开源成果，单用户生成速度提升60%至85%，梁文锋署名论文。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9566a41df2497852",
+    "source": "腾讯新闻",
+    "slug": "deepseek-dspark-inference-open-source"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "DeepSeek启动最大规模招聘，获510亿元首轮融资估值近4000亿",
+    "summary": "DeepSeek通过官方公众号宣布正努力将所有部门规模扩大至少一倍，开放覆盖大模型预训练、Agent、AI搜索、推理架构等多个方向岗位。月薪最高10万。公司此前获510亿元首轮融资，估值近4000亿元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7526a42258886452",
+    "source": "凤凰网科技",
+    "slug": "deepseek-massive-hiring-51-billion-funding"
   },
   {
     "date": "2026-06-29",
     "title": "谷歌因算力紧张限制Meta使用Gemini模型",
-    "summary": "谷歌开始限制Meta对其AI大模型Gemini的使用，因Meta算力需求超出谷歌承载能力。自5月17日起，谷歌对Gemini实施基于算力额度的使用限制，用户需在每周滚动5小时窗口内使用并设上限。",
-    "url": "https://new.qq.com/rain/a/20260628A075NP00",
+    "summary": "谷歌告知Meta无法足额供应其所需的Gemini模型算力额度，导致Meta多项AI项目推迟。谷歌对Gemini实施基于算力额度的使用限制，用户需在每周滚动5小时窗口内使用并设上限。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9576a41f03901852",
     "source": "财联社",
     "slug": "google-gemini-compute-limit-meta"
   },
   {
     "date": "2026-06-29",
-    "title": "DeepSeek联合北大开源DSpark推理加速框架",
-    "summary": "6月27日，DeepSeek联合北京大学发布DSpark推理加速框架，并同步开源全栈推测性解码框架DeepSpec。这是DeepSeek完成500亿元融资后首项开源成果，单用户生成速度提升60%至85%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4606a42391a73452",
-    "source": "太平洋科技",
-    "slug": "deepseek-dspark-inference-framework"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "苹果Vision Pro负责人保罗·米德离职转投OpenAI硬件部门",
-    "summary": "苹果负责Vision Pro头显及智能眼镜研发业务的副总裁保罗·米德将于下周离职，加入OpenAI硬件部门主导新一代AI智能硬件研发。米德近七年来一直执掌Vision Pro硬件工程团队。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6136a41bad640752",
-    "source": "第一财经",
-    "slug": "apple-vision-pro-head-paul-meade-joins-openai"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "智元第15000台具身智能机器人量产下线",
-    "summary": "6月28日，智元第15000台具身智能机器人下线，距万台节点不足3个月，再刷全球行业纪录。本次下线机型为精灵G2，当场交付龙旗科技产线投入实际生产作业。",
-    "url": "https://new.qq.com/rain/a/20260629A01Y2U00",
-    "source": "腾讯新闻",
-    "slug": "zhiyuan-15000th-embodied-robot"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "千问发布高考志愿填报Agent，超1400万用户使用",
-    "summary": "高考后至6月24日，已有超1400万用户使用千问AI高考志愿Agent。同时百度AI志愿助手服务1500万人，元宝高考通已回答近8000万个高考志愿相关问题。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1046a41017758452",
-    "source": "腾讯新闻",
-    "slug": "qwen-gaokao-volunteer-agent"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "字节跳动豆包专业版正式上线，开启AI收费模式",
-    "summary": "6月24日，字节跳动正式推出豆包专业版，基于豆包2.1系列大模型，可执行Agent任务包括操作本地电脑、使用浏览器、调用Skills技能和定时任务等。连续包月价格68元起，最高一年5088元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5326a42030299552",
-    "source": "IT之家",
-    "slug": "bytedance-doubao-pro-launch"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "《人工智能 智能体互联》系列国家标准正式发布",
-    "summary": "《人工智能 智能体互联》系列国家标准全面发布，覆盖总体架构、身份码、身份管理、智能体描述与交互等核心环节，构建起闭环式标准规范体系，有效填补该领域标准空白。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6516a41cfed09152",
+    "title": "《人工智能 智能体互联》系列7项国家标准正式发布",
+    "summary": "国家市场监督管理总局发布《人工智能 智能体互联》系列7项国家标准，覆盖总体架构、身份码、身份管理、智能体描述与交互等核心环节，构建起全覆盖闭环式标准规范体系。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1386a42090534952",
     "source": "券商中国",
-    "slug": "ai-agent-interconnection-national-standard"
+    "slug": "ai-agent-interconnection-7-national-standards"
   },
   {
     "date": "2026-06-29",
-    "title": "泰达国际心血管病医院发布全口径AI智能体\u201c呦呦\u201d",
-    "summary": "6月26日，医疗人工智能临床应用研讨会在天津举行。泰达国际心血管病医院正式发布覆盖医疗全口径的AI智能体\u201c呦呦\u201d，多家标杆医院就AI临床应用实践深入交流。",
+    "title": "企业转向更便宜AI模型，DeepSeek等中国AI有望受益",
+    "summary": "越来越多科技公司CEO认为更便宜的AI模型才是推动企业大规模采用AI的关键。微软CEO纳德拉和Coinbase CEO阿姆斯特朗均表示，体量更小、成本更低的模型已能满足企业相当大一部分需求。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9496a42854913852",
+    "source": "腾讯新闻",
+    "slug": "enterprise-shift-cheaper-ai-models"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "第四届链博会首设人工智能专区，英特尔英伟达阿里等参展",
+    "summary": "第四届链博会首次设立人工智能专区，英特尔、英伟达、阿里巴巴、科大讯飞等中外领军企业集中展示智能芯片、大模型等前沿成果。我国现存AI相关企业超532.3万家，2026年以来新增注册约47.2万家。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1386a42090534952",
+    "source": "券商中国",
+    "slug": "chain-expo-ai-zone-intel-nvidia"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "地平线HSD智驾重大更新：世界模型+端到端强化学习",
+    "summary": "地平线HSD智驾系统迎来重大升级，核心逻辑是用\"世界模型+端到端强化学习\"重新拉高智驾天花板。首批搭载车型iCAR V27于6月30日开始分批推送。无接管里程提升56%，博弈能力提升167%，反应速度提升20%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5556a42da8d31652",
+    "source": "腾讯新闻",
+    "slug": "horizon-hsd-world-model-update"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "世界杯32强大模型预测放榜：腾讯混元夺冠，DeepSeek第四",
+    "summary": "世界杯32强预测人机大战结果揭晓，腾讯混元以29/32位列第一，MiniMax和讯飞星火并列第二，DeepSeek和智谱等命中27支。12个参测大模型中11个错选乌拉圭。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7246a41b4f283152",
+    "source": "腾讯新闻",
+    "slug": "world-cup-32-ai-prediction-results"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "泰达国际心血管病医院正式发布全口径AI智能体\"呦呦\"",
+    "summary": "6月26日，医疗人工智能临床应用研讨会在天津举行。泰达国际心血管病医院正式发布覆盖医疗全口径的AI智能体\"呦呦\"，国内多家AI医疗标杆医院就临床应用实践深入交流。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2796a421b3d72852",
     "source": "腾讯新闻",
-    "slug": "teda-hospital-ai-agent-youyou"
+    "slug": "teda-hospital-youyou-ai-agent"
   },
   {
     "date": "2026-06-29",
-    "title": "字节跳动向努比亚\u201c豆包手机\u201d用户赠送AI会员",
-    "summary": "字节跳动宣布向努比亚M153\u201c豆包手机\u201d用户赠送价值68元/月的标准版豆包会员额度，有效期至2026年底。此举表明字节在大模型落地终端策略上尝试软件补贴硬件模式。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4286a410dc111752",
-    "source": "IT之家",
-    "slug": "byte-dance-nubia-doubao-phone-membership"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "黑芝麻智能荣膺人工智能创新企业奖",
-    "summary": "格隆汇\u201c中期策略峰会\u201d揭晓\u201c金格奖\u201d，黑芝麻智能荣膺\u201c人工智能创新企业\u201d奖项，表彰其在AI创新实力、技术落地能力与产业生态价值三个维度的长期投入。",
+    "title": "黑芝麻智能荣膺\"人工智能创新企业\"金格奖",
+    "summary": "格隆汇中期策略峰会揭晓\"金格奖\"年度评选，黑芝麻智能(2533.HK)荣膺\"人工智能创新企业\"奖项。行业对其在AI创新实力、技术落地能力与产业生态价值三个维度长期投入给予高度认可。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1326a42137414652",
     "source": "格隆汇",
-    "slug": "black-sesame-ai-innovation-award"
+    "slug": "black-sesame-ai-innovation-golden-award"
   },
   {
     "date": "2026-06-29",
-    "title": "经纬天地正式推出人工智能及算力服务平台Novax AI",
-    "summary": "经纬天地(02477.HK)正式推出AI及算力服务平台Novax AI，面向企业级AI应用，提供云GPU租赁调度、计算优化、模型网关与AI智能运维等服务。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5476a422eb135052",
-    "source": "格隆汇",
-    "slug": "novax-ai-platform-launch"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "马斯克拟收购光模块公司Mesh",
-    "summary": "据媒体报道，埃隆·马斯克拟收购光模块公司Mesh，以加强AI基础设施的光互联能力。该交易若完成将进一步提升特斯拉/xAI在AI算力基础设施领域的布局。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8006a41b50f54052",
-    "source": "每经",
-    "slug": "musk-mesh-optical-module-acquisition"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "郭明錤：iOS 27将进一步深化Apple Intelligence系统级整合",
-    "summary": "天风国际证券分析师郭明錤发布报告指出，iOS 27将进一步深化与Apple Intelligence的系统级整合，苹果正加速推进AI在操作系统层面的深度嵌入。",
+    "title": "苹果Vision Pro高管保罗·米德离职转投OpenAI硬件部门",
+    "summary": "苹果负责Vision Pro头显及智能眼镜研发的副总裁保罗·米德将于下周离职，加入OpenAI硬件部门主导新一代AI智能硬件研发。米德近七年来一直执掌Vision Pro硬件工程团队。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6136a41bad640752",
-    "source": "天风国际",
-    "slug": "ios27-apple-intelligence-deep-integration"
+    "source": "第一财经",
+    "slug": "apple-vision-pro-head-joins-openai"
   }
 ]
