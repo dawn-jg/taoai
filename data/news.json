@@ -1,114 +1,114 @@
 [
   {
-    "date": "2026-06-27",
-    "title": "OpenAI发布GPT-5.6三档模型：Sol/Terra/Luna",
-    "summary": "OpenAI正式推出GPT-5.6有限预览版，一次性发布三个版本：旗舰Sol主打复杂推理和代码，Terra面向日常工作，Luna走轻量高速路线。受美国政府审查影响，目前仅向少数合作伙伴开放。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2996a41538163052",
-    "source": "腾讯新闻",
-    "slug": "openai-gpt5-6-sol-terra-luna"
-  },
-  {
-    "date": "2026-06-28",
-    "title": "美国政府拟松绑Anthropic Fable 5大模型管制",
-    "summary": "美国政府接近允许Anthropic恢复Fable 5模型访问权限。该模型因政府安全担忧已下线15天。消息人士预计政府最早下周解除限制，商务部已允许Anthropic向有限受信任用户恢复Mythos 5访问权限。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8756a410e9504052",
-    "source": "腾讯新闻",
-    "slug": "us-government-anthropic-fable5-unban"
-  },
-  {
-    "date": "2026-06-28",
-    "title": "兰州大学成立人工智能学院",
-    "summary": "兰州大学人工智能学院聚焦大模型与智能计算、具身智能、智能交叉融合三大方向，打造立足西北、服务全国的AI人才培育与原始创新支点。",
-    "url": "https://new.qq.com/rain/a/20260628A07C8D00",
-    "source": "中新网",
-    "slug": "lanzhou-university-ai-college"
-  },
-  {
-    "date": "2026-06-28",
-    "title": "四川印发AI产业链扶持政策，最高2000万元资金支持",
-    "summary": "四川省印发进一步促进人工智能产业链发展若干政策，聚焦智能制造、科学智能、智能医疗等八大领域，符合条件项目最高可获2000万元资金支持。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8986a41536250552",
-    "source": "人民财讯",
-    "slug": "sichuan-ai-policy-20-million"
-  },
-  {
-    "date": "2026-06-28",
-    "title": "360推出Tulongfeng大模型，趁禁令窗口抢攻市场",
-    "summary": "在Anthropic Mythos 5和Fable 5因出口禁令被全球下架后，360推出Tulongfeng大模型直接对标Mythos。东京初创Sakana AI同期发布Fugu前沿模型，禁令真空期正被亚洲厂商迅速填补。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2996a41538163052",
-    "source": "腾讯新闻",
-    "slug": "360-tulongfeng-model-launch"
-  },
-  {
-    "date": "2026-06-28",
-    "title": "中国AI开源大模型全球累计下载量突破100亿次",
-    "summary": "国务院总理李强在2026年夏季达沃斯论坛开幕式上表示，中国人工智能开源大模型全球累计下载量已突破100亿次，中国新兴领域技术和产品带给世界的不是冲击而是机遇。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5436a40b35270352",
-    "source": "中新经纬",
-    "slug": "china-ai-open-source-10b-downloads"
-  },
-  {
-    "date": "2026-06-28",
-    "title": "孙正义公开质疑马斯克太空AI数据中心构想",
-    "summary": "软银创始人孙正义质疑马斯克将AI数据中心建到太空的设想。孙正义表示，电力仅占数据中心运营成本约7%，芯片和硬件等核心成本占比高达93%，省电并不能解决最贵最急的问题。",
-    "url": "https://tech.163.com/it",
+    "date": "2026-06-29",
+    "title": "OpenAI发布GPT-5.6三档模型，旗舰Sol对标Claude Mythos，仅限合作伙伴",
+    "summary": "OpenAI正式推出GPT-5.6系列，包含Sol（复杂推理/代码）、Terra（日常工作）、Luna（轻量高速）三款型号。Sol在Terminal-Bench 2.1上超越Claude Mythos 5，受美国政府审查目前仅向少数可信合作伙伴开放。",
+    "url": "https://tech.163.com/",
     "source": "网易科技",
-    "slug": "masayoshi-son-elon-musk-space-ai-data-center"
-  },
-  {
-    "date": "2026-06-26",
-    "title": "中科闻歌正式登陆香港联交所主板，开盘大涨",
-    "summary": "中科闻歌(1956.HK)于6月26日在香港联交所主板挂牌上市。该公司自2017年从中科院实验室创业，九年间逐步走向实际应用，致力于将人工智能技术落地于解决具体问题。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1176a409ce444952",
-    "source": "腾讯新闻",
-    "slug": "zhongke-wenge-hk-listing"
-  },
-  {
-    "date": "2026-06-28",
-    "title": "南大与腾讯混元推出HYDRA多模态统一模型",
-    "summary": "南大王利民团队与腾讯混元推出HYDRA系列模型，提出基于ViT的统一视觉Tokenizer，实现图像视频理解和生成能力的统一。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1176a409ce444952",
-    "source": "腾讯新闻",
-    "slug": "nju-tencent-hunyuan-hydra-multimodal"
-  },
-  {
-    "date": "2026-06-28",
-    "title": "苹果Xcode 26.6正式发布，集成谷歌Gemini编程助手",
-    "summary": "苹果Xcode 26.6正式发布，集成谷歌Gemini编程助手并升级SDK。同时美团小店有AI行动落地北京，为中小商家提供免费AI课程。",
-    "url": "http://chinaz.com/",
-    "source": "站长之家",
-    "slug": "apple-xcode-26-6-gemini"
-  },
-  {
-    "date": "2026-06-28",
-    "title": "千问发布高考志愿填报Agent，免费服务全国考生",
-    "summary": "千问发布高考志愿填报Agent，为全国考生免费提供志愿填报咨询服务。据艾媒咨询数据，2026年全国AI志愿工具用户规模将突破9200万人次。",
-    "url": "http://www.weste.net/",
-    "source": "威易网",
-    "slug": "qianwen-gaokao-agent"
-  },
-  {
-    "date": "2026-06-28",
-    "title": "马斯克官宣SpaceX太空AI算力项目Starmind",
-    "summary": "马斯克正式确认SpaceX近地轨道人工智能算力项目命名为Starmind，计划向近地轨道发射至多100万颗专用计算卫星，在太空搭建分布式AI算力集群。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6866a41304b24365",
-    "source": "腾讯新闻",
-    "slug": "spacex-starmind-orbital-ai"
-  },
-  {
-    "date": "2026-06-28",
-    "title": "华为预判智能体互联网成AI核心竞争力",
-    "summary": "华为联合中国电信主办论坛表示AI产业正式迈入规模化落地阶段。智能体、多模态应用爆发催生海量实时Token交互场景，对网络上行带宽和毫秒级时延提出严苛标准。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7906a40979786752",
-    "source": "中国基金报",
-    "slug": "huawei-agent-internet-core-competitiveness"
+    "slug": "openai-gpt56-launch"
   },
   {
     "date": "2026-06-29",
-    "title": "浙江聚力打造人工智能创新发展高地",
-    "summary": "杭州余杭区与阿里巴巴联合打造模域空间产业空间，总面积达6万平方米。聚集AI创业团队，开发者社区举办智能体开发技术分享，一批AI创新成果和智能终端产品集中亮相。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1526a41507d48452",
-    "source": "腾讯新闻",
-    "slug": "zhejiang-ai-innovation-hub"
+    "title": "链博会首设AI专区，现存AI相关企业超532万家",
+    "summary": "第四届链博会在北京举行，原\"数字科技链\"升级为\"数智科技链\"，首次设立人工智能专区。英特尔、英伟达、阿里巴巴、科大讯飞等中外领军企业展示智能芯片、大模型、行业解决方案等前沿成果。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2616a41e6f127952",
+    "source": "企鹅号",
+    "slug": "chain-expo-ai-zone"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "《人工智能智能体互联》7项国家标准正式发布",
+    "summary": "系列标准全面覆盖总体架构、身份码、身份管理、智能体描述、智能体发现、智能体交互、智能体工具调用等核心环节，搭建起闭环式标准规范体系。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3236a41d93b58252",
+    "source": "企鹅号",
+    "slug": "ai-agent-standards"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "特朗普政府拟放宽Anthropic最强AI模型Fable 5使用限制",
+    "summary": "美国政府已允许Anthropic向部分\"可信合作伙伴\"开放Mythos 5模型，Fable 5的最终解禁方案仍待美国国防部和国家安全局批准，最快可能在一周内解除限制。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8006a41b50f54052",
+    "source": "每日经济新闻",
+    "slug": "anthropic-fable5-trump"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "OpenAI发布首款定制AI推理芯片Jalapeño",
+    "summary": "OpenAI展示与博通合作开发的定制AI推理芯片Jalapeño（墨西哥辣椒），早期测试显示每瓦性能优于当前最先进水平，从设计到完成流片用时9个月，专门为大语言模型推理设计。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8736a41d90a50052",
+    "source": "企鹅号",
+    "slug": "openai-jalapeno-chip"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "中科闻歌正式登陆港交所，开盘大涨",
+    "summary": "中科闻歌（01956.HK）于6月26日在港交所主板挂牌上市，自2017年从中科院实验室创业，九年间逐步走向应用。这是中科创星今年收获的第五个IPO项目。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5726a40e58808452",
+    "source": "企鹅号",
+    "slug": "zhongkewenge-ipo"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "字节跳动豆包专业版上线，付费最高5088元/年",
+    "summary": "字节跳动旗下AI助手豆包正式推出专业版订阅服务，分标准、加强、高级三档，连续包月定价68/200/500元，年付688/2048/5088元。字节打响AI收费战第一枪。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2336a41add553952",
+    "source": "企鹅号",
+    "slug": "doubao-pro-subscription"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "DeepSeek联合北大发布DSpark论文，梁文锋署名",
+    "summary": "DeepSeek与北京大学联合发布论文《DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation》，提出大模型推理加速框架，可最高提速85%。DeepSeek创始人梁文锋位列作者名单，同步开源模型权重。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0776a40dca880552",
+    "source": "企鹅号",
+    "slug": "deepseek-dspark-paper"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "苹果Vision Pro负责人保罗·米德将离职转投OpenAI",
+    "summary": "苹果公司负责Vision Pro头显及智能眼镜研发业务的副总裁保罗·米德将于下周离开苹果，随后入职OpenAI硬件部门，主导新一代全系AI智能硬件产品的研发工作。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6136a41bad640752",
+    "source": "第一财经",
+    "slug": "apple-vision-pro-head-openai"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "千问发布高考志愿填报Agent，免费为全国考生提供咨询",
+    "summary": "千问推出高考志愿填报Agent，输入省份、选科和排名即可获得\"冲稳保\"院校推荐，结合MBTI性格偏好分析就业前景，背后数据库融合夸克高考8年数据和算法经验。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1366a41b17c27052",
+    "source": "企鹅号",
+    "slug": "qianwen-gaokao-agent"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "苹果Xcode 26.6正式发布，集成谷歌Gemini编程助手",
+    "summary": "苹果Xcode 26.6正式发布，集成谷歌Gemini编程助手并升级SDK，显著提升开发效率。同时因AI存储芯片紧缺，苹果上调Mac、iPad全系硬件定价。",
+    "url": "https://chinaz.com/",
+    "source": "站长之家",
+    "slug": "apple-xcode-266-gemini"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "广东推进AI机电深度融合，打造世界级产业集群",
+    "summary": "经济日报头版报道，广东推进\"AI机电\"深度融合，打造世界级新型机电一体化和人工智能产业集群。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7286a413d8339752",
+    "source": "经济日报",
+    "slug": "guangdong-ai-mechatronics"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "谷歌因算力紧张限制Gemini使用，AI芯片需求持续暴涨",
+    "summary": "谷歌因算力紧张限制Gemini使用；AI驱动内存芯片需求暴涨，电子产品价格上涨将持续数年。高通发布两款新型数据中心芯片Dragonfly。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8006a41b50f54052",
+    "source": "每日经济新闻",
+    "slug": "google-gemini-limits"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "美团成立AI Transformation部门，加速AI战略布局",
+    "summary": "美团核心本地商业组织架构调整，新成立AI Transformation部门，与外卖、闪购等部门平行，由前大众点评总经理牧遥负责。美团\"小店有AI\"行动落地北京。",
+    "url": "https://chinaz.com/",
+    "source": "站长之家",
+    "slug": "meituan-ai-transformation"
   }
 ]
