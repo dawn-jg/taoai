@@ -1,122 +1,122 @@
 [
   {
     "date": "2026-06-30",
+    "title": "国常会加力推进人工智能创新突破，加快智算集群建设",
+    "summary": "6月29日国务院常务会议指出，要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设，强化高质量数据供给，加强人才、资金等要素保障，支持企业开展基础研究和前沿探索。受此消息提振，6月30日CS人工智能指数强势上涨超4%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7396a43333982752",
+    "source": "腾讯新闻",
+    "slug": "state-council-ai-breakthrough-policy"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "DeepSeek V4正式版定档7月中旬上线，引入峰谷定价机制",
+    "summary": "DeepSeek团队宣布V4正式版计划于7月中旬上线，同步引入峰谷定价策略。高峰时段API价格为平时价格的两倍，平时价格与现行V4 API定价持平。6月30日AI产业链走强，科创人工智能ETF涨超2.5%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5096a43344196452",
+    "source": "腾讯新闻",
+    "slug": "deepseek-v4-july-launch"
+  },
+  {
+    "date": "2026-06-30",
     "title": "Stripe联合Anthropic、OpenAI基金会、盖茨发起5亿美元Intercept项目攻克感冒",
-    "summary": "全球支付巨头Stripe宣布联合Anthropic、OpenAI基金会、Flu Lab、比尔·盖茨等推出Intercept项目，预算5亿美元，旨在开发可预防超75%有症状感染的广谱预防药物（BSPs），并推动空气净化和杀菌技术（ACTs）普及。呼吸道感染每年造成约6000亿美元生产力损失。",
+    "summary": "全球支付巨头Stripe宣布联合Anthropic、OpenAI基金会、Flu Lab、比尔·盖茨等推出Intercept项目，预算5亿美元，旨在攻克普通感冒、流感等呼吸道感染。项目将开发可预防超75%有症状感染的广谱预防药物，并推动空气净化和杀菌技术普及。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4996a42b3bc95052",
     "source": "腾讯新闻",
     "slug": "stripe-intercept-5-billion-cold"
   },
   {
-    "date": "2026-06-30",
-    "title": "Anthropic Mythos 5获批部分解禁，美对大模型出口管制引关注",
-    "summary": "6月27日Anthropic宣布Mythos 5已获部分解禁，一批美国机构获准使用。同时推动Fable 5重新面向大众开放。此前美政府以国家安全为由发出紧急出口管制指令，禁止外国主体访问Fable 5和Mythos 5，限制涵盖美国境内所有外籍人士。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6556a42eadc82552",
-    "source": "腾讯新闻",
-    "slug": "anthropic-mythos5-partial-lift"
-  },
-  {
     "date": "2026-06-29",
-    "title": "中国AI大模型周调用量连续九周稳居全球第一",
-    "summary": "据OpenRouter最新数据，上周全球AI大模型总调用量46.7万亿Token。中国大模型周调用量连续九周超过美国居全球首位，全球调用量排名前三均为中国AI大模型。同期美国大模型周调用量环比下滑26.22%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0316a42081080452",
-    "source": "每日经济新闻",
-    "slug": "china-ai-model-calls-first-nine-weeks"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "DeepSeek V4正式版官宣7月中旬上线，引入峰谷定价机制",
-    "summary": "DeepSeek团队宣布V4正式版计划7月中旬上线，拥有百万字超长上下文，在Agent能力、世界知识和推理性能上均实现国内与开源领域领先。模型分大小两个版本，同步引入峰谷定价机制。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1036a42461f80252",
-    "source": "腾讯新闻",
-    "slug": "deepseek-v4-launch-july"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "DeepSeek联合北京大学开源DSpark推理加速框架",
-    "summary": "6月27日，DeepSeek联合北京大学发布DSpark推理加速框架并开源全栈推测性解码框架DeepSpec。这是DeepSeek完成500亿元融资后首项开源成果，单用户生成速度提升60%至85%，梁文锋署名论文。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9566a41df2497852",
-    "source": "腾讯新闻",
-    "slug": "deepseek-dspark-inference-open-source"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "DeepSeek启动最大规模招聘，获510亿元首轮融资估值近4000亿",
-    "summary": "DeepSeek通过官方公众号宣布正努力将所有部门规模扩大至少一倍，开放覆盖大模型预训练、Agent、AI搜索、推理架构等多个方向岗位。月薪最高10万。公司此前获510亿元首轮融资，估值近4000亿元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7526a42258886452",
-    "source": "凤凰网科技",
-    "slug": "deepseek-massive-hiring-51-billion-funding"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "谷歌因算力紧张限制Meta使用Gemini模型",
-    "summary": "谷歌告知Meta无法足额供应其所需的Gemini模型算力额度，导致Meta多项AI项目推迟。谷歌对Gemini实施基于算力额度的使用限制，用户需在每周滚动5小时窗口内使用并设上限。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9576a41f03901852",
-    "source": "财联社",
-    "slug": "google-gemini-compute-limit-meta"
+    "title": "中国超算「灵晟」登顶全球TOP500，性能首超2EFlops",
+    "summary": "在德国举行的国际超算大会上，最新TOP500榜单揭晓，中国超级计算机「灵晟」以每秒219亿亿次（2.198EFlops）的持续双精度浮点性能登顶，成为世界上首个持续性能超200亿亿次的超算系统。这是自2017年「神威·太湖之光」之后中国超算重返世界之巅。",
+    "url": "http://www.xbxxb.com/kj/1.html",
+    "source": "西北在线",
+    "slug": "china-lingsheng-supercomputer-tops-top500"
   },
   {
     "date": "2026-06-29",
     "title": "《人工智能 智能体互联》系列7项国家标准正式发布",
-    "summary": "国家市场监督管理总局发布《人工智能 智能体互联》系列7项国家标准，覆盖总体架构、身份码、身份管理、智能体描述与交互等核心环节，构建起全覆盖闭环式标准规范体系。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1386a42090534952",
-    "source": "券商中国",
+    "summary": "国家市场监督管理总局正式发布《人工智能 智能体互联》系列7项国家标准，系统性搭建起身份标识、能力描述、供需发现、协同交互、工具调用全覆盖、闭环式标准规范体系，推动AI从能用迈向好用。",
+    "url": "http://union.china.com.cn/cmdt/node_522782.html",
+    "source": "中国网",
     "slug": "ai-agent-interconnection-7-national-standards"
   },
   {
     "date": "2026-06-29",
-    "title": "企业转向更便宜AI模型，DeepSeek等中国AI有望受益",
-    "summary": "越来越多科技公司CEO认为更便宜的AI模型才是推动企业大规模采用AI的关键。微软CEO纳德拉和Coinbase CEO阿姆斯特朗均表示，体量更小、成本更低的模型已能满足企业相当大一部分需求。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9496a42854913852",
+    "title": "中国—中东欧国家新闻发言人对话会在故宫举行，AI眼镜实时翻译成亮点",
+    "summary": "在第四届中国—中东欧国家新闻发言人对话会上，各国新闻发言人应邀戴上AI眼镜。随着工信部新闻发言人龚宪开口发言，讲稿内容以实时翻译的形式滚动出现在镜片中，成为全新的信息交互方式。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7146a427cd622852",
+    "source": "中新社",
+    "slug": "china-ceec-ai-glasses-real-time-translation"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "字节豆包内测社交功能，打通飞书账号",
+    "summary": "字节跳动旗下AI产品豆包内测社交功能，打通飞书账号。同时新浪开源VibeThinker-3B小模型，推理性能比肩大模型；高德内测「袋马」AI编程功能。",
+    "url": "http://chinaz.com/",
+    "source": "站长之家",
+    "slug": "bytedance-doubao-social-feature"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "软银孙正义年度股东大会重申AI信心，宣布机器人批量生产",
+    "summary": "软银创始人孙正义在年度股东大会上强调对AI投资的信心，宣布机器人批量生产，并将未来十余年的净资产价值目标定为1000万亿日元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3196a433c9a54752",
     "source": "腾讯新闻",
-    "slug": "enterprise-shift-cheaper-ai-models"
+    "slug": "softbank-son-ai-robots-mass-production"
   },
   {
     "date": "2026-06-29",
-    "title": "第四届链博会首设人工智能专区，英特尔英伟达阿里等参展",
-    "summary": "第四届链博会首次设立人工智能专区，英特尔、英伟达、阿里巴巴、科大讯飞等中外领军企业集中展示智能芯片、大模型等前沿成果。我国现存AI相关企业超532.3万家，2026年以来新增注册约47.2万家。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1386a42090534952",
-    "source": "券商中国",
-    "slug": "chain-expo-ai-zone-intel-nvidia"
-  },
-  {
-    "date": "2026-06-30",
-    "title": "地平线HSD智驾重大更新：世界模型+端到端强化学习",
-    "summary": "地平线HSD智驾系统迎来重大升级，核心逻辑是用\"世界模型+端到端强化学习\"重新拉高智驾天花板。首批搭载车型iCAR V27于6月30日开始分批推送。无接管里程提升56%，博弈能力提升167%，反应速度提升20%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5556a42da8d31652",
+    "title": "中科曙光ParaStorF9000在IO500获双料第一",
+    "summary": "中科曙光的ParaStorF9000全闪存储系统在IO500生产型榜单中荣获双料第一，标志着中国算力行业正从单纯追求单点算力转向系统优化，通过算-存-网协同优化为大规模AI训练提供坚实基础。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3196a433c9a54752",
     "source": "腾讯新闻",
-    "slug": "horizon-hsd-world-model-update"
+    "slug": "sugon-parastor-io500-first"
   },
   {
     "date": "2026-06-29",
-    "title": "世界杯32强大模型预测放榜：腾讯混元夺冠，DeepSeek第四",
-    "summary": "世界杯32强预测人机大战结果揭晓，腾讯混元以29/32位列第一，MiniMax和讯飞星火并列第二，DeepSeek和智谱等命中27支。12个参测大模型中11个错选乌拉圭。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7246a41b4f283152",
-    "source": "腾讯新闻",
-    "slug": "world-cup-32-ai-prediction-results"
+    "title": "MWC上海：AI眼镜成为全场焦点，轻量化AI设备需求激增",
+    "summary": "在2026年上海世界移动通信大会（MWC上海）上，AI眼镜成为全场焦点。具身智能机器人在5G-A网络支撑下实现精准搬运作业，手机直连卫星业务正式迈入商用，6G通感算智融合样机实现跨地域裸眼3D通话。",
+    "url": "https://www.jiadian.com.cn/hangye",
+    "source": "家电资讯",
+    "slug": "mwc-shanghai-ai-glasses-focus"
   },
   {
     "date": "2026-06-29",
-    "title": "泰达国际心血管病医院正式发布全口径AI智能体\"呦呦\"",
-    "summary": "6月26日，医疗人工智能临床应用研讨会在天津举行。泰达国际心血管病医院正式发布覆盖医疗全口径的AI智能体\"呦呦\"，国内多家AI医疗标杆医院就临床应用实践深入交流。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2796a421b3d72852",
-    "source": "腾讯新闻",
-    "slug": "teda-hospital-youyou-ai-agent"
+    "title": "中国电子云全面向AI转型，发布「专属AI云」产品战略",
+    "summary": "在中国电子云新产品发布会上，中国电子首席科学家朱国平宣布中国电子云将全面向AI转型，发布「专属AI云」产品战略，实现从信创专属云向AI时代全栈智能服务的根本性跨越。",
+    "url": "http://www.cena.com.cn/intelligence/index.html",
+    "source": "电子信息产业网",
+    "slug": "cec-cloud-ai-transformation"
   },
   {
     "date": "2026-06-29",
-    "title": "黑芝麻智能荣膺\"人工智能创新企业\"金格奖",
-    "summary": "格隆汇中期策略峰会揭晓\"金格奖\"年度评选，黑芝麻智能(2533.HK)荣膺\"人工智能创新企业\"奖项。行业对其在AI创新实力、技术落地能力与产业生态价值三个维度长期投入给予高度认可。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1326a42137414652",
-    "source": "格隆汇",
-    "slug": "black-sesame-ai-innovation-golden-award"
+    "title": "360发布「倚天屠龙」智能体安全体系",
+    "summary": "在ISC.AI 2026（第十四届互联网安全大会）上，360集团创始人周鸿祎正式发布360「倚天屠龙」智能体安全体系，聚焦AI智能体安全问题。",
+    "url": "http://www.cena.com.cn/intelligence/index.html",
+    "source": "电子信息产业网",
+    "slug": "360-yitian-tulong-agent-security"
   },
   {
     "date": "2026-06-29",
-    "title": "苹果Vision Pro高管保罗·米德离职转投OpenAI硬件部门",
-    "summary": "苹果负责Vision Pro头显及智能眼镜研发的副总裁保罗·米德将于下周离职，加入OpenAI硬件部门主导新一代AI智能硬件研发。米德近七年来一直执掌Vision Pro硬件工程团队。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6136a41bad640752",
-    "source": "第一财经",
-    "slug": "apple-vision-pro-head-joins-openai"
+    "title": "AI智能设备加速重构养老机构照护体系",
+    "summary": "从精准识别老人跌倒的毫米波雷达、夜间巡逻值守的养老机器人，到持续采集老人全周期健康数据的AI硬件，越来越多的智能设备正加速走进养老机构，重构传统照护模式，有效缓解养老行业人手短缺痛点。",
+    "url": "http://union.china.com.cn/cmdt/node_522782.html",
+    "source": "中国网",
+    "slug": "ai-devices-revolutionizing-elderly-care"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "第十二届上交会开幕，参展企业首次突破千家",
+    "summary": "第十二届中国上海国际技术进出口交易会（上交会）举行，以「打造技术贸易新生态 共绘全球合作新篇章」为主题，参展企业首次突破千家，覆盖全球22个国家和地区，聚焦脑机接口、机器人、智慧医疗等前沿领域。",
+    "url": "http://www.xbxxb.com/kj/1.html",
+    "source": "西北在线",
+    "slug": "csitf-12th-edition-opens"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "广西「人工智能+制造」发力成势，雄安AI产业聚力跃升",
+    "summary": "广西推进「人工智能+制造」战略发力成势，雄安新区人工智能产业聚力跃升。同时全国多家机构探索破解中小企业算力使用难题，AI应用加速走向规模化。",
+    "url": "http://union.china.com.cn/cmdt/node_522782.html",
+    "source": "中国网",
+    "slug": "guangxi-xionggan-ai-industry"
   }
 ]
