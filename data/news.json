@@ -1,122 +1,114 @@
 [
   {
-    "date": "2026-06-30",
-    "title": "国常会最新部署AI：加快关键技术攻关和超大规模智算集群建设",
-    "summary": "国务院总理李强6月29日主持召开国务院常务会议，听取人工智能发展情况汇报。会议强调要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设，深入实施「人工智能+」行动，促进智能产品和服务加快规模化商业应用。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3156a4313a221452",
-    "source": "央视财经",
-    "slug": "state-council-ai-deployment"
+    "date": "2026-07-01",
+    "title": "Anthropic推出Claude Science AI科研工作台，科研自动化迈入新阶段",
+    "summary": "Anthropic于6月30日正式发布Claude Science，这是一款面向科研人员的AI工作平台，可将生物学和化学研究任务自动化，如预测蛋白质结构。Claude Science能以原生方式显示蛋白质和分子结构，每个结果均可重现并追溯到代码，首先以Beta版向企业付费用户开放。",
+    "url": "https://new.qq.com/rain/a/20260701A01LLE00",
+    "source": "财联社",
+    "slug": "anthropic-claude-science"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "美国AI芯片初创公司Etched完成8亿美元融资，估值达50亿美元",
+    "summary": "AI芯片初创公司Etched宣布累计完成8亿美元融资，投资者包括彼得·蒂尔、杰弗里·辛顿、李飞飞等AI领域领军人物。Etched已签署超过10亿美元的客户合同，首款a0芯片已在台积电N4P工艺流片成功，计划今年夏季出货机架级推理系统。",
+    "url": "https://new.qq.com/rain/a/20260701A014V400",
+    "source": "腾讯新闻",
+    "slug": "etched-8-billion-funding"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "Anthropic宣布Claude Sonnet 5面向所有套餐开放，限时优惠定价",
+    "summary": "Anthropic宣布Claude Sonnet 5自7月1日起面向所有套餐开放使用，限时优惠定价为每百万输入Token 2美元，每百万输出Token 10美元。此举被认为是Anthropic在IPO前争夺付费客户的重要商业动作。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5126a4442b042552",
+    "source": "环球市场播报",
+    "slug": "claude-sonnet-5-open-access"
   },
   {
     "date": "2026-06-30",
-    "title": "DeepSeek V4正式版官宣7月中旬上线，引入峰谷定价机制",
-    "summary": "DeepSeek团队6月29日宣布，DeepSeek V4正式版计划于7月中旬上线，同步调整API定价策略引入峰谷定价。V4-Pro版总参数1.6万亿，V4-Flash版2840亿参数，均支持100万字上下文且采用MIT开源协议。同时发布推理加速框架DSpark，生成速度提升57%-85%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1036a42461f80252",
-    "source": "IT之家",
-    "slug": "deepseek-v4-july-launch"
-  },
-  {
-    "date": "2026-06-23",
-    "title": "中国超算「灵晟」登顶全球TOP500，时隔九年重回世界第一",
-    "summary": "在德国汉堡ISC2026大会上，国家超级计算深圳中心的全国产「灵晟」超算以2.19EFlops持续性能登顶全球超算TOP500，成为世界首台持续性能超200亿亿次的超算系统，自研LX2 CPU和灵启高速互连网络实现全面国产化。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4796a3a700013952",
-    "source": "央视财经",
-    "slug": "lingsheng-supercomputer-top500"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "国务院印发教育发展「十五五」规划，推进人工智能全学段教育",
-    "summary": "国务院日前印发《教育发展「十五五」规划》，明确提出推进人工智能全学段教育，提升学生人工智能素养，增强提出问题和解决问题的能力，同时开展「人工智能+教育」行动，强化人工智能伦理规范和安全监管。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0986a42447611252",
+    "title": "国常会最新部署人工智能：加快关键技术攻关和超大规模智算集群建设",
+    "summary": "国务院总理李强6月29日主持召开国务院常务会议，听取人工智能发展情况汇报。会议强调要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设，强化高质量数据供给，深入实施「人工智能+」行动，牢牢掌握发展主动权。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9066a43b9c457952",
     "source": "新华社",
-    "slug": "fifteen-five-plan-ai-education"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "韩国政府公布史上最大规模半导体与AI投资计划，总额超千万亿韩元",
-    "summary": "韩国政府公布半导体、物理AI和AI数据中心「三角支柱」投资计划，总额达1461万亿韩元。其中800万亿韩元用于西南地区半导体生产基地，三星和SK海力士将在五年内将DRAM产能翻倍，AI数据中心投资达550万亿韩元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3786a432e4971952",
-    "source": "路透社",
-    "slug": "korea-semiconductor-ai-investment"
+    "slug": "state-council-ai-deployment-june29"
   },
   {
     "date": "2026-06-30",
-    "title": "英伟达机器人团队在京沪深招人，聚焦具身智能与灵巧操作",
-    "summary": "英伟达6月29日宣布机器人团队围绕具身智能、仿真、部署及解决方案四大方向开放招聘，北京、上海、深圳三地均设有岗位。重点研究灵巧操作、穿戴式传感器人体建模、全身移动操作等关键技术，打造下一代通用机器人系统。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2866a438b6371752",
-    "source": "英伟达",
-    "slug": "nvidia-robot-team-hiring"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "《人工智能智能体互联》系列7项国家标准正式发布",
-    "summary": "国家市场监督管理总局正式发布《人工智能智能体互联》系列7项国家标准，系统性搭建起「身份标识—能力描述—供需发现—协同交互—工具调用」全覆盖、闭环式标准规范，推动AI从「能用」迈向「好用」。",
-    "url": "https://www.jiadian.com.cn/hangye",
-    "source": "市场监管总局",
-    "slug": "ai-agent-interconnection-standards"
-  },
-  {
-    "date": "2026-06-30",
-    "title": "Rokid发布全球首款智能眼镜AIOS操作系统YodaOS",
-    "summary": "6月26日，乐奇Rokid Open Day 2026上发布全球首款智能眼镜AIOS操作系统YodaOS，彻底打破移动互联网时代的设备交互壁垒，重构AI时代人机交互逻辑，标志着智能眼镜行业从硬件比拼迈入原生AI操作系统驱动的新纪元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2646a4335d273152",
-    "source": "Rokid",
-    "slug": "rokid-yodaos-ai-glasses"
-  },
-  {
-    "date": "2026-06-30",
-    "title": "Stripe联合Anthropic、OpenAI基金会等推出5亿美元「攻克感冒」项目",
-    "summary": "支付巨头Stripe联合Anthropic、OpenAI基金会、Flu Lab、比尔·盖茨等推出Intercept项目，预算5亿美元，旨在攻克普通感冒和流感等呼吸道感染，开发可预防超75%有症状感染的广谱预防药物，并推动空气净化和杀菌技术普及。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4996a42b3bc95052",
+    "title": "深圳双算力拿下全球第一：「灵晟」超算登顶TOP500，「鹏城云脑Ⅲ」IO500双料第一",
+    "summary": "在德国汉堡ISC2026大会上，中国「灵晟」超算以2.19EFlops登顶全球超算TOP500榜首，紧接着「鹏城云脑Ⅲ」以绝对优势斩获IO500全球存储性能双料第一。深圳在高端计算领域实现系统能力的整体呈现，呼应国常会「牢牢掌握发展主动权」的要求。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9066a43b9c457952",
     "source": "企鹅号",
-    "slug": "stripe-intercept-common-cold"
+    "slug": "shenzhen-dual-computing-world-first"
   },
   {
     "date": "2026-06-30",
-    "title": "软银孙正义定下1000万亿日元净资产目标，宣布机器人批量生产",
+    "title": "士兰微宣布7月1日起全线涨价15%，功率半导体AI景气持续传导",
+    "summary": "国产功率半导体IDM龙头士兰微发布价格调整通知函，自7月1日起对各产品线统一上调15%。受上游原材料市场波动及产业链供需结构变化影响，晶圆制造关键原材料及封装测试成本显著增加，AI超级周期高景气正向上游全面传导。",
+    "url": "https://new.qq.com/rain/a/20260630A04PPV00",
+    "source": "快科技",
+    "slug": "silan-micro-price-hike-15-percent"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "「AI或替代3亿岗位」话题登微博热搜，引发社会广泛关注",
+    "summary": "「AI可能替代3亿个岗位」话题登上微博科技热搜。该数据源自高盛2023年研究报告。世界经济论坛《2025年未来就业报告》预测，到2030年AI等技术将使约9200万个岗位转型或消失，但同期将新增约1.7亿个岗位，净增约7800万个。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2886a4372a558952",
+    "source": "微博热搜",
+    "slug": "ai-job-replacement-trending"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "CS人工智能指数强势涨超4%，AI产业再获重磅政策加码",
+    "summary": "截至6月30日10:41，CS人工智能指数强势上涨4.13%，成分股紫光股份涨停，景嘉微上涨14.25%，奥比中光上涨8.50%。6月29日国常会加力推进人工智能创新突破的消息直接刺激AI板块全面走强。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7396a43333982752",
+    "source": "企鹅号",
+    "slug": "ai-stock-index-surge-4-percent"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "野村首席经济学家：中国在AI领域具备综合发展优势",
+    "summary": "野村中国首席经济学家陆挺表示，AI是一场真正划时代的技术革命。目前中国AI专利数量全球领先，大模型数量位居前列。据估算，2026年与AI相关的固定资产投资将为GDP增长贡献0.3个百分点。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6886a438ce886052",
+    "source": "财联社",
+    "slug": "nomura-china-ai-advantage"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "阿里成立ATH事业群，字节豆包首次跑通商业模型",
+    "summary": "阿里成立ATH（Alibaba Token Hub）事业群，将模型研发、平台能力和应用产品串联成闭环；字节旗下国民级AI应用豆包首次跑通商业模型；微信全面开放AI生态，14亿用户的超级入口正式接入智能服务。中国AI生态加速成型。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2246a43864196352",
+    "source": "企鹅号",
+    "slug": "alibaba-ath-bytedance-doubao-commercial"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "软银孙正义宣布机器人批量生产，定下1000万亿日元净资产目标",
     "summary": "软银创始人孙正义在年度股东大会上强调AI投资信心，宣布机器人批量生产，并将未来十余年净资产价值目标定为1000万亿日元。他驳斥AI泡沫论，称Arm估值空间巨大，计划带领公司实现人工超级智能。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3196a433c9a54752",
     "source": "企鹅号",
-    "slug": "softbank-son-ai-robot-mass-production"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "仙工智能登陆港交所，成为港股「机器人大脑第一股」",
-    "summary": "以「机器人大脑」为核心的平台型具身智能机器人企业上海仙工智能科技股份有限公司正式登陆香港交易所主板，股票代码06106.HK，每股定价101.6港元，成为港股市场「机器人大脑」第一股。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1566a4380d981152",
-    "source": "企鹅号",
-    "slug": "xiangong-intelligent-ipo"
+    "slug": "softbank-son-robot-mass-production"
   },
   {
     "date": "2026-06-30",
-    "title": "北京市长殷勇调研人工智能与具身智能产业，要求打造世界一流创新高地",
-    "summary": "北京市委副书记、市长殷勇在海淀区调研人工智能与具身智能产业发展，强调要充分发挥教育科技人才密集优势，大力培育壮大人工智能、机器人等新产业集群，着力打造世界一流的人工智能、具身智能产业创新高地。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3556a43161a58752",
-    "source": "人民财讯",
-    "slug": "beijing-mayor-ai-embodied-intelligence"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "纬钛机器人完成Pre-A轮融资，定义具身智能触觉新基建",
-    "summary": "机器人视触觉感知与灵巧操作公司上海纬钛科技有限公司宣布完成新一轮Pre-A轮融资，由红鸟启航基金领投，多家产业投资方联合参投。公司专注于机器人触觉感知技术，致力于打造具身智能触觉新基建。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2726a424acb01752",
+    "title": "Agentic AI时代到来：智能体成为2026年AI核心叙事",
+    "summary": "2026年AI叙事被Agent（智能体）彻底改写。从Devin、Manus到Claude Code，AI不再只是「会聊天的助手」，而是以「能交付的同事」姿态走进生产流程。当Agentic成为行业共识，个体如何与Agent共生、组织如何被Agent重写成为核心议题。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6796a43957b46752",
     "source": "企鹅号",
-    "slug": "vitai-robotics-pre-a-funding"
+    "slug": "agentic-ai-era"
   },
   {
     "date": "2026-06-30",
-    "title": "全球近20家半导体企业7月1日起调价，AI上游景气持续传导",
-    "summary": "AI超级周期的高景气正向上游卡点环节全面传导，全球近20家模拟及功率半导体企业即将于7月1日启动新一轮涨价潮。2026上半年AI芯片国产市占率首次突破52%，国产替代进程迈入新阶段。",
-    "url": "https://finance.eastmoney.com/news/cdfsd.html",
-    "source": "东方财富网",
-    "slug": "semiconductor-price-hike-july"
+    "title": "普林斯顿大学用AI设计射频芯片：数月流程压缩至6分钟",
+    "summary": "普林斯顿大学研究团队利用人工智能技术，将传统需要顶尖专家花费数月甚至更长时间的无线通信芯片设计流程缩短至数分钟，甚至能创造出人类难以理解但性能更优的芯片结构，研究成果已在相关学术平台公布。",
+    "url": "https://icsmart.cn/",
+    "source": "芯智讯",
+    "slug": "princeton-ai-chip-design-6-minutes"
   },
   {
     "date": "2026-06-30",
-    "title": "Meta发布新一代AI眼镜，扎克伯格称AI眼镜将接班手机",
-    "summary": "Meta在纽约正式发布新一代AI眼镜产品，CEO扎克伯格表示AI眼镜将接替智能手机成为未来主流个人计算平台。Meta明确将智能眼镜定位为个人超级智能入口，十年布局正在加速推进。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8616a43283089652",
-    "source": "企鹅号",
-    "slug": "meta-ai-glasses-next-gen"
+    "title": "谷歌发布全新AI创作工具，同时PAT论文审稿助手系统部署顶级会议",
+    "summary": "谷歌发布全新AI创作工具。同时谷歌研究院与卡内基梅隆大学联合开发的「论文助手工具」（PAT）已在两个顶级计算机科学会议中真实部署测试，该系统可辅助学术论文审稿流程，AI审稿时代悄然开启。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2066a443cc783952",
+    "source": "环球市场播报",
+    "slug": "google-ai-creation-tool-pat-reviewer"
   }
 ]
