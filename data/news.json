@@ -1,114 +1,114 @@
 [
   {
     "date": "2026-07-01",
-    "title": "Anthropic推出Claude Science AI科研工作台，科研自动化迈入新阶段",
-    "summary": "Anthropic于6月30日正式发布Claude Science，这是一款面向科研人员的AI工作平台，可将生物学和化学研究任务自动化，如预测蛋白质结构。Claude Science能以原生方式显示蛋白质和分子结构，每个结果均可重现并追溯到代码，首先以Beta版向企业付费用户开放。",
-    "url": "https://new.qq.com/rain/a/20260701A01LLE00",
-    "source": "财联社",
-    "slug": "anthropic-claude-science"
+    "title": "美团开源万亿参数大模型LongCat-2.0",
+    "summary": "美团正式发布新一代万亿参数大模型LongCat-2.0并宣布开源。采用MoE架构，总参数1.6万亿，平均激活约48B，原生支持1M超长上下文，是业界首个在五万卡国产算力集群上完成全流程训练与推理的万亿参数模型。其预览版已跻身OpenRouter全球调用量前三。",
+    "url": "https://new.qq.com/rain/a/20260630A055YL00",
+    "source": "腾讯网",
+    "slug": "meituan-longcat-20-llm"
   },
   {
     "date": "2026-07-01",
-    "title": "美国AI芯片初创公司Etched完成8亿美元融资，估值达50亿美元",
-    "summary": "AI芯片初创公司Etched宣布累计完成8亿美元融资，投资者包括彼得·蒂尔、杰弗里·辛顿、李飞飞等AI领域领军人物。Etched已签署超过10亿美元的客户合同，首款a0芯片已在台积电N4P工艺流片成功，计划今年夏季出货机架级推理系统。",
-    "url": "https://new.qq.com/rain/a/20260701A014V400",
+    "title": "华为开源盘古openPangu-2.0-Flash模型",
+    "summary": "华为正式开源920亿参数的openPangu-2.0-Flash大模型，支持512K超长上下文窗口。该系列分为Pro（505B总参/18B激活）和Flash（92B总参/6B激活）两个版本，深度适配昇腾算力，单卡吞吐率达行业主流开源模型的两倍。",
+    "url": "https://new.qq.com/rain/a/20260630A054V900",
+    "source": "腾讯网",
+    "slug": "huawei-openpangu-20-flash"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "优必选发布超仿生人形机器人U1系列，订单破万",
+    "summary": "优必选在深圳发布消费级品牌「优世界」首款产品——全尺寸超仿生人形机器人U1系列，88个自由度，售价11.98万至99万元。搭载情感共鸣大模型，全渠道订单已超1.3万台，将于9月16日开始交付。",
+    "url": "https://view.inews.qq.com/a/20260701A02HHY00",
     "source": "腾讯新闻",
-    "slug": "etched-8-billion-funding"
+    "slug": "ubtech-u1-humanoid-robot"
   },
   {
     "date": "2026-07-01",
-    "title": "Anthropic宣布Claude Sonnet 5面向所有套餐开放，限时优惠定价",
-    "summary": "Anthropic宣布Claude Sonnet 5自7月1日起面向所有套餐开放使用，限时优惠定价为每百万输入Token 2美元，每百万输出Token 10美元。此举被认为是Anthropic在IPO前争夺付费客户的重要商业动作。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5126a4442b042552",
-    "source": "环球市场播报",
-    "slug": "claude-sonnet-5-open-access"
+    "title": "英伟达机器人团队在京沪深三地开放招聘",
+    "summary": "英伟达宣布其机器人团队围绕具身智能、仿真、部署及解决方案架构四大方向开放招聘，北京、上海、深圳均设有岗位。其中具身智能方向聚焦灵巧操作、全身移动操作与全身控制等核心技术，旨在打造下一代通用机器人系统。",
+    "url": "https://new.qq.com/rain/a/20260630A0BESN00",
+    "source": "腾讯网",
+    "slug": "nvidia-robot-team-hiring-china"
   },
   {
-    "date": "2026-06-30",
-    "title": "国常会最新部署人工智能：加快关键技术攻关和超大规模智算集群建设",
-    "summary": "国务院总理李强6月29日主持召开国务院常务会议，听取人工智能发展情况汇报。会议强调要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设，强化高质量数据供给，深入实施「人工智能+」行动，牢牢掌握发展主动权。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9066a43b9c457952",
-    "source": "新华社",
-    "slug": "state-council-ai-deployment-june29"
-  },
-  {
-    "date": "2026-06-30",
-    "title": "深圳双算力拿下全球第一：「灵晟」超算登顶TOP500，「鹏城云脑Ⅲ」IO500双料第一",
-    "summary": "在德国汉堡ISC2026大会上，中国「灵晟」超算以2.19EFlops登顶全球超算TOP500榜首，紧接着「鹏城云脑Ⅲ」以绝对优势斩获IO500全球存储性能双料第一。深圳在高端计算领域实现系统能力的整体呈现，呼应国常会「牢牢掌握发展主动权」的要求。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9066a43b9c457952",
+    "date": "2026-07-01",
+    "title": "1-5月我国具身智能产业销售收入同比增长22.4%",
+    "summary": "国家税务总局最新税收数据显示，今年1-5月我国具身智能产业发展向好，企业销售收入同比增长22.4%。其中机器人本体与整机制造增长30.1%，AI算法与软件集成增长24.5%，系统集成与行业应用增长27.9%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6986a446a8e33652",
     "source": "企鹅号",
-    "slug": "shenzhen-dual-computing-world-first"
+    "slug": "embodied-ai-revenue-growth-2026"
   },
   {
-    "date": "2026-06-30",
-    "title": "士兰微宣布7月1日起全线涨价15%，功率半导体AI景气持续传导",
-    "summary": "国产功率半导体IDM龙头士兰微发布价格调整通知函，自7月1日起对各产品线统一上调15%。受上游原材料市场波动及产业链供需结构变化影响，晶圆制造关键原材料及封装测试成本显著增加，AI超级周期高景气正向上游全面传导。",
-    "url": "https://new.qq.com/rain/a/20260630A04PPV00",
-    "source": "快科技",
-    "slug": "silan-micro-price-hike-15-percent"
+    "date": "2026-07-01",
+    "title": "八部门发文深化人工智能与工业互联网融合应用",
+    "summary": "工信部等八部门印发《关于推动工业互联网高质量发展的实施意见》，提出深化人工智能与工业互联网融合应用，支持开展工业领域大模型和特定场景小模型训练，加快工业智能体推广，提升全环节智能化水平。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4726a4392ea70552",
+    "source": "企鹅号",
+    "slug": "eight-ministries-ai-industrial-internet"
   },
   {
-    "date": "2026-06-30",
-    "title": "「AI或替代3亿岗位」话题登微博热搜，引发社会广泛关注",
-    "summary": "「AI可能替代3亿个岗位」话题登上微博科技热搜。该数据源自高盛2023年研究报告。世界经济论坛《2025年未来就业报告》预测，到2030年AI等技术将使约9200万个岗位转型或消失，但同期将新增约1.7亿个岗位，净增约7800万个。",
+    "date": "2026-07-01",
+    "title": "中国超算「灵晟」登顶全球超算TOP500榜首",
+    "summary": "在德国汉堡ISC2026大会上，全国产自主研制的「灵晟」超级计算机以2.198EFlops持续双精度浮点性能登顶全球TOP500榜首。这是继2017年「神威·太湖之光」后，中国超算时隔九年重返世界之巅。",
+    "url": "https://new.qq.com/rain/a/20260625A07LDJ00",
+    "source": "腾讯网",
+    "slug": "chinas-lingsheng-supercomputer-tops-top500"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "DeepSeek联合北大发布DSpark，推理速度提升60%-85%",
+    "summary": "DeepSeek联合北大发布DSpark推测解码框架，采用半自回归结构和置信度调度机制。在DeepSeek-V4线上系统中推理速度提升60%至85%，DeepSeek创始人梁文锋亲自位列论文作者。同步开源全栈代码库DeepSpec。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4966a436c7e02752",
+    "source": "企鹅号",
+    "slug": "deepseek-dspark-inference-speedup"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "AI应用落地提速，算力产业链持续受关注",
+    "summary": "多家企业近期披露AI应用进展，模型推理、行业知识库和智能办公场景继续扩容。机构认为，算力基础设施、数据服务和垂直应用仍是后续观察重点，AI产业正从技术验证进入规模化落地阶段。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1106a4479e995552",
+    "source": "企鹅号",
+    "slug": "ai-applications-acceleration-computing-chain"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "快手发布2026反诈治理报告，AI大模型日均调用84万次",
+    "summary": "快手发布《2026反诈治理报告》，AI大模型赋能反诈日均调用84万余次，每周独立识别风险账号9.7万个，涉诈风险召回率环比提升80%。主动拦截阻断98.1%的诈骗行为，风控策略上线周期缩短60%。",
+    "url": "https://new.qq.com/rain/a/20260630A0ABRP00",
+    "source": "腾讯网",
+    "slug": "kuaishou-2026-anti-fraud-ai"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "中国信通院发布AI Infra运维领域首个评测基准",
+    "summary": "在2026「众智」大模型开放智算生态协同研讨会上，中国信通院正式发布AISHPerf 3.0版本，包含智算运维智能体和算子生成智能体两大评测基准。这是AI Infra运维领域的首个评测基准，为智算产业标准化提供统一参照框架。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2746a43b77d70452",
+    "source": "企鹅号",
+    "slug": "caict-aishperf-ai-infra-benchmark"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "「AI或替代3亿岗位」话题登上微博热搜",
+    "summary": "「AI可能替代3亿个岗位」话题登上微博科技热搜。该数据源自高盛2023年研究。世界经济论坛《2025未来就业报告》预测，到2030年AI等技术将使约9200万个岗位转型或消失，但同期将新增约1.7亿个岗位。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2886a4372a558952",
-    "source": "微博热搜",
-    "slug": "ai-job-replacement-trending"
-  },
-  {
-    "date": "2026-06-30",
-    "title": "CS人工智能指数强势涨超4%，AI产业再获重磅政策加码",
-    "summary": "截至6月30日10:41，CS人工智能指数强势上涨4.13%，成分股紫光股份涨停，景嘉微上涨14.25%，奥比中光上涨8.50%。6月29日国常会加力推进人工智能创新突破的消息直接刺激AI板块全面走强。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7396a43333982752",
     "source": "企鹅号",
-    "slug": "ai-stock-index-surge-4-percent"
+    "slug": "ai-job-displacement-trending-weibo"
   },
   {
-    "date": "2026-06-30",
-    "title": "野村首席经济学家：中国在AI领域具备综合发展优势",
-    "summary": "野村中国首席经济学家陆挺表示，AI是一场真正划时代的技术革命。目前中国AI专利数量全球领先，大模型数量位居前列。据估算，2026年与AI相关的固定资产投资将为GDP增长贡献0.3个百分点。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6886a438ce886052",
-    "source": "财联社",
-    "slug": "nomura-china-ai-advantage"
-  },
-  {
-    "date": "2026-06-30",
-    "title": "阿里成立ATH事业群，字节豆包首次跑通商业模型",
-    "summary": "阿里成立ATH（Alibaba Token Hub）事业群，将模型研发、平台能力和应用产品串联成闭环；字节旗下国民级AI应用豆包首次跑通商业模型；微信全面开放AI生态，14亿用户的超级入口正式接入智能服务。中国AI生态加速成型。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2246a43864196352",
+    "date": "2026-07-01",
+    "title": "深圳兔展智能自研UniWorld视觉大模型跻身国际第一阵营",
+    "summary": "深圳兔展智能自研的UniWorld系列视觉大模型，是国内最早实现理解、生成、编辑统一架构的视觉大模型，早于谷歌同类产品。以「一句话办成一件事」为理念，助力广东增强人工智能产业竞争力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9126a446ed301452",
     "source": "企鹅号",
-    "slug": "alibaba-ath-bytedance-doubao-commercial"
+    "slug": "tuzhan-uniworld-vision-llm"
   },
   {
-    "date": "2026-06-30",
-    "title": "软银孙正义宣布机器人批量生产，定下1000万亿日元净资产目标",
-    "summary": "软银创始人孙正义在年度股东大会上强调AI投资信心，宣布机器人批量生产，并将未来十余年净资产价值目标定为1000万亿日元。他驳斥AI泡沫论，称Arm估值空间巨大，计划带领公司实现人工超级智能。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3196a433c9a54752",
+    "date": "2026-07-01",
+    "title": "科大讯飞星火法律大模型亮相2026政法装备展",
+    "summary": "科大讯飞在2026政法装备展上展出基于星火X2大模型的政法智能解决方案。AI检察官助手已服务18省份3800名办案人员，累计辅助办案5.1万件。政法协同平台落地16省市，刑事案件办理周期平均压缩四成。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5946a44868f27852",
     "source": "企鹅号",
-    "slug": "softbank-son-robot-mass-production"
-  },
-  {
-    "date": "2026-06-30",
-    "title": "Agentic AI时代到来：智能体成为2026年AI核心叙事",
-    "summary": "2026年AI叙事被Agent（智能体）彻底改写。从Devin、Manus到Claude Code，AI不再只是「会聊天的助手」，而是以「能交付的同事」姿态走进生产流程。当Agentic成为行业共识，个体如何与Agent共生、组织如何被Agent重写成为核心议题。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6796a43957b46752",
-    "source": "企鹅号",
-    "slug": "agentic-ai-era"
-  },
-  {
-    "date": "2026-06-30",
-    "title": "普林斯顿大学用AI设计射频芯片：数月流程压缩至6分钟",
-    "summary": "普林斯顿大学研究团队利用人工智能技术，将传统需要顶尖专家花费数月甚至更长时间的无线通信芯片设计流程缩短至数分钟，甚至能创造出人类难以理解但性能更优的芯片结构，研究成果已在相关学术平台公布。",
-    "url": "https://icsmart.cn/",
-    "source": "芯智讯",
-    "slug": "princeton-ai-chip-design-6-minutes"
-  },
-  {
-    "date": "2026-06-30",
-    "title": "谷歌发布全新AI创作工具，同时PAT论文审稿助手系统部署顶级会议",
-    "summary": "谷歌发布全新AI创作工具。同时谷歌研究院与卡内基梅隆大学联合开发的「论文助手工具」（PAT）已在两个顶级计算机科学会议中真实部署测试，该系统可辅助学术论文审稿流程，AI审稿时代悄然开启。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2066a443cc783952",
-    "source": "环球市场播报",
-    "slug": "google-ai-creation-tool-pat-reviewer"
+    "slug": "iflytek-spark-legal-ai-smart-court"
   }
 ]
