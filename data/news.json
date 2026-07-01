@@ -2,113 +2,121 @@
   {
     "date": "2026-07-01",
     "title": "美团开源万亿参数大模型LongCat-2.0",
-    "summary": "美团正式发布新一代万亿参数大模型LongCat-2.0并宣布开源。采用MoE架构，总参数1.6万亿，平均激活约48B，原生支持1M超长上下文，是业界首个在五万卡国产算力集群上完成全流程训练与推理的万亿参数模型。其预览版已跻身OpenRouter全球调用量前三。",
-    "url": "https://new.qq.com/rain/a/20260630A055YL00",
+    "summary": "美团正式发布新一代万亿参数大模型LongCat-2.0并宣布开源。采用MoE架构，总参数1.6T，平均激活约48B，在五万卡国产算力集群上完成全流程训练，原生支持1M超长上下文。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4696a445dc655252",
     "source": "腾讯网",
-    "slug": "meituan-longcat-20-llm"
+    "slug": "meituan-longcat-20-open-source"
   },
   {
     "date": "2026-07-01",
-    "title": "华为开源盘古openPangu-2.0-Flash模型",
-    "summary": "华为正式开源920亿参数的openPangu-2.0-Flash大模型，支持512K超长上下文窗口。该系列分为Pro（505B总参/18B激活）和Flash（92B总参/6B激活）两个版本，深度适配昇腾算力，单卡吞吐率达行业主流开源模型的两倍。",
-    "url": "https://new.qq.com/rain/a/20260630A054V900",
+    "title": "华为开源openPangu-2.0-Flash大模型",
+    "summary": "华为正式开源920亿参数的openPangu-2.0-Flash模型，支持512K超长上下文。Pro版（505B总参/18B激活）和Flash版（92B总参/6B激活）权重、推理代码与训推算子同步上线开源平台。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4696a445dc655252",
     "source": "腾讯网",
-    "slug": "huawei-openpangu-20-flash"
-  },
-  {
-    "date": "2026-07-01",
-    "title": "优必选发布超仿生人形机器人U1系列，订单破万",
-    "summary": "优必选在深圳发布消费级品牌「优世界」首款产品——全尺寸超仿生人形机器人U1系列，88个自由度，售价11.98万至99万元。搭载情感共鸣大模型，全渠道订单已超1.3万台，将于9月16日开始交付。",
-    "url": "https://view.inews.qq.com/a/20260701A02HHY00",
-    "source": "腾讯新闻",
-    "slug": "ubtech-u1-humanoid-robot"
+    "slug": "huawei-openpangu-20-flash-open-source"
   },
   {
     "date": "2026-07-01",
     "title": "英伟达机器人团队在京沪深三地开放招聘",
-    "summary": "英伟达宣布其机器人团队围绕具身智能、仿真、部署及解决方案架构四大方向开放招聘，北京、上海、深圳均设有岗位。其中具身智能方向聚焦灵巧操作、全身移动操作与全身控制等核心技术，旨在打造下一代通用机器人系统。",
-    "url": "https://new.qq.com/rain/a/20260630A0BESN00",
+    "summary": "英伟达宣布其机器人团队围绕具身智能、仿真、部署及解决方案架构四大方向在北京、上海、深圳招聘，聚焦灵巧操作、全身移动操作与全身控制等核心技术。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4696a445dc655252",
     "source": "腾讯网",
-    "slug": "nvidia-robot-team-hiring-china"
+    "slug": "nvidia-robot-team-hiring-beijing-shanghai-shenzhen"
   },
   {
     "date": "2026-07-01",
-    "title": "1-5月我国具身智能产业销售收入同比增长22.4%",
-    "summary": "国家税务总局最新税收数据显示，今年1-5月我国具身智能产业发展向好，企业销售收入同比增长22.4%。其中机器人本体与整机制造增长30.1%，AI算法与软件集成增长24.5%，系统集成与行业应用增长27.9%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6986a446a8e33652",
+    "title": "AI推理芯片初创公司获8亿美元融资叫板英伟达",
+    "summary": "手握十亿美金订单、对标英伟达的AI推理芯片初创公司完成8亿美元新一轮融资，台积电参投。该公司专注于AI推理场景的专用芯片设计。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3826a449c4296952",
     "source": "企鹅号",
-    "slug": "embodied-ai-revenue-growth-2026"
+    "slug": "ai-inference-chip-startup-800m-funding"
   },
   {
     "date": "2026-07-01",
-    "title": "八部门发文深化人工智能与工业互联网融合应用",
-    "summary": "工信部等八部门印发《关于推动工业互联网高质量发展的实施意见》，提出深化人工智能与工业互联网融合应用，支持开展工业领域大模型和特定场景小模型训练，加快工业智能体推广，提升全环节智能化水平。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4726a4392ea70552",
+    "title": "特斯拉首辆量产版Cybercab上路测试",
+    "summary": "特斯拉首辆量产版Cybercab（无方向盘、无踏板设计）在奥斯汀上路测试，标志着特斯拉全无人驾驶出租车量产进程取得实质性进展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3826a449c4296952",
     "source": "企鹅号",
-    "slug": "eight-ministries-ai-industrial-internet"
+    "slug": "tesla-first-production-cybercab-on-road"
   },
   {
     "date": "2026-07-01",
-    "title": "中国超算「灵晟」登顶全球超算TOP500榜首",
-    "summary": "在德国汉堡ISC2026大会上，全国产自主研制的「灵晟」超级计算机以2.198EFlops持续双精度浮点性能登顶全球TOP500榜首。这是继2017年「神威·太湖之光」后，中国超算时隔九年重返世界之巅。",
-    "url": "https://new.qq.com/rain/a/20260625A07LDJ00",
-    "source": "腾讯网",
-    "slug": "chinas-lingsheng-supercomputer-tops-top500"
-  },
-  {
-    "date": "2026-07-01",
-    "title": "DeepSeek联合北大发布DSpark，推理速度提升60%-85%",
-    "summary": "DeepSeek联合北大发布DSpark推测解码框架，采用半自回归结构和置信度调度机制。在DeepSeek-V4线上系统中推理速度提升60%至85%，DeepSeek创始人梁文锋亲自位列论文作者。同步开源全栈代码库DeepSpec。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4966a436c7e02752",
+    "title": "OpenAI靠系统优化实现推理成本减半",
+    "summary": "OpenAI在不购买新芯片的情况下，通过系统架构优化和工程改进实现AI推理成本减半，显著提升了现有算力基础设施的效率。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3826a449c4296952",
     "source": "企鹅号",
-    "slug": "deepseek-dspark-inference-speedup"
+    "slug": "openai-inference-cost-half-by-optimization"
   },
   {
     "date": "2026-07-01",
-    "title": "AI应用落地提速，算力产业链持续受关注",
-    "summary": "多家企业近期披露AI应用进展，模型推理、行业知识库和智能办公场景继续扩容。机构认为，算力基础设施、数据服务和垂直应用仍是后续观察重点，AI产业正从技术验证进入规模化落地阶段。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1106a4479e995552",
+    "title": "Anthropic发布Claude Sonnet 5并设为默认模型",
+    "summary": "Anthropic正式发布新一代中端模型Claude Sonnet 5，并将其设为Claude平台默认模型，向免费及付费用户全面开放。同时Anthropic还开展了临床前药物试验。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9266a44a2e605452",
     "source": "企鹅号",
-    "slug": "ai-applications-acceleration-computing-chain"
+    "slug": "anthropic-claude-sonnet-5-release"
   },
   {
     "date": "2026-07-01",
-    "title": "快手发布2026反诈治理报告，AI大模型日均调用84万次",
-    "summary": "快手发布《2026反诈治理报告》，AI大模型赋能反诈日均调用84万余次，每周独立识别风险账号9.7万个，涉诈风险召回率环比提升80%。主动拦截阻断98.1%的诈骗行为，风控策略上线周期缩短60%。",
-    "url": "https://new.qq.com/rain/a/20260630A0ABRP00",
-    "source": "腾讯网",
-    "slug": "kuaishou-2026-anti-fraud-ai"
-  },
-  {
-    "date": "2026-07-01",
-    "title": "中国信通院发布AI Infra运维领域首个评测基准",
-    "summary": "在2026「众智」大模型开放智算生态协同研讨会上，中国信通院正式发布AISHPerf 3.0版本，包含智算运维智能体和算子生成智能体两大评测基准。这是AI Infra运维领域的首个评测基准，为智算产业标准化提供统一参照框架。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2746a43b77d70452",
+    "title": "KKR、英伟达等四方成立AI基础设施公司Helix",
+    "summary": "KKR、英伟达与其他两家合作伙伴共同成立AI基础设施公司Helix，专注构建大规模AI算力基础设施，以应对持续增长的AI计算需求。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3826a449c4296952",
     "source": "企鹅号",
-    "slug": "caict-aishperf-ai-infra-benchmark"
+    "slug": "kkr-nvidia-helix-ai-infrastructure"
   },
   {
     "date": "2026-07-01",
-    "title": "「AI或替代3亿岗位」话题登上微博热搜",
-    "summary": "「AI可能替代3亿个岗位」话题登上微博科技热搜。该数据源自高盛2023年研究。世界经济论坛《2025未来就业报告》预测，到2030年AI等技术将使约9200万个岗位转型或消失，但同期将新增约1.7亿个岗位。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2886a4372a558952",
+    "title": "八部门印发推动工业互联网高质量发展实施意见",
+    "summary": "工信部等八部门印发《关于推动工业互联网高质量发展的实施意见》，目标到2030年核心产业增加值突破2.5万亿元，建设5万张工业5G专网，深化AI与工业互联网融合应用。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1126a44730c39752",
     "source": "企鹅号",
-    "slug": "ai-job-displacement-trending-weibo"
+    "slug": "eight-ministries-industrial-internet-ai-policy"
   },
   {
     "date": "2026-07-01",
-    "title": "深圳兔展智能自研UniWorld视觉大模型跻身国际第一阵营",
-    "summary": "深圳兔展智能自研的UniWorld系列视觉大模型，是国内最早实现理解、生成、编辑统一架构的视觉大模型，早于谷歌同类产品。以「一句话办成一件事」为理念，助力广东增强人工智能产业竞争力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9126a446ed301452",
-    "source": "企鹅号",
-    "slug": "tuzhan-uniworld-vision-llm"
+    "title": "中国超算「灵晟」登顶全球TOP500榜首",
+    "summary": "在德国ISC2026大会上，全国产自主研制的「灵晟」超级计算机以2.198EFlops持续双精度浮点性能登顶全球TOP500榜首，是中国超算时隔九年重返世界之巅。",
+    "url": "http://www.xbxxb.com/kj/1.html",
+    "source": "西北在线",
+    "slug": "china-lingsheng-supercomputer-top500"
   },
   {
     "date": "2026-07-01",
-    "title": "科大讯飞星火法律大模型亮相2026政法装备展",
-    "summary": "科大讯飞在2026政法装备展上展出基于星火X2大模型的政法智能解决方案。AI检察官助手已服务18省份3800名办案人员，累计辅助办案5.1万件。政法协同平台落地16省市，刑事案件办理周期平均压缩四成。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5946a44868f27852",
+    "title": "联合国儿童基金会：全球至少2000万儿童已使用AI",
+    "summary": "联合国儿童基金会发布声明称，儿童正在快速接受人工智能，全球至少2000万儿童已使用过AI。超过200万儿童表示会就担忧的问题向AI寻求建议，约1300万儿童使用AI辅助学习。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9006a44e26215252",
     "source": "企鹅号",
-    "slug": "iflytek-spark-legal-ai-smart-court"
+    "slug": "unicef-20-million-children-use-ai"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "科大讯飞发布四款企业级AI新品",
+    "summary": "科大讯飞发布星火智能语音、星火智能推理平台等四款企业级AI产品，覆盖业务经营、人机交互、模型调度全环节，CPU架构即可高效运行，帮助能源、金融等行业推动大模型规模化落地。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0756a44b40a46852",
+    "source": "企鹅号",
+    "slug": "iflytek-four-enterprise-ai-products"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "明略科技发布Octo开源可信Agent协作网络",
+    "summary": "明略科技正式发布Octo——首个开源可信的Agent协作网络，支持私有化部署，将孤立的AI Agent重构为可协同、可编排的组织级数字劳动力，构建「Agent之间的互联网」。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9266a44a2e605452",
+    "source": "企鹅号",
+    "slug": "minglue-octo-open-source-agent-network"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "江苏出台AI+住房城乡建设行动方案",
+    "summary": "江苏省住建厅发布《江苏省「人工智能+住房城乡建设」行动方案》，提出到2027年AI智能终端与智能体应用普及率超70%，到2030年普及率超90%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3416a43b78a94452",
+    "source": "企鹅号",
+    "slug": "jiangsu-ai-plus-urban-rural-construction"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "2026中国AI大模型创新企业榜TOP20揭晓",
+    "summary": "第一新声发布《2026中国AI大模型创新企业榜TOP20》，上榜企业包括DeepSeek、字节跳动（豆包）、阿里（千问）、智谱、MiniMax、腾讯（混元）、月之暗面（Kimi）、百度（文心）、阶跃星辰等。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5356a44aa6102352",
+    "source": "企鹅号",
+    "slug": "2026-china-ai-llm-top20-enterprises"
   }
 ]
