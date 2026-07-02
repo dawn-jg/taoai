@@ -1,122 +1,98 @@
 [
   {
     "date": "2026-07-01",
-    "title": "ChatGPT全球市场份额首度跌破五成",
-    "summary": "据Sensor Tower发布《2026年AI行业报告》，随着DeepSeek、Gemini等竞品涌现，ChatGPT在全球AI助手市场份额首次跌破50%，大模型市场格局从单一巨头垄断转向多方竞争态势。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6846a45297643652",
+    "title": "ChatGPT全球市场份额首次跌破50%",
+    "summary": "Sensor Tower发布《2026年AI行业报告》显示，随着越来越多竞争对手涌现，ChatGPT在全球AI助手市场份额首次跌破50%，大模型市场格局从单一巨头垄断转向多方竞争。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4126a45058d38952",
     "source": "新华社",
-    "slug": "chatgpt-market-share-below-50-percent"
+    "slug": "chatgpt-market-share-below-50-pct"
   },
   {
     "date": "2026-07-01",
-    "title": "美团开源万亿参数大模型LongCat-2.0",
-    "summary": "美团正式发布并开源万亿参数大模型LongCat-2.0，总参数1.6T，MoE架构平均激活约48B，在五万卡国产算力集群上完成全流程训练，原生支持1M超长上下文，预训练数据超30T tokens。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4696a445dc655252",
-    "source": "腾讯网",
-    "slug": "meituan-longcat-20-open-source"
-  },
-  {
-    "date": "2026-07-01",
-    "title": "美国商务部解除Anthropic两款AI模型出口管制",
-    "summary": "Anthropic宣布收到美国商务部通知，正式解除对Claude Fable 5和Mythos 5两款大模型的出口管制，相关模型服务将于7月2日起恢复全球访问。",
-    "url": "http://guigu.org/",
-    "source": "硅谷网",
-    "slug": "us-commerce-lifts-anthropic-export-restrictions"
-  },
-  {
-    "date": "2026-07-01",
-    "title": "彭博首席经济学家：AI竞赛成全球经济关键变量",
-    "summary": "彭博首席经济学家欧乐鹰表示，AI将决定未来全球经济竞争格局。决定AI竞争力的五大因素是能源、硬件、AI模型、应用落地能力和公众接受度，中美在不同领域各有所长。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4876a45746924952",
-    "source": "中国日报",
-    "slug": "bloomberg-ai-competition-global-economy"
-  },
-  {
-    "date": "2026-07-01",
-    "title": "Anthropic推出Claude Science AI科研工作台",
-    "summary": "Anthropic推出Claude Science，一款旨在帮助科学家实现科研自动化的新软件，AI开始接管科研流水线，覆盖实验设计、数据分析和论文撰写等环节。",
-    "url": "https://enterprise.eastmoney.com/a/ccyzx.html",
-    "source": "东方财富网",
-    "slug": "anthropic-claude-science-research"
-  },
-  {
-    "date": "2026-07-01",
-    "title": "谷歌发布Gemini Omni多模态模型与AI创作工具升级",
-    "summary": "谷歌在I/O大会上发布Gemini Omni模型，支持理解文本、图像、音频和视频输入并生成连贯视频内容，用户可通过自然语言对话式编辑视频，如更换角色、调整光线或改变场景。",
-    "url": "https://www.iimedia.cn/c1088",
-    "source": "艾媒网",
-    "slug": "google-gemini-omni-multimodal"
-  },
-  {
-    "date": "2026-07-01",
-    "title": "联合国儿基会：全球至少2000万儿童已使用AI",
-    "summary": "联合国儿童基金会发布声明称，儿童接受AI的速度比成年人快三倍以上，全球至少2000万儿童已使用过AI。超过200万儿童就担忧的问题向AI寻求建议，约1300万儿童用AI辅助学习。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7606a4500fd21752",
-    "source": "腾讯网",
-    "slug": "unicef-20-million-children-ai"
-  },
-  {
-    "date": "2026-07-01",
-    "title": "Anthropic发布Claude Sonnet 5设为默认模型",
-    "summary": "Anthropic正式发布新一代中端模型Claude Sonnet 5，并设为Claude平台默认模型，向免费及付费用户全面开放。该模型在推理、编程和创意写作等任务中表现显著提升。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9266a44a2e605452",
-    "source": "腾讯网",
-    "slug": "anthropic-claude-sonnet-5-default"
-  },
-  {
-    "date": "2026-07-01",
-    "title": "OpenAI发布GPT-5.6系列模型设分级访问",
-    "summary": "OpenAI发布GPT-5.6系列模型，含旗舰Sol版、日常Terra版和高性价比Luna版。应美国政府要求，初期仅向经政府审批的「可信任合作方」开放访问权限。",
+    "title": "微软推出7款自主研发MAI系列模型",
+    "summary": "微软推出MAI系列模型，包括编码模型MAI-Code-1-Flash及Luna版本，业内人士认为有助于减少对OpenAI模型的依赖并降低开发者使用成本。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3216a4507d649752",
-    "source": "腾讯网",
-    "slug": "openai-gpt-56-tiered-access"
-  },
-  {
-    "date": "2026-07-01",
-    "title": "微软推出7款MAI系列自研AI模型",
-    "summary": "微软推出自主研发的7款MAI系列模型，包括编码模型MAI-Code-1-Flash。业内人士认为此举有助于减少微软对OpenAI模型的依赖，并能节省开发者使用成本。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6846a45297643652",
     "source": "新华社",
     "slug": "microsoft-mai-series-models"
   },
   {
     "date": "2026-07-01",
-    "title": "八部门印发推动工业互联网高质量发展实施意见",
-    "summary": "工信部等八部门印发《关于推动工业互联网高质量发展的实施意见》，目标到2030年核心产业增加值突破2.5万亿元，建设5万张工业5G专网，深化AI与工业互联网融合。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1126a44730c39752",
-    "source": "腾讯网",
-    "slug": "eight-ministries-industrial-internet-policy"
+    "title": "OpenAI发布GPT-5.6系列模型",
+    "summary": "OpenAI发布GPT-5.6系列模型，Sol版本为旗舰模型，评估数据显示其在编程、生物学和网络安全领域能力显著提升。初期仅向经美国政府审批的可信合作方开放。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3216a4507d649752",
+    "source": "新华社",
+    "slug": "openai-gpt-5-6-series"
   },
   {
     "date": "2026-07-01",
-    "title": "英伟达机器人团队在京沪深三地招聘",
-    "summary": "英伟达机器人团队围绕具身智能、仿真、部署及解决方案架构四大方向在北京、上海、深圳招聘，聚焦灵巧操作、全身移动操作与全身控制等核心技术方向。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4696a445dc655252",
-    "source": "腾讯网",
-    "slug": "nvidia-robot-team-hiring-china"
+    "title": "稀宇科技MiniMax发布开源旗舰模型M3",
+    "summary": "MiniMax发布开源旗舰模型MiniMax M3，具备前沿编程能力、百万词元上下文、原生多模态三项核心能力，在编码与智能体评测中达到行业顶尖水平。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3216a4507d649752",
+    "source": "新华社",
+    "slug": "minimax-m3-open-source-model"
   },
   {
     "date": "2026-07-01",
-    "title": "明略科技发布Octo开源可信Agent协作网络",
-    "summary": "明略科技正式发布Octo——首个开源可信的Agent协作网络，支持私有化部署，将孤立AI Agent重构为可协同、可编排的组织级数字劳动力，构建Agent间的互联网络。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9266a44a2e605452",
-    "source": "腾讯网",
-    "slug": "minglue-octo-agent-network"
+    "title": "智谱AI推出新一代旗舰模型GLM-5.2",
+    "summary": "中国AI企业智谱推出新一代旗舰模型GLM-5.2，受到国际关注。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3216a4507d649752",
+    "source": "新华社",
+    "slug": "zhipu-glm-5-2-model"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "NASA向三家公司授予5.9亿美元月球着陆器合同",
+    "summary": "NASA选定Astrobotic Technology（2.98亿美元）、Firefly Aerospace（1.44亿美元）和Intuitive Machines（1.48亿美元）三家公司向月球发射机器人着陆器，作为2030年前建立月球基地计划的一部分。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a45b62829452",
+    "source": "企鹅号",
+    "slug": "nasa-lunar-lander-contracts"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "三星HBM4E可靠性测试良率提升至70%以上",
+    "summary": "三星电子首席技术官表示HBM4E可靠性测试良率已提升至70%以上，业界认为标志着开发进程正式进入稳定区间。80%以上被视为工艺稳定的成熟良率门槛。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a45b62829452",
+    "source": "企鹅号",
+    "slug": "samsung-hbm4e-yield-improvement"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "Meta拟推出AI云基础设施业务对外出售算力",
+    "summary": "Meta正制定计划推出云基础设施业务，向外部客户出售AI算力和模型访问权限，布局AI云计算市场。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a45b62829452",
+    "source": "企鹅号",
+    "slug": "meta-ai-cloud-business"
   },
   {
     "date": "2026-07-01",
-    "title": "2026中国AI大模型创新企业榜TOP20揭晓",
-    "summary": "第一新声发布《2026中国AI大模型创新企业榜TOP20》，上榜企业包括DeepSeek、字节跳动(豆包)、阿里(千问)、智谱、MiniMax、腾讯(混元)、月之暗面(Kimi)、百度(文心)、阶跃星辰等。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5356a44aa6102352",
-    "source": "腾讯网",
-    "slug": "2026-china-ai-llm-top20"
+    "title": "中国超算灵晟登顶全球超算500强榜首",
+    "summary": "在国际超算大会最新TOP500榜单中，中国超级计算机灵晟以每秒219亿亿次（2.198EFlops）持续双精度浮点性能登顶，成为世界首个持续性能超200亿亿次的超算系统，系2017年后中国超算重返世界之巅。",
+    "url": "http://www.xbxxb.com/kj/1.html",
+    "source": "西北在线",
+    "slug": "china-lingsheng-supercomputer-tops-top500"
   },
   {
     "date": "2026-07-01",
-    "title": "快手发布2026反诈治理报告 AI大模型日均调用84万次",
-    "summary": "快手发布《2026反诈治理报告》，AI大模型赋能反诈日均调用84万次，每周独立识别风险账号9.7万个，主动拦截98.1%诈骗行为，风控策略上线周期缩短60%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4286a4476f263552",
-    "source": "腾讯网",
-    "slug": "kuaishou-2026-anti-fraud-ai"
+    "title": "美国商务部解除Anthropic两款AI模型出口管制",
+    "summary": "美国商务部正式解除对Anthropic旗下Claude Fable 5和Mythos 5两款大模型的出口管制，相关模型服务将于7月2日起恢复全球访问。",
+    "url": "http://guigu.org/",
+    "source": "硅谷网",
+    "slug": "us-commerce-lifts-anthropic-export-controls"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "多家企业因AI部署裁员后重新招人",
+    "summary": "福特、IBM和澳洲联邦银行等大型企业开始重新招聘此前因引入AI而裁撤的员工。福特重新聘用数百名工程师解决自动化系统无法处理的质量问题。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9776a45d9ea21965",
+    "source": "企鹅号",
+    "slug": "companies-rehiring-after-ai-layoffs"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "亚马逊云科技投入10亿美元设立全新AI部门",
+    "summary": "亚马逊旗下AWS宣布投入10亿美元（约68亿元人民币）设立全新人工智能部门，专门协助客户搭建并落地AI系统。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5256a45b01351752",
+    "source": "央视财经",
+    "slug": "aws-1-billion-ai-division"
   }
 ]
