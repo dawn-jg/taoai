@@ -1,98 +1,122 @@
 [
   {
-    "date": "2026-07-01",
-    "title": "ChatGPT全球市场份额首次跌破50%",
-    "summary": "Sensor Tower发布《2026年AI行业报告》显示，随着越来越多竞争对手涌现，ChatGPT在全球AI助手市场份额首次跌破50%，大模型市场格局从单一巨头垄断转向多方竞争。",
+    "date": "2026-07-02",
+    "title": "OpenAI ChatGPT全球市场份额首度跌破50%",
+    "summary": "据美国Sensor Tower数据分析公司6月16日发布的《2026年AI行业报告》，随着越来越多竞争对手涌现，OpenAI的ChatGPT在全球AI助手市场所占份额首次跌破50%，大模型市场格局正加快从单一巨头垄断转向多方竞争态势。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4126a45058d38952",
-    "source": "新华社",
-    "slug": "chatgpt-market-share-below-50-pct"
+    "source": "企鹅号/新华社",
+    "slug": "chatgpt-market-share-drops-below-50-percent"
   },
   {
     "date": "2026-07-01",
-    "title": "微软推出7款自主研发MAI系列模型",
-    "summary": "微软推出MAI系列模型，包括编码模型MAI-Code-1-Flash及Luna版本，业内人士认为有助于减少对OpenAI模型的依赖并降低开发者使用成本。",
+    "title": "微软发布7款MAI系列自研模型，含编码模型MAI-Code-1-Flash",
+    "summary": "6月，美国微软公司推出自主研发的7款MAI系列模型，其中包括编码模型MAI-Code-1-Flash。业内人士认为，该模型有助于减少微软对OpenAI模型的依赖，并能节省开发者使用成本。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3216a4507d649752",
-    "source": "新华社",
-    "slug": "microsoft-mai-series-models"
+    "source": "企鹅号",
+    "slug": "microsoft-mai-series-models-launched"
   },
   {
     "date": "2026-07-01",
-    "title": "OpenAI发布GPT-5.6系列模型",
-    "summary": "OpenAI发布GPT-5.6系列模型，Sol版本为旗舰模型，评估数据显示其在编程、生物学和网络安全领域能力显著提升。初期仅向经美国政府审批的可信合作方开放。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3216a4507d649752",
-    "source": "新华社",
-    "slug": "openai-gpt-5-6-series"
+    "title": "OpenAI发布GPT-5.6系列，含Sol/Terra/Luna三版本",
+    "summary": "OpenAI发布GPT-5.6系列模型，其中Sol版本为该系列旗舰模型，重点展示其在编程、生物学和网络安全领域的能力提升；Terra版本适合日常工作；Luna版本速度快且价格实惠。应美国政府要求，初期仅向经政府审批的\"可信任合作方\"开放模型访问权限。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4126a45058d38952",
+    "source": "企鹅号",
+    "slug": "openai-launches-gpt-56-series"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "智谱发布GLM-5.2，追平美国前沿闭源模型",
+    "summary": "中国智谱AI发布新一代旗舰模型GLM-5.2，首次在关键基准上追平美国前沿闭源模型，该模型作为编程代理引发积极反响，表明美国实验室自认为的软件\"套件\"护城河可能并非牢不可破。",
+    "url": "https://new.qq.com/rain/a/20260701A09NC500",
+    "source": "腾讯网",
+    "slug": "zhipu-glm-52-matches-closed-source-models"
   },
   {
     "date": "2026-07-01",
     "title": "稀宇科技MiniMax发布开源旗舰模型M3",
-    "summary": "MiniMax发布开源旗舰模型MiniMax M3，具备前沿编程能力、百万词元上下文、原生多模态三项核心能力，在编码与智能体评测中达到行业顶尖水平。",
+    "summary": "稀宇科技（MiniMax）发布开源旗舰模型MiniMax M3，具备\"前沿编程能力、百万词元上下文、原生多模态\"三项核心能力，在编码与智能体评测中达到行业顶尖水平。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3216a4507d649752",
-    "source": "新华社",
-    "slug": "minimax-m3-open-source-model"
-  },
-  {
-    "date": "2026-07-01",
-    "title": "智谱AI推出新一代旗舰模型GLM-5.2",
-    "summary": "中国AI企业智谱推出新一代旗舰模型GLM-5.2，受到国际关注。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3216a4507d649752",
-    "source": "新华社",
-    "slug": "zhipu-glm-5-2-model"
+    "source": "企鹅号",
+    "slug": "minimax-m3-open-source-flagship-model"
   },
   {
     "date": "2026-07-02",
-    "title": "NASA向三家公司授予5.9亿美元月球着陆器合同",
-    "summary": "NASA选定Astrobotic Technology（2.98亿美元）、Firefly Aerospace（1.44亿美元）和Intuitive Machines（1.48亿美元）三家公司向月球发射机器人着陆器，作为2030年前建立月球基地计划的一部分。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a45b62829452",
+    "title": "联合国AI报告呼吁各国尽快完善人工智能治理",
+    "summary": "联合国\"人工智能独立国际科学小组\"7月1日发布初步报告，在肯定AI巨大潜在益处的同时，呼吁各国尽快采取行动完善人工智能治理。报告指出，快速提升的能力与有效的风险管理方法之间的差距可能导致灾难性后果。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5166a45f0f816352",
     "source": "企鹅号",
-    "slug": "nasa-lunar-lander-contracts"
+    "slug": "un-report-ai-governance-urgency"
   },
   {
     "date": "2026-07-02",
-    "title": "三星HBM4E可靠性测试良率提升至70%以上",
-    "summary": "三星电子首席技术官表示HBM4E可靠性测试良率已提升至70%以上，业界认为标志着开发进程正式进入稳定区间。80%以上被视为工艺稳定的成熟良率门槛。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a45b62829452",
-    "source": "企鹅号",
-    "slug": "samsung-hbm4e-yield-improvement"
-  },
-  {
-    "date": "2026-07-02",
-    "title": "Meta拟推出AI云基础设施业务对外出售算力",
-    "summary": "Meta正制定计划推出云基础设施业务，向外部客户出售AI算力和模型访问权限，布局AI云计算市场。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a45b62829452",
-    "source": "企鹅号",
-    "slug": "meta-ai-cloud-business"
+    "title": "亚马逊云科技宣布投入10亿美元设立全新AI部门",
+    "summary": "当地时间6月30日，亚马逊云科技宣布将投入10亿美元（约合68亿元人民币）设立全新人工智能部门，专门协助客户搭建并落地AI系统，整合亚马逊内部的Nova大模型、芯片技术及量子计算研究成果，转化为面向企业客户的解决方案。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5256a45b01351752",
+    "source": "企鹅号/央视财经",
+    "slug": "aws-invests-1-billion-new-ai-division"
   },
   {
     "date": "2026-07-01",
-    "title": "中国超算灵晟登顶全球超算500强榜首",
-    "summary": "在国际超算大会最新TOP500榜单中，中国超级计算机灵晟以每秒219亿亿次（2.198EFlops）持续双精度浮点性能登顶，成为世界首个持续性能超200亿亿次的超算系统，系2017年后中国超算重返世界之巅。",
-    "url": "http://www.xbxxb.com/kj/1.html",
-    "source": "西北在线",
-    "slug": "china-lingsheng-supercomputer-tops-top500"
-  },
-  {
-    "date": "2026-07-01",
-    "title": "美国商务部解除Anthropic两款AI模型出口管制",
-    "summary": "美国商务部正式解除对Anthropic旗下Claude Fable 5和Mythos 5两款大模型的出口管制，相关模型服务将于7月2日起恢复全球访问。",
+    "title": "美国商务部解除Anthropic Claude Fable 5和Mythos 5出口管制",
+    "summary": "2026年7月1日，美国人工智能公司Anthropic宣布已收到美国商务部通知，正式解除对Claude Fable 5和Mythos 5两款大模型的出口管制，相关模型服务将于7月2日起恢复全球访问。Anthropic在社交媒体X上发文确认了这一消息。",
     "url": "http://guigu.org/",
     "source": "硅谷网",
-    "slug": "us-commerce-lifts-anthropic-export-controls"
+    "slug": "anthropic-claude-export-control-lifted"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "谷歌发布Gemini Omni多模态AI创作工具",
+    "summary": "谷歌在近期举行的I/O开发者大会上发布全新Gemini Omni模型，能够理解并处理文本、图像、音频和视频输入并生成连贯视频内容，其最突出特点是支持对话式编辑——用户只需用自然语言描述修改需求，模型便能自动完成编辑。",
+    "url": "https://www.iimedia.cn/c1088",
+    "source": "艾媒网",
+    "slug": "google-gemini-omni-multimodal-creation-tool"
   },
   {
     "date": "2026-07-02",
-    "title": "多家企业因AI部署裁员后重新招人",
-    "summary": "福特、IBM和澳洲联邦银行等大型企业开始重新招聘此前因引入AI而裁撤的员工。福特重新聘用数百名工程师解决自动化系统无法处理的质量问题。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9776a45d9ea21965",
+    "title": "三星电子HBM4E可靠性测试良率提升至70%以上",
+    "summary": "三星电子首席技术官于6月30日在DS部门内部经营说明会上表示，HBM4E的可靠性测试良率已提升至70%以上。业界通常将80%以上视为工艺稳定的\"成熟良率\"门槛，70%以上的水平被认为标志着开发进程正式进入稳定区间。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a45b62829452",
     "source": "企鹅号",
-    "slug": "companies-rehiring-after-ai-layoffs"
+    "slug": "samsung-hbm4e-yield-above-70-percent"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "AI芯片初创Etched累计融资8亿美元，估值达50亿美元",
+    "summary": "AI芯片初创公司Etched宣布已开始在台积电协助下进行AI芯片制造，并推出基于Sohu芯片的定制机柜与软件整合的\"frontier inference clusters\"系统，旨在解决AI服务推理环节的高成本与性能瓶颈。目前累计签约订单价值已达10亿美元，3位哈佛辍学生将公司估值\"干\"到50亿美元。",
+    "url": "https://www.esmchina.com/tag/ai",
+    "source": "国际电子商情",
+    "slug": "etched-ai-chip-raises-800m-valuation-5b"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "科创板首只万亿股诞生：寒武纪市值破万亿后深夜提示风险",
+    "summary": "科创板首只万亿股诞生，寒武纪市值突破万亿后深夜发布公告提示风险，表示公司尚处于持续发展阶段，抵御市场波动和行业变化的能力相对有限。",
+    "url": "https://www.esmchina.com/tag/ai",
+    "source": "国际电子商情",
+    "slug": "cambricon-market-cap-trillion-yuan"
   },
   {
     "date": "2026-07-02",
-    "title": "亚马逊云科技投入10亿美元设立全新AI部门",
-    "summary": "亚马逊旗下AWS宣布投入10亿美元（约68亿元人民币）设立全新人工智能部门，专门协助客户搭建并落地AI系统。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5256a45b01351752",
-    "source": "央视财经",
-    "slug": "aws-1-billion-ai-division"
+    "title": "韩国宣布\"万亿级\"芯片投资计划，AI需求持续超预期",
+    "summary": "2026年AI需求持续超预期，韩国宣布\"万亿级\"芯片投资计划。元器件与半导体设备材料板块受益尤为明显，下半年英伟达Rubin服务器升级将带动PCB、MLCC等关键零部件价值量提升，相关产业链企业有望迎来新一轮增长窗口。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6046a45d47c21452",
+    "source": "企鹅号",
+    "slug": "south-korea-trillion-chip-investment-plan"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "Meta正制定计划布局AI云业务，拟向外部客户出售AI算力",
+    "summary": "Meta正制定计划，拟推出云基础设施业务，向外部客户出售AI算力和模型访问权限。此举旨在强化Meta在AI应用落地和企业服务领域的竞争力，与亚马逊云科技和微软等展开竞争。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a45b62829452",
+    "source": "企鹅号",
+    "slug": "meta-ai-cloud-infrastructure-external-sales"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "NASA授出5.9亿美元月球着陆器合同，Asteroid等三家公司入选",
+    "summary": "美国宇航局（NASA）宣布向三家公司授予月球机器人着陆器合同，总金额约5.9亿美元。Astrobotic Technology获两份合同共约2.98亿美元；Firefly Aerospace获约1.44亿美元合同；Intuitive Machines获约1.48亿美元合同，为2030年前建立月球基地计划的一部分。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a45b62829452",
+    "source": "企鹅号",
+    "slug": "nasa-590m-lunar-lander-contracts"
   }
 ]
