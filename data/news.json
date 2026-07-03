@@ -10,95 +10,87 @@
   {
     "date": "2026-07-03",
     "title": "Anthropic正与三星洽谈定制AI芯片",
-    "summary": "据知情人士透露，Anthropic已开始开发自有的AI芯片，并与三星电子进行了谈判作为潜在制造合作伙伴，效仿OpenAI试图获得对昂贵计算系统的更多控制权。",
+    "summary": "据知情人士透露，Anthropic已开始开发自有的AI芯片，并与三星电子进行了谈判作为潜在制造合作伙伴，效仿OpenAI试图获得对AI模型背后昂贵计算系统的更多控制权。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5066a470eaa88752",
     "source": "企鹅号",
     "slug": "anthropic-in-talks-with-samsung-for-ai-chip"
   },
   {
     "date": "2026-07-03",
-    "title": "OpenAI提议向美国政府提供约5%股权",
-    "summary": "OpenAI已与美国政府展开初步讨论，计划向政府提供约5%的股权以寻求获得特朗普政府资金支持并化解监管压力。OpenAI还提议Anthropic、谷歌、Meta等其他主要AI开发商也采取类似措施。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0636a46e9a269252",
-    "source": "陆家嘴财经早餐",
-    "slug": "openai-offers-5-percent-equity-to-us-government"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "韩国政府将利用AI税收红利加速主权人工智能发展",
-    "summary": "韩国政府计划利用AI浪潮带来的税收红利加速韩国主权AI发展，三星电子和SK海力士等半导体巨头创造的巨额税收将被用于国家AI基础设施建设。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7186a47225e18952",
-    "source": "IT之家",
-    "slug": "south-korea-ai-tax-dividend-sovereign-ai"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "昆仑万维发布Matrix-Game 3.0等三大世界第一梯队模型",
-    "summary": "昆仑万维旗下天工AI在2026中关村论坛举办发布会，携Matrix-Game 3.0、SkyReels V4、Mureka V9三大核心模型亮相，均跻身世界第一梯队，同时发布2026 AGI战略。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_98569d07cc230952",
-    "source": "企鹅号",
-    "slug": "kunlun-wanwei-matrix-game-skyreels-mureka-world-class"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "2026年海峡两岸大学论坛举办 聚焦AI时代两岸合作",
-    "summary": "以AI时代的两岸发展与治理为主题的2026年海峡两岸大学论坛在北京举办，由清华大学台湾研究院和公共管理学院主办，探讨两岸在人工智能短剧、AI音乐创作等领域的合作前景。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3606a472ec304152",
-    "source": "中新社",
-    "slug": "cross-strait-university-forum-2026-ai-cooperation"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "英伟达开源机器人技能库 具身行业迎来新里程碑",
-    "summary": "英伟达开源机器人技能库，推动具身智能技术发展。马斯克巡视Optimus人形机器人产线，人形机器人量产进程加速。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8546a45e55580352",
-    "source": "企鹅号",
-    "slug": "nvidia-open-source-robot-skill-library"
-  },
-  {
-    "date": "2026-07-03",
     "title": "Meta拟出售多余AI算力引发全球AI股重挫",
-    "summary": "Meta拟向外部客户出售多余AI算力的消息被市场解读为AI算力过剩，引发全球AI交易重挫。业内人士认为该消息属于误读，AI基建商业模式正在转变而非结束。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0636a46e9a269252",
-    "source": "陆家嘴财经早餐",
+    "summary": "亚太股市周四遭重挫，Meta拟向外部客户出售多余AI算力的消息引发全球AI硬件、存储芯片及光模块等板块集体回调。A股三大指数大跌，韩国KOSPI跌7.89%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4446a46e9d280552",
+    "source": "企鹅号",
     "slug": "meta-ai-compute-selling-sparks-global-ai-stock-rout"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "阿里达摩院发布超导材料发现AI智能体ElementsClaw",
+    "summary": "阿里达摩院联合中国人民大学、中国科学院大学等发布行业首个超导材料发现AI智能体ElementsClaw，预测出6.8万个可能的超导材料，其中4种全新材料已合成并证实存在超导性。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6096a47325f52452",
+    "source": "企鹅号",
+    "slug": "alibaba-damo-elementsclaw-superconducting-ai-agent"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "上海市政府7月7日将介绍2026世界人工智能大会筹备进展",
+    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海举行。7月7日上海市政府将举行新闻发布会介绍筹备进展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2546a474b7418852",
+    "source": "财联社",
+    "slug": "shanghai-waic-2026-press-conference-july-7"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "软银计划在美推出新云服务满足AI算力需求",
+    "summary": "软银宣布成立SB Neo Inc.，将于7月在美国运营新云业务。该公司依托软银集团10吉瓦级能源与AI基础设施，为美国大型企业提供大规模AI模型训练与推理所需算力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7166a4700d371052",
+    "source": "企鹅号",
+    "slug": "softbank-neo-cloud-service-us-ai-computing"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "报告：中国AI大模型商业化全面打响落地战",
+    "summary": "北京第四波科技智库等联合发布《中国AI大模型商业化报告(2026年上)》，指出中国AI大模型产业竞争激化，全面打响大规模商业化落地战，应用前景验证，行业泡沫开始出清。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7696a4779b323452",
+    "source": "企鹅号",
+    "slug": "china-ai-large-model-commercialization-report"
   },
   {
     "date": "2026-07-02",
     "title": "ChatGPT全球市场份额首度跌破50%",
-    "summary": "据Sensor Tower发布的2026年AI行业报告，随着越来越多竞争对手涌现，ChatGPT在全球AI助手市场所占份额首次跌破50%，大模型市场格局正从单一巨头垄断转向多方竞争态势。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5076a461d9715852",
+    "summary": "据Sensor Tower发布的2026年AI行业报告，随着大量竞争对手涌现，ChatGPT在全球AI助手市场份额首次跌破50%，大模型市场加速从单一巨头垄断转向多方竞争。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9666a466af730452",
     "source": "新华社",
     "slug": "chatgpt-market-share-drops-below-50-percent"
   },
   {
     "date": "2026-07-02",
     "title": "中国超算灵晟登顶全球TOP500榜首",
-    "summary": "在德国国际超算大会发布的最新全球超算TOP500榜单中，中国超级计算机灵晟以每秒219亿亿次持续双精度浮点性能登顶，成为世界首个持续性能超200亿亿次的超算系统。",
+    "summary": "在德国国际超算大会最新发布的全球超算TOP500榜单中，中国超算灵晟以每秒219亿亿次持续双精度浮点性能登顶，成为世界首个持续性能超200亿亿次的超算系统。",
     "url": "http://www.xbxxb.com/kj/1.html",
     "source": "西北在线",
     "slug": "chinese-supercomputer-lingsheng-tops-top500"
   },
   {
     "date": "2026-07-02",
-    "title": "亚马逊投入10亿美元设立全新AI部署部门",
-    "summary": "亚马逊宣布成立新的前沿部署与体验组织，初期投入10亿美元，旨在强化AI应用落地和企业服务领域的竞争力，整合AWS自研Nova大模型及芯片技术。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6716a46073228952",
-    "source": "企鹅号",
-    "slug": "amazon-1-billion-ai-deployment-organization"
+    "title": "白宫加速制定AI前沿模型发布自愿标准",
+    "summary": "美国政府正与OpenAI、Anthropic及谷歌等企业共同制定AI前沿模型发布自愿性技术准则，规范模型发布节奏与安全评估机制，相关指引最快下周公布。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5996a4646ef75852",
+    "source": "网易科技",
+    "slug": "white-house-ai-model-release-standards"
   },
   {
     "date": "2026-07-02",
-    "title": "2026全球数字经济大会在京开幕",
-    "summary": "7月2日，2026全球数字经济大会在北京国家会议中心开幕，会期至7月5日，以建设数字友好城市为主题，聚焦人工智能、数字治理、数据要素等核心议题，近40个国家千余位嘉宾参会。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5146a46326f50652",
+    "title": "马斯克：Optimus人形机器人量产初期进展将十分缓慢",
+    "summary": "马斯克在社交平台发布与Optimus人形机器人产线合影，称量产初期进展将十分缓慢，因所有技术均为全新开发。此前韩国棋院宣布申真谞九段将受两子挑战围棋AI KataGo。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7166a4700d371052",
     "source": "企鹅号",
-    "slug": "global-digital-economy-conference-2026-beijing"
+    "slug": "musk-optimus-robot-production-slow-start"
   },
   {
     "date": "2026-07-02",
-    "title": "科华数据山河湾谷智算中心正式揭牌投运",
-    "summary": "7月1日，山河湾谷智算中心在北京朝阳区正式揭牌投运，由科华数据自主投资、设计及建设，标志着在AI算力基础设施领域再落关键一子。",
+    "title": "科华数据山河湾谷智算中心在北京朝阳正式揭牌",
+    "summary": "7月1日，山河湾谷智算中心在北京朝阳区正式揭牌投运，由科华数据自主投资、设计及建设，标志着AI算力基础设施领域再落关键一子。",
     "url": "https://www.admin5.com/tech/",
     "source": "A5站长网",
     "slug": "kehua-data-shanhe-bay-valley-ai-computing-center"
@@ -106,17 +98,25 @@
   {
     "date": "2026-07-02",
     "title": "兆易创新携具身智能核心芯片方案亮相慕尼黑上海电子展",
-    "summary": "在2026年慕尼黑上海电子展上，兆易创新围绕机器人产业带来运动控制、精密感知及高效存储等核心芯片方案，全面展示其具身智能全场景产品布局。",
+    "summary": "在2026年慕尼黑上海电子展上，兆易创新围绕机器人产业带来运动控制、精密感知及高效存储等核心芯片方案，全面展示具身智能全场景产品布局。",
     "url": "https://www.21ic.com/changshang",
     "source": "21ic电子网",
     "slug": "gigadevice-embodied-ai-chip-solutions-munich-electronics"
   },
   {
     "date": "2026-07-02",
-    "title": "全新AI开放记忆协议OMP成为AI业界关注焦点",
-    "summary": "一个名为开放记忆协议(Open Memory Protocol,OMP)的新标准成为AI业界追捧对象，旨在打破各AI产品间的数据壁垒，实现所有AI共享记忆。",
+    "title": "全新AI开放记忆协议OMP成业界关注焦点",
+    "summary": "一个名为开放记忆协议(Open Memory Protocol, OMP)的新标准成为AI业界追捧对象，旨在打破各AI产品之间的数据壁垒，实现所有AI共享记忆。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8316a4653fe86852",
     "source": "企鹅号",
     "slug": "open-memory-protocol-omp-ai-memory-sharing"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "WAIC 2026同期将举办AI+医健产业可持续创新论坛",
+    "summary": "第一财经将携手健闻咨询在2026世界人工智能大会期间举办AI+医健产业可持续创新论坛，于7月18日下午在上海浦东世博天地举行。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3526a470c6927352",
+    "source": "第一财经",
+    "slug": "waic-2026-ai-healthcare-innovation-forum"
   }
 ]
