@@ -2,113 +2,121 @@
   {
     "date": "2026-07-04",
     "title": "2026全球数字经济大会AI融合应用发展论坛在京举办",
-    "summary": "7月3日，2026全球数字经济大会人工智能融合应用发展论坛在北京举办。大会发布AI创新产品首发矩阵，玻色量子、美团、生数科技、滴普科技等8家企业带来大模型、多模态数据、智能体等首发产品，覆盖AI产业各环节。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3926a48689e13152",
-    "source": "腾讯新闻",
+    "summary": "以「智驱实体，数创未来」为主题，论坛围绕人工智能对千行百业的影响与重塑，探索AI从技术突破到生产力落地的路径。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7686a48d8b991652",
+    "source": "中新网",
     "slug": "global-digital-economy-ai-forum-2026"
   },
   {
-    "date": "2026-07-04",
-    "title": "纽约时报：中国AI发展愿景以人为本",
-    "summary": "纽约时报专栏作者卡特琳·本霍尔德发表署名文章指出，中美两国AI发展愿景截然不同——美国放任企业追求自身利益，中国坚持以人为本，致力于通过AI提高人的生产力。文中提及智谱最新旗舰模型GLM-5.2以不到十分之一运行价格实现相近性能。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8426a47e9be55452",
-    "source": "腾讯新闻",
-    "slug": "nytimes-china-ai-human-centric-vision"
-  },
-  {
-    "date": "2026-07-04",
-    "title": "韩国公布史上最大规模半导体与AI投资计划",
-    "summary": "韩国公布史上最大规模半导体与AI产业投资计划，将半导体、具身人工智能(Physical AI)和AI数据中心确立为未来产业三大支柱。三星电子、SK海力士等龙头企业主导建设半导体制造基地，同步推进AI数据中心等基础设施建设。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2456a486cd248352",
-    "source": "腾讯新闻",
-    "slug": "south-korea-record-semiconductor-ai-investment"
-  },
-  {
-    "date": "2026-07-04",
-    "title": "腾讯QClaw产品经理张舒昱离职，澄清内部无赛马",
-    "summary": "据南方都市报，腾讯QClaw负责人张舒昱已于6月29日离职。她在社交平台发帖回顾了做C端产品QClaw的历程，并提到QC和WB是同一个老板，部分时间增长团队由同一批人组成，以此澄清内部从未有赛马关系。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7836a485dab34652",
-    "source": "南方都市报",
-    "slug": "tencent-qclaw-zhangshuyu-departure"
-  },
-  {
     "date": "2026-07-03",
-    "title": "中国超算灵晟登顶全球TOP500榜单，重返世界之巅",
-    "summary": "在德国国际超算大会上最新TOP500榜单揭晓，中国超级计算机灵晟以每秒219亿亿次(2.198EFlops)持续双精度浮点性能登顶，成为全球首个持续性能超200亿亿次(2EFlops)的超算系统，系2017年后中国超算重返世界之巅。",
-    "url": "http://www.xbxxb.com/kj/1.html",
-    "source": "西北在线",
-    "slug": "chinese-supercomputer-lingsheng-tops-top500"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "报告：中国AI大模型商业化落地战全面打响",
-    "summary": "北京第四波科技智库、中关村天成创新研究中心联合发布《中国AI大模型商业化报告(2026年上)》。报告指出2026上半年中国AI大模型产业竞争激化，技术竞赛、流量争夺、生态抢滩同步推进，大规模商业化落地战全面打响，行业泡沫开始出清。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7696a4779b323452",
+    "title": "报告：AI大模型商业化「落地战」全面打响",
+    "summary": "北京第四波科技智库等联合发布《中国AI大模型商业化报告（2026年上）》，指出2026年上半年大模型产业在延续技术竞赛的同时全面打响商业化落地战，行业泡沫开始出清。",
+    "url": "http://tech.cnr.cn/techgd/",
     "source": "央广网",
-    "slug": "china-ai-commercialization-report-2026h1"
+    "slug": "ai-large-model-commercialization-report-2026h1"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "OpenAI提议向美国政府提供5%股权以化解监管压力",
+    "summary": "据金融时报报道，OpenAI提议向美国政府提供5%股权。最新一轮融资投后估值达8520亿美元，对应5%股权价值约426亿美元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a48c2b055852",
+    "source": "金融时报",
+    "slug": "openai-offers-5-percent-stake-to-us-government"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "韩国公布史上最大规模半导体与AI投资计划",
+    "summary": "韩国总统李在明主持公布总额超千万亿韩元的半导体、Physical AI和AI数据中心投资计划，三星电子、SK海力士等龙头企业主导建设。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2456a486cd248352",
+    "source": "企鹅号",
+    "slug": "korea-semiconductor-ai-investment-plan"
   },
   {
     "date": "2026-07-03",
-    "title": "2026中国AI新势力TOP30榜单正式发布",
-    "summary": "国内科技产业媒体第一新声正式发布《2026中国AI新势力TOP30》榜单，Sand.ai、DeepWisdom、ManifoldAI流形空间、海艺AI、至简动力、极逸人工智能等30家AI新锐企业入选。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9386a477a5325852",
-    "source": "第一新声",
-    "slug": "china-ai-new-power-top30-2026"
+    "title": "三星传获Meta超10万亿韩元AI芯片代工订单",
+    "summary": "三星电子正成为全球大科技公司自研AI芯片（ASIC）的核心生产基地，中长期积压订单有望逼近50万亿韩元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7836a485dab34652",
+    "source": "企鹅号",
+    "slug": "samsung-meta-ai-chip-foundry-order"
   },
   {
-    "date": "2026-07-03",
-    "title": "2026中国通用与垂直AI Agent创新企业双榜发布",
-    "summary": "第一新声发布AI Agent双榜，通用型榜单中智谱、MiniMax、科大讯飞、阶跃星辰、扣子、Dify等10家企业入选；垂直型榜单中思迈特软件、能科科技、飞书、中科闻歌等20家企业上榜。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5376a4777da99552",
-    "source": "第一新声",
-    "slug": "china-ai-agent-innovation-rankings-2026"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "中国AI行业集体转向商业化：豆包推付费订阅，DeepSeek完成首轮融资",
-    "summary": "2026年夏天中国AI行业集体变阵：豆包发布专业版采用三级阶梯定价最高年费5088元；DeepSeek完成首轮外部融资超500亿元投后估值突破500亿美元；月之暗面半年内五轮融资累计近60亿美元。大模型告别烧钱扩张上半场。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9656a478aa898652",
-    "source": "腾讯新闻",
-    "slug": "china-ai-commercialization-turn-doubao-deepseek"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "宇树科技IPO注册生效，创科创板最快审核纪录",
-    "summary": "中国证监会批复同意宇树科技IPO注册，从受理到注册生效仅104天，创科创板最快审核纪录。公司募资超20亿元用于研发人形机器人大脑，被业界视为人形机器人商业化元年正式开启的标志。",
+    "date": "2026-07-01",
+    "title": "寒武纪成为科创板首只万亿市值股",
+    "summary": "寒武纪市值突破万亿后深夜发布风险提示，称公司尚处于持续发展阶段，抵御市场波动和行业变化能力相对有限。",
     "url": "https://www.esmchina.com/tag/ai",
     "source": "国际电子商情",
-    "slug": "unitree-ipo-approval-fastest-record"
+    "slug": "cambricon-1-trillion-market-cap-star-market"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "智谱GLM-5.2旗舰模型被纽约时报报道",
+    "summary": "纽约时报文章指出，智谱GLM-5.2以不到十分之一的运行价格实现几乎与美国领先AI企业最新模型相当的性能，凸显中国AI以人为本的发展愿景。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8426a47e9be55452",
+    "source": "纽约时报",
+    "slug": "zhipu-glm-52-nytimes-china-ai-vision"
   },
   {
     "date": "2026-07-03",
-    "title": "工信部等八部门印发意见：深化AI与工业互联网融合",
-    "summary": "工信部等八部门联合印发《关于推动工业互联网高质量发展的实施意见》，提出深化人工智能与工业互联网融合应用，明确到2030年工业互联网融合应用实现207个工业中类全覆盖的发展目标。",
+    "title": "宇树科技科创板注册生效，募资超20亿投向「大脑」",
+    "summary": "外界对宇树科技「只精于小脑、疏于大脑」的刻板印象将被打破，超20亿募资将用于AI大脑研发。",
+    "url": "https://www.esmchina.com/tag/ai",
+    "source": "国际电子商情",
+    "slug": "unitree-robotics-registration-effective-star-market"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "八部门联合印发推动工业互联网高质量发展实施意见",
+    "summary": "工信部等八部门提出深化AI与工业互联网融合应用，明确「到2030年工业互联网融合应用实现207个工业中类全覆盖」的发展目标。",
     "url": "http://finance.people.com.cn/index5.html",
     "source": "人民网",
-    "slug": "eight-ministries-ai-industrial-internet"
+    "slug": "eight-ministries-industrial-internet-ai-2026"
   },
   {
     "date": "2026-07-03",
-    "title": "工信部等七部门发文力挺人工智能一人公司(AI OPC)",
-    "summary": "工信部等七部门联合发布的《促进平台经济大中小企业协同发展行动方案(2026-2028年)》要求加快培育人工智能一人公司。从中央到地方密集发布增量政策支持AI OPC创新发展。",
+    "title": "WPS Comate组织级AI办公产品将于7月正式发布",
+    "summary": "WPS Comate组织级AI办公先锋先行活动在深圳举办，这款打磨两年的AI产品将于7月正式发布，全面冲击企业级市场。",
+    "url": "http://finance.eastmoney.com/a/cgsxw.html",
+    "source": "东方财富网",
+    "slug": "wps-comate-ai-office-product-launch-july"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "云迹科技发布具身智能单臂协作机器人",
+    "summary": "2026全球数字经济大会期间，云迹科技正式发布新一代商用服务机器人——具身智能单臂协作机器人。",
+    "url": "http://finance.eastmoney.com/a/cgsxw.html",
+    "source": "东方财富网",
+    "slug": "yunji-tech-embodied-intelligence-robot"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "工信部等七部门发文加快培育人工智能一人公司",
+    "summary": "工信部等七部门联合发布《促进平台经济大中小企业协同发展行动方案》，要求「加快培育人工智能一人公司」（AI OPC），从中央到地方增量政策密集发布。",
     "url": "http://finance.people.com.cn/index5.html",
     "source": "人民网",
-    "slug": "policy-support-ai-opc-one-person-company"
+    "slug": "seven-ministries-ai-opc-policy"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "2026年人工智能+电竞创新应用大赛正式启动",
+    "summary": "广西大数据发展局主办的大赛面向全国及东盟国家广发「英雄帖」，推动AI与电竞产业融合，以赛聚才、以赛促创、以赛兴业。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0206a48baa188152",
+    "source": "人民网",
+    "slug": "ai-esports-innovation-competition-2026"
   },
   {
     "date": "2026-07-03",
-    "title": "2026世界人工智能大会将于7月17日上海举行",
-    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海举行。上海市政府将于7月7日举行新闻发布会介绍大会筹备进展情况。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8866a474e4c09452",
-    "source": "人民财讯",
-    "slug": "world-ai-conference-2026-shanghai-july17"
+    "title": "互联网企业释放超20万岗位，AI+人才需求攀升",
+    "summary": "人社部数据显示，5000多家互联网企业集中释放超20万个就业岗位，AI+岗位位于多家互联网企业热招名单前列。",
+    "url": "http://www.cinic.org.cn/xw/",
+    "source": "中国产业经济信息网",
+    "slug": "internet-companies-200k-jobs-ai-talent-demand"
   },
   {
     "date": "2026-07-03",
-    "title": "具身智能机器人加速落地：工信部国资委联合开展实景实训专项行动",
-    "summary": "工信部、国务院国资委联合印发《关于联合开展2026年度人形机器人与具身智能实景实训专项行动》。从春晚舞台到马拉松赛场，人形机器人频频出圈，具身智能技术迎来快速迭代风口。",
-    "url": "https://www.bjcc.gov.cn/channel/33.html",
-    "source": "科技日报",
-    "slug": "embodied-intelligence-robot-action-plan-2026"
+    "title": "美团LongCat-2.0发布，可灵AI融资近30亿美元",
+    "summary": "美团发布LongCat-2.0大模型；可灵AI累计融资近30亿美元；优必选发布超仿生机器人。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a48c2b055852",
+    "source": "企鹅号",
+    "slug": "meituan-longcat-2-kling-ai-funding-3b"
   }
 ]
