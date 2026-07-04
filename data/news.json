@@ -1,122 +1,122 @@
 [
   {
     "date": "2026-07-04",
-    "title": "2026全球数字经济大会AI融合应用发展论坛在京举办",
-    "summary": "以「智驱实体，数创未来」为主题，论坛围绕人工智能对千行百业的影响与重塑，探索AI从技术突破到生产力落地的路径。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7686a48d8b991652",
-    "source": "中新网",
-    "slug": "global-digital-economy-ai-forum-2026"
+    "title": "中国超算「灵晟」登顶全球超算500强",
+    "summary": "在德国国际超算大会上，最新一期全球超级计算机500强榜单揭晓，中国超级计算机「灵晟」以每秒219亿亿次（2.198EFlops）的持续双精度浮点性能登顶，成为世界首个持续性能超200亿亿次的超算系统，这是自2017年「神威·太湖之光」后中国超算重返世界之巅。",
+    "url": "http://www.xbxxb.com/kj/1.html",
+    "source": "西北在线",
+    "slug": "china-supercomputer-lingsheng-tops-top500"
   },
   {
-    "date": "2026-07-03",
-    "title": "报告：AI大模型商业化「落地战」全面打响",
-    "summary": "北京第四波科技智库等联合发布《中国AI大模型商业化报告（2026年上）》，指出2026年上半年大模型产业在延续技术竞赛的同时全面打响商业化落地战，行业泡沫开始出清。",
-    "url": "http://tech.cnr.cn/techgd/",
-    "source": "央广网",
-    "slug": "ai-large-model-commercialization-report-2026h1"
+    "date": "2026-07-04",
+    "title": "2026全球数字经济大会：AI生产力迎爆发窗口",
+    "summary": "正在北京举行的2026全球数字经济大会上，多家头部企业代表称AI正加速融入千行百业。京东云总裁曹鹏透露京东智能体平台运行400余个大型AI应用、支撑近4万个智能体；月之暗面联合创始人张宇韬指出模型已具备完成小时级复杂任务的能力。",
+    "url": "https://www.chinanews.com/finance/",
+    "source": "中国新闻网",
+    "slug": "global-digital-economy-conference-ai-productivity"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "人工智能融合应用发展论坛在京举办",
+    "summary": "2026全球数字经济大会人工智能融合应用发展论坛以「智驱实体，数创未来」为主题在京举办。论坛发布《北京市「模数共振」行动实施方案》，美团、玻色量子、像素绽放等8家企业带来首发产品，涵盖大模型、多模态数据、数据库、智能体等AI产业各环节。",
+    "url": "https://www.chinanews.com/finance/",
+    "source": "中国新闻网",
+    "slug": "ai-integration-application-forum-beijing"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "美团正式发布万亿参数大模型LongCat-2.0并开源",
+    "summary": "美团正式发布新一代万亿参数大模型LongCat-2.0并对外开源。该模型总参数1.6T，平均激活约48B，在五万卡国产算力集群上完成全流程训练与推理，原生支持1M超长上下文。预览版已位列OpenRouter全球大模型调用量前三。",
+    "url": "https://www.qcc.com/firm/308064a33078fcff29dfd220d4e3dd85.html",
+    "source": "企查查",
+    "slug": "meituan-longcat-2-trillion-parameter-model"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "智谱AI发布新一代国产自主通用大模型",
+    "summary": "智谱AI正式发布新一代国产自主通用大模型，底层架构彻底重构。内部测试数据显示新模型代码生成准确率提升40%，长上下文窗口稳定支持256K tokens，推理速度较上一代快近两倍，多模态能力支持架构图、时序图等直接转化为伪代码。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7776a487f8900952",
+    "source": "红信鸽科技",
+    "slug": "zhipu-ai-new-generation-model"
   },
   {
     "date": "2026-07-02",
     "title": "OpenAI提议向美国政府提供5%股权以化解监管压力",
-    "summary": "据金融时报报道，OpenAI提议向美国政府提供5%股权。最新一轮融资投后估值达8520亿美元，对应5%股权价值约426亿美元。",
+    "summary": "据《金融时报》报道，OpenAI提议向美国政府提供5%股权以化解政治监管压力，最新融资投后估值达8520亿美元，对应5%股权价值约426亿美元。该规划拟覆盖Anthropic、谷歌、Meta等美国头部AI企业。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a48c2b055852",
-    "source": "金融时报",
-    "slug": "openai-offers-5-percent-stake-to-us-government"
+    "source": "亿邦动力",
+    "slug": "openai-offers-5-percent-equity-to-us-government"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "可灵AI融资近30亿美元",
+    "summary": "快手旗下可灵AI完成新一轮融资，总额近30亿美元。快手董事长程一笑面临带领可灵AI实现商业化盈利的压力，市场关注其如何在与国内外AI视频生成模型的竞争中实现可持续发展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a48c2b055852",
+    "source": "亿邦动力",
+    "slug": "kling-ai-3-billion-funding"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "优必选发布超仿生机器人",
+    "summary": "优必选发布超仿生机器人新品，在人形机器人领域取得新突破。该产品具备更接近人类的运动能力和交互能力，标志着具身智能技术在大规模商用方向上的重要进展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a48c2b055852",
+    "source": "亿邦动力",
+    "slug": "ubtech-super-bionic-robot"
   },
   {
     "date": "2026-06-29",
-    "title": "韩国公布史上最大规模半导体与AI投资计划",
-    "summary": "韩国总统李在明主持公布总额超千万亿韩元的半导体、Physical AI和AI数据中心投资计划，三星电子、SK海力士等龙头企业主导建设。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2456a486cd248352",
-    "source": "企鹅号",
-    "slug": "korea-semiconductor-ai-investment-plan"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "三星传获Meta超10万亿韩元AI芯片代工订单",
-    "summary": "三星电子正成为全球大科技公司自研AI芯片（ASIC）的核心生产基地，中长期积压订单有望逼近50万亿韩元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7836a485dab34652",
-    "source": "企鹅号",
-    "slug": "samsung-meta-ai-chip-foundry-order"
-  },
-  {
-    "date": "2026-07-01",
-    "title": "寒武纪成为科创板首只万亿市值股",
-    "summary": "寒武纪市值突破万亿后深夜发布风险提示，称公司尚处于持续发展阶段，抵御市场波动和行业变化能力相对有限。",
-    "url": "https://www.esmchina.com/tag/ai",
-    "source": "国际电子商情",
-    "slug": "cambricon-1-trillion-market-cap-star-market"
-  },
-  {
-    "date": "2026-07-04",
-    "title": "智谱GLM-5.2旗舰模型被纽约时报报道",
-    "summary": "纽约时报文章指出，智谱GLM-5.2以不到十分之一的运行价格实现几乎与美国领先AI企业最新模型相当的性能，凸显中国AI以人为本的发展愿景。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8426a47e9be55452",
-    "source": "纽约时报",
-    "slug": "zhipu-glm-52-nytimes-china-ai-vision"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "宇树科技科创板注册生效，募资超20亿投向「大脑」",
-    "summary": "外界对宇树科技「只精于小脑、疏于大脑」的刻板印象将被打破，超20亿募资将用于AI大脑研发。",
-    "url": "https://www.esmchina.com/tag/ai",
-    "source": "国际电子商情",
-    "slug": "unitree-robotics-registration-effective-star-market"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "八部门联合印发推动工业互联网高质量发展实施意见",
-    "summary": "工信部等八部门提出深化AI与工业互联网融合应用，明确「到2030年工业互联网融合应用实现207个工业中类全覆盖」的发展目标。",
-    "url": "http://finance.people.com.cn/index5.html",
-    "source": "人民网",
-    "slug": "eight-ministries-industrial-internet-ai-2026"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "WPS Comate组织级AI办公产品将于7月正式发布",
-    "summary": "WPS Comate组织级AI办公先锋先行活动在深圳举办，这款打磨两年的AI产品将于7月正式发布，全面冲击企业级市场。",
-    "url": "http://finance.eastmoney.com/a/cgsxw.html",
-    "source": "东方财富网",
-    "slug": "wps-comate-ai-office-product-launch-july"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "云迹科技发布具身智能单臂协作机器人",
-    "summary": "2026全球数字经济大会期间，云迹科技正式发布新一代商用服务机器人——具身智能单臂协作机器人。",
-    "url": "http://finance.eastmoney.com/a/cgsxw.html",
-    "source": "东方财富网",
-    "slug": "yunji-tech-embodied-intelligence-robot"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "工信部等七部门发文加快培育人工智能一人公司",
-    "summary": "工信部等七部门联合发布《促进平台经济大中小企业协同发展行动方案》，要求「加快培育人工智能一人公司」（AI OPC），从中央到地方增量政策密集发布。",
-    "url": "http://finance.people.com.cn/index5.html",
-    "source": "人民网",
-    "slug": "seven-ministries-ai-opc-policy"
-  },
-  {
-    "date": "2026-07-04",
-    "title": "2026年人工智能+电竞创新应用大赛正式启动",
-    "summary": "广西大数据发展局主办的大赛面向全国及东盟国家广发「英雄帖」，推动AI与电竞产业融合，以赛聚才、以赛促创、以赛兴业。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0206a48baa188152",
-    "source": "人民网",
-    "slug": "ai-esports-innovation-competition-2026"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "互联网企业释放超20万岗位，AI+人才需求攀升",
-    "summary": "人社部数据显示，5000多家互联网企业集中释放超20万个就业岗位，AI+岗位位于多家互联网企业热招名单前列。",
-    "url": "http://www.cinic.org.cn/xw/",
-    "source": "中国产业经济信息网",
-    "slug": "internet-companies-200k-jobs-ai-talent-demand"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "美团LongCat-2.0发布，可灵AI融资近30亿美元",
-    "summary": "美团发布LongCat-2.0大模型；可灵AI累计融资近30亿美元；优必选发布超仿生机器人。",
+    "title": "韩国公布1461万亿韩元AI基础设施建设计划",
+    "summary": "韩国总统李在明主持召开会议，公布总额超千万亿韩元的半导体、AI和AI数据中心投资计划，投资总额达1461万亿韩元，涉及半导体生产基地、HBM封装基地、AI数据中心等方向。韩国还考虑用增量税收购买约1万个英伟达Vera Rubin GPU模块。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a48c2b055852",
+    "source": "亿邦动力",
+    "slug": "korea-1461-trillion-won-ai-infrastructure-plan"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "中昊芯英发布新一代全自研TPU AI芯片「须臾」",
+    "summary": "中昊芯英正式发布新一代全自研高性能TPU AI专用算力芯片「须臾」，同步推出搭载该芯片的泰则2.0 AI高性能智算平台。产品已部署于深圳联通、天津移动、太极股份等运营商和政府机构的多个超大规模智算中心。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a48c2b055852",
+    "source": "亿邦动力",
+    "slug": "zhonghaoxinying-tpu-ai-chip-xuyu"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "国家超算互联网启动万卡共创者激励计划",
+    "summary": "国家超算互联网正式启动SCNet万卡共创者激励计划，基于scaleX万卡超集群面向全球AI开发者、初创团队、科研机构提供最高亿级Tokens额度与千卡时国产算力资源，覆盖民生应用、工业仿真、生物医药等多元场景。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a48c2b055852",
+    "source": "亿邦动力",
+    "slug": "national-supercomputing-internet-scnet-plan"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "腾讯暑期升级「AI双引擎防沉迷」模式",
+    "summary": "腾讯在2026年暑期升级「AI双引擎防沉迷」模式，利用大数据和AI识别技术实现更精准的未成年人保护。该模式通过行为特征分析等多维手段，有效识别未成年人冒用成年人账号等问题。",
+    "url": "https://www.iimedia.cn/c1088/112552.html",
+    "source": "艾媒网",
+    "slug": "tencent-ai-dual-engine-anti-addiction"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "中国发布全球首个地层学AI大模型",
+    "summary": "中国发布全球首个地层学AI大模型，将人工智能技术应用于地质勘探和地层学研究领域，有望大幅提升油气资源勘探效率和地质科学研究水平，标志着AI在地球科学领域的重大突破。",
+    "url": "https://www.iimedia.cn/c1088/112552.html",
+    "source": "艾媒网",
+    "slug": "china-first-stratigraphy-ai-model"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "Anthropic与三星洽谈合作开发自研AI芯片",
+    "summary": "据The Information报道，Anthropic正在与三星讨论合作开发定制AI芯片，消息带动三星股价上涨约8%，并推动韩国Kospi指数上涨约5.75%。这显示大模型竞争已从模型参数扩展到专用芯片和供应链安全领域。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1096a48800b07252",
+    "source": "AI早报",
+    "slug": "anthropic-samsung-ai-chip-talks"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "元启数宇发布Sector图形推理决策大模型",
+    "summary": "普陀区科创企业元启数宇发布Sector图形推理决策大模型，实现国内垂直图形决策AI领域关键突破。上海人工智能产业研究院院长评价其为自主可控、全栈自研的标志性突破，解决了工程设计行业效率问题。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6416a496a5f61452",
     "source": "企鹅号",
-    "slug": "meituan-longcat-2-kling-ai-funding-3b"
+    "slug": "yuanqishuyu-sector-graphic-reasoning-model"
   }
 ]
