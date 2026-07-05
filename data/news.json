@@ -1,122 +1,122 @@
 [
   {
+    "date": "2026-07-05",
+    "title": "2026全球数字经济大会人工智能融合应用发展论坛在京举办",
+    "summary": "论坛以「智驱实体，数创未来」为主题，在北京国家会议中心举行，发布《北京市「模数共振」行动实施方案》，美团、玻色量子、像素绽放等8家企业带来首发产品，涵盖大模型、多模态数据、智能体等领域。",
+    "url": "https://www.chinanews.com/finance/",
+    "source": "中国新闻网",
+    "slug": "global-digital-economy-conference-ai-forum"
+  },
+  {
     "date": "2026-07-04",
-    "title": "中国超算「灵晟」登顶全球超算500强",
-    "summary": "在德国国际超算大会上，最新一期全球超级计算机500强榜单揭晓，中国超级计算机「灵晟」以每秒219亿亿次（2.198EFlops）的持续双精度浮点性能登顶，成为世界首个持续性能超200亿亿次的超算系统，这是自2017年「神威·太湖之光」后中国超算重返世界之巅。",
+    "title": "中国超算「灵晟」登顶全球超算500强榜首",
+    "summary": "在德国国际超算大会上，最新一期全球超级计算机500强榜单揭晓，中国超算「灵晟」以219亿亿次/秒（2.198EFlops）持续双精度浮点性能登顶，成为世界首个持续性能超200亿亿次的超算系统，系中国超算时隔9年重返世界之巅。",
     "url": "http://www.xbxxb.com/kj/1.html",
     "source": "西北在线",
     "slug": "china-supercomputer-lingsheng-tops-top500"
   },
   {
     "date": "2026-07-04",
-    "title": "2026全球数字经济大会：AI生产力迎爆发窗口",
-    "summary": "正在北京举行的2026全球数字经济大会上，多家头部企业代表称AI正加速融入千行百业。京东云总裁曹鹏透露京东智能体平台运行400余个大型AI应用、支撑近4万个智能体；月之暗面联合创始人张宇韬指出模型已具备完成小时级复杂任务的能力。",
-    "url": "https://www.chinanews.com/finance/",
-    "source": "中国新闻网",
-    "slug": "global-digital-economy-conference-ai-productivity"
-  },
-  {
-    "date": "2026-07-04",
-    "title": "人工智能融合应用发展论坛在京举办",
-    "summary": "2026全球数字经济大会人工智能融合应用发展论坛以「智驱实体，数创未来」为主题在京举办。论坛发布《北京市「模数共振」行动实施方案》，美团、玻色量子、像素绽放等8家企业带来首发产品，涵盖大模型、多模态数据、数据库、智能体等AI产业各环节。",
-    "url": "https://www.chinanews.com/finance/",
-    "source": "中国新闻网",
-    "slug": "ai-integration-application-forum-beijing"
-  },
-  {
-    "date": "2026-07-04",
-    "title": "美团正式发布万亿参数大模型LongCat-2.0并开源",
-    "summary": "美团正式发布新一代万亿参数大模型LongCat-2.0并对外开源。该模型总参数1.6T，平均激活约48B，在五万卡国产算力集群上完成全流程训练与推理，原生支持1M超长上下文。预览版已位列OpenRouter全球大模型调用量前三。",
-    "url": "https://www.qcc.com/firm/308064a33078fcff29dfd220d4e3dd85.html",
-    "source": "企查查",
-    "slug": "meituan-longcat-2-trillion-parameter-model"
-  },
-  {
-    "date": "2026-07-04",
-    "title": "智谱AI发布新一代国产自主通用大模型",
-    "summary": "智谱AI正式发布新一代国产自主通用大模型，底层架构彻底重构。内部测试数据显示新模型代码生成准确率提升40%，长上下文窗口稳定支持256K tokens，推理速度较上一代快近两倍，多模态能力支持架构图、时序图等直接转化为伪代码。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7776a487f8900952",
-    "source": "红信鸽科技",
-    "slug": "zhipu-ai-new-generation-model"
-  },
-  {
-    "date": "2026-07-02",
     "title": "OpenAI提议向美国政府提供5%股权以化解监管压力",
-    "summary": "据《金融时报》报道，OpenAI提议向美国政府提供5%股权以化解政治监管压力，最新融资投后估值达8520亿美元，对应5%股权价值约426亿美元。该规划拟覆盖Anthropic、谷歌、Meta等美国头部AI企业。",
+    "summary": "据《金融时报》报道，OpenAI提议向美国政府提供5%股权以化解政治监管压力。最新融资投后OpenAI估值达8520亿美元，对应5%股权价值约426亿美元。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a48c2b055852",
     "source": "亿邦动力",
     "slug": "openai-offers-5-percent-equity-to-us-government"
   },
   {
     "date": "2026-07-04",
-    "title": "可灵AI融资近30亿美元",
-    "summary": "快手旗下可灵AI完成新一轮融资，总额近30亿美元。快手董事长程一笑面临带领可灵AI实现商业化盈利的压力，市场关注其如何在与国内外AI视频生成模型的竞争中实现可持续发展。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a48c2b055852",
-    "source": "亿邦动力",
-    "slug": "kling-ai-3-billion-funding"
+    "title": "特斯拉限制员工AI使用开销，美国多家科技企业收紧AI支出",
+    "summary": "特斯拉从7月6日起限制员工AI工具花费，每人每周上限200美元，超出须经主管批准。但使用马斯克旗下xAI的Grok模型不计入额度。多家美国科技企业同步收紧AI支出。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8406a49001275452",
+    "source": "财联社",
+    "slug": "tesla-limits-employee-ai-spending"
   },
   {
     "date": "2026-07-04",
-    "title": "优必选发布超仿生机器人",
-    "summary": "优必选发布超仿生机器人新品，在人形机器人领域取得新突破。该产品具备更接近人类的运动能力和交互能力，标志着具身智能技术在大规模商用方向上的重要进展。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a48c2b055852",
-    "source": "亿邦动力",
-    "slug": "ubtech-super-bionic-robot"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "韩国公布1461万亿韩元AI基础设施建设计划",
-    "summary": "韩国总统李在明主持召开会议，公布总额超千万亿韩元的半导体、AI和AI数据中心投资计划，投资总额达1461万亿韩元，涉及半导体生产基地、HBM封装基地、AI数据中心等方向。韩国还考虑用增量税收购买约1万个英伟达Vera Rubin GPU模块。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a48c2b055852",
-    "source": "亿邦动力",
-    "slug": "korea-1461-trillion-won-ai-infrastructure-plan"
+    "title": "AI算力供需格局重构，推理算力增速远超训练",
+    "summary": "TrendForce数据显示，北美五大云服务商2026年AI训练算力预计增长超50%，而推理算力暴增122%。IDC预测到2029年中国市场推理算力占比将接近八成，AI算力需求正从训练端向推理端快速迁移。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0906a49c53026152",
+    "source": "企鹅号",
+    "slug": "ai-computing-supply-demand-restructuring"
   },
   {
     "date": "2026-07-04",
-    "title": "中昊芯英发布新一代全自研TPU AI芯片「须臾」",
-    "summary": "中昊芯英正式发布新一代全自研高性能TPU AI专用算力芯片「须臾」，同步推出搭载该芯片的泰则2.0 AI高性能智算平台。产品已部署于深圳联通、天津移动、太极股份等运营商和政府机构的多个超大规模智算中心。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a48c2b055852",
-    "source": "亿邦动力",
-    "slug": "zhonghaoxinying-tpu-ai-chip-xuyu"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "国家超算互联网启动万卡共创者激励计划",
-    "summary": "国家超算互联网正式启动SCNet万卡共创者激励计划，基于scaleX万卡超集群面向全球AI开发者、初创团队、科研机构提供最高亿级Tokens额度与千卡时国产算力资源，覆盖民生应用、工业仿真、生物医药等多元场景。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a48c2b055852",
-    "source": "亿邦动力",
-    "slug": "national-supercomputing-internet-scnet-plan"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "腾讯暑期升级「AI双引擎防沉迷」模式",
-    "summary": "腾讯在2026年暑期升级「AI双引擎防沉迷」模式，利用大数据和AI识别技术实现更精准的未成年人保护。该模式通过行为特征分析等多维手段，有效识别未成年人冒用成年人账号等问题。",
-    "url": "https://www.iimedia.cn/c1088/112552.html",
-    "source": "艾媒网",
-    "slug": "tencent-ai-dual-engine-anti-addiction"
-  },
-  {
-    "date": "2026-07-03",
-    "title": "中国发布全球首个地层学AI大模型",
-    "summary": "中国发布全球首个地层学AI大模型，将人工智能技术应用于地质勘探和地层学研究领域，有望大幅提升油气资源勘探效率和地质科学研究水平，标志着AI在地球科学领域的重大突破。",
-    "url": "https://www.iimedia.cn/c1088/112552.html",
-    "source": "艾媒网",
-    "slug": "china-first-stratigraphy-ai-model"
-  },
-  {
-    "date": "2026-07-04",
-    "title": "Anthropic与三星洽谈合作开发自研AI芯片",
-    "summary": "据The Information报道，Anthropic正在与三星讨论合作开发定制AI芯片，消息带动三星股价上涨约8%，并推动韩国Kospi指数上涨约5.75%。这显示大模型竞争已从模型参数扩展到专用芯片和供应链安全领域。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1096a48800b07252",
-    "source": "AI早报",
-    "slug": "anthropic-samsung-ai-chip-talks"
+    "title": "《全球大语言模型安全防范能力测评报告（2026）》发布",
+    "summary": "在2026全球数字经济大会云智算安全论坛上，该报告正式发布。报告对主流大模型进行安全「体检」，结果显示多数模型具备基础拒答能力，但在复合攻击下部分模型安全边界明显承压。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4646a48a9cb91652",
+    "source": "企鹅号",
+    "slug": "global-llm-security-assessment-report-2026"
   },
   {
     "date": "2026-07-05",
     "title": "元启数宇发布Sector图形推理决策大模型",
-    "summary": "普陀区科创企业元启数宇发布Sector图形推理决策大模型，实现国内垂直图形决策AI领域关键突破。上海人工智能产业研究院院长评价其为自主可控、全栈自研的标志性突破，解决了工程设计行业效率问题。",
+    "summary": "上海普陀区科创企业元启数宇发布Sector图形推理决策大模型，实现国内垂直图形决策AI领域关键突破。该模型为自主可控、全栈自研，解决了工程设计行业的效率问题。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6416a496a5f61452",
     "source": "企鹅号",
     "slug": "yuanqishuyu-sector-graphic-reasoning-model"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "AI周报：豆包、千问下线智能体功能；阿里内部全面禁用Claude Code",
+    "summary": "本周AI行业动态：字节跳动豆包和阿里千问下线智能体功能，阿里内部全面禁用Claude Code开发工具，引发行业对AI工具安全与合规管理的广泛讨论。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6926a499fa816952",
+    "source": "企鹅号",
+    "slug": "ai-weekly-doubao-qianwen-agent-shutdown"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "昆仑芯赴港IPO目标估值500亿美元，超母公司百度市值",
+    "summary": "百度旗下AI芯片子公司昆仑芯推进港股上市，目标估值约500亿美元（约3399亿元），超过百度约360亿美元的市值。腾讯已成为其客户，字节跳动也在考虑采用其AI芯片。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4016a49ad7215452",
+    "source": "企鹅号",
+    "slug": "kunlunxin-hk-ipo-50-billion-valuation"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "AI驱动产业创新，北京「模数共振」系列举措成果亮相",
+    "summary": "在2026全球数字经济大会上，北京「模数共振」行动实施方案正式发布，政企协同展现北京AI产业创新活力。AI创新产品首发矩阵集中亮相，展示大模型、智能体等领域最新成果。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1136a49106837252",
+    "source": "企鹅号",
+    "slug": "beijing-model-data-resonance-ai-innovation"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "Open AI Infra社区发布系列重磅成果，聚焦AI算力基础设施",
+    "summary": "由全球计算联盟指导的Open AI Infra社区发布五项技术规范、两项研究报告，聚焦超节点、GW级AI数据中心、液冷散热、DC 800V供配电、高速互连等AI基础设施关键技术方向。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3566a48ab3d82752",
+    "source": "企鹅号",
+    "slug": "open-ai-infra-community-research-results"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "快手旗下可灵AI获30亿美元融资，投后估值180亿美元",
+    "summary": "快手在港交所公告，可灵AI完成近30亿美元首轮独立融资，创全球视频大模型公司最大额融资纪录。投后估值约180亿美元，腾讯参投，计划2026年内完成重组，2027年初递交上市申请。",
+    "url": "https://new.qq.com/rain/a/20260702A0AATB00",
+    "source": "腾讯网",
+    "slug": "kling-ai-3-billion-funding-round"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "腾讯混元联合UNSW提出E-GRM框架，被ACL 2026录用",
+    "summary": "腾讯混元与新南威尔士大学联合提出E-GRM（高效生成式奖励建模）框架，将模型自身不确定性定义为计算资源调度信号，仅对困难样本投入完整推理链。该成果已被ACL 2026录用。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0406a489cc646552",
+    "source": "企鹅号",
+    "slug": "tencent-hunyuan-egrm-acl-2026"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "美团正式发布并开源万亿参数大模型LongCat-2.0",
+    "summary": "美团发布新一代基础大模型LongCat-2.0并对外开源。总参数1.6万亿（MoE架构），在5万张国产算力卡集群完成全流程训练，原生支持1M超长上下文。预览版已跻身OpenRouter全球调用量前三。",
+    "url": "https://new.qq.com/rain/a/20260630A0415I00",
+    "source": "腾讯网",
+    "slug": "meituan-longcat-2-trillion-parameter-model"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "韩国公布1461万亿韩元AI基础设施建设计划",
+    "summary": "韩国总统李在明公布总额1461万亿韩元的半导体、AI和AI数据中心投资计划，涉及半导体生产基地、HBM封装基地、AI数据中心等方向，并考虑用增量税收购买约1万个英伟达Vera Rubin GPU模块。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a48c2b055852",
+    "source": "亿邦动力",
+    "slug": "korea-1461-trillion-won-ai-infrastructure-plan"
   }
 ]
