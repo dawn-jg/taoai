@@ -1,114 +1,114 @@
 [
   {
     "date": "2026-07-05",
+    "title": "周鸿祎：人工智能对世界的重构将在5至10年内完成",
+    "summary": "360集团创始人周鸿祎在2026全球数字经济大会\u00b7人工智能融合应用发展论坛上表示，人工智能对世界的重构将在5至10年内完成，AI正从\u201c思考\u201d迈向\u201c行动\u201d与\u201c交付\u201d阶段。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7126a4a308149652",
+    "source": "央广网",
+    "slug": "zhou-hongyi-ai-will-restructure-world-in-5-10-years"
+  },
+  {
+    "date": "2026-07-05",
     "title": "京东智能体平台运行超400个大型AI应用",
-    "summary": "在2026全球数字经济大会上，京东云总裁曹鹏透露，京东智能体平台目前运行着400余个大型AI应用，支撑近4万个智能体，覆盖采销、物流、客服、研发等全业务环节，成为AI驱动产业升级的典型案例。",
+    "summary": "在2026全球数字经济大会上，京东云总裁曹鹏透露，京东智能体平台目前运行着400余个大型AI应用，支撑近4万个智能体，覆盖采销、物流、客服、研发等全业务环节。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3636a4a0b3792665",
     "source": "企鹅号",
     "slug": "jd-ai-agent-platform-400-apps"
   },
   {
     "date": "2026-07-05",
-    "title": "昆仑芯计划港股上市，目标估值500亿美元超百度市值",
-    "summary": "百度旗下AI芯片子公司昆仑芯推进港股上市，目标估值约500亿美元（约3399亿元），超过百度约360亿美元市值。腾讯已成为其客户，字节跳动也在评估采用其AI芯片，标志着国产AI芯片商业化加速。",
+    "title": "医疗与人工智能研讨会在北京举办",
+    "summary": "由瞭望周刊社瞭望财经与德适科技联合主办的医疗与人工智能研讨会在北京举办。与会人士表示，AI深度融入医学影像领域，数据资源合规流通与开发利用是产业发展的重要方向。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5716a4a426569052",
+    "source": "中新网",
+    "slug": "medical-ai-seminar-beijing-2026"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "中国推动AI产品出海惠及全球",
+    "summary": "新华社报道，2026数字经济产业博览会上各类AI技术产品吸引观众驻足体验。中国AI产品正在加速走向全球，特别是在数字人、智能检测等领域展现出强劲竞争力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9326a4a55ee27552",
+    "source": "新华社",
+    "slug": "china-ai-products-going-global"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "百度文心一言App上线深度阅读与图表生成能力",
+    "summary": "百度文心一言App新增深度阅读与图表生成两大能力，用户上传百页以上报告或PDF，AI可在数秒内提取核心论点并生成结构化脑图，同时支持通过自然语言指令生成可视化图表。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a4a59d201452",
+    "source": "企鹅号",
+    "slug": "baidu-wenxin-app-deep-reading-chart-generation"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "腾讯企业微信推出AI智能体大员，基于DeepSeek大模型",
+    "summary": "腾讯宣布在企业微信中推出AI智能体大员，基于DeepSeek最新大语言模型构建。用户在企业微信任何界面只需左滑即可唤起，它能智能识别当前所在页面并自动响应。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a4a59d201452",
+    "source": "企鹅号",
+    "slug": "tencent-wecom-ai-agent-dayuan-deepseek"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "快手可灵AI完成30亿美元外部增资，投后估值180亿美元",
+    "summary": "快手科技公告，旗下独立运营主体北京可灵完成总额上限30亿美元外部增资，投后估值达180亿美元，创全球视频大模型公司融资规模新纪录。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a4a59d201452",
+    "source": "企鹅号",
+    "slug": "kuaishou-kling-ai-30-billion-funding"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "DeepSeek V4计划7月中旬上线",
+    "summary": "DeepSeek团队正式宣布，DeepSeek V4的正式版本计划于7月中旬上线，届时将带来一系列功能优化与性能提升。此前V4预览版已全面适配国产算力。",
+    "url": "http://chinaz.com/",
+    "source": "站长之家",
+    "slug": "deepseek-v4-july-mid-launch"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "中国超算灵晟登顶全球TOP500榜首",
+    "summary": "最新一期全球超级计算机500强榜单揭晓，中国超级计算机灵晟以每秒219亿亿次的持续双精度浮点性能登顶，成为全球首个持续性能超200亿亿次的超算系统。",
+    "url": "http://www.xbxxb.com/kj/1.html",
+    "source": "西北在线",
+    "slug": "china-supercomputer-lingsheng-top500"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "北京AI核心产业规模约4500亿元，备案大模型达225款",
+    "summary": "《北京数字经济发展报告(2025\u20142026)》发布，2025年北京数字经济增加值突破2.4万亿元。人工智能核心产业规模约4500亿元，集聚相关企业超2500家，截至2026年4月备案大模型达225款。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1466a49f7f359952",
+    "source": "钛媒体",
+    "slug": "beijing-ai-industry-scale-450-billion"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "2026中国(南京)具身智能机器人产业展将于7月10日举行",
+    "summary": "2026年7月10日至12日，中国(南京)具身智能机器人产业展将在南京举行，预计吸引450余家海内外参展企业，覆盖核心零部件、人形机器人、服务机器人及行业解决方案全链条。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8736a4a5cd554652",
+    "source": "财联社",
+    "slug": "nanjing-embodied-ai-robot-expo-2026"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "AI安全要从娃娃抓起\u2014\u2014全球至少2000万儿童已使用AI",
+    "summary": "联合国儿童基金会发布声明，估计全球至少2000万名儿童已使用AI，青少年采用AI技术的增长速度是成年人的3倍多。专家呼吁在儿童快速拥抱AI的同时加强安全防护措施。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4586a4ae0a847152",
+    "source": "经济日报",
+    "slug": "unicef-200-million-children-use-ai"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "昆仑芯计划港股上市，目标估值500亿美元",
+    "summary": "百度旗下AI芯片子公司昆仑芯计划在香港上市，目标估值500亿美元，并要求投资者承诺购买其芯片。受此消息影响，百度港股股价涨超6%。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4016a49ad7215452",
     "source": "企鹅号",
     "slug": "kunlunxin-hk-ipo-50-billion-valuation"
   },
   {
     "date": "2026-07-05",
-    "title": "AI周报：豆包、千问下线智能体功能，阿里内部全面禁用Claude Code",
-    "summary": "本周AI行业重要动态：字节跳动豆包和阿里千问相继宣布下线AI对话智能体功能，阿里内部出台规定全面禁用Claude Code开发工具，引发行业对AI工具合规管理的广泛讨论。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6926a499fa816952",
-    "source": "企鹅号",
-    "slug": "ai-weekly-doubao-qianwen-agent-shutdown-alibaba-claude-code-ban"
-  },
-  {
-    "date": "2026-07-05",
-    "title": "元启数宇发布Sector图形推理决策大模型",
-    "summary": "上海普陀区科创企业元启数宇发布Sector图形推理决策大模型，实现国内垂直图形决策AI领域关键突破。该模型为自主可控、全栈自研，可大幅提升工程设计行业的效率。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6416a496a5f61452",
-    "source": "企鹅号",
-    "slug": "yuanqishuyu-sector-graphic-reasoning-model"
-  },
-  {
-    "date": "2026-07-05",
-    "title": "毕马威2026全球技术报告：AI规模化落地是核心抓手",
-    "summary": "毕马威发布2026全球技术报告，调研27国2500余家头部科技企业。报告指出AI规模化落地是企业核心抓手，代理式AI、具身智能成为核心赛道，中国依托完整制造业产业链在具身智能领域优势显著。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0486a46003e56152",
-    "source": "企鹅号",
-    "slug": "kpmg-2026-global-tech-report-ai"
-  },
-  {
-    "date": "2026-07-05",
-    "title": "GEO市场爆发：AI搜索重构企业获客逻辑",
-    "summary": "2026年AI搜索从尝鲜工具升级为国民级信息入口，GEO（生成式引擎优化）市场进入爆发阶段。报告显示企业在AI生成引擎中的可见度正成为新的获客竞争力，AI搜索优化市场快速扩张。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2276a49af6e19552",
-    "source": "企鹅号",
-    "slug": "geo-market-explosion-ai-search-marketing"
-  },
-  {
-    "date": "2026-07-04",
-    "title": "AI浪潮下一人公司勾勒创业新图景",
-    "summary": "为期三天的2026数字经济产业博览会在京落幕。作为博览会独创板块，全球OPC共创节汇集内容营销、音乐创作等赛道的一人公司代表，展示AI工具重塑生产方式、降低创业门槛的新趋势。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3176a490d7086952",
-    "source": "中新社",
-    "slug": "ai-one-person-company-entrepreneurship"
-  },
-  {
-    "date": "2026-07-04",
-    "title": "多平台下线AI对话智能体功能",
-    "summary": "7月4日，字节跳动豆包和阿里千问宣布下线AI对话智能体功能。此前南都N视频曾深入报道AI虚拟伴侣存在的各类问题，此次多家平台同步下线相关功能，引发行业对AI社交产品监管的关注。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4806a48e47229852",
-    "source": "南方都市报",
-    "slug": "doubao-qianwen-agent-feature-shutdown"
-  },
-  {
-    "date": "2026-07-04",
-    "title": "特斯拉限制员工AI使用开销，每人每周上限200美元",
-    "summary": "据财联社报道，特斯拉将从7月6日起限制员工AI工具花费，每人每周上限200美元，超出须经主管批准。不过员工使用马斯克旗下xAI的Grok模型不计入额度。多家美国科技企业同步收紧AI支出。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8406a49001275452",
-    "source": "财联社",
-    "slug": "tesla-limits-employee-ai-spending-200-dollar-weekly"
-  },
-  {
-    "date": "2026-07-04",
-    "title": "AI算力供需格局重构，推理算力增速远超训练",
-    "summary": "TrendForce数据显示，北美五大云服务商2026年AI训练算力预计增长超50%，而推理算力暴增122%。IDC预测到2029年中国市场推理算力占比将接近八成，AI算力需求正从训练端快速向推理端迁移。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0906a49c53026152",
-    "source": "TrendForce",
-    "slug": "ai-computing-demand-shift-inference-surpasses-training"
-  },
-  {
-    "date": "2026-07-04",
-    "title": "AI驱动产业创新，北京模数共振系列举措成果亮相",
-    "summary": "7月3日，2026全球数字经济大会人工智能融合应用发展论坛在京举办。AI创新产品首发矩阵集中亮相，模数共振行动实施方案等一系列支持举措现场发布，政企协同展现北京AI产业创新活力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1136a49106837252",
-    "source": "北京日报",
-    "slug": "beijing-model-data-resonance-ai-forum"
-  },
-  {
-    "date": "2026-07-04",
-    "title": "腾讯混元联合UNSW提出E-GRM框架，被ACL 2026录用",
-    "summary": "腾讯混元与新南威尔士大学联合提出E-GRM（高效生成式奖励建模）框架，将模型自身不确定性定义为计算资源调度信号，仅对困难样本投入完整推理链，显著提升推理效率。该成果已被ACL 2026录用。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0406a489cc646552",
-    "source": "企鹅号",
-    "slug": "tencent-hunyuan-egrm-efficient-reward-modeling-acl-2026"
-  },
-  {
-    "date": "2026-07-04",
-    "title": "北京太空算力创新中心揭牌",
-    "summary": "北京太空算力创新中心正式揭牌成立，该中心聚焦太空算力产业，旨在打造太空计算基础设施策源地，推动天地一体化算力网络建设，标志着我国在太空算力领域迈出重要一步。",
-    "url": "http://bj.people.com.cn/GB/349239/index.html",
-    "source": "人民网",
-    "slug": "beijing-space-computing-innovation-center"
-  },
-  {
-    "date": "2026-07-04",
-    "title": "全球大语言模型安全防范能力测评报告2026发布",
-    "summary": "在2026全球数字经济大会云智算安全论坛上，《全球大语言模型安全防范能力测评报告（2026）》正式发布。报告对主流大模型进行安全测评，结果显示多数模型具备基础拒答能力，但在复合攻击下部分模型安全边界明显承压。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4646a48a9cb91652",
-    "source": "企鹅号",
-    "slug": "global-llm-safety-assessment-report-2026"
+    "title": "清华火神队卫冕RoboCup 2026世界冠军",
+    "summary": "清华大学火神队在RoboCup 2026机器人世界杯中成功卫冕世界冠军。这是中国高校在机器人足球领域的重大突破，展示了具身智能和人形机器人的前沿技术实力。",
+    "url": "http://tech.163.com/",
+    "source": "网易科技",
+    "slug": "tsinghua-huoshen-robocup-2026-champion"
   }
 ]
