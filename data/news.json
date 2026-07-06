@@ -1,114 +1,114 @@
 [
   {
     "date": "2026-07-05",
+    "title": "中国超算\u201c灵晟\u201d登顶全球超算TOP500榜首",
+    "summary": "最新一期全球超级计算机500强榜单在德国国际超算大会上揭晓，中国超级计算机\u201c灵晟\u201d以每秒219亿亿次的持续双精度浮点性能登顶，成为全球首个持续性能超200亿亿次的超算系统。这是自2017年\u201c神威\u00b7太湖之光\u201d之后，中国超算重返世界之巅。",
+    "url": "http://www.xbxxb.com/kj/1.html",
+    "source": "西北在线",
+    "slug": "china-supercomputer-lingsheng-tops-top500"
+  },
+  {
+    "date": "2026-07-05",
     "title": "周鸿祎：人工智能对世界的重构将在5至10年内完成",
     "summary": "360集团创始人周鸿祎在2026全球数字经济大会\u00b7人工智能融合应用发展论坛上表示，人工智能对世界的重构将在5至10年内完成，AI正从\u201c思考\u201d迈向\u201c行动\u201d与\u201c交付\u201d阶段。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7126a4a308149652",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0596a4a6a0510852",
     "source": "央广网",
-    "slug": "zhou-hongyi-ai-will-restructure-world-in-5-10-years"
-  },
-  {
-    "date": "2026-07-05",
-    "title": "京东智能体平台运行超400个大型AI应用",
-    "summary": "在2026全球数字经济大会上，京东云总裁曹鹏透露，京东智能体平台目前运行着400余个大型AI应用，支撑近4万个智能体，覆盖采销、物流、客服、研发等全业务环节。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3636a4a0b3792665",
-    "source": "企鹅号",
-    "slug": "jd-ai-agent-platform-400-apps"
-  },
-  {
-    "date": "2026-07-05",
-    "title": "医疗与人工智能研讨会在北京举办",
-    "summary": "由瞭望周刊社瞭望财经与德适科技联合主办的医疗与人工智能研讨会在北京举办。与会人士表示，AI深度融入医学影像领域，数据资源合规流通与开发利用是产业发展的重要方向。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5716a4a426569052",
-    "source": "中新网",
-    "slug": "medical-ai-seminar-beijing-2026"
+    "slug": "zhou-hongyi-ai-restructure-world-5-10-years"
   },
   {
     "date": "2026-07-05",
     "title": "中国推动AI产品出海惠及全球",
-    "summary": "新华社报道，2026数字经济产业博览会上各类AI技术产品吸引观众驻足体验。中国AI产品正在加速走向全球，特别是在数字人、智能检测等领域展现出强劲竞争力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9326a4a55ee27552",
+    "summary": "新华社报道，2026数字经济产业博览会上各类搭载AI技术的产品吸引观众驻足体验。AI智能检测仪等产品已开发英语、韩语、俄语、泰语等十余个语言版本，中国AI产品加速走向全球。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5746a4b045135552",
     "source": "新华社",
-    "slug": "china-ai-products-going-global"
+    "slug": "china-ai-products-going-global-2026"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "人工智能加速赋能千行百业，央地密集出台支持政策",
+    "summary": "近期央地密集出台政策，支持人工智能+消费、人工智能+交通运输等创新发展，持续释放AI全面赋能千行百业的强劲信号。业内专家表示，AI与实体经济、民生场景深度融合能够充分激活智能经济活力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2366a4b046115652",
+    "source": "企鹅号",
+    "slug": "ai-empowers-all-industries-policy-support"
   },
   {
     "date": "2026-07-05",
+    "title": "医疗与人工智能研讨会在北京举办",
+    "summary": "由瞭望周刊社瞭望财经与德适科技联合主办的医疗与人工智能研讨会在北京举办。与会人士表示，随着AI深度融入医学影像领域，数据资源价值持续凸显，合规流通与开发利用是产业发展的重要方向。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5716a4a426569052",
+    "source": "中新网",
+    "slug": "medical-ai-seminar-beijing-july-2026"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "美光广岛晶圆厂扩建动工，投资约93亿美元布局HBM产能",
+    "summary": "美光科技在日本广岛正式启动晶圆厂扩建工程，项目总投资约1.5万亿日元（约93亿美元），用于生产高带宽存储器（HBM）等先进存储芯片，主要服务于AI处理器需求。日本经济产业省将提供最高约5000亿日元补贴。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8306a4af5de26452",
+    "source": "企鹅号",
+    "slug": "micron-hiroshima-hbm-fab-expansion-93-billion"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "业内首个AI-eSIM产业协同平台成立",
+    "summary": "在中国信息通信业发展高层论坛上，由中国移动发起的业内首个AI-eSIM产业协同平台正式成立。该平台旨在推动AI与eSIM技术深度融合，促进物联网和智能终端产业协同发展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7396a4b00ef64352",
+    "source": "企鹅号",
+    "slug": "first-ai-esim-industry-platform-launched"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "联合国儿童基金会：全球至少2000万儿童已使用AI",
+    "summary": "联合国儿童基金会发布声明，通过对10个国家最新数据分析，估计全球至少有2000万名儿童已使用人工智能，青少年采用AI技术的增长速度是成年人的3倍多。专家呼吁加强儿童AI安全防护措施。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9256a4b187719252",
+    "source": "经济日报",
+    "slug": "unicef-20-million-children-use-ai"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "宇树科技科创板IPO注册获证监会同意",
+    "summary": "证监会正式同意宇树科技首次公开发行股票并在科创板上市的注册申请，人形机器人产业再迎重要催化。受消息提振，市场资金持续借道ETF布局机器人赛道，十余只机器人ETF全部实现资金净流入。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7396a4b00ef64352",
+    "source": "企鹅号",
+    "slug": "unitree-tech-ipo-approved-on-sse-star-market"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "人形机器人百人会发布情感陪伴机器人发展倡议",
+    "summary": "中国人形机器人百人和中国机械工业联合会联合发布倡议，规范和引导情感陪伴人形机器人发展，提倡科技向善，将安全伦理规范融入产品设计、研发、广告宣传、应用全过程，加强个人信息保护。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7396a4b00ef64352",
+    "source": "企鹅号",
+    "slug": "humanoid-robot-ethical-guidelines-issued"
+  },
+  {
+    "date": "2026-07-06",
     "title": "百度文心一言App上线深度阅读与图表生成能力",
-    "summary": "百度文心一言App新增深度阅读与图表生成两大能力，用户上传百页以上报告或PDF，AI可在数秒内提取核心论点并生成结构化脑图，同时支持通过自然语言指令生成可视化图表。",
+    "summary": "百度文心一言App新增\u201c深度阅读\u201d与\u201c图表生成\u201d两大能力。用户上传百页以上的行业报告或PDF文档，AI可在数秒内提取核心论点并生成结构化脑图，同时支持通过自然语言指令直接生成可视化表格与柱状图。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a4a59d201452",
     "source": "企鹅号",
-    "slug": "baidu-wenxin-app-deep-reading-chart-generation"
+    "slug": "baidu-wenxin-app-deep-reading-charts"
   },
   {
-    "date": "2026-07-05",
-    "title": "腾讯企业微信推出AI智能体大员，基于DeepSeek大模型",
-    "summary": "腾讯宣布在企业微信中推出AI智能体大员，基于DeepSeek最新大语言模型构建。用户在企业微信任何界面只需左滑即可唤起，它能智能识别当前所在页面并自动响应。",
+    "date": "2026-07-06",
+    "title": "腾讯企业微信推出AI智能体\u201c大员\u201d，基于DeepSeek大模型",
+    "summary": "腾讯宣布在企业微信中推出AI智能体\u201c大员\u201d，基于DeepSeek最新大语言模型构建。用户在企业微信任何界面只需左滑即可唤起，它能智能识别当前所在页面并自动响应。这是腾讯首次在核心企业协作产品中接入第三方大模型。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a4a59d201452",
     "source": "企鹅号",
     "slug": "tencent-wecom-ai-agent-dayuan-deepseek"
   },
   {
     "date": "2026-07-05",
-    "title": "快手可灵AI完成30亿美元外部增资，投后估值180亿美元",
-    "summary": "快手科技公告，旗下独立运营主体北京可灵完成总额上限30亿美元外部增资，投后估值达180亿美元，创全球视频大模型公司融资规模新纪录。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a4a59d201452",
-    "source": "企鹅号",
-    "slug": "kuaishou-kling-ai-30-billion-funding"
+    "title": "第25届中国互联网大会7月8日至10日举办",
+    "summary": "第25届中国互联网大会将于7月8日至10日在北京国家会议中心举办，聚焦AI产业化落地、算力互联互通、数据要素市场化等核心议题。工信部此前发布《算力互联互通行动计划》，目标2026年建立算力互联互通标准体系。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5206a4a529136552",
+    "source": "财联社",
+    "slug": "25th-china-internet-conference-july-8-10"
   },
   {
     "date": "2026-07-05",
-    "title": "DeepSeek V4计划7月中旬上线",
-    "summary": "DeepSeek团队正式宣布，DeepSeek V4的正式版本计划于7月中旬上线，届时将带来一系列功能优化与性能提升。此前V4预览版已全面适配国产算力。",
-    "url": "http://chinaz.com/",
-    "source": "站长之家",
-    "slug": "deepseek-v4-july-mid-launch"
-  },
-  {
-    "date": "2026-07-05",
-    "title": "中国超算灵晟登顶全球TOP500榜首",
-    "summary": "最新一期全球超级计算机500强榜单揭晓，中国超级计算机灵晟以每秒219亿亿次的持续双精度浮点性能登顶，成为全球首个持续性能超200亿亿次的超算系统。",
-    "url": "http://www.xbxxb.com/kj/1.html",
-    "source": "西北在线",
-    "slug": "china-supercomputer-lingsheng-top500"
-  },
-  {
-    "date": "2026-07-05",
-    "title": "北京AI核心产业规模约4500亿元，备案大模型达225款",
-    "summary": "《北京数字经济发展报告(2025\u20142026)》发布，2025年北京数字经济增加值突破2.4万亿元。人工智能核心产业规模约4500亿元，集聚相关企业超2500家，截至2026年4月备案大模型达225款。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1466a49f7f359952",
-    "source": "钛媒体",
-    "slug": "beijing-ai-industry-scale-450-billion"
-  },
-  {
-    "date": "2026-07-05",
-    "title": "2026中国(南京)具身智能机器人产业展将于7月10日举行",
-    "summary": "2026年7月10日至12日，中国(南京)具身智能机器人产业展将在南京举行，预计吸引450余家海内外参展企业，覆盖核心零部件、人形机器人、服务机器人及行业解决方案全链条。",
+    "title": "2026中国（南京）具身智能机器人产业展7月10日举行",
+    "summary": "2026中国（南京）具身智能机器人产业展将于7月10日至12日在南京举行，预计吸引450余家海内外参展企业、35000余名专业观众，从核心零部件到整机系统再到行业解决方案，构建完整生态链。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8736a4a5cd554652",
     "source": "财联社",
-    "slug": "nanjing-embodied-ai-robot-expo-2026"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "AI安全要从娃娃抓起\u2014\u2014全球至少2000万儿童已使用AI",
-    "summary": "联合国儿童基金会发布声明，估计全球至少2000万名儿童已使用AI，青少年采用AI技术的增长速度是成年人的3倍多。专家呼吁在儿童快速拥抱AI的同时加强安全防护措施。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4586a4ae0a847152",
-    "source": "经济日报",
-    "slug": "unicef-200-million-children-use-ai"
-  },
-  {
-    "date": "2026-07-05",
-    "title": "昆仑芯计划港股上市，目标估值500亿美元",
-    "summary": "百度旗下AI芯片子公司昆仑芯计划在香港上市，目标估值500亿美元，并要求投资者承诺购买其芯片。受此消息影响，百度港股股价涨超6%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4016a49ad7215452",
-    "source": "企鹅号",
-    "slug": "kunlunxin-hk-ipo-50-billion-valuation"
-  },
-  {
-    "date": "2026-07-05",
-    "title": "清华火神队卫冕RoboCup 2026世界冠军",
-    "summary": "清华大学火神队在RoboCup 2026机器人世界杯中成功卫冕世界冠军。这是中国高校在机器人足球领域的重大突破，展示了具身智能和人形机器人的前沿技术实力。",
-    "url": "http://tech.163.com/",
-    "source": "网易科技",
-    "slug": "tsinghua-huoshen-robocup-2026-champion"
+    "slug": "nanjing-embodied-ai-robot-expo-july-2026"
   }
 ]
