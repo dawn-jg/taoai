@@ -1,122 +1,114 @@
 [
   {
-    "date": "2026-07-06",
-    "title": "快手可灵AI完成近30亿美元融资，腾讯阿里百度参投",
-    "summary": "快手旗下视频生成大模型可灵AI完成首轮近30亿美元融资，投后估值达180亿美元，创全球视频大模型单笔融资纪录。腾讯、阿里、百度同台参投。",
-    "url": "https://new.qq.com/rain/a/20260706A0B37U00",
-    "source": "腾讯网",
-    "slug": "kling-ai-3-billion-funding"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "腾讯混元Hy3大模型正式发布，Agent能力显著跃升",
-    "summary": "腾讯混元Hy3正式版发布，MoE架构295B总参数，支持256K上下文。Agent任务解决率大幅提升，已在元宝、ima等多个业务接入。",
-    "url": "https://new.qq.com/rain/a/20260706A072SN00",
-    "source": "财联社",
-    "slug": "tencent-hunyuan-hy3-release"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "OpenAI发布GPT-5.6系列，推出Sol/Terra/Luna三款模型",
-    "summary": "OpenAI开放GPT-5.6限量测试，推出旗舰Sol、平衡Terra和极速Luna三款模型。强化编程与网络安全，初期仅限可信合作方。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2486a4b741e52352",
-    "source": "量子位",
-    "slug": "openai-gpt-5-6-sol-terra-luna"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "中央网信办通报\"清朗·整治AI应用乱象\"第一阶段成果",
-    "summary": "专项行动累计处置违规AI产品1.4万余款，清理违法违规信息600余万条，处置账号2.6万余个。下一步将聚焦AI虚假信息等开展第二阶段。",
-    "url": "https://new.qq.com/rain/a/20260706A085K600",
-    "source": "新华社",
-    "slug": "cac-ai-crackdown-phase1-results"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "中国超算\"灵晟\"登顶全球TOP500榜首",
-    "summary": "中国超算灵晟以每秒219亿亿次持续双精度浮点性能登顶，成为世界首个持续性能超2EFlops的超算系统。系2017年后重返世界之巅。",
-    "url": "http://www.xbxxb.com/kj/1.html",
-    "source": "西北在线",
-    "slug": "china-supercomputer-lingsheng-top500"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "美光斥资93亿美元启动日本广岛HBM晶圆厂扩建",
-    "summary": "美光在广岛启动93亿美元晶圆厂扩建，聚焦HBM等AI存储芯片，预计2028年夏季出货。日本经产省提供最高5000亿日元补贴。",
-    "url": "https://new.qq.com/rain/a/20260706A07QKQ00",
-    "source": "腾讯网",
-    "slug": "micron-hiroshima-hbm-expansion"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "全球首款忆阻器神经动力学芯片问世，北大联合中科院研制",
-    "summary": "北大杨玉超团队联合中科院研制全球首款相变忆阻器神经动力学芯片，单步时延2.12毫秒，较GPU提速50-478倍，突破实时计算瓶颈。成果登上《科学》期刊。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4796a4b1a8c12952",
+    "date": "2026-07-07",
+    "title": "2026世界人工智能大会7月17-20日在上海举办，多款硬核AI新品即将首发",
+    "summary": "2026世界人工智能大会将于7月17-20日在上海举办。大会展览期间，华为Atlas 950超节点真机将亮相，MiniMax M3多模态大模型、阶跃Agent操作系统、近存计算3D芯片、全球首款AI智能体手机以及多款人形机器人等重磅新品都将在大会展出。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0096a4c758f45752",
     "source": "企鹅号",
-    "slug": "pku-first-neural-dynamics-chip"
+    "slug": "wadic-2026-shanghai-july-17"
   },
   {
-    "date": "2026-07-06",
-    "title": "大湾区大学人工智能研究院在东莞揭牌成立",
-    "summary": "研究院确立\"数学驱动，智创未来\"定位，下设10个创新中心，由田刚院士任顾问委员会主席。同时获批全国首批智能计算本科专业。",
-    "url": "https://new.qq.com/rain/a/20260706A04REC00",
-    "source": "腾讯网",
-    "slug": "greater-bay-area-university-ai-institute"
+    "date": "2026-07-07",
+    "title": "腾讯混元Hy3正式发布，升级版大模型Agent能力显著提升",
+    "summary": "腾讯在微信公众号发布声明，正式发布混元模型Hy3。该模型是在今年4月预览版基础上的升级版本，Agent任务解决率大幅提升，已在元宝、ima等多个业务接入。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4426a4c5f0b56252",
+    "source": "企鹅号",
+    "slug": "tencent-hunyuan-hy3-official-release"
   },
   {
-    "date": "2026-07-06",
-    "title": "联合国发布AI风险警告，启动全球AI合作计划",
-    "summary": "联合国独立AI专家组报告指出，AI远超监管速度发展，或带来虚假信息、网络攻击等重大风险。呼吁建立更完善治理体系。",
+    "date": "2026-07-07",
+    "title": "联合国推动全球人工智能能力发展网络AICDN正式成立，中国机构参与筹建",
+    "summary": "当地时间7月5日，由联合国推动筹建的全球人工智能能力发展网络（Global AICDN）在瑞士日内瓦WTO大楼正式成立，旨在加强国际合作缩小全球AI鸿沟。中国代表机构参与牵头筹建。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3106a4c657876552",
+    "source": "企鹅号",
+    "slug": "global-aicdn-established-geneva"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "阿里、腾讯加码AI视频赛道，共同参与Kling AI新一轮数十亿美元融资",
+    "summary": "阿里巴巴与腾讯共同参与AI视频平台Kling AI的新一轮融资，金额高达数十亿美元。AI视频生成竞争持续升温，行业正从生成图片迈向生成电影阶段。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9916a4b615e78652",
     "source": "企鹅号",
-    "slug": "un-ai-risk-warning-global-cooperation"
+    "slug": "ali-tencent-invest-kling-ai"
   },
   {
-    "date": "2026-07-06",
-    "title": "2026世界机器人大会将于8月在北京举行",
-    "summary": "2026世界机器人大会8月19日至23日在京举行，主题\"人机共生，产需共融\"。央企展团首次集中亮相，报名通道已开启。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4306a4bb7e873352",
+    "date": "2026-07-07",
+    "title": "首届人工智能治理全球对话在日内瓦开幕，聚焦AI机遇与国际治理合作",
+    "summary": "7月6日，首届人工智能治理全球对话在日内瓦开幕，聚焦AI机遇与国际治理合作。在即将举行的NATO峰会上，欧洲国家计划推动自主AI能力建设，以减少对美国AI企业的依赖。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4156a4c6bff63452",
     "source": "企鹅号",
-    "slug": "world-robot-conference-2026-beijing"
+    "slug": "ai-governance-global-dialogue-geneva"
   },
   {
-    "date": "2026-07-06",
-    "title": "前5个月我国机器人出口近200亿元，清洁机器人占七成",
-    "summary": "海关统计显示，前5个月国产机器人合计出口1037.7万台，总值199.9亿元。清洁机器人出口140亿元占七成以上，远销150多国。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3876a4ae4aa01452",
+    "date": "2026-07-07",
+    "title": "华源智因完成数千万元种子轮融资，加速AI虚拟细胞商业化落地",
+    "summary": "AI虚拟细胞企业华源智因完成数千万元种子轮融资，将用于数据、模型和临床核心壁垒建设，加速商业化落地。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4156a4c6bff63452",
     "source": "企鹅号",
-    "slug": "china-robot-export-20-billion"
+    "slug": "huayuanzhiyin-seed-round-ai-virtual-cell"
   },
   {
-    "date": "2026-07-06",
-    "title": "联合国儿基会：全球至少2000万名儿童已使用过AI",
-    "summary": "儿基会估计全球至少2000万儿童已使用AI，青少年采用速度是成年人的3倍多。报告呼吁加强AI儿童安全防护措施。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9256a4b187719252",
+    "date": "2026-07-07",
+    "title": "雄安新区已汇聚96家AI企业，研发近30款大模型",
+    "summary": "雄安新区已汇聚96家AI企业，研发近30款大模型，人工智能原生产业创新生态加速成形。济南AI算力占总算力比重达88.58%，智算规模居全国前列。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4156a4c6bff63452",
     "source": "企鹅号",
-    "slug": "unicef-20-million-children-ai"
+    "slug": "xiongan-new-area-96-ai-enterprises"
   },
   {
-    "date": "2026-07-06",
-    "title": "2026中国数字医疗论坛召开，聚焦AI医疗新趋势",
-    "summary": "数字医疗论坛在北京国家会议中心举办，集中呈现AI在医疗领域的应用成果，探讨AI医疗发展新趋势与产业集群建设。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7656a4b9e2f30252",
-    "source": "中国日报",
-    "slug": "china-digital-health-forum-2026"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "第25届中国互联网大会即将举办，聚焦AI产业化落地",
-    "summary": "中国互联网大会7月8日至10日举办，聚焦AI产业化落地。工信部发布算力互联互通行动计划，推进城域毫秒用算专项行动。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9876a4b117267952",
+    "date": "2026-07-07",
+    "title": "福州出台AI产业发展措施，发布自研工业级具身作业机器人",
+    "summary": "福州出台AI产业发展措施，本土企业发布自研工业级具身作业机器人。云知声兽牙智能体平台入选工信部AI应用典型案例。农业农村部表示我国农业AI应用进程加快，数据总量同比增长42%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4156a4c6bff63452",
     "source": "企鹅号",
-    "slug": "china-internet-conference-2026-ai"
+    "slug": "fuzhou-ai-policy-yunzhi-sheng"
   },
   {
-    "date": "2026-07-06",
-    "title": "欧洲加速推动自主AI能力建设，减少对美依赖",
-    "summary": "NATO峰会上欧洲国家将推动自主AI能力建设以减少对美依赖。分析认为AI正形成中美欧三大阵营格局，成全球科技竞争战略资源。",
+    "date": "2026-07-07",
+    "title": "美国TeraWulf与Anthropic签署190亿美元智算数据中心租赁协议",
+    "summary": "美国TeraWulf与AI独角兽Anthropic签署190亿美元智算数据中心租赁协议，加速向AI基础设施转型。全球AI投资进入新阶段。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4156a4c6bff63452",
+    "source": "企鹅号",
+    "slug": "terawulf-anthropic-19-billion-data-center"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "AI大模型商业化落地战全面打响，行业泡沫开始出清",
+    "summary": "行业报告指出，2026上半年中国AI大模型产业竞争激化，全面打响大规模商业化落地战，应用前景得以验证，行业泡沫开始出清。",
+    "url": "http://tech.cnr.cn/techgd/",
+    "source": "央广网",
+    "slug": "ai-llm-commercialization-2026-report"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "日本初创TAI完成40nm边缘物理AI芯片原型验证，迈向量产阶段",
+    "summary": "日本芯片设计初创Tokyo Artisan Intelligence宣布，其基于FPGA的40nm边缘物理AI芯片原型Sting Ray已完成验证，迈向量产阶段。采用低功耗快响应设计，面向工业、机器人领域。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a4c525524752",
+    "source": "企鹅号",
+    "slug": "tai-sting-ray-40nm-chip"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "优必选回应仿生机器人争议：全尺寸人形机器人续航普遍2-4小时",
+    "summary": "优必选推出优世界全尺寸超仿生人形机器人U1系列后引发关注。优必选7月6日回应称，目前全尺寸人形机器人续航基本在2-4小时，属于行业普遍情况。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a4c525524752",
+    "source": "企鹅号",
+    "slug": "ubtech-ultra-bionic-robot-response"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "同程商旅程意大模型通过国家网信办生成式AI备案",
+    "summary": "同程商旅宣布其自研程意大模型已成功完成国家网信办备案，取得对外提供生成式AI服务的合规资质，成为国内商旅行业具备国家级合规资质的垂直大模型。",
+    "url": "http://tech.cnr.cn/techgd/",
+    "source": "央广网",
+    "slug": "tongcheng-ai-model-cyberspace-approval"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "联合国独立AI专家组发布风险警告：AI发展速度远超监管",
+    "summary": "联合国独立AI科学专家组发布报告，指出AI以远超监管速度发展，可能带来虚假信息、网络攻击、生物安全等重大风险，呼吁各国建立更完善AI治理体系。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9916a4b615e78652",
     "source": "企鹅号",
-    "slug": "europe-ai-independence-nato"
+    "slug": "un-ai-risk-warning-report"
   }
 ]
