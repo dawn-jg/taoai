@@ -1,114 +1,122 @@
 [
   {
     "date": "2026-07-07",
-    "title": "2026世界人工智能大会7月17-20日在上海举办，多款硬核AI新品即将首发",
-    "summary": "2026世界人工智能大会将于7月17-20日在上海举办。大会展览期间，华为Atlas 950超节点真机将亮相，MiniMax M3多模态大模型、阶跃Agent操作系统、近存计算3D芯片、全球首款AI智能体手机以及多款人形机器人等重磅新品都将在大会展出。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0096a4c758f45752",
-    "source": "企鹅号",
-    "slug": "wadic-2026-shanghai-july-17"
+    "title": "2026世界人工智能大会7月17日开幕，300余款产品全球首发",
+    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海世博、张江、西岸「三地四馆」举办，展览总面积首次突破10万平方米，1100余家企业参展，3000余项展品集中亮相，其中300余款产品将全球首发。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0116a4caba178452",
+    "source": "央广网",
+    "slug": "waic-2026-opens-july17"
   },
   {
     "date": "2026-07-07",
-    "title": "腾讯混元Hy3正式发布，升级版大模型Agent能力显著提升",
-    "summary": "腾讯在微信公众号发布声明，正式发布混元模型Hy3。该模型是在今年4月预览版基础上的升级版本，Agent任务解决率大幅提升，已在元宝、ima等多个业务接入。",
+    "title": "腾讯正式发布升级版混元模型Hy3",
+    "summary": "腾讯在微信公众号发布声明，正式发布混元模型Hy3。Hy3是在今年4月发布的预览版基础上的升级版本。受此消息影响，中证人工智能主题指数上涨1.90%。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4426a4c5f0b56252",
     "source": "企鹅号",
-    "slug": "tencent-hunyuan-hy3-official-release"
+    "slug": "tencent-hunyuan-hy3-released"
   },
   {
     "date": "2026-07-07",
-    "title": "联合国推动全球人工智能能力发展网络AICDN正式成立，中国机构参与筹建",
-    "summary": "当地时间7月5日，由联合国推动筹建的全球人工智能能力发展网络（Global AICDN）在瑞士日内瓦WTO大楼正式成立，旨在加强国际合作缩小全球AI鸿沟。中国代表机构参与牵头筹建。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3106a4c657876552",
+    "title": "我国人工智能产业持续壮大，2025年核心产业规模超1.2万亿",
+    "summary": "工信部在2026世界人工智能大会新闻发布会上表示，2025年我国人工智能核心产业规模超过1.2万亿。大模型、智能体、人工智能芯片加速迭代，今年人形机器人全年整机产量有望突破10万台。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7226a4cc7bd10952",
     "source": "企鹅号",
-    "slug": "global-aicdn-established-geneva"
+    "slug": "china-ai-industry-scale-2025"
   },
   {
     "date": "2026-07-07",
-    "title": "阿里、腾讯加码AI视频赛道，共同参与Kling AI新一轮数十亿美元融资",
-    "summary": "阿里巴巴与腾讯共同参与AI视频平台Kling AI的新一轮融资，金额高达数十亿美元。AI视频生成竞争持续升温，行业正从生成图片迈向生成电影阶段。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9916a4b615e78652",
+    "title": "Anthropic在Claude内部发现类意识结构J-space",
+    "summary": "Anthropic研究团队发布重磅论文，宣布在Claude神经网络内部发现了一个自发形成的结构，功能与人脑负责意识的「全局工作空间」惊人相似，将其命名为J-space。研究团队发明了「雅可比透镜」技术来探测这一结构。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9016a4c6f8911652",
     "source": "企鹅号",
-    "slug": "ali-tencent-invest-kling-ai"
+    "slug": "anthropic-claude-j-space-consciousness"
   },
   {
     "date": "2026-07-07",
-    "title": "首届人工智能治理全球对话在日内瓦开幕，聚焦AI机遇与国际治理合作",
-    "summary": "7月6日，首届人工智能治理全球对话在日内瓦开幕，聚焦AI机遇与国际治理合作。在即将举行的NATO峰会上，欧洲国家计划推动自主AI能力建设，以减少对美国AI企业的依赖。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4156a4c6bff63452",
+    "title": "DeepSeek V4正式版7月中旬上线，首推峰谷定价机制",
+    "summary": "DeepSeek团队确认V4正式版计划于7月中旬上线。为合理配置资源，将同步引入峰谷定价机制，高峰时段（9-12点、14-18点）API价格为平时2倍。腾讯云同步上线V4原厂直供模型。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9146a43356548552",
     "source": "企鹅号",
-    "slug": "ai-governance-global-dialogue-geneva"
+    "slug": "deepseek-v4-mid-july-peak-pricing"
   },
   {
     "date": "2026-07-07",
-    "title": "华源智因完成数千万元种子轮融资，加速AI虚拟细胞商业化落地",
-    "summary": "AI虚拟细胞企业华源智因完成数千万元种子轮融资，将用于数据、模型和临床核心壁垒建设，加速商业化落地。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4156a4c6bff63452",
+    "title": "蚂蚁灵波发布空间感知模型LingBot-Depth 2.0，同步开源视觉基座模型",
+    "summary": "蚂蚁集团旗下具身智能公司灵波科技正式发布空间感知模型LingBot-Depth 2.0，基于1.5亿规模数据训练，在深度补全基准16项测评中获得12项第一，并同步推出视觉基座模型LingBot-Vision。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9956a4ccd0d68352",
     "source": "企鹅号",
-    "slug": "huayuanzhiyin-seed-round-ai-virtual-cell"
+    "slug": "ant-lingbot-depth-vision-models"
   },
   {
     "date": "2026-07-07",
-    "title": "雄安新区已汇聚96家AI企业，研发近30款大模型",
-    "summary": "雄安新区已汇聚96家AI企业，研发近30款大模型，人工智能原生产业创新生态加速成形。济南AI算力占总算力比重达88.58%，智算规模居全国前列。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4156a4c6bff63452",
+    "title": "全球首款AI智能体手机将在2026世界人工智能大会首发",
+    "summary": "上海市政府新闻办发布会透露，全球首款AI智能体手机将在WAIC 2026展出。同时亮相的还包括华为Atlas 950真机、MiniMax M3多模态大模型、阶跃Agent操作系统、近存计算3D芯片等重磅新品。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8126a4c80cc46752",
     "source": "企鹅号",
-    "slug": "xiongan-new-area-96-ai-enterprises"
+    "slug": "first-ai-agent-phone-debuts-at-waic"
   },
   {
     "date": "2026-07-07",
-    "title": "福州出台AI产业发展措施，发布自研工业级具身作业机器人",
-    "summary": "福州出台AI产业发展措施，本土企业发布自研工业级具身作业机器人。云知声兽牙智能体平台入选工信部AI应用典型案例。农业农村部表示我国农业AI应用进程加快，数据总量同比增长42%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4156a4c6bff63452",
+    "title": "全球首例AI Agent自主勒索攻击出现，代号JADEPUFFER",
+    "summary": "安全厂商Sysdig首次记录到完全由AI Agent自主完成的勒索攻击，代号JADEPUFFER，标志着AI开始自主实施网络犯罪。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9236a4cb45549152",
     "source": "企鹅号",
-    "slug": "fuzhou-ai-policy-yunzhi-sheng"
+    "slug": "first-ai-agent-ransomware-attack"
   },
   {
     "date": "2026-07-07",
-    "title": "美国TeraWulf与Anthropic签署190亿美元智算数据中心租赁协议",
-    "summary": "美国TeraWulf与AI独角兽Anthropic签署190亿美元智算数据中心租赁协议，加速向AI基础设施转型。全球AI投资进入新阶段。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4156a4c6bff63452",
+    "title": "美团LongCat-2.0正式开源，摩尔线程已完成适配",
+    "summary": "美团涨4.5%，LongCat-2.0正式开源，摩尔线程已完成适配。港股AI产业链表现分化，腾讯控股涨2.0%，智谱涨5.2%，快手跌12.0%，商汤跌6.7%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9956a4ccd0d68352",
     "source": "企鹅号",
-    "slug": "terawulf-anthropic-19-billion-data-center"
+    "slug": "meituan-longcat-2-opensource"
   },
   {
-    "date": "2026-07-07",
-    "title": "AI大模型商业化落地战全面打响，行业泡沫开始出清",
-    "summary": "行业报告指出，2026上半年中国AI大模型产业竞争激化，全面打响大规模商业化落地战，应用前景得以验证，行业泡沫开始出清。",
-    "url": "http://tech.cnr.cn/techgd/",
-    "source": "央广网",
-    "slug": "ai-llm-commercialization-2026-report"
-  },
-  {
-    "date": "2026-07-07",
-    "title": "日本初创TAI完成40nm边缘物理AI芯片原型验证，迈向量产阶段",
-    "summary": "日本芯片设计初创Tokyo Artisan Intelligence宣布，其基于FPGA的40nm边缘物理AI芯片原型Sting Ray已完成验证，迈向量产阶段。采用低功耗快响应设计，面向工业、机器人领域。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a4c525524752",
-    "source": "企鹅号",
-    "slug": "tai-sting-ray-40nm-chip"
-  },
-  {
-    "date": "2026-07-07",
-    "title": "优必选回应仿生机器人争议：全尺寸人形机器人续航普遍2-4小时",
-    "summary": "优必选推出优世界全尺寸超仿生人形机器人U1系列后引发关注。优必选7月6日回应称，目前全尺寸人形机器人续航基本在2-4小时，属于行业普遍情况。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a4c525524752",
-    "source": "企鹅号",
-    "slug": "ubtech-ultra-bionic-robot-response"
-  },
-  {
-    "date": "2026-07-07",
+    "date": "2026-07-06",
     "title": "同程商旅程意大模型通过国家网信办生成式AI备案",
-    "summary": "同程商旅宣布其自研程意大模型已成功完成国家网信办备案，取得对外提供生成式AI服务的合规资质，成为国内商旅行业具备国家级合规资质的垂直大模型。",
+    "summary": "同程商旅宣布其自主研发的程意大模型已成功完成国家网信办备案，正式取得对外提供生成式人工智能服务的合规资质，成为国内商旅行业首个具备国家级合规运营资质的垂直大模型。",
     "url": "http://tech.cnr.cn/techgd/",
     "source": "央广网",
-    "slug": "tongcheng-ai-model-cyberspace-approval"
+    "slug": "tongcheng-chengyi-model-passed-cac-filing"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "苏宁易购碧英科技发布企业级Token Hub服务平台",
+    "summary": "苏宁易购旗下智慧零售AI企业碧英科技正式发布AI算力服务Token Hub平台「智新Token」(AI.suning.com)，已完成内测并全面对外开放。",
+    "url": "http://tech.cnr.cn/techgd/",
+    "source": "央广网",
+    "slug": "suning-biying-token-hub-platform"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "报告：AI大模型商业化「落地战」全面打响",
+    "summary": "北京第四波科技智库、中关村天成创新研究中心联合发布《中国AI大模型商业化报告(2026年上)》。报告指出2026年上半年中国AI大模型产业竞争激化，全面打响大规模商业化「落地战」，应用前景得以验证，行业泡沫开始出清。",
+    "url": "http://tech.cnr.cn/techgd/",
+    "source": "央广网",
+    "slug": "ai-llm-commercialization-report"
   },
   {
     "date": "2026-07-07",
-    "title": "联合国独立AI专家组发布风险警告：AI发展速度远超监管",
-    "summary": "联合国独立AI科学专家组发布报告，指出AI以远超监管速度发展，可能带来虚假信息、网络攻击、生物安全等重大风险，呼吁各国建立更完善AI治理体系。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9916a4b615e78652",
+    "title": "字节跳动发布Seedance 2.0 mini，视频生产成本降至0.5元/秒",
+    "summary": "字节跳动发布Seedance 2.0 mini，将视频生产成本拉低到0.5元/秒，比Seedance 2.0便宜一半，大幅降低AI视频生成门槛。",
+    "url": "http://www.ciweek.com/list.shtml",
+    "source": "互联网周刊",
+    "slug": "bytedance-seedance-mini-video-cost"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "智谱A股IPO辅导工作完成，推出ZCode编程代理",
+    "summary": "智谱AI涨5.2%，A股IPO辅导工作已完成，近期推出ZCode编程代理，进一步扩展AI编程领域布局。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9956a4ccd0d68352",
     "source": "企鹅号",
-    "slug": "un-ai-risk-warning-report"
+    "slug": "zhipu-ipo-zcode-coding-agent"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "央视新闻实测华为乾崑智驾ADS 5，奕境X9极限场景亮相",
+    "summary": "央视新闻《超凡一步》栏目直播中，对奕境汽车董事长汪俊君和华为公司高级副总裁、引望公司CEO靳玉志进行深度访谈，现场解读东风汽车与华为乾崑合作打造的高端新能源品牌「奕境」，对奕境X9进行极限场景实测，展现华为乾崑智驾ADS 5。",
+    "url": "http://tech.cnr.cn/techgd/",
+    "source": "央广网",
+    "slug": "cctv-huawei-qiankun-ads5-yijing-x9-test"
   }
 ]
