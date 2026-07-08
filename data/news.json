@@ -1,106 +1,122 @@
 [
   {
     "date": "2026-07-08",
-    "title": "WAIC 2026官宣：140场论坛+逾300款新品全球首发",
-    "summary": "2026世界人工智能大会将于7月17日至20日在上海举办，外交部、发改委、工信部等十部委联合主办，「三地四馆」布局，展览面积首破10万平米。工信部披露：2025年我国AI核心产业规模超1.2万亿，大模型下载量全球第一，AtomGit社区汇聚超1100万开发者，人形机器人全年整机产量有望突破10万台。",
+    "title": "WAIC 2026官宣：140场论坛+300款全球首发，展览面积首破10万平米",
+    "summary": "2026世界人工智能大会将于7月17日至20日在上海世博、张江、西岸「三地四馆」举办，外交部、发改委、工信部等十部委联合主办。工信部披露2025年我国AI核心产业规模超1.2万亿元，人形机器人全年整机产量有望突破10万台。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1566a4dffe894952",
     "source": "AI行业晨报",
     "slug": "waic-2026-announcement"
   },
   {
     "date": "2026-07-08",
-    "title": "工信部：我国AI核心产业规模超1.2万亿，「人工智能+制造」日益深入",
-    "summary": "工信部在2026世界人工智能大会新闻发布会上表示，当前人工智能产业持续壮大，「人工智能+制造」日益深入，人工智能生态不断优化。据测算，2025年我国人工智能核心产业规模超过1.2万亿。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8506a4dcab743352",
-    "source": "央视网",
-    "slug": "ai-core-industry-scale-2025"
+    "title": "发改委：今年我国人工智能产业规模预计增速超30%",
+    "summary": "国家发改委创新和高技术发展司副司长王若蒙介绍，去年我国人工智能相关产业规模超万亿，初步预测今年增速在30%以上。字节跳动正评估将2026年资本开支最高提高至700亿美元，阿里腾讯加码国产算力投入。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4006a4e0c7772752",
+    "source": "企鹅号/财联社",
+    "slug": "ndrc-ai-industry-growth-30"
   },
   {
     "date": "2026-07-08",
-    "title": "Meta推出Muse Image图像生成模型，国产大模型调用量6月环比激增70.3%",
-    "summary": "Meta Platforms推出名为Muse Image的全新图像生成AI模型，将嵌入Instagram和WhatsApp，Muse Video也即将上线。国内方面，国产大模型调用量6月环比激增70.3%，美团发布基于五万卡国产算力集群训练的万亿参数模型LongCat-2.0并开源，智谱GLM-5.2在多项编程基准测试中稳居全球开源模型首位。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1946a4dad8000852",
-    "source": "企鹅号",
-    "slug": "meta-muse-image-domestic-llm-surge"
+    "title": "首届联合国AI治理全球对话日内瓦闭幕，呼吁构建包容普惠治理体系",
+    "summary": "为期2天的首届联合国人工智能治理全球对话在瑞士日内瓦闭幕。联合国秘书长古特雷斯呼吁建立全球治理机制，确保AI造福人类，并强调必须让数十亿无法接触这项革命性技术的人们获得更多机会。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4896a4e0b1811852",
+    "source": "新华社",
+    "slug": "un-ai-governance-dialogue"
   },
   {
     "date": "2026-07-08",
-    "title": "曝DeepSeek自研AI芯片，加速算力自主化",
-    "summary": "据极客早知道报道，国产大模型明星企业DeepSeek被曝正在自研AI芯片，加速算力自主化布局。今年以来多家国产大模型企业加速向上游芯片环节延伸，构建全栈自主能力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3586a4d955986652",
-    "source": "极客早知道",
-    "slug": "deepseek-ai-chip"
+    "title": "工信部：中国AI大模型周调用量23.45万亿Token，连续十周超美国居全球首位",
+    "summary": "中国AI大模型周调用量达23.45万亿Token，环比增长15.01%，连续六周实现增长，连续十周超过美国并稳居全球首位。规上工业企业人工智能应用普及率已超30%。",
+    "url": "http://www.enicn.com/",
+    "source": "ENI经济和信息化网",
+    "slug": "china-llm-weekly-tokens-record"
   },
   {
     "date": "2026-07-08",
-    "title": "WAIC将首发华为Atlas 950、MiniMax M3等重磅新品",
-    "summary": "2026世界人工智能大会期间，超300款产品将实现全球首发，创历届之最。已确认将亮相的重磅新品包括业界最大规模超节点华为Atlas 950真机、行业领先的MiniMax M3多模态大模型、阶跃Agent操作系统、近存计算3D芯片、全球首款AI智能体手机，以及多款人形机器人与AI灵巧手等。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7526a4dff0799365",
-    "source": "企鹅号",
-    "slug": "waic-2026-new-products"
-  },
-  {
-    "date": "2026-07-08",
-    "title": "努比亚宣布全球首款AI智能体手机将在WAIC亮相",
-    "summary": "中兴通讯终端事业部总裁、努比亚技术有限公司总裁倪飞宣布，全球首款AI智能体手机来自努比亚，这款量产旗舰新机将在2026世界人工智能大会上首次公开亮相。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4756a4e1d5924352",
-    "source": "企鹅号",
-    "slug": "nubia-ai-agent-phone"
-  },
-  {
-    "date": "2026-07-08",
-    "title": "SpaceX申请部署10万颗第三代卫星星座",
-    "summary": "据FCC官网信披文件显示，SpaceX已正式申请批准发射并运营一个由10万颗卫星组成的第三代（Gen3）卫星星座，将其描述为一个强大、有韧性、无处不在的通信基础设施，具备承载全球大部分互联网流量的能力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8476a4da3ee71452",
-    "source": "AI与机器人盘前速递",
-    "slug": "spacex-gen3-satellite-constellation"
-  },
-  {
-    "date": "2026-07-08",
-    "title": "亚马逊计划发债筹资至少250亿美元加码AI基础设施",
-    "summary": "亚马逊计划通过发行美元债券筹集至少250亿美元，为加码人工智能基础设施投资进行最新一笔超大规模融资。此次债券发行最多分为8个期限，涵盖3年至40年，其中2066年到期的最长年期债券初步定价较同期美国国债高约145个基点。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8476a4da3ee71452",
-    "source": "AI与机器人盘前速递",
-    "slug": "amazon-bond-ai-infra"
-  },
-  {
-    "date": "2026-07-07",
-    "title": "支付宝AI开放平台正式官宣上线并开启邀测",
-    "summary": "7月7日，支付宝AI开放平台正式官宣上线并开启邀测通道。商家通过该平台不仅可接入「阿宝」，还可实现跨端互联，通过「阿宝」接入手机、车机、AI眼镜、大模型、IoT等多端平台，实现一次接入、多端分发、统一管理。",
-    "url": "https://www.lieyunpro.com/news",
-    "source": "猎云网",
-    "slug": "alipay-ai-open-platform"
-  },
-  {
-    "date": "2026-07-07",
-    "title": "杭州机器人学校正式开学：机器人上岗前也要上学考证",
-    "summary": "杭州机器人学校借鉴人类职业教育体系，先对机器人进行全维度硬件体检，再按技校、卫校、艺校、体校四大专业方向进行分科实训，并推行德智体美劳五维培育，覆盖伦理安全、感知能力、运动性能、美学张力、场景实操五大维度。",
+    "title": "AI拟人化互动服务新规7月15日施行，行业集体调整合规",
+    "summary": "《人工智能拟人化互动服务管理暂行办法》将于7月15日正式施行，明确AI拟人化互动服务不得踩红线。业内认为新规短期提高合规成本，但长期有利于面向教育、办公、适老陪伴等场景的合规智能体发展。",
     "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
     "source": "国家科技信息中心",
-    "slug": "hangzhou-robot-school"
-  },
-  {
-    "date": "2026-07-07",
-    "title": "HICOOL 2026全球创业大赛AI/机器人赛道收官",
-    "summary": "HICOOL 2026全球创业大赛人工智能/机器人赛道赛事日前收官，来自中国、美国、英国、德国、加拿大、澳大利亚、日本、韩国等十余个国家和地区的200余个创业项目汇聚北京海淀展开激烈角逐，今年将首设一人公司专项赛。",
-    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "国家科技信息中心",
-    "slug": "hicool-2026-ai-robot-track"
-  },
-  {
-    "date": "2026-07-07",
-    "title": "2026世界机器人大会8月在京启幕，脑控机器人大赛开放体验",
-    "summary": "2026世界机器人大会将于8月在北京启幕。脑控机器人大赛将对脑控人形机器人、脑控四足机器人、脑控无人车、睡眠监测系统等优秀项目进行成果展示并开放观众体验，现场还将发起脑控赛会纪录挑战。",
-    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "国家科技信息中心",
-    "slug": "world-robot-conference-2026"
+    "slug": "ai-humanlike-service-regulation"
   },
   {
     "date": "2026-07-08",
-    "title": "AI深度融入2026世界杯：三国16城104场比赛协同系统",
-    "summary": "2026世界杯扩展至三国16城、48支球队和104场比赛，AI技术深度融入裁判、球队、转播和指挥系统，帮助超大规模赛事运行得更快、更稳、更协同。",
-    "url": "https://www.36kr.com/information/web_news/",
-    "source": "36氪",
-    "slug": "ai-world-cup-2026"
+    "title": "工信部发布Claude Code安全后门隐患风险提示",
+    "summary": "工业和信息化部网络安全威胁和漏洞信息共享平台(NVDB)监测发现，AI编程工具Claude Code存在安全后门隐患，工信部就此向各相关单位发布风险提示。",
+    "url": "http://finance.eastmoney.com/a/crdsm.html",
+    "source": "东方财富网",
+    "slug": "claude-code-security-risk"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "Momenta港交所上市，成「物理AI第一股」",
+    "summary": "全球领先的物理AI公司Momenta正式在港交所挂牌上市，股票代码6880.HK，成为「物理AI第一股」。",
+    "url": "http://www.sootoo.com/",
+    "source": "速途网",
+    "slug": "momenta-hkex-ipo"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "DeepSeek和智谱同日曝出自研AI芯片计划",
+    "summary": "国内两大头部大模型厂商DeepSeek和智谱同日传出自研芯片计划。据知情人士消息，DeepSeek正在开发一款用于AI推理的自研芯片，多款国产大模型企业加速向上游芯片环节延伸。",
+    "url": "http://www.sootoo.com/",
+    "source": "速途网",
+    "slug": "deepseek-zhipu-ai-chips"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "中国AI大模型在美「悄然崛起」：美国企业每周调用占比超30%",
+    "summary": "基于全球最大AI聚合平台OpenRouter数据，自2月8日以来美国公司每周调用DeepSeek、智谱GLM系列等中国模型的比重持续保持在30%以上，峰值达46%。中国部分AI模型比美国便宜60%-90%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6386a4df34967452",
+    "source": "企鹅号",
+    "slug": "china-ai-models-us-adoption"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "智谱GLM 5.2上线首周日均调用量增长27倍，客户数增80倍",
+    "summary": "智谱最新大模型GLM 5.2上线首周日均调用量增长27倍、客户数增长80倍，是2026年在OpenRouter平台落地速度最快的模型。美国AI初创企业Lindy将所有AI业务切换至DeepSeek后成本大幅下降。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6836a4df92928052",
+    "source": "企鹅号",
+    "slug": "zhipu-glm52-surge"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "7月全球AI大模型密集发布：GPT-5.6、Grok 4.5、DeepSeek V4即将登场",
+    "summary": "7月全球AI大模型竞赛进入密集发布窗口期。OpenAI GPT-5.6 Sol定于本周四发布，Grok 4.5明日向公众开放，谷歌Gemini 3.5 Pro预计7月17日上线，国内DeepSeek V4正式版锁定7月中旬。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4926a4dfdee45852",
+    "source": "企鹅号",
+    "slug": "july-ai-model-launch-wave"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "第25届中国互联网大会启幕：雄安AI产业园已有约70家企业入驻",
+    "summary": "第25届中国互联网大会在北京启幕，人工智能成为最热关键词。数据显示雄安人工智能产业园开园满一年已有约70家AI公司入驻；全国现有人工智能相关企业已超532万家。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6436a4e34f915652",
+    "source": "企鹅号",
+    "slug": "china-internet-conference-xiongan-ai"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "2026上半年83家独角兽诞生，六成是AI公司",
+    "summary": "2026年上半年全球新增83家独角兽企业，约六成为AI相关公司。成立仅6个月的AI模型研发公司Recursive获得6.5亿美元A轮融资，估值达46.5亿美元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1626a4e03d673752",
+    "source": "企鹅号",
+    "slug": "83-unicorns-ai-dominant"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "大小脑AI成研发重心，人形机器人加速落地工业场景",
+    "summary": "人形机器人产业加速落地工业场景，智元机器人等企业推动群体协作应用展示。工信部表示今年人形机器人全年整机产量有望突破10万台。",
+    "url": "https://www.jiadian.com.cn/hangye",
+    "source": "家电产业网",
+    "slug": "humanoid-robot-industrial-deployment"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "晶泰科技发布生命科学专业AI智能体epiXora",
+    "summary": "晶泰科技(2228.HK)宣布其面向生命科学与医药研发场景的专业级AI调研智能体epiXora全面升级上线并开放注册试用，以可信决策基座加速完善Multi-Agent研发闭环。",
+    "url": "https://www.prnasia.com/releases/listpage-theme-93-all-1.shtml",
+    "source": "美通社",
+    "slug": "xtalpi-epixora-ai-agent"
   }
 ]
