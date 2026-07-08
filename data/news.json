@@ -1,122 +1,106 @@
 [
   {
     "date": "2026-07-08",
-    "title": "中国人工智能相关产业今年增速将超30%",
-    "summary": "在2026世界人工智能大会新闻发布会上，国家发改委相关负责人表示，去年中国AI相关产业规模超万亿，初步预测今年增速在30%以上。国家已布局30余个AI应用中试基地，推进央国企开放1000余个应用场景，AI渗透率突破80%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8566a4cc8bc19552",
-    "source": "钛媒体",
-    "slug": "china-ai-industry-growth-30-percent-2026"
+    "title": "WAIC 2026官宣：140场论坛+逾300款新品全球首发",
+    "summary": "2026世界人工智能大会将于7月17日至20日在上海举办，外交部、发改委、工信部等十部委联合主办，「三地四馆」布局，展览面积首破10万平米。工信部披露：2025年我国AI核心产业规模超1.2万亿，大模型下载量全球第一，AtomGit社区汇聚超1100万开发者，人形机器人全年整机产量有望突破10万台。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1566a4dffe894952",
+    "source": "AI行业晨报",
+    "slug": "waic-2026-announcement"
   },
   {
     "date": "2026-07-08",
-    "title": "Meta推出Muse AI图像生成模型，将嵌入Instagram和WhatsApp",
-    "summary": "Meta推出名为Muse Image的全新AI图像生成模型，这是首席AI官Alexandr Wang领导重建AI实验室以来的首次发布。Muse Image将嵌入Meta社交应用，Muse Video即将面向创作者开放。",
+    "title": "工信部：我国AI核心产业规模超1.2万亿，「人工智能+制造」日益深入",
+    "summary": "工信部在2026世界人工智能大会新闻发布会上表示，当前人工智能产业持续壮大，「人工智能+制造」日益深入，人工智能生态不断优化。据测算，2025年我国人工智能核心产业规模超过1.2万亿。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8506a4dcab743352",
+    "source": "央视网",
+    "slug": "ai-core-industry-scale-2025"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "Meta推出Muse Image图像生成模型，国产大模型调用量6月环比激增70.3%",
+    "summary": "Meta Platforms推出名为Muse Image的全新图像生成AI模型，将嵌入Instagram和WhatsApp，Muse Video也即将上线。国内方面，国产大模型调用量6月环比激增70.3%，美团发布基于五万卡国产算力集群训练的万亿参数模型LongCat-2.0并开源，智谱GLM-5.2在多项编程基准测试中稳居全球开源模型首位。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1946a4dad8000852",
     "source": "企鹅号",
-    "slug": "meta-muse-ai-image-generation-model"
+    "slug": "meta-muse-image-domestic-llm-surge"
   },
   {
     "date": "2026-07-08",
-    "title": "我国人工智能核心产业规模超1.2万亿，人形机器人今年有望破10万台",
-    "summary": "工信部在WAIC新闻发布会上表示，2025年我国AI核心产业规模超1.2万亿。大模型、智能体、AI芯片加速迭代，今年人形机器人全年整机产量有望突破10万台，规上工业企业AI应用普及率已超30%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0176a4cb15a44452",
+    "title": "曝DeepSeek自研AI芯片，加速算力自主化",
+    "summary": "据极客早知道报道，国产大模型明星企业DeepSeek被曝正在自研AI芯片，加速算力自主化布局。今年以来多家国产大模型企业加速向上游芯片环节延伸，构建全栈自主能力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3586a4d955986652",
+    "source": "极客早知道",
+    "slug": "deepseek-ai-chip"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "WAIC将首发华为Atlas 950、MiniMax M3等重磅新品",
+    "summary": "2026世界人工智能大会期间，超300款产品将实现全球首发，创历届之最。已确认将亮相的重磅新品包括业界最大规模超节点华为Atlas 950真机、行业领先的MiniMax M3多模态大模型、阶跃Agent操作系统、近存计算3D芯片、全球首款AI智能体手机，以及多款人形机器人与AI灵巧手等。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7526a4dff0799365",
     "source": "企鹅号",
-    "slug": "china-ai-core-industry-humanoid-robot-2026"
+    "slug": "waic-2026-new-products"
   },
   {
     "date": "2026-07-08",
-    "title": "国产大模型调用量6月环比激增70.3%，美团开源万亿参数LongCat-2.0",
-    "summary": "国产大模型调用量6月环比激增70.3%。美团发布基于五万卡国产算力集群训练的万亿参数模型LongCat-2.0并开源，总参数1.6万亿、平均激活约480亿参数。智谱GLM-5.2在多项编程基准测试中稳居全球开源模型首位。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1946a4dad8000852",
+    "title": "努比亚宣布全球首款AI智能体手机将在WAIC亮相",
+    "summary": "中兴通讯终端事业部总裁、努比亚技术有限公司总裁倪飞宣布，全球首款AI智能体手机来自努比亚，这款量产旗舰新机将在2026世界人工智能大会上首次公开亮相。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4756a4e1d5924352",
     "source": "企鹅号",
-    "slug": "chinese-llm-call-volume-surge-meituan-longcat-2"
+    "slug": "nubia-ai-agent-phone"
   },
   {
     "date": "2026-07-08",
-    "title": "DeepSeek被曝自研AI推理芯片，减少对英伟达和华为依赖",
-    "summary": "路透社援引知情人士消息，DeepSeek秘密启动自研AI芯片项目约一年，主打推理场景而非训练。芯片设计旨在降低算力业务对英伟达、华为芯片的采购依赖，目前仍处于早期研发阶段。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1516a4dcab766152",
-    "source": "企鹅号（路透社）",
-    "slug": "deepseek-self-developed-ai-chip-reasoning"
-  },
-  {
-    "date": "2026-07-08",
-    "title": "腾讯混元Hy3正式发布：295B参数MoE架构，Agent能力跃升",
-    "summary": "腾讯混元团队发布Hy3正式版，采用MoE架构，总参数295B、激活参数21B，支持256K上下文。Hy3为快慢思考融合模型，在复杂推理、代码生成和智能体能力上显著提升，已通过WorkBuddy首发上线。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4656a4da76987552",
-    "source": "企鹅号",
-    "slug": "tencent-hunyuan-hy3-moe-model-release"
-  },
-  {
-    "date": "2026-07-08",
-    "title": "2026世界人工智能大会7月17日上海开幕，主题为「智能伙伴 共创未来」",
-    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海举办。大会设置论坛、展览、评奖赛事等六大板块，已初步确定9位图灵奖、诺贝尔奖得主参会，超300款AI产品全球首发。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0116a4caba178452",
-    "source": "央广网",
-    "slug": "waic-2026-shanghai-july-17-opening"
-  },
-  {
-    "date": "2026-07-08",
-    "title": "全球首款AI智能体手机将在WAIC首发，华为Atlas 950真机亮相",
-    "summary": "2026世界人工智能大会展区将集中完成多款重磅产品全球首秀，包括华为Atlas 950超节点整机、MiniMax M3多模态大模型、阶跃智能体操作系统、3D近存计算芯片、全球首款AI智能体手机及多款人形机器人硬件新品。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8126a4c80cc46752",
-    "source": "企鹅号",
-    "slug": "waic-2026-global-first-ai-agent-phone-huawei-atlas-950"
-  },
-  {
-    "date": "2026-07-08",
-    "title": "中国AI手机AI电脑销量今年有望首次超过非AI产品",
-    "summary": "国家发改委创新和高技术发展司副司长王若蒙表示，去年中国AI手机、AI电脑等智能终端年出货量超1亿台，今年AI手机、AI电脑销量有望首次超过非AI产品，AI终端正从创新阶段迈向规模化普及。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2256a4cf0bc20452",
-    "source": "中新社",
-    "slug": "china-ai-phone-pc-sales-surpass-non-ai-2026"
-  },
-  {
-    "date": "2026-07-08",
-    "title": "美国企业集体转向中国大模型，全球AI格局历史性重塑",
-    "summary": "硅谷正在上演技术反向选择：从Coinbase、Airbnb到数千家硅谷初创公司，纷纷将业务底层模型切换为智谱GLM、DeepSeek、通义千问、Kimi等中国大模型。OpenRouter平台数据直观印证了这一趋势。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1666a4dac1032952",
-    "source": "企鹅号",
-    "slug": "us-companies-switch-to-chinese-llms-ai-reversal"
-  },
-  {
-    "date": "2026-07-08",
-    "title": "摩尔线程完成腾讯Hy3和美团LongCat-2.0国产大模型适配",
-    "summary": "摩尔线程旗舰级AI训推一体智算卡MTT S5000于7月6日实现腾讯Hy3的Day-0极速适配，同日也完成美团LongCat-2.0万亿参数大模型的适配工作，展现了国产算力生态的快速协同发展。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9606a4ccd8b24852",
-    "source": "企鹅号",
-    "slug": "mtt-s5000-tencent-hunyuan-hy3-meituan-longcat-support"
-  },
-  {
-    "date": "2026-07-08",
-    "title": "AI产业进展提振信心，人工智能ETF单日涨幅达3.05%",
-    "summary": "受工信部表示人形机器人全年产量有望破10万台、WAIC 2026大会临近等消息提振，科创创业人工智能ETF易方达单日涨幅达3.05%，AI产业进展显著增强了市场对技术落地和商业化前景的信心。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4726a4dc5ec15452",
-    "source": "企鹅号",
-    "slug": "ai-etf-surges-3-percent-industry-momentum"
-  },
-  {
-    "date": "2026-07-08",
-    "title": "SpaceX申请部署10万颗Gen3卫星，亚马逊发债250亿美元加码AI",
-    "summary": "SpaceX向FCC申请批准发射运营10万颗卫星的Gen3星座。亚马逊计划通过发行美元债券筹集至少250亿美元，为加码AI基础设施投资进行最新一轮超大规模融资，债券分为8个期限涵盖3年至40年。",
+    "title": "SpaceX申请部署10万颗第三代卫星星座",
+    "summary": "据FCC官网信披文件显示，SpaceX已正式申请批准发射并运营一个由10万颗卫星组成的第三代（Gen3）卫星星座，将其描述为一个强大、有韧性、无处不在的通信基础设施，具备承载全球大部分互联网流量的能力。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8476a4da3ee71452",
-    "source": "企鹅号",
-    "slug": "spacex-100k-satellites-amazon-bonds-ai-infrastructure"
+    "source": "AI与机器人盘前速递",
+    "slug": "spacex-gen3-satellite-constellation"
   },
   {
     "date": "2026-07-08",
-    "title": "豆包和通义千问应新规下线AI拟人化功能，混元Hy3等新品同期发布",
-    "summary": "豆包和通义千问应新规下线AI拟人化功能，引发用户关注。同期腾讯混元Hy3正式发布、通义千问推出Fun-ASR-Realtime实时语音识别模型、支付宝AI开放平台开启邀测、xAI升级Grok Voice新增21种语言语音。",
-    "url": "http://chinaz.com/",
-    "source": "站长之家",
-    "slug": "doubao-qianwen-persona-feature-removed-hunyuan-hy3"
+    "title": "亚马逊计划发债筹资至少250亿美元加码AI基础设施",
+    "summary": "亚马逊计划通过发行美元债券筹集至少250亿美元，为加码人工智能基础设施投资进行最新一笔超大规模融资。此次债券发行最多分为8个期限，涵盖3年至40年，其中2066年到期的最长年期债券初步定价较同期美国国债高约145个基点。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8476a4da3ee71452",
+    "source": "AI与机器人盘前速递",
+    "slug": "amazon-bond-ai-infra"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "支付宝AI开放平台正式官宣上线并开启邀测",
+    "summary": "7月7日，支付宝AI开放平台正式官宣上线并开启邀测通道。商家通过该平台不仅可接入「阿宝」，还可实现跨端互联，通过「阿宝」接入手机、车机、AI眼镜、大模型、IoT等多端平台，实现一次接入、多端分发、统一管理。",
+    "url": "https://www.lieyunpro.com/news",
+    "source": "猎云网",
+    "slug": "alipay-ai-open-platform"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "杭州机器人学校正式开学：机器人上岗前也要上学考证",
+    "summary": "杭州机器人学校借鉴人类职业教育体系，先对机器人进行全维度硬件体检，再按技校、卫校、艺校、体校四大专业方向进行分科实训，并推行德智体美劳五维培育，覆盖伦理安全、感知能力、运动性能、美学张力、场景实操五大维度。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "国家科技信息中心",
+    "slug": "hangzhou-robot-school"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "HICOOL 2026全球创业大赛AI/机器人赛道收官",
+    "summary": "HICOOL 2026全球创业大赛人工智能/机器人赛道赛事日前收官，来自中国、美国、英国、德国、加拿大、澳大利亚、日本、韩国等十余个国家和地区的200余个创业项目汇聚北京海淀展开激烈角逐，今年将首设一人公司专项赛。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "国家科技信息中心",
+    "slug": "hicool-2026-ai-robot-track"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "2026世界机器人大会8月在京启幕，脑控机器人大赛开放体验",
+    "summary": "2026世界机器人大会将于8月在北京启幕。脑控机器人大赛将对脑控人形机器人、脑控四足机器人、脑控无人车、睡眠监测系统等优秀项目进行成果展示并开放观众体验，现场还将发起脑控赛会纪录挑战。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "国家科技信息中心",
+    "slug": "world-robot-conference-2026"
   },
   {
     "date": "2026-07-08",
-    "title": "通义千问Fun-ASR-Realtime发布，实时语音识别性能显著提升",
-    "summary": "通义千问推出全新实时语音识别模型Fun-ASR-Realtime，在识别性能和语言覆盖面上实现显著提升。该模型为继腾讯混元Hy3、美团LongCat-2.0之后国产大模型密集发布的最新成果。",
-    "url": "http://chinaz.com/",
-    "source": "站长之家",
-    "slug": "tongyi-qianwen-fun-asr-realtime-speech-recognition"
+    "title": "AI深度融入2026世界杯：三国16城104场比赛协同系统",
+    "summary": "2026世界杯扩展至三国16城、48支球队和104场比赛，AI技术深度融入裁判、球队、转播和指挥系统，帮助超大规模赛事运行得更快、更稳、更协同。",
+    "url": "https://www.36kr.com/information/web_news/",
+    "source": "36氪",
+    "slug": "ai-world-cup-2026"
   }
 ]
