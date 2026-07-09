@@ -1,114 +1,122 @@
 [
   {
     "date": "2026-07-09",
-    "title": "OpenAI GPT-5.6获批全面开放，三版本模型本周上线",
-    "summary": "美国商务部批准OpenAI面向公众推出新一代大模型GPT-5.6，分Sol旗舰版、Terra均衡版、Luna轻量版三个版本，Terra版综合性能接近GPT-5.5但成本降低近五成，全球分批开放。",
-    "url": "https://new.qq.com/rain/a/20260709A02EYY00",
-    "source": "腾讯网",
-    "slug": "openai-gpt56-full-release"
+    "title": "美国商务部批准OpenAI面向大众推出新一代大模型GPT-5.6",
+    "summary": "据报道，美国商务部已于7月8日批准OpenAI面向大众全面推出新一代大模型GPT-5.6，此前仅对少量合作企业开放内测的相关限制现已解除，产品预计本周开启大规模上线。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5166a4f61cd44752",
+    "source": "腾讯新闻",
+    "slug": "openai-gpt-5-6-public-release"
   },
   {
     "date": "2026-07-09",
-    "title": "智谱完成约314亿港元配售，加码基座模型研发",
-    "summary": "智谱宣布完成约314.1亿港元配售，资金将用于基座模型研发、算力基础设施建设、商业化拓展及全球生态布局。此前一天智谱基石投资者限售股解禁，近七成股东表态长期持有。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8986a4f237430852",
-    "source": "企鹅号",
-    "slug": "zhipu-31b-hkd-placement"
+    "title": "AI与太空计算挑战赛揭晓 中国团队包揽三个赛道金奖",
+    "summary": "全球首个太空计算主题国际赛事“人工智能(AI)与太空计算挑战赛”评奖结果在日内瓦举行的2026年人工智能造福人类全球峰会上揭晓，来自中国的科研团队获得所有三个赛道的金奖。该赛事由国际电信联盟、中国之江实验室和中国信息通信研究院共同发起。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3036a4f78d068552",
+    "source": "新华社/企鹅号",
+    "slug": "ai-space-computing-challenge-china-gold"
   },
   {
     "date": "2026-07-09",
-    "title": "智谱发布GLM-5.2旗舰大模型，已在政务金融多领域落地",
-    "summary": "智谱发布新一代旗舰大模型GLM-5.2，已在政务、金融等多领域实现落地应用，进一步巩固国产大模型竞争力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2086a4f416865252",
-    "source": "企鹅号",
-    "slug": "zhipu-glm52-release"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "中国AI大模型周调用量连续六周增长，稳居全球首位",
-    "summary": "中国AI大模型周调用量达23.45万亿Token，环比增长15.01%，连续六周实现增长，连续十周超过美国并稳居全球首位。",
-    "url": "http://www.enicn.com/",
-    "source": "ENI经济和信息化网",
-    "slug": "china-ai-token-usage-six-week-growth"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "人形机器人全年产量有望突破10万台，工信部发布产业数据",
-    "summary": "工信部科技司副司长甘小斌在2026世界人工智能大会发布会上表示，我国大模型和智能体加速迭代，今年人形机器人全年整机产量有望突破10万台，规上工业企业AI应用普及率已超30%。2025年AI核心产业规模超1.2万亿元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6346a4edfd359452",
-    "source": "工信部/企鹅号",
-    "slug": "humanoid-robot-100k-2026"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "2026世界人工智能大会将于7月17日在上海开幕",
-    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海举行，智算和具身赛道各汇聚超200家企业，300余款产品将全球首发。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6346a4edfd359452",
+    "title": "2026世界人工智能大会将于7月17日至20日在上海召开",
+    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海召开，展览总面积首次突破10万平方米，超300款产品将实现全球首发，已推动57个核心场景落地，累计达成162亿元意向合作。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2436a4f70d528952",
     "source": "企鹅号",
     "slug": "waic-2026-shanghai-july"
   },
   {
     "date": "2026-07-09",
-    "title": "AI拟人化互动服务新规7月15日正式实施",
-    "summary": "《人工智能拟人化互动服务管理暂行办法》将于7月15日正式施行，AI拟人化服务集体调整。新规短期提高合规成本，长期利好教育、办公、适老陪伴等合规智能体发展。",
-    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "国家科技信息中心",
-    "slug": "ai-humanoid-interaction-regulation-july15"
-  },
-  {
-    "date": "2026-07-09",
     "title": "全球首款AI智能体手机将亮相2026世界人工智能大会",
-    "summary": "中兴通讯旗下努比亚推出的豆包合作AI原生手机M153将亮相大会。分析师指出，硬件是AI应用落地最确定的受益方向，为消费电子产业链带来新增长点。",
+    "summary": "中兴通讯旗下努比亚将推出全球首款AI智能体手机，该机型出自与字节跳动豆包合作的AI原生手机路线。分析师认为大模型加速进化推动进入Agentic AI阶段，硬件仍是AI应用落地最确定的受益方向。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0486a4f5e8e13452",
     "source": "企鹅号",
-    "slug": "ai-agent-phone-waic-2026"
+    "slug": "world-first-ai-agent-phone-waic"
   },
   {
     "date": "2026-07-09",
-    "title": "蚂蚁灵波发布全栈大脑2.0，具身智能大模型引爆海外关注",
-    "summary": "蚂蚁灵波科技升级全栈大脑2.0，发布涵盖视觉、动作、操作及物理预测等方向的具身智能大模型，在海外开发者社区掀起热潮，发布即登上海外社交媒体热榜。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6686a4f602c46852",
+    "title": "Kimi K2.7 Code接入GitHub Copilot 系首个开源模型",
+    "summary": "Kimi开放平台官宣，GitHub Copilot的模型选择器已上线Kimi K2.7 Code，Copilot Pro、Pro+和Max用户可逐步选择该模型用于代码生成、代码理解与调试修改。据称这是GitHub Copilot接入的第一个开源模型。",
+    "url": "https://news.cnblogs.com/n/page/3/",
+    "source": "博客园",
+    "slug": "kimi-k2-7-code-github-copilot"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "剑桥中英人工智能商业论坛探讨AI发展新机遇",
+    "summary": "剑桥中英人工智能商业论坛近日在英国剑桥大学贾奇商学院举行，由浙江大学国际联合商学院与剑桥大学贾奇商学院中国管理中心联合主办，来自中英两国政界、学界和企业界代表围绕人工智能技术驱动企业战略转型展开研讨。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0516a4f577159552",
     "source": "企鹅号",
-    "slug": "ant-linbo-fullstack-brain-2"
+    "slug": "cambridge-china-uk-ai-forum"
   },
   {
     "date": "2026-07-09",
-    "title": "宇树科技科创板IPO注册通过，募资42亿元加码人形机器人",
-    "summary": "宇树科技以创纪录速度通过科创板IPO注册，募集资金超42亿元，全年出货量目标直指两万台。同期优必选发布消费级品牌优世界U1系列超仿生机器人。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7926a4f313441352",
+    "title": "多家人工智能产业链公司中报净利润预增超100%",
+    "summary": "据多家媒体报道，浪潮信息、光库科技等多家AI产业链公司中报净利润预增超100%，其中浪潮信息预计上半年净利润同比增长超两倍，带动人工智能ETF天弘标的指数盘中飙涨超3.5%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9356a4f383298852",
     "source": "企鹅号",
-    "slug": "unitree-ipo-42b-2026"
+    "slug": "ai-supply-chain-midyear-profit-surge"
   },
   {
     "date": "2026-07-09",
-    "title": "商汤大晓机器人开源新一代具身基模型ACE-Brain-0.5",
-    "summary": "商汤旗下大晓机器人开源新一代具身基模型ACE-Brain-0.5，港股大模型概念股集体爆发，智谱、MINIMAX、商汤单日均涨超12%。",
-    "url": "https://new.qq.com/rain/a/20260708A08RVL00",
-    "source": "腾讯网",
-    "slug": "sensetime-acebrain-open-source"
+    "title": "智源研究院公布世界模型新进展：AI学会推演“下一个世界状态”",
+    "summary": "智源研究院公开具身大脑悟界·RoboBrain Orca技术报告，该多模态表征世界模型突破大模型仅预测文本、画面或动作的传统路径，率先实现对整体“世界状态”的前后演化推演，标志AI迈向预测“下一个世界状态”。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6616a4f6f1d28452",
+    "source": "企鹅号",
+    "slug": "zhihuan-robobrain-orca-world-model"
   },
   {
     "date": "2026-07-09",
-    "title": "阿里巴巴合并三款企业级Agent产品，AI收入连续11季度三位数增长",
-    "summary": "阿里巴巴合并旗下三款企业级Agent产品，港股股价暴涨12.2%。阿里云AI相关产品收入已连续11个季度保持三位数增长，AI收入占云业务比例达30%。",
-    "url": "https://new.qq.com/rain/a/20260708A08RVL00",
-    "source": "腾讯网",
-    "slug": "alibaba-merge-agent-products"
+    "title": "Meta发布新一代大语言模型Muse Spark 1.1并首推付费版本",
+    "summary": "在推出AI图像生成模型Muse Image仅两天后，Meta发布新一代大语言模型Muse Spark 1.1，首次以公开预览形式开放API，加码AI智能体和代码生成市场，并首次推出付费版本，定价约为OpenAI和Anthropic同类顶级模型官方价格的四分之一。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6396a4fb76d87452",
+    "source": "企鹅号",
+    "slug": "meta-muse-spark-1-1-paid"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "马斯克旗下SpaceXAI发布Grok 4.5大模型",
+    "summary": "马斯克旗下SpaceXAI发布与AI编程初创公司Cursor联合开发的Grok 4.5大模型，针对软件工程、法律服务及金融服务等场景设计，可处理复杂长周期任务并新增网络安全功能，宣称Token效率比同类主流模型高出两倍。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2316a4ea41f41552",
+    "source": "企鹅号",
+    "slug": "spacexai-grok-4-5-release"
   },
   {
     "date": "2026-07-09",
-    "title": "晶泰科技发布生命科学AI智能体epiXora，加速药物研发闭环",
-    "summary": "晶泰科技面向生命科学与医药研发场景发布专业级AI调研智能体epiXora全面升级版，以可信决策基座加速完善Multi-Agent研发闭环并开放注册试用。",
-    "url": "https://www.prnasia.com/releases/listpage-theme-93-all-1.shtml",
-    "source": "美通社",
-    "slug": "xtalpi-epixora-ai-agent"
+    "title": "全球大模型企业掀起AI芯片自研浪潮",
+    "summary": "路透社消息称，DeepSeek已启动为期一年的自研AI推理芯片项目，智谱AI正评估适配GLM系列的定制芯片方案；此前OpenAI发布与博通联合研发的推理芯片Jalapeño，Anthropic也推进AI芯片自研，头部企业集体向半导体上游布局。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3796a4f41e122852",
+    "source": "企鹅号",
+    "slug": "global-ai-chip-inhouse-trend"
   },
   {
     "date": "2026-07-09",
-    "title": "俄罗斯国家杜马通过人工智能监管法案",
-    "summary": "俄罗斯国家杜马通过人工智能监管法案，将AI基础大模型分为主权模型和国家模型两类，均须符合该国法律及传统道德观。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3266a4f097777352",
-    "source": "财联社/企鹅号",
-    "slug": "russia-ai-regulation-bill"
+    "title": "MiniMax据报研发2.7万亿参数大模型 最早三季度发布",
+    "summary": "路透社援引知情人士称，MiniMax Group正研发一款2.7万亿参数的大语言模型，最早可能今年三季度发布，或成中国企业发布的最大开源权重模型；近期公司新发布主打1M上下文、Coding、Agent和原生多模态的MiniMax M3。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2876a4f674970152",
+    "source": "企鹅号",
+    "slug": "minimax-2-7t-param-model"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "AI大模型周榜：claude-fable-5蝉联榜首 国产模型稳定中上游",
+    "summary": "Arena平台公布最新一期大模型对战周榜(6月29日~7月5日)，Anthropic的claude-fable-5蝉联榜首，美国厂商在头部占据绝对优势；国产模型整体保持稳定，多款模型跻身前30行列。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8506a4f791c98652",
+    "source": "企鹅号/IT之家",
+    "slug": "ai-model-weekly-leaderboard-fable-5"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "智谱宣布完成约314亿港元巨额配售 加速布局基座模型与算力",
+    "summary": "7月9日，国内AI大模型领军企业智谱宣布完成约314.1亿港元配售，募资将投向基座模型研发、算力基础设施建设、商业化拓展及全球生态布局，并获得国际长线资金踊跃认购；同时被曝正评估自研定制芯片。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4856a4f166b37052",
+    "source": "企鹅号",
+    "slug": "zhipu-314-hkd-placement"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "蚂蚁灵波科技升级全栈机器人大脑2.0 在海外开发者社区走热",
+    "summary": "中国具身智能公司蚂蚁灵波科技升级全栈大脑2.0，发布涵盖视觉、动作、操作及物理预测等方向的具身智能大模型，在海外开发者社区掀起热潮，发布即登上海外社交媒体热榜。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8206a4f3f7598252",
+    "source": "企鹅号",
+    "slug": "ant-lingbo-robot-brain-2-0"
   }
 ]
