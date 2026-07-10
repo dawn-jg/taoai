@@ -1,122 +1,122 @@
 [
   {
-    "date": "2026-07-09",
-    "title": "美国商务部批准OpenAI面向大众推出新一代大模型GPT-5.6",
-    "summary": "据报道，美国商务部已于7月8日批准OpenAI面向大众全面推出新一代大模型GPT-5.6，此前仅对少量合作企业开放内测的相关限制现已解除，产品预计本周开启大规模上线。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5166a4f61cd44752",
-    "source": "腾讯新闻",
-    "slug": "openai-gpt-5-6-public-release"
+    "date": "2026-07-10",
+    "title": "字节跳动AI资本开支预算上调至超2000亿元",
+    "summary": "字节跳动在内部战略会议上宣布将2026年资本开支预算上调至超过2000亿元人民币，主要指向AI基础设施（算力中心和服务器）以及AI大模型研发投入。豆包已跻身国内AI产品月活榜首。",
+    "url": "https://www.zqwh.com/shenghuowenda/zvgt206hbwq3hppgjcxf1girsl9dg2ij",
+    "source": "众趣文化",
+    "slug": "bytedance-ai-capex-200b"
   },
   {
-    "date": "2026-07-09",
-    "title": "AI与太空计算挑战赛揭晓 中国团队包揽三个赛道金奖",
-    "summary": "全球首个太空计算主题国际赛事“人工智能(AI)与太空计算挑战赛”评奖结果在日内瓦举行的2026年人工智能造福人类全球峰会上揭晓，来自中国的科研团队获得所有三个赛道的金奖。该赛事由国际电信联盟、中国之江实验室和中国信息通信研究院共同发起。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3036a4f78d068552",
-    "source": "新华社/企鹅号",
-    "slug": "ai-space-computing-challenge-china-gold"
+    "date": "2026-07-10",
+    "title": "中国AI大模型周调用量连续六周增长，达23.45万亿词元",
+    "summary": "根据OpenRouter最新数据，6月29日至7月5日全球AI大模型总调用量46.7万亿词元，中国AI大模型周调用量达23.45万亿词元，环比增长15.01%，连续六周实现增长。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2996a50548971052",
+    "source": "企鹅号",
+    "slug": "china-ai-model-calls-surge"
   },
   {
-    "date": "2026-07-09",
-    "title": "2026世界人工智能大会将于7月17日至20日在上海召开",
-    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海召开，展览总面积首次突破10万平方米，超300款产品将实现全球首发，已推动57个核心场景落地，累计达成162亿元意向合作。",
+    "date": "2026-07-10",
+    "title": "华为联合20余家伙伴发起国内首个NPO光互连MSA标准",
+    "summary": "华为联合中国移动研究院、京东云、百度等20余家产业链伙伴启动OPEN NPO项目，发起国内首个NPO光互连多源协议，加速下一代高速光互连技术创新。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1096a504f5e00352",
+    "source": "企鹅号",
+    "slug": "huawei-npo-optical-interconnect"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "字节跳动AI Rack 3.0兆瓦级算力系统正式亮相",
+    "summary": "在OCP开放计算中国峰会上，字节跳动全新一代AI Rack 3.0正式亮相，首次搭载800V HVDC高压直流供电，配套100%整机柜全液冷散热，单套双柜集群总功率突破1MW，最高可搭载576颗XPU算力芯片。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3646a503ca364552",
+    "source": "企鹅号",
+    "slug": "bytedance-ai-rack-3"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "2026世界人工智能大会将于7月17日在上海开幕",
+    "summary": "大会将于7月17日至20日在上海召开，展览总面积首次突破10万平方米，超300款产品将全球首发，已推动57个核心场景落地，累计达成162亿元意向合作。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2436a4f70d528952",
     "source": "企鹅号",
-    "slug": "waic-2026-shanghai-july"
+    "slug": "waic-2026-shanghai"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "Meta计划9月开始生产自研AI芯片Iris",
+    "summary": "Meta计划于9月开始生产Iris AI芯片，计划明年将计算能力翻倍至14吉瓦，今年已部署7吉瓦计算基础设施，并与三星电子、Sandisk、住友电工等达成长期供应协议。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9476a50299357852",
+    "source": "企鹅号",
+    "slug": "meta-iris-ai-chip"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "SK海力士今日纳斯达克挂牌，预计成全球第二大IPO",
+    "summary": "SK海力士于7月10日在纳斯达克挂牌上市，若完成290亿美元上市，预计位列全球史上第二大新股发行，仅次于SpaceX；市盈率6.2倍低于美光，营收三年增200%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6816a4f3d8b50952",
+    "source": "企鹅号",
+    "slug": "sk-hynix-nasdaq-ipo"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "苹果评估iPhone运行270亿参数AI模型",
+    "summary": "苹果正接洽PrismML初创公司，评估在iPhone上直接运行更大规模AI模型的可行性。PrismML原生1-bit模型压缩技术，推理速度提升最高8倍，能耗降低75%-80%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3006a50335896252",
+    "source": "企鹅号",
+    "slug": "apple-27b-on-device-ai"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "GPT-5.6解除限制，OpenAI宣布发布三款新模型",
+    "summary": "美国政府解除对OpenAI最强大模型GPT-5.6的限制，OpenAI同时宣布将发布GPT-5.6系列三款新模型，被视为全球AI产业发展的标志性事件。人工智能ETF易方达连续3日获资金净流入合计约1.1亿元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1606a4f2ff021152",
+    "source": "企鹅号",
+    "slug": "gpt56-unrestricted-openai"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "DeepSeek秘密自研AI推理芯片，启动已约一年",
+    "summary": "路透社报道，DeepSeek正在秘密开发自研AI推理芯片，项目约一年前启动，正与芯片设计公司、晶圆代工厂及存储厂商密集接洽，同时扩充芯片研发团队。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3286a4f27ef20652",
+    "source": "企鹅号",
+    "slug": "deepseek-custom-ai-chip"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "智谱AI评估自研定制芯片，适配GLM系列大模型",
+    "summary": "The Information爆料，智谱AI正在评估自研定制AI芯片的可能性，已向多家国内芯片设计公司进行初步咨询，计划合作开发一款针对GLM系列大模型优化的定制AI处理器。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3796a4f41e122852",
+    "source": "企鹅号",
+    "slug": "zhipu-custom-ai-chip"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "浪潮信息上半年净利暴增288%，AI算力行情爆发",
+    "summary": "AI服务器龙头浪潮信息发布2026年半年度业绩预告，上半年净利润同比最高增长288%，二季度盈利环比暴涨超3倍。7月8日开盘一字涨停，涨停板上逾124万手封单。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1046a4f9b0797252",
+    "source": "企鹅号",
+    "slug": "inspur-ai-server-profit-surge"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "SpaceXAI发布Grok 4.5旗舰模型，发力法律金融编程",
+    "summary": "SpaceXAI发布最新旗舰模型Grok 4.5，与AI编程初创公司Cursor联合开发，重点发力法律、金融及编程任务场景。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9476a50299357852",
+    "source": "企鹅号",
+    "slug": "spacexai-grok-4-5"
   },
   {
     "date": "2026-07-09",
     "title": "全球首款AI智能体手机将亮相2026世界人工智能大会",
-    "summary": "中兴通讯旗下努比亚将推出全球首款AI智能体手机，该机型出自与字节跳动豆包合作的AI原生手机路线。分析师认为大模型加速进化推动进入Agentic AI阶段，硬件仍是AI应用落地最确定的受益方向。",
+    "summary": "中兴通讯旗下努比亚推出与字节跳动豆包合作的AI原生手机M153，将作为全球首款AI智能体手机亮相2026世界人工智能大会。中国银河认为硬件是AI应用落地最确定的受益方向。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0486a4f5e8e13452",
     "source": "企鹅号",
-    "slug": "world-first-ai-agent-phone-waic"
+    "slug": "ai-agent-phone-waic"
   },
   {
     "date": "2026-07-09",
-    "title": "Kimi K2.7 Code接入GitHub Copilot 系首个开源模型",
-    "summary": "Kimi开放平台官宣，GitHub Copilot的模型选择器已上线Kimi K2.7 Code，Copilot Pro、Pro+和Max用户可逐步选择该模型用于代码生成、代码理解与调试修改。据称这是GitHub Copilot接入的第一个开源模型。",
-    "url": "https://news.cnblogs.com/n/page/3/",
-    "source": "博客园",
-    "slug": "kimi-k2-7-code-github-copilot"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "剑桥中英人工智能商业论坛探讨AI发展新机遇",
-    "summary": "剑桥中英人工智能商业论坛近日在英国剑桥大学贾奇商学院举行，由浙江大学国际联合商学院与剑桥大学贾奇商学院中国管理中心联合主办，来自中英两国政界、学界和企业界代表围绕人工智能技术驱动企业战略转型展开研讨。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0516a4f577159552",
+    "title": "DeepSeek V4实现华为昇腾等八大国产芯片全量适配",
+    "summary": "AI算力芯片快速崛起，DeepSeek V4实现华为昇腾等八大国产芯片厂商全量适配。DeepSeek将推出分时定价，豆包已上线多档会员，国产模型商业化提速。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6766a506f2e35152",
     "source": "企鹅号",
-    "slug": "cambridge-china-uk-ai-forum"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "多家人工智能产业链公司中报净利润预增超100%",
-    "summary": "据多家媒体报道，浪潮信息、光库科技等多家AI产业链公司中报净利润预增超100%，其中浪潮信息预计上半年净利润同比增长超两倍，带动人工智能ETF天弘标的指数盘中飙涨超3.5%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9356a4f383298852",
-    "source": "企鹅号",
-    "slug": "ai-supply-chain-midyear-profit-surge"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "智源研究院公布世界模型新进展：AI学会推演“下一个世界状态”",
-    "summary": "智源研究院公开具身大脑悟界·RoboBrain Orca技术报告，该多模态表征世界模型突破大模型仅预测文本、画面或动作的传统路径，率先实现对整体“世界状态”的前后演化推演，标志AI迈向预测“下一个世界状态”。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6616a4f6f1d28452",
-    "source": "企鹅号",
-    "slug": "zhihuan-robobrain-orca-world-model"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "Meta发布新一代大语言模型Muse Spark 1.1并首推付费版本",
-    "summary": "在推出AI图像生成模型Muse Image仅两天后，Meta发布新一代大语言模型Muse Spark 1.1，首次以公开预览形式开放API，加码AI智能体和代码生成市场，并首次推出付费版本，定价约为OpenAI和Anthropic同类顶级模型官方价格的四分之一。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6396a4fb76d87452",
-    "source": "企鹅号",
-    "slug": "meta-muse-spark-1-1-paid"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "马斯克旗下SpaceXAI发布Grok 4.5大模型",
-    "summary": "马斯克旗下SpaceXAI发布与AI编程初创公司Cursor联合开发的Grok 4.5大模型，针对软件工程、法律服务及金融服务等场景设计，可处理复杂长周期任务并新增网络安全功能，宣称Token效率比同类主流模型高出两倍。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2316a4ea41f41552",
-    "source": "企鹅号",
-    "slug": "spacexai-grok-4-5-release"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "全球大模型企业掀起AI芯片自研浪潮",
-    "summary": "路透社消息称，DeepSeek已启动为期一年的自研AI推理芯片项目，智谱AI正评估适配GLM系列的定制芯片方案；此前OpenAI发布与博通联合研发的推理芯片Jalapeño，Anthropic也推进AI芯片自研，头部企业集体向半导体上游布局。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3796a4f41e122852",
-    "source": "企鹅号",
-    "slug": "global-ai-chip-inhouse-trend"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "MiniMax据报研发2.7万亿参数大模型 最早三季度发布",
-    "summary": "路透社援引知情人士称，MiniMax Group正研发一款2.7万亿参数的大语言模型，最早可能今年三季度发布，或成中国企业发布的最大开源权重模型；近期公司新发布主打1M上下文、Coding、Agent和原生多模态的MiniMax M3。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2876a4f674970152",
-    "source": "企鹅号",
-    "slug": "minimax-2-7t-param-model"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "AI大模型周榜：claude-fable-5蝉联榜首 国产模型稳定中上游",
-    "summary": "Arena平台公布最新一期大模型对战周榜(6月29日~7月5日)，Anthropic的claude-fable-5蝉联榜首，美国厂商在头部占据绝对优势；国产模型整体保持稳定，多款模型跻身前30行列。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8506a4f791c98652",
-    "source": "企鹅号/IT之家",
-    "slug": "ai-model-weekly-leaderboard-fable-5"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "智谱宣布完成约314亿港元巨额配售 加速布局基座模型与算力",
-    "summary": "7月9日，国内AI大模型领军企业智谱宣布完成约314.1亿港元配售，募资将投向基座模型研发、算力基础设施建设、商业化拓展及全球生态布局，并获得国际长线资金踊跃认购；同时被曝正评估自研定制芯片。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4856a4f166b37052",
-    "source": "企鹅号",
-    "slug": "zhipu-314-hkd-placement"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "蚂蚁灵波科技升级全栈机器人大脑2.0 在海外开发者社区走热",
-    "summary": "中国具身智能公司蚂蚁灵波科技升级全栈大脑2.0，发布涵盖视觉、动作、操作及物理预测等方向的具身智能大模型，在海外开发者社区掀起热潮，发布即登上海外社交媒体热榜。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8206a4f3f7598252",
-    "source": "企鹅号",
-    "slug": "ant-lingbo-robot-brain-2-0"
+    "slug": "deepseek-v4-huawei-ascend"
   }
 ]
