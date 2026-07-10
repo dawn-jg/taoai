@@ -1,103 +1,63 @@
 [
   {
     "date": "2026-07-10",
-    "title": "字节跳动AI资本开支预算上调至超2000亿元",
-    "summary": "字节跳动在内部战略会议上宣布将2026年资本开支预算上调至超过2000亿元人民币，主要指向AI基础设施（算力中心和服务器）以及AI大模型研发投入。豆包已跻身国内AI产品月活榜首。",
-    "url": "https://www.zqwh.com/shenghuowenda/zvgt206hbwq3hppgjcxf1girsl9dg2ij",
-    "source": "众趣文化",
-    "slug": "bytedance-ai-capex-200b"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "中国AI大模型周调用量连续六周增长，达23.45万亿词元",
-    "summary": "根据OpenRouter最新数据，6月29日至7月5日全球AI大模型总调用量46.7万亿词元，中国AI大模型周调用量达23.45万亿词元，环比增长15.01%，连续六周实现增长。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2996a50548971052",
+    "title": "腾讯发布混元Hy3正式版，股价大涨",
+    "summary": "腾讯7月6日发布混元Hy3正式版，当天股价上涨4.82%报452港元，次日继续飙升至477.6港元涨5.66%。美银证券发报告称Hy3实际表现超出预期。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7346a50a78004352",
     "source": "企鹅号",
-    "slug": "china-ai-model-calls-surge"
+    "slug": "tencent-hunyuan-hy3"
   },
   {
     "date": "2026-07-10",
     "title": "华为联合20余家伙伴发起国内首个NPO光互连MSA标准",
-    "summary": "华为联合中国移动研究院、京东云、百度等20余家产业链伙伴启动OPEN NPO项目，发起国内首个NPO光互连多源协议，加速下一代高速光互连技术创新。",
+    "summary": "华为联合中国移动研究院、京东云、百度、中国电子技术标准化研究院等20余家产业链伙伴启动OPEN NPO项目，发起国内首个近封装光学光互连多源协议，加速AI时代高端算力基础设施发展。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1096a504f5e00352",
     "source": "企鹅号",
     "slug": "huawei-npo-optical-interconnect"
   },
   {
     "date": "2026-07-10",
-    "title": "字节跳动AI Rack 3.0兆瓦级算力系统正式亮相",
-    "summary": "在OCP开放计算中国峰会上，字节跳动全新一代AI Rack 3.0正式亮相，首次搭载800V HVDC高压直流供电，配套100%整机柜全液冷散热，单套双柜集群总功率突破1MW，最高可搭载576颗XPU算力芯片。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3646a503ca364552",
+    "title": "OpenAI推出GPT-Live全双工语音模型",
+    "summary": "OpenAI于7月9日推出GPT-Live，基于全双工架构的新一代语音模型，可同时聆听和说话。将发布GPT-Live-1和GPT-Live-1 mini两个版本。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6156a503b5755252",
     "source": "企鹅号",
-    "slug": "bytedance-ai-rack-3"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "2026世界人工智能大会将于7月17日在上海开幕",
-    "summary": "大会将于7月17日至20日在上海召开，展览总面积首次突破10万平方米，超300款产品将全球首发，已推动57个核心场景落地，累计达成162亿元意向合作。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2436a4f70d528952",
-    "source": "企鹅号",
-    "slug": "waic-2026-shanghai"
+    "slug": "openai-gpt-live-voice"
   },
   {
     "date": "2026-07-10",
     "title": "Meta计划9月开始生产自研AI芯片Iris",
-    "summary": "Meta计划于9月开始生产Iris AI芯片，计划明年将计算能力翻倍至14吉瓦，今年已部署7吉瓦计算基础设施，并与三星电子、Sandisk、住友电工等达成长期供应协议。",
+    "summary": "Meta计划于9月开始生产Iris AI芯片，明年计划将计算能力翻倍至14吉瓦，今年已部署7吉瓦计算基础设施。同时与三星电子、闪迪等达成供应协议。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9476a50299357852",
     "source": "企鹅号",
     "slug": "meta-iris-ai-chip"
   },
   {
     "date": "2026-07-10",
-    "title": "SK海力士今日纳斯达克挂牌，预计成全球第二大IPO",
-    "summary": "SK海力士于7月10日在纳斯达克挂牌上市，若完成290亿美元上市，预计位列全球史上第二大新股发行，仅次于SpaceX；市盈率6.2倍低于美光，营收三年增200%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6816a4f3d8b50952",
+    "title": "日内瓦AI峰会：中国企业携前沿成果亮相",
+    "summary": "人工智能造福人类全球峰会7日至10日在瑞士日内瓦举办，展示AI在医疗健康、教育、食品安全等领域的应用。多家中国企业携前沿成果参展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5076a5094d761652",
     "source": "企鹅号",
-    "slug": "sk-hynix-nasdaq-ipo"
+    "slug": "geneva-ai-summit-china"
   },
   {
     "date": "2026-07-10",
-    "title": "苹果评估iPhone运行270亿参数AI模型",
-    "summary": "苹果正接洽PrismML初创公司，评估在iPhone上直接运行更大规模AI模型的可行性。PrismML原生1-bit模型压缩技术，推理速度提升最高8倍，能耗降低75%-80%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3006a50335896252",
+    "title": "AI智能体从技术可用迈向商业可赚，规模化落地加速",
+    "summary": "2026年以来国内AI智能体加速走进实体产业与大众生活，从技术展示转向规模化落地。业内人士判断正从技术可用迈向商业可赚阶段。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9786a50b87b04852",
     "source": "企鹅号",
-    "slug": "apple-27b-on-device-ai"
+    "slug": "ai-agent-commercialization"
   },
   {
-    "date": "2026-07-09",
-    "title": "GPT-5.6解除限制，OpenAI宣布发布三款新模型",
-    "summary": "美国政府解除对OpenAI最强大模型GPT-5.6的限制，OpenAI同时宣布将发布GPT-5.6系列三款新模型，被视为全球AI产业发展的标志性事件。人工智能ETF易方达连续3日获资金净流入合计约1.1亿元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1606a4f2ff021152",
+    "date": "2026-07-10",
+    "title": "AI产业日报：国产AI芯片大爆发，DeepSeek V4适配八大国产芯片",
+    "summary": "DeepSeek V4实现华为昇腾等八大国产芯片厂商全量适配。AI算力芯片快速崛起，长江存储、长鑫存储填补国产化缺口。中国光纤预制棒产能占全球65%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6766a506f2e35152",
     "source": "企鹅号",
-    "slug": "gpt56-unrestricted-openai"
+    "slug": "china-ai-chip-boom"
   },
   {
-    "date": "2026-07-09",
-    "title": "DeepSeek秘密自研AI推理芯片，启动已约一年",
-    "summary": "路透社报道，DeepSeek正在秘密开发自研AI推理芯片，项目约一年前启动，正与芯片设计公司、晶圆代工厂及存储厂商密集接洽，同时扩充芯片研发团队。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3286a4f27ef20652",
-    "source": "企鹅号",
-    "slug": "deepseek-custom-ai-chip"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "智谱AI评估自研定制芯片，适配GLM系列大模型",
-    "summary": "The Information爆料，智谱AI正在评估自研定制AI芯片的可能性，已向多家国内芯片设计公司进行初步咨询，计划合作开发一款针对GLM系列大模型优化的定制AI处理器。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3796a4f41e122852",
-    "source": "企鹅号",
-    "slug": "zhipu-custom-ai-chip"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "浪潮信息上半年净利暴增288%，AI算力行情爆发",
-    "summary": "AI服务器龙头浪潮信息发布2026年半年度业绩预告，上半年净利润同比最高增长288%，二季度盈利环比暴涨超3倍。7月8日开盘一字涨停，涨停板上逾124万手封单。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1046a4f9b0797252",
-    "source": "企鹅号",
-    "slug": "inspur-ai-server-profit-surge"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "SpaceXAI发布Grok 4.5旗舰模型，发力法律金融编程",
+    "date": "2026-07-10",
+    "title": "SpaceXAI发布Grok 4.5旗舰模型，发力法律金融及编程",
     "summary": "SpaceXAI发布最新旗舰模型Grok 4.5，与AI编程初创公司Cursor联合开发，重点发力法律、金融及编程任务场景。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9476a50299357852",
     "source": "企鹅号",
@@ -105,18 +65,50 @@
   },
   {
     "date": "2026-07-09",
-    "title": "全球首款AI智能体手机将亮相2026世界人工智能大会",
-    "summary": "中兴通讯旗下努比亚推出与字节跳动豆包合作的AI原生手机M153，将作为全球首款AI智能体手机亮相2026世界人工智能大会。中国银河认为硬件是AI应用落地最确定的受益方向。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0486a4f5e8e13452",
+    "title": "内蒙古加速打造世界级算力中心集群，华为腾讯阿里落户",
+    "summary": "华为、腾讯、阿里巴巴、三大运营商及中国农业银行等已落户内蒙古算力中心集群。月之暗面、深度求索、小鹏汽车等在当地开展AI大模型训练业务。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0156a4fae2a47752",
     "source": "企鹅号",
-    "slug": "ai-agent-phone-waic"
+    "slug": "inner-mongolia-ai-compute"
   },
   {
     "date": "2026-07-09",
-    "title": "DeepSeek V4实现华为昇腾等八大国产芯片全量适配",
-    "summary": "AI算力芯片快速崛起，DeepSeek V4实现华为昇腾等八大国产芯片厂商全量适配。DeepSeek将推出分时定价，豆包已上线多档会员，国产模型商业化提速。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6766a506f2e35152",
+    "title": "MiniMax股价暴跌超21%，上市后首次大规模限售股解禁",
+    "summary": "AI大模型巨头MiniMax于7月9日港股盘中股价大幅跳水，一度暴跌超21%，原因是公司迎来上市后首次大规模限售股解禁。",
+    "url": "http://hk.eastmoney.com/news/cggyw.html",
+    "source": "东方财富网",
+    "slug": "minimax-stock-plunge"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "墨奇智能半年内完成超10亿元融资，估值超70亿",
+    "summary": "具身智能新公司墨奇智能在六个月内完成超10亿元天使轮系列融资，投后估值超70亿元，阿里、腾讯等机构押注。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7176a5049b475752",
     "source": "企鹅号",
-    "slug": "deepseek-v4-huawei-ascend"
+    "slug": "moqi-robotics-funding"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "阿里升级Fun-ASR-Realtime语音识别，精度比肩离线模型",
+    "summary": "阿里升级语音实时识别大模型Fun-ASR-Realtime，首字延迟百毫秒级，支持16种方言和30种语言，在方言与复杂场景评测中领先火山、腾讯同类产品。",
+    "url": "https://www.chinaz.com/vlog/",
+    "source": "站长之家",
+    "slug": "alibaba-fun-asr-upgrade"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "阿里云与玺承集团SealSeek达成AI全面合作",
+    "summary": "7月8日阿里云与玺承集团在阿里巴巴云谷园区达成AI全面合作，以阿里云AI全栈能力支撑电商经营全链路AI系统平台SealSeek的技术底座。",
+    "url": "https://www.admin5.com/tech/",
+    "source": "A5创业网",
+    "slug": "alibaba-cloud-sealseek"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "Meta投资100亿美元在加拿大建设首个数据中心",
+    "summary": "Meta于7月8日宣布投资130亿加元（约100亿美元）在加拿大建设首个数据中心，以扩大基础设施支持其AI发展目标。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6156a503b5755252",
+    "source": "企鹅号",
+    "slug": "meta-canada-data-center"
   }
 ]
