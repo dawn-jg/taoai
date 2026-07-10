@@ -1,114 +1,114 @@
 [
   {
     "date": "2026-07-10",
-    "title": "腾讯发布混元Hy3正式版，股价大涨",
-    "summary": "腾讯7月6日发布混元Hy3正式版，当天股价上涨4.82%报452港元，次日继续飙升至477.6港元涨5.66%。美银证券发报告称Hy3实际表现超出预期。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7346a50a78004352",
-    "source": "企鹅号",
-    "slug": "tencent-hunyuan-hy3"
+    "title": "联合国首届AI治理全球对话在日内瓦闭幕",
+    "summary": "为期2天的首届联合国人工智能治理全球对话7月7日在瑞士日内瓦闭幕，由联合国大会授权设立，旨在为各国政府和利益攸关方提供对话平台，确保AI治理反映所有国家优先关切、实现AI发展成果普惠共享。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "中国科技网",
+    "slug": "un-ai-governance-dialogue"
   },
   {
     "date": "2026-07-10",
-    "title": "华为联合20余家伙伴发起国内首个NPO光互连MSA标准",
-    "summary": "华为联合中国移动研究院、京东云、百度、中国电子技术标准化研究院等20余家产业链伙伴启动OPEN NPO项目，发起国内首个近封装光学光互连多源协议，加速AI时代高端算力基础设施发展。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1096a504f5e00352",
-    "source": "企鹅号",
-    "slug": "huawei-npo-optical-interconnect"
+    "title": "WAIC 2026将于7月17-20日在上海举办，300余款产品全球首发",
+    "summary": "2026世界人工智能大会暨AI全球治理高级别会议以「智能伙伴共创未来」为主题，策划140余场论坛，汇聚1400余位中外嘉宾，展览面积突破10万平方米，1100余家企业参展，3000余项展品亮相，其中300余款产品将全球首发。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7696a50c48198452",
+    "source": "国泰海通计算机",
+    "slug": "waic-2026-preview"
   },
   {
     "date": "2026-07-10",
-    "title": "OpenAI推出GPT-Live全双工语音模型",
-    "summary": "OpenAI于7月9日推出GPT-Live，基于全双工架构的新一代语音模型，可同时聆听和说话。将发布GPT-Live-1和GPT-Live-1 mini两个版本。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6156a503b5755252",
+    "title": "美团发布万亿参数自研大模型LongCat-2.0并宣布开源",
+    "summary": "美团正式发布总参数1.6T的自研大模型LongCat-2.0，围绕Agentic Coding任务打造，并跑通国内首个五万卡国产万亿大模型训推。预览版上线OpenRouter后迅速跻身全球调用量前三。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1186a50aec901452",
     "source": "企鹅号",
-    "slug": "openai-gpt-live-voice"
+    "slug": "meituan-longcat-2"
   },
   {
     "date": "2026-07-10",
-    "title": "Meta计划9月开始生产自研AI芯片Iris",
-    "summary": "Meta计划于9月开始生产Iris AI芯片，明年计划将计算能力翻倍至14吉瓦，今年已部署7吉瓦计算基础设施。同时与三星电子、闪迪等达成供应协议。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9476a50299357852",
+    "title": "PrismML在iPhone 17 Pro上本地运行通义千问3.6 270亿稠密模型",
+    "summary": "初创公司PrismML成功将阿里巴巴开源大模型通义千问3.6(Qwen 3.6)轻量化压缩，可在iPhone 17 Pro本地完整运行，实现复杂对话、深度逻辑推理、代码开发等高难度任务，该开源模型将于下周二开放下载。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7046a50cbb839552",
     "source": "企鹅号",
-    "slug": "meta-iris-ai-chip"
+    "slug": "prismml-iphone-qwen"
   },
   {
     "date": "2026-07-10",
-    "title": "日内瓦AI峰会：中国企业携前沿成果亮相",
-    "summary": "人工智能造福人类全球峰会7日至10日在瑞士日内瓦举办，展示AI在医疗健康、教育、食品安全等领域的应用。多家中国企业携前沿成果参展。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5076a5094d761652",
-    "source": "企鹅号",
-    "slug": "geneva-ai-summit-china"
+    "title": "中国团队获AI与太空计算挑战赛全部三个赛道金奖",
+    "summary": "全球首个太空计算主题国际赛事「AI与太空计算挑战赛」评奖结果在日内瓦2026年AI造福人类全球峰会上揭晓，来自中国的科研团队包揽挑战赛所有三个赛道的金奖。",
+    "url": "http://www.xbxxb.com/kj/1.html",
+    "source": "西北在线",
+    "slug": "china-space-ai-challenge-gold"
   },
   {
     "date": "2026-07-10",
-    "title": "AI智能体从技术可用迈向商业可赚，规模化落地加速",
-    "summary": "2026年以来国内AI智能体加速走进实体产业与大众生活，从技术展示转向规模化落地。业内人士判断正从技术可用迈向商业可赚阶段。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9786a50b87b04852",
-    "source": "企鹅号",
-    "slug": "ai-agent-commercialization"
+    "title": "2026开放计算技术大会在京举行，聚焦万亿参数大模型AI基建",
+    "summary": "大会由OCP开放计算社区与OCTC联合主办，围绕万亿参数大模型、多智能体协作带来的Token指数级增长，探讨高速互连、供电架构、液冷散热、系统开放等AI基础设施关键技术瓶颈。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6146a50d84621352",
+    "source": "中新网",
+    "slug": "open-compute-tech-conference-2026"
   },
   {
     "date": "2026-07-10",
-    "title": "AI产业日报：国产AI芯片大爆发，DeepSeek V4适配八大国产芯片",
-    "summary": "DeepSeek V4实现华为昇腾等八大国产芯片厂商全量适配。AI算力芯片快速崛起，长江存储、长鑫存储填补国产化缺口。中国光纤预制棒产能占全球65%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6766a506f2e35152",
+    "title": "2026年超4000万人向AI咨询高考志愿，AI填志愿元年到来",
+    "summary": "2026年高考本科批志愿填报结束，阿里千问平台数据显示截至7月8日累计超4000万用户咨询高考志愿等问题，共领取2300万份免费AI志愿报告。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5846a50c14000352",
     "source": "企鹅号",
-    "slug": "china-ai-chip-boom"
+    "slug": "ai-gaokao-2026"
   },
   {
     "date": "2026-07-10",
-    "title": "SpaceXAI发布Grok 4.5旗舰模型，发力法律金融及编程",
-    "summary": "SpaceXAI发布最新旗舰模型Grok 4.5，与AI编程初创公司Cursor联合开发，重点发力法律、金融及编程任务场景。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9476a50299357852",
+    "title": "字节豆包、阿里通义千问自建智能体将于7月15日下线",
+    "summary": "《人工智能拟人化互动服务管理暂行办法》将于7月15日正式施行，由网信办、发改委、工信部、公安部、市场监管总局联合公布，对虚拟恋人、深度角色扮演、情感依附类AI等采取硬约束。字节豆包、阿里通义千问先后公告用户自建智能体功能下线。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1706a50a99d32352",
     "source": "企鹅号",
-    "slug": "spacexai-grok-4-5"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "内蒙古加速打造世界级算力中心集群，华为腾讯阿里落户",
-    "summary": "华为、腾讯、阿里巴巴、三大运营商及中国农业银行等已落户内蒙古算力中心集群。月之暗面、深度求索、小鹏汽车等在当地开展AI大模型训练业务。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0156a4fae2a47752",
-    "source": "企鹅号",
-    "slug": "inner-mongolia-ai-compute"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "MiniMax股价暴跌超21%，上市后首次大规模限售股解禁",
-    "summary": "AI大模型巨头MiniMax于7月9日港股盘中股价大幅跳水，一度暴跌超21%，原因是公司迎来上市后首次大规模限售股解禁。",
-    "url": "http://hk.eastmoney.com/news/cggyw.html",
-    "source": "东方财富网",
-    "slug": "minimax-stock-plunge"
+    "slug": "ai-avatar-regulation"
   },
   {
     "date": "2026-07-10",
-    "title": "墨奇智能半年内完成超10亿元融资，估值超70亿",
-    "summary": "具身智能新公司墨奇智能在六个月内完成超10亿元天使轮系列融资，投后估值超70亿元，阿里、腾讯等机构押注。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7176a5049b475752",
+    "title": "努比亚全球首款AI智能体手机将于WAIC 2026首次公开亮相",
+    "summary": "努比亚宣布将在WAIC 2026展出全球首款搭载原生AI智能体的量产智能手机，在安卓系统底层集成AI引擎，能通过自然语言指令自主完成跨应用协同任务如比价下单，实现从「能回答」到「能办事」的转变。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7426a50a81927152",
     "source": "企鹅号",
-    "slug": "moqi-robotics-funding"
+    "slug": "nubia-ai-agent-phone"
   },
   {
-    "date": "2026-07-09",
-    "title": "阿里升级Fun-ASR-Realtime语音识别，精度比肩离线模型",
-    "summary": "阿里升级语音实时识别大模型Fun-ASR-Realtime，首字延迟百毫秒级，支持16种方言和30种语言，在方言与复杂场景评测中领先火山、腾讯同类产品。",
-    "url": "https://www.chinaz.com/vlog/",
-    "source": "站长之家",
-    "slug": "alibaba-fun-asr-upgrade"
+    "date": "2026-07-10",
+    "title": "阶跃星辰将于7月13日发布全球首款AI智能体手机及终端品牌",
+    "summary": "阶跃星辰与努比亚争夺「全球首款AI智能体手机」称号，标志着AI能力从云端向终端迁移，推动人机交互向「AI帮你操作手机」新范式发展。",
+    "url": "https://mobile.it168.com/chanel-6-att-1-page-1.shtml",
+    "source": "IT168",
+    "slug": "stepfun-ai-agent-phone"
   },
   {
-    "date": "2026-07-09",
-    "title": "阿里云与玺承集团SealSeek达成AI全面合作",
-    "summary": "7月8日阿里云与玺承集团在阿里巴巴云谷园区达成AI全面合作，以阿里云AI全栈能力支撑电商经营全链路AI系统平台SealSeek的技术底座。",
+    "date": "2026-07-10",
+    "title": "蚂蚁灵波发布LingBot-VA 2.0：行业首个「具身原生」预训练模型",
+    "summary": "蚂蚁灵波发布LingBot-VA 2.0，定位为行业首个「具身原生」预训练模型，标志着具身智能大模型迈入全新阶段，从视觉语言模型向具身原生方向演进。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3186a50996a59852",
+    "source": "企鹅号",
+    "slug": "ant-lingbot-va2"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "工信部：今年人形机器人整机产量有望突破10万台",
+    "summary": "工信部科技司副司长甘小斌在WAIC 2026新闻发布会上表示，我国大模型、智能体等加速迭代，今年人形机器人全年整机产量有望突破10万台。",
+    "url": "http://www.xbxxb.com/kj/1.html",
+    "source": "经济参考报",
+    "slug": "humanoid-robot-100k"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "2026中国互联网大会在京开幕，Token为核心的算力博弈重构商业逻辑",
+    "summary": "为期三天的2026中国互联网大会在北京国家会议中心开幕，业内普遍认为流量时代已翻篇，以Token为核心的算力博弈正在重构一切商业底层逻辑。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9006a50a84b06352",
+    "source": "企鹅号",
+    "slug": "internet-conference-2026"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "云天励飞IFWA软件栈完成腾讯混元Hy3关键链路适配验证",
+    "summary": "腾讯混元团队开源新一代大语言模型Hy3，云天励飞基于自研IFWA软件栈在DeepVerse云端芯片验证平台上完成Hy3模型结构接入与关键推理链路功能验证。",
     "url": "https://www.admin5.com/tech/",
     "source": "A5创业网",
-    "slug": "alibaba-cloud-sealseek"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "Meta投资100亿美元在加拿大建设首个数据中心",
-    "summary": "Meta于7月8日宣布投资130亿加元（约100亿美元）在加拿大建设首个数据中心，以扩大基础设施支持其AI发展目标。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6156a503b5755252",
-    "source": "企鹅号",
-    "slug": "meta-canada-data-center"
+    "slug": "yuntianlifei-hunyuan-hy3"
   }
 ]
