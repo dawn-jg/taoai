@@ -1,114 +1,122 @@
 [
   {
-    "date": "2026-07-10",
-    "title": "联合国首届AI治理全球对话在日内瓦闭幕",
-    "summary": "为期2天的首届联合国人工智能治理全球对话7月7日在瑞士日内瓦闭幕，由联合国大会授权设立，旨在为各国政府和利益攸关方提供对话平台，确保AI治理反映所有国家优先关切、实现AI发展成果普惠共享。",
-    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "中国科技网",
-    "slug": "un-ai-governance-dialogue"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "WAIC 2026将于7月17-20日在上海举办，300余款产品全球首发",
-    "summary": "2026世界人工智能大会暨AI全球治理高级别会议以「智能伙伴共创未来」为主题，策划140余场论坛，汇聚1400余位中外嘉宾，展览面积突破10万平方米，1100余家企业参展，3000余项展品亮相，其中300余款产品将全球首发。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7696a50c48198452",
-    "source": "国泰海通计算机",
-    "slug": "waic-2026-preview"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "美团发布万亿参数自研大模型LongCat-2.0并宣布开源",
-    "summary": "美团正式发布总参数1.6T的自研大模型LongCat-2.0，围绕Agentic Coding任务打造，并跑通国内首个五万卡国产万亿大模型训推。预览版上线OpenRouter后迅速跻身全球调用量前三。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1186a50aec901452",
+    "date": "2026-07-11",
+    "title": "Science报道AI智能体实现实验自动化：效率提升近百倍",
+    "summary": "《科学》期刊报道AI智能体在40分钟内完成通常需要人类60小时的实验工作，标志着AI从辅助工具向自主科研助手跨越。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5566a51aa9759965",
     "source": "企鹅号",
-    "slug": "meituan-longcat-2"
+    "slug": "science-ai-agent-experiment"
   },
   {
     "date": "2026-07-10",
-    "title": "PrismML在iPhone 17 Pro上本地运行通义千问3.6 270亿稠密模型",
-    "summary": "初创公司PrismML成功将阿里巴巴开源大模型通义千问3.6(Qwen 3.6)轻量化压缩，可在iPhone 17 Pro本地完整运行，实现复杂对话、深度逻辑推理、代码开发等高难度任务，该开源模型将于下周二开放下载。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7046a50cbb839552",
-    "source": "企鹅号",
-    "slug": "prismml-iphone-qwen"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "中国团队获AI与太空计算挑战赛全部三个赛道金奖",
-    "summary": "全球首个太空计算主题国际赛事「AI与太空计算挑战赛」评奖结果在日内瓦2026年AI造福人类全球峰会上揭晓，来自中国的科研团队包揽挑战赛所有三个赛道的金奖。",
+    "title": "日内瓦AI峰会闭幕：中国团队包揽太空计算挑战赛全部三赛道金奖",
+    "summary": "「人工智能造福人类全球峰会」7月7-10日在日内瓦举办，中国科研团队在全球首个太空计算主题赛事中获得所有三个赛道的金奖。",
     "url": "http://www.xbxxb.com/kj/1.html",
     "source": "西北在线",
-    "slug": "china-space-ai-challenge-gold"
+    "slug": "geneva-ai-summit-china-gold"
   },
   {
-    "date": "2026-07-10",
-    "title": "2026开放计算技术大会在京举行，聚焦万亿参数大模型AI基建",
-    "summary": "大会由OCP开放计算社区与OCTC联合主办，围绕万亿参数大模型、多智能体协作带来的Token指数级增长，探讨高速互连、供电架构、液冷散热、系统开放等AI基础设施关键技术瓶颈。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6146a50d84621352",
-    "source": "中新网",
-    "slug": "open-compute-tech-conference-2026"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "2026年超4000万人向AI咨询高考志愿，AI填志愿元年到来",
-    "summary": "2026年高考本科批志愿填报结束，阿里千问平台数据显示截至7月8日累计超4000万用户咨询高考志愿等问题，共领取2300万份免费AI志愿报告。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5846a50c14000352",
+    "date": "2026-07-11",
+    "title": "WAIC 2026定档7月17-20日：展览面积首破10万平，300余款产品全球首发",
+    "summary": "2026世界人工智能大会将于上海举办，已推动57个核心场景落地，累计达成162亿元意向合作。工信部表示今年人形机器人全年整机产量有望突破10万台。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7806a51ac9577452",
     "source": "企鹅号",
-    "slug": "ai-gaokao-2026"
+    "slug": "waic-2026-countdown"
   },
   {
-    "date": "2026-07-10",
-    "title": "字节豆包、阿里通义千问自建智能体将于7月15日下线",
-    "summary": "《人工智能拟人化互动服务管理暂行办法》将于7月15日正式施行，由网信办、发改委、工信部、公安部、市场监管总局联合公布，对虚拟恋人、深度角色扮演、情感依附类AI等采取硬约束。字节豆包、阿里通义千问先后公告用户自建智能体功能下线。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1706a50a99d32352",
+    "date": "2026-07-11",
+    "title": "科创板向AI大模型企业开放，适用第五套上市标准",
+    "summary": "上交所出台《科创板企业发行上市申报及推荐暂行规定（征求意见稿）》，将第五套标准适用范围扩大至人工智能领域，AI大模型企业上市审核指引出炉。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7806a51ac9577452",
     "source": "企鹅号",
-    "slug": "ai-avatar-regulation"
+    "slug": "star-board-ai-listing"
   },
   {
-    "date": "2026-07-10",
-    "title": "努比亚全球首款AI智能体手机将于WAIC 2026首次公开亮相",
-    "summary": "努比亚宣布将在WAIC 2026展出全球首款搭载原生AI智能体的量产智能手机，在安卓系统底层集成AI引擎，能通过自然语言指令自主完成跨应用协同任务如比价下单，实现从「能回答」到「能办事」的转变。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7426a50a81927152",
+    "date": "2026-07-11",
+    "title": "扎克伯格为Meta付费AI工具制定「激进」价格策略",
+    "summary": "Meta发布AI模型Muse Spark 1.1，首次向开发者推出付费版本和企业收费API系统，扎克伯格表示该模型将成为市场最低价选择之一。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2026a51974e91152",
     "source": "企鹅号",
-    "slug": "nubia-ai-agent-phone"
+    "slug": "meta-muse-spark-pricing"
   },
   {
-    "date": "2026-07-10",
-    "title": "阶跃星辰将于7月13日发布全球首款AI智能体手机及终端品牌",
-    "summary": "阶跃星辰与努比亚争夺「全球首款AI智能体手机」称号，标志着AI能力从云端向终端迁移，推动人机交互向「AI帮你操作手机」新范式发展。",
-    "url": "https://mobile.it168.com/chanel-6-att-1-page-1.shtml",
-    "source": "IT168",
-    "slug": "stepfun-ai-agent-phone"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "蚂蚁灵波发布LingBot-VA 2.0：行业首个「具身原生」预训练模型",
-    "summary": "蚂蚁灵波发布LingBot-VA 2.0，定位为行业首个「具身原生」预训练模型，标志着具身智能大模型迈入全新阶段，从视觉语言模型向具身原生方向演进。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3186a50996a59852",
+    "date": "2026-07-11",
+    "title": "三星研发AI PC加速芯片GAIA，已向联想惠普提供样片",
+    "summary": "三星电子正研发AI PC加速芯片GAIA，采用4纳米制程和NPU，支持存算一体技术，计划明年量产，已向联想和惠普提供原型产品进行性能测试。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2026a51974e91152",
     "source": "企鹅号",
-    "slug": "ant-lingbot-va2"
+    "slug": "samsung-gaia-ai-pc-chip"
   },
   {
-    "date": "2026-07-10",
-    "title": "工信部：今年人形机器人整机产量有望突破10万台",
-    "summary": "工信部科技司副司长甘小斌在WAIC 2026新闻发布会上表示，我国大模型、智能体等加速迭代，今年人形机器人全年整机产量有望突破10万台。",
-    "url": "http://www.xbxxb.com/kj/1.html",
-    "source": "经济参考报",
-    "slug": "humanoid-robot-100k"
+    "date": "2026-07-11",
+    "title": "上纬新材将推出首个可变形个人机器人启元T1",
+    "summary": "上纬新材将在WAIC 2026期间推出可变形机器人启元T1，可实现轮足人形与四足自动切换变形，具备拍摄运镜和智能交互陪伴功能。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2026a51974e91152",
+    "source": "界面新闻",
+    "slug": "shangwei-qiyuan-t1"
   },
   {
-    "date": "2026-07-10",
-    "title": "2026中国互联网大会在京开幕，Token为核心的算力博弈重构商业逻辑",
-    "summary": "为期三天的2026中国互联网大会在北京国家会议中心开幕，业内普遍认为流量时代已翻篇，以Token为核心的算力博弈正在重构一切商业底层逻辑。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9006a50a84b06352",
+    "date": "2026-07-11",
+    "title": "腾讯WorkBuddy通过信通院首批智能体治理评估认证",
+    "summary": "腾讯WorkBuddy等产品通过了中国信息通信研究院首批类Claw智能体系列治理评估认证，全国首个WorkBuddy OPC合作社区也在成都高新区启动。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5566a51aa9759965",
     "source": "企鹅号",
-    "slug": "internet-conference-2026"
+    "slug": "workbuddy-certification"
   },
   {
     "date": "2026-07-10",
-    "title": "云天励飞IFWA软件栈完成腾讯混元Hy3关键链路适配验证",
-    "summary": "腾讯混元团队开源新一代大语言模型Hy3，云天励飞基于自研IFWA软件栈在DeepVerse云端芯片验证平台上完成Hy3模型结构接入与关键推理链路功能验证。",
+    "title": "宇信科技中标银行智能知识助手系统项目",
+    "summary": "宇信科技7月10日公告中标某股份制银行智能知识助手应用系统新建项目，标志着金融领域智能体应用从概念验证进入实质落地阶段。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5566a51aa9759965",
+    "source": "企鹅号",
+    "slug": "yusun-bank-ai-assistant"
+  },
+  {
+    "date": "2026-07-11",
+    "title": "2026开放计算技术大会在京举行，聚焦AI基建新前沿",
+    "summary": "大会由OCP开放计算社区与OCTC联合主办，围绕万亿参数大模型和多智能体协作带来的Token指数级增长，探讨高速互连、液冷散热等AI基础设施创新。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4126a51a77759452",
+    "source": "中国新闻网",
+    "slug": "open-compute-ai-infra-2026"
+  },
+  {
+    "date": "2026-07-11",
+    "title": "联想BW 2026史上最大规模参展，天禧AI全场景生态亮相",
+    "summary": "联想在Bilibili World 2026以史上最大规模参展，携多款AI新品和2026世界杯限量版全家桶，在三大展馆同步展示天禧AI生态布局。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4326a519a3a44452",
+    "source": "企鹅号",
+    "slug": "lenovo-bw-2026"
+  },
+  {
+    "date": "2026-07-11",
+    "title": "宇树科技人形机器人线下店落地福州厦门",
+    "summary": "宇树科技以具身智能为支点，在福州厦门开设线下体验店，人形机器人R1可完成侧手翻，四足机器狗Go2展示仿生步态，主打教育科研场景。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8276a51bfa790952",
+    "source": "企鹅号",
+    "slug": "unitree-offline-store"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "Insta360发布AI摄影师机器人愿景，全景无人机为早期原型",
+    "summary": "全景相机品牌Insta360在创立11周年之际公布AI摄影师机器人「Cameraman」概念，具备自主拍摄能力的AI智能体，全景无人机将作为早期原型形态之一。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0946a50cf5c68052",
+    "source": "企鹅号",
+    "slug": "insta360-cameraman"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "WAIC首设AI影视专场，万兴科技生数科技联合承办",
+    "summary": "2026世界人工智能大会首次设立AI影视专场，定档7月20日，由万兴科技和生数科技联合承办，聚焦AI在影视制作领域的创新应用。",
     "url": "https://www.admin5.com/tech/",
     "source": "A5创业网",
-    "slug": "yuntianlifei-hunyuan-hy3"
+    "slug": "waic-ai-film-special"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "国际舆论：中国AI成全球人工智能发展新选择",
+    "summary": "国际舆论认为中国AI模型走出独特发展道路，为全球尤其是欧洲市场带来全新选择与机遇。此前《纽约时报》曾指出硅谷陷入对中国AI发展实力的复杂情绪。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6146a510ac000352",
+    "source": "中国网",
+    "slug": "china-ai-global-choice"
   }
 ]
