@@ -2,113 +2,121 @@
   {
     "date": "2026-07-11",
     "title": "Google DeepMind发布Gemma 4：31B模型直逼闭源前沿，全面开源",
-    "summary": "Google DeepMind正式公布Gemma 4技术报告，全系Apache 2.0彻底开源，被业界评论为发起了一场端侧对云端的焦土战争，正在敲响云端API溢价的丧钟。",
+    "summary": "Google DeepMind公布Gemma 4技术报告，12B模型实现端到端原生多模态，31B Thinking模型在GPQA Diamond基准上得84.3%，全系Apache 2.0彻底开源，业界评论称Google发起了一场'端侧对云端的焦土战争'。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0056a5210d787952",
-    "source": "腾讯新闻",
+    "source": "潮新闻",
     "slug": "google-gemma-4-open-source"
   },
   {
     "date": "2026-07-11",
-    "title": "Grok 4.5上线数小时遭黑客攻破，安全护栏形同虚设",
-    "summary": "马斯克旗下xAI发布1.5万亿参数旗舰模型Grok 4.5，上线仅数小时即被黑客Pliny the Liberator利用学术重构式提示词攻击成功越狱，输出制毒、炸弹制造等高危实操指南。",
+    "title": "xAI Grok 4.5上线数小时遭黑客攻破，安全护栏形同虚设",
+    "summary": "马斯克旗下xAI发布1.5万亿参数旗舰模型Grok 4.5，上线仅数小时即被黑客Pliny the Liberator利用'学术重构'式提示词攻击成功越狱，输出制毒、炸弹制造等高危实操指南。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0056a5210d787952",
-    "source": "腾讯新闻",
+    "source": "潮新闻",
     "slug": "grok-4-5-hacked"
   },
   {
     "date": "2026-07-11",
-    "title": "Science报道：AI智能体自主实验效率提升近百倍",
-    "summary": "AI智能体已能自主进行科学实验，在40分钟内完成通常需要人类60小时才能完成的实验工作，标志着AI智能体从辅助工具向自主科研助手跨越。宇信科技中标银行智能知识助手项目，金融领域智能体应用进入实质落地阶段。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5566a51aa9759965",
-    "source": "腾讯新闻",
-    "slug": "ai-agent-science-automation"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "2026世界人工智能大会7月17日上海开幕，展览面积首破10万平米",
-    "summary": "WAIC 2026将于7月17日至20日在上海世博、张江、西岸三大片区举办，1100余家企业参展、3000余项展品、超300款产品全球首发，首次举办人工智能学术会议，由图灵奖得主、中外院士领衔。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7806a51ac9577452",
-    "source": "腾讯新闻",
-    "slug": "waic-2026-shanghai-preview"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "APEC数字和人工智能部长会议7月23日在成都举行",
-    "summary": "工信部宣布APEC 2026年数字和人工智能部长会议将于7月23日在四川成都举行，主题为数字和人工智能技术赋能亚太共同体，各经济体相关部长将围绕数字赋能、数字连接、数字包容等议题开展交流。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0676a50d0bd84252",
-    "source": "腾讯新闻",
-    "slug": "apec-ai-ministerial-chengdu"
-  },
-  {
-    "date": "2026-07-10",
-    "title": "外媒：中国AI产业生态成熟，成全球人工智能发展新选择",
-    "summary": "国际舆论认为中国AI模型走出独特发展道路，为全球尤其是欧洲市场带来全新机遇。德国焦点杂志评论认为欧洲不应排斥中国AI技术和产品，波士顿咨询报告指出中国AI发展速度极快，已搭建起独立完整的AI产业生态。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6146a510ac000352",
-    "source": "中国网",
-    "slug": "china-ai-global-choice"
+    "title": "苹果起诉OpenAI系统性窃取商业机密，涉超400名前员工",
+    "summary": "苹果公司正式起诉OpenAI，指控其通过雇用超400名苹果前员工、挖角供应商等手段系统性窃取商业机密，包括金属表面处理技术等。此次诉讼可能影响OpenAI的IPO进程。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0056a5210d787952",
+    "source": "潮新闻",
+    "slug": "apple-sues-openai"
   },
   {
     "date": "2026-07-11",
-    "title": "三星研发AI PC加速芯片GAIA，已向联想、惠普送样测试",
-    "summary": "三星电子正在研发一款名为GAIA的AI PC加速芯片，采用4纳米制程工艺，搭载NPU面向生成式AI任务，并设计支持存算一体(PIM)技术，计划明年开始量产。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2026a51974e91152",
-    "source": "腾讯新闻",
-    "slug": "samsung-gaia-ai-pc-chip"
+    "title": "SK海力士纳斯达克上市首日涨近13%，募资265亿美元创纪录",
+    "summary": "韩国半导体巨头SK海力士在纳斯达克上市，发行价149美元，募资265亿美元，超越阿里巴巴2014年纪录，成为美国资本市场史上最大规模外国企业IPO。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1926a519d6392952",
+    "source": "36氪",
+    "slug": "sk-hynix-nasdaq-ipo"
   },
   {
-    "date": "2026-07-10",
-    "title": "Meta首次对AI模型收费：发布Muse Spark 1.1付费版本",
-    "summary": "扎克伯格为Meta付费人工智能工具制定激进价格策略，发布最先进AI模型Muse Spark 1.1并首次面向开发者推出付费版本，号称将成为市场价格最低的选择之一。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2026a51974e91152",
-    "source": "腾讯新闻",
-    "slug": "meta-muse-spark-paid"
+    "date": "2026-07-11",
+    "title": "OpenAI推出ChatGPT Work企业级AI智能体，由GPT-5.6驱动",
+    "summary": "OpenAI发布企业级超级应用ChatGPT Work，能自主拆解任务、操作应用程序、处理复杂文件并持续工作数小时。英伟达已用其将GTC大会筹备中40%的Excel手工操作转为自动化流程。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0056a5210d787952",
+    "source": "潮新闻",
+    "slug": "openai-chatgpt-work"
   },
   {
-    "date": "2026-07-10",
-    "title": "上纬新材将在WAIC发布可变形个人机器人启元T1",
-    "summary": "上纬新材将在WAIC期间推出首个可变形个人机器人启元T1，基于一个本体可实现轮足人形与四足两种形态自动切换变形，具备拍摄运镜功能，在智能交互与陪伴方面有突破性进展。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2026a51974e91152",
-    "source": "界面新闻",
-    "slug": "shangwei-qiyuan-t1-robot"
+    "date": "2026-07-11",
+    "title": "OpenAI全面开放GPT-5.6全系列模型：Sol、Terra、Luna",
+    "summary": "OpenAI正式向全球用户开放GPT-5.6全系列模型，旗舰版Sol在Terminal-Bench 2.1编程基准测试中得分91.9%，将Anthropic Claude Fable 5甩开超8个百分点。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0616a520e1a90852",
+    "source": "企鹅号",
+    "slug": "gpt-5-6-series"
   },
   {
-    "date": "2026-07-09",
-    "title": "AI驱动存储超级周期：国产存储双雄业绩爆发",
-    "summary": "长鑫科技从年亏百亿元到日赚3亿元，长江存储以1600亿元估值冲刺IPO，全球存储行业迎来AI算力需求驱动的超级景气周期，以存储双雄为核心的产业集群加速成型。",
-    "url": "http://www.xbxxb.com/kj/1.html",
-    "source": "经济参考报",
-    "slug": "china-storage-ai-supercycle"
+    "date": "2026-07-12",
+    "title": "阿里达摩院发布超导材料发现AI智能体ElementsClaw",
+    "summary": "阿里达摩院等团队发布行业内首个超导材料发现AI智能体ElementsClaw，仅用28个GPU小时完成240万晶体结构筛选，预测出6.8万个超导候选材料，AI正颠覆材料研发范式。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6746a5293b337352",
+    "source": "企鹅号",
+    "slug": "damao-academy-elementsclaw"
   },
   {
-    "date": "2026-07-10",
-    "title": "中国团队包揽AI与太空计算挑战赛全部三个赛道金奖",
-    "summary": "全球首个太空计算主题国际赛事人工智能与太空计算挑战赛在日内瓦2026年人工智能造福人类全球峰会上揭晓，来自中国的科研团队获得所有三个赛道的金奖。",
-    "url": "http://www.xbxxb.com/kj/1.html",
-    "source": "西北在线",
-    "slug": "china-space-ai-challenge-gold"
+    "date": "2026-07-11",
+    "title": "2026世界人工智能大会7月17日上海开幕，超300款新品全球首发",
+    "summary": "WAIC 2026将于7月17日至20日在上海世博、张江、西岸三大片区举办，1100余家企业参展，3000余项展品，首次举办人工智能学术会议，由图灵奖得主、中外院士领衔。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8266a52442286765",
+    "source": "企鹅号",
+    "slug": "waic-2026-preview"
   },
   {
-    "date": "2026-07-10",
-    "title": "华为Atlas 950超节点亮相WAIC，国产算力迈向系统竞争",
-    "summary": "华为Atlas 950超节点将在WAIC 2026亮相，体现国产算力正从单卡、单服务器竞争升级到超节点、万卡集群与系统工程能力竞争。近存计算3D芯片也将作为重要新品亮相。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7696a50c48198452",
-    "source": "国泰海通",
-    "slug": "huawei-atlas-950-waic"
+    "date": "2026-07-11",
+    "title": "阶跃星辰与努比亚将发布全球首款AI智能体手机",
+    "summary": "阶跃星辰将于7月13日发布AI终端品牌、AI智能体系统及全球首款AI智能体手机，努比亚也将同步推出AI智能体手机，两款手机都将亮相2026世界人工智能大会。",
+    "url": "https://www.eefocus.com/article/",
+    "source": "与非网",
+    "slug": "stepfun-nubia-ai-agent-phone"
   },
   {
-    "date": "2026-07-10",
-    "title": "中国科研机构主导的大模型成果首次登上Nature",
-    "summary": "我国科研机构主导的大模型成果首次登上Nature，核心命题是能否用一种统一的方式让机器同时学会看、听、说、写乃至行动，这是整个AI领域过去五年来悬而未决的核心问题。",
-    "url": "https://www.guancha.cn/gongye%c2%b7keji?s=dhgongye%c2%b7keji",
-    "source": "观察者网",
-    "slug": "china-ai-nature-publication"
+    "date": "2026-07-11",
+    "title": "欧美企业加速向中国AI基础设施迁移，DeepSeek连续七周登顶",
+    "summary": "Coinbase、Lindy等海外企业转向中国AI大模型，更换后推理成本降幅达30%-95%。美国初创公司Lindy因'API费用超过全员工资'全面切换至DeepSeek，中国AI大模型正加速进入海外企业基础设施层。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6736a51f55279652",
+    "source": "每日经济新闻",
+    "slug": "western-firms-china-ai-migration"
   },
   {
-    "date": "2026-07-10",
-    "title": "山东发布人工智能+制造百景百模清单",
-    "summary": "山东省发布首批100个重点建设人工智能+制造应用场景和100个重点推广垂直领域大模型，人工智能技术加速融入千行百业，赋能新型工业化进程。",
-    "url": "https://view.inews.qq.com/a/20260710A0CT8G00",
-    "source": "腾讯网",
-    "slug": "shandong-ai-manufacturing"
+    "date": "2026-07-11",
+    "title": "中国信通院发布AI基础设施领域两项评测基准",
+    "summary": "中国信通院正式发布AISHPerf人工智能软硬件基准体系3.0版本，包含智算运维智能体评测基准及算子生成智能体评测基准，无问芯穹作为重点技术支持方参与构建。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8356a520b7f11452",
+    "source": "企鹅号",
+    "slug": "aishperf-benchmark-v3"
+  },
+  {
+    "date": "2026-07-11",
+    "title": "CCF走进智脑工场：顶尖学者共探下一代AI路径与类脑智能",
+    "summary": "中国计算机学会（CCF）走进智脑工场专题活动在长阳创谷举行，聚焦下一代AI路径与类脑智能前沿探索，来自高校、实验室的专家学者共同探寻AI高质量发展的新路径。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6656a52092919252",
+    "source": "企鹅号",
+    "slug": "ccf-brain-inspired-ai"
+  },
+  {
+    "date": "2026-07-11",
+    "title": "Momenta登陆港股成为'物理AI第一股'，市值突破700亿港元",
+    "summary": "Momenta成功登陆港股，成为'物理AI第一股'，市值突破700亿港元，其'物理AI'叙事受到资本市场关注。",
+    "url": "https://www.eefocus.com/article/",
+    "source": "与非网",
+    "slug": "momenta-hk-ipo"
+  },
+  {
+    "date": "2026-07-11",
+    "title": "2026人工智能终端产品博览会在南京举行",
+    "summary": "2026人工智能终端产品博览会在南京国际博览会议中心开幕，以'智能终端、智慧生活'为主题，集中展示人工智能前沿技术与尖端产品。江苏中行发布科技金融服务AI产业链实践成果。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9146a521b3c96652",
+    "source": "企鹅号",
+    "slug": "ai-terminal-expo-nanjing"
+  },
+  {
+    "date": "2026-07-11",
+    "title": "中国超算重回世界第一，'曙光8000'全国产十万卡AI超集群落成",
+    "summary": "中国首个全国产十万卡AI超集群'曙光8000'正式落成，实现全类型计算原生一体化融合，中国超算重回世界第一。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8266a52442286765",
+    "source": "企鹅号",
+    "slug": "china-sugon-8000-supercluster"
   }
 ]
