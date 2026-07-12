@@ -1,122 +1,114 @@
 [
   {
-    "date": "2026-07-11",
-    "title": "Google DeepMind发布Gemma 4：31B模型直逼闭源前沿，全面开源",
-    "summary": "Google DeepMind公布Gemma 4技术报告，12B模型实现端到端原生多模态，31B Thinking模型在GPQA Diamond基准上得84.3%，全系Apache 2.0彻底开源，业界评论称Google发起了一场'端侧对云端的焦土战争'。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0056a5210d787952",
-    "source": "潮新闻",
-    "slug": "google-gemma-4-open-source"
-  },
-  {
-    "date": "2026-07-11",
-    "title": "xAI Grok 4.5上线数小时遭黑客攻破，安全护栏形同虚设",
-    "summary": "马斯克旗下xAI发布1.5万亿参数旗舰模型Grok 4.5，上线仅数小时即被黑客Pliny the Liberator利用'学术重构'式提示词攻击成功越狱，输出制毒、炸弹制造等高危实操指南。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0056a5210d787952",
-    "source": "潮新闻",
-    "slug": "grok-4-5-hacked"
-  },
-  {
-    "date": "2026-07-11",
-    "title": "苹果起诉OpenAI系统性窃取商业机密，涉超400名前员工",
-    "summary": "苹果公司正式起诉OpenAI，指控其通过雇用超400名苹果前员工、挖角供应商等手段系统性窃取商业机密，包括金属表面处理技术等。此次诉讼可能影响OpenAI的IPO进程。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0056a5210d787952",
-    "source": "潮新闻",
-    "slug": "apple-sues-openai"
-  },
-  {
-    "date": "2026-07-11",
-    "title": "SK海力士纳斯达克上市首日涨近13%，募资265亿美元创纪录",
-    "summary": "韩国半导体巨头SK海力士在纳斯达克上市，发行价149美元，募资265亿美元，超越阿里巴巴2014年纪录，成为美国资本市场史上最大规模外国企业IPO。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1926a519d6392952",
-    "source": "36氪",
-    "slug": "sk-hynix-nasdaq-ipo"
-  },
-  {
-    "date": "2026-07-11",
-    "title": "OpenAI推出ChatGPT Work企业级AI智能体，由GPT-5.6驱动",
-    "summary": "OpenAI发布企业级超级应用ChatGPT Work，能自主拆解任务、操作应用程序、处理复杂文件并持续工作数小时。英伟达已用其将GTC大会筹备中40%的Excel手工操作转为自动化流程。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0056a5210d787952",
-    "source": "潮新闻",
-    "slug": "openai-chatgpt-work"
-  },
-  {
-    "date": "2026-07-11",
-    "title": "OpenAI全面开放GPT-5.6全系列模型：Sol、Terra、Luna",
-    "summary": "OpenAI正式向全球用户开放GPT-5.6全系列模型，旗舰版Sol在Terminal-Bench 2.1编程基准测试中得分91.9%，将Anthropic Claude Fable 5甩开超8个百分点。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0616a520e1a90852",
+    "date": "2026-07-12",
+    "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明50年数学猜想",
+    "summary": "OpenAI于7月10日宣布，GPT-5.6 Sol Ultra模型在不到1小时内成功生成了图论领域悬而未决50多年的「循环双覆盖猜想」完整证明，调用64个并行子智能体并设「对抗智能体」查漏。该证明尚未经过正式同行评审。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4806a53684098052",
     "source": "企鹅号",
-    "slug": "gpt-5-6-series"
+    "slug": "openai-gpt5-6-math-proof"
   },
   {
     "date": "2026-07-12",
-    "title": "阿里达摩院发布超导材料发现AI智能体ElementsClaw",
-    "summary": "阿里达摩院等团队发布行业内首个超导材料发现AI智能体ElementsClaw，仅用28个GPU小时完成240万晶体结构筛选，预测出6.8万个超导候选材料，AI正颠覆材料研发范式。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6746a5293b337352",
+    "title": "Google DeepMind发布Gemma 4：端侧原生多模态，全系开源",
+    "summary": "谷歌DeepMind发布Gemma 4系列，全系Apache 2.0开源。Gemma 4砍掉传统视觉与音频编码器，仅保留极简投影层，将原始像素和波形直接投影至LLM统一嵌入空间，消费级显卡乃至MacBook可本地实时跑通音画文三位一体交互。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4806a53684098052",
     "source": "企鹅号",
-    "slug": "damao-academy-elementsclaw"
+    "slug": "google-gemma4-multimodal"
   },
   {
-    "date": "2026-07-11",
-    "title": "2026世界人工智能大会7月17日上海开幕，超300款新品全球首发",
-    "summary": "WAIC 2026将于7月17日至20日在上海世博、张江、西岸三大片区举办，1100余家企业参展，3000余项展品，首次举办人工智能学术会议，由图灵奖得主、中外院士领衔。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8266a52442286765",
+    "date": "2026-07-12",
+    "title": "「世界模型」赛道爆发：半年超400亿资金涌入，中国46起融资",
+    "summary": "2026年上半年全球「世界模型」赛道融资爆发，中国46起融资超400亿元涌入，33家企业密集抢跑，超10家估值破百亿。OpenAI将Sora升级为世界模型路线，英伟达发布Cosmos平台押注物理AI，特斯拉FSD V13核心正是世界模型架构。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4806a53684098052",
     "source": "企鹅号",
-    "slug": "waic-2026-preview"
+    "slug": "world-model-funding-boom"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "腾讯混元Hy3正式版发布，元宝App接入免费Agent功能",
+    "summary": "7月6日，腾讯正式发布基座模型混元Hy3正式版，重点强化Agent（智能体）能力，幻觉率显著降低。同日，腾讯元宝App接入混元3并上线免费Agent功能。这是腾讯首席AI科学家姚顺雨接管大模型研发后的重要成果。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5246a535d1919152",
+    "source": "企鹅号",
+    "slug": "tencent-hunyuan3-agent"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "摩尔线程MTT AICUBE开售：家庭AI中枢，9999元起",
+    "summary": "摩尔线程首款家庭AI中枢产品MTT AICUBE于7月9日正式开售，搭载自研「长江」智能SoC芯片（50TOPS算力），32GB统一内存+1TB SSD，内置全域智能体「小麦」支持声音克隆与形象定制，高频工具调用成功率超95%，售价9999元起。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5246a535d1919152",
+    "source": "企鹅号",
+    "slug": "moore-threads-aicube"
   },
   {
     "date": "2026-07-11",
-    "title": "阶跃星辰与努比亚将发布全球首款AI智能体手机",
-    "summary": "阶跃星辰将于7月13日发布AI终端品牌、AI智能体系统及全球首款AI智能体手机，努比亚也将同步推出AI智能体手机，两款手机都将亮相2026世界人工智能大会。",
-    "url": "https://www.eefocus.com/article/",
-    "source": "与非网",
-    "slug": "stepfun-nubia-ai-agent-phone"
+    "title": "快手可灵联合港中文发布ShotStream：实时流式多镜头长视频生成",
+    "summary": "7月11日，香港中文大学与快手可灵团队联合提出首个实时流式多镜头长视频生成框架ShotStream，在单张H200 GPU上实现16 FPS推理速度，相较双向模型效率提升25倍以上。该工作已被ECCV 2026接收并开源。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5246a535d1919152",
+    "source": "企鹅号",
+    "slug": "kuaishou-shotstream"
   },
   {
-    "date": "2026-07-11",
-    "title": "欧美企业加速向中国AI基础设施迁移，DeepSeek连续七周登顶",
-    "summary": "Coinbase、Lindy等海外企业转向中国AI大模型，更换后推理成本降幅达30%-95%。美国初创公司Lindy因'API费用超过全员工资'全面切换至DeepSeek，中国AI大模型正加速进入海外企业基础设施层。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6736a51f55279652",
+    "date": "2026-07-12",
+    "title": "英国投20亿英镑建设人工智能作战实验室",
+    "summary": "英国国防部7月11日推出AI作战实验室建设计划，投入20亿英镑（约182亿元人民币），由本土多家防务企业组成联合体承研，同步推出青年技术学徒项目并为退役军人开辟技术就业路径。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7146a53539a55552",
+    "source": "财联社",
+    "slug": "uk-ai-warfare-lab"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "南方电网三项AI成果亮相全球峰会，斩获国际大奖",
+    "summary": "7月7日在瑞士日内瓦人工智能向善全球峰会上，南方电网「大瓦特·云睿」配电网智能体及电力具身大模型驱动机器人自主作业两项成果从全球400份申报案例中胜出，斩获「创新扩大影响」优秀案例奖。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1916a53287757952",
+    "source": "企鹅号",
+    "slug": "csg-ai-global-summit"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "联通研究院发布《新一代AI计算基础设施白皮书》",
+    "summary": "联通研究院发布白皮书揭示国内AI算力底座，提出三层算力架构与五大核心技术，解决异构算力兼容、高速无损网络、数据安全等行业痛点，并推出双模式算力服务满足企业需求。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3936a53159414252",
+    "source": "企鹅号",
+    "slug": "china-unicom-ai-whitepaper"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "阶跃星辰拟进军终端，即将推出首款AI智能体手机",
+    "summary": "知情人士透露，国内大模型企业阶跃星辰即将发布AI终端品牌并推出全球首款AI智能体手机。阶跃星辰B+轮融资中全球手机ODM华勤技术已成为投资方之一。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9146a536ac351252",
     "source": "每日经济新闻",
-    "slug": "western-firms-china-ai-migration"
+    "slug": "stepfun-ai-phone"
   },
   {
-    "date": "2026-07-11",
-    "title": "中国信通院发布AI基础设施领域两项评测基准",
-    "summary": "中国信通院正式发布AISHPerf人工智能软硬件基准体系3.0版本，包含智算运维智能体评测基准及算子生成智能体评测基准，无问芯穹作为重点技术支持方参与构建。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8356a520b7f11452",
+    "date": "2026-07-17",
+    "title": "WAIC 2026前瞻：百度AI智能体全家桶即将「上新」",
+    "summary": "世界人工智能大会WAIC 2026将于7月17-20日在上海开幕，百度AI将携智能体全家桶重磅亮相，百度「芯云模体」全栈AI产品矩阵也将在现场发布新升级，集中展示从底层技术到产业场景的规模化落地进展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6186a533dfd12952",
     "source": "企鹅号",
-    "slug": "aishperf-benchmark-v3"
+    "slug": "waic-2026-baidu-agent"
   },
   {
-    "date": "2026-07-11",
-    "title": "CCF走进智脑工场：顶尖学者共探下一代AI路径与类脑智能",
-    "summary": "中国计算机学会（CCF）走进智脑工场专题活动在长阳创谷举行，聚焦下一代AI路径与类脑智能前沿探索，来自高校、实验室的专家学者共同探寻AI高质量发展的新路径。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6656a52092919252",
+    "date": "2026-07-12",
+    "title": "四部委联合印发「人工智能+人社」实施意见",
+    "summary": "人社部、发改委、工信部、国家数据局联合印发《关于加快推进「人工智能+人社」应用发展的实施意见》，明确2026年建成应用基础设施、2027年规模化普及行业大模型、2030年全域创新三阶段目标。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7406a535d4818852",
     "source": "企鹅号",
-    "slug": "ccf-brain-inspired-ai"
+    "slug": "ai-social-security-policy"
   },
   {
-    "date": "2026-07-11",
-    "title": "Momenta登陆港股成为'物理AI第一股'，市值突破700亿港元",
-    "summary": "Momenta成功登陆港股，成为'物理AI第一股'，市值突破700亿港元，其'物理AI'叙事受到资本市场关注。",
-    "url": "https://www.eefocus.com/article/",
-    "source": "与非网",
-    "slug": "momenta-hk-ipo"
+    "date": "2026-07-12",
+    "title": "中国互联网大会闭幕：杨杰称数据成为AI「燃料」",
+    "summary": "2026中国互联网大会在北京闭幕，中国互联网协会理事长杨杰指出，数据已成为人工智能的「燃料」，高质量数据供给能力持续提升正推动AI从「能用」向「好用」跃升。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6806a534d9b27452",
+    "source": "中新网",
+    "slug": "china-internet-conference-data-ai"
   },
   {
-    "date": "2026-07-11",
-    "title": "2026人工智能终端产品博览会在南京举行",
-    "summary": "2026人工智能终端产品博览会在南京国际博览会议中心开幕，以'智能终端、智慧生活'为主题，集中展示人工智能前沿技术与尖端产品。江苏中行发布科技金融服务AI产业链实践成果。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9146a521b3c96652",
-    "source": "企鹅号",
-    "slug": "ai-terminal-expo-nanjing"
-  },
-  {
-    "date": "2026-07-11",
-    "title": "中国超算重回世界第一，'曙光8000'全国产十万卡AI超集群落成",
-    "summary": "中国首个全国产十万卡AI超集群'曙光8000'正式落成，实现全类型计算原生一体化融合，中国超算重回世界第一。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8266a52442286765",
-    "source": "企鹅号",
-    "slug": "china-sugon-8000-supercluster"
+    "date": "2026-07-13",
+    "title": "香港HKGAI发布生产力级超级智能体Agent Workshop",
+    "summary": "香港科技大学首席副校长、HKGAI主任郭毅可带领团队演示了香港首个生产力级超级智能体「Agent Workshop」，致力于让人工智能惠及每一位香港市民。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3116a54116852752",
+    "source": "人民日报",
+    "slug": "hkgai-agent-workshop"
   }
 ]
