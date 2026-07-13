@@ -1,114 +1,106 @@
 [
   {
-    "date": "2026-07-12",
-    "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明50年数学猜想",
-    "summary": "OpenAI于7月10日宣布，GPT-5.6 Sol Ultra模型在不到1小时内成功生成了图论领域悬而未决50多年的「循环双覆盖猜想」完整证明，调用64个并行子智能体并设「对抗智能体」查漏。该证明尚未经过正式同行评审。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4806a53684098052",
-    "source": "企鹅号",
-    "slug": "openai-gpt5-6-math-proof"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "Google DeepMind发布Gemma 4：端侧原生多模态，全系开源",
-    "summary": "谷歌DeepMind发布Gemma 4系列，全系Apache 2.0开源。Gemma 4砍掉传统视觉与音频编码器，仅保留极简投影层，将原始像素和波形直接投影至LLM统一嵌入空间，消费级显卡乃至MacBook可本地实时跑通音画文三位一体交互。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4806a53684098052",
-    "source": "企鹅号",
-    "slug": "google-gemma4-multimodal"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "「世界模型」赛道爆发：半年超400亿资金涌入，中国46起融资",
-    "summary": "2026年上半年全球「世界模型」赛道融资爆发，中国46起融资超400亿元涌入，33家企业密集抢跑，超10家估值破百亿。OpenAI将Sora升级为世界模型路线，英伟达发布Cosmos平台押注物理AI，特斯拉FSD V13核心正是世界模型架构。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4806a53684098052",
-    "source": "企鹅号",
-    "slug": "world-model-funding-boom"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "腾讯混元Hy3正式版发布，元宝App接入免费Agent功能",
-    "summary": "7月6日，腾讯正式发布基座模型混元Hy3正式版，重点强化Agent（智能体）能力，幻觉率显著降低。同日，腾讯元宝App接入混元3并上线免费Agent功能。这是腾讯首席AI科学家姚顺雨接管大模型研发后的重要成果。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5246a535d1919152",
-    "source": "企鹅号",
-    "slug": "tencent-hunyuan3-agent"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "摩尔线程MTT AICUBE开售：家庭AI中枢，9999元起",
-    "summary": "摩尔线程首款家庭AI中枢产品MTT AICUBE于7月9日正式开售，搭载自研「长江」智能SoC芯片（50TOPS算力），32GB统一内存+1TB SSD，内置全域智能体「小麦」支持声音克隆与形象定制，高频工具调用成功率超95%，售价9999元起。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5246a535d1919152",
-    "source": "企鹅号",
-    "slug": "moore-threads-aicube"
-  },
-  {
-    "date": "2026-07-11",
-    "title": "快手可灵联合港中文发布ShotStream：实时流式多镜头长视频生成",
-    "summary": "7月11日，香港中文大学与快手可灵团队联合提出首个实时流式多镜头长视频生成框架ShotStream，在单张H200 GPU上实现16 FPS推理速度，相较双向模型效率提升25倍以上。该工作已被ECCV 2026接收并开源。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5246a535d1919152",
-    "source": "企鹅号",
-    "slug": "kuaishou-shotstream"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "英国投20亿英镑建设人工智能作战实验室",
-    "summary": "英国国防部7月11日推出AI作战实验室建设计划，投入20亿英镑（约182亿元人民币），由本土多家防务企业组成联合体承研，同步推出青年技术学徒项目并为退役军人开辟技术就业路径。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7146a53539a55552",
-    "source": "财联社",
-    "slug": "uk-ai-warfare-lab"
-  },
-  {
-    "date": "2026-07-07",
-    "title": "南方电网三项AI成果亮相全球峰会，斩获国际大奖",
-    "summary": "7月7日在瑞士日内瓦人工智能向善全球峰会上，南方电网「大瓦特·云睿」配电网智能体及电力具身大模型驱动机器人自主作业两项成果从全球400份申报案例中胜出，斩获「创新扩大影响」优秀案例奖。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1916a53287757952",
-    "source": "企鹅号",
-    "slug": "csg-ai-global-summit"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "联通研究院发布《新一代AI计算基础设施白皮书》",
-    "summary": "联通研究院发布白皮书揭示国内AI算力底座，提出三层算力架构与五大核心技术，解决异构算力兼容、高速无损网络、数据安全等行业痛点，并推出双模式算力服务满足企业需求。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3936a53159414252",
-    "source": "企鹅号",
-    "slug": "china-unicom-ai-whitepaper"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "阶跃星辰拟进军终端，即将推出首款AI智能体手机",
-    "summary": "知情人士透露，国内大模型企业阶跃星辰即将发布AI终端品牌并推出全球首款AI智能体手机。阶跃星辰B+轮融资中全球手机ODM华勤技术已成为投资方之一。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9146a536ac351252",
-    "source": "每日经济新闻",
-    "slug": "stepfun-ai-phone"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "WAIC 2026前瞻：百度AI智能体全家桶即将「上新」",
-    "summary": "世界人工智能大会WAIC 2026将于7月17-20日在上海开幕，百度AI将携智能体全家桶重磅亮相，百度「芯云模体」全栈AI产品矩阵也将在现场发布新升级，集中展示从底层技术到产业场景的规模化落地进展。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6186a533dfd12952",
-    "source": "企鹅号",
-    "slug": "waic-2026-baidu-agent"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "四部委联合印发「人工智能+人社」实施意见",
-    "summary": "人社部、发改委、工信部、国家数据局联合印发《关于加快推进「人工智能+人社」应用发展的实施意见》，明确2026年建成应用基础设施、2027年规模化普及行业大模型、2030年全域创新三阶段目标。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7406a535d4818852",
-    "source": "企鹅号",
-    "slug": "ai-social-security-policy"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "中国互联网大会闭幕：杨杰称数据成为AI「燃料」",
-    "summary": "2026中国互联网大会在北京闭幕，中国互联网协会理事长杨杰指出，数据已成为人工智能的「燃料」，高质量数据供给能力持续提升正推动AI从「能用」向「好用」跃升。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6806a534d9b27452",
-    "source": "中新网",
-    "slug": "china-internet-conference-data-ai"
+    "date": "2026-07-13",
+    "title": "WAIC 2026本週開幕：展覽首破10萬平米，超300款產品全球首發",
+    "summary": "2026世界人工智能大會暨人工智能全球治理高級別會議將於7月17日至20日在上海舉辦，主題為「智能夥伴 共創未來」。本屆策劃論壇140餘場，展覽總面積首次突破10萬平方米，超300款產品將全球首發。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7256a54618965452",
+    "source": "央視新聞",
+    "slug": "waic-2026-shanghai-preview"
   },
   {
     "date": "2026-07-13",
-    "title": "香港HKGAI发布生产力级超级智能体Agent Workshop",
-    "summary": "香港科技大学首席副校长、HKGAI主任郭毅可带领团队演示了香港首个生产力级超级智能体「Agent Workshop」，致力于让人工智能惠及每一位香港市民。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3116a54116852752",
-    "source": "人民日报",
-    "slug": "hkgai-agent-workshop"
+    "title": "多家歐美企業全面切換中國大模型，推理成本降幅達30%～95%",
+    "summary": "加密貨幣交易平台Coinbase將DeepSeek定為工程師默認工具，美國初創公司Lindy全面切換至DeepSeek。歐美多國AI、律所、教育類企業更換中國大模型後，推理成本降幅達30%～95%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2936a5439e906752",
+    "source": "每日經濟新聞",
+    "slug": "overseas-firms-switch-china-ai"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "聯合國首屆AI治理全球對話在日內瓦舉行，中國方案獲廣泛認同",
+    "summary": "首屆聯合國人工智能治理全球對話及AI造福人類全球峰會在瑞士日內瓦舉行。中國以硬核技術產品、包容性治理方案和開放合作倡議，展現促進AI向善普惠發展的中國智慧，得到與會代表廣泛認同。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0076a534f4b80152",
+    "source": "新華社",
+    "slug": "un-ai-governance-geneva-china"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "中國首個十萬卡集群落成，AI人工智能ETF強勢上漲",
+    "summary": "截至7月13日，中證人工智能主題指數強勢上漲1.03%，成分股中際旭創上漲3.84%、寒武紀上漲3.64%、瑞芯微上漲3.46%。AI人工智能ETF平安（512930）上漲0.80%。消息面上，中國首個十萬卡集群正式落成。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0326a5444f346652",
+    "source": "企鵝號",
+    "slug": "china-100k-gpu-cluster"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "特斯拉46天拆除Model S/X產線，全面轉向Optimus人形機器人",
+    "summary": "特斯拉發布視頻展示弗里蒙特工廠原有Model S和Model X生產線拆除過程，全程僅耗時46天。特斯拉配文稱「一個時代的結束」，標誌其正全面轉向Optimus人形機器人業務。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3576a543d9f18552",
+    "source": "IT之家",
+    "slug": "tesla-dismantle-sx-line-optimus"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "三菱汽車宣布進軍人形機器人量產，依託本土製造基地",
+    "summary": "三菱汽車對外公佈全新產業佈局規劃，公司計劃依託本土製造基地開展人形機器人規模化量產工作，成為繼特斯拉之後又一家跨界人形機器人的車企。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3576a543d9f18552",
+    "source": "企鵝號",
+    "slug": "mitsubishi-humanoid-robot"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "AI造福人類全球峰會日內瓦閉幕，聚焦醫療、教育等實際應用",
+    "summary": "2026年AI造福人類全球峰會10日在日內瓦落幕，主題為「釋放AI服務人類的潛力」，逾萬名代表參會。現場展示AI在醫療保健、教育、食品安全、減災等領域的落地應用方案。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8936a5439e298652",
+    "source": "企鵝號",
+    "slug": "ai-for-good-summit-geneva"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "美的350-1200kg高性能重載工業機器人通過國際先進鑑定",
+    "summary": "由美的藍橙實驗室（高端重載機器人全國重點實驗室）、庫卡機器人等聯合研發的「350-1200kg高性能重載機器人正向設計及應用」項目，通過中國機械工業聯合會組織的專家鑑定，總體技術達國際先進水平。",
+    "url": "https://www.midea.com.cn/About-Us/news",
+    "source": "美的集團",
+    "slug": "midea-heavy-robot-identified"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "AI應用週報：騰訊混元3正式版發布，元寶接入免費Agent",
+    "summary": "騰訊正式發布混元Hy3正式版，重點強化Agent能力，幻覺率顯著降低；騰訊元寶App同步上線免費Agent功能。這是騰訊首席AI科學家姚順雨接管大模型研發後的首個重要成果。摩爾線程MTT AICUBE同期正式開售，售價9999元起。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5246a535d1919152",
+    "source": "企鵝號",
+    "slug": "ai-weekly-tencent-moore"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "南網儲能人工智能平台建設實施項目中標公示",
+    "summary": "南方電網儲能股份有限公司發布人工智能平台建設實施、雲資源服務租賃、雲平台IaaS及PaaS集成實施等服務類公開招標項目中標公示，發布時間為2026年7月4日。",
+    "url": "http://www.zilian8.com/",
+    "source": "新浪財經",
+    "slug": "csg-energy-storage-ai-bid"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "2026全球數字經濟大會閉幕，AI成核心議題",
+    "summary": "2026全球數字經濟大會7月2日至5日在北京舉辦，聚焦人工智能等關鍵領域核心議題。此前第四屆中國國際供應鏈促進博覽會亦首次設立人工智能專區，AI與實體經濟融合態勢愈發凸顯。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0766a54257953252",
+    "source": "法治日報",
+    "slug": "global-digital-economy-beijing-ai"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "騰訊混元Hy3正式版發布，Agent能力大幅強化",
+    "summary": "騰訊正式發布基座模型混元Hy3正式版，較預覽版提升後訓練算力規模與數據質量，重點強化Agent智能體能力，幻覺率顯著降低。騰訊元寶App接入混元3並上線免費Agent功能。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5246a535d1919152",
+    "source": "企鵝號",
+    "slug": "tencent-hunyuan3-official"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "摩爾線程AI家庭中樞AICUBE開售：50TOPS算力，9999元起",
+    "summary": "摩爾線程首款消費級產品MTT AICUBE正式開售，搭載自研「長江」智能SoC芯片，異構AI算力達50TOPS，標配32GB統一內存與1TB SSD。核心智能體「小麥」支持聲音克隆與形象定制，高頻工具調用成功率超95%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5246a535d1919152",
+    "source": "企鵝號",
+    "slug": "moore-threads-aicube-launch"
   }
 ]
