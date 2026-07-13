@@ -1,106 +1,114 @@
 [
   {
     "date": "2026-07-13",
-    "title": "WAIC 2026本週開幕：展覽首破10萬平米，超300款產品全球首發",
-    "summary": "2026世界人工智能大會暨人工智能全球治理高級別會議將於7月17日至20日在上海舉辦，主題為「智能夥伴 共創未來」。本屆策劃論壇140餘場，展覽總面積首次突破10萬平方米，超300款產品將全球首發。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7256a54618965452",
-    "source": "央視新聞",
-    "slug": "waic-2026-shanghai-preview"
+    "title": "2026世界人工智能大会将于7月17日上海启幕，超300款产品全球首发",
+    "summary": "以「智能伙伴 共创未来」为主题的2026世界人工智能大会将于7月17日至20日在上海举行，展览总面积首次突破10万平方米，超300款产品将全球首发，智算与具身两大赛道各汇聚超200家企业。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6676a54b25f27952",
+    "source": "财联社",
+    "slug": "waic-2026-shanghai"
   },
   {
     "date": "2026-07-13",
-    "title": "多家歐美企業全面切換中國大模型，推理成本降幅達30%～95%",
-    "summary": "加密貨幣交易平台Coinbase將DeepSeek定為工程師默認工具，美國初創公司Lindy全面切換至DeepSeek。歐美多國AI、律所、教育類企業更換中國大模型後，推理成本降幅達30%～95%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2936a5439e906752",
-    "source": "每日經濟新聞",
-    "slug": "overseas-firms-switch-china-ai"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "聯合國首屆AI治理全球對話在日內瓦舉行，中國方案獲廣泛認同",
-    "summary": "首屆聯合國人工智能治理全球對話及AI造福人類全球峰會在瑞士日內瓦舉行。中國以硬核技術產品、包容性治理方案和開放合作倡議，展現促進AI向善普惠發展的中國智慧，得到與會代表廣泛認同。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0076a534f4b80152",
-    "source": "新華社",
-    "slug": "un-ai-governance-geneva-china"
+    "title": "机构称AI应用层面Agent化加速，AI版支付宝开放公测",
+    "summary": "国信证券研报指出AI产业链从能力扩张转向落地验证，应用层面Agent化加速。AI版支付宝已开放公测，Claude Sonnet5发布，Google Research推出TabFM，美团LongCat-2.0发布。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6676a54b25f27952",
+    "source": "财联社",
+    "slug": "ai-agent-accelerate-alipay"
   },
   {
     "date": "2026-07-13",
-    "title": "中國首個十萬卡集群落成，AI人工智能ETF強勢上漲",
-    "summary": "截至7月13日，中證人工智能主題指數強勢上漲1.03%，成分股中際旭創上漲3.84%、寒武紀上漲3.64%、瑞芯微上漲3.46%。AI人工智能ETF平安（512930）上漲0.80%。消息面上，中國首個十萬卡集群正式落成。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0326a5444f346652",
-    "source": "企鵝號",
-    "slug": "china-100k-gpu-cluster"
+    "title": "大模型安全测评基准共建行动正式启动",
+    "summary": "在2026世界人工智能大会前夕，大模型安全测评基准共建行动正式启动，旨在建立行业统一的AI安全评测标准。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6676a54b25f27952",
+    "source": "财联社",
+    "slug": "llm-safety-benchmark"
   },
   {
-    "date": "2026-07-12",
-    "title": "特斯拉46天拆除Model S/X產線，全面轉向Optimus人形機器人",
-    "summary": "特斯拉發布視頻展示弗里蒙特工廠原有Model S和Model X生產線拆除過程，全程僅耗時46天。特斯拉配文稱「一個時代的結束」，標誌其正全面轉向Optimus人形機器人業務。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3576a543d9f18552",
+    "date": "2026-07-13",
+    "title": "科技巨头加速布局AI眼镜产品，行业迈入规模化量产阶段",
+    "summary": "多家科技巨头加速布局AI眼镜赛道，行业正从概念验证迈入规模化量产阶段，AI可穿戴设备竞争日趋激烈。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6676a54b25f27952",
+    "source": "财联社",
+    "slug": "ai-glasses-mass-production"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "特斯拉AI5芯片完成设计定案，将采用三星2纳米制程量产",
+    "summary": "据报道，特斯拉次时代AI芯片AI5已完成设计定案，即将进入大规模量产准备阶段，该芯片由三星电子得州泰勒厂采用2纳米制程制造。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5406a54734407752",
+    "source": "钛媒体",
+    "slug": "tesla-ai5-chip-taped-out"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "努比亚AI宠物机器人iMoochi定档7月17日上线",
+    "summary": "努比亚官宣AI陪伴新物种iMoochi将于7月17日正式上线。iMoochi是中兴通讯在MWC26上推出的情感陪伴AI宠物机器人，以萌系设计和拟生命体交互为核心，瞄准都市独居人群的情感需求。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8746a54534506452",
     "source": "IT之家",
-    "slug": "tesla-dismantle-sx-line-optimus"
-  },
-  {
-    "date": "2026-07-09",
-    "title": "三菱汽車宣布進軍人形機器人量產，依託本土製造基地",
-    "summary": "三菱汽車對外公佈全新產業佈局規劃，公司計劃依託本土製造基地開展人形機器人規模化量產工作，成為繼特斯拉之後又一家跨界人形機器人的車企。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3576a543d9f18552",
-    "source": "企鵝號",
-    "slug": "mitsubishi-humanoid-robot"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "AI造福人類全球峰會日內瓦閉幕，聚焦醫療、教育等實際應用",
-    "summary": "2026年AI造福人類全球峰會10日在日內瓦落幕，主題為「釋放AI服務人類的潛力」，逾萬名代表參會。現場展示AI在醫療保健、教育、食品安全、減災等領域的落地應用方案。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8936a5439e298652",
-    "source": "企鵝號",
-    "slug": "ai-for-good-summit-geneva"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "美的350-1200kg高性能重載工業機器人通過國際先進鑑定",
-    "summary": "由美的藍橙實驗室（高端重載機器人全國重點實驗室）、庫卡機器人等聯合研發的「350-1200kg高性能重載機器人正向設計及應用」項目，通過中國機械工業聯合會組織的專家鑑定，總體技術達國際先進水平。",
-    "url": "https://www.midea.com.cn/About-Us/news",
-    "source": "美的集團",
-    "slug": "midea-heavy-robot-identified"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "AI應用週報：騰訊混元3正式版發布，元寶接入免費Agent",
-    "summary": "騰訊正式發布混元Hy3正式版，重點強化Agent能力，幻覺率顯著降低；騰訊元寶App同步上線免費Agent功能。這是騰訊首席AI科學家姚順雨接管大模型研發後的首個重要成果。摩爾線程MTT AICUBE同期正式開售，售價9999元起。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5246a535d1919152",
-    "source": "企鵝號",
-    "slug": "ai-weekly-tencent-moore"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "南網儲能人工智能平台建設實施項目中標公示",
-    "summary": "南方電網儲能股份有限公司發布人工智能平台建設實施、雲資源服務租賃、雲平台IaaS及PaaS集成實施等服務類公開招標項目中標公示，發布時間為2026年7月4日。",
-    "url": "http://www.zilian8.com/",
-    "source": "新浪財經",
-    "slug": "csg-energy-storage-ai-bid"
+    "slug": "nubia-imoochi-ai-pet"
   },
   {
     "date": "2026-07-13",
-    "title": "2026全球數字經濟大會閉幕，AI成核心議題",
-    "summary": "2026全球數字經濟大會7月2日至5日在北京舉辦，聚焦人工智能等關鍵領域核心議題。此前第四屆中國國際供應鏈促進博覽會亦首次設立人工智能專區，AI與實體經濟融合態勢愈發凸顯。",
+    "title": "首届联合国AI治理全球对话在日内瓦举行，中方方案获广泛认同",
+    "summary": "首届联合国人工智能治理全球对话在瑞士日内瓦举行，约1500名来自世界各地的代表就AI治理进行交流。中国以硬核技术产品、包容性治理方案和开放合作倡议获得与会代表广泛认同，DeepSeek等开源模型被赞为对全球公共利益的真正贡献。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2356a545dc849452",
+    "source": "新华社",
+    "slug": "un-ai-governance-dialogue"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "AI造福人类全球峰会落幕，聚焦医疗教育等实际应用",
+    "summary": "2026年人工智能造福人类全球峰会在日内瓦落下帷幕，峰会以「释放AI服务人类的潜力」为主题，来自全球逾万名代表参会，展示AI在医疗保健、教育、食品安全、减灾等领域的应用落地。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8936a5439e298652",
+    "source": "央视新闻",
+    "slug": "ai-for-good-summit-2026"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "联通研究院发布《新一代AI计算基础设施白皮书》",
+    "summary": "联通研究院正式发布《新一代AI计算基础设施白皮书》，提出三层算力架构和五大核心技术，系统性揭示AI算力底座并解决行业痛点。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4676a54639613252",
+    "source": "人工智能产业日报",
+    "slug": "unicom-ai-infrastructure-whitepaper"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "智谱宣布全面回归基础模型研究，冲击下一代模型",
+    "summary": "智谱创始人唐杰发布内部信，强调智谱将全面回归基础模型研究，集中力量冲击下一代大模型。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4676a54639613252",
+    "source": "人工智能产业日报",
+    "slug": "zhipu-back-to-basics"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "中国AI发展成就斐然，链博会首设人工智能专区",
+    "summary": "第四届中国国际供应链促进博览会首次设立人工智能专区，2026全球数字经济大会聚焦AI核心议题，中国AI与实体经济融合态势愈发凸显。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0766a54257953252",
-    "source": "法治日報",
-    "slug": "global-digital-economy-beijing-ai"
+    "source": "法制日报",
+    "slug": "china-ai-industrial-integration"
   },
   {
-    "date": "2026-07-06",
-    "title": "騰訊混元Hy3正式版發布，Agent能力大幅強化",
-    "summary": "騰訊正式發布基座模型混元Hy3正式版，較預覽版提升後訓練算力規模與數據質量，重點強化Agent智能體能力，幻覺率顯著降低。騰訊元寶App接入混元3並上線免費Agent功能。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5246a535d1919152",
-    "source": "企鵝號",
-    "slug": "tencent-hunyuan3-official"
+    "date": "2026-07-13",
+    "title": "漫剧产业迎来AI+IP双轮驱动的深刻变革",
+    "summary": "人工智能与IP融合正在深刻改变漫剧产业格局，AI技术在内容创作、角色生成和互动叙事方面带来全新可能。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6676a54b25f27952",
+    "source": "财联社",
+    "slug": "ai-ip-comic-industry"
   },
   {
-    "date": "2026-07-09",
-    "title": "摩爾線程AI家庭中樞AICUBE開售：50TOPS算力，9999元起",
-    "summary": "摩爾線程首款消費級產品MTT AICUBE正式開售，搭載自研「長江」智能SoC芯片，異構AI算力達50TOPS，標配32GB統一內存與1TB SSD。核心智能體「小麥」支持聲音克隆與形象定制，高頻工具調用成功率超95%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5246a535d1919152",
-    "source": "企鵝號",
-    "slug": "moore-threads-aicube-launch"
+    "date": "2026-07-13",
+    "title": "三星电子龙仁首座芯片工厂投产时间提前至2029年",
+    "summary": "三星电子计划将龙仁首座芯片工厂的投产时间提前至2029年，加速先进制程产能布局以应对AI芯片需求增长。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6676a54b25f27952",
+    "source": "财联社",
+    "slug": "samsung-yongin-fab-2029"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "工业领域具身智能机器人训练数据集2.0正式发布",
+    "summary": "工业领域具身智能机器人训练数据集2.0版本正式发布，为行业提供标准化训练数据支持，加速具身智能在工业场景的落地。",
+    "url": "http://imgtec.eetrend.com/",
+    "source": "电子创新网",
+    "slug": "embodied-ai-dataset-2"
   }
 ]
