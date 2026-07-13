@@ -1,114 +1,114 @@
 [
   {
+    "date": "2026-07-14",
+    "title": "2026世界人工智能大会7月17日上海启幕，习近平将出席开幕式",
+    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海举行，主题为「智能伙伴 共创未来」。国家主席习近平将出席开幕式并发表主旨讲话。超300款产品将全球首发，智算、具身两大赛道各汇聚超200家企业。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2306a55622d58652",
+    "source": "新华社/外交部",
+    "slug": "waic-2026-shanghai-xi-jinping"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "中国AI产业规模超万亿元，2026年增速预计仍超30%",
+    "summary": "上海市政府新闻发布会披露，2025年我国AI相关产业规模超万亿元，2026年增速预计仍超30%。AI手机、AI电脑年出货量已破亿台，明年销量有望首次超越非AI产品。重点行业AI渗透率突破80%，原生办公智能体月活超2000万次。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5516a551c6466652",
+    "source": "企鹅号",
+    "slug": "china-ai-industry-trillion-2026"
+  },
+  {
     "date": "2026-07-13",
-    "title": "2026世界人工智能大会将于7月17日上海启幕，超300款产品全球首发",
-    "summary": "以「智能伙伴 共创未来」为主题的2026世界人工智能大会将于7月17日至20日在上海举行，展览总面积首次突破10万平方米，超300款产品将全球首发，智算与具身两大赛道各汇聚超200家企业。",
+    "title": "OpenAI发布GPT-5.6系列，Codex融入ChatGPT",
+    "summary": "7月9日，OpenAI发布GPT-5.6系列大模型，将Codex融入ChatGPT，用户可在同一界面完成聊天对话与复杂编程。同日取消5小时使用限制，Codex用户数已突破600万。",
+    "url": "https://36kr.com/information/technology",
+    "source": "36氪",
+    "slug": "openai-gpt-5-6-codex-chatgpt"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "智谱再融资314亿港元，年内已三次迭代大模型",
+    "summary": "智谱(02513.HK)披露再融资计划，拟配售不超过1978万股H股，配售价1588港元/股，预计募资314亿港元。加上年初IPO，合计募资约364亿港元（约315亿人民币）。年内产品已三次迭代：GLM-5、GLM-5.1、GLM-5.2。马斯克称中国大模型可能在2027年一季度达到Anthropic的Fable水平，智谱创始人唐杰自信回应「用不了这么久」。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3176a54593212752",
+    "source": "企鹅号",
+    "slug": "zhipu-31b-hkd-refinancing-glm-5"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "MiniMax股价从高点跌83%，拟募资160亿港元",
+    "summary": "中国AI大模型明星股MiniMax(0100.HK)从3月18日高点1330港元跌至7月13日217.8港元，累计跌幅约83%。公司发布公告拟通过配售新股及发行可转换债券募资约160亿港元（约138亿人民币）。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4296a54a61c88852",
+    "source": "企鹅号/智东西",
+    "slug": "minimax-stock-plunge-16b-financing"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "DeepSeek完成首轮约500亿人民币外部融资，同时布局自研AI芯片",
+    "summary": "DeepSeek完成首轮外部融资，总募资约500亿元人民币，腾讯、宁德时代等产业资本入局。另据媒体援引知情人士消息，DeepSeek正在开发自有AI推理芯片，研发工作约一年前启动，目前仍处于早期阶段。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8676a549ae485152",
+    "source": "企鹅号/电子信息产业网",
+    "slug": "deepseek-50b-funding-ai-chip"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "KIMI（月之暗面）完成新一轮20亿美元融资",
+    "summary": "KIMI（月之暗面）完成新一轮20亿美元融资，投后估值突破200亿美元。水木资本分析认为，模型层窗口正在收窄，AI投资进入重估周期，大模型企业将迎来新一轮洗牌。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8676a549ae485152",
+    "source": "企鹅号",
+    "slug": "kimi-moonshot-2b-funding"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "xAI发布Grok 4，聚焦编程与智能体赛道",
+    "summary": "7月9日，SpaceXAI(xAI)推出专门聚焦编程和智能体的大模型Grok 4，与同日OpenAI发布的GPT-5.6展开直接竞争，中美AI模型公司在Coding赛道加速布局。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8006a54f05721652",
+    "source": "企鹅号",
+    "slug": "xai-grok-4-coding-agent"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "讯飞医疗推出AI诊疗助理2.0，门诊病历引用率达91%",
+    "summary": "2026数智医学大会上，讯飞医疗展出AI诊疗助理2.0，基于星火医疗大模型V3.5，覆盖2600余种疾病辅助诊断，对危重症、罕见病主动预警。已接入420余家三甲医院与7.7万家基层医疗机构，累计完成12.3亿次辅助诊断。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3796a54851917052",
+    "source": "企鹅号",
+    "slug": "iflytek-medical-ai-2"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "韩国央行：AI驱动的芯片超级周期将持续",
+    "summary": "韩国央行发布报告称，全球半导体市场仍处于供不应求状态，AI驱动的芯片超级周期预计还将持续。AI基础设施投资大幅推高半导体需求，但供应扩张步伐依然缓慢，特别是HBM等定制产品制约了供给。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6066a54ba1377752",
+    "source": "企鹅号",
+    "slug": "bok-ai-chip-super-cycle"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "联想与咪咕发布AI世界杯预测报告：命中率65.7%",
+    "summary": "联想集团与咪咕视频联合发布《世界杯预测人机大战百场观察》，报告基于人类阵营与12个国内主流AI大模型针对2026 FIFA世界杯前100场比赛的预测结果，AI预测命中率为65.7%。",
+    "url": "http://tech.cnr.cn/techgd/",
+    "source": "央广网",
+    "slug": "lenovo-migu-ai-worldcup-prediction"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "工信部NVDB发布Claude Code安全后门隐患防范提醒",
+    "summary": "工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）发布关于防范AI编程工具Claude Code存在安全后门隐患的提示，引发行业对AI编程工具安全性的关注。",
+    "url": "http://www.cena.com.cn/",
+    "source": "电子信息产业网",
+    "slug": "miit-claude-code-security-backdoor"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "脑动极光-B获雄安垂直大模型应用大赛亚军",
+    "summary": "脑动极光-B(06681)凭借自研BrainAuGPT认知深度推理大模型，在第三届雄安垂直大模型（智能体）应用大赛中斩获亚军。大赛吸引海内外700余个AI项目参赛。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9136a54c60d18052",
+    "source": "企鹅号/智通财经",
+    "slug": "brainup-bionics-xiongan-ai-contest"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "2026 WAIC前瞻：AI应用层面Agent化加速，多款新品首发",
+    "summary": "国信证券表示，AI产业链从能力扩张转向落地验证，应用层面Agent化加速。近期美团LongCat-2.0发布、Claude Sonnet5发布、Google Research推出TabFM、AI版支付宝开放公测、Claude-real-video实现LLM观看视频等，应用创新密集涌现。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6676a54b25f27952",
-    "source": "财联社",
-    "slug": "waic-2026-shanghai"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "机构称AI应用层面Agent化加速，AI版支付宝开放公测",
-    "summary": "国信证券研报指出AI产业链从能力扩张转向落地验证，应用层面Agent化加速。AI版支付宝已开放公测，Claude Sonnet5发布，Google Research推出TabFM，美团LongCat-2.0发布。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6676a54b25f27952",
-    "source": "财联社",
-    "slug": "ai-agent-accelerate-alipay"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "大模型安全测评基准共建行动正式启动",
-    "summary": "在2026世界人工智能大会前夕，大模型安全测评基准共建行动正式启动，旨在建立行业统一的AI安全评测标准。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6676a54b25f27952",
-    "source": "财联社",
-    "slug": "llm-safety-benchmark"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "科技巨头加速布局AI眼镜产品，行业迈入规模化量产阶段",
-    "summary": "多家科技巨头加速布局AI眼镜赛道，行业正从概念验证迈入规模化量产阶段，AI可穿戴设备竞争日趋激烈。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6676a54b25f27952",
-    "source": "财联社",
-    "slug": "ai-glasses-mass-production"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "特斯拉AI5芯片完成设计定案，将采用三星2纳米制程量产",
-    "summary": "据报道，特斯拉次时代AI芯片AI5已完成设计定案，即将进入大规模量产准备阶段，该芯片由三星电子得州泰勒厂采用2纳米制程制造。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5406a54734407752",
-    "source": "钛媒体",
-    "slug": "tesla-ai5-chip-taped-out"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "努比亚AI宠物机器人iMoochi定档7月17日上线",
-    "summary": "努比亚官宣AI陪伴新物种iMoochi将于7月17日正式上线。iMoochi是中兴通讯在MWC26上推出的情感陪伴AI宠物机器人，以萌系设计和拟生命体交互为核心，瞄准都市独居人群的情感需求。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8746a54534506452",
-    "source": "IT之家",
-    "slug": "nubia-imoochi-ai-pet"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "首届联合国AI治理全球对话在日内瓦举行，中方方案获广泛认同",
-    "summary": "首届联合国人工智能治理全球对话在瑞士日内瓦举行，约1500名来自世界各地的代表就AI治理进行交流。中国以硬核技术产品、包容性治理方案和开放合作倡议获得与会代表广泛认同，DeepSeek等开源模型被赞为对全球公共利益的真正贡献。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2356a545dc849452",
-    "source": "新华社",
-    "slug": "un-ai-governance-dialogue"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "AI造福人类全球峰会落幕，聚焦医疗教育等实际应用",
-    "summary": "2026年人工智能造福人类全球峰会在日内瓦落下帷幕，峰会以「释放AI服务人类的潜力」为主题，来自全球逾万名代表参会，展示AI在医疗保健、教育、食品安全、减灾等领域的应用落地。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8936a5439e298652",
-    "source": "央视新闻",
-    "slug": "ai-for-good-summit-2026"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "联通研究院发布《新一代AI计算基础设施白皮书》",
-    "summary": "联通研究院正式发布《新一代AI计算基础设施白皮书》，提出三层算力架构和五大核心技术，系统性揭示AI算力底座并解决行业痛点。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4676a54639613252",
-    "source": "人工智能产业日报",
-    "slug": "unicom-ai-infrastructure-whitepaper"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "智谱宣布全面回归基础模型研究，冲击下一代模型",
-    "summary": "智谱创始人唐杰发布内部信，强调智谱将全面回归基础模型研究，集中力量冲击下一代大模型。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4676a54639613252",
-    "source": "人工智能产业日报",
-    "slug": "zhipu-back-to-basics"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "中国AI发展成就斐然，链博会首设人工智能专区",
-    "summary": "第四届中国国际供应链促进博览会首次设立人工智能专区，2026全球数字经济大会聚焦AI核心议题，中国AI与实体经济融合态势愈发凸显。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0766a54257953252",
-    "source": "法制日报",
-    "slug": "china-ai-industrial-integration"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "漫剧产业迎来AI+IP双轮驱动的深刻变革",
-    "summary": "人工智能与IP融合正在深刻改变漫剧产业格局，AI技术在内容创作、角色生成和互动叙事方面带来全新可能。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6676a54b25f27952",
-    "source": "财联社",
-    "slug": "ai-ip-comic-industry"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "三星电子龙仁首座芯片工厂投产时间提前至2029年",
-    "summary": "三星电子计划将龙仁首座芯片工厂的投产时间提前至2029年，加速先进制程产能布局以应对AI芯片需求增长。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6676a54b25f27952",
-    "source": "财联社",
-    "slug": "samsung-yongin-fab-2029"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "工业领域具身智能机器人训练数据集2.0正式发布",
-    "summary": "工业领域具身智能机器人训练数据集2.0版本正式发布，为行业提供标准化训练数据支持，加速具身智能在工业场景的落地。",
-    "url": "http://imgtec.eetrend.com/",
-    "source": "电子创新网",
-    "slug": "embodied-ai-dataset-2"
+    "source": "企鹅号",
+    "slug": "waic-2026-agent-acceleration"
   }
 ]
