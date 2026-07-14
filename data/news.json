@@ -1,114 +1,122 @@
 [
   {
-    "date": "2026-07-14",
-    "title": "2026世界人工智能大会将于7月17日至20日在上海举行，习近平将出席开幕式",
-    "summary": "外交部发言人宣布，2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海举行，主题为\u201c智能伙伴 共创未来\u201d。国家主席习近平将出席大会开幕式并发表主旨讲话。本届大会参展方将聚焦模型前沿架构、语料数据、AI Infra、AI治理等前沿方向，超300款产品将实现全球首发，智算、具身两大赛道各汇聚超200家企业。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2306a55622d58652",
+    "date": "2026-07-15",
+    "title": "2026世界人工智能大会将于7月17-20日在上海举行，习近平将出席开幕式",
+    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海世博、张江、西岸「三地四馆」同步启幕，主题为「智能伙伴 共创未来」。国家主席习近平将出席大会开幕式并发表主旨讲话。大会共策划140余场论坛。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4846a56048d87552",
     "source": "新华社",
-    "slug": "waic-2026-xi-jinping-opening"
+    "slug": "waic-2026-shanghai"
   },
   {
     "date": "2026-07-14",
-    "title": "华为开源盘古大模型openPangu 2.0 Flash",
-    "summary": "华为正式开源盘古大模型openPangu 2.0 Flash版本。华为常务董事余承东在公开发言中表示华为在大模型领域\u201c没有第二，只有第一\u201d，展现出对自研大模型技术的高度自信。",
-    "url": "http://www.weste.net/",
-    "source": "威易网",
-    "slug": "huawei-openpangu-2-flash"
+    "title": "阶跃星辰发布全球首个大模型原生AI终端品牌STEPX及智能体手机STEP Neo",
+    "summary": "7月13日，阶跃星辰在上海正式发布AI终端品牌STEPX，同步推出全球首个智能体原生操作系统Step AOS和新一代个人智能体阶跃Amoo，首款大模型原生智能体手机STEP Neo亮相，实现「模型、软件、硬件」三位一体。",
+    "url": "https://new.qq.com/rain/a/20260714A098BU00",
+    "source": "腾讯网",
+    "slug": "stepx-agent-phone-launch"
   },
   {
     "date": "2026-07-14",
-    "title": "东方算芯发布全球首颗大算力3D AI芯片DF1000",
-    "summary": "7月13日，东方算芯正式发布全球首颗大算力3D AI芯片DF1000。东方算芯副总裁郭炜透露，预计2026年四季度发布迭代产品DF2000，DF3000则预计于2027年四季度发布。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1556a55b6ed41752",
-    "source": "界面新闻",
-    "slug": "dongfang-suanxin-df1000-3d-chip"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "OpenAI正式发布GPT-5.6系列模型，推出可边听边说的GPT-Live语音模型",
-    "summary": "7月9日，OpenAI正式发布GPT-5.6系列模型，包括三款产品。同时推出可边听边说的GPT-Live语音模型，进一步扩展多模态交互能力。",
-    "url": "https://36kr.com/information/technology",
-    "source": "36氪",
-    "slug": "openai-gpt-56-gpt-live"
+    "title": "OpenAI GPT-5.6系列模型Sol/Terra/Luna发布，已上线Amazon Bedrock",
+    "summary": "OpenAI最新GPT-5.6系列模型Sol、Terra和Luna发布，能力与性价比同步提升。亚马逊云科技宣布该系列模型已在Amazon Bedrock平台全面可用。同时腾讯发布HY3正式版、Meta发布Muse Spark 1.1、xAI发布Grok 4.5。",
+    "url": "https://new.qq.com/rain/a/20260714A098BU00",
+    "source": "中信建投/腾讯网",
+    "slug": "gpt-5-6-series-bedrock"
   },
   {
     "date": "2026-07-14",
-    "title": "字节跳动回应：没有做智能驾驶业务的计划",
-    "summary": "7月13日，据科创板日报报道，有媒体称字节跳动正探索进入自动驾驶领域，有意布局无人物流，业务隶属于火山引擎汽车行业线。字节跳动回应称，字节在AI大模型前沿探索包括物理AI领域有很多早期研究和探索，但并没有做智能驾驶业务的计划。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1926a55815b19552",
-    "source": "科创板日报",
-    "slug": "bytedance-no-self-driving-plan"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "苹果调整Mac芯片路线图：跳过M6 Pro/Max/Ultra，直接推进M7系列",
-    "summary": "科技记者马克\u00b7古尔曼发文称，苹果正调整Mac芯片路线图以适应AI发展需求，将在秋季推出M6基础版芯片后，首次跳过M6 Pro、M6 Max和M6 Ultra等高端版本，直接推进M7系列研发。M7预计于2027年上半年发布，M7 Ultra将于2028年推出，目标接近英伟达Blackwell等专用AI加速器。",
-    "url": "https://36kr.com/newsflashes/",
-    "source": "36氪",
-    "slug": "apple-m7-chip-roadmap-no-m6-pro"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "智元机器人将携远征A3 Ultra、精灵G2 Max等新品亮相WAIC 2026",
-    "summary": "2026世界人工智能大会（WAIC 2026）将于7月17日至20日在上海举办。智元机器人将全展区参展，展区面积200平方米，集中展示具身智能算法研发、硬件产品更新、产业场景规模化落地方面的最新进展，将推出远征A3 Ultra、精灵G2 Max、临界点Omnihand 3 Ultra-M等新品。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2106a54c1b692152",
+    "title": "苹果起诉OpenAI：指控系统性挖角400+前员工窃取商业机密",
+    "summary": "苹果于7月10日向美国加州北区联邦法院提交诉状，指控OpenAI有组织地挖角超过400名前苹果员工，将面试用作情报采集站，非法获取苹果未发布产品的商业机密以推进自有AI硬件研发。OpenAI回应称不对其他公司商业秘密感兴趣。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6336a55fef112452",
     "source": "企鹅号",
-    "slug": "zhiyuan-robot-waic-2026-new-products"
+    "slug": "apple-sues-openai-trade-secrets"
   },
   {
-    "date": "2026-07-13",
-    "title": "联想与咪咕发布世界杯预测人机大战百场观察：AI预测命中率65.7%",
-    "summary": "7月12日，联想集团与咪咕视频联合发布《世界杯预测人机大战百场观察》。报告基于双方联合发起的世界杯预测人机大战活动中，人类阵营与12个国内主流AI大模型针对2026 FIFA世界杯前100场比赛的预测结果，对AI在真实世界复杂场景中的表现进行了系统分析。",
-    "url": "http://tech.cnr.cn/techgd/",
-    "source": "央广网",
-    "slug": "lenovo-migu-ai-worldcup-prediction-65pct"
+    "date": "2026-07-14",
+    "title": "苹果调整Mac芯片路线图加速AI布局，股价创历史新高",
+    "summary": "苹果正调整Mac芯片路线图以适应AI发展需求，将在今年秋季推出M6基础版芯片后，首次跳过M6 Pro、M6 Max和M6 Ultra等高端版本，直接推进M7系列研发。受此消息推动，苹果股价创历史新高。",
+    "url": "https://www.admin5.com/ai/",
+    "source": "A5创业网",
+    "slug": "apple-mac-chip-ai-roadmap"
   },
   {
-    "date": "2026-07-13",
-    "title": "MiniMax股价创上市以来最低价，相较高点跌83%",
-    "summary": "7月全球AI科技股大跌，中国AI大模型明星股MiniMax（0100.HK）跌势尤为惨烈，从3月18日高点1330港元跌至7月13日217.8港元，累计跌幅约83%。6月前两周即暴跌53%，7月9日因宣布20亿美元再融资计划再跌12%。南方两倍做多海力士暴跌33.58%，创上市以来单日最大跌幅。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6066a54ba1377752",
+    "date": "2026-07-14",
+    "title": "近200名AI研究人员与诺贝尔奖得主联名警告：AI或引发大规模失业",
+    "summary": "近200名人工智能研究人员和十几位诺贝尔奖得主联名发表公开信，指出人工智能可能对就业构成威胁，并极大地改变全球经济，呼吁社会各界正视AI带来的深远影响。",
+    "url": "https://www.admin5.com/ai/",
+    "source": "A5创业网",
+    "slug": "nobel-laureates-ai-unemployment-warning"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "31家企业签署《智能体个人信息保护自律公约》",
+    "summary": "在2026中国互联网大会「网民权益和个人信息保护论坛」上，《智能体个人信息保护自律公约》正式发布，31家企业首批签署。该公约填补了智能体领域专项规范空白。",
+    "url": "https://www.admin5.com/ai/",
+    "source": "A5创业网",
+    "slug": "agent-privacy-convention-31-firms"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "荣耀与阿里将在WAIC上官宣AI智能体终端合作",
+    "summary": "荣耀将于7月18日在WAIC 2026举办分论坛，阿里巴巴集团副总裁、ATH事业群TokenFoundry多模态交互负责人许主洪将出席，双方将宣布AI智能体终端领域重磅合作。科技未来学家凯文·凯利也将出席。",
+    "url": "https://www.admin5.com/ai/",
+    "source": "A5创业网",
+    "slug": "honor-alibaba-ai-agent-cooperation"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "中国AI产业规模超万亿元，2026年增速预计仍超30%",
+    "summary": "上海市政府新闻发布会上亮出成绩单：2025年我国AI相关产业规模超万亿元，2026年增速预计仍超30%。AI手机、AI电脑年出货量已破亿台，重点行业AI渗透率突破80%，原生办公智能体月活超2000万次。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2966a55fedd16452",
     "source": "企鹅号",
-    "slug": "minimax-stock-crash-83-percent"
+    "slug": "china-ai-industry-trillion-2026"
   },
   {
     "date": "2026-07-14",
-    "title": "深圳福田区人工智能应用示范街区：100多项AI应用集中上岗",
-    "summary": "近日，在广东省深圳市福田区的人工智能应用示范街区，100多项人工智能应用集中上岗。无人机精准识别路面安全隐患，巡逻车赶来处理；智能商店订单由机器人分拣、机器狗配送。在智慧中枢统一调度下，各类智能设备协同作业，一条街映射中国人工智能加速从实验室走向现实场景的进化。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8016a55bae172452",
-    "source": "央视新闻",
-    "slug": "shenzhen-futian-ai-demonstration-street"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "韩国央行：AI驱动的芯片超级周期预计还将持续",
-    "summary": "韩国央行在报告中表示，全球半导体市场目前仍处于供不应求的状态，由AI驱动的芯片超级周期预计还将持续。AI基础设施投资大幅推高了半导体需求，但供应扩张步伐依然缓慢。由于市场由HBM等定制产品主导，供应扩张受到更多制约，预计全球半导体市场的扩张趋势将在相当长的时期内延续。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6066a54ba1377752",
-    "source": "韩国央行",
-    "slug": "bank-of-korea-ai-chip-super-cycle"
-  },
-  {
-    "date": "2026-07-13",
-    "title": "北京成立人工智能等十大重点产业产教联盟",
-    "summary": "北京成立人工智能等十大重点产业产教联盟，旨在推进校企协同育人，整合产业与教育资源，为北京市重点产业培养高质量技术人才。7月11日、7月10日还有健康数智共享平台、教育+AI专题论坛等相关活动落地。",
-    "url": "http://www.bj.chinanews.com/focus/10.html",
-    "source": "中国新闻网",
-    "slug": "beijing-ai-industry-education-alliance"
+    "title": "国产大模型预训练换芯：英伟达不可替代性正在松动",
+    "summary": "尽管英伟达高端AI芯片在国内市场依然紧俏，但本土大模型玩家正在悄然推进换芯工程，将大模型预训练的算力底座从英伟达GPU逐步切换到国产替代方案。",
+    "url": "https://enterprise.eastmoney.com/a/ccyzx.html",
+    "source": "东方财富网",
+    "slug": "china-llm-chip-switch-nvidia"
   },
   {
     "date": "2026-07-14",
-    "title": "2026世界人工智能大会超300款AI新品全球首发，智算与具身两赛道汇聚超400家企业",
-    "summary": "以\u201c智能伙伴 共创未来\u201d为主题的2026世界人工智能大会将于7月17日至20日在上海举行。国信证券表示AI产业链从能力扩张转向落地验证，应用层面Agent化加速。本届大会期间超300款产品将实现全球首发，智算、具身两大赛道各汇聚超200家企业。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8036a558da811552",
-    "source": "国信证券/企鹅号",
-    "slug": "waic-2026-300-new-ai-products"
+    "title": "Meta计划投资1.7万亿元建设AI园区，配备10座电厂",
+    "summary": "Meta宣布将投入约1.7万亿元人民币建设一个超级AI园区，计划配备10座发电厂以满足算力需求。同时Meta将Hyperion数据中心装入合资结构，将资本开支转化为金融市场可定价的基建资产。",
+    "url": "http://tech.163.com/",
+    "source": "网易科技",
+    "slug": "meta-1-7-trillion-ai-campus"
   },
   {
-    "date": "2026-07-13",
-    "title": "梧桐科技获HUAWEI HiCar卓越集成开发合作伙伴称号",
-    "summary": "梧桐车联科技有限公司（TINNOVE梧桐科技）荣获HUAWEI HiCar卓越集成开发合作伙伴称号，得益于其在座舱全景声技术领域的长期积累和持续创新。",
-    "url": "http://citnews.com.cn/",
-    "source": "citnews",
-    "slug": "tinnovert-huawei-hicar-award"
+    "date": "2026-07-14",
+    "title": "Meta推出AI图像新功能引发争议后紧急下线",
+    "summary": "社交媒体巨头Meta本周推出一项允许用户通过@提及公开Instagram账号、利用他人公开内容生成AI图像的新功能，引发广泛争议和隐私担忧，被迫紧急下线。",
+    "url": "https://enterprise.eastmoney.com/a/ccyzx.html",
+    "source": "东方财富网",
+    "slug": "meta-ai-image-feature-backlash"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "中国农业大学发布神农大模型4.0与神农农业世界模型1.0",
+    "summary": "在第九届智慧农业创新发展国际研讨会期间，中国农业大学王耀君副教授团队发布神农大模型4.0（面向农业AI感知与认知）和神农·农业世界模型1.0，推动农业AI应用进入新阶段。",
+    "url": "http://news.cau.edu.cn/zhxwnew/index.htm",
+    "source": "中国农业大学新闻网",
+    "slug": "shennong-agriculture-llm-4"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "华为HarmonyOS 7消费者Beta版预计8月开测，引入性能大模型",
+    "summary": "华为HarmonyOS 7消费者Beta版预计将于2026年8月开始测试，覆盖Mate 80/70/60系列等旗舰机型。该系统引入性能大模型，整体性能提升15%，并强化安全防护能力。",
+    "url": "http://mobile.pconline.com.cn/dclub/",
+    "source": "太平洋科技",
+    "slug": "harmonyos-7-beta-performance-model"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "2026年中国AI搜索用户渗透率突破85%，传统搜索模式面临颠覆",
+    "summary": "2026年中国AI搜索用户渗透率已突破85%，超68%用户放弃传统关键词检索，转而通过豆包、DeepSeek、文心一言等生成式AI平台直接获取整合答案。约80%消费者在至少40%的搜索场景中依赖零点击结果。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5696a55f43637352",
+    "source": "企鹅号",
+    "slug": "china-ai-search-penetration-85-percent"
   }
 ]
