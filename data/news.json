@@ -1,114 +1,122 @@
 [
   {
     "date": "2026-07-15",
-    "title": "DeepSeek创始人梁文锋身家飙升至360亿美元，成全球AI大模型创始人首富",
-    "summary": "彭博亿万富豪指数最新数据显示，DeepSeek创始人梁文锋个人财富增长逾一倍，达到360亿美元（约2440亿元人民币），超越Anthropic联合创始人达里奥·阿莫代伊和OpenAI联合创始人格雷格·布罗克曼，成为全球AI大模型创始人中身家最高的人。",
-    "url": "https://new.qq.com/rain/a/20260714A0AK6100",
-    "source": "腾讯网",
-    "slug": "deepseek-founder-richest-ai-founder"
-  },
-  {
-    "date": "2026-07-15",
-    "title": "中国AI拟人化交互服务新规正式施行，千问、豆包下线人格化功能",
-    "summary": "国家网信办等五部门发布的《人工智能拟人化交互服务管理暂行办法》于7月15日正式生效。该法规要求AI服务披露AI身份，禁止未成年人未经家长同意使用陪伴类服务，禁止模拟自然人性格特征。字节跳动豆包和阿里通义千问已确认下线人格化Agent、用户自定义人设及关系框架功能。",
+    "title": "中国AI拟人化交互服务新规7月15日正式生效，千问、豆包下线人格化功能",
+    "summary": "中国网信办等五部门发布的《人工智能拟人化交互服务管理暂行办法》7月15日正式生效。字节跳动豆包和阿里通义千问已确认将在截止日期前下线人格化Agent、用户自定义人设及关系框架功能。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8816a56204140752",
     "source": "企鹅号",
-    "slug": "ai-personalization-regulations-effective"
+    "slug": "ai-anthropomorphic-regulations-effective"
   },
   {
     "date": "2026-07-15",
-    "title": "豆包拟人化智能体功能今日起下线，基础AI功能不受影响",
-    "summary": "字节跳动旗下AI产品豆包于7月15日正式下线用户自建的拟人化智能体功能，包括虚拟角色扮演、情感陪伴对话等拟人化交互功能。豆包的基础AI功能（问答、文案生成、AI绘画等工具型能力）仍可正常使用。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2726a56c5a279352",
-    "source": "CNMO",
-    "slug": "doubao-personalization-offline"
-  },
-  {
-    "date": "2026-07-14",
-    "title": "小米机器人进厂4个月：部分场景98%成功率逼近人工",
-    "summary": "小米披露旗下人形机器人在汽车工厂最新进展：自攻螺母上件工站双侧作业成功率从90.2%提升至98%，距人工作业合格率仅差1个百分点。同时启动中控台侧盖板排序和料箱折叠回收两项任务，成功率均达90%，首次实现柔性工件长时连续作业。",
-    "url": "https://new.qq.com/rain/a/20260714A07AYW00",
-    "source": "腾讯网",
-    "slug": "xiaomi-robot-factory-98-percent"
-  },
-  {
-    "date": "2026-07-14",
-    "title": "近200名经济学家与诺奖得主联名警告：AI或引发大规模失业",
-    "summary": "近200名人工智能研究人员和十余位诺贝尔奖得主联名发表题为《我们现在必须采取行动》的公开信，指出AI未来十年可能变得异常强大，其经济颠覆效应可能超过工业革命。签署者包括2024年诺贝尔经济学奖得主达龙·阿西莫格鲁、谷歌前CEO埃里克·施密特等。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2606a55e9ec57752",
+    "title": "习近平将出席2026世界人工智能大会开幕式并发表主旨讲话",
+    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海举行，国家主席习近平将出席大会开幕式并发表主旨讲话，1400多名嘉宾将云集上海。展览总面积首次突破10万平方米，超300款产品全球首发，1100余家企业参展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0756a57561b17252",
     "source": "企鹅号",
-    "slug": "nobel-economists-ai-unemployment-warning"
-  },
-  {
-    "date": "2026-07-14",
-    "title": "苹果调整芯片路线图加速AI布局：跳过M6 Pro/Max，直推M7系列",
-    "summary": "苹果正调整Mac芯片路线图以适应AI发展需求。今年秋季推出M6基础版芯片后将首次跳过M6 Pro、M6 Max和M6 Ultra等高端版本，直接推进M7系列研发。M7预计2027年上半年发布，M7 Ultra计划2028年推出，苹果已启动M8及后续芯片研发。",
-    "url": "https://new.qq.com/rain/a/20260714A06INA00",
-    "source": "腾讯网",
-    "slug": "apple-skip-m6-pro-max-accelerate-m7-ai"
-  },
-  {
-    "date": "2026-07-14",
-    "title": "荣耀与阿里将官宣AI智能体终端合作，剑指Agentic OS",
-    "summary": "荣耀将于7月18日在2026世界人工智能大会举办分论坛，阿里巴巴集团副总裁、ATH事业群TokenFoundry多模态交互负责人许主洪确认出席。据内部渠道透露，双方将官宣重磅合作，方向极有可能是下一代终端操作系统Agentic OS的落地实践。",
-    "url": "https://new.qq.com/rain/a/20260714A088HS00",
-    "source": "腾讯网",
-    "slug": "honor-alibaba-agentic-os-cooperation"
-  },
-  {
-    "date": "2026-07-14",
-    "title": "2026世界人工智能大会即将启幕：1100+企业参展，300+全球首发",
-    "summary": "2026世界人工智能大会（WAIC 2026）将于7月17日至20日在上海举办。本届展会规模、新品数量、论坛场次均刷新历史纪录，1100余家企业参展，3000余项前沿展品集中亮相，超300款产品全球首发，覆盖算力芯片、多模态大模型、智能体系统、人形机器人等核心赛道。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1256a5702f445452",
-    "source": "企鹅号",
-    "slug": "waic-2026-preview"
-  },
-  {
-    "date": "2026-07-14",
-    "title": "31家企业签署《智能体个人信息保护自律公约》，百度腾讯阿里在列",
-    "summary": "中国互联网协会在第2026中国互联网大会上正式发布《智能体个人信息保护自律公约》，百度、腾讯、阿里巴巴、火山引擎等31家互联网企业成为首批签署方。公约覆盖AI智能体全生命周期，要求从产品设计阶段即嵌入隐私保护机制，填补了智能体领域专项规范空白。",
-    "url": "https://new.qq.com/rain/a/20260714A07J6500",
-    "source": "腾讯网",
-    "slug": "ai-agent-privacy-self-discipline-convention"
+    "slug": "waic-2026-xi-jinping-keynote"
   },
   {
     "date": "2026-07-15",
-    "title": "亿航智能回应裁员传闻：基于AI提效背景，核心骨干保持稳定",
-    "summary": "低空经济企业亿航智能（Nasdaq: EH）回应裁员传闻称，近期开展组织效能优化与人才结构焕新属于正常管理动作，基于AI提效背景聚焦低绩效岗位。亿航Q1总收入2570万元，净亏损1.264亿元。公司表示核心骨干团队保持稳定，将有助于提升人效、优化费用结构。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7226a5702a651952",
-    "source": "澎湃新闻",
-    "slug": "ehang-layoff-ai-efficiency-response"
+    "title": "阿里千问集成至Apple智能，端侧生成式AI服务获备案",
+    "summary": "阿里巴巴回应称阿里千问将作为AI能力集成至Apple智能，为iOS、iPadOS、macOS和visionOS的中国用户带来智能体验，用户无需在应用间切换即可直接体验千问的文本与图像理解、内容生成等能力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6566a574d1f65152",
+    "source": "企鹅号",
+    "slug": "alibaba-qwen-apple-intelligence-integration"
   },
   {
-    "date": "2026-07-14",
-    "title": "西门子将在WAIC 2026中国首发Eigen Engineering Agent",
-    "summary": "西门子将再度亮相2026世界人工智能大会，集中展示工业AI前沿创新。大会期间，西门子Eigen Engineering Agent（Eigen工程智能体）将在中国首发，工业AI编排软件Intelligence Center X迎来中国首展，覆盖生命科学、消费品、汽车制造、数据中心等行业。",
+    "date": "2026-07-15",
+    "title": "梁文锋身家飙升至360亿美元成AI公司新首富，DeepSeek启动第二轮融资",
+    "summary": "据媒体报道，DeepSeek创始人梁文锋身家飙升至360亿美元，超越Anthropic和OpenAI联合创始人。同时有消息称DeepSeek已启动第二轮融资。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4966a56d74312352",
+    "source": "企鹅号",
+    "slug": "liang-wenfeng-ai-richest-deepseek-funding"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "东方算芯发布全球首颗大算力3D芯片DF1000，算力达520TFLOPS",
+    "summary": "东方算芯发布全球首颗大算力3D芯片DF1000，采用软件定义芯片技术和3D混合键合技术，实现520TFLOPS@BF16算力，旨在解决AI芯片的存储墙难题。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5586a5707af31952",
+    "source": "企鹅号",
+    "slug": "dongfang-suanxin-3d-chip-df1000"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "华为昇腾950超节点真机即将亮相WAIC，业界最大规模超节点",
+    "summary": "2026世界人工智能大会即将开幕，华为昇腾950超节点将以业界最大规模超节点的真机形态首次与公众见面，标志昇腾在超大规模算力基础设施领域再上新台阶。此外还将带来Atlas850E风冷超节点真机展示。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1146a56dd5722652",
+    "source": "企鹅号",
+    "slug": "huawei-ascend-950-supernode-waic"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "小米披露人形机器人进厂新进展：部分场景98%成功率逼近人工",
+    "summary": "7月14日，小米披露旗下人形机器人在汽车工厂最新进展，部分场景实现98%成功率，已逼近人工水平。这标志着小米在具身智能和工业机器人领域取得重要突破。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4076a56d2bd84652",
+    "source": "企鹅号",
+    "slug": "xiaomi-humanoid-robot-factory-progress"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "阶跃星辰发布大模型原生AI终端品牌STEPX，推出智能体手机",
+    "summary": "阶跃星辰发布大模型原生AI终端品牌STEPX，推出首款大模型原生智能体手机，标志着大模型技术与消费终端深度融合的新趋势。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5586a5707af31952",
+    "source": "企鹅号",
+    "slug": "stepfun-stepx-ai-agent-phone"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "北京发布《加快推进人工智能赋能科学研究实施方案（2026-2028年）》",
+    "summary": "北京市委教育科技人才工作领导小组印发《北京市加快推进人工智能赋能科学研究实施方案（2026—2028年）》，系统部署自主实验室建设、标杆场景应用、科学模型构建、科学数据供给等重点工作，聚焦高能物理、材料科学、医疗健康等六大领域，全力打造全球科学智能创新中枢。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5036a56e13e35852",
+    "source": "企鹅号",
+    "slug": "beijing-ai-for-science-plan"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "享界G9获批北京市L3级自动驾驶道路测试牌照，首款时速120公里",
+    "summary": "7月14日，享界汽车宣布享界G9正式获批北京市L3级自动驾驶道路测试牌照，成为首款获批北京市时速120公里L3级自动驾驶道路测试牌照的车型。",
+    "url": "https://new.qq.com/rain/a/20260715A059AU00",
+    "source": "腾讯网",
+    "slug": "xiangjie-g9-l3-autonomous-driving-license"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "京东全国首个RoboBase产业园项目在广州动工",
+    "summary": "京东全国首个RoboBase产业园项目在广东省广州市正式动工，作为广东省重点产业项目，将推动机器人产业的规模化落地。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1146a56dd5722652",
+    "source": "企鹅号",
+    "slug": "jd-robobase-industrial-park-guangzhou"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "我国AI核心产业规模超1.2万亿元，企业数量超6200家",
+    "summary": "据最新数据，2025年我国人工智能核心产业规模超过1.2万亿元，企业数量超过6200家。预计到十五五末，相关产业规模将增长到10万亿元以上。AI正在成为产业转型升级的强劲增量。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6166a574fd969952",
+    "source": "企鹅号",
+    "slug": "china-ai-industry-scale-2025"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "高通宣布退出5G小基站市场，战略重心转向AI数据中心芯片及6G",
+    "summary": "高通宣布退出5G小基站市场，停止销售5G小基站芯片并减少软件支持。公司将战略重心转向AI数据中心芯片和下一代6G无线接入网络，计划2028年展示6G原型机及首款芯片，2029年底推向市场。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9406a57033130552",
+    "source": "企鹅号",
+    "slug": "qualcomm-exits-5g-small-cell-pivot-ai"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "西门子将在WAIC 2026首发Eigen工程智能体及Intelligence Center X",
+    "summary": "西门子将再度亮相2026世界人工智能大会，Eigen Engineering Agent（Eigen工程智能体）将在中国首发，工业AI编排软件Intelligence Center X也将迎来中国首展，推动AI智能体加速融入真实工业业务流程。",
     "url": "http://www.gongkong.com/news/",
     "source": "中国工控网",
-    "slug": "siemens-eigen-agent-china-debut-waic"
-  },
-  {
-    "date": "2026-07-15",
-    "title": "欧盟《云与AI发展法案》正式刊宪，全球首个云主权四级框架落地",
-    "summary": "欧盟于7月15日在《欧盟官方公报》正式刊宪《云与AI发展法案》（CADA），成为全球首个针对云服务和AI基础设施的系统性主权立法。法案首创四级云主权评估框架，目标在2029年前将欧盟数据中心容量扩大三倍。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8816a56204140752",
-    "source": "企鹅号",
-    "slug": "eu-cloud-ai-development-act-cada"
+    "slug": "siemens-eigen-agent-waic-2026"
   },
   {
     "date": "2026-07-14",
-    "title": "中国AI科研团队包揽AI与太空计算挑战赛全部赛道金奖",
-    "summary": "全球首个太空计算主题国际赛事「人工智能与太空计算挑战赛」评奖结果在日内瓦2026年AI造福人类全球峰会上揭晓，来自中国的科研团队获得挑战赛所有三个赛道的金奖。",
+    "title": "中国科研团队获AI与太空计算挑战赛全部三个赛道金奖",
+    "summary": "全球首个太空计算主题国际赛事「人工智能与太空计算挑战赛」在日内瓦2026年人工智能造福人类全球峰会上揭晓结果，来自中国的科研团队获得挑战赛所有三个赛道的金奖。",
     "url": "http://www.xbxxb.com/kj/1.html",
     "source": "西北在线",
     "slug": "china-team-wins-ai-space-computing-challenge"
-  },
-  {
-    "date": "2026-07-15",
-    "title": "AI人工智能ETF平安份额达48.41亿份创近1年新高，上半年算力硬件进出口增长55.6%",
-    "summary": "截至2026年7月15日，AI人工智能ETF平安（512930）最新份额达48.41亿份，创近1年新高。中证人工智能主题指数成分股金山办公领涨4.94%，深信服上涨3.83%，浪潮信息上涨2.99%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5946a56ecf580352",
-    "source": "企鹅号",
-    "slug": "ai-etf-pingan-record-share"
   }
 ]
