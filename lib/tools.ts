@@ -1,13 +1,17 @@
-import { AITool, Category, NewsItem, TutorialItem } from '@/types';
+import { AITool, Category, NewsItem, TutorialItem, EditorialItem } from '@/types';
 import toolsData from '@/data/tools.json';
 import categoriesData from '@/data/categories.json';
 import newsData from '@/data/news.json';
 import tutorialsData from '@/data/tutorials.json';
+import editorialsData from '@/data/editorials.json';
+import categoryIntrosData from '@/data/category_intros.json';
 
 export const tools = toolsData as AITool[];
 export const categories = categoriesData as unknown as Category[];
 export const newsItems = newsData as NewsItem[];
 export const tutorialItems = tutorialsData as TutorialItem[];
+export const editorials = editorialsData as EditorialItem[];
+export const categoryIntros = categoryIntrosData as Record<string, string>;
 
 export function getAllTools(): AITool[] {
   return tools;
@@ -69,4 +73,16 @@ export function getLatestNews(limit = 3): NewsItem[] {
 
 export function getLatestTutorials(limit = 3): TutorialItem[] {
   return tutorialItems.slice(0, limit);
+}
+
+export function getEditorialBySlug(slug: string): EditorialItem | undefined {
+  return editorials.find(e => e.slug === slug);
+}
+
+export function getEditorials(): EditorialItem[] {
+  return editorials;
+}
+
+export function getCategoryIntro(slug: string): string | undefined {
+  return categoryIntros[slug];
 }

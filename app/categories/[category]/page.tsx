@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { getCategoryBySlug, getToolsByCategory, getCategories } from '@/lib/tools';
+import { getCategoryBySlug, getToolsByCategory, getCategories, getCategoryIntro } from '@/lib/tools';
 import { Metadata } from 'next';
 import ToolCard from '@/components/ToolCard';
 import { SubcategoryGrid } from '@/components/SubcategoryGrid';
@@ -22,6 +22,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ categ
 
   const tools = getToolsByCategory(category);
   const subcats = cat.subcategories || {};
+  const intro = getCategoryIntro(category);
 
   return (
     <div className="max-w-6xl mx-auto px-6 py-6">
@@ -41,6 +42,17 @@ export default async function CategoryPage({ params }: { params: Promise<{ categ
           </div>
         </div>
       </div>
+
+      {/* Category Intro — original editorial content */}
+      {intro && (
+        <div className="mb-4 bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg border border-blue-100 p-4">
+          <div className="flex items-center gap-2 mb-2">
+            <span className="text-sm">📝</span>
+            <span className="text-xs font-bold text-blue-700">TaoAI 编辑部 · 分类介绍</span>
+          </div>
+          <p className="text-sm text-gray-700 leading-relaxed">{intro}</p>
+        </div>
+      )}
 
       {/* Subcategory Grid */}
       {Object.keys(subcats).length > 0 ? (

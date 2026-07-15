@@ -1,0 +1,25 @@
+import fs from 'fs';
+
+const items = [
+  { date: "2026-06-22", title: "世界模型：人工智能的下一个前沿", summary: "全球顶级科研团队正致力于打造名为\u201c世界模型\u201d的AI大模型，研究者认为世界模型才能真正通向\u201c智能\u201d。在北京一场科技大会上，使用世界模型的机器人已能完成给垃圾桶套塑料袋、为鲜花包装透明外壳等高难度任务。世界模型有望让AI具备\u201c推演未来\u201d的能力。", url: "https://so.html5.qq.com/page/real/search_news?docid=70000021_5776a3867f860552", source: "企鹅号", slug: "world-model-ai-frontier" },
+  { date: "2026-06-21", title: "黄仁勋最新访谈：AI是一场新工业革命", summary: "英伟达CEO黄仁勋在访谈中表示AI正引发一场新工业革命。与此同时，美国商务部工业与安全局(BIS)于5月31日紧急发布新指引，升级AI芯片出口管制，堵截中企通过海外子公司采购高端AI芯片的渠道。英伟达市值已突破5万亿美元。", url: "https://so.html5.qq.com/page/real/search_news?docid=70000021_0566a37e67b26452", source: "企鹅号", slug: "jensen-huang-ai-industrial-revolution" },
+  { date: "2026-06-21", title: "诺贝尔奖得主John Jumper离开DeepMind加盟Anthropic", summary: "诺贝尔奖得主、资深研究科学家约翰\u00b7江珀(John Jumper)于当地时间6月19日宣布，在谷歌DeepMind工作近九年后，决定离开并加入AI初创企业Anthropic。", url: "https://so.html5.qq.com/page/real/search_news?docid=70000021_5406a37627b97852", source: "企鹅号", slug: "john-jumper-joins-anthropic" },
+  { date: "2026-06-21", title: "金融监管总局发布银行业保险业首份AI安全开发应用指导意见", summary: "AI正从银行业的\u201c技术选项\u201d变为\u201c生存刚需\u201d。金融监管总局发布银行业保险业首份AI安全开发应用指导意见，从治理架构、开发应用、数据治理等多个维度为金融机构AI发展拧紧\u201c安全阀\u201d。", url: "https://so.html5.qq.com/page/real/search_news?docid=70000021_0566a37e96468252", source: "企鹅号", slug: "banking-ai-safety-guidelines" },
+  { date: "2026-06-21", title: "OpenAI GPT-5.6系列模型有望下周发布", summary: "据科技媒体testingcatalog报道，OpenAI有望下周推出GPT-5.6系列模型，涵盖mini版、标准版以及Pro版等多个版本，或将成为OpenAI迄今最强AI模型系列。", url: "https://so.html5.qq.com/page/real/search_news?docid=70000021_0256a3732f741352", source: "极客早知道/企鹅号", slug: "openai-gpt-5-6-next-week" },
+  { date: "2026-06-21", title: "讯兔科技金融AI生态论坛暨PaiWork+发布会在上海举行", summary: "6月18日，讯兔科技2026金融AI生态论坛暨PaiWork+发布会在上海举行，300余位来自金融、AI、学术与产业生态的嘉宾到场。金融AI竞争正从\u201c模型能回答什么\u201d进入\u201c能为投研创造多少Alpha\u201d的阶段。", url: "https://so.html5.qq.com/page/real/search_news?docid=70000021_3566a3797c079752", source: "财联社/企鹅号", slug: "xuntu-finance-ai-forum-paiwork" },
+  { date: "2026-06-21", title: "摩根大通预计2030年AI基础设施建设总花费将达5.5万亿美元", summary: "摩根大通最新报告预计，到2030年人工智能超大规模数据中心运营商将投入约5.5万亿美元，较此前预测增加4000亿美元。报告指出超大规模数据中心运营商仍保持着\u201c惊人的盈利能力\u201d。", url: "https://so.html5.qq.com/page/real/search_news?docid=70000021_5326a37c83613652", source: "企鹅号", slug: "jpmorgan-ai-infrastructure-5-5-trillion" },
+  { date: "2026-06-21", title: "阿里合伙人调整：AI科学家周靖人、CFO徐宏加入", summary: "根据阿里巴巴2025财务年度报告，通义大模型团队从零到一搭建、Qwen系列在全球模型中确立领先地位的关键人物周靖人正式成为阿里巴巴合伙人，同时CFO徐宏也加入合伙人行列。", url: "https://so.html5.qq.com/page/real/search_news?docid=70000021_4176a374ec684852", source: "企鹅号", slug: "alibaba-ai-scientist-partner" },
+  { date: "2026-06-21", title: "CVPR 2026收录字节Seed空间智能新突破SpatialTree", summary: "浙江大学、字节跳动Seed、北京交通大学等团队提出SpatialTree，被CVPR 2026收录。该研究将多模态大模型的空间智能重新整理为一棵能力树：从基础感知到心理地图、心理模拟，再到空间智能体行动，重新建构了MLLM空间能力路线图。", url: "https://so.html5.qq.com/page/real/search_news?docid=70000021_4826a374e0088052", source: "企鹅号", slug: "bytedance-spatialtree-cvpr-2026" },
+  { date: "2026-06-21", title: "LLM正进入\u201c推荐系统化\u201d深水区：性能霸权扼杀算法创新", summary: "分析指出，当前大模型架构正变得像推荐系统一样臃肿破碎，性能优化从锦上添花变为硬性门槛。\u201c性能霸权\u201d正在扼杀算法层面的创新，真正的突破点在于FlexAttention等底层框架的进化，让\u201c可组合性\u201d回归。", url: "https://news.qq.com/rain/a/20260621A02GI900", source: "腾讯新闻", slug: "llm-recommender-system-performance" },
+  { date: "2026-06-21", title: "618电商大促：AI成流量核心入口，迈入\u201cAI原生大促元年\u201d", summary: "今年618期间，京东、天猫、抖音等电商平台深度应用AI技术提升购物效率和用户体验，AI成为电商流量核心入口，标志着电商行业正式迈入\u201cAI原生大促元年\u201d。", url: "https://so.html5.qq.com/page/real/search_news?docid=70000021_5406a37627b97852", source: "企鹅号", slug: "618-ecommerce-ai-native" },
+  { date: "2026-06-21", title: "国家发改委：中国将探索开展人工智能监管合作", summary: "国家发展改革委表示，中国将探索开展人工智能监管合作，推动AI产业规范健康发展。", url: "https://tech.163.com/", source: "网易科技", slug: "ndrc-ai-regulatory-cooperation" },
+  { date: "2026-06-21", title: "全球OPC共创节将在北京举行，打造AI创造者年度派对", summary: "7月1日至4日，全球OPC共创节将在北京国家会议中心举行，旨在打造一场真正属于AI创造者的年度派对。该活动由全球数字经济大会组委会主办。", url: "https://www.bbtnews.com.cn/chuizhipd/yaowenzx/zhengjingpd/", source: "北京商报网", slug: "global-opc-festival-beijing" }
+];
+
+const json = JSON.stringify(items, null, 2);
+fs.writeFileSync('D:/ai-nav-site/data/news.json', json, 'utf8');
+
+// Verify
+const verify = fs.readFileSync('D:/ai-nav-site/data/news.json', 'utf8');
+JSON.parse(verify);
+console.log(`OK: ${items.length} items, ${json.length} bytes, valid JSON`);

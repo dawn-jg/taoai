@@ -50,3 +50,14 @@ export interface TutorialItem {
   thumbnail?: string;
   url?: string;
 }
+
+export interface EditorialItem {
+  slug: string;
+  author: string;
+  date: string;
+  rating: number;
+  summary: string;
+  body: string;
+  pros: string[];
+  cons: string[];
+}

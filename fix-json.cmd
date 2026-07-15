@@ -1,0 +1,1 @@
+@node -e "var fs=require('fs');var t=fs.readFileSync('D:\\ai-nav-site\\data\\news.json','utf8');t=t.replace(/[\u201c\u201d]/g,'\"');fs.writeFileSync('D:\\ai-nav-site\\data\\news.json',t,'utf8');console.log('Fixed')"

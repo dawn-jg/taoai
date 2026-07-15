@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { getToolBySlug, getCategories, getAllTools } from '@/lib/tools';
+import { getToolBySlug, getCategories, getAllTools, getEditorialBySlug } from '@/lib/tools';
 import ToolLogo from '@/components/ToolLogo';
 import { Metadata } from 'next';
 
@@ -24,6 +24,7 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
   const cats = getCategories();
   const relatedTools = getAllTools().filter(t => t.slug !== slug && t.categories.some(c => tool.categories.includes(c))).slice(0, 6);
   const hasDetails = tool.detailed_content && tool.detailed_content.length > 0;
+  const editorial = getEditorialBySlug(slug);
 
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 py-6">
@@ -87,6 +88,54 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
         </div>
       </div>
 
+      {/* ===== Editorial Review (from TaoAI) ===== */}
+      {editorial && (
+        <div className="mb-5 bg-gradient-to-br from-amber-50 to-orange-50 rounded-xl border border-amber-200 p-6">
+          <div className="flex items-center gap-2 mb-4">
+            <span className="text-lg">✍️</span>
+            <h2 className="text-base font-bold text-gray-900">TaoAI 编辑评测</h2>
+            <span className="text-[10px] text-amber-600 bg-amber-100 px-2 py-0.5 rounded-full">原创内容</span>
+          </div>
+          <div className="flex items-center gap-2 mb-3">
+            <div className="flex items-center gap-0.5 text-amber-500 text-sm">
+              {Array.from({ length: Math.floor(editorial.rating) }).map((_, i) => (
+                <span key={i}>★</span>
+              ))}
+              {editorial.rating % 1 >= 0.5 && <span>½</span>}
+            </div>
+            <span className="text-sm font-bold text-gray-900">{editorial.rating}</span>
+            <span className="text-xs text-gray-500">/ 5.0</span>
+            <span className="text-[10px] text-gray-400 ml-auto">{editorial.author} · {editorial.date}</span>
+          </div>
+          <p className="text-sm text-gray-700 font-medium mb-3">{editorial.summary}</p>
+          <div className="text-sm text-gray-700 leading-relaxed whitespace-pre-line mb-4">{editorial.body}</div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            <div className="bg-green-50 border border-green-200 rounded-lg p-3">
+              <h4 className="text-xs font-bold text-green-700 mb-2">👍 优点</h4>
+              <ul className="space-y-1">
+                {editorial.pros.map((p, i) => (
+                  <li key={i} className="text-xs text-green-800 flex items-start gap-1.5">
+                    <span className="text-green-500 shrink-0 mt-0.5">✓</span>
+                    <span>{p}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+            <div className="bg-red-50 border border-red-200 rounded-lg p-3">
+              <h4 className="text-xs font-bold text-red-700 mb-2">👎 缺点</h4>
+              <ul className="space-y-1">
+                {editorial.cons.map((c, i) => (
+                  <li key={i} className="text-xs text-red-800 flex items-start gap-1.5">
+                    <span className="text-red-500 shrink-0 mt-0.5">✗</span>
+                    <span>{c}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* ===== Screenshots Gallery ===== */}
       {tool.screenshots && tool.screenshots.length > 0 && (
         <div className="mb-5">
@@ -101,6 +150,58 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
                 <div className="px-3 py-2 text-xs text-gray-400">截图 {i + 1} — 点击查看原图</div>
               </a>
             ))}
+          </div>
+        </div>
+      )}
+
+      {/* ===== Editorial Review (from TaoAI) ===== */}
+      {editorial && (
+        <div className="mb-5 bg-gradient-to-br from-amber-50 to-orange-50 rounded-xl border border-amber-200 p-6">
+          <div className="flex items-center gap-2 mb-4">
+            <span className="text-lg">✍️</span>
+            <h2 className="text-base font-bold text-gray-900">TaoAI 编辑评测</h2>
+            <span className="text-[10px] text-amber-600 bg-amber-100 px-2 py-0.5 rounded-full">原创内容</span>
+          </div>
+
+          <div className="flex items-center gap-2 mb-3">
+            <div className="flex items-center gap-0.5 text-amber-500 text-sm">
+              {Array.from({ length: Math.floor(editorial.rating) }).map((_, i) => (
+                <span key={i}>★</span>
+              ))}
+              {editorial.rating % 1 >= 0.5 && <span>½</span>}
+            </div>
+            <span className="text-sm font-bold text-gray-900">{editorial.rating}</span>
+            <span className="text-xs text-gray-500">/ 5.0</span>
+            <span className="text-[10px] text-gray-400 ml-auto">{editorial.author} · {editorial.date}</span>
+          </div>
+
+          <p className="text-sm text-gray-700 font-medium mb-3">{editorial.summary}</p>
+          <div className="text-sm text-gray-700 leading-relaxed whitespace-pre-line mb-4">{editorial.body}</div>
+
+          {/* Pros & Cons */}
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            <div className="bg-green-50 border border-green-200 rounded-lg p-3">
+              <h4 className="text-xs font-bold text-green-700 mb-2">👍 优点</h4>
+              <ul className="space-y-1">
+                {editorial.pros.map((p, i) => (
+                  <li key={i} className="text-xs text-green-800 flex items-start gap-1.5">
+                    <span className="text-green-500 shrink-0 mt-0.5">✓</span>
+                    <span>{p}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+            <div className="bg-red-50 border border-red-200 rounded-lg p-3">
+              <h4 className="text-xs font-bold text-red-700 mb-2">👎 缺点</h4>
+              <ul className="space-y-1">
+                {editorial.cons.map((c, i) => (
+                  <li key={i} className="text-xs text-red-800 flex items-start gap-1.5">
+                    <span className="text-red-500 shrink-0 mt-0.5">✗</span>
+                    <span>{c}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
           </div>
         </div>
       )}
