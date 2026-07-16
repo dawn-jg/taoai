@@ -2,121 +2,105 @@
   {
     "date": "2026-07-16",
     "title": "2026世界人工智能大会明日启幕，习近平将出席并发表主旨讲话",
-    "summary": "7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议将在上海举行，展览总面积首次突破10万平方米，1100余家企业携3000余项展品亮相，超300款产品全球首发，首次开设具身智能专区。",
+    "summary": "7月17日~20日，2026世界人工智能大会(WAIC)暨人工智能全球治理高级别会议将在上海举行。1400多名嘉宾云集上海，主题为「智能伙伴，共创未来」。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0756a57561b17252",
-    "source": "央视新闻",
-    "slug": "waic-2026-preview"
-  },
-  {
-    "date": "2026-07-15",
-    "title": "7款手机端侧AI大模型完成备案，Apple智能、华为小艺等在列",
-    "summary": "网信办发布新增7款手机端侧生成式AI服务备案信息，包括Apple智能、华为小艺AI、OPPO AndesGPT、vivo蓝心、小米澎湃AI、三星盖乐世AI、努比亚豆包，备案时间均为2026年7月8日。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1546a5749a840752",
-    "source": "网信中国",
-    "slug": "mobile-ai-models-filing"
-  },
-  {
-    "date": "2026-07-15",
-    "title": "阿里通义千问将集成至Apple Intelligence，发布新语音模型Qwen-Audio-3.0-Realtime",
-    "summary": "阿里巴巴旗下大模型通义千问将作为AI能力集成至Apple Intelligence为中国用户提供服务，同日发布新一代实时语音交互模型Qwen-Audio-3.0-Realtime，在实时语音对话、Agent工具调用、共情对话等方面实现升级。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5616a57597398552",
     "source": "企鹅号",
-    "slug": "alibaba-qwen-apple-intelligence"
-  },
-  {
-    "date": "2026-07-15",
-    "title": "DeepSeek启动新一轮融资：估值710亿美元，最快年底提交IPO申请",
-    "summary": "据彭博社等报道，DeepSeek已启动新一轮约15亿美元融资谈判，投前估值约710亿美元（约4800亿人民币），同时推进IPO筹备，计划登陆上交所，最快2026年底提交申请、2027年完成上市，IPO前目标再融资至少100亿元。",
-    "url": "https://new.qq.com/rain/a/20260715A049LJ00",
-    "source": "彭博社/太平洋科技",
-    "slug": "deepseek-funding-ipo"
-  },
-  {
-    "date": "2026-07-15",
-    "title": "美企大规模转向中国AI模型，DeepSeek等使用占比飙升至46%",
-    "summary": "OpenRouter平台数据显示，自2月8日起美国企业调用中国AI模型的词元占比每周均超30%、最高达46%，过去12个月平均仅11%。智谱GLM 5.2上线首周日均调用量增长27倍、客户数增长80倍。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6486a577f1906552",
-    "source": "CNBC/企鹅号",
-    "slug": "us-firms-chinese-ai-models"
-  },
-  {
-    "date": "2026-07-15",
-    "title": "李彦宏人民日报撰文：AI不能只在实验室里'刷榜'",
-    "summary": "WAIC召开前夕，百度创始人李彦宏在《人民日报》发表题为《为智能经济打造科学评价体系》署名文章，呼应中央'人工智能+'行动和'打造智能经济新形态'部署。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9746a57498104752",
-    "source": "人民日报",
-    "slug": "robin-li-people-daily-ai"
-  },
-  {
-    "date": "2026-07-15",
-    "title": "美团LongCat-2.0：1.6万亿参数，五万张国产卡从零训练，OpenRouter全球调用量冲上第一",
-    "summary": "美团发布LongCat-2.0大模型，1.6万亿参数，完全使用国产AI芯片训练，在OpenRouter平台Hermes全球调用量冲上第一，成为国产算力训练大模型的重要里程碑。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2586a580f8f53352",
-    "source": "企鹅号",
-    "slug": "meituan-longcat-2"
-  },
-  {
-    "date": "2026-07-15",
-    "title": "腾讯发布两大具身智能基座模型：VLM与世界认知模型让机器人更懂现实",
-    "summary": "腾讯Robotics X实验室联合混元推出Hy-Embodied-VLM-1.0和Hy-Embodied-RxBrain-1.0，前者从物理空间理解、动作变化、时序推理三个层次构建能力，后者基于5万+小时高质量具身数据训练，统一文本/图像/视频理解与生成。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8276a57668b04852",
-    "source": "腾讯",
-    "slug": "tencent-embodied-ai-models"
-  },
-  {
-    "date": "2026-07-15",
-    "title": "小米发布具身生成模型Xiaomi-Robotics-U0：380亿参数，WorldArena评测全球第一",
-    "summary": "小米机器人事业部发布380亿参数多模态自回归具身生成基础模型，是具身领域首个覆盖四类任务的统一生成模型，在WorldArena评测基准上126个模型中排名第一，代码与模型权重已全量开源。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7686a57579673752",
-    "source": "小米",
-    "slug": "xiaomi-robotics-u0"
+    "slug": "waic-2026-opening"
   },
   {
     "date": "2026-07-16",
-    "title": "小鹏计划明年全球推出IRON人形机器人，年底月产能目标超1000台",
-    "summary": "小鹏汽车计划2027年在全球推出IRON人形机器人，力争2026年底月产能突破1000台，已与广州天河区签署协议落地总建筑面积11万㎡的人形机器人全链条量产基地。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1716a57fecd94152",
-    "source": "观点网",
-    "slug": "xpeng-iron-robot"
-  },
-  {
-    "date": "2026-07-15",
-    "title": "苹果正寻求收购AI芯片公司以突破AI服务器芯片研发瓶颈",
-    "summary": "据知情人士透露，苹果正积极筹划对半导体芯片企业实施并购，已频繁接触投资银行及多家半导体初创企业，旨在攻克AI服务器芯片研发性能瓶颈，摆脱对英伟达算力基础设施的深度依赖。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3846a57fee406252",
-    "source": "环球市场播报",
-    "slug": "apple-ai-chip-acquisition"
-  },
-  {
-    "date": "2026-07-15",
-    "title": "星尘智能发布具身基座模型Lumo-2及物理AI智能体Philia",
-    "summary": "具身智能创业企业星尘智能发布第二代具身基座模型Lumo-2和面向长期人机共处的物理AI智能体Philia，Lumo-2改善机器人理解物理变化、预测未来并生成动作的能力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3466a575a9f93652",
-    "source": "星尘智能",
-    "slug": "stardust-lumo-2"
-  },
-  {
-    "date": "2026-07-15",
-    "title": "MiniMax自研稀疏注意力架构实现大模型降本增效：百万字长文本计算成本降至1/20",
-    "summary": "MiniMax披露自研稀疏注意力（MSA）架构，成功将百万字长文本的单位Token计算成本降至传统全注意力机制的约1/20，在大模型竞赛中走出降本增效突围之路。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8276a56c09907452",
-    "source": "MiniMax",
-    "slug": "minimax-msa-architecture"
-  },
-  {
-    "date": "2026-07-15",
-    "title": "全国累计988款大模型完成备案，北京242款居首，广东占近19%",
-    "summary": "全国累计988款生成式AI服务完成备案，北京242款（约30%）居第一，上海169款第二，广州94款第三。广东累计164款，新增备案含情感陪伴、教育教学等场景大模型。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2706a574c0e04252",
+    "title": "小鹏计划年底前每月生产1000台人形机器人",
+    "summary": "小鹏计划明年在全球推出人形机器人，年底前每月生产1000台。据工信部消息，今年人形机器人全年整机产量有望突破10万台，人形机器人已开始进工厂、下车间。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1466a582fe471752",
     "source": "企鹅号",
-    "slug": "china-ai-model-filings-988"
+    "slug": "xiaopeng-humanoid-robot-mass-production"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "WAIC首次开设具身智能专区，宇树智元等头部企业参展",
+    "summary": "本届WAIC首次开设具身智能专区，集中展示人形机器人、具身智能等领域最新成果，宇树、智元等头部企业均将参展，多款新一代人形机器人产品有望亮相。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1466a582fe471752",
+    "source": "企鹅号",
+    "slug": "waic-embodied-intelligence-zone"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "阿里千问将集成至Apple智能，端侧AI生态迎来关键突破",
+    "summary": "阿里千问将作为AI能力集成至Apple智能，为iOS、iPadOS、macOS和visionOS的中国用户带来文本与图像理解、内容生成等能力，用户无需切换应用即可直接体验。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1376a5836cb11452",
+    "source": "企鹅号",
+    "slug": "alibaba-qwen-apple-intelligence-integration"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "网信办发布7款手机端侧AI大模型备案，覆盖苹果华为OPPO等",
+    "summary": "网信办新增7款手机端侧生成式AI服务备案，包括Apple智能、华为小艺AI、OPPO AndesGPT、vivo蓝心端侧大模型、小米澎湃AI、三星盖乐世AI和努比亚豆包大模型，备案时间为2026年7月8日。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1546a5749a840752",
+    "source": "企鹅号",
+    "slug": "7-mobile-ai-models-filing"
   },
   {
     "date": "2026-07-15",
-    "title": "它石智航A3工业机器人开启全国首个千台级具身机器人规模化部署",
-    "summary": "它石智航全新一代A3轮式双臂具身工业机器人全面搭载地瓜机器人旭日S600芯片，面向工业、汽车、科研等场景开启规模化落地量产，地瓜机器人已获20余家头部客户合作。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1466a57593d32452",
-    "source": "地瓜机器人",
-    "slug": "tashizhihang-a3-robot-deployment"
+    "title": "AI造福人类全球峰会在日内瓦落幕，聚焦AI实际应用",
+    "summary": "2026年AI造福人类全球峰会在瑞士日内瓦落下帷幕，主题为「释放AI服务人类的潜力」，来自全球逾万名代表参会，聚焦AI在医疗保健、教育、食品安全、减灾等领域的实际应用。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1586a577a8f74652",
+    "source": "新华网",
+    "slug": "ai-for-good-global-summit-2026"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "全球媒体聚焦：WAIC将重点讨论AI全球治理框架",
+    "summary": "多家媒体报道称人工智能是全球治理的关键领域之一，本届WAIC鼓励联合创新和共同治理，预计还将重点关注中国在塑造全球AI未来及其治理方面日益增长的影响力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2766a5820e760352",
+    "source": "企鹅号",
+    "slug": "waic-global-ai-governance"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "WAIC前夕上海AI产业热议自主创新与AI治理",
+    "summary": "界面新闻报道，2026世界人工智能大会倒计时两天之际，一场围绕环球视角下的中国AI产业思辨已在上海提前发酵，业界聚焦自主创新与AI治理话题。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1156a57498766252",
+    "source": "界面新闻",
+    "slug": "shanghai-ai-industry-innovation-governance"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "上海发布餐饮业智能化布局三年规划（2026-2028）",
+    "summary": "上海发布了2026年至2028年餐饮业智能化布局规划，AI食堂作为新兴业态，预计未来两到三年将迅速成长，外滩灯光在WAIC期间将为AI特别点亮。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2656a5819b885052",
+    "source": "企鹅号",
+    "slug": "shanghai-catering-ai-layout-plan"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "OpenAI正在开发AI伴侣智能音箱，定位首款硬件产品",
+    "summary": "OpenAI首款硬件设备将是一台可移动、无屏幕的智能音箱，定位为AI伴侣，可控制智能家居、播放媒体、回答问题、回复消息并调用ChatGPT广泛功能。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6576a58244522552",
+    "source": "企鹅号",
+    "slug": "openai-ai-companion-smart-speaker"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "东方算芯发布全球首颗大算力3D芯片DF1000",
+    "summary": "东方算芯发布全球首颗大算力3D芯片DF1000，采用软件定义芯片技术和3D混合键合技术，实现520TFLOPS@BF16算力，旨在解决AI芯片存储墙难题。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5586a5707af31952",
+    "source": "企鹅号",
+    "slug": "dongfang-suanxin-3d-chip-df1000"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "阶跃星辰发布大模型原生AI终端品牌STEPX及智能体手机",
+    "summary": "阶跃星辰发布大模型原生AI终端品牌STEPX，并推出首款大模型原生智能体手机，标志着AI终端从应用层向系统层深度融合的新趋势。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5586a5707af31952",
+    "source": "企鹅号",
+    "slug": "stepfun-stepx-ai-agent-phone"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "AI大模型竞争进入拼成本新阶段",
+    "summary": "OpenAI、xAI、Meta等全球头部AI企业相继推出新一代大模型，新一轮竞争更强调单位Token效率、调用价格、运行速度与综合成本，大模型进化方向从能力有多强转向以多低成本稳定完成任务。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1146a581a1f32452",
+    "source": "企鹅号",
+    "slug": "ai-llm-cost-competition"
   }
 ]
