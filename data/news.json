@@ -1,122 +1,114 @@
 [
   {
     "date": "2026-07-17",
-    "title": "2026世界人工智能大会今日上海开幕，展览面积首破10万平方米",
-    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议于7月17日至20日在上海举行。展览总面积首次突破10万平方米，1100余家企业参展，3000余项展品集中亮相，其中超300款为全球首发。国家主席习近平将出席开幕式并发表主旨讲话。",
-    "url": "https://new.qq.com/rain/a/20260716A090DA00",
+    "title": "2026世界人工智能大会在上海开幕，习近平主席出席主旨演讲",
+    "summary": "以'智能伙伴·共创未来'为主题的2026世界人工智能大会（WAIC）7月17日在上海开幕，国家主席习近平出席开幕式并发表主旨讲话，全面系统阐述中方对人工智能发展和治理的政策立场。大会展览面积首次突破10万平方米，1100余家企业参展，3000余项展品集中亮相，超300款产品实现全球首发。",
+    "url": "https://new.qq.com/rain/a/20260717A027LU00",
     "source": "腾讯网",
-    "slug": "waic-2026-shanghai-opening"
+    "slug": "waic-2026-kicks-off-xi-speaks"
   },
   {
-    "date": "2026-07-16",
-    "title": "7款手机端侧大模型完成备案：苹果、华为、小米、三星等在列",
-    "summary": "国家网信办发布7款提供手机端侧生成式人工智能服务备案信息，包括Apple智能、华为小艺AI大模型、OPPO AndesGPT、vivo蓝心端侧大模型、小米澎湃AI（MiMo）、三星盖乐世AI及努比亚豆包手机大模型，备案时间统一为2026年7月8日。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8646a588b8b95665",
-    "source": "企鹅号",
-    "slug": "7-mobile-ai-models-filing"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "小米连发具身智能三项进展：380亿参数具身基础模型U0发布",
-    "summary": "小米发布Xiaomi-Robotics-U0多模态具身基础模型，参数达380亿，是具身智能领域首款可统一处理四类核心任务的生成式模型。同步发布具身基座模型Xiaomi-Robotics-1，加上此前亮出的人形机器人工厂成绩单，布局加速。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8646a588b8b95665",
-    "source": "企鹅号",
-    "slug": "xiaomi-embodied-ai-u0"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "苹果、三星AI服务通过中国备案，百度均为AI合作伙伴",
-    "summary": "网信办公布7款新增手机端侧生成式人工智能服务备案信息，苹果智能、三星Galaxy AI均在列。知情人士透露，百度将重点支持苹果开发基于AI的搜索功能并升级中国版Siri，同时百度文心大模型将合作Galaxy AI。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4776a585e5d70352",
-    "source": "新浪科技",
-    "slug": "apple-samsung-ai-filing-baidu"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "英伟达推出Jetson Thor计算机，联手日本企业共推物理AI机器人",
-    "summary": "英伟达推出全新Jetson Thor计算机（T3000/T2000模块），面向机器人和边缘AI应用，计划2027年Q1上市。黄仁勋率团访日，富士通、发那科、川崎重工和安川电机加入Cosmos联盟，发布Cosmos 3-H世界基础模型简化版。",
+    "date": "2026-07-17",
+    "title": "英伟达推出全新Jetson Thor计算机，面向机器人与边缘AI",
+    "summary": "英伟达于7月15日推出全新Jetson Thor计算机，旨在推进主流机器人技术和边缘人工智能。基于NVIDIA Jetson AGX Thor架构的新模块T3000和T2000搭配全新内存优化技术和Agent技术，可大规模支持大众市场的机器人和边缘AI应用。两款模块计划于2027年第一季度上市。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0796a58dee169552",
     "source": "企鹅号",
-    "slug": "nvidia-jetson-thor-japan-physical-ai"
+    "slug": "nvidia-jetson-thor-robotics-edge-ai"
   },
   {
-    "date": "2026-07-16",
-    "title": "日本拟采购2.75万颗英伟达Rubin芯片打造本土机器人AI模型",
-    "summary": "日本新成立Noetra Corp，由软银、Preferred Networks、NEC、富士通等数十家企业参与，计划从英伟达采购27500颗Rubin架构GPU，已获政府3873亿日元（约24亿美元）资金支持，计划2027年3月前发布首个AI模型。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7316a58a37042652",
-    "source": "企鹅号",
-    "slug": "japan-nvidia-rubin-robot-ai"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "腾讯混元Hy3上线一周总调用量增长超68倍，OpenRouter全球排名第一",
-    "summary": "腾讯混元官方表示，截至7月15日，混元大模型Hy3总调用量较上一代Hy2增长已超68倍，延续Hy3 preview版本的增长态势，展现出更高的增长斜率。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4896a58a6e683852",
-    "source": "企鹅号",
-    "slug": "tencent-hunyuan-hy3-growth"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "OpenAI正在开发AI伴侣智能音箱作为首款硬件产品",
-    "summary": "据报道，OpenAI首款硬件设备将是一台可移动、无屏幕的智能音箱，定位为AI时代的新型家用电脑。该设备将作为AI伴侣，支持控制智能家居、播放媒体、回答问题、回复消息并调用ChatGPT功能。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6576a58244522552",
-    "source": "企鹅号",
-    "slug": "openai-ai-companion-speaker"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "外交部回应外媒渲染中国开源AI模型为陷阱，WAIC即将开幕",
-    "summary": "外交部发言人林剑表示，中方反对以意识形态划线和技术封锁，愿同各方共享经验提升全球AI发展水平。前OpenAI CTO团队同期发布借鉴中国技术的开源模型Inkling。联合国希望推动AI负责任使用并造福所有人。",
-    "url": "https://new.qq.com/rain/a/20260716A090DA00",
-    "source": "腾讯网",
-    "slug": "china-open-source-ai-foreign-media-response"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "东方算芯发布旗舰AI芯片DF1000：14nm实现520TFLOPS算力",
-    "summary": "东方算芯发布旗舰AI芯片DF1000，采用软件定义+3D堆叠近存计算架构，在14nm成熟工艺节点上实现520TFLOPS（BF16）算力和6.4TB/s访存带宽，为国产高端AI算力探索不依赖先进制程的新路径。",
-    "url": "https://article.pchome.net/n0/",
-    "source": "电脑之家",
-    "slug": "dongfang-suanxin-df1000-ai-chip"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "WAIC 2026前瞻：智元远征A3 Ultra人形机器人成镇馆之宝",
-    "summary": "2026世界人工智能大会机器人展区，智元远征A3 Ultra亮相，174cm身高标配高阶灵巧手，可化身24小时接待员适配展厅讲解、酒店接待等场景。大晓机器人以自研开悟世界模型Kairos为核心参展。工业级外骨骼机器人已投入展台搭建。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7846a58e66827952",
-    "source": "中新网",
-    "slug": "waic-2026-zhiyuan-robot"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "苹果自研AI服务器芯片Baltra计划被曝推迟",
-    "summary": "知情人士透露，苹果内部代号为Baltra的自研AI服务器芯片原计划今年落地，现已推迟。台积电表示A14芯片将于2028年量产，A13、A12芯片2029年量产，对AI趋势充满信心，未来三年资本支出将显著高于过去三年。",
+    "date": "2026-07-17",
+    "title": "苹果自研AI服务器芯片项目据报推迟，原定今年落地",
+    "summary": "知情人士透露，苹果内部代号为Baltra的自研AI服务器芯片原计划今年落地，现已推迟。该芯片旨在为苹果自有AI服务提供数据中心算力支撑，推迟原因尚不明确。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0796a58dee169552",
     "source": "企鹅号",
-    "slug": "apple-baltra-ai-chip-delayed"
+    "slug": "apple-baltra-ai-server-chip-delayed"
   },
   {
-    "date": "2026-07-16",
-    "title": "努比亚发布首款AI智能体手机NaviX Ultra，搭载豆包手机助手",
-    "summary": "中兴通讯旗下努比亚宣布，其首款AI智能体手机——搭载豆包手机助手的努比亚NaviX Ultra正式亮相，标志着手机端AI智能体应用进入新阶段。",
-    "url": "https://enterprise.eastmoney.com/a/ccyzx.html",
-    "source": "东方财富网",
+    "date": "2026-07-17",
+    "title": "台积电A14芯片将于2028年量产，AI驱动资本支出大幅提升",
+    "summary": "台积电表示，A14芯片将于2028年开始量产，A13、A12芯片将于2029年开始量产。台积电对人工智能趋势充满信心，未来三年资本支出将显著高于过去三年，持续加码先进制程产能。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0796a58dee169552",
+    "source": "企鹅号",
+    "slug": "tsmc-a14-chip-2028-production"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "全球首款AI智能体手机努比亚NaviX Ultra在WAIC 2026正式亮相",
+    "summary": "努比亚官方宣布，全球首款AI智能体手机努比亚NaviX Ultra在WAIC 2026正式亮相，搭载字节跳动豆包手机助手，能自主识别手机屏幕内容并模拟触控，跨200多个应用帮用户自动完成订餐、支付等复杂任务。",
+    "url": "http://news.imobile.com.cn/",
+    "source": "手机之家",
     "slug": "nubia-navix-ultra-ai-agent-phone"
   },
   {
     "date": "2026-07-16",
-    "title": "科创板32家AI相关公司半年报预喜，澜起科技韩国遭调查",
-    "summary": "截至7月16日晚，科创板32家公司披露2026年半年度业绩预告，其中30家预喜，与AI产业大周期、半导体国产化密切相关。澜起科技韩国办公室接受首尔中央地方检察厅现场搜查，涉及潜在反垄断事宜。",
-    "url": "http://finance.eastmoney.com/a/cgsxw.html",
-    "source": "东方财富网",
-    "slug": "star-market-ai-semiconductor-earnings"
+    "title": "国家网信办公示7款手机端侧生成式AI备案，含Apple智能和盖乐世AI等",
+    "summary": "国家网信办发布7款提供手机端侧生成式人工智能服务备案信息，包括Apple智能、AndesGPT大模型、华为小艺AI大模型、vivo蓝心端侧大模型、小米澎湃AI、盖乐世AI及努比亚豆包手机大模型，推动生成式AI产业创新与行业规范化落地。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1116a58910554052",
+    "source": "企鹅号",
+    "slug": "china-cyber-portal-7-mobile-ai-filings"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "京东推出京麦AI经营中心，向商家开放22款核心AI工具",
+    "summary": "京东宣布正式推出京麦AI经营中心，并向商家全量开放22款核心AI工具。该中心是京东专为商家打造的一站式AI经营聚合平台，首期功能已全面上线，覆盖店铺运营、客服、营销等多个核心场景。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7566a59842950852",
+    "source": "企鹅号",
+    "slug": "jd-ai-business-center-launches"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "金山办公发布两款AI办公智能体，WPS AI战略从内容生成走向结果交付",
+    "summary": "金山办公在2026 AI生产力大会上发布两款AI办公智能体：面向个人的灵犀专业版与面向组织的WPS Comate，标志着其AI战略从内容生成向结果交付深化。灵犀专业版可直接交付保留公式的表格、可编辑的PPT等原生文档。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2856a59840b80152",
+    "source": "企鹅号",
+    "slug": "kingsoft-wps-ai-smart-agent-launch"
   },
   {
     "date": "2026-07-16",
-    "title": "杨国安新书提出杨五环2.0 AI变革操作系统",
-    "summary": "腾讯研究院刊文解读杨国安《智在未来》提出的杨五环2.0模型，强调AI变革成败取决于CEO信念与勇气，并以理想、美图、和睦家等8家企业案例拆解数智科技如何重塑产业范式。",
+    "title": "华为携Atlas 950超节点算力集群亮相WAIC 2026",
+    "summary": "WAIC 2026期间，华为展示业界最大规模超节点Atlas 950真机，搭载1024张昇腾算力卡。百度则发布芯云模体全栈AI产品矩阵。本届大会国内算力产业竞争已从单一芯片、单台设备比拼转向整套系统工程综合实力较量。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2006a59a75675252",
+    "source": "企鹅号",
+    "slug": "huawei-atlas-950-waic-2026"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "智元远征A3 Ultra入选WAIC镇馆之宝，商用全尺寸人形机器人亮相",
+    "summary": "智元商用全尺寸人形机器人远征A3 Ultra成功入选WAIC 2026镇馆之宝，成为10件镇馆之宝中唯一一款具身智能机器人产品。远征A3 Ultra身高174cm，标配高阶灵巧手，可适配展厅讲解、酒店接待、场馆导览、门店导购等场景。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7846a58e66827952",
+    "source": "企鹅号",
+    "slug": "zhiyuan-a3-ultra-waic-hero-product"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "蚂蚁灵波开源世界模型LingBot-World 2.0，定义AI交互新范式",
+    "summary": "蚂蚁灵波科技开源新一代实时交互世界模型LingBot-World 2.0。其具身原生世界动作模型LingBot-VA 2.0被评为WAIC 2026镇馆之宝，是行业首个面向机器人在物理世界中完成任务从头预训练的世界模型。",
+    "url": "https://www.chinaz.com/news/",
+    "source": "站长之家",
+    "slug": "ant-lingbot-world-model-2-open-source"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "DeepSeek与智谱探索自研AI芯片，软硬件协同趋势升温",
+    "summary": "中银证券指出，DeepSeek正在开发面向推理的自研芯片，智谱也在评估定制芯片。国内头部AI企业加速布局自有芯片能力，以降低对英伟达等海外芯片的依赖并优化推理成本，软硬件协同趋势持续升温。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2856a59840b80152",
+    "source": "企鹅号",
+    "slug": "deepseek-zhipu-custom-ai-chips"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "阿里巴巴千问AI智能体耳机将在WAIC 2026亮相",
+    "summary": "阿里巴巴旗下通义千问将在WAIC 2026展出品牌首款AI智能体耳机，这是千问今年规划上线的多款AI硬件之一，完整产品参数与功能细节将在大会现场对外公布。",
+    "url": "https://www.chinaz.com/news/",
+    "source": "站长之家",
+    "slug": "alibaba-qwen-ai-earbuds-waic"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "外交部回应外媒渲染：中国反对以意识形态划线，愿共享AI发展经验",
+    "summary": "针对外媒渲染中国开源AI模型为陷阱，外交部发言人林剑7月16日表示，中方反对以意识形态划线和技术封锁，愿同各方共享经验提升全球AI创新发展水平。联合国方面也表示希望通过WAIC推动AI负责任使用并造福所有人。",
     "url": "https://new.qq.com/rain/a/20260716A090DA00",
     "source": "腾讯网",
-    "slug": "yang-guoan-ai-transformation-2-0"
+    "slug": "china-foreign-ministry-open-source-ai-response"
   }
 ]
