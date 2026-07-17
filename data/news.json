@@ -1,122 +1,98 @@
 [
   {
     "date": "2026-07-17",
-    "title": "2026世界人工智能大会(WAIC)今日在上海开幕",
-    "summary": "7月17日至20日在上海世博、张江、西岸\"三地四馆\"同步举行，汇聚1100余家企业，展示3000余项展品，300余款产品全球首发，国家主席习近平将出席并发表主旨讲话。",
+    "title": "《全球人工智能创新指数报告2026》发布",
+    "summary": "报告聚焦基础支撑、资源与环境、科技研发、产业与应用、国际合作交流5个维度,对46个国家的人工智能创新发展情况进行量化评价。报告显示AI基建持续扩张,能源供应成为未来发展新变量;大模型产业化重心从通用转向垂直、从训练转向推理。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8166a59eff250052",
+    "source": "新华社",
+    "slug": "global-ai-innovation-index-report-2026"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "2026世界人工智能大会在上海举行 世界人工智能合作组织成立",
+    "summary": "7月17日至20日,2026世界人工智能大会暨人工智能全球治理高级别会议在上海举行。世界人工智能合作组织在上海应运而生,成为AI发展史上的重要里程碑。中国AI产业实现跨越式发展,全球影响力持续攀升。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5486a5a608459152",
+    "source": "中国网",
+    "slug": "waic-2026-opens-in-shanghai"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "中国AI产业综合实力稳居全球第一梯队",
+    "summary": "2025年人工智能核心产业规模超过1.2万亿元,今年人形机器人全年整机产量有望突破10万台。大模型、智能体、人工智能芯片加速迭代。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6316a5aadb358552",
+    "source": "新华社",
+    "slug": "china-ai-industry-first-tier"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "Kimi K3发布:全球最大开源模型 参数规模2.8万亿",
+    "summary": "新一代模型Kimi K3于7月16日发布,参数规模达2.8万亿,是目前全球参数规模最大的开源模型,采用MoE(混合专家)架构,完全开源包含模型权重和技术报告。",
+    "url": "https://www.admin5.com/ai/",
+    "source": "A5创业网",
+    "slug": "kimi-k3-worlds-largest-open-source-model"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "WAIC2026 AI女性论坛举行 探讨AI跃迁她动能",
+    "summary": "以\"AI跃迁･她动能\"为主题的2026世界人工智能大会AI女性论坛在上海举行,全国妇联党组书记黄晓薇出席并致辞。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1566a5a386665952",
+    "source": "新华社",
+    "slug": "waic-2026-women-in-ai-forum"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "周鸿祎谈AI安全:AI正成为能自主执行任务的新物种",
+    "summary": "360创始人周鸿祎表示,AI正成为能自主执行任务的\"新物种\",必须做到可信可靠可控。",
+    "url": "https://www.163.com/dy/media/T1512044479072.html",
+    "source": "澎湃新闻",
+    "slug": "zhou-hongyi-ai-security-trustworthy-controllable"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "商汤董事长徐立:AI不是替代而是能力增强",
+    "summary": "商汤科技董事长徐立表示,AI不是替代而是能力增强,像穿越剧主角一样把能力\"长\"在身上。",
+    "url": "https://www.163.com/dy/media/T1512044479072.html",
+    "source": "澎湃新闻",
+    "slug": "sensetime-xu-li-ai-capability-enhancement"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "华为展出全球最强超节点集群Atlas 950 SuperCluster",
+    "summary": "WAIC2026算力展区,华为展出全球最强超节点集群Atlas 950 SuperCluster,单机柜集成64张昇腾计算卡,最高可扩展至8192张Ascend 950DT芯片,规模是英伟达NVL144方案的56.8倍。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3406a59b53056852",
-    "source": "企鹅号",
-    "slug": "waic-2026-opens-shanghai"
+    "source": "证券时报",
+    "slug": "huawei-atlas-950-super-cluster"
   },
   {
     "date": "2026-07-17",
-    "title": "华为将展出全球最强超节点集群Atlas 950 SuperCluster",
-    "summary": "WAIC算力展区核心看点转向国产超大规模集群真机亮相。华为Atlas 950 SuperCluster单机柜集成64张昇腾计算卡，最高可扩展至8192张Ascend 950DT芯片；中科曙光携全国产十万卡AI超集群曙光8000(登峰)亮相；东方算芯首发全球首颗软件定义近存计算3D芯片DF1000。",
+    "title": "中科曙光携全国产十万卡AI超集群曙光8000亮相WAIC",
+    "summary": "中科曙光携中国首个全国产十万卡AI超集群曙光8000(登峰)亮相2026世界人工智能大会。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3406a59b53056852",
-    "source": "企鹅号",
-    "slug": "huawei-atlas-950-supercluster-waic"
+    "source": "证券时报",
+    "slug": "sugon-8000-100k-ai-cluster"
   },
   {
     "date": "2026-07-17",
-    "title": "商汤科技开源统一视觉大模型SenseNova-Vision",
-    "summary": "商汤发布并开源统一视觉大模型SenseNova-Vision，在HuggingFace任意输入输出开源模型榜单排名第一，覆盖结构化视觉理解、稠密几何预测、图像分割和多视角3D几何四大核心任务，打破传统视觉AI\"模型拼盘\"架构。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3736a59d71199052",
-    "source": "企鹅号",
-    "slug": "sensetime-sensenova-vision-open-source"
+    "title": "东方算芯首发全球首颗软件定义近存计算3D芯片DF1000",
+    "summary": "东方算芯在WAIC2026首发全球首颗软件定义近存计算3D芯片DF1000。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3406a59b53056852",
+    "source": "证券时报",
+    "slug": "df1000-software-defined-near-memory-3d-chip"
   },
   {
     "date": "2026-07-17",
-    "title": "京东推出京麦AI经营中心并向商家全量开放",
-    "summary": "京东正式推出京麦AI经营中心，向商家全量开放22款核心AI工具，打造一站式AI经营聚合平台，首期功能已全面上线。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7566a59842950852",
-    "source": "企鹅号",
-    "slug": "jd-jingmai-ai-center"
+    "title": "MIT联合三星开发QD-LED封装技术 寿命提升5000倍",
+    "summary": "美国麻省理工学院联合三星先进技术研究院开发出树脂封装技术,可将量子点发光二极管(QD-LED)尤其是蓝光器件的寿命提升5000倍以上,为高性能显示技术商业化提供新思路。",
+    "url": "http://www.xbxxb.com/kj/1.html",
+    "source": "科学进展",
+    "slug": "mit-samsung-qd-led-packaging-technology"
   },
   {
     "date": "2026-07-17",
-    "title": "用友网络AI相关合同签约达9.1亿元",
-    "summary": "用友网络AI相关合同签约9.1亿元，2026年一季度AI相关收入1.37亿元，用友BIP收入5.54亿元同比增长26.8%，已进入企业智能体规模验证期。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6936a59d5df32852",
-    "source": "企鹅号",
-    "slug": "yonyou-ai-contracts-910m"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "第一届\"申智杯\"人工智能创新大赛AI4S决赛拉开帷幕",
-    "summary": "7月16日上海国投路演中心，AI4S科学智能应用与AI算力计算架构两大赛道决赛展开，各赛道10支顶尖团队晋级，获奖项目将亮相WAIC 2026对接产业与资本资源。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6446a59dd3167052",
-    "source": "企鹅号",
-    "slug": "shenzhi-cup-ai4s-final"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "多项数据登顶 中国AI领跑全球",
-    "summary": "中国在多个人工智能领域实现全球并跑、领跑，2025年多项核心数据位居世界首位，凭借全球唯一的具身智能全链条产业展现强劲科创实力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1226a59f45325252",
-    "source": "企鹅号",
-    "slug": "china-ai-leads-global"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "通义助力\"Apple智能\"进入中国市场",
-    "summary": "苹果面向中国用户推出Apple Intelligence的计划取得新进展，中国网信部门公布相关进展，苹果AI本土化落地再进一步。",
-    "url": "http://www.weste.net/",
-    "source": "威易网",
-    "slug": "tongyi-apple-intelligence-china"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "企业级数字员工平台StaffDeck开源",
-    "summary": "StaffDeck开源，尝试把员工的经验、业务流程、判断标准和工具权限沉淀为可持续工作的数字员工，用于构建和管理数字员工。",
-    "url": "http://www.weste.net/",
-    "source": "威易网",
-    "slug": "staffdeck-open-source"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "2026世界人工智能大会聚焦AI治理 奇安信AI安全产品集中展示",
-    "summary": "WAIC 2026聚焦人工智能全球治理，奇安信集中展示其AI安全产品，呼应《全球人工智能治理倡议》与《人工智能能力建设普惠计划》。",
-    "url": "http://www.weste.net/",
-    "source": "威易网",
-    "slug": "waic-ai-governance-qianxin"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "英伟达推出全新Jetson Thor计算机面向机器人及边缘AI",
-    "summary": "7月15日英伟达推出全新Jetson Thor计算机，基于Jetson AGX Thor架构的新模块T3000和T2000，搭配全新内存优化与Agent技术，推进主流机器人和边缘AI，计划2027年第一季度上市。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0796a58dee169552",
-    "source": "企鹅号",
-    "slug": "nvidia-jetson-thor"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "苹果自研AI服务器芯片Baltra计划被曝推迟",
-    "summary": "知情人士透露，苹果内部代号为Baltra的自研AI服务器芯片原计划今年落地，现已推迟。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0796a58dee169552",
-    "source": "企鹅号",
-    "slug": "apple-baltra-chip-delayed"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "台积电A14芯片将于2028年开始量产",
-    "summary": "台积电表示A14芯片将于2028年开始量产，A13、A12芯片将于2029年开始量产，对AI趋势充满信心，未来三年资本支出将显著高于过去三年。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0796a58dee169552",
-    "source": "企鹅号",
-    "slug": "tsmc-a14-2028"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "豆包、通义千问于7月15日下线智能体功能",
-    "summary": "阿里巴巴旗下通义千问和字节跳动旗下豆包于7月15日下线智能体功能，恰逢中国《人工智能拟人化互动服务管理暂行办法》施行。",
-    "url": "http://www.williamlong.info/",
-    "source": "月光博客",
-    "slug": "doubao-qianwen-agent-removed"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "AI加速\"走出\"手机屏幕 WAIC展示AI眼镜、睡眠仪等终端",
-    "summary": "WAIC现场AI正集体\"走出\"手机屏幕，从能换电不断电的AI眼镜、读懂脑电波的睡眠仪到能聊天搞研发的自动化实验室，机器人在工业产线、便民服务等场景灵活度显著提升。",
-    "url": "https://hk.eastmoney.com/a/cgsbd.html",
-    "source": "东方财富网",
-    "slug": "ai-beyond-phone-waic"
+    "title": "AI人工智能ETF平安近10日净流入3.23亿元",
+    "summary": "受WAIC2026开幕利好,AI人工智能ETF平安近10日净流入3.23亿元,市场对AI板块关注度持续升温。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3406a59b53056852",
+    "source": "证券时报",
+    "slug": "ai-etf-net-inflow-323-million"
   }
 ]
