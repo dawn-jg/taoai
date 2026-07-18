@@ -1,122 +1,122 @@
 [
   {
     "date": "2026-07-18",
-    "title": "2026世界人工智能大会开幕：超300款产品全球首发，AI技术迎来新一轮突破",
-    "summary": "7月17日至20日，2026世界人工智能大会（WAIC 2026）在上海举行。展会规模再创新高，展览总面积首次突破10万平方米，中外1100余家企业参展。AI从聊天机器人升级为可独立规划、跨工具协同的智能体成为今年技术主线，华为昇腾950超节点等新品首次真机亮相。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8586a5aded525252",
-    "source": "企鹅号",
-    "slug": "waic-2026-opens-300-products-debut"
-  },
-  {
-    "date": "2026-07-18",
-    "title": "习近平出席WAIC开幕式：世界人工智能合作组织在上海应运而生",
-    "summary": "7月17日上午，国家主席习近平在上海世界会客厅出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话。习近平指出，世界人工智能合作组织在上海应运而生，将成为人工智能发展史上的重要里程碑。我国AI综合实力稳居全球第一梯队，2025年核心产业规模超1.2万亿元。",
+    "title": "习近平主席出席2026世界人工智能大会开幕式，强调人工智能技术创新进入活跃期",
+    "summary": "国家主席习近平在上海出席WAIC2026开幕式并发表主旨讲话，强调新一轮科技革命和产业变革加速突破，全球人工智能技术创新进入前所未有的活跃期。习近平提出坚持开放共赢、驱动创新发展，我国人工智能综合实力稳居全球第一梯队。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0866a5ab72c47952",
-    "source": "企鹅号",
-    "slug": "xi-waic-opening-ai-cooperation-org"
+    "source": "新华社",
+    "slug": "xi-waic2026-opening"
   },
   {
     "date": "2026-07-18",
-    "title": "华为昇腾950超节点真机首次亮相：1024张NPU卡互联，1 EFLOPS FP8算力",
-    "summary": "华为在WAIC展台首次向公众展示昇腾950超节点真机，整套设备包含16个计算柜与4个互联柜，内含1024张智算卡，最低时延可达3微秒，可输出更精准高效的算力服务，支撑十万亿级参数大模型训练。",
+    "title": "国家发改委发布《人工智能合作发展行动计划》",
+    "summary": "7月17日，国家发改委发布《人工智能合作发展行动计划》，涵盖优质数据供给、智能算力普惠、开源生态共享、人工智能深度赋能、数智人才共育、规则标准共建、安全治理协作、人工智能向善等八大行动。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4856a5b3a9052552",
+    "source": "企鹅号",
+    "slug": "nrdc-ai-action-plan"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "WAIC2026开幕：展览面积首破10万平方米，1100余家中外企业参展",
+    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议7月17日在上海启幕，今年是上海第九次举办该大会，展览总面积首次突破10万平方米，中外1100余家企业参展，创历届规模新高。大会聚焦AI产业落地，涵盖芯片算力、基础设施、行业应用、具身智能和消费级AI终端等完整产业链。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5556a5a5a5832752",
-    "source": "新华网",
-    "slug": "huawei-ascend-950-supernode-debut"
-  },
-  {
-    "date": "2026-07-18",
-    "title": "外媒聚焦2026世界人工智能大会：中国AI硬核实力赋能全球发展",
-    "summary": "路透社报道称中国将人工智能作为未来经济增长抓手，持续推进前沿AI技术自主可控。《纽约时报》分析称，中国AI初创企业DeepSeek曾以超高性价比震撼硅谷，当前全球多数主流高性能开源AI模型均出自中国，中国有望成为全球AI创新发展枢纽。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5486a5a608459152",
-    "source": "中国网",
-    "slug": "foreign-media-focus-waic-china-ai"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "荣耀与阿里官宣AI智能体终端合作，机器人手机Robot Phone将亮相WAIC",
-    "summary": "在WAIC 2026上，荣耀宣布将与阿里合作推进下一代终端操作系统Agentic OS，其全球首款机器人手机Robot Phone即将亮相；努比亚也官宣将亮相全国首款量产旗舰智能体手机，终端侧AI智能体成为厂商竞争焦点。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2486a59c80462552",
-    "source": "企鹅号",
-    "slug": "honor-alibaba-agentic-os-robot-phone"
-  },
-  {
-    "date": "2026-07-18",
-    "title": "多项AI首发首秀集中亮相世界人工智能大会：349款首发、201款首秀",
-    "summary": "今年WAIC展览现场超4000款各类展品中，首发项目349款、首秀项目201款，覆盖从算力底座到AI终端的全链条。业界最大规模超节点真机通过高速互联将1024张AI芯片整合为单一算力池协同工作。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0386a5a89bf18652",
-    "source": "企鹅号",
-    "slug": "waic-ai-debuts-349-first-show-201"
+    "source": "新华财经",
+    "slug": "waic2026-scale-record"
   },
   {
     "date": "2026-07-18",
     "title": "《全球人工智能创新指数报告2026》发布：美中引领、梯次分布格局稳中有变",
-    "summary": "7月17日，在上海举行的2026世界人工智能大会上，《全球人工智能创新指数报告2026》发布。报告从基础设施支撑、数据与资源、科技研发、产业与应用、国际合作交流等维度，对全球主要国家的AI创新发展进行量化评价。",
+    "summary": "在上海举行的WAIC2026大会上，《全球人工智能创新指数报告2026》正式发布，报告显示美国和中国继续引领全球人工智能创新，梯次分布格局稳中有变。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2496a5ad4bf94952",
     "source": "企鹅号",
-    "slug": "global-ai-innovation-index-report-2026"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "月之暗面发布全球最大规模开源模型Kimi K3：参数达2.8万亿",
-    "summary": "7月16日，月之暗面发布新一代开源模型Kimi K3，参数规模达2.8万亿，成为目前全球最大规模开源模型。该模型支持视觉理解和100万词元上下文窗口，采用MoE混合专家架构，包含模型权重和技术报告，可应用于软件开发、深度研究等场景。",
-    "url": "https://www.admin5.com/ai/",
-    "source": "A5创业网",
-    "slug": "kimi-k3-worlds-largest-open-source-model"
+    "slug": "global-ai-innovation-index-2026"
   },
   {
     "date": "2026-07-18",
-    "title": "智元精灵G2 Max机器人将应用于京东物流智狼仓",
-    "summary": "据京东物流消息，在7月17日开幕的2026世界人工智能大会上，智元精灵G2 Max机器人将应用于京东物流智狼仓，展示人形机器人在物流仓储场景的落地能力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7386a5ad28a57952",
+    "title": "国产最大规模超节点真机亮相WAIC，单柜1024张AI芯片互联",
+    "summary": "本届WAIC2026首发首秀了业界最大规模超节点真机，通过高速互联技术将上千颗AI芯片整合为单一算力池。每一层抽屉装8张AI芯片，一柜64张，整个机柜共1024张芯片，互联后如同一张\"大芯片\"协同工作。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3796a5ad42288052",
     "source": "企鹅号",
-    "slug": "zhiyuan-g2-max-jd-logistics-warehouse"
+    "slug": "waic2026-super-node-1024-chips"
   },
   {
     "date": "2026-07-18",
-    "title": "千问AI眼镜将升级为智能体眼镜",
-    "summary": "据AI早报，千问AI眼镜将升级为智能体眼镜，从单纯的视觉/语音交互设备向具备主动规划与任务执行能力的AI智能体演进，反映可穿戴设备向Agent化发展的行业趋势。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7386a5ad28a57952",
+    "title": "华为Atlas 950超节点、中科曙光8000全国产AI超集群集体亮相",
+    "summary": "华为展出Atlas 950超节点真机，单柜搭载64张昇腾NPU，可扩展至8192卡集群，互联带宽达16.3PB/s，适配超大模型训练与高并发推理。中科曙光发布十万卡全国产AI超集群曙光8000（登峰），覆盖芯片、计算、存储、网络、散热全链路自主研发，商用交付正式启动。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7346a5a1bf521052",
     "source": "企鹅号",
-    "slug": "qwen-ai-glasses-upgrade-agent"
+    "slug": "huawei-ics-dawning-waic2026"
   },
   {
     "date": "2026-07-18",
-    "title": "雅砻江水风光一体化智慧运营大模型亮相WAIC，系国内首个同类模型",
-    "summary": "7月16日，雅砻江公司发布水风光一体化智慧运营大模型，成为国内首个面向水风光一体化清洁能源基地的智慧运行大模型。该模型打通水文气象预测、多能协同调度、设备智能运维、电力市场交易四大核心场景。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9046a5af9f437652",
+    "title": "东方算芯全球首颗软件定义近存计算3D芯片DF1000完成首发",
+    "summary": "在WAIC2026上，东方算芯全球首发了全球首颗软件定义近存计算3D芯片DF1000，依靠三维堆叠降低制程依赖，适配边缘、端侧低功耗场景，实现国产供应链闭环。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7346a5a1bf521052",
     "source": "企鹅号",
-    "slug": "yalongriver-hydro-wind-solar-ai-model"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "曙光8000荣膺WAIC镇馆之宝：全国产十万卡AI超集群真机全球首秀",
-    "summary": "7月17日WAIC开幕期间，中国首个全国产十万卡AI超集群——曙光8000（登峰）真机首次面向全球公开亮相，并入选WAIC 2026“镇馆之宝”，展示国产算力底座建设的最新进展。",
-    "url": "https://blog.csdn.net/csdnnews",
-    "source": "CSDN",
-    "slug": "sugon-8000-100k-ai-cluster-waic"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "海光加速构建国产AI算力底座，AI智能体规模化落地迈入吉瓦级算力时代",
-    "summary": "在郑州举办的光合组织2026智能计算应用大会上，海光展示了智能巡检机器人、AI BOX端侧一体机、封闭场景工业自动驾驶解决方案等应用成果，覆盖工业控制、端侧物理AI推理、智能设备等典型场景，抢抓AI Agent与Token化发展机遇。",
-    "url": "http://www.cio360.net/",
-    "source": "信息主管网",
-    "slug": "haiguang-domestic-ai-compute-base"
+    "slug": "dongfangsuansu-df1000-3d-chip"
   },
   {
     "date": "2026-07-18",
-    "title": "MiniMax M3多模态大模型、阶跃Agent操作系统等新品集中亮相WAIC",
-    "summary": "在2026世界人工智能大会现场，MiniMax M3多模态大模型、阶跃Agent操作系统、AI智能体手机等4400余款展品集中亮相，反映大模型从通用向垂直、从训练向推理的产业重心转移。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5556a5a5a5832752",
-    "source": "新华网",
-    "slug": "minimax-m3-step-agent-os-waic"
+    "title": "投资中国AI产业链成全球共识，AI科技零部件订单已排至2027年底",
+    "summary": "财联社7月18电，多家外资机构表示看好中国AI产业链，投资中国AI产业链已成为全球投资者共识。数据显示，中国平均每天生产芯片超15亿块，大模型日均调用量达数百万亿词元，居世界首位。高盛研报指出中国AI板块总市值约4万亿美元，瑞银表示中国AI科技零部件订单已排到2027年底。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5556a5b283d79752",
+    "source": "财联社",
+    "slug": "china-ai-chain-global-investment"
   },
   {
     "date": "2026-07-17",
-    "title": "金山办公发布两款智能体，章庆元称AI是“唯一机会”",
-    "summary": "在2026世界人工智能大会展馆里，金山办公发布两款智能体产品。公司表示在“AI智能体（Agent）”与“场景落地”成为厂商核心竞争点的新阶段，AI是企业的“唯一机会”。",
-    "url": "http://sootoo.com/",
-    "source": "速途网",
-    "slug": "kingsoft-wps-two-agents-release"
+    "title": "逐际动力WAIC2026展示女性人形机器人Luna，身高160cm",
+    "summary": "7月17日，深圳具身智能公司逐际动力在上海WAIC正式展出其最新推出的女性人形机器人Luna。Luna是一款全尺寸交互人形机器人，身高160cm，这也是在默认机器人性别为男的当下，业界首次推出全尺寸女性人形机器人。",
+    "url": "http://finance.eastmoney.com/a/ccjxw.html",
+    "source": "东方财富网",
+    "slug": "zuniji-luna-female-robot-waic2026"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "李未可发布全球首款AI记忆眼镜X-AI，26g，支持10小时录音",
+    "summary": "AI创新品牌李未可于WAIC2026发布全球首款X-AI记忆眼镜，以\"长期记忆\"为核心，搭载自研Memory Policy Engine，可实时捕捉场景对话并自动生成纪要。整机主体仅26g，支持1200万像素拍照、1440P视频录制，适配会议、办公等场景，支持10小时以上持续录音、30天待机。",
+    "url": "https://enterprise.eastmoney.com/a/ccyzx.html",
+    "source": "东方财富网",
+    "slug": "liweike-x-ai-memory-glasses"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "英伟达发布多款物理AI产品，两款机器人计算模组明年上市",
+    "summary": "英伟达持续推动物理AI产品阵列更新，从北京时间7月15日晚间至7月16日上午，密集公布多款新产品，两款机器人计算模组将于明年上市，涵盖物理AI和机器人领域的新一代计算解决方案。",
+    "url": "https://enterprise.eastmoney.com/a/ccyzx.html",
+    "source": "东方财富网",
+    "slug": "nvidia-physical-ai-robotics"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "爱诗科技完成29.8亿元C轮融资，阶跃星辰Pre-IPO轮融资25亿美元",
+    "summary": "据产业科技周报统计，大模型成为WAIC2026最吸金赛道。阶跃星辰2026年5月完成Pre-IPO轮融资25亿美元，估值约120亿美元；爱诗科技完成29.8亿元C轮融资；生数科技7月完成5亿美元B+轮融资；面壁智能完成数亿人民币E+轮融资；无问芯穹完成7亿人民币B轮融资。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4856a5b3a9052552",
+    "source": "企鹅号",
+    "slug": "ai-funding-round-waic2026"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "此芯科技发布AGX Agentic Compute战略，推出桌面AI超算",
+    "summary": "此芯科技发布AGX Agentic Compute智能体计算战略，推出全新硬件AGX Station及全栈智能体算力产品系列，覆盖端、边、云全场景应用。来酷科技、后摩智能、天数智芯、银联商务等嘉宾共同参与发布仪式。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6566a5a3deb20452",
+    "source": "企鹅号",
+    "slug": "cichip-agx-agentic-compute"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "王坚院士WAIC演讲：人工智能迎来新范式转折，科学数据将成核心驱动力",
+    "summary": "中国工程院院士、之江实验室主任王坚在WAIC2026主论坛演讲中提出，人工智能正在迎来一次新的范式转折，而这一次推动变化的，不再只是语言数据，而是科学数据。未来真正重要的不是训练一个更大的语言模型。",
+    "url": "http://finance.eastmoney.com/news/ccjxw.html",
+    "source": "东方财富网",
+    "slug": "wangjian-waic2026-science-data-paradigm"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "Kimi K3发布：全球参数最大开源模型，参数规模达2.8万亿",
+    "summary": "被称为\"千眼天珠\"的子午工程圆环阵太阳射电成像望远镜与\"中国天眼\"FAST联手，在超新星遗迹中捕捉到长周期射电暂现源DART J1832-0911。AI领域，Kimi K3于7月16日发布，参数规模达2.8万亿，是目前全球参数最大的开源模型。",
+    "url": "http://www.xbxxb.com/kj/1.html",
+    "source": "西北在线",
+    "slug": "kimik3-open-source-model"
   }
 ]
