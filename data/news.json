@@ -1,98 +1,122 @@
 [
   {
+    "date": "2026-07-18",
+    "title": "2026世界人工智能大会开幕：超300款产品全球首发，AI技术迎来新一轮突破",
+    "summary": "7月17日至20日，2026世界人工智能大会（WAIC 2026）在上海举行。展会规模再创新高，展览总面积首次突破10万平方米，中外1100余家企业参展。AI从聊天机器人升级为可独立规划、跨工具协同的智能体成为今年技术主线，华为昇腾950超节点等新品首次真机亮相。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8586a5aded525252",
+    "source": "企鹅号",
+    "slug": "waic-2026-opens-300-products-debut"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "习近平出席WAIC开幕式：世界人工智能合作组织在上海应运而生",
+    "summary": "7月17日上午，国家主席习近平在上海世界会客厅出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话。习近平指出，世界人工智能合作组织在上海应运而生，将成为人工智能发展史上的重要里程碑。我国AI综合实力稳居全球第一梯队，2025年核心产业规模超1.2万亿元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0866a5ab72c47952",
+    "source": "企鹅号",
+    "slug": "xi-waic-opening-ai-cooperation-org"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "华为昇腾950超节点真机首次亮相：1024张NPU卡互联，1 EFLOPS FP8算力",
+    "summary": "华为在WAIC展台首次向公众展示昇腾950超节点真机，整套设备包含16个计算柜与4个互联柜，内含1024张智算卡，最低时延可达3微秒，可输出更精准高效的算力服务，支撑十万亿级参数大模型训练。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5556a5a5a5832752",
+    "source": "新华网",
+    "slug": "huawei-ascend-950-supernode-debut"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "外媒聚焦2026世界人工智能大会：中国AI硬核实力赋能全球发展",
+    "summary": "路透社报道称中国将人工智能作为未来经济增长抓手，持续推进前沿AI技术自主可控。《纽约时报》分析称，中国AI初创企业DeepSeek曾以超高性价比震撼硅谷，当前全球多数主流高性能开源AI模型均出自中国，中国有望成为全球AI创新发展枢纽。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5486a5a608459152",
+    "source": "中国网",
+    "slug": "foreign-media-focus-waic-china-ai"
+  },
+  {
     "date": "2026-07-17",
-    "title": "《全球人工智能创新指数报告2026》发布",
-    "summary": "报告聚焦基础支撑、资源与环境、科技研发、产业与应用、国际合作交流5个维度,对46个国家的人工智能创新发展情况进行量化评价。报告显示AI基建持续扩张,能源供应成为未来发展新变量;大模型产业化重心从通用转向垂直、从训练转向推理。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8166a59eff250052",
-    "source": "新华社",
+    "title": "荣耀与阿里官宣AI智能体终端合作，机器人手机Robot Phone将亮相WAIC",
+    "summary": "在WAIC 2026上，荣耀宣布将与阿里合作推进下一代终端操作系统Agentic OS，其全球首款机器人手机Robot Phone即将亮相；努比亚也官宣将亮相全国首款量产旗舰智能体手机，终端侧AI智能体成为厂商竞争焦点。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2486a59c80462552",
+    "source": "企鹅号",
+    "slug": "honor-alibaba-agentic-os-robot-phone"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "多项AI首发首秀集中亮相世界人工智能大会：349款首发、201款首秀",
+    "summary": "今年WAIC展览现场超4000款各类展品中，首发项目349款、首秀项目201款，覆盖从算力底座到AI终端的全链条。业界最大规模超节点真机通过高速互联将1024张AI芯片整合为单一算力池协同工作。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0386a5a89bf18652",
+    "source": "企鹅号",
+    "slug": "waic-ai-debuts-349-first-show-201"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "《全球人工智能创新指数报告2026》发布：美中引领、梯次分布格局稳中有变",
+    "summary": "7月17日，在上海举行的2026世界人工智能大会上，《全球人工智能创新指数报告2026》发布。报告从基础设施支撑、数据与资源、科技研发、产业与应用、国际合作交流等维度，对全球主要国家的AI创新发展进行量化评价。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2496a5ad4bf94952",
+    "source": "企鹅号",
     "slug": "global-ai-innovation-index-report-2026"
   },
   {
     "date": "2026-07-17",
-    "title": "2026世界人工智能大会在上海举行 世界人工智能合作组织成立",
-    "summary": "7月17日至20日,2026世界人工智能大会暨人工智能全球治理高级别会议在上海举行。世界人工智能合作组织在上海应运而生,成为AI发展史上的重要里程碑。中国AI产业实现跨越式发展,全球影响力持续攀升。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5486a5a608459152",
-    "source": "中国网",
-    "slug": "waic-2026-opens-in-shanghai"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "中国AI产业综合实力稳居全球第一梯队",
-    "summary": "2025年人工智能核心产业规模超过1.2万亿元,今年人形机器人全年整机产量有望突破10万台。大模型、智能体、人工智能芯片加速迭代。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6316a5aadb358552",
-    "source": "新华社",
-    "slug": "china-ai-industry-first-tier"
-  },
-  {
-    "date": "2026-07-16",
-    "title": "Kimi K3发布:全球最大开源模型 参数规模2.8万亿",
-    "summary": "新一代模型Kimi K3于7月16日发布,参数规模达2.8万亿,是目前全球参数规模最大的开源模型,采用MoE(混合专家)架构,完全开源包含模型权重和技术报告。",
+    "title": "月之暗面发布全球最大规模开源模型Kimi K3：参数达2.8万亿",
+    "summary": "7月16日，月之暗面发布新一代开源模型Kimi K3，参数规模达2.8万亿，成为目前全球最大规模开源模型。该模型支持视觉理解和100万词元上下文窗口，采用MoE混合专家架构，包含模型权重和技术报告，可应用于软件开发、深度研究等场景。",
     "url": "https://www.admin5.com/ai/",
     "source": "A5创业网",
     "slug": "kimi-k3-worlds-largest-open-source-model"
   },
   {
-    "date": "2026-07-17",
-    "title": "WAIC2026 AI女性论坛举行 探讨AI跃迁她动能",
-    "summary": "以\"AI跃迁･她动能\"为主题的2026世界人工智能大会AI女性论坛在上海举行,全国妇联党组书记黄晓薇出席并致辞。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1566a5a386665952",
-    "source": "新华社",
-    "slug": "waic-2026-women-in-ai-forum"
+    "date": "2026-07-18",
+    "title": "智元精灵G2 Max机器人将应用于京东物流智狼仓",
+    "summary": "据京东物流消息，在7月17日开幕的2026世界人工智能大会上，智元精灵G2 Max机器人将应用于京东物流智狼仓，展示人形机器人在物流仓储场景的落地能力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7386a5ad28a57952",
+    "source": "企鹅号",
+    "slug": "zhiyuan-g2-max-jd-logistics-warehouse"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "千问AI眼镜将升级为智能体眼镜",
+    "summary": "据AI早报，千问AI眼镜将升级为智能体眼镜，从单纯的视觉/语音交互设备向具备主动规划与任务执行能力的AI智能体演进，反映可穿戴设备向Agent化发展的行业趋势。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7386a5ad28a57952",
+    "source": "企鹅号",
+    "slug": "qwen-ai-glasses-upgrade-agent"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "雅砻江水风光一体化智慧运营大模型亮相WAIC，系国内首个同类模型",
+    "summary": "7月16日，雅砻江公司发布水风光一体化智慧运营大模型，成为国内首个面向水风光一体化清洁能源基地的智慧运行大模型。该模型打通水文气象预测、多能协同调度、设备智能运维、电力市场交易四大核心场景。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9046a5af9f437652",
+    "source": "企鹅号",
+    "slug": "yalongriver-hydro-wind-solar-ai-model"
   },
   {
     "date": "2026-07-17",
-    "title": "周鸿祎谈AI安全:AI正成为能自主执行任务的新物种",
-    "summary": "360创始人周鸿祎表示,AI正成为能自主执行任务的\"新物种\",必须做到可信可靠可控。",
-    "url": "https://www.163.com/dy/media/T1512044479072.html",
-    "source": "澎湃新闻",
-    "slug": "zhou-hongyi-ai-security-trustworthy-controllable"
+    "title": "曙光8000荣膺WAIC镇馆之宝：全国产十万卡AI超集群真机全球首秀",
+    "summary": "7月17日WAIC开幕期间，中国首个全国产十万卡AI超集群——曙光8000（登峰）真机首次面向全球公开亮相，并入选WAIC 2026“镇馆之宝”，展示国产算力底座建设的最新进展。",
+    "url": "https://blog.csdn.net/csdnnews",
+    "source": "CSDN",
+    "slug": "sugon-8000-100k-ai-cluster-waic"
   },
   {
     "date": "2026-07-17",
-    "title": "商汤董事长徐立:AI不是替代而是能力增强",
-    "summary": "商汤科技董事长徐立表示,AI不是替代而是能力增强,像穿越剧主角一样把能力\"长\"在身上。",
-    "url": "https://www.163.com/dy/media/T1512044479072.html",
-    "source": "澎湃新闻",
-    "slug": "sensetime-xu-li-ai-capability-enhancement"
+    "title": "海光加速构建国产AI算力底座，AI智能体规模化落地迈入吉瓦级算力时代",
+    "summary": "在郑州举办的光合组织2026智能计算应用大会上，海光展示了智能巡检机器人、AI BOX端侧一体机、封闭场景工业自动驾驶解决方案等应用成果，覆盖工业控制、端侧物理AI推理、智能设备等典型场景，抢抓AI Agent与Token化发展机遇。",
+    "url": "http://www.cio360.net/",
+    "source": "信息主管网",
+    "slug": "haiguang-domestic-ai-compute-base"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "MiniMax M3多模态大模型、阶跃Agent操作系统等新品集中亮相WAIC",
+    "summary": "在2026世界人工智能大会现场，MiniMax M3多模态大模型、阶跃Agent操作系统、AI智能体手机等4400余款展品集中亮相，反映大模型从通用向垂直、从训练向推理的产业重心转移。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5556a5a5a5832752",
+    "source": "新华网",
+    "slug": "minimax-m3-step-agent-os-waic"
   },
   {
     "date": "2026-07-17",
-    "title": "华为展出全球最强超节点集群Atlas 950 SuperCluster",
-    "summary": "WAIC2026算力展区,华为展出全球最强超节点集群Atlas 950 SuperCluster,单机柜集成64张昇腾计算卡,最高可扩展至8192张Ascend 950DT芯片,规模是英伟达NVL144方案的56.8倍。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3406a59b53056852",
-    "source": "证券时报",
-    "slug": "huawei-atlas-950-super-cluster"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "中科曙光携全国产十万卡AI超集群曙光8000亮相WAIC",
-    "summary": "中科曙光携中国首个全国产十万卡AI超集群曙光8000(登峰)亮相2026世界人工智能大会。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3406a59b53056852",
-    "source": "证券时报",
-    "slug": "sugon-8000-100k-ai-cluster"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "东方算芯首发全球首颗软件定义近存计算3D芯片DF1000",
-    "summary": "东方算芯在WAIC2026首发全球首颗软件定义近存计算3D芯片DF1000。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3406a59b53056852",
-    "source": "证券时报",
-    "slug": "df1000-software-defined-near-memory-3d-chip"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "MIT联合三星开发QD-LED封装技术 寿命提升5000倍",
-    "summary": "美国麻省理工学院联合三星先进技术研究院开发出树脂封装技术,可将量子点发光二极管(QD-LED)尤其是蓝光器件的寿命提升5000倍以上,为高性能显示技术商业化提供新思路。",
-    "url": "http://www.xbxxb.com/kj/1.html",
-    "source": "科学进展",
-    "slug": "mit-samsung-qd-led-packaging-technology"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "AI人工智能ETF平安近10日净流入3.23亿元",
-    "summary": "受WAIC2026开幕利好,AI人工智能ETF平安近10日净流入3.23亿元,市场对AI板块关注度持续升温。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3406a59b53056852",
-    "source": "证券时报",
-    "slug": "ai-etf-net-inflow-323-million"
+    "title": "金山办公发布两款智能体，章庆元称AI是“唯一机会”",
+    "summary": "在2026世界人工智能大会展馆里，金山办公发布两款智能体产品。公司表示在“AI智能体（Agent）”与“场景落地”成为厂商核心竞争点的新阶段，AI是企业的“唯一机会”。",
+    "url": "http://sootoo.com/",
+    "source": "速途网",
+    "slug": "kingsoft-wps-two-agents-release"
   }
 ]
