@@ -1,114 +1,114 @@
 [
   {
     "date": "2026-07-19",
-    "title": "习近平出席WAIC2026开幕式并发表主旨讲话，提出全球AI治理四点意见",
-    "summary": "7月17日，国家主席习近平在上海出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话，强调全球人工智能技术创新进入前所未有的活跃期。习近平就全球人工智能治理提出4点意见，并宣布世界人工智能合作组织正式成立。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3766a5bfb8334952",
-    "source": "新华社",
-    "slug": "xi-waic2026-keynote-speech"
-  },
-  {
-    "date": "2026-07-18",
-    "title": "国家发改委发布《人工智能合作发展行动计划》，八大行动推动AI发展",
-    "summary": "7月17日，国家发改委在WAIC 2026上正式发布《人工智能合作发展行动计划》，涵盖优质数据供给、智能算力普惠、开源生态共享、深度赋能、数智人才共育、规则标准共建、安全治理协作、AI向善等八大行动。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4856a5b3a9052552",
-    "source": "国家发改委",
-    "slug": "nrdc-ai-cooperation-action-plan"
-  },
-  {
-    "date": "2026-07-18",
-    "title": "DeepSeek完成首轮融资估值约3500亿元，启动科创板IPO筹备",
-    "summary": "DeepSeek启动IPO筹备工作，计划最快2026年底提交科创板上市申请。开润股份公告披露，其全资子公司以4000万元认购基金份额，穿透后间接持有DeepSeek约0.0114%股权，推算DeepSeek估值约3508.8亿元。6月DeepSeek已完首轮融资超500亿元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0476a5b52ca47152",
-    "source": "东方财富网",
-    "slug": "deepseek-series-a-350b-valuation-ipo"
-  },
-  {
-    "date": "2026-07-18",
-    "title": "华为昇腾950超节点真机亮相WAIC，获SAIL最高奖",
-    "summary": "华为昇腾950超节点(Atlas 950 SuperPoD)在WAIC 2026首次真机展出，基于昇腾950PR芯片与灵衢互联协议，实现业界最大1024卡规模，提供1 EFLOPS FP8/2 EFLOPS FP4算力，256TB全局统一内存编址。该产品荣获大会最高荣誉SAIL大奖。",
-    "url": "https://new.qq.com/rain/a/20260718A0BUEM00",
-    "source": "腾讯网",
-    "slug": "huawei-atlas950-superpod-sail-award"
-  },
-  {
-    "date": "2026-07-18",
-    "title": "WAIC 2026开幕：超300款产品全球首发，展览面积首破10万平米",
-    "summary": "7月17日，2026世界人工智能大会在上海世博展览馆、张江科学会堂、徐汇西岸三地四馆同步开幕。本届大会以\"智能伙伴，共创未来\"为主题，展览面积首次突破10万平方米，吸引1100余家企业参展，3000余项展品集中亮相，其中超300款产品全球首发。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5276a5ae18201452",
-    "source": "上海发布",
-    "slug": "waic2026-opening-300-products-debut"
-  },
-  {
-    "date": "2026-07-18",
-    "title": "爱诗科技完成29.8亿元C轮融资，加速AI视频与实时世界模型布局",
-    "summary": "全球AI视频世界模型头部企业爱诗科技（爱诗智能）完成29.8亿元C轮融资，资金将用于视频生成基础模型、实时世界模型研发、全球化产品增长及产业场景落地。AI视频已成为继AI Coding后第二个商业化AI赛道。",
-    "url": "https://new.qq.com/rain/a/20260718A07B9X00",
-    "source": "腾讯网",
-    "slug": "aishi-tech-29-billion-series-c"
-  },
-  {
-    "date": "2026-07-18",
-    "title": "腾讯升级具身智能全栈方案，WorkBuddy独立App登陆三端",
-    "summary": "WAIC 2026上腾讯发布多项产品升级：升级具身智能全栈方案贯穿云底座到应用层；发布ADP4.0海外版上线，推出十大行业百大场景生态计划；WorkBuddy正式发布独立App，成为业界首个登陆iOS、Android、鸿蒙三端的通用智能体应用。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3766a5bfb8334952",
-    "source": "36氪",
-    "slug": "tencent-embodied-full-stack-workbuddy-app"
-  },
-  {
-    "date": "2026-07-18",
-    "title": "阿里云发布灵骏真武M890超节点，首推公共云超节点算力服务",
-    "summary": "阿里云在WAIC 2026发布灵骏真武M890超节点实例，提供高速互联、开箱即用的64卡算力单元。这是阿里云首次通过公共云对外提供超节点形态的AI算力服务，标志着超节点从私有部署走向公共云服务。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6806a5b9d5247552",
+    "title": "2026世界人工智能大会在上海开幕，展览面积首破10万平方米",
+    "summary": "7月17日，2026世界人工智能大会（WAIC）在上海正式开幕。展览总面积首次突破10万平方米，全球1100余家龙头企业和科创团队参展，3000余项前沿AI展品集中亮相，超300款产品实现全球首发，覆盖大模型、智能体、具身智能、AI眼镜、AI机器人、算力芯片等全链条。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0126a5c264c37752",
     "source": "企鹅号",
-    "slug": "alibaba-cloud-lingjun-zhenwu-m890"
-  },
-  {
-    "date": "2026-07-18",
-    "title": "国家网信办提出《智能体互信互联互操作全球合作倡议》",
-    "summary": "国家互联网信息办公室在WAIC 2026主论坛上提出《智能体互信互联互操作全球合作倡议》，将\"互信、互联、互操作\"确立为全球智能体生态建设的三大支柱，旨在凝聚产业共识、推动标准先行、构建开放生态。",
-    "url": "http://news.cnr.cn/native/",
-    "source": "央广网",
-    "slug": "cac-agent-interop-initiative-waic"
-  },
-  {
-    "date": "2026-07-18",
-    "title": "中兴通讯发布星系列人形机器人及具身智能解决方案",
-    "summary": "WAIC 2026期间，中兴通讯发布星系列人形机器人及具身智能解决方案，包括轻量化全尺寸人形机器人。同时发布OEX超节点新品，进一步完善全栈智算生态。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3766a5bfb8334952",
-    "source": "东方财富网",
-    "slug": "zte-star-series-humanoid-robot-waic"
-  },
-  {
-    "date": "2026-07-18",
-    "title": "西门子首发Eigen工程智能体，工业自动化效率提升2-5倍",
-    "summary": "西门子在WAIC 2026上对Eigen工程智能体进行了全球首发。该智能体可独立完成端到端的工业自动化工程任务，具备PLC代码智能生成、HMI可视化开发等核心能力，执行效率较手动工作流提升2至5倍，工程效率提升50%，方案质量提升80%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4226a5b186a41152",
-    "source": "企鹅号",
-    "slug": "siemens-eigen-engineering-agent-waic"
+    "slug": "waic-2026-opens"
   },
   {
     "date": "2026-07-19",
-    "title": "AI算力和数据布局进入太空，太空计算服务专业委员会成立",
-    "summary": "WAIC 2026\"未来计算·未来算力\"专题论坛上，工信部中小企业发展促进中心发起的中国中小企业国际合作协会太空计算服务专业委员会正式成立。洞察时空首次公开\"数算一体AI星座\"，以\"一天一次全球扫描\"为目标，为AI智能体提供\"地球真值\"数据。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7906a5bf88f93952",
+    "title": "国行苹果Apple Intelligence通过备案，即将在中国大陆上线",
+    "summary": "7月15日，网信中国公众号发布公告，苹果技术开发（上海）有限公司的「Apple 智能」大模型已于2026年7月8日完成备案，适用场景为苹果手机，国行iPhone用户即将可以使用苹果端侧生成式AI服务。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0126a5c264c37752",
     "source": "企鹅号",
-    "slug": "space-computing-ai-constellation-waic"
+    "slug": "apple-intelligence-china-approval"
+  },
+  {
+    "date": "2026-07-19",
+    "title": "中兴通讯发布星系列人形机器人及具身智能解决方案",
+    "summary": "WAIC 2026期间，中兴通讯发布星系列人形机器人及具身智能解决方案。轻量化全尺寸人形机器人「中兴星仔」身高1.6米、自重30余千克，为当前业内同规格尺寸下最轻人形产品，定位商业服务场景主力机型。",
+    "url": "http://kuaixun.eastmoney.com/qqgs.html",
+    "source": "东方财富网",
+    "slug": "zte-humanoid-robot"
   },
   {
     "date": "2026-07-18",
-    "title": "李未可发布全球首款接入WorkBuddy的X-AI记忆眼镜，仅26克",
-    "summary": "李未可科技在WAIC 2026期间发布首款接入腾讯WorkBuddy的X-AI记忆眼镜，搭载自研WakeeMemory OS，可持续感知真实工作场景并自动同步至WorkBuddy。眼镜主体仅26克，支持10小时以上持续录音、30天待机。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3766a5bfb8334952",
+    "title": "曙光8000上线首周实现满载运行，日均处理作业突破15万个",
+    "summary": "WAIC期间，中国首个全国产十万卡AI超集群——曙光8000（登峰）公布最新运行数据：正式上线首周日均处理作业数突破15万个，单日处理作业峰值超过50万个，已完成近千项超智融合应用适配。",
+    "url": "http://kuaixun.eastmoney.com/qqgs.html",
+    "source": "东方财富网",
+    "slug": "dawn-light-8000-full-load"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "29国签署协定成立世界人工智能合作组织，中国提供5000个培训名额",
+    "summary": "2026世界人工智能大会上，29国签署协定成立世界人工智能合作组织。中国将向发展中国家提供5000个人工智能培训名额，建设国际人工智能应用合作中心，并推动气象智能预警方案「妈祖」在30国落地应用。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8896a5b710656452",
+    "source": "企鹅号",
+    "slug": "waic-global-ai-cooperation"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "习近平主席在世界人工智能大会开幕式发表主旨讲话",
+    "summary": "国家主席习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上发表主旨讲话，着眼AI带来的巨大机遇与治理挑战，提出4点意见，为推动全球人工智能发展和治理贡献中国智慧。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1596a5b798344652",
+    "source": "企鹅号",
+    "slug": "xi-ai-governance-speech"
+  },
+  {
+    "date": "2026-07-19",
+    "title": "月之暗面发布Kimi K3大模型获马斯克点赞",
+    "summary": "7月17日，月之暗面正式发布新一代大模型Kimi K3，参数规模达2.8万亿，拥有100万token上下文窗口，原生支持视觉理解。特斯拉CEO埃隆·马斯克在评测报道评论区留言：「Impressive（令人印象深刻）」。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8096a5c311097352",
+    "source": "企鹅号",
+    "slug": "kimi-k3-musk"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "国家发改委发布《人工智能合作发展行动计划》",
+    "summary": "7月17日，国家发改委发布《人工智能合作发展行动计划》，涵盖优质数据供给行动、智能算力普惠行动、开源生态共享行动、人工智能深度赋能行动、数智人才共育行动、规则标准共建行动、安全治理协作行动、人工智能向善行动八大任务。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4856a5b3a9052552",
+    "source": "企鹅号",
+    "slug": "nrdc-ai-action-plan"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "腾讯升级具身智能全栈方案并发布企业级智能体平台ADP 4.0海外版",
+    "summary": "WAIC 2026上，腾讯正式升级发布具身智能全栈方案，同时推出面向企业用户的腾讯云企业级智能体开发平台ADP4.0海外版，并发布「十大行业百大场景生态计划」，已落地30多个行业，覆盖智能客服、知识管理、媒体生产等场景。",
+    "url": "https://36kr.com/newsflashes/",
     "source": "36氪",
-    "slug": "liweike-x-ai-memory-glasses-workbuddy"
+    "slug": "tencent-embodied-ai-agent"
   },
   {
-    "date": "2026-07-18",
-    "title": "17家香港AI创科企业亮相\"香港科技馆\"，人形机器人引关注",
-    "summary": "香港贸发局连续第四年参展WAIC，带领18家香港AI创科企业亮相\"香港科技馆\"，集中展示人形机器人、智能语音、网络安全、智慧交通等领域创新成果。其中九光技术带来的人形机器人兼具超高负载能力与高精度运动控制。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4966a5b30ac75352",
+    "date": "2026-07-17",
+    "title": "腾讯云与李未可科技发布首款接入WorkBuddy的X-AI记忆眼镜",
+    "summary": "WAIC期间，腾讯云WorkBuddy与李未可科技达成战略生态合作，发布首款接入WorkBuddy的X-AI记忆眼镜，将AI助手能力与智能眼镜形态结合，探索可穿戴AI设备在个人办公场景的落地。",
+    "url": "https://36kr.com/newsflashes/",
+    "source": "36氪",
+    "slug": "tencent-smart-glasses"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "谷歌发布Gemma 4端侧大模型，实现原生多模态",
+    "summary": "2026年7月17日，谷歌发布Gemma 4端侧大模型，实现原生多模态能力，可在手机等端侧设备上运行视觉理解等复杂任务，进一步推动端侧AI大模型的普及。",
+    "url": "https://51ai.website/",
+    "source": "AI Weekly",
+    "slug": "google-gemma4"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "首款毫秒级神经动力学芯片问世，较英伟达GPU提速50至478倍",
+    "summary": "2026年7月14日，首款毫秒级神经动力学芯片发布，性能较英伟达GPU提升50.38至478.18倍，标志着类脑计算芯片在能效比和响应速度方面取得重大突破。",
+    "url": "https://51ai.website/",
+    "source": "AI Weekly",
+    "slug": "neural-chip-500x-faster"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "李彦宏在人民日报撰文：为智能经济打造科学评价体系",
+    "summary": "百度创始人李彦宏在人民日报发表署名文章，指出需要为智能经济建立科学的评价体系，推动AI技术在产业端的规模化应用与规范化发展。",
+    "url": "https://51ai.website/",
+    "source": "AI Weekly",
+    "slug": "li-yanhong-peoples-daily"
+  },
+  {
+    "date": "2026-07-19",
+    "title": "小米披露机器人进厂新进展，部分场景成功率逼近98%人工水平",
+    "summary": "小米在WAIC 2026期间披露其机器人在工厂场景落地进展，部分场景下任务成功率已接近98%，逼近人工操作水平，机器人商业化落地取得实质性突破。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8096a5c311097352",
     "source": "企鹅号",
-    "slug": "hongkong-ai-companies-waic2026"
+    "slug": "xiaomi-robot-factory"
   }
 ]
