@@ -1,122 +1,106 @@
 [
   {
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "title": "2026世界人工智能大会（WAIC）在上海开幕，刷新多项纪录",
     "summary": "7月17日，2026世界人工智能大会（WAIC）在上海正式开幕。展览总面积首次突破10万平方米，全球1100余家龙头企业和科创团队参展，3000余项前沿AI展品集中亮相，超300款产品实现全球首发，覆盖大模型、智能体、具身智能、AI眼镜、AI机器人、算力芯片等全链条。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0126a5c264c37752",
     "source": "企鹅号",
-    "slug": "waic-2026-open-shanghai"
+    "slug": "waic-2026-shanghai-record"
   },
   {
-    "date": "2026-07-19",
-    "title": "国行苹果AI要来了：Apple智能大模型已完成备案",
-    "summary": "7月15日，网信中国公众号发布7款提供手机端侧生成式人工智能服务已备案信息的公告，其中苹果技术开发（上海）有限公司的“Apple 智能”大模型已于2026年7月8日备案，适用场景为苹果手机。",
+    "date": "2026-07-20",
+    "title": "国行苹果AI来了：Apple智能大模型已完成备案",
+    "summary": "7月15日，网信中国公众号发布7款提供手机端侧生成式人工智能服务已备案信息的公告，其中苹果技术开发（上海）有限公司的“Apple 智能”大模型已于2026年7月8日备案，适用场景为苹果手机，意味着国行版苹果手机AI功能或将迎来上线。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0126a5c264c37752",
     "source": "企鹅号",
     "slug": "apple-intelligence-china-filed"
   },
   {
-    "date": "2026-07-18",
-    "title": "王坚在WAIC2026提出：AI范式转折将由科学数据推动",
-    "summary": "中国工程院院士、之江实验室主任王坚在WAIC2026主论坛演讲中提出，人工智能正在迎来一次新的范式转折，而这一次推动变化的不再只是语言数据，而是科学数据。未来真正重要的不是训练一个更大的语言模型。",
-    "url": "http://finance.eastmoney.com/a/ccjxw.html",
-    "source": "东方财富网",
-    "slug": "wang-jian-waic-scientific-data"
+    "date": "2026-07-20",
+    "title": "月之暗面发布Kimi K3大模型，参数规模达2.8万亿",
+    "summary": "WAIC开幕前一天，月之暗面发布新一代模型Kimi K3，参数规模达2.8万亿，直接刷新全球开源模型规模纪录。阿里巴巴、腾讯、百度、MiniMax等中国科技企业展台被挤得水泄不通。美国Axios新闻网报道称中国大模型产品令开发者惊叹，震撼硅谷。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8536a5d519848152",
+    "source": "环球时报",
+    "slug": "kimi-k3-moonshot-2-8t"
   },
   {
-    "date": "2026-07-18",
-    "title": "逐际动力在WAIC发布全尺寸女性人形机器人Luna",
-    "summary": "7月17日上海WAIC正式拉开序幕，深圳具身智能公司逐际动力展示了其最新推出的一款女性人形机器人Luna。Luna是一款全尺寸交互人形机器人，身高160cm。",
-    "url": "http://finance.eastmoney.com/a/ccjxw.html",
-    "source": "东方财富网",
-    "slug": "zhui-ji-dong-li-luna-robot"
+    "date": "2026-07-20",
+    "title": "字节跳动联合努比亚发布首款豆包AI智能体手机",
+    "summary": "7月15日，字节跳动联合中兴努比亚打造的首款AI智能体手机“豆包AI智能体手机”正式披露，将在WAIC期间首发亮相。该机由努比亚代工，首批备货约10万台，搭载已备案的智能体大模型。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8206a5c94ef48052",
+    "source": "企鹅号",
+    "slug": "doubao-ai-agent-phone-nubia"
   },
   {
-    "date": "2026-07-18",
-    "title": "模思智能首次亮相WAIC2026，展示实时视频理解与音视频生成",
-    "summary": "7月17日至20日，模思智能首次亮相2026世界人工智能大会（WAIC2026），集中展示实时视频理解、复杂音频转写、语音及音视频生成和实时交互等最新进展。模思智能是一家面向下一代情境交互智能的大模型公司。",
-    "url": "http://finance.eastmoney.com/a/ccjxw.html",
-    "source": "东方财富网",
-    "slug": "mo-si-zhi-neng-waic-2026"
+    "date": "2026-07-20",
+    "title": "腾讯混元Hy3上线一周调用量增长超68倍，登顶OpenRouter全球榜首",
+    "summary": "7月15日腾讯官方公布，混元大模型Hy3自7月6日发布一周后，总调用量较上一代增长超68倍。全球最大API聚合平台OpenRouter数据显示，Hy3在全球大模型调用量总榜排名升至第一。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8206a5c94ef48052",
+    "source": "企鹅号",
+    "slug": "tencent-hunyuan-hy3-openrouter"
   },
   {
-    "date": "2026-07-19",
-    "title": "荣耀CEO李健在WAIC发布“机器人手机”RobotPhone",
-    "summary": "荣耀CEO李健在WAIC2026大会上发布了“机器人手机”RobotPhone。他认为未来万物智能世界的演进将呈现“一主多专、三脑协同”的全新架构——一个随身的主智能体协同海量智能终端、垂域生态和云端超级大脑。",
+    "date": "2026-07-20",
+    "title": "百度WAIC携智能体全家桶亮相，全栈AI产品矩阵升级",
+    "summary": "7月17日，在2026世界人工智能大会期间，百度AI携智能体全家桶亮相，全方位呈现智能体从技术升级、应用开发到产业赋能的最新成果，“芯云模体”全栈AI产品矩阵发布新升级。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8206a5c94ef48052",
+    "source": "企鹅号",
+    "slug": "baidu-agent-family-waic"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "荣耀CEO李健发布“机器人手机”RobotPhone",
+    "summary": "荣耀CEO李健在WAIC2026大会上发布了“机器人手机”RobotPhone，提出“一主多专、三脑协同”的全新架构，一个随身的主智能体协同海量智能终端、垂域生态和云端超级大脑。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0406a5c8a9792652",
     "source": "企鹅号",
-    "slug": "honor-robotphone-waic"
+    "slug": "honor-robotphone-waic-2026"
   },
   {
-    "date": "2026-07-18",
-    "title": "29国签署协定成立世界人工智能合作组织",
-    "summary": "在2026世界人工智能大会各方明确表示AI有望成为人类最大发展机遇。29国签署协定成立世界人工智能合作组织，中国将向发展中国家提供5000个人工智能培训名额，建设国际人工智能应用合作中心，并推动气象智能预警方案“妈祖”在30国落地应用。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8896a5b710656452",
+    "date": "2026-07-20",
+    "title": "上海AI实验室发布书生·端砚平台与Intern-S2-Preview-397B",
+    "summary": "WAIC 2026科学前沿论坛上，上海人工智能实验室发布“书生·端砚”科学发现平台、升级基座模型Intern-S2-Preview-397B，以及“书安”AI安全基座平台，致力构建中国AI研究“超级母体”。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6686a5d294012752",
     "source": "企鹅号",
-    "slug": "29-countries-ai-cooperation-org"
+    "slug": "shanghai-ai-lab-shusheng-intern-s2"
   },
   {
-    "date": "2026-07-18",
-    "title": "习近平出席WAIC开幕式发表主旨讲话，提出全球AI治理四点意见",
-    "summary": "习近平主席在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上发表主旨讲话，着眼人工智能带来的巨大机遇与治理挑战，直面时代之问提出4点意见，为推动全球人工智能发展和治理贡献中国方案，引发各界热烈反响。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1596a5b798344652",
+    "date": "2026-07-20",
+    "title": "中科创达发布AquaClaw for IoT，打造统一智能体操作系统",
+    "summary": "在WAIC 2026期间，中科创达正式发布AquaClaw for IoT，继今年4月发布AquaClaw智能体底座后，将智能体操作系统从智能汽车拓展到原生AI终端，面向物理世界打造统一的智能体操作系统。",
+    "url": "https://www.prnasia.com/releases/all/listpage-recent-all-all-all-all-spec-1.shtml",
+    "source": "美通社",
+    "slug": "thundersoft-aquaclaw-iot"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "2026年AI驱动科学大奖揭晓，脑机语言神经假体开发者获奖",
+    "summary": "7月17日，2026年“天桥脑科学研究院与《科学》杂志AI驱动科学大奖”正式揭晓。加州大学戴维斯分校斯塔维斯基副教授凭借能將大脑活动转化为语言的AI神经假体斩获大奖，该技术为失语人群开辟重返日常交流的途径。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2656a5c47c255452",
     "source": "企鹅号",
-    "slug": "xi-jinping-waic-keynote"
+    "slug": "ai-driven-science-award-2026"
   },
   {
-    "date": "2026-07-19",
-    "title": "中国首个全国产十万卡AI超集群曙光8000（登峰）WAIC首秀",
-    "summary": "7月17日至20日WAIC期间，中国首个全国产十万卡AI超集群——曙光8000（登峰）真机首次面向全球公开亮相，并入选WAIC 2026“镇馆之宝”。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6956a5c4db585152",
+    "date": "2026-07-20",
+    "title": "WAIC大模型风向：不再拼参数大小，AI加速走向物理世界",
+    "summary": "今年WAIC大模型风向转变明显：Kimi K3发布3T参数模型、面壁智能将MiniCPM装入端侧设备、阶跃星辰和豆包把模型做进手机系统。业界共识从比参数规模转向AI落地物理世界和实际应用场景。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1146a5d05b130552",
     "source": "企鹅号",
-    "slug": "sugon-8000-waic-debut"
+    "slug": "waic-llm-trend-physical-world"
   },
   {
-    "date": "2026-07-19",
-    "title": "月之暗面发布Kimi K3大模型，马斯克点赞“Impressive”",
-    "summary": "7月17日凌晨，月之暗面正式发布新一代大模型Kimi K3，参数规模达2.8万亿，拥有100万token上下文窗口，原生支持视觉理解，被称为“迄今能力最强的模型”。特斯拉CEO埃隆·马斯克在相关评测报道评论区留言“Impressive（令人印象深刻）”。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8096a5c311097352",
+    "date": "2026-07-20",
+    "title": "具识智能发布全球首个具身语义智能体系统insightOS Semantic",
+    "summary": "WAIC 2026期间，具识智能携全球首个具身语义智能体系统insightOS Semantic正式亮相，代表着具身智能从感知走向语义理解的关键一步。",
+    "url": "https://www.prnasia.com/releases/all/listpage-recent-all-all-all-all-spec-1.shtml",
+    "source": "美通社",
+    "slug": "insightos-semantic-embodied-agent"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "WAIC首次将“治理”写入大会名称，推动AI治理从理念到行动",
+    "summary": "2026世界人工智能大会首次将“治理”写入大会名称，国家发改委会同中央广播电视总台等部门发布成果，将AI全球治理从理念探讨推向行动落地。当大模型从“回答问题”走向“替人做事”，安全、责任与信任成为核心议题。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4626a5c073340252",
     "source": "企鹅号",
-    "slug": "kimi-k3-moonshot-release"
-  },
-  {
-    "date": "2026-07-19",
-    "title": "千问发布首款AI智能体耳机，小米披露机器人进厂新进展",
-    "summary": "本周AI热点中，千问发布首款AI智能体耳机；小米披露机器人进厂新进展，部分场景成功率已达98%，逼近人工水平。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8096a5c311097352",
-    "source": "企鹅号",
-    "slug": "qwen-agent-earphone-xiaomi-robot"
-  },
-  {
-    "date": "2026-07-18",
-    "title": "千问发布高考志愿填报Agent，为全国考生免费提供咨询",
-    "summary": "千问发布高考志愿填报Agent，为全国考生免费提供志愿填报咨询服务，将AI能力应用于教育场景。",
-    "url": "http://www.weste.net/",
-    "source": "威易网",
-    "slug": "qwen-gaokao-agent"
-  },
-  {
-    "date": "2026-07-18",
-    "title": "ISC.AI2026举行，多方共议智能体安全治理",
-    "summary": "李冰、任贤良、赵志国、韩雪、邬贺铨、周鸿祎齐聚ISC.AI2026，围绕智能体安全治理议题展开讨论，聚焦AI时代的攻防与安全先行。",
-    "url": "http://www.weste.net/",
-    "source": "威易网",
-    "slug": "isc-ai-2026-agent-security"
-  },
-  {
-    "date": "2026-07-18",
-    "title": "荣耀发布X80 Pro Max“耐用神机”：11000mAh电池+10000nits高亮屏",
-    "summary": "荣耀发布X80 Pro Max，配备11000mAh大电池与10000nits高亮屏，主打耐用与户外可视场景。",
-    "url": "http://www.weste.net/",
-    "source": "威易网",
-    "slug": "honor-x80-pro-max-release"
-  },
-  {
-    "date": "2026-07-19",
-    "title": "WAIC2026多项创新成果公布，推动AI全球治理从理念走向行动",
-    "summary": "7月18日，2026世界人工智能大会继续在上海举行，以“智能伙伴，共创未来”为主题。国家发展改革委会同中央广播电视总台等部门共同发布两项成果，将人工智能全球治理从理念探讨推向行动落地的新阶段。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5336a5bad2f12652",
-    "source": "企鹅号",
-    "slug": "waic-global-governance-action"
+    "slug": "waic-governance-action"
   }
 ]
