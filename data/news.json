@@ -1,114 +1,114 @@
 [
   {
     "date": "2026-07-20",
-    "title": "习近平出席2026 WAIC开幕式并发表主旨讲话：向上向善、造福人类",
-    "summary": "7月17日，习近平主席在上海出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话，提出\u201c以人为本、向上向善\u201d理念，就携手构建公正合理的全球人工智能治理体系提出4点意见，强调让人工智能成为促进共同繁荣、维护共同安全的重要动力源。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4656a5c5e8666252",
+    "title": "DeepSeek被曝筹备IPO，投前估值约710亿美元，创始人梁文锋登顶全球AI圈首富",
+    "summary": "DeepSeek被曝筹备IPO并启动新一轮融资，投前估值约710亿美元，创始人梁文锋登顶全球AI圈首富。同期MiniMax完成160亿港元融资。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7656a5de20774252",
     "source": "企鹅号",
-    "slug": "xi-waic-2026-keynote"
+    "slug": "deepseek-ipo-july-2026"
   },
   {
     "date": "2026-07-20",
-    "title": "月之暗面发布Kimi K3：2.8万亿参数，全球最大开源模型",
-    "summary": "7月16日，月之暗面发布新一代模型Kimi K3，参数规模达2.8万亿，刷新全球开源模型规模纪录。在Code Arena盲测平台前端编程榜以1679分登顶，胜率76%，超越Claude Fable 5和GPT-5.6 Sol。在金融研究、产业分析等场景中可生成可读、可查、可验证的深度报告。",
-    "url": "https://new.qq.com/rain/a/20260719A08U2L00",
-    "source": "腾讯网",
-    "slug": "kimi-k3-launch-2-8t"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "Kimi K3爆火后算力紧缺，月之暗面暂停C端新用户订阅",
-    "summary": "7月19日晚间，月之暗面发布公告称自Kimi K3发布以来面临始料未及的算力挑战，过去48小时用户请求量逼近现有集群承载极限。即日起暂停C端新用户订阅，将已有算力全部投入服务已订阅用户，同时全速推进算力扩容，新算力到位后将逐步开放。后续还将拆分Kimi主权益与Kimi Code权益。",
-    "url": "https://new.qq.com/rain/a/20260720A03OAR00",
-    "source": "腾讯网",
-    "slug": "kimi-k3-compute-shortage"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "荣耀发布全球首款机器人手机Robot Phone，首创微型四自由度云台",
-    "summary": "7月18日WAIC期间，荣耀CEO李健发布全球首款机器人手机Robot Phone。该机首创微型4DoF钛合金云台，体积较主流方案缩小70%，0.8秒极速弹出，支持360\u00b0追踪与CIPA 5.5级防抖。搭载端侧大模型YOYO，具备情绪感知与自主构图能力，可实现多模态自主交互。新增月影灰、星轨银配色，即日开启全渠道预约。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7366a5d8e6692565",
+    "title": "千问发布实时语音交互模型Qwen-Audio-3.0-Realtime，与苹果AI达成合作",
+    "summary": "千问发布实时语音交互模型Qwen-Audio-3.0-Realtime，并与苹果AI达成合作，在AI应用行业引发广泛关注。WPS同期因「会员套娃」遭集中投诉。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7656a5de20774252",
     "source": "企鹅号",
-    "slug": "honor-robot-phone-waic"
+    "slug": "qwen-audio-realtime-apple"
   },
   {
     "date": "2026-07-20",
-    "title": "荣耀发布AgenticOS：行业首个系统级Agent架构操作系统",
-    "summary": "WAIC期间，荣耀发布新一代伙伴型多模态智能体操作系统AgenticOS，采用行业首个系统级Agent架构，具备意图驱动、自然交互、主动智能和天生跨端四大特性，支持全局多智能体协同与全场景自循环。Robot Phone首发搭载该系统内核，Magic9系列将于Q4搭载尝鲜版。",
-    "url": "https://www.chinaz.com/news/",
-    "source": "站长之家",
-    "slug": "honor-agenticos-launch"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "曙光8000全国产十万卡AI超集群真机全球首展，入选WAIC镇馆之宝",
-    "summary": "WAIC期间，中国首个全国产十万卡AI超集群\u2014\u2014曙光8000（登峰）真机首次面向全球亮相并入选\u201c镇馆之宝\u201d。上线首周即满载运行，日均处理作业超15万个，单日峰值超50万个。已完成近千项超智融合应用适配，覆盖大模型训练、高通量推理、科学计算等万卡级场景，已接入国家超算互联网。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0506a5ca0dd25952",
+    "title": "Kimi K3 2.8万亿参数开源大模型发布，登顶全球开源模型规模榜首",
+    "summary": "在2026 WAIC上，月之暗面发布Kimi K3大模型，参数规模达2.8万亿，是目前全球参数最大的开源模型，标志着我国AI基础模型研发迈入世界级新层级。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0146a5d5dbc04852",
     "source": "企鹅号",
-    "slug": "sugon-8000-waic"
+    "slug": "kimi-k3-2-8t-waic"
   },
   {
     "date": "2026-07-20",
-    "title": "商汤科技发布SenseNova U1 Pro：从内容生成迈向系统级交付",
-    "summary": "7月18日WAIC期间，商汤科技发布旗舰级多模态大模型SenseNova U1 Pro，定位面向长程任务的交付级原生多模态智能体基座。该模型告别传统\u201c单点式内容生成\u201d，具备设计告别AI味、图文信息整合、最高8K原生分辨率输出、长程Agentic闭环思维四大能力，U1用户人均日生图量已跃升至107张。",
-    "url": "https://new.qq.com/rain/a/20260719A08EDM00",
-    "source": "腾讯网",
-    "slug": "sensenova-u1-pro-launch"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "中科院发布磐石·科学基础大模型2.0，构建三位一体算力体系",
-    "summary": "WAIC期间，由中国科学院联合团队研发的磐石·科学基础大模型2.0正式发布。该模型构建了800万条高质量科学推理数据，覆盖200多个科研任务，并构建\u201c超算+智算+速算\u201d三位一体异构算力体系，形成一体化科研智能平台，支持科研人员按需定制专用模型与科研智能体。",
-    "url": "https://new.qq.com/rain/a/20260720A02E7500",
-    "source": "腾讯网",
-    "slug": "panshi-science-model-2"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "腾讯上线SkillPay支付体系，打通Agent技能商业化闭环",
-    "summary": "7月16日，腾讯SkillHub正式上线SkillPay支付体系，首次将技能分发、Agent调用与技能支付在同一条链路上打通。商家可在SkillHub上架自己的Pay Skill获得面向Agent的收费能力，SkillHub负责来源认证与内容完整性校验，微信支付提供底层支付体系与安全保障。",
-    "url": "http://tech.cnr.cn/techgd/",
-    "source": "央广网",
-    "slug": "tencent-skillpay-launch"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "北大发布《人工智能治理的国际图景》报告",
-    "summary": "7月19日，在WAIC 2026\u201c启明创投·创业与投资论坛\u201d上，北京大学中外人文交流研究基地执行主任王栋代表研究团队发布《人工智能治理的国际图景》报告，系统梳理全球AI治理格局与发展趋势。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4376a5cd23f64052",
+    "title": "武汉AI企业全景式亮相2026世界人工智能大会",
+    "summary": "7月17日至20日WAIC期间，中国信科、长飞光纤、黑芝麻智能、金山办公等武汉企业组团亮相，涵盖具身智能、AI基建、AI应用等多条赛道。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0806a5dd3b432452",
     "source": "企鹅号",
-    "slug": "pku-ai-governance-report"
+    "slug": "wuhan-ai-waic-2026"
   },
   {
     "date": "2026-07-20",
-    "title": "中科创达发布AquaClaw for IoT，打造统一智能体操作系统",
-    "summary": "WAIC 2026期间，中科创达正式发布AquaClaw for IoT，继今年4月发布AquaClaw智能体底座后，将智能体操作系统从智能汽车拓展到原生AI终端，面向物理世界打造统一的智能体操作系统。",
-    "url": "https://www.prnasia.com/releases/all/listpage-recent-all-all-all-all-spec-1.shtml",
-    "source": "美通社",
-    "slug": "aquaclaw-iot-launch"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "岩山科技携五大AI业务亮相WAIC，全栈AI重塑智能生态",
-    "summary": "7月17日-20日WAIC 2026期间，岩山科技携岩思类脑、LumiMind、Nullmax、RockAI、岩途点点五大业务板块集中亮相，系统呈现其在类脑计算、AI大模型、自动驾驶、端侧AI等前沿领域的全栈布局。",
-    "url": "http://tech.cnr.cn/techgd/",
-    "source": "央广网",
-    "slug": "rockshares-waic-five-ai"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "WAIC 2026：AI从\u201c炫技\u201d加速迈向\u201c实干\u201d，1100家企业参展",
-    "summary": "2026 WAIC在上海举办，展览总面积突破10万平方米，全球1100余家企业参展，发布300多件首发新品。展会集中展示AI在工业智造、自动驾驶、智能医疗等领域的应用，人形机器人具自主导航与实时环境处理能力成为亮点。AI行业正从炫技向价值本质转变，迈入实干阶段。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6956a5c4db585152",
+    "title": "宇树科技IPO注册生效，逐际动力完成近2亿美元Pre-IPO轮融资",
+    "summary": "宇树科技IPO注册生效后持续受到市场关注；逐际动力完成近2亿美元Pre-IPO轮融资，投后估值达150亿元；星动纪元再获10亿元融资。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3466a5dd46e64652",
     "source": "企鹅号",
-    "slug": "waic-2026-from-show-to-value"
+    "slug": "robot-funding-july-2026"
   },
   {
     "date": "2026-07-20",
-    "title": "联想携AI世界杯成果亮相WAIC，推动AI技术普惠共享",
-    "summary": "WAIC 2026期间，联想集团副总裁陈敏仪在共赢金砖论坛上发表主旨演讲，系统分享联想以首届AI世界杯为起点的技术普惠实践，推动AI创新成果向千行百业覆盖。",
-    "url": "http://tech.cnr.cn/techgd/",
-    "source": "央广网",
-    "slug": "lenovo-ai-worldcup-waic"
+    "title": "众擎机器人举办全球首个人形机器人格斗联赛揭幕赛",
+    "summary": "众擎机器人在WAIC前夕举办全球首个人形机器人格斗联赛揭幕赛，人形机器人产业在资本和赛事层面持续升温。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3466a5dd46e64652",
+    "source": "企鹅号",
+    "slug": "humanoid-robot-fight-league"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "中国移动京津冀智算中心项目启动招标，预估金额约10.2亿元",
+    "summary": "中国移动京津冀智算中心项目启动招标，预估金额约10.2亿元。同期机器人行业投融资活跃，融资金额达364.30亿元，Momenta等企业上市。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1886a5d9f5c23352",
+    "source": "企鹅号",
+    "slug": "chinamobile-zhongjisuan-bid"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "我国人工智能开源大模型全球累计下载量突破100亿次",
+    "summary": "工信部总工程师王卫明在WAIC介绍，我国规模以上制造业企业AI技术应用普及率超30%，人工智能开源大模型全球累计下载量突破100亿次。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0126a5d960915252",
+    "source": "企鹅号",
+    "slug": "china-open-model-10b-downloads"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "大晓机器人发布开悟世界模型3.1与三大行业解决方案",
+    "summary": "WAIC 2026期间，大晓机器人在世界模型「六小龙」巅峰论坛发布三大核心成果：开悟世界模型3.1（Kairos3.1）及三大行业解决方案。",
+    "url": "https://news.10jqka.com.cn/cjkx_list/",
+    "source": "同花顺财经",
+    "slug": "daxiao-kairos-3-1-waic"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "摩尔线程公布三大AI工厂实践成果，完成多项「国芯训国模」实践",
+    "summary": "在WAIC 2026上，摩尔线程展示模型训练工厂、词元生产工厂和智能体生产工厂三大布局。已完成从零起步训练MoE-236B基础模型、北京大学5D世界模型全栈原生训练等实践。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0246a5cc07a40765",
+    "source": "企鹅号",
+    "slug": "moore-threads-ai-factory-waic"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "阿里TokenPlan个人版发布，用户可抢先体验Qwen3.8-Max-Preview",
+    "summary": "7月19日，阿里云正式发布TokenPlan个人版，用户可在其中抢先体验Qwen3.8-Max-Preview。与此同时，网易有道携AI Agent应用矩阵及子曰大模型4.0亮相WAIC。",
+    "url": "http://global.eastmoney.com/news/cmgpj.html",
+    "source": "东方财富",
+    "slug": "ali-tokenplan-qwen-preview"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "面壁智能第三次亮相WAIC，推动端侧智能进入真实世界",
+    "summary": "面壁智能作为首家布局端侧赛道的大模型公司，第三次亮相WAIC 2026，在端侧智能领域持续深耕，推动端侧AI落地真实世界应用场景。",
+    "url": "http://www.znjchina.com/",
+    "source": "智能界",
+    "slug": "mianbi-edge-ai-waic-2026"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "2026 WAIC云帆奖揭晓，表彰AI领域杰出青年人才",
+    "summary": "7月18日，2026 WAIC青年伙伴派对暨云帆奖之夜在上海张江AI创新小镇举行，公布云帆奖「璀璨明星」和「明日之星」新晋得主名单，获奖者包括曹越、陈恺、戴国浩等。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2056a5d9ce909352",
+    "source": "企鹅号",
+    "slug": "waic-yunfan-award-2026"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "2026 WAIC首次将「治理」写入大会名称，智能体安全成焦点",
+    "summary": "2026世界人工智能大会首次将「治理」写入大会名称，聚焦AI智能体自主规划、决策与执行过程中的责任归属问题，强调安全不能靠「打补丁」，需治理评估四维并重。",
+    "url": "https://paper.xinmin.cn/index/xmwb/index.html",
+    "source": "新民晚报",
+    "slug": "waic-governance-2026"
   }
 ]
