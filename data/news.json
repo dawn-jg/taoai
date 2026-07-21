@@ -1,114 +1,114 @@
 [
   {
-    "date": "2026-07-20",
-    "title": "习近平出席2026世界人工智能大会开幕式，宣布多项AI国际合作举措",
-    "summary": "国家主席习近平在上海出席2026世界人工智能大会开幕式并发表主旨讲话，宣布未来5年中国将面向发展中国家提供5000个AI专题研修培训名额，面向东盟、阿盟、非盟等建设国际AI应用合作中心，同时推动气象智能预警方案在30个国家落地应用。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2576a5e2ac324852",
-    "source": "企鹅号",
-    "slug": "xi-jinping-waic-2026-opening"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "29国代表共同签署成立世界人工智能合作组织（WAICO）协定",
-    "summary": "中国、俄罗斯、哈萨克斯坦、老挝、巴基斯坦、印度尼西亚等29个国家的代表在上海共同签署成立世界人工智能合作组织（WAICO）协定，成为创始成员国，构建多方参与的包容治理模式。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2576a5e2ac324852",
-    "source": "企鹅号",
-    "slug": "waico-founded-29-countries"
-  },
-  {
-    "date": "2026-07-21",
-    "title": "工信部：我国AI开源大模型全球累计下载量突破100亿次",
-    "summary": "国务院新闻办发布会通报，截至目前全国性开源基金会已吸纳50余个开源项目进入孵化阶段，国家级人工智能开源社区汇聚用户1100余万、托管模型超7万个，我国人工智能开源大模型全球累计下载量突破100亿次。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3666a5ee77e16665",
-    "source": "企鹅号",
-    "slug": "china-ai-open-source-downloads-100b"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "Kimi K3发布：全球参数规模最大开源模型，参数达2.8万亿",
-    "summary": "新一代模型Kimi K3于7月16日发布，参数规模达2.8万亿，是目前全球参数最大的开源模型。本届世界人工智能大会上国产大模型迎来集中上新，开启实用化的新时代。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9906a5da8d318052",
-    "source": "企鹅号",
-    "slug": "kimi-k3-global-largest-open-source-model"
-  },
-  {
     "date": "2026-07-21",
     "title": "WAIC 2026闭幕：意向采购金额约203.6亿元，同比增长约25%",
-    "summary": "2026世界人工智能大会在上海闭幕，本届大会展览面积10万平方米，展品总数4486项，351款产品全球首发，接待全球重要采购团组177个，预计达成意向采购金额约203.6亿元，同比增长约25%。",
+    "summary": "2026世界人工智能大会在上海闭幕，本届大会展览面积10万平方米，展品总数4486项，351款产品全球首发，接待全球重要采购团组177个，预计达成意向采购金额约203.6亿元，同比增长约25%，吸引现场观众超40万人次。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1976a5ec88789052",
     "source": "企鹅号",
     "slug": "waic-2026-closing-2036-yi"
   },
   {
     "date": "2026-07-21",
-    "title": "DeepSeek被曝筹备IPO：投前估值约710亿美元",
-    "summary": "DeepSeek被曝正在筹备IPO并启动新一轮融资，投前估值约710亿美元，创始人梁文锋登顶全球AI圈首富；MiniMax完成160亿港元融资。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7656a5de20774252",
-    "source": "企鹅号",
-    "slug": "deepseek-ipo-710-billion"
-  },
-  {
-    "date": "2026-07-21",
-    "title": "千问发布实时语音交互模型Qwen-Audio-3.0-Realtime，与苹果AI达成合作",
-    "summary": "千问发布实时语音交互模型Qwen-Audio-3.0-Realtime，并宣布与苹果AI达成合作，该模型支持自然语言实时语音交互，进一步拓展大模型在端侧设备的落地应用。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7656a5de20774252",
-    "source": "企鹅号",
-    "slug": "qwen-audio-3-realtime-apple"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "节卡机器人发布K1-25重载人形双臂，可完成重型料箱转运与双臂协同装配",
-    "summary": "2026世界人工智能大会上，节卡机器人携首发新品K1-25重载人形双臂亮相，可完成重型料箱转运、大型零部件双臂协同装配等作业，直面工业场景真实需求，并联合华域电动将新能源电机产线搬进现场演示。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1976a5ec88789052",
-    "source": "企鹅号",
-    "slug": "jaka-robot-k1-25"
-  },
-  {
-    "date": "2026-07-21",
-    "title": "谷歌正在研发新型AI服务器芯片「Frozen v2」",
+    "title": "谷歌正在研发新型AI服务器芯片'Frozen v2'",
     "summary": "谷歌正在研发一款内部代号为Frozen v2的新型服务器芯片，旨在更高效地运行AI推理任务，进一步提升AI服务器的计算能效比，这是谷歌在自研AI芯片领域的最新动作。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1976a5ec88789052",
     "source": "企鹅号",
     "slug": "google-frozen-v2-chip"
   },
   {
-    "date": "2026-07-20",
-    "title": "银河通用发布LATENT算法：全球首个面向网球对抗的人形机器人全身实时规控算法",
-    "summary": "银河通用在WAIC 2026发布全球首个面向网球对抗的人形机器人全身实时智能规控算法LATENT，首次攻克人形机器人在长程、高动态对抗场景中的实时决策与复杂运动难题，近30家北京具身智能企业集中参展。",
-    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "科技部",
-    "slug": "yinhe-latent-robot"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "奕行智能于WAIC 2026发布业界首个RISC-V AI算力超节点",
-    "summary": "奕行智能在WAIC 2026发布业界首个RISC-V AI算力超节点，以系统级协同创新重构AI算力演进范式，突破传统单芯片迭代的性能瓶颈，依托架构革新充分释放大规模集群算力潜能。",
-    "url": "https://36kr.com/information/technology",
-    "source": "36氪",
-    "slug": "yixing-risc-v-super-node"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "2026世界人工智能大会AI女性论坛举行",
-    "summary": "以AI跃迁·她动能为主题的2026世界人工智能大会AI女性论坛在上海举行，全国妇联党组书记黄晓薇表示，女性已成为AI场景落地、业态创新的生力军，是数智时代不可或缺的宝贵力量。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5956a5df8f666952",
-    "source": "企鹅号",
-    "slug": "waic-2026-ai-women-forum"
-  },
-  {
     "date": "2026-07-21",
-    "title": "国家发改委发布《人工智能合作发展行动计划》",
-    "summary": "国家发改委发布《人工智能合作发展行动计划》，从数据、算力、生态、赋能、人才、规则、治理和伦理等方面，提出优质数据供给、智能算力普惠、开源生态共享、AI深度赋能等八项行动。",
+    "title": "节卡机器人发布K1-25重载人形双臂，直面工业场景真实需求",
+    "summary": "节卡机器人在WAIC 2026携首发新品K1-25重载人形双臂亮相，可完成重型料箱转运、大型零部件双臂协同装配等作业，并联合华域电动将新能源电机产线搬进现场，真实演绎装配、锁付全流程作业。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1976a5ec88789052",
+    "source": "企鹅号",
+    "slug": "jaka-robot-k1-25"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "29国代表共同签署成立世界人工智能合作组织(WAICO)协定",
+    "summary": "中国、俄罗斯、哈萨克斯坦、老挝、巴基斯坦、印度尼西亚等29个国家的代表在上海共同签署了成立世界人工智能合作组织(WAICO)协定，成为创始成员国，构建多方参与的包容治理模式。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2576a5e2ac324852",
+    "source": "企鹅号",
+    "slug": "waico-founded-29-countries"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "国家发改委发布《人工智能合作发展行动计划》八项行动",
+    "summary": "国家发改委发布《人工智能合作发展行动计划》，从数据、算力、生态、赋能、人才、规则、治理和伦理等方面，提出优质数据供给、智能算力普惠、开源生态共享、AI深度赋能、数智人才共育、规则标准共建、安全治理协作、AI向善等八项行动。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2576a5e2ac324852",
     "source": "企鹅号",
     "slug": "ndrc-ai-action-plan"
   },
   {
     "date": "2026-07-20",
-    "title": "WAIC 2026打造沉浸式展区，全景呈现人机共生图景",
-    "summary": "WAIC在世博展览馆打造模登时代·伙伴之城沉浸式展区，以未来城市为形态，全景呈现人机共生的生产与生活新图景，展示最新AI产品与人机协作的前沿应用。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1976a5ec88789052",
+    "title": "习近平出席WAIC开幕式：未来5年提供5000个AI培训名额，推动气象预警方案落地30国",
+    "summary": "国家主席习近平出席2026世界人工智能大会开幕式并发表主旨讲话，宣布未来5年中国将面向发展中国家提供5000个AI专题研修培训名额，面向东盟、阿盟、非盟等建设国际AI应用合作中心，推动气象智能预警方案'妈祖'在30个国家落地应用。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2576a5e2ac324852",
     "source": "企鹅号",
-    "slug": "waic-2026-immersive-exhibition"
+    "slug": "xi-waic-2026-5000-training"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "中兴努比亚发布全球首款AI智能体手机",
+    "summary": "中兴通讯努比亚在WAIC 2026展示'全球首款AI智能体手机'，这是业内首次将AI智能体应用于智能手机领域，用户可一句话让AI跨应用执行复杂任务，如自动完成订机酒等操作。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4306a5f2b0704852",
+    "source": "企鹅号",
+    "slug": "nubia-ai-agent-phone"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "中国率先实现人形机器人规模化量产，2025年出货量占全球88.7%",
+    "summary": "《全球人工智能创新指数报告2026》显示，中国率先实现人形机器人规模化量产，2025年出货量占全球比重高达88.7%。从小批量试制到大规模量产的跃升，得益于国产大模型能力提升、核心零部件成本下降、场景数据持续积累。",
+    "url": "https://www.xinhuanet.com/mrdx/2021-02/26/c_139769684.htm",
+    "source": "新华网",
+    "slug": "china-humanoid-robot-mass-production"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "华为发布业界最大规模超节点Atlas 950",
+    "summary": "华为在WAIC 2026带来业界规模最大的超节点Atlas 950真机亮相，能让1024张昇腾算力卡像一台计算机一样协同工作，以系统级协同创新重构AI算力演进范式。",
+    "url": "https://view.inews.qq.com/a/20260720A0A91K00",
+    "source": "腾讯新闻",
+    "slug": "huawei-atlas-950-super-node"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "银河通用发布全球首个网球对抗人形机器人全身实时智能规控算法LATENT",
+    "summary": "银河通用在WAIC 2026发布全球首个面向网球对抗的人形机器人全身实时智能规控算法LATENT，首次攻克人形机器人在长程、高动态对抗场景中的实时决策与复杂运动难题。近30家北京具身智能企业集中参展。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "科技部",
+    "slug": "galaxy-latent-tennis-robot"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "WAIC展览面积首次突破10万平米，1100余家企业参展，全球首发351款新品",
+    "summary": "2026世界人工智能大会展览总面积首次突破10万平方米，1100余家企业参展，展品总数4486项，具身智能领域汇聚超200家企业，大会重磅展品包括MiniMax M3多模态大模型、阶跃Agent操作系统、近存计算3D芯片等。",
+    "url": "https://view.inews.qq.com/a/20260720A0A91K00",
+    "source": "腾讯新闻",
+    "slug": "waic-2026-record-scale"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "AI发展新趋势：从'能说会道'到'真抓实干'，WAIC展现AI实干元年气象",
+    "summary": "2026世界人工智能大会风向转变，从以往的技术演示走向规模化落地。大会展示有情绪的陪伴机器人、AI智能体手机订机酒等实打实场景，中国气象局交付气象智能预警方案'妈祖'吉布提2.0版，AI正式进入实干元年。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6986a5ed36a19552",
+    "source": "企鹅号",
+    "slug": "ai-from-talk-to-action-2026"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "全球首个企业超级智能体'乐享'亮相WAIC，越用越好用",
+    "summary": "全球首个企业超级智能体'乐享'在WAIC 2026亮相，用户只需用自然语言说出需求，乐享便能将商品咨询、产品推荐、下单交易乃至售后维修等一串事项连贯办成，且会随使用次数增长越用越好用。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "科技部",
+    "slug": "lexiang-enterprise-super-agent"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "外媒热议中国AI加速度：WAIC成为推动全球AI治理合作重要平台",
+    "summary": "欧洲《现代外交》杂志等外媒报道指出，WAIC正成为推动全球人工智能治理合作和赋能'全球南方'发展的重要平台。本届大会中国宣布成立WAICO、提供5000个培训名额、与多区域组织共建国际AI应用合作中心等务实举措获国际社会高度关注。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8376a5f324c27752",
+    "source": "企鹅号",
+    "slug": "foreign-media-china-ai-acceleration"
   }
 ]
