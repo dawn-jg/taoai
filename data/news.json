@@ -1,114 +1,122 @@
 [
   {
     "date": "2026-07-22",
-    "title": "WAIC 2026闭幕：1117家企业参展，意向采购金额203.6亿元",
-    "summary": "2026世界人工智能大会7月20日在上海闭幕，102个国家和国际组织参会，1117家企业展出4486项成果，351款产品全球首发，线下观众突破40万人次，意向采购金额达203.6亿元，同比增长25%。智算与具身智能首次并列双核心赛道。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1526a60375027052",
+    "title": "月之暗面发布Kimi K3：2.8万亿参数全球最大开源模型，48小时后因算力过载暂停新用户订阅",
+    "summary": "月之暗面发布2.8万亿参数开源大模型Kimi K3，在复杂推理与代码生成等核心能力上实现跃升。上线48小时后因算力过载暂停C端新用户订阅。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6256a607cbe04852",
+    "source": "AI大模型周报",
+    "slug": "kimi-k3-open-source"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "阿里发布Qwen3.8-Max预览版：2.4万亿参数，正式版预计近期开源",
+    "summary": "阿里巴巴发布最新一代大模型千问3.8(Qwen3.8-Max)预览版，参数规模达2.4万亿，正式版预计近期开源。",
+    "url": "https://www.iimedia.cn/c1088",
+    "source": "艾媒网",
+    "slug": "qwen3-8-max-preview"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "2026世界人工智能大会闭幕：102国参会，1117家企业展出4486项成果，351款产品全球首发",
+    "summary": "7月17-20日，2026世界人工智能大会(WAIC 2026)在上海世博、张江、西岸同步举办，展览总面积首破10万平方米，线下观众突破40万人次。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9236a610a8521852",
     "source": "企鹅号",
     "slug": "waic-2026-closing"
   },
   {
     "date": "2026-07-22",
-    "title": "月之暗面发布Kimi K3：2.8万亿参数，因算力过载暂停新用户订阅",
-    "summary": "月之暗面发布新一代模型Kimi K3，参数规模达2.8万亿，成为全球最大开源模型。因算力过载，公司暂停新用户订阅，待新算力到位后逐步开放。同时面壁智能宣布进入三星供应链。",
+    "title": "普华永道中国在上海成立人工智能研究院，同步发布智能机器人产业发展白皮书",
+    "summary": "普华永道中国正式在上海成立人工智能研究院，依托前沿AI自研应用能力与全链条产业赋能优势，链接全球资源推动本土AI创新落地。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4286a60860315452",
+    "source": "企鹅号",
+    "slug": "pwc-china-ai-institute"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "科创板第五套上市标准扩围至AI大模型企业",
+    "summary": "上海证券交易所将科创板第五套上市标准适用范围扩围至人工智能大模型企业，为AI科创企业上市融资拓宽渠道。海光信息预计上半年归母净利润同比增长41.50%至52.32%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2006a60582914052",
+    "source": "企鹅号",
+    "slug": "star-market-ai-expansion"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "IDC数据：国产AI芯片在华市占率首超52%，算力供应链格局生变",
+    "summary": "IDC最新数据显示，国产AI芯片在中国市场占有率首次超过52%，标志着国内算力供应链格局发生重大变化。",
+    "url": "https://www.readaitime.com/",
+    "source": "读懂AI时代",
+    "slug": "domestic-ai-chip-52"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "AMD拟向Anthropic投资50亿美元并供应AI服务器，挑战英伟达主导地位",
+    "summary": "据华尔街日报报道，AMD已与Anthropic签署协议，将投资高达50亿美元并提供涵盖下一代Instinct MI450芯片的AI服务器，最多2吉瓦算力，交付预计从2027年上半年开始。",
+    "url": "https://www.readaitime.com/",
+    "source": "读懂AI时代",
+    "slug": "amd-anthropic-investment"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "DeepSeek被曝启动IPO筹备，开启新一轮融资，目标估值超5000亿元",
+    "summary": "AI大模型公司DeepSeek被曝已启动IPO筹备并开启新一轮融资，目标估值超过5000亿元人民币。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6256a607cbe04852",
-    "source": "企鹅号",
-    "slug": "kimi-k3-launch"
+    "source": "AI大模型周报",
+    "slug": "deepseek-ipo"
   },
   {
     "date": "2026-07-22",
-    "title": "DeepSeek被曝启动IPO筹备，目标估值超5000亿元",
-    "summary": "DeepSeek被曝启动IPO筹备并开启新一轮融资，目标估值超5000亿元，成为国内AI领域备受关注的资本事件。",
+    "title": "国家网信办首次公布七款手机端侧AI备案名单，端侧AI合规正式落地",
+    "summary": "7月15日，国家互联网信息办公室首次公布七款手机端侧AI备案名单，标志着端侧AI合规监管正式落地。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6256a607cbe04852",
-    "source": "企鹅号",
-    "slug": "deepseek-ipo-rumor"
+    "source": "AI大模型周报",
+    "slug": "onside-ai-regulation"
   },
   {
     "date": "2026-07-22",
-    "title": "国家网信办首次公布七款手机端侧AI备案名单",
-    "summary": "7月15日，国家网信办首次公布七款手机端侧AI备案名单，标志着端侧AI合规监管正式落地，为端侧AI智能化从概念走向现实铺平道路。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6256a607cbe04852",
-    "source": "企鹅号",
-    "slug": "onsite-ai-filing"
+    "title": "文远知行拆分数据业务，成立子公司景烁押注具身智能与物理AI",
+    "summary": "文远知行将数据业务独立运营，由全资子公司景烁承接，定位具身智能和数据基础设施软件服务。已完成A轮融资，2026年收入目标3亿元。",
+    "url": "https://www.readaitime.com/",
+    "source": "读懂AI时代",
+    "slug": "weride-data-spinoff"
   },
   {
     "date": "2026-07-22",
-    "title": "商汤发布旗舰多模态大模型SenseNova U1 Pro",
-    "summary": "商汤科技在WAIC 2026上推出全新旗舰多模态大模型SenseNova U1 Pro，能独立走完完整创作流程。同期VLX开发者社区上线、DeepLink一体化算力网平台正式发布。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2266a602b7943152",
+    "title": "工信部：上半年制造业AI技术应用普及率超30%，工业机器人产量两位数增长",
+    "summary": "工信部披露2026年上半年规模以上制造业企业人工智能技术应用普及率超30%，集成电路制造、工业机器人产量实现两位数增长。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2006a60582914052",
     "source": "企鹅号",
-    "slug": "sensenova-u1-pro"
+    "slug": "manufacturing-ai-adoption"
   },
   {
     "date": "2026-07-22",
-    "title": "腾讯混元推出智能体Hyra-1.0",
-    "summary": "腾讯混元推出智能体Hyra-1.0，进一步拓展AI智能体应用场景。同期英伟达披露持有AI云公司Nebius近9.3%股份，英特尔宣布数据中心部门裁员。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1136a600df498252",
-    "source": "企鹅号",
-    "slug": "tencent-hyra-agent"
-  },
-  {
-    "date": "2026-07-21",
-    "title": "全球首款「机器人手机」亮相：手机长出「手脚」",
-    "summary": "全球首款「机器人手机」在WAIC 2026期间亮相，手机长出「手脚」，可随使用者心情或不同任务「舞动」起来，开创AI硬件全新交互形态。",
-    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "国家科技信息中心",
-    "slug": "robot-phone-debut"
-  },
-  {
-    "date": "2026-07-21",
-    "title": "磐石2.0科学大模型亮相，北京加快打造AI万亿级产业集群",
-    "summary": "中科院自动化研究所牵头研发的科学基础大模型「磐石2.0」在WAIC 2026亮相。北京市加快打造人工智能万亿级产业集群。",
-    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "国家科技信息中心",
-    "slug": "panshi-2-model"
-  },
-  {
-    "date": "2026-07-22",
-    "title": "启明创投发布2026 AI十大展望",
-    "summary": "启明创投在WAIC 2026上发布2026 AI十大展望，预测顶尖模型将在12-24个月内内化大部分外挂能力，多模态模型将向可交互世界建模演进。",
+    "title": "启明创投在WAIC发布2026 AI十大展望：顶尖模型将内化外挂能力",
+    "summary": "启明创投在2026世界人工智能大会上发布AI十大展望，预测未来12-24个月顶尖模型将内化任务规划、工具调用、多Agent协同等能力；头部机器人公司数据将跃升至百万小时级。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8086a606c3721252",
     "source": "企鹅号",
     "slug": "qiming-ai-outlook-2026"
   },
   {
     "date": "2026-07-22",
-    "title": "太保科技与阿里云签署AI战略合作协议",
-    "summary": "WAIC 2026期间，太保科技与阿里云签署AI战略合作协议。阿里云将提供真武AI芯片支撑算力底座，双方基于千问大模型共同探索保险行业AI应用场景。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5936a602bb430352",
-    "source": "企鹅号",
-    "slug": "taibao-aliyun-ai-partnership"
+    "title": "微软Azure与AMD深化合作，部署Helios机架级AI平台用于前沿模型推理",
+    "summary": "微软与AMD扩大长期战略合作，Azure将部署AMD Helios Rackscale Solution，用于前沿模型推理和Azure AI服务，同步上线基于EPYC处理器的新虚拟机。",
+    "url": "http://www.eepw.com.cn/info/articlelist/special/smart/type/3",
+    "source": "电子产品世界",
+    "slug": "microsoft-amd-helios"
   },
   {
     "date": "2026-07-22",
-    "title": "网易科技揭晓2026上半年AI榜单",
-    "summary": "WAIC 2026期间，网易科技「未来大奖——2026上半年AI榜单」揭晓，AI先锋人物、AI创新产品、AI创新公司三大奖项获奖名单出炉。",
+    "title": "网易科技未来大奖2026上半年AI榜单在WAIC揭晓",
+    "summary": "7月20日，网易科技在WAIC 2026上揭晓未来大奖2026上半年AI榜单，AI先锋人物、AI创新产品、AI创新公司三大奖项获奖名单出炉。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3606a60313591052",
     "source": "企鹅号",
     "slug": "netease-ai-awards-2026h1"
   },
   {
     "date": "2026-07-22",
-    "title": "无问芯穹：2030年中国AI基础设施市场规模预计达4710亿元",
-    "summary": "无问芯穹联合创始人夏立雪在WAIC演讲中指出，AI产业面临供需错配，产业价值正从硬件资产向软件技术服务转移，预计2030年中国AI基础设施市场规模将达4710亿元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4386a6043b419252",
-    "source": "企鹅号",
-    "slug": "infini-ai-infra-market"
-  },
-  {
-    "date": "2026-07-22",
-    "title": "易控智驾5台无人矿卡投入生产，年省955万元",
-    "summary": "易控智驾赋能5台90吨级无人驾驶矿卡在国能雁宝能源扎尼河露天矿完成编队调试并投入生产，实现与有人驾驶车辆混行、混卸作业，年节省成本955万元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4386a6043b419252",
-    "source": "企鹅号",
-    "slug": "yikong-self-driving-mining"
-  },
-  {
-    "date": "2026-07-22",
-    "title": "美国财长贝森特称将调查中国开源AI模型",
-    "summary": "美国财政部长贝森特表示美国将对中国开源人工智能模型展开调查，中美AI领域技术博弈持续升级。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3876a6058ca30152",
-    "source": "企鹅号",
-    "slug": "us-china-open-ai-probe"
+    "title": "面壁智能进入三星供应链，国产端侧模型商业化加速",
+    "summary": "面壁智能被报道已进入三星供应链，标志着国产端侧AI模型在消费电子领域的商业化落地取得重要突破。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6256a607cbe04852",
+    "source": "AI大模型周报",
+    "slug": "mianbi-samsung-supply"
   }
 ]
