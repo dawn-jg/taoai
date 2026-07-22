@@ -1,122 +1,114 @@
 [
   {
     "date": "2026-07-22",
-    "title": "月之暗面发布Kimi K3：参数规模达2.8万亿",
-    "summary": "北京月之暗面科技有限公司发布新一代模型Kimi K3，参数规模达2.8万亿，刷新国产开源大模型参数纪录。公司表示待新算力到位后将逐步开放订阅名额。",
-    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "中国科技信息网",
-    "slug": "kimi-k3-2-8t-params"
-  },
-  {
-    "date": "2026-07-22",
-    "title": "WAIC 2026落幕：意向采购金额超203亿元，同比增长25%",
-    "summary": "2026世界人工智能大会7月20日在上海落下帷幕。4天展会吸引1568位国内外专家，展品4486项，促成投融资对接3874人次，意向采购金额约203.6亿元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1546a5f1f2316152",
-    "source": "央视网",
-    "slug": "waic-2026-concludes-203-billion"
-  },
-  {
-    "date": "2026-07-22",
-    "title": "腾讯混元推出Hyra-1.0科学发现智能体",
-    "summary": "腾讯混元官方发布Hyra-1.0，这是首个支持递归自我改进、面向性能导向研究与工程任务的智能体，可进入游戏、设计和内容创作等开放场景持续迭代。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6406a5f406646152",
+    "title": "WAIC 2026闭幕：1117家企业参展，意向采购金额203.6亿元",
+    "summary": "2026世界人工智能大会7月20日在上海闭幕，102个国家和国际组织参会，1117家企业展出4486项成果，351款产品全球首发，线下观众突破40万人次，意向采购金额达203.6亿元，同比增长25%。智算与具身智能首次并列双核心赛道。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1526a60375027052",
     "source": "企鹅号",
-    "slug": "tencent-hyra-1-0-agent"
+    "slug": "waic-2026-closing"
   },
   {
     "date": "2026-07-22",
-    "title": "华为昇腾950超节点真机首展：1024张NPU协同算力达1EFLOPS",
-    "summary": "WAIC 2026上华为昇腾950超节点真机首次线下展示，1024张NPU高速互联，可提供1EFLOPS FP8算力，标志国产AI芯片从单打独斗走向集群协同。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2366a60052c74352",
+    "title": "月之暗面发布Kimi K3：2.8万亿参数，因算力过载暂停新用户订阅",
+    "summary": "月之暗面发布新一代模型Kimi K3，参数规模达2.8万亿，成为全球最大开源模型。因算力过载，公司暂停新用户订阅，待新算力到位后逐步开放。同时面壁智能宣布进入三星供应链。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6256a607cbe04852",
     "source": "企鹅号",
-    "slug": "huawei-ascend-950-super-node"
+    "slug": "kimi-k3-launch"
   },
   {
     "date": "2026-07-22",
-    "title": "英伟达详解Vera CPU：首款自研服务器处理器，AI智能体性能提升50%",
-    "summary": "英伟达公布Vera CPU技术细节，这是首款由英伟达自主设计CPU核心的服务器处理器，已交付OpenAI、Anthropic和SpaceX等客户，单颗均价约5000美元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9336a60062226352",
+    "title": "DeepSeek被曝启动IPO筹备，目标估值超5000亿元",
+    "summary": "DeepSeek被曝启动IPO筹备并开启新一轮融资，目标估值超5000亿元，成为国内AI领域备受关注的资本事件。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6256a607cbe04852",
     "source": "企鹅号",
-    "slug": "nvidia-vera-cpu-details"
+    "slug": "deepseek-ipo-rumor"
   },
   {
     "date": "2026-07-22",
-    "title": "英特尔数据中心部门启动新一轮裁员",
-    "summary": "英特尔告知数据中心部门员工将启动新一轮裁员，公司称正调整组织架构以匹配长期业务发展，将尊重受影响员工并提供帮扶资源。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1136a600df498252",
+    "title": "国家网信办首次公布七款手机端侧AI备案名单",
+    "summary": "7月15日，国家网信办首次公布七款手机端侧AI备案名单，标志着端侧AI合规监管正式落地，为端侧AI智能化从概念走向现实铺平道路。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6256a607cbe04852",
     "source": "企鹅号",
-    "slug": "intel-data-center-layoffs"
+    "slug": "onsite-ai-filing"
   },
   {
     "date": "2026-07-22",
-    "title": "SK海力士：AI半导体需求预计明年同比增60%-100%",
-    "summary": "SK海力士董事长崔泰源在韩国商工会议所济州论坛上指出，AI半导体需求预计明年同比增长60%-100%，整体存储需求增幅将达50%-60%。",
-    "url": "http://stock.eastmoney.com/news/chydd.html",
-    "source": "东方财富网",
-    "slug": "sk-hynix-ai-chip-demand-forecast"
-  },
-  {
-    "date": "2026-07-22",
-    "title": "工信部：我国人形机器人整机产品超400款，占全球半数以上",
-    "summary": "工信部发布2026年上半年数据显示，我国人形机器人整机产品达400余款、超全球半数，四足机器人占全球销量份额近70%，2026年人形机器人产量有望突破10万台。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3326a5f4a0143152",
-    "source": "企鹅号",
-    "slug": "china-humanoid-robots-400-models"
-  },
-  {
-    "date": "2026-07-22",
-    "title": "阶跃星辰发布STEPX Neo：全球首款大模型原生智能体手机",
-    "summary": "阶跃星辰在WAIC 2026发布STEPX Neo，搭载自研智能体原生操作系统Step AOS，可实现跨App长程复杂任务自主完成，荣获本届大会「镇馆之宝」。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4876a600a6417552",
-    "source": "企鹅号",
-    "slug": "stepstar-stepx-neo-agent-phone"
-  },
-  {
-    "date": "2026-07-22",
-    "title": "荣耀发布全球首款机器人手机Robot Phone",
-    "summary": "荣耀在WAIC 2026发布全球首款机器人手机，搭载四自由度云台系统和伙伴型多模态智能体操作系统，可随音乐节奏转动，支持连续完成订蛋糕、打车等跨App任务。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4876a600a6417552",
-    "source": "企鹅号",
-    "slug": "honor-robot-phone"
-  },
-  {
-    "date": "2026-07-22",
-    "title": "商汤推出旗舰多模态大模型SenseNova U1 Pro",
-    "summary": "商汤在WAIC 2026推出全新旗舰多模态大模型SenseNova U1 Pro，能独立走完一套完整创作流程，同时DeepLink一体化算力网平台正式发布。",
+    "title": "商汤发布旗舰多模态大模型SenseNova U1 Pro",
+    "summary": "商汤科技在WAIC 2026上推出全新旗舰多模态大模型SenseNova U1 Pro，能独立走完完整创作流程。同期VLX开发者社区上线、DeepLink一体化算力网平台正式发布。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2266a602b7943152",
     "source": "企鹅号",
-    "slug": "sensetime-sensenova-u1-pro"
+    "slug": "sensenova-u1-pro"
   },
   {
     "date": "2026-07-22",
-    "title": "中国首个全国产十万卡AI超集群曙光8000公开亮相",
-    "summary": "WAIC 2026展馆外，中国首个全国产十万卡AI超集群「曙光8000」真机面向全球公开亮相，为各类AI应用提供稳定高效的算力支撑。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1546a5f1f2316152",
-    "source": "央视网",
-    "slug": "sugon-8000-100k-card-cluster"
-  },
-  {
-    "date": "2026-07-22",
-    "title": "它石智航发布具身原生基座大模型AWE 3.5",
-    "summary": "它石智航在WAIC 2026发布新一代具身原生基座模型AWE 3.5，率先实现具身模型「预训练+后训练」完整范式，荣获WAIC SAIL之星奖。",
-    "url": "http://www.znjchina.com/",
-    "source": "智能界",
-    "slug": "tashizhihang-awe-3-5-embodied-model"
-  },
-  {
-    "date": "2026-07-22",
-    "title": "AMD推出首款机架级AI系统Helios挑战英伟达",
-    "summary": "AMD首次向媒体展示其首款机架级AI系统Helios，直接对标英伟达在数据中心AI基础设施领域的主导地位。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8496a60110892552",
+    "title": "腾讯混元推出智能体Hyra-1.0",
+    "summary": "腾讯混元推出智能体Hyra-1.0，进一步拓展AI智能体应用场景。同期英伟达披露持有AI云公司Nebius近9.3%股份，英特尔宣布数据中心部门裁员。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1136a600df498252",
     "source": "企鹅号",
-    "slug": "amd-helios-rack-scale-ai"
+    "slug": "tencent-hyra-agent"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "全球首款「机器人手机」亮相：手机长出「手脚」",
+    "summary": "全球首款「机器人手机」在WAIC 2026期间亮相，手机长出「手脚」，可随使用者心情或不同任务「舞动」起来，开创AI硬件全新交互形态。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "国家科技信息中心",
+    "slug": "robot-phone-debut"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "磐石2.0科学大模型亮相，北京加快打造AI万亿级产业集群",
+    "summary": "中科院自动化研究所牵头研发的科学基础大模型「磐石2.0」在WAIC 2026亮相。北京市加快打造人工智能万亿级产业集群。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "国家科技信息中心",
+    "slug": "panshi-2-model"
   },
   {
     "date": "2026-07-22",
-    "title": "上海电信开放「智云上海」城市级数智底座",
-    "summary": "上海电信宣布开放智云上海城市级数智底座，面向生态合作伙伴共享技术能力与平台资源，同时成立生态合作联盟推动AI创新应用落地。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2686a603d9820952",
+    "title": "启明创投发布2026 AI十大展望",
+    "summary": "启明创投在WAIC 2026上发布2026 AI十大展望，预测顶尖模型将在12-24个月内内化大部分外挂能力，多模态模型将向可交互世界建模演进。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8086a606c3721252",
     "source": "企鹅号",
-    "slug": "shanghai-telecom-zhiyun"
+    "slug": "qiming-ai-outlook-2026"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "太保科技与阿里云签署AI战略合作协议",
+    "summary": "WAIC 2026期间，太保科技与阿里云签署AI战略合作协议。阿里云将提供真武AI芯片支撑算力底座，双方基于千问大模型共同探索保险行业AI应用场景。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5936a602bb430352",
+    "source": "企鹅号",
+    "slug": "taibao-aliyun-ai-partnership"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "网易科技揭晓2026上半年AI榜单",
+    "summary": "WAIC 2026期间，网易科技「未来大奖——2026上半年AI榜单」揭晓，AI先锋人物、AI创新产品、AI创新公司三大奖项获奖名单出炉。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3606a60313591052",
+    "source": "企鹅号",
+    "slug": "netease-ai-awards-2026h1"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "无问芯穹：2030年中国AI基础设施市场规模预计达4710亿元",
+    "summary": "无问芯穹联合创始人夏立雪在WAIC演讲中指出，AI产业面临供需错配，产业价值正从硬件资产向软件技术服务转移，预计2030年中国AI基础设施市场规模将达4710亿元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4386a6043b419252",
+    "source": "企鹅号",
+    "slug": "infini-ai-infra-market"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "易控智驾5台无人矿卡投入生产，年省955万元",
+    "summary": "易控智驾赋能5台90吨级无人驾驶矿卡在国能雁宝能源扎尼河露天矿完成编队调试并投入生产，实现与有人驾驶车辆混行、混卸作业，年节省成本955万元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4386a6043b419252",
+    "source": "企鹅号",
+    "slug": "yikong-self-driving-mining"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "美国财长贝森特称将调查中国开源AI模型",
+    "summary": "美国财政部长贝森特表示美国将对中国开源人工智能模型展开调查，中美AI领域技术博弈持续升级。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3876a6058ca30152",
+    "source": "企鹅号",
+    "slug": "us-china-open-ai-probe"
   }
 ]
