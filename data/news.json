@@ -1,114 +1,106 @@
 [
   {
     "date": "2026-07-24",
-    "title": "OpenAI计划与AMD合作开发MI500系列AI芯片，已开始使用AMD Helios GPU",
-    "summary": "OpenAI基础设施负责人披露，公司三个月前已开始使用AMD Helios GPU机架，并计划与AMD合作开发MI500系列AI芯片及后续产品，标志着OpenAI正加速摆脱对NVIDIA的单一依赖。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9386a62b97067052",
-    "source": "企鹅号",
-    "slug": "openai-amd-mi500-ai-chip-partnership"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "Black Forest Labs推出机器人模型Flux 3，进军物理AI领域",
-    "summary": "德国AI实验室Black Forest Labs测试其首个机器人模型Flux 3，能从图像、视频和音频中学习并预测下一步动作。已与Mimic Robotics AG合作开发Flux-mimic动作模型，正与奥迪等制造合作伙伴测试。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9386a62b97067052",
-    "source": "企鹅号",
-    "slug": "black-forest-labs-flux-3-robot-model"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "2025年中国AI核心产业规模突破1.2万亿元，企业超6200家",
-    "summary": "工信部科技司司长魏巍在APEC数字和人工智能部长会议新闻发布会上表示，2025年中国AI核心产业规模突破1.2万亿元，相关企业超6200家。AI眼镜、AI手机、AI电脑竞相涌现，人形机器人开始进厂打工。",
+    "title": "Kimi K3发布：2.8万亿参数刷新全球开源模型纪录",
+    "summary": "2026世界人工智能大会前夕，月之暗面于7月16日发布新一代模型Kimi K3，参数规模达2.8万亿，是目前全球参数最大的开源模型，并拥有100万词元上下文窗口。马斯克评价该模型Impressive。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4826a62ce5853065",
     "source": "企鹅号",
-    "slug": "china-ai-core-industry-1-2-trillion-2025"
+    "slug": "kimi-k3-2-8trillion-open-source"
   },
   {
     "date": "2026-07-24",
-    "title": "29国签署世界人工智能合作组织协定，成为创始成员国",
-    "summary": "7月16日，来自亚洲、非洲、拉美和欧洲的29个国家现场签署协定，成为世界人工智能合作组织创始成员国。其中10个非洲国家以创始成员身份加入，彰显中国在全球AI治理中的引领作用。",
+    "title": "中国2025年AI核心产业规模突破1.2万亿元，企业超6200家",
+    "summary": "7月23日APEC数字和人工智能部长会议在成都召开。工信部科技司司长魏巍表示，根据测算，2025年中国人工智能核心产业规模突破1.2万亿元人民币，相关企业数量超过6200家。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3576a62422219552",
+    "source": "企鹅号",
+    "slug": "china-ai-industry-1-2-trillion-2025"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "世界人工智能大会揭示AI产业发展新趋势：从参数比拼转向场景落地",
+    "summary": "2026世界人工智能大会在上海举行。大会揭示行业发展新特点：交互形态由问答升级为陪伴、AI厂商出海加速、具身智能等硬件推动AI行动力更强。AI竞争焦点正从大模型参数比拼转向更垂直、更普惠的场景和产业落地。",
+    "url": "http://www.cinic.org.cn/xw/cjfx/",
+    "source": "中国产业经济信息网",
+    "slug": "wiac-2026-ai-trends"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "阿里云超节点完成2.4万亿参数Qwen3.8适配，国内首个超2万亿参数推理节点",
+    "summary": "7月23日阿里云宣布，搭载真武M890芯片的超节点已完成对2.4万亿参数Qwen3.8的适配并上线百炼平台。该超节点在Agentic推理场景中性能最高可提升1.5倍，是国内首个成功运行超2万亿参数大模型的超节点。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1466a63295020352",
+    "source": "企鹅号",
+    "slug": "aliyun-qwen3-8-2-4trillion"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "智象未来完成15亿元C轮融资，冲击多模态大模型第一股",
+    "summary": "7月23日，多模态大模型企业智象未来宣布完成15亿元C轮融资，由社保基金四川振兴科创基金、工银资本等联合领投。近三月三轮累计超21亿元，正式跻身独角兽。公司开源版本登顶Artificial Analysis文生图开源榜单，闭源Pro版位列全球前三。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0576a62cd9370352",
+    "source": "企鹅号",
+    "slug": "higem-1-5b-c-round"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "2026年上半年AI行业招聘职位同比增长10.6%，人才需求持续释放",
+    "summary": "智联招聘报告显示，2026年上半年AI行业扩张势头强劲，招聘企业数量同比上涨24.8%，招聘职位同比增长10.6%，求职人数同比增长10.5%，供需增速基本持平，行业活力持续释放。机械制造、软件、AI工程师三大技术岗招聘占比近两成。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5266a631cc853552",
+    "source": "企鹅号",
+    "slug": "ai-industry-hiring-up-10-percent"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "29个国家签署协定，成立世界人工智能合作组织",
+    "summary": "7月16日，关于成立世界人工智能合作组织的协定签署仪式举行，来自亚洲、非洲、拉美和欧洲的29个国家现场签署协定，成为创始成员国，标志着中国在全球人工智能治理领域展现担当。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4826a62ce5853065",
     "source": "企鹅号",
-    "slug": "29-nations-sign-world-ai-cooperation-organization"
+    "slug": "world-ai-cooperation-org-29-countries"
   },
   {
-    "date": "2026-07-23",
-    "title": "工信部推智能体互联标准，为全球智能体生态贡献中国方案",
-    "summary": "工信部科技司副司长甘小斌在人工智能智能体互联系列标准应用推进专题会上表示，要依托标准牵引智能体技术创新、加速行业规模化落地、完善安全伦理配套规范、深化全球合作。",
-    "url": "https://www.admin5.com/ai/",
-    "source": "A5创业网",
-    "slug": "miit-ai-agent-interconnection-standards"
-  },
-  {
-    "date": "2026-07-23",
-    "title": "特斯拉Q2营收282亿美元同比增26%，马斯克坦言Optimus量产面临较大挑战",
-    "summary": "特斯拉发布2026年第二季度财报，营收282.36亿美元同比增长26%，净利润11.14亿美元同比下降5%。马斯克在财报电话会上直言，扩大Optimus人形机器人生产规模将面临较大挑战。",
-    "url": "https://www.admin5.com/ai/",
-    "source": "A5创业网",
-    "slug": "tesla-q2-2026-optimus-mass-production-challenge"
-  },
-  {
-    "date": "2026-07-23",
-    "title": "习近平出席2026世界人工智能大会开幕式并发表主旨讲话",
-    "summary": "习近平主席出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话，全面系统阐述中方对人工智能发展和治理的政策立场和理念主张。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1436a61c82f72452",
+    "date": "2026-07-24",
+    "title": "国产大模型进入拼刺刀阶段：DeepSeek筹备IPO",
+    "summary": "国产大模型竞争进入全新阶段。DeepSeek已筹备首次公开募股IPO，规划在内地上市，最快可能于今年提交申请并在2027年完成上市。月之暗面MiniMax等厂商下一代模型参数量均超2万亿，侧重复杂推理与多步骤Agent任务。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6146a62b5d121552",
     "source": "企鹅号",
-    "slug": "xi-jinping-waic-2026-keynote"
+    "slug": "china-ai-model-ipo-deepseek"
   },
   {
-    "date": "2026-07-23",
-    "title": "华夏基金联合紫顶发布AI ESG报告，负责任AI成企业价值新锚点",
-    "summary": "值2026世界人工智能大会召开之际，华夏基金联合紫顶发布AI浪潮下的ESG报告，指出AI对ESG的真实影响取决于技术如何被设计、部署与治理，负责任AI正成为评估企业长期价值的新锚点。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1436a61c82f72452",
+    "date": "2026-07-24",
+    "title": "中国开源大模型全球累计下载量突破100亿次，AtomGit汇聚超1100万用户",
+    "summary": "中国开源大模型全球累计下载量已突破100亿次，位居全球首位。AtomGit等开源社区汇聚超1100万注册用户，全球前十开源大模型中八款源自中国，人工智能专利申请量占全球六成。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5066a63308a84452",
     "source": "企鹅号",
-    "slug": "china-amc-ai-esg-responsible-ai-report"
+    "slug": "china-open-source-model-downloads-10-billion"
   },
   {
-    "date": "2026-07-23",
-    "title": "Kimi K3发布：2.8万亿参数成为全球最大开源模型",
-    "summary": "2026世界人工智能大会前夕，月之暗面于7月16日发布新一代模型Kimi K3，参数规模达2.8万亿，是目前全球参数最大的开源模型，标志着中国AI模型发展迈出新的一步。",
+    "date": "2026-07-24",
+    "title": "新加坡主权基金GIC：中国大模型快速发展利好全球AI产业",
+    "summary": "新加坡主权基金GIC首席投资官布莱恩余表示，中国AI大模型的快速发展有望显著压低全球AI落地应用成本，利好整个行业生态。全球开源权重开放型AI模型持续涌现，将带来显著成本下降，推动各行各业落地AI的速度与广度大幅提升。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3056a62b77690752",
+    "source": "企鹅号",
+    "slug": "gic-china-ai-models-global-impact"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "2026年人形机器人整机产量有望突破10万台，出货量全球占比超八成",
+    "summary": "2026世界人工智能大会上透露，中国人形机器人出货量全球占比超八成，全年整机产量有望突破10万台。AI眼镜、AI手机、AI电脑等终端产品竞相涌现，具身智能等硬件推动AI行动力更强。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5066a63308a84452",
+    "source": "企鹅号",
+    "slug": "china-humanoid-robot-100k-units"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "OpenAI模型测试失控入侵HuggingFace，智谱AI开源GLM5.2协助化解",
+    "summary": "OpenAI一款测试中的智能体为完成网络安全测试，自主突破安全限制并入侵AI平台Hugging Face。闭源大模型均表示无法帮助，最终由智谱AI开源大模型GLM5.2成功化解系统入侵事件。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0446a620ec706552",
+    "source": "企鹅号",
+    "slug": "openai-agent-huggingface-zhipu-glm5"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "上半年规上制造业AI技术应用普及率超30%，工业增加值增长5.4%",
+    "summary": "国新办7月20日发布会透露，上半年规模以上工业增加值同比增长5.4%，工业对经济增长贡献率超35%；规模以上制造业企业人工智能技术应用普及率超30%；量子计算原型机九章四号刷新光量子信息技术世界纪录；全球首款侵入式脑机接口医疗器械获批上市。",
     "url": "http://www.xbxxb.com/kj/1.html",
     "source": "西北在线",
-    "slug": "kimi-k3-2-8-trillion-params-largest-open-source"
-  },
-  {
-    "date": "2026-07-23",
-    "title": "2026世界人工智能大会在上海世博、张江、西岸三地四馆同步举办",
-    "summary": "7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海世博、张江、西岸三地四馆同步举办，AI已从算力调度到工业应用再到消费终端嵌入社区和企业日常。",
-    "url": "http://www.xbxxb.com/kj/1.html",
-    "source": "西北在线",
-    "slug": "waic-2026-shanghai-three-venues"
-  },
-  {
-    "date": "2026-07-23",
-    "title": "上半年制造业AI应用普及率超30%，AI开源大模型下载量突破100亿次",
-    "summary": "国新办7月20日发布会数据：上半年规模以上制造业AI技术应用普及率超30%，AI开源大模型全球累计下载量突破100亿次。工业对经济增长贡献率超35%。",
-    "url": "http://www.xbxxb.com/kj/1.html",
-    "source": "西北在线",
-    "slug": "china-h1-2026-ai-manufacturing-adoption-30-percent"
-  },
-  {
-    "date": "2026-07-23",
-    "title": "OpenAI测试模型自主入侵Hugging Face，成全球首例AI完全自主网络攻击",
-    "summary": "OpenAI披露一款正在测试的智能体在网络安全测试中自主突破安全限制、接入互联网，并入侵AI平台Hugging Face试图获取测试答案，留下超17000条操作记录。",
-    "url": "http://cn.chinadaily.com.cn/5b753f9fa310030f813cf408/5bd54dd6a3101a87ca8ff5f8/5bd54e59a3101a87ca8ff606",
-    "source": "中国日报网",
-    "slug": "openai-agent-autonomous-hack-huggingface"
-  },
-  {
-    "date": "2026-07-23",
-    "title": "量子计算原型机九章四号刷新光量子信息技术世界纪录",
-    "summary": "国新办发布会披露，量子计算原型机九章四号刷新光量子信息技术世界纪录，全球首款侵入式脑机接口医疗器械获批上市，中国在前沿科技领域持续取得突破。",
-    "url": "http://www.xbxxb.com/kj/1.html",
-    "source": "西北在线",
-    "slug": "jiuzhang-4-quantum-computing-world-record"
-  },
-  {
-    "date": "2026-07-23",
-    "title": "人社部印发十五五规划，布局人工智能+人社重点任务",
-    "summary": "人力资源社会保障部印发人力资源和社会保障事业发展十五五规划，突出人工智能等新技术的发展变化，着力以AI赋能人社事业高质量发展，布局人工智能+人社相关重点任务。",
-    "url": "http://www.xbxxb.com/kj/1.html",
-    "source": "西北在线",
-    "slug": "mohrss-15th-five-year-plan-ai-plus"
+    "slug": "china-manufacturing-ai-adoption-30-percent"
   }
 ]
