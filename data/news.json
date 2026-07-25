@@ -1,114 +1,114 @@
 [
   {
     "date": "2026-07-25",
-    "title": "APEC人工智能高级别论坛在成都举办，发布促进AI发展声明",
-    "summary": "7月24日，2026年APEC人工智能高级别论坛在四川成都举办，发布成果文件《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》，从安全发展、负责任部署、创新环境、普惠合作四方面规划未来合作路径。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4476a63e16476352",
-    "source": "新华社",
-    "slug": "apec-ai-forum-chengdu-20260725"
-  },
-  {
-    "date": "2026-07-25",
-    "title": "中国日均词元调用量达数百万亿，开源大模型下载量突破100亿次",
-    "summary": "中国日均词元调用量已达数百万亿，开源大模型全球累计下载量突破100亿次，AtomGit等开源社区汇聚超1100万注册用户。2025年人工智能核心产业规模突破1.2万亿元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8056a63996308452",
-    "source": "新华社",
-    "slug": "china-ai-daily-token-usage-20260725"
+    "title": "智元机器人启动赴港上市流程",
+    "summary": "智元创新已启动赴港上市流程。据Omdia统计，2025年智元通用人形机器人出货量超5100台，位居全球第一，占据全球人形机器人市场约39%份额。按2025年及2026年Q1收入计，智元是全球最大的通用AI机器人公司。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3066a640c5b67552",
+    "source": "界面新闻",
+    "slug": "zhiyuan-robot-hk-ipo"
   },
   {
     "date": "2026-07-24",
-    "title": "Kimi K3发布：参数规模2.8万亿，全球最大开源模型",
-    "summary": "月之暗面在2026世界人工智能大会期间发布新一代模型Kimi K3，参数规模达2.8万亿，为目前全球参数最大的开源模型，标志着中国AI模型发展迈出新一步。",
-    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "国家科技部",
-    "slug": "kimi-k3-released-20260724"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "Stripe洽谈收购AI模型聚合平台OpenRouter，估值或达100亿美元",
-    "summary": "支付公司Stripe正洽谈收购AI模型聚合平台创企OpenRouter，若达成交易其估值或达约100亿美元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5626a62ff3912252",
+    "title": "阿里云超节点成功适配2.4万亿参数Qwen3.8模型",
+    "summary": "阿里云宣布搭载真武M890芯片的超节点已完成对2.4万亿参数Qwen3.8的适配，并上线百炼平台提供推理服务，是国内首个成功运行超2万亿参数大模型的超节点。Agentic推理场景性能最高提升1.5倍。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1466a63295020352",
     "source": "企鹅号",
-    "slug": "stripe-openrouter-acquisition-20260724"
+    "slug": "aliyun-supernode-qwen"
   },
   {
     "date": "2026-07-24",
-    "title": "AMD与Anthropic达成战略合作，拟最高50亿美元投资",
-    "summary": "AMD与大语言模型研发商Anthropic达成战略合作，2027年起将部署AMD Instinct MI450系列GPU，AMD拟最高50亿美元战略投资Anthropic并开启工程合作。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5626a62ff3912252",
+    "title": "中国AI模型GLM 5.2成功抵御OpenAI网络攻击",
+    "summary": "智谱AI研发的开源权重大模型GLM 5.2在安全测试平台中表现出色，成功抵御了一场针对AI模型的网络攻击，做到了多家美国顶尖AI产品未能实现的防御效果。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5596a6358b829152",
     "source": "企鹅号",
-    "slug": "amd-anthropic-partnership-20260724"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "AMD CEO苏姿丰：2030年AI加速器市场将达1.4万亿美元",
-    "summary": "AMD CEO苏姿丰在AMD Advancing AI大会上表示，预计到2030年人工智能加速器市场规模将达到1.4万亿美元，传统数据中心CPU市场规模将达2200亿美元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2856a62c1aa70752",
-    "source": "企鹅号",
-    "slug": "amd-ai-market-forecast-2030-20260724"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "张江AI创新小镇10个月落地近600家AI企业",
-    "summary": "上海浦东张江AI创新小镇经过10个月运营，已集聚近600家AI垂类应用企业和3万余名AI从业者。目标是到2027年集聚AI企业超800家、产业规模达650亿元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7676a62a89409952",
-    "source": "人民财讯",
-    "slug": "zhangjiang-ai-town-600-companies-20260724"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "北京海淀打造超级AI试验场，全域开放实景测试场景",
-    "summary": "北京海淀区打造超级AI试验场，全域开放城市治理、民生服务实景测试场景，推动智能体与信息软件产业深度融合，优质项目给予最高3000万元支持。",
-    "url": "http://bj.people.com.cn/GB/349239/index.html",
-    "source": "人民网",
-    "slug": "beijing-haidian-ai-testbed-20260724"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "全国首个智能体全生命周期互联标准体系发布",
-    "summary": "GB/Z185-2026七项指导性国家标准发布，国内首个覆盖智能体全生命周期的互联标准体系，涵盖架构、身份码、身份管理、能力描述、跨域发现、协同交互、工具调用七大环节。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1286a62e65631752",
-    "source": "环球网",
-    "slug": "agent-interconnection-standard-20260724"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "瑞莱智慧完成数亿元B1、B2轮融资",
-    "summary": "人工智能安全公司瑞莱智慧（RealAI）完成数亿元B1、B2轮融资，资本市场对AI安全赛道持续加码。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5626a62ff3912252",
-    "source": "企鹅号",
-    "slug": "realai-funding-20260724"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "人社部布局人工智能+人社重点任务",
-    "summary": "人社部印发《人力资源和社会保障事业发展十五五规划》，突出AI等新技术发展变化，着力以人工智能赋能人力资源和社会保障事业高质量发展。",
-    "url": "http://www.xbxxb.com/kj/1.html",
-    "source": "西北在线",
-    "slug": "mohrss-ai-fifteen-five-plan-20260724"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "量子计算原型机九章四号刷新世界纪录",
-    "summary": "上半年工业和信息化领域持续向新发展，量子计算原型机九章四号刷新光量子信息技术世界纪录，全球首款侵入式脑机接口医疗器械获批上市，规模以上制造业企业AI技术应用普及率超30%。",
-    "url": "http://www.xbxxb.com/kj/1.html",
-    "source": "西北在线",
-    "slug": "jiuzhang-4-quantum-record-20260724"
+    "slug": "glm5-defends-attack"
   },
   {
     "date": "2026-07-21",
-    "title": "全球首款机器人手机亮相：手机长出机械手脚",
-    "summary": "下一代智能终端赛道竞逐已从对数字屏幕的控制走向对物理世界的驱动，手机形态开始具备物理交互能力，可随使用场景进行机械动作。",
+    "title": "月之暗面发布Kimi K3：全球参数最大开源模型",
+    "summary": "北京月之暗面科技发布新一代模型Kimi K3，参数规模达2.8万亿，是目前全球参数最大的开源模型，标志着我国大模型发展迈上新台阶。待新算力到位后将逐步开放订阅名额。",
     "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "国家科技部",
-    "slug": "robot-phone-debut-20260721"
+    "source": "国家科技信息中心",
+    "slug": "kimi-k3-released"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "2026世界人工智能大会（WAIC）在上海闭幕",
+    "summary": "7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海成功举办。习近平出席开幕式并发表主旨讲话。102个国家和国际组织参会，上海物理智能与机器人研究院正式揭牌。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7836a6304e471452",
+    "source": "新华社",
+    "slug": "waic-2026-closing"
   },
   {
     "date": "2026-07-24",
-    "title": "习近平出席2026世界人工智能大会开幕式并发表主旨讲话",
-    "summary": "7月17日，习近平主席在上海出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式，提出坚持开放共赢、驱动创新发展。中国人形机器人全年整机产量有望突破10万台。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5066a63308a84452",
-    "source": "新华社",
-    "slug": "waic-2026-xi-opening-speech-20260724"
+    "title": "人大与蚂蚁集团联合将AI推理模型扩展至万亿参数",
+    "summary": "中国人民大学高岭人工智能学院与蚂蚁集团联合研究将AI推理模型扩展到一万亿参数规模，论文(arXiv:2607.12395v1)于2026年7月发表，清华、浙大学者也参与其中。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9546a633f7055652",
+    "source": "企鹅号",
+    "slug": "ruc-ant-ai-trillion-params"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "全球首款机器人手机亮相",
+    "summary": "全球首款可移动机器人手机发布，手机长出机械手脚，能随使用者心情或任务自主运动，标志着下一代智能终端从屏幕控制走向对物理世界的驱动。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "国家科技信息中心",
+    "slug": "robot-phone-debut"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "北京青塔街道：20台养老机器人免费服务独居老人",
+    "summary": "7月20日，青塔街道长者守护联盟成立，现场展示多种智慧助老产品。20台养老机器人将免费提供给独居老人使用半年，推进全域养老服务场景全覆盖。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "国家科技信息中心",
+    "slug": "elderly-care-robots"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "智能体产业：从技术秀场迈向产业主场",
+    "summary": "依托标准化底层能力打破跨设备、跨场景适配壁垒，智能体产业正加速从展厅秀场走向产业主战场，规模化落地的全新发展阶段已然到来。2026世界人工智能大会上具身智能首次独立成馆。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "国家科技信息中心",
+    "slug": "ai-agents-industrialization"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "便携AI设备数秒内精准识别三大病媒蚊",
+    "summary": "澳大利亚伍伦贡大学研制出低成本便携AI设备，通过捕捉蚊子翅膀拍打声，在数秒内精准识别伊蚊、按蚊和库蚊，为追踪疟疾、登革热等蚊媒传染病提供快速替代方案。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "国家科技信息中心",
+    "slug": "ai-mosquito-detection"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "华能澜沧江发布AI水风光预测方案",
+    "summary": "在2026世界人工智能大会上，华能澜沧江公司发布水风光多尺度AI预测解决方案，依托大模型大幅提升发电能力预测精度，助力新型电力系统灵活调节与绿电消纳，标志中国智能电站技术迈入系统级落地。",
+    "url": "https://www.iimedia.cn/c1087",
+    "source": "艾媒网",
+    "slug": "huaneng-ai-energy-forecast"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "具身智能占据WAIC 2026绝对C位",
+    "summary": "2026 WAIC上具身智能首次独立成馆，参展企业从去年80多家激增至200多家，真机超300台且几乎全部动态运行，人形机器人整机产量全年有望突破10万台。",
+    "url": "http://robot.ofweek.com/CATList-8321200-8400-robot.html",
+    "source": "OFweek机器人网",
+    "slug": "embodied-ai-waic-2026"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "面部动作分析识别深度伪造准确率超95%",
+    "summary": "研究人员开发基于面部动作分析的新方法，对深度伪造视频的识别准确率超过95%，为应对AI生成虚假内容提供了更可靠的技术手段。",
+    "url": "http://news.sciencenet.cn/fieldlist.aspx?id=9",
+    "source": "科学网",
+    "slug": "deepfake-detection-facial"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "上半年AI开源大模型全球下载量突破100亿次",
+    "summary": "国新办发布会公布：上半年规上制造业企业AI技术应用普及率超30%，AI开源大模型全球累计下载量突破100亿次；规模以上工业增加值同比增5.4%，工业对经济增长贡献率超35%。",
+    "url": "http://www.xbxxb.com/kj/1.html",
+    "source": "西北在线",
+    "slug": "h1-2026-ai-stats"
   }
 ]
