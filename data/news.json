@@ -3,120 +3,120 @@
     "date": "2026-07-25",
     "title": "英伟达与SK集团达成超5000亿美元AI战略合作",
     "summary": "英伟达宣布与SK集团扩大在AI工厂及下一代内存领域的战略合作，计划建立超过5000亿美元的综合合作伙伴关系。SK电信将建设2吉瓦的NVIDIA Vera Rubin DSX AI工厂，双方还将共同保障并开发包括HBM在内的下一代AI内存。",
-    "url": "http://view.inews.qq.com/a/20260725A06Z8Q00",
-    "source": "科创板日报",
-    "slug": "nvidia-sk-group-500b-ai-partnership"
+    "url": "https://new.qq.com/rain/a/20260725A076G300",
+    "source": "腾讯网",
+    "slug": "nvidia-sk-5000b-ai-cooperation"
   },
   {
     "date": "2026-07-24",
-    "title": "APEC人工智能高级别论坛在成都举办，发布亚太AI发展声明",
-    "summary": "2026年APEC人工智能高级别论坛在四川成都举办，400余名代表参会。论坛发布《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》，从安全发展、负责任部署、创新环境、普惠合作四个方面规划了APEC人工智能未来合作路径。中方宣布将在深圳前海设立'促进APEC数据跨境流动合作中国中心'。",
-    "url": "http://view.inews.qq.com/a/20260725A06MGS00",
-    "source": "中国新闻网",
+    "title": "2026年APEC人工智能高级别论坛在成都举行",
+    "summary": "论坛发布《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》，从安全发展、负责任部署、创新环境、普惠合作等四方面规划APEC人工智能未来合作路径，400余名代表参会。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6976a647a8179752",
+    "source": "企鹅号/新华社",
     "slug": "apec-ai-forum-chengdu-2026"
   },
   {
     "date": "2026-07-25",
-    "title": "马斯克：AI或五年内超越人类智力，呼吁科技巨头建立互查机制",
-    "summary": "马斯克接受《经济学人》专访时表示，AI大约五年内将超越人类智力，终结人类的概率为10%-20%。他呼吁OpenAI、谷歌、Anthropic等顶尖AI公司建立每周互查模型的安全机制，并批评OpenAI背离开源初衷。",
-    "url": "http://view.inews.qq.com/a/20260724A0AFCN00",
-    "source": "华尔街见闻",
-    "slug": "musk-ai-surpass-human-intelligence-5years"
-  },
-  {
-    "date": "2026-07-25",
-    "title": "谷歌Alphabet 22年来首次自由现金流转负，AI军备竞赛代价沉重",
-    "summary": "Alphabet发布二季度财报，自由现金流为-58.55亿美元，为2004年上市以来首次单季为负。资本开支达449亿美元同比翻倍，CFO年内二度上调全年资本开支指引至1950亿-2050亿美元，标志AI进入重资产工业时代。",
+    "title": "马斯克：AI或五年内超越人类智力，呼吁巨头建立互查机制",
+    "summary": "马斯克接受《经济学人》专访表示AI约五年内超越人类智力，终结人类概率10%—20%，呼吁OpenAI、谷歌、Anthropic等顶尖公司建立每周互查模型的安全机制，并痛批OpenAI背离开源初衷。",
     "url": "https://new.qq.com/rain/a/20260725A06LLF00",
     "source": "腾讯网",
-    "slug": "alphabet-first-negative-fcf-22years"
+    "slug": "musk-ai-surpass-human-five-years"
   },
   {
     "date": "2026-07-25",
-    "title": "谷歌Gemini月活用户突破9.5亿，距十亿用户俱乐部一步之遥",
-    "summary": "谷歌母公司Alphabet在最新财报中宣布，旗下人工智能助手Gemini月活跃用户规模已突破9.5亿大关，与谷歌搜索、Gmail、Drive、Android、YouTube和Chrome等核心服务形成协同效应，共同构建覆盖全球数十亿用户的数字生态体系。",
-    "url": "http://www.itbear.com.cn/",
-    "source": "ITBear科技资讯",
-    "slug": "google-gemini-950m-mau"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "一箭五星：力箭一号遥十五成功发射搭载AI大模型的卫星",
-    "summary": "北京时间7月24日7时33分，力箭一号遥十五运载火箭成功发射五颗卫星，其中'云尖沐曦号'与'星火传明气象卫星'搭载AI大模型，可实现在轨自主任务规划与分钟级气象预警，标志我国太空计算基础设施三体计算星座建设推进。",
-    "url": "https://new.qq.com/rain/a/20260725A076G300",
+    "title": "Alphabet二季度自由现金流转负，谷歌AI军备竞赛致22年首次",
+    "summary": "Alphabet二季度财报显示自由现金流为-58.55亿美元，为2004年上市以来首次单季为负，主要因AI算力军备竞赛导致巨额资本支出。",
+    "url": "https://new.qq.com/rain/a/20260725A06LLF00",
     "source": "腾讯网",
-    "slug": "lijian-1-yao15-ai-satellites"
+    "slug": "alphabet-fcf-negative-ai-spending"
   },
   {
-    "date": "2026-07-25",
-    "title": "Kimi K3发布：参数规模2.8万亿成全球最大开源模型",
-    "summary": "月之暗面（Moonshot AI）于WAIC 2026前夕发布新一代模型Kimi K3，参数规模达2.8万亿，这是目前全球参数最大的开源模型。在多项对比测试中，Kimi K3的得分与美国顶尖竞品处于同一水平，引发华尔街'Kimi冲击'讨论。",
+    "date": "2026-07-16",
+    "title": "月之暗面发布Kimi K3：全球参数最大开源模型，参数规模2.8万亿",
+    "summary": "新一代模型Kimi K3于7月16日发布，参数规模达2.8万亿，是目前全球参数最大的开源模型，标志着我国人工智能模型发展迈出新一步。德国《世界报》称其在多项对比测试中与美国竞品处于同一水平。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7186a644cd763552",
+    "source": "企鹅号",
+    "slug": "kimi-k3-28-trillion-parameters-open-source"
+  },
+  {
+    "date": "2026-07-26",
+    "title": "2026世界人工智能大会在上海举办",
+    "summary": "2026世界人工智能大会在上海世博、张江、西岸三地四馆同步举办。上海张江分会场半径3公里内，从算力调度到工业应用再到消费终端，人工智能已嵌入社区和企业日常生活。",
     "url": "http://www.xbxxb.com/kj/1.html",
     "source": "西北在线",
-    "slug": "kimi-k3-28t-params-open-source"
+    "slug": "2026-world-ai-conference-shanghai"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "中国开源大模型加速追赶，硅谷开源与闭源路线争论升级",
+    "summary": "随着中国开源大模型加速追赶，硅谷围绕开源还是闭源路线的争论全面升级。OpenAI、Anthropic认为部分先进模型风险过高不适合公开发布；微软、英伟达等则支持开源。英伟达CEO黄仁勋认为无需害怕中国开源模型，但应担忧禁止开源的行动。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3946a654fe565652",
+    "source": "企鹅号",
+    "slug": "china-open-source-ai-silicon-valley-debate"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "AI生成人脸引发恐怖谷效应讨论，人民日报提醒AI不能替代艺术人文",
+    "summary": "广东普法综合中国青年报等发文解读AI脸恐怖谷效应：算法可拟合静态五官却难复现眼神、表情肌联动等生物运动信号，触发大脑知觉冲突。人民日报评论提醒AI可压缩制作周期但不能用流水线替代艺术性与人文性。",
+    "url": "https://new.qq.com/rain/a/20260725A06FCF00",
+    "source": "腾讯网",
+    "slug": "ai-face-uncanny-valley-discussion"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "欧盟发布军用AI顶层设计分析：将AI置于防务七大优先领域首位",
+    "summary": "分析文章系统梳理欧盟军用人工智能发展战略：将AI置于欧洲防务七大优先领域首位，承诺投入8000亿欧元战略储备资金，并通过AGILE、EDIP、FAST等专项加速技术转化，同时指出欧盟在制度协调与AI法案约束下面临结构性挑战。",
+    "url": "https://new.qq.com/rain/a/20260725A0664700",
+    "source": "腾讯网",
+    "slug": "eu-military-ai-strategy-analysis"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "李彦宏在人民日报撰文：为智能经济打造科学评价体系",
+    "summary": "百度创始人李彦宏在人民日报发表文章，就为智能经济打造科学评价体系进行论述。",
+    "url": "https://www.51ai.website/",
+    "source": "AI Weekly",
+    "slug": "li-yanhong-people-daily-smart-economy"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "首款毫秒级神经动力学芯片问世，较英伟达GPU提速50至478倍",
+    "summary": "首款毫秒级神经动力学芯片问世，性能较英伟达GPU提速50.38至478.18倍，为AI芯片领域重大突破。",
+    "url": "https://www.51ai.website/",
+    "source": "AI Weekly",
+    "slug": "millisecond-neural-dynamics-chip-50x-faster"
   },
   {
     "date": "2026-07-23",
-    "title": "英特尔Q2财报：AI算力需求爆发带动十五年最强营收增速",
-    "summary": "当地时间7月23日，英特尔发布2026财年二季度财报，AI算力需求爆发带动公司交出十五年最强营收增速。同时，英特尔6000亿美元AI芯片市场预期上调至7500亿美元。",
+    "title": "英特尔发布二季度财报：AI算力需求爆发，交出十五年最强营收增速",
+    "summary": "英特尔发布2026财年二季度财报，AI算力需求爆发带动公司交出十五年最强营收增速。AMD首款机架级AI系统Helios也准备在下今年下半年交付，作为挑战英伟达AI芯片市场主导地位的王牌。",
     "url": "http://enterprise.eastmoney.com/news/ccyyj.html",
     "source": "东方财富网",
-    "slug": "intel-q2-2026-ai-driven-record-revenue"
+    "slug": "intel-q2-earnings-ai-demand-surge"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "谷歌发布Gemma 4：端侧大模型实现原生多模态",
+    "summary": "谷歌发布Gemma 4端侧大模型，实现原生多模态能力，在端侧设备上即可完成多模态处理任务。",
+    "url": "https://www.51ai.website/",
+    "source": "AI Weekly",
+    "slug": "google-gemma4-multimodal-edge-ai"
   },
   {
     "date": "2026-07-25",
-    "title": "黄仁勋：美国无需害怕中国开源AI模型，应警惕禁止开源运动",
-    "summary": "英伟达CEO黄仁勋接受美国阿克西奥斯新闻网站采访时表示，美国无需害怕中国的开源AI模型，但应该担忧鼓吹禁止开源模型的行动规模越来越大。他认为华尔街和华盛顿对'Kimi冲击'的理解'完全是颠倒的'。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7186a644cd763552",
-    "source": "企鹅号",
-    "slug": "jensen-huang-us-shouldnt-fear-china-open-source-ai"
-  },
-  {
-    "date": "2026-07-25",
-    "title": "上半年中国工业机器人产量同比增长28%，出口首超进口",
-    "summary": "据21世纪经济报道，上半年我国工业机器人、服务机器人产量同比分别增长28%和11.9%，工业机器人出口首次超过进口。国内工业机器人龙头埃斯顿正加码'AI+机器人'战略，推进工业具身智能。",
-    "url": "https://new.qq.com/rain/a/20260725A07EUV00",
-    "source": "21世纪经济报道",
-    "slug": "china-industrial-robots-h1-2026"
-  },
-  {
-    "date": "2026-07-25",
-    "title": "它石智航发布具身原生基座大模型AWE 3.5，获WAIC 2026 SAIL之星奖",
-    "summary": "在WAIC 2026主论坛上，它石智航创始人兼CEO陈亦伦博士正式发布新一代具身原生基座模型AWE 3.5（AI World Engine），率先实现具身模型'预训练+后训练'完整范式，该项目荣获WAIC 2026 SAIL之星奖。",
-    "url": "http://www.znjchina.com/",
-    "source": "智能界",
-    "slug": "itshi-zhihang-awe-35-embodied-ai-waic"
-  },
-  {
-    "date": "2026-07-25",
-    "title": "AMD首款机架级AI系统Helios获微软大单，下半年交付",
-    "summary": "AMD正准备在今年下半年交付其首款机架级AI系统Helios，微软成为其大客户。这是AMD挑战英伟达在AI芯片市场主导地位的关键一步。",
-    "url": "http://enterprise.eastmoney.com/news/ccyyj.html",
-    "source": "东方财富网",
-    "slug": "amd-helios-rack-ai-system-microsoft"
-  },
-  {
-    "date": "2026-07-25",
-    "title": "德国《法兰克福汇报》：中国AI发展轨迹堪比汽车产业",
-    "summary": "德国《法兰克福汇报》7月23日发表文章称中国AI正在征服世界，归功于地球上最大的人才库及多年持续规划。文章将中国AI发展轨迹与汽车产业类比，指出月之暗面Kimi K3和阿里Qwen系列已可比肩OpenAI和Anthropic最佳模型。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0796a63efcf48652",
-    "source": "企鹅号",
-    "slug": "faz-china-ai-trajectory-like-auto-industry"
-  },
-  {
-    "date": "2026-07-25",
-    "title": "人社部印发'十五五'规划，布局'人工智能+人社'重点任务",
-    "summary": "人力资源社会保障部近日印发《人力资源和社会保障事业发展'十五五'规划》，突出人工智能等新技术的发展变化，着力以人工智能赋能人力资源和社会保障事业高质量发展，布局'人工智能+人社'相关重点任务。",
+    "title": "上半年规模以上制造业AI应用普及率超30%，AI开源大模型下载量破百亿",
+    "summary": "国新办新闻发布会透露，上半年规模以上制造业企业人工智能技术应用普及率超30%，人工智能开源大模型全球累计下载量突破100亿次；量子计算原型机「九章四号」刷新光量子信息技术世界纪录，全球首款侵入式脑机接口医疗器械获批上市。",
     "url": "http://www.xbxxb.com/kj/1.html",
     "source": "西北在线",
-    "slug": "mohrss-15th-fyp-ai-plus-hr"
+    "slug": "china-manufacturing-ai-adoption-30-percent"
   },
   {
-    "date": "2026-07-25",
-    "title": "有鹿机器人发布搭载具身智能大脑的商用巡扫机器人AI130S",
-    "summary": "在2026世界人工智能大会现场，有鹿机器人发布搭载通用具身智能大脑Master2000 GEN2的商用巡扫机器人AI130S，在具身智能大脑、整车结构、安全冗余和易用性等方面完成全面进化。",
-    "url": "http://www.znjchina.com/",
-    "source": "智能界",
-    "slug": "youlu-robot-ai130s-commercial-cleaning"
+    "date": "2026-07-20",
+    "title": "GPT-5.6全面上线，AI新时代来袭",
+    "summary": "GPT-5.6全面上线，标志着AI技术进入新时代，能力边界进一步扩展，引发行业广泛关注。",
+    "url": "https://www.51ai.website/",
+    "source": "AI Weekly",
+    "slug": "gpt56-launches-new-ai-era"
   }
 ]
