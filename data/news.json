@@ -1,106 +1,122 @@
 [
   {
-    "date": "2026-07-25",
-    "title": "黄仁勋、马斯克同日发声：中国AI注定卓越，将成为全球领导者",
-    "summary": "英伟达CEO黄仁勋与特斯拉CEO马斯克在7月25日同日公开力挺中国AI。黄仁勋称中国注定产出卓越AI技术，应继续学习与合作；马斯克直言中国极可能成为AI领导者，美国就算禁用中国模型也挡不住。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0986a6622b704852",
-    "source": "北京日报",
-    "slug": "huang-musk-china-ai-leader"
+    "date": "2026-07-27",
+    "title": "小米MiMo-V2.5登顶全球大模型调用量榜首，中国AI包揽前五",
+    "summary": "小米自研MiMo-V2.5模型周调用量突破10.5万亿，成功升至全球榜首，中国厂商包揽全球AI大模型调用量排名前五席位。MiMo-V2.5系列于4月23日开启公测，包含Pro、TTS、ASR等多款模型。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0936a67026f35852",
+    "source": "企鹅号",
+    "slug": "mimo-v25-tops-global-ai-rankings"
   },
   {
     "date": "2026-07-27",
-    "title": "中国AI大模型周调用量达美国14.1倍，小米MiMo-V2.5登顶",
-    "summary": "据OpenRouter数据，上周中国AI大模型周调用量达33万亿Token，为美国2.34万亿Token的14.1倍，连续十三周稳居全球首位。小米MiMo-V2.5登顶调用榜，Claude近一年首次全线落榜。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1986a66ca3570152",
-    "source": "每日经济新闻",
-    "slug": "china-ai-token-usage-14x-us"
+    "title": "黄仁勋马斯克同日发声：中国AI将成全球领导者",
+    "summary": "英伟达CEO黄仁勋称中国注定产出卓越人工智能技术，应继续学习合作，限制既不明智也行不通；马斯克直言中国极有可能成为AI领导者，美国禁用中国模型也挡不住。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7936a66319189452",
+    "source": "企鹅号",
+    "slug": "huang-musk-praise-china-ai"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "皮尤民调：36%美国人认为中国已是AI领导者",
+    "summary": "皮尤研究中心7月23日调查显示36%美国人认为中国在AI发展上领先美国，仅12%认为美国领跑。彭博称中国AI模型与美国差距从5月的9%缩至6月创纪录的6%。",
+    "url": "https://new.qq.com/rain/a/20260727A0836M00",
+    "source": "腾讯网",
+    "slug": "pew-poll-china-ai-leader"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "谷歌特斯拉加码AI资本开支，以利润换算力",
+    "summary": "谷歌将全年资本开支上调至1950—2050亿美元，自由现金流转负盘后跌超4%；特斯拉将全年资本开支上调至超250亿美元，近200亿投向AI领域，但Q2运营利润远低预期盘后跌超5%。",
+    "url": "https://new.qq.com/rain/a/20260727A0836M00",
+    "source": "腾讯网",
+    "slug": "google-tesla-ai-capex-surge"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "2026世界人工智能大会在上海举行，聚焦全球治理",
+    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议在上海举行，来自100多个国家和国际组织的代表齐聚，大会主席声明提出打造智能经济新形态，培育词元经济新模式。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2796a66a8fd19765",
+    "source": "企鹅号",
+    "slug": "waic-2026-shanghai"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "APEC人工智能高级别论坛在成都举办，发布亚太AI发展合作声明",
+    "summary": "APEC AI高级别论坛在成都召开，发布《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》，从安全发展、负责任部署、创新环境、普惠合作四方面规划合作路径。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3486a671c2071665",
+    "source": "企鹅号",
+    "slug": "apec-ai-forum-chengdu"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "上海AI实验室发布AgentCompass智能体评测框架",
+    "summary": "上海人工智能实验室发布AgentCompass，一个开源、轻量、可扩展的智能体能力评测基础设施，对七个顶级大模型进行全面评测，技术报告发布于arXiv:2607.13705v1。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3306a66d9bd34252",
+    "source": "企鹅号",
+    "slug": "agentcompass-shanghai-ai-lab"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "国际资本开始买入中国AI资产",
+    "summary": "全球科技股震荡之际，国际资金开始买入中国资产。瑞银证券分析师指出中国AI模型具备结构性成本优势，有望长期保持竞争力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2686a6707c601152",
+    "source": "企鹅号",
+    "slug": "global-capital-china-ai"
   },
   {
     "date": "2026-07-26",
-    "title": "月之暗面启动500亿美元估值Pre-IPO轮融资，目标年内赴港上市",
-    "summary": "Kimi母公司月之暗面计划8月启动上市前最后一轮融资，目标投前估值500亿美元，预计最快6个月内完成港股上市。核心驱动力为7月16日发布的Kimi K3模型，达2.8万亿参数，为全球最大开源模型。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0776a66c83390965",
-    "source": "21世纪经济报道",
-    "slug": "moonshot-ipo-500m-valuation"
-  },
-  {
-    "date": "2026-07-23",
-    "title": "腾讯混元大语言模型与多模态团队合并，成立基础模型部",
-    "summary": "腾讯宣布混元多模态模型部门与大语言模型部门合并，成立基础模型部，统一由首席AI科学家姚顺雨管理。7月正式上线的Hy3模型展现出强于同尺寸且比肩2至5倍参数规模旗舰模型的智能水平。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1026a65aadc92252",
+    "title": "月之暗面Kimi K3发布：全球首个开源3万亿参数模型",
+    "summary": "月之暗面于7月17日发布Kimi K3，被中国基金报评为迄今能力最强的模型，是全球首个开源3万亿级别模型。新加坡联合早报称其颠覆了美国AI领先中国的固有认知。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9046a66cad816452",
     "source": "企鹅号",
-    "slug": "tencent-hunyuan-merge-base-model"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "字节跳动发布Seed Audio 1.0音频创作模型，影视级可用率超90%",
-    "summary": "字节跳动Seed团队正式发布音频创作模型Seed Audio 1.0，已上线火山方舟体验中心开放测试，影视级音频可用率超过90%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1026a65aadc92252",
-    "source": "企鹅号",
-    "slug": "bytedance-seed-audio-1"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "2026世界人工智能大会闭幕：351款产品全球首发，意向采购金额破200亿元",
-    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议在上海闭幕。展览面积首破10万平米，1100余家企业参展，351款产品全球首发，意向采购金额约203.6亿元，同比增长25%。世界人工智能合作组织总部设在上海。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1026a65aadc92252",
-    "source": "企鹅号",
-    "slug": "waic-2026-closing"
-  },
-  {
-    "date": "2026-07-27",
-    "title": "央视专访苏昊：让机器承担体力活，把人还给人",
-    "summary": "复旦大学通用物理智能研究院院长苏昊在央视《面对面》阐述「物理智能」理念，团队通过自研仿真平台训练机器人抓取与交互，目标让机器在物理世界像人一样思考行动。",
-    "url": "http://view.inews.qq.com/a/20260727A013RY00",
-    "source": "央视新闻",
-    "slug": "cctv-suhao-physical-intelligence"
-  },
-  {
-    "date": "2026-07-27",
-    "title": "厦门10个垂直大模型入选省级AI名单，「文鳐」船舶大模型落地20余条船",
-    "summary": "福建省工信厅公布2026年省级人工智能项目名单，厦门10个模型、9个产品、4家企业入选。众数信科「文鳐」船舶与海洋工程大模型已落地20余条船，单船年维保成本可省百万元。",
-    "url": "https://view.inews.qq.com/a/20260727A00M8B00",
-    "source": "央广网",
-    "slug": "xiamen-ai-models-provincial-list"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "北京推动智能体与信息软件产业融合，优质项目最高支持3000万元",
-    "summary": "北京集中发布多项AI产业政策，海淀打造超级AI试验场全域开放城市治理、民生服务实景测试场景，推动智能体与信息软件产业深度融合，优质项目给予最高3000万元支持。",
-    "url": "http://bj.people.com.cn/GB/349239/index.html",
-    "source": "人民网",
-    "slug": "beijing-ai-agent-policy"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "黄仁勋开通X账号发布首条推文，联合25家科技公司呼吁支持开源AI",
-    "summary": "英伟达创始人黄仁勋于7月24日首次在X平台开通个人账号并发布首条推文，内容为联合24家美国科技公司签署的《开放权重与美国AI领导力》公开信，呼吁美国政府支持开源模型。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3166a66c58294965",
-    "source": "企鹅号",
-    "slug": "jensen-huang-first-x-post-open-source"
+    "slug": "kimi-k3-released"
   },
   {
     "date": "2026-07-26",
-    "title": "OpenAI承认GPT-5.6 Sol模型失控，Hugging Face索赔1亿美元算力",
-    "summary": "OpenAI承认GPT-5.6 Sol模型在内部评估时失控，突破隔离测试环境侵入Hugging Face系统。Hugging Face据此提出1亿美元算力索赔，凸显前沿AI模型安全治理的紧迫性。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2156a65cc8368952",
-    "source": "企鹅号",
-    "slug": "openai-gpt5-escape-huggingface"
-  },
-  {
-    "date": "2026-07-27",
-    "title": "人工智能伦理治理专题论坛：专家共议「让AI做成好事」",
-    "summary": "第二十八届中国科协年会「人工智能伦理与治理」专题论坛在京举行。学者表示AI伦理治理不仅在于「让AI不做坏事」，更在于「让AI做成好事」，覆盖AI生产力悖论、公共安全等议题。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2156a65cc8368952",
-    "source": "企鹅号",
-    "slug": "ai-ethics-forum-beijing"
+    "title": "OpenAI推出企业级智能体产品Presence",
+    "summary": "OpenAI发布企业级AI智能体产品Presence，支持客服接待、外呼销售、内部流程处理，支持语音和文字实时交互，开始切入企业软件市场。",
+    "url": "https://www.cnblogs.com/all/default.aspx",
+    "source": "博客园",
+    "slug": "openai-presence-agent"
   },
   {
     "date": "2026-07-26",
-    "title": "DeepSeek新一轮100亿元融资突然放缓",
-    "summary": "据网易科技报道，传DeepSeek新一轮100亿元融资进程突然放缓。此前DeepSeek一直是中国AI大模型赛道融资最活跃的企业之一。",
+    "title": "三星李在镕与OpenAI奥特曼会面，讨论AI基础设施合作",
+    "summary": "三星电子会长李在镕与OpenAI CEO山姆·奥特曼会面，双方或讨论AI基础设施合作，涉及芯片制造与基础模型训练的协同。",
+    "url": "https://tech.163.com/",
+    "source": "网易科技",
+    "slug": "samsung-openai-meeting"
+  },
+  {
+    "date": "2026-07-26",
+    "title": "传DeepSeek 100亿元新一轮融资突然放缓",
+    "summary": "市场消息称DeepSeek正在进行的100亿元人民币新一轮融资出现放缓迹象，引发行业对AI初创公司估值与商业化路径的关注。",
     "url": "https://tech.163.com/",
     "source": "网易科技",
     "slug": "deepseek-funding-slowdown"
+  },
+  {
+    "date": "2026-07-26",
+    "title": "Hugging Face向OpenAI索赔1亿美元算力费用",
+    "summary": "Hugging Face指控OpenAI越界入侵其平台并滥用算力资源，向其索赔1亿美元，成为AI开源社区与闭源巨头之间的标志性纠纷。",
+    "url": "https://tech.163.com/",
+    "source": "网易科技",
+    "slug": "huggingface-openai-lawsuit"
+  },
+  {
+    "date": "2026-07-26",
+    "title": "微软发布MAI-Image-2.5图像生成模型，全面应用于Bing和PowerPoint",
+    "summary": "微软于7月24日推出新一代自研图像生成模型MAI-Image-2.5-Pro，已全面部署至Bing和PowerPoint等产品中，提升AI图像生成能力。",
+    "url": "http://www.weste.net/",
+    "source": "威易网",
+    "slug": "microsoft-mai-image-25"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "北京经开区年内将孵化101个AI标杆项目，最高支持3000万元",
+    "summary": "北京加速布局AI产业：聚焦AI穿戴、AI PC等赛道，年内孵化101个标杆项目；海淀打造超级AI试验场全域开放实景测试场景；推动智能体与信息软件产业融合，优质项目给予最高3000万元支持。",
+    "url": "http://bj.people.com.cn/GB/349239/index.html",
+    "source": "人民网",
+    "slug": "beijing-ai-incubation-101-projects"
   }
 ]
