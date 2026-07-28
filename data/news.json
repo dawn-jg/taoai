@@ -1,122 +1,114 @@
 [
   {
-    "date": "2026-07-28",
-    "title": "美方拟调查制裁中国AI企业，商务部强硬回应",
-    "summary": "美国官员宣称将调查中国AI企业所谓「蒸馏」美方前沿模型并可能实施制裁。中国商务部回应称美方做法缺乏事实依据，是典型的人工智能霸权主义行径，中方将采取一切必要措施维护自身权益。",
-    "url": "https://www.readaitime.com/",
-    "source": "36氪 / 商务部",
-    "slug": "us-sanctions-china-ai-mofcom-response"
+    "date": "2026-07-29",
+    "title": "比亚迪人形机器人预计8月亮相发布",
+    "summary": "比亚迪方面确认，其人形机器人预计2026年8月亮相发布，正式进军具身智能赛道。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5996a681d8109252",
+    "source": "新京报贝壳财经",
+    "slug": "byd-humanoid-robot-august"
   },
   {
     "date": "2026-07-28",
-    "title": "三星确认HBM5采用2纳米GAA工艺，速度较HBM4E提升50%以上",
-    "summary": "三星电子通过采访确认，下一代HBM5内存运行速度将比HBM4E快50%以上，基础芯片将采用GAA结构的2纳米工艺，并实现更高集成度的硅通孔(TSV)。三星计划基于HBM4的4纳米经验提前引入2纳米工艺。",
-    "url": "https://www.readaitime.com/",
-    "source": "36氪",
-    "slug": "samsung-hbm5-2nm-gaa-process"
+    "title": "中国AI大模型全球市场份额升至63.5%，周调用量前五均为中国模型",
+    "summary": "OpenRouter数据显示，中国模型近28天份额约63.5%，美国模型仅35.5%。周调用量前五依次为小米MiMo-V2.5、DeepSeek V4 Flash、腾讯HY3、智谱GLM-5.2、DeepSeek V4Pro。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2766a68830486352",
+    "source": "财联社",
+    "slug": "china-ai-global-market-share-63-percent"
   },
   {
     "date": "2026-07-28",
-    "title": "SK集团与英伟达签署5000亿美元AI基础设施协议",
-    "summary": "SK集团与英伟达签署5000亿美元AI基础设施协议，英伟达同时拟为OpenAI数据中心提供2500亿美元担保，两笔交易指向算力基础设施资本绑定模式升级。英伟达新一轮AI基础设施交易潜在规模超过7500亿美元。",
-    "url": "https://www.readaitime.com/",
-    "source": "Yahoo Finance / readaitime",
-    "slug": "sk-nvidia-500b-ai-infra-deal"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "特斯拉Optimus人形机器人年底量产，远期规划年产能100万台",
-    "summary": "特斯拉高管在财报电话会中透露，Optimus人形机器人弗里蒙特产线将于2026年底启动生产，远期规划年产能100万台，得州第二条产线长期目标总年产能1000万台。人形机器人供应链本地化配套需求渐行渐近。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2866a6801e281552",
+    "title": "中国大模型周调用量达美国14.1倍，连续13周领跑全球",
+    "summary": "据OpenRouter数据，上周（7月20日至26日）中国AI大模型周调用量达33万亿Token，同期美国为2.34万亿Token，中国是美国的14.1倍。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5426a68a6bc29352",
     "source": "企鹅号",
-    "slug": "tesla-optimus-mass-production-2026"
+    "slug": "china-llm-weekly-tokens-14x-us"
   },
   {
     "date": "2026-07-28",
-    "title": "工信部印发数字化培育指引，深化人工智能在中小企业应用",
-    "summary": "工信部印发《小快轻准》数字化产品和服务培育指引(2026年版)，鼓励产品深度融合AI技术，从基于规则的逻辑推理向多模态感知、预测与自主执行的智能决策方向演进，促进AI在中小企业深度融合应用。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5106a67ec7992852",
-    "source": "智通财经APP",
-    "slug": "miit-ai-sme-digital-guidelines"
+    "title": "2026中国AI大模型竞争力TOP20榜单发布，豆包、通义千问、DeepSeek位列前三",
+    "summary": "中国数据研究中心发布TOP20榜单，构建涵盖技术、商业、生态与潜力的四维评估体系，对国内68家主流大模型厂商进行全面盘点。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7546a68735251752",
+    "source": "中国数据研究中心",
+    "slug": "china-ai-llm-competitiveness-top20-2026"
   },
   {
     "date": "2026-07-28",
-    "title": "WAIC 2026闭幕：成立世界人工智能合作组织，发布多项全球治理成果",
-    "summary": "2026世界人工智能大会在上海闭幕。大会宣布成立世界人工智能合作组织，发布《人工智能合作发展行动计划》《国际人工智能伦理治理行动计划》《智能体互信互联互操作全球合作倡议》等一系列重磅成果。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9106a67fe9c07152",
-    "source": "人民日报海外版 / 企鹅号",
-    "slug": "waic-2026-concludes-global-governance"
+    "title": "全国首个全栈国产化AI眼镜闭环解决方案发布",
+    "summary": "国家人工智能应用中试基地发布全国首个国产化AI眼镜方案，推出三大场景智能体及三大行业定制方案，标志着国产AI眼镜迈入全栈自主、离线全能新阶段。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0096a6895df18252",
+    "source": "企鹅号",
+    "slug": "first-domestic-ai-glasses-solution"
   },
   {
     "date": "2026-07-28",
-    "title": "中方宣布面向发展中国家提供5000个AI研修培训名额",
-    "summary": "在WAIC 2026期间，中方宣布将面向发展中国家提供5000个人工智能专题研修培训名额；面向东盟、阿盟、非盟、拉共体、上合组织、金砖国家建设国际AI应用合作中心；推动气象智能预警方案「妈祖」在30个国家落地。",
+    "title": "美国拟对中国AI企业模型蒸馏行为开展调查并实施制裁，中方回应",
+    "summary": "美方声称要针对中国AI企业的模型蒸馏行为展开专项调查并出台新一轮制裁措施，中方敦促美方停止抹黑，指出美国AI企业也蒸馏了中国模型。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3286a681b9823052",
+    "source": "商务部新闻办公室",
+    "slug": "us-investigation-china-ai-distillation"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "中央网信办启动人工智能大模型IPv6能力提升专项行动",
+    "summary": "中央网信办联合多地网信办会同5家头部大模型企业在雄安新区启动专项行动，推动生成式大模型应用全面支持IPv6。",
+    "url": "https://new.qq.com/rain/a/20260728A07H3900",
+    "source": "腾讯网",
+    "slug": "china-ai-llm-ipv6-initiative"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "商务部：电动汽车、锂电池、AI产品成为中国外贸新名片",
+    "summary": "上半年我国电动汽车出口增长68.7%，锂电池增长37.6%；工业机器人增长18.6%，3D打印机增长109.3%，AI相关产品出口表现亮眼。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7026a68852d26452",
+    "source": "央广网",
+    "slug": "ai-products-china-foreign-trade"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "2026数博会打造国内首个服务一人公司的大模型市集",
+    "summary": "2026中国国际大数据产业博览会新闻发布会召开，布展6万平方米，汇聚300余家参展企业，将发布算电协同、数据流通、生成式AI等40余项最新成果。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0806a684a8076252",
+    "source": "企鹅号",
+    "slug": "2026-big-data-expo-ai-marketplace"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "2026世界人工智能大会圆满落幕：意向采购额突破203亿元",
+    "summary": "六十余国客商齐聚上海，意向采购额突破203亿元，落地投资项目409亿元，人形机器人零部件订单排至2027年末。摩根士丹利、高盛、瑞银集体上调中国AI产业预期。",
+    "url": "https://www.comnews.cn/node_9.html",
+    "source": "中国商务新闻网",
+    "slug": "waic-2026-203-billion-procurement"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "清华研发AI超级显微镜，应用前景广泛",
+    "summary": "清华大学研发的AI显微镜在AI制药、前沿生命科学研究领域应用前景广泛，团队将进一步提升分辨率与观测深度，同时推动成果临床转化。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "国家科技信息中心",
+    "slug": "tsinghua-ai-super-microscope"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "京北方等联合成立芯算科技公司，布局智能机器人业务",
+    "summary": "北京坤元芯算科技有限公司成立，经营范围包含AI通用应用系统、智能机器人研发与销售、AI硬件销售等，由京北方等共同持股。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8106a684f7e93252",
+    "source": "企查查/人民财讯",
+    "slug": "jingbeifang-ai-robot-company"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "月之暗面Kimi K3发布：2.8万亿参数，最大开放权重模型",
+    "summary": "月之暗面发布Kimi K3，参数规模达2.8万亿，100万Token上下文，是当前参数规模最大的开放权重模型，热度从科技圈蔓延至华尔街。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1006a6862e196652",
+    "source": "企鹅号",
+    "slug": "moonshot-kimi-k3-open-weight"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "中国AI开放合作：面向发展中国家提供5000个AI培训名额",
+    "summary": "2026世界人工智能大会上，中方宣布面向发展中国家提供5000个AI专题研修培训名额，推动气象智能预警方案妈祖在30个国家落地应用。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8466a68680e12952",
-    "source": "巴基斯坦论坛 / 企鹅号",
-    "slug": "china-5000-ai-training-positions"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "WAIC 2026 AI开放计算与智能体技术生态论坛在上海举办",
-    "summary": "中国互联网协会人工智能工作委员会主办WAIC 2026 AI开放计算与智能体技术生态论坛。联合国高级顾问Mehdi Snene倡议推出全球AI开放计算合作计划，助力发展中地区AI科教能力建设。",
-    "url": "https://view.inews.qq.com/a/20260728A08Y5X00",
-    "source": "腾讯新闻",
-    "slug": "waic-2026-ai-open-compute-forum"
-  },
-  {
-    "date": "2026-07-27",
-    "title": "Kimi K3正式开源2.8万亿参数权重，登顶全球最大开源模型",
-    "summary": "Moonshot AI的Kimi K3于7月16日发布，参数规模达2.8万亿，正式开源完整模型权重和技术报告，重点面向长程编程、知识工作和智能体任务，标志国产模型从聊天能力走向生产力工具。API定价争议同时引发智谱市值蒸发3000亿。",
-    "url": "https://ai.programnotes.cn/",
-    "source": "AI News / readaitime",
-    "slug": "kimi-k3-open-source-28t-params"
-  },
-  {
-    "date": "2026-07-27",
-    "title": "长鑫科技科创板上市首日暴涨465%，市值3.28万亿成A股第一",
-    "summary": "长鑫科技7月27日正式登陆上交所科创板，上市首日收报49.00元/股，上涨超465%，成交额超1400亿元创A股单日历史新高，总市值约3.28万亿元，超越所有A股公司成为市值第一。长鑫科技是国内最大DRAM研发制造一体化企业。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3166a674dbe57152",
-    "source": "蓝媒GPT / 企鹅号",
-    "slug": "cxmt-ipo-star-market-465-percent"
-  },
-  {
-    "date": "2026-07-27",
-    "title": "智元创新启动赴港IPO，估值400-500亿港元",
-    "summary": "具身智能机器人公司智元创新启动赴港IPO进程，估值400-500亿港元。WAIC 2026闭幕标志着具身智能从炫技到实干的转型。",
-    "url": "https://ai.programnotes.cn/",
-    "source": "AI News",
-    "slug": "agibot-hk-ipo-40b-hkd"
-  },
-  {
-    "date": "2026-07-27",
-    "title": "DeepSeek因会议纪要外泄暂停100亿元新一轮融资",
-    "summary": "传DeepSeek新一轮100亿元融资因会议纪要外泄事件突然放缓。同期OpenAI与Hugging Face之间也爆发法律纠纷，Hugging Face指控OpenAI越界入侵并索赔1亿美元算力损失。",
-    "url": "http://tech.163.com/",
-    "source": "网易科技",
-    "slug": "deepseek-funding-slowdown-10b"
-  },
-  {
-    "date": "2026-07-27",
-    "title": "腾讯混元合并大语言模型与多模态团队",
-    "summary": "腾讯混元宣布合并大语言模型与多模态团队，统一AI研发架构，加速多模态大模型研发与应用落地。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3166a674dbe57152",
-    "source": "蓝媒GPT",
-    "slug": "tencent-hunyuan-merge-llm-multimodal"
-  },
-  {
-    "date": "2026-07-27",
-    "title": "黄仁勋发布第一条X推文，强调开源模型重要性",
-    "summary": "英伟达CEO黄仁勋发布第一条X（原Twitter）推文，重点阐述开源模型对AI行业的重要意义。此前Google Gemini 3.5 Pro因编程能力未达内部目标延期数月，导致Alphabet市值单日减少约2000亿美元。",
-    "url": "http://tech.163.com/",
-    "source": "网易科技 / Bloomberg Law",
-    "slug": "jensen-huang-first-x-tweet-open-source"
-  },
-  {
-    "date": "2026-07-27",
-    "title": "国产工业机器人市场份额超越外资品牌",
-    "summary": "调研显示国产工业机器人已实现对外资品牌的市场份额超越，中国制造业智能化转型加速推进。",
-    "url": "http://tech.163.com/",
-    "source": "网易科技",
-    "slug": "china-industrial-robots-surpass-foreign"
+    "source": "巴基斯坦论坛网站/企鹅号",
+    "slug": "china-ai-global-cooperation-training"
   }
 ]
