@@ -1,122 +1,114 @@
 [
   {
     "date": "2026-07-28",
-    "title": "月之暗面发布Kimi K3：2.8万亿参数登顶全球最大开源模型",
-    "summary": "月之暗面于7月16日正式发布新一代大模型Kimi K3，参数规模达2.8万亿，多项评测指标逼近甚至超越美国顶尖闭源模型，成为全球参数最大的开源模型，在硅谷引发强烈震动。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9446a6741b468352",
-    "source": "每日经济新闻",
-    "slug": "kimi-k3-release"
+    "title": "月之暗面正式开源Kimi K3：2.8万亿参数登顶全球最大开源模型",
+    "summary": "7月27日深夜，月之暗面正式开源Kimi K3模型权重及技术报告，同步开源MoonEP、FlashKDA、AgentEnv三项关键基础设施技术。K3为全球首个达到2.8万亿参数的MoE开源大模型，激活参数1040亿，支持原生视觉理解和100万Token上下文窗口，部署成本仅需2000万元。",
+    "url": "https://new.qq.com/rain/a/20260728A02WLE00",
+    "source": "科创板日报",
+    "slug": "kimi-k3-open-source"
   },
   {
     "date": "2026-07-28",
-    "title": "黄仁勋与马斯克同日唱多中国AI：中国注定产出卓越AI技术",
-    "summary": "7月25日，英伟达CEO黄仁勋称中国注定产出卓越人工智能技术、应继续学习合作，并称华尔街低估了DeepSeek和Kimi的影响；马斯克同日直言中国极有可能成为AI领导者。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6776a67294776352",
+    "title": "特斯拉Optimus人形机器人弗里蒙特产线2026年底启动生产",
+    "summary": "特斯拉高管在财报电话会解读视频中确认，Optimus人形机器人弗里蒙特产线将于2026年底启动生产，远期规划年产能100万台；得州第二条产线长期目标总年产能1000万台，预计明年夏季投产。",
+    "url": "https://new.qq.com/rain/a/20260727A0B9S500",
+    "source": "腾讯网",
+    "slug": "tesla-optimus-mass-production"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "英伟达与SK集团签署超5000亿美元AI战略合作协议",
+    "summary": "SK集团与英伟达正式签署合作意向书，合作覆盖大型AI算力基础设施建设和下一代AI内存联合研发。SK电讯将在韩国建设2吉瓦级AI云工厂，采用英伟达DSX平台和Vera Rubin加速计算，配备SK海力士HBM4内存，首座AI工厂计划2027年投运。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7806a67441414952",
     "source": "企鹅号",
-    "slug": "huang-musk-china-ai"
+    "slug": "nvidia-sk-500b-ai-deal"
   },
   {
     "date": "2026-07-28",
-    "title": "皮尤民调：36%美国人认为中国已是AI领导者",
-    "summary": "皮尤研究中心7月23日调查显示，36%美国人认为中国在AI发展上领先美国，仅12%认为美国领跑。彭博数据显示中国AI模型与美国差距已从5月的9%缩至6月的创纪录6%。",
-    "url": "https://new.qq.com/rain/a/20260727A0836M00",
-    "source": "腾讯网/参考消息",
-    "slug": "pew-poll-china-ai-leader"
+    "title": "英伟达拟为OpenAI提供2500亿美元数据中心融资担保",
+    "summary": "英伟达正与OpenAI谈判，计划提供约2500亿美元融资担保，助其租用软银旗下能源子公司在俄亥俄州开发的大型数据中心。计入芯片采购等投入后，项目总建设成本或超5000亿美元。",
+    "url": "https://new.qq.com/rain/a/20260727A0BOKS00",
+    "source": "腾讯网",
+    "slug": "nvidia-openai-250b-guarantee"
   },
   {
     "date": "2026-07-28",
-    "title": "2026世界人工智能大会在上海圆满落幕",
-    "summary": "2026世界人工智能大会（WAIC 2026）在上海世博、张江、西岸三地四馆同步举办，100多个国家和国际组织代表参会，习近平主席出席并发表主旨讲话，大会共商AI向善普惠发展路径。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2796a66a8fd19765",
-    "source": "企鹅号/新华社",
+    "title": "三星确认HBM5将采用2纳米GAA工艺，速度较HBM4E提升50%以上",
+    "summary": "三星电子7月27日通过采访确认，下一代HBM5内存运行速度将比HBM4E快50%以上，基础芯片将采用GAA结构的2纳米工艺并实现更高集成度硅通孔。三星计划基于HBM4的4纳米经验提前引入2纳米工艺。",
+    "url": "https://www.readaitime.com/",
+    "source": "读懂AI时代",
+    "slug": "samsung-hbm5-2nm-gaa"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "2026世界人工智能大会在上海闭幕，世界AI合作组织正式成立",
+    "summary": "WAIC 2026在上海世博、张江、西岸三地四馆同步举办，大会宣布成立世界人工智能合作组织，发表主席声明，发布人工智能合作发展行动计划、国际人工智能伦理治理行动计划、智能体互信互联互操作全球合作倡议等重磅成果。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9106a67fe9c07152",
+    "source": "企鹅号",
     "slug": "waic-2026-shanghai"
   },
   {
     "date": "2026-07-28",
-    "title": "中国AI大模型包揽全球调用量前五，小米MiMo-V2.5登顶",
-    "summary": "据OpenRouter上周（7月20日-26日）统计数据，全球AI大模型调用量排名前五全部被中国厂商包揽，小米自研MiMo-V2.5以周调用量破10.5万亿强势登顶。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0936a67026f35852",
-    "source": "太平洋科技",
-    "slug": "china-top5-global-ai-usage"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "腾讯合并大语言模型和多模态团队，成立基础模型部",
-    "summary": "腾讯宣布混元多模态模型部门与大语言模型部门合并，成立基础模型部，统一由腾讯首席AI科学家姚顺雨管理，以进一步提升模型研发和协同效率。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3896a66bbaa54852",
-    "source": "企鹅号/长江证券",
-    "slug": "tencent-merges-ai-teams"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "SK集团与英伟达签署5000亿美元AI基础设施协议",
-    "summary": "SK集团与英伟达签署5000亿美元AI基础设施协议，英伟达同时拟为OpenAI数据中心提供2500亿美元担保，两笔交易共同指向算力基础设施资本绑定模式的升级。",
-    "url": "https://www.readaitime.com/",
-    "source": "读懂AI时代",
-    "slug": "sk-nvidia-500b-infra"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "谷歌特斯拉大幅上调AI资本开支：谷歌全年上调至近2050亿美元",
-    "summary": "7月27日，谷歌将全年资本开支上调至1950-2050亿美元、自由现金流转负盘后跌超4%；特斯拉将全年资本开支上调至超250亿美元、近200亿投向AI领域但盘后跌超5%。",
+    "title": "黄仁勋、马斯克同日唱多中国AI：中国注定产出卓越AI技术",
+    "summary": "英伟达CEO黄仁勋7月26日称中国注定产出卓越人工智能技术、应继续学习合作；马斯克直言中国极有可能成为AI领导者。同日皮尤调查显示36%美国人认为中国在AI发展上领先美国，仅12%认为美国领跑。",
     "url": "https://new.qq.com/rain/a/20260727A0836M00",
     "source": "腾讯网",
-    "slug": "google-tesla-ai-capex"
+    "slug": "huang-musk-praise-china-ai"
   },
   {
     "date": "2026-07-28",
-    "title": "美方拟调查制裁中国AI企业，商务部回应：典型AI霸权主义行径",
+    "title": "工信部印发数字化培育指引，鼓励深化人工智能应用",
+    "summary": "工信部7月27日印发小快轻准数字化产品和服务培育指引（2026年版），提出深化人工智能应用，鼓励产品深度融合AI技术，从基于规则的逻辑推理向多模态感知、预测与自主执行的智能决策方向演进。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5106a67ec7992852",
+    "source": "智通财经",
+    "slug": "miit-ai-digital-guidelines"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "中国商务部回应美方拟调查制裁中国AI企业",
     "summary": "针对美国官员宣称将调查中国AI企业所谓蒸馏美方前沿模型并可能实施制裁，中国商务部回应称美方做法缺乏事实依据，是典型的人工智能霸权主义行径，中方将采取一切必要措施维护自身权益。",
     "url": "https://www.readaitime.com/",
-    "source": "36氪/读懂AI时代",
-    "slug": "china-response-us-ai-sanctions"
+    "source": "36氪",
+    "slug": "china-commerce-ministry-ai-sanctions"
   },
   {
-    "date": "2026-07-28",
-    "title": "三星确认HBM5采用2纳米GAA工艺，速度较HBM4E提升50%以上",
-    "summary": "三星电子确认下一代HBM5内存运行速度将比HBM4E快50%以上，基础芯片将采用GAA结构的2纳米工艺，计划基于HBM4的4纳米经验提前引入并拓展AI、HPC等领域合作。",
-    "url": "https://www.readaitime.com/",
-    "source": "读懂AI时代/三星电子",
-    "slug": "samsung-hbm5-2nm"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "中际旭创港股IPO定价980港元，七年最大新股发行",
-    "summary": "中际旭创港股IPO定价980港元，成为七年来港股最大新股发行，折射全球资本对中国AI供应链的估值态度。",
+    "date": "2026-07-27",
+    "title": "中际旭创港股IPO定价980港元，成七年最大新股发行",
+    "summary": "中际旭创港股IPO定价980港元，成为七年来港股最大新股发行，折射全球资本对中国AI供应链的估值态度。该公司是AI算力基础设施核心光模块供应商。",
     "url": "https://www.readaitime.com/",
     "source": "读懂AI时代",
     "slug": "zjxc-hk-ipo"
   },
   {
-    "date": "2026-07-28",
-    "title": "美国AI巨头游说开支创纪录：OpenAI与Anthropic支出激增",
-    "summary": "美国头部AI企业创下游说开支新纪录：OpenAI 2026年上半年联邦游说支出222万美元同比近乎翻倍，Anthropic支出353万美元接近去年三倍，各公司争夺数据中心和前沿模型审查规则话语权。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6696a671b0825552",
+    "date": "2026-07-27",
+    "title": "小鹏人形机器人在广州工厂正式开启小批量试生产",
+    "summary": "小鹏人形机器人已在广州工厂正式开启小批量试生产，量产产线进入最后联调阶段，量产冲刺正式进入倒计时。与特斯拉Optimus同期推进，国内人形机器人产业化全面提速。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3636a66fb0d18152",
     "source": "企鹅号",
-    "slug": "us-ai-lobbying-record"
+    "slug": "xpeng-humanoid-robot-production"
   },
   {
-    "date": "2026-07-28",
-    "title": "Black Forest Labs发布FLUX 3：首个单架构统一多模态及机器人动作预测流模型",
-    "summary": "Black Forest Labs发布FLUX 3，为全球首个单架构统一处理多模态及机器人动作预测的流模型，打破了图像、视频、音频及控制信号需独立模型处理的孤岛效应，为具身智能提供关键基础设施支持。",
-    "url": "https://www.ailens.news/",
-    "source": "AI Lens / MarkTechPost",
-    "slug": "flux-3-release"
+    "date": "2026-07-27",
+    "title": "谷歌将全年资本开支上调至1950亿美元，特斯拉近200亿投向AI",
+    "summary": "谷歌7月27日将全年资本开支上调至1950至2050亿美元，自由现金流转负盘后跌超4%；特斯拉全年资本开支上调至超250亿美元，近200亿投向AI领域但Q2运营利润远低预期盘后跌超5%。两大巨头以利润换算力引发市场重新审视AI基建短期代价。",
+    "url": "https://new.qq.com/rain/a/20260727A0836M00",
+    "source": "腾讯网",
+    "slug": "google-tesla-capex-ai-surge"
   },
   {
-    "date": "2026-07-28",
-    "title": "MIT推出SEAL自改进AI框架：利用强化学习让大模型自我编辑权重",
-    "summary": "MIT推出SEAL框架，利用强化学习让大模型自我编辑权重，迈向自改进新阶段。虽处于早期研究阶段，但展示的自我编辑能力为缩短模型迭代周期、降低训练成本提供了新思路。",
-    "url": "https://www.ailens.news/",
-    "source": "AI Lens / MarkTechPost",
-    "slug": "mit-seal-framework"
+    "date": "2026-07-27",
+    "title": "量子计算原型机九章四号刷新光量子信息技术世界纪录",
+    "summary": "工信部在国新办新闻发布会上披露，上半年量子计算原型机九章四号刷新光量子信息技术世界纪录，全球首款侵入式脑机接口医疗器械获批上市，规模以上制造业企业AI技术应用普及率超30%，AI开源大模型全球累计下载量突破100亿次。",
+    "url": "http://www.xbxxb.com/kj/1.html",
+    "source": "西北在线",
+    "slug": "jiuzhang-4-quantum-record"
   },
   {
-    "date": "2026-07-28",
-    "title": "Google Gemini 3.5 Pro因编程能力未达标延期数月",
-    "summary": "据Bloomberg Law援引10名Google现任及前员工报道，Gemini 3.5 Pro因编程能力未达内部目标而延期数月，团队6月仍在调整训练数据。Alphabet当日收跌4.4%，市值蒸发约2000亿美元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5886a67367985352",
-    "source": "Bloomberg Law/企鹅号",
-    "slug": "gemini-35-pro-delay"
+    "date": "2026-07-27",
+    "title": "英伟达新一轮逾7500亿美元AI基建交易引循环融资忧虑",
+    "summary": "英伟达正推进总规模逾7500亿美元的新一轮AI基础设施交易，与SK集团的5000亿美元合作外，还在推进与OpenAI的2500亿美元担保协议。质疑者警告这类交易可能正人为推高行业需求和估值，循环融资警报再响。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8296a67654c72652",
+    "source": "财联社",
+    "slug": "nvidia-750b-ai-infra-concerns"
   }
 ]
