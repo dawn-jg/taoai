@@ -1,114 +1,114 @@
 [
   {
-    "date": "2026-07-29",
-    "title": "比亚迪人形机器人预计8月亮相发布",
-    "summary": "比亚迪方面确认，其人形机器人预计2026年8月亮相发布，正式进军具身智能赛道。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5996a681d8109252",
-    "source": "新京报贝壳财经",
-    "slug": "byd-humanoid-robot-august"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "中国AI大模型全球市场份额升至63.5%，周调用量前五均为中国模型",
-    "summary": "OpenRouter数据显示，中国模型近28天份额约63.5%，美国模型仅35.5%。周调用量前五依次为小米MiMo-V2.5、DeepSeek V4 Flash、腾讯HY3、智谱GLM-5.2、DeepSeek V4Pro。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2766a68830486352",
-    "source": "财联社",
-    "slug": "china-ai-global-market-share-63-percent"
-  },
-  {
     "date": "2026-07-28",
     "title": "中国大模型周调用量达美国14.1倍，连续13周领跑全球",
-    "summary": "据OpenRouter数据，上周（7月20日至26日）中国AI大模型周调用量达33万亿Token，同期美国为2.34万亿Token，中国是美国的14.1倍。",
+    "summary": "据OpenRouter最新数据，上周（7月20日至26日）中国AI大模型周调用量达33万亿Token，同期美国为2.34万亿Token，中国是美国14.1倍，连续13周稳居全球首位。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5426a68a6bc29352",
     "source": "企鹅号",
-    "slug": "china-llm-weekly-tokens-14x-us"
+    "slug": "china-ai-model-weekly-usage-leads-global"
   },
   {
-    "date": "2026-07-28",
-    "title": "2026中国AI大模型竞争力TOP20榜单发布，豆包、通义千问、DeepSeek位列前三",
-    "summary": "中国数据研究中心发布TOP20榜单，构建涵盖技术、商业、生态与潜力的四维评估体系，对国内68家主流大模型厂商进行全面盘点。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7546a68735251752",
-    "source": "中国数据研究中心",
-    "slug": "china-ai-llm-competitiveness-top20-2026"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "全国首个全栈国产化AI眼镜闭环解决方案发布",
-    "summary": "国家人工智能应用中试基地发布全国首个国产化AI眼镜方案，推出三大场景智能体及三大行业定制方案，标志着国产AI眼镜迈入全栈自主、离线全能新阶段。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0096a6895df18252",
+    "date": "2026-07-27",
+    "title": "Kimi K3正式开源：全球首个2.8万亿参数模型",
+    "summary": "7月27日晚，月之暗面正式开放Kimi K3模型权重与技术报告，总参数达2.8万亿，采用混合专家架构，具备原生视觉能力与100万token上下文窗口，并开源MoonEP、FlashKDA和AgentEnv三项关键技术。上线Hugging Face后30分钟登顶趋势榜。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5426a68a6bc29352",
     "source": "企鹅号",
-    "slug": "first-domestic-ai-glasses-solution"
+    "slug": "kimi-k3-open-source-2-8t-params"
   },
   {
     "date": "2026-07-28",
-    "title": "美国拟对中国AI企业模型蒸馏行为开展调查并实施制裁，中方回应",
-    "summary": "美方声称要针对中国AI企业的模型蒸馏行为展开专项调查并出台新一轮制裁措施，中方敦促美方停止抹黑，指出美国AI企业也蒸馏了中国模型。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3286a681b9823052",
-    "source": "商务部新闻办公室",
-    "slug": "us-investigation-china-ai-distillation"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "中央网信办启动人工智能大模型IPv6能力提升专项行动",
-    "summary": "中央网信办联合多地网信办会同5家头部大模型企业在雄安新区启动专项行动，推动生成式大模型应用全面支持IPv6。",
-    "url": "https://new.qq.com/rain/a/20260728A07H3900",
-    "source": "腾讯网",
-    "slug": "china-ai-llm-ipv6-initiative"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "商务部：电动汽车、锂电池、AI产品成为中国外贸新名片",
-    "summary": "上半年我国电动汽车出口增长68.7%，锂电池增长37.6%；工业机器人增长18.6%，3D打印机增长109.3%，AI相关产品出口表现亮眼。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7026a68852d26452",
-    "source": "央广网",
-    "slug": "ai-products-china-foreign-trade"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "2026数博会打造国内首个服务一人公司的大模型市集",
-    "summary": "2026中国国际大数据产业博览会新闻发布会召开，布展6万平方米，汇聚300余家参展企业，将发布算电协同、数据流通、生成式AI等40余项最新成果。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0806a684a8076252",
+    "title": "工信部发布\"小快轻准\"数字化产品和服务培育指引",
+    "summary": "工信部发布《\"小快轻准\"数字化产品和服务培育指引》，鼓励AI技术在中小企业深度融合应用。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5426a68a6bc29352",
     "source": "企鹅号",
-    "slug": "2026-big-data-expo-ai-marketplace"
+    "slug": "miit-small-fast-light-precise-digital-guidance"
   },
   {
     "date": "2026-07-28",
-    "title": "2026世界人工智能大会圆满落幕：意向采购额突破203亿元",
-    "summary": "六十余国客商齐聚上海，意向采购额突破203亿元，落地投资项目409亿元，人形机器人零部件订单排至2027年末。摩根士丹利、高盛、瑞银集体上调中国AI产业预期。",
+    "title": "我国启动人工智能大模型IPv6能力提升专项行动",
+    "summary": "据36氪报道，我国启动人工智能大模型IPv6能力提升专项行动。",
+    "url": "https://www.36kr.com/information/web_news/",
+    "source": "36氪",
+    "slug": "china-ai-model-ipv6-capability-action"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "人工智能相关产品成为中国外贸\"新名片\"",
+    "summary": "商务部表示，人工智能相关产品成为中国外贸\"新名片\"。",
+    "url": "https://www.36kr.com/information/web_news/",
+    "source": "36氪",
+    "slug": "ai-products-china-foreign-trade-new-card"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "2026世界人工智能大会在沪落幕，意向采购额突破203亿元",
+    "summary": "2026世界人工智能大会在上海圆满落幕，六十余国客商齐聚，意向采购额突破203亿元，落地投资项目409亿元，人形机器人零部件订单排至2027年末，多家全球外资机构上调中国AI产业预期。",
     "url": "https://www.comnews.cn/node_9.html",
     "source": "中国商务新闻网",
-    "slug": "waic-2026-203-billion-procurement"
+    "slug": "waic-2026-shanghai-closes-203b-procurement"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "比亚迪人形机器人计划8月亮相",
+    "summary": "比亚迪官方回应称，计划八月在\"迪空间\"亮相发布人形机器人，未来希望每家门店都能部署机器人向顾客介绍和演示车辆。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6196a69548892952",
+    "source": "企鹅号",
+    "slug": "byd-humanoid-robot-august-debut"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "苹果拟以Siri AI为核心推出家庭中枢等新品",
+    "summary": "苹果计划率先推出一款以全新Siri人工智能助手为核心的家庭中枢设备，并准备发布新一代Apple TV机顶盒及升级版HomePod mini，预计今年秋季至明年初陆续推出。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6196a69548892952",
+    "source": "企鹅号",
+    "slug": "apple-siri-ai-home-hub-products"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "千余名AI从业者联名呼吁统筹调控AI发展步伐",
+    "summary": "据Business Insider报道，来自OpenAI、Anthropic、谷歌DeepMind、Meta等企业的1100余名员工联合发布公开信，倡议各国政府协同建立治理机制，合理把控前沿AI技术研发节奏。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1046a69693c27752",
+    "source": "企鹅号（环球网科技）",
+    "slug": "ai-practitioners-open-letter-regulation"
   },
   {
     "date": "2026-07-28",
-    "title": "清华研发AI超级显微镜，应用前景广泛",
-    "summary": "清华大学研发的AI显微镜在AI制药、前沿生命科学研究领域应用前景广泛，团队将进一步提升分辨率与观测深度，同时推动成果临床转化。",
+    "title": "清华研发AI\"超级显微镜\"",
+    "summary": "清华大学研发出AI\"超级显微镜\"，在AI制药、前沿生命科学研究领域应用前景广泛，团队将进一步提升分辨率与观测深度并推动临床转化。",
     "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "国家科技信息中心",
+    "source": "国家科技基础条件平台中心",
     "slug": "tsinghua-ai-super-microscope"
   },
   {
     "date": "2026-07-28",
-    "title": "京北方等联合成立芯算科技公司，布局智能机器人业务",
-    "summary": "北京坤元芯算科技有限公司成立，经营范围包含AI通用应用系统、智能机器人研发与销售、AI硬件销售等，由京北方等共同持股。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8106a684f7e93252",
-    "source": "企查查/人民财讯",
-    "slug": "jingbeifang-ai-robot-company"
+    "title": "门头沟\"京西剧谷\"发布AI+微短剧新政",
+    "summary": "门头沟\"京西剧谷\"品牌成果发布暨第三届北京市AI创新大赛大众创作赛道宣介专场举办，参赛者可获算力支持、公共创作平台及全域特色场景等资源，覆盖创作全流程需求。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "国家科技基础条件平台中心",
+    "slug": "mentougou-ai-short-drama-policy"
   },
   {
-    "date": "2026-07-28",
-    "title": "月之暗面Kimi K3发布：2.8万亿参数，最大开放权重模型",
-    "summary": "月之暗面发布Kimi K3，参数规模达2.8万亿，100万Token上下文，是当前参数规模最大的开放权重模型，热度从科技圈蔓延至华尔街。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1006a6862e196652",
-    "source": "企鹅号",
-    "slug": "moonshot-kimi-k3-open-weight"
+    "date": "2026-07-21",
+    "title": "智能体加速从\"技术秀场\"迈向\"产业主场\"",
+    "summary": "依托标准化底层能力打破跨设备、跨场景适配壁垒，智能体产业正加速从展厅秀场走向产业主战场，规模化落地进入全新发展阶段。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "国家科技基础条件平台中心",
+    "slug": "ai-agents-to-industry-mainstream"
   },
   {
-    "date": "2026-07-28",
-    "title": "中国AI开放合作：面向发展中国家提供5000个AI培训名额",
-    "summary": "2026世界人工智能大会上，中方宣布面向发展中国家提供5000个AI专题研修培训名额，推动气象智能预警方案妈祖在30个国家落地应用。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8466a68680e12952",
-    "source": "巴基斯坦论坛网站/企鹅号",
-    "slug": "china-ai-global-cooperation-training"
+    "date": "2026-07-17",
+    "title": "谷歌发布Gemma4：端侧大模型实现原生多模态",
+    "summary": "据AI Weekly周报，谷歌发布Gemma4，端侧大模型实现原生多模态能力。",
+    "url": "http://51ai.website/",
+    "source": "AI Weekly",
+    "slug": "google-gemma4-on-device-multimodal"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "GB/Z 185-2026《人工智能 智能体互联》系列标准发布",
+    "summary": "7月24日，GB/Z 185-2026《人工智能 智能体互联》系列标准发布，推动智能体互联标准化。",
+    "url": "https://iot.ofweek.com/CATList-132200-8400-iot.html",
+    "source": "OFweek维科网",
+    "slug": "gb-z-185-2026-ai-agent-interconnection-standard"
   }
 ]
