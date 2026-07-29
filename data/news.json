@@ -1,114 +1,106 @@
 [
   {
     "date": "2026-07-28",
-    "title": "中国大模型周调用量达美国14.1倍，连续13周领跑全球",
-    "summary": "据OpenRouter最新数据，上周（7月20日至26日）中国AI大模型周调用量达33万亿Token，同期美国为2.34万亿Token，中国是美国14.1倍，连续13周稳居全球首位。",
+    "title": "中国大模型周调用量连续13周领跑全球",
+    "summary": "OpenRouter最新数据显示，上周(7月20日至26日)中国AI大模型周调用量达33万亿Token，同期美国为2.34万亿Token，中国是美国的14.1倍，连续13周稳居全球首位。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5426a68a6bc29352",
     "source": "企鹅号",
-    "slug": "china-ai-model-weekly-usage-leads-global"
-  },
-  {
-    "date": "2026-07-27",
-    "title": "Kimi K3正式开源：全球首个2.8万亿参数模型",
-    "summary": "7月27日晚，月之暗面正式开放Kimi K3模型权重与技术报告，总参数达2.8万亿，采用混合专家架构，具备原生视觉能力与100万token上下文窗口，并开源MoonEP、FlashKDA和AgentEnv三项关键技术。上线Hugging Face后30分钟登顶趋势榜。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5426a68a6bc29352",
-    "source": "企鹅号",
-    "slug": "kimi-k3-open-source-2-8t-params"
+    "slug": "china-llm-weekly-calls-leads-global-13weeks"
   },
   {
     "date": "2026-07-28",
-    "title": "工信部发布\"小快轻准\"数字化产品和服务培育指引",
-    "summary": "工信部发布《\"小快轻准\"数字化产品和服务培育指引》，鼓励AI技术在中小企业深度融合应用。",
+    "title": "工信部发布“小快轻准”数字化产品和服务培育指引",
+    "summary": "工信部发布《“小快轻准”数字化产品和服务培育指引》，鼓励AI技术在中小企业深度融合应用。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5426a68a6bc29352",
     "source": "企鹅号",
-    "slug": "miit-small-fast-light-precise-digital-guidance"
+    "slug": "miit-small-light-fast-precise-digital-guide"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "月之暗面Kimi K3正式开源",
+    "summary": "7月27日晚，月之暗面正式开放Kimi K3模型权重与技术报告，并同步开源MoonEP、FlashKDA和AgentEnv三项关键Infra技术。K3总参数达2.8万亿，采用混合专家架构，具备原生视觉能力与100万token上下文窗口，是全球首个开放的3T级模型，上线Hugging Face后30分钟登顶趋势榜。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5426a68a6bc29352",
+    "source": "企鹅号",
+    "slug": "moonshot-kimi-k3-open-source"
   },
   {
     "date": "2026-07-28",
     "title": "我国启动人工智能大模型IPv6能力提升专项行动",
-    "summary": "据36氪报道，我国启动人工智能大模型IPv6能力提升专项行动。",
+    "summary": "据36氪报道，我国启动人工智能大模型IPv6能力提升专项行动，推动大模型相关基础设施能力提升。",
     "url": "https://www.36kr.com/information/web_news/",
     "source": "36氪",
-    "slug": "china-ai-model-ipv6-capability-action"
+    "slug": "china-ai-llm-ipv6-capability-action"
   },
   {
     "date": "2026-07-28",
-    "title": "人工智能相关产品成为中国外贸\"新名片\"",
-    "summary": "商务部表示，人工智能相关产品成为中国外贸\"新名片\"。",
+    "title": "人工智能相关产品成为中国外贸“新名片”",
+    "summary": "商务部表示，人工智能相关产品成为中国外贸“新名片”，体现中国AI产业在国际市场上的竞争力提升。",
     "url": "https://www.36kr.com/information/web_news/",
     "source": "36氪",
-    "slug": "ai-products-china-foreign-trade-new-card"
-  },
-  {
-    "date": "2026-07-27",
-    "title": "2026世界人工智能大会在沪落幕，意向采购额突破203亿元",
-    "summary": "2026世界人工智能大会在上海圆满落幕，六十余国客商齐聚，意向采购额突破203亿元，落地投资项目409亿元，人形机器人零部件订单排至2027年末，多家全球外资机构上调中国AI产业预期。",
-    "url": "https://www.comnews.cn/node_9.html",
-    "source": "中国商务新闻网",
-    "slug": "waic-2026-shanghai-closes-203b-procurement"
+    "slug": "ai-products-china-trade-new-card"
   },
   {
     "date": "2026-07-29",
-    "title": "比亚迪人形机器人计划8月亮相",
-    "summary": "比亚迪官方回应称，计划八月在\"迪空间\"亮相发布人形机器人，未来希望每家门店都能部署机器人向顾客介绍和演示车辆。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6196a69548892952",
+    "title": "美国拟对中国AI企业调查制裁，商务部强硬回应",
+    "summary": "7月27日，商务部就美方宣称拟对中国人工智能企业开展调查并实施制裁作出回应，批评其为“AI霸权主义”行径。白宫科技政策办公室主任克拉齐奥斯指控月之暗面在开发K3时蒸馏了Anthropic的Fable模型，贝森特考虑将月之暗面列入贸易黑名单。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0236a697bfb43652",
     "source": "企鹅号",
-    "slug": "byd-humanoid-robot-august-debut"
+    "slug": "us-probe-china-ai-commerce-ministry-response"
   },
   {
     "date": "2026-07-29",
-    "title": "苹果拟以Siri AI为核心推出家庭中枢等新品",
-    "summary": "苹果计划率先推出一款以全新Siri人工智能助手为核心的家庭中枢设备，并准备发布新一代Apple TV机顶盒及升级版HomePod mini，预计今年秋季至明年初陆续推出。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6196a69548892952",
+    "title": "中国AI大模型周调用量占据全球三分之二市场份额",
+    "summary": "OpenRouter数据显示，截至7月26日，中国模型近28天份额约63.5%，美国模型为35.5%。调用量前五模型依次为小米MiMo-V2.5、DeepSeek V4 Flash、腾讯HY3、智谱GLM-5.2及DeepSeek V4Pro。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6156a6942a710452",
     "source": "企鹅号",
-    "slug": "apple-siri-ai-home-hub-products"
+    "slug": "china-llm-two-thirds-global-market-share"
   },
   {
     "date": "2026-07-29",
-    "title": "千余名AI从业者联名呼吁统筹调控AI发展步伐",
-    "summary": "据Business Insider报道，来自OpenAI、Anthropic、谷歌DeepMind、Meta等企业的1100余名员工联合发布公开信，倡议各国政府协同建立治理机制，合理把控前沿AI技术研发节奏。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1046a69693c27752",
-    "source": "企鹅号（环球网科技）",
-    "slug": "ai-practitioners-open-letter-regulation"
+    "title": "DeepSeek被曝实习生日薪5000元",
+    "summary": "AI大模型周报披露，DeepSeek被曝实习生工资每天5000元；同期月之暗面宣布Kimi K3正式开源。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3876a69b5e380052",
+    "source": "企鹅号",
+    "slug": "deepseek-intern-daily-pay-5000"
   },
   {
     "date": "2026-07-28",
-    "title": "清华研发AI\"超级显微镜\"",
-    "summary": "清华大学研发出AI\"超级显微镜\"，在AI制药、前沿生命科学研究领域应用前景广泛，团队将进一步提升分辨率与观测深度并推动临床转化。",
-    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "国家科技基础条件平台中心",
-    "slug": "tsinghua-ai-super-microscope"
+    "title": "北京市首个市场监管“黑灯”AI实验室落地",
+    "summary": "据人民网报道，北京市首个市场监管“黑灯”AI实验室落地，推动监管场景的智能化、无人化运行。",
+    "url": "http://bj.people.com.cn/GB/349239/index.html",
+    "source": "人民网",
+    "slug": "beijing-first-blacklight-ai-lab"
   },
   {
     "date": "2026-07-28",
-    "title": "门头沟\"京西剧谷\"发布AI+微短剧新政",
-    "summary": "门头沟\"京西剧谷\"品牌成果发布暨第三届北京市AI创新大赛大众创作赛道宣介专场举办，参赛者可获算力支持、公共创作平台及全域特色场景等资源，覆盖创作全流程需求。",
-    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "国家科技基础条件平台中心",
-    "slug": "mentougou-ai-short-drama-policy"
+    "title": "北京经开区布局未来产业，聚焦AI穿戴与AI PC赛道",
+    "summary": "北京经开区布局未来产业，目标2030年打造成具有全球影响力未来产业创新高地；年内将孵化101个标杆项目，聚焦AI穿戴、AI PC等赛道。",
+    "url": "http://bj.people.com.cn/GB/349239/index.html",
+    "source": "人民网",
+    "slug": "beijing-etown-future-industry-ai-wearables-pc"
   },
   {
-    "date": "2026-07-21",
-    "title": "智能体加速从\"技术秀场\"迈向\"产业主场\"",
-    "summary": "依托标准化底层能力打破跨设备、跨场景适配壁垒，智能体产业正加速从展厅秀场走向产业主战场，规模化落地进入全新发展阶段。",
-    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "国家科技基础条件平台中心",
-    "slug": "ai-agents-to-industry-mainstream"
-  },
-  {
-    "date": "2026-07-17",
-    "title": "谷歌发布Gemma4：端侧大模型实现原生多模态",
-    "summary": "据AI Weekly周报，谷歌发布Gemma4，端侧大模型实现原生多模态能力。",
-    "url": "http://51ai.website/",
-    "source": "AI Weekly",
-    "slug": "google-gemma4-on-device-multimodal"
+    "date": "2026-07-28",
+    "title": "Meta宣布与贝莱德达成战略合作开发数据中心，国科超导完成超亿元融资",
+    "summary": "据36氪晚报，Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资。",
+    "url": "https://www.36kr.com/information/web_news/",
+    "source": "36氪",
+    "slug": "meta-blackrock-datacenter-guoke-superconductor-funding"
   },
   {
     "date": "2026-07-24",
-    "title": "GB/Z 185-2026《人工智能 智能体互联》系列标准发布",
-    "summary": "7月24日，GB/Z 185-2026《人工智能 智能体互联》系列标准发布，推动智能体互联标准化。",
-    "url": "https://iot.ofweek.com/CATList-132200-8400-iot.html",
-    "source": "OFweek维科网",
-    "slug": "gb-z-185-2026-ai-agent-interconnection-standard"
+    "title": "“辰光一号”技术试验卫星成功发射，北京太空算力将进行在轨验证",
+    "summary": "据人民网报道，“辰光一号”技术试验卫星成功发射，北京太空算力首创技术成果将进行在轨验证；北京卫星小镇“点亮”，20家航天企业签约入驻。",
+    "url": "http://bj.people.com.cn/GB/349239/index.html",
+    "source": "人民网",
+    "slug": "chenguang-1-satellite-space-computing"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "千余名全球AI从业者联名呼吁统筹调控AI发展步伐",
+    "summary": "据Business Insider报道，来自OpenAI、Anthropic、谷歌DeepMind、Meta等头部AI企业的1100余名员工联合发布公开信，倡议各国政府协同建立治理机制，合理把控前沿AI技术研发节奏，防范技术超速发展带来的安全风险。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1046a69693c27752",
+    "source": "企鹅号",
+    "slug": "thousand-ai-workers-open-letter-governance"
   }
 ]
