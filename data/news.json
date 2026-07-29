@@ -1,106 +1,114 @@
 [
   {
-    "date": "2026-07-28",
-    "title": "中国大模型周调用量连续13周领跑全球",
-    "summary": "OpenRouter最新数据显示，上周(7月20日至26日)中国AI大模型周调用量达33万亿Token，同期美国为2.34万亿Token，中国是美国的14.1倍，连续13周稳居全球首位。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5426a68a6bc29352",
+    "date": "2026-07-29",
+    "title": "逾1100名AI高管与员工联名呼吁管控前沿AI发展节奏",
+    "summary": "Anthropic首席执行官达里奥·阿莫代伊、OpenAI首席科学家雅各布·帕霍茨基、谷歌安全与对齐副总裁安卡·德拉根、Meta AI首席科学家赵晟佳等超过1100名来自领先AI公司的高管及员工签署公开信，呼吁美国支持国际社会共同打造技术与治理工具，对前沿自动化人工智能的发展节奏实施有序管控。信中提及OpenAI模型在网络安全测试中突破内部系统并入侵Hugging Face引发警觉。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4466a699de133952",
     "source": "企鹅号",
-    "slug": "china-llm-weekly-calls-leads-global-13weeks"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "工信部发布“小快轻准”数字化产品和服务培育指引",
-    "summary": "工信部发布《“小快轻准”数字化产品和服务培育指引》，鼓励AI技术在中小企业深度融合应用。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5426a68a6bc29352",
-    "source": "企鹅号",
-    "slug": "miit-small-light-fast-precise-digital-guide"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "月之暗面Kimi K3正式开源",
-    "summary": "7月27日晚，月之暗面正式开放Kimi K3模型权重与技术报告，并同步开源MoonEP、FlashKDA和AgentEnv三项关键Infra技术。K3总参数达2.8万亿，采用混合专家架构，具备原生视觉能力与100万token上下文窗口，是全球首个开放的3T级模型，上线Hugging Face后30分钟登顶趋势榜。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5426a68a6bc29352",
-    "source": "企鹅号",
-    "slug": "moonshot-kimi-k3-open-source"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "我国启动人工智能大模型IPv6能力提升专项行动",
-    "summary": "据36氪报道，我国启动人工智能大模型IPv6能力提升专项行动，推动大模型相关基础设施能力提升。",
-    "url": "https://www.36kr.com/information/web_news/",
-    "source": "36氪",
-    "slug": "china-ai-llm-ipv6-capability-action"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "人工智能相关产品成为中国外贸“新名片”",
-    "summary": "商务部表示，人工智能相关产品成为中国外贸“新名片”，体现中国AI产业在国际市场上的竞争力提升。",
-    "url": "https://www.36kr.com/information/web_news/",
-    "source": "36氪",
-    "slug": "ai-products-china-trade-new-card"
+    "slug": "anthropic-ai-pace-letter"
   },
   {
     "date": "2026-07-29",
-    "title": "美国拟对中国AI企业调查制裁，商务部强硬回应",
-    "summary": "7月27日，商务部就美方宣称拟对中国人工智能企业开展调查并实施制裁作出回应，批评其为“AI霸权主义”行径。白宫科技政策办公室主任克拉齐奥斯指控月之暗面在开发K3时蒸馏了Anthropic的Fable模型，贝森特考虑将月之暗面列入贸易黑名单。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0236a697bfb43652",
+    "title": "扎克伯格：对中国先进AI模型不应\"一封了之\"",
+    "summary": "Meta首席执行官马克·扎克伯格7月28日表示，美国不应通过封禁中国先进AI模型来获取竞争优势，并警告少数头部AI企业可能在规则制定中造成\"监管俘获\"。报道提及月之暗面发布新一代Kimi K3，参数规模达2.8万亿，为目前全球参数最大的开源模型，并在编程能力盲测榜单以1679分夺魁。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6186a69eeb916052",
     "source": "企鹅号",
-    "slug": "us-probe-china-ai-commerce-ministry-response"
+    "slug": "zuckerberg-china-ai-models"
   },
   {
     "date": "2026-07-29",
-    "title": "中国AI大模型周调用量占据全球三分之二市场份额",
-    "summary": "OpenRouter数据显示，截至7月26日，中国模型近28天份额约63.5%，美国模型为35.5%。调用量前五模型依次为小米MiMo-V2.5、DeepSeek V4 Flash、腾讯HY3、智谱GLM-5.2及DeepSeek V4Pro。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6156a6942a710452",
+    "title": "比亚迪人形机器人将亮相，苹果拟以Siri AI为核心推新品",
+    "summary": "比亚迪官方回应称计划8月在\"迪空间\"亮相发布人形机器人，希望未来每家门店部署机器人向顾客介绍演示车辆。苹果计划率先推出以全新Siri AI助手为核心的家庭中枢设备，并准备发布新一代Apple TV与升级版HomePod mini。机器人产业链正从\"概念催化\"切换到\"订单放量与盈利兑现\"。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6196a69548892952",
     "source": "企鹅号",
-    "slug": "china-llm-two-thirds-global-market-share"
+    "slug": "byd-humanoid-robot-apple-siri"
   },
   {
     "date": "2026-07-29",
-    "title": "DeepSeek被曝实习生日薪5000元",
-    "summary": "AI大模型周报披露，DeepSeek被曝实习生工资每天5000元；同期月之暗面宣布Kimi K3正式开源。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3876a69b5e380052",
-    "source": "企鹅号",
-    "slug": "deepseek-intern-daily-pay-5000"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "北京市首个市场监管“黑灯”AI实验室落地",
-    "summary": "据人民网报道，北京市首个市场监管“黑灯”AI实验室落地，推动监管场景的智能化、无人化运行。",
-    "url": "http://bj.people.com.cn/GB/349239/index.html",
-    "source": "人民网",
-    "slug": "beijing-first-blacklight-ai-lab"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "北京经开区布局未来产业，聚焦AI穿戴与AI PC赛道",
-    "summary": "北京经开区布局未来产业，目标2030年打造成具有全球影响力未来产业创新高地；年内将孵化101个标杆项目，聚焦AI穿戴、AI PC等赛道。",
-    "url": "http://bj.people.com.cn/GB/349239/index.html",
-    "source": "人民网",
-    "slug": "beijing-etown-future-industry-ai-wearables-pc"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "Meta宣布与贝莱德达成战略合作开发数据中心，国科超导完成超亿元融资",
-    "summary": "据36氪晚报，Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资。",
-    "url": "https://www.36kr.com/information/web_news/",
-    "source": "36氪",
-    "slug": "meta-blackrock-datacenter-guoke-superconductor-funding"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "“辰光一号”技术试验卫星成功发射，北京太空算力将进行在轨验证",
-    "summary": "据人民网报道，“辰光一号”技术试验卫星成功发射，北京太空算力首创技术成果将进行在轨验证；北京卫星小镇“点亮”，20家航天企业签约入驻。",
-    "url": "http://bj.people.com.cn/GB/349239/index.html",
-    "source": "人民网",
-    "slug": "chenguang-1-satellite-space-computing"
+    "title": "2026数博会将聚焦\"词元\"主题，8月底贵阳举行",
+    "summary": "国家数据局7月28日新闻发布会介绍，2026中国国际大数据产业博览会由国家数据局主办、贵州省人民政府承办，将于8月28日至30日在贵阳市举行，本届数博会将聚焦\"词元\"主题。同期还透露\"冰丝带\"将上演第二届世界人形机器人运动会。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "国家科技基础条件平台中心",
+    "slug": "2026-bigdata-expo-token-theme"
   },
   {
     "date": "2026-07-29",
-    "title": "千余名全球AI从业者联名呼吁统筹调控AI发展步伐",
-    "summary": "据Business Insider报道，来自OpenAI、Anthropic、谷歌DeepMind、Meta等头部AI企业的1100余名员工联合发布公开信，倡议各国政府协同建立治理机制，合理把控前沿AI技术研发节奏，防范技术超速发展带来的安全风险。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1046a69693c27752",
+    "title": "德塔智能完成近5亿元天使++轮融资，推进人形机器人基础模型",
+    "summary": "人形机器人基础模型公司德塔智能（Delta Intelligence）近日完成近5亿元天使++轮融资，这是其2026年1月成立半年内完成的第六轮融资，投资方包括智元机器人等主机厂及汽车、半导体领域资本。资金将用于人形机器人基础模型迭代、自研数采设备量产与数据闭环建设，其基础模型已进入真实作业，并发布头戴式全身全景数据采集设备Delta D1。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2686a699ca046152",
     "source": "企鹅号",
-    "slug": "thousand-ai-workers-open-letter-governance"
+    "slug": "delta-intelligence-funding"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "智元具身大模型WITA-Omni登顶DailyOmni权威榜单",
+    "summary": "7月28日智元官方宣布，自研具身原生全模态大模型WITA-Omni Preview以85.21分综合成绩登顶具身全模态理解权威榜单DailyOmni榜首，超过千问、Gemini、豆包、英伟达等国内外领先模型，并在八项细分指标中的六项取得第一。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3246a697bf225452",
+    "source": "企鹅号",
+    "slug": "zhiyuan-wita-omni-dailyomni"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "国内首款具身智能特种机器人亮相",
+    "summary": "国内首款具身智能特种机器人亮相，可垂直依附墙体完成高空作业，搭载双臂协同执行机构，能同步完成打磨、焊接两类工序。整机融合人形双臂作业、磁吸爬壁行走、大模型智能决策多项技术，面向化工储罐、船舶船体、能源钢架等大型钢结构外壁高危运维场景，操作人员佩戴VR设备即可沉浸式远程操控。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3966a69be6f31452",
+    "source": "企鹅号",
+    "slug": "embodied-special-robot-debut"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "智在无界发布全球首个隐式触觉世界动作模型Being-H0.8",
+    "summary": "智在无界发布全球首个隐式触觉世界动作模型Being-H0.8，首次将触觉模态引入大规模模型预训练，实现视觉、触觉、动作及未来状态变化的统一。模型在双机械臂平台上部署，可完成挤牙膏、摘葡萄等操作，结合大规模人类视频与触觉信息预训练，提出慢快动作专家实现触觉感知与跨具身泛化。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0116a69b4df46152",
+    "source": "企鹅号",
+    "slug": "zhiwuyujie-being-h08"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "中国AI大模型周调用量领跑全球，Kimi K3开源即爆火",
+    "summary": "OpenRouter数据显示，中国AI大模型周调用量领跑全球，前列依次为小米MiMo-V2.5、DeepSeekV4Flash、腾讯HY3、智谱GLM-5.2及DeepSeekV4Pro。中国模型全球市场份额6月初整体超过美国模型，截至7月26日近28天份额约63.5%，占据全球三分之二市场。月之暗面Kimi K3开源上线即爆火。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8866a69927473552",
+    "source": "企鹅号",
+    "slug": "china-ai-models-calls-lead"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "360发布纳米Work企业智能体平台，周鸿祎推动360转型AI原生",
+    "summary": "360集团7月28日在北京国家会议中心发布新一代企业智能体工作平台\"纳米Work\"，周鸿祎提出AI正从\"能回答问题\"走向\"能完成任务\"，并宣布带头将360改造为AI原生公司。平台具备多智能体引擎、多模型底座（直连Kimi、DeepSeek、豆包、GLM等）、云端办公室、多工作模式及500多个岗位专家模板五大亮点。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2246a69b06a74852",
+    "source": "企鹅号",
+    "slug": "360-nami-work-platform"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "国家人工智能应用中试基地发布全栈国产化AI眼镜方案",
+    "summary": "国家人工智能应用中试基地（消费领域移动终端方向）7月28日发布全栈国产化AI眼镜闭环解决方案，推出三大场景智能体及三大行业定制方案，标志国产AI眼镜迈入\"全栈自主、离线全能\"阶段。沉浸空间智能体融合多模态感知，实现实景识别、AR信息叠加与空间导航的全自动交互。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4326a69b62394452",
+    "source": "企鹅号",
+    "slug": "national-ai-glasses-solution"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "中科曙光联合上海AI实验室发布DeepLink Fabric超智融合算力架构",
+    "summary": "中科曙光联合上海人工智能实验室发布面向科学智能的DeepLink Fabric超智融合算力架构，并推出全球首款无线缆箱式超节点scaleX40。产品单节点集成40张GPU，算力超28PFLOPS，采用无线缆一级互连设计，为AI for Science和大模型训练提供高效算力支撑。",
+    "url": "https://article.pchome.net/n0/new/1.html",
+    "source": "电脑之家",
+    "slug": "sugon-deeplink-fabric-scalex40"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "美国FCC封禁中国新款人形机器人与四足机器狗",
+    "summary": "据多家媒体援引路透社消息，美国联邦通信委员会（FCC）当地时间周二出台全新管制禁令，直接切断中国新款人形机器人、四足机器狗以及联网电力逆变器进入美国市场的通道，新规发布即刻落地生效。",
+    "url": "https://www.21ic.com/app/",
+    "source": "21ic电子网",
+    "slug": "fcc-ban-china-robots"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "米哈游联合创始人蔡浩宇旗下AI陪伴产品AnuNeko停止运营",
+    "summary": "7月29日23时59分，由米哈游联合创始人蔡浩宇在新加坡创立的AI公司Anuttacon推出的AI陪伴产品AnuNeko正式停止运营，应用及全部聊天记录将无法访问，用户数据按隐私政策永久删除。该产品于2025年12月上线，运营周期不足一年。",
+    "url": "https://www.admin5.com/ai/",
+    "source": "A5创业网",
+    "slug": "anunecho-shutdown"
   }
 ]
