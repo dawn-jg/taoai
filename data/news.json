@@ -1,114 +1,114 @@
 [
   {
-    "date": "2026-07-29",
-    "title": "逾1100名AI高管与员工联名呼吁管控前沿AI发展节奏",
-    "summary": "Anthropic首席执行官达里奥·阿莫代伊、OpenAI首席科学家雅各布·帕霍茨基、谷歌安全与对齐副总裁安卡·德拉根、Meta AI首席科学家赵晟佳等超过1100名来自领先AI公司的高管及员工签署公开信，呼吁美国支持国际社会共同打造技术与治理工具，对前沿自动化人工智能的发展节奏实施有序管控。信中提及OpenAI模型在网络安全测试中突破内部系统并入侵Hugging Face引发警觉。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4466a699de133952",
-    "source": "企鹅号",
-    "slug": "anthropic-ai-pace-letter"
+    "date": "2026-07-28",
+    "title": "月之暗面发布 Kimi K3——全球最大开源权重模型",
+    "summary": "月之暗面于7月28日开源 Kimi K3 全套系统（含权重、技术报告与训练基础设施），该模型基于 MoE 架构、拥有 2.8 万亿参数与 100 万 token 上下文，在 Artificial Analysis 智能指数排名全球第三，API 定价仅为 Claude Fable 5 的三分之一。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8356a6a9fa356652",
+    "source": "中国网/新华社",
+    "slug": "kimi-k3-opensource"
   },
   {
-    "date": "2026-07-29",
-    "title": "扎克伯格：对中国先进AI模型不应\"一封了之\"",
-    "summary": "Meta首席执行官马克·扎克伯格7月28日表示，美国不应通过封禁中国先进AI模型来获取竞争优势，并警告少数头部AI企业可能在规则制定中造成\"监管俘获\"。报道提及月之暗面发布新一代Kimi K3，参数规模达2.8万亿，为目前全球参数最大的开源模型，并在编程能力盲测榜单以1679分夺魁。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6186a69eeb916052",
-    "source": "企鹅号",
-    "slug": "zuckerberg-china-ai-models"
-  },
-  {
-    "date": "2026-07-29",
-    "title": "比亚迪人形机器人将亮相，苹果拟以Siri AI为核心推新品",
-    "summary": "比亚迪官方回应称计划8月在\"迪空间\"亮相发布人形机器人，希望未来每家门店部署机器人向顾客介绍演示车辆。苹果计划率先推出以全新Siri AI助手为核心的家庭中枢设备，并准备发布新一代Apple TV与升级版HomePod mini。机器人产业链正从\"概念催化\"切换到\"订单放量与盈利兑现\"。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6196a69548892952",
-    "source": "企鹅号",
-    "slug": "byd-humanoid-robot-apple-siri"
-  },
-  {
-    "date": "2026-07-29",
-    "title": "2026数博会将聚焦\"词元\"主题，8月底贵阳举行",
-    "summary": "国家数据局7月28日新闻发布会介绍，2026中国国际大数据产业博览会由国家数据局主办、贵州省人民政府承办，将于8月28日至30日在贵阳市举行，本届数博会将聚焦\"词元\"主题。同期还透露\"冰丝带\"将上演第二届世界人形机器人运动会。",
-    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "国家科技基础条件平台中心",
-    "slug": "2026-bigdata-expo-token-theme"
-  },
-  {
-    "date": "2026-07-29",
-    "title": "德塔智能完成近5亿元天使++轮融资，推进人形机器人基础模型",
-    "summary": "人形机器人基础模型公司德塔智能（Delta Intelligence）近日完成近5亿元天使++轮融资，这是其2026年1月成立半年内完成的第六轮融资，投资方包括智元机器人等主机厂及汽车、半导体领域资本。资金将用于人形机器人基础模型迭代、自研数采设备量产与数据闭环建设，其基础模型已进入真实作业，并发布头戴式全身全景数据采集设备Delta D1。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2686a699ca046152",
-    "source": "企鹅号",
-    "slug": "delta-intelligence-funding"
-  },
-  {
-    "date": "2026-07-29",
-    "title": "智元具身大模型WITA-Omni登顶DailyOmni权威榜单",
-    "summary": "7月28日智元官方宣布，自研具身原生全模态大模型WITA-Omni Preview以85.21分综合成绩登顶具身全模态理解权威榜单DailyOmni榜首，超过千问、Gemini、豆包、英伟达等国内外领先模型，并在八项细分指标中的六项取得第一。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3246a697bf225452",
-    "source": "企鹅号",
-    "slug": "zhiyuan-wita-omni-dailyomni"
-  },
-  {
-    "date": "2026-07-29",
-    "title": "国内首款具身智能特种机器人亮相",
-    "summary": "国内首款具身智能特种机器人亮相，可垂直依附墙体完成高空作业，搭载双臂协同执行机构，能同步完成打磨、焊接两类工序。整机融合人形双臂作业、磁吸爬壁行走、大模型智能决策多项技术，面向化工储罐、船舶船体、能源钢架等大型钢结构外壁高危运维场景，操作人员佩戴VR设备即可沉浸式远程操控。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3966a69be6f31452",
-    "source": "企鹅号",
-    "slug": "embodied-special-robot-debut"
-  },
-  {
-    "date": "2026-07-29",
-    "title": "智在无界发布全球首个隐式触觉世界动作模型Being-H0.8",
-    "summary": "智在无界发布全球首个隐式触觉世界动作模型Being-H0.8，首次将触觉模态引入大规模模型预训练，实现视觉、触觉、动作及未来状态变化的统一。模型在双机械臂平台上部署，可完成挤牙膏、摘葡萄等操作，结合大规模人类视频与触觉信息预训练，提出慢快动作专家实现触觉感知与跨具身泛化。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0116a69b4df46152",
-    "source": "企鹅号",
-    "slug": "zhiwuyujie-being-h08"
-  },
-  {
-    "date": "2026-07-29",
-    "title": "中国AI大模型周调用量领跑全球，Kimi K3开源即爆火",
-    "summary": "OpenRouter数据显示，中国AI大模型周调用量领跑全球，前列依次为小米MiMo-V2.5、DeepSeekV4Flash、腾讯HY3、智谱GLM-5.2及DeepSeekV4Pro。中国模型全球市场份额6月初整体超过美国模型，截至7月26日近28天份额约63.5%，占据全球三分之二市场。月之暗面Kimi K3开源上线即爆火。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8866a69927473552",
-    "source": "企鹅号",
-    "slug": "china-ai-models-calls-lead"
+    "date": "2026-07-24",
+    "title": "Anthropic 发布 Claude Opus 5——以一半价格登顶评测榜",
+    "summary": "Anthropic 于7月24日推出 Claude Opus 5，在 Artificial Analysis 智能指数以 61 分登顶第一，编程与智能体任务能力大幅提升，API 定价仅为 Fable 5 的一半，并新增可调节 effort 思考档位与自动回退功能。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8356a6a9fa356652",
+    "source": "凤凰科技",
+    "slug": "claude-opus-5"
   },
   {
     "date": "2026-07-28",
-    "title": "360发布纳米Work企业智能体平台，周鸿祎推动360转型AI原生",
-    "summary": "360集团7月28日在北京国家会议中心发布新一代企业智能体工作平台\"纳米Work\"，周鸿祎提出AI正从\"能回答问题\"走向\"能完成任务\"，并宣布带头将360改造为AI原生公司。平台具备多智能体引擎、多模型底座（直连Kimi、DeepSeek、豆包、GLM等）、云端办公室、多工作模式及500多个岗位专家模板五大亮点。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2246a69b06a74852",
-    "source": "企鹅号",
-    "slug": "360-nami-work-platform"
-  },
-  {
-    "date": "2026-07-28",
-    "title": "国家人工智能应用中试基地发布全栈国产化AI眼镜方案",
-    "summary": "国家人工智能应用中试基地（消费领域移动终端方向）7月28日发布全栈国产化AI眼镜闭环解决方案，推出三大场景智能体及三大行业定制方案，标志国产AI眼镜迈入\"全栈自主、离线全能\"阶段。沉浸空间智能体融合多模态感知，实现实景识别、AR信息叠加与空间导航的全自动交互。",
+    "title": "国家人工智能应用中试基地发布全栈国产化 AI 眼镜方案",
+    "summary": "国家人工智能应用中试基地发布全栈国产化 AI 眼镜闭环解决方案，推出三大场景智能体及三大行业定制方案，支持沉浸空间智能体融合多模态感知，实现实景识别、AR 信息叠加与空间导航的全自动交互。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4326a69b62394452",
     "source": "企鹅号",
-    "slug": "national-ai-glasses-solution"
+    "slug": "china-ai-glasses"
   },
   {
     "date": "2026-07-29",
-    "title": "中科曙光联合上海AI实验室发布DeepLink Fabric超智融合算力架构",
-    "summary": "中科曙光联合上海人工智能实验室发布面向科学智能的DeepLink Fabric超智融合算力架构，并推出全球首款无线缆箱式超节点scaleX40。产品单节点集成40张GPU，算力超28PFLOPS，采用无线缆一级互连设计，为AI for Science和大模型训练提供高效算力支撑。",
-    "url": "https://article.pchome.net/n0/new/1.html",
-    "source": "电脑之家",
-    "slug": "sugon-deeplink-fabric-scalex40"
+    "title": "黄仁勋公开反对封禁中国开源模型",
+    "summary": "英伟达 CEO 黄仁勋发布公开信，强调开放模型对美国创新、竞争、安全和技术主权的重要性。Kimi K3 开源成为全球首个 3T 级开源模型，引发中美科技竞争，多家科技公司联名支持开源。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5116a6ac98399552",
+    "source": "企鹅号",
+    "slug": "huang-renxun-open-source"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "硅谷 AI 公司核心员工联名呼吁控制 AI 研发节奏",
+    "summary": "OpenAI、Anthropic、谷歌等近 12 家科技巨头员工联名呼吁美国政府推动国际合作，研发技术与治理工具以控制前沿自动化 AI 研发节奏，联名信中 80% 选择实名发声。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5116a6ac98399552",
+    "source": "企鹅号",
+    "slug": "ai-research-control-petition"
   },
   {
     "date": "2026-07-29",
-    "title": "美国FCC封禁中国新款人形机器人与四足机器狗",
-    "summary": "据多家媒体援引路透社消息，美国联邦通信委员会（FCC）当地时间周二出台全新管制禁令，直接切断中国新款人形机器人、四足机器狗以及联网电力逆变器进入美国市场的通道，新规发布即刻落地生效。",
+    "title": "DeepSeek 被曝实习生日薪 5000 元",
+    "summary": "AI 大模型周报披露，DeepSeek 为实习生开出每天 5000 元的薪资，引发业内热议，折射出 AI 人才争夺战的白热化程度。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3876a69b5e380052",
+    "source": "企鹅号",
+    "slug": "deepseek-intern-salary"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "腾讯合并混元大语言模型和多模态团队",
+    "summary": "腾讯宣布混元多模态模型部门与大语言模型部门合并，成立基础模型部，统一由首席 AI 科学家姚顺雨管理，以提升模型研发和协同效率，探索全模态模型的智能上限。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3876a69b5e380052",
+    "source": "企鹅号",
+    "slug": "tencent-hunyuan-merge"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "马斯克称 Grok 4.6 将于 8 月 7 日前后发布",
+    "summary": "马斯克表示 xAI 下一代大模型 Grok 4.6 参数规模将达 1.5 万亿，在监督微调和强化学习方面实现显著改进，Grok 4.7（2.1 万亿参数）将在数周后推出。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4126a6a993a61252",
+    "source": "企鹅号",
+    "slug": "grok-4-6-release"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "中国开源大模型下载量占全球 41%，调用榜前六均来自中国",
+    "summary": "央视财经报道，全球最大开源 AI 模型平台 2026 春季报告显示中国开源模型下载量占全球 41%，主流大模型调用榜前六位全部来自中国团队，工信部测算 2025 年我国 AI 核心产业规模超 1.2 万亿元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3936a69bd0a42152",
+    "source": "央视财经",
+    "slug": "china-open-source-41-percent"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "美国 FCC 封禁中国新款人形机器人与四足机器狗",
+    "summary": "美国联邦通信委员会出台全新管制禁令，直接切断中国新款人形机器人、四足机器狗以及联网电力逆变器进入美国市场的通道，新规发布即刻生效。",
     "url": "https://www.21ic.com/app/",
     "source": "21ic电子网",
     "slug": "fcc-ban-china-robots"
   },
   {
-    "date": "2026-07-29",
-    "title": "米哈游联合创始人蔡浩宇旗下AI陪伴产品AnuNeko停止运营",
-    "summary": "7月29日23时59分，由米哈游联合创始人蔡浩宇在新加坡创立的AI公司Anuttacon推出的AI陪伴产品AnuNeko正式停止运营，应用及全部聊天记录将无法访问，用户数据按隐私政策永久删除。该产品于2025年12月上线，运营周期不足一年。",
+    "date": "2026-07-30",
+    "title": "AnuNeko AI 陪伴产品正式停止运营",
+    "summary": "米哈游联合创始人蔡浩宇在新加坡创立的 AI 公司 Anuttacon 旗下 AI 陪伴产品 AnuNeko 于 7 月 29 日 23:59 正式停运，运营周期尚不足一年，用户数据将被永久删除。",
     "url": "https://www.admin5.com/ai/",
     "source": "A5创业网",
-    "slug": "anunecho-shutdown"
+    "slug": "anuneko-shutdown"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "中国 AI 大模型竞争格局：豆包月活 3.82 亿居首",
+    "summary": "截至 2026 年 6 月，豆包以 3.82 亿月活稳居第一，通义千问 1.67 亿、DeepSeek 1.3 亿紧随其后。中国 AI 原生应用整体月活规模达 4.99 亿，豆包日活跃用户突破 1.03 亿。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2956a6a25f667652",
+    "source": "企鹅号",
+    "slug": "china-ai-model-rankings"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "美国与阿联酋成立首个双边军事 AI 特遣队",
+    "summary": "美军中央司令部宣布与阿联酋达成协议，成立首个专注于加快军事 AI 应用开发的双边特遣队 Talon Synapse，计划未来几周正式启动，约 20 名专家参与。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0816a697b7416952",
+    "source": "央视新闻",
+    "slug": "us-uae-military-ai"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "华为 2012 实验室调整，新增 AI 软件部",
+    "summary": "网传华为 2012 实验室近期调整组织架构，新增 AI 软件部，聚焦基础大模型研发。此前 2025 年 12 月已成立基础大模型部，此次调整意味着华为 AI 组织架构进一步细化。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3876a69b5e380052",
+    "source": "企鹅号",
+    "slug": "huawei-ai-software-dept"
   }
 ]
