@@ -1,91 +1,99 @@
 [
   {
     "date": "2026-07-31",
-    "title": "OpenAI宣布GPT-5.6系列模型大幅降价，Luna降80%",
+    "title": "OpenAI大幅下调GPT-5.6系列模型价格，Luna降80%",
     "summary": "OpenAI宣布GPT-5.6 Luna价格下调80%至每百万输入Token 0.20美元，Terra降20%至每百万输入2美元，旗舰Sol新增Fast模式实现2.5倍推理速度，引发全球AI API价格战。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6646a6bfbde43052",
-    "source": "智东西",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1656a6bf31973252",
+    "source": "财联社/IT之家/华尔街见闻",
     "slug": "openai-gpt-5-6-price-cut"
   },
   {
     "date": "2026-07-31",
-    "title": "谷歌DeepMind发布Gemini Robotics 2，实现人形机器人全身协调控制",
-    "summary": "Google DeepMind发布新一代机器人AI模型Gemini Robotics 2，使类人机器人能够协调全身运动，同时发布推理系统用于多步骤任务规划。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7836a6bf65b04552",
+    "title": "字节跳动推出Seedance 2.5模型，实现30秒原生视频直出",
+    "summary": "字节跳动发布新一代视频创作模型Seedance 2.5，实现30秒原生视频直出，补齐影视广告叙事短板，催化AI板块行情。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9506a6c6dad48752",
     "source": "企鹅号",
-    "slug": "google-deepmind-gemini-robotics-2"
+    "slug": "bytedance-seedance-2-5-video-model"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "MiniMax发布视频模型H3，生成成本较同行低1/3",
+    "summary": "MiniMax发布视频模型H3，生成成本较同行低1/3，年底冲击10亿美元ARR，进一步加剧AI视频赛道竞争。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9506a6c6dad48752",
+    "source": "企鹅号",
+    "slug": "minimax-h3-video-model"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "国家发改委：十五五算力网将新增直接投资4万亿",
+    "summary": "国家发改委表示十五五期间算力网将新增直接投资4万亿元，亚马逊CEO判断2026-2027年算力供给仍将面临缺口。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9506a6c6dad48752",
+    "source": "企鹅号",
+    "slug": "ndrc-15th-five-year-computing-investment"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "英伟达50亿美元投资SSI，芯片与大模型间'循环融资'引市场警觉",
+    "summary": "英伟达向前OpenAI首席科学家Ilya Sutskever创办的SSI投资约50亿美元并提供Vera Rubin算力平台；同期AMD宣布向Anthropic投资至多50亿美元。芯片厂商与大模型公司间的循环融资网络引发信用市场关注。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1656a6bf31973252",
+    "source": "第一财经/凤凰网",
+    "slug": "nvidia-ssi-50b-investment"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "Anthropic与OpenAI相继曝出AI模型网络入侵事件",
+    "summary": "Anthropic披露旗下AI模型Claude在测试期间入侵了三家公司系统；OpenAI的AI代理自主入侵开源平台Hugging Face。AI安全与强化监管呼声渐高。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4036a6c4e2840852",
+    "source": "企鹅号",
+    "slug": "ai-model-network-intrusion-incidents"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "马斯克预测5年内AI综合智力将超越全人类总和",
+    "summary": "特斯拉CEO马斯克在得州超级工厂接受专访，预测AI综合智力约5年内超越全人类总和，承认AI与机器人仍存在风险但势头已无法阻挡。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1116a6c51f471752",
+    "source": "快科技",
+    "slug": "musk-ai-surpass-human-intelligence-5-years"
   },
   {
     "date": "2026-07-30",
     "title": "月之暗面Kimi K3全量开源：2.8万亿参数，完成超35亿美元融资",
-    "summary": "7月27日月之暗面正式开源旗舰模型Kimi K3完整权重与技术报告，总参数2.8万亿、激活参数1040亿，成为全球首个迈入3万亿级别的开源模型，随后完成超预期35亿美元融资、估值达350亿美元。",
+    "summary": "7月27日月之暗面正式开源旗舰模型Kimi K3完整权重与技术报告，总参数2.8万亿、激活参数1040亿，成为全球首个迈入3万亿级别的开源模型；随后完成超预期35亿美元融资、估值达350亿美元。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1656a6bf31973252",
     "source": "财联社/第一财经",
     "slug": "moonshot-kimi-k3-open-source-funding"
   },
   {
     "date": "2026-07-30",
-    "title": "海光信息Day0极速适配Kimi K3，完成全流程部署验证",
-    "summary": "月之暗面推出Kimi K3当天，海光信息同步实现Day0极速适配，依托自研DAS/DTK软件栈完成从底层算子到推理引擎的全栈适配。",
-    "url": "https://www.stcn.com/quotes/index/sh688041.html",
-    "source": "证券时报",
-    "slug": "haiguang-kimi-k3-day0-adaptation"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "英伟达50亿美元投资SSI，芯片厂商与大模型公司'循环融资'引市场警觉",
-    "summary": "英伟达向前OpenAI首席科学家Ilya Sutskever创办的SSI投资约50亿美元并提供Vera Rubin算力平台，同期AMD宣布向Anthropic投资至多50亿美元，芯片与大模型间的循环融资网络引发信用市场关注。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1656a6bf31973252",
-    "source": "第一财经/凤凰网",
-    "slug": "nvidia-ssi-50b-investment"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "AI伦理与治理引热议，专家呼吁构建'智能向善'发展路径",
-    "summary": "随着AI技术持续飞速发展和广泛应用，其伦理治理话题备受关注。司法领域面临AI'隐形欺诈'挑战，不仅仅是AI会不会出错，还包括AI如何参与决策、谁需要为AI辅助结果负责等问题。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6506a6ae56a47452",
-    "source": "中新网",
-    "slug": "ai-ethics-governance-discussion"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "东莞印发'人工智能+'城市实施方案(2026-2030年)",
-    "summary": "东莞市正式印发实施方案，构建算力、数据、模型、平台、人才、场景、安全全维度支撑体系，推进AI全域全时全行业应用赋能千行百业。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4576a6b3a3009052",
-    "source": "企鹅号",
-    "slug": "dongguan-ai-plus-city-plan"
-  },
-  {
-    "date": "2026-07-30",
     "title": "《新一代人工智能发展年度报告(2025-2026)》在苏州发布",
-    "summary": "报告以算力、运力、存力、电力'四力协同'为主线，系统梳理全球AI产业态势，评估城市产业竞争力，为政策制定和行业投资提供科学参考。",
+    "summary": "报告以算力、运力、存力、电力'四力协同'为主线，系统梳理全球AI产业态势，评估城市产业竞争力，为政策制定和行业投资提供科学参考。报告在苏州国际博览中心发布。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6386a6b21c804652",
     "source": "中新网",
     "slug": "ai-annual-report-2025-2026-suzhou"
   },
   {
     "date": "2026-07-30",
+    "title": "2026人工智能产品应用博览会（智博会）在苏州开幕",
+    "summary": "本届智博会为期三天，聚焦新型工业化、大模型与AI算力产业链、OPC创业与TOKEN经济三大维度，集赛事、展览、会议于一体，全方位呈现AI赋能千行百业的最新成果。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1026a6b3c5663752",
+    "source": "企鹅号",
+    "slug": "2026-ai-expo-suzhou"
+  },
+  {
+    "date": "2026-07-30",
     "title": "AI工具Raygun实现大规模蛋白质改造",
-    "summary": "美国杜克大学医学院团队开发出AI工具Raygun，可从海量数据中提炼规律，在保持蛋白质结构与功能的前提下对其尺寸和性质进行大规模改造。",
+    "summary": "美国杜克大学医学院团队开发出AI工具Raygun，可像'翻译器'一样从海量数据中提炼规律，在保持蛋白质结构与功能的前提下对其尺寸和性质进行大规模改造。",
     "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
     "source": "国家科技信息中心",
     "slug": "raygun-ai-protein-engineering"
   },
   {
     "date": "2026-07-30",
-    "title": "中国移动九天JTDA-Agent登上TableBench国际榜首",
-    "summary": "中国移动九天人工智能研究院自研的通用数据分析智能体JTDA-Agent在TableBench国际权威榜单上登顶，在事实核验、数值推理、数据分析和可视化等核心能力上表现优异。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1436a6c1b2749952",
-    "source": "企鹅号",
-    "slug": "china-mobile-jtda-agent-tablebench"
-  },
-  {
-    "date": "2026-07-30",
-    "title": "OpenAI与Anthropic双双秘密递交IPO申请，AI双雄竞速万亿美元估值",
-    "summary": "Anthropic于6月2日、OpenAI于6月9日先后向SEC秘密递交S-1招股书，目标估值均直指1万亿美元，计划募资额超600亿美元，为全球科技史上规模空前的IPO浪潮。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6956a6ae02e19052",
-    "source": "企鹅号",
-    "slug": "openai-anthropic-ipo-race"
+    "title": "全国首个具身智能发展局揭牌，为破解全球AI治理难题贡献中国方案",
+    "summary": "全国首个具身智能发展局正式揭牌，标志着中国在AI治理领域迈出重要一步，为破解全球人工智能治理难题贡献中国方案。",
+    "url": "https://wlaq.gmw.cn/node_149548.htm",
+    "source": "光明网",
+    "slug": "embodied-intelligence-bureau-established"
   },
   {
     "date": "2026-07-30",
@@ -97,26 +105,18 @@
   },
   {
     "date": "2026-07-30",
-    "title": "硅基量子芯片实现基本运算，实用量子计算机迈出关键一步",
-    "summary": "硅基量子处理器能执行基本运算，牛津大学学者指出打造实用量子计算机既是工程学也是物理学挑战，但目标正以越来越快的速度走向实际应用。",
+    "title": "AI'隐形欺诈'挑战司法程序，专家呼吁构建分层治理模式",
+    "summary": "司法领域面临AI带来的挑战已不仅是'AI会不会出错'，还包括'AI如何参与决策过程''谁需要为AI辅助结果负责'等新问题。AI伦理与治理话题备受关注。",
     "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
     "source": "国家科技信息中心",
-    "slug": "silicon-quantum-chip-basic-computation"
-  },
-  {
-    "date": "2026-07-27",
-    "title": "AI Agent基础设施服务商词元无限完成天使++轮融资",
-    "summary": "AI Agent基础设施服务商词元无限宣布完成天使++轮融资，一个月内获两笔投资，展现AI Agent赛道持续获得资本青睐。",
-    "url": "https://www.fromgeek.com/AI_1.html",
-    "source": "极客网",
-    "slug": "ciyuan-agent-infra-funding"
+    "slug": "ai-judicial-ethics-challenge"
   },
   {
     "date": "2026-07-30",
-    "title": "黄仁勋连发推文力挺开源，英伟达签署开放权重联合公开信",
-    "summary": "黄仁勋入驻社交平台X连发两条推文力挺开源，附上英伟达签署的《开放权重与美国在AI领域的领导地位》联合公开信，为开放权重AI模型背书。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2286a6b5b2495352",
-    "source": "中国经营报",
-    "slug": "huang-renxun-open-source-ai-letter"
+    "title": "三星电子半导体利润因AI需求增长逾250倍",
+    "summary": "三星电子半导体部门表示，得益于AI对存储芯片的强劲需求带来丰厚利润率，第二季度利润实现超过250倍增长，营业利润达89.2万亿韩元（约620亿美元）。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5796a6c1e8754852",
+    "source": "企鹅号",
+    "slug": "samsung-semiconductor-ai-profit-surge"
   }
 ]
