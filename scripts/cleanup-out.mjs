@@ -33,7 +33,7 @@ function removeTxt(dir) {
     const full = path.join(dir, entry.name);
     if (entry.isDirectory()) {
       removeTxt(full);
-    } else if (entry.name.endsWith(".txt") && entry.name !== "ads.txt") {
+    } else if (entry.name.endsWith(".txt") && entry.name !== "ads.txt" && entry.name !== "robots.txt" && entry.name !== "indexnow-key.txt") {
       fs.unlinkSync(full);
       txtCount++;
     }

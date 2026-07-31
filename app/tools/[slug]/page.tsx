@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { getToolBySlug, getCategories, getAllTools, getEditorialBySlug } from '@/lib/tools';
 import ToolLogo from '@/components/ToolLogo';
+import { ToolSchema, BreadcrumbSchema } from '@/components/StructuredData';
 import { Metadata } from 'next';
 
 export async function generateStaticParams() {
@@ -25,6 +26,7 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
   const relatedTools = getAllTools().filter(t => t.slug !== slug && t.categories.some(c => tool.categories.includes(c))).slice(0, 6);
   const hasDetails = tool.detailed_content && tool.detailed_content.length > 0;
   const editorial = getEditorialBySlug(slug);
+  const canonicalUrl = `https://taoai365.com/tools/${slug}`;
 
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 py-6">
@@ -299,6 +301,14 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
           </div>
         </div>
       )}
+
+      {/* JSON-LD Structured Data */}
+      <BreadcrumbSchema items={[
+        { name: '首页', url: 'https://taoai365.com' },
+        { name: cats.find(c => c.slug === tool.categories[0])?.name || '', url: `https://taoai365.com/categories/${tool.categories[0]}` },
+        { name: tool.name, url: canonicalUrl },
+      ]} />
+      <ToolSchema tool={tool} editorial={editorial} />
     </div>
   );
 }
