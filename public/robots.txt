@@ -1,0 +1,7 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+Disallow: /search?q=
+Disallow: /content/
+
+Sitemap: https://taoai365.com/sitemap.xml
