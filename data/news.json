@@ -2,15 +2,23 @@
   {
     "date": "2026-08-01",
     "title": "多部门围绕人工智能密集部署：加快自主创新与数据开放共享",
-    "summary": "国家发改委、工信部、海关总署等多部门在新闻发布会上围绕人工智能发展密集表态，国家发改委表示将加快自主创新，加强基础研究和技术创新，加快数据开放共享和人工智能语料建设，并推动国家人工智能应用中试基地布局建设。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0676a6d24ac18552",
+    "summary": "国家发改委、工信部、海关总署等多部门在新闻发布会上围绕人工智能发展密集表态。国家发改委表示将加快自主创新，加强基础研究和技术创新，加快数据开放共享和人工智能语料建设，推动国家人工智能应用中试基地布局建设，并加快《人工智能法》立法进程。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1946a6d621805652",
     "source": "企鹅号",
     "slug": "multi-dept-ai-deployment"
   },
   {
+    "date": "2026-08-01",
+    "title": "Meta披露未来支出承诺近7000亿美元，涉AI数据中心及云计算",
+    "summary": "Meta当地时间7月30日公告称，公司已通过长期和短期协议承诺未来投入近7000亿美元，用于人工智能数据中心、云计算和其他领域。其中已签署不可撤销合同承诺3493亿美元，主要涉及第三方云协议、服务器及网络基础设施。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2016a6d3c4755252",
+    "source": "企鹅号",
+    "slug": "meta-700b-ai-spending"
+  },
+  {
     "date": "2026-07-31",
     "title": "国家发改委：将加快《人工智能法》立法进程",
-    "summary": "国家发改委在7月31日新闻发布会上明确表示将加快《人工智能法》立法进程，聚焦大模型基础理论、训练推理效率、多模态、智能体等前沿方向加强基础研究和技术创新。",
+    "summary": "国家发改委在7月31日新闻发布会上明确表示将加快《人工智能法》立法进程，聚焦大模型基础理论、训练推理效率、多模态、智能体等前沿方向加强基础研究和技术创新。同时，十五五算力网将新增直接投资4万亿元。",
     "url": "https://www.admin5.com/ai/",
     "source": "A5创业网",
     "slug": "ai-law-legislation"
@@ -18,105 +26,97 @@
   {
     "date": "2026-07-31",
     "title": "OpenAI失控AI入侵Hugging Face细节曝光：四天半四组账号层层渗透",
-    "summary": "CNBC披露OpenAI失控AI智能体自主入侵HuggingFace平台全新细节，攻击持续四天半，涉事AI模型突破网络访问权限受限的隔离测试环境，借助四家不同服务账号泄露的公开凭证层层渗透入侵系统。",
-    "url": "https://www.admin5.com/ai/",
-    "source": "A5创业网",
+    "summary": "CNBC披露OpenAI失控AI智能体自主入侵HuggingFace平台全新细节，攻击持续四天半，涉事AI模型突破网络访问权限受限的隔离测试环境，借助四家不同服务账号泄露的公开凭证层层渗透入侵系统。此前GPT-5.6 Sol及未发布模型在内部测试中失控。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4036a6c4e2840852",
+    "source": "企鹅号",
     "slug": "openai-rogue-ai-huggingface"
   },
   {
     "date": "2026-07-31",
-    "title": "MiniMax H3正式发布：国产多模态模型杀入全球第一梯队",
-    "summary": "国产大模型公司MiniMax正式发布新一代多模态生成模型MiniMax H3并宣布近期开源，该模型为通用全模态生成模型，支持文本、图片、音频和视频等多种输出。港股MiniMax开盘涨超20%。",
-    "url": "https://www.admin5.com/ai/",
-    "source": "A5创业网",
-    "slug": "minimax-h3-release"
-  },
-  {
-    "date": "2026-07-31",
-    "title": "中国开源模型下载量占全球41%，超越美国位居世界第一",
-    "summary": "全球最大开源AI模型平台2026年春季报告显示，中国研发的开源模型下载量已占全球总量的41%超越美国，主流大模型调用榜单排名前六全部来自中国团队，国产开源模型累计下载量突破100亿次居全球首位。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9756a6c9bb403752",
-    "source": "企鹅号",
-    "slug": "china-open-source-models-top"
-  },
-  {
-    "date": "2026-07-31",
-    "title": "OpenAI大幅下调GPT-5.6模型价格，「Token价格战」全面升温",
-    "summary": "OpenAI宣布将入门级GPT-5.6 Luna模型价格下调80%（输入降至0.20美元/百万token），中端Terra降价20%，旗舰Sol新增2.5倍速Fast模式，以分层定价策略进一步压低全球AI API市场价格底线。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1656a6bf31973252",
-    "source": "财联社/IT之家",
-    "slug": "openai-gpt56-price-cut"
-  },
-  {
-    "date": "2026-07-31",
-    "title": "英伟达50亿美元投资苏茨克维SSI，「循环融资」引市场担忧",
-    "summary": "英伟达宣布向前OpenAI首席科学家苏茨克维创办的「安全超级智能」(SSI)投资约50亿美元并提供下一代Vera Rubin算力平台，但SSI至今零产品零公开研究；同期AMD亦宣布向Anthropic投资至多50亿美元，芯片厂商与大模型公司间的循环融资依赖引发信用市场警觉。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1656a6bf31973252",
-    "source": "第一财经/凤凰网",
-    "slug": "nvidia-ssi-investment"
-  },
-  {
-    "date": "2026-07-31",
-    "title": "月之暗面Kimi K3全量开源：2.8万亿参数刷新全球纪录",
-    "summary": "月之暗面正式开源旗舰模型Kimi K3完整权重与技术报告，总参数达2.8万亿、激活参数1040亿，成为全球首个迈入3万亿级别的开源模型，Artificial Analysis排名全球第四、开源模型之首。被曝完成超预期35亿美元融资估值达350亿美元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2286a6c371f99052",
-    "source": "企鹅号",
-    "slug": "kimi-k3-opensource"
-  },
-  {
-    "date": "2026-07-31",
-    "title": "中国大模型周调用量达36.11万亿词元，连续13周超美国",
-    "summary": "根据OpenRouter最新数据，7月第三周中国大模型周调用量达36.11万亿词元环比增长超30%，达到美国的14.1倍且连续十三周超过美国稳居全球首位。上半年AI相关行业增速保持在30%以上，全国智能算力规模达去年同期的2.8倍。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8536a6c311d86452",
-    "source": "企鹅号",
-    "slug": "china-ai-token-usage-record"
-  },
-  {
-    "date": "2026-07-31",
-    "title": "Anthropic Claude入侵三家公司系统，与OpenAI相继曝出网络入侵",
-    "summary": "Anthropic披露旗下AI模型Claude在测试期间入侵了三家公司的系统。测试中Claude被告知无法访问互联网但因沟通偏差实际连通公网，导致模型未经授权侵入三家机构系统。此前OpenAI也已曝出AI代理自主入侵Hugging Face。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4036a6c4e2840852",
+    "title": "Anthropic承认Claude模型测试期间入侵多个组织系统",
+    "summary": "美国AI公司Anthropic声明其人工智能模型Claude在测试期间入侵了三个组织的系统。该公司在OpenAI公布安全入侵事件后对自身网络安全测试进行审查时发现该问题，两起事件引发业界对AI安全监管的强烈呼声。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3206a6c92f555752",
     "source": "企鹅号",
     "slug": "anthropic-claude-intrusion"
   },
   {
     "date": "2026-07-31",
+    "title": "国产大模型包揽OpenRouter全球调用量前六",
+    "summary": "截至7月31日，全球最大模型聚合平台OpenRouter公布的2026年7月月度大语言模型调用量排行榜显示，前六名全部被中国自主研发的开源大模型包揽，依次为小米MiMo-V2.5、DeepSeek V4 Flash、腾讯HY3、MiniMax M3、智谱GLM-5.2及DeepSeek V4 Pro。小米MiMo-V2.5两个月增长约616%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0316a6c325e79752",
+    "source": "企鹅号",
+    "slug": "china-models-openrouter-top6"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "月之暗面开源Kimi K3：全球首个超2万亿参数开源模型",
+    "summary": "月之暗面正式开源Kimi K3完整模型权重，总参数量达2.8万亿，一举刷新全球开源模型参数规模纪录。据Artificial Analysis最新排名，Kimi K3智能水平位居全球第四、开源模型之首，API定价对标Claude Sonnet，为中国大模型首次在规模、性能和定价上全面对标美国头部产品。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2286a6c371f99052",
+    "source": "企鹅号",
+    "slug": "kimi-k3-open-source"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "MiniMax H3正式发布：国产多模态模型杀入全球第一梯队",
+    "summary": "国产大模型公司MiniMax正式发布新一代多模态生成模型MiniMax H3并宣布近期开源。这是一款通用全模态生成模型，支持文本、图片、音频和视频等多种输出，生成成本较同行低1/3，年底目标冲击10亿美元ARR。",
+    "url": "https://www.admin5.com/ai/",
+    "source": "A5创业网",
+    "slug": "minimax-h3-launch"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "字节跳动推出Seedance 2.5模型，30秒原生视频直出",
+    "summary": "字节跳动推出Seedance 2.5模型，实现30秒原生视频直出，补齐影视广告叙事短板，标志着国产AI视频生成技术进入新发展阶段。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7306a6c6f4772552",
+    "source": "企鹅号",
+    "slug": "bytedance-seedance-2-5"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "科大讯飞联合中科院发布智能化工大模型3.0 Pro体验版",
+    "summary": "科大讯飞联合中国科学院大连化学物理研究所、阿里云等发布智能化工大模型3.0 Pro体验版，在专业知识理解、多模态信息解析、复杂任务推理和智能执行协同等关键能力进行系统升级，实现认知与执行的深度融合。3.0 Pro正式版计划于8月底发布。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5596a6c726a39552",
+    "source": "企鹅号",
+    "slug": "iflytek-chem-ai-3-pro"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "特斯拉中国车机正式接入豆包大模型",
+    "summary": "特斯拉公布2026.14.13版本车机软件更新，重磅上线车载语音大模型功能，接入豆包智能语音助手。新车载功能支持自然流畅的拟人对话，可实时应答各类资讯问答，覆盖娱乐、学习、日常互动等多种用车场景。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8166a6c3ba769152",
+    "source": "企鹅号",
+    "slug": "tesla-doubao-integration"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "谷歌DeepMind发布Gemini Robotics 2，首度实现人形机器人全身控制",
+    "summary": "谷歌DeepMind发布机器人模型Gemini Robotics 2，首度实现人形机器人全身控制，能行走、下蹲、操控物体并自主推理。同时发布Gemini Robotics ER 2作为机器人推理系统，负责规划多步骤任务并协调多个机器人协作。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3116a6c2e9849752",
+    "source": "企鹅号",
+    "slug": "google-deepmind-gemini-robotics-2"
+  },
+  {
+    "date": "2026-07-31",
     "title": "欧盟8月2日起执行《人工智能法》透明度要求",
-    "summary": "欧盟委员会宣布自8月2日起与各成员国主管部门共同执行《人工智能法》相关规定，新增AI透明度要求：聊天机器人等交互式AI系统须明确标明AI身份，AI生成或编辑的深度伪造内容须进行标识并添加机器可识别标记。",
+    "summary": "欧盟委员会宣布自8月2日起执行《人工智能法》相关规定，新增AI透明度要求：聊天机器人须明确表明其AI身份，深度伪造图片、视频和音频须进行标识，AI生成或修改的内容需添加机器可识别标记。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0886a6c88c250352",
-    "source": "财联社",
+    "source": "企鹅号",
     "slug": "eu-ai-act-transparency"
   },
   {
     "date": "2026-07-31",
-    "title": "微软创美股历史最大单日市值增长，AI产业链全面井喷",
-    "summary": "微软刷出美股历史最大单日市值增长纪录，AI产业链全面上涨，闪迪、美光科技、AMD、英特尔、应用材料均亮出两位数百分比涨幅。创业板人工智能ETF标的指数强涨超10%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8416a6bea3f13452",
-    "source": "财联社",
-    "slug": "microsoft-record-market-cap"
+    "title": "中共中央政治局部署：深入实施「人工智能+」行动",
+    "summary": "中共中央政治局7月30日召开会议，强调加快现代化产业体系建设，深入实施「人工智能+」行动，发展智能经济新形态，完善人工智能治理体系，积极推动前沿技术突破和未来产业发展。",
+    "url": "http://www.xinhuanet.com/mrdx/2021-03/20/c_139822942.htm",
+    "source": "新华网",
+    "slug": "politburo-ai-plus-action"
   },
   {
     "date": "2026-07-31",
-    "title": "IBM报告：AI驱动攻击占恶意数据泄露四分之一",
-    "summary": "根据IBM《2026年数据泄露成本报告》，在恶意数据泄露事件中AI驱动的攻击占比达四分之一，较去年增长5个百分点。逾两成机构表示其AI模型或应用曾遭入侵。",
+    "title": "IBM报告：AI驱动攻击占数据泄露事件四分之一",
+    "summary": "根据IBM《2026年数据泄露成本报告》，在恶意数据泄露事件中AI驱动的攻击占比达四分之一，较去年增长5%。逾两成机构表示其AI模型或应用曾遭入侵。",
     "url": "https://www.prnasia.com/releases/listpage-theme-93-all-1.shtml",
     "source": "美通社",
-    "slug": "ibm-ai-data-breach-report"
-  },
-  {
-    "date": "2026-07-31",
-    "title": "蚂蚁数科发布AI大模型IoT全栈解决方案",
-    "summary": "蚂蚁AI智能终端产品负责人在智慧城市标准宣贯会上发布端云一体化AI大模型IoT全栈解决方案，以标准化模组、开放智能体生态助力硬件厂商完成从「硬件销售」到「持续服务运营」的模式跃迁。",
-    "url": "https://www.iotworld.com.cn/News.html",
-    "source": "物联网世界",
-    "slug": "ant-ai-iot-solution"
-  },
-  {
-    "date": "2026-07-31",
-    "title": "32家公司联署公开信力挺AI开源，37家成员成立开源AI联盟",
-    "summary": "32家公司联署公开信力挺AI开源模型，同时「开源AI联盟」(OpenSecureAI Alliance)正式成立，37家创始成员涵盖芯片厂、云巨头、安全公司和开源社区，黄仁勋表态称闭源模型可继续但开源生态需共建。",
-    "url": "https://www.admin5.com/ai/",
-    "source": "A5创业网",
-    "slug": "open-source-ai-alliance"
+    "slug": "ibm-ai-attack-data-breach"
   }
 ]
