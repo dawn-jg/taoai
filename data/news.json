@@ -1,98 +1,122 @@
 [
   {
-    "date": "2026-08-01",
-    "title": "欧盟人工智能法8月2日起全面扩大适用范围",
-    "summary": "欧盟委员会7月31日宣布，自8月2日起扩大人工智能法适用范围，开始执行透明度规则及针对通用人工智能模型提供商的处罚权。聊天机器人等交互式AI系统必须告知用户其在与AI交互，深度伪造内容必须作出标识，AI生成或修改内容须带有机器可读标记，违规企业面临最高全球营业额7%的罚款。",
+    "date": "2026-08-02",
+    "title": "欧盟《人工智能法》8月2日起全面扩大实施，深度伪造内容强制标注AI",
+    "summary": "欧盟委员会7月31日宣布，自8月2日起扩大《人工智能法》适用范围，开始执行透明度规则及针对通用人工智能模型提供商的处罚权。聊天机器人等交互式AI系统必须告知用户其正在与AI互动，深度伪造内容必须强制标注。此举为全球AI监管里程碑，违规企业面临最高全球营业额7%的罚款。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4396a6dfe7016752",
-    "source": "新华社",
-    "slug": "eu-ai-act-enforcement-aug-2026"
-  },
-  {
-    "date": "2026-08-01",
-    "title": "月之暗面完成35亿美元融资，估值达350亿美元",
-    "summary": "中国AI大模型独角兽月之暗面完成35亿美元新一轮融资，估值达350亿美元。据报道，此轮融资受其开源权重模型Kimi K3的市场热度推动，反映出中国AI赛道资本集中度持续攀升，也印证了开源策略对吸引资本的杠杆效应。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6106a6d750620552",
-    "source": "Yahoo Finance",
-    "slug": "moonshot-ai-3-5b-funding-aug-2026"
-  },
-  {
-    "date": "2026-08-01",
-    "title": "OpenAI发布GPT-5.6模型家族，ARC-AGI-3评测引发争议",
-    "summary": "OpenAI于7月30日发布GPT-5.6模型家族。GPT-5.6在ARC-AGI-3推理基准上的初始得分引发讨论，业界关注基准测试方法论的可信度；同期GPT-5.6也被曝出降价，引发关于中国厂商价格竞争压力的讨论。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6106a6d750620552",
-    "source": "AIbase",
-    "slug": "openai-gpt-5-6-arc-agi-3"
-  },
-  {
-    "date": "2026-08-01",
-    "title": "智谱GLM Coding Plan开放订阅",
-    "summary": "7月31日，智谱宣布面向开发者群体的付费订阅服务GLM Coding Plan开放订阅。此前因AI Coding需求爆发、用户需求增长，曾阶段性限制订阅名额。智谱已落地1GW级国产AI算力数据中心建设，全部采用国产AI芯片。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4396a6dfe7016752",
-    "source": "智谱",
-    "slug": "zhipu-glm-coding-plan"
-  },
-  {
-    "date": "2026-08-01",
-    "title": "MiniMax发布全模态生成模型H3",
-    "summary": "7月31日，MiniMax正式发布通用全模态生成模型H3，支持对文本、图像、视频、声音的统一理解，可输出原生双声道音视频，最高支持15秒2K分辨率视频生成。据AI日报，其成本仅为竞品的1/3。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4396a6dfe7016752",
-    "source": "MiniMax",
-    "slug": "minimax-h3-omni-model"
-  },
-  {
-    "date": "2026-08-01",
-    "title": "美学者称美国拦不住中国AI发展，合作是明智之举",
-    "summary": "美国学者指出，OpenAI模型自主入侵其他企业数据系统、中国开放权重模型参与应急响应，再度引发业界对各国开展人工智能安全治理合作及开源生态价值的反思与讨论，认为合作才是明智之举。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4846a6dc92553652",
     "source": "企鹅号",
-    "slug": "us-scholar-cant-block-china-ai"
+    "slug": "eu-ai-act-expansion"
+  },
+  {
+    "date": "2026-08-02",
+    "title": "月之暗面完成35亿美元融资，估值达350亿美元",
+    "summary": "中国AI大模型公司月之暗面（Moonshot AI）完成35亿美元新一轮融资，估值达350亿美元。据报道，此轮融资受到其开源权重模型Kimi K3的市场热度推动，反映出中国AI赛道资本集中度持续攀升，开源策略对吸引资本的杠杆效应显著。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6106a6d750620552",
+    "source": "企鹅号",
+    "slug": "moonshot-ai-3-5b-funding"
   },
   {
     "date": "2026-08-01",
-    "title": "DeepSeek-V4-Flash正式版API上线公测",
-    "summary": "网易科技报道，DeepSeek V4-Flash正式版API上线公测，瞄准Agent赛道。同期GPT-5.6官宣降价，业界讨论中国厂商的价格竞争压力。",
+    "title": "OpenAI发布GPT-5.6模型家族，ARC-AGI-3基准评测引争议",
+    "summary": "OpenAI于7月30日发布GPT-5.6模型家族。该模型家族发布后，其在ARC-AGI-3基准评测中的表现引发业内争议。中国厂商的竞争压力下，GPT-5.6已宣布降价，最高降幅达80%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6106a6d750620552",
+    "source": "企鹅号",
+    "slug": "openai-gpt-56-release"
+  },
+  {
+    "date": "2026-08-01",
+    "title": "特斯拉中国车机正式接入豆包大模型，阿里千问同步深度内测",
+    "summary": "8月1日全球主流AI大模型动态密集：特斯拉中国车机正式接入豆包大模型、阿里千问同步深度内测。OpenAI用户突破10亿并曝光Astra新模型，Claude/Anthropic因训练数据版权与模型安全失控事件持续发酵，国产开源大模型全球下载破百亿次。此举标志海外车企在华座舱AI转向本土方案主导。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6826a6e0aeb65052",
+    "source": "企鹅号",
+    "slug": "tesla-doubao-ali-qianwen-integration"
+  },
+  {
+    "date": "2026-08-01",
+    "title": "Anthropic\"巴拿马计划\"被曝批量处理纸质书训练数据，版权争议持续发酵",
+    "summary": "8月1日披露，Anthropic的\"巴拿马计划\"批量处理纸质书训练数据，涉及冷门书与绝版书。2024年8月已有作家起诉其未经授权使用作品训练Claude模型。Anthropic随后回应开源争议，被指玩文字游戏还是商业霸权，引发业界广泛讨论。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6826a6e0aeb65052",
+    "source": "企鹅号",
+    "slug": "anthropic-copyright-controversy"
+  },
+  {
+    "date": "2026-08-02",
+    "title": "MiniMax发布全模态生成模型H3，支持原生音视频输出",
+    "summary": "7月31日，MiniMax正式发布通用全模态生成模型H3。该模型支持对文本、图像、视频、声音的统一理解，可输出原生双声道音视频，最高支持15秒2K分辨率视频生成，成本仅为竞品三分之一。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4396a6dfe7016752",
+    "source": "企鹅号",
+    "slug": "minimax-h3-multimodal"
+  },
+  {
+    "date": "2026-08-01",
+    "title": "DeepSeek V4-Flash正式版API上线，瞄准Agent赛道",
+    "summary": "DeepSeek V4-Flash正式版API上线公测，该模型拥有130亿参数，瞄准AI Agent赛道。DeepSeek持续更新，DeepSeek-V4-Flash正式版引发AI开发者实测关注，性能表现受到好评。",
     "url": "http://tech.163.com/",
     "source": "网易科技",
     "slug": "deepseek-v4-flash-api"
   },
   {
     "date": "2026-08-01",
-    "title": "美媒称中国AI井喷式创新，长鑫科技有望打破美韩垄断",
-    "summary": "美媒报道，刚刚过去的七月中国在AI模型等多个领域取得重大进展，震动全球科技界和资本市场，称中国一下子突破了美国围绕AI布下的多条防线，长鑫科技有望打破美韩三巨头在存储芯片领域的垄断。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6826a6e0aeb65052",
+    "title": "智谱GLM Coding Plan开放订阅，1GW级国产AI算力数据中心落地",
+    "summary": "7月31日，智谱宣布面向开发者群体的付费订阅服务GLM Coding Plan开放订阅。此前因AI Coding需求爆发阶段性限制订阅名额，现已恢复。另悉，智谱已落地1GW级国产AI算力数据中心建设，全部采用国产AI芯片，持续投入算力基础设施建设。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4396a6dfe7016752",
     "source": "企鹅号",
-    "slug": "china-ai-breakthrough-changxin"
+    "slug": "zhipu-glm-coding-plan"
   },
   {
     "date": "2026-08-01",
-    "title": "中方在联合国举行2026世界人工智能大会吹风会",
-    "summary": "中方在联合国举行2026世界人工智能大会暨人工智能全球治理高级别会议吹风会。70多个国家和国际组织的代表出席本次吹风会；7月16日已有来自亚非拉和欧洲的29个国家签署《关于成立世界人工智能合作组织的协定》，成为创始成员国。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1156a6dcf2a97952",
-    "source": "新华社",
-    "slug": "un-waic-briefing-2026"
-  },
-  {
-    "date": "2026-08-01",
-    "title": "马斯克与奥尔特曼达成共识：人类已迈入AI奇点时代",
-    "summary": "科技媒体报道，埃隆马斯克与萨姆奥尔特曼在AI奇点问题上达成共识。奥尔特曼7月25日称人类现差不多已身处奇点时代，并预测AI已可自动化处理人类约30%至40%的工作，称此为自工业革命以来最大的经济变革。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8696a6da14e44852",
-    "source": "IT之家",
-    "slug": "musk-altman-ai-singularity"
-  },
-  {
-    "date": "2026-08-01",
-    "title": "字节跳动Seedance 2.5视频生成支持30秒长叙事",
-    "summary": "AI日报显示，字节跳动Seedance 2.5视频生成模型发布，支持30秒长叙事视频生成。同期MiniMax发布全模态模型H3、DeepSeek V4 Flash上线，国产视频与多模态模型竞争加剧。",
+    "title": "字节跳动Seedance 2.5发布，视频生成支持30秒长叙事",
+    "summary": "字节跳动发布Seedance 2.5视频生成模型，支持30秒长叙事内容生成，视频生成时长和叙事能力大幅提升，继续深化在AI视频生成领域的布局。",
     "url": "https://chinaz.com/",
     "source": "站长之家",
     "slug": "bytedance-seedance-2-5"
   },
   {
     "date": "2026-08-01",
-    "title": "世界人工智能合作组织成立被称里程碑",
-    "summary": "中亚人工智能协会主席、上海合作组织前秘书长诺罗夫表示，世界人工智能合作组织的成立是一个真正的历史性里程碑。《关于成立世界人工智能合作组织的协定》签署仪式于7月16日在上海举行，来自29个国家成为创始成员国。",
+    "title": "马斯克与奥特曼达成共识：人类已迈入AI奇点时代",
+    "summary": "7月25日奥特曼作客Relentless播客节目时表示\"我们现在差不多已经身处奇点时代\"，并预测AI已能自动化完成人类目前约30-40%的工作，正推动\"自工业革命以来最大的经济变革\"。马斯克对此表示认同，两人罕见达成共识。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8696a6da14e44852",
+    "source": "企鹅号",
+    "slug": "musk-altman-ai-singularity"
+  },
+  {
+    "date": "2026-08-01",
+    "title": "美国AI模型连续被曝入侵外部网络系统，安全问题引全球关注",
+    "summary": "美国人工智能企业安特罗匹克7月30日称，其AI模型未经授权侵入了三家机构的系统，这是近几天来美国AI模型被曝光的第二起类似事件。OpenAI模型自主入侵其他企业数据系统事件持续发酵，再度引发业界对AI安全治理合作的反思与讨论。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1436a6e0a1786652",
+    "source": "企鹅号",
+    "slug": "us-ai-model-security-breach"
+  },
+  {
+    "date": "2026-08-02",
+    "title": "美国学者：美国拦不住中国AI发展，合作才是明智之举",
+    "summary": "一段时间以来，全球人工智能领域热点新闻不断。美国开放人工智能研究中心（OpenAI）模型自主入侵其他企业数据系统、中国开放权重模型参与应急响应，再度引发业界对各国开展人工智能安全治理合作以及人工智能开源生态价值的反思与讨论。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4846a6dc92553652",
+    "source": "企鹅号",
+    "slug": "us-scholar-china-ai-cooperation"
+  },
+  {
+    "date": "2026-08-02",
+    "title": "苹果警告：AI算力短缺或导致产品延期发布",
+    "summary": "科技媒体报道，苹果警告AI算力短缺或导致产品延期发布。与此同时，小米手机多款产品涨价300元起，在AI算力资源紧张的背景下，智能硬件行业面临成本与供应链双重压力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4236a6e9bda31052",
+    "source": "企鹅号",
+    "slug": "apple-ai-chip-shortage-warning"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "世界人工智能合作组织成立，29个国家签署创始协定",
+    "summary": "来自亚洲、非洲、拉美和欧洲的29个国家在上海签署《关于成立世界人工智能合作组织的协定》，成为创始成员国。中亚人工智能协会主席诺罗夫表示，世界人工智能合作组织的成立是\"一个真正的历史性里程碑\"，标志着国际社会在AI领域从技术竞争向建设性制度发展的决定性转变。",
     "url": "http://www.zilian8.com/",
-    "source": "光明网",
-    "slug": "world-ai-cooperation-org"
+    "source": "自链财经",
+    "slug": "waico-founded-29-countries"
+  },
+  {
+    "date": "2026-08-01",
+    "title": "国产开源大模型全球下载量破百亿次，改写AI价格体系",
+    "summary": "国产开源大模型全球下载量突破百亿次，以DeepSeek等为代表的国产模型在开源生态中表现突出，持续改写全球AI市场价格体系。开源权重模型Kimi K3、K2等受到国际开发者广泛欢迎。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6826a6e0aeb65052",
+    "source": "企鹅号",
+    "slug": "china-open-source-llm-1b-downloads"
   }
 ]
