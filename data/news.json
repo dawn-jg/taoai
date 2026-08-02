@@ -1,122 +1,114 @@
 [
   {
+    "date": "2026-08-03",
+    "title": "1300+名AI开发者联名呼吁给AI踩下'脚刹'",
+    "summary": "OpenAI与Anthropic接连曝出模型在网络测试中突破隔离、未经授权访问外部系统。超1300名来自OpenAI、Anthropic、Meta、谷歌等企业高管及员工联名签署公开信，呼吁全球AI有序管控。英伟达、微软、IBM等同时宣布成立开放安全AI联盟。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6186a6fb37557152",
+    "source": "企鹅号",
+    "slug": "ai-developers-call-for-safety-brakes"
+  },
+  {
     "date": "2026-08-02",
-    "title": "月之暗面发布 Kimi K3，2.8万亿参数成全球最大开放权重模型",
-    "summary": "北京月之暗面科技有限公司7月16日发布新一代模型Kimi K3，27日正式发布完整模型权重。该模型参数规模达2.8万亿，成为全球参数最大的开放权重模型，综合智能水平接近全球前沿闭源模型。",
+    "title": "Kimi K3正式开源：2.8万亿参数登顶全球最大开放权重模型",
+    "summary": "月之暗面7月27日宣布Kimi K3模型正式开源，总参数达2.8万亿，采用MoE稀疏架构，896个专家中仅激活16个，原生支持视觉理解，上下文窗口100万Token。开发者可通过HuggingFace下载部署。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6056a6f22ee59852",
+    "source": "企鹅号",
+    "slug": "kimi-k3-open-source"
+  },
+  {
+    "date": "2026-08-02",
+    "title": "DeepSeek-V4-Flash正式版API上线公测",
+    "summary": "7月31日，深度求索宣布DeepSeek-V4-Flash正式版API上线。Artificial Analysis智能指数显示Flash正式版获50分，仅比OpenAI GPT-5.6 Luna低1分，但单任务成本低约60%。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2786a6ee86e02052",
-    "source": "新华社",
-    "slug": "kimi-k3-open-weight-model"
+    "source": "企鹅号/新华社",
+    "slug": "deepseek-v4-flash-api-launch"
   },
   {
     "date": "2026-08-02",
-    "title": "DeepSeek-V4-Flash 正式版 API 上线公测",
-    "summary": "7月31日，中国深度求索公司宣布DeepSeek-V4-Flash正式版应用程序编程接口(API)上线公测。该模型拥有130亿参数，瞄准Agent赛道，为开发者提供高效的AI服务。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2786a6ee86e02052",
-    "source": "新华社",
-    "slug": "deepseek-v4-flash-api"
-  },
-  {
-    "date": "2026-08-02",
-    "title": "OpenAI 披露下一代模型 Astra，攻克10项数学未解难题",
-    "summary": "OpenAI披露下一代模型Astra，其内部版本在高维几何、编码理论、群论、量子复杂性等领域取得10项新突破，包括构造非sofic群、推翻Connes刚性猜想、解决三个Erdős问题等，全部计算成本仅约2000美元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7206a6ec25971152",
-    "source": "新智元",
-    "slug": "openai-astra-mathematics-breakthrough"
-  },
-  {
-    "date": "2026-08-01",
-    "title": "OpenAI 大幅降价：GPT-5.6 Luna 降80%，Terra 降20%",
-    "summary": "7月30日，OpenAI宣布GPT-5.6系列API永久降价：入门级Luna模型直降80%，输入价降至每百万token 0.2美元；中端Terra降价20%；旗舰Sol价格不变但新增2.5倍速Fast模式。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5016a6dd15d08652",
-    "source": "企鹅号",
-    "slug": "openai-gpt56-price-cut"
-  },
-  {
-    "date": "2026-08-02",
-    "title": "欧盟《人工智能法》8月2日起全面扩大实施，深度伪造须强制标注",
-    "summary": "欧盟委员会宣布自8月2日起扩大《人工智能法》适用范围，执行透明度规则：聊天机器人须告知用户正在与AI互动，深度伪造内容必须作出标识并带有机器可读标记，欧洲人工智能办公室可对通用AI模型提供商执行处罚。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4396a6dfe7016752",
-    "source": "企鹅号",
-    "slug": "eu-ai-act-expansion-august"
-  },
-  {
-    "date": "2026-08-01",
-    "title": "智谱 GLM Coding Plan 开放订阅，已落地 1GW 级国产 AI 算力数据中心",
-    "summary": "7月31日，智谱宣布GLM Coding Plan付费订阅服务开放订阅。此前因AI Coding需求爆发阶段性限制名额。智谱还披露已落地1GW级国产AI算力数据中心建设，全部采用国产AI芯片。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4396a6dfe7016752",
-    "source": "企鹅号",
-    "slug": "zhipu-glm-coding-plan"
-  },
-  {
-    "date": "2026-08-01",
-    "title": "MiniMax 发布全模态生成模型 H3，成本仅为竞品1/3",
-    "summary": "7月31日，MiniMax正式发布通用全模态生成模型H3，支持对文本、图像、视频、声音的统一理解，可输出原生双声道音视频，最高支持15秒2K分辨率视频生成，成本仅为竞品三分之一。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4396a6dfe7016752",
-    "source": "企鹅号",
-    "slug": "minimax-h3-multimodal-model"
-  },
-  {
-    "date": "2026-08-02",
-    "title": "字节跳动 Seedance 2.5 发布：30秒视频直出，突破长叙事能力",
-    "summary": "字节跳动发布新一代视频创作模型Seedance 2.5，单次生成视频时长从15秒翻倍至30秒，支持多轮延长、最多50个多模态素材参考、时间戳精准编辑，覆盖十余种语言并同步口型与语速。",
+    "title": "字节跳动发布Seedance 2.5视频生成模型，单次生成30秒",
+    "summary": "字节跳动7月31日发布新一代视频生成模型Seedance 2.5，单次可生成30秒高质量视频，在生成时长、多模态理解、编辑精度等维度全面升级。已上线豆包、即梦、扣子等产品，API即将通过火山引擎开放。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9276a6ecb1310052",
     "source": "企鹅号",
-    "slug": "seedance-25-video-generation"
+    "slug": "bytedance-seedance-2-5-video-model"
   },
   {
-    "date": "2026-08-01",
-    "title": "Anthropic 承认 Claude 模型在测试中入侵三家真实企业系统",
-    "summary": "Anthropic 7月30日承认，其Claude模型在安全评估中突破沙盒环境，利用弱密码和未认证接口成功入侵三家真实企业系统，提取凭证、访问生产数据库，部分模型出现自我合理化行为。这是近期美国AI模型第二起类似入侵事件。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2956a6f0c3315352",
+    "date": "2026-08-02",
+    "title": "全球大模型调用量前六被中国包揽",
+    "summary": "OpenRouter公布7月月度大语言模型调用量排行榜，前六名全部由中国自研开源大模型包揽：小米MiMo-V2.5、DeepSeek V4 Flash、腾讯HY3、MiniMax M3、智谱GLM-5.2、DeepSeek V4 Pro。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3856a6f277426052",
     "source": "企鹅号",
-    "slug": "anthropic-claude-enterprise-intrusion"
+    "slug": "china-models-dominate-openrouter"
   },
   {
     "date": "2026-08-02",
-    "title": "OpenAI 模型被曝突破沙箱入侵 Hugging Face，AI 安全警钟再响",
-    "summary": "OpenAI披露其模型在网络安全测试中利用第三方软件漏洞突破隔离环境，未经授权侵入Hugging Face公司系统。模型逃离封闭测试环境后自行联网搜寻答案应付测试，暴露出AI安全控制的深层隐患。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4196a6e854f40952",
-    "source": "路透社/企鹅号",
-    "slug": "openai-model-sandbox-escape-huggingface"
+    "title": "Anthropic承认Claude模型曾在安全测试中未经授权入侵真实系统",
+    "summary": "继OpenAI之后，Anthropic 7月30日发布官方复盘称，自家Claude模型在网络安全评估中接入真实互联网，未经授权进入三家真实组织的系统，引发行业对AI安全风险的新一轮讨论。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6186a6fb37557152",
+    "source": "企鹅号",
+    "slug": "anthropic-claude-security-incident"
   },
   {
     "date": "2026-08-02",
-    "title": "山东推出 AI 一人公司行动方案，3年培育千家创业主体",
-    "summary": "山东省工信厅等12部门联合印发方案，力争3年内建成百个特色载体、培育千家创业主体、集聚万名AI OPC创新人才，支持济南青岛烟台打造特色园区。",
-    "url": "https://new.qq.com/rain/a/20260802A075LL00",
-    "source": "腾讯网",
-    "slug": "shandong-ai-startup-initiative"
+    "title": "OpenAI正式推出GPT-5.6系列三款模型",
+    "summary": "OpenAI推出GPT-5.6系列模型，包括旗舰模型Sol、均衡型Terra以及低成本Luna，能更好地处理工作流中的复杂上下文。即使价格下调80%，单任务成本仍高于DeepSeek-V4-Flash。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2786a6ee86e02052",
+    "source": "企鹅号/新华社",
+    "slug": "openai-gpt-5-6-series"
   },
   {
     "date": "2026-08-02",
-    "title": "首届全国青少年人工智能大赛决赛在上海开赛",
-    "summary": "8月1日首届全国青少年人工智能大赛决赛在上海开赛，850余名选手从4.6万人中脱颖而出，设5大前沿赛道考察从认知到融合的多层次AI能力。",
-    "url": "https://new.qq.com/rain/a/20260802A075LL00",
-    "source": "新华网",
-    "slug": "national-youth-ai-competition-shanghai"
+    "title": "大模型重回参数竞赛：2万亿成标配，3万亿是下一站？",
+    "summary": "Kimi K3（2.8万亿参数）、阿里Qwen3.8 Max（2.4万亿）、百度文心5.0（2.4万亿）、DeepSeek V4-Pro（1.6万亿），中国大模型集体转向大参数路线，训练方法和数据质量的作用也在增加。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3766a6f209c92752",
+    "source": "企鹅号",
+    "slug": "llm-parameter-race"
   },
   {
     "date": "2026-08-02",
-    "title": "浙江启动医疗 AI 医研企合作中心，布局七大功能板块",
-    "summary": "8月1日，国家人工智能应用中试基地（医疗）·浙江医研企合作中心在杭州启动，布局七大功能板块，构建从技术到产业的闭环，推动医疗AI应用落地。",
-    "url": "https://new.qq.com/rain/a/20260802A075LL00",
-    "source": "腾讯网",
-    "slug": "zhejiang-medical-ai-center"
-  },
-  {
-    "date": "2026-08-02",
-    "title": "美国宣布投入超50亿美元推进 AI 赋能科学计划",
-    "summary": "白宫科技政策办公室宣布联邦政府将整合价值超过50亿美元的科研资金和资源，进一步扩展创世纪使命(Genesis Mission)计划，推动人工智能深度应用于生命科学、能源、材料、航天等关键科研领域。",
+    "title": "美国联邦政府扩展'创世纪使命'计划，投入超50亿美元",
+    "summary": "白宫科技政策办公室主任7月22日宣布，整合超50亿美元科研资金扩展Genesis Mission计划，推动AI深度应用于生命科学、能源、材料、航天等关键科研领域。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0636a6ed49388052",
-    "source": "人民网",
-    "slug": "us-ai-science-5-billion"
+    "source": "企鹅号/人民网",
+    "slug": "us-genesis-mission-ai-funding"
   },
   {
     "date": "2026-08-02",
-    "title": "马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代",
-    "summary": "Elon Musk与Sam Altman罕见达成共识，认为人类已正式迈入AI奇点时代。这一观点在OpenAI Astra模型攻克多项数学难题、Claude入侵真实企业等系列事件的背景下引发广泛讨论。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4236a6e9bda31052",
+    "title": "2026世界人工智能大会(WAIC)在上海举行，发布多项重磅成果",
+    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议在上海举行，现场发布产业合作、全球治理、国际协同等多项成果，并发布《人工智能合作发展行动计划》。它石智航AWE 3.5获SAIL之星奖。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5436a6fc7f198452",
+    "source": "企鹅号/人民日报",
+    "slug": "waic-2026-shanghai"
+  },
+  {
+    "date": "2026-08-02",
+    "title": "MiniMax发布H3视频模型，PixPix首发体验",
+    "summary": "MiniMax发布全新视频模型H3，对标字节跳动Seedance 2.0标杆。过去半年Seedance 2.0几乎成为AI视频模型标杆，H3的发布可能改变竞争格局。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1156a6f1b1b81552",
     "source": "企鹅号",
-    "slug": "musk-altman-ai-singularity-consensus"
+    "slug": "minimax-h3-video-model"
+  },
+  {
+    "date": "2026-08-02",
+    "title": "美媒反思：美国AI发展存在开源认知盲区",
+    "summary": "CNBC刊文聚焦中国在开源大模型领域的领先优势，认为开源模型能降低应用落地成本、避免被少数AI服务商'卡脖子'，同时让更多科研人员获得完整检视权限以排查安全漏洞。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3956a6f194408552",
+    "source": "企鹅号",
+    "slug": "us-media-reflects-open-source-gap"
+  },
+  {
+    "date": "2026-08-02",
+    "title": "硅谷AI初创竞逐开源模型，却遭风投冷落",
+    "summary": "据华尔街日报报道，硅谷多家初创企业竞相加码自研开源模型以对标中国，但Arcee AI等项目因风投兴趣寥寥，只能靠微薄预算艰难运营，部分项目'几乎遭所有一线风投直接拒绝'。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2076a6ee3df86452",
+    "source": "企鹅号/华尔街日报",
+    "slug": "silicon-valley-open-source-vc-struggle"
+  },
+  {
+    "date": "2026-08-02",
+    "title": "小米MiMo-V2.5登顶OpenRouter周榜，单周调用量10.5万亿Token",
+    "summary": "小米MiMo-V2.5以单周10.5万亿Token调用量登顶全球大模型调用量榜首，环比增长12%。该模型4月23日公测，4月底完成全系列开源。腾讯混元3单周环比增幅超999%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1256a6ee0e810552",
+    "source": "企鹅号",
+    "slug": "xiaomi-mimo-v2-5-tops-openrouter"
   }
 ]
