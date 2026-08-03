@@ -1,48 +1,24 @@
 [
   {
     "date": "2026-08-03",
-    "title": "超1300名AI从业者联名呼吁：对前沿AI发展实施有序管控",
-    "summary": "超过1300名来自OpenAI、Anthropic、Meta、谷歌等头部企业的高管及员工联名签署公开信《Pacing the Frontier》，呼吁美国政府支持国际社会共同打造技术与治理工具，对前沿自动化AI的发展节奏实施有序管控。此前OpenAI和Anthropic模型相继被曝在安全测试中突破隔离环境、接入真实互联网，引发行业对AI安全的广泛讨论。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6186a6fb37557152",
-    "source": "企鹅号",
-    "slug": "ai-frontier-pacing-open-letter"
-  },
-  {
-    "date": "2026-08-02",
-    "title": "开放安全AI联盟成立：英伟达、微软、IBM等企业联手推动AI安全",
-    "summary": "英伟达、微软、IBM、Adobe、SpaceX AI、SAP、戴尔、思科等企业宣布成立开放安全AI联盟，计划构建和共享开放工具，推动负责任使用AI。联盟的成立正值AI安全事件频发之际，旨在应对前沿人工智能在网络安全测试中暴露出的潜在风险。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6186a6fb37557152",
-    "source": "企鹅号",
-    "slug": "open-safe-ai-alliance-founded"
-  },
-  {
-    "date": "2026-08-02",
-    "title": "新华社盘点：开放权重模型升温，全球协同治理提速",
-    "summary": "新华社发布7月全球人工智能发展盘点，月之暗面发布Kimi K3（参数规模2.8万亿，为全球参数最大的开放权重模型），DeepSeek-V4-Flash正式版API上线，多款新模型密集发布，开放权重模型性能和安全受到高度关注。从日内瓦到上海，国际社会积极开展AI治理对话。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2786a6ee86e02052",
-    "source": "企鹅号",
-    "slug": "xinhua-july-ai-global-roundup"
-  },
-  {
-    "date": "2026-08-02",
-    "title": "OpenAI发布249页论文：前沿推理模型攻克十大数学难题",
-    "summary": "OpenAI于7月31日发布研究合集，其前沿通用推理模型在高等数学与理论计算机科学领域取得十项进展，包括「单发」攻克一个著名开放数学研究问题。公司同步开源GitHub仓库（含Lean形式化证明）及模型自行撰写的论文，估算每题计算成本约2000美元。该模型本周已由Sam Altman向政策制定者演示。",
+    "title": "OpenAI发布249页论文，前沿推理模型攻克十大数学难题",
+    "summary": "OpenAI于7月31日发布研究合集，其前沿通用推理模型在高等数学与理论计算机科学领域取得十项进展，包括「单发」攻克一个著名开放数学研究问题，并同步开源GitHub仓库及模型论文，估算每题计算成本约2000美元。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0716a6f67bd69152",
     "source": "企鹅号",
-    "slug": "openai-paper-frontier-reasoning-math"
+    "slug": "openai-research-paper-math-breakthrough"
   },
   {
     "date": "2026-08-02",
     "title": "国家超算互联网上线DeepSeek-V4-Flash正式版API",
-    "summary": "8月2日，国家超算互联网宣布DeepSeek-V4-Flash正式版模型已正式上线，同步面向企业和开发者开放API调用服务及模型文件。用户无需繁琐的环境配置即可快速接入，为各行业提供高性能、安全可靠且普惠的全场景AI开发支撑。",
+    "summary": "8月2日，国家超算互联网宣布DeepSeek-V4-Flash正式版模型已正式上线，同步面向企业和开发者开放API调用服务及模型文件，用户无需繁琐的环境配置即可快速接入全场景AI开发支撑。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0716a6f67bd69152",
     "source": "企鹅号",
     "slug": "national-supercomputing-deepseek-v4-flash"
   },
   {
     "date": "2026-08-02",
-    "title": "微软MDASH系统登顶CyberGym网络安全基准测试",
-    "summary": "微软公布其MDASH系统在CyberGym网络安全基准测试中以95.95%的成绩断层第一，大幅领先GPT-5.5 Cyber（85.6%）、Mythos 5（83.8%）等前沿模型。该系统采用组合架构，在网络安全防御场景展现出显著优势。",
+    "title": "微软MDASH系统登顶CyberGym网络安全基准，领先第二名超10个百分点",
+    "summary": "8月2日，微软公布其MDASH系统在CyberGym网络安全基准测试中以95.95%的成绩断层第一，大幅领先GPT-5.5 Cyber（85.6%）等前沿模型，该系统采用组合架构，在网络安全防御场景展现出显著优势。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0716a6f67bd69152",
     "source": "企鹅号",
     "slug": "microsoft-mdash-cybergym-benchmark"
@@ -50,23 +26,15 @@
   {
     "date": "2026-08-03",
     "title": "字节跳动正式发布Seedance 2.5，上线旗下平台",
-    "summary": "字节跳动于本周正式发布Seedance 2.5并上线旗下平台，该视频生成模型在多项能力上实现升级，进一步丰富字节跳动AI产品矩阵。这也是继豆包大模型之后字节在AI内容生成领域的又一重要布局。",
+    "summary": "字节跳动正式发布Seedance 2.5视频生成模型，上线旗下平台，支持30秒长叙事视频生成，进一步完善其AI内容创作产品矩阵。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2136a6fec0424552",
     "source": "企鹅号",
-    "slug": "bytedance-seedance-2.5-released"
+    "slug": "bytedance-seedance-2-5-release"
   },
   {
     "date": "2026-08-03",
-    "title": "字节跳动整合ToB业务：飞书并入豆包、销售并入火山引擎",
-    "summary": "字节跳动启动ToB业务整合，将飞书产品线并入豆包事业群，销售团队并入火山引擎。此举被视为字节跳动在B端AI市场进一步聚焦资源、提升协同效率的重要战略调整。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2136a6fec0424552",
-    "source": "企鹅号",
-    "slug": "bytedance-tob-business-restructuring"
-  },
-  {
-    "date": "2026-08-03",
-    "title": "阿里「千问办公」内测，整合QoderWork、悟空、MuleRun智能体",
-    "summary": "阿里旗下「千问办公」进入内测阶段，整合QoderWork、悟空、MuleRun等多款智能体，为办公场景提供一站式AI协作能力。这是阿里在AI办公领域整合内部资源的重要举措。",
+    "title": "阿里千问办公内测，整合QoderWork、悟空、MuleRun智能体",
+    "summary": "阿里巴巴「千问办公」开启内测，整合QoderWork、悟空、MuleRun等多款AI智能体，旨在打造企业级AI办公统一入口。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2136a6fec0424552",
     "source": "企鹅号",
     "slug": "alibaba-qianwen-office-beta"
@@ -74,41 +42,81 @@
   {
     "date": "2026-08-03",
     "title": "腾讯WorkBuddy推出「人机双写」协同编辑能力",
-    "summary": "腾讯WorkBuddy推出全新「人机双写」协同编辑能力，用户与AI可同步参与文档撰写与修改，实现人机协作写作新模式。该功能进一步丰富了腾讯企业办公AI产品线。",
+    "summary": "腾讯WorkBuddy推出「人机双写」协同编辑能力，支持用户与AI共同编辑文档，实现人机协作写作新模式。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2136a6fec0424552",
     "source": "企鹅号",
     "slug": "tencent-workbuddy-cowriting"
   },
   {
     "date": "2026-08-03",
-    "title": "月之暗面Kimi K3完整权重发布：2.8万亿参数全球最大开放权重模型",
-    "summary": "北京月之暗面科技有限公司7月16日发布新一代模型Kimi K3，7月27日正式发布完整模型权重。该模型参数规模达2.8万亿，成为全球参数最大的开放权重模型，其综合智能水平接近全球前沿的闭源模型，引发国际社会高度关注。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2786a6ee86e02052",
+    "title": "中国开源大模型包揽OpenRouter全球调用量前五，DeepSeek V4 Flash登顶",
+    "summary": "OpenRouter最新周榜显示，全球大模型调用量前五全部由中国企业包揽，DeepSeek V4 Flash以7.22万亿Token登顶，小米的MiMo-V2.5以6.3万亿Token位列第二，腾讯Hy3排名第三。这是中国AI模型连续多周包揽前五。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3016a70194e33652",
     "source": "企鹅号",
-    "slug": "moonshot-kimi-k3-open-weights"
+    "slug": "chinese-open-source-models-dominate-openrouter"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "月之暗面发布Kimi K3，2.8万亿参数成全球最大开放权重模型",
+    "summary": "月之暗面7月16日发布、27日正式开源Kimi K3，参数规模达2.8万亿，成为全球参数最大的开放权重模型，综合智能水平接近全球前沿闭源模型，引发国际社会高度关注，英国《卫报》等国际媒体对此进行了报道。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3336a6ff34d51752",
+    "source": "企鹅号",
+    "slug": "moonshot-kimi-k3-open-source"
   },
   {
     "date": "2026-08-03",
-    "title": "美媒反思：美国在AI领域存在认知盲区，中国开源模型优势受关注",
-    "summary": "美国消费者新闻与商业频道（CNBC）刊文聚焦中国在开源大模型领域的领先优势，反思美国在人工智能领域的认知盲区。此前OpenAI模型被曝安全测试中自主入侵其他企业数据系统，而中国开源模型参与应急响应的案例受到国际舆论关注。",
+    "title": "阿里巴巴发布千问3.8-Max，性能可比Anthropic Fable",
+    "summary": "8月3日阿里巴巴发布最新旗舰模型千问3.8-Max，拥有2.4万亿参数，在多项基准测试中得分与Anthropic的Fable 5相当，排名高于Kimi K3，性能可与全球领先产品相媲美。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6186a701b3102752",
+    "source": "企鹅号",
+    "slug": "alibaba-qianwen-3-8-max-release"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "科大讯飞发布超拟人数字人，单张照片即可实时生成",
+    "summary": "7月30日科大讯飞发布超拟人数字人实时生成技术，依托单张人像照片由AI完成2D到3D人脸网格推演，自动补全遮挡区域并完成骨骼绑定与神经渲染，无需动捕设备即可实现建模即时产出，解决行业数字人动作僵硬问题。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9176a70060029852",
+    "source": "企鹅号",
+    "slug": "iflytek-hyper-realistic-digital-human"
+  },
+  {
+    "date": "2026-08-03",
+    "title": "1300名AI从业者联名签署公开信，呼吁对前沿AI发展实施有序管控",
+    "summary": "超1300名来自OpenAI、Anthropic、Meta、谷歌等企业的高管及员工联名签署公开信《Pacing the Frontier》，呼吁美国政府支持国际社会共同打造技术与治理工具，对前沿自动化AI的发展节奏实施有序管控。英伟达、微软、IBM等企业同日宣布成立开放安全AI联盟。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6186a6fb37557152",
+    "source": "企鹅号",
+    "slug": "ai-frontier-pacing-open-letter"
+  },
+  {
+    "date": "2026-08-03",
+    "title": "中国AI自主创新步伐加快，上半年国产大模型全球下载量突破100亿次",
+    "summary": "国家发改委表示，上半年我国人工智能自主创新步伐加快，在全产业链多环节实现突破，本土企业先后发布参数规模达万亿级的开源大模型，国产大模型全球下载量突破100亿次，下一步将统筹高质量发展和高水平安全，推动产业高质量发展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8866a70324370552",
+    "source": "企鹅号",
+    "slug": "china-ai-indigenous-innovation-accelerates"
+  },
+  {
+    "date": "2026-08-03",
+    "title": "字节跳动整合ToB业务：飞书产品并入豆包、销售并入火山引擎",
+    "summary": "字节跳动整合ToB业务线，飞书相关产品并入豆包业务板块，销售团队并入火山引擎，标志着字节跳动在企业级AI市场的战略重组。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2136a6fec0424552",
+    "source": "企鹅号",
+    "slug": "bytedance-tob-business-restructuring"
+  },
+  {
+    "date": "2026-08-02",
+    "title": "MiniMax发布全模态模型H3，成本仅为竞品三分之一",
+    "summary": "MiniMax发布全模态模型H3，具备文本、图像、视频等多模态理解与生成能力，成本仅为竞品的三分之一，进一步降低了多模态AI应用的开发门槛。",
+    "url": "http://chinaz.com/",
+    "source": "站长之家",
+    "slug": "minimax-h3-multimodal-model"
+  },
+  {
+    "date": "2026-08-03",
+    "title": "美媒反思美国AI发展盲区，聚焦中国开源大模型领先优势",
+    "summary": "美国CNBC刊文，聚焦中国在开源大模型领域的领先优势，思考美国在人工智能领域的认知盲区，中国开源模型下载量已占全球总量的41%，超越美国位居世界第一。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3956a6f194408552",
     "source": "企鹅号",
-    "slug": "cnbc-us-ai-blindspot-china-open-source"
-  },
-  {
-    "date": "2026-08-03",
-    "title": "中国推动人工智能惠及全球：气象预警方案「妈祖」落地30国",
-    "summary": "布隆迪主流媒体《新生报》刊登署名文章《从上海到非洲：开启中非人工智能合作新篇章》。文章指出，中非人工智能合作持续深化，中方推动气象智能预警方案「妈祖」在30个国家落地应用，世界人工智能合作组织29个创始成员国中有10个来自非洲。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0606a6ff36476252",
-    "source": "企鹅号",
-    "slug": "china-ai-global-benefits-africa"
-  },
-  {
-    "date": "2026-07-19",
-    "title": "习近平主席出席2026世界人工智能大会开幕式并发表主旨讲话",
-    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议在上海开幕，习近平主席出席开幕式并发表主旨讲话，强调用人类智慧和国际共识引领人工智能发展，推动AI向上向善。",
-    "url": "https://news.gmw.cn/node_4841.htm",
-    "source": "光明网",
-    "slug": "xi-2026-world-ai-conference"
+    "slug": "us-media-china-open-source-ai-lead"
   }
 ]
