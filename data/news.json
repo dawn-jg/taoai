@@ -1,122 +1,114 @@
 [
   {
-    "date": "2026-08-03",
-    "title": "OpenAI发布249页论文，前沿推理模型攻克十大数学难题",
-    "summary": "OpenAI于7月31日发布研究合集，其前沿通用推理模型在高等数学与理论计算机科学领域取得十项进展，包括「单发」攻克一个著名开放数学研究问题，并同步开源GitHub仓库及模型论文，估算每题计算成本约2000美元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0716a6f67bd69152",
-    "source": "企鹅号",
-    "slug": "openai-research-paper-math-breakthrough"
+    "date": "2026-08-04",
+    "title": "Hugging Face CEO称中国正赢得开源AI竞赛,在开放模型领域占据主导",
+    "summary": "据CNBC 8月3日报道,Hugging Face联合创始人兼CEO Clément Delangue公开表示,中国正在赢得人工智能竞赛,并在开放模型领域占据主导地位,外媒罕见正面判断。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7056a70fa9828452",
+    "source": "CNBC/企鹅号",
+    "slug": "huggingface-ceo-china-winning-open-source-ai"
   },
   {
-    "date": "2026-08-02",
-    "title": "国家超算互联网上线DeepSeek-V4-Flash正式版API",
-    "summary": "8月2日，国家超算互联网宣布DeepSeek-V4-Flash正式版模型已正式上线，同步面向企业和开发者开放API调用服务及模型文件，用户无需繁琐的环境配置即可快速接入全场景AI开发支撑。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0716a6f67bd69152",
+    "date": "2026-08-04",
+    "title": "欧盟《人工智能法案》正式生效,全球首部全面监管AI法律落地",
+    "summary": "8月2日,欧盟《人工智能法案》正式生效,大语言模型监管规定于8月正式适用。新规要求AI生成内容须带清晰标识,聊天机器人须向消费者明确告知。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1046a70674372952",
     "source": "企鹅号",
-    "slug": "national-supercomputing-deepseek-v4-flash"
+    "slug": "eu-ai-act-takes-effect"
   },
   {
-    "date": "2026-08-02",
-    "title": "微软MDASH系统登顶CyberGym网络安全基准，领先第二名超10个百分点",
-    "summary": "8月2日，微软公布其MDASH系统在CyberGym网络安全基准测试中以95.95%的成绩断层第一，大幅领先GPT-5.5 Cyber（85.6%）等前沿模型，该系统采用组合架构，在网络安全防御场景展现出显著优势。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0716a6f67bd69152",
+    "date": "2026-08-04",
+    "title": "谷歌DeepMind发布Gemini Robotics 2,人形机器人实现全身AI控制",
+    "summary": "谷歌DeepMind正式推出Gemini Robotics 2系列AI模型,包含视觉-语言-动作模型(VLA)和具身推理模型,在Apptronik Apollo 2人形机器人上演示全身自主控制,数小时可适配新硬件。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3946a7068a060752",
     "source": "企鹅号",
-    "slug": "microsoft-mdash-cybergym-benchmark"
+    "slug": "google-deepmind-gemini-robotics-2"
   },
   {
-    "date": "2026-08-03",
-    "title": "字节跳动正式发布Seedance 2.5，上线旗下平台",
-    "summary": "字节跳动正式发布Seedance 2.5视频生成模型，上线旗下平台，支持30秒长叙事视频生成，进一步完善其AI内容创作产品矩阵。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2136a6fec0424552",
+    "date": "2026-08-04",
+    "title": "北京亦庄多家AI企业斩获亿元级融资,8家企业获超150亿元",
+    "summary": "爱诗智能宣布完成C轮融资累计29.8亿元,VAST、奕行智能、AIPPT等8家北京亦庄AI重点企业上半年获超150亿元融资,覆盖世界模型、AI算力芯片、AIGC等前沿领域。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8576a706c5779952",
     "source": "企鹅号",
-    "slug": "bytedance-seedance-2-5-release"
+    "slug": "beijing-yizhuang-ai-funding-surge"
   },
   {
-    "date": "2026-08-03",
-    "title": "阿里千问办公内测，整合QoderWork、悟空、MuleRun智能体",
-    "summary": "阿里巴巴「千问办公」开启内测，整合QoderWork、悟空、MuleRun等多款AI智能体，旨在打造企业级AI办公统一入口。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2136a6fec0424552",
+    "date": "2026-08-04",
+    "title": "上海AI芯片创企昉擎科技完成A1轮融资,投后估值超百亿成独角兽",
+    "summary": "上海AI计算系统创企昉擎科技宣布完成A1轮融资,投后估值超百亿元。其CEO梁军透露今年将推出芯片、软件、硬件全栈系统产品,预计第四季度开始商业化。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6796a70afdd97852",
     "source": "企鹅号",
-    "slug": "alibaba-qianwen-office-beta"
+    "slug": "fangqing-ai-chip-unicorn"
   },
   {
-    "date": "2026-08-03",
-    "title": "腾讯WorkBuddy推出「人机双写」协同编辑能力",
-    "summary": "腾讯WorkBuddy推出「人机双写」协同编辑能力，支持用户与AI共同编辑文档，实现人机协作写作新模式。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2136a6fec0424552",
-    "source": "企鹅号",
-    "slug": "tencent-workbuddy-cowriting"
+    "date": "2026-08-04",
+    "title": "帕西尼再获10亿元战略轮融资,累计融资35亿元创触觉感知领域纪录",
+    "summary": "帕西尼再获10亿元战略轮融资,由全球消费电子与半导体巨头、中银国际投资等联合领投,自研触觉芯片消耗量逼近百万颗,海量全模态数据已供多家头部企业采用。",
+    "url": "https://pitchhub.36kr.com/financing-flash",
+    "source": "36氪",
+    "slug": "paxini-tactile-sensing-funding"
   },
   {
-    "date": "2026-08-03",
-    "title": "中国开源大模型包揽OpenRouter全球调用量前五，DeepSeek V4 Flash登顶",
-    "summary": "OpenRouter最新周榜显示，全球大模型调用量前五全部由中国企业包揽，DeepSeek V4 Flash以7.22万亿Token登顶，小米的MiMo-V2.5以6.3万亿Token位列第二，腾讯Hy3排名第三。这是中国AI模型连续多周包揽前五。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3016a70194e33652",
-    "source": "企鹅号",
-    "slug": "chinese-open-source-models-dominate-openrouter"
+    "date": "2026-08-04",
+    "title": "眸深智能完成近亿元Pre-A轮追加融资,具身大脑估值增长超10倍",
+    "summary": "全球首个可端侧生成式通用具身大脑公司眸深智能完成近亿元Pre-A轮追加融资,此前Pre-A轮融资3亿元,今年上半年估值增长超10倍,Pre-A+轮近5亿融资在交割中。",
+    "url": "https://www.lieyunpro.com/news",
+    "source": "猎云网",
+    "slug": "moushen-embodied-ai-funding"
   },
   {
-    "date": "2026-07-27",
-    "title": "月之暗面发布Kimi K3，2.8万亿参数成全球最大开放权重模型",
-    "summary": "月之暗面7月16日发布、27日正式开源Kimi K3，参数规模达2.8万亿，成为全球参数最大的开放权重模型，综合智能水平接近全球前沿闭源模型，引发国际社会高度关注，英国《卫报》等国际媒体对此进行了报道。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3336a6ff34d51752",
-    "source": "企鹅号",
-    "slug": "moonshot-kimi-k3-open-source"
+    "date": "2026-08-04",
+    "title": "原粒半导体完成超7亿元A轮融资,三个月累计融资超12亿元",
+    "summary": "北京AI Chiplet供应商原粒半导体完成超7亿元A轮融资,继4月超5亿元Pre-A轮后三个月累计融资超12亿元,由九安医疗、汤臣倍健等上市公司联合投资。",
+    "url": "https://m.eefocus.com/",
+    "source": "与非网",
+    "slug": "yuanli-chiplet-series-a"
   },
   {
-    "date": "2026-08-03",
-    "title": "阿里巴巴发布千问3.8-Max，性能可比Anthropic Fable",
-    "summary": "8月3日阿里巴巴发布最新旗舰模型千问3.8-Max，拥有2.4万亿参数，在多项基准测试中得分与Anthropic的Fable 5相当，排名高于Kimi K3，性能可与全球领先产品相媲美。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6186a701b3102752",
+    "date": "2026-08-04",
+    "title": "中央政治局会议提出深入实施「人工智能+」行动，AI核心产业规模超1.2万亿",
+    "summary": "中共中央政治局会议提出深入实施「人工智能+」行动，发展智能经济新形态。2025年中国AI核心产业规模超1.2万亿元，规上工业企业AI应用普及率超30%，人形机器人全年整机产量有望突破10万台。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4096a711dd093652",
     "source": "企鹅号",
-    "slug": "alibaba-qianwen-3-8-max-release"
+    "slug": "politburo-ai-plus-action"
   },
   {
-    "date": "2026-07-30",
-    "title": "科大讯飞发布超拟人数字人，单张照片即可实时生成",
-    "summary": "7月30日科大讯飞发布超拟人数字人实时生成技术，依托单张人像照片由AI完成2D到3D人脸网格推演，自动补全遮挡区域并完成骨骼绑定与神经渲染，无需动捕设备即可实现建模即时产出，解决行业数字人动作僵硬问题。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9176a70060029852",
-    "source": "企鹅号",
-    "slug": "iflytek-hyper-realistic-digital-human"
-  },
-  {
-    "date": "2026-08-03",
-    "title": "1300名AI从业者联名签署公开信，呼吁对前沿AI发展实施有序管控",
-    "summary": "超1300名来自OpenAI、Anthropic、Meta、谷歌等企业的高管及员工联名签署公开信《Pacing the Frontier》，呼吁美国政府支持国际社会共同打造技术与治理工具，对前沿自动化AI的发展节奏实施有序管控。英伟达、微软、IBM等企业同日宣布成立开放安全AI联盟。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6186a6fb37557152",
-    "source": "企鹅号",
-    "slug": "ai-frontier-pacing-open-letter"
-  },
-  {
-    "date": "2026-08-03",
-    "title": "中国AI自主创新步伐加快，上半年国产大模型全球下载量突破100亿次",
-    "summary": "国家发改委表示，上半年我国人工智能自主创新步伐加快，在全产业链多环节实现突破，本土企业先后发布参数规模达万亿级的开源大模型，国产大模型全球下载量突破100亿次，下一步将统筹高质量发展和高水平安全，推动产业高质量发展。",
+    "date": "2026-08-04",
+    "title": "科创板开市7周年:612家企业总市值超15万亿,AI半导体最受关注",
+    "summary": "科创板迎来开市7周年,612家企业累计形成发明专利超15万项,国产大模型全球下载量突破100亿次。国家发改委表示上半年AI自主创新步伐加快,本土企业先后发布万亿级开源大模型。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8866a70324370552",
     "source": "企鹅号",
-    "slug": "china-ai-indigenous-innovation-accelerates"
+    "slug": "star-market-7th-anniversary-ai"
   },
   {
-    "date": "2026-08-03",
-    "title": "字节跳动整合ToB业务：飞书产品并入豆包、销售并入火山引擎",
-    "summary": "字节跳动整合ToB业务线，飞书相关产品并入豆包业务板块，销售团队并入火山引擎，标志着字节跳动在企业级AI市场的战略重组。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2136a6fec0424552",
-    "source": "企鹅号",
-    "slug": "bytedance-tob-business-restructuring"
+    "date": "2026-08-04",
+    "title": "行云科技在手算力订单超154亿元,累计授信超180亿元",
+    "summary": "行云科技在机构调研中披露,截至2026年7月末在手算力、存储类3-5年期长期框架订单规模超154亿元,合作客户涵盖头部央企上市公司及头部大模型研发机构,累计获批综合授信180.24亿元。",
+    "url": "https://36kr.com/newsflashes/",
+    "source": "36氪",
+    "slug": "xingyun-computing-power-orders"
   },
   {
-    "date": "2026-08-02",
-    "title": "MiniMax发布全模态模型H3，成本仅为竞品三分之一",
-    "summary": "MiniMax发布全模态模型H3，具备文本、图像、视频等多模态理解与生成能力，成本仅为竞品的三分之一，进一步降低了多模态AI应用的开发门槛。",
-    "url": "http://chinaz.com/",
-    "source": "站长之家",
-    "slug": "minimax-h3-multimodal-model"
+    "date": "2026-08-04",
+    "title": "2026世界人工智能大会在上海举办,世界人工智能合作组织成立",
+    "summary": "7月中旬,2026世界人工智能大会在上海举办,世界人工智能合作组织协定签署,总部设于上海,大会发布《人工智能合作发展行动计划》,勾勒全球AI合作发展路径。",
+    "url": "https://5gai.cctv.com/",
+    "source": "央视网",
+    "slug": "waic-2026-shanghai-cooperation-org"
   },
   {
-    "date": "2026-08-03",
-    "title": "美媒反思美国AI发展盲区，聚焦中国开源大模型领先优势",
-    "summary": "美国CNBC刊文，聚焦中国在开源大模型领域的领先优势，思考美国在人工智能领域的认知盲区，中国开源模型下载量已占全球总量的41%，超越美国位居世界第一。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3956a6f194408552",
-    "source": "企鹅号",
-    "slug": "us-media-china-open-source-ai-lead"
+    "date": "2026-08-04",
+    "title": "韩国AI芯片企业DeepX完成新一轮融资,估值暴涨约四倍",
+    "summary": "韩国AI芯片设计企业DeepX Co.近日完成新一轮融资,估值较上一轮暴涨约四倍,反映出市场对人工智能产业链相关公司的投资热情依旧高涨。",
+    "url": "https://36kr.com/newsflashes/",
+    "source": "36氪",
+    "slug": "deepx-korea-ai-chip-valuation-surge"
+  },
+  {
+    "date": "2026-08-04",
+    "title": "新兴市场ETF单周吸金创2月以来新高,AI热潮持续升温",
+    "summary": "截至7月31日当周,在美国上市的新兴市场ETF资金流入约45亿美元,高于前一周的逾20亿美元,创2月27日以来最大单周流入,亚洲AI概念股投资热度未见降温。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6826a70d4a918352",
+    "source": "财联社/企鹅号",
+    "slug": "emerging-market-etf-ai-boom"
   }
 ]
