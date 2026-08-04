@@ -1,114 +1,122 @@
 [
   {
-    "date": "2026-08-04",
-    "title": "Hugging Face CEO称中国正赢得开源AI竞赛,在开放模型领域占据主导",
-    "summary": "据CNBC 8月3日报道,Hugging Face联合创始人兼CEO Clément Delangue公开表示,中国正在赢得人工智能竞赛,并在开放模型领域占据主导地位,外媒罕见正面判断。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7056a70fa9828452",
-    "source": "CNBC/企鹅号",
-    "slug": "huggingface-ceo-china-winning-open-source-ai"
+    "date": "2026-08-03",
+    "title": "阿里巴巴正式发布旗舰大模型Qwen3.8，总参数量2.4万亿",
+    "summary": "8月3日，阿里巴巴正式发布新一代基座大模型Qwen3.8，总参数量2.4万亿，在编程和专业办公方面能力大幅提升。API已上线千问AI平台，并接入阿里同步推出的Agent产品「千问办公」。Qwen3.8-Max预计下周开源，同时还将开源Qwen3.8-27B。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5966a708bc541452",
+    "source": "企鹅号",
+    "slug": "alibaba-qwen3-8-release"
   },
   {
     "date": "2026-08-04",
-    "title": "欧盟《人工智能法案》正式生效,全球首部全面监管AI法律落地",
-    "summary": "8月2日,欧盟《人工智能法案》正式生效,大语言模型监管规定于8月正式适用。新规要求AI生成内容须带清晰标识,聊天机器人须向消费者明确告知。",
+    "title": "中兴努比亚发布全球首款AI智能体手机，亮相WAIC 2026",
+    "summary": "2026世界人工智能大会上，中兴通讯努比亚带来的「全球首款AI智能体手机」备受瞩目，这是业内首次将AI智能体应用于智能手机领域。本届大会3000余项展品集中亮相，超300款产品实现全球首发。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0566a7152a174752",
+    "source": "企鹅号",
+    "slug": "nubia-ai-phone-waic-2026"
+  },
+  {
+    "date": "2026-08-02",
+    "title": "欧盟《人工智能法案》正式生效，大语言模型监管规定开始适用",
+    "summary": "8月2日，欧盟《人工智能法案》正式生效，这是全球首部全面监管AI的法律。该法案采取分阶段实施方式，针对大语言模型的监管规定于今年8月正式开始适用，标志着欧盟AI监管进入强制执行阶段。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1046a70674372952",
     "source": "企鹅号",
-    "slug": "eu-ai-act-takes-effect"
+    "slug": "eu-ai-act-effective-aug2026"
+  },
+  {
+    "date": "2026-08-03",
+    "title": "北京具身智能迈入全身协同新范式，银河通用机器人发布AstraBrain",
+    "summary": "银河通用机器人联合创始人张直政介绍，其搭载的「银河星脑」(AstraBrain)是全球首创的「大脑—小脑—神经控制」端到端具身大模型架构，成功打通了多模态感知理解、智能任务规划、实时动作执行的全链路闭环。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "人民网",
+    "slug": "beijing-embodied-ai-yinhe-robot"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "DeepSeek-V4-Flash正式版API上线公测，Agent能力大幅跃升",
+    "summary": "7月31日，DeepSeek正式向公众开放V4-Flash正式版API公测。9项基准测试成绩全面披露，多项指标远超此前发布的V4-Pro-Preview预览版，从Terminal Bench到DSBench-Hard，展现出「全能Agent」潜质，成本不足Anthropic公司Fable模型的百分之一。",
+    "url": "https://blog.csdn.net/csdnnews",
+    "source": "CSDN",
+    "slug": "deepseek-v4-flash-api-launch"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "月之暗面发布Kimi K3大模型，参数规模2.8万亿",
+    "summary": "7月27日晚，中国人工智能企业月之暗面正式发布其自主研发的大模型Kimi K3，参数规模高达2.8万亿。该模型性能被指足以媲美美国Anthropic等实验室产品，引发美国国会关注。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "人民网",
+    "slug": "moonshot-kimi-k3-release"
   },
   {
     "date": "2026-08-04",
-    "title": "谷歌DeepMind发布Gemini Robotics 2,人形机器人实现全身AI控制",
-    "summary": "谷歌DeepMind正式推出Gemini Robotics 2系列AI模型,包含视觉-语言-动作模型(VLA)和具身推理模型,在Apptronik Apollo 2人形机器人上演示全身自主控制,数小时可适配新硬件。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3946a7068a060752",
+    "title": "OpenRouter数据：中国大模型周调用量连续十四周超过美国",
+    "summary": "根据OpenRouter最新数据，上周（7月27日至8月2日）全球AI大模型总调用量为56.8万亿Token，中国AI大模型周调用量达28.13万亿Token，连续十四周超过美国的4.38万亿Token，稳居全球首位。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0286a71549f90652",
     "source": "企鹅号",
-    "slug": "google-deepmind-gemini-robotics-2"
+    "slug": "china-model-usage-surpasses-us-openrouter"
   },
   {
     "date": "2026-08-04",
-    "title": "北京亦庄多家AI企业斩获亿元级融资,8家企业获超150亿元",
-    "summary": "爱诗智能宣布完成C轮融资累计29.8亿元,VAST、奕行智能、AIPPT等8家北京亦庄AI重点企业上半年获超150亿元融资,覆盖世界模型、AI算力芯片、AIGC等前沿领域。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8576a706c5779952",
+    "title": "OpenRouter全球调用量前五均为中国AI大模型，DeepSeek-V4-Flash升至第一",
+    "summary": "上周全球调用量排名前五均为中国AI大模型：DeepSeek-V4-Flash（7.22万亿Token，环比+13%）、小米MiMo-V2.5（6.3万亿）、腾讯Hy3（4.82万亿，环比+22%）、DeepSeek-V4-Pro（3.28万亿）、智谱GLM-5.2（2.89万亿）。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0286a71549f90652",
     "source": "企鹅号",
-    "slug": "beijing-yizhuang-ai-funding-surge"
+    "slug": "global-model-ranking-china-top5"
   },
   {
     "date": "2026-08-04",
-    "title": "上海AI芯片创企昉擎科技完成A1轮融资,投后估值超百亿成独角兽",
-    "summary": "上海AI计算系统创企昉擎科技宣布完成A1轮融资,投后估值超百亿元。其CEO梁军透露今年将推出芯片、软件、硬件全栈系统产品,预计第四季度开始商业化。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6796a70afdd97852",
+    "title": "美国众议院要求DoorDash说明使用月之暗面Kimi模型的国家安全风险",
+    "summary": "7月31日，美国国会众议院中国问题特设委员会与国土安全委员会联合致函外卖平台DoorDash首席执行官，要求说明平台整合中国开放权重人工智能模型的情况。DoorDash此前公开提及使用月之暗面Kimi 2.6模型。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5366a712dab52552",
     "source": "企鹅号",
-    "slug": "fangqing-ai-chip-unicorn"
+    "slug": "us-house-doordash-china-ai-inquiry"
   },
   {
     "date": "2026-08-04",
-    "title": "帕西尼再获10亿元战略轮融资,累计融资35亿元创触觉感知领域纪录",
-    "summary": "帕西尼再获10亿元战略轮融资,由全球消费电子与半导体巨头、中银国际投资等联合领投,自研触觉芯片消耗量逼近百万颗,海量全模态数据已供多家头部企业采用。",
-    "url": "https://pitchhub.36kr.com/financing-flash",
-    "source": "36氪",
-    "slug": "paxini-tactile-sensing-funding"
-  },
-  {
-    "date": "2026-08-04",
-    "title": "眸深智能完成近亿元Pre-A轮追加融资,具身大脑估值增长超10倍",
-    "summary": "全球首个可端侧生成式通用具身大脑公司眸深智能完成近亿元Pre-A轮追加融资,此前Pre-A轮融资3亿元,今年上半年估值增长超10倍,Pre-A+轮近5亿融资在交割中。",
-    "url": "https://www.lieyunpro.com/news",
-    "source": "猎云网",
-    "slug": "moushen-embodied-ai-funding"
-  },
-  {
-    "date": "2026-08-04",
-    "title": "原粒半导体完成超7亿元A轮融资,三个月累计融资超12亿元",
-    "summary": "北京AI Chiplet供应商原粒半导体完成超7亿元A轮融资,继4月超5亿元Pre-A轮后三个月累计融资超12亿元,由九安医疗、汤臣倍健等上市公司联合投资。",
-    "url": "https://m.eefocus.com/",
-    "source": "与非网",
-    "slug": "yuanli-chiplet-series-a"
-  },
-  {
-    "date": "2026-08-04",
-    "title": "中央政治局会议提出深入实施「人工智能+」行动，AI核心产业规模超1.2万亿",
-    "summary": "中共中央政治局会议提出深入实施「人工智能+」行动，发展智能经济新形态。2025年中国AI核心产业规模超1.2万亿元，规上工业企业AI应用普及率超30%，人形机器人全年整机产量有望突破10万台。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4096a711dd093652",
+    "title": "中国开源大模型比美国产品便宜60%-80%，美国企业使用占比30%-46%",
+    "summary": "据AI模型聚合平台OpenRouter统计，今年2月到7月，美国企业每周将30%以上的词元用在中国开源大模型上，最高一周达46%。OpenRouter分析专家称，中国大模型比美国领军企业产品便宜60%到80%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2326a7130e417252",
     "source": "企鹅号",
-    "slug": "politburo-ai-plus-action"
+    "slug": "china-open-models-cost-advantage-us"
   },
   {
-    "date": "2026-08-04",
-    "title": "科创板开市7周年:612家企业总市值超15万亿,AI半导体最受关注",
-    "summary": "科创板迎来开市7周年,612家企业累计形成发明专利超15万项,国产大模型全球下载量突破100亿次。国家发改委表示上半年AI自主创新步伐加快,本土企业先后发布万亿级开源大模型。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8866a70324370552",
+    "date": "2026-08-03",
+    "title": "亚马逊市值首破3万亿美元，AWS收入同比增37%",
+    "summary": "美东时间8月3日，亚马逊股价涨4.6%，市值首破3万亿美元，AWS收入同比增37%。Palantir二季度营收增93%，美国商业收入增149%，盘后涨超13%。分析指反弹受AI发展轨迹等因素驱动。",
+    "url": "https://new.qq.com/rain/a/20260804A04H0Y00",
+    "source": "腾讯网",
+    "slug": "amazon-market-cap-3-trillion-aug2026"
+  },
+  {
+    "date": "2026-08-03",
+    "title": "谷歌地球AI生图功能上线不到48小时紧急叫停",
+    "summary": "谷歌地球AI生图功能上线不到48小时即被紧急叫停。此外，微信地震预警功能上新，京东外卖发布AI智能头盔，多项AI应用在国内加速落地。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5966a708bc541452",
     "source": "企鹅号",
-    "slug": "star-market-7th-anniversary-ai"
+    "slug": "google-earth-ai-imagine-paused"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "英美同日重构科技治理体系，将科研从自由探索转向定向攻关",
+    "summary": "7月21日，英国撤销科学、创新与技术部（DSIT），美国白宫发布123页《科学：新的黄金时代》报告，两国同日重构科技治理体系，聚焦AI驱动的科学革命和全球科技竞争。",
+    "url": "https://new.qq.com/rain/a/20260804A04H0Y00",
+    "source": "腾讯网",
+    "slug": "uk-us-reshape-science-policy-july2026"
   },
   {
     "date": "2026-08-04",
-    "title": "行云科技在手算力订单超154亿元,累计授信超180亿元",
-    "summary": "行云科技在机构调研中披露,截至2026年7月末在手算力、存储类3-5年期长期框架订单规模超154亿元,合作客户涵盖头部央企上市公司及头部大模型研发机构,累计获批综合授信180.24亿元。",
-    "url": "https://36kr.com/newsflashes/",
-    "source": "36氪",
-    "slug": "xingyun-computing-power-orders"
+    "title": "合合信息蜜蜂AI亮相WAIC 2026，打造师生双向AI教育解决方案",
+    "summary": "2026世界人工智能大会上，合合信息旗下AI教育品牌「蜜蜂AI」携蜜蜂智阅一体机与「AI拍题实验室」亮相现场，从教师教学减负与学生认知升级双向切入，打造覆盖师生两端的AI教育解决方案。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9296a714d8b79652",
+    "source": "企鹅号",
+    "slug": "hehe-ai-beeeducation-waic-2026"
   },
   {
     "date": "2026-08-04",
-    "title": "2026世界人工智能大会在上海举办,世界人工智能合作组织成立",
-    "summary": "7月中旬,2026世界人工智能大会在上海举办,世界人工智能合作组织协定签署,总部设于上海,大会发布《人工智能合作发展行动计划》,勾勒全球AI合作发展路径。",
-    "url": "https://5gai.cctv.com/",
-    "source": "央视网",
-    "slug": "waic-2026-shanghai-cooperation-org"
-  },
-  {
-    "date": "2026-08-04",
-    "title": "韩国AI芯片企业DeepX完成新一轮融资,估值暴涨约四倍",
-    "summary": "韩国AI芯片设计企业DeepX Co.近日完成新一轮融资,估值较上一轮暴涨约四倍,反映出市场对人工智能产业链相关公司的投资热情依旧高涨。",
-    "url": "https://36kr.com/newsflashes/",
-    "source": "36氪",
-    "slug": "deepx-korea-ai-chip-valuation-surge"
-  },
-  {
-    "date": "2026-08-04",
-    "title": "新兴市场ETF单周吸金创2月以来新高,AI热潮持续升温",
-    "summary": "截至7月31日当周,在美国上市的新兴市场ETF资金流入约45亿美元,高于前一周的逾20亿美元,创2月27日以来最大单周流入,亚洲AI概念股投资热度未见降温。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6826a70d4a918352",
-    "source": "财联社/企鹅号",
-    "slug": "emerging-market-etf-ai-boom"
+    "title": "美媒：中美AI竞争策略分化，中国把AI当核能发展",
+    "summary": "美媒报道指出，近几周中国AI初创公司智谱AI和月之暗面发布了性能足以媲美美国实验室产品的新模型。美国视AI为核武器侧重安全，中国则把AI当核能发展，侧重能源驱动经济的方式，两国AI竞争策略出现明显分化。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3336a71456b02652",
+    "source": "企鹅号",
+    "slug": "us-media-china-ai-nuclear-energy-strategy"
   }
 ]
