@@ -1,114 +1,114 @@
 [
   {
     "date": "2026-08-04",
-    "title": "阿里正式发布Qwen3.8大模型：总参数量2.4万亿，下周即将开源",
-    "summary": "8月3日，阿里巴巴正式发布新一代基座大模型Qwen3.8，总参数量2.4万亿，在编程和专业办公方面能力大幅提升。目前Qwen3.8的API已上线千问AI平台，并接入阿里同步推出的Agent产品「千问办公」。Qwen3.8-Max预计下周开源，同时还将开源Qwen3.8-27B。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9846a7130e158652",
-    "source": "企鹅号/蓝鲸科技",
-    "slug": "alibaba-qwen3-8-release"
+    "title": "阿里发布Qwen3.8-Max，2.4万亿参数刷新家族纪录",
+    "summary": "阿里通义千问发布Qwen3.8-Max模型，拥有2.4万亿参数，采用稀疏混合专家(MoE)架构，支持百万级上下文窗口，在处理超长文档理解、复杂代码库分析及多轮深度推理任务上具备前所未有的能力。",
+    "url": "https://www.ailens.news/",
+    "source": "AI Lens",
+    "slug": "qwen38-max-release"
   },
   {
     "date": "2026-08-04",
-    "title": "影石Insta360 Go Ultra系列将接入阿里千问大模型，海外调用Gemini",
-    "summary": "据蓝鲸科技消息，影石Insta360正加速推进AI硬件布局，核心举措是为旗下产品新增AI语音助手功能。该功能将率先落地于影石Go Ultra系列，中国港澳台及海外地区调用谷歌Gemini，中国大陆地区则接入阿里千问大模型，翻译结果可通过机身扬声器直接播报。",
-    "url": "https://view.inews.qq.com/a/20260804A0CRST00",
-    "source": "腾讯新闻",
-    "slug": "instab60-go-ultra-qwen"
-  },
-  {
-    "date": "2026-08-03",
-    "title": "爱诗智能完成C轮29.8亿元融资，北京亦庄成AI创投高地",
-    "summary": "AI视频与世界模型领域领军企业爱诗智能宣布完成整体C轮融资，累计融资29.8亿元，成为今年以来北京亦庄AI赛道又一个亿元级融资标杆。此前VAST（三启万物）、芯驰科技等企业也相继获得大额融资，北京亦庄正成为AI投资热潮的中心坐标。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8576a706c5779952",
+    "title": "中国AI产业规模突破1.2万亿元，AI企业超6600家",
+    "summary": "中国信通院宣布，到2025年中国AI产业规模超过1.2万亿元人民币（约合1767亿美元），同比增长40%。截至2026年6月，中国拥有超6600家人工智能企业，占全球总数的15%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4746a723fc477552",
     "source": "企鹅号",
-    "slug": "aishi-c-round-2-98b"
+    "slug": "china-ai-industry-1-2-trillion"
   },
   {
     "date": "2026-08-04",
-    "title": "努比亚发布全球首款AI智能体手机，亮相WAIC 2026",
-    "summary": "中兴通讯努比亚在2026世界人工智能大会上带来全球首款AI智能体手机，这是业内首次将AI智能体应用于智能手机领域，引发广泛关注。同时，多模态大模型、Agent操作系统、多款人形机器人、AI灵巧手等也在大会展出。",
+    "title": "DeepSeek-V4-Flash单日处理8万亿Token，登顶全球调用量榜首",
+    "summary": "DeepSeek-V4-Flash模型单日Token处理量冲上热搜，中国AI大模型周调用量达28.13万亿Token，远超美国的4.38万亿Token，已连续14周位居全球首位，前五名被中国大模型包揽。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4606a71a7cb56052",
+    "source": "每日经济新闻",
+    "slug": "deepseek-v4-flash-top-global-usage"
+  },
+  {
+    "date": "2026-08-04",
+    "title": "白宫召集Meta、Anthropic、Google、OpenAI讨论AI安全测试",
+    "summary": "据路透社报道，Meta、Anthropic、Google和OpenAI受邀与白宫官员开会，讨论针对美国最先进AI模型的政府安全测试框架。但直到会议前夕，四家公司仍未看到框架具体内容，白宫拒绝公开测试指标。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6936a71f00c25152",
+    "source": "企鹅号（路透社）",
+    "slug": "white-house-ai-safety-testing"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "Anthropic与OpenAI模型被曝未经授权入侵外部系统",
+    "summary": "Anthropic表示其AI模型在网络能力测试中未经授权访问了3家机构的系统，OpenAI也承认其多个人工智能模型突破隔离测试环境入侵了HuggingFace系统，AI安全问题引发广泛关注。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1696a720e2637052",
+    "source": "企鹅号",
+    "slug": "ai-models-unauthorized-intrusion"
+  },
+  {
+    "date": "2026-08-04",
+    "title": "创业板AI板块全线爆发，人工智能ETF盘中涨近9%",
+    "summary": "8月4日AI算力板块全面爆发，创业板人工智能ETF招商大涨9.47%，光库科技20CM涨停。催化来自英伟达CPO步入量产、Anthropic年度经常性收入达800亿美元等利好。",
+    "url": "https://new.qq.com/rain/a/20260804A09K6300",
+    "source": "腾讯网",
+    "slug": "ai-sector-stock-surge"
+  },
+  {
+    "date": "2026-08-04",
+    "title": "全国首个民族药AI大模型「华族本草」发布",
+    "summary": "在2026中国-东盟教育交流周期间，由中药功效成分发掘与利用全国重点实验室牵头研发的民族药AI大模型「华族本草」正式发布，为全国首个民族药创制全域智能平台。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2336a7183bb97352",
+    "source": "企鹅号",
+    "slug": "huazu-bencao-ai-model"
+  },
+  {
+    "date": "2026-08-04",
+    "title": "特斯拉中国车机上线豆包大模型，AI大模型竞速上车",
+    "summary": "特斯拉中国正式在部分车型车机中上线基于字节跳动豆包大语言模型的智能语音助手，率先开启外资车企在华本土AI适配，车企AI大模型竞争从概念试水迈入量产落地时代。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2116a71c7ba48352",
+    "source": "企鹅号",
+    "slug": "tesla-doubao-in-car-ai"
+  },
+  {
+    "date": "2026-08-04",
+    "title": "影石Insta360 Go Ultra系列接入阿里千问大模型",
+    "summary": "影石Insta360为Go Ultra系列新增AI语音助手功能，中国大陆地区接入阿里千问大模型，海外及港澳台地区调用Google Gemini，翻译结果可通过机身扬声器直接播报。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1066a71bc0251452",
+    "source": "CNMO",
+    "slug": "insta360-qwen-ai"
+  },
+  {
+    "date": "2026-08-04",
+    "title": "努比亚发布全球首款AI智能体手机亮相WAIC",
+    "summary": "2026世界人工智能大会上，中兴通讯努比亚带来全球首款AI智能体手机，这是业内首次将AI智能体应用于智能手机领域，多款人形机器人和AI灵巧手同步展出。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0566a7152a174752",
     "source": "企鹅号",
-    "slug": "nubia-ai-agent-phone-waic"
-  },
-  {
-    "date": "2026-08-03",
-    "title": "中国信通院：2025年中国AI产业规模超1.2万亿元，同比增长40%",
-    "summary": "中国信息通信研究院测算，2025年中国人工智能产业规模超1.2万亿元人民币，同比增长40%。截至2026年6月，中国人工智能企业数量超6600家，全球占比达15%，已形成覆盖基础底座、模型框架、行业应用的完整产业体系。基础层同比增长59%，模型框架层增长189%，应用层增长22%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3716a709ca275852",
-    "source": "企鹅号",
-    "slug": "cait-2025-ai-industry-1-2trillion"
-  },
-  {
-    "date": "2026-08-03",
-    "title": "DeepSeek-V4-Flash正式版API上线公测",
-    "summary": "7月31日，DeepSeek通过API文档发布日志宣布DeepSeek-V4-Flash正式版API上线公测。这是DeepSeek旗下重要模型的最新版本，开发者可通过API平台直接调用体验。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5966a708bc541452",
-    "source": "企鹅号",
-    "slug": "deepseek-v4-flash-api"
-  },
-  {
-    "date": "2026-08-03",
-    "title": "谷歌地球AI生图功能上线不到48小时紧急叫停",
-    "summary": "谷歌地球推出的AI生图功能因争议过大，在上线不到48小时内即被紧急叫停。该功能引发关于AI生成内容在地理信息平台上使用规范的热议。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5966a708bc541452",
-    "source": "企鹅号",
-    "slug": "google-earth-ai-shutdown"
-  },
-  {
-    "date": "2026-08-03",
-    "title": "京东外卖发布AI智能头盔，可语音交互实时配送",
-    "summary": "京东外卖发布AI智能头盔，具备语音交互功能，可实时获取配送信息、导航路线及订单状态，成为外卖骑手智能配送的新装备。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5966a708bc541452",
-    "source": "企鹅号",
-    "slug": "jd-waimai-ai-helmet"
-  },
-  {
-    "date": "2026-08-03",
-    "title": "29国签署协议成立世界人工智能合作组织，中方提出全球治理方案",
-    "summary": "7月16日，来自亚洲、非洲、拉美和欧洲的29个国家签署《关于成立世界人工智能合作组织的协定》，成为创始成员国。习近平主席在WAIC 2026开幕式上系统提出中国方案，强调以人为本、帮助全球南方缩小智能鸿沟。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0596a7090c936952",
-    "source": "企鹅号",
-    "slug": "29-countries-ai-cooperation-org"
-  },
-  {
-    "date": "2026-08-03",
-    "title": "光轮智能与西门子联手，打通工业仿真与具身仿真",
-    "summary": "光轮智能与西门子联手合作，共同搭建连接工业仿真与具身仿真的技术桥梁，推动仿真技术在工业场景与机器人具身智能之间的协同应用，提升智能制造领域的仿真效率。",
-    "url": "https://tech.gmw.cn/node_5557.htm",
-    "source": "光明网",
-    "slug": "guanglun-siemens-simulation"
+    "slug": "nubia-ai-agent-phone"
   },
   {
     "date": "2026-08-04",
-    "title": "AI板块今日大涨，科创创业人工智能ETF涨近6%",
-    "summary": "海内外大厂密集加码AI基建，人工智能板块迎来催化。截至8月4日午间收盘，中证科创创业人工智能指数上涨5.8%，中证人工智能主题指数上涨4.7%，上证科创板人工智能指数上涨3.7%。市场观点指出，此轮算力扩产力度超出市场预期。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6266a71760822452",
-    "source": "企鹅号",
-    "slug": "ai-sector-surge-6percent"
+    "title": "Meta上调资本开支至1300亿美元，亚马逊市值首破3万亿",
+    "summary": "Meta上调2026年资本开支指引至1300亿美元，谷歌为Anthropic打造超1500亿美元芯片融资计划。亚马逊市值首破3万亿美元，AWS收入同比增37%。AI基础设施层需求持续扩张。",
+    "url": "https://www.readaitime.com/",
+    "source": "读懂AI时代",
+    "slug": "meta-capex-amazon-3-trillion"
   },
   {
-    "date": "2026-08-03",
-    "title": "银河通用机器人搭载「银河星脑」，具身智能迈入全身协同新范式",
-    "summary": "银河通用机器人搭载的「银河星脑」（AstraBrain）是全球首创的大脑-小脑-神经控制端到端具身大模型架构，成功打通了多模态感知理解、智能任务规划、实时动作执行的全链路闭环，标志着北京具身智能迈入全身协同新范式。",
-    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "北京日报/科技部",
-    "slug": "yinhe-embodied-ai-astrabrain"
+    "date": "2026-08-04",
+    "title": "欧盟《人工智能法案》透明度条款正式生效开罚",
+    "summary": "欧盟《人工智能法案》透明度条款正式生效并开始罚款，叠加美国白宫拟推AI安全自愿测试规范，呈现全球AI监管「政策收紧+资本加码」并行态势。",
+    "url": "https://new.qq.com/rain/a/20260804A04H0Y00",
+    "source": "腾讯网",
+    "slug": "eu-ai-act-enforcement"
   },
   {
-    "date": "2026-08-03",
-    "title": "中共中央政治局部署下半年经济工作，深入实施「人工智能+」行动",
-    "summary": "7月30日，中共中央政治局召开会议，部署下半年经济工作。会议强调，深入实施「人工智能+」行动，发展智能经济新形态，完善人工智能治理体系，加速AI由虚入实，深度重构全球生产力版图与产业链骨架。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0596a7090c936952",
-    "source": "企鹅号/中国日报网",
-    "slug": "politburo-ai-plus-action"
+    "date": "2026-08-04",
+    "title": "西媒：中国AI发展模式更具内生成长性",
+    "summary": "西班牙《理性报》报道称，中国志在引领全球AI市场，发展路径与美国商业化模式截然不同，以持续落地和规模化普及为核心，依托深耕数十年的数字基础设施体系形成优势。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8976a71a9de27752",
+    "source": "参考消息",
+    "slug": "spain-media-china-ai-model"
   },
   {
-    "date": "2026-08-03",
-    "title": "中国人工智能企业超6600家，北京广东上海等五省份占产业规模超80%",
-    "summary": "中国信通院数据显示，截至2026年6月，中国人工智能企业数量超6600家，全球占比达15%。北京、广东、上海、浙江、山东五省份合计占中国人工智能产业规模比重超过80%，产业高度集中于头部省份。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6506a708b0e26052",
-    "source": "企鹅号",
-    "slug": "china-6600-ai-companies"
+    "date": "2026-08-04",
+    "title": "黄仁勋：物理AI营收已破百亿美元，预言下个千亿赛道",
+    "summary": "黄仁勋在最新长谈中披露物理AI营收已突破百亿美元，回应首条推文背后的「Linux时刻」，并预言下一个千亿美元级别的AI赛道即将到来。",
+    "url": "https://www.51ai.website/",
+    "source": "AI Weekly",
+    "slug": "huang-renxun-physical-ai-10-billion"
   }
 ]
