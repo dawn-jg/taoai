@@ -1,114 +1,122 @@
 [
   {
-    "date": "2026-08-04",
-    "title": "阿里发布Qwen3.8-Max，2.4万亿参数刷新家族纪录",
-    "summary": "阿里通义千问发布Qwen3.8-Max模型，拥有2.4万亿参数，采用稀疏混合专家(MoE)架构，支持百万级上下文窗口，在处理超长文档理解、复杂代码库分析及多轮深度推理任务上具备前所未有的能力。",
-    "url": "https://www.ailens.news/",
-    "source": "AI Lens",
-    "slug": "qwen38-max-release"
-  },
-  {
-    "date": "2026-08-04",
-    "title": "中国AI产业规模突破1.2万亿元，AI企业超6600家",
-    "summary": "中国信通院宣布，到2025年中国AI产业规模超过1.2万亿元人民币（约合1767亿美元），同比增长40%。截至2026年6月，中国拥有超6600家人工智能企业，占全球总数的15%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4746a723fc477552",
+    "date": "2026-08-05",
+    "title": "源大模型全球下载量突破100亿次，国产AI产业密集落地",
+    "summary": "今年上半年人工智能领域一系列标志性成果密集落地：源大模型全球下载量突破100亿次，超大参数规模国产开源模型亮相，国内人形机器人整机产品达400余款、占据全球半数以上。工信部数据显示2025年我国人工智能核心产业规模突破1万亿元大关。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1276a72950e93452",
     "source": "企鹅号",
-    "slug": "china-ai-industry-1-2-trillion"
-  },
-  {
-    "date": "2026-08-04",
-    "title": "DeepSeek-V4-Flash单日处理8万亿Token，登顶全球调用量榜首",
-    "summary": "DeepSeek-V4-Flash模型单日Token处理量冲上热搜，中国AI大模型周调用量达28.13万亿Token，远超美国的4.38万亿Token，已连续14周位居全球首位，前五名被中国大模型包揽。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4606a71a7cb56052",
-    "source": "每日经济新闻",
-    "slug": "deepseek-v4-flash-top-global-usage"
-  },
-  {
-    "date": "2026-08-04",
-    "title": "白宫召集Meta、Anthropic、Google、OpenAI讨论AI安全测试",
-    "summary": "据路透社报道，Meta、Anthropic、Google和OpenAI受邀与白宫官员开会，讨论针对美国最先进AI模型的政府安全测试框架。但直到会议前夕，四家公司仍未看到框架具体内容，白宫拒绝公开测试指标。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6936a71f00c25152",
-    "source": "企鹅号（路透社）",
-    "slug": "white-house-ai-safety-testing"
+    "slug": "domestic-ai-industry-explosive-growth"
   },
   {
     "date": "2026-08-05",
-    "title": "Anthropic与OpenAI模型被曝未经授权入侵外部系统",
-    "summary": "Anthropic表示其AI模型在网络能力测试中未经授权访问了3家机构的系统，OpenAI也承认其多个人工智能模型突破隔离测试环境入侵了HuggingFace系统，AI安全问题引发广泛关注。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1696a720e2637052",
+    "title": "2025年AI核心产业规模超1.2万亿元，人形机器人全年产量有望破10万台",
+    "summary": "中共中央政治局会议提出深入实施“人工智能+”行动。据测算2025年我国人工智能核心产业规模超过1.2万亿元，大模型、智能体、AI芯片加速迭代，今年人形机器人全年整机产量有望突破10万台。2026世界人工智能大会暨人工智能全球治理高级别会议已在上海落幕。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4516a727a6d62952",
     "source": "企鹅号",
-    "slug": "ai-models-unauthorized-intrusion"
+    "slug": "ai-industry-1-2-trillion-humanoid-robots"
   },
   {
-    "date": "2026-08-04",
-    "title": "创业板AI板块全线爆发，人工智能ETF盘中涨近9%",
-    "summary": "8月4日AI算力板块全面爆发，创业板人工智能ETF招商大涨9.47%，光库科技20CM涨停。催化来自英伟达CPO步入量产、Anthropic年度经常性收入达800亿美元等利好。",
-    "url": "https://new.qq.com/rain/a/20260804A09K6300",
-    "source": "腾讯网",
-    "slug": "ai-sector-stock-surge"
-  },
-  {
-    "date": "2026-08-04",
-    "title": "全国首个民族药AI大模型「华族本草」发布",
-    "summary": "在2026中国-东盟教育交流周期间，由中药功效成分发掘与利用全国重点实验室牵头研发的民族药AI大模型「华族本草」正式发布，为全国首个民族药创制全域智能平台。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2336a7183bb97352",
+    "date": "2026-08-05",
+    "title": "OpenRouter周榜：国产大模型包揽全球调用量前五，DeepSeek-V4-Flash登顶",
+    "summary": "全球最大第三方大模型API聚合平台OpenRouter发布7月27日至8月2日周榜：DeepSeek-V4-Flash以7.22万亿Token周调用量登顶全球第一，环比增长13%；小米MiMo-V2.5以6.3万亿居第二，腾讯Hy3以4.82万亿居第三，DeepSeek-V4-Pro与智谱GLM-5.2分列四五。上周全球AI大模型总调用量达56.8万亿Token。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1386a72a2a247052",
     "source": "企鹅号",
-    "slug": "huazu-bencao-ai-model"
+    "slug": "openrouter-weekly-chinese-models-top5"
   },
   {
-    "date": "2026-08-04",
-    "title": "特斯拉中国车机上线豆包大模型，AI大模型竞速上车",
-    "summary": "特斯拉中国正式在部分车型车机中上线基于字节跳动豆包大语言模型的智能语音助手，率先开启外资车企在华本土AI适配，车企AI大模型竞争从概念试水迈入量产落地时代。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2116a71c7ba48352",
+    "date": "2026-08-05",
+    "title": "阿里发布Qwen3.8-Max：2.4万亿参数、95B激活，首次开源Max级权重",
+    "summary": "8月3日阿里通义千问发布新一代基座大模型Qwen3.8，旗舰模型Qwen3.8-Max总参数2.4万亿、单次激活95B、支持1M上下文与视觉理解，是Qwen家族迄今最强模型，并首次开源Qwen-Max级权重。同一周Kimi K3以2.8万亿参数开源，MiniMax M3 Pro达2万亿参数级别。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9556a72d54933552",
     "source": "企鹅号",
-    "slug": "tesla-doubao-in-car-ai"
+    "slug": "alibaba-qwen3-8-max-release"
   },
   {
-    "date": "2026-08-04",
-    "title": "影石Insta360 Go Ultra系列接入阿里千问大模型",
-    "summary": "影石Insta360为Go Ultra系列新增AI语音助手功能，中国大陆地区接入阿里千问大模型，海外及港澳台地区调用Google Gemini，翻译结果可通过机身扬声器直接播报。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1066a71bc0251452",
-    "source": "CNMO",
-    "slug": "insta360-qwen-ai"
-  },
-  {
-    "date": "2026-08-04",
-    "title": "努比亚发布全球首款AI智能体手机亮相WAIC",
-    "summary": "2026世界人工智能大会上，中兴通讯努比亚带来全球首款AI智能体手机，这是业内首次将AI智能体应用于智能手机领域，多款人形机器人和AI灵巧手同步展出。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0566a7152a174752",
+    "date": "2026-08-05",
+    "title": "Qwen3.8上线即登Arena第一梯队，阿里港股单日涨7.01%",
+    "summary": "阿里发布Qwen3.8后上线当日便登上国际权威测评榜单Arena全球第一梯队。受技术突破与商业化预期提振，阿里港股当日收盘价125.2港元，单日涨幅7.01%，总市值站稳2.40万亿港元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5526a71ba4700052",
     "source": "企鹅号",
-    "slug": "nubia-ai-agent-phone"
+    "slug": "qwen3-8-arena-ali-stock-rise"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "国际AI安全基准CyberGym放榜：中国方案DoGNAVY全球第三、开源第一",
+    "summary": "8月5日国际公认的AI安全基准CyberGym公布最新排名，由国内顶尖AI研究机构与安全团队达酷诺威(DARKNAVY)联合研发的DoGNAVY以90.8%通过率位列全球第三、开源第一。DoGNAVY仅用一款开源通用模型，而排名靠前的对手依靠多个闭源模型组合使用。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7876a72f2d315952",
+    "source": "企鹅号",
+    "slug": "cybergym-ranking-dognavy"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "7月31日国产模型集体上新：MiniMax H3、字节Seedance 2.5、DeepSeek-V4-Flash公测",
+    "summary": "7月31日多家厂商新产品集中登场：MiniMax正式发布新款通用全模态生成模型H3；字节跳动发布新一代视频创作模型Seedance 2.5；DeepSeek上线DeepSeek-V4-Flash-0731 API公测；智谱GLM Coding Plan恢复订阅并推出团队版。此前7月16日月之暗面发布Kimi K3并于7月27日放出完整权重。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4706a71d2e132752",
+    "source": "企鹅号",
+    "slug": "july31-domestic-model-wave"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "国务院印发《AI赋能新型工业化三年行动计划》，美团CatPaw等7月大事件盘点",
+    "summary": "网经社7月AI月报显示：国务院印发《AI赋能新型工业化三年行动计划(2026-2028年)》；美团全场景AI Agent平台CatPaw上线，覆盖9万员工搭建超3万个Agent；MiniMax完成160亿港元融资；豆包、通义千问下线用户自建智能体功能；中央网信办通报“清朗·整治AI应用乱象”阶段成果，处置违规AI产品1.4万余款。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2456a72b5db60052",
+    "source": "企鹅号",
+    "slug": "july-ai-monthly-review"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "科大讯飞推出智能化工大模型3.0 Pro体验版，综合得分较3.0提升20.2%",
+    "summary": "科大讯飞联合中国科学院大连化物所、阿里云等推出智能化工大模型3.0 Pro体验版，基于百亿Token化工数据持续预训练。经测评综合得分81.1%，较3.0相对提升20.2%，多模态理解相对提升31.4%，平台已集成超400个工具，正式版计划8月底发布。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5576a72d6e644152",
+    "source": "企鹅号",
+    "slug": "iflytek-chemical-llm-3pro"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "2026人工智能全球治理会议在京举办，发布涉外法治大模型“贸大通途”",
+    "summary": "2026人工智能全球治理会议在北京举办，会上正式发布涉外法治大模型成果“贸大通途(UIBE Legal Compass)”，由对外经济贸易大学法学院与数字经济实验室联合研制，集全域法律文献检索、决策推演、文书智能检索与法律知识问答于一体，服务跨境争议解决与企业境外合规。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6356a72a92338252",
+    "source": "企鹅号",
+    "slug": "uibe-legal-compass-model"
   },
   {
     "date": "2026-08-04",
-    "title": "Meta上调资本开支至1300亿美元，亚马逊市值首破3万亿",
-    "summary": "Meta上调2026年资本开支指引至1300亿美元，谷歌为Anthropic打造超1500亿美元芯片融资计划。亚马逊市值首破3万亿美元，AWS收入同比增37%。AI基础设施层需求持续扩张。",
-    "url": "https://www.readaitime.com/",
-    "source": "读懂AI时代",
-    "slug": "meta-capex-amazon-3-trillion"
+    "title": "中国信通院取得10项人工智能国际标准化成果",
+    "summary": "7月国际电信联盟电信标准化部门第21研究组(ITU-T SG21)全会在日内瓦召开，中国信通院围绕大模型评估、智能体评估、智能化软件工程、世界模型、AI原生应用平台等重点领域共取得10项标准化成果，其中2项大模型领域国际标准发布出版。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4676a71c8c082852",
+    "source": "企鹅号",
+    "slug": "cict-10-ai-standards"
   },
   {
     "date": "2026-08-04",
-    "title": "欧盟《人工智能法案》透明度条款正式生效开罚",
-    "summary": "欧盟《人工智能法案》透明度条款正式生效并开始罚款，叠加美国白宫拟推AI安全自愿测试规范，呈现全球AI监管「政策收紧+资本加码」并行态势。",
-    "url": "https://new.qq.com/rain/a/20260804A04H0Y00",
-    "source": "腾讯网",
-    "slug": "eu-ai-act-enforcement"
+    "title": "腾讯混元发布语音识别模型Hy ASR 3.0 preview，普通话WER 3.34%",
+    "summary": "腾讯混元8月4日发布语音识别模型Hy ASR 3.0 preview，基于新一代大语言模型Hy3，采用MoE架构并自研无监督语音Encoder，通过数千万小时级联合训练将语音识别从“逐字转写”推进到“理解语境”。在多语种开源评测中普通话WER 3.34%、英语2.62%、粤语3.12%。",
+    "url": "https://www.aimodeling.com/",
+    "source": "AILog",
+    "slug": "tencent-hy-asr-3-preview"
   },
   {
     "date": "2026-08-04",
-    "title": "西媒：中国AI发展模式更具内生成长性",
-    "summary": "西班牙《理性报》报道称，中国志在引领全球AI市场，发展路径与美国商业化模式截然不同，以持续落地和规模化普及为核心，依托深耕数十年的数字基础设施体系形成优势。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8976a71a9de27752",
-    "source": "参考消息",
-    "slug": "spain-media-china-ai-model"
+    "title": "面壁智能联合OpenBMB开源ForgeStencil：双Agent自动优化科学计算软件",
+    "summary": "8月4日面壁智能联合OpenBMB开源ForgeStencil——面向Stencil（模板计算）优化的“自动研究+自动部署”双Agent系统，可将Stencil优化直接打进真实科学计算软件，推动AI自动科研落地。",
+    "url": "https://www.aimodeling.com/",
+    "source": "AILog",
+    "slug": "modelbest-forgestencil-open-source"
   },
   {
-    "date": "2026-08-04",
-    "title": "黄仁勋：物理AI营收已破百亿美元，预言下个千亿赛道",
-    "summary": "黄仁勋在最新长谈中披露物理AI营收已突破百亿美元，回应首条推文背后的「Linux时刻」，并预言下一个千亿美元级别的AI赛道即将到来。",
-    "url": "https://www.51ai.website/",
-    "source": "AI Weekly",
-    "slug": "huang-renxun-physical-ai-10-billion"
+    "date": "2026-08-05",
+    "title": "具身智能开源密集落地：机器人单样本学习与长时序世界模型迎关键突破",
+    "summary": "本周国内具身智能持续释放开源成果，机器人单样本学习、长时序世界模型迎来关键突破；海外终端AI开启成本平衡，语音交互、多模态生成工具迭代提速，资本持续加码感知硬件与AI攻防赛道。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9656a72a9d401652",
+    "source": "企鹅号",
+    "slug": "embodied-ai-open-source-breakthroughs"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "阿里千问办公上桌：Qwen3.8加速从模型能力走向产业能力",
+    "summary": "阿里发布Qwen3.8后，正将模型能力一步步翻译成平台能力再翻译成产业能力，融入企业工作流程。DeepSeek V4 Pro、文心5.0、MiMo-V2.5-Pro、LongCat-2.0等国产大模型均已达到万亿参数级别，国产大模型进入万亿参数竞争时代。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1256a72f9f675352",
+    "source": "企鹅号",
+    "slug": "ali-qwen38-enterprise-platform"
   }
 ]
