@@ -11,6 +11,14 @@ export function OrganizationSchema() {
     name: 'TaoAI',
     url: 'https://taoai365.com',
     description: '独立AI工具导航站，收录1200+款AI工具，编辑部真实评测，优缺点分析',
+    foundingDate: '2026-05',
+    email: 'admin@taoai365.com',
+    contactPoint: {
+      '@type': 'ContactPoint',
+      email: 'admin@taoai365.com',
+      contactType: 'customer service',
+      availableLanguage: ['zh-CN'],
+    },
     sameAs: [],
     logo: 'https://taoai365.com/favicon.svg',
   };

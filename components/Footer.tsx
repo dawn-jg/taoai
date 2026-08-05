@@ -36,6 +36,7 @@ export default function Footer() {
               <li className="text-xs text-gray-500">TaoAI · 发现最好的AI工具</li>
               <li className="text-xs text-gray-500">已收录 {categories.reduce((s,c)=>s+c.count,0)}+ 款</li>
               <li><Link href="/about" className="text-xs text-gray-500 hover:text-blue-600">关于我们</Link></li>
+              <li><Link href="/editorial-policy" className="text-xs text-gray-500 hover:text-blue-600">编辑政策</Link></li>
               <li><Link href="/contact" className="text-xs text-gray-500 hover:text-blue-600">联系我们</Link></li>
               <li><Link href="/privacy" className="text-xs text-gray-500 hover:text-blue-600">隐私政策</Link></li>
             </ul>

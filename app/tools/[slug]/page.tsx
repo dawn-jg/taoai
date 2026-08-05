@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { getToolBySlug, getCategories, getAllTools, getEditorialBySlug } from '@/lib/tools';
 import ToolLogo from '@/components/ToolLogo';
-import { ToolSchema, BreadcrumbSchema } from '@/components/StructuredData';
+import { ToolSchema, BreadcrumbSchema, FAQSchema } from '@/components/StructuredData';
 import { Metadata } from 'next';
 
 export async function generateStaticParams() {
@@ -107,7 +107,9 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
             </div>
             <span className="text-sm font-bold text-gray-900">{editorial.rating}</span>
             <span className="text-xs text-gray-500">/ 5.0</span>
-            <span className="text-[10px] text-gray-400 ml-auto">{editorial.author} · {editorial.date}</span>
+            <span className="text-[10px] text-gray-400 ml-auto">
+              <Link href="/about#editorial-team" className="hover:text-blue-600">{editorial.author}</Link> · {editorial.date}
+            </span>
           </div>
           <p className="text-sm text-gray-700 font-medium mb-3">{editorial.summary}</p>
           <div className="text-sm text-gray-700 leading-relaxed whitespace-pre-line mb-4">{editorial.body}</div>
@@ -135,6 +137,9 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
               </ul>
             </div>
           </div>
+          <p className="text-[10px] text-gray-400 mt-3 pt-3 border-t border-amber-100">
+            评测基于 TaoAI 编辑部的真实使用体验，更新时间 {editorial.date}。查看<a href="/editorial-policy" className="text-blue-600 hover:underline">评测标准</a>。
+          </p>
         </div>
       )}
 
@@ -152,58 +157,6 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
                 <div className="px-3 py-2 text-xs text-gray-400">截图 {i + 1} — 点击查看原图</div>
               </a>
             ))}
-          </div>
-        </div>
-      )}
-
-      {/* ===== Editorial Review (from TaoAI) ===== */}
-      {editorial && (
-        <div className="mb-5 bg-gradient-to-br from-amber-50 to-orange-50 rounded-xl border border-amber-200 p-6">
-          <div className="flex items-center gap-2 mb-4">
-            <span className="text-lg">✍️</span>
-            <h2 className="text-base font-bold text-gray-900">TaoAI 编辑评测</h2>
-            <span className="text-[10px] text-amber-600 bg-amber-100 px-2 py-0.5 rounded-full">原创内容</span>
-          </div>
-
-          <div className="flex items-center gap-2 mb-3">
-            <div className="flex items-center gap-0.5 text-amber-500 text-sm">
-              {Array.from({ length: Math.floor(editorial.rating) }).map((_, i) => (
-                <span key={i}>★</span>
-              ))}
-              {editorial.rating % 1 >= 0.5 && <span>½</span>}
-            </div>
-            <span className="text-sm font-bold text-gray-900">{editorial.rating}</span>
-            <span className="text-xs text-gray-500">/ 5.0</span>
-            <span className="text-[10px] text-gray-400 ml-auto">{editorial.author} · {editorial.date}</span>
-          </div>
-
-          <p className="text-sm text-gray-700 font-medium mb-3">{editorial.summary}</p>
-          <div className="text-sm text-gray-700 leading-relaxed whitespace-pre-line mb-4">{editorial.body}</div>
-
-          {/* Pros & Cons */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-            <div className="bg-green-50 border border-green-200 rounded-lg p-3">
-              <h4 className="text-xs font-bold text-green-700 mb-2">👍 优点</h4>
-              <ul className="space-y-1">
-                {editorial.pros.map((p, i) => (
-                  <li key={i} className="text-xs text-green-800 flex items-start gap-1.5">
-                    <span className="text-green-500 shrink-0 mt-0.5">✓</span>
-                    <span>{p}</span>
-                  </li>
-                ))}
-              </ul>
-            </div>
-            <div className="bg-red-50 border border-red-200 rounded-lg p-3">
-              <h4 className="text-xs font-bold text-red-700 mb-2">👎 缺点</h4>
-              <ul className="space-y-1">
-                {editorial.cons.map((c, i) => (
-                  <li key={i} className="text-xs text-red-800 flex items-start gap-1.5">
-                    <span className="text-red-500 shrink-0 mt-0.5">✗</span>
-                    <span>{c}</span>
-                  </li>
-                ))}
-              </ul>
-            </div>
           </div>
         </div>
       )}
@@ -302,6 +255,21 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
         </div>
       )}
 
+      {/* ===== FAQ (GEO: 生成式引擎可引用的问答区块) ===== */}
+      <SectionCard title={`${tool.name} 常见问题`}>
+        <div className="space-y-4">
+          {toolFaqs.map((faq, i) => (
+            <div key={i}>
+              <h3 className="text-sm font-semibold text-gray-900 mb-1.5">{faq.question}</h3>
+              <p className="text-sm text-gray-600 leading-relaxed">{faq.answer}</p>
+            </div>
+          ))}
+        </div>
+        <p className="text-[10px] text-gray-400 mt-4 pt-3 border-t border-gray-100">
+          信息更新于 {tool.createdAt || '2026-07'}。如信息有误，欢迎<a href="/contact" className="text-blue-600 hover:underline">联系我们</a>更正。
+        </p>
+      </SectionCard>
+
       {/* JSON-LD Structured Data */}
       <BreadcrumbSchema items={[
         { name: '首页', url: 'https://taoai365.com' },
@@ -309,9 +277,17 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
         { name: tool.name, url: canonicalUrl },
       ]} />
       <ToolSchema tool={tool} editorial={editorial} />
+      <FAQSchema faqs={toolFaqs} />
     </div>
   );
 }
+
+/* 工具 FAQ 数据（GEO 优化：直接回答式内容，便于 AI 搜索引擎引用） */
+const toolFaqs = [
+  { question: '这是免费的 AI 工具吗？', answer: '这取决于具体产品：部分工具提供完全免费版本，部分采用免费增值模式，部分需要付费订阅。建议访问官网查看最新的定价方案。' },
+  { question: '适合哪些人使用？', answer: '适合需要提升工作效率、内容创作、编程开发、设计绘画等场景的个人用户和团队。具体适用场景可参考本页分类标签和编辑评测。' },
+  { question: '与其他同类 AI 工具相比如何？', answer: '每个工具各有侧重。本页「类似于」区块列出了同类工具，可以对比评分、价格模式和使用场景后做出选择。' },
+];
 
 /* ---- Sub-components ---- */
 

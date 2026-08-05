@@ -165,6 +165,29 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* FAQ (GEO: 生成式搜索引擎常引用) */}
+      <section className="bg-white rounded-xl border border-gray-200 p-6">
+        <h2 className="text-lg font-bold text-gray-900 mb-4">关于 TaoAI 的常见问题</h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+          <div>
+            <h3 className="text-sm font-semibold text-gray-900 mb-1.5">TaoAI 是什么？</h3>
+            <p className="text-xs text-gray-600 leading-relaxed">TaoAI 是独立的 AI 工具导航站，收录 1200+ 款 AI 工具，覆盖 15 个分类。与聚合站不同，我们为重要工具提供编辑部原创评测和优缺点分析。</p>
+          </div>
+          <div>
+            <h3 className="text-sm font-semibold text-gray-900 mb-1.5">TaoAI 的评测可信吗？</h3>
+            <p className="text-xs text-gray-600 leading-relaxed">我们坚持真实使用后评分，不接受付费好评，评测独立于广告合作。完整的评测标准见<a href="/editorial-policy" className="text-blue-600 hover:underline">编辑政策</a>。</p>
+          </div>
+          <div>
+            <h3 className="text-sm font-semibold text-gray-900 mb-1.5">TaoAI 免费吗？</h3>
+            <p className="text-xs text-gray-600 leading-relaxed">TaoAI 对用户完全免费。我们通过展示广告（如 Google AdSense）维持运营，广告不影响评测立场。</p>
+          </div>
+          <div>
+            <h3 className="text-sm font-semibold text-gray-900 mb-1.5">如何提交我的 AI 工具？</h3>
+            <p className="text-xs text-gray-600 leading-relaxed">欢迎通过<a href="/contact" className="text-blue-600 hover:underline">联系我们</a>页面提交工具收录申请，我们审核后会尽快回复。</p>
+          </div>
+        </div>
+      </section>
     </div>
   );
 }

@@ -20,6 +20,7 @@ const urls = [];
 // --- Core pages ---
 urls.push({ loc: `${BASE_URL}/`, changefreq: 'daily', priority: '1.0' });
 urls.push({ loc: `${BASE_URL}/about`, changefreq: 'monthly', priority: '0.5' });
+urls.push({ loc: `${BASE_URL}/editorial-policy`, changefreq: 'monthly', priority: '0.5' });
 urls.push({ loc: `${BASE_URL}/contact`, changefreq: 'monthly', priority: '0.3' });
 urls.push({ loc: `${BASE_URL}/privacy`, changefreq: 'yearly', priority: '0.2' });
 urls.push({ loc: `${BASE_URL}/news`, changefreq: 'daily', priority: '0.8' });
