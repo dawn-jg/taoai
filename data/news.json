@@ -1,106 +1,82 @@
 [
   {
     "date": "2026-08-06",
-    "title": "国家发改委：加快人工智能法立法，让AI既跑得快又跑得稳",
-    "summary": "国家发展改革委表示将加快人工智能法立法。目前首个全国产10万卡人工智能超集群正式投用，截至6月底全国智能算力规模达去年同期2.8倍；深度求索、月之暗面等本土企业先后发布多个万亿级参数开源大模型，国产大模型全球总下载量突破100亿次，建成高质量数据集超12万个。",
+    "title": "国家发展改革委：加快人工智能法立法，让AI既跑得快又跑得稳",
+    "summary": "国家发改委表示将加快人工智能立法。首个全国产10万卡人工智能超集群正式投用，截至6月底全国智能算力规模达去年同期2.8倍。深度求索、月之暗面等本土企业发布多个万亿级参数开源大模型，国产大模型全球总下载量突破100亿次。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1906a743f3503852",
     "source": "企鹅号",
-    "slug": "ndrc-ai-law-legislation"
+    "slug": "ndrc-ai-legislation-2026"
   },
   {
     "date": "2026-08-06",
-    "title": "谷歌AI高层大换血：4位大牛离职、CEO退居二线",
-    "summary": "网易科技报道称凌晨谷歌AI发生人事地震：4位核心大牛离职、CEO退居二线。同期SpaceX发布首份财报，营收暴涨92%，AI投入庞大；DeepSeek预告API价格将上调。海外科技巨头核心人事迎来重磅更迭，顶尖AI人才独立创业、高管团队换届。",
-    "url": "https://tech.163.com/",
-    "source": "网易科技",
-    "slug": "google-ai-executive-shakeup"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "DeepSeek宣布将上调API服务价格，预计涨幅较大",
-    "summary": "DeepSeek发布公告，计划近期整体上调DeepSeek API服务定价，预计涨幅较大，建议用户合理安排使用。此前7月31日DeepSeek-V4-Flash正式版API上线公测，模型结构与预览版保持一致，仅重新进行后训练。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6096a74225a05952",
+    "title": "谷歌AI高层大换血：首席科学家Jeff Dean离职创业，DeepMind换帅",
+    "summary": "谷歌AI首席科学家杰夫·迪恩（Jeff Dean）宣布结束27年谷歌生涯，与三位技术元老联合创立AI初创公司Discovery Loop，聚焦AI驱动的科学研究全流程自动化。DeepMind CEO哈萨比斯卸下原职，转任Alphabet首席科学家，专注于AGI长期战略。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2256a74732040052",
     "source": "企鹅号",
-    "slug": "deepseek-api-price-increase"
+    "slug": "google-ai-leadership-overhaul-2026"
   },
   {
     "date": "2026-08-06",
-    "title": "字节跳动CEO梁汝波谈大模型：接受短期落后，坚持优化长期",
-    "summary": "8月6日字节跳动举办2026年度年中全员会，CEO梁汝波总结AI业务上半年表现：豆包在C端应用保持竞争力，视频生成模型Seedance保持SOTA。创始人张一鸣在内部会议中表示做模型要坚持长期主义、延迟满足感，拒绝用别人输出换一时榜单排名。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2876a745a9267852",
+    "title": "DeepSeek预告API价格大幅上涨，V4正式版发布在即",
+    "summary": "DeepSeek 8月6日公告，计划近期整体上调API服务定价，预计涨幅较大。DeepSeek在6月底曾预告V4正式版上线后将引入峰谷定价机制，高峰时段调用价格直接翻倍。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2256a74732040052",
     "source": "企鹅号",
-    "slug": "bytedance-liang-rubo-llm"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "字节跳动发布SeedRealtime：原生音视频全双工大模型",
-    "summary": "字节跳动Seed团队发布原生音视频全双工大模型SeedRealtime，通过统一架构融合音频、视频与文本，可持续理解画面、声音和时序信息，并判断何时插话、暂停或主动提醒。首批接入14家伙伴，覆盖电商、交通、金融、法律、产业数据和物流六类场景。",
-    "url": "http://www.uisdc.com/news",
-    "source": "优设网",
-    "slug": "bytedance-seedrealtime-model"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "Mistral发布30亿参数端侧安全模型Shieldstral",
-    "summary": "Mistral AI发布30亿参数开源安全模型Shieldstral，专为端侧内容审核设计。30亿参数量使其能在手机、PC等终端设备上高效运行，无需将敏感数据上传云端即可完成实时审核，既保护用户隐私又降低延迟，填补轻量级端侧内容安全模型空白。",
-    "url": "https://www.ailens.news/",
-    "source": "AI Lens",
-    "slug": "mistral-shieldstral-model"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "英伟达开源自动驾驶新模型Alpamayo 2 Super",
-    "summary": "英伟达开源Alpamayo 2 Super模型，专攻自动驾驶长尾场景推理难题，已开放商用。同期全球开源模型进入高密度迭代期，千亿视频、端侧安全、具身基座、编程智能体集中开放。",
-    "url": "https://www.ailens.news/",
-    "source": "AI Lens",
-    "slug": "nvidia-alpamayo-2-super"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "字节跳动整合豆包、飞书与火山引擎，AI业务转向ToB生产力",
-    "summary": "PA日报显示，字节跳动整合豆包、飞书与火山引擎，AI业务重点转向ToB生产力。同期红杉资本完成100亿美元新一轮融资，拟向Anthropic投资25亿美元；稳定币公司JPYC累计完成3800万美元B轮融资。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4966a74507b65452",
-    "source": "企鹅号",
-    "slug": "bytedance-ai-tob-restructure"
+    "slug": "deepseek-api-price-hike-v4-2026"
   },
   {
     "date": "2026-08-07",
-    "title": "AI驶入\"L3智能体\"深水区，中美模型差距收窄",
-    "summary": "在第二十届沙利文全球增长、科创与领导力峰会上，阶跃星辰联合创始人兼CTO朱亦博表示行业已无可争议地进入AI的L3时代。万亿元资本正博弈真实场景商业化，中美模型差距持续收窄。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4646a74b96236752",
-    "source": "企鹅号",
-    "slug": "ai-l3-agent-era"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "国产大模型连续14周包揽OpenRouter调用量前五",
-    "summary": "OpenRouter数据显示，国产大模型已连续14周包揽调用量前五。伴随国产大模型能力接近全球主流模型第一梯队，国内AI应用及Agent将进入百花齐放阶段，中国大模型商业化价值兑现拐点已至。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0696a742bb630052",
-    "source": "企鹅号",
-    "slug": "chinese-llms-openrouter-top5"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "美图上线AI影像平台MeituHub，小红书成立一级部门加码AI社交",
-    "summary": "站长之家AI日报显示，美图推出AI影像全链路生产平台MeituHub；小红书全面加码AI社交，成立一级部门加速布局；DeepSeek宣布上调API服务价格进入商业化动态调整期，MiniMax也在加速推进。",
-    "url": "http://chinaz.com/",
-    "source": "站长之家",
-    "slug": "meituhub-xiaohongshu-ai"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "元脑企智EPAI 2.0发布：多智能体协同进入企业AI应用",
-    "summary": "浪潮信息发布元脑企智EPAI 2.0。伴随AI Coding等长流程场景渗透，单一Agent已难以满足企业复杂业务需求，由大量Agent持续并发运行、共同完成复杂业务的\"多智能体群智协同\"进入企业AI应用。",
-    "url": "https://www.prnasia.com/releases/listpage-theme-93-all-1.shtml",
-    "source": "美通社",
-    "slug": "epai-20-multi-agent-enterprise"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "全球首个\"AI一作\"大型社会实验报告发布，AI科研狂飙需人类握紧\"手刹\"",
-    "summary": "今年8月，《超越图灵测试：全球首个\"AI一作\"大型社会实验全景报告》专刊作为阶段性成果在华东师范大学学报刊发。报告引发讨论：人类学者是否正在让出知识生产主导权，抑或AI能打破传统科研的效率瓶颈。",
+    "title": "AI的科研狂飙需要人类握紧\"手刹\"",
+    "summary": "《超越图灵测试：全球首个\"AI一作\"大型社会实验全景报告》专刊在华东师范大学学报刊发，探讨AI成为论文一作引发的争议与期待，涉及人类学者是否主动让出知识生产主导权的讨论。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1296a750b9a08052",
     "source": "企鹅号",
-    "slug": "ai-first-author-experiment-report"
+    "slug": "ai-first-author-debate-2026"
+  },
+  {
+    "date": "2026-08-06",
+    "title": "开源模型集体爆发：千亿视频、端侧安全、具身基座、编程智能体集中开放",
+    "summary": "今日AI圈开源模型进入高密度迭代期，千亿视频模型、端侧安全模型、具身基座模型、编程智能体集中发布。国内AI办公体系整合完善，头部大模型冲刺Pre-IPO，海外大厂加速自研芯片、加码算力资本投入。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6436a745f0c89752",
+    "source": "企鹅号",
+    "slug": "open-source-ai-models-surge-2026"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "台积电加速扩充先进制程产能，AI芯片需求持续高增",
+    "summary": "台积电为应对苹果A20 Pro处理器需求全力拉升2nm产能，因DRAM短缺堆积了价值10亿美元的苹果处理器。受英伟达、AMD、博通等核心客户驱动，台积电3nm制程产能预计较原先预期提前2至3个月扩张，第4季度初月投片量将提升至18万片。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9316a75359016052",
+    "source": "企鹅号",
+    "slug": "tsmc-advanced-chip-expansion-2026"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "斯坦福发布2026年AI指数报告：Anthropic和OpenAI计划年底前IPO",
+    "summary": "斯坦福以人为本人工智能研究院发布2026年《人工智能指数》报告，超过400页涵盖投资、算力、公众舆论等多方面趋势。Anthropic和OpenAI都计划在年底前进行首次公开募股，引领行业投资热潮。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3536a7550ed91352",
+    "source": "企鹅号",
+    "slug": "stanford-ai-index-2026-ipo"
+  },
+  {
+    "date": "2026-08-06",
+    "title": "美图上线AI平台MeituHub，小红书成立一级部门全面加码AI社交",
+    "summary": "美图推出AI影像全链路生产平台MeituHub。小红书全面加码AI社交，成立一级部门加速布局。MiniMax等AI公司持续推进产品迭代。",
+    "url": "http://chinaz.com/",
+    "source": "站长之家",
+    "slug": "meituhub-xiaohongshu-ai-2026"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "中国平安亮相WAIC 2026，发布医疗、保险、支付领域最新AI成果",
+    "summary": "2026世界人工智能大会（WAIC 2026）7月在上海举行，中国平安全面发布医疗、保险、支付等核心场景的AI创新产品与服务体系，首创专病AI产品矩阵，实现医险协同闭环。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6806a75524951752",
+    "source": "企鹅号",
+    "slug": "pingan-waic-2026-ai"
+  },
+  {
+    "date": "2026-08-06",
+    "title": "浪潮入选2026年IDC中国AI 50强，构建全栈AI能力支撑体系",
+    "summary": "国际数据公司（IDC）发布\"2026年IDC中国AI 50强\"名单，浪潮凭借从底层算力支撑、中层平台赋能到上层行业智能应用的全栈AI能力体系成功入选。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9256a742c8e47952",
+    "source": "企鹅号",
+    "slug": "inspur-idc-china-ai-50-2026"
   }
 ]
