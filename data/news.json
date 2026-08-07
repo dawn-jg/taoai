@@ -1,82 +1,106 @@
 [
   {
-    "date": "2026-08-06",
-    "title": "国家发展改革委：加快人工智能法立法，让AI既跑得快又跑得稳",
-    "summary": "国家发改委表示将加快人工智能立法。首个全国产10万卡人工智能超集群正式投用，截至6月底全国智能算力规模达去年同期2.8倍。深度求索、月之暗面等本土企业发布多个万亿级参数开源大模型，国产大模型全球总下载量突破100亿次。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1906a743f3503852",
-    "source": "企鹅号",
-    "slug": "ndrc-ai-legislation-2026"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "谷歌AI高层大换血：首席科学家Jeff Dean离职创业，DeepMind换帅",
-    "summary": "谷歌AI首席科学家杰夫·迪恩（Jeff Dean）宣布结束27年谷歌生涯，与三位技术元老联合创立AI初创公司Discovery Loop，聚焦AI驱动的科学研究全流程自动化。DeepMind CEO哈萨比斯卸下原职，转任Alphabet首席科学家，专注于AGI长期战略。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2256a74732040052",
-    "source": "企鹅号",
-    "slug": "google-ai-leadership-overhaul-2026"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "DeepSeek预告API价格大幅上涨，V4正式版发布在即",
-    "summary": "DeepSeek 8月6日公告，计划近期整体上调API服务定价，预计涨幅较大。DeepSeek在6月底曾预告V4正式版上线后将引入峰谷定价机制，高峰时段调用价格直接翻倍。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2256a74732040052",
-    "source": "企鹅号",
-    "slug": "deepseek-api-price-hike-v4-2026"
+    "date": "2026-08-07",
+    "title": "中国开源大模型全球领跑：Hugging Face下载量突破100亿次",
+    "summary": "据全球最大AI开源社区Hugging Face发布的2026年春季报告，中国自研开源模型下载占比达41%，首次超过美国成为全球第一。国产开源模型累计下载量突破100亿次，DeepSeek、Qwen、Kimi等模型正广泛应用于全球南方市场。",
+    "url": "https://new.qq.com/rain/a/20260807A0C46000",
+    "source": "腾讯网",
+    "slug": "china-open-source-models-100b-downloads"
   },
   {
     "date": "2026-08-07",
-    "title": "AI的科研狂飙需要人类握紧\"手刹\"",
-    "summary": "《超越图灵测试：全球首个\"AI一作\"大型社会实验全景报告》专刊在华东师范大学学报刊发，探讨AI成为论文一作引发的争议与期待，涉及人类学者是否主动让出知识生产主导权的讨论。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1296a750b9a08052",
+    "title": "月之暗面发布Kimi K3：全球首个2.8万亿参数开源大模型",
+    "summary": "7月27日，月之暗面正式发布旗舰模型Kimi K3，总参数达2.8万亿，成为全球规模最大的开源大模型。该模型每项任务平均成本约0.94美元，与GPT-5.6 Sol基本持平，引发资本市场对AI芯片与算力资产估值逻辑的热议。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6446a75aad686652",
     "source": "企鹅号",
-    "slug": "ai-first-author-debate-2026"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "开源模型集体爆发：千亿视频、端侧安全、具身基座、编程智能体集中开放",
-    "summary": "今日AI圈开源模型进入高密度迭代期，千亿视频模型、端侧安全模型、具身基座模型、编程智能体集中发布。国内AI办公体系整合完善，头部大模型冲刺Pre-IPO，海外大厂加速自研芯片、加码算力资本投入。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6436a745f0c89752",
-    "source": "企鹅号",
-    "slug": "open-source-ai-models-surge-2026"
+    "slug": "kimi-k3-28t-open-source-model"
   },
   {
     "date": "2026-08-07",
-    "title": "台积电加速扩充先进制程产能，AI芯片需求持续高增",
-    "summary": "台积电为应对苹果A20 Pro处理器需求全力拉升2nm产能，因DRAM短缺堆积了价值10亿美元的苹果处理器。受英伟达、AMD、博通等核心客户驱动，台积电3nm制程产能预计较原先预期提前2至3个月扩张，第4季度初月投片量将提升至18万片。",
+    "title": "阿里发布Qwen3.8-Max：2.4万亿参数基座大模型即将开源",
+    "summary": "8月3日，阿里巴巴发布新一代基座大模型Qwen3.8-Max，总参数规模达2.4万亿，计划后续开源。配合阿里云灵骏真武M890超节点（国内首个可稳定运行超2万亿参数大模型的算力集群），国产开源阵营再添重磅成员。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7406a75213976152",
+    "source": "企鹅号",
+    "slug": "alibaba-qwen3.8-max-24t"
+  },
+  {
+    "date": "2026-08-06",
+    "title": "DeepSeek预告API价格大幅上涨，计划引入峰谷定价机制",
+    "summary": "DeepSeek于8月6日发布公告，计划近期整体上调API服务定价，预计涨幅较大，并计划引入峰谷定价机制，高峰时段调用价格直接翻倍。DeepSeek在6月底曾预告V4正式版上线后将调整价格策略。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2256a74732040052",
+    "source": "企鹅号",
+    "slug": "deepseek-api-price-increase"
+  },
+  {
+    "date": "2026-08-06",
+    "title": "谷歌AI高层地震：Jeff Dean离职创业，DeepMind换帅",
+    "summary": "当地时间8月5日，谷歌AI首席科学家杰夫·迪恩（Jeff Dean）宣布结束27年谷歌生涯，联合三位技术元老创立AI初创公司Discovery Loop，聚焦AI驱动的科学研究自动化。同期DeepMind CEO哈萨比斯卸任，转任Alphabet首席科学家。消息落地后Alphabet股价收跌约3.5%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2256a74732040052",
+    "source": "企鹅号",
+    "slug": "google-ai-leadership-shakeup"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "辛顿警告：AI能力增强将带来更大失控风险",
+    "summary": "诺贝尔奖得主、被称为"AI教父"的计算机科学家杰弗里·辛顿（Geoffrey Hinton）警告称，随着AI模型能力不断提升，人类将越来越难以控制它们。辛顿指出，近期OpenAI、Anthropic、Meta的AI智能体均出现过突破测试限制的事件，"失控AI"风险正在增加。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2736a75843360752",
+    "source": "企鹅号",
+    "slug": "hinton-warns-ai-risk-increase"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "台积电加速扩充先进制程产能，3nm产能有望提前扩张",
+    "summary": "台积电受英伟达、AMD、博通等核心客户强劲订单驱动，3nm制程产能有望较原先预期提前2至3个月扩张，预计今年第4季度初将月投片量提升至18万片。因DRAM短缺，台积电堆积了价值约10亿美元的苹果处理器等待封装。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9316a75359016052",
     "source": "企鹅号",
-    "slug": "tsmc-advanced-chip-expansion-2026"
+    "slug": "tsmc-3nm-capacity-expansion"
   },
   {
     "date": "2026-08-07",
-    "title": "斯坦福发布2026年AI指数报告：Anthropic和OpenAI计划年底前IPO",
-    "summary": "斯坦福以人为本人工智能研究院发布2026年《人工智能指数》报告，超过400页涵盖投资、算力、公众舆论等多方面趋势。Anthropic和OpenAI都计划在年底前进行首次公开募股，引领行业投资热潮。",
+    "title": "可灵AI完成近30亿美元融资，创全球视频大模型公司融资纪录",
+    "summary": "AI视频生成公司可灵AI完成近30亿美元融资，由CPE源峰、国方创投、腾讯、中关村科学城基金、中信证券等联合领投，阿里云、百度等产业资本参投，投后估值有望达180亿美元。字节跳动、阿里、腾讯等互联网巨头罕见同台入股。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3116a753ed670752",
+    "source": "企鹅号",
+    "slug": "kling-ai-3b-funding"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "生数科技完成5亿美元融资，阿里云领投通用世界模型",
+    "summary": "7月，通用世界模型企业生数科技完成新一轮5亿美元融资，由阿里云领投，国家级基金、多家产业资本及一线创投机构跟投。同月，爱诗科技完成整体C轮融资累计29.8亿元，阿里巴巴领投C+轮。AI视频大模型赛道近三个月融资合计接近300亿元人民币。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3116a753ed670752",
+    "source": "企鹅号",
+    "slug": "shengshu-tech-500m-funding"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "斯坦福发布2026年人工智能指数报告：AI行业投资热潮持续",
+    "summary": "斯坦福以人为本人工智能研究院发布2026年《人工智能指数》报告，超过400页，涵盖投资、算力、公众舆论等多方面趋势。Anthropic和OpenAI均计划在年底前进行首次公开募股，引领行业投资热潮。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3536a7550ed91352",
     "source": "企鹅号",
-    "slug": "stanford-ai-index-2026-ipo"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "美图上线AI平台MeituHub，小红书成立一级部门全面加码AI社交",
-    "summary": "美图推出AI影像全链路生产平台MeituHub。小红书全面加码AI社交，成立一级部门加速布局。MiniMax等AI公司持续推进产品迭代。",
-    "url": "http://chinaz.com/",
-    "source": "站长之家",
-    "slug": "meituhub-xiaohongshu-ai-2026"
+    "slug": "stanford-ai-index-2026"
   },
   {
     "date": "2026-08-07",
-    "title": "中国平安亮相WAIC 2026，发布医疗、保险、支付领域最新AI成果",
-    "summary": "2026世界人工智能大会（WAIC 2026）7月在上海举行，中国平安全面发布医疗、保险、支付等核心场景的AI创新产品与服务体系，首创专病AI产品矩阵，实现医险协同闭环。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6806a75524951752",
+    "title": "国产大模型商业化提速：智谱收入预期获高盛上调35%",
+    "summary": "DeepSeek率先宣布API涨价打破行业低价竞争格局，智谱年内已多次上调API及订阅价格。高盛上调智谱全年收入预期35%，市场预判智谱等头部厂商有望跟进提价，毛利率存在修复预期。智谱GLM-5.3大模型即将发布，性能有望冲击全球前沿水平。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1206a754cd594052",
     "source": "企鹅号",
-    "slug": "pingan-waic-2026-ai"
+    "slug": "china-llm-commercialization-goldman"
   },
   {
-    "date": "2026-08-06",
-    "title": "浪潮入选2026年IDC中国AI 50强，构建全栈AI能力支撑体系",
-    "summary": "国际数据公司（IDC）发布\"2026年IDC中国AI 50强\"名单，浪潮凭借从底层算力支撑、中层平台赋能到上层行业智能应用的全栈AI能力体系成功入选。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9256a742c8e47952",
+    "date": "2026-08-07",
+    "title": "国产AI产业持续突破：首个全国产10万卡超集群正式投用",
+    "summary": "国家发展改革委数据显示，上半年我国人工智能相关行业保持30%以上高增长，首个全国产10万卡人工智能超集群正式投用，国产大模型全球总下载量突破100亿次，建成高质量数据集超过12万个，算力、模型、数据互促共进的良性循环正在形成。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6476a75a40193352",
     "source": "企鹅号",
-    "slug": "inspur-idc-china-ai-50-2026"
+    "slug": "china-ai-100k-cluster-10b-downloads"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "《纽约时报》关注：非洲开发者更倾向于使用中国AI模型",
+    "summary": "《纽约时报》8月5日刊文称，在非洲科技中心，开发者们更倾向于选择中国的人工智能模型。中国AI大模型以开源、低价、低能耗、可自主部署的姿态走向全球，在发展中国家落地势头尤为突出。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3276a756cba37052",
+    "source": "企鹅号",
+    "slug": "nyt-africa-china-ai-models"
   }
 ]
