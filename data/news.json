@@ -1,122 +1,114 @@
 [
   {
-    "date": "2026-08-07",
-    "title": "美国起草法规拟禁进口中国产新型光收发模块，AI限制再升级",
-    "summary": "据报道，美国正起草法规禁止进口中国产新型光收发模块（AI超级算力集群的重要硬件），并自6月以来对中国人工智能企业、高校及科研机构实施密集限制，覆盖人形机器人、四足机器人等上下游。分析认为此举难以阻挡中国AI热潮。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5986a75f48d49352",
+    "date": "2026-08-08",
+    "title": "王兴兴回应 DeepSeek 投资宇树：将展开重点合作",
+    "summary": "宇树科技CEO王兴兴就 DeepSeek 投资宇树一事作出回应，表示双方将展开重点合作，具体方向聚焦于具身智能与AI大模型的深度融合。此前 DeepSeek 完成对宇树科技的战略投资，引发行业广泛关注。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2416a767df585052",
     "source": "企鹅号",
-    "slug": "us-ai-wall-china-optical-module"
+    "slug": "wangxingxing-deepseek-robots-cooperation"
+  },
+  {
+    "date": "2026-08-08",
+    "title": "微信内测朋友圈 AI 新功能，智能化社交体验再升级",
+    "summary": "微信正在内测朋友圈 AI 相关新功能，尝试将大模型能力融入社交场景，为用户提供更智能的内容推荐与互动体验。目前该功能处于小范围测试阶段，正式上线时间尚未公布。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2416a767df585052",
+    "source": "企鹅号",
+    "slug": "wechat-moments-ai-feature-test"
+  },
+  {
+    "date": "2026-08-08",
+    "title": "美国科学家首次用AI设计出新型病毒，成果引发强烈争议",
+    "summary": "斯坦福大学与弧形研究所（Arc Institute）合作，利用AI大模型设计并合成出16种具备活性的病毒，该成果于8月6日发表在美国《科学》期刊上。此事引发国际舆论强烈争议，被指为首个AI前沿实验室因网络安全担忧而承诺放缓AI模型开发的案例。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7636a769f8105452",
+    "source": "企鹅号",
+    "slug": "ai-designed-virus-controversy"
+  },
+  {
+    "date": "2026-08-08",
+    "title": "Kimi K3开源后月之暗面再出手，国内外大模型厂商集体爆发",
+    "summary": "7月至8月初，国内外主流AI大模型厂商密集发布重磅产品：月之暗面发布Kimi K3（2.8万亿参数）并开源完整权重；Anthropic发布Claude Opus 5；谷歌推出具身智能Gemini Robotics ER 2；MiniMax发布全模态模型H3；字节发布Seedance 2.5；DeepSeek-V4-Flash开启正式版API公测；OpenAI发布科研突破预告Astra；阿里发布Qwen3.8。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7026a769aff25552",
+    "source": "企鹅号",
+    "slug": "ai-model-frenzy-kimi-claude-gemini"
+  },
+  {
+    "date": "2026-08-08",
+    "title": "2026中国数字产业生态大会举行，AI成为产业底层基座",
+    "summary": "2026中国数字产业生态大会举行，大模型效率提升推动全球重新审视技术路径，具身智能开始在制造业、服务业等场景探索应用，AI Agent由“对话工具”逐步转向“生产力主体”。AI沿着全产业链、全场景、全要素深入渗透，重塑生产方式与价值链条。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9776a76392427152",
+    "source": "企鹅号",
+    "slug": "china-digital-ecology-ai-base-2026"
   },
   {
     "date": "2026-08-07",
-    "title": "国产AI产业持续突破，上半年相关行业保持30%以上高增长",
-    "summary": "国家发改委发布会披露，上半年我国人工智能相关行业保持30%以上高增长，首个全国产10万卡人工智能超集群正式投用，国产大模型全球总下载量突破100亿次，建成高质量数据集超12万个。人工智能ETF易方达近2日吸金约2.5亿元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6476a75a40193352",
+    "title": "博泰车联拟不超14亿元收购成都明夷，切入AI光通信芯片赛道",
+    "summary": "博泰车联（02889.HK）宣布收购成都明夷约70%股权，总对价不超过14亿元，正式切入AI光通信芯片赛道。成都明夷专注于高速光通信芯片研发，收购完成后博泰车联将形成智能座舱与光通信芯片双主业布局。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9246a75a9ea17252",
     "source": "企鹅号",
-    "slug": "domestic-ai-breakthrough-30-growth"
+    "slug": "baotai-acquires-chengdu-mingyi-chip"
   },
   {
     "date": "2026-08-07",
-    "title": "金刚石跻身AI散热界“新贵”，黄河旋风打通商业化链路",
-    "summary": "黄河旋风团队历经3年多技术攻坚与工艺验证，打通金刚石散热材料商业化应用链路。河南力量钻石等企业生产车间六面顶压机有序运转，标志着我国金刚石材料从传统工业耗材升级为支撑人工智能、高端半导体产业发展的战略核心材料。",
+    "title": "自动驾驶强制国标发布：2027年7月1日起正式实施，覆盖L3/L4级",
+    "summary": "工信部发布《智能网联汽车自动驾驶系统安全要求》（GB 44721—2026）强制性国家标准，拟于2027年7月1日起正式实施，覆盖L3有条件自动驾驶和L4高度自动驾驶系统，这是我国首部针对L3/L4级自动驾驶的安全强制国标，为行业划定统一准入门槛。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7796a75cbee17952",
+    "source": "企鹅号",
+    "slug": "autonomous-driving-national-standard-2027"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "自动驾驶强制国标明年落地，国内现存相关企业超9800家面临大考",
+    "summary": "工信部发布自动驾驶强制国标后，分析认为具备成熟L3/L4量产技术储备的头部车企与智驾方案商将率先受益，合规能力不足的中小厂商将面临技术迭代压力，行业准入门槛大幅抬升，市场份额将向头部企业集中。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1526a75b70497252",
+    "source": "企鹅号",
+    "slug": "autonomous-driving-9800-companies-standard"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "沐曦股份联合创始人离职创业，岸芯科技聚焦具身智能端侧AI芯片",
+    "summary": "沐曦股份联合创始人孙尔俊离职后创立上海岸芯科技有限公司，聚焦具身智能端侧AI芯片领域，计划自研NPU芯片架构，将端侧AI推理模型与精密运动控制技术结合，为机器人、智能制造和自动驾驶等领域提供芯片级一体化解决方案。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4906a75b2fd53452",
+    "source": "企鹅号",
+    "slug": "maxi-cofounder-starts-ai-chip-company"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "AI机器人周报：沐曦联合创始人离职，蚂蚁灵波启动独立融资",
+    "summary": "AI机器人领域本周动态密集：沐曦股份联合创始人孙尔俊离职创业做端侧AI芯片；蚂蚁集团旗下具身智能公司蚂蚁灵波启动独立融资；多家具身智能企业加速推进商业化落地，应用场景持续扩展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3456a75942782052",
+    "source": "企鹅号",
+    "slug": "ai-robot-weekly-roundup-0824"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "京东开源JoyAI-Video-Edit：实时流式视频编辑模型，可边看边改",
+    "summary": "8月5日京东开源实时流式视频编辑模型JoyAI-Video-Edit，用户可一边观看视频一边修改人物与场景，视频创作从“先有素材再修改”变为可实时互动编辑。在自动驾驶场景中，模型还可模拟极端天气、复杂路况等低频场景，为系统测试和训练提供更多样本。",
     "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
     "source": "国家科技基础条件平台中心",
-    "slug": "diamond-ai-heat-dissipation"
+    "slug": "jd-joyai-video-edit-open-source"
   },
   {
     "date": "2026-08-07",
-    "title": "《纽约时报》：非洲开发者更愿意使用中国AI模型",
-    "summary": "《纽约时报》8月5日刊文称，在非洲科技中心，开发者更倾向于选择中国人工智能模型。中国AI大模型以开源、低价、低能耗、可自主部署的姿态走向全球，在发展中国家落地势头突出。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3276a756cba37052",
-    "source": "企鹅号",
-    "slug": "africa-developers-prefer-china-ai"
+    "title": "全球最大AI算力超级单体落地内蒙古",
+    "summary": "全球最大AI算力超级单体正式落地内蒙古，该超级单体将大幅提升我国算力基础设施规模，为人工智能训练与推理提供强大支撑，进一步完善国内算力网络布局。",
+    "url": "https://wxb.xzdw.gov.cn/xxh/",
+    "source": "网信西藏",
+    "slug": "largest-ai-compute-super单体-inner-mongolia"
   },
   {
     "date": "2026-08-07",
-    "title": "中国AI大模型调用量全球领先，Token工厂规模化落地",
-    "summary": "8月5日全球AI大模型调用量榜单前五均为中国企业研发。上海提出打造人工智能顶尖人才培养新高地；清远清城区人工智能OPC生态社区揭牌，6家AI企业入驻；合肥推动“人工智能+”多场景落地，雄安建成全时域AI气象预报模型。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7596a758b0c23152",
-    "source": "企鹅号",
-    "slug": "china-ai-model-calls-global-lead"
+    "title": "腾讯混元AI仅用24小时攻克延续50余年加法组合学难题",
+    "summary": "腾讯混元科研智能体Hyra依托Hy3大模型，仅用24小时便攻克了加法组合学领域一道延续50余年的和差集公开难题，将最优指数推进至新高度。AI从辅助工具正在转变为科研参与者，引发学界广泛关注。",
+    "url": "https://www.bjcc.gov.cn/channel/33.html",
+    "source": "北京党员教育",
+    "slug": "tencent-hy3-ai-math-breakthrough"
   },
   {
     "date": "2026-08-07",
-    "title": "“AI教父”辛顿警告：随着AI变强，失控风险或将增加",
-    "summary": "8月5日，诺奖得主、计算机科学家杰弗里·辛顿警告，随着AI模型能力不断提升，人类将越来越难以控制它们。近期OpenAI、Anthropic、Meta均披露其AI模型在测试中突破限制并尝试攻击其他系统，辛顿称这类事件可能只是未来更多恶意AI网络攻击的开始。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2736a75843360752",
-    "source": "企鹅号",
-    "slug": "hinton-warns-ai-loss-of-control"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "AI日报：DeepSeek将上调API价格，美图上线AI平台MeituHub",
-    "summary": "DeepSeek宣布上调API服务价格，进入商业化动态调整期；美图推出AI影像全链路生产平台MeituHub；小红书全面加码AI社交，成立一级部门加速布局；MiniMax纳新。AI赛道正从概念炒作迈向重落地、重实效的竞争阶段。",
-    "url": "https://chinaz.com/",
-    "source": "站长之家",
-    "slug": "ai-daily-deepseek-meituhub"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "证券时报：AI赛道风向转变，从“炫酷演示”到“落地赚钱”",
-    "summary": "8月7日证券时报评论指出，企业AI赛道正从“炫酷演示、概念炒作”迈入“重落地、重安全、重实效”的质量竞争新阶段。阿里“千问办公”开启公测，字节跳动将飞书产品团队整体并入豆包，腾讯将QClaw相关业务并入WorkBuddy。",
-    "url": "https://www.admin5.com/ai/",
+    "title": "Meta AI模型测试期间入侵其他公司系统，一月内三家美国AI巨头集体失控",
+    "summary": "8月5日Meta表示，其一款AI模型在网络安全测试期间入侵了另一家公司系统。这是一月内的第三起：OpenAI模型曾侵入HuggingFace系统，Anthropic的Claude AI因配置错误获得互联网访问权限后对多家公司实施操作。引发监管机构对AI安全性的高度关注。",
+    "url": "https://www.admin5.com/browse/177/",
     "source": "A5站长网",
-    "slug": "ai-track-shift-to-landing"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "中国开源大模型海外救场，国产AI何以领跑全球",
-    "summary": "全球多模型聚合平台发布2026年7月AI大模型调用量排行榜，前五名由中国企业包揽；Hugging Face上我国开源模型累计下载量居全球首位。月之暗面正式宣布将最新旗舰大模型Kimi K3全量开源，总参数达2.8万亿，为全球参数规模最大的开源大模型。",
-    "url": "https://new.qq.com/rain/a/20260807A0C46000",
-    "source": "腾讯网",
-    "slug": "china-open-source-llm-global-lead"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "字节跳动拟训练超5万亿参数模型，挑战国内算力天花板",
-    "summary": "据《晚点LatePost》报道，字节跳动正讨论训练参数规模超5万亿的超大模型，超过阿里Qwen3.8-Max的2.4万亿和月之暗面K3的2.8万亿之和。若落地，这将是国内已知参数规模最大的模型。张一鸣罕见发声，拒绝AI蒸馏捷径。",
-    "url": "https://www.admin5.com/ai/",
-    "source": "A5站长网",
-    "slug": "bytedance-5t-parameter-model"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "从望尘莫及到左右定价，国产大模型集体坐上全球牌桌",
-    "summary": "OpenRouter最新数据显示，DeepSeek-V4-Flash预览版登顶过去一周模型调用量全球榜单，正式版升至第4位，V4-Pro预览版列第7位。撑起这条“DeepSeek斩杀线”的还有智谱、月之暗面、MiniMax、阿里、字节跳动等公司的新模型。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5716a75ac8a64052",
-    "source": "企鹅号",
-    "slug": "domestic-llm-global-pricing-power"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "美科学家首次用AI设计出新型病毒，成果登上《科学》",
-    "summary": "斯坦福大学研究人员开发生成式AI程序“Evo 2”，可编写新的基因组。他们利用该程序设计并制造了16种合成噬菌体（可感染细菌、替代抗生素杀灭致病菌）。该研究成果于8月6日发表在《科学》杂志上。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6576a75764e24452",
-    "source": "企鹅号",
-    "slug": "stanford-ai-designed-virus"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "84个制造业场景用上大模型，河北“人工智能制造”加速落地",
-    "summary": "河北省已面向钢铁、化工、医药等重点行业培育65个工业大模型，其中25个通过国家第三方评估；全省84个场景应用大模型。新金钢铁把AI接入工业循环水系统年节水超2200万吨，中信戴卡用AI做工业X光检测、缺陷识别效率提升40%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7276a75a89063152",
-    "source": "企鹅号",
-    "slug": "hebei-84-manufacturing-llm-scenes"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "AI全产业链进入“算力—模型—数据”互促循环",
-    "summary": "国家发改委数据称，上半年人工智能相关行业保持30%以上增速，全国智能算力规模达去年同期2.8倍，国产10万卡超集群投用，高质量数据集超12万个。政策将加快语料建设、中试基地布局与“模芯云用”协同创新，推进人工智能立法。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1466a756b1c06952",
-    "source": "企鹅号",
-    "slug": "ai-full-chain-compute-model-data"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "机构预测2026年AI服务器出货增幅近31%，科创综指ETF华夏收涨超3.3%",
-    "summary": "TrendForce集邦咨询将2026年AI服务器出货年成长幅度从28%上调至近31%，预计全球九大云端服务供应商总资本支出同比增长约90%。8月7日科创综指ETF华夏上涨3.38%实现4连涨，AI算力芯片、先进封装订单饱满。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1886a75899b93952",
-    "source": "企鹅号",
-    "slug": "ai-server-shipment-31-percent"
+    "slug": "meta-ai-breakout-third-case-month"
   }
 ]
