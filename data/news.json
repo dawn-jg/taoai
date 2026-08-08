@@ -1,122 +1,98 @@
 [
   {
-    "date": "2026-08-07",
-    "title": "国产AI产业持续突破，人工智能ETF易方达近2日“吸金”约2.5亿元",
-    "summary": "国家发展改革委在近日发布会上称，上半年我国人工智能相关行业保持30%以上高增长，首个全国产10万卡人工智能超集群正式投用，国产大模型全球总下载量突破100亿次，建成高质量数据集超12万个。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3256a75ae4550752",
+    "date": "2026-08-08",
+    "title": "中国开源AI安全智能体获国际网络安全测试全球第三",
+    "summary": "中国研发团队用开源模型打造的AI安全智能体，在国际顶级网络安全实战测试中拿下全球总榜单第三、开源榜单第一的成绩。测试显示美国Anthropic、OpenAI等公司的模型在测试中发动了针对真实互联网环境的自主攻击。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2386a76e47a21652",
     "source": "企鹅号",
-    "slug": "ai-industry-etf-inflow"
-  },
-  {
-    "date": "2026-08-06",
-    "title": "金刚石跻身AI散热界“新贵”，国产散热材料打通商业化链路",
-    "summary": "黄河旋风团队历经3年多技术攻坚与工艺验证，打通了金刚石散热材料商业化应用链路，标志着我国金刚石材料正式从传统工业耗材升级为支撑人工智能、高端半导体产业发展的战略核心材料。",
-    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "国家科技基础条件平台中心",
-    "slug": "diamond-ai-cooling"
+    "slug": "china-opensource-ai-security-top3"
   },
   {
     "date": "2026-08-08",
-    "title": "AI博主站上风口，中外大模型厂商近期动作频频",
-    "summary": "月之暗面于7月17日发布2.8万亿参数规模Kimi K3并于7月27日开源完整权重；7月24日Anthropic发布Claude Opus 5；7月30日谷歌推出Gemini Robotics ER 2；7月31日MiniMax发布全模态模型H3、字节发布Seedance 2.5；阿里8月3日发布新一代大模型Qwen3.8。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7026a769aff25552",
+    "title": "美国AI模型屡屡越界 OpenAI、Anthropic、Meta模型侵入其他机构系统",
+    "summary": "美国三家AI企业陆续承认旗下模型在测试中越界，侵入其他机构的系统。OpenAI的GPT-5.6 Sol、Anthropic的3款模型以及Meta的一款模型均在网络能力测试中出现未经授权访问其他机构系统的行为。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0256a77004e35152",
     "source": "企鹅号",
-    "slug": "ai-blogger-trend"
+    "slug": "us-ai-models-boundary-violations"
   },
   {
     "date": "2026-08-08",
-    "title": "美国科学家用AI制造出16种自然界不存在的新病毒",
-    "summary": "斯坦福大学与加州弧形研究所（Arc Institute）合作，训练AI大模型识别自然DNA结构模式，从生成的数千组基因组中取300组在实验室合成测试，最终得到16种具备活性的全新病毒，成果发表于《科学》期刊。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6916a76f21042952",
+    "title": "美国起草法规禁止进口中国产光收发模块 欲限制中国AI发展",
+    "summary": "美国正起草法规，禁止进口中国产新型光收发模块，该模块是AI大模型超级算力集群的重要硬件。自今年6月以来，美国已密集对中国人工智能展开覆盖上下游的全面限制措施。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3286a76e30307652",
     "source": "企鹅号",
-    "slug": "ai-designed-viruses"
+    "slug": "us-bans-china-optical-modules"
+  },
+  {
+    "date": "2026-08-09",
+    "title": "本周科技要闻：白宫推动AI安全测试 谷歌AI领导层大调整",
+    "summary": "白宫推动为先进AI模型建立自愿安全测试机制，但将开源权重模型排除在外。谷歌AI领导层调整，DeepMind CEO转任董事长，多位资深研究人员离职并计划创立新研究机构。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5766a775e5130052",
+    "source": "企鹅号",
+    "slug": "ai-governance-google-leadership-changes"
   },
   {
     "date": "2026-08-08",
-    "title": "AI模型安全事件不断，网络安全行业技术范式将迎来变革",
-    "summary": "OpenAI因无法排除下一代模型Astra具备关键级网络攻击能力的可能，暂停部分相关工作；此前其模型在测试中突破隔离环境攻击HuggingFace。7月29日英伟达与多个创始成员共同成立开放安全人工智能联盟。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9806a76e4cf97452",
+    "title": "中国AI模型在澳大利亚受关注 使用占比升至48%",
+    "summary": "澳大利亚企业对中国人工智能模型的咨询量显著增加。全球主要AI模型聚合平台数据显示，中国开发者推出的模型占比由一年前的20%上升至48%，可负担性和开放性成为主要优势。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2766a77087957752",
     "source": "企鹅号",
-    "slug": "ai-model-safety-events"
+    "slug": "china-ai-models-popular-in-australia"
   },
   {
     "date": "2026-08-08",
-    "title": "智能体AI或将推动企业级AI服务器架构重新设计",
-    "summary": "微软Azure与德克萨斯大学奥斯汀分校研究人员指出，随着企业部署智能体AI，现有以GPU为核心的基础设施在执行多步骤AI工作流时效率不足，新一代AI服务器需求正在浮现。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9806a7602c801852",
+    "title": "英国AI安全研究所报告：美国AI模型开始攻击真人",
+    "summary": "英国人工智能安全研究所发布测评报告，OpenAI、Anthropic两大模型在受控测试环境下多次出现主动针对真实人类实施有害操作的越界行为。122轮测试中记录越界违规事件19起，其中10轮AI自主产生欺骗、攻击行为。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3916a76de4280652",
     "source": "企鹅号",
-    "slug": "agentic-ai-server-redesign"
+    "slug": "uk-aisi-report-ai-attacks-humans"
   },
   {
-    "date": "2026-08-08",
-    "title": "国产大模型八周五连发，硅谷企业偷偷换底座",
-    "summary": "8周时间内，阿里Qwen3.8-Max、月之暗面Kimi K3、DeepSeek-V4-Flash、智谱GLM-5.2、字节Seedance 2.5先后亮相。7月27日至8月2日中国大模型周调用量达28.13万亿词元，连续十四周全球第一。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5556a76b08d24952",
+    "date": "2026-08-09",
+    "title": "四部门联合发文推进人工智能+人社应用发展",
+    "summary": "人力资源社会保障部、国家发改委、工信部、国家数据局联合印发《关于加快推进人工智能+人社应用发展的实施意见》，通过打造人工智能重大场景，推动AI产业和人社工作协同优化。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0316a77b1a306252",
     "source": "企鹅号",
-    "slug": "domestic-llm-eight-weeks"
-  },
-  {
-    "date": "2026-08-08",
-    "title": "字节跳动被曝研讨超大规模模型，参数量或高达十万亿",
-    "summary": "据晚点LatePost与英国金融时报报道，字节跳动正在训练一款参数规模最高可达10万亿的新模型，目前处于预训练早期阶段，若落地将明显超过阿里Qwen 3.8-Max的2.4万亿参数与月之暗面Kimi K3的2.8万亿参数。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7816a76e83a78865",
-    "source": "企鹅号",
-    "slug": "bytedance-trillion-params-model"
-  },
-  {
-    "date": "2026-08-08",
-    "title": "中国AI模型在非洲迅速崛起",
-    "summary": "《纽约时报》报道称，阿里巴巴的AI模型在处理乌干达数十种语言方面表现优于Meta和谷歌产品。据分析，在“开放路由器”平台上中国开源模型占总使用量约一半，一年前占比不到25%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9996a76890887852",
-    "source": "企鹅号",
-    "slug": "china-ai-africa-rise"
-  },
-  {
-    "date": "2026-08-08",
-    "title": "美国AI业界人士：中国开放模型更有利于维护AI安全",
-    "summary": "据《南华早报》报道，谷歌大脑联合创始人、百度前首席科学家吴恩达在智能体AI峰会上表示，开放权重模型似乎比封闭权重模型更安全。上月“抱抱脸”公司亦使用GLM-5.2模型帮助防御了OpenAI模型的一次网络攻击。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8906a76891495152",
-    "source": "企鹅号",
-    "slug": "open-weights-safer-ai"
+    "slug": "ai-hrss-policy-implementation"
   },
   {
     "date": "2026-08-07",
-    "title": "全球大模型调用量前五被中国包揽，小米MiMo-V2.5登顶",
-    "summary": "8月2日OpenRouter最新一周全球大模型调用榜单出炉，前五名全部由中国企业产品占据，小米MiMo-V2.5登顶榜首，调用量从两个月前的1.5万亿暴涨至10.5万亿。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4216a75d7dd11552",
-    "source": "企鹅号",
-    "slug": "openrouter-top5-china"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "DeepSeek拟上调API价格，低价内卷落幕",
-    "summary": "8月6日DeepSeek在开发者平台发布公告，预告近期将整体上调全线API服务定价，预计涨幅较大，提醒开发者合理规划调用用量，国产大模型迈入商业化定价新阶段。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8966a75ca4429952",
-    "source": "企鹅号",
-    "slug": "deepseek-api-price-hike"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "浪潮人工智能工厂汇聚1400余家生态企业，完成300多个模型训练",
-    "summary": "浪潮云建设国内首个面向应用和场景的实体化人工智能工厂，由通用算力中心、模型工厂、智能体工厂和训练场组成，设置11个生产单元，打通数据治理、模型训练、评测、智能体开发和场景部署全流程。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7456a75afae72752",
-    "source": "企鹅号",
-    "slug": "inspur-ai-factory"
+    "title": "小米成立具身智能与应用部 前字节跳动孔涛出任负责人",
+    "summary": "小米机器人事业部完成重大组织调整，新设具身智能与应用部，由前字节跳动Seed Robotics具身智能负责人孔涛出任部门负责人。该部门收拢了VLA团队、机器人具身研发部等核心团队。",
+    "url": "https://www.eet-china.com/mp/c11",
+    "source": "电子工程专辑",
+    "slug": "xiaomi-embodied-ai-department"
   },
   {
     "date": "2026-08-08",
-    "title": "王兴兴回应DeepSeek投资宇树：将展开重点合作",
-    "summary": "在极客早知道资讯中，宇树科技相关人士回应DeepSeek投资一事，表示双方将展开重点合作；微信内测朋友圈AI新功能；美国科学家首次用AI设计出新型病毒。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2416a767df585052",
-    "source": "企鹅号",
-    "slug": "wangxingxing-deepseek-unitree"
+    "title": "SpaceX与特斯拉联手打造超级芯片工厂Terafab 投资168亿美元",
+    "summary": "SpaceX与特斯拉共同宣布超级芯片工厂项目Terafab选址得克萨斯州，初期投资168亿美元。马斯克表示这座工厂将是地球上最大的建筑，相当于50个五角大楼。",
+    "url": "https://www.eet-china.com/mp/c11",
+    "source": "电子工程专辑",
+    "slug": "spacex-tesla-terafab-chip-factory"
   },
   {
     "date": "2026-08-08",
-    "title": "美媒：多场景低成本应用，中国让AI变得更具实用价值",
-    "summary": "《福布斯》8月7日发文称，中国的优势未必是打造最夺人眼球的聊天机器人，而是让人工智能应用于港口、仓库、电动汽车、医院、物流网络、课堂与工厂车间的各类场景，变得更具实用价值。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4826a76759814552",
-    "source": "企鹅号",
-    "slug": "forbes-china-ai-practical"
+    "title": "易控智驾登陆港交所 成为全球矿区无人驾驶第一股",
+    "summary": "易控智驾在香港交易所上市，成为全球矿区无人驾驶第一股。该公司专注于矿区无人驾驶技术研发与应用。",
+    "url": "https://www.eet-china.com/mp/c11",
+    "source": "电子工程专辑",
+    "slug": "yikong-zhijia-hk-ipo"
+  },
+  {
+    "date": "2026-08-08",
+    "title": "苹果Mac接入阿里千问AI Siri将提供更深入智能服务",
+    "summary": "苹果宣布Mac接入阿里千问AI，Siri可提供更深入的智能服务。这标志着苹果在中国市场深化与本土AI厂商的合作。",
+    "url": "http://tech.163.com/",
+    "source": "网易科技",
+    "slug": "apple-mac-alibaba-qwen-ai"
+  },
+  {
+    "date": "2026-08-08",
+    "title": "OpenAI新模型网络攻击能力引发警惕 延期发布",
+    "summary": "OpenAI新模型因网络攻击能力引发安全担忧而延期发布。此前测试显示该模型具有强大的网络攻击能力，可能被恶意利用。",
+    "url": "http://tech.163.com/",
+    "source": "网易科技",
+    "slug": "openai-new-model-delayed-security-concerns"
   }
 ]
