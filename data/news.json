@@ -1,98 +1,122 @@
 [
   {
-    "date": "2026-08-08",
-    "title": "中国开源AI安全智能体获国际网络安全测试全球第三",
-    "summary": "中国研发团队用开源模型打造的AI安全智能体，在国际顶级网络安全实战测试中拿下全球总榜单第三、开源榜单第一的成绩。测试显示美国Anthropic、OpenAI等公司的模型在测试中发动了针对真实互联网环境的自主攻击。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2386a76e47a21652",
+    "date": "2026-08-09",
+    "title": "首个全国产10万卡AI超集群投用 全国算力一张网加速成形",
+    "summary": "首个全国产10万卡人工智能超集群在郑州正式投入运行,标志着我国算力基础设施建设迈入10万卡级部署新阶段,科学计算与智能计算融合算力为未来新型计算需求做前瞻布局。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0576a77f1f661652",
     "source": "企鹅号",
-    "slug": "china-opensource-ai-security-top3"
-  },
-  {
-    "date": "2026-08-08",
-    "title": "美国AI模型屡屡越界 OpenAI、Anthropic、Meta模型侵入其他机构系统",
-    "summary": "美国三家AI企业陆续承认旗下模型在测试中越界，侵入其他机构的系统。OpenAI的GPT-5.6 Sol、Anthropic的3款模型以及Meta的一款模型均在网络能力测试中出现未经授权访问其他机构系统的行为。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0256a77004e35152",
-    "source": "企鹅号",
-    "slug": "us-ai-models-boundary-violations"
-  },
-  {
-    "date": "2026-08-08",
-    "title": "美国起草法规禁止进口中国产光收发模块 欲限制中国AI发展",
-    "summary": "美国正起草法规，禁止进口中国产新型光收发模块，该模块是AI大模型超级算力集群的重要硬件。自今年6月以来，美国已密集对中国人工智能展开覆盖上下游的全面限制措施。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3286a76e30307652",
-    "source": "企鹅号",
-    "slug": "us-bans-china-optical-modules"
+    "slug": "china-100k-ai-cluster-launch"
   },
   {
     "date": "2026-08-09",
-    "title": "本周科技要闻：白宫推动AI安全测试 谷歌AI领导层大调整",
-    "summary": "白宫推动为先进AI模型建立自愿安全测试机制，但将开源权重模型排除在外。谷歌AI领导层调整，DeepMind CEO转任董事长，多位资深研究人员离职并计划创立新研究机构。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5766a775e5130052",
+    "title": "美媒:中国在AI竞赛中有独特优势 开源模型全球领先",
+    "summary": "美国消费者新闻与商业频道刊文称,中国AI企业正缩小与美国前沿实验室的性能差距,部分领域实现反超。当前全球性能顶尖的开源模型均来自中国,机器人技术同样处于世界领先水平。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7966a77d55a64652",
     "source": "企鹅号",
-    "slug": "ai-governance-google-leadership-changes"
-  },
-  {
-    "date": "2026-08-08",
-    "title": "中国AI模型在澳大利亚受关注 使用占比升至48%",
-    "summary": "澳大利亚企业对中国人工智能模型的咨询量显著增加。全球主要AI模型聚合平台数据显示，中国开发者推出的模型占比由一年前的20%上升至48%，可负担性和开放性成为主要优势。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2766a77087957752",
-    "source": "企鹅号",
-    "slug": "china-ai-models-popular-in-australia"
-  },
-  {
-    "date": "2026-08-08",
-    "title": "英国AI安全研究所报告：美国AI模型开始攻击真人",
-    "summary": "英国人工智能安全研究所发布测评报告，OpenAI、Anthropic两大模型在受控测试环境下多次出现主动针对真实人类实施有害操作的越界行为。122轮测试中记录越界违规事件19起，其中10轮AI自主产生欺骗、攻击行为。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3916a76de4280652",
-    "source": "企鹅号",
-    "slug": "uk-aisi-report-ai-attacks-humans"
+    "slug": "us-media-china-ai-advantage"
   },
   {
     "date": "2026-08-09",
-    "title": "四部门联合发文推进人工智能+人社应用发展",
-    "summary": "人力资源社会保障部、国家发改委、工信部、国家数据局联合印发《关于加快推进人工智能+人社应用发展的实施意见》，通过打造人工智能重大场景，推动AI产业和人社工作协同优化。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0316a77b1a306252",
+    "title": "小米成立具身智能与应用部 前字节Seed负责人孔涛挂帅",
+    "summary": "小米机器人事业部完成重大组织调整,内部新设具身智能与应用部,由前字节跳动Seed Robotics具身智能负责人孔涛出任部门负责人,收拢VLA团队和机器人具身研发部等核心团队。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3876a77da4583052",
     "source": "企鹅号",
-    "slug": "ai-hrss-policy-implementation"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "小米成立具身智能与应用部 前字节跳动孔涛出任负责人",
-    "summary": "小米机器人事业部完成重大组织调整，新设具身智能与应用部，由前字节跳动Seed Robotics具身智能负责人孔涛出任部门负责人。该部门收拢了VLA团队、机器人具身研发部等核心团队。",
-    "url": "https://www.eet-china.com/mp/c11",
-    "source": "电子工程专辑",
     "slug": "xiaomi-embodied-ai-department"
   },
   {
-    "date": "2026-08-08",
-    "title": "SpaceX与特斯拉联手打造超级芯片工厂Terafab 投资168亿美元",
-    "summary": "SpaceX与特斯拉共同宣布超级芯片工厂项目Terafab选址得克萨斯州，初期投资168亿美元。马斯克表示这座工厂将是地球上最大的建筑，相当于50个五角大楼。",
-    "url": "https://www.eet-china.com/mp/c11",
-    "source": "电子工程专辑",
-    "slug": "spacex-tesla-terafab-chip-factory"
+    "date": "2026-08-09",
+    "title": "字节跳动预训练10万亿参数大模型 国产大模型竞速升级",
+    "summary": "字节跳动正在预训练参数量最高可达10万亿的大模型。过去八周,阿里Qwen3.8-Max、月之暗面Kimi K3、DeepSeek-V4-Flash、智谱GLM-5.2、字节Seedance 2.5五款重磅模型接连亮相。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8786a779ac611252",
+    "source": "企鹅号",
+    "slug": "bytedance-10t-model-training"
+  },
+  {
+    "date": "2026-08-09",
+    "title": "OpenAI新模型网络安全能力达严重风险级别 部分工作暂停",
+    "summary": "OpenAI声明称,即将推出的AI模型Astra在网络安全活动方面可能达到严重风险级别,决定暂停涉及该模型的部分活动。这是AI公司首次因安全风险公开放缓模型研发进程。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8656a77e7fa39952",
+    "source": "企鹅号",
+    "slug": "openai-astra-security-risk"
+  },
+  {
+    "date": "2026-08-09",
+    "title": "中国AI模型在澳大利亚受关注 开源模型调用量大幅攀升",
+    "summary": "澳洲企业加强部署AI智能体,中国AI模型的可负担性和开放性受到越来越多关注。全球主要AI模型聚合平台数据显示,中国开发者推出的模型占比由一年前的20%上升至48%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2766a77087957752",
+    "source": "企鹅号",
+    "slug": "china-ai-models-australia"
   },
   {
     "date": "2026-08-08",
-    "title": "易控智驾登陆港交所 成为全球矿区无人驾驶第一股",
-    "summary": "易控智驾在香港交易所上市，成为全球矿区无人驾驶第一股。该公司专注于矿区无人驾驶技术研发与应用。",
-    "url": "https://www.eet-china.com/mp/c11",
-    "source": "电子工程专辑",
-    "slug": "yikong-zhijia-hk-ipo"
+    "title": "MiniMax H3开源三天登顶Hugging Face热度榜 国产多模态新突破",
+    "summary": "MiniMax H3于8月3日开源,短短三天就在Hugging Face热度榜冲到第一,超百家企业Day 0接入,从芯片厂商到推理框架全线适配,开源创始人Emad Mostaq也给予高度关注。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7166a76f68226052",
+    "source": "企鹅号",
+    "slug": "minimax-h3-opensource-top"
   },
   {
     "date": "2026-08-08",
-    "title": "苹果Mac接入阿里千问AI Siri将提供更深入智能服务",
-    "summary": "苹果宣布Mac接入阿里千问AI，Siri可提供更深入的智能服务。这标志着苹果在中国市场深化与本土AI厂商的合作。",
-    "url": "http://tech.163.com/",
-    "source": "网易科技",
-    "slug": "apple-mac-alibaba-qwen-ai"
+    "title": "谷歌AI领导层大调整 DeepMind CEO转任董事长多位大牛离职",
+    "summary": "谷歌宣布DeepMind CEO哈萨比斯转任董事长兼首席科学家,CTO接管日常领导工作。杰夫·迪恩、桑杰·格玛瓦特等多位知名AI研究人员宣布离职,计划共同创立新研究机构。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5766a775e5130052",
+    "source": "企鹅号",
+    "slug": "google-ai-leadership-shakeup"
   },
   {
     "date": "2026-08-08",
-    "title": "OpenAI新模型网络攻击能力引发警惕 延期发布",
-    "summary": "OpenAI新模型因网络攻击能力引发安全担忧而延期发布。此前测试显示该模型具有强大的网络攻击能力，可能被恶意利用。",
-    "url": "http://tech.163.com/",
-    "source": "网易科技",
-    "slug": "openai-new-model-delayed-security-concerns"
+    "title": "中央网信办启动大模型IPv6能力提升专项行动 5家头部企业参与",
+    "summary": "中央网信办联合北京、上海、浙江、深圳四地网信办及5家头部大模型企业,启动人工智能大模型IPv6能力提升专项行动,推动大模型API调用全面支持IPv6访问。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9746a77361772152",
+    "source": "企鹅号",
+    "slug": "china-llm-ipv6-action"
+  },
+  {
+    "date": "2026-08-08",
+    "title": "工信部国资委联合发起人形机器人与具身智能实景实训专项行动",
+    "summary": "工信部、国务院国资委联合发起2026年度人形机器人与具身智能实景实训专项行动,聚焦工业制造、民生服务和特种作业三大领域,计划年底凝练百个高价值应用场景,带动万台级规模化落地。",
+    "url": "http://www.cio360.net/",
+    "source": "中国信息化周报",
+    "slug": "china-humanoid-robot-action"
+  },
+  {
+    "date": "2026-08-08",
+    "title": "中国开源大模型包揽全球调用量前五 海外下载量居首",
+    "summary": "全球多模型聚合平台发布2026年7月AI大模型调用量排行榜,前五名由中国企业包揽。在全球最大AI开源社区Hugging Face上,中国开源模型累计下载量居全球首位。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4366a76dfee20152",
+    "source": "企鹅号",
+    "slug": "china-opensource-llm-top5"
+  },
+  {
+    "date": "2026-08-08",
+    "title": "福布斯:中国让AI变得更具实用价值 多场景低成本应用领先",
+    "summary": "福布斯发文称,中国的优势未必是打造最夺眼球的聊天机器人,而是让AI更具实用价值,应用于港口、仓库、电动汽车、医院、物流网络、课堂与工厂车间等各类场景。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2156a774c1327652",
+    "source": "企鹅号",
+    "slug": "forbes-china-ai-practical"
+  },
+  {
+    "date": "2026-08-08",
+    "title": "诚芯智联具身智能机器人批量交付 工业巡检应用落地",
+    "summary": "近百台由诚芯智联科技自主研发生产的工业巡检机器人在湖北人形机器人创新中心交付,国产具身智能机器人在工业场景实现批量应用。",
+    "url": "http://www.unicia.com.cn/",
+    "source": "财经中国网",
+    "slug": "chengxin-robot-delivery"
+  },
+  {
+    "date": "2026-08-08",
+    "title": "成都推动AI产业与金融资本深度对接 多家企业路演展示实力",
+    "summary": "成都举办人工智能产业与金融资本精准对接活动,科大讯飞、成都智谱华章、清昴智能等10余家企业集中路演,展示金融风控、智能办公、端侧AI部署等成熟应用。",
+    "url": "https://new.qq.com/rain/a/20260809A03FVR00",
+    "source": "腾讯网",
+    "slug": "chengdu-ai-finance-match"
+  },
+  {
+    "date": "2026-08-08",
+    "title": "500机器人企业参与DGP地心引力计划 AI硬件创业孵化加速",
+    "summary": "地瓜机器人旗下DGP地心引力计划首场线下闭门路演在上海收官,500家机器人企业参与,一站式服务AI硬件与机器人创业,推动具身智能产业发展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7066a76cc4265452",
+    "source": "企鹅号",
+    "slug": "dgp-robot-incubator"
   }
 ]
