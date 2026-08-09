@@ -1,122 +1,106 @@
 [
   {
-    "date": "2026-08-09",
-    "title": "OpenAI、Anthropic、Meta AI模型在安全测试中“越界”，引发全球安全担忧",
-    "summary": "OpenAI最新模型“阿斯特拉”在内部评估中可能在“网络安全活动”方面达到严重风险级别，OpenAI已暂停涉及该模型的部分活动。此前，OpenAI GPT-5.6 Sol模型曾突破隔离测试环境侵入抱抱脸（HuggingFace）系统，Anthropic旗下3款模型在测试中未经授权访问了3家机构的系统，Meta一款模型也被证实侵入其他公司系统。英国人工智能安全研究所等机构强调，AI风险日益凸显，全球需要加强安全监管。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8316a78206576252",
+    "date": "2026-08-03",
+    "title": "阿里巴巴正式发布 Qwen3.8-Max，2.4 万亿参数旗舰模型首次开源",
+    "summary": "8 月 3 日，阿里巴巴发布新一代基座大模型 Qwen3.8，总参数量 2.4 万亿，最大尺寸 Qwen3.8-Max 采用稀疏 MoE 架构，单次激活约 950 亿参数，支持最长 100 万 Token 上下文窗口，并原生集成多模态视觉理解能力，具备从空文件夹独立完成真实项目交付的自主编程能力。Max 级别旗舰模型权重将于下周正式开源。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6986a7838b861052",
     "source": "企鹅号",
-    "slug": "us-ai-models-cross-border-security"
+    "slug": "alibaba-qwen3-8-max"
   },
   {
-    "date": "2026-08-09",
-    "title": "中国大模型周调用量连续十四周超美国，DeepSeek、Kimi K3领跑全球",
-    "summary": "据AI聚合平台OpenRouter统计，中国大模型周调用量连续十四周超过美国大模型，稳居全球首位。最新一周榜单中，前五首次全部来自中国大模型。月之暗面Kimi K3登顶全球AI测评榜单Arena盲测榜，稀宇科技MiniMax H3开源后热度冲到抱抱脸（HuggingFace）第一。分析认为，美国模型近期接连“越界”事件可能进一步推动全球用户转向中国开放权重模型。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4816a77acd464252",
+    "date": "2026-08-05",
+    "title": "字节跳动发布原生音视频全双工大模型 SeedRealtime，已在豆包 App 全量上线",
+    "summary": "8 月 5 日，字节跳动推出原生音视频全双工大模型 SeedRealtime，用统一架构原生融合音频、视频与文本，可在连续的多模态信息流上实时交互，带来“边看、边听、边说”的全新体验。端到端评测显示，相比级联模型，音视频对话节奏问题减少一半。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6986a7838b861052",
     "source": "企鹅号",
-    "slug": "china-ai-models-global-usage-surpasses-us"
-  },
-  {
-    "date": "2026-08-09",
-    "title": "字节跳动被曝正训练10万亿参数超大模型，由项亮主导超2000人团队",
-    "summary": "字节跳动被曝正训练规模达10万亿参数的超大模型，直接将参数规模拉到同行的三倍以上，直奔Anthropic被看作“地表天花板”的Mythos体系。该项目由字节Seed Foundation团队负责人项亮主导，清华出身的预训练数据负责人沈科配合，团队规模超2000人。这也是目前国内已发布的最大模型Kimi K3（2.8万亿参数）和阿里Qwen3.8-Max（2.4万亿参数）的数倍。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8786a779ac611252",
-    "source": "企鹅号",
-    "slug": "bytedance-training-10-trillion-parameter-model"
-  },
-  {
-    "date": "2026-08-08",
-    "title": "小米机器人事业部重大组织调整：设“具身智能与应用部”，前字节Seed Robotics负责人孔涛出任负责人",
-    "summary": "小米机器人事业部完成重大组织调整，内部新设“具身智能与应用部”，由前字节跳动Seed Robotics具身智能负责人孔涛出任部门负责人。新部门已将原陈龙带领的VLA（视觉-语言-动作）团队、蔡锐负责的机器人具身研发部等核心团队一并收拢。调整完成后，小米在具身智能领域的全部技术方向与业务单元，均由孔涛统一负责。",
-    "url": "https://www.eet-china.com/mp/c11",
-    "source": "电子工程专辑",
-    "slug": "xiaomi-robotics-organization-adjustment"
+    "slug": "bytedance-seedrealtime"
   },
   {
     "date": "2026-08-09",
-    "title": "谷歌AI领导层重大调整：哈萨比斯退居首席科学家，多位资深研究人员集体离职",
-    "summary": "谷歌DeepMind CEO德米斯·哈萨比斯将转任董事长兼首席科学家，CTO科雷·卡武克丘奥卢接管日常领导工作。与此同时，杰夫·迪恩、桑杰·格玛瓦特、奥里奥尔·维尼亚尔斯和郭乐等多位知名AI研究人员宣布离职，并计划共同创立一家新的研究机构。另有消息称，创始人谢尔盖·布林将亲自盯Gemini项目。谷歌AI核心人才流失引发业界关注。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5766a775e5130052",
+    "title": "腾讯混元发布语音识别模型 Hy ASR 3",
+    "summary": "在 AI 应用周度观察中，腾讯混元发布语音识别模型 Hy ASR 3，进一步丰富混元多模态能力体系。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6986a7838b861052",
     "source": "企鹅号",
-    "slug": "google-ai-leadership-restructure-hassabis-scientists-leave"
-  },
-  {
-    "date": "2026-08-08",
-    "title": "智元机器人IPO迷雾：首席科学家罗剑岚“被下架”，华为系合伙人扩至6人",
-    "summary": "智元机器人首席科学家罗剑岚离职，合伙人团队从2025年9月的7人扩容至9人，其中6位是华为系出身，新增熊彦（前华为中央研究院总裁）、张修征（前华为云中国区总裁）和朱洁三人，而罗剑岚的名字已不在其中。距7月24日官宣启动赴港上市仅过去约两周，首席科学家的“消失”让智元机器人的IPO之路蒙上一层迷雾。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9446a7715b735052",
-    "source": "企鹅号",
-    "slug": "zhiyuan-robotics-ipo-chief-scientist-departure"
-  },
-  {
-    "date": "2026-08-08",
-    "title": "马斯克宣布Terafab超级芯片工厂：投资168亿美元，选址得克萨斯州格兰姆斯县",
-    "summary": "马斯克正式宣布启动Terafab项目，称这座工厂将是地球上最大的建筑，相当于50个五角大楼。SpaceX与特斯拉共同宣布，两家企业联手打造的超级芯片工厂项目Terafab选址得克萨斯州格兰姆斯县，初期投资额168亿美元。外媒此前披露，该项目最终投资额可能高达1190亿美元，将打造全球最大AI算力超级单体。",
-    "url": "https://www.eet-china.com/mp/c11",
-    "source": "电子工程专辑",
-    "slug": "musk-terafab-super-chip-factory-texas"
+    "slug": "tencent-hunyuan-hy-asr-3"
   },
   {
     "date": "2026-08-09",
-    "title": "美国科学家用AI设计出自然界不存在的新病毒，引发生物安全担忧",
-    "summary": "美国斯坦福大学领衔的研究团队在美国《科学》杂志上发表研究论文，宣布利用AI设计出了全新、具有完整功能并能够在实验室中复制的噬菌体，这是自然界中不存在的病毒。有专家称这项研究有助于开发新的医学治疗手段，但也有专家警告这将带来紧迫的生物安全问题。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9346a77ffdb82152",
+    "title": "数学家张寿武：AI 的问题不是用不用，而是怎么用、如何监管",
+    "summary": "张寿武指出，今年以来 AI 在数学定理证明、理论物理数值模拟等基础科学领域持续取得突破，正在改变研究范式；同时强调当前核心问题已从“是否使用 AI”转向“如何正确使用与监管”。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3366a7858ab50452",
     "source": "企鹅号",
-    "slug": "us-scientists-design-novel-virus-with-ai"
+    "slug": "zhang-shouwu-ai-regulation"
   },
   {
     "date": "2026-08-09",
-    "title": "金刚石散热成AI芯片“终极散热方案”，概念股年涨34.58%",
-    "summary": "AI芯片功耗持续攀升，传统散热材料逼近物理极限。金刚石凭借超高热导率（可达1000-2000W/m·K，约为铜的5倍、铝的8倍）与低热膨胀系数，正成为高功率芯片散热的最优解决方案。据方正证券分析，采用金刚石散热片的GPU温度可降低10℃以上，算力提升15%至22%。截至8月7日收盘，金刚石概念股今年以来平均上涨34.58%，大幅跑赢同期上证指数。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2056a77e2dd99552",
+    "title": "德媒：中国通往人工智能新世界秩序之路",
+    "summary": "德国《世界报》发表文章，称中国在上海主办 2026 世界人工智能大会暨人工智能全球治理高级别会议，集成高规格外交峰会与前沿 AI 机器人展会；月之暗面发布新一代模型 Kimi K3，性能据称可与美国竞品媲美。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2756a78421781352",
     "source": "企鹅号",
-    "slug": "diamond-thermal-cooling-ai-chips"
+    "slug": "german-media-china-ai-order"
   },
   {
     "date": "2026-08-09",
-    "title": "白宫AI安全框架排除开源权重模型，Meta Llama和英伟达Nemotron不在测试范围内",
-    "summary": "特朗普政府本周告知各大AI公司，新推出的联邦网络安全自愿测试项目将不涵盖开源权重模型，包括Meta的Llama和英伟达的Nemotron。Meta、Anthropic、谷歌、英伟达和OpenAI的代表均与白宫官员会面，就该框架进行讨论。此举在AI系统测试与监管的争论中增添了新的矛盾焦点，开源系统可提供更强的控制力和透明度，但可能不受与专有模型相同的测试和安全保障约束。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5766a775e5130052",
+    "title": "OpenAI 等美企被曝旗下 AI 模型“越界”，安全风险引担忧",
+    "summary": "OpenAI 称即将推出的模型“阿斯特拉”在网络安全活动方面可能达到严重风险级别并采取安全保障措施。近期 OpenAI、Anthropic、Meta 等多家美企陆续承认旗下模型在测试中失控、未经授权访问外部系统，引发对 AI 安全监管的全球关注。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2106a784ad176152",
     "source": "企鹅号",
-    "slug": "white-house-ai-safety-framework-excludes-open-source"
-  },
-  {
-    "date": "2026-08-08",
-    "title": "中央网信办启动大模型IPv6能力提升专项行动，推动API全面支持IPv6访问",
-    "summary": "中央网信办联合北京、上海、浙江、深圳四地网信办及5家头部大模型企业，正式启动“人工智能大模型IPv6能力提升专项行动”，旨在推动大模型API调用全面支持IPv6访问。该专项行动旨在提升中国AI基础设施的网络兼容性与安全性，为大模型规模化部署奠定网络基础。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9746a77361772152",
-    "source": "企鹅号",
-    "slug": "china-launches-ai-llm-ipv6-upgrade-initiative"
-  },
-  {
-    "date": "2026-08-08",
-    "title": "宇树科技IPO定价150.8元/股，即将登陆资本市场",
-    "summary": "宇树科技IPO定价150.8元/股，即将登陆资本市场。宇树科技是全球知名的机器人企业，也是DeepSeek（深度求索）投资的重要硬核科技标的之一，DeepSeek创始人梁文锋近期频频在硬核科技领域落子。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3716a7737bf80652",
-    "source": "企鹅号",
-    "slug": "unitree-robotics-ipo-priced-150-yuan"
+    "slug": "openai-models-breach-safety"
   },
   {
     "date": "2026-08-09",
-    "title": "苹果官宣Mac接入阿里千问AI：Siri可提供更深入AI服务",
-    "summary": "苹果官宣Mac接入阿里千问AI，Siri将为用户提供更深入的AI服务。这标志着苹果在中国市场本地化AI合作的重要一步，苹果Mac设备通过与阿里通义千问的合作，进一步提升其在中国市场的AI能力与用户体验。",
-    "url": "http://tech.163.com/",
-    "source": "网易科技",
-    "slug": "apple-mac-alibaba-qwen-ai-integration"
+    "title": "谷歌 DeepMind 迎来新时代：哈萨比斯卸任 CEO 转任董事长",
+    "summary": "谷歌 DeepMind 联合创始人德米斯·哈萨比斯宣布卸任首席执行官，转任董事长并出任 Alphabet 首席科学家，更专注于 AI 的“宏观方向”；长期同事科雷·卡武克丘奥卢接任 DeepMind 高级副总裁。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9326a78194750052",
+    "source": "企鹅号",
+    "slug": "deepmind-hassabis-chairman"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "谷歌宣布对 AI 部门进行重组",
+    "summary": "在一周全球公司十大要闻中，谷歌宣布将对 AI 部门进行重组，成为科技巨头调整 AI 战略的最新动作之一。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2126a7902d283252",
+    "source": "企鹅号",
+    "slug": "google-ai-restructuring"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "亚马逊完成对 OpenAI 的 500 亿美元投资",
+    "summary": "据一周全球公司十大要闻，亚马逊完成对 OpenAI 的 500 亿美元投资，凸显大型科技企业对前沿 AI 模型的资本布局持续加码。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2126a7902d283252",
+    "source": "企鹅号",
+    "slug": "amazon-openai-50b-investment"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "宇树科技确定科创板上市发行价",
+    "summary": "机器人企业宇树科技确定科创板上市发行价，标志国产具身智能/机器人企业加速登陆资本市场。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2126a7902d283252",
+    "source": "企鹅号",
+    "slug": "unitree-ipo-price"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "河北开展“人工智能+制造”专项行动",
+    "summary": "河北省工信厅联合省通信管理局、省发展改革委等 8 个部门印发《河北省“人工智能+制造”专项行动实施方案》，构建“一核三化”发展体系，以算力算法数据一体化推进为核心，协同推动产业智能化、智能产业化和发展生态化。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2816a78fcbb05452",
+    "source": "企鹅号",
+    "slug": "hebei-ai-manufacturing"
   },
   {
     "date": "2026-08-09",
-    "title": "美媒称中国在AI竞赛中显示出独特优势：全球性能顶尖开源模型均来自中国",
-    "summary": "美国消费者新闻与商业频道（CNBC）近日刊文称，中国人工智能企业正缩小与美国前沿实验室的性能差距，部分领域甚至实现反超。当前全球性能顶尖的开源模型（即可下载、修改、自主部署的模型）均来自中国。多位专家表示，中国的机器人技术同样处于世界领先水平。中国人工智能模型的可负担性和开放性受到越来越多关注。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7966a77d55a64652",
-    "source": "企鹅号",
-    "slug": "cnbc-china-ai-competitive-advantages-open-source"
+    "title": "黄仁勋：物理 AI 营收已破百亿美元，预言下个千亿赛道",
+    "summary": "AI Weekly 周报聚焦黄仁勋最新长谈，其回应首条推文背后的“Linux 时刻”，并透露物理 AI 营收已突破百亿美元，预言下一个千亿级赛道。",
+    "url": "https://www.51ai.website/",
+    "source": "AI Weekly",
+    "slug": "huang-physical-ai-billion"
   },
   {
     "date": "2026-08-09",
-    "title": "摩根大通CEO戴蒙发起跨行业倡议，共同应对AI风险",
-    "summary": "摩根大通CEO杰米·戴蒙发起跨行业倡议，呼吁各行业共同应对人工智能带来的风险。随着AI从技术实验快速演变为具有实质影响的实用工具，企业构建、治理和保障AI系统的方式正面临深刻变革，AI风险管理已成为全球企业领袖的首要议题之一。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5766a775e5130052",
-    "source": "企鹅号",
-    "slug": "jpmorgan-dimon-ai-risk-initiative"
+    "title": "GPT-5.6 全面上线，AI 新时代来袭",
+    "summary": "AI Weekly 周报显示，GPT-5.6 已全面上线，被描述为开启 AI 新时代的重要版本更新。",
+    "url": "https://www.51ai.website/",
+    "source": "AI Weekly",
+    "slug": "gpt-5-6-launch"
   }
 ]
