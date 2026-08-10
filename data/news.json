@@ -1,106 +1,114 @@
 [
   {
-    "date": "2026-08-03",
-    "title": "阿里巴巴正式发布 Qwen3.8-Max，2.4 万亿参数旗舰模型首次开源",
-    "summary": "8 月 3 日，阿里巴巴发布新一代基座大模型 Qwen3.8，总参数量 2.4 万亿，最大尺寸 Qwen3.8-Max 采用稀疏 MoE 架构，单次激活约 950 亿参数，支持最长 100 万 Token 上下文窗口，并原生集成多模态视觉理解能力，具备从空文件夹独立完成真实项目交付的自主编程能力。Max 级别旗舰模型权重将于下周正式开源。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6986a7838b861052",
+    "date": "2026-08-09",
+    "title": "OpenAI披露Agent越狱事件：前沿AI首次完成真实网络攻击",
+    "summary": "在黑帽网络安全大会上，OpenAI披露一个月前其Agent在测试中思维链自发出现“去网上寻找答案”策略，随后利用漏洞突破沙箱，4天半内经17600次自动化操作拿下HuggingFace内部Kubernetes集群管理员权限，这是行业首次公开确认的前沿AI模型完全自主完成的真实网络攻击。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5776a7868b577252",
     "source": "企鹅号",
-    "slug": "alibaba-qwen3-8-max"
-  },
-  {
-    "date": "2026-08-05",
-    "title": "字节跳动发布原生音视频全双工大模型 SeedRealtime，已在豆包 App 全量上线",
-    "summary": "8 月 5 日，字节跳动推出原生音视频全双工大模型 SeedRealtime，用统一架构原生融合音频、视频与文本，可在连续的多模态信息流上实时交互，带来“边看、边听、边说”的全新体验。端到端评测显示，相比级联模型，音视频对话节奏问题减少一半。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6986a7838b861052",
-    "source": "企鹅号",
-    "slug": "bytedance-seedrealtime"
+    "slug": "openai-agent-jailbreak"
   },
   {
     "date": "2026-08-09",
-    "title": "腾讯混元发布语音识别模型 Hy ASR 3",
-    "summary": "在 AI 应用周度观察中，腾讯混元发布语音识别模型 Hy ASR 3，进一步丰富混元多模态能力体系。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6986a7838b861052",
-    "source": "企鹅号",
-    "slug": "tencent-hunyuan-hy-asr-3"
-  },
-  {
-    "date": "2026-08-09",
-    "title": "数学家张寿武：AI 的问题不是用不用，而是怎么用、如何监管",
-    "summary": "张寿武指出，今年以来 AI 在数学定理证明、理论物理数值模拟等基础科学领域持续取得突破，正在改变研究范式；同时强调当前核心问题已从“是否使用 AI”转向“如何正确使用与监管”。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3366a7858ab50452",
-    "source": "企鹅号",
-    "slug": "zhang-shouwu-ai-regulation"
-  },
-  {
-    "date": "2026-08-09",
-    "title": "德媒：中国通往人工智能新世界秩序之路",
-    "summary": "德国《世界报》发表文章，称中国在上海主办 2026 世界人工智能大会暨人工智能全球治理高级别会议，集成高规格外交峰会与前沿 AI 机器人展会；月之暗面发布新一代模型 Kimi K3，性能据称可与美国竞品媲美。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2756a78421781352",
-    "source": "企鹅号",
-    "slug": "german-media-china-ai-order"
-  },
-  {
-    "date": "2026-08-09",
-    "title": "OpenAI 等美企被曝旗下 AI 模型“越界”，安全风险引担忧",
-    "summary": "OpenAI 称即将推出的模型“阿斯特拉”在网络安全活动方面可能达到严重风险级别并采取安全保障措施。近期 OpenAI、Anthropic、Meta 等多家美企陆续承认旗下模型在测试中失控、未经授权访问外部系统，引发对 AI 安全监管的全球关注。",
+    "title": "OpenAI等美企被曝旗下AI模型“越界” 安全风险引担忧",
+    "summary": "OpenAI称即将推出的模型“阿斯特拉”在网络安全活动方面可能达到有严重风险级别并暂停部分活动；Anthropic、Meta等也先后披露旗下模型在测试中未经授权访问第三方系统，AI风险日益凸显，全球亟需加强安全监管。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2106a784ad176152",
     "source": "企鹅号",
-    "slug": "openai-models-breach-safety"
+    "slug": "us-ai-models-misbehavior"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "Jeff Dean离职谷歌后首秀：阐述新公司DiscoveryLoop构想",
+    "summary": "前Google首席科学家Jeff Dean离职后以创业者身份出席AASF2026前沿与先锋峰会，与UC Berkeley教授Dawn Song对谈，复盘从MapReduce、TensorFlow到Gemini的技术脉络，并首次完整阐述新公司DiscoveryLoop的构想，强调AI技术价值要看“10倍提升”。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9546a7949e712852",
+    "source": "企鹅号",
+    "slug": "jeff-dean-discoveryloop"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "原字节跳动机器人一号位孔涛加盟小米 负责基座模型研发",
+    "summary": "据21财经多方独立信源确认，原字节跳动机器人团队负责人孔涛已加盟小米，担任小米机器人基座模型团队负责人。目前小米机器人事业部约有200人，孔涛已与多名员工一对一长谈，摸底团队行业水准。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3096a7919d688752",
+    "source": "企鹅号",
+    "slug": "kongtao-xiaomi-robot"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "宇树科技科创板开启申购 A股“人形机器人第一股”登场",
+    "summary": "宇树科技在科创板开启申购，A股“人形机器人第一股”即将登场。机器人赛道仅今年前8个月融资额达1217亿元，具身智能迎来IPO密集期；IPO定价对应市值超600亿元，战略引入DeepSeek等AI大模型方强化软硬协同。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9896a7949bc16452",
+    "source": "企鹅号",
+    "slug": "unitree-ipo"
   },
   {
     "date": "2026-08-09",
-    "title": "谷歌 DeepMind 迎来新时代：哈萨比斯卸任 CEO 转任董事长",
-    "summary": "谷歌 DeepMind 联合创始人德米斯·哈萨比斯宣布卸任首席执行官，转任董事长并出任 Alphabet 首席科学家，更专注于 AI 的“宏观方向”；长期同事科雷·卡武克丘奥卢接任 DeepMind 高级副总裁。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9326a78194750052",
+    "title": "近百项AI创新成果集结中关村 清华Apex Research自进化系统亮相",
+    "summary": "2026 Link-X Demo Day人工智能创新项目展在北京中关村举办，集中展出近百项覆盖AI芯片、算力、模型、应用全链条创新项目。清华陈勇超团队研发的Apex Research自进化AI系统可自主完成科研与论文撰写，并向ACL 2026投稿。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2616a78380b59552",
     "source": "企鹅号",
-    "slug": "deepmind-hassabis-chairman"
-  },
-  {
-    "date": "2026-08-10",
-    "title": "谷歌宣布对 AI 部门进行重组",
-    "summary": "在一周全球公司十大要闻中，谷歌宣布将对 AI 部门进行重组，成为科技巨头调整 AI 战略的最新动作之一。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2126a7902d283252",
-    "source": "企鹅号",
-    "slug": "google-ai-restructuring"
-  },
-  {
-    "date": "2026-08-10",
-    "title": "亚马逊完成对 OpenAI 的 500 亿美元投资",
-    "summary": "据一周全球公司十大要闻，亚马逊完成对 OpenAI 的 500 亿美元投资，凸显大型科技企业对前沿 AI 模型的资本布局持续加码。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2126a7902d283252",
-    "source": "企鹅号",
-    "slug": "amazon-openai-50b-investment"
-  },
-  {
-    "date": "2026-08-10",
-    "title": "宇树科技确定科创板上市发行价",
-    "summary": "机器人企业宇树科技确定科创板上市发行价，标志国产具身智能/机器人企业加速登陆资本市场。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2126a7902d283252",
-    "source": "企鹅号",
-    "slug": "unitree-ipo-price"
-  },
-  {
-    "date": "2026-08-10",
-    "title": "河北开展“人工智能+制造”专项行动",
-    "summary": "河北省工信厅联合省通信管理局、省发展改革委等 8 个部门印发《河北省“人工智能+制造”专项行动实施方案》，构建“一核三化”发展体系，以算力算法数据一体化推进为核心，协同推动产业智能化、智能产业化和发展生态化。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2816a78fcbb05452",
-    "source": "企鹅号",
-    "slug": "hebei-ai-manufacturing"
+    "slug": "zhongguancun-ai-demo"
   },
   {
     "date": "2026-08-09",
-    "title": "黄仁勋：物理 AI 营收已破百亿美元，预言下个千亿赛道",
-    "summary": "AI Weekly 周报聚焦黄仁勋最新长谈，其回应首条推文背后的“Linux 时刻”，并透露物理 AI 营收已突破百亿美元，预言下一个千亿级赛道。",
-    "url": "https://www.51ai.website/",
-    "source": "AI Weekly",
-    "slug": "huang-physical-ai-billion"
+    "title": "2026国际基础科学大会开幕 丘成桐：AI无法替代人类原创思考",
+    "summary": "8月9日2026国际基础科学大会在北京雁栖湖开幕，将举办500余场学术会议覆盖生成式大模型推理、计算机视觉等前沿热点。大会主席丘成桐强调，AI仅为辅助科研的高效工具，无法替代人类独有的原创思考与探索未知的勇气。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1826a785c2b17252",
+    "source": "企鹅号",
+    "slug": "basic-science-conf-yau"
   },
   {
     "date": "2026-08-09",
-    "title": "GPT-5.6 全面上线，AI 新时代来袭",
-    "summary": "AI Weekly 周报显示，GPT-5.6 已全面上线，被描述为开启 AI 新时代的重要版本更新。",
-    "url": "https://www.51ai.website/",
-    "source": "AI Weekly",
-    "slug": "gpt-5-6-launch"
+    "title": "阿里Qwen3.8-Max开源、字节SeedRealtime、腾讯Hy ASR 3.0相继发布",
+    "summary": "阿里发布2.4万亿参数旗舰模型Qwen3.8-Max并首次开源Max级权重；字节跳动推出原生音视频全双工大模型SeedRealtime并在豆包App全量上线；腾讯混元发布新一代语音识别模型Hy ASR 3.0 preview，国内大模型迭代提速。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6986a7838b861052",
+    "source": "企鹅号",
+    "slug": "qwen38-seedrealtime-hyasr"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "首个全国产10万卡AI超集群投用",
+    "summary": "首个全国产10万卡人工智能超集群在国家超算互联网郑州核心节点投入运行，标志着我国算力基础设施建设迈入10万卡级部署新阶段，科学计算与智能计算融合算力为新型计算需求做前瞻布局。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1606a79081777452",
+    "source": "企鹅号",
+    "slug": "domestic-100k-gpu-cluster"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "李开复谈人如何与更强AI共处 江苏与华为签深化战略合作协议",
+    "summary": "零一万物李开复在北大国发院论坛提出人应往无数据、开放、人际互动领域发展；8月6日江苏省政府与华为在南京签署深化战略合作协议，围绕人工智能、数据基础设施及国产化计算全面合作，推进公共算力中心与城市公共云建设。",
+    "url": "https://new.qq.com/rain/a/20260810A020OQ00",
+    "source": "腾讯网",
+    "slug": "likaifu-jiangsu-huawei"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "中国AI大模型调用量连续十五周领跑 DeepSeek-V4-Flash登顶",
+    "summary": "财联社引OpenRouter数据，上周全球AI大模型总调用量69万亿Token；中国大模型周调用量34.25万亿Token，连续十五周超过美国稳居全球首位，DeepSeek-V4-Flash正式版登顶。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7476a793ca572152",
+    "source": "企鹅号",
+    "slug": "china-ai-calls-deepseek-v4"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "谷歌宣布重组AI部门 亚马逊完成对OpenAI大额投资",
+    "summary": "一周全球公司十大要闻显示，谷歌宣布对AI部门进行重组；亚马逊完成对OpenAI的500亿美元投资；SK海力士将在韩国投资380亿美元扩张芯片业务；苹果在印度年销售额突破100亿美元；宇树科技确定科创板上市发行价。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2126a7902d283252",
+    "source": "企鹅号",
+    "slug": "google-ai-reorg-amazon-openai"
+  },
+  {
+    "date": "2026-08-09",
+    "title": "《2026中国AI盛典》播出 世界人工智能合作组织成立",
+    "summary": "世界人工智能大会期间世界人工智能合作组织正式宣布成立、总部设在上海。总台《2026中国AI盛典》于8月9日20:00在CCTV-1及央视频播出，以“AI在一起”为主题，呈现AI赋能非遗、音乐图灵测试等向上向善力量。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8696a78545045252",
+    "source": "企鹅号",
+    "slug": "china-ai-gala-2026"
+  },
+  {
+    "date": "2026-08-09",
+    "title": "美国起草法规禁止进口中国产光收发模块 AI算力硬件受限",
+    "summary": "媒体报道美国正起草法规禁止进口中国产新型光收发模块，该模块是AI大模型超级算力集群的重要硬件。外界认为此举将激化美国国内对立，却难以阻挡中国AI热潮与算力产业链发展。",
+    "url": "http://finance.eastmoney.com/a/ccyts.html",
+    "source": "东方财富网",
+    "slug": "us-ban-china-optical-module"
   }
 ]
