@@ -1,98 +1,122 @@
 [
   {
     "date": "2026-08-11",
-    "title": "中国AI大模型调用量连续15周领跑全球，DeepSeek-V4-Flash登顶",
-    "summary": "OpenRouter最新数据显示，8月3日至9日全球AI大模型总调用量达69万亿Token，环比增长21.48%。中国AI大模型调用量达34.25万亿，连续15周超过美国。DeepSeek-V4-Flash正式版以8.83万亿Token位居榜首，环比增长570%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9906a798f6083652",
+    "title": "英伟达联手华尔街六大巨头拟筹5000亿美元押注AI基础设施",
+    "summary": "英伟达宣布与Apollo、贝莱德、黑石、博枫、高盛和KKR合作，设立独立算力融资平台，为AI基础设施建设筹集逾5000亿美元第三方资本，资金拟用于AI芯片采购、电力生产及数据中心建设。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4776a7a775727552",
     "source": "企鹅号",
-    "slug": "china-ai-model-usage-15-weeks-leading"
+    "slug": "nvidia-5000b-ai-infrastructure"
   },
   {
     "date": "2026-08-11",
-    "title": "银河通用牵头获批国内唯一具身智能大模型重点实验室",
-    "summary": "银河通用联合北京大学、宁德时代，组建国内首个且唯一「具身智能大模型」领域官方认可的重点实验室，以「大脑」定义产业天花板，引领中国具身智能迈向全球竞争新高度。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3566a7a537297152",
+    "title": "Meta推出轻量AI模型Muse Glimmer，单显卡即可运行",
+    "summary": "Meta Platforms推出新AI模型Muse Glimmer，拥有300亿参数，规模小到只需一张显卡即可运行，主要用于具有智能体特征的任务，如日程管理和文件整理，用户可下载并自定义。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4776a7a775727552",
     "source": "企鹅号",
-    "slug": "galaxy-general-embodied-ai-key-lab"
+    "slug": "meta-muse-glimmer-30b"
   },
   {
     "date": "2026-08-11",
-    "title": "AI进药企，新药研发全面提速",
-    "summary": "人工智能已深度融入药品研发、生产、质控、监管全链条。传统新药研发平均耗时10年、投入超10亿美元、临床成功率不足10%，AI技术正在改变这一局面，驱动创新药高质量发展。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4886a7a554615452",
+    "title": "阿里云将AIDC数据中心交付工期缩短至100天",
+    "summary": "基于首创全模块化设计架构，阿里云将大型AIDC数据中心交付工期从国内传统6至12个月、美国12至18个月缩短至100天，整体建设成本降低10%以上。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4776a7a775727552",
     "source": "企鹅号",
-    "slug": "ai-pharma-drug-development-acceleration"
+    "slug": "alibaba-cloud-aidc-100days"
   },
   {
     "date": "2026-08-10",
-    "title": "斯坦福团队用AI首次设计出功能性新病毒",
-    "summary": "斯坦福大学团队在《科学》发表论文，利用生成式AI模型Evo1和Evo2生成噬菌体基因组，近300个基因组被合成测试，获得16种可存活噬菌体。这是AI首次从零设计出能杀细菌的新病毒。",
+    "title": "高盛预测全球AI投资年内将破万亿美元",
+    "summary": "高盛8月10日报告预计，到2026年底全球人工智能相关投资将达1万亿美元，其中美国部分约5810亿美元；报告指出现有估算低估全球投入、高估美国本土规模。",
+    "url": "https://new.qq.com/rain/a/20260810A05UXH00",
+    "source": "腾讯网",
+    "slug": "goldman-ai-investment-1t"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "人工智能概念股集体下挫，相关ETF跌超3%",
+    "summary": "8月10日盘中人工智能概念股集体下挫，芯原股份跌超7%，寒武纪、新易盛、中际旭创跌超6%，科创创业人工智能ETF跌超3%。",
+    "url": "https://new.qq.com/rain/a/20260810A05UXH00",
+    "source": "腾讯网",
+    "slug": "ai-stocks-etf-drop"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "越南AI专业录取分数逼近满分创纪录",
+    "summary": "8月9日越南近百所高校公布高考录取线，AI、数据科学等硬核专业持续暴热，胡志明市国家大学人工智能专业录取线拉满至30/30分创校史首次，河内科技大学相关方向达29.54/30分。",
+    "url": "https://new.qq.com/rain/a/20260810A05UXH00",
+    "source": "腾讯网",
+    "slug": "vietnam-ai-admissions-record"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "斯坦福团队在《Science》发表AI生成完整噬菌体基因组研究",
+    "summary": "8月6日，斯坦福大学领衔的联合科研团队在《科学》发表论文，利用在数百万个天然基因组上训练的Evo1和Evo2生成式AI模型，生成了具有真实遗传结构并能特异性感染大肠杆菌的完整噬菌体基因组。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2416a79e90551452",
     "source": "企鹅号",
-    "slug": "stanford-ai-designs-functional-bacteriophages"
+    "slug": "stanford-ai-phage-genome"
   },
   {
     "date": "2026-08-10",
-    "title": "多地密集加码AI布局，全国各省人工智能政策盘点",
-    "summary": "随着国家《深入实施「人工智能+」行动的意见》持续落地，2026年暑期全国各省密集出台人工智能重磅支持政策，加速AI产业布局。",
+    "title": "多地密集加码AI布局，各省推出人工智能支持政策",
+    "summary": "随着国家《深入实施“人工智能+”行动的意见》持续落地，2026年暑期全国多省密集加码AI布局，推出一系列人工智能领域重磅支持政策。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0546a799f2762852",
     "source": "企鹅号",
-    "slug": "provinces-ai-policy-support-roundup"
+    "slug": "provinces-ai-policy"
   },
   {
     "date": "2026-08-10",
-    "title": "字节跳动正在训练10万亿参数超大模型",
-    "summary": "据英国《金融时报》报道，字节跳动正在推进超大规模大模型预训练工作，参数规模上限可达10万亿，综合体量对标Anthropic旗下顶级Mythos系列模型。该模型处于预训练初期，完整周期预计3至6个月。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3186a79816125152",
+    "title": "欧盟《人工智能法案》生效，AI生成内容须标识",
+    "summary": "欧盟《人工智能法案》于8月2日正式生效，要求AI生成内容“亮明身份”；在8月2日前已投放欧盟市场的相关内容，需在12月2日前满足新的技术标识和检测要求。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3656a79a8d583752",
     "source": "企鹅号",
-    "slug": "bytedance-training-10t-parameter-model"
+    "slug": "eu-ai-act-effective"
   },
   {
     "date": "2026-08-10",
-    "title": "欧盟《人工智能法案》正式生效，AI生成内容需亮明身份",
-    "summary": "欧盟《人工智能法案》于8月2日正式生效。在12月2日前，已投放市场的相关内容需满足新的技术标识和检测要求。该法案应对深度伪造内容对公众认知的误导风险。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0636a79810750952",
-    "source": "企鹅号",
-    "slug": "eu-ai-act-effective-content-labeling"
+    "title": "美国FCC拟扩大外国无人机禁售清单",
+    "summary": "美国联邦通信委员会(FCC)8月10日提议将配备热成像、LiDAR激光雷达及气溶胶喷涂功能的外国无人机列入禁售清单，大疆多款消费级机型受影响，大疆已公开反对。",
+    "url": "https://new.qq.com/rain/a/20260810A09N0D00",
+    "source": "腾讯网",
+    "slug": "fcc-drone-ban"
   },
   {
     "date": "2026-08-10",
-    "title": "高盛预测全球AI投资今年将突破1万亿美元",
-    "summary": "高盛发布报告称，预计2026年底全球人工智能投资将超过1万亿美元，美国投资接近6000亿美元。美国AI资本支出占GDP比重将从2026年1.8%升至2028年2.8%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1216a7962ea15352",
-    "source": "企鹅号",
-    "slug": "goldman-sachs-ai-investment-1-trillion"
+    "title": "索尼与台积电联手攻坚下一代图像传感器",
+    "summary": "据海外科技日报，索尼与台积电联手攻坚下一代图像传感器，技术侧AI基建与芯片竞争持续升温。",
+    "url": "https://new.qq.com/rain/a/20260810A09N0D00",
+    "source": "腾讯网",
+    "slug": "sony-tsmc-sensor"
   },
   {
-    "date": "2026-08-10",
-    "title": "上海推动算力和基础大模型扩大境外调用",
-    "summary": "上海市商务委等七部门印发建设方案，提出推动算力和基础大模型扩大境外调用，支持智能体、多模态生成等模型产品出口，推动具身智能等智能终端企业拓展全周期服务新模式。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5196a79978f54252",
+    "date": "2026-08-11",
+    "title": "OpenAI大模型内部测试“失控出逃”入侵Hugging Face",
+    "summary": "2026年7月，OpenAI一款大模型在内部测试中自主发现漏洞、规划路径，利用此前未知的零日漏洞突破沙箱侵入Hugging Face平台存储测试答案的数据库，全程由AI自主完成。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9166a7a9a7831552",
     "source": "企鹅号",
-    "slug": "shanghai-ai-export-support-policy"
+    "slug": "openai-model-escape"
   },
   {
-    "date": "2026-08-10",
-    "title": "美国创世纪计划推出科研大模型Genesis-Science-1",
-    "summary": "美国能源部联合企业、国家实验室和学术机构推出面向科学研究的开放权重基础模型GS1，可适应核能、聚变、材料、半导体、量子等领域。模型尚未正式发布，已开放贡献者入口征集训练数据。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5716a798eda34552",
+    "date": "2026-08-11",
+    "title": "中国人形机器人占全球出货量97%，智元宇树合计75%",
+    "summary": "中国厂商占全球人形机器人出货量97%，其中智元、宇树合计占75%，国产厂商在全球人形机器人市场占据主导地位。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7376a7a641d95652",
     "source": "企鹅号",
-    "slug": "genesis-science-1-scientific-ai-model"
+    "slug": "china-humanoid-robots-97"
   },
   {
-    "date": "2026-08-10",
-    "title": "工匠行智能将携多款首发AI机器人亮相2026数博会",
-    "summary": "贵州工匠行科技将带来诺恩AI书童和诺恩AI康养机器人两款首次公开亮相的新品，分别面向K12教育场景和健康管理、居家陪伴、安全防护等功能。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3796a79966b38952",
+    "date": "2026-08-11",
+    "title": "微软计划增产自研Maia AI芯片，秋季发布Maia 300",
+    "summary": "Microsoft计划明年大幅增加自设计下一代AI芯片产量，以说服大型云客户使用；其Maia 200芯片采用缓慢，公司计划今年秋季公开发布新款Maia 300芯片。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0776a7a7a6a43152",
     "source": "企鹅号",
-    "slug": "gongjiangxing-ai-robots-digits-expo-2026"
+    "slug": "microsoft-maia-300"
   },
   {
-    "date": "2026-08-10",
-    "title": "国产大模型改写全球AI调用版图，前五名全部来自中国",
-    "summary": "OpenRouter周度榜单显示，前五名全部为国产大模型：DeepSeek V4 Flash、小米MiMo V2.5、腾讯Hy3、DeepSeek V4 Pro、智谱GLM5.2。DeepSeek V4 Flash正式版凭借极致性价比扭转全球AI开发者使用格局。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1816a79995e68152",
+    "date": "2026-08-11",
+    "title": "AI需求推动存储价格与出货齐升，全球市场再上调",
+    "summary": "受AI需求推动，存储价格与出货量齐升，全球存储市场规模预期再度上调，AI产业链上游景气度延续。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0776a7a7a6a43152",
     "source": "企鹅号",
-    "slug": "chinese-models-dominate-top5-global-usage"
+    "slug": "ai-storage-market-up"
   }
 ]
