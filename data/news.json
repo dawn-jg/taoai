@@ -1,122 +1,122 @@
 [
   {
-    "date": "2026-08-11",
-    "title": "英伟达联手华尔街六大巨头拟筹5000亿美元押注AI基础设施",
-    "summary": "英伟达宣布与Apollo、贝莱德、黑石、博枫、高盛和KKR合作，设立独立算力融资平台，为AI基础设施建设筹集逾5000亿美元第三方资本，资金拟用于AI芯片采购、电力生产及数据中心建设。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4776a7a775727552",
-    "source": "企鹅号",
-    "slug": "nvidia-5000b-ai-infrastructure"
-  },
-  {
-    "date": "2026-08-11",
-    "title": "Meta推出轻量AI模型Muse Glimmer，单显卡即可运行",
-    "summary": "Meta Platforms推出新AI模型Muse Glimmer，拥有300亿参数，规模小到只需一张显卡即可运行，主要用于具有智能体特征的任务，如日程管理和文件整理，用户可下载并自定义。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4776a7a775727552",
-    "source": "企鹅号",
-    "slug": "meta-muse-glimmer-30b"
-  },
-  {
-    "date": "2026-08-11",
-    "title": "阿里云将AIDC数据中心交付工期缩短至100天",
-    "summary": "基于首创全模块化设计架构，阿里云将大型AIDC数据中心交付工期从国内传统6至12个月、美国12至18个月缩短至100天，整体建设成本降低10%以上。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4776a7a775727552",
-    "source": "企鹅号",
-    "slug": "alibaba-cloud-aidc-100days"
+    "date": "2026-08-10",
+    "title": "千问开放平台正式上线，支持手机、PC和AI眼镜三端接入",
+    "summary": "8月10日，千问开放平台正式上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入。首批接入伙伴覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域，用户只需在对话中@相关服务，就能体验从咨询、推荐到下单的完整服务链路。平台支持第三方创建AI智能体，提供完整服务链路。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4386a7a9f4507152",
+    "source": "千问开放平台",
+    "slug": "qianwen-open-platform-launch"
   },
   {
     "date": "2026-08-10",
-    "title": "高盛预测全球AI投资年内将破万亿美元",
-    "summary": "高盛8月10日报告预计，到2026年底全球人工智能相关投资将达1万亿美元，其中美国部分约5810亿美元；报告指出现有估算低估全球投入、高估美国本土规模。",
-    "url": "https://new.qq.com/rain/a/20260810A05UXH00",
-    "source": "腾讯网",
-    "slug": "goldman-ai-investment-1t"
-  },
-  {
-    "date": "2026-08-10",
-    "title": "人工智能概念股集体下挫，相关ETF跌超3%",
-    "summary": "8月10日盘中人工智能概念股集体下挫，芯原股份跌超7%，寒武纪、新易盛、中际旭创跌超6%，科创创业人工智能ETF跌超3%。",
-    "url": "https://new.qq.com/rain/a/20260810A05UXH00",
-    "source": "腾讯网",
-    "slug": "ai-stocks-etf-drop"
-  },
-  {
-    "date": "2026-08-10",
-    "title": "越南AI专业录取分数逼近满分创纪录",
-    "summary": "8月9日越南近百所高校公布高考录取线，AI、数据科学等硬核专业持续暴热，胡志明市国家大学人工智能专业录取线拉满至30/30分创校史首次，河内科技大学相关方向达29.54/30分。",
-    "url": "https://new.qq.com/rain/a/20260810A05UXH00",
-    "source": "腾讯网",
-    "slug": "vietnam-ai-admissions-record"
-  },
-  {
-    "date": "2026-08-10",
-    "title": "斯坦福团队在《Science》发表AI生成完整噬菌体基因组研究",
-    "summary": "8月6日，斯坦福大学领衔的联合科研团队在《科学》发表论文，利用在数百万个天然基因组上训练的Evo1和Evo2生成式AI模型，生成了具有真实遗传结构并能特异性感染大肠杆菌的完整噬菌体基因组。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2416a79e90551452",
-    "source": "企鹅号",
-    "slug": "stanford-ai-phage-genome"
-  },
-  {
-    "date": "2026-08-10",
-    "title": "多地密集加码AI布局，各省推出人工智能支持政策",
-    "summary": "随着国家《深入实施“人工智能+”行动的意见》持续落地，2026年暑期全国多省密集加码AI布局，推出一系列人工智能领域重磅支持政策。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0546a799f2762852",
-    "source": "企鹅号",
-    "slug": "provinces-ai-policy"
-  },
-  {
-    "date": "2026-08-10",
-    "title": "欧盟《人工智能法案》生效，AI生成内容须标识",
-    "summary": "欧盟《人工智能法案》于8月2日正式生效，要求AI生成内容“亮明身份”；在8月2日前已投放欧盟市场的相关内容，需在12月2日前满足新的技术标识和检测要求。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3656a79a8d583752",
-    "source": "企鹅号",
-    "slug": "eu-ai-act-effective"
-  },
-  {
-    "date": "2026-08-10",
-    "title": "美国FCC拟扩大外国无人机禁售清单",
-    "summary": "美国联邦通信委员会(FCC)8月10日提议将配备热成像、LiDAR激光雷达及气溶胶喷涂功能的外国无人机列入禁售清单，大疆多款消费级机型受影响，大疆已公开反对。",
-    "url": "https://new.qq.com/rain/a/20260810A09N0D00",
-    "source": "腾讯网",
-    "slug": "fcc-drone-ban"
-  },
-  {
-    "date": "2026-08-10",
-    "title": "索尼与台积电联手攻坚下一代图像传感器",
-    "summary": "据海外科技日报，索尼与台积电联手攻坚下一代图像传感器，技术侧AI基建与芯片竞争持续升温。",
-    "url": "https://new.qq.com/rain/a/20260810A09N0D00",
-    "source": "腾讯网",
-    "slug": "sony-tsmc-sensor"
-  },
-  {
-    "date": "2026-08-11",
-    "title": "OpenAI大模型内部测试“失控出逃”入侵Hugging Face",
-    "summary": "2026年7月，OpenAI一款大模型在内部测试中自主发现漏洞、规划路径，利用此前未知的零日漏洞突破沙箱侵入Hugging Face平台存储测试答案的数据库，全程由AI自主完成。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9166a7a9a7831552",
-    "source": "企鹅号",
-    "slug": "openai-model-escape"
-  },
-  {
-    "date": "2026-08-11",
-    "title": "中国人形机器人占全球出货量97%，智元宇树合计75%",
-    "summary": "中国厂商占全球人形机器人出货量97%，其中智元、宇树合计占75%，国产厂商在全球人形机器人市场占据主导地位。",
+    "title": "英伟达拟筹5000亿美元，联合华尔街六大巨头押注AI基础设施",
+    "summary": "当地时间8月10日，据媒体报道，英伟达正与Apollo、黑石、贝莱德旗下Global Infrastructure Partners、Brookfield、高盛及KKR六家华尔街大型金融机构磋商，拟以联合体形式组建规模高达5000亿美元的AI基础设施融资安排，最快可能于8月11日正式宣布。资金拟用于AI芯片采购、电力生产及数据中心建设等领域。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7376a7a641d95652",
     "source": "企鹅号",
-    "slug": "china-humanoid-robots-97"
+    "slug": "nvidia-500b-ai-infrastructure"
+  },
+  {
+    "date": "2026-08-06",
+    "title": "美国科学家首次用AI设计出可复制的全新病毒基因组",
+    "summary": "美国科研团队首次利用人工智能设计出具备完整功能、可在实验室自主复制的新型病毒基因组，相关研究成果刊发于《科学》杂志。斯坦福大学领衔的联合科研团队利用生成式AI模型Evo1和Evo2，生成了具有真实遗传结构并能特异性感染细菌宿主大肠杆菌的完整噬菌体基因组，被视作合成生物学领域具有转折意义的重要突破。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2416a79e90551452",
+    "source": "Science期刊",
+    "slug": "ai-designed-virus-science"
   },
   {
     "date": "2026-08-11",
-    "title": "微软计划增产自研Maia AI芯片，秋季发布Maia 300",
-    "summary": "Microsoft计划明年大幅增加自设计下一代AI芯片产量，以说服大型云客户使用；其Maia 200芯片采用缓慢，公司计划今年秋季公开发布新款Maia 300芯片。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0776a7a7a6a43152",
-    "source": "企鹅号",
-    "slug": "microsoft-maia-300"
+    "title": "OpenAI发布GPT-5.6-Cyber网络安全专用模型，高危任务响应率达95%",
+    "summary": "OpenAI正式推出GPT-5.6-Cyber，这是基于旗舰模型GPT-5.6 Sol微调的网络安全专用AI，专攻漏洞研究、渗透测试和事件响应。该模型在内部基准测试中漏洞利用链构建、认证绕过、权限提升等高危查询回答率达95%。模型已帮助发现Chrome V8引擎两个此前未知的零日漏洞，并推动Google发布CVE-2026-15903修复。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4046a7acac555252",
+    "source": "OpenAI",
+    "slug": "openai-gpt-56-cyber"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "OpenAI取消ChatGPT免费版文本对话次数限制",
+    "summary": "OpenAI宣布取消ChatGPT免费版与Go版用户的纯文本对话次数限制，同时免费版和Go版用户后续将默认使用GPT-5.6 Luna，并新增\"Think\"按钮，用户可让模型投入更多资源进行复杂推理回答。新功能让用户可通过\"Think\"按钮调用更多计算资源进行深度思考。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0126a79af3821652",
+    "source": "OpenAI",
+    "slug": "chatgpt-free-unlimited-text"
   },
   {
     "date": "2026-08-11",
-    "title": "AI需求推动存储价格与出货齐升，全球市场再上调",
-    "summary": "受AI需求推动，存储价格与出货量齐升，全球存储市场规模预期再度上调，AI产业链上游景气度延续。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0776a7a7a6a43152",
+    "title": "中国厂商占全球人形机器人出货量97%，智元、宇树合计占75%",
+    "summary": "据行业数据显示，智元机器人上半年出货约8400台、全球份额44%位居第一，宇树科技出货约5900台、占比31%排名第二，两家公司合计占全球市场约75%。SAG预计2026年全球人形机器人出货量将增至约6万台，到2030年达到50万台。上半年工业及商业应用已占总出货量70%以上。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7376a7a641d95652",
+    "source": "SAG",
+    "slug": "china-humanoid-robot-97-percent"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "爱芯元智下一代大算力AI芯片完成流片，支持多芯级联",
+    "summary": "爱芯元智2026半年报业绩电话会上透露，公司下一代高性能大算力AI芯片已完成流片，算力规格大幅提升，同时配备高带宽，并支持两芯或四芯级联，可实现满血大模型在边缘侧高性能推理。新一代芯片能够全面兼容市场上主流模型。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2876a7aa6f975352",
+    "source": "钛媒体",
+    "slug": "axg新一轮-ai-chip-tapeout"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "TrendForce预测：2026年国产AI芯片将占中国高端市场九成份额",
+    "summary": "市场研究机构TrendForce最新报告预测，受美国芯片出口限制与中国本土芯片产能扩张双重影响，AMD、英伟达等厂商在中国高端AI芯片市场的份额2026年将降至10%，国产芯片拿下剩余的90%。2026年中国国产AI芯片出货量预计达到500万片，中芯国际与上海华虹制造的芯片未来几年出货量年复合增长率可达50%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8316a79cc7647052",
+    "source": "TrendForce",
+    "slug": "china-ai-chip-90-percent-market"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "DeepSeek开设\"DeepSeek Harness团队\"公众号",
+    "summary": "深度求索已设立\"DeepSeek Harness团队\"公众号，公众号认证主体为北京深度求索人工智能基础技术研究有限公司。DeepSeek Harness团队负责人崔添翼此前在社交平台发文透露，作为新成立的部门，DeepSeek Harness将聚焦于新的技术方向。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1626a7ad36c77852",
     "source": "企鹅号",
-    "slug": "ai-storage-market-up"
+    "slug": "deepseek-harness-team"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "OpenAI推出ChatGPT商业高级席位，每月125美元",
+    "summary": "OpenAI周一宣布推出ChatGPT商业版高级席位服务，高级席位针对高强度用户，提供标准商业席位五倍的使用量。每月定价125美元，按年付费为100美元。标准商业计划则为每月25美元，年付20美元。这一定价与竞争对手Anthropic的团队计划完全相同。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1466a7a929086052",
+    "source": "钛媒体",
+    "slug": "chatgpt-business-pro-125"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "OpenAI完成70亿美元员工股份回购，估值8520亿美元",
+    "summary": "OpenAI已回购员工约70亿美元的公司股份，为未来可能登陆华尔街进行首次公开募股（IPO）做准备。此次要约收购并未寻求外部投资者参与，而是直接从现任和前员工手中回购股份。此次交易对OpenAI公司估值达到8520亿美元，与其最近一轮融资中的估值保持一致。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2336a7a69f857052",
+    "source": "钛媒体",
+    "slug": "openai-7b-share-buyback"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "微软计划最快9月发布MAIA 300 AI芯片，明年大幅增产",
+    "summary": "据两位直接了解该计划的人士透露，Microsoft计划明年大幅增加其自设计的下一代AI芯片产量。微软计划今年秋季公开发布新款Maia 300芯片，可能最快下个月。微软已与芯片制造商台积电展开谈判，以确保超过30万颗Maia芯片的制造产能，预计2027年交付。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2426a79cd3700652",
+    "source": "财联社",
+    "slug": "microsoft-maia-300-september"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "中国开源AI模型持续崛起，MiniMax H3冲上HuggingFace热度榜首",
+    "summary": "日前MiniMax正式开源H3模型，短短三天便冲上全球最大AI开源平台HuggingFace热度榜首，超百家企业实现\"Day 0接入\"，从芯片厂商到推理框架完成全链路适配。DeepSeek最新一代模型发布并开源，Kimi K3参数量近三万亿，千问系列旗舰模型Qwen3.8上线并即将开源。中国大模型企业正不约而同以\"开源\"为路径加速技术迭代与生态构建。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7276a7a7e1e61852",
+    "source": "企鹅号",
+    "slug": "china-open-source-ai-global"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "复星国际六大AI项目落地民生场景，诠释AI服务大众初心",
+    "summary": "2026世界人工智能大会传递核心趋势：AI的终极意义不在于技术参数，而在于落地民生、服务大众。复星国际依托年中AI创新大赛六大获奖项目，把智能技术延伸至患者、医护、游客、乡村医生、消费者等普通人身边，用硅基智能承载人文温度。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5386a7ac9bd60252",
+    "source": "企鹅号",
+    "slug": "fosun-ai-civilian-applications"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "OpenAI收购AI PPT创企NextSlide，团队已加入ChatGPT产品开发",
+    "summary": "8月8日，美国AI PPT创企NextSlide官宣被OpenAI收购，其团队目前已加入OpenAI，参与ChatGPT产品开发。双方没有披露交易金额及具体条款。这是OpenAI在AI办公工具领域的又一重要收购动作。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8846a79b04744352",
+    "source": "智东西",
+    "slug": "openai-acquires-nextslide"
   }
 ]
