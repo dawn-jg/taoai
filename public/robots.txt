@@ -19,4 +19,4 @@ Allow: /
 Disallow: /search?q=
 Disallow: /content/
 
-Sitemap: https://taoai365.com/sitemap.xml
+Sitemap: https://taoai365.com/sitemap-index.xml

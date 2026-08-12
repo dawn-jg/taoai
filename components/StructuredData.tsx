@@ -73,15 +73,9 @@ export function ToolSchema({ tool, editorial }: { tool: any; editorial?: Editori
     },
   };
 
-  if (tool.rating) {
-    schema.aggregateRating = {
-      '@type': 'AggregateRating',
-      ratingValue: tool.rating,
-      bestRating: '5',
-      ratingCount: 1,
-    };
-  }
-
+  // 注意：不输出 aggregateRating —— 工具评分来自站内抓取/编辑评估，非真实用户评分聚合，
+  // 虚构 AggregateRating 是 Google manual action 级风险（见 recheck 报告遗留 4）。
+  // 有编辑部评测的工具通过下方的 Review 结构化输出真实编辑评分。
   if (editorial) {
     schema.review = {
       '@type': 'Review',
