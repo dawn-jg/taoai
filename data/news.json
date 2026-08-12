@@ -1,114 +1,122 @@
 [
   {
+    "date": "2026-08-13",
+    "title": "中国全方位推动AI全球治理，Kimi K3开源成全球最大开源模型",
+    "summary": "2026世界人工智能大会暨AI全球治理高级别会议开幕。新一代国产大模型Kimi K3正式开源，2.8万亿参数规模使其成为目前全球参数规模最大的开源模型。全球前十大生成式人工智能专利申请人中有6家总部设在中国。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2666a7cf38a56952",
+    "source": "企鹅号",
+    "slug": "china-ai-governance-kimi-k3-opensource"
+  },
+  {
     "date": "2026-08-12",
-    "title": "英伟达正在开发万亿参数开源AI模型Nemotron 4",
-    "summary": "英伟达正在开发新一代开源人工智能模型Nemotron 4，预计参数规模至少达到1万亿，目标是与全球领先的开源大模型竞争。英伟达此前已推出Nemotron系列开源模型，包括拥有3400亿参数的Nemotron-4 340B系列，主要用于大语言模型训练数据生成、模型开发和企业AI应用。",
+    "title": "哈佛MIT联合发布MatrAIx，83亿智能体镜像全球人口",
+    "summary": "哈佛与MIT联合发布人口规模AI仿真基础设施MatrAIx，核心为Persona 8B数据集，涵盖83亿人类数字档案，每份人格档案包含1290个分类维度，用于大规模AI测试与社会行为研究。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3206a7c485521852",
+    "source": "企鹅号",
+    "slug": "harvard-mit-matraix-83b-agents"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "英伟达开发万亿参数开源模型Nemotron 4",
+    "summary": "英伟达正在开发新一代开源AI模型Nemotron 4，预计参数规模至少达1万亿，目标与全球领先开源大模型竞争。此前已推出3400亿参数的Nemotron-4 340B系列。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7536a7bd1d038852",
     "source": "企鹅号",
-    "slug": "nvidia-nemotron-4-trillion-param"
+    "slug": "nvidia-nemotron-4-trillion"
   },
   {
     "date": "2026-08-12",
-    "title": "上海：2030年软件和信息服务业规模剑指4万亿元",
-    "summary": "8月11日，上海市经济和信息化委员会正式印发《上海市软件和信息服务业发展「十五五」规划》，明确到2030年全市软件和信息服务业产业规模力争达到4万亿元、产业增加值突破1.1万亿元，将上海打造为AI赋能应用主阵地与全球产业竞争桥头堡。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7106a7b34b073752",
+    "title": "继太空之后，AI算力瞄准大海：球形浮标数据中心",
+    "summary": "继马斯克计划将AI算力送上太空后，又有人准备把AI数据中心放进海里——搭载高性能计算芯片的球形浮标利用海浪供能、海水散热，在远海持续运行AI模型。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3566a7c1a6992252",
     "source": "企鹅号",
-    "slug": "shanghai-software-industry-4-trillion"
+    "slug": "ai-datacenter-ocean-buoy"
   },
   {
     "date": "2026-08-12",
-    "title": "阿里发布Qwen3.8-Max，AI进入「全栈兑现」阶段",
-    "summary": "阿里发布Qwen3.8-Max，股价创新高，多款AI产品同步发布。企业级Agent「千问办公」进入公测，CosyVoiceStudio上线，千问开放平台允许第三方智能体接入。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4916a7bed7f76152",
+    "title": "AI医疗新进展：元示科技融资、华西医院推医学大模型",
+    "summary": "元示科技完成天使轮融资研发AI制药技术；四川大学华西医院建立全国最大研究型医院大数据平台，推出华西黉医医学人工智能大模型；中国联通智慧医疗方案入选亚太地区案例集。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1806a7c2db598452",
     "source": "企鹅号",
-    "slug": "alibaba-qwen3-8-max-fullstack"
+    "slug": "ai-medical-weekly-advances"
   },
   {
     "date": "2026-08-12",
-    "title": "百度伐谋发布AI4S「1+10+N」战略，展示十大科研成果",
-    "summary": "8月12日，百度伐谋在南京举行的AI4S AI Day上正式发布AI4S「1+10+N」战略，集中展示十大跨学科科研标杆成果，启动面向100位各领域学者的AI4S科学家计划，并联合南京林业大学上线全国首个AI+早期松材线虫病防治一体化平台。",
+    "title": "中国AI模型在非洲市场获青睐",
+    "summary": "据《纽约时报》报道，随着越来越多用户寻找性能最佳、成本最低的AI系统，中国AI正在发展中国家市场展现出越来越强的吸引力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2886a7c1c5402052",
+    "source": "企鹅号",
+    "slug": "china-ai-models-africa"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "百度伐谋发布AI4S战略，展示十大科研成果",
+    "summary": "8月12日，百度伐谋在南京发布AI4S「1+10+N」战略，展示十大跨学科科研标杆成果，启动面向100位学者的AI4S科学家计划，并联合南京林业大学上线全国首个AI+松材线虫病防治一体化平台。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7426a7c23c797652",
     "source": "企鹅号",
     "slug": "baidu-famou-ai4s-strategy"
   },
   {
     "date": "2026-08-12",
-    "title": "中国产品包揽全球大模型调用量前五，AI应用商业化加速",
-    "summary": "全球大模型调用量前五名被中国产品包揽，反映中国大模型在应用落地和商业化方面取得显著进展。国产大模型在性价比、中文场景适配和本地化服务上具有明显优势，AI应用生态已形成从基础模型到垂类应用再到终端用户的完整闭环，商业化飞轮效应正在加速运转。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0956a7c1ce900952",
+    "title": "可灵AI完成30亿美元独立融资，创视频大模型纪录",
+    "summary": "快手旗下视频生成大模型可灵AI（Kling AI）运营主体完成30亿美元独立融资，创全球视频大模型单笔融资纪录，投后估值180亿美元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1946a7c921d74352",
     "source": "企鹅号",
-    "slug": "china-ai-model-top5-global"
+    "slug": "kling-ai-3b-financing"
   },
   {
     "date": "2026-08-12",
-    "title": "Gartner：2026年AI推理支出首次超越模型训练",
-    "summary": "Gartner报告显示，2026年企业在AI推理方面的支出首次超越模型训练，标志着AI应用正从「训练为王」转向「推理驱动」的新阶段，AI商业化落地进入实质性增长期。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1956a7bb97e38752",
+    "title": "前华为首席专家带队，MemoraX AI完成数亿元种子++轮融资",
+    "summary": "深圳忆纪元科技（MemoraX AI）宣布完成数亿元种子++轮融资，由北洋海棠基金、尚势资本、仁爱资本联合领投，将重点投入大模型长期记忆底层核心技术攻坚。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7236a7c176282352",
     "source": "企鹅号",
-    "slug": "gartner-ai-inference-spend-surpasses-training"
+    "slug": "memorax-ai-memory-funding"
   },
   {
     "date": "2026-08-12",
-    "title": "英伟达牵头组建AI计算基础设施融资平台，撬动5000亿美元资本",
-    "summary": "英伟达宣布与贝莱德、黑石、高盛等六大华尔街机构组建独立算力融资平台，计划调动超过5000亿美元第三方资本投入AI基础设施建设，黄仁勋将其定义为「AI工厂」的资产证券化。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1956a7bb97e38752",
+    "title": "西湖机器人完成A轮融资，6个月募资5亿元",
+    "summary": "具身通用大脑公司西湖机器人完成A轮融资，6个月募资5亿元，投资方涵盖赛富、小苗朗程、河南投资集团汇融基金等，资金将投向人形机器人全身统一大模型研发。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3546a7c427c03752",
     "source": "企鹅号",
-    "slug": "nvidia-ai-infrastructure-fund-500b"
+    "slug": "westlake-robot-a-round"
   },
   {
     "date": "2026-08-12",
-    "title": "智源研究院发布AREX自主研究智能体，已开放BETA版测试",
-    "summary": "智源研究院发布自主研究智能体AREX，已开放BETA版测试。该智能体具备自主研究能力，标志着国产AI研究辅助工具迈上新台阶。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4916a7bed7f76152",
+    "title": "xAI联创创办River AI，融资11亿美元押注开源模型",
+    "summary": "xAI联合创始人伊戈尔·巴布什金创办的River AI宣布完成11亿美元融资，横跨种子轮和A轮，由General Catalyst和AMP PBC领投，英伟达、AMD Ventures战略投资。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2906a7c657559852",
     "source": "企鹅号",
-    "slug": "baai-arex-autonomous-research-agent"
+    "slug": "river-ai-1-1b-funding"
   },
   {
     "date": "2026-08-12",
-    "title": "中国移动哈尔滨算力中心成为全球运营商最大单集群智算中心",
-    "summary": "中国移动哈尔滨算力中心实现AI芯片100%国产化，成为全球运营商最大单集群智算中心，标志着国产算力基础设施建设取得重大突破。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8296a7bf0ee51752",
+    "title": "AI编程公司Lovable完成4亿美元C轮融资，估值133亿美元",
+    "summary": "瑞典AI编程初创公司Lovable完成4亿美元C轮融资，估值达133亿美元，由Menlo Ventures和欧盟Scaleup Europe Fund领投，腾讯等机构参投。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5306a7c4b1183252",
     "source": "企鹅号",
-    "slug": "cmcc-harbin-ai-compute-center-largest"
+    "slug": "lovable-400m-c-round"
   },
   {
     "date": "2026-08-12",
-    "title": "TrendForce：2026年国产AI芯片国内份额有望接近90%",
-    "summary": "市场调研机构TrendForce发布报告称，2026年中国高端AI芯片市场中，国产解决方案的份额将接近90%，留给英伟达、AMD等海外方案的市场空间可能只剩一成左右。随着字节跳动、腾讯、阿里和百度资本开支同比增长超80%，国产AI加速卡出货量持续攀升。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2866a7af55992452",
+    "title": "全球最大AI算力超级单体在乌兰察布建成",
+    "summary": "远景科技集团在内蒙古乌兰察布建成全球最大AI算力超级单体「远景星河基地」，采用超高比例绿电直连，百万卡并行能力、百万P算力规模，刷新AI基础设施密度纪录。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6946a7c07e937452",
     "source": "企鹅号",
-    "slug": "trendforce-china-ai-chip-90-percent"
+    "slug": "envision-ai-supercluster"
   },
   {
     "date": "2026-08-12",
-    "title": "华西医院推出华西黉医医学人工智能大模型",
-    "summary": "四川大学华西医院建立全国最大研究型医院大数据平台，并推出华西黉医医学人工智能大模型。AI医疗行业取得新进展，元炟科技完成天使轮融资研发AI制药技术，中国联通智慧医疗方案入选亚太地区案例集。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1806a7c2db598452",
+    "title": "我国首部数据中心液冷国家标准发布",
+    "summary": "由中科曙光旗下曙光数创牵头编制的GB/T 48023-2026《数据中心冷板式液冷系统技术规范》正式获批发布，将于2027年2月1日实施，标志我国数据中心液冷产业迈入标准统一新阶段。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2046a7bc78d04952",
     "source": "企鹅号",
-    "slug": "west-china-hospital-ai-medical-model"
+    "slug": "datacenter-liquid-cooling-standard"
   },
   {
     "date": "2026-08-12",
-    "title": "湖北公布整治AI信息内容乱象典型案例",
-    "summary": "湖北省网信办公布一批整治AI信息内容乱象的典型案例，重点针对利用AI炮制虚假信息、违规生成内容等行为进行查处，进一步规范AI技术应用的合规发展。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4716a7c3f2c85852",
+    "title": "2026绿色算力（人工智能）大会8月22日呼和浩特举行",
+    "summary": "大会将集中展示全国一体化算力网络内蒙古枢纽节点成果，重点凸显「算电协同」绿色基座、「AI+」赋能效应及「词元出海」开放新篇。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6086a7c198d71452",
     "source": "企鹅号",
-    "slug": "hubei-ai-content-regulation-cases"
-  },
-  {
-    "date": "2026-08-12",
-    "title": "谷歌DeepMind提醒求职者：内部招聘系统可能误筛简历",
-    "summary": "谷歌旗下DeepMind的AGI安全与协调团队提醒求职者，其内部招聘系统存在一定概率错误筛选简历，建议候选人在提交申请时填写额外表单以确保简历能被团队人员直接查看。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4226a7bbcc449452",
-    "source": "企鹅号",
-    "slug": "google-deepmind-hiring-ai-resume-warning"
-  },
-  {
-    "date": "2026-08-12",
-    "title": "中国日均Token消耗量两年增长约1400倍，AI进入工业增长周期",
-    "summary": "国家数据局披露，中国日均Token消耗量从2024年初的1000亿跃升至2026年3月的140万亿，增长约1400倍。与此同时，工信部等八部门联合印发《「人工智能+制造」专项行动实施意见》，政策与用量同步扩张，表明中国AI已从消费互联网周期切换至工业增长周期。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3356a7be59d80752",
-    "source": "企鹅号",
-    "slug": "china-token-consumption-1400x-growth"
+    "slug": "green-computing-conference-hohhot"
   }
 ]
