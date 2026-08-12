@@ -1,98 +1,114 @@
 [
   {
     "date": "2026-08-12",
-    "title": "北京智源人工智能研究院发布AREX自主研究智能体",
-    "summary": "北京智源人工智能研究院正式发布AREX自主研究智能体，首创「研究-验证-再研究」双循环递归框架，可让AI在长程任务中持续自我修正。模型权重已开源，科研体验版同步开放，支持资讯追踪、论文筛选、播客摘要等。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3546a7b800872052",
-    "source": "央广网/企鹅号",
-    "slug": "baai-arex-agent-release"
+    "title": "英伟达正在开发万亿参数开源AI模型Nemotron 4",
+    "summary": "英伟达正在开发新一代开源人工智能模型Nemotron 4，预计参数规模至少达到1万亿，目标是与全球领先的开源大模型竞争。英伟达此前已推出Nemotron系列开源模型，包括拥有3400亿参数的Nemotron-4 340B系列，主要用于大语言模型训练数据生成、模型开发和企业AI应用。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7536a7bd1d038852",
+    "source": "企鹅号",
+    "slug": "nvidia-nemotron-4-trillion-param"
   },
   {
     "date": "2026-08-12",
-    "title": "英伟达据报开发万亿参数开源AI模型Nemotron 4",
-    "summary": "The Information引述知情人士称，英伟达正在开发新一代开源AI模型Nemotron 4，参数规模预计至少达1万亿，旨在与全球顶尖开源模型竞争。随着中国廉价开源模型性能接近美国顶尖实验室系统，开源模型今年受到更多关注。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9466a7bcb3689452",
+    "title": "上海：2030年软件和信息服务业规模剑指4万亿元",
+    "summary": "8月11日，上海市经济和信息化委员会正式印发《上海市软件和信息服务业发展「十五五」规划》，明确到2030年全市软件和信息服务业产业规模力争达到4万亿元、产业增加值突破1.1万亿元，将上海打造为AI赋能应用主阵地与全球产业竞争桥头堡。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7106a7b34b073752",
     "source": "企鹅号",
-    "slug": "nvidia-nemotron-4-trillion-params"
+    "slug": "shanghai-software-industry-4-trillion"
   },
   {
     "date": "2026-08-12",
-    "title": "英伟达牵头组建人工智能计算基础设施融资平台",
-    "summary": "据每日头条芯闻，英伟达牵头组建人工智能计算基础设施融资平台，同时曝出Amkor拟分拆中国大陆业务并出售股份、三星面临芯片专利诉讼等行业动态。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1956a7bb97e38752",
+    "title": "阿里发布Qwen3.8-Max，AI进入「全栈兑现」阶段",
+    "summary": "阿里发布Qwen3.8-Max，股价创新高，多款AI产品同步发布。企业级Agent「千问办公」进入公测，CosyVoiceStudio上线，千问开放平台允许第三方智能体接入。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4916a7bed7f76152",
     "source": "企鹅号",
-    "slug": "nvidia-ai-infra-financing-platform"
+    "slug": "alibaba-qwen3-8-max-fullstack"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "百度伐谋发布AI4S「1+10+N」战略，展示十大科研成果",
+    "summary": "8月12日，百度伐谋在南京举行的AI4S AI Day上正式发布AI4S「1+10+N」战略，集中展示十大跨学科科研标杆成果，启动面向100位各领域学者的AI4S科学家计划，并联合南京林业大学上线全国首个AI+早期松材线虫病防治一体化平台。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7426a7c23c797652",
+    "source": "企鹅号",
+    "slug": "baidu-famou-ai4s-strategy"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "中国产品包揽全球大模型调用量前五，AI应用商业化加速",
+    "summary": "全球大模型调用量前五名被中国产品包揽，反映中国大模型在应用落地和商业化方面取得显著进展。国产大模型在性价比、中文场景适配和本地化服务上具有明显优势，AI应用生态已形成从基础模型到垂类应用再到终端用户的完整闭环，商业化飞轮效应正在加速运转。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0956a7c1ce900952",
+    "source": "企鹅号",
+    "slug": "china-ai-model-top5-global"
   },
   {
     "date": "2026-08-12",
     "title": "Gartner：2026年AI推理支出首次超越模型训练",
-    "summary": "Gartner预测，2026年AI推理支出将首次超越模型训练支出，反映行业重心从模型构建向应用落地转变。",
+    "summary": "Gartner报告显示，2026年企业在AI推理方面的支出首次超越模型训练，标志着AI应用正从「训练为王」转向「推理驱动」的新阶段，AI商业化落地进入实质性增长期。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1956a7bb97e38752",
     "source": "企鹅号",
-    "slug": "gartner-2026-ai-inference-spend"
+    "slug": "gartner-ai-inference-spend-surpasses-training"
   },
   {
     "date": "2026-08-12",
-    "title": "谷歌DeepMind团队提醒求职者绕过AI筛选系统",
-    "summary": "据报道，谷歌旗下DeepMind的AGI安全与协调团队提醒求职者，其内部招聘系统存在一定概率错误筛选简历，因此建议候选人在提交申请时填写额外表单，以确保简历能被团队人员直接查看。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4226a7bbcc449452",
-    "source": "企鹅号",
-    "slug": "google-deepmind-ai-screening-warning"
-  },
-  {
-    "date": "2026-08-12",
-    "title": "扎克伯格称Meta将推动「个人超级智能」普及",
-    "summary": "扎克伯格表示，Meta将推动「个人超级智能」(personal superintelligence)的普及，将其作为公司下一阶段AI战略的核心方向。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4226a7bbcc449452",
-    "source": "企鹅号",
-    "slug": "zuckerberg-meta-personal-superintelligence"
-  },
-  {
-    "date": "2026-08-12",
-    "title": "消息称谷歌已搁置发布Gemini 3.5 Pro",
-    "summary": "据每日头条芯闻，有消息称谷歌已搁置发布Gemini 3.5 Pro大模型，相关计划出现调整。",
+    "title": "英伟达牵头组建AI计算基础设施融资平台，撬动5000亿美元资本",
+    "summary": "英伟达宣布与贝莱德、黑石、高盛等六大华尔街机构组建独立算力融资平台，计划调动超过5000亿美元第三方资本投入AI基础设施建设，黄仁勋将其定义为「AI工厂」的资产证券化。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1956a7bb97e38752",
     "source": "企鹅号",
-    "slug": "google-gemini-35-pro-shelved"
+    "slug": "nvidia-ai-infrastructure-fund-500b"
   },
   {
-    "date": "2026-08-11",
-    "title": "上海发布软件和信息服务业「十五五」规划，打造AI赋能应用主阵地",
-    "summary": "上海市经济和信息化委员会正式印发《上海市软件和信息服务业发展「十五五」规划》，明确到2030年全市软件和信息服务业产业规模力争达到4万亿元、产业增加值突破1.1万亿元，将上海打造为AI赋能应用主阵地与全球产业竞争桥头堡。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7106a7b34b073752",
-    "source": "企鹅号",
-    "slug": "shanghai-15th-fiveyear-ai-plan"
-  },
-  {
-    "date": "2026-08-11",
-    "title": "阿里发布Qwen3.8-Max，千问办公进入公测",
-    "summary": "阿里发布Qwen3.8-Max大模型，股价创新高，多款AI产品同步发布：企业级Agent「千问办公」进入公测，CosyVoiceStudio上线，千问开放平台允许第三方智能体接入，阿里AI进入「全栈兑现」阶段。",
+    "date": "2026-08-12",
+    "title": "智源研究院发布AREX自主研究智能体，已开放BETA版测试",
+    "summary": "智源研究院发布自主研究智能体AREX，已开放BETA版测试。该智能体具备自主研究能力，标志着国产AI研究辅助工具迈上新台阶。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4916a7bed7f76152",
     "source": "企鹅号",
-    "slug": "alibaba-qwen38-max-launch"
-  },
-  {
-    "date": "2026-08-11",
-    "title": "英伟达开发万亿参数开源AI模型，AI人工智能ETF平安(512930)受关注",
-    "summary": "消息面上，英伟达正在开发新一代开源人工智能模型Nemotron 4，预计参数规模至少达到1万亿。此前英伟达已推出Nemotron系列开源模型，包括拥有3400亿参数的Nemotron-4 340B系列。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7536a7bd1d038852",
-    "source": "企鹅号",
-    "slug": "nvidia-nemotron-4-etf-attention"
-  },
-  {
-    "date": "2026-08-11",
-    "title": "世界模型成AI前沿方向，《新科学家》探讨通往通用人工智能路径",
-    "summary": "英国《新科学家》周刊报道，对比大语言模型的固有缺陷，「世界模型」这一AI前沿方向蕴藏着通往通用人工智能的可能性。该理论核心是让AI构建内在环境模型，预先模拟行为后果，弥补大语言模型缺乏真实世界体验的短板。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5166a7ace6253752",
-    "source": "企鹅号",
-    "slug": "world-model-agi-frontier"
+    "slug": "baai-arex-autonomous-research-agent"
   },
   {
     "date": "2026-08-12",
-    "title": "多部门联合印发《生态保护「十五五」规划》",
-    "summary": "生态环境部、自然资源部等部门日前联合印发《生态保护「十五五」规划》，提出到2030年生态空间格局持续优化、生态质量稳步改善、生物多样性丧失趋势得到有效缓解，国家生态安全得到有效保障。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5296a7bad3745352",
+    "title": "中国移动哈尔滨算力中心成为全球运营商最大单集群智算中心",
+    "summary": "中国移动哈尔滨算力中心实现AI芯片100%国产化，成为全球运营商最大单集群智算中心，标志着国产算力基础设施建设取得重大突破。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8296a7bf0ee51752",
     "source": "企鹅号",
-    "slug": "ecological-protection-15th-fiveyear-plan"
+    "slug": "cmcc-harbin-ai-compute-center-largest"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "TrendForce：2026年国产AI芯片国内份额有望接近90%",
+    "summary": "市场调研机构TrendForce发布报告称，2026年中国高端AI芯片市场中，国产解决方案的份额将接近90%，留给英伟达、AMD等海外方案的市场空间可能只剩一成左右。随着字节跳动、腾讯、阿里和百度资本开支同比增长超80%，国产AI加速卡出货量持续攀升。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2866a7af55992452",
+    "source": "企鹅号",
+    "slug": "trendforce-china-ai-chip-90-percent"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "华西医院推出华西黉医医学人工智能大模型",
+    "summary": "四川大学华西医院建立全国最大研究型医院大数据平台，并推出华西黉医医学人工智能大模型。AI医疗行业取得新进展，元炟科技完成天使轮融资研发AI制药技术，中国联通智慧医疗方案入选亚太地区案例集。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1806a7c2db598452",
+    "source": "企鹅号",
+    "slug": "west-china-hospital-ai-medical-model"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "湖北公布整治AI信息内容乱象典型案例",
+    "summary": "湖北省网信办公布一批整治AI信息内容乱象的典型案例，重点针对利用AI炮制虚假信息、违规生成内容等行为进行查处，进一步规范AI技术应用的合规发展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4716a7c3f2c85852",
+    "source": "企鹅号",
+    "slug": "hubei-ai-content-regulation-cases"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "谷歌DeepMind提醒求职者：内部招聘系统可能误筛简历",
+    "summary": "谷歌旗下DeepMind的AGI安全与协调团队提醒求职者，其内部招聘系统存在一定概率错误筛选简历，建议候选人在提交申请时填写额外表单以确保简历能被团队人员直接查看。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4226a7bbcc449452",
+    "source": "企鹅号",
+    "slug": "google-deepmind-hiring-ai-resume-warning"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "中国日均Token消耗量两年增长约1400倍，AI进入工业增长周期",
+    "summary": "国家数据局披露，中国日均Token消耗量从2024年初的1000亿跃升至2026年3月的140万亿，增长约1400倍。与此同时，工信部等八部门联合印发《「人工智能+制造」专项行动实施意见》，政策与用量同步扩张，表明中国AI已从消费互联网周期切换至工业增长周期。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3356a7be59d80752",
+    "source": "企鹅号",
+    "slug": "china-token-consumption-1400x-growth"
   }
 ]
