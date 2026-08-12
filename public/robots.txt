@@ -1,4 +1,19 @@
 # https://www.robotstxt.org/robotstxt.html
+# 放开主流 AI 搜索/推荐爬虫（GPTBot/ClaudeBot/CCBot/PerplexityBot）：
+# 允许抓取与引用（配合 Cloudflare Content-Signal: search=yes,use=reference），仅禁训练用途（ai-train=no）。
+# Allow: / 与 Cloudflare Managed robots.txt 注入的 Disallow: / 同路径，按 RFC 9309 Allow 优先。
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
 User-agent: *
 Allow: /
 Disallow: /search?q=
