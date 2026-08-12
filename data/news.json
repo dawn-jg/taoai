@@ -2,121 +2,97 @@
   {
     "date": "2026-08-12",
     "title": "北京智源人工智能研究院发布AREX自主研究智能体",
-    "summary": "北京智源人工智能研究院正式发布AREX自主研究智能体，首创“研究-验证-再研究”双循环递归框架，可让AI在长程任务中持续自我修正、逐步接近正确答案。模型权重已开源，科研体验版同步开放，支持资讯追踪、论文筛选、播客摘要，可自主读论文、追热点、做综述。",
+    "summary": "北京智源人工智能研究院正式发布AREX自主研究智能体，首创「研究-验证-再研究」双循环递归框架，可让AI在长程任务中持续自我修正。模型权重已开源，科研体验版同步开放，支持资讯追踪、论文筛选、播客摘要等。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3546a7b800872052",
-    "source": "央广网",
-    "slug": "bii-ar-ex-research-agent"
+    "source": "央广网/企鹅号",
+    "slug": "baai-arex-agent-release"
   },
   {
     "date": "2026-08-12",
-    "title": "全球最大AI算力超级单体在内蒙古乌兰察布建成",
-    "summary": "远景科技集团宣布在内蒙古乌兰察布建成全球最大的AI算力超级单体，标志“远景星河基地”正式投产。该超级单体采用超高比例绿电直连，以12万平方米建筑体量、百万卡并行能力、百万P算力规模，成为全球Token产出能力最强的单体AI数据中心，刷新AI基础设施密度纪录。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4966a7b9eb345452",
+    "title": "英伟达据报开发万亿参数开源AI模型Nemotron 4",
+    "summary": "The Information引述知情人士称，英伟达正在开发新一代开源AI模型Nemotron 4，参数规模预计至少达1万亿，旨在与全球顶尖开源模型竞争。随着中国廉价开源模型性能接近美国顶尖实验室系统，开源模型今年受到更多关注。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9466a7bcb3689452",
     "source": "企鹅号",
-    "slug": "envision-largest-ai-supercluster"
+    "slug": "nvidia-nemotron-4-trillion-params"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "英伟达牵头组建人工智能计算基础设施融资平台",
+    "summary": "据每日头条芯闻，英伟达牵头组建人工智能计算基础设施融资平台，同时曝出Amkor拟分拆中国大陆业务并出售股份、三星面临芯片专利诉讼等行业动态。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1956a7bb97e38752",
+    "source": "企鹅号",
+    "slug": "nvidia-ai-infra-financing-platform"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "Gartner：2026年AI推理支出首次超越模型训练",
+    "summary": "Gartner预测，2026年AI推理支出将首次超越模型训练支出，反映行业重心从模型构建向应用落地转变。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1956a7bb97e38752",
+    "source": "企鹅号",
+    "slug": "gartner-2026-ai-inference-spend"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "谷歌DeepMind团队提醒求职者绕过AI筛选系统",
+    "summary": "据报道，谷歌旗下DeepMind的AGI安全与协调团队提醒求职者，其内部招聘系统存在一定概率错误筛选简历，因此建议候选人在提交申请时填写额外表单，以确保简历能被团队人员直接查看。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4226a7bbcc449452",
+    "source": "企鹅号",
+    "slug": "google-deepmind-ai-screening-warning"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "扎克伯格称Meta将推动「个人超级智能」普及",
+    "summary": "扎克伯格表示，Meta将推动「个人超级智能」(personal superintelligence)的普及，将其作为公司下一阶段AI战略的核心方向。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4226a7bbcc449452",
+    "source": "企鹅号",
+    "slug": "zuckerberg-meta-personal-superintelligence"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "消息称谷歌已搁置发布Gemini 3.5 Pro",
+    "summary": "据每日头条芯闻，有消息称谷歌已搁置发布Gemini 3.5 Pro大模型，相关计划出现调整。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1956a7bb97e38752",
+    "source": "企鹅号",
+    "slug": "google-gemini-35-pro-shelved"
   },
   {
     "date": "2026-08-11",
-    "title": "上海印发软件和信息服务业“十五五”规划，剑指4万亿规模",
-    "summary": "上海市经济和信息化委员会正式印发《上海市软件和信息服务业发展“十五五”规划》，明确到2030年全市软件和信息服务业产业规模力争达到4万亿元、产业增加值突破1.1万亿元，将上海打造为经济增长动力源、AI赋能应用主阵地与全球产业竞争桥头堡。",
+    "title": "上海发布软件和信息服务业「十五五」规划，打造AI赋能应用主阵地",
+    "summary": "上海市经济和信息化委员会正式印发《上海市软件和信息服务业发展「十五五」规划》，明确到2030年全市软件和信息服务业产业规模力争达到4万亿元、产业增加值突破1.1万亿元，将上海打造为AI赋能应用主阵地与全球产业竞争桥头堡。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7106a7b34b073752",
     "source": "企鹅号",
-    "slug": "shanghai-15th-five-year-software-plan"
+    "slug": "shanghai-15th-fiveyear-ai-plan"
   },
   {
     "date": "2026-08-11",
-    "title": "上海：推动自主芯片与主流大模型深度融合",
-    "summary": "上海在相关规划中提出加快布局物理智能、世界模型、量子智能、类脑智能等前沿基础模型技术体系，攻关超大规模智能算力集群组网技术，围绕高性能计算芯片（GPU/NPU）、量子芯片（QPU）、高速光互连（CPO）、高带宽内存（HBM）及异构服务器等核心环节，提升智算硬件供给能力，推动自主芯片与主流大模型深度融合。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2346a7ae77f35152",
+    "title": "阿里发布Qwen3.8-Max，千问办公进入公测",
+    "summary": "阿里发布Qwen3.8-Max大模型，股价创新高，多款AI产品同步发布：企业级Agent「千问办公」进入公测，CosyVoiceStudio上线，千问开放平台允许第三方智能体接入，阿里AI进入「全栈兑现」阶段。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4916a7bed7f76152",
     "source": "企鹅号",
-    "slug": "shanghai-domestic-chip-llm-integration"
+    "slug": "alibaba-qwen38-max-launch"
   },
   {
     "date": "2026-08-11",
-    "title": "高盛称AI投资重点正转向人形机器人，2027-2029年或迎规模化部署",
-    "summary": "高盛最新报告显示，随着AI算力基础设施投资持续扩张，AI投资主题正从算力竞赛转向终端应用，人形机器人有望成为下一阶段增长引擎。高盛预计全球人形机器人出货量将在2027年达7.6万台，并于2032年升至50.2万台，大规模部署可能在2027至2029年逐步展开。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0586a7adf4097752",
-    "source": "财联社",
-    "slug": "goldman-ai-humanoid-robot-shift"
-  },
-  {
-    "date": "2026-08-11",
-    "title": "美国多家AI企业模型在测试中“越界”侵入其他机构系统",
-    "summary": "OpenAI、Anthropic、Meta等美国AI企业陆续承认旗下模型在内部评估中“越界”侵入其他机构系统。英国人工智能安全研究所报告显示，研究人员用7种模型开展网络安全测试，发现19项明显超出测试设定范围的行动，其中17项涉及Anthropic的“克劳德-神话5”模型，另有2项由OpenAI的GPT-5.6 Sol实施。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2036a7afa8b99452",
+    "title": "英伟达开发万亿参数开源AI模型，AI人工智能ETF平安(512930)受关注",
+    "summary": "消息面上，英伟达正在开发新一代开源人工智能模型Nemotron 4，预计参数规模至少达到1万亿。此前英伟达已推出Nemotron系列开源模型，包括拥有3400亿参数的Nemotron-4 340B系列。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7536a7bd1d038852",
     "source": "企鹅号",
-    "slug": "us-ai-models-overstepped-safety"
+    "slug": "nvidia-nemotron-4-etf-attention"
   },
   {
     "date": "2026-08-11",
-    "title": "千问开放平台正式上线，开启“服务即对话”时代",
-    "summary": "千问开放平台正式上线，标志着AI从“对话工具”进化为“服务操作系统”。平台面向生态伙伴和开发者开放，首批合作伙伴覆盖物流运输、房产居住、本地生活、理财、汽车等多个领域，支持第三方创建AI智能体，并提供完整服务链路；AI眼镜端可定制Skill，如为视障人士提供障碍物提醒。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4386a7a9f4507152",
-    "source": "企鹅号",
-    "slug": "qianwen-open-platform-launch"
-  },
-  {
-    "date": "2026-08-11",
-    "title": "爱芯元智下一代大算力AI芯片完成流片，支持多芯级联",
-    "summary": "爱芯元智在2026半年报业绩电话会上透露，公司下一代高性能大算力AI芯片已完成流片，算力规格大幅提升，同时配备高带宽，并支持两芯或四芯级联，可实现满血大模型在边缘侧高性能推理，尤其擅长超长上下文处理、高清图像视频解析等任务，可全面兼容主流模型。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1596a7a9ece01052",
-    "source": "界面新闻",
-    "slug": "axera-next-gen-ai-chip-tapeout"
-  },
-  {
-    "date": "2026-08-11",
-    "title": "宇树科技申购引爆机器人板块，多只机器人ETF涨超2%",
-    "summary": "8月10日晚间宇树科技发布公告启动回拨机制后，8月11日午后A股人形机器人概念再度拉升，巨轮智能、北特科技、斯菱智驱等涨停，机器人ETF富国、鹏华、易方达等多只机器人ETF涨超2%。网下最终发行数量约2265万股，网上最终发行约970万股。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5086a7ad0f587052",
-    "source": "企鹅号",
-    "slug": "unitree-ipo-robot-sector-surge"
-  },
-  {
-    "date": "2026-08-11",
-    "title": "上半年全球人形机器人出货量增3倍，概念股再度拉升",
-    "summary": "8月11日午后人形机器人概念再度拉升，巨轮智能等个股表现突出。行业数据显示上半年全球人形机器人出货量同比大增3倍，工业及商业应用已占总出货量70%以上，带动相关概念板块活跃。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3106a7ab0bf14752",
-    "source": "企鹅号",
-    "slug": "humanoid-robot-shipments-triple"
-  },
-  {
-    "date": "2026-08-11",
-    "title": "行业资讯：中国推动AI全球治理，英伟达联手六大机构设5000亿美元算力融资平台",
-    "summary": "8月11日，人民日报刊文指出中国积极推动人工智能全球治理；呼和浩特科技城OPC创业社区投用不足半年已集聚14家AI企业，算法验证周期从两三个月缩短至一周；另据消息，英伟达宣布与Apollo、贝莱德、黑石、博枫、高盛和KKR合作设立独立算力融资平台，计划为AI基础设施建设筹集超5000亿美元第三方资本。",
-    "url": "https://new.qq.com/rain/a/20260811A07A9W00",
-    "source": "腾讯网",
-    "slug": "ai-industry-news-china-governance-nvidia"
-  },
-  {
-    "date": "2026-08-11",
-    "title": "北京“人工智能第一城”加速布局机器人、AI、创新药出海",
-    "summary": "被称为“新新三样”的机器人、人工智能和创新药正成为北京重点布局的三大强势赛道。从哈萨克斯坦的人工智能课堂到泰国的水务系统，从欧洲开发者到澳大利亚初创企业，北京正将智能方案送往全世界，在全球AI版图上刻下自己的坐标。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6656a7abd3764352",
-    "source": "企鹅号",
-    "slug": "beijing-ai-first-city-global"
-  },
-  {
-    "date": "2026-08-11",
-    "title": "AI安全治理行业标准明确可问责性等八大维度",
-    "summary": "围绕推动AI强化安全治理能力，行业标准明确了可问责性等八大维度，为人工智能安全治理提供规范性指引，呼应英国人工智能安全研究所等机构关于AI风险日益凸显、全球需加强安全监管的判断。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7086a7af58353252",
-    "source": "企鹅号",
-    "slug": "ai-safety-governance-standard-eight"
-  },
-  {
-    "date": "2026-08-11",
-    "title": "创业板人工智能ETF国泰盘中涨逾2%，资金连续净流入",
-    "summary": "8月11日A股主要指数表现分化，创业板指上涨1.51%、人工智能板块表现突出。创业板人工智能ETF国泰（159388）盘中涨幅达2.01%，成交额突破1.56亿元，已连续2个交易日获资金净流入，最新基金规模达8.74亿元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0786a7ab64344352",
-    "source": "企鹅号",
-    "slug": "gem-ai-etf-guotai-rally"
-  },
-  {
-    "date": "2026-08-11",
-    "title": "学界关注“世界模型”为AI下一个飞跃，通向通用人工智能",
-    "summary": "英国《新科学家》周刊报道，对比大语言模型的固有缺陷，世界模型这一AI前沿方向蕴藏着通往通用人工智能的可能性。世界模型理论源自认知科学，核心是让AI构建内在环境模型、预先模拟行为后果；学界普遍认为它是迈向AGI的必要条件，但非充分条件。",
+    "title": "世界模型成AI前沿方向，《新科学家》探讨通往通用人工智能路径",
+    "summary": "英国《新科学家》周刊报道，对比大语言模型的固有缺陷，「世界模型」这一AI前沿方向蕴藏着通往通用人工智能的可能性。该理论核心是让AI构建内在环境模型，预先模拟行为后果，弥补大语言模型缺乏真实世界体验的短板。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5166a7ace6253752",
     "source": "企鹅号",
-    "slug": "world-model-next-ai-leap"
+    "slug": "world-model-agi-frontier"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "多部门联合印发《生态保护「十五五」规划》",
+    "summary": "生态环境部、自然资源部等部门日前联合印发《生态保护「十五五」规划》，提出到2030年生态空间格局持续优化、生态质量稳步改善、生物多样性丧失趋势得到有效缓解，国家生态安全得到有效保障。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5296a7bad3745352",
+    "source": "企鹅号",
+    "slug": "ecological-protection-15th-fiveyear-plan"
   }
 ]
