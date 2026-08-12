@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { getFeaturedTools, getCategories, getLatestNews, getLatestTutorials, getEditorials } from '@/lib/tools';
 import ToolLogo from '@/components/ToolLogo';
 import ToolCard from '@/components/ToolCard';
+import { ItemListSchema, FAQSchema } from '@/components/StructuredData';
 
 const colorMap: Record<string, string> = {
   'ai-chat':'from-blue-400 to-blue-600','ai-writing':'from-violet-400 to-violet-600',
@@ -22,11 +23,26 @@ export default function HomePage() {
   const editorials = getEditorials();
   const totalTools = categories.reduce((s, c) => s + c.count, 0);
 
+  // 首页 ItemList：编辑精选 + 热门推荐（前 12 个代表性工具）
+  const itemListItems = [...editorials.map(e => featuredTools.find(t => t.slug === e.slug)).filter(Boolean), ...featuredTools]
+    .filter((t, i, arr) => t && arr.findIndex(x => x?.slug === t.slug) === i)
+    .slice(0, 12)
+    .map(t => ({ name: t!.name, url: `https://taoai365.com/tools/${t!.slug}` }));
+
   return (
     <div className="max-w-6xl mx-auto px-6 py-6 space-y-8">
+      {/* 首页结构化数据：WebSite/Organization 已在 layout，这里补 ItemList + FAQ */}
+      <ItemListSchema items={itemListItems} />
+      <FAQSchema faqs={[
+        { question: 'TaoAI 是什么？', answer: 'TaoAI 是独立的 AI 工具导航站，收录 1200+ 款 AI 工具，覆盖 15 个分类，为重要工具提供编辑部原创评测和优缺点分析。' },
+        { question: 'TaoAI 的评测可信吗？', answer: 'TaoAI 坚持真实使用后评分，不接受付费好评，评测独立于广告合作，完整标准见编辑政策页面。' },
+        { question: 'TaoAI 免费吗？', answer: 'TaoAI 对用户完全免费，通过展示广告维持运营，广告不影响评测立场。' },
+        { question: '如何提交我的 AI 工具？', answer: '可通过 TaoAI 联系页面提交工具收录申请，审核后会尽快回复。' },
+      ]} />
+
       {/* Hero Banner — rewritten with original value proposition */}
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 rounded-xl p-8 text-white">
-        <h1 className="text-2xl font-bold mb-2">🚀 TaoAI · 你的 AI 工具指南针</h1>
+        <h1 className="text-2xl font-bold mb-2">🚀 TaoAI · AI工具导航，发现最好用的AI工具</h1>
         <p className="text-blue-100 text-sm leading-relaxed mb-1">
           市面上的 AI 工具每天都在增长，但真正好用的没几个。<strong>TaoAI</strong> 是一个独立的 AI 工具导航站——
           我们亲自测试、客观评分、持续更新，帮你在 {totalTools}+ 款工具中快速找到适合你的那一款。

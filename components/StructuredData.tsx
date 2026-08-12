@@ -114,6 +114,21 @@ export function ArticleSchema({ title, description, date, author, url }: { title
   return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />;
 }
 
+// ─── ItemList (首页推荐位 / 分类页工具列表 —— 导航站最重要的 SERP 形态优化) ───
+export function ItemListSchema({ items }: { items: { name: string; url: string }[] }) {
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    itemListElement: items.map((item, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: item.name,
+      url: item.url,
+    })),
+  };
+  return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />;
+}
+
 // ─── FAQPage (for tutorial detail pages with Q&A structure) ───
 export function FAQSchema({ faqs }: { faqs: { question: string; answer: string }[] }) {
   const schema = {

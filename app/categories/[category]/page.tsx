@@ -4,7 +4,7 @@ import { getCategoryBySlug, getToolsByCategory, getCategories, getCategoryIntro 
 import { Metadata } from 'next';
 import ToolCard from '@/components/ToolCard';
 import { SubcategoryGrid } from '@/components/SubcategoryGrid';
-import { FAQSchema } from '@/components/StructuredData';
+import { ItemListSchema, FAQSchema } from '@/components/StructuredData';
 
 export async function generateStaticParams() {
   return getCategories().map(c => ({ category: c.slug }));
@@ -13,7 +13,11 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ category: string }> }): Promise<Metadata> {
   const cat = getCategoryBySlug((await params).category);
   if (!cat) return { title: '未找到' };
-  return { title: `${cat.name} - AI工具集 | TaoAI`, description: cat.description };
+  const count = getToolsByCategory(cat.slug).length;
+  const baseName = cat.name.replace(/工具$/, '');
+  const title = `${baseName}工具大全（${count}款）- 2026年推荐 | TaoAI`;
+  const description = `收录${count}款${baseName}工具，含免费与付费产品对比、TaoAI 编辑部真实评测与优缺点分析，助你快速找到最适合的AI工具。每日更新。`;
+  return { title, description };
 }
 
 export default async function CategoryPage({ params }: { params: Promise<{ category: string }> }) {
@@ -25,9 +29,11 @@ export default async function CategoryPage({ params }: { params: Promise<{ categ
   const subcats = cat.subcategories || {};
   const intro = getCategoryIntro(category);
   const catFaqs = buildCategoryFaqs(cat, tools.length);
+  const itemListItems = tools.slice(0, 12).map(t => ({ name: t.name, url: `https://taoai365.com/tools/${t.slug}` }));
 
   return (
     <div className="max-w-6xl mx-auto px-6 py-6">
+      <ItemListSchema items={itemListItems} />
       <nav className="text-xs text-gray-400 mb-4">
         <Link href="/" className="hover:text-blue-600">首页</Link>
         <span className="mx-1">/</span>

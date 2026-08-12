@@ -1,6 +1,7 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { getToolBySlug, getCategories, getAllTools, getEditorialBySlug } from '@/lib/tools';
+import { AITool } from '@/types';
 import ToolLogo from '@/components/ToolLogo';
 import { ToolSchema, BreadcrumbSchema, FAQSchema } from '@/components/StructuredData';
 import { Metadata } from 'next';
@@ -12,7 +13,46 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const tool = getToolBySlug((await params).slug);
   if (!tool) return { title: '未找到' };
-  return { title: `${tool.name} - AI工具集 | TaoAI`, description: tool.description };
+  return { title: buildToolTitle(tool), description: buildToolDescription(tool) };
+}
+
+// ─── SEO helpers: 长尾关键词 Title/Description 模板 ───
+function buildToolTitle(tool: AITool): string {
+  // 从 description 提取一句话核心用途（去掉“属于XX分类。”前缀与工具名重复）
+  let use = tool.description
+    .replace(/^属于[^。]+。/, '')
+    .split('。')[0]
+    .replace(new RegExp(tool.name, 'g'), '')
+    .replace(/^(是一款|是一款|是一|是|一个|一种)/, '')
+    .replace(/^(AI|ai)/, 'AI')
+    .trim();
+  use = use.replace(/[，,]$/, '');
+  const base = `${tool.name} - ${use} | TaoAI`;
+  // 中文 ≤30 字为宜；超长则截断用途部分
+  if (base.length > 34) {
+    const maxUse = 34 - tool.name.length - 5; // 减去“ - ”与“ | TaoAI”
+    use = use.slice(0, Math.max(6, maxUse)) + '…';
+    return `${tool.name} - ${use} | TaoAI`;
+  }
+  return base;
+}
+
+function buildToolDescription(tool: AITool): string {
+  const catName = tool.categories[0] ? (getCategories().find(c => c.slug === tool.categories[0])?.name || '') : '';
+  const pricingText = { free: '免费', freemium: '免费增值', paid: '付费' }[tool.pricing] || '';
+  // 去掉“属于XX分类。”前缀，并避免工具名重复（description 首句常含“XX是一款…”）
+  let core = tool.description.replace(/^属于[^。]+。/, '');
+  const nameIdx = core.indexOf(tool.name + '是');
+  if (nameIdx === 0) core = core.slice(tool.name.length + 1);
+  core = core.replace(/^(一款|是一个|是|是一款)/, '');
+  core = core.split('。').slice(0, 2).join('。') + '。';
+  // 避免与分类名前缀重复：如“AI聊天助手领域的AI工具，AI聊天助手领域的免费AI工具…”
+  if (catName) {
+    const dupPrefix = catName + '领域的';
+    if (core.startsWith(dupPrefix)) core = core.slice(dupPrefix.length);
+  }
+  const desc = `${tool.name}是${catName ? catName + '领域的' : ''}AI工具，${core}${pricingText ? '支持' + pricingText + '使用。' : ''}TaoAI 编辑实测推荐，收录于 taoai365.com AI工具导航。`;
+  return desc.length > 120 ? desc.slice(0, 117) + '…' : desc;
 }
 
 export default async function ToolDetailPage({ params }: { params: Promise<{ slug: string }> }) {
