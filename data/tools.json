@@ -11601,47 +11601,6 @@
     ]
   },
   {
-    "slug": "tool13186",
-    "name": "可灵AI",
-    "description": "属于AI视频工具·AI视频生成分类。可灵AI是一款AI视频工具领域的免费增值AI工具，快手推出的AI视频生成工具。支持AI视频工。",
-    "url": "https://kling.kuaishou.com/",
-    "categories": [
-      "ai-video"
-    ],
-    "tags": [
-      "AI视频工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-video-generation",
-    "logo": "/logos/tool13186.png",
-    "domain": "kling.kuaishou.com",
-    "detailed_content": [
-      {
-        "title": "可灵AI是什么",
-        "html": "<p>可灵AI是快手推出的<a href=\"https://ai-bot.cn/best-ai-painting-tools/\" target=\"_blank\" rel=\"noopener\">AI图像</a>和<a href=\"https://ai-bot.cn/ai-video-generation-tools/\" target=\"_blank\" rel=\"noopener\">AI视频</a>创作平台，提供网页版和手机APP。支持AI图片和AI视频生成功能，AI图片生成支持文生图和图生图，用户可以输入描述或上传图片，AI据此生成新的图片。AI视频生成能将文本或图片转化为生动视频，具备视频延长和高清画质升级特性。用户能自定义首尾帧生成视频，享受丰富的视频编辑功能，如多种镜头控制选项。提供了多人协同创作的平台，支持最多5人同时在一个画布内进行创作，实现素材共享、实时联动和一键导出，通过“灵动画布”，创作者可以将零散的创意想法转化为文本、图像或视频节点，高效串联成完整的视觉作品。</p>\n<p>可灵AI最新上线的AI数字人功能，支持用户上传一张角色图片和一段文字或音频，能生成高清数字人视频，基于Transformer的DiT架构，能实现口型精准同步与情绪动作精细控制，支持多种角色和语言，画质1080p，帧率48FPS，成本低至0.12元/秒。</p>\n<p>可灵数字人 2.0 已正式上线，只需三步，上传角色图、添加配音、描述表现，即可生成表现力十足的数字人视频。此次升级支持手部和口型精准控制，单次生成最长可达 5 分钟，知识讲解和表演都能生动呈现。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-46446\" src=\"https://ai-bot.cn/wp-content/uploads/2025/03/klingai-website.png\"   alt=\"可灵\" width=\"739\" height=\"416\" />"
-      },
-      {
-        "title": "可灵AI的主要功能",
-        "html": "<ul class=\"text-md\">\n<li><strong>文生视频</strong>：根据文本描述生成视频内容，用户输入创意文本，AI将文本转化为视频。</li>\n<li><strong>图生视频</strong>：根据已有图片作为参考，AI创作出新的视频内容，支持自定义首尾帧，视频更加个性化。</li>\n<li><strong>视频延长（续写）</strong>：用户可以将生成的视频进行续写，延长视频时长，最多可至约3分钟。</li>\n<li><strong>AI图片功能</strong>：包括文生图和图生图，用户可以输入描述或上传图片，AI据此生成新的图片。</li>\n<li><a href=\"https://ai-bot.cn/keling-lab/\" target=\"_blank\" rel=\"noopener\"><strong>灵动画布</strong></a>：是可灵AI发布的全新创意工作台，提供多人协同创作的平台，支持最多5人同时在一个画布内进行创作，实现素材共享、实时联动和一键导出，打造更流畅的创作闭环。创作者可以将零散的创意想法转化为文本、图像或视频节点，高效串联成完整的视觉作品。</li>\n<li><strong>高清画质升级</strong>：提供“高表现”模式，优化生成视频的画质，适合对画面质量有更高要求的用户。</li>\n<li><strong>丰富的视频编辑能力</strong>：包括多种镜头控制选项，如旋转运镜、垂直摇镜、水平摇镜、垂直运镜、水平运镜、推进/拉远等。</li>\n<li><strong>AI数字人</strong>：通过上传角色图片和文字或音频，快速生成高清数字人视频，支持多角色、多语言，具备口型同步和情绪动作控制，适用于广告、电商、教育等场景。</li>\n<li><strong>可灵数字人 2.0</strong>：\n<ul class=\"text-md\">\n<li>\n<div class=\"paragraph\"><strong class=\"\">精准动作控制</strong>：支持手部动作和口型精准控制，表现力大幅提升。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>长视频生成</strong>：单次生成时长可达 5 分钟，满足深度内容创作需求。</div>\n</li>\n</ul>\n</li>\n</ul>"
-      },
-      {
-        "title": "如何使用可灵AI",
-        "html": "<ul>\n<li><strong>访问官方网站</strong>：<span style=\"font-size: 0.875rem;\">访问可灵AI的官方网站：</span>app.klingai.com</li>\n<li><strong>注册和登录</strong>：<span style=\"font-size: 0.875rem;\">新用户注册账号。</span><span style=\"font-size: 0.875rem;\">可以使用手机登录，或者使用快手APP、快手极速版APP扫码登录。</span></li>\n<li><strong>选择功能</strong>：<span style=\"font-size: 0.875rem;\">在网站首页，可以选择“AI图片”或“AI视频”功能。</span></li>\n<li><strong>AI图片功能</strong>：\n<ul>\n<li><strong>文生图</strong>：输入创意描述文本，设置图片的尺寸和数量，点击“立即生成”。</li>\n<li><strong>图生图</strong>：上传一张参考图片，输入描述，调整参考强度后，点击“立即生成”。</li>\n</ul>\n</li>\n<li><strong>AI视频功能</strong>：\n<ul>\n<li>如果是首次使用，可能需要进行体验申请。完成简单问答后，等待申请通过。</li>\n<li>如果已在快影APP中体验过，可以在快影中绑定快手ID来同步体验权限。</li>\n</ul>\n</li>\n<li><strong>视频生成</strong>：\n<ul>\n<li><strong>文生视频</strong>：输入视频的创意描述，选择生成模式（如“高表现”或“高性能”），点击生成。</li>\n<li><strong>图生视频</strong>：上传图片，输入描述，选择生成模式，点击生成。</li>\n</ul>\n</li>\n<li><strong>视频编辑</strong>：<span style=\"font-size: 0.875rem;\">使用提供的视频编辑工具，如镜头控制，对生成的视频进行进一步的编辑和优化。</span></li>\n</ul>"
-      },
-      {
-        "title": "可灵AI的产品定价",
-        "html": "<ul>\n<li><strong>免费灵感值</strong>：每日登录可领取66灵感值。</li>\n<li><strong>黄金会员</strong>：\n<ul>\n<li><strong>价格</strong>：1个月￥66；1季度￥178；1年￥553；连续包月：首月￥19，下月￥55；连续包季：首季￥99，下季￥152。</li>\n<li><strong>权益</strong>：登录每日送灵感值；每月获得660灵感值；去水印；高表现视频生成；视频延长功能；专享大师运镜；图片画质增强。</li>\n</ul>\n</li>\n<li><strong>铂金会员</strong>：\n<ul>\n<li><strong>价格</strong>：1个月￥266；1季度￥718；1年￥2234；连续包月：首月￥79，下月￥234；连续包季：首季￥399，下季￥614。</li>\n<li><strong>权益</strong>：登录每日送灵感值；每月获得3000灵感值；去水印；高表现视频生成；视频延长功能；专享大师运镜；图片画质增强；新功能优先体验。</li>\n</ul>\n</li>\n<li><strong>钻石会员</strong>：\n<ul>\n<li><strong>价格</strong>： 1个月￥666；1季度￥1798；1年￥5594；连续包月：首月￥199，下月￥589；连续包季：首季￥999，下季￥1538。</li>\n<li><strong>权益</strong>：登录每日送灵感值；每月获得8000灵感值；去水印；高表现视频生成；视频延长功能；专享大师运镜；图片画质增强；新功能优先体验。</li>\n</ul>\n</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-19782\" src=\"https://ai-bot.cn/wp-content/uploads/2024/09/keling-website1.png\"   alt=\"\" width=\"800\" height=\"450\" />"
-      },
-      {
-        "title": "可灵AI的应用场景",
-        "html": "<ul>\n<li><strong>艺术视频创作</strong>：可灵AI能根据用户的文本描述生成具有艺术感的视频，适用于艺术家和视频创作者制作独特的视觉作品。</li>\n<li><strong>广告制作</strong>：可灵AI可以快速生成吸引人的广告视频，节省制作成本和时间，同时提供高质量的视觉效果。</li>\n<li><strong>影视行业</strong>：可灵AI能为影视制作提供高效的视频素材生成解决方案，包括特效制作、场景设计和虚拟角色创作等。</li>\n<li><strong>教育和培训</strong>：可灵AI可以生成教育内容，如模拟实验、历史重现等，提供生动的教学辅助材料。</li>\n<li><strong>游戏开发</strong>：在游戏行业，可灵AI可以用于生成游戏内的动画和动态背景，增强游戏体验。</li>\n</ul>"
-      }
-    ]
-  },
-  {
     "slug": "tool77343",
     "name": "灵芽社区",
     "description": "属于AI视频工具·AI视频生成分类。灵芽社区是一款AI视频工具领域的免费增值AI工具，腾讯推出的 AI 多模态创作者社区。支持AI视频工。",
@@ -20822,43 +20781,6 @@
     ]
   },
   {
-    "slug": "tool13064",
-    "name": "企业AI数字员工生成平台",
-    "description": "属于AI办公工具·AI文档处理分类。企业AI数字员工生成平台是一款AI办公工具领域的免费增值AI工具，企业AI数字员工生成平台。支持AI办公工。",
-    "url": "https://www.tongdaai.com/",
-    "categories": [
-      "ai-office"
-    ],
-    "tags": [
-      "AI办公工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-office-doc",
-    "logo": "/logos/tool13064.png",
-    "domain": "tongdaai.com",
-    "detailed_content": [
-      {
-        "title": "",
-        "html": "<p>通答AI是一款企业级人工智能应用，基于先进的大模型技术，帮助企业快速创建AI数字员工，以提高工作效率和降低运营成本。通答AI支持快速部署，无需复杂设置即可开箱即用，并可轻松接入网页、App、企业微信、飞书等多平台。只需简单的操作，让AI学习企业知识，企业即可拥有一个能够处理文档、数据分析、内容创作等任务的智能助手，以推动企业数字化转型，优化工作流程。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/06/tongda-ai-employees-platform.png\" data-fancybox=\"fancybox\" data-caption=\"通答AI数字员工\"><img decoding=\"async\" class=\"alignnone size-full wp-image-13074 rounded-lg border\" src=\"https://ai-bot.cn/wp-content/uploads/2024/06/tongda-ai-employees-platform.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"通答AI数字员工\" width=\"700\"></a>"
-      },
-      {
-        "title": "通答AI的功能特色",
-        "html": "<ul class=\"text-md\">\n<li><strong>自定义AI员工</strong>：用户可以基于企业数据，通过通答AI的无代码平台，快速创建专属的AI员工。这些AI员工可以被定制以适应特定的业务流程和需求。</li>\n<li><strong>办公自动化</strong>：AI员工能够自动执行日常办公任务，如文档的整理、分类和搜索，以及数据的录入和分析，从而减少人力成本和时间。</li>\n<li><strong>多平台集成</strong>：AI员工能够无缝集成到企业现有的IT基础设施中，包括网页、移动应用、企业通讯工具等，实现跨平台的智能协作。</li>\n<li><strong>数据安全与隐私</strong>：通答AI提供严格的数据安全措施，确保企业在使用AI员工时，所有敏感数据都得到妥善保护，防止数据泄露或滥用。</li>\n<li><strong>即时交互能力</strong>：AI员工能够实时响应用户的查询和指令，提供快速反馈，提高沟通效率。</li>\n<li><strong>任务自动化</strong>：AI员工可以自动执行复杂的工作流程，如项目管理、客户关系维护等，减少人工干预，提高业务流程的自动化水平。</li>\n</ul>"
-      },
-      {
-        "title": "如何使用通答AI创建AI员工",
-        "html": "<ol class=\"text-md\">\n<li><strong>注册登录</strong>：访问通答AI的官方网站：<a href=\"https://tongdaai.com/?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">tongdaai.com</a>，创建账户并登录系统。登录成功后，会自动进入系统后台。</li>\n<li><strong>创建AI数字员工</strong>：在后台左侧菜单中选择“AI员工”选项。点击进入创建页面，按照提示填写必要的信息，如员工姓名等（带*的字段为必填项）。选择一个模型，如果不确定，可以选择默认推荐的模型。完成填写后，即可创建AI员工。</li>\n<li><strong>调试AI员工</strong>：在创建页面的预览窗口中，与AI员工进行交互，测试其功能。例如，可以要求AI员工生成一段营销文案或完成其他任务。</li>\n<li><strong>分享和集成</strong>：创建成功后，可以将AI员工分享给同事，或将其内嵌到网站、微信群聊、飞书等平台，也可以通过提供的API将AI员工接入到企业本身的业务系统中。</li>\n<li><strong>让AI员工学习企业知识</strong>：要让AI员工处理企业任务，需要上传企业相关的资料数据，AI员工会自动学习并掌握这些资料数据。</li>\n<li><strong>上传企业资料</strong>：在后台系统中找到上传资料的选项，上传企业内部的管理制度、知识库等文档，等待AI员工学习并掌握这些资料。</li>\n<li><strong>使用AI员工</strong>：AI员工学习成功后，便可以向其咨询知识库中的内容，或让其执行相关任务。</li>\n</ol>"
-      },
-      {
-        "title": "通答AI的应用场景",
-        "html": "<ul class=\"text-md\">\n<li><strong>客户服务</strong>：AI员工可以作为智能客服，提供24小时不间断的客户咨询和问题解答服务，提高客户满意度。</li>\n<li><strong>文档管理</strong>：AI员工可以帮助企业自动化文档的分类、检索和整理工作，提升文档管理效率。</li>\n<li><strong>数据分析</strong>：AI员工能够处理和分析大量业务数据，为企业提供洞察力和决策支持。</li>\n<li><strong>内容创作</strong>：AI员工可以根据企业需求，生成营销文案、新闻稿、社交媒体内容等，提高内容创作的效率和质量。</li>\n<li><strong>内部知识库</strong>：AI员工可以作为一个智能的知识库，帮助员工快速找到所需信息，提高工作效率。</li>\n<li><strong>项目管理</strong>：AI员工可以协助管理项目进度，自动跟踪任务完成情况，提醒相关人员。</li>\n<li><strong>人力资源管理</strong>：AI员工可以协助处理招聘、员工培训、绩效评估等人力资源管理工作。</li>\n<li><strong>财务分析</strong>：AI员工可以帮助企业进行财务数据的分析，提供财务报告和预测。</li>\n</ul>"
-      }
-    ]
-  },
-  {
     "slug": "tool14473",
     "name": "企业级AI数字员工平台",
     "description": "属于AI办公工具·AI文档处理分类。企业级AI数字员工平台是一款AI办公工具领域的免费增值AI工具，企业级AI数字员工平台。支持AI办公工。",
@@ -27936,43 +27858,6 @@
       {
         "title": "Kiro的应用场景",
         "html": "<ul>\n<li><strong>快速原型开发</strong>：快速将概念转化为可运行的原型，适合初创团队或个人开发者快速验证想法。</li>\n<li><strong>复杂系统开发</strong>：帮助团队从需求分析到设计、实现，再到部署，确保复杂系统的开发流程清晰、高效。</li>\n<li><strong>安全应用开发</strong>：用 Kiro 的自动化触发器和最佳实践，快速开发安全应用，如加密文件共享系统。</li>\n<li><strong>游戏开发</strong>：不擅长游戏开发的开发者，快速构建游戏逻辑和功能。</li>\n<li><strong>团队协作开发</strong>：通过规格和自动化触发器，确保团队成员遵循相同的代码标准和开发流程，提升协作效率。</li>\n</ul>"
-      }
-    ]
-  },
-  {
-    "slug": "tool906",
-    "name": "Cursor",
-    "description": "属于AI编程工具·AI编程助手分类。Cursor是一款AI编程工具领域的免费增值AI工具，AI代码编辑器，快速进行编程和软件开发。支持AI编程工。",
-    "url": "https://www.cursor.com/",
-    "categories": [
-      "ai-coding"
-    ],
-    "tags": [
-      "AI编程工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-coding-ide",
-    "logo": "/logos/tool906.png",
-    "domain": "cursor.com",
-    "detailed_content": [
-      {
-        "title": "Cursor是什么",
-        "html": "<p>Cursor是Anysphere公司推出的<a href=\"https://ai-bot.cn/ai-ide/\" target=\"_blank\" rel=\"noopener\">AI代码编辑器</a>，基于GPT3.5、GPT4.0模型，支持Python、Java、C#、JavaScript等多语言，通过快捷键操作，实现代码自动生成、编辑、讨论等功能，显著提升开发效率。Cursor具备代码重构、理解、优化等高级功能。Cursor推出网页端和移动端 Agent。能在任何设备上无缝衔接地使用 AI 编程代理。可以并行运行多个 Agent 任务。每月提供200次GPT3.5和50次GPT4.0的使用次数，满足大多数用户需求。</p>\n<p>全新升级的Cursor 2.0 ，搭载自研编码模型 Composer，能在 30 秒内完成复杂任务，代码生成速度达 250 tokens/秒，比同行快 400%。Cursor 2.0支持语音生成代码、原生浏览器工具测试代码、多 Agent 同时运行等功能，界面从“以文件为中心”变为“以 Agent 为中心”。Composer 基于强化学习和 MoE 架构训练，直接在真实环境中运行，具备强大的推理和泛化能力。</p>\n<p>Cursor 2.2 版本新增调试模式，可在应用运行时植入日志，帮助开发者快速定位、修复复杂 Bug。计划模式也得到改进，新增内联流程图和任务分配功能，让团队协作更高效。多智能体“裁判”机制能自动评估多个智能体的结果、推荐最佳方案，附带详细评语，省去筛选结果的烦恼。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-46667\" src=\"https://ai-bot.cn/wp-content/uploads/2025/03/Cursor-website.png\"   alt=\"Cursor\" width=\"739\" height=\"416\" />"
-      },
-      {
-        "title": "Cursor的主要功能",
-        "html": "<ul>\n<li><strong>代码生成</strong>：Cursor能够根据开发者的指令或代码上下文自动生成代码，节省编写基础代码的时间。</li>\n<li><strong>智能补全</strong>：提供更精准的代码补全建议，帮助开发者快速完成代码编写。</li>\n<li><strong>Bug检测与修复</strong>：AI能够识别代码中的错误并提供修复建议，减少调试时间。</li>\n<li><strong>代码解释</strong>：当开发者对某段代码有疑问时，Cursor可以提供代码的解释和功能说明。</li>\n<li><strong>文档生成</strong>：如README文件的自动生成，帮助开发者快速整理项目信息。</li>\n<li><strong>代码优化建议</strong>：分析现有代码，提供优化建议以提升代码质量和性能。</li>\n<li><strong>多语言支持</strong>：支持多种编程语言，为不同领域的开发者提供帮助。</li>\n<li><strong>Cursor Agent</strong>：是Cursor推出网页端和移动端 Agent。能在任何设备上无缝衔接地使用 AI 编程代理。\n<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">代码编写与任务执行</strong>：Agent 可以在后台运行任务，例如启动漏洞修复、构建新功能或回答复杂的代码库问题。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">跨设备协作</strong>：开发者可以在任何桌面、平板或移动浏览器上使用 Agent，可以将其作为渐进式 Web 应用（PWA）安装，获得类似原生应用的体验。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">团队协作</strong>：拥有代码库访问权限的团队成员可以通过网页界面审查 Agent 的更改、查看拉取请求，直接从网页界面创建拉取请求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">丰富的上下文支持</strong>：用户可以添加图片、后续指令，可以并行运行多个 Agent 来比较结果。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">Slack 集成</strong>：开发者可以在 Slack 中通过 “@Cursor” 触发 Agent，并在任务完成后接收 Slack 通知。</div>\n</li>\n<li><strong>使用Agent</strong>：可以通过访问官网 https://www.cursor.com/cn/agents ，开始使用网页端和移动端的 Agent。</li>\n</ul>\n</li>\n<li><strong>Cursor 2.0功能更新</strong>：\n<ul>\n<li class=\"paragraph\"><strong class=\"\">编码效率提升</strong>：Cursor 2.0 的 Composer 模型以每秒 250 个 tokens 的速度生成代码，30 秒内完成复杂任务，比同行快 400%。</li>\n<li class=\"paragraph\"><strong>智能编程辅助</strong>：原生浏览器工具可自动测试、调错、迭代代码；语音生成代码功能让开发者通过语音输入即可转化为代码；多 Agent 协作支持多个 Agent 同时运行，互不干扰且可择优选择结果。</li>\n<li class=\"paragraph\"><strong>真实环境训练与实战能力</strong>：Composer 基于强化学习训练，在真实环境中运行，具备自动测试、修复错误等涌现行为，贴合开发者日常工作流程。</li>\n</ul>\n</li>\n<li><strong>Cursor 2.2功能更新</strong>：\n<ul>\n<li class=\"paragraph\"><strong>调试模式（Debug Mode）</strong>：在应用运行时植入日志，帮助开发者主动发现并修复难以捉摸的 Bug，节省排查问题的时间，适用于各种技术栈。</li>\n<li class=\"paragraph\"><strong>计划模式升级（Plan Mode Improvements）</strong>：新增内联 Mermaid 流程图，直观展示 AI 的解题思路；支持将待办事项分配给不同智能体，提升团队协作效率。</li>\n<li class=\"paragraph\"><strong>多智能体“裁判”机制（Multi-Agent Judging）</strong>：自动评估多个智能体的结果，推荐最佳解决方案，并附带详细评语，帮助开发者快速筛选最优解。</li>\n<li class=\"paragraph\"><strong>聊天置顶功能（Pinned Chats）</strong>：在智能体侧边栏中可以将重要聊天记录置顶，方便快速访问和回顾重要信息。</li>\n</ul>\n</li>\n</ul>"
-      },
-      {
-        "title": "如何使用Cursor",
-        "html": "<ul>\n<li><strong>下载和安装</strong>：访问Cursor的官网（<a href=\"https://www.cursor.com/?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >cursor.com</a>）下载安装包，根据提示完成安装。</li>\n<li><strong>注册账号</strong>：启动Cursor后，需要注册账号并进行邮箱验证。</li>\n<li><strong>安装插件</strong>：根据需要安装语言插件和其他扩展，例如中文插件或特定编程语言的编译插件。</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-46668\" src=\"https://ai-bot.cn/wp-content/uploads/2025/03/Cursor-website1.png\"   alt=\"Cursor\" width=\"695\" height=\"391\" />\n<ul>\n<li><strong>新建文件</strong>：在Cursor中打开或创建新的项目文件，并为文件添加正确的扩展名。</li>\n<li><strong>配置解释器</strong>：如果需要特定语言的运行环境，配置相应的解释器。</li>\n<li><strong>使用AI功能</strong>：\n<ul>\n<li>通过快捷键（如Ctrl+K）呼出AI对话框，输入你的编程需求。</li>\n<li>AI会根据需求生成代码或提供建议。</li>\n</ul>\n</li>\n<li><strong>运行和测试代码</strong>：使用界面上的运行按钮或快捷键运行代码，并观察输出结果。</li>\n<li><strong>代码审查与修改</strong>：如果AI生成的代码不符合预期，可以手动修改或通过AI对话框进一步细化需求。</li>\n<li><strong>询问和学习</strong>：对于不理解的代码段，可以使用快捷键呼出聊天框，向AI询问代码的功能和原理。</li>\n<li><strong>导入库</strong>：如需使用特定库，可以通过终端或命令行安装所需的库。</li>\n<li><strong>代码管理和优化</strong>：利用Cursor的AI功能进行代码审查和优化，提高代码质量。</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-46669\" src=\"https://ai-bot.cn/wp-content/uploads/2025/03/Cursor-website2.png\"   alt=\"Cursor\" width=\"695\" height=\"391\" />"
-      },
-      {
-        "title": "Cursor的适用人群",
-        "html": "<ul>\n<li><strong>编程新手</strong>：刚开始学习编程的，Cursor的AI辅助可以帮助他们快速掌握编程技巧，提供代码示例和解释。</li>\n<li><strong>专业开发者</strong>：经验丰富的开发者可以利用Cursor的AI功能来提高编码效率，自动生成代码片段，检测和修复Bug。</li>\n<li><strong>学生和教师</strong>：在学习编程或教授编程课程的过程中，Cursor可以作为一个强大的工具，帮助理解和实践编程概念。</li>\n<li><strong>数据科学家和分析师</strong>：在进行数据分析和机器学习项目时，Cursor可以帮助快速编写和测试代码。</li>\n<li><strong>自由职业者和创业者</strong>：需要快速开发软件原型或产品的个人，可以使用Cursor加速开发过程。</li>\n</ul>"
       }
     ]
   },

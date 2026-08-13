@@ -19,4 +19,7 @@ Allow: /
 Disallow: /search?q=
 Disallow: /content/
 
+# 导航站核心诉求：被 AI 检索与引用，不被用于训练
+Content-Signal: search=yes, ai-train=no, use=reference
+
 Sitemap: https://taoai365.com/sitemap-index.xml

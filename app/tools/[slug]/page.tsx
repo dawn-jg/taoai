@@ -18,7 +18,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
 // ─── SEO helpers: 长尾关键词 Title/Description 模板 ───
 function buildToolTitle(tool: AITool): string {
-  // 从 description 提取一句话核心用途（去掉“属于XX分类。”前缀与工具名重复）
+  // 从 description 提取一句话核心用途（去掉"属于XX分类。"前缀与工具名重复）
   let use = tool.description
     .replace(/^属于[^。]+。/, '')
     .split('。')[0]
@@ -27,12 +27,27 @@ function buildToolTitle(tool: AITool): string {
     .replace(/^(AI|ai)/, 'AI')
     .trim();
   use = use.replace(/[，,]$/, '');
-  const base = `${tool.name} - ${use} | TaoAI`;
-  // 中文 ≤30 字为宜；超长则截断用途部分
-  if (base.length > 34) {
-    const maxUse = 34 - tool.name.length - 5; // 减去“ - ”与“ | TaoAI”
-    use = use.slice(0, Math.max(6, maxUse)) + '…';
-    return `${tool.name} - ${use} | TaoAI`;
+
+  // 泛化工具名（如"AI文本转语音工具"、"企业AI数字员工生成平台"）本身已是用途描述而非品牌名，
+  // 需要域名来区分同名工具。检测 name 是否含通用词（工具/平台/系统/助手/生成器/生成平台/机器人）
+  const nameIsGeneric = /[工具平台系统助手生成器机器人]/.test(tool.name) ||
+    (/^AI/.test(tool.name) && /[工具平台系统助手生成器机器人]/.test(tool.name));
+  const domain = tool.domain || '';
+  const brand = (nameIsGeneric && domain)
+    ? ' · ' + domain.replace(/^https?:\/\//, '').replace(/\/$/, '')
+    : '';
+
+  const base = `${tool.name} - ${use}${brand} | TaoAI`;
+  // 中文 title ≤34 字（SEO 最佳实践）；超长则截断用途部分，保留品牌
+  const maxLen = 34;
+  if (base.length > maxLen) {
+    const brandLen = brand.length;
+    const nameLen = tool.name.length;
+    const suffix = ' | TaoAI';
+    const suffixLen = suffix.length;
+    let maxUse = maxLen - nameLen - brandLen - suffixLen - 3; // 3 = ' - ' + '…'
+    use = use.slice(0, Math.max(4, maxUse)) + '…';
+    return `${tool.name} - ${use}${brand} | TaoAI`;
   }
   return base;
 }
@@ -40,19 +55,19 @@ function buildToolTitle(tool: AITool): string {
 function buildToolDescription(tool: AITool): string {
   const catName = tool.categories[0] ? (getCategories().find(c => c.slug === tool.categories[0])?.name || '') : '';
   const pricingText = { free: '免费', freemium: '免费增值', paid: '付费' }[tool.pricing] || '';
-  // 去掉“属于XX分类。”前缀，并避免工具名重复（description 首句常含“XX是一款…”）
+  // 去掉"属于XX分类。"前缀,并避免工具名重复(description 首句常含"XX是一款...")
   let core = tool.description.replace(/^属于[^。]+。/, '');
   const nameIdx = core.indexOf(tool.name + '是');
   if (nameIdx === 0) core = core.slice(tool.name.length + 1);
   core = core.replace(/^(一款|是一个|是|是一款)/, '');
   core = core.split('。').slice(0, 2).join('。') + '。';
-  // 避免与分类名前缀重复：如“AI聊天助手领域的AI工具，AI聊天助手领域的免费AI工具…”
+  // 避免与分类名前缀重复:如"AI聊天助手领域的AI工具,AI聊天助手领域的免费AI工具..."
   if (catName) {
     const dupPrefix = catName + '领域的';
     if (core.startsWith(dupPrefix)) core = core.slice(dupPrefix.length);
   }
-  const desc = `${tool.name}是${catName ? catName + '领域的' : ''}AI工具，${core}${pricingText ? '支持' + pricingText + '使用。' : ''}TaoAI 编辑实测推荐，收录于 taoai365.com AI工具导航。`;
-  return desc.length > 120 ? desc.slice(0, 117) + '…' : desc;
+  const desc = `${tool.name}是${catName ? catName + '领域的' : ''}AI工具,${core}${pricingText ? '支持' + pricingText + '使用。' : ''}TaoAI 编辑实测推荐,收录于 taoai365.com AI工具导航。`;
+  return desc.length > 120 ? desc.slice(0, 117) + '...' : desc;
 }
 
 export default async function ToolDetailPage({ params }: { params: Promise<{ slug: string }> }) {
@@ -91,7 +106,7 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
             )}
             <div className="flex items-center gap-1 text-sm text-yellow-500">
               <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
-              <span className="text-gray-700 font-medium">{tool.rating || '—'}</span>
+              <span className="text-gray-700 font-medium">{tool.rating || '-'}</span>
             </div>
             <span className={`text-xs font-medium px-2.5 py-0.5 rounded-full ${pricingColor[tool.pricing]}`}>{pricingLabel[tool.pricing]}</span>
           </div>
@@ -143,7 +158,7 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
               {Array.from({ length: Math.floor(editorial.rating) }).map((_, i) => (
                 <span key={i}>★</span>
               ))}
-              {editorial.rating % 1 >= 0.5 && <span>½</span>}
+              {editorial.rating % 1 >= 0.5 && <span>1⁄2</span>}
             </div>
             <span className="text-sm font-bold text-gray-900">{editorial.rating}</span>
             <span className="text-xs text-gray-500">/ 5.0</span>
@@ -178,7 +193,7 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
             </div>
           </div>
           <p className="text-[10px] text-gray-400 mt-3 pt-3 border-t border-amber-100">
-            评测基于 TaoAI 编辑部的真实使用体验，更新时间 {editorial.date}。查看<a href="/editorial-policy" className="text-blue-600 hover:underline">评测标准</a>。
+            评测基于 TaoAI 编辑部的真实使用体验,更新时间 {editorial.date}。查看<a href="/editorial-policy" className="text-blue-600 hover:underline">评测标准</a>。
           </p>
         </div>
       )}
@@ -194,7 +209,7 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
                 <div className="aspect-video bg-gray-100 relative overflow-hidden">
                   <img src={src} alt={`${tool.name} 截图 ${i + 1}`} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" loading="lazy" />
                 </div>
-                <div className="px-3 py-2 text-xs text-gray-400">截图 {i + 1} — 点击查看原图</div>
+                <div className="px-3 py-2 text-xs text-gray-400">截图 {i + 1} - 点击查看原图</div>
               </a>
             ))}
           </div>
@@ -222,11 +237,11 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
         <div className="space-y-5">
           <SectionCard title={`什么是 ${tool.name}`}>
             <p className="text-sm text-gray-700 leading-relaxed mb-3">
-              {tool.name} 是一款 {tool.description}。作为 AI 工具生态中的优秀产品，{tool.name} 在 {tool.tags.slice(0, 3).join('、')} 等场景中表现出色，帮助用户提升效率、激发创造力。
+              {tool.name} 是一款 {tool.description}。作为 AI 工具生态中的优秀产品,{tool.name} 在 {tool.tags.slice(0, 3).join('、')} 等场景中表现出色,帮助用户提升效率、激发创造力。
             </p>
             <div className="bg-blue-50 border-l-4 border-blue-400 p-3 rounded-r">
               <p className="text-xs text-blue-700">
-                💡 {tool.name} 支持 {tool.pricing === 'free' ? '完全免费使用' : tool.pricing === 'freemium' ? '免费版 + 付费高级功能' : '付费订阅'}，
+                💡 {tool.name} 支持 {tool.pricing === 'free' ? '完全免费使用' : tool.pricing === 'freemium' ? '免费版 + 付费高级功能' : '付费订阅'},
                 访问官网了解更多信息。
               </p>
             </div>
@@ -239,7 +254,7 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
                   <span className="shrink-0 w-6 h-6 flex items-center justify-center rounded-full bg-blue-100 text-blue-600 text-xs font-bold">{(i + 1).toString().padStart(2, '0')}</span>
                   <div>
                     <h4 className="text-sm font-semibold text-gray-900">{tag}</h4>
-                    <p className="text-xs text-gray-500 mt-0.5">在 {tag} 方面提供专业级能力支持，满足多样化创作需求。</p>
+                    <p className="text-xs text-gray-500 mt-0.5">在 {tag} 方面提供专业级能力支持,满足多样化创作需求。</p>
                   </div>
                 </div>
               ))}
@@ -248,27 +263,27 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
 
           <SectionCard title="技术优势">
             <div className="space-y-3">
-              <TechRow icon="🚀" title="响应速度快" desc={`${tool.name} 推理响应速度快，延迟低，适合实时交互场景。`} />
-              <TechRow icon="🎯" title="效果出色" desc={`在${tool.tags[0] || '核心'}场景下表现优异，输出质量稳定可靠。`} />
-              <TechRow icon="💰" title="性价比高" desc={tool.pricing === 'free' ? '完全免费，无任何隐藏费用。' : '提供灵活的定价方案，满足不同用户需求。'} />
-              <TechRow icon="🔌" title="接入便捷" desc="支持 API 调用，可快速集成到现有工作流中。" />
+              <TechRow icon="🚀" title="响应速度快" desc={`${tool.name} 推理响应速度快,延迟低,适合实时交互场景。`} />
+              <TechRow icon="🎯" title="效果出色" desc={`在${tool.tags[0] || '核心'}场景下表现优异,输出质量稳定可靠。`} />
+              <TechRow icon="💰" title="性价比高" desc={tool.pricing === 'free' ? '完全免费,无任何隐藏费用。' : '提供灵活的定价方案,满足不同用户需求。'} />
+              <TechRow icon="🔌" title="接入便捷" desc="支持 API 调用,可快速集成到现有工作流中。" />
             </div>
           </SectionCard>
 
           <SectionCard title={`如何使用 ${tool.name}`}>
             <ol className="space-y-3">
-              <Step num={1} title="访问官网" desc={`打开浏览器访问 ${tool.url}，进入 ${tool.name} 官方网站。`} />
-              <Step num={2} title="注册/登录" desc="根据页面提示完成账号注册或直接登录（支持第三方登录）。" />
+              <Step num={1} title="访问官网" desc={`打开浏览器访问 ${tool.url},进入 ${tool.name} 官方网站。`} />
+              <Step num={2} title="注册/登录" desc="根据页面提示完成账号注册或直接登录(支持第三方登录)。" />
               <Step num={3} title="选择功能" desc={`在控制台中选择需要的 ${tool.tags.slice(0, 2).join(' / ')} 等功能模块开始使用。`} />
-              <Step num={4} title="查看文档" desc="如需深入了解，可查看官方文档或在本站搜索相关教程。" />
+              <Step num={4} title="查看文档" desc="如需深入了解,可查看官方文档或在本站搜索相关教程。" />
             </ol>
           </SectionCard>
 
           <SectionCard title="价格信息">
             <div className="text-sm text-gray-700 leading-relaxed">
-              {tool.pricing === 'free' && <p>✅ <strong>{tool.name}</strong> 目前完全<strong className="text-green-600">免费</strong>使用，无需付费即可体验全部核心功能。</p>}
-              {tool.pricing === 'freemium' && <p>✅ <strong>{tool.name}</strong> 提供<strong className="text-blue-600">免费版</strong>，同时提供付费高级版，解锁更多功能和更高配额。</p>}
-              {tool.pricing === 'paid' && <p>✅ <strong>{tool.name}</strong> 为付费工具，提供多种订阅方案，可按需选择。</p>}
+              {tool.pricing === 'free' && <p>✅ <strong>{tool.name}</strong> 目前完全<strong className="text-green-600">免费</strong>使用,无需付费即可体验全部核心功能。</p>}
+              {tool.pricing === 'freemium' && <p>✅ <strong>{tool.name}</strong> 提供<strong className="text-blue-600">免费版</strong>,同时提供付费高级版,解锁更多功能和更高配额。</p>}
+              {tool.pricing === 'paid' && <p>✅ <strong>{tool.name}</strong> 为付费工具,提供多种订阅方案,可按需选择。</p>}
             </div>
           </SectionCard>
         </div>
@@ -278,7 +293,7 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
       {relatedTools.length > 0 && (
         <div className="mt-5 bg-white rounded-xl border border-gray-200 p-5">
           <h2 className="text-base font-bold text-gray-900 mb-3">类似于 {tool.name} 的工具</h2>
-          <p className="text-xs text-gray-400 mb-3">同类 AI 工具推荐，供对比参考</p>
+          <p className="text-xs text-gray-400 mb-3">同类 AI 工具推荐,供对比参考</p>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
             {relatedTools.map(t => (
               <Link key={t.slug} href={`/tools/${t.slug}`} className="block bg-gray-50 hover:bg-blue-50 border border-gray-100 rounded-lg p-3 transition-colors">
@@ -306,7 +321,7 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
           ))}
         </div>
         <p className="text-[10px] text-gray-400 mt-4 pt-3 border-t border-gray-100">
-          信息更新于 {tool.createdAt || '2026-07'}。如信息有误，欢迎<a href="/contact" className="text-blue-600 hover:underline">联系我们</a>更正。
+          信息更新于 {tool.createdAt || '2026-07'}。如信息有误,欢迎<a href="/contact" className="text-blue-600 hover:underline">联系我们</a>更正。
         </p>
       </SectionCard>
 
@@ -322,11 +337,11 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
   );
 }
 
-/* 工具 FAQ 数据（GEO 优化：直接回答式内容，便于 AI 搜索引擎引用） */
+/* 工具 FAQ 数据(GEO 优化:直接回答式内容,便于 AI 搜索引擎引用) */
 const toolFaqs = [
-  { question: '这是免费的 AI 工具吗？', answer: '这取决于具体产品：部分工具提供完全免费版本，部分采用免费增值模式，部分需要付费订阅。建议访问官网查看最新的定价方案。' },
-  { question: '适合哪些人使用？', answer: '适合需要提升工作效率、内容创作、编程开发、设计绘画等场景的个人用户和团队。具体适用场景可参考本页分类标签和编辑评测。' },
-  { question: '与其他同类 AI 工具相比如何？', answer: '每个工具各有侧重。本页「类似于」区块列出了同类工具，可以对比评分、价格模式和使用场景后做出选择。' },
+  { question: '这是免费的 AI 工具吗?', answer: '这取决于具体产品:部分工具提供完全免费版本,部分采用免费增值模式,部分需要付费订阅。建议访问官网查看最新的定价方案。' },
+  { question: '适合哪些人使用?', answer: '适合需要提升工作效率、内容创作、编程开发、设计绘画等场景的个人用户和团队。具体适用场景可参考本页分类标签和编辑评测。' },
+  { question: '与其他同类 AI 工具相比如何?', answer: '每个工具各有侧重。本页「类似于」区块列出了同类工具,可以对比评分、价格模式和使用场景后做出选择。' },
 ];
 
 /* ---- Sub-components ---- */
