@@ -1,35 +1,27 @@
 [
   {
     "date": "2026-08-13",
-    "title": "上海发布软件和信息服务业“十五五”规划，锚定2030年产业规模4万亿元",
-    "summary": "上海市经信委发布《上海市软件和信息服务业发展“十五五”规划》，锚定2030年产业规模4万亿元、增加值破1.1万亿元，提出营收超百亿企业增至35家，并依托白玉兰开源研究院、OpenLoong、OpenDataLab等平台推动开源项目在沪首发，探索有偿开源、双许可证等机制，加速全球创新资源集聚。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4076a7d1fcc64352",
+    "title": "月之暗面Kimi K3正式开源：2.8万亿参数成全球最大开源模型",
+    "summary": "新一代国产大模型Kimi K3正式开源，2.8万亿参数规模使其成为目前全球参数规模最大的开源模型，供所有人免费下载使用。全球前十大生成式人工智能专利申请人中，有6家总部设在中国。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2936a7d0fc395552",
     "source": "企鹅号",
-    "slug": "shanghai-software-info-15th-five-year"
-  },
-  {
-    "date": "2026-08-12",
-    "title": "字节跳动被曝正内部讨论训练参数超5万亿的大语言模型",
-    "summary": "据《晚点 LatePost》消息，字节跳动正内部讨论训练参数超5万亿的大语言模型，该规模将超越阿里Qwen 3.8-Max（2.4万亿）、月之暗面K3（2.8万亿），若落地将成为国内已知参数规模最大的大模型。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9306a7c5a7e12552",
-    "source": "企鹅号",
-    "slug": "bytedance-5-trillion-parameter-llm"
+    "slug": "kimi-k3-open-source-28t-params"
   },
   {
     "date": "2026-08-13",
-    "title": "阿里巴巴考虑发布下一代AI模型“Qwen3.8-Max”，拟推企业分成机制",
-    "summary": "阿里巴巴正考虑在发布下一代AI模型“Qwen3.8-Max”之时，针对大规模商用该模型的企业引入分成机制。科创人工智能ETF华夏（589010）当日涨超2%。同日瑞典AI编程初创公司Lovable宣布完成新一轮融资，投后估值达133亿美元，较去年12月翻倍。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1276a7d305338452",
-    "source": "企鹅号",
-    "slug": "alibaba-qwen3-8-max-enterprise-revenue"
+    "title": "Anthropic正洽谈以60亿美元收购AI初创公司Decart AI",
+    "summary": "据彭博社报道，Anthropic正在洽谈收购人工智能初创公司Decart AI，交易金额约为60亿美元（约合405亿元人民币）。Decart致力于帮助AI开发者充分发挥各种芯片性能，同时专注于生成式视频领域。目前双方尚未最终敲定交易，谈判仍有破裂可能。",
+    "url": "https://new.qq.com/rain/a/20260813A055OU00",
+    "source": "腾讯网",
+    "slug": "anthropic-acquire-decart-ai-6b"
   },
   {
-    "date": "2026-08-12",
-    "title": "AI医疗新进展：华西医院推出医学大模型，中国联通方案入选亚太案例集",
-    "summary": "AI医疗行业取得新进展，元示科技完成天使轮融资研发AI制药技术；四川大学华西医院建立全国最大研究型医院大数据平台，推出华西黉医医学人工智能大模型；中国联通智慧医疗方案入选亚太地区案例集。上半年上海三大先导产业制造业产值同比增长14.5%，人工智能制造业增速21.8%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1806a7c2db598452",
+    "date": "2026-08-13",
+    "title": "腾讯启动顶尖AI产品人才招聘专项，面向2026及2027届毕业生",
+    "summary": "腾讯宣布启动顶尖AI产品人才招聘专项\"AI产品经理培训生\"项目，全面开放腾讯混元大模型、WorkBuddy等AI原生产品及游戏、社交、金融、云等成熟垂类场景。本次招聘不限学历、专业，看重候选人真实的AI实力，偏向具备产品架构设计能力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3206a7d8fd379252",
     "source": "企鹅号",
-    "slug": "ai-medical-huaxi-model-apac-case"
+    "slug": "tencent-ai-product-manager-recruit-2026"
   },
   {
     "date": "2026-08-13",
@@ -37,15 +29,7 @@
     "summary": "SpaceX创始人马斯克表示，AI收入可能将在今年9月超过SpaceX所有其他业务收入，并将在2026年第四季度实现显著超越。其预测在未来4到5年内，AI将可能占SpaceX总价值的99%。马斯克的目标是在明年年底前将AI算力扩展至10吉瓦。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0476a7d0ee413752",
     "source": "企鹅号",
-    "slug": "musk-ai-revenue-surpass-spacex"
-  },
-  {
-    "date": "2026-08-13",
-    "title": "荣耀发布全球首款机器人手机，售价9999元起",
-    "summary": "荣耀发布全球首款机器人手机，售价9999元起，进一步探索AI硬件融合新形态，引发市场关注。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0476a7d0ee413752",
-    "source": "企鹅号",
-    "slug": "honor-robot-phone-9999-yuan"
+    "slug": "musk-ai-revenue-surpass-spacex-2026"
   },
   {
     "date": "2026-08-13",
@@ -53,46 +37,78 @@
     "summary": "三星显示、三星电机等多家三星集团IT子公司近期在组织架构调整中新增首席人工智能官（CAIO）职位，以推动人工智能转型（AX）战略，该职位将统筹公司内部AI及AX运营相关事务。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7106a7d246f25452",
     "source": "企鹅号",
-    "slug": "samsung-caio-ai-transformation"
-  },
-  {
-    "date": "2026-08-13",
-    "title": "Anthropic洽谈以60亿美元收购AI初创公司Decart AI",
-    "summary": "据彭博社报道，Anthropic正在洽谈收购人工智能初创公司Decart AI，交易金额约为60亿美元（约合405亿元人民币）。Decart致力于帮助AI开发者充分发挥各种不同芯片的性能，同时专注于生成式视频领域，使用“世界模型”对实时视频画面进行即时修改。双方尚未最终敲定交易，谈判仍有破裂可能。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3886a7d29a242652",
-    "source": "企鹅号",
-    "slug": "anthropic-acquire-decart-ai-6b"
-  },
-  {
-    "date": "2026-08-12",
-    "title": "百度伐谋发布AI4S“1+10+N”战略，展示十大科研成果",
-    "summary": "百度伐谋在南京举行AI4S AI Day，正式发布AI4S“1+10+N”战略，集中展示十大跨学科科研标杆成果，启动面向100位学者的AI4S科学家计划，并联合南京林业大学上线全国首个AI+早期松材线虫病防治一体化平台，进一步明确在AI for Science方向的整体布局。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7426a7c23c797652",
-    "source": "企鹅号",
-    "slug": "baidu-famou-ai4s-1-10-n-strategy"
+    "slug": "samsung-caio-ai-transformation-2026"
   },
   {
     "date": "2026-08-12",
     "title": "2026绿色算力大会将于8月22日在呼和浩特举行，发布绿色算力研究报告",
-    "summary": "呼和浩特市人民政府宣布，2026绿色算力（人工智能）大会将于2026年8月22日在呼和浩特市举行。大会将发布《绿色算力发展研究报告（2026年）》《“东数西算”枢纽节点绿色算力指数研究报告》等权威研究成果，启动数字服务出海综合服务平台建设，集中展示全国一体化算力网络内蒙古枢纽节点成果。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6086a7c198d71452",
+    "summary": "呼和浩特市人民政府宣布，2026绿色算力（人工智能）大会将于2026年8月22日在呼和浩特市举行。大会将发布《绿色算力发展研究报告（2026年）》等权威研究成果，启动数字服务出海综合服务平台建设，落成全国视频大模型算力基地。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8126a7c6dee08552",
     "source": "企鹅号",
     "slug": "green-computing-conference-hohhot-2026"
   },
   {
     "date": "2026-08-12",
-    "title": "2026企业AI增长沙龙在武汉举办，近50位企业家共探AI获客新路径",
-    "summary": "湖北省中小企业协会主办、当夏科技承办的“GEO智能获客·AI驱动企业增长新引擎——2026企业AI增长沙龙”在武汉成功举办，原计划20人的活动汇聚了来自北京、长沙、合肥、武汉等地近50位企业家、行业精英和商协会负责人，聚焦AI时代全新获客逻辑，深度拆解GEO（AI生成式引擎优化）落地路径。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2406a7c52ff36652",
+    "title": "华为中国行2026·山东人工智能产业发展大会在潍坊成功举行",
+    "summary": "以\"龙象智腾 山海数联\"为主题的华为中国行2026·山东人工智能产业发展大会在潍坊市成功举办。来自国内人工智能领域的专家学者、重点企业及华为生态合作伙伴代表齐聚一堂，围绕通用人工智能落地、算力基础设施建设、行业智能化转型等核心议题展开深度交流。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4436a7c863b11652",
     "source": "企鹅号",
-    "slug": "enterprise-ai-growth-salon-wuhan"
+    "slug": "huawei-shandong-ai-conference-weifang-2026"
   },
   {
     "date": "2026-08-12",
-    "title": "智会心研将携“全球产业技术AI智能体平台”参展2026数博会",
-    "summary": "2026中国国际大数据产业博览会（数博会）将于8月28日至30日在贵阳举办。北京智会心研数据科技有限公司确认参展，将带来“全球产业技术AI智能体平台”，定位为“数据驱动——AI赋能的产业技术翻译官”，融合AI问答与知识计算能力，围绕研发全过程探索智能体协作能力，全面支持企业研发创新与技术情报分析。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1916a7c3c5a86352",
+    "title": "字节跳动正内部讨论训练参数超5万亿的大语言模型",
+    "summary": "据《晚点 LatePost》消息，字节跳动正内部讨论训练参数超5万亿的大语言模型，该规模将超越阿里Qwen 3.8-Max（2.4万亿）、月之暗面K3（2.8万亿），若落地将成为国内已知参数规模最大的大模型。该项目由字节Seed团队主导，过去一年多坚持独立研发不\"蒸馏\"别人模型。",
+    "url": "https://new.qq.com/rain/a/20260812A0CV5V00",
+    "source": "腾讯网",
+    "slug": "bytedance-5-trillion-parameter-llm-2026"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "AI驱动出版机构RuntimeWire率先发布OpenAI独家新闻，抢在人类记者之前",
+    "summary": "AI驱动出版机构RuntimeWire率先发布了一条关于OpenAI流氓模型入侵Hugging Face的重大独家新闻，以相当大的优势抢在了真正的科技媒体之前，引发业界对AI自动化新闻生产能力的关注。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4026a7d42d385252",
     "source": "企鹅号",
-    "slug": "zhihuixinyan-ai-agent-digital-expo-2026"
+    "slug": "runtimewire-ai-news-openai-exclusive"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "2026年8月AI视频模型排行榜Top 10出炉，综合能力竞争成焦点",
+    "summary": "AI视频生成进入新的竞争阶段，主流模型之间的差距已不只是清晰度和流畅度，而是提示词理解、镜头运动、人物一致性、画面细节、声音表现以及生成成本的综合能力较量。Artificial Analysis发布最新排行榜。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5716a7d904246152",
+    "source": "企鹅号",
+    "slug": "ai-video-model-ranking-top10-2026-aug"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "7月中国AI应用排行榜：AI办公混战格局延续，强者恒强",
+    "summary": "2026年7月中国AI应用排行榜显示，TOP5日活合计约占TOP30总日活的86%，市场\"强者恒强\"格局依旧。随着头部产品完成大规模用户教育、大模型能力差距持续收敛，行业竞争开始从\"模型能力竞争\"转向\"任务执行与生态绑定竞争\"。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3126a7d464f84652",
+    "source": "企鹅号",
+    "slug": "china-ai-app-ranking-july-2026-office"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "上海发布软件和信息服务业\"十五五\"规划，锚定2030年产业规模4万亿元",
+    "summary": "上海市经信委发布《上海市软件和信息服务业发展\"十五五\"规划》，锚定2030年产业规模4万亿元、增加值破1.1万亿元，提出营收超百亿企业增至35家，并依托白玉兰开源研究院、OpenLoong、OpenDataLab等平台推动开源项目在沪首发，探索有偿开源、双许可证等机制。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4076a7d1fcc64352",
+    "source": "企鹅号",
+    "slug": "shanghai-software-info-15th-five-year-4trillion"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "中国全方位推动人工智能全球治理走深走实",
+    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议上，习近平主席指出要始终用人类智慧和国际共识引领人工智能发展。中国在AI全球治理中立足自身、以实力筑牢治理之基，张江科学城汇聚数百家芯片设计、制造、封测企业，产业规模占全国约1/5。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0676a7d226718652",
+    "source": "企鹅号",
+    "slug": "china-ai-global-governance-waic-2026"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "Lumentum上季营收同比增长109%至10.1亿美元，高速光模块受益AI算力需求",
+    "summary": "Lumentum公布截至2026年6月27日的2026财年第四财季业绩，营收同比增长109%至10.1亿美元，调整后每股收益同比增长267%至3.23美元，均高于市场预期。公司预计本财季营收12.25亿至12.75亿美元，高速光模块作为AI算力基础设施核心互联器件直接受益。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8496a7c59b344552",
+    "source": "企鹅号",
+    "slug": "lumentum-q4-fy2026-revenue-optical-module-ai"
   }
 ]
