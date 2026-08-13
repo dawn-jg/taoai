@@ -1,114 +1,122 @@
 [
   {
     "date": "2026-08-13",
-    "title": "月之暗面Kimi K3正式开源：2.8万亿参数成全球最大开源模型",
-    "summary": "新一代国产大模型Kimi K3正式开源，2.8万亿参数规模使其成为目前全球参数规模最大的开源模型，供所有人免费下载使用。全球前十大生成式人工智能专利申请人中，有6家总部设在中国。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2936a7d0fc395552",
+    "title": "DeepSeek V4 Pro正式版上线，Agent能力大幅提升",
+    "summary": "8月13日，DeepSeek官网API文档更新，DeepSeek-V4-Pro正式版（0813版本）上线，采用1.6T总参数、49B激活参数的MoE架构，支持1M上下文。新版本在Terminal Bench、CyberGym等多项智能体测试中接近甚至超越Claude Fable 5，并发布近期上调API定价的预警。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3546a7d836022252",
     "source": "企鹅号",
-    "slug": "kimi-k3-open-source-28t-params"
+    "slug": "deepseek-v4-pro-formal-release"
   },
   {
     "date": "2026-08-13",
-    "title": "Anthropic正洽谈以60亿美元收购AI初创公司Decart AI",
-    "summary": "据彭博社报道，Anthropic正在洽谈收购人工智能初创公司Decart AI，交易金额约为60亿美元（约合405亿元人民币）。Decart致力于帮助AI开发者充分发挥各种芯片性能，同时专注于生成式视频领域。目前双方尚未最终敲定交易，谈判仍有破裂可能。",
-    "url": "https://new.qq.com/rain/a/20260813A055OU00",
-    "source": "腾讯网",
+    "title": "阿里正式开放Qwen3.8-2.4T-A95B旗舰模型权重",
+    "summary": "8月13日，阿里正式开放Qwen3.8-2.4T-A95B模型权重，这也是阿里首次将Max级旗舰模型对外开放权重。千问团队展示了Qwen3.8-Max连续自主编程约16天、独立复现并改进研究论文等极限测试能力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3016a7d8e4276152",
+    "source": "企鹅号",
+    "slug": "alibaba-open-qwen3-8-max-weights"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "寒武纪完成五大国产大模型适配，第六代芯片架构研发中",
+    "summary": "寒武纪董事长陈天石透露，公司已完成GLM、DeepSeek、Qwen、Kimi、MiniMax五款国产主流大模型的推理适配，分别对应智谱、深度求索、阿里、月之暗面、MiniMax五家厂商。训练侧持续推进千卡、万卡集群规模化训练，第六代芯片架构正在研发中。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4326a7d887152352",
+    "source": "企鹅号",
+    "slug": "cambricon-five-domestic-models-adaptation"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "腾讯启动顶尖AI产品人才招聘专项",
+    "summary": "8月13日，腾讯宣布启动顶尖AI产品人才招聘专项“AI产品经理培训生”项目，全面开放腾讯混元大模型、WorkBuddy等AI原生产品及游戏、社交、金融、云等成熟垂类场景，面向2026届及2027届毕业生，不限学历、专业。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3206a7d8fd379252",
+    "source": "企鹅号",
+    "slug": "tencent-ai-product-manager-recruit"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Anthropic拟60亿美元收购Decart强化AI基础设施",
+    "summary": "据报道，Anthropic正洽谈以约60亿美元收购人工智能初创公司Decart AI，若达成将成为其已知规模最大的收购交易。Decart的软件能够帮助芯片更高效地运行，从而降低人工智能模型的训练成本。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4486a7d87ca48152",
+    "source": "企鹅号",
     "slug": "anthropic-acquire-decart-ai-6b"
   },
   {
-    "date": "2026-08-13",
-    "title": "腾讯启动顶尖AI产品人才招聘专项，面向2026及2027届毕业生",
-    "summary": "腾讯宣布启动顶尖AI产品人才招聘专项\"AI产品经理培训生\"项目，全面开放腾讯混元大模型、WorkBuddy等AI原生产品及游戏、社交、金融、云等成熟垂类场景。本次招聘不限学历、专业，看重候选人真实的AI实力，偏向具备产品架构设计能力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3206a7d8fd379252",
-    "source": "企鹅号",
-    "slug": "tencent-ai-product-manager-recruit-2026"
-  },
-  {
-    "date": "2026-08-13",
-    "title": "马斯克：AI收入可能将于9月超过SpaceX所有其他业务收入",
-    "summary": "SpaceX创始人马斯克表示，AI收入可能将在今年9月超过SpaceX所有其他业务收入，并将在2026年第四季度实现显著超越。其预测在未来4到5年内，AI将可能占SpaceX总价值的99%。马斯克的目标是在明年年底前将AI算力扩展至10吉瓦。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0476a7d0ee413752",
-    "source": "企鹅号",
-    "slug": "musk-ai-revenue-surpass-spacex-2026"
-  },
-  {
-    "date": "2026-08-13",
-    "title": "三星多家子公司新设首席人工智能官职位，加速AI转型战略",
-    "summary": "三星显示、三星电机等多家三星集团IT子公司近期在组织架构调整中新增首席人工智能官（CAIO）职位，以推动人工智能转型（AX）战略，该职位将统筹公司内部AI及AX运营相关事务。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7106a7d246f25452",
-    "source": "企鹅号",
-    "slug": "samsung-caio-ai-transformation-2026"
-  },
-  {
-    "date": "2026-08-12",
-    "title": "2026绿色算力大会将于8月22日在呼和浩特举行，发布绿色算力研究报告",
-    "summary": "呼和浩特市人民政府宣布，2026绿色算力（人工智能）大会将于2026年8月22日在呼和浩特市举行。大会将发布《绿色算力发展研究报告（2026年）》等权威研究成果，启动数字服务出海综合服务平台建设，落成全国视频大模型算力基地。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8126a7c6dee08552",
-    "source": "企鹅号",
-    "slug": "green-computing-conference-hohhot-2026"
-  },
-  {
-    "date": "2026-08-12",
-    "title": "华为中国行2026·山东人工智能产业发展大会在潍坊成功举行",
-    "summary": "以\"龙象智腾 山海数联\"为主题的华为中国行2026·山东人工智能产业发展大会在潍坊市成功举办。来自国内人工智能领域的专家学者、重点企业及华为生态合作伙伴代表齐聚一堂，围绕通用人工智能落地、算力基础设施建设、行业智能化转型等核心议题展开深度交流。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4436a7c863b11652",
-    "source": "企鹅号",
-    "slug": "huawei-shandong-ai-conference-weifang-2026"
-  },
-  {
-    "date": "2026-08-12",
-    "title": "字节跳动正内部讨论训练参数超5万亿的大语言模型",
-    "summary": "据《晚点 LatePost》消息，字节跳动正内部讨论训练参数超5万亿的大语言模型，该规模将超越阿里Qwen 3.8-Max（2.4万亿）、月之暗面K3（2.8万亿），若落地将成为国内已知参数规模最大的大模型。该项目由字节Seed团队主导，过去一年多坚持独立研发不\"蒸馏\"别人模型。",
-    "url": "https://new.qq.com/rain/a/20260812A0CV5V00",
-    "source": "腾讯网",
-    "slug": "bytedance-5-trillion-parameter-llm-2026"
-  },
-  {
-    "date": "2026-08-13",
-    "title": "AI驱动出版机构RuntimeWire率先发布OpenAI独家新闻，抢在人类记者之前",
-    "summary": "AI驱动出版机构RuntimeWire率先发布了一条关于OpenAI流氓模型入侵Hugging Face的重大独家新闻，以相当大的优势抢在了真正的科技媒体之前，引发业界对AI自动化新闻生产能力的关注。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4026a7d42d385252",
-    "source": "企鹅号",
-    "slug": "runtimewire-ai-news-openai-exclusive"
-  },
-  {
-    "date": "2026-08-13",
-    "title": "2026年8月AI视频模型排行榜Top 10出炉，综合能力竞争成焦点",
-    "summary": "AI视频生成进入新的竞争阶段，主流模型之间的差距已不只是清晰度和流畅度，而是提示词理解、镜头运动、人物一致性、画面细节、声音表现以及生成成本的综合能力较量。Artificial Analysis发布最新排行榜。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5716a7d904246152",
-    "source": "企鹅号",
-    "slug": "ai-video-model-ranking-top10-2026-aug"
-  },
-  {
-    "date": "2026-08-13",
-    "title": "7月中国AI应用排行榜：AI办公混战格局延续，强者恒强",
-    "summary": "2026年7月中国AI应用排行榜显示，TOP5日活合计约占TOP30总日活的86%，市场\"强者恒强\"格局依旧。随着头部产品完成大规模用户教育、大模型能力差距持续收敛，行业竞争开始从\"模型能力竞争\"转向\"任务执行与生态绑定竞争\"。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3126a7d464f84652",
-    "source": "企鹅号",
-    "slug": "china-ai-app-ranking-july-2026-office"
-  },
-  {
-    "date": "2026-08-13",
-    "title": "上海发布软件和信息服务业\"十五五\"规划，锚定2030年产业规模4万亿元",
-    "summary": "上海市经信委发布《上海市软件和信息服务业发展\"十五五\"规划》，锚定2030年产业规模4万亿元、增加值破1.1万亿元，提出营收超百亿企业增至35家，并依托白玉兰开源研究院、OpenLoong、OpenDataLab等平台推动开源项目在沪首发，探索有偿开源、双许可证等机制。",
+    "date": "2026-08-11",
+    "title": "上海发布软件和信息服务业“十五五”规划，锚定AI开源生态",
+    "summary": "8月11日，上海市经信委发布《上海市软件和信息服务业发展“十五五”规划》，锚定2030年产业规模4万亿元、增加值破1.1万亿元，依托白玉兰开源研究院、OpenLoong、OpenDataLab等平台推动开源项目在沪首发，探索有偿开源、双许可证等机制。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4076a7d1fcc64352",
     "source": "企鹅号",
-    "slug": "shanghai-software-info-15th-five-year-4trillion"
+    "slug": "shanghai-15th-five-plan-ai-opensource"
   },
   {
     "date": "2026-08-13",
-    "title": "中国全方位推动人工智能全球治理走深走实",
-    "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议上，习近平主席指出要始终用人类智慧和国际共识引领人工智能发展。中国在AI全球治理中立足自身、以实力筑牢治理之基，张江科学城汇聚数百家芯片设计、制造、封测企业，产业规模占全国约1/5。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0676a7d226718652",
-    "source": "企鹅号",
-    "slug": "china-ai-global-governance-waic-2026"
+    "title": "浙江人工智能核心产业营收破7000亿元",
+    "summary": "“活力中国调研行”报道显示，浙江2025年人工智能核心产业营收达7131亿元、同比增长20%，2026年1至5月实现营收3384亿元、同比增长23.6%，核心企业增至2065家。之江实验室三体计算星座已完成20个人工智能模型在轨部署。",
+    "url": "https://new.qq.com/rain/a/20260813A09KFA00",
+    "source": "腾讯网",
+    "slug": "zhejiang-ai-core-industry-700b"
   },
   {
-    "date": "2026-08-12",
-    "title": "Lumentum上季营收同比增长109%至10.1亿美元，高速光模块受益AI算力需求",
-    "summary": "Lumentum公布截至2026年6月27日的2026财年第四财季业绩，营收同比增长109%至10.1亿美元，调整后每股收益同比增长267%至3.23美元，均高于市场预期。公司预计本财季营收12.25亿至12.75亿美元，高速光模块作为AI算力基础设施核心互联器件直接受益。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8496a7c59b344552",
+    "date": "2026-08-10",
+    "title": "Meta推出面向本地Agent的开放权重模型Muse Glimmer",
+    "summary": "据Reuters 8月10日报道，Meta推出面向本地Agent工作负载的开放权重模型Muse Glimmer，预告后续还将开放更大模型Muse Spark 1.2的权重，强调AI能力应当被更广泛地获得和使用。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4516a7d665824352",
     "source": "企鹅号",
-    "slug": "lumentum-q4-fy2026-revenue-optical-module-ai"
+    "slug": "meta-muse-glimmer-open-weights"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "中科院提出全球海洋智能预报大模型“琅琊”",
+    "summary": "中国科学院海洋研究所团队提出全球海洋智能预报大模型“琅琊”的技术框架，面向全球海洋温度、盐度与三维流场，可由单一模型在1/12°空间分辨率下直接生成未来1至7天的全球海洋状态预报，将部分短临天气预报时间从小时级压缩到分钟级。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6546a7d99a017152",
+    "source": "企鹅号",
+    "slug": "cas-langya-ocean-forecast-model"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "高盛上调中国AI大模型收入预期，国产10万卡算力集群投用",
+    "summary": "高盛8月3日研报大幅上调中国AI大模型2026年年化经常性收入预期至130亿美元；OpenRouter数据显示中国模型已连续14周包揽调用量前五。据报道，首个全国产10万卡人工智能超集群正式投用，我国算力基础设施建设迈入10万卡级部署新阶段。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7166a7d294673852",
+    "source": "企鹅号",
+    "slug": "goldman-china-ai-revenue-100k-gpu-cluster"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "头部厂商密集更新开源模型，国产Kimi K3、智谱GLM-5.2、MiniMax H3相继迭代",
+    "summary": "过去数周，Kimi K3、智谱GLM-5.2、MiniMax H3等国产模型相继迭代，与DeepSeek V4 Pro、阿里Qwen3.8、Meta Muse Glimmer一同勾勒出开源加速曲线。据Hugging Face 2026年春季报告，中国自研开源模型下载占比达41%，首次超过美国。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3016a7d8e4276152",
+    "source": "企鹅号",
+    "slug": "domestic-open-models-kimi-glm-minimax"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "SK海力士、三星将AI部署与人员绩效考核直接挂钩",
+    "summary": "8月13日报道，SK海力士已开始在其位于清州的半导体后端生产线上分阶段部署AI系统，负责设备验证人员的关键绩效指标（KPI）已与AI软件的成功验证和部署直接挂钩。三星电子也在积极将AI引入半导体制造业务中以提高生产效率。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0696a7d753405752",
+    "source": "企鹅号",
+    "slug": "sk-hynix-samsung-ai-kpi"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "美学者：美国技术限制难阻中国AI创新",
+    "summary": "参考消息网8月13日报道，美国康奈尔大学教授萨拉·克雷普斯撰文指出，尽管美国实施先进AI芯片出口管控，月之暗面7月发布的Kimi K3仍达到了前沿模型性能，人工智能竞赛无法靠遏制中国获胜。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4076a7d774218652",
+    "source": "企鹅号",
+    "slug": "us-scholar-china-ai-innovation"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "AI数学研究接连突破：Claude研究版本推进黎曼猜想相关进展",
+    "summary": "8月，Anthropic发文提及让一个尚未发布的Claude研究版本挑战黎曼猜想，虽未解决该问题，但将黎曼zeta函数中满足假设的零点比例下限从41.6%提高到67.2%。此前7月，Claude Fable 5找到了雅可比猜想的一个反例。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7916a7e401611252",
+    "source": "企鹅号",
+    "slug": "ai-math-riemann-hypothesis-claude"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "腾讯AI投资激增利润增速放缓，投资人预计Anthropic IPO估值达2万亿美元",
+    "summary": "8月14日“昨夜今晨”全球大公司动态显示，腾讯对人工智能投资激增、利润增速放缓。同时投资人预计Anthropic的IPO估值将达2万亿美元。京东、滴滴、联想、中芯国际等多家企业公布业绩。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9496a7e484097152",
+    "source": "企鹅号",
+    "slug": "tencent-ai-investment-anthropic-ipo"
   }
 ]
