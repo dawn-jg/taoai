@@ -1,122 +1,122 @@
 [
   {
+    "date": "2026-08-14",
+    "title": "DeepSeek-V4-Pro 正式版发布：Agent 能力大幅提升，支持 Responses API",
+    "summary": "8月13日，DeepSeek 正式上线 DeepSeek-V4-Pro 正式版，同步在 APP、网页端和 API 全面更新上线。新版本增强 Agent 能力，支持 Responses API 和 Codex 接入，综合实力迈入全球第一梯队。受消息提振，港股通信技术、云计算ETF午后走强。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9266a7e213477752",
+    "source": "企鹅号",
+    "slug": "deepseek-v4-pro-official-release"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "DeepSeek 发布首个 Agent 产品 Harness：开源 12 小时 GitHub 获 5 万星",
+    "summary": "8月13日晚，DeepSeek 正式发布首款智能体产品 DeepSeek Harness 并开启开发者预览版公测，同时以 MIT 协议开源。Harness 采用“一切皆插件”的插件式开放架构。截至发稿，GitHub 仓库已获超 5 万个 star，开发者评价其堪称“Agent 界的 Android”。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5896a7e98a089952",
+    "source": "企鹅号",
+    "slug": "deepseek-harness-github-stars"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "DeepSeek API 调价公告：8月17日起实施峰谷定价，空闲时段半价",
+    "summary": "DeepSeek 官方发布 API 调价通知，采用峰谷定价机制，空闲时段价格为高峰时段的一半。高峰时段为北京时间 9:00-12:00、14:00-18:00，其余时间为空闲时段。新价格将于北京时间 2026 年 8 月 17 日起正式执行。",
+    "url": "https://kuaixun.eastmoney.com/qqgs.html",
+    "source": "东方财富网",
+    "slug": "deepseek-api-peak-valley-pricing"
+  },
+  {
     "date": "2026-08-13",
-    "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅提升",
-    "summary": "8月13日，DeepSeek 官网 API 文档更新，DeepSeek-V4-Pro 正式版上线，新版本 Agent 能力在 Terminal Bench、CyberGym 等多项测试中接近甚至超越 Claude Fable 5，并发布近期上调 API 定价的提价预警。受消息刺激，港股通信息技术、云计算等 ETF 逆势走强。",
-    "url": "https://new.qq.com/rain/a/20260813A09KFA00",
+    "title": "荣耀发布全球首款机器人手机 Robot Phone：9999元起，预订超40万台",
+    "summary": "8月12日，荣耀在广州举办全球新品发布会，正式推出全球首款机器人手机 Robot Phone，售价 9999 元起。该机搭载 Agentic OS 新一代伙伴型多模态智能操作系统，配备四自由度钛合金灵巧云台。电商全平台一分钟现货售罄，预订已突破 40 万台。",
+    "url": "https://new.qq.com/rain/a/20260813A0EN9700",
     "source": "腾讯网",
-    "slug": "deepseek-v4-pro-formal-release"
+    "slug": "honor-robot-phone-global-launch"
   },
   {
     "date": "2026-08-14",
-    "title": "DeepSeek 官宣 API 正式提价：8月16日起分时段收费",
-    "summary": "以极致性价比与架构创新闻名的国产大模型团队 DeepSeek 官方发布 API 服务价格调整与计费规则更新通知，自8月16日起，旗舰模型 API 将结束前期带补贴性质的极低定价，实施分时段阶梯计费与价格上调。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8726a7e3f6477752",
+    "title": "OpenAI 年化营收突破 400 亿美元：较2025年底翻番，IPO 前强劲增长",
+    "summary": "据彭博社等外媒报道，OpenAI 当前年化营收已超过 400 亿美元，较 2025 年底的约 200 亿美元翻了一番。公司联合创始人兼总裁 Greg Brockman 表示，7 月年化营收环比增长超 20%，AI 编程工具 Codex 和通用助手 ChatGPT Work 需求明显上升。OpenAI 已秘密提交上市文件，正与 Anthropic 激烈竞争企业客户。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5736a7e535f98052",
     "source": "企鹅号",
-    "slug": "deepseek-api-price-hike"
+    "slug": "openai-annual-revenue-400b"
   },
   {
     "date": "2026-08-14",
-    "title": "阿里开源超大规模 MoE 模型 Qwen3.8-2.4T-A95B 上线超算互联网",
-    "summary": "阿里最新开源超大规模 MoE 模型 Qwen3.8-2.4T-A95B 上线超算互联网，依托核心节点部署的万卡超集群，企业与开发者可在 AI 社区直接使用基于众智 FlagOS 统一软件栈和国产异构加速卡适配的模型镜像，快速部署业务场景 AI 应用。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1146a7e67e154952",
-    "source": "企鹅号",
-    "slug": "alibaba-qwen3-8-supercomputing"
-  },
-  {
-    "date": "2026-08-13",
-    "title": "上海人工智能产业上半年增速达 21.8%",
-    "summary": "2026年7月上海人工智能产业延续强劲增长，上半年制造业产值增速达21.8%。7月世界人工智能大会（WAIC 2026）在沪举办，300余款新品首发、32个重点项目签约409亿元；市委全会通过建设 AI 发展和治理创新高地意见，配套10亿元算力/模型/语料券及“AI+制造”最高4000万元补贴等政策。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3066a7dbb2419652",
-    "source": "企鹅号",
-    "slug": "shanghai-ai-industry-growth"
-  },
-  {
-    "date": "2026-08-13",
-    "title": "腾讯启动顶尖 AI 产品人才招聘专项",
-    "summary": "8月13日，腾讯宣布启动顶尖 AI 产品人才招聘专项“AI 产品经理培训生”项目，全面开放腾讯混元大模型、WorkBuddy 等 AI 原生产品及游戏、社交、金融、云等成熟垂类场景，面向2026届及2027届毕业生，不限学历、专业，看重候选人真实 AI 实力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3206a7d8fd379252",
-    "source": "企鹅号",
-    "slug": "tencent-ai-recruit"
-  },
-  {
-    "date": "2026-08-14",
-    "title": "中芯国际二季度营收环比增长 20%，AI 需求带动制造扩张",
-    "summary": "中芯国际公告显示，二季度整体实现销售收入30亿美元，环比增长20%；毛利率25.3%，环比增加5.2个百分点。三季度收入预计环比增长2%至4%，毛利率指引26%至28%。公司认为人工智能产生的产业推动与溢出效应将持续，为集成电路制造带来广泛需求。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5406a7e6dc931952",
-    "source": "企鹅号",
-    "slug": "smic-q2-revenue"
-  },
-  {
-    "date": "2026-08-14",
-    "title": "Anthropic 或将于10月上市，估值或达 2 万亿美元",
-    "summary": "据央视财经援引《金融时报》报道，多位 Anthropic 投资者透露，该公司预计将在10月以 2 万亿美元甚至更高估值上市，若成真将超越 SpaceX 成为史上规模最大的 IPO。据悉 Anthropic 已于6月向美国 SEC 秘密提交 IPO 相关文件，进入静默期。",
+    "title": "Anthropic 或于10月上市：估值或达2万亿美元，史上最大 IPO 可能易主",
+    "summary": "据英国《金融时报》援引多位 Anthropic 投资者透露，Anthropic 预计最快于 10 月以 2 万亿美元甚至更高的估值上市，若预测准确将超越 SpaceX 成为史上规模最大的 IPO。Anthropic 已于 6 月向美国 SEC 秘密提交 IPO 相关文件并进入静默期，今年5月年化营收已突破 470 亿美元。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2146a7e5fcb31852",
     "source": "企鹅号",
-    "slug": "anthropic-ipo-october"
+    "slug": "anthropic-ipo-october-2-trillion"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "OpenAI 与 Anthropic 联手推出 cost-per-task 指标：从 token 成本转向任务成本",
+    "summary": "在 AI 模型价格战白热化之际，OpenAI 与 Anthropic 相继发声，联手推动行业从“每 token 成本”转向“每任务成本（cost-per-task）”作为衡量模型价值的新底层标尺，试图在企业客户面前为高溢价模型重建价值坐标系。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8186a7ed94264852",
+    "source": "企鹅号",
+    "slug": "openai-anthropic-cost-per-task"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "IBM 与 OpenAI 达成企业 AI 战略合作：共同拓展全球咨询业务",
+    "summary": "IBM 宣布与 OpenAI 建立战略合作伙伴关系，将 OpenAI 最新模型（包括 GPT-5.6、Codex 及 ChatGPT Work）集成至 IBM Consulting Advantage 平台，面向金融服务、政府、电信、零售等行业共同开发垂直领域解决方案。距 IBM 宣布与 Anthropic 结盟尚不到一年。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8556a7eb06551452",
+    "source": "企鹅号",
+    "slug": "ibm-openai-enterprise-ai-partnership"
   },
   {
     "date": "2026-08-13",
-    "title": "国产大模型与具身智能密集突破，面壁智能启动 A 股 IPO",
-    "summary": "今日 AI 圈核心主线：国产大模型集中爆发，DeepSeek V4 Pro 正式转正、阿里开源 2.4 万亿参数旗舰、面壁智能启动 A 股 IPO；具身智能赛道持续刷新纪录，Dyna Robotics、自变量机器人接连发布高性能成果，荣耀推出全球首款机器人手机开启终端新形态。",
+    "title": "面壁智能启动 A 股 IPO 辅导：国产大模型资本化进程加速",
+    "summary": "国产大模型迎来技术与资本化双线推进，面壁智能已启动 A 股 IPO 辅导。此外，阿里开源 2.4 万亿参数旗舰模型，DeepSeek V4 Pro 正式转正，具身智能赛道持续刷新纪录，Dyna Robotics、自变量机器人接连发布高性能成果。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1536a7dda4f90052",
     "source": "企鹅号",
     "slug": "modelbest-a-share-ipo"
   },
   {
     "date": "2026-08-13",
-    "title": "世界银行报告：人工智能为发展中经济体提供“生命线”",
-    "summary": "世界银行集团8月13日发布《2026年世界发展报告》，指出 AI 有望让发展中国家在十年内成就原本需上百年的功业，但高收入国家岗位受生成式 AI 自动化影响风险概率是中低收入国家的三倍以上。报告提出“采纳—本地化适配—走向前沿开发”三步走路径。",
-    "url": "https://new.qq.com/rain/a/20260813A09KFA00",
-    "source": "腾讯网",
-    "slug": "world-bank-ai-report"
-  },
-  {
-    "date": "2026-08-13",
-    "title": "阿里云灵骏真武 M890 超节点实例上线，首批在乌兰察布开服",
-    "summary": "8月13日 AI 新产品讯息：阿里云灵骏真武 M890 超节点实例上线，首批在乌兰察布开服；同期 Anthropic 将在 AI 生成文本中嵌入隐形水印，SpaceXAI 推出“全天候数字同事”Grok Bot。",
-    "url": "https://www.iimedia.cn/c1088",
-    "source": "艾媒网",
-    "slug": "aliyun-lingjun-m890"
-  },
-  {
-    "date": "2026-08-13",
-    "title": "安信数通将首次亮相 2026 数博会，展现 AI 可信数据空间能力",
-    "summary": "2026 数博会将于8月28日至30日在贵阳举办，以“词元——数据要素价值释放新路径”为主题。安信数通将携全套 AI 可信数据空间产品矩阵与全新首发陆吾启元产业模型集中展出，呈现以可信空间为底座、高质量数据集为支撑、产业 AI 智能体为应用的完整技术体系。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3946a7d9b3542352",
+    "title": "上海人工智能产业上半年增速达21.8%：WAIC 2026签约409亿元",
+    "summary": "2026年7月，上海人工智能产业延续强劲增长态势，上半年制造业产值增速达 21.8%。2026 世界人工智能大会（WAIC 2026）在沪举办，300余款新品首发、32个重点项目签约 409 亿元。市委全会通过建设 AI 发展和治理创新高地意见，配套 10 亿元算力/模型/语料券及“AI+制造”最高 4000 万元补贴。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3066a7dbb2419652",
     "source": "企鹅号",
-    "slug": "anxin-shutong-data-expo"
+    "slug": "shanghai-ai-industry-h1-growth"
   },
   {
-    "date": "2026-08-13",
-    "title": "零数科技将携面向 AI 的全栈数据流通利用服务体系参展 2026 数博会",
-    "summary": "作为国内领先的数据流通利用服务商，零数科技将参展 2026 数博会，展示面向 AI 的全栈数据流通利用服务能力，带来一站式 AI 数据与智能平台“零数数智工场”，打通从原始数据到高质量数据集到垂类模型训推到智能体应用的全链路 AI 工程体系。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1836a7d9b6945152",
+    "date": "2026-08-14",
+    "title": "字节跳动被曝新设 AI 数据与安全一级部门，微信 AI 智能体小微灰度测试",
+    "summary": "据 AI 智能体周报，字节跳动被曝新设“AI 数据与安全”一级部门；微信 AI 智能体“小微”正在灰度测试中。此外，DeepSeek 正在招募 IDC 数据中心团队；林俊旸成立智能体新公司；Manus 宣布恢复独立运营。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9446a7ec14907752",
     "source": "企鹅号",
-    "slug": "lingshu-tech-data-expo"
+    "slug": "bytedance-ai-wechat-agent-updates"
   },
   {
-    "date": "2026-08-13",
-    "title": "DeepSeek 与 Grok 4.6 同日上新，中美大模型价差正在收窄",
-    "summary": "8月12日，DeepSeek 与马斯克旗下 SpaceXAI 同日发布新模型 DeepSeek-V4-Pro 和 Grok 4.6，新一轮大模型竞争升温。从最新评测看，两款模型均进一步逼近全球头部水平，其中 DeepSeek-V4-Pro 在多项智能体相关测试中超过 Claude Opus 4.8。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9276a7dc3f442052",
+    "date": "2026-08-14",
+    "title": "国产大模型调用量全球居首：开源模型下载量破100亿次，钽价半年飙升158%",
+    "summary": "当前我国开源人工智能模型全球累计下载量突破 100 亿次，国产大模型周调用量连续十五周位居全球第一。AI 算力需求激增拉动相关金属价格上涨，钽价半年内飙升 158%。青岛市人工智能产业园可调度算力规模突破 3.3 万 P，正加速打造一体化算力枢纽。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6276a7e96a291052",
     "source": "企鹅号",
-    "slug": "deepseek-grok-same-day"
+    "slug": "china-open-source-ai-global-lead"
   },
   {
-    "date": "2026-08-13",
-    "title": "浙产大模型密集发布，或改变全球 AI 竞争格局",
-    "summary": "8月13日凌晨，杭州深度求索（DeepSeek）发布 DeepSeek V4 Pro 正式版，多项指标接近国外顶尖闭源模型；十天前另一家浙江公司阿里巴巴发布旗舰模型 Qwen3.8-Max，首次亮相即进入权威评测平台 Arena 综合榜 Top5。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1456a7db5a645952",
+    "date": "2026-08-14",
+    "title": "OpenAI 推出 GPT-5.6 Ultrafast 模式：速度提升14倍，每秒输出750个词元",
+    "summary": "OpenAI 今日发布公告，针对最强 AI 模型 GPT-5.6 Sol 推出 Ultrafast（超高速）模式预览，速度为标准处理速度的 14 倍，最高每秒输出 750 个词元。该模式由 Cerebras 提供支撑，目标是在用户工作流中进一步提高模型响应速度，让速度与能力兼得。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4606a7e611403452",
     "source": "企鹅号",
-    "slug": "zhejiang-models-global"
+    "slug": "openai-gpt-5-6-ultrafast"
   },
   {
-    "date": "2026-08-13",
-    "title": "2026年8月 AI 视频模型排行榜出炉，最新 Top 10 发布",
-    "summary": "AI 视频生成进入新竞争阶段，主流模型差距已不止清晰度与流畅度，而是综合能力较量：提示词理解、镜头运动、人物一致性、画面细节、声音表现及生成成本都开始影响模型实际价值。榜单参考 Artificial Analysis 等评测数据。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5716a7d904246152",
+    "date": "2026-08-14",
+    "title": "Manus 宣布恢复独立运营，AI 智能体赛道竞争持续升温",
+    "summary": "据 AI 智能体周报，Manus 正式宣布恢复独立运营。此前 Manus 曾经历战略调整，此次独立运营标志着其作为 AI 智能体平台重新进入独立发展轨道，AI 智能体赛道竞争持续升温。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9446a7ec14907752",
     "source": "企鹅号",
-    "slug": "ai-video-model-ranking"
+    "slug": "manus-independent-operation"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "OpenAI 年化营收突破400亿美元 vs Anthropic 470亿美元：AI 巨头 IPO 争夺战开启",
+    "summary": "AI 行业迎来 IPO 密集期：OpenAI 当前年化营收超 400 亿美元（较去年翻番），Anthropic 年化营收突破 470 亿美元，两家公司均已秘密提交上市文件，预计最早于今秋进行 IPO。谷歌联合创始人谢尔盖·布林则敦促核心 AI 员工全力投入 Gemini 研发，推动 RSI（递归自我改进）技术方向。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7786a7e80a275552",
+    "source": "企鹅号",
+    "slug": "ai-giants-ipo-race-openai-anthropic"
   }
 ]
