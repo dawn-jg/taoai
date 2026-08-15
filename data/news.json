@@ -1,11 +1,19 @@
 [
   {
     "date": "2026-08-15",
-    "title": "AI有望成为发展中国家的“追赶加速器”(环球热点)",
-    "summary": "世界银行发布2026年世界发展报告《人工智能:发展新机遇》,指出AI有望为发展中国家带来新机遇,但电力供应、数字网络、技能水平和制度能力等差距也可能影响AI红利的释放。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9446a7f923316152",
+    "title": "AI早报:OpenAI上市前年化营收有望突破400亿美元,谷歌推出Gemini 3.7 Flash模型",
+    "summary": "据报道,OpenAI有望实现超400亿美元年化营收,较2025年末近乎翻番,为登陆华尔街提供支撑;另据消息,谷歌推出Gemini 3.7 Flash模型。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5756a7fbbd752952",
     "source": "企鹅号",
-    "slug": "ai-accelerator-developing-countries"
+    "slug": "ai-morning-openai-400b-gemini-37-flash"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "美国AI巨头Anthropic单季营收115亿美元,同比暴涨14倍,估值或达2万亿美元",
+    "summary": "据业内文件,Claude开发商Anthropic第二季度初步营收超115亿美元,同比约14倍增长(去年同期7.87亿、今年一季度47.3亿),预计10月上市,估值或达2万亿美元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7666a7fe06c93352",
+    "source": "企鹅号",
+    "slug": "anthropic-q2-115b-revenue-ipo"
   },
   {
     "date": "2026-08-15",
@@ -16,9 +24,81 @@
     "slug": "fields-medalists-ai-math"
   },
   {
+    "date": "2026-08-15",
+    "title": "利红AI快报:首个全国产10万卡人工智能超集群正式投用",
+    "summary": "快报称,首个全国产10万卡人工智能超集群正式投用;2025年我国人工智能产业规模超1.2万亿元,同比增长40%;截至2026年6月AI企业数量超6600家,全球占比达15%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9786a7fccc250852",
+    "source": "企鹅号",
+    "slug": "lihong-ai-brief-100k-cluster"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "DeepSeek上调AI模型使用费,三星上半年研发投入创新高",
+    "summary": "昨夜今晨大公司动态:DeepSeek上调AI模型使用费;上半年三星电子研发投入创新高。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4106a7f9f0057052",
+    "source": "企鹅号",
+    "slug": "deepseek-raise-api-fee-samsung-rd"
+  },
+  {
     "date": "2026-08-14",
-    "title": "AI智能体周报:林俊旸成立智能体新公司;面壁智能启动IPO辅导",
-    "summary": "本周AI智能体动态:字节被曝设AI数据与安全一级部门;微信AI智能体“小微”灰度测试;南威软件被立案;DeepSeek招募IDC数据中心团队;面壁智能启动IPO辅导;林俊旸成立智能体新公司;Manus宣布恢复独立运营。",
+    "title": "2026科学智能大会将于8月21日至22日在北京举办",
+    "summary": "作为中关村论坛系列活动,2026科学智能大会将于8月21日至22日在北京举办,聚焦推进人工智能赋能科学研究。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5946a7f14d015252",
+    "source": "企鹅号",
+    "slug": "2026-science-intelligence-conference"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "2026成都市人工智能与机器人创新应用大赛8月主题活动启幕",
+    "summary": "8月14日,“智旅凉夏·AI漫游”主题活动在天府国际动漫城启幕,组织10余款人形机器人、机器狗、配送机器人、全息舱数字人等“成都造”创新产品走进真实文旅场景验证。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5906a7ee98471452",
+    "source": "企鹅号",
+    "slug": "chengdu-ai-robot-contest-aug"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "2026年8月AI行业三大变化:搜索算法迭代、Agent安全危机、调用成本大跌",
+    "summary": "业内分析称8月AI行业迎三大剧变:国内多款AI搜索引擎完成算法迭代、结构化数据权重提升;海外头部AI企业曝出Agent失控风险、欧盟AI监管条款落地;大模型调用成本大幅下调。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8096a7ee28100252",
+    "source": "企鹅号",
+    "slug": "ai-industry-three-changes-aug2026"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "2026年8月AI搜索算法大更新:未做GEO优化的企业面临流量风险",
+    "summary": "报道称Kimi、文心一言、ChatGPT中文版、豆包、DeepSeek五大主流AI搜索引擎完成算法大更新,大幅提升结构化数据权重,弱化传统关键词堆砌排名机制,GEO成流量刚需。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9426a7ee2ff71652",
+    "source": "企鹅号",
+    "slug": "ai-search-algo-update-geo-aug2026"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "超600个项目申报,2026徐汇人工智能青年创业基金AI创业营开营",
+    "summary": "8月13日,以“青创未来·乘风筑梦”为主题的2026徐汇人工智能青年创业基金(青苗基金)AI创业营在徐汇滨江启幕,50余支优质AI创业团队围绕技术落地、融资、场景对接展开交流。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3076a7efb6d29552",
+    "source": "企鹅号",
+    "slug": "xuhui-ai-youth-fund-bootcamp"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "马斯克加码AI竞赛,SpaceX完成对Cursor的600亿美元收购",
+    "summary": "据财联社,SpaceX已完成对AI编程初创公司Cursor的600亿美元收购,交易于8月14日正式生效,是马斯克缩小与OpenAI等竞争对手差距的重要一步。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2376a7f1bcb63652",
+    "source": "企鹅号/财联社",
+    "slug": "spacex-acquires-cursor-60b"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "2026年8月大模型营销风口:微盟星启帮企业抢AI搜索流量",
+    "summary": "报道围绕GEO(生成式引擎优化)概念,讨论企业如何在大模型时代通过AI搜索流量获取客户,微盟星启推出相关服务。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6446a7eb31e10252",
+    "source": "企鹅号",
+    "slug": "weimob-geo-ai-search-marketing"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "AI智能体周报:林俊旸成立智能体新公司,面壁智能启动IPO辅导",
+    "summary": "本周动态:字节被曝设AI数据与安全一级部门;微信AI智能体“小微”灰度测试;DeepSeek招募IDC数据中心团队;面壁智能启动IPO辅导;林俊旸成立智能体新公司;Manus宣布恢复独立运营。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9446a7ec14907752",
     "source": "企鹅号",
     "slug": "ai-agent-weekly-20260814"
@@ -26,18 +106,10 @@
   {
     "date": "2026-08-14",
     "title": "广州加速推动AI智能体、数据治理等新应用落地",
-    "summary": "8月13日,“千模智赋百业”2026年人工智能与数据治理暨“广货行天下”软件服务对接活动在广州举办,汇聚百余家企业代表,共探人工智能与数据治理深度融合新路径。",
+    "summary": "8月13日,“千模智赋百业”2026年人工智能与数据治理暨“广货行天下”软件服务对接活动在广州举办,汇聚百余家企业代表,共探AI与数据治理深度融合路径。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8156a7ed05e68352",
     "source": "企鹅号",
     "slug": "guangzhou-ai-agent-data-governance"
-  },
-  {
-    "date": "2026-08-14",
-    "title": "【中国制造新观察】开源改写人工智能竞争规则",
-    "summary": "MiniMax开源H3模型三天内在Hugging Face热度榜冲到第一;月之暗面宣布将旗舰大模型Kimi K3全量开源,为目前全球参数规模最大的开源大模型;我国开源模型累计下载量居全球首位。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0456a7e4d4d94452",
-    "source": "企鹅号",
-    "slug": "open-source-reshapes-ai-rules"
   },
   {
     "date": "2026-08-14",
@@ -46,69 +118,5 @@
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9476a7ea78952752",
     "source": "企鹅号/南华早报",
     "slug": "china-open-source-europe-choice"
-  },
-  {
-    "date": "2026-08-14",
-    "title": "Meta发布新一代开放权重AI模型",
-    "summary": "Meta发布最新AI模型系列Muse Glimmer,一组可在笔记本电脑上运行的开源模型;扎克伯格发表6500字长文为美国开源AI路线辩护,称强大AI不应由少数公司垄断。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4236a7ecf9f43752",
-    "source": "企鹅号",
-    "slug": "meta-muse-glimmer-open-weight"
-  },
-  {
-    "date": "2026-08-14",
-    "title": "智谱发布GLM-5.3且开源权重,国产大模型进入综合比拼阶段",
-    "summary": "智谱正式发布GLM-5.3,编程能力较上一代提升50%,在多项公开基准测试中位列开源模型第一;将在发布两周后开放模型权重。国产大模型近期密集迭代,行业进入综合比拼阶段。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8346a7ec0ca84752",
-    "source": "企鹅号",
-    "slug": "zhipu-glm-5-3-open-weight"
-  },
-  {
-    "date": "2026-08-14",
-    "title": "苹果在华押注“双轨AI战略”:一边接入阿里千问,一边打造本土大模型",
-    "summary": "据路透社报道,苹果首次被曝针对中国市场训练专属大语言模型,并在阿里巴巴支持下推进开发,意味着其正从依赖第三方模型调整为自研叠加本土合作伙伴的双线模式。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0656a7ec66344752",
-    "source": "企鹅号/路透社",
-    "slug": "apple-china-dual-track-ai"
-  },
-  {
-    "date": "2026-08-14",
-    "title": "高性价比中国大模型兵临城下 美头部AI实验室大幅降价应对",
-    "summary": "OpenAI、Anthropic等美国头部AI实验室自7月下旬以来大幅降价以留住客户,而月之暗面(Kimi)、深度求索(DeepSeek)等中国企业正从硅谷到欧洲不断获取新客户。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3266a7ec7ef06552",
-    "source": "企鹅号/财联社",
-    "slug": "china-models-us-price-cut"
-  },
-  {
-    "date": "2026-08-14",
-    "title": "DeepSeek推出V4 Pro正式版,12支概念股集体涨停",
-    "summary": "8月12日晚DeepSeek更新API文档,V4-Pro升级为V4-Pro-0813,增强Agent能力并支持Responses API和Codex接入;模型智能体性能接近海外前沿模型Claude Opus 4.8。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3426a7e86bb05852",
-    "source": "企鹅号",
-    "slug": "deepseek-v4-pro-formal"
-  },
-  {
-    "date": "2026-08-14",
-    "title": "DeepSeek涨价:AI告别“白菜价”的成人礼",
-    "summary": "DeepSeek-V4-Pro正式版上线,自8月17日零时起全面上调API价格并首次引入峰谷定价;旗舰模型高峰时段每百万token输出价格从6元升至27元,涨幅350%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8136a7edef768952",
-    "source": "企鹅号",
-    "slug": "deepseek-price-hike"
-  },
-  {
-    "date": "2026-08-14",
-    "title": "AI攻入加密安全腹地,中国开源模型“救火”比特币社区",
-    "summary": "AI大模型正重塑加密安全攻防,攻击门槛骤降;国产开源模型成安全审计利器,30小时扫出85项严重漏洞,业界呼吁AI实验室开放前沿模型访问以缩小攻防差距。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9416a7ec50f58452",
-    "source": "企鹅号",
-    "slug": "ai-crypto-security-open-model"
-  },
-  {
-    "date": "2026-08-14",
-    "title": "大模型双雄齐涨:智谱、MINIMAX-W均涨逾6%,中国AI正“走出”价格战",
-    "summary": "8月12日港股大模型双雄智谱、MINIMAX-W涨逾6%;摩根士丹利研报称中国大模型行业从价格竞争转向智能竞争,DeepSeek上调API价格,Kimi K3和Qwen3.8-Max进入大参数时代。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8586a7e937232352",
-    "source": "企鹅号",
-    "slug": "zhipu-minimax-stock-rise"
   }
 ]
