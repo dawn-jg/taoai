@@ -1,122 +1,122 @@
 [
   {
     "date": "2026-08-15",
-    "title": "视频丨AI真能取代数学家?菲尔兹奖得主集体“辟谣”",
-    "summary": "2026国际基础科学大会上,菲尔兹奖得主集体回应:AI可攻克百年难题,却无法感受数学之美;可高速运算,却不能在不确定中创造。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4806a7ee2ea88052",
-    "source": "企鹅号/央视新闻",
-    "slug": "fields-medalists-ai-math"
+    "title": "又一国产AI大模型宣布开源:阿里千问发布Qwen3.8-27B",
+    "summary": "据央广网报道,8月14日晚阿里千问大模型团队宣布Qwen3.8-27B模型正式开源,这款270亿参数的模型可在高端手机和消费级显卡上流畅运行;前一天DeepSeek V4 Pro正式版上线并同步开源,国产大模型掀起开源潮。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5886a80202668852",
+    "source": "企鹅号/央广网",
+    "slug": "qwen38-27b-open-source"
   },
   {
     "date": "2026-08-15",
-    "title": "苹果联合阿里自研中国专属大模型,Apple Intelligence数月内或将入华",
-    "summary": "据路透社援引知情人士消息,苹果专门针对中国市场训练了一款专属大语言模型,由阿里巴巴提供训练支持,打破此前在华依赖第三方模型的策略;Apple Intelligence预计数月内随iOS更新登陆中国。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6246a80135d12852",
-    "source": "企鹅号/路透社",
-    "slug": "apple-alibaba-china-llm"
+    "title": "OpenAI与Anthropic掀起价格战,中国AI竞争对手强势崛起",
+    "summary": "以OpenAI和Anthropic为代表的美国顶尖AI实验室纷纷推出更低价格模型,以留住因成本压力转向中国竞争对手廉价替代品的用户;Moonshot、DeepSeek等中国开发商借此在硅谷乃至欧洲市场持续扩张。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6066a803add31952",
+    "source": "企鹅号",
+    "slug": "openai-anthropic-price-war"
+  },
+  {
+    "date": "2026-08-16",
+    "title": "Science重磅:美国科学家用AI制造出16种全新病毒",
+    "summary": "斯坦福大学与美国弧线研究所(Arc Institute)团队利用基因组语言模型Evo从头设计出完整病毒基因组,并在实验室获得16种能够复制、感染细菌的全新病毒,论文8月6日发表于《科学》杂志,被认为是从设计蛋白质迈向设计完整生命系统的重要进展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2046a80de6892552",
+    "source": "企鹅号/新华社",
+    "slug": "ai-designed-16-viruses"
   },
   {
     "date": "2026-08-15",
-    "title": "AI早报:OpenAI年化营收有望破400亿美元,谷歌推出Gemini 3.7 Flash,智谱发布GLM-5.3",
-    "summary": "OpenAI上市前年化营收有望突破400亿美元,较2025年末近乎翻番;谷歌发布Gemini 3.7 Flash,编程任务表现优于上代;智谱发布GLM-5.3,上线编程工具ZCode与效率工具AutoClaw,权重两周内开源。",
+    "title": "AI早报:OpenAI上市前年化营收有望突破400亿美元",
+    "summary": "据报道,根据当前业务表现OpenAI有望实现超过400亿美元的年化营收,较2025年末近乎翻番,为其登陆华尔街的计划提供支撑;营收增速加快主要得益于AI代码软件业务增长、订阅业务扩张及起步阶段的广告业务。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5756a7fbbd752952",
     "source": "企鹅号",
-    "slug": "openai-400b-gemini-37-glm53"
+    "slug": "openai-annualized-revenue-40b"
   },
   {
-    "date": "2026-08-15",
-    "title": "企业级AI加速落地为实体经济发展注入新动能",
-    "summary": "人民网报道,企业级AI正成为重构业务流程、提升核心竞争力的关键支撑;金蝶国际2026年中期业绩显示,AI原生产品收入同比增长189%,订阅收入增速接近300%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6846a801ad773452",
-    "source": "人民网/企鹅号",
-    "slug": "enterprise-ai-accelerate"
-  },
-  {
-    "date": "2026-08-15",
-    "title": "利红AI快报:首个全国产10万卡人工智能超集群正式投用",
-    "summary": "首个全国产10万卡人工智能超集群正式投用;2025年我国人工智能产业规模超1.2万亿元,同比增长40%;截至2026年6月AI企业数量超6600家,全球占比达15%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9786a7fccc250852",
+    "date": "2026-08-16",
+    "title": "AI热潮正变成巨大的循环资金机器:英伟达拟募资5000亿美元建AI基础设施",
+    "summary": "英伟达正帮助从阿波罗、贝莱德、黑石、布鲁克菲尔德、高盛和KKR等巨头处募集高达5000亿美元资金,用于资助AI基础设施建设。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9816a80ae6859952",
     "source": "企鹅号",
-    "slug": "national-100k-gpu-cluster"
-  },
-  {
-    "date": "2026-08-14",
-    "title": "马斯克加码AI竞赛:SpaceX完成对Cursor的600亿美元收购",
-    "summary": "据财联社,SpaceX已完成对AI编程初创公司Cursor的600亿美元收购,交易于8月14日正式生效,是有史以来规模最大的科技行业收购之一,旨在缩小与OpenAI等对手的差距。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2376a7f1bcb63652",
-    "source": "企鹅号/财联社",
-    "slug": "spacex-cursor-acquisition"
+    "slug": "nvidia-500b-ai-infra"
   },
   {
     "date": "2026-08-15",
-    "title": "AI-CMM首批企业人工智能应用能力评估试点单位征集启动",
-    "summary": "2026年8月15日,《企业人工智能应用能力成熟度模型与评估》(T/ZGCMCA 028-2025)团体标准正式实施,北京新场景科技评估中心面向全国启动AI-CMM首批评估试点单位征集。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8786a80355e85352",
+    "title": "苹果国行AI将采用全新特有模型:与阿里千问共同研发",
+    "summary": "据海外媒体消息,苹果中国地区的AI智能模型不只是单纯引入阿里千问,而是苹果与千问共同研发一套专属于苹果中国的独特模型,允许千问AI以简化版形式在本地运行。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7266a80047351652",
     "source": "企鹅号",
-    "slug": "ai-cmm-pilot"
+    "slug": "apple-china-ai-qwen"
   },
   {
     "date": "2026-08-15",
-    "title": "人工智能产业日报:AI模型突破隔离环境引发安全治理担忧",
-    "summary": "美国人工智能头部企业AI模型在网络安全测试中突破隔离环境、入侵外部机构系统,引发国际社会对AI安全治理的担忧;专家指出AI自主行动能力提升,原有安全治理体系滞后,需加强全球协作。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3356a7fe4ce69252",
+    "title": "监管推动银行开发AI贷产品,机构主推最高1000万元信用贷",
+    "summary": "上海金融监管局指导银行业针对人工智能行业产业链上下游需求创设多元化产品:针对上游芯片设计推出“芯片贷”,针对下游AI开发运用推出“算力贷”,满足细分领域企业在技术研发和场景应用中的资金需求。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4146a80326807252",
     "source": "企鹅号",
-    "slug": "ai-safety-governance"
+    "slug": "banks-ai-loan-products"
   },
   {
     "date": "2026-08-15",
-    "title": "中国AI医疗出海:9个模型一年服务1500万患者,多国采购数百台眼科设备",
-    "summary": "据《中国经营报》,中国医疗AI设备已惠及多国患者;与同仁医院共同研发的眼底AI照相机可快速完成眼底图像采集与AI智能诊断,适配基层筛查、健康体检等场景。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8156a7fc23009452",
-    "source": "企鹅号/中国经营报",
-    "slug": "china-ai-medical-export"
+    "title": "算力产业链上市公司业绩集中兑现:工业富联上半年净利增96%",
+    "summary": "工业富联、智微智能、海光信息等陆续披露2026年半年报,净利润均同比大幅增长:工业富联上半年营收5578.61亿元、净利237.40亿元,同比增长95.99%;智微智能净利同比增长281.92%。专家称AI算力产业链已从主题投资迈入业绩兑现期。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1426a7fcf1428552",
+    "source": "企鹅号/证券日报",
+    "slug": "ai-compute-earnings-surge"
   },
   {
     "date": "2026-08-15",
-    "title": "广东改写AI全球格局",
-    "summary": "依托完整制造业底盘、算力基础设施与广深创新双核,广东人工智能产业快速崛起,正在重塑全球AI产业分工链条,成为改变全球AI竞争态势的关键力量。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7556a7fc67b27152",
+    "title": "国产GPU的“信创替补”时代结束了",
+    "summary": "国产GPU赛道迎来密集财报披露期:寒武纪半年报营收59.96亿元、净利润23.11亿元,同比均翻倍;摩尔线程上半年营收17.36亿元,同比增长147%,亏损收窄至1156万元;天数智芯预告上半年净利润0.6亿—1.4亿元,同比扭亏为盈,国产GPU商业化放量转向产业级共振。",
+    "url": "https://new.qq.com/rain/a/20260815A0BM7T00",
+    "source": "腾讯网",
+    "slug": "domestic-gpu-era"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "全国首个AI4E千卡集群国赛首秀:海光DCU当算力底座",
+    "summary": "2026年全国大学生计算机系统能力大赛智能计算创新设计赛(先导杯)决赛在同济大学落幕,160所高校1900余人参赛;全国首个AI4E(工程智能)国产千卡工科智算集群完成实战首秀,该集群由海光信息与同济大学于今年6月联合打造,以海光DCU为核心算力底座。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5416a80752f75352",
     "source": "企鹅号",
-    "slug": "guangdong-ai-global"
+    "slug": "hygon-ai4e-cluster"
   },
   {
     "date": "2026-08-15",
-    "title": "新加坡媒体:AI夏令营点燃中国青少年科技热情",
-    "summary": "新加坡亚洲新闻台报道,中国AI人才争夺战正从青少年时期开始;12至18岁少年学员利用暑假参加AI夏令营,编写人工智能代码,规模越来越大。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0836a7f959614552",
-    "source": "企鹅号/新加坡亚洲新闻台",
-    "slug": "ai-summer-camp-youth"
-  },
-  {
-    "date": "2026-08-14",
-    "title": "阿里开源Qwen3.8系列,千问大模型全球下载超30亿次",
-    "summary": "8月14日晚,阿里千问正式开源Qwen3.8系列模型,采用Apache2.0协议;Qwen3.8-27B为原生多模态稠密模型,270亿参数,量化后在消费级显卡上即可流畅运行,整体水平超越Qwen3.7-Plus。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8456a7f339516352",
-    "source": "钛媒体/企鹅号",
-    "slug": "alibaba-qwen38-open-source"
+    "title": "国产大模型与具身智能密集突破:DeepSeek V4 Pro转正,面壁智能启动A股IPO",
+    "summary": "DeepSeek V4 Pro结束测试正式全量上线,支持100万Token超长上下文、单次384K输出,Agent能力大增;阿里开源2.4万亿参数旗舰,面壁智能启动A股IPO;荣耀推出全球首款机器人手机。海外Grok 4.6、LTX-2.5开源视频模型同步迭代。",
+    "url": "https://new.qq.com/rain/a/20260815A0CODQ00",
+    "source": "腾讯网",
+    "slug": "domestic-llm-embodied-ai"
   },
   {
     "date": "2026-08-15",
-    "title": "国产大模型掀起开源潮:Qwen3.8-27B宣布开源,DeepSeek V4 Pro正式版上线",
-    "summary": "据央广经济之声,8月14日晚阿里千问宣布Qwen3.8-27B正式开源,可在高端手机和消费级显卡上流畅运行;此前一天DeepSeek V4 Pro正式版上线并宣布同步开源。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5886a80202668852",
-    "source": "企鹅号/央广经济之声",
-    "slug": "qwen38-deepseek-v4pro-open"
+    "title": "鹿明机器人发布重载轮臂式具身智能机器人Lumos MOS2",
+    "summary": "8月14日鹿明机器人发布全新重载轮臂式具身智能机器人Lumos MOS2,面向真实工业场景定位AI Worker,双臂负载能力达50kg,整机高约1.65米、拥有22个自由度,标配双多线激光雷达、腕部双相机、双六维力传感器及头部双目相机,形成多模态感知体系。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8706a7fdc5528952",
+    "source": "企鹅号/钛媒体",
+    "slug": "lumos-mos2-robot"
   },
   {
     "date": "2026-08-15",
-    "title": "国家超算互联网上线DeepSeek V4 Pro正式版与智能体框架Harness",
-    "summary": "国家超算互联网上线DeepSeek V4 Pro正式版(DeepSeek-V4-Pro-0813)与智能体框架DeepSeek Harness;新版增强Agent能力,生产环境性能提升显著,Harness开发者预览版v0.1以MIT协议开源。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1096a8008ab67952",
+    "title": "宇树科技IPO超额认购逾5000倍,人形机器人赛道引爆投资热情",
+    "summary": "宇树科技首次公开募股获超额认购逾5000倍,IPO定价每股150.8元人民币,募资规模约9亿美元,估值约达90亿美元;上海科创板IPO网上零售认购部分申购量超可供认购股份5000余倍,中签率仅约0.018%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3486a803adb75652",
+    "source": "企鹅号/CNBC",
+    "slug": "unitree-ipo-oversubscribed"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "宇树与DeepSeek签战略合作备忘录:联合研发通用人工智能",
+    "summary": "宇树科技董事长王兴兴确认,双方已签署《战略合作备忘录》:联合研发通用人工智能,DeepSeek开展具身业务时优先采购宇树机器人,宇树做具身大模型训练优先调用DeepSeek的模型和算力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8946a8057da77952",
     "source": "企鹅号",
-    "slug": "deepseek-v4pro-harness-supercomputing"
+    "slug": "unitree-deepseek-partnership"
   },
   {
-    "date": "2026-08-14",
-    "title": "开源改写人工智能竞争规则:中国开源大模型全球下载破百亿次",
-    "summary": "MiniMax开源H3模型三天冲上Hugging Face热度榜第一;月之暗面宣布Kimi K3全量开源,为全球参数规模最大的开源大模型;我国AI开源大模型全球累计下载量突破100亿次,全球每10次大模型下载中6次来自中国。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1456a7f073430652",
+    "date": "2026-08-15",
+    "title": "人形机器人“考试”国家标准在光谷启动编制",
+    "summary": "我国人形机器人产业已迈入规模化应用前夜,相关国家标准在武汉光谷启动编制,统一技术接口与安全评价,有利于抢占全球产业话语权。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7736a801ba889952",
     "source": "企鹅号",
-    "slug": "open-source-rewrite-ai-rules"
+    "slug": "humanoid-robot-national-standard"
   }
 ]
