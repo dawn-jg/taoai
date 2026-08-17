@@ -1,122 +1,106 @@
 [
   {
-    "date": "2026-08-16",
-    "title": "美媒：美政府计划致函 30 多国，要求在中美 AI 竞赛中选边",
-    "summary": "据环球时报援引路透社报道，美国国务院一份信函草稿显示，美政府计划致函今年 6 月签署《人工智能机遇伙伴关系联合声明》的 30 多个国家，要求其在中美 AI 竞赛中作出选择，并威胁若参与中国主导的 AI 框架将被排除在美国主导的“AI 联盟”外。草案称“试图加入所有阵营，等于一无所有”。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1036a817f6008352",
+    "date": "2026-08-17",
+    "title": "Grok 4.6 发布、DeepSeek V4-Pro 全面开放 API",
+    "summary": "xAI 发布新一代 Grok 4.6，聚焦长程智能体任务与视觉交互；DeepSeek V4-Pro 同步上线，原生支持 OpenAI Responses 格式，Agent 能力在多个工程基准中显著提升；Anthropic Claude Opus 5 重新定义性价比。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9616a826ef643252",
     "source": "企鹅号",
-    "slug": "us-letter-30-countries-ai-choice-2026-08-16"
+    "slug": "grok-46-deepseek-v4-pro"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "阿里千问 Qwen3.8 开源，全球累计下载量突破 30 亿次",
+    "summary": "阿里千问 Qwen3.8 系列模型正式开源，旗舰模型 Qwen3.8-Max 也同步开源模型权重。阿里旗下开源 AI 模型千问家族过去六个月全球累计下载量突破 30 亿次，超越 Meta、Alphabet 等竞争对手，成为全球下载量第一的 AI 模型。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6276a8261bf10152",
+    "source": "企鹅号",
+    "slug": "ali-qwen-38-open-source"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "苹果联合阿里巴巴训练中国专属 AI 大模型",
+    "summary": "据报道，苹果专门针对中国市场训练了一款 AI 模型，该模型的训练得到阿里巴巴的支持，标志着苹果在中国市场的 AI 本地化战略落地。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2996a8136ce50052",
+    "source": "企鹅号",
+    "slug": "apple-ali-china-ai-model"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "企业智能化转型 5A 框架正式发布",
+    "summary": "在 2026 数智经济论坛上，人民日报文化科技有限公司发布企业智能化转型 5A 框架，包含 A To A 新业态、AI 友好型数据基础设施、AI 原生团队、AI 向善四大维度，助力企业在人工智能时代实现业务模式、组织形态和服务体系的全面创新。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3486a82569b62252",
+    "source": "企鹅号",
+    "slug": "5a-framework-enterprise-ai"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "觅蜂科技完成数亿元融资，中国电信领投具身智能数据平台",
+    "summary": "物理 AI 数据服务平台觅蜂科技完成新一轮数亿元融资，由中国电信领投，张江集团跟投，红杉中国、元启创新等老股东超额追加。本轮资金将用于建设具身智能数据平台，加速千万小时级物理交互数据产能落地。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4536a827c6523565",
+    "source": "企鹅号",
+    "slug": "mifeng-ai-funding-china-telecom"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "卧安机器人进入恒生机器人与中证 AI50 双指数",
+    "summary": "港股上市公司卧安机器人（06600.HK）同时进入恒生港美机器人主题指数和中证沪港深人工智能 50 指数，标志着家庭具身智能获得两套资本市场坐标认可。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2576a8282df42552",
+    "source": "企鹅号",
+    "slug": "woan-robot-hs-ai50-index"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "Anthropic 营收增长 13 倍，DeepSeek 高峰时段收费翻倍",
+    "summary": "Anthropic 最近一个完整季度初步营收超 115 亿美元，同比增长至少 13 倍，调整后营业利润转正，标志着顶尖大模型迈入赚钱阶段。DeepSeek 也同步大幅提价，高峰时段价格直接翻倍。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8986a8275b716052",
+    "source": "企鹅号",
+    "slug": "anthropic-revenue-deepseek-price-hike"
   },
   {
     "date": "2026-08-16",
-    "title": "字节跳动坚持自研路线，计划研发最高 10 万亿参数大模型",
-    "summary": "据报道，字节跳动正在预训练一个参数规模最高可达 10 万亿的超大模型，体量是 Kimi K3 的三倍以上，完整训练周期预计 3 至 6 个月，目前仅处于预训练初期，能否正式发布尚未确定。项目由 Seed Foundation 负责人项亮主导。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9876a81674264865",
+    "title": "Hugging Face 报告：中国开源模型参数规模显著超越美国",
+    "summary": "全球最大 AI 开源平台 Hugging Face 发布观察报告，2026 年以来中国 AI 企业发布的最大开源模型月度参数上限在 7540 亿至 2.78 万亿之间，而美国同期多数月份低于 1300 亿，中国开源模型加速崛起。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4926a81b4b829952",
     "source": "企鹅号",
-    "slug": "bytedance-10-trillion-param-model-2026-08-16"
+    "slug": "huggingface-china-open-source-ai"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "第二届世界人形机器人运动会 8 月 22 日在国家速滑馆开幕",
+    "summary": "第二届世界人形机器人运动会将于 8 月 22 日至 26 日在北京国家速滑馆冰丝带举行，共 51 个项目 1301 场比赛，吸引 666 支队伍携 2056 台机器人参赛，新增跳远、举重、拔河、乒乓球等高强度对抗项目，吉祥物为智宝。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2096a82544711252",
+    "source": "企鹅号",
+    "slug": "humanoid-robot-games-2026"
   },
   {
     "date": "2026-08-16",
-    "title": "国家超算互联网上线 DeepSeek V4 Pro 正式版及开源智能体框架 Harness",
-    "summary": "国家超算互联网 8 月 14 日宣布上线 DeepSeek-V4-Pro-0813 正式版与智能体框架 DeepSeek Harness，依托全国首个十万卡级超智融合算力资源池，为科研院所与技术开发者提供从训练、微调、评测到部署的全生命周期算力支撑，Harness 全套源码已在超算互联网 AI 社区开放拉取。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9556a81280420765",
+    "title": "英伟达据悉拟向软银旗下 SB Energy 投资 30 亿美元",
+    "summary": "据报道，英伟达正就向软银旗下 SB Energy 投资最多 30 亿美元进行谈判，这是 AI 基础设施投资热潮中的又一重大动向。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2096a82544711252",
     "source": "企鹅号",
-    "slug": "supercomputing-net-deepseek-v4-pro-harness-2026-08-16"
+    "slug": "nvidia-softbank-sb-energy-investment"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "Alphabet 考虑首次发行澳元债券融资 AI 投资",
+    "summary": "谷歌母公司 Alphabet 已聘请银行准备首次发行澳元债券，可能发行四个期限的债券，最长达 20 年。本月早些时候 Alphabet 已发行 250 亿美元债券，2026 年还发行了瑞士法郎、英镑、欧元、加元和日元债券，AI 融资需求持续攀升。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6956a825d6343752",
+    "source": "企鹅号",
+    "slug": "alphabet-australian-dollar-bond-ai"
   },
   {
     "date": "2026-08-16",
-    "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅跃升",
-    "summary": "8 月 12 日深夜 DeepSeek 官网 API 文档更新，模型版本切换为 DeepSeek-V4-Pro-0813 正式版，重点强化 Agent 能力并支持 Responses 功能。在 Terminal Bench 2.1 上拿下 87.9 分，距全球第一的 Anthropic Fable 5 仅差 0.1 分，比预览版 72.1 分跃升 15.8 分；DeepSWE 软件工程测试从 12.8 分飙升至 62.7 分。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3646a815a6244452",
+    "title": "美国拟致信 35 国，AI 领域面临全球选边压力",
+    "summary": "路透社曝光美国国务院一份尚在起草阶段的信件，计划发送给 35 个相关国家，尝试在人工智能领域划定合作边界，强调试图加入所有阵营等于一无所有，签署美国硅和平倡议需恪守政治承诺。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3696a8167d455152",
     "source": "企鹅号",
-    "slug": "deepseek-v4-pro-ga-agent-benchmark-2026-08-16"
+    "slug": "us-ai-pressure-35-countries"
   },
   {
-    "date": "2026-08-16",
-    "title": "阿里 Qwen3.8 Max 开源权重正式发布，2.4 万亿参数首次对外开源",
-    "summary": "阿里巴巴正式开源 Qwen3.8-Max 旗舰模型权重（Qwen3.8-2.4T-A95B），这是千问 Max 级别旗舰模型首次对外开源。模型总参数 2.4 万亿，采用稀疏 MoE 架构，单次激活约 950 亿参数，Artificial Analysis 智能指数评分 58，编程指数 71.8。Qwen3.8-27B 开放权重预计 8 月 15 日上线 ModelScope。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3646a815a6244452",
+    "date": "2026-08-17",
+    "title": "斯坦福 AI Index 2026：84% 中国受访者对 AI 感到兴奋 vs 美国 38%",
+    "summary": "斯坦福大学发布《AI Index 2026》报告，中美两国公众对 AI 态度差异显著：84% 的中国受访者对 AI 产品和服务感到兴奋，美国仅为 38%；72% 的中国受访者表示信任 AI，美国则只有 32%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5976a82710997165",
     "source": "企鹅号",
-    "slug": "alibaba-qwen3-8-max-open-weights-2026-08-16"
-  },
-  {
-    "date": "2026-08-16",
-    "title": "国内首个：苹果联手阿里打造中国专属 AI 大模型",
-    "summary": "路透社报道，知情人士称苹果已专门针对中国市场训练出一款大语言模型，并与阿里巴巴集团合作完成开发。备案方面，国家网信办 7 月已完成苹果生成式 AI 服务备案并于 7 月 15 日公示，为 Apple Intelligence 登陆国行设备扫清政策障碍，中国版将适配 iPhone、iPad、Mac 及 Vision 等设备。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4856a812d6c57752",
-    "source": "企鹅号",
-    "slug": "apple-alibaba-china-llm-2026-08-16"
-  },
-  {
-    "date": "2026-08-16",
-    "title": "Anthropic 发布 AI 风险报告：智能体互相争夺资源、刻意隐藏违规操作",
-    "summary": "据 Business Insider 报道，Anthropic 发布 AI 安全风险专项研究报告，梳理旗下 Claude 系列、Mythos 5 智能体在多组对照实验中暴露出的对齐偏差风险，针对模型自主规避安全管控、同类资源竞争、主观抵触任务等异常行为作出风险定级调整，为通用人工智能安全治理提供新的观测样本。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0116a8121ec92752",
-    "source": "企鹅号",
-    "slug": "anthropic-ai-risk-report-agents-2026-08-16"
-  },
-  {
-    "date": "2026-08-15",
-    "title": "Anthropic 风险报告披露未发布的 Model 1 与 Model 2",
-    "summary": "Anthropic 披露其已开发出能力超越 Claude Mythos 5 的 AI 模型，最新风险报告透露有两款后续模型分别命名为 Model 1 和 Model 2。能力更突出的 Model 2 已被 Anthropic 员工大量使用，公司评估认为其在许多内部应用任务上相比 Mythos 5 有明显提升，但进步幅度不及今年 4 月推出 Mythos Preview 时那次跨越。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4776a80575f03352",
-    "source": "企鹅号",
-    "slug": "anthropic-unreleased-model-1-model-2-2026-08-15"
-  },
-  {
-    "date": "2026-08-15",
-    "title": "Z.ai 发布 GLM-5.3：开源大模型刷新多项编程与网络安全基准",
-    "summary": "中国 AI 开发商 Z.ai 正式发布 GLM-5.3，以 7 月中旬发布的 GLM-5.2 为基础，采用混合专家架构，7530 亿参数、100 万 Token 上下文窗口，架构与前代完全相同但经历更深入的后训练。GLM-5.3 在 Terminal Bench 3.0 上斩获所有开源模型最高分，编程智能体内部基准比 GLM-5.2 提升 50%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0136a80575602352",
-    "source": "企鹅号",
-    "slug": "zai-glm-5-3-open-source-benchmark-2026-08-15"
-  },
-  {
-    "date": "2026-08-16",
-    "title": "英伟达设千亿级 AI 融资平台，项目最高可获 25% 残值兜底",
-    "summary": "据 PANewS 报道，英伟达联合阿波罗、贝莱德、黑石、布鲁克菲尔德、高盛、KKR 等全球头部金融机构共同设立专业化独立融资平台，长期计划撬动超 5000 亿美元第三方资本投入全球 AI 基础设施建设，同步推出最高 25% 项目残值配套支持政策，以降低金融机构资产融资风险。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0886a8121bb53052",
-    "source": "企鹅号",
-    "slug": "nvidia-ai-financing-platform-residual-value-2026-08-16"
-  },
-  {
-    "date": "2026-08-15",
-    "title": "大模型和机器人抢着“联姻”：DeepSeek 与宇树科技签署战略合作备忘录",
-    "summary": "8 月 13 日 DeepSeek-V4-Pro 正式版上线，同日宇树 IPO 网下申购结果出炉，8734 股遭弃购由主承销商包销。次日路演上宇树科技董事长王兴兴确认双方已签《战略合作备忘录》：联合研发通用人工智能，DeepSeek 开展具身业务时优先采购宇树机器人，宇树做具身大模型训练优先调用 DeepSeek 的模型和算力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8946a8057da77952",
-    "source": "企鹅号",
-    "slug": "deepseek-unitree-strategic-cooperation-2026-08-15"
-  },
-  {
-    "date": "2026-08-15",
-    "title": "国产大模型与具身智能密集突破，全球 AI 军备竞赛升温",
-    "summary": "国产大模型迎来集中爆发：DeepSeek V4 Pro 正式转正、阿里开源 2.4 万亿参数旗舰、面壁智能启动 A 股 IPO；具身智能赛道 Dyna Robotics、自变量机器人接连发布高性能成果，荣耀推出全球首款机器人手机。海外 Grok 4.6、LTX-2.5 开源视频模型同步迭代，腾讯大幅加码算力投入。",
-    "url": "https://new.qq.com/rain/a/20260815A0CODQ00",
-    "source": "腾讯网",
-    "slug": "china-llm-embodied-ai-breakthrough-2026-08-15"
-  },
-  {
-    "date": "2026-08-15",
-    "title": "高盛预测：全球人工智能支出到 2026 年将超过 1 万亿美元",
-    "summary": "据埃及金字塔在线网站 8 月 14 日报道，高盛近期预测到 2026 年全球人工智能支出预计将超过 1 万亿美元，这一数字比市场普遍预期的美国主要科技公司资本支出高出约 2000 亿美元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9296a804fe835352",
-    "source": "企鹅号",
-    "slug": "goldman-global-ai-spending-trillion-2026-08-15"
-  },
-  {
-    "date": "2026-08-16",
-    "title": "福建印发新兴产业规划：实施“AI+”引领工程，构建全省一体化算力网",
-    "summary": "据钛媒体报道，福建省人民政府印发《福建省“十五五”新兴产业和未来产业发展规划》，提出实施“AI+”引领工程，推动 AI 与工业、医疗、教育、人社等领域深度融合；完善 AI 基础设施，加快构建全省一体化算力网，推进福州、厦门、漳州公共智算中心建设，并在政务、医疗、海洋等领域建设 AI-Ready 高质量数据集。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7966a8118bf02652",
-    "source": "企鹅号",
-    "slug": "fujian-ai-plus-computing-network-2026-08-16"
-  },
-  {
-    "date": "2026-08-15",
-    "title": "美媒：中国实践表明人工智能发展与治理能够并行不悖",
-    "summary": "《巴伦周刊》刊文称，中国近年来一方面持续推动人工智能技术创新和规模化应用，另一方面不断完善相关治理体系，与此同时中国人工智能产业也保持了较强的竞争力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3446a804baa16152",
-    "source": "企鹅号",
-    "slug": "us-media-china-ai-development-governance-2026-08-15"
+    "slug": "stanford-ai-index-2026-china-us"
   }
 ]
