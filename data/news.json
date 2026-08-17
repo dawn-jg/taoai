@@ -1,114 +1,122 @@
 [
   {
     "date": "2026-08-17",
-    "title": "国家级算力规划曝光：十五五全国一体化算力网络投入规模预计达4万亿元",
-    "summary": "我国十五五全国一体化算力网络建设规划出炉，预估直接投入规模达4万亿元。未来数年分批落地超大型国家级算力中心，大幅压缩大模型训练耗时。深圳AI硬件出口额突破万亿元，增速超五成；工信部数据显示2025年我国AI核心产业规模突破1.2万亿元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5566a82d51934252",
+    "title": "阿里Qwen3.8-27B登顶全球大模型趋势榜，开源两天下载破100万次",
+    "summary": "8月17日，阿里Qwen3.8-27B登顶Hugging Face全球大模型趋势榜，开源两天下载量便破100万次。Hugging Face最新报告指出，阿里千问大模型（Qwen）已成为全球开源社区的基座模型，前七个月在Hugging Face下载量达20.45亿次，衍生模型突破15万个。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9876a82c70309352",
     "source": "企鹅号",
-    "slug": "china-4-trillion-computing-power-plan"
+    "slug": "qwen3-8-27b-huggingface-top"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "中美企业AI开源与闭源之争：谁能把AI变成生产力",
+    "summary": "8月，Meta发布开放权重模型Muse Glimmer，可在单块显卡上运行，面向日程管理、文件整理等智能体任务；扎克伯格呼吁美国减少对开源模型发展的政策摩擦。此前英伟达、微软、Meta、IBM等二十多家企业和机构联合签署公开信《开放权重与美国AI领导力》。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7416a833f0491752",
+    "source": "企鹅号",
+    "slug": "us-china-open-weights-debate"
   },
   {
     "date": "2026-08-17",
-    "title": "阿里千问Qwen3.8正式开源，全球累计下载量突破30亿次",
-    "summary": "阿里千问正式开源Qwen3.8系列模型，旗舰模型Qwen3.8-Max也同步开源模型权重。阿里旗下开源AI模型千问家族过去六个月全球累计下载量突破30亿次，超越Meta、Alphabet等竞争对手，成为全球下载量第一的AI模型。Qwen3.8-27B家用显卡也能跑。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6276a8261bf10152",
-    "source": "企鹅号",
-    "slug": "ali-qwen-38-open-source-30b-downloads"
+    "title": "AI成未成年人聊天搭子引监管出手，五部门施行管理办法",
+    "summary": "生成式AI成为部分儿童青少年“聊天搭子”，超六成未成年人使用过AI。国家网信办等五部门已施行《人工智能拟人化互动服务管理暂行办法》，明确不得诱导情感依赖或向未成年人提供虚拟亲密关系。全球首例AI管理者参与解雇员工事件也于同日披露。",
+    "url": "https://new.qq.com/rain/a/20260817A06ERY00",
+    "source": "腾讯网",
+    "slug": "ai-minor-chat-regulation"
   },
   {
     "date": "2026-08-17",
-    "title": "苹果联合阿里巴巴训练中国专属AI大模型",
-    "summary": "据报道，苹果专门针对中国市场训练了一款AI模型，该模型的训练据悉得到阿里巴巴的支持，标志着苹果在中国市场的AI本地化战略正式落地。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6276a8261bf10152",
+    "title": "《中国—东盟人工智能开发合作发展报告》发布",
+    "summary": "RCEP产业合作委员会17日对外发布《中国—东盟人工智能开发合作发展报告》。报告指出，中国与东盟人工智能合作具备坚实契合基础，中国已具备完整产业链配套能力、大规模场景实践经验与垂直领域解决方案研发优势。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2026a82acf405952",
     "source": "企鹅号",
-    "slug": "apple-ali-china-ai-model"
+    "slug": "china-asean-ai-report"
   },
   {
     "date": "2026-08-17",
-    "title": "企业智能化转型5A框架正式发布",
-    "summary": "在2026数智经济论坛上，人民日报文化科技有限公司发布企业智能化转型5A框架，包含A To A新业态、AI友好型数据基础设施、AI原生团队、AI向善四大维度，助力企业在人工智能时代实现业务模式、组织形态和服务体系的全面创新。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3486a82569b62252",
+    "title": "2026年两岸（昆山）人工智能产业发展大会举行",
+    "summary": "8月16日，2026年两岸（昆山）人工智能产业发展大会举行，450多位两岸企业家齐聚一堂，携手抢抓人工智能发展机遇，共拓两岸融合发展新空间。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1076a82dd5475152",
     "source": "企鹅号",
-    "slug": "5a-framework-enterprise-intelligent-transformation"
-  },
-  {
-    "date": "2026-08-16",
-    "title": "Hugging Face报告：中国开源模型参数规模显著超越美国",
-    "summary": "全球最大AI开源平台Hugging Face发布观察报告，2026年以来中国AI企业发布的最大开源模型月度参数上限在7540亿至2.78万亿之间，而美国同期多数月份低于1300亿，中国开源模型加速崛起。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4926a81b4b829952",
-    "source": "企鹅号",
-    "slug": "huggingface-china-open-source-ai-lead"
+    "slug": "kunshan-cross-strait-ai-summit"
   },
   {
     "date": "2026-08-17",
-    "title": "宇树科技发布超人机器人：原地跳高2米，极速12.66m/s",
-    "summary": "宇树科技发布新人形机器人超人，原地跳高2米、极限速度12.66m/s，超越全人类原地跳高与奔跑纪录，整机研发仅用3个多月。创始人王兴兴现身监督，该产品代表宇树在高动态运动方向的最新探索，公司科创板IPO申购已启动。",
+    "title": "AI语料短缺瓶颈凸显，数据基建新机遇有望释放",
+    "summary": "高质量、高可信度的数据正成为AI竞争的胜负手。近日A股AI语料板块走强，读客文化、中信出版、利欧股份、中国出版、海天瑞声等股价显著上涨，传统内容服务商向AI语料供应商转型的商业价值有望重估。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8776a82a98429452",
+    "source": "企鹅号",
+    "slug": "ai-corpus-shortage-data-infra"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "AI产业融资迎来新解法，多家银行落地算力贷",
+    "summary": "近日广东落地的算力Token（词元）贷将词元消耗、算力业务数据等纳入银行授信标尺。面对AI产业大量轻资产、缺乏传统抵押物的融资痛点，多地银行机构加速布局算力专项信贷，把算力效能、业务合约、经营活跃度等纳入评价体系。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7636a8351e886452",
+    "source": "企鹅号",
+    "slug": "ai-computing-loan-banks"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "美国拟要求伙伴在中美AI之间“选边”，竞争加速阵营化",
+    "summary": "智库观察指出，美国拟要求伙伴在中美AI之间“选边”，全球人工智能竞争加速阵营化。随着主要经济体在AI领域的博弈加剧，技术路线与供应链合作正呈现更明显的阵营分化态势。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1166a82fcea94652",
+    "source": "企鹅号",
+    "slug": "us-ai-alignment-camp"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "宇树发布“超人”机器人，原地跳高2米刷新人类运动极限",
+    "summary": "8月17日，宇树科技发布新人形机器人“超人”，原地跳高2米、极限速度12.66m/s，超越全人类原地跳高与奔跑纪录，整机研发仅用3个多月。创始人王兴兴现身“监督”，公司科创板IPO申购已启动。",
     "url": "https://new.qq.com/rain/a/20260817A08UGI00",
     "source": "腾讯网",
-    "slug": "unitree-superhuman-robot"
+    "slug": "unitree-superman-robot"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "日本自卫队或引入美国AI，可制定作战方案并向部队下命令",
+    "summary": "日本共同社8月17日报道，日本防卫省已开始研究将美国企业研发的AI技术引入自卫队指挥控制体系，候选包括帕兰蒂尔MSS（Maven Smart System）系统。防卫省计划综合利用多国AI包括日本国产AI，避免过度依赖单一国家。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2626a83849536752",
+    "source": "企鹅号",
+    "slug": "japan-sdf-us-ai"
   },
   {
     "date": "2026-08-17",
-    "title": "智谱GLM-5.3发布：网络安全能力追平甚至超越海外闭源前沿模型",
-    "summary": "智谱正式发布新一代基座模型GLM-5.3，总参数规模达7530亿，在代码生成、复杂工程执行及网络安全能力方面实现重大技术突破。CyberGym测试得分84.5%，略高于Mythos 5的83.8%和GPT-5.6 Sol的83.6%，标志我国开源大模型从会写代码迈向守护数字基础设施。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8376a823b6b62952",
+    "title": "中国开源AI“狂飙”，部分模型成美国大模型“底座”",
+    "summary": "Hugging Face《开放模型现状：2026年夏季观察》报告指出，在2026年几乎每个月，中国实验室发布的最大、性能最高的开源模型都超过了美国实验室发布的模型。中国团队开源模型月度最大参数规模介于7540亿至2.78万亿之间。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9986a82e03036552",
     "source": "企鹅号",
-    "slug": "zhipu-glm-53-cybersecurity-breakthrough"
+    "slug": "china-open-ai-base-model"
   },
   {
     "date": "2026-08-17",
-    "title": "DeepSeek-V4-Flash连续两周位居全球AI大模型调用量榜首",
-    "summary": "根据OpenRouter最新数据测算，上周全球AI大模型总调用量达75.3万亿Token，环比增长9.13%。DeepSeek-V4-Flash正式版连续两周位居第一，周调用量达11.2万亿Token；腾讯Hy3连续两周位居第二，周调用量9.95万亿Token。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7066a827c1a77552",
+    "title": "消息称iPhone国行AI采用双轨制，千问模型由苹果阿里联合训练",
+    "summary": "据路透社报道，苹果已针对中国市场训练了一款大型语言模型，由苹果与阿里巴巴共同开发，阿里为模型训练提供支持。爱范儿称苹果与阿里的AI合作至少已有两种形式，包括千问接入Apple智能。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3426a8298e995452",
     "source": "企鹅号",
-    "slug": "deepseek-v4-flash-top-model-calls"
+    "slug": "apple-alibaba-china-ai"
   },
   {
     "date": "2026-08-17",
-    "title": "Anthropic Q2营收超115亿美元同比增长约14倍，启动IPO筹备",
-    "summary": "Anthropic 2026年第二季度初步营收超过115亿美元，较去年同期实现约14倍巨幅增长，调整后营业利润转正，完成从亏损扩张到盈利造血的关键跨越。据悉Anthropic已启动IPO筹备工作，市场预期其估值或将超越SpaceX，冲击全球史上最大规模IPO。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5236a829dfe50252",
+    "title": "芯擎「天工100」车规级AI芯片量产交付，7nm工艺、96TOPS算力",
+    "summary": "芯擎科技宣布自研车规级7纳米AI加速芯片「天工100」已全面量产，并同步向整车厂及一级供应商批量供货。新品以插卡式硬件形态为汽车提供独立的大模型算力，无需更换主控芯片或改动原有软硬件，被视为国产端侧AI算力扩容的重要突破。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5916a82bad229852",
     "source": "企鹅号",
-    "slug": "anthropic-q2-revenue-115b-ipo"
+    "slug": "sinocloud-tiangong100-ai-chip"
   },
   {
     "date": "2026-08-17",
-    "title": "第二届世界人形机器人运动会8月22日在北京开幕",
-    "summary": "第二届世界人形机器人运动会正赛将于8月22日至26日在北京国家速滑馆冰丝带举行，共51个项目1301场比赛，吸引666支队伍携2056台机器人参赛，竞赛项目全面扩容，新增跳远、举重、拔河、乒乓球等高强度对抗项目，现场发布吉祥物智宝。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2096a82544711252",
+    "title": "智元机器人旗下觅蜂科技再获数亿元融资，中国电信领投",
+    "summary": "智元机器人旗下觅蜂科技再获数亿元融资，本轮由中国电信领投，资金将用于具身智能相关技术研发与业务拓展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4196a82a7a680452",
     "source": "企鹅号",
-    "slug": "humanoid-robot-games-2026-beijing"
+    "slug": "zhiyuan-mifeng-funding"
   },
   {
     "date": "2026-08-17",
-    "title": "英伟达据悉拟向软银SB Energy投资最多30亿美元",
-    "summary": "据报道，英伟达正就向软银旗下SB Energy投资最多30亿美元进行谈判，这是AI基础设施投资热潮中的又一重大动向，进一步深化AI算力领域的资本布局。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2096a82544711252",
+    "title": "机构预估2027年液冷散热于AI芯片渗透率逼近60%",
+    "summary": "TrendForce集邦咨询最新AI Server产业研究显示，以NVIDIA、AMD、Google为首的AI芯片持续迭代，单芯片TDP普遍已超越1kW，液冷散热逐步成为高端AI基础设施的标准配置，渗透率预计从2025年约33%升至2026年53%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2786a82b8d374352",
     "source": "企鹅号",
-    "slug": "nvidia-softbank-sb-energy-3b-investment"
-  },
-  {
-    "date": "2026-08-17",
-    "title": "百度文库网盘通用智能体GenFlow官宣中文名库库AI",
-    "summary": "8月14日百度AI Day开放日上，百度文库网盘通用智能体GenFlow正式官宣中文名为库库AI，进一步完善百度在AI智能体领域的产品矩阵。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6276a8261bf10152",
-    "source": "企鹅号",
-    "slug": "baidu-genflow-kuku-ai-name"
-  },
-  {
-    "date": "2026-08-17",
-    "title": "全球大模型竞争白热化：Grok 4.6跻身顶流，DeepSeek涨价",
-    "summary": "xAI的Grok 4.6综合实力大幅跃升，AA综合智能指数获61分并列全球第三，完成同类任务平均仅需53轮交互，具备综合成本优势。同期DeepSeek-V4-Flash和DeepSeek-V4-Pro正式涨价，执行峰谷计价，推动商业化变现加速。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4206a82892e13252",
-    "source": "企鹅号",
-    "slug": "grok-46-deepseek-v4-price-change"
-  },
-  {
-    "date": "2026-08-17",
-    "title": "斯坦福AI Index 2026：84%中国受访者对AI感到兴奋，美国仅38%",
-    "summary": "斯坦福大学发布《AI Index 2026》报告，中美两国公众对AI态度差异显著：84%的中国受访者对AI产品和服务感到兴奋，美国仅为38%；72%的中国受访者表示信任AI，美国则只有32%，反映两国公众对人工智能的认知与接受度差距明显。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5976a82710997165",
-    "source": "企鹅号",
-    "slug": "stanford-ai-index-2026-china-us-trust-gap"
+    "slug": "liquid-cooling-ai-chip-2027"
   }
 ]
