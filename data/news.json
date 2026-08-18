@@ -1,114 +1,114 @@
 [
   {
     "date": "2026-08-18",
-    "title": "宇树科技发布\"超人\"人形机器人：突破全人类极限",
-    "summary": "8月17日消息，宇树科技发布\"超人\"人形机器人，称其突破全人类极限：0.85米腿长，可原地跳高2米，极限速度12.66m/s，超越全世界全人类原地跳高和奔跑速度记录。全新整机仅用3个多月研发出来，未来几个月还有很大的完善空间。",
+    "title": "中国开源大模型参数规模领先全球，中国AI企业月度参数上限达2.78万亿",
+    "summary": "全球最大AI开源平台Hugging Face报告显示，2026年以来中国AI企业发布的最大开源模型在参数规模上显著超越美国同行。中国模型的月度参数上限在7540亿至2.78万亿之间，而美国模型同期多数月份低于1300亿。中国模型在开放生态建设方面同样表现突出。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3006a83cdbe46852",
+    "source": "企鹅号",
+    "slug": "china-open-source-llm-global-lead"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "宇树科技发布人形机器人\"超人\"：可原地跳高2米，极速12.66m/s",
+    "summary": "宇树科技发布人形机器人\"超人\"，称其突破全人类极限。0.85米腿长，可原地跳高2米，极限速度12.66m/s，超越全世界全人类原地跳高和奔跑速度记录。全新整机仅用3个多月研发出来，未来几个月还有很大完善空间。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3806a83a5a192152",
     "source": "企鹅号",
-    "slug": "yushu-robot-superman"
-  },
-  {
-    "date": "2026-08-17",
-    "title": "阿里Qwen3.8-27B登顶Hugging Face全球大模型趋势榜",
-    "summary": "8月17日，阿里Qwen3.8-27B登顶Hugging Face全球大模型趋势榜，开源两天下载量便破100万次。Hugging Face最新报告指出，阿里千问大模型（Qwen）已成为全球开源社区的基座模型。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9876a82c70309352",
-    "source": "企鹅号",
-    "slug": "qwen3-8-top-huggingface"
+    "slug": "unitree-superhuman-robot"
   },
   {
     "date": "2026-08-18",
-    "title": "中国开源大模型领先全球：月度参数上限达2.78万亿",
-    "summary": "Hugging Face发布最新观察报告显示，全球开源AI生态快速扩张，中国模型成为重要力量。2026年以来大部分月份，中国AI企业发布的最大开源模型在参数规模上显著超越美国同行：中国模型月度参数上限在7540亿至2.78万亿之间，美国模型同期多数月份低于1300亿。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5666a83cd4040852",
+    "title": "阿里发布AI音乐模型HappyShrimp（快乐虾米）",
+    "summary": "8月17日，阿里发布AI音乐模型HappyShrimp（中文名：快乐虾米），进一步扩展其在AI生成内容领域的产品矩阵。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3806a83a5a192152",
     "source": "企鹅号",
-    "slug": "china-open-source-model-lead"
+    "slug": "alibaba-happy-shrimp-ai-music"
   },
   {
     "date": "2026-08-18",
-    "title": "Anthropic IPO临近：估值或冲击2万亿美元",
-    "summary": "据报道，Claude聊天机器人开发商Anthropic内部预计其2028年营收将达到约1900亿至2000亿美元。在Anthropic史诗级IPO前夕，该预测将成为投资者评估公司价值的关键参考指标。此次IPO最早可能于下个月启动，估值或将达到2万亿美元及以上。",
+    "title": "阿里Qwen3.8-27B登顶Hugging Face全球大模型趋势榜，开源两天下载量破百万",
+    "summary": "8月17日，阿里Qwen3.8-27B登顶Hugging Face全球大模型趋势榜，开源两天下载量便破100万次，彰显中国大模型在全球开发者社区的强劲吸引力。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8486a83949a37252",
+    "source": "企鹅号",
+    "slug": "alibaba-qwen-trending-huggingface"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "中国AI大模型调用量连续十六周领跑全球",
+    "summary": "据OpenRouter最新数据测算，上周（8月10日至8月16日）全球AI大模型总调用量为75.3万亿Token（词元），环比增长9.13%。中国AI大模型调用量已连续十六周领跑全球。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8486a83949a37252",
+    "source": "企鹅号",
+    "slug": "china-ai-model-usage-16-weeks"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "DeepSeek API调价最高涨幅1100%，国产大模型涨价潮来袭",
+    "summary": "DeepSeek对其API进行大幅调价，部分调用价格最高涨幅达1100%，同时国产大模型涨价潮来袭，腾讯混元大模型所在云服务体系亦上调服务价格。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4236a83aba080052",
+    "source": "企鹅号",
+    "slug": "deepseek-api-price-increase"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "苹果iPhone国行AI采用双轨制，苹果与阿里合作升级",
+    "summary": "苹果iPhone国行AI采用双轨制，与阿里合作进一步升级，为中国用户提供本地化的AI服务体验。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4236a83aba080052",
+    "source": "企鹅号",
+    "slug": "apple-iphone-china-ai-alibaba"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "AI龙头Anthropic IPO临近：估值或冲击2万亿美元，2028年营收预期1900亿美元",
+    "summary": "Claude聊天机器人开发商Anthropic内部预计其2028年营收将达到约1900亿至2000亿美元。此次IPO最早可能于下个月启动，估值或将达到2万亿美元及以上。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4786a83b72f60052",
     "source": "企鹅号",
     "slug": "anthropic-ipo-2-trillion"
   },
   {
     "date": "2026-08-18",
-    "title": "Fable 5夺冠：AI自主科研逼近人类极限",
-    "summary": "全球顶尖AI模型在PrimeIntellect的实验中断网连续8天进行科研，Fable5模型追平人类82%的科研水平。实验使用18个模型进行153场完全自主实验，目标是优化GPT模型，Fable5仅差126步就追平人类记录，显示AI在科研辅助方面取得重大进展。",
+    "title": "Fable 5夺冠：全球18大顶尖AI自主科研大赛，逼近人类82%科研水平",
+    "summary": "全球顶尖AI模型在PrimeIntellect的实验中，断网连续8天进行科研，Fable 5模型追平人类82%的科研水平。实验使用18个模型进行153场完全自主实验，仅差126步就追平人类记录，显示AI在科研辅助方面取得重大进展。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4996a83d96282452",
     "source": "企鹅号",
-    "slug": "fable5-ai-research"
+    "slug": "fable5-ai-research-competition"
   },
   {
     "date": "2026-08-18",
-    "title": "英伟达与OpenAI合作：2030年基建规模或达6000亿美元",
+    "title": "英伟达与OpenAI达成大规模AI基础设施合作：到2030年部署约16吉瓦",
     "summary": "英伟达表示，OpenAI已承诺到2030年大规模部署英伟达AI基础设施，现有及计划中的部署规模约为12吉瓦，并有机会扩大至约16吉瓦。按目前规模计算，这一合作到2030年可能对应约6000亿美元的英伟达计算基础设施收入。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3646a83bd2f32252",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7476a83bb9a14452",
     "source": "企鹅号",
-    "slug": "nvidia-openai-600b-deal"
+    "slug": "nvidia-openai-16gw-infrastructure"
   },
   {
     "date": "2026-08-18",
-    "title": "中国AI加速赋能千行百业：大模型调用量连续十四周领跑全球",
-    "summary": "《中国AI大模型调用量连续十四周领跑全球，前五全是中国产品》的消息引发关注。中国人民大学重阳金融研究院研究员衣英男接受采访时表示，中国在AI技术发展与应用方面取得显著进展，但\"调用量第一\"是否等同于\"技术第一\"仍值得探讨。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6846a83c45266752",
+    "title": "交通运输部定于8月20日举行\"人工智能+交通运输\"典型应用场景创新行动专题发布会",
+    "summary": "交通运输部定于2026年8月20日（周四）上午10时举行专题新闻发布会，介绍\"人工智能+交通运输\"典型应用场景创新行动有关情况，并回答记者提问。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2216a83dabf45852",
     "source": "企鹅号",
-    "slug": "china-ai-calls-lead-14-weeks"
+    "slug": "ministry-transport-ai-launch"
   },
   {
-    "date": "2026-08-17",
-    "title": "中国开源AI\"狂飙\"，成美国大模型\"底座\"",
-    "summary": "Hugging Face《开放模型现状：2026年夏季观察》报告发现，中国AI企业在开放模型领域快速崛起，部分模型正成为美国千亿级参数大模型的重要底座。1月至8月初，平台公共模型仓库数量从243万个增至296万个，中国实验室发布的开放模型在2026年几乎每月都超过美国。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9986a82e03036552",
+    "date": "2026-08-18",
+    "title": "AI爆发重塑存储芯片市场：全球产值2027年将破1.28万亿美元",
+    "summary": "2026年全球半导体产业正在经历一场底层逻辑的颠覆性变革。AI应用爆发驱动存储芯片需求激增，全球存储芯片产值预计2027年将突破1.28万亿美元。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8196a842bcf04252",
     "source": "企鹅号",
-    "slug": "china-open-source-ai-foundation"
+    "slug": "ai-storage-chip-market-1.28t"
   },
   {
-    "date": "2026-08-17",
+    "date": "2026-08-18",
+    "title": "国金证券：AI服务器扩容与先进封装推动测试需求向高复杂度演进",
+    "summary": "国金证券研报认为，AI服务器扩容、Chiplet与HBM应用普及、先进封装放量共同推动测试需求从\"更多芯片\"向\"更复杂芯片、更多测试\"演进。高端测试平台需配置更多通道与仪器板卡，推动TestCell高配化，行业竞争由单品突破迈向平台化整合。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7476a83bb9a14452",
+    "source": "企鹅号",
+    "slug": "ai-server-testing-market-analysis"
+  },
+  {
+    "date": "2026-08-18",
     "title": "美国拟要求伙伴在中美AI之间\"选边\"，全球AI竞争加速阵营化",
-    "summary": "智库观察指出，美国拟要求其伙伴在中美AI之间\"选边\"，全球人工智能竞争加速阵营化。随着AI技术成为大国博弈的核心变量，各国在AI领域的战略选择正面临越来越大的压力。",
+    "summary": "美国拟要求其伙伴在中美AI之间选边站位，全球人工智能竞争加速阵营化。这一动向将对全球AI产业链和供应链格局产生深远影响。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1166a82fcea94652",
     "source": "企鹅号",
-    "slug": "us-ai-alignment-pressure"
-  },
-  {
-    "date": "2026-08-17",
-    "title": "AI赋能智能未来：浙商共话未来产业新引擎与新赛道",
-    "summary": "当前全球制造业正迎来以人工智能、机器人技术为核心的颠覆性变革。作为人工智能与物理世界深度交互的关键核心技术，具身智能被视作大模型之后人工智能产业迭代升级的\"下一个风口\"，浙商群体共话AI赋能未来产业的新引擎与新赛道。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8696a82f9f326152",
-    "source": "企鹅号",
-    "slug": "embodied-ai-zhejiang-business"
-  },
-  {
-    "date": "2026-08-18",
-    "title": "7月《人工智能月刊》发布：国务院印发AI赋能新型工业化三年行动计划",
-    "summary": "2026年7月人工智能领域大事回顾：国务院印发AI赋能新型工业化三年行动计划，WAIC大会集中爆发企业智能体。本月网经社共发布人工智能图文类内容150条，其中111条入选7月《人工智能月报》。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8746a83bec296752",
-    "source": "企鹅号",
-    "slug": "july-ai-monthly-2026"
-  },
-  {
-    "date": "2026-08-17",
-    "title": "Anthropic第二财季营收同比飙升超13倍，AI大模型开始\"赚钱\"",
-    "summary": "海外方面，Anthropic 2026年第二季度初步营收超过115亿美元，较去年同期实现至少13倍的巨幅增长。与此同时，其产品结束测试阶段全面转为正式版商用服务；DeepSeek同步上调API价格，高峰时段计费价格直接翻倍。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0756a8307d756152",
-    "source": "企鹅号",
-    "slug": "anthropic-q2-revenue-13x"
-  },
-  {
-    "date": "2026-08-17",
-    "title": "阿里发布AI音乐模型HappyShrimp：端到端整曲生成",
-    "summary": "8月17日，阿里发布AI音乐模型HappyShrimp（快乐虾米）1.0。模型采用端到端整曲生成路线，把音乐理解为有语法、语义和上下文的特殊语言，可整体规划、同步创作生成完整歌曲。上线首日与太合音乐集团达成战略合作，国内及海外同步上线PC网页端。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3076a82d32070252",
-    "source": "企鹅号",
-    "slug": "alibaba-happyshrimp-music-ai"
-  },
-  {
-    "date": "2026-08-17",
-    "title": "范式PhanRouter实现GLM-5.3发布当日上线",
-    "summary": "智谱AI于8月14日正式发布新一代大模型GLM-5.3，范式集团旗下大模型统一调用平台PhanRouter同步完成适配并开放调用，成为首批上线GLM-5.3的平台之一。GLM-5.3总参数规模为7430亿，与GLM-5.2采用相同基座，能力提升主要来自后训练阶段的强化学习。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5256a82e45b45952",
-    "source": "企鹅号",
-    "slug": "glm-5-3-phanrouter-launch"
+    "slug": "us-china-ai-geopolitical-divide"
   }
 ]
