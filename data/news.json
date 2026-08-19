@@ -1,122 +1,106 @@
 [
   {
     "date": "2026-08-18",
-    "title": "AI重构大消费：Kimi K3领衔，中美大模型激烈交锋",
-    "summary": "2026盛夏AI热度持续攀升。Kimi K3领衔、Seedance 2.5落地，中美大模型技术激烈交锋；字节、阿里、腾讯在AI办公赛道争夺入口；存储巨头长鑫登顶，人形机器人“第一股”宇树如约而至。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5856a8410c982852",
-    "source": "企鹅号",
-    "slug": "ai-reconstruct-consumption-kimi-k3"
+    "title": "18个顶尖AI模型断网8天自主科研，逼近人类水平",
+    "summary": "PrimeIntellect实验显示，18个顶尖AI模型断网连续8天开展自主科研。Fable5模型仅差126步即追平人类82%的科研水平，使用153场完全自主实验优化GPT模型，标志AI科研辅助取得重大进展，但灵感创新仍需人类。",
+    "url": "https://new.qq.com/rain/a/20260818A06O6L00",
+    "source": "亿欧网 / 腾讯网",
+    "slug": "primeintellect-autonomous-ai-research"
   },
   {
     "date": "2026-08-18",
-    "title": "全球AI动态：自主科研逼近人类，中国开源模型参数领先",
-    "summary": "PrimeIntellect实验显示18个顶尖AI模型断网连续8天自主科研，Fable5仅差126步追平人类82%科研水平；日本拟将美国AI引入自卫队指挥体系；Hugging Face报告称2026年中国企业开源模型参数上限达7540亿至2.78万亿，阿里Qwen3.8-27B登顶趋势榜。",
+    "title": "日本拟将美国AI引入自卫队指挥体系",
+    "summary": "日本防卫省已着手研究将美国企业AI技术引入自卫队指挥控制体系，拟通过AI辅助指挥官分析战况、选择目标乃至下达命令以加快决策。美国Palantir的Maven Smart System系统在候选之列，同时亦计划综合使用日本国产AI以避免过度依赖。",
+    "url": "https://view.inews.qq.com/a/20260818A056NF00",
+    "source": "腾讯网",
+    "slug": "japan-us-ai-self-defense"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "中国开源大模型参数规模显著领先美国",
+    "summary": "Hugging Face最新观察报告显示，2026年以来多数月份中国AI企业发布的最大开源模型参数上限达7540亿至2.78万亿，而美国同期多数月份低于1300亿。阿里Qwen3.8-27B登顶Hugging Face趋势榜，开源两天下载破百万。",
     "url": "https://new.qq.com/rain/a/20260818A06O6L00",
     "source": "腾讯网",
-    "slug": "global-ai-daily-fable5-china-open-source"
+    "slug": "china-open-source-models-lead"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "北京成AI\"第一城\"，核心产业规模预计约4500亿元",
+    "summary": "北京累计备案大模型259款，日均调用量超14亿次，智谱GLM5.2、KimiK3等大模型在全球开源榜登顶。北京AI核心产业规模预计为4500亿元。2026年上半年服务机器人、工业机器人等产品产量分别增长230%、75.5%。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5946a852abc33852",
+    "source": "企鹅号",
+    "slug": "beijing-ai-first-city"
   },
   {
     "date": "2026-08-18",
-    "title": "工信部：上半年四足机器人占全球销量近70%，人形整机达400余款",
-    "summary": "多地加码人工智能推动经济向新向优。工信部数据显示，上半年我国四足机器人占全球销量份额接近70%，人形机器人整机产品达400余款。“十五五”规划明确提出提升数智化发展水平。",
+    "title": "工信部：我国四足机器人占全球销量份额近70%",
+    "summary": "工业和信息化部发布数据显示，今年上半年在智能机器人领域，我国研发的四足机器人占全球销量份额接近70%，人形机器人整机产品达400余款。多地加码人工智能，推动经济向新向优。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1886a846c4227052",
     "source": "企鹅号",
-    "slug": "miit-quadruped-robot-market-share"
+    "slug": "miit-quadruped-robot-share"
   },
   {
     "date": "2026-08-18",
-    "title": "斯坦福崔屹：AI真正革命在能源、材料、机器人与生命科学交汇处",
-    "summary": "美国国家科学院院士、斯坦福大学教授崔屹在硅谷VIP俱乐部2026年度论坛上表示，前两次工业革命放大人类体力，AI正在放大人类大脑；真正值得关注的是AI与能源、材料、机器人、纳米技术、合成生物学等技术交汇带来的系统性变革。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8266a83f3fc94052",
-    "source": "企鹅号",
-    "slug": "stanford-cui-yi-ai-revolution-convergence"
-  },
-  {
-    "date": "2026-08-18",
-    "title": "Anthropic二季度营收超115亿美元，人工智能ETF获资金增持",
-    "summary": "美国AI企业Anthropic第二季度营收超过115亿美元，较2025年同期实现约14倍增长，预计10月以2万亿美元或更高估值上市，有望成为史上最大IPO，为全球AI产业提供强劲估值锚点。",
+    "title": "Anthropic二季度营收超115亿美元，拟10月IPO",
+    "summary": "美国人工智能企业Anthropic第二季度营收超过115亿美元，较2025年同期实现约14倍的强劲增长。该公司预计将在10月以2万亿美元甚至更高的估值上市，若预测成真将成为史上规模最大的首次公开募股。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0776a83ec1530652",
     "source": "企鹅号",
-    "slug": "anthropic-q2-revenue-etf-inflows"
+    "slug": "anthropic-q2-revenue-ipo"
   },
   {
     "date": "2026-08-18",
-    "title": "云南省印发“人工智能+教育”行动方案，全学段普及通识教育",
-    "summary": "8月18日，云南省教育厅等部门联合印发《云南省“人工智能+教育”行动方案》，提出到2030年实现人工智能通识教育全学段覆盖。安徽启航合金材料申请AI液体温度智控专利，提升控温精度。",
+    "title": "云南\"人工智能+教育\"行动方案落地",
+    "summary": "8月18日，云南省教育厅等部门联合印发《云南省\"人工智能+教育\"行动方案》，提出到2030年实现人工智能通识教育全学段覆盖，全学段普及人工智能通识教育。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3306a83f40b94652",
     "source": "企鹅号",
-    "slug": "yunnan-ai-education-action-plan"
-  },
-  {
-    "date": "2026-08-18",
-    "title": "雄安新区构建人工智能产业创新体系",
-    "summary": "雄安新区依托算力、数据、场景三大核心资源，构建“院士引领、多平台支撑、实训育才、算力筑基、全域场景赋能”的人工智能产业创新体系，打造多元算力供给体系。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3406a841c8d49552",
-    "source": "企鹅号",
-    "slug": "xiongan-ai-industry-innovation-system"
+    "slug": "yunnan-ai-education-plan"
   },
   {
     "date": "2026-08-19",
-    "title": "宇树科技8月19日正式登陆科创板，成“人形机器人第一股”",
-    "summary": "宇树科技8月19日正式登陆科创板，如约成为“人形机器人第一股”。报道同时指出英伟达的AI护城河正从芯片转向资本，AI也让图书出版业陷入混乱。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6086a84e08612752",
+    "title": "OpenAI宣布推出ChatGPT青少年版",
+    "summary": "8月18日，OpenAI宣布正式推出ChatGPT青少年版。OpenAI表示，如果其系统判断用户未满18岁，或者用户自行填写年龄在13至17岁之间，系统将自动将其纳入该版本。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3186a84f71069652",
     "source": "企鹅号",
-    "slug": "unitree-lists-star-market-robotics-first"
-  },
-  {
-    "date": "2026-08-18",
-    "title": "共生知行发布人形机器人赛车Demo，探索双足“全身智能”",
-    "summary": "8月17日，具身智能初创公司共生知行（Symbiosis Robotics）发布双足人形机器人驾驶卡丁车Demo，机器人双手控方向盘、双脚踩踏板完成封闭赛道行驶，展示从视觉感知到全身动作输出的端到端技术路线。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3986a84074764152",
-    "source": "企鹅号",
-    "slug": "symbiosis-robotics-humanoid-karting-demo"
-  },
-  {
-    "date": "2026-08-18",
-    "title": "成都企业首创人形机器人“大脑”统一架构，已获发明专利授权",
-    "summary": "成都人形机器人创新中心发布中国首个统一VLA、世界模型、VA、VTA、VTLA的大脑系统——人形机器人决策规划与作业操作统一架构，将Agent-MCP-Skills分层认知决策体系与世界模型深度融合，已取得发明专利授权。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9606a84343884552",
-    "source": "企鹅号",
-    "slug": "chengdu-humanoid-brain-unified-architecture"
-  },
-  {
-    "date": "2026-08-18",
-    "title": "2026世界机器人大会将启：150新品亮相，宇树“超人”机器人引关注",
-    "summary": "2026世界机器人大会将于8月19日至23日在北京举办。宇树“超人”人形机器人以0.85米腿长实现原地跳高2米、极限奔跑12.66米/秒；云深处DR02完成军体拳与空翻。大会预计亮相150款新品。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4966a8432ad27152",
-    "source": "企鹅号",
-    "slug": "world-robot-conference-2026-150-new-products"
-  },
-  {
-    "date": "2026-08-18",
-    "title": "宇树发布“超人”人形机器人：原地跳高2米，速度超博尔特",
-    "summary": "宇树科技在官方微博发布30秒视频，人形机器人无助力原地起跳2米高；官方数据称原地跳高2米、极限速度12.66米/秒，腿长仅0.85米，两项数据均超越人类纪录。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8156a83f90e26752",
-    "source": "企鹅号",
-    "slug": "unitree-superman-humanoid-robot"
+    "slug": "openai-chatgpt-teen"
   },
   {
     "date": "2026-08-19",
-    "title": "华为昇腾份额破50%：英伟达让出中国AI芯片市场",
-    "summary": "三年前被视为外行的判断正在成为现实，华为昇腾在中国AI芯片市场份额突破50%，英伟达在中国AI芯片市场的份额大幅缩水。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0096a84bb7600252",
+    "title": "韩国AI专利申请量8年增长7倍",
+    "summary": "韩国经济研究院8月19日发布报告显示，2015年至2023年韩国AI相关专利申请量增长约7倍，占国内专利申请总量比重升至9%。研究人员对2015年至2024年韩国国内申请的约187万件专利进行分析，识别出9.9万余件AI技术专利。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7876a850c4507852",
+    "source": "CNMO科技 / 企鹅号",
+    "slug": "korea-ai-patent-growth"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "智谱GLM-5.3模型API正式上线",
+    "summary": "8月19日凌晨，智谱正式上线新一代基座模型GLM-5.3的API。该模型擅长复杂编码、防御性网络安全与长程任务，在Artificial Analysis Intelligence Index中取得60分，进入全球前沿模型能力区间，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰处于同一水平，并与Kimi K3并列开源模型第一。模型权重计划于下周五开源。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0476a850be842752",
     "source": "企鹅号",
-    "slug": "huawei-ascend-market-share-50-percent"
+    "slug": "zhipu-glm-5-3-api"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "AI Hangzhou 2026长三角人工智能发展大会在杭举行",
+    "summary": "8月18日，AI Hangzhou 2026 长三角人工智能发展大会在杭州国际博览中心举行，与2026杭州人工智能与数字安防博览会同期举办。大会以\"AI赋能·未来无界\"为主题，围绕算力资源、模型标准、关键技术和场景应用展开研讨。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4806a851f7506952",
+    "source": "企鹅号",
+    "slug": "ai-hangzhou-2026-conference"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "世界模型成物理AI新赛道，中国制造业场景优势凸显",
+    "summary": "中国制造业场景优势推动物理AI发展，成为全球AI竞争新焦点。世界模型成为下一代智能基础设施定义权之争的关键。中国通过重构物理AI效率函数，走出非对称加速路径，推动世界模型与实体经济深度融合，地方政府布局算力、数据、平台、场景四层要素。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5946a852abc33852",
+    "source": "企鹅号",
+    "slug": "world-model-physical-ai"
   },
   {
     "date": "2026-08-18",
-    "title": "中国海底数据中心引热议，破解AI“用水之困”",
-    "summary": "世界经济论坛报告称AI全产业链年耗淡水约230亿立方米。中国将数据中心沉入海底的方案在海外社交平台引发热议——全球首个商用及“海风直连”海底数据中心已在海南和上海投用，靠海水冷却、海风供电。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3506a841d1f04552",
+    "title": "人工智能ETF易方达连续获资金增持",
+    "summary": "受海外AI龙头第二季度营收高增提振，人工智能ETF易方达(159819)连续获资金增持。Anthropic等公司的强劲业绩与上市预期为全球AI产业提供了估值锚点，显著提振市场对人工智能行业高成长性的信心。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0776a83ec1530652",
     "source": "企鹅号",
-    "slug": "china-undersea-data-center-ai-water"
-  },
-  {
-    "date": "2026-08-18",
-    "title": "中科曙光携全国产十万卡AI超集群“曙光8000”亮相数博会",
-    "summary": "2026数博会将于8月28日至30日在贵阳举办。中科曙光将携国内首个全国产十万卡AI超集群“曙光8000（登峰）”亮相，该系统今年7月落成并接入国家超算互联网，已完成300余项超智融合应用优化。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9196a8435cb33752",
-    "source": "企鹅号",
-    "slug": "sugon-shuguang-8000-databay-expo"
+    "slug": "ai-etf-fund-inflows"
   }
 ]
