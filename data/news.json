@@ -1,114 +1,122 @@
 [
   {
     "date": "2026-08-19",
-    "title": "北京成AI\"第一城\"，核心产业规模预计约4500亿元",
-    "summary": "截至2026年7月，北京累计备案大模型259款，日均调用量超14亿次，智谱GLM5.2、KimiK3等大模型在全球开源榜登顶。北京AI核心产业规模预计为4500亿元。2026年上半年服务机器人、工业机器人等产品产量分别增长230%、75.5%。",
+    "title": "宇树科技科创板上市首日高开629.44%，市值突破4400亿元",
+    "summary": "人形机器人企业宇树科技登陆科创板，开盘报1100元/股，较发行价大涨629.44%，单签收益超47万元，总市值突破4400亿元，成为市场关注的焦点。",
+    "url": "https://www.readaitime.com/",
+    "source": "读懂AI时代 / 华尔街见闻",
+    "slug": "unitree-star-market-debut"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "马斯克呼吁确保人工智能对人类友好，自主智能体安全挑战引发行业共鸣",
+    "summary": "马斯克明确表达“希望人工智能对人类友好”的核心诉求，回应投资者关于“超级人工智能难以被束缚”的警告。近期Hugging Face OpenAI智能体集群逃逸事件等将AI安全挑战推向前台。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3066a8567bb32452",
+    "source": "企鹅号（环球网科技）",
+    "slug": "musk-ai-friendly-safety"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "世界模型成物理AI新赛道，中国制造业场景优势开启非对称加速",
+    "summary": "中国制造业场景优势推动物理AI发展，世界模型成为下一代智能基础设施定义权之争的关键。地方政府布局算力、数据、平台、场景四层要素，形成可持续商业闭环。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5946a852abc33852",
+    "source": "企鹅号",
+    "slug": "world-model-physical-ai"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "北京成为人工智能“第一城”，累计备案大模型259款",
+    "summary": "截至2026年7月，北京累计备案大模型259款，日均调用量超14亿次，智谱GLM5.2、KimiK3等在全球开源榜登顶。北京AI核心产业规模预计为4500亿元。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5946a852abc33852",
     "source": "企鹅号",
     "slug": "beijing-ai-first-city"
   },
   {
     "date": "2026-08-19",
-    "title": "中国AI\"智\"惠全球，多个国产大模型接连迭代\"上新\"",
-    "summary": "2026年以来中国AI持续向全球赋能。业内平台统计显示，当前中国AI大模型的调用量已连续多周保持全球第一，近期多个国产大模型接连迭代\"上新\"引发国内外广泛关注。",
+    "title": "360以产业实践与安全创新入选IDC中国AI50强",
+    "summary": "IDC发布《2026年IDC中国AI50强》榜单，360集团与阿里云智能、百度、腾讯云、小米等企业共同登榜，凭借企业级智能体与AI安全全栈布局入选。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2226a85822081652",
+    "source": "企鹅号",
+    "slug": "360-idc-ai50"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "工信部、国资委联合发起人形机器人与具身智能实景实训专项行动",
+    "summary": "专项行动聚焦工业制造、民生服务和特种作业三大领域，提出到2026年底在全国凝练出百个以上高价值应用场景，并带动形成万台级规模化落地能力。",
+    "url": "http://www.cio360.net/",
+    "source": "中国信息化周报",
+    "slug": "miit-humanoid-embodied-training"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "中国AI“智”惠全球，多个国产大模型接连迭代“上新”",
+    "summary": "央视网报道，2026年以来中国AI持续向全球赋能，国产大模型调用量已连续多周保持全球第一，多个国产大模型接连迭代引发国内外广泛关注。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8186a8569f028252",
-    "source": "企鹅号 / 央视网",
+    "source": "央视网 / 企鹅号",
     "slug": "china-ai-global-models"
   },
   {
     "date": "2026-08-19",
-    "title": "合肥获批\"国家人工智能产业创新应用先导区\"",
-    "summary": "8月19日，记者从合肥市工信局了解到，合肥近日获批建设国家人工智能产业创新应用先导区。该先导区由工信部主导设立，此前上海、深圳、北京、杭州等地已获批。合肥将打造\"AI创新标杆\"。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3016a855c5b78252",
-    "source": "企鹅号",
-    "slug": "hefei-ai-pilot-zone"
-  },
-  {
-    "date": "2026-08-19",
-    "title": "中国AI深度赋能制造业，形成实打实生产力",
-    "summary": "从大模型迭代到应用出海，再到深度赋能实体经济，中国AI的全球化路径正越走越宽。人工智能正加速渗透制造业，在海外生产基地和国内中小工厂中将技术创新转化为实打实的生产力。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9656a856b9d27352",
-    "source": "企鹅号 / 央视网",
-    "slug": "china-ai-manufacturing"
-  },
-  {
-    "date": "2026-08-19",
-    "title": "AI医疗行业周报：AI制药十余款管线推进至III期临床",
-    "summary": "华西医院建立全国最大研究型医院大数据平台并推出华西黉医医学人工智能大模型；中国联通智慧医疗方案入选亚太案例集；元示科技完成天使轮融资研发AI制药。人工智能加速新药研发，商业化提速。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5586a8567e109152",
-    "source": "企鹅号",
-    "slug": "ai-medical-weekly-report"
-  },
-  {
-    "date": "2026-08-19",
-    "title": "安利获2026 IDC中国人工智能创新奖",
-    "summary": "8月18日，在IDC主办的\"中国人工智能与数据峰会\"上，2026 IDC中国人工智能创新奖揭晓，安利（中国）董事长兼总裁余放获评\"年度AI名人榜\"，AI驱动大健康产业智能化转型。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4886a854d6e24852",
-    "source": "企鹅号",
-    "slug": "amway-idc-ai-award"
-  },
-  {
-    "date": "2026-08-19",
-    "title": "OpenAI宣布推出ChatGPT青少年版",
-    "summary": "8月18日，OpenAI宣布正式推出ChatGPT青少年版。OpenAI表示，如果其系统判断用户未满18岁，或者用户自行填写年龄在13至17岁之间，系统将自动将其纳入该版本。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3186a84f71069652",
-    "source": "企鹅号",
-    "slug": "openai-chatgpt-teen"
-  },
-  {
-    "date": "2026-08-19",
-    "title": "AI Hangzhou 2026长三角人工智能发展大会在杭举行",
-    "summary": "以\"AI赋能·未来无界\"为主题的AI Hangzhou 2026杭州人工智能大会暨长三角人工智能发展大会在杭州举行，围绕算力资源、模型标准、关键技术和场景应用展开研讨。人工智能已迈入规模化应用新阶段。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6906a85793924052",
-    "source": "企鹅号",
-    "slug": "ai-hangzhou-2026-conference"
-  },
-  {
-    "date": "2026-08-19",
-    "title": "智谱GLM-5.3上线，编程与安全双突破",
-    "summary": "智谱AI官方公告，GLM-5.3在编程与安全方面取得双突破，成为新一代开源前沿模型。模型在Artificial Analysis Intelligence Index中进入全球前沿能力区间，与Kimi K3并列开源模型第一。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5936a85029683552",
-    "source": "企鹅号",
-    "slug": "zhipu-glm-5-3"
-  },
-  {
-    "date": "2026-08-19",
-    "title": "济南发布70个AI赋能先进案例，《创新应用先进案例集》重磅推出",
-    "summary": "济南—青岛人工智能创新应用先导区\"百企百景\"暨科技成果转化路演对接会举办。智慧红绿灯、家政机器人、机器视觉质检等70个典型案例揭示AI赋能千行百业新图景。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6696a85771b88552",
-    "source": "企鹅号",
-    "slug": "jinan-ai-cases"
-  },
-  {
-    "date": "2026-08-19",
     "title": "广东新增25款备案AI大模型，累计达193款",
-    "summary": "截至8月18日，广东新增25款已完成备案的生成式人工智能服务，累计备案数量达193款，持续走在全国前列。新增模型来自广州、深圳、珠海等地企业，覆盖教育、法律、智能家居、汽车、营销、低空经济、具身智能等垂直场景。",
+    "summary": "截至8月18日，广东新增25款已完成备案的生成式人工智能服务，累计备案数量达193款。新增模型覆盖教育、法律、智能家居、汽车、营销、低空经济、具身智能等场景。",
     "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5216a85391453852",
-    "source": "企鹅号 / 网信广东",
-    "slug": "guangdong-25-ai-models"
+    "source": "企鹅号（网信广东）",
+    "slug": "guangdong-25-new-models"
   },
   {
     "date": "2026-08-19",
-    "title": "Hi3D V3.0发布，成业界首个可商用2048³超高精度AI 3D模型",
-    "summary": "一站式AI 3D创作平台Hi3D发布V3.0，将几何重建分辨率提升至2048³体素级，纹理输出上限拉升至8K，并升级跨视角结构推理与自研UV补全算法。8月19日至21日面向全球用户开放48小时免费体验。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6966a84ecee22152",
-    "source": "企鹅号 / 南极熊",
-    "slug": "hi3d-v3-release"
-  },
-  {
-    "date": "2026-08-19",
-    "title": "讯飞医疗披露2026中期业绩：营收大涨49.4%",
-    "summary": "8月18日讯飞医疗（02506.HK）发布中期业绩，实现营业收入4.46亿元，同比增长49.4%；毛利2.36亿元，同比增长53.5%。毛利率提升主要源于AI数字基座业务带动。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8486a84853449652",
+    "title": "源络科技探索科学智能新范式，从自主实验室到AI for Science",
+    "summary": "源络科技依托以物体为中心的物理原生模型OPN，机器人进一步实现细胞毒性检测全流程自主执行，并于2026世界机器人大会期间完成展示，探索具身智能从单场景向多任务泛化演进。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5466a854f9863452",
     "source": "企鹅号",
-    "slug": "iflytek-medical-halfyear"
+    "slug": "yuanluo-ai-for-science"
   },
   {
     "date": "2026-08-19",
-    "title": "世界模型成物理AI新赛道，中国制造业场景优势凸显",
-    "summary": "中国制造业场景优势推动物理AI发展，成为全球AI竞争新焦点。世界模型成为下一代智能基础设施定义权之争的关键。地方政府布局算力、数据、平台、场景四层要素，形成可持续商业闭环。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5946a852abc33852",
+    "title": "WRC2026探馆：宇树科技AI集群全自主演示展现具身智能新突破",
+    "summary": "2026世界机器人大会上，宇树科技携多款人形、四足机器人亮相，通过多机型协同作业、AI集群自主表演、动态运动能力测试等，展现从单体智能迈向群体智能的技术进展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3136a85b1e153852",
     "source": "企鹅号",
-    "slug": "world-model-physical-ai"
+    "slug": "wrc2026-unitree-ai-cluster"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "OpenAI二季度营收67亿美元环比增长18%，亏损扩大",
+    "summary": "OpenAI二季度营收67亿美元，环比增长18%，但营业利润率下滑、亏损扩大。公司在Hugging Face事件后暂停了研究集群中可能执行代码的前沿模型推理任务，并暂缓强化学习训练。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7056a85004e98852",
+    "source": "企鹅号",
+    "slug": "openai-q2-revenue"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "Anthropic年化收入据传突破650亿美元，商业化增速引发多方解读",
+    "summary": "据行业平台统计，Anthropic年化收入超650亿美元，半年翻7倍。其商业化增速引发市场多方解读，并带动关于其争夺2026年最大IPO的预测。",
+    "url": "https://www.readaitime.com/",
+    "source": "读懂AI时代",
+    "slug": "anthropic-annualized-revenue"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "魔法原子WAIC2026亮相Magic-VLA K02，打造物理AI平台大脑",
+    "summary": "2026世界人工智能大会期间，魔法原子携自研通用具身大模型Magic-VLA K02最新成果亮相，面向公众展示其在具身智能与物理AI平台方面的进展。",
+    "url": "https://cn.dailyeconomic.com/tech/",
+    "source": "每日经济",
+    "slug": "magiclab-magic-vla-k02"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "WAPI产业联盟发布新版测试项，新增极高吞吐量安全无线能力测试",
+    "summary": "WAPI产业联盟发布《无线局域网鉴别与保密基础结构(WAPI)功能测试项目(2026年8月版)》，新增极高吞吐量安全无线能力测试项。",
+    "url": "http://www.cio360.net/",
+    "source": "中国信息化周报",
+    "slug": "wapi-alliance-test-update"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "微信新调整：发消息可“无痕撤回”，Gemini持续迭代",
+    "summary": "科技资讯显示微信推出“无痕撤回”新调整；同时Google核心AI助手品牌Gemini持续迭代，能够理解、操作更多任务场景。",
+    "url": "https://cn.dailyeconomic.com/tech/",
+    "source": "每日经济",
+    "slug": "wechat-unsend-gemini"
   }
 ]
