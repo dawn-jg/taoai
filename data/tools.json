@@ -5180,47 +5180,6 @@
     ]
   },
   {
-    "slug": "tool56",
-    "name": "Midjourney",
-    "description": "属于AI图像工具·AI图片插画生成分类。Midjourney是一款AI图像工具领域的免费增值AI工具，AI图像和插画生成工具。支持AI图像工。",
-    "url": "https://www.midjourney.com/home",
-    "categories": [
-      "ai-image"
-    ],
-    "tags": [
-      "AI图像工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-image-illustration",
-    "logo": "/logos/tool56.png",
-    "domain": "midjourney.com",
-    "detailed_content": [
-      {
-        "title": "Midjourney是什么",
-        "html": "<p>Midjourney 是人工智能研究实验室 Midjourney, Inc. 推出的<a href=\"https://ai-bot.cn/best-ai-image-generators/\">AI图像生成工具</a>，可根据输入的文本提示生成图像。程序最早于2022年7月12日进入公开测试阶段，用户可通过 Discord 的机器人指令进行操作，创作出许多不同风格的图像作品。工具持续迭代升级模型（如 <a href=\"https://ai-bot.cn/midjourney-v7/\" target=\"_blank\" rel=\"noopener\">MidjourneyV7</a>、MidjourneyV8 等），其国内官方中文版为：<a href=\"https://ai-bot.cn/sites/33956.html\" target=\"_blank\" rel=\"noopener\">悠船</a>。Midjourney 支持多种艺术风格、画面比例和参数调节，广泛应用于设计、插画、概念艺术等领域。</p>"
-      },
-      {
-        "title": "Midjourney的主要功能",
-        "html": "<ul>\n<li><strong>文本到图像生成</strong>：在Discord中使用/imagine命令后，输入文本提示词，即可生成对应描述的图片</li>\n<li><strong>图像混合创意叠图</strong>：使用/blend命令，可以将多张图片合并以创建融合型风格的全新图片，激发独特创意</li>\n<li><strong>图像扩展和平移</strong>：Midjourney支持在上下左右四个方向平移图像扩展画面内容，支持zoom out外绘缩放画面主体</li>\n<li><strong>图像高清放大</strong>：Midjourney默认生成1024*1024像素的图片，支持最高放大图像4倍</li>\n<li><strong>智能扩图</strong>：自动延伸画面边缘，扩展场景内容，支持上下左右及全方位扩展。</li>\n<li><strong>参数控制</strong>：支持调节画面比例、混沌度、风格化强度、版本模型等参数以精准控制效果。</li>\n</ul>"
-      },
-      {
-        "title": "Midjourney的产品定价",
-        "html": "<p>Midjourney 目前提供有四个订阅级别，按年支付可享受 20% 的折扣。每个订阅计划都包括访问 Midjourney 会员图库、官方 Discord、一般商业使用等。</p>\n<ul>\n<li>Basic Plan 基础版：10美元每月（年付96美元）</li>\n<li>Standard Plan 标准版：30美元每月（年付288美元）</li>\n<li>Pro Plan 专业版：60美元每月（年付576美元）</li>\n<li>Mega Plan 大型版：120美元每月（年付1152美元）</li>\n</ul>"
-      },
-      {
-        "title": "Midjourney的使用方法",
-        "html": "<p><strong>方法1：Discord社区</strong></p>\n<ul>\n<li>登录或注册Discord账号：Midjourney目前支持通过Discord社区来生成图片，所以需要Discord账户。</li>\n<li>选择一个付费版本订阅：访问midjourney.com/account，使用 Discord 帐户登录，选择一个订阅计划。</li>\n<li>在 Discord 上加入 Midjourney 服务器：访问 https://discord.com/invite/midjourney 点击接受邀请加入该服务器。</li>\n<li>切换到#General 或 #Newbie 频道：在 Discord 上找到并选择标有 general 或 newbie 的任何频道。</li>\n<li>使用/imagine命令生成图片：在输入框键入/imagine指令，然后输入提示词描述，即可生成图片。</li>\n</ul>\n<p><strong>方法2：Midjourney网页端</strong></p>\n<ul>\n<li>登录账号：使用Discord或Google账号登录Midjourney网页端，可以在账户设置中合并两个平台的登录信息，确保历史记录同步。</li>\n<li>开始创作：进入Midjourney网页端，找到Create：https://www.midjourney.com/imagine ，输入文本指令即可开始创作，新用户可以免费试用25次。</li>\n<li>作品案例：Midjourney网页端提供了很多作品案例，用户可以直接复制优秀作品的提示词，修改后使用。</li>\n</ul>"
-      },
-      {
-        "title": "Midjourney的常见问题",
-        "html": "<div id=\"accordion\" style=\"max-width: 700px;\">\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Midjourney提供免费试用吗？</strong></div>\n<div class=\"card-body text-sm\">Midjourney在上线初期，有为用户提供免费试用生成25张图片的额度，但由于用户量的激增，服务器费用增加，取消了免费试用的计划，需要付费订阅才能使用。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Midjourney只能通过Discord使用吗？</strong></div>\n<div class=\"card-body text-sm\">目前Midjourney暂时只能通过Discord服务器使用，但Midjourney的在线网站处于建设中，预计将很快上线在线网页生成图片的功能。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Midjourney有国内版本吗？</strong></div>\n<div class=\"card-body text-sm\">Midjourney虽然一直有进军中国市场的打算，但至今未官方推出过任何国内版本，许多声称国内版的基本都是假冒。</div>\n</div>\n</div>"
-      }
-    ]
-  },
-  {
     "slug": "tool2400",
     "name": "美图设计室",
     "description": "属于AI图像工具·AI图片插画生成分类。美图设计室是一款AI图像工具领域的免费增值AI工具，AI图像创作和设计平台。支持AI图像工。",
@@ -19663,7 +19622,7 @@
   },
   {
     "slug": "tool10217",
-    "name": "Zoom Workplace&#xFF1A;&#x56E2;&#x961F;&#",
+    "name": "Zoom Workplace",
     "description": "属于AI办公工具·AI文档处理分类。Zoom推出的AI办公协作和交流沟通平台。支持AI办公工，适合需要提升办公效率与自动化的用户。",
     "url": "https://www.zoom.com/zh-cn/products/collaboration-tools",
     "categories": [
@@ -23524,51 +23483,6 @@
     ]
   },
   {
-    "slug": "tool72731",
-    "name": "MiniMax Agent",
-    "description": "MiniMax Agent是一款AI智能体领域的免费增值AI工具，MiniMax推出的通用型AI智能体。支持AI智能体。",
-    "url": "https://agent.minimaxi.com/",
-    "categories": [
-      "ai-agent"
-    ],
-    "tags": [
-      "AI智能体"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-agent-framework",
-    "logo": "/logos/tool72731.png",
-    "domain": "agent.minimaxi.com",
-    "detailed_content": [
-      {
-        "title": "MiniMax Agent是什么",
-        "html": "<p class=\"ds-markdown-paragraph\">MiniMax Agent 是MiniMax推出的能完成长程复杂任务的通用智能体，由Multi-agent System支撑。MiniMax Agent 能自主规划专家级方案、灵活拆解需求，并行执行多个子任务并交付成果。作为 AI 原生工作台，MiniMax Agent推出 Windows 和 Mac 双版本桌面应用，可深度操作桌面应用、自动处理本地文件和网页，将复杂行业经验转化为专属专家助手。MiniMax Agent 核心能力涵盖全栈<a href=\"https://ai-bot.cn/ai-agent-development-platform/\" target=\"_blank\" rel=\"noopener\">开发</a>、高质量<a href=\"https://ai-bot.cn/ai-ppt-presentation-makers/\" target=\"_blank\" rel=\"noopener\">PPT生成</a>、深度研究、多模态输入输出及MCP生态集成。<a href=\"https://ai-bot.cn/maxclaw/\" target=\"_blank\" rel=\"noopener\">MaxClaw</a>作为其云端平台，支持10秒部署、24小时在线，可在飞书、钉钉、企业微信等使用，内置 Skill 生成器，支持对话创建专属 Skill 一键发布到OpenClaw开源社区。专家智能体社区提供PPT制作、投研分析、AI编程等预置助手，让办公、金融、开发等复杂工作变得轻松高效。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/03/MiniMax-Agent-website.png\" data-fancybox=\"fancybox\" data-caption=\"MiniMax Agent\"><img decoding=\"async\" class=\"alignnone wp-image-72733\" src=\"https://ai-bot.cn/wp-content/uploads/2026/03/MiniMax-Agent-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"MiniMax Agent\" width=\"740\" height=\"416\"></a>"
-      },
-      {
-        "title": "MiniMax Agent的主要功能",
-        "html": "<ul>\n<li><strong>代码开发</strong>：支持全栈开发带身份验证、数据库和支付功能的Web应用，并自动测试确保质量。</li>\n<li><strong>PPT生成</strong>：可制作排版灵活美观的专业演示文稿，支持高质量导出为HTML、PPTX或PDF格式。</li>\n<li><strong>深度研究</strong>：结合搜索、API调用和浏览器使用等多工具，生成洞察全面的调研报告。</li>\n<li><strong>多模态处理</strong>：输入支持文本、视频、音频和图片，输出支持生成图像、音频和视频内容。</li>\n<li><strong>MCP生态</strong>：支持自定义或使用预置MCP（如GitHub、Figma），扩展Agent的工具能力。</li>\n<li><strong>MiniMax</strong>：云端智能助手平台，支持10秒极速部署、24小时在线使用，可在飞书、钉钉等聊天应用中直接对话，支持用户自定义名称和性格，打造个性化的专属智能助手。</li>\n<li><strong>专家生态</strong>：提供覆盖办公、金融、编程等领域的预置专家智能体，即开即用。</li>\n<li>\n<div class=\"paragraph\"><strong>Pocket 功能（Beta 版）</strong>：支持接入飞书、微信、企业微信、Slack 等主流 IM 软件，用户可在聊天窗口直接发送指令，Agent 在电脑上完成任务并将结果（文件、链接、截图）回传至原对话，实现”随身携带”的桌面智能体。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Computer Use 功能</strong>：Agent 可像人一样看屏幕、操作鼠标和键盘，直接操作用户电脑上的本地软件（设计工具、内部系统）和图形界面（系统偏好设置），解决命令行无法触达的桌面任务。</div>\n</li>\n<li><strong>Mavis模式</strong>：支持创建多角色 Agent 并行协作，像组建一支虚拟团队一样分工处理复杂长任务，解决单 Agent 中途停摆、长任务漂移和响应延迟等痛点。</li>\n</ul>"
-      },
-      {
-        "title": "如何使用MiniMax Agent",
-        "html": "<ul>\n<li><strong>注册登录</strong>：访问MiniMax Agent平台官网 https://agent.minimaxi.com/ 登录使用或下载客户端。</li>\n<li><strong>提交任务</strong>：在输入框上传文件或选择MCP，让Agent明确任务需求。</li>\n<li><strong>任务交互</strong>：Agent执行中会询问补充信息或要求配置，可随时增加新指令。</li>\n<li><strong>获取结果</strong>：任务完成后下载生成文件，或直接访问网页部署链接。</li>\n<li><strong>多平台使用</strong>：在Windows/Mac桌面应用深度操作本地文件，或在飞书、钉钉直接对话。</li>\n<li><strong>专家调用</strong>：在社区选择预置专家智能体（如PPT制作、投研分析），即开即用无需配置。</li>\n</ul>"
-      },
-      {
-        "title": "MiniMax Agent的使用示例",
-        "html": "<p><strong>定时任务</strong></p>\n<blockquote>\n<p class=\"tiptap-paragraph\" data-pm-slice=\"1 1 []\">每天 10:00 为我提供过去 24 小时内科技和科学领域的重点新闻摘要。每条新闻提炼一个核心要点，并附带网络检索来源，确保清晰易读。</p>\n</blockquote>\n<p data-pm-slice=\"1 1 []\"><a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/03/MiniMax-Agent-website3.png\" data-fancybox=\"fancybox\" data-caption=\"MiniMax Agent\"><img decoding=\"async\" class=\"alignnone wp-image-72736\" src=\"https://ai-bot.cn/wp-content/uploads/2026/03/MiniMax-Agent-website3.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"MiniMax Agent\" width=\"740\" height=\"416\"></a></p>\n<p data-pm-slice=\"1 1 []\"><strong>图片生成</strong></p>\n<blockquote>\n<p class=\"tiptap-paragraph\" data-pm-slice=\"1 1 []\">一张抓拍的野生动物照片：一只北极狐在深雪中捕猎，正处于扑跳动作中，耳朵向前倾。雪花挂在它厚厚的白毛上，眼神高度专注。广阔的苔原景观正值黄金时刻(日落时分)，柔和温暖的低角度光线，呼出的冷气清晰可见。浅景深，毛发和雪地的纹理细节令人难以置信。使用尼康 Z9 拍摄，600mm 长焦镜头，自然纪实风格，原始而粗犷的感觉。</p>\n</blockquote>\n<p data-pm-slice=\"1 1 []\"><a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/03/MiniMax-Agent-website-2.png\" data-fancybox=\"fancybox\" data-caption=\"MiniMax Agent\"><img decoding=\"async\" class=\"alignnone wp-image-72735\" src=\"https://ai-bot.cn/wp-content/uploads/2026/03/MiniMax-Agent-website-2.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"MiniMax Agent\" width=\"740\" height=\"416\"></a></p>"
-      },
-      {
-        "title": "MiniMax Agent的产品定价",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>免费</strong>：每日200积分，每天00:00刷新，含1,000免费积分和200每日积分，适合轻度体验用户。</li>\n<li class=\"paragraph\"><strong>基础版</strong>：¥39/月，每月5,000积分，可完成约45个专业模式任务，含每日200积分、高峰优先、去水印、自定义域名及24/7云端MaxClaw部署。</li>\n<li class=\"paragraph\"><strong>专业版</strong>：¥119/月，每月16,000积分，可完成约150个专业模式任务，享受基础版全部权益，适合高频专业用户。</li>\n</ul>"
-      },
-      {
-        "title": "MiniMax Agent的应用场景",
-        "html": "<ul>\n<li><strong>办公提效</strong>：自动生成专业PPT、整理本地文件、处理Excel表格，让繁琐的办公任务一键完成。</li>\n<li><strong>金融分析</strong>：用多智能体协作进行股票价值分析、行业研报撰写和投资风险评估，辅助投资决策。</li>\n<li><strong>编程开发</strong>：用平台开发Web应用、审查代码质量、修复安全漏洞，加速软件开发全流程。</li>\n<li><strong>内容创作</strong>：从热点追踪、图像生成到AI短剧制作，一站式完成图文音视频的多模态创作。</li>\n<li><strong>深度研究</strong>：结合搜索和API工具进行市场调研、竞争格局分析，生成数据驱动的洞察报告。</li>\n</ul>"
-      }
-    ]
-  },
-  {
     "slug": "tool74722",
     "name": "首个有灵魂的 AI Agent 操作系统",
     "description": "属于AI智能体·AI Agent框架分类。首个有灵魂的 AI Agent 操作系统。支持AI智能体，适合需要AI智能体与自动化工作流的用户。",
@@ -25272,55 +25186,6 @@
       {
         "title": "Gemini的应用场景",
         "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">旅行规划</strong>：Gemini 可以根据用户的搜索历史和偏好，推荐旅行目的地、酒店、餐厅和活动。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">兴趣爱好推荐</strong>：基于用户在 Google 搜索、YouTube 等平台上的活动记录，Gemini 能提供个性化的兴趣爱好建议。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">学习辅导</strong>：Gemini 可以根据用户的学习进度和需求，提供个性化的学习建议和辅导。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>资料整理与总结</strong>：用户可以上传学习资料，Gemini 能够帮助总结重点、生成笔记。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">代码协作与开发</strong>：Gemini 的 Canvas 功能为开发者提供了一个实时协作空间，能生成代码并实时预览效果。</div>\n</li>\n</ul>"
-      }
-    ]
-  },
-  {
-    "slug": "tool54501",
-    "name": "DeepSeek",
-    "description": "DeepSeek是一款AI聊天助手领域的免费增值AI工具，幻方量化推出的AI智能助手和开源大模型。支持AI聊天助。",
-    "url": "https://deepseek.com/",
-    "categories": [
-      "ai-chat"
-    ],
-    "tags": [
-      "AI聊天助"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-chat-general",
-    "logo": "/logos/tool54501.png",
-    "domain": "deepseek.com",
-    "detailed_content": [
-      {
-        "title": "DeepSeek是什么",
-        "html": "<p>DeepSeek是幻方量化旗下的人工智能公司深度求索自主研发的开源大模型和<a href=\"https://ai-bot.cn/best-free-ai-chatbots/\" target=\"_blank\" rel=\"noopener\">AI智能助手</a>，专注于通用人工智能（AGI）底层模型与技术的研发，探索AGI的实现路径。DeepSeek推出了多个开源大语言模型，如DeepSeek-V3和DeepSeek-R1，分别对标GPT-4o和OpenAI的o1模型。模型在推理、数学和编程能力方面表现出色，训练成本远低于行业平均水平。应用广泛，涵盖智能对话、文本生成、语义理解、代码生成等多个领域，支持联网搜索、深度思考等功能。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-54518\" src=\"https://ai-bot.cn/wp-content/uploads/2025/06/DeepSeek-website-1.png\"   alt=\"DeepSeek\" width=\"739\" height=\"416\" />"
-      },
-      {
-        "title": "DeepSeek的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">智能问答与对话</strong>：DeepSeek 能快速回答各类问题，涵盖科学知识、历史文化、生活常识和技术问题等，支持多轮对话交互，理解上下文并给出连贯的回答。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">文本创作</strong>：可以生成文章、故事、诗歌、报告、邮件等多种类型的文本内容。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">语言翻译</strong>：支持多种语言之间的互译。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">数据处理</strong>：能处理和清洗数据，进行统计分析。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>可视化图表生成</strong>：将数据转化为柱状图、折线图、饼图等直观的可视化图表。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\" style=\"font-size: 0.875rem;\">代码生成</strong><span style=\"font-size: 0.875rem;\">：根据自然语言描述生成代码，支持多种编程语言。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong style=\"font-size: 0.875rem;\">代码调试与优化</strong><span style=\"font-size: 0.875rem;\">：帮助开发者快速定位和解决问题。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">数学计算与推理</strong>：DeepSeek 在数学计算和逻辑推理方面表现出色，能处理复杂的数学问题。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">联网搜索与实时信息获取</strong>：通过联网搜索功能，DeepSeek 可以实时抓取互联网上的最新信息，帮助用户获取最新的数据和动态。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">深度思考与复杂问题解决</strong>：深度思考模式（R1）能处理复杂的逻辑推理和多步分析问题。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">智能客服与自动化服务</strong>：DeepSeek 可以集成到各种系统中，提供智能客服支持，提高服务效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>大模型开发与管理</strong>：DeepSeek 提供大模型开发平台，支持模型训练、管理、数据集管控等功能。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "DeepSeek的开源模型",
-        "html": "<ul>\n<li><strong>通用大语言模型</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><a href=\"https://ai-bot.cn/deepseek-v3/\" target=\"_blank\" rel=\"noopener\"><strong class=\"\">DeepSeek-V3</strong></a>：采用混合专家（MoE）架构，总参数规模为671B，激活参数37B。模型在数学、代码等任务上表现优异，支持128K长上下文，生成速度达60 TPS。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>DeepSeek-V3-Base</strong>：与DeepSeek-V3架构相同，提供原生FP8权重，支持多种推理框架。</div>\n</li>\n<li><a href=\"https://ai-bot.cn/deepseek-v3-2/\" target=\"_blank\" rel=\"noopener\"><strong>DeepSeek-V3.2</strong></a>：DeepSeek开源的V3.2正式版本，模型基于<a href=\"https://ai-bot.cn/deepseek-v3-1-terminus/\" target=\"_blank\" rel=\"noopener\">DeepSeek-V3.1-Terminus</a>持续训练而成，仅在架构上引入了DSA，实现了细粒度稀疏注意力机制，借助闪电索引器（lightning indexer）高效选择关键信息，在长文本训练和推理时大幅提高效率。</li>\n</ul>\n</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-36011\" src=\"https://ai-bot.cn/wp-content/uploads/2024/12/DeepSeek-v3-website2.png\"   alt=\"\" width=\"740\" height=\"416\" />\n<ul>\n<li><strong>推理优化模型</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><a href=\"https://ai-bot.cn/deepseek-r1/\" target=\"_blank\" rel=\"noopener\"><strong class=\"\">DeepSeek-R1</strong></a>：基于DeepSeek-V3-Base训练，通过强化学习优化推理能力，在数学、编程和自然语言推理任务中表现突出。</div>\n</li>\n<li>\n<div class=\"paragraph\"><a href=\"https://ai-bot.cn/deepseek-r1-zero/\" target=\"_blank\" rel=\"noopener\"><strong class=\"\">DeepSeek-R1-Zero</strong></a>：未使用监督微调的强化学习模型，推理能力强大，但在可读性等方面存在挑战。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">DeepSeek-R1-Distill</strong>：基于DeepSeek-R1生成的推理数据对小型模型进行蒸馏优化，涵盖1.5B、7B、8B、14B、32B和70B等不同规模。</div>\n</li>\n<li><a href=\"https://ai-bot.cn/deepseek-r1-0528/\" target=\"_blank\" rel=\"noopener\"><strong>DeepSeek-R1-0528</strong></a> ：是 DeepSeek 推出的最新版AI模型。模型基于 DeepSeek-V3-0324 训练，参数量达 660B。核心亮点包括深度推理能力、优化的文本生成、独特的推理风格及长达 30-60 分钟的单任务处理能力。</li>\n</ul>\n</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-53034\" src=\"https://ai-bot.cn/wp-content/uploads/2025/05/DeepSeek-R1-0528-website61.png\"   alt=\"DeepSeek-R1-0528\" width=\"660\" height=\"371\" />\n<ul>\n<li><strong>多模态模型</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><a href=\"https://ai-bot.cn/deepseek-vl2/\" target=\"_blank\" rel=\"noopener\"><strong class=\"\">DeepSeek-VL2</strong></a>：视觉与语言理解多模态模型，包含Tiny、Small和标准版，分别具有1.0B、2.8B和4.5B激活参数。</div>\n</li>\n<li>\n<div class=\"paragraph\"><a href=\"https://ai-bot.cn/janus-pro/\" target=\"_blank\" rel=\"noopener\"><strong class=\"\">Janus</strong></a>：多模态模型系列，专注于视觉与语言的结合。</div>\n</li>\n</ul>\n</li>\n<li><strong>垂直领域模型</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><a href=\"https://ai-bot.cn/deepseek-prover-v2/\" target=\"_blank\" rel=\"noopener\"><strong>DeepSeek-Prover-V2</strong></a>：专为数学定理证明设计，基于Lean 4编程语言实现形式化推理验证。</div>\n</li>\n</ul>\n</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-50187\" src=\"https://ai-bot.cn/wp-content/uploads/2025/04/DeepSeek-Prover-V2-website1.png\"   alt=\"DeepSeek-Prover-V2\" width=\"661\" height=\"372\" />"
-      },
-      {
-        "title": "DeepSeek的技术优势",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">混合专家（MoE）架构</strong>：DeepSeek-V3 采用 MoE 架构，总参数规模达到 671B，在实际运行中每个 token 仅激活 37B 参数。架构通过多头隐式注意力（MLA）技术，将 Key-Value 缓存压缩至传统 Transformer 的 1/4，推理延迟大幅降低。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">多令牌预测机制</strong>：DeepSeek-V3 采用多令牌预测（MTP）技术，一次性预测多个 token，提升了训练效率和推理速度。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">强化学习优化</strong>：DeepSeek-R1 通过强化学习飞轮进行训练，构建了包含 1.4 万个虚拟场景的决策沙盒，增加了思维连贯性和可解释性指标，使模型在学习效率和决策质量上表现出色。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">万亿 token 训练体系</strong>：DeepSeek-V3 构建了涵盖代码、数学证明、多语言文献等丰富内容的 14.8 万亿 token 语料库，采用动态质量过滤机制，确保数据的高质量。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>渐进式训练</strong>：从 4K 上下文逐步扩展至 128K，内存占用仅增加 18%，能适应更复杂的任务。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>模型蒸馏技术</strong>：DeepSeek 可将百亿参数模型压缩至 10 亿级而不显著损失性能，能在边缘设备（如低配手机、工业传感器）上运行复杂 AI 任务。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多语言支持</strong>：DeepSeek-V3 支持多达 83 种语言，在 XTREME-UR 评测中平均得分 89.4，适用于跨国交流和多语言文档处理。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>推理响应快</strong>：DeepSeek 的推理响应速度快，推理解码阶段延迟低至 163 微秒，比人类眨眼还快 5 倍。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">算力成本降低</strong>：通过优化资源利用率，DeepSeek 让开发者可以用更少的 GPU 训练更大的模型，算力成本降低 60%。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>端侧部署优势</strong>：DeepSeek 的轻量化版本能够适配从低端到高端芯片的多种硬件，推动端侧 AI 生态建设。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多模态融合</strong>：DeepSeek 可以融合卫星遥感、无人机巡检、车载传感器等多源数据，构建复杂的“数字孪生”模型。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>低资源场景适应性</strong>：通过迁移学习和小样本学习能力，DeepSeek 能在病害样本少的场景下实现精准识别。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>开源特性</strong>：DeepSeek 的开源特性和低成本高性能优势，降低了企业进入 AI 领域的门槛，推动了 AI 技术的普及。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>通信优化</strong>：DeepSeek 开源的通信库 <a href=\"https://ai-bot.cn/deepep/\" target=\"_blank\" rel=\"noopener\">DeepEP</a> 可大幅提升数据传输效率，训练提速 40%，跨服务器传输延迟显著降低。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "如何使用DeepSeek",
-        "html": "<ul>\n<li><strong>使用方式</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>网页版</strong>：访问 DeepSeek 官网，无需下载，打开浏览器即可使用。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>App 版</strong>：在各大应用商店下载“<a href=\"https://ai-bot.cn/app/38498.html\" target=\"_blank\" rel=\"noopener\">DeepSeek APP</a>”，安装即可。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">浏览器插件</strong>：在 Chrome 应用商店搜索“DeepSeek AI”并安装。</div>\n</li>\n</ul>\n</li>\n<li><strong>功能模式</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">智能对话模式</strong>：用于日常问答、文案创作、内容优化等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">AI 搜索模式</strong>：结合联网搜索功能，实时查询网上信息后给出回答。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>文件阅读模式</strong>：上传文档后，DeepSeek 可提取关键信息、总结内容。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">深度思考模式</strong>：开启后，模型会展示思考过程，适合解决复杂问题。</div>\n</li>\n</ul>\n</li>\n<li><strong>使用技巧</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>明确问题</strong>：清晰描述问题，避免模糊表达。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>分步骤提问</strong>：复杂问题拆分为多个小问题，逐步深入。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>使用关键词</strong>：帮助模型更好地理解需求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多轮对话</strong>：逐步深入探讨某个话题。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>角色扮演</strong>：模拟不同角色进行对话。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>知识库构建</strong>：结合 RAGFlow 构建个人知识库。</div>\n</li>\n<li><strong>更多技巧</strong>：<a href=\"https://ai-bot.cn/ai-tutorials-deepseek-from-beginner-to-expert/\" target=\"_blank\" rel=\"noopener\">DeepSeek从入门到精通</a></li>\n</ul>\n</li>\n<li><strong>本地部署</strong>：对于有数据安全和隐私保护需求的用户，DeepSeek 支持本地部署：（点击获取<a href=\"https://ai-bot.cn/ai-tutorials-deepseek-local-deployment/\" target=\"_blank\" rel=\"noopener\">DeepSeek本地部署保姆级教程</a>）\n<ul>\n<li class=\"paragraph\">从官网下载模型文件。</li>\n<li class=\"paragraph\">安装所需依赖库和环境。</li>\n<li class=\"paragraph\">配置服务器，部署模型。</li>\n<li class=\"paragraph\">测试并优化模型性能。</li>\n</ul>\n</li>\n<li><strong><a href=\"https://ai-bot.cn/deepseek-prompt-library/\" target=\"_blank\" rel=\"noopener\">DeepSeek 官方提示词库</a>：</strong>是为用户提供的高效 AI 交互工具，涵盖了代码处理、文本生成、内容分类、翻译等多个应用场景。提供了 13 种核心应用场景的提示词，包括代码改写、代码解释、代码生成、内容分类、结构化输出、角色扮演、散文写作、诗歌创作、文案大纲生成、宣传标语生成、模型提示词生成和中英翻译等。</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-41291\" src=\"https://ai-bot.cn/wp-content/uploads/2025/02/deepseek-prompt-library-website.png\"   alt=\"DeepSeek官方提示库\" width=\"661\" height=\"372\" />"
-      },
-      {
-        "title": "DeepSeek的开源周项目",
-        "html": "<ul>\n<li><a href=\"https://ai-bot.cn/flashmla/\" target=\"_blank\" rel=\"noopener\"><strong class=\"\">FlashMLA</strong></a>：针对 NVIDIA Hopper GPU 优化的多头线性注意力解码内核，支持可变长度序列处理。\n<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">突破</strong>：在 H800 GPU 上实现 580 TFLOPS 计算性能和 3000 GB/s 内存带宽，推理效率提升 2-3 倍。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">意义</strong>：打破大厂对高效推理工具的垄断，降低开发者使用门槛，推动边缘设备部署。</div>\n</li>\n</ul>\n</li>\n<li><strong><a href=\"https://ai-bot.cn/deepep/\" target=\"_blank\" rel=\"noopener\">DeepEP</a> </strong>：专为混合专家模型（MoE）设计的通信库，优化节点间数据分发与合并。\n<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">突破</strong>：通过低延迟内核和通信-计算重叠技术，实现训练速度提升 3 倍、延迟降低 5 倍，支持 FP8 低精度通信。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>意义</strong>：挑战英伟达 NCCL 生态，打破硬件与软件耦合的技术壁垒。</div>\n</li>\n</ul>\n</li>\n<li><a href=\"https://ai-bot.cn/deepgemm/\" target=\"_blank\" rel=\"noopener\"><strong class=\"\">DeepGEMM</strong></a>：基于 FP8 的高效矩阵乘法库，专为 MoE 模型优化。\n<ul>\n<li>\n<div class=\"paragraph\"><strong>突破</strong>：代码仅 300 行，通过即时编译（JIT）和 CUDA 核心双层累加技术，实现 1.1-2.7 倍加速，最高性能达 1350 TFLOPS。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">意义</strong>：推动低精度计算普及，降低千亿参数模型部署成本。</div>\n</li>\n</ul>\n</li>\n<li><strong class=\"\"><a href=\"https://ai-bot.cn/dualpipe/\" target=\"_blank\" rel=\"noopener\">DualPipe</a> & EPLB</strong>：创新双向流水线并行算法（DualPipe）与动态负载均衡工具（EPLB）。\n<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">突破</strong>：通过任务交叉排布和专家模型动态复制，减少 GPU 空闲时间，优化资源利用率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">意义</strong>：重构 AI 训练流程，提升工业级效率。</div>\n</li>\n</ul>\n</li>\n<li><a href=\"https://ai-bot.cn/3fs/\" target=\"_blank\" rel=\"noopener\"><strong class=\"\">3FS</strong></a>：高性能分布式文件系统，支持 RDMA 网络和 SSD 存储。\n<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">突破</strong>：实现 6.6 TB/s 读取速度，加速海量数据训练与推理阶段的向量搜索。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>意义</strong>：补全 AI 基础设施的最后一块拼图，解决存储瓶颈问题。</div>\n</li>\n</ul>\n</li>\n<li><a href=\"https://ai-bot.cn/smallpond/\" target=\"_blank\" rel=\"noopener\"><strong class=\"\">Smallpond</strong></a>：基于 3FS 的数据处理框架，支持轻量级、高性能的数据处理，可扩展至 PB 级数据集。\n<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">意义</strong>：基于 3FS 的高性能存储和 DuckDB 的高效查询能力，提供简单易用的数据处理接口。</div>\n</li>\n</ul>\n</li>\n</ul>"
-      },
-      {
-        "title": "DeepSeek的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">临床辅助诊断</strong>：DeepSeek 可以整合患者的症状、病史和检查结果，提供诊断建议，帮助医生减少误诊和漏诊。</div>\n</li>\n<li> <strong>教育领域</strong>：帮助教师快速生成教学计划和教案。为学生提供定制化的学习路径和辅导。实时解答学生的数学、科学问题。</li>\n<li>\n<div class=\"paragraph\"><strong>智能数据质量监控</strong>：自动识别数据异常模式和偏差，实时提醒质量问题。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自然语言数据查询</strong>：将自然语言问题转换为 SQL 查询，降低数据分析的技术门槛。</div>\n</li>\n<li><strong class=\"\">内容创作与办公自动化</strong>：快速生成营销文案、会议纪要等。支持多种编程语言的代码生成和调试。快速制作演示文稿和表格。提供实时语音或文本翻译，帮助跨语言沟通。</li>\n</ul>"
       }
     ]
   },
@@ -40866,7 +40731,7 @@
   },
   {
     "slug": "tool22",
-    "name": "Best of Machine Learning &amp; AI",
+    "name": "Best of Machine Learning & AI",
     "description": "属于AI学习网站·AI课程平台分类。知名MOOC平台，提供众多人工智能和机器学习课程。支持AI学习网，适合需要系统学习AI知识与技能的用户。",
     "url": "https://www.coursera.org/collections/best-machine-learning-ai",
     "categories": [

@@ -18,18 +18,10 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
 // ─── SEO helpers: 长尾关键词 Title/Description 模板 ───
 function buildToolTitle(tool: AITool): string {
-  // 从 description 提取一句话核心用途（去掉"属于XX分类。"前缀与工具名重复）
-  let use = tool.description
-    .replace(/^属于[^。]+。/, '')
-    .split('。')[0]
-    .replace(new RegExp(tool.name, 'g'), '')
-    .replace(/^(是一款|是一款|是一|是|一个|一种)/, '')
-    .replace(/^(AI|ai)/, 'AI')
-    .trim();
-  use = use.replace(/[，,]$/, '');
+  // 核心用途词：优先取子分类名（如"通用对话AI""图片插画生成"），去冗余尾缀
+  const use = getCompactUse(tool);
 
-  // 泛化工具名（如"AI文本转语音工具"、"企业AI数字员工生成平台"）本身已是用途描述而非品牌名，
-  // 需要域名来区分同名工具。检测 name 是否含通用词（工具/平台/系统/助手/生成器/生成平台/机器人）
+  // 泛化工具名（name 含"工具/平台/系统/助手/生成器/机器人"）需域名区分
   const nameIsGeneric = /[工具平台系统助手生成器机器人]/.test(tool.name) ||
     (/^AI/.test(tool.name) && /[工具平台系统助手生成器机器人]/.test(tool.name));
   const domain = tool.domain || '';
@@ -37,19 +29,53 @@ function buildToolTitle(tool: AITool): string {
     ? ' · ' + domain.replace(/^https?:\/\//, '').replace(/\/$/, '')
     : '';
 
-  const base = `${tool.name} - ${use}${brand} | TaoAI`;
-  // 中文 title ≤34 字（SEO 最佳实践）；超长则截断用途部分，保留品牌
-  const maxLen = 34;
-  if (base.length > maxLen) {
-    const brandLen = brand.length;
-    const nameLen = tool.name.length;
-    const suffix = ' | TaoAI';
-    const suffixLen = suffix.length;
-    let maxUse = maxLen - nameLen - brandLen - suffixLen - 3; // 3 = ' - ' + '…'
-    use = use.slice(0, Math.max(4, maxUse)) + '…';
-    return `${tool.name} - ${use}${brand} | TaoAI`;
+  // 中文 Title 预算：总宽 ≤50（约 25 中文字）；三段式：工具名 + 用途 + 品牌
+  const SEP = ' - ';
+  const SUFFIX = ' | TaoAI';
+  const nameLen = tool.name.length;
+  const brandLen = brand.length;
+  const suffixLen = SUFFIX.length;
+  const maxUse = 50 - nameLen - SEP.length - brandLen - suffixLen;
+
+  let finalUse = use;
+  if (maxUse < 0) {
+    finalUse = '';
+  } else if (use.length > maxUse) {
+    // 优雅省略：保留前 60% + … + 保留后 30%，首尾语义完整
+    const keepFront = Math.max(1, Math.floor(maxUse * 0.6));
+    const keepBack = Math.max(1, Math.min(maxUse - keepFront - 1, Math.floor(maxUse * 0.3)));
+    finalUse = use.slice(0, keepFront) + '…' + use.slice(-keepBack);
   }
-  return base;
+
+  return finalUse
+    ? `${tool.name}${SEP}${finalUse}${brand}${SUFFIX}`
+    : `${tool.name}${SUFFIX}`;
+}
+
+// 提取紧凑用途词：子分类名 → 分类名，去"AI"前缀与"工具/生成/平台/助手/模型"等尾缀
+function getCompactUse(tool: AITool): string {
+  const cats = getCategories();
+  let subName = '';
+  let catName = '';
+  if (tool.subcategory) {
+    for (const cat of cats) {
+      const sn = (cat.subcategories || {})[tool.subcategory];
+      if (sn) { subName = sn; catName = cat.name; break; }
+    }
+  }
+  if (!subName && tool.categories && tool.categories[0]) {
+    const cat = cats.find(c => c.slug === tool.categories[0]);
+    if (cat) catName = cat.name;
+  }
+  const compact = (s: string) =>
+    s.replace(/^(AI|AI·|AI-)/, '')
+      .replace(/(工具|生成|平台|助手|模型|训练|系统|引擎|服务|器|工具集|制作)$/, '')
+      .replace(/^(AI|AI·|AI-)/, '')
+      .trim();
+  const subC = compact(subName);
+  const catC = compact(catName);
+  if (subC && subC !== catC) return subC;
+  return catC;
 }
 
 function buildToolDescription(tool: AITool): string {
