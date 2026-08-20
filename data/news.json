@@ -1,122 +1,98 @@
 [
   {
-    "date": "2026-08-20",
-    "title": "今年上半年中国人形机器人出货量已超4万台，全球占比提升至97%",
-    "summary": "中国电子学会在中国2026世界机器人大会上发布《2026年人形机器人产业发展报告》：2026年上半年中国人形机器人出货量超4万台，全球占比提升至97%。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4336a86629e02852",
-    "source": "央广网 / 钛媒体",
-    "slug": "china-humanoid-shipments-97pct"
-  },
-  {
-    "date": "2026-08-20",
-    "title": "小米新一代人形机器人亮相2026世界机器人博览会，由大模型驱动",
-    "summary": "小米新一代人形机器人登陆2026世界机器人博览会“具身花园”展台，化身“花艺师”完成抓取、撒花、递花等动作，可握手、碰拳、比心，动作由大模型自主理解场景后驱动完成。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5026a864b7953252",
-    "source": "快科技",
-    "slug": "xiaomi-humanoid-wrc2026"
-  },
-  {
-    "date": "2026-08-20",
-    "title": "宇树科技王兴兴：人形机器人将在十年内进入“大众市场”",
-    "summary": "宇树科技创始人王兴兴在2026世界机器人大会演讲中预测，人形机器人将在十年内进入大众市场；一旦能在陌生环境中处理80%语音指令交付的任务，市场将迅速起飞。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7426a8677d417552",
-    "source": "IT之家 / 彭博社",
-    "slug": "unitree-wang-mass-market-10yrs"
-  },
-  {
-    "date": "2026-08-20",
-    "title": "OpenAI拟于2027年或更早上市",
-    "summary": "据CNBC报道，OpenAI首席财务官萨拉·弗莱尔在员工全员会议上表示，OpenAI“将在2027年成为一家上市公司”，若业务加速增长也可能更早登陆公开市场，IPO被视为里程碑和进一步融资方式。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2456a8650ac57152",
-    "source": "CNBC / 企鹅号",
-    "slug": "openai-ipo-2027"
-  },
-  {
-    "date": "2026-08-20",
-    "title": "上海发布“数字上海”建设“十五五”规划，构建三位一体算力体系",
-    "summary": "上海明确构建“通用+智能+超算”三位一体算力服务体系，重点布局浦东、金山、松江、青浦、临港智算中心，要求新建智算中心绿电占比不低于80%，并加速全国一体化算力网枢纽节点建设。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5086a86603385752",
-    "source": "企鹅号",
-    "slug": "shanghai-digital-15th-plan-compute"
+    "date": "2026-08-19",
+    "title": "中国AI大模型调用量连续多周保持全球第一 多个国产模型迭代上新",
+    "summary": "2026年以来，中国人工智能产业持续突破创新，多个国产大模型密集迭代发布。据业内平台统计，中国AI大模型调用量已连续多周位居全球第一。国产开源多模态大模型可同时处理文本、图像和视频信息，并已获海外游戏工作室、电商广告平台积极接入。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8186a8569f028252",
+    "source": "央视网/企鹅号",
+    "slug": "china-ai-model-calls-global-top-2026"
   },
   {
     "date": "2026-08-19",
-    "title": "2026世界机器人大会在京开幕，超3000件创新展品亮相",
-    "summary": "2026世界机器人大会在北京亦庄启幕，超3000件创新展品亮相，同期举办人形机器人运动会，成为具身智能产业最新成果的集中展示平台。",
-    "url": "http://bj.people.com.cn/GB/349239/index.html",
-    "source": "人民网",
-    "slug": "wrc2026-opens-beijing"
+    "title": "中国AI黑板海外走红：手写方程式秒变3D图形 巴西参访团点赞",
+    "summary": "一段展示中国AI黑板的视频在海外社交媒体引发热议，视频中老师在黑板上手写的方程式可瞬间生成图形，立方体可立刻变为可旋转的三维模型。2026年5月印度尼西亚已有学校引入该产品，巴西参访团表示对4200万基础教育学生和1000万高等教育学生群体提升教学质量极为有利。",
+    "url": "https://news.xmnn.cn/gnxw/202608/t20260819_445769.html",
+    "source": "厦门网",
+    "slug": "china-ai-blackboard-global-viral-2026"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "中国发布Kimi K3开源大模型：2.8万亿参数 全球最大开源模型",
+    "summary": "中国发布了下一代大模型Kimi K3，作为开源模型以2.8万亿参数成为全球最大开源模型。中国已成为全球最活跃、增长最快的开源大模型来源之一，累计下载量超过100亿次，在2026世界人工智能大会上引起广泛关注。",
+    "url": "https://en.qstheory.cn/2026-08/17/c_1205885.htm",
+    "source": "求是网",
+    "slug": "china-kimi-k3-open-source-model-2-8t-2026"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "WAICO正式成立：38国成为创始成员 首个政府间人工智能国际组织",
+    "summary": "2026世界人工智能大会期间，世界人工智能合作组织（WAICO）正式成立，38个国家成为创始成员。作为全球首个政府间人工智能国际组织，WAICO致力于AI造福人类、普惠发展，秉持《联合国宪章》宗旨和原则，对全球人工智能治理具有里程碑意义。",
+    "url": "https://www.globaltimes.cn/page/202608/1368161.shtml",
+    "source": "环球时报",
+    "slug": "waico-founded-38-countries-ai-governance-2026"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "智谱发布GLM-5.3：CyberGym得分84.5% 安全测试发现2436个漏洞",
+    "summary": "智谱AI发布GLM-5.3大模型，通过后训练扩展提升编程、长时序Agent和网络安全能力，在公开基准测试中编程性能提升约50%，CyberGym得分达84.5%。其联合安全团队已发现2436个漏洞，并承诺两周内开源模型权重，提供免费安全审计。",
+    "url": "https://aidailybrief.cn/en/archives/2026-08-15",
+    "source": "AI Daily Brief",
+    "slug": "zhipu-glm-5-3-cybergym-84-2026"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "字节跳动据报正在训练万亿参数AI大模型",
+    "summary": "据TechRepublic报道，字节跳动正在训练参数量高达10万亿的AI大模型，标志着中国前沿人工智能竞争再度升级。该消息与字节跳动在全球AI应用层面的布局形成呼应，凸显中国在大模型Scale-Up赛道上的持续追赶态势。",
+    "url": "https://www.techrepublic.com/article/ai-scale-security-crises-and-robot-ambitions-define-this-week-in-tech",
+    "source": "TechRepublic",
+    "slug": "bytedance-10-trillion-parameter-model-2026"
   },
   {
     "date": "2026-08-19",
-    "title": "北京人形发布大一统具身智能模型Pelican-Unify与轻量化机器人天工Omni",
-    "summary": "2026世界机器人大会期间，北京人形重磅发布两大标杆产品——大一统具身智能模型Pelican-Unify与轻量化人形机器人天工Omni，分别从“大脑”与“本体”两端赋能具身智能。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3316a85cfb577052",
-    "source": "企鹅号",
-    "slug": "beijing-robot-pelican-omni"
+    "title": "中国AI算力基建出海：高密液冷智算单元落地东南亚、中东",
+    "summary": "国内企业打造的高密液冷智算单元正在探讨落地东南亚、中东多个项目，以满足海外市场对绿色低碳算力中心的需求。中国AI算力基建正加速对外赋能，助力全球绿色数据中心建设。",
+    "url": "https://news.xmnn.cn/gnxw/202608/t20260819_445769.html",
+    "source": "厦门网",
+    "slug": "china-ai-compute-liquid-cooling-se-me-2026"
   },
   {
-    "date": "2026-08-19",
-    "title": "成都发布全球首个复杂语言指令集全自主机器人任务执行系统",
-    "summary": "成都人形机器人创新中心发布全球首个复杂语言指令集全自主（无遥控）超长视野机器人任务执行系统，解决机器人在陌生环境无法自主完成决策规划的难题，相关技术已获发明专利授权。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3456a8576b272952",
-    "source": "企鹅号",
-    "slug": "chengdu-global-first-task-system"
+    "date": "2026-08-15",
+    "title": "小红书开源dots3-note：支持512K三模态上下文的长时序Agent模型",
+    "summary": "小红书开源dots3-note Preview，一款基于MoE架构的长时序Agent模型，总参数2800亿，激活参数160亿。支持512K上下文窗口，可同时处理文本、视觉和音频输入。该模型引入专有的TEMPO强化学习方法，将长任务分解为宏步骤以改善信用分配。",
+    "url": "https://aidailybrief.cn/en/archives/2026-08-15",
+    "source": "AI Daily Brief",
+    "slug": "xiaohongshu-dots3-note-512k-context-2026"
   },
   {
-    "date": "2026-08-19",
-    "title": "TrendForce：2026年中国人形机器人市场规模将达150亿元",
-    "summary": "TrendForce集邦咨询研判，2026年中国人形机器人市场规模将攀升至150亿元，随着量产规模放大与落地场景扩容，2027年市场规模至少保持60%以上增幅，赛道正从“舞台演示”切换至“车间作业”。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9456a856c3f02152",
-    "source": "集邦咨询 / CNMO",
-    "slug": "trendforce-humanoid-15b-yuan"
+    "date": "2026-08-15",
+    "title": "SpaceX收购Cursor编程工具 获得大规模GPU资源加持",
+    "summary": "Cursor在官方博客宣布已被SpaceX收购，后者将为其提供大规模GPU资源，用于以更低成本训练更强的编程模型。2024年4月双方开始合作，现已发展为全面合并。该合作被视为SpaceX在AI编程领域的重要布局。",
+    "url": "https://aidailybrief.cn/en/archives/2026-08-15",
+    "source": "AI Daily Brief",
+    "slug": "spacex-acquires-cursor-ai-coding-2026"
   },
   {
-    "date": "2026-08-19",
-    "title": "工信部：加快智能芯片等关键核心技术攻关，探索类脑智能、世界模型等前沿技术",
-    "summary": "工信部科技司副司长甘小斌在中国人工智能产业发展联盟第十八次全会上表示，将以技术攻关为驱动加快智能芯片等核心技术攻关，探索类脑智能、世界模型、物理模型等前沿技术，并启动伦理审查先导行动。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4226a85542626352",
-    "source": "人民财讯",
-    "slug": "miit-smart-chip-frontier-tech"
+    "date": "2026-08-15",
+    "title": "Cisco 2026财年AI基础设施订单达93亿美元 企业级SSD价格同比涨6.5倍",
+    "summary": "Cisco披露上季度获得40亿美元超大规模AI基础设施订单，2026财年总订单量达93亿美元，预计2027财年AI基础设施收入约75亿美元。同时企业级SSD价格同比上涨6.5倍，可能进一步推高整体AI基础设施建设预算。",
+    "url": "https://aidailybrief.cn/en/archives/2026-08-15",
+    "source": "AI Daily Brief",
+    "slug": "cisco-9-3b-ai-infrastructure-orders-2026"
   },
   {
-    "date": "2026-08-19",
-    "title": "北京成AI第一城：累计备案大模型259款、日均调用超14亿次",
-    "summary": "8月19日发布的产业日报显示，截至2026年7月北京累计备案大模型259款、日均调用超14亿次，核心产业规模预计达4500亿元；世界模型成物理AI新赛道，AI超节点硬件向光互联架构演进。",
-    "url": "https://new.qq.com/rain/a/20260819A068H800",
-    "source": "亿欧网 / 腾讯网",
-    "slug": "beijing-ai-first-city-259-models"
+    "date": "2026-08-15",
+    "title": "中国AI气象大模型\"风舞\"精准预测台风：提前5天锁定登陆位置误差30公里",
+    "summary": "中国自主研发的Fengwu AI气象模型提前5天精准预测台风\" Dolphin\"在中国大陆登陆，最终位置误差仅约30公里，时间误差约30分钟。该模型以更低成本实现快速预报，但预测风暴强度仍是短板。",
+    "url": "https://www.techrepublic.com/article/ai-scale-security-crises-and-robot-ambitions-define-this-week-in-tech",
+    "source": "TechRepublic",
+    "slug": "china-fengwu-ai-weather-typhoon-dolphin-2026"
   },
   {
-    "date": "2026-08-19",
-    "title": "长三角人工智能发展大会在杭州举行",
-    "summary": "AI Hangzhou 2026长三角人工智能发展大会在杭州国际博览中心开幕，聚焦算力资源共享、模型标准与场景应用，清华大学、上海人工智能实验室等机构嘉宾出席，大会持续至8月20日。",
-    "url": "http://view.inews.qq.com/a/20260819A055ZF00",
-    "source": "中国日报网",
-    "slug": "yangtze-ai-conference-hangzhou"
-  },
-  {
-    "date": "2026-08-19",
-    "title": "2026人工智能产业大会10月首次落地济南",
-    "summary": "2026人工智能产业大会将于10月14日至16日首次走出北京落地济南，由中国信通院等联合主办，设10万平展区，英伟达、华为、宇树等50余家龙头企业将亮相，山东AI核心产业营收约占全国十分之一。",
-    "url": "http://view.inews.qq.com/a/20260819A04WXY00",
-    "source": "天下泉城新闻客户端",
-    "slug": "ai-industry-conference-jinan"
-  },
-  {
-    "date": "2026-08-19",
-    "title": "阿里Qwen3.8-27B登顶Hugging Face全球大模型趋势榜，开源两天下载破100万",
-    "summary": "8月17日，阿里Qwen3.8-27B登顶Hugging Face全球大模型趋势榜，开源仅两天下载量便突破100万次；同期中国AI大模型调用量已连续十六周领跑全球。",
-    "url": "https://enicn.com/",
-    "source": "ENI经济和信息化网",
-    "slug": "qwen38-27b-hf-trend-top"
-  },
-  {
-    "date": "2026-08-19",
-    "title": "中国AI大模型调用量连续十六周领跑全球",
-    "summary": "据OpenRouter最新数据测算，上周（8月10日至16日）全球AI大模型总调用量为75.3万亿Token，环比增长9.13%；中国AI大模型调用量已连续十六周保持全球第一。",
-    "url": "https://enicn.com/",
-    "source": "ENI经济和信息化网 / OpenRouter",
-    "slug": "china-llm-calls-16-weeks-top"
+    "date": "2026-08-15",
+    "title": "IBM与OpenAI成立联合咨询业务 计划认证数万名顾问",
+    "summary": "IBM宣布创建专门的OpenAI咨询业务，计划认证数万名顾问，联合为金融、政府、电信、零售等行业共同开发和部署AI解决方案，聚焦将OpenAI模型集成到企业核心运营，同时满足安全、治理和行业特定工作流要求。",
+    "url": "https://aidailybrief.cn/en/archives/2026-08-15",
+    "source": "AI Daily Brief",
+    "slug": "ibm-openai-consulting-practice-2026"
   }
 ]
