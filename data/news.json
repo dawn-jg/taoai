@@ -1,98 +1,106 @@
 [
   {
-    "date": "2026-08-19",
-    "title": "中国AI大模型调用量连续多周保持全球第一 多个国产模型迭代上新",
-    "summary": "2026年以来，中国人工智能产业持续突破创新，多个国产大模型密集迭代发布。据业内平台统计，中国AI大模型调用量已连续多周位居全球第一。国产开源多模态大模型可同时处理文本、图像和视频信息，并已获海外游戏工作室、电商广告平台积极接入。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8186a8569f028252",
-    "source": "央视网/企鹅号",
-    "slug": "china-ai-model-calls-global-top-2026"
+    "date": "2026-08-21",
+    "title": "中国AI大模型调用量全球第一 多个国产模型迭代上新",
+    "summary": "2026年以来，中国AI产业持续突破创新，多个国产大模型密集迭代发布。据业内统计，中国AI大模型调用量已连续多周保持全球第一。国产开源多模态大模型可同时处理文本、图像和视频信息，获海外游戏工作室、电商平台积极接入。",
+    "url": "https://cinic.org.cn/hy/yw/1649313.html",
+    "source": "中国产业经济信息网",
+    "slug": "china-ai-model-calls-global-first-2026"
   },
   {
-    "date": "2026-08-19",
-    "title": "中国AI黑板海外走红：手写方程式秒变3D图形 巴西参访团点赞",
-    "summary": "一段展示中国AI黑板的视频在海外社交媒体引发热议，视频中老师在黑板上手写的方程式可瞬间生成图形，立方体可立刻变为可旋转的三维模型。2026年5月印度尼西亚已有学校引入该产品，巴西参访团表示对4200万基础教育学生和1000万高等教育学生群体提升教学质量极为有利。",
-    "url": "https://news.xmnn.cn/gnxw/202608/t20260819_445769.html",
-    "source": "厦门网",
+    "date": "2026-08-21",
+    "title": "中国AI黑板海外走红：手写方程式秒变3D图形",
+    "summary": "中国AI黑板在海外社交媒体引发热议，手写方程式可瞬间生成图形，立方体可变为可旋转三维模型。印尼已有学校使用该产品，巴西参访团表示对提升教学质量极为有利。",
+    "url": "https://cinic.org.cn/hy/yw/1649313.html",
+    "source": "中国产业经济信息网",
     "slug": "china-ai-blackboard-global-viral-2026"
   },
   {
-    "date": "2026-08-17",
-    "title": "中国发布Kimi K3开源大模型：2.8万亿参数 全球最大开源模型",
-    "summary": "中国发布了下一代大模型Kimi K3，作为开源模型以2.8万亿参数成为全球最大开源模型。中国已成为全球最活跃、增长最快的开源大模型来源之一，累计下载量超过100亿次，在2026世界人工智能大会上引起广泛关注。",
-    "url": "https://en.qstheory.cn/2026-08/17/c_1205885.htm",
-    "source": "求是网",
-    "slug": "china-kimi-k3-open-source-model-2-8t-2026"
+    "date": "2026-08-20",
+    "title": "小米新一代人形机器人亮相2026世界机器人大会 运动流畅如人类",
+    "summary": "小米新一代人形机器人在2026世界机器人大会惊艳亮相，展示高度灵活操作和大模型驱动的智能交互，体现中国在具身智能领域的最新研究成果。该机器人将在国内展出后赴欧洲巡展。",
+    "url": "https://news.aibase.com/daily/30505",
+    "source": "AIBase",
+    "slug": "xiaomi-humanoid-robot-wrc-2026"
   },
   {
-    "date": "2026-08-13",
-    "title": "WAICO正式成立：38国成为创始成员 首个政府间人工智能国际组织",
-    "summary": "2026世界人工智能大会期间，世界人工智能合作组织（WAICO）正式成立，38个国家成为创始成员。作为全球首个政府间人工智能国际组织，WAICO致力于AI造福人类、普惠发展，秉持《联合国宪章》宗旨和原则，对全球人工智能治理具有里程碑意义。",
-    "url": "https://www.globaltimes.cn/page/202608/1368161.shtml",
-    "source": "环球时报",
-    "slug": "waico-founded-38-countries-ai-governance-2026"
+    "date": "2026-08-20",
+    "title": "快手Q2营收355亿元 可灵AI商业化收入同比增长超200%",
+    "summary": "快手科技发布2026年Q2财报，总营收355亿元，调整后净利润39亿元。可灵AI成为关键增长引擎，收入超8.5亿元，同比增长超200%。AI深度应用于内容生产、商业效率和运营流程优化。",
+    "url": "https://news.aibase.com/daily/30505",
+    "source": "AIBase",
+    "slug": "kuaishou-kling-ai-revenue-200-percent-2026"
   },
   {
-    "date": "2026-08-15",
-    "title": "智谱发布GLM-5.3：CyberGym得分84.5% 安全测试发现2436个漏洞",
-    "summary": "智谱AI发布GLM-5.3大模型，通过后训练扩展提升编程、长时序Agent和网络安全能力，在公开基准测试中编程性能提升约50%，CyberGym得分达84.5%。其联合安全团队已发现2436个漏洞，并承诺两周内开源模型权重，提供免费安全审计。",
-    "url": "https://aidailybrief.cn/en/archives/2026-08-15",
-    "source": "AI Daily Brief",
-    "slug": "zhipu-glm-5-3-cybergym-84-2026"
+    "date": "2026-08-20",
+    "title": "MiniMax Design发布：自然语言控制视频创作",
+    "summary": "MiniMax Design发布基于多模态视频模型H3的生产力工具，通过自然语言交互实现视频创作的语义操作，显著提升内容生成效率，支持复杂项目级上下文处理，满足商业需求。",
+    "url": "https://news.aibase.com/daily/30505",
+    "source": "AIBase",
+    "slug": "minimax-design-video-creation-2026"
   },
   {
-    "date": "2026-08-15",
-    "title": "字节跳动据报正在训练万亿参数AI大模型",
-    "summary": "据TechRepublic报道，字节跳动正在训练参数量高达10万亿的AI大模型，标志着中国前沿人工智能竞争再度升级。该消息与字节跳动在全球AI应用层面的布局形成呼应，凸显中国在大模型Scale-Up赛道上的持续追赶态势。",
-    "url": "https://www.techrepublic.com/article/ai-scale-security-crises-and-robot-ambitions-define-this-week-in-tech",
-    "source": "TechRepublic",
-    "slug": "bytedance-10-trillion-parameter-model-2026"
+    "date": "2026-08-20",
+    "title": "中国机器人加速进化：2026人形机器人马拉松打破人类世界纪录",
+    "summary": "国产人形机器人在2026人形机器人马拉松赛事上打破人类男子半马世界纪录，较2025年冠军完赛时间提速近2小时，标志着中国在运动控制为核心的\"小脑\"领域达到世界领先水平。",
+    "url": "https://www.digitalchina.gov.cn/2026/xwzx/szkx/202608/t20260820_5361464.htm",
+    "source": "数字中国建设峰会",
+    "slug": "china-robot-evolution-marathon-record-2026"
   },
   {
-    "date": "2026-08-19",
-    "title": "中国AI算力基建出海：高密液冷智算单元落地东南亚、中东",
-    "summary": "国内企业打造的高密液冷智算单元正在探讨落地东南亚、中东多个项目，以满足海外市场对绿色低碳算力中心的需求。中国AI算力基建正加速对外赋能，助力全球绿色数据中心建设。",
-    "url": "https://news.xmnn.cn/gnxw/202608/t20260819_445769.html",
-    "source": "厦门网",
-    "slug": "china-ai-compute-liquid-cooling-se-me-2026"
+    "date": "2026-08-21",
+    "title": "机器人从\"炫技\"走向实干：具身智能进入场景验证阶段",
+    "summary": "人形机器人产业正从概念演示转向真实场景应用。银河通用等企业展示机器人完成早餐制作、零售服务等任务，伏羲特种机器人用于城市夜间巡检。工信部、国资委联合开展实景实训专项行动推动商业化发展。",
+    "url": "https://news.china.com.cn/2026-08/21/content_118657685.shtml",
+    "source": "中国网",
+    "slug": "robots-real-scenarios-embodied-ai-2026"
   },
   {
-    "date": "2026-08-15",
-    "title": "小红书开源dots3-note：支持512K三模态上下文的长时序Agent模型",
-    "summary": "小红书开源dots3-note Preview，一款基于MoE架构的长时序Agent模型，总参数2800亿，激活参数160亿。支持512K上下文窗口，可同时处理文本、视觉和音频输入。该模型引入专有的TEMPO强化学习方法，将长任务分解为宏步骤以改善信用分配。",
-    "url": "https://aidailybrief.cn/en/archives/2026-08-15",
-    "source": "AI Daily Brief",
-    "slug": "xiaohongshu-dots3-note-512k-context-2026"
+    "date": "2026-08-20",
+    "title": "智能经济新形态加速崛起：词元经济成形 日均调用量超140万亿",
+    "summary": "中国日均词元调用量已超过140万亿，较2024年初增长1000多倍。\"词元经济\"正在加速成形，三大运营商提出从\"流量经营\"向\"词元经营\"转型升级，中科曙光推出scaleX40超节点提升词元产出能力。",
+    "url": "http://gzylhyzx.com/detail.html?newsId=37319225&qid=W7",
+    "source": "每日热点",
+    "slug": "token-economy-rising-140-trillion-2026"
   },
   {
-    "date": "2026-08-15",
-    "title": "SpaceX收购Cursor编程工具 获得大规模GPU资源加持",
-    "summary": "Cursor在官方博客宣布已被SpaceX收购，后者将为其提供大规模GPU资源，用于以更低成本训练更强的编程模型。2024年4月双方开始合作，现已发展为全面合并。该合作被视为SpaceX在AI编程领域的重要布局。",
-    "url": "https://aidailybrief.cn/en/archives/2026-08-15",
-    "source": "AI Daily Brief",
-    "slug": "spacex-acquires-cursor-ai-coding-2026"
+    "date": "2026-08-14",
+    "title": "中国推进全球AI治理：Kimi K3开源 2.8万亿参数全球最大",
+    "summary": "中国在2026世界人工智能大会上发布Kimi K3开源大模型，以2.8万亿参数成为全球最大开源模型。中国开源大模型全球累计下载量突破100亿次，Hugging Face平台新增开源模型下载流量中中国自研占比达41%。",
+    "url": "https://en.people.cn/n3/2026/0814/c90000-20488686.html",
+    "source": "人民网",
+    "slug": "china-ai-governance-kimi-k3-open-source-2026"
   },
   {
-    "date": "2026-08-15",
-    "title": "Cisco 2026财年AI基础设施订单达93亿美元 企业级SSD价格同比涨6.5倍",
-    "summary": "Cisco披露上季度获得40亿美元超大规模AI基础设施订单，2026财年总订单量达93亿美元，预计2027财年AI基础设施收入约75亿美元。同时企业级SSD价格同比上涨6.5倍，可能进一步推高整体AI基础设施建设预算。",
-    "url": "https://aidailybrief.cn/en/archives/2026-08-15",
-    "source": "AI Daily Brief",
-    "slug": "cisco-9-3b-ai-infrastructure-orders-2026"
+    "date": "2026-08-10",
+    "title": "AI产业爆发式增长：核心产业规模破1.2万亿 人形机器人产品超400款",
+    "summary": "2025年中国AI核心产业规模突破1.2万亿元，专业化AI企业超6200家。国内人形机器人整机产品达400余款，占全球半数以上，人形与四足智能机器人占全球销量份额80%。",
+    "url": "https://www.cinic.org.cn/xw/schj/1647463.html",
+    "source": "中国产业经济信息网",
+    "slug": "ai-industry-explosion-1-2-trillion-400-robots-2026"
   },
   {
-    "date": "2026-08-15",
-    "title": "中国AI气象大模型\"风舞\"精准预测台风：提前5天锁定登陆位置误差30公里",
-    "summary": "中国自主研发的Fengwu AI气象模型提前5天精准预测台风\" Dolphin\"在中国大陆登陆，最终位置误差仅约30公里，时间误差约30分钟。该模型以更低成本实现快速预报，但预测风暴强度仍是短板。",
-    "url": "https://www.techrepublic.com/article/ai-scale-security-crises-and-robot-ambitions-define-this-week-in-tech",
-    "source": "TechRepublic",
-    "slug": "china-fengwu-ai-weather-typhoon-dolphin-2026"
+    "date": "2026-08-21",
+    "title": "腾讯展示文本生成3D环境技术：单提示词创建可探索空间",
+    "summary": "腾讯展示AI系统，可将单个文本提示词转化为可探索的3D环境，而非静态图像或视频。该技术代表了AI生成能力的新突破，为虚拟现实和游戏开发提供新工具。",
+    "url": "https://startupfortune.com/this-week-in-ai-robots-take-a-punch-assistants-get-long-term-memory/",
+    "source": "Startup Fortune",
+    "slug": "tencent-text-to-3d-environment-2026"
   },
   {
-    "date": "2026-08-15",
-    "title": "IBM与OpenAI成立联合咨询业务 计划认证数万名顾问",
-    "summary": "IBM宣布创建专门的OpenAI咨询业务，计划认证数万名顾问，联合为金融、政府、电信、零售等行业共同开发和部署AI解决方案，聚焦将OpenAI模型集成到企业核心运营，同时满足安全、治理和行业特定工作流要求。",
-    "url": "https://aidailybrief.cn/en/archives/2026-08-15",
-    "source": "AI Daily Brief",
-    "slug": "ibm-openai-consulting-practice-2026"
+    "date": "2026-08-16",
+    "title": "中国人形机器人产量目标：2026年瞄准10万级量产",
+    "summary": "中国机器人产业规模化加速，制造商目标2026年人形机器人产量达10万台。优必选宣布第1000台Walker S2工业人形机器人下线，2026年产能目标直指万台级，全年订单金额近14亿元。",
+    "url": "https://dev.to/shrinithi_v/news-roundup-happenings-in-the-world-of-ai-from-ai-marketplace-to-ai-exposure-index-4a2i",
+    "source": "DEV Community",
+    "slug": "china-humanoid-robot-100k-production-2026"
+  },
+  {
+    "date": "2026-08-16",
+    "title": "中国MiniMax开源音乐生成模型 竞争对手为Suno",
+    "summary": "中国MiniMax开源音乐生成模型，定位为Suno的直接竞争对手。该模型展示了国产AI在音频生成领域的技术实力，为创作者提供新的音乐创作工具。",
+    "url": "https://startupfortune.com/this-week-in-ai-robots-take-a-punch-assistants-get-long-term-memory/",
+    "source": "Startup Fortune",
+    "slug": "minimax-music-generation-open-source-2026"
   }
 ]
