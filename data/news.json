@@ -2,97 +2,113 @@
   {
     "date": "2026-08-21",
     "title": "中国AI\"智\"惠全球形成实打实生产力 多个国产大模型接连迭代\"上新\"",
-    "summary": "中国AI大模型调用量已连续多周保持全球第一。近期多个国产开源多模态大模型接连迭代，可声画同步生成电影级视频并赋能海外游戏工作室与电商广告平台；叠加行业数据的专属小模型在马来西亚、印尼等海外市场快速落地，高密液冷智算单元也加速出海。AI黑板在海外社交媒体走红，手写方程式可瞬时生成可旋转三维模型。",
+    "summary": "中国AI大模型调用量已连续多周保持全球第一。近期多个国产开源多模态大模型接连迭代，可声画同步生成电影级视频并赋能海外游戏工作室与电商广告平台；叠加行业数据的专属小模型在马来西亚、印尼等海外市场快速落地，高密液冷智算单元也加速出海。",
     "url": "https://cinic.org.cn/hy/yw/1649313.html",
     "source": "中国产业经济信息网",
     "slug": "china-ai-empowers-global-productivity-20260821"
   },
   {
-    "date": "2026-08-20",
-    "title": "央视《焦点访谈》:开源共享赋能创新 中国AI智惠世界",
-    "summary": "在2026世界人工智能大会前后，国产开源大模型密集上新。月之暗面将旗舰大模型Kimi K3全量开源，参数达2.8万亿，成为全球最大开源模型，开源48小时内用户请求量逼近集群承载极限，被迫暂停C端新用户订阅。阿里千问、DeepSeek等也纷纷跟进开源。中国开源模型下载量已占全球总量41%，居全球首位。",
-    "url": "https://news.cctv.com/2026/08/20/ARTIARWdScUhBPVVVXxp5Im2260820.shtml",
-    "source": "央视网",
-    "slug": "cctv-focus-open-source-china-ai-20260820"
+    "date": "2026-08-21",
+    "title": "北京人工智能赋能科学研究：科研边界正在重塑",
+    "summary": "中国科学院发布磐石·科学基础大模型2.0，将通用知识推理与专用科学能力原生统一，配套建成汇聚8000余个专业科研工具的一体化平台。玻尔科研空间站服务全球超150所高校，推动AI嵌入文献调研、实验分析等科研全链条。",
+    "url": "https://new.qq.com/rain/a/20260821A044KK00?refer=cp_1009",
+    "source": "腾讯网",
+    "slug": "beijing-ai-empowers-scientific-research-20260821"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "北京市发布加快推进AI赋能科学研究实施方案",
+    "summary": "《北京市加快推进人工智能赋能科学研究实施方案(2026-2028年)》印发，围绕自主实验室体系、科学模型体系、科学数据底座等五大方向部署18项任务，构建\"设施承载、模型驱动、数据支撑、场景牵引、生态保障\"闭环格局。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7776a880e2e01552",
+    "source": "企鹅号",
+    "slug": "beijing-ai-science-research-plan-20260821"
   },
   {
     "date": "2026-08-20",
-    "title": "AI日报:小米新一代人形机器人惊艳亮相;可灵AI商业收入同比增超200%",
-    "summary": "小米新一代人形机器人在2026世界机器人大会惊艳亮相，动作流畅如人，由大模型驱动实现复杂指令理解与实时自主判断，后续将赴欧洲巡展。快手发布2026年二季度财报，总营收355亿元，可灵AI商业收入超8.5亿元、同比增超200%，成为关键增长引擎。Google升级搜索与Gemini，推出AI学习与3D模拟工具。",
+    "title": "小米新一代人形机器人在世界机器人大会惊艳亮相",
+    "summary": "小米新一代人形机器人在2026世界机器人大会上展示高度灵活的操作能力和大模型驱动的智能交互，可深度理解复杂指令并实时自主判断。国内展览后将赴欧洲巡展，展示中国在具身智能领域的最新成果。",
     "url": "https://news.aibase.com/daily/30505",
     "source": "AIBase",
-    "slug": "ai-daily-xiaomi-robot-kuaishou-keling-20260820"
+    "slug": "xiaomi-new-humanoid-robot-wrc-20260820"
   },
   {
     "date": "2026-08-20",
-    "title": "拓展增长新空间 智能经济新形态加速崛起",
-    "summary": "今年政府工作报告首提\"打造智能经济新形态\"。AI视频生成模型Seedance 2.0火爆全球，\"一人公司\"在全国多地涌现，人形机器人加速迭代。2026北京亦庄人形机器人半程马拉松超百支赛队参加，多家机器人全程独立完成路径规划。我国日均词元调用量已超140万亿，较2024年初增长1000多倍，\"词元经济\"加速成形，三大运营商提出向\"词元经营\"转型。",
-    "url": "http://gzylhyzx.com/detail.html?newsId=37319225&qid=W7",
-    "source": "每日热点",
-    "slug": "intelligent-economy-new-form-rising-20260820"
+    "title": "快手Q2营收355亿元 可灵AI商业收入同比增超200%",
+    "summary": "快手科技发布2026年二季度财报，总营收355亿元，调整后净利润39亿元。可灵AI成为关键增长引擎，Q2收入超8.5亿元，同比增长超200%。AI深度应用于内容生产、商业效率和组织效率提升。",
+    "url": "https://news.aibase.com/daily/30505",
+    "source": "AIBase",
+    "slug": "kuaishou-q2-revenue-keling-ai-200pct-growth-20260820"
   },
   {
-    "date": "2026-08-15",
-    "title": "又一国产AI大模型宣布开源 国产大模型掀起开源潮",
-    "summary": "8月14日晚，阿里千问团队宣布Qwen3.8-27B模型正式开源，270亿参数可在高端手机和消费级显卡上流畅运行；同日开放Qwen3.8-2.4T-A95B旗舰模型权重，为阿里首次开放Max级旗舰权重。此前一天DeepSeek V4 Pro正式版上线并同步开源。过去几周Kimi、智谱等国产开源模型轮番上市，全球最大AI开源社区中国开源模型累计下载量居全球首位。",
-    "url": "https://www.toutiao.com/article/7674168614248809010/",
-    "source": "央广网/今日头条",
-    "slug": "another-china-llm-open-source-wave-20260815"
-  },
-  {
-    "date": "2026-08-14",
-    "title": "中国推进全球AI治理 开源成鲜明标识",
-    "summary": "人民网评论指出，中国坚持AI以人为本、开放共赢。月之暗面发布下一代大模型Kimi K3，2.8万亿参数成为全球最大开源模型；中国累计开源模型下载量超100亿，是增长最快的开源大模型来源之一。中国还发布Fenghe开源大模型，提出\"AI+国际合作倡议\"及全球AI治理行动计划，并在米兰-科尔蒂纳2026冬奥会以Qwen成为奥运史上首个官方大模型。",
-    "url": "https://en.people.cn/n3/2026/0814/c90000-20488686.html",
-    "source": "人民网",
-    "slug": "china-advances-global-ai-governance-20260814"
-  },
-  {
-    "date": "2026-08-14",
-    "title": "全球开发者越来越爱用中国大模型 因为\"足够好\"",
-    "summary": "据《南华早报》及Jefferies数据，8月初大模型平均推理价格降至每百万Token约1.16-1.18美元，创年内新低；同期OpenRouter平台AI大模型周调用量达69万亿Token，其中中国模型34.25万亿、环比增21.76%，已连续15周超过美国居全球首位。性能逼近美国顶级模型、价格却低一个量级，形成\"足够好\"的竞争力。",
-    "url": "https://new.qq.com/rain/a/20260814A0DUHM00",
-    "source": "腾讯网/中新经纬",
-    "slug": "global-devs-prefer-china-llms-good-enough-20260814"
-  },
-  {
-    "date": "2026-08-13",
-    "title": "2026年8月AI观察:大模型\"卷\"出天际 AI开始\"自己管自己\"",
-    "summary": "8月3日阿里发布Qwen3.8（总参数2.4万亿），截至8月5日短短8周内阿里Qwen3.8-Max、月之暗面Kimi K3、DeepSeek-V4-Flash、智谱GLM-5.2、字节Seedance 2.5五款重磅模型接连亮相。开源成主战场：Meta发布Muse Glimmer，英伟达推出Nemotron 3.5 Lightning。安全方面，OpenAI因评估显示下一代模型Astra无法排除关键级网络攻击能力而暂停部分研发。",
-    "url": "https://www.sohu.com/a/1062396656_122755661",
-    "source": "搜狐",
-    "slug": "august-2026-ai-observation-self-governing-20260813"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "从望尘莫及到左右定价 国产大模型集体坐上全球牌桌",
-    "summary": "国产大模型从\"追着别人跑\"转向同赛道正面比性能、比价格。OpenRouter数据显示，调用量前十的大模型中国产占7席：腾讯Hy3第2、小米MiMo-V2.5第3、智谱GLM 5.2第6、MiniMax M3第9。MiniMax H3多模态模型在Artificial Analysis视频榜单编辑能力项排名全球第一。大量美国企业出于成本考量将业务流量切到中国大模型上。",
-    "url": "https://www.toutiao.com/article/7671223756378997257",
-    "source": "华夏时报/今日头条",
-    "slug": "domestic-llms-on-global-table-pricing-20260807"
-  },
-  {
-    "date": "2026-08-02",
-    "title": "领跑全球榜单!中国AI大模型的优势在哪",
-    "summary": "OpenRouter最新一周大模型调用量榜单前五全部由中国企业研发。登顶榜首的小米MiMo-V2.5单周调用量达10.5万亿Token，环比增12%，拿下周榜月榜双第一；DeepSeek两款模型分列第二、第五形成高低搭配；腾讯混元Hy3 7月6日才开源，单周环比增幅超999%。国产开源模型在完全市场化第三方渠道实现领先。",
-    "url": "https://news.cctv.cn/2026/08/02/ARTI6RnsxvJ5IArL2JxUJViG260802.shtml",
-    "source": "央视网",
-    "slug": "china-llms-top-global-call-volume-20260802"
+    "date": "2026-08-20",
+    "title": "MiniMax Design发布：自然语言驱动视频创作",
+    "summary": "MiniMax Design发布基于H3多模态视频模型的生产力工具，支持通过自然语言交互实现视频语义操作，显著提升内容生成效率，支持复杂项目级上下文处理，同时拥抱开源生态。",
+    "url": "https://news.aibase.com/daily/30505",
+    "source": "AIBase",
+    "slug": "minimax-design-video-creation-tool-20260820"
   },
   {
     "date": "2026-08-19",
-    "title": "中国AI黑板海外圈粉 手写方程式秒变三维图形",
-    "summary": "一段中国AI黑板视频在海外社交媒体引发热议：老师手写的方程式可瞬间生成图形，画的立方体可立即变成可旋转三维模型，被海外博主感叹\"看到教育的未来\"。巴西参访团到场体验，印尼一所学校已于2026年5月用上该AI黑板。除教育外，娱乐、文旅也成为国内AI产品拓展海外重点，成都一家智能体企业上半年海外收入同比增120%。",
-    "url": "https://www.163.com/dy/article/L4N77END0514R9KQ.html",
-    "source": "网易/北京青年报",
-    "slug": "china-ai-blackboard-viral-overseas-20260819"
+    "title": "Google发布Gemini 3.7 Flash基准测试结果",
+    "summary": "Google DeepMind发布Gemini 3.7 Flash基准测试数据，Replit推出GPT-5.6 Luna驱动的免费层级。OpenAI宣布青少年版ChatGPT变体，但遭遇重大登录中断。",
+    "url": "http://nanloss.com/",
+    "source": "Daily AI Briefing",
+    "slug": "google-gemini-flash-benchmark-openai-teen-chatgpt-20260819"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "阿里巴巴发布Qwen 3.8-Max 承诺下周开源权重",
+    "summary": "阿里发布Qwen 3.8-Max模型，并承诺下周开放权重。Anthropic为Claude Code推送简洁模式和自校正功能。英伟达与华尔街合作将GPU作为可贷资产类别，满足推理需求。",
+    "url": "http://nanloss.com/",
+    "source": "Daily AI Briefing",
+    "slug": "alibaba-qwen-38-max-open-weight-anthropic-claude-20260819"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "ChatGPT获得跨应用长期记忆能力",
+    "summary": "OpenAI为ChatGPT推出跨应用长期记忆功能，使其能够保留用户在ChatGPT应用之外活动的上下文。同时发布更快的GPT-5.6 Sol版本，声称速度提升约14倍。",
+    "url": "https://startupfortune.com/this-week-in-ai-robots-take-a-punch-assistants-get-long-term-memory/",
+    "source": "Startup Fortune",
+    "slug": "chatgpt-long-term-memory-gpt56-sol-20260818"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "腾讯发布文本生成可探索3D环境系统",
+    "summary": "腾讯展示可将单个文本提示转换为可探索3D环境的系统，超越静态图像或视频。MiniMax开源音乐生成模型，直接对标Suno。Google更新Gemini Flash，编程性能大幅提升且价格减半。",
+    "url": "https://startupfortune.com/this-week-in-ai-robots-take-a-punch-assistants-get-long-term-memory/",
+    "source": "Startup Fortune",
+    "slug": "tencent-text-to-3d-environment-minimax-music-20260818"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "人形机器人首次参加全接触格斗比赛",
+    "summary": "一台六英尺高的人形机器人参加了在美国举办的首届全接触机器人格斗比赛，标志着人形平台已具备足够的耐用性和协调性来承受冲击并持续运动。",
+    "url": "https://startupfortune.com/this-week-in-ai-robots-take-a-punch-assistants-get-long-term-memory/",
+    "source": "Startup Fortune",
+    "slug": "first-full-contact-robot-fight-humanoid-20260818"
   },
   {
     "date": "2026-08-16",
-    "title": "Weekly AI Roundup(W33):月之暗面、阿里、宇树等中国力量频现",
-    "summary": "本周AI综述显示，Moonshot AI的PerceptionBench发现包括GPT-5.6、Claude Fable 5在内的前沿模型在基础视觉感知任务上准确率均未达60%；阿里巴巴发布Apache 2.0许可、262K上下文的Qwen3.8模型；宇树(Unitree)2025年以低于2.5万美元单价出货5511台人形机器人，证明真实客户需求存在。中国模型与硬件持续领跑全球榜单。",
+    "title": "Moonshot AI发布PerceptionBench：前沿模型视觉感知准确率未达60%",
+    "summary": "Moonshot AI的PerceptionBench测试发现，包括GPT-5.6 Sol和Claude Fable 5在内的前沿模型在基础视觉感知任务上准确率均未达60%。阿里巴巴发布Apache 2.0许可、262K上下文的Qwen3.8模型。",
     "url": "https://aidailypost.com/weekly/2026-w33-weekly-ai-roundup",
     "source": "AI Daily Post",
-    "slug": "weekly-ai-roundup-w33-china-20260816"
+    "slug": "moonshot-perceptionbench-frontier-models-vision-20260816"
+  },
+  {
+    "date": "2026-08-16",
+    "title": "宇树(Unitree)2025年出货5511台人形机器人 单价低于2.5万美元",
+    "summary": "宇树在2025年以低于2.5万美元的单价出货5511台人形机器人，证明真实客户需求存在。印尼通过Universitas Gadjah Mada、Indosat和英伟达合作开设首个大学AI中心。",
+    "url": "https://aidailypost.com/weekly/2026-w33-weekly-ai-roundup",
+    "source": "AI Daily Post",
+    "slug": "unitree-5511-humanoid-robots-indonesia-ai-center-20260816"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "智谱发布GLM-5.3 CyberGym得分84.5%",
+    "summary": "智谱发布GLM-5.3，通过后训练扩展增强编程、长程Agent和网络安全能力，支持1M Token上下文，在CyberGym测试中得分84.5%，联合安全团队已识别2436个漏洞。承诺两周内开放权重。",
+    "url": "https://aidailybrief.cn/en/archives/2026-08-15",
+    "source": "AI Daily Brief",
+    "slug": "zhipu-glm-53-cybergym-84-5-20260815"
   }
 ]
