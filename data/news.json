@@ -1,122 +1,122 @@
 [
   {
     "date": "2026-08-22",
-    "title": "Meta上调2026年资本开支指引至1300-1450亿美元，发布开源模型Muse Glimmer",
-    "summary": "Meta将2026年资本开支指引上调至1300亿至1450亿美元，并发布Muse Glimmer，一个300亿参数的开放权重模型，可在消费级GPU上运行本地多步智能体任务，主打与OpenAI、Anthropic闭源前沿模型竞争的个人超级智能方向。",
-    "url": "https://aibriefing.dev/",
-    "source": "AI Briefing",
-    "slug": "meta-capex-guidance-muse-glimmer-20260822"
-  },
-  {
-    "date": "2026-08-22",
-    "title": "DeepSeek发布DeepSeek-V4-Flash-Vision-Exp多模态实验模型",
-    "summary": "DeepSeek发布DeepSeek-V4-Flash-Vision-Exp实验性多模态模型，可分析图像和截图，同时保留文本、推理与智能体能力，目标使性能接近Anthropic的Opus-4.8。该模型随0.1.1版智能体框架及开源模型-智能体桥接层一同发布，公司正在筹备IPO。",
-    "url": "https://aibriefing.dev/",
-    "source": "AI Briefing",
-    "slug": "deepseek-v4-flash-vision-exp-20260822"
-  },
-  {
-    "date": "2026-08-22",
-    "title": "微软在Azure Copilot中引入直接智能体访问，新增专用基础设施智能体选择器",
-    "summary": "微软在Azure Copilot中引入直接智能体访问，让云管理员对面向基础设施任务的专用AI智能体拥有显式控制。Azure门户新增智能体选择器，可选用针对迁移、部署和优化场景的专用智能体，实现更可预测的智能体化云管理，定价与原有白名单要求均不变。",
-    "url": "https://aibriefing.dev/",
-    "source": "AI Briefing",
-    "slug": "microsoft-azure-copilot-agent-access-20260822"
-  },
-  {
-    "date": "2026-08-22",
-    "title": "OpenAI预览跨交互安全检测技术，承诺不保留客户数据",
-    "summary": "OpenAI表示正面向部分客户预览一项技术，可检测跨多次模型交互的安全风险，而非逐次单独监控，旨在确保工具使用正确且不保留客户数据，被视作针对Anthropic的企业隐私竞争举措。此外OpenAI确认ChatGPT出现登录和注册中断。",
-    "url": "https://aibriefing.dev/",
-    "source": "AI Briefing",
-    "slug": "openai-cross-interaction-safety-preview-20260822"
-  },
-  {
-    "date": "2026-08-22",
-    "title": "Mistral推出Agentic Search检索层，金融文件处理正确率提升至3倍",
-    "summary": "Mistral推出Agentic Search检索层，为模型提供搜索、打开、导航、读取、grep五种工具以浏览复杂文档，降低Token使用与延迟，在金融文件处理上正确率最高提升3倍。该功能随Search Toolkit和Libraries发布，同时更新了Mistral OCR 4、Medium 3.5、Small 4及Voxtral TTS。",
-    "url": "https://aibriefing.dev/",
-    "source": "AI Briefing",
-    "slug": "mistral-agentic-search-release-20260822"
-  },
-  {
-    "date": "2026-08-22",
-    "title": "AWS Glue 6.0正式可用，降价30%并全面支持Apache Iceberg v3",
-    "summary": "AWS Glue 6.0正式可用，价格下调30%，全面支持Apache Iceberg v3，包括带自动分片的VARIANT数据类型。新版本将运行时升级至Apache Spark 4.1、Python 3.13和Scala 2.13，并集成更新的Hudi与Delta Lake版本。",
-    "url": "https://aibriefing.dev/",
-    "source": "AI Briefing",
-    "slug": "aws-glue-60-ga-iceberg-v3-20260822"
-  },
-  {
-    "date": "2026-08-22",
-    "title": "Meta发布功能更强的Mac版Meta AI桌面应用",
-    "summary": "Meta发布功能更强的Mac版Meta AI桌面应用，支持切换思考模式、附加文件、生成媒体内容，并可创建周期性简报或提醒。应用可隐藏Dock图标并通过键盘快捷键唤起，延续了Meta自4月将Llama更名为Muse Spark后的产品节奏。",
-    "url": "https://aibriefing.dev/",
-    "source": "AI Briefing",
-    "slug": "meta-ai-mac-desktop-app-20260822"
-  },
-  {
-    "date": "2026-08-22",
-    "title": "宇树科技上市首日市值达510亿美元，较发行价上涨460%",
-    "summary": "中国人形机器人企业宇树科技上市首日市值达510亿美元，较发行价上涨460%，为具身智能赛道提供了首个重要的公开市场估值参考。公司2025年营收17亿元人民币、净利润2.78亿元，毛利率超60%，去年交付人形机器人超5500台，交付规模据称全球领先。",
+    "title": "宇树科技上市首日市值达510亿美元 较发行价上涨460%",
+    "summary": "国产人形机器人公司宇树科技上市首日市值达510亿美元，较发行价飙升460%，为人形机器人赛道提供首个公开市场估值参考。公司2025年营收17亿元、净利润2.78亿元，毛利率超60%，去年交付超5500台人形机器人。",
     "url": "https://aidailybrief.cn/en/archives/2026-08-22",
     "source": "AI Daily Brief",
-    "slug": "unitree-ipo-first-day-valuation-20260822"
+    "slug": "unitree-ipo-51b-market-cap-20260822"
   },
   {
     "date": "2026-08-22",
-    "title": "OpenAI下调GPT-5.6 Sol价格超20%，新增按Key的支出管控",
-    "summary": "OpenAI宣布未来三个月内对GPT-5.6 Sol的API与Codex额度降价超过20%。降价已对API用户生效，并将逐步扩展至Codex与ChatGPT Work；Pro、Plus、Business订阅用量不变。同时新增按单个API Key追踪用量与支出的能力，组织或项目可设置月度硬性支出上限，并通过Admin API编程化管理预算。",
+    "title": "OpenAI下调GPT-5.6 Sol价格超20% 推出用量控制功能",
+    "summary": "OpenAI宣布未来三个月将GPT-5.6 Sol的API和Codex积分价格下调超20%，并新增按API密钥跟踪用量与花费的能力，支持组织或项目设置月度硬性支出上限，通过Admin API程序化管理预算。",
     "url": "https://aidailybrief.cn/en/archives/2026-08-22",
     "source": "AI Daily Brief",
     "slug": "openai-gpt56-sol-price-cut-20260822"
   },
   {
-    "date": "2026-08-22",
-    "title": "Anthropic开放Claude Mythos 5安全扫描公测，设3500万美元开源安全基金",
-    "summary": "Anthropic面向企业客户推出Claude Mythos 5安全扫描公开测试，用户可调用其最强安全能力检查代码，无需单独获取该模型访问权限。发现的问题可在Claude Code网页界面内生成修复建议，按标准Token费率计费。公司同时宣布设立3500万美元额度基金支持开源安全项目。",
-    "url": "https://aidailybrief.cn/en/archives/2026-08-22",
-    "source": "AI Daily Brief",
-    "slug": "anthropic-mythos5-security-scan-20260822"
-  },
-  {
-    "date": "2026-08-22",
-    "title": "谷歌提出EnvHarness框架，SWE-bench成功率从47.67%升至54.79%",
-    "summary": "谷歌推出EnvHarness框架，通过让任务环境持续演进来改进智能体，且无需修改底层环境代码。框架用Stage调整初始状态、Contract重写交互规则、Chain串联或分支多个环境，配合EnvRigger形成观察、诊断、编写、验证的四步闭环。在SWE-bench Verified实验中成功率从47.67%提升至54.79%，扩展至300个环境时性能曲线仍未见平台期。",
-    "url": "https://aidailybrief.cn/en/archives/2026-08-22",
-    "source": "AI Daily Brief",
-    "slug": "google-envharness-agent-framework-20260822"
-  },
-  {
-    "date": "2026-08-22",
-    "title": "英伟达发布AdaptGrow，16节点可聚类百万级金融标的",
-    "summary": "英伟达发布AdaptGrow，一套基于内存优化对称非负矩阵分解的GPU加速聚类方案。单台GB200系统可处理约10万个金融标的，16节点可扩展至百万级。其迹运算重构将峰值内存需求从约20n2字节降至约4n2字节，并能根据特征值谱特性自动在全批次与分块随机更新之间选择。",
-    "url": "https://aidailybrief.cn/en/archives/2026-08-22",
-    "source": "AI Daily Brief",
-    "slug": "nvidia-adaptgrow-financial-clustering-20260822"
+    "date": "2026-08-21",
+    "title": "焦点访谈：Kimi K3全量开源 以2.8万亿参数成为全球最大开源模型",
+    "summary": "月之暗面7月27日宣布将旗舰大模型Kimi K3全量开源，包含模型权重、技术报告及三项底层训练方法，2.8万亿参数规模创全球开源模型之最。模型上线48小时用户请求量即逼近集群承载极限，被业内类比为“DeepSeek 2.0时刻”，并在Frontend Code Arena以1679分登顶。",
+    "url": "https://www.workercn.cn/c/2026-08-21/8875770.shtml",
+    "source": "中工网",
+    "slug": "kimi-k3-opensource-2-8t-20260821"
   },
   {
     "date": "2026-08-21",
-    "title": "北京AI赋能科研一线观察：磐石·科学基础大模型2.0发布，玻尔科研空间站服务全球150余所高校",
-    "summary": "在2026世界人工智能大会上，中国科学院联合团队发布磐石·科学基础大模型2.0，将通用知识推理与专用科学能力统一联合训练，平台汇聚8000余个专业科研工具，已在天文、力学、化学等领域落地。北京科学智能研究院与深势科技联合打造的玻尔科研空间站正服务全球超150所高校与科研机构，可数十分钟跑完从文献检索到结果分析的全流程。",
-    "url": "https://new.qq.com/rain/a/20260821A09UNR00?refer=cp_1009",
+    "title": "中国AI“智”惠全球：多个国产大模型接连迭代“上新”",
+    "summary": "央视网报道，中国AI大模型调用量已连续多周保持全球第一。多个国产开源多模态大模型可同时处理文本、图像和视频，海外游戏工作室与电商广告平台积极接入；高密液冷智算单元等算力基建也在探讨落地东南亚、中东。",
+    "url": "https://cinic.org.cn/hy/yw/1649313.html",
+    "source": "中国产业经济信息网",
+    "slug": "chinese-ai-models-global-20260821"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "北京自研大模型网络安全能力升级：智谱GLM-5.3发布",
+    "summary": "智谱发布新一代基座模型GLM-5.3，在代码生成、复杂工程执行特别是网络安全能力上实现重大突破，部分安全任务追平甚至超过海外闭源前沿模型。智谱同步启动“开源的盾”计划，对重点开源项目开展持续安全审计。北京近期还有Kimi K3、小米MiMo-V2.5、字节Seedance 2.5等模型密集发布。",
+    "url": "https://epaper.gmw.cn/gmrb/html/content/202608/20/content_22825.html",
+    "source": "光明日报",
+    "slug": "beijing-llm-cybersecurity-glm53-20260820"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "小米新一代人形机器人亮相世界机器人大会；可灵AI商业收入同比增长超200%",
+    "summary": "小米新一代人形机器人在2026世界机器人大会惊艳亮相，展示大模型驱动的灵巧操作与智能交互，国内展出后将赴欧洲巡展。快手发布Q2财报：总营收355亿元，可灵AI收入超8.5亿元、同比增长超200%，成为关键增长引擎。",
+    "url": "https://news.aibase.com/daily/30505",
+    "source": "AIBase",
+    "slug": "xiaomi-robot-kolors-revenue-20260820"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "阿里云模型全家桶上新：Qwen3.8-27B、Kimi K3、GLM-5.3、DeepSeek-V4-Pro集中上线",
+    "summary": "阿里云Model Studio近期密集上线新模型：Qwen3.8-27B原生视觉语言模型主打编程与办公能力；月之暗面Kimi K3支持1M上下文窗口；智谱GLM-5.3支持1M超长上下文；DeepSeek-V4-Pro-0813为1.6T总参数MoE旗舰模型，原生支持百万级超长上下文。",
+    "url": "https://help.aliyun.com/en/model-studio/newly-released-models",
+    "source": "阿里云",
+    "slug": "aliyun-model-studio-new-models-20260819"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "晶泰科技发布XtalPi Science科研操作系统 跑通科学智能+物理智能闭环",
+    "summary": "港股“AI+机器人第一股”晶泰科技发布全球首个科学智能+物理智能闭环的科研操作系统XtalPi Science，整合十年积累的科学模型、真实项目数据、机器人实验室与科研智能体，实现可自我进化的科研基础设施。",
+    "url": "https://new.qq.com/rain/a/20260819A06EYZ00",
     "source": "腾讯网",
-    "slug": "beijing-ai-for-science-panshi-model-20260821"
+    "slug": "xtalpi-science-platform-20260819"
   },
   {
-    "date": "2026-08-21",
-    "title": "北京印发AI赋能科学研究实施方案，部署18项任务建设全球科学智能创新中枢",
-    "summary": "《北京市加快推进人工智能赋能科学研究实施方案(2026—2028年)》近日印发，围绕自主实验室体系、科学模型体系、科学数据底座、高价值场景应用、创新生态五大方向部署18项具体任务，构建设施承载、模型驱动、数据支撑、场景牵引、生态保障的闭环发展格局。数据显示2025年北京人工智能企业突破2500家，核心产业规模超4500亿元。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7776a880e2e01552",
-    "source": "企鹅号",
-    "slug": "beijing-ai-science-action-plan-20260821"
+    "date": "2026-08-18",
+    "title": "AI科技早报：哈佛MIT推出MatrAIx模拟83亿个AI人；荣耀机器人手机首销；宇树发布“超人”机器人",
+    "summary": "哈佛、MIT联合OpenAI、谷歌DeepMind推出MatrAIx系统，可生成83亿个AI智能体模拟全球人类行为；全球首款机器人手机荣耀Robot Phone开启首销；宇树科技发布人形机器人“超人”，腿长0.85米、原地跳高2米、极限速度12.66m/s，双双突破人类世界纪录；阿里发布AI音乐模型HappyShrimp并牵手太合音乐。",
+    "url": "https://new.qq.com/rain/a/20260818A0780L00",
+    "source": "腾讯网",
+    "slug": "ai-morning-brief-matraitx-robot-20260818"
   },
   {
-    "date": "2026-08-22",
-    "title": "智能经济新形态加速崛起：日均词元调用量超140万亿，较2024年初增长1000多倍",
-    "summary": "今年政府工作报告首提打造智能经济新形态。2026北京亦庄人形机器人半程马拉松中超百支赛队参加，多家公司机器人全程独立完成路径规划与障碍规避。今年3月我国日均词元调用量已超140万亿，相较2024年初的1000亿增长1000多倍，围绕词元计量、调用、核算和价值转化的词元经济加速成形，中科曙光推出无线缆箱式超节点scaleX40提升单位算力词元产出。",
-    "url": "http://gzylhyzx.com/detail.html?newsId=37319225&qid=W7",
-    "source": "每日热点",
-    "slug": "token-economy-rising-140-trillion-20260822"
+    "date": "2026-08-18",
+    "title": "人工智能日报：云南印发“人工智能+教育”行动方案；Qwen3.8-27B登顶Hugging Face趋势榜",
+    "summary": "云南省教育厅等五部门印发“人工智能+教育”行动方案，提出2030年实现AI通识教育全学段覆盖；河北九部门推进“人工智能+制造”，佰工钢铁用AI大模型预警使单吨钢材成本降97元；阿里Qwen3.8-27B登顶Hugging Face全球大模型趋势榜，开源两天下载量破百万。",
+    "url": "https://new.qq.com/rain/a/20260818A05OBY00",
+    "source": "腾讯网",
+    "slug": "ai-daily-yunnan-qwen3-8-20260818"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "DeepSeek发布Harness v0.1开源智能体框架和DeepSeek-V4-Pro，发力企业市场",
+    "summary": "DeepSeek推出开源智能体框架Harness v0.1（MIT许可，开发者预览版）及面向智能体工作负载的旗舰模型DeepSeek-V4-Pro，提供对标Anthropic Claude Code的开源选择。同期阿里发布轻量级Qwen-3.8（270亿参数），Z.ai发布GLM-5.3，中国开源模型以更低成本瞄准企业市场。",
+    "url": "https://www.thedeepview.com/articles/chinese-ai-bets-price-can-overcome-trust",
+    "source": "The Deep View",
+    "slug": "deepseek-harness-v01-v4-pro-20260817"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "Z.ai发布GLM-5.3：编程能力较上代提升50%，登顶开放权重基准",
+    "summary": "Z.ai发布GLM-5.3，通过扩展后训练阶段使编程性能较GLM-5.2提升约50%，在多项编程和智能体基准测试中领跑开放权重模型，已通过Z.ai API和GLM Coding Plan上线。因网络安全能力出乎意料地强劲，模型权重将在完成额外安全审查后约两周开源。",
+    "url": "https://aibars.net/zh/news",
+    "source": "AIbars",
+    "slug": "zai-glm53-release-20260814"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "人民网：中国全方位推动人工智能全球治理走深走实",
+    "summary": "2026世界人工智能大会期间，习近平主席呼吁携手构建公正合理的全球人工智能治理体系。世界人工智能合作组织已有38个创始成员国，未来5年将面向发展中国家提供5000个AI研修名额。国产开源大模型累计下载量超10亿次，Kimi K3成为全球最大开源模型。",
+    "url": "https://en.people.cn/n3/2026/0814/c90000-20488686.html",
+    "source": "人民网",
+    "slug": "china-ai-governance-waic-20260814"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "2026年8月AI观察：大模型“卷”出天际，中国开源模型下载占比41%首超美国",
+    "summary": "8月3日阿里发布新一代基座大模型Qwen3.8（2.4万亿参数），8周内国内厂商连发Qwen3.8-Max、Kimi K3、DeepSeek-V4-Flash、GLM-5.2、Seedance 2.5五款重磅模型。据Hugging Face报告，中国自研开源模型下载占比已达41%，首次超过美国。",
+    "url": "https://news.sohu.com/a/1062396656_122755661",
+    "source": "搜狐新闻",
+    "slug": "august-2026-ai-observation-20260813"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "中美开源AI竞速白热化：DeepSeek组建Harness Team对标Claude；大摩警示算力瓶颈",
+    "summary": "DeepSeek官宣成立“DeepSeek Harness Team”专项团队，目标研发可抗衡Anthropic Claude的AI智能体系统，并开通微信官方账号高薪招聘。Meta发布Muse Glimmer、英伟达上线Nemotron 3.5 Lightning开源模型应对竞争。摩根士丹利策略师警告AI行业将长期面临算力供给瓶颈。",
+    "url": "https://www.ccidnet.com/AIqqy/1122879.jhtml",
+    "source": "赛迪网",
+    "slug": "us-china-open-source-ai-race-20260813"
   }
 ]
