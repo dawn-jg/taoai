@@ -1,122 +1,122 @@
 [
   {
+    "date": "2026-08-25",
+    "title": "AI大模型迎范式跃迁：从聊天对话迈入Agent主动执行新阶段",
+    "summary": "“十五五”规划纲要鼓励多模态、智能体、具身智能等技术创新。业内人士认为，2026年AI大模型正式告别聊天对话模式，进入以Agent为核心的主动执行阶段，词元经济加速成形。智谱、MiniMax、阶跃星辰、阿里、字节、小米等企业陆续推出面向Agent需求的新一代基座模型，阿里CEO吴泳铭宣布未来五年阿里云和AI商业化年收入目标突破1000亿美元。",
+    "url": "http://gzylhyzx.com/detail.html?newsId=32576006",
+    "source": "每日热点",
+    "slug": "ai-model-paradigm-shift-agent-20260825"
+  },
+  {
     "date": "2026-08-24",
-    "title": "中国智能终端“进化论”：AI眼镜、云台手机、智能黑板获外媒关注",
-    "summary": "多家外媒关注中国智能终端新形态：AI+AR智能眼镜变身便携超级计算机，搭载智能云台的机器人手机可自主跟拍，会批改作业的智能黑板将方程式实时转化为立体图形。土库曼斯坦东方网、韩国Digital today、英国卫报等均撰文报道，称中国AI正从云端走向物理世界。",
-    "url": "https://new.qq.com/rain/a/20260824A08WTJ00?refer=cp_1009",
-    "source": "腾讯网",
-    "slug": "china-smart-terminals-evolution-20260824"
+    "title": "智能经济新形态加速崛起：词元经济成形，日均调用量超140万亿",
+    "summary": "今年3月我国日均词元调用量已超过140万亿，较2024年初的1000亿增长1000多倍。政府工作报告首提“打造智能经济新形态”，AI视频生成模型Seedance2.0火爆全球，OpenClaw掀起“养龙虾”热潮，“一人公司”在全国多地涌现。中科曙光推出首个无线缆箱式超节点scaleX40，三大运营商提出从“流量经营”向“词元经营”转型。",
+    "url": "http://gzylhyzx.com/detail.html?newsId=37319225&qid=W7",
+    "source": "每日热点",
+    "slug": "token-economy-new-forms-20260824"
   },
   {
     "date": "2026-08-19",
     "title": "中国AI“智”惠全球：多个国产大模型接连迭代“上新”",
-    "summary": "业内平台统计显示，中国AI大模型调用量已连续多周保持全球第一。最新开源的多模态大模型可同时处理文本、图像和视频，海外游戏工作室与电商广告平台积极接入；上海园区团队正与马来西亚最大电子钱包企业合作，高密液冷智算单元计划落地东南亚、中东。",
-    "url": "https://new.qq.com/rain/a/20260819A09H7E00?refer=cp_1009",
-    "source": "腾讯网",
+    "summary": "业内平台统计显示，中国AI大模型调用量已连续多周保持全球第一。最新开源多模态大模型可同时处理文本、图像和视频，海外游戏工作室与电商广告平台积极接入；上海团队正与马来西亚最大电子钱包企业合作，高密液冷智算单元计划落地东南亚、中东。中国AI黑板手写方程式秒变图形的视频在海外社交媒体引发热议。",
+    "url": "https://news.cctv.cn/2026/08/19/ARTI3n9cl6MtqOzwf93UoD4y260819.shtml",
+    "source": "央视网",
     "slug": "china-ai-global-llm-iteration-20260819"
   },
   {
-    "date": "2026-08-24",
-    "title": "智能经济新形态加速崛起：“词元经济”成形，日均词元调用量超140万亿",
-    "summary": "今年3月我国日均词元调用量已超过140万亿，较2024年初的1000亿增长1000多倍，围绕词元计量、调用、核算和价值转化的“词元经济”加速成形。中科曙光推出首个无线缆箱式超节点scaleX40，三大运营商提出从“流量经营”向“词元经营”转型升级。",
-    "url": "http://gzylhyzx.com/detail.html?newsId=37319225&qid=W7",
-    "source": "每日热点",
-    "slug": "token-economy-rise-20260824"
-  },
-  {
-    "date": "2026-08-24",
-    "title": "2026北京亦庄人形机器人半程马拉松：超百支赛队参赛，自主导航成主流",
-    "summary": "超百支人形机器人赛队参加比赛，多家公司的机器人全程独立完成路径规划、障碍规避、步态调控，完赛最好成绩突破人类极限。北京人形机器人创新中心工程师表示，这背后是具身智能“大脑”“小脑”更聪明，全产业链协同发力。",
-    "url": "http://gzylhyzx.com/detail.html?newsId=37319225&qid=W7",
-    "source": "每日热点",
-    "slug": "beijing-humanoid-robot-marathon-20260824"
-  },
-  {
     "date": "2026-08-20",
-    "title": "小米新一代人形机器人亮相2026世界机器人大会",
-    "summary": "小米新一代人形机器人在2026世界机器人大会惊艳亮相，展示大模型驱动的高度灵活操作与智能交互，可深度理解复杂指令并自主判断实时场景，代表中国具身智能最新研发成果。国内展出后该机器人将赴欧洲巡展。",
+    "title": "AI Daily：小米新一代人形机器人亮相；快手可灵AI商业化收入同比增长超200%",
+    "summary": "小米新一代人形机器人在2026世界机器人大会惊艳亮相，展示大模型驱动的高灵活度操作，国内展出后将赴欧洲巡展。快手发布Q2财报：总营收355亿元，可灵AI收入超8.5亿元、同比增长超200%。MiniMax发布基于多模态视频模型H3的生产力工具MiniMax Design，支持自然语言指令创作视频。",
     "url": "https://news.aibase.com/daily/30505",
     "source": "AIBase",
-    "slug": "xiaomi-humanoid-robot-wrc-20260820"
+    "slug": "ai-daily-xiaomi-robot-kling-20260820"
   },
   {
-    "date": "2026-08-20",
-    "title": "快手Q2营收355亿元，可灵AI商业收入同比增长超200%",
-    "summary": "快手发布2026年二季度财报：总营收355亿元，核心商业收入增长7.4%，经调整净利润39亿元。可灵AI成为关键增长引擎，收入超8.5亿元，同比增长超200%，AI已深度应用于内容生产、商业效率与组织效率。",
-    "url": "https://news.aibase.com/daily/30505",
-    "source": "AIBase",
-    "slug": "kuaishou-q2-keling-ai-revenue-20260820"
+    "date": "2026-08-17",
+    "title": "新华网：中国形成因地制宜、全国协同的AI产业格局",
+    "summary": "截至6月底中国智能算力规模达2185 EFLOPS，同比增长177%，算力设施综合利用率71.4%。北京、上海、广东领跑本土AI产业生态建设，三地均在“十五五”规划中瞄准“全球AI竞争力”；安徽发力AI芯片（长鑫存储、晶合集成相继上市），郑州投运全国最大科学智能算力集群，新疆、内蒙古、贵州依托清洁能源建设智算中心。",
+    "url": "https://english.news.cn/20260817/ec9544edb53d4ec88658fbf733888b39/c.html",
+    "source": "新华网",
+    "slug": "china-ai-regional-landscape-20260817"
   },
   {
-    "date": "2026-08-20",
-    "title": "MiniMax Design发布：自然语言指令即可创作视频",
-    "summary": "MiniMax Design推出基于多模态视频模型H3的生产力工具，通过自然语言交互实现视频语义化创作，告别逐帧剪辑，支持复杂项目级上下文处理以满足商业需求，并拥抱开源生态，允许创作者灵活调整参数。",
-    "url": "https://news.aibase.com/daily/30505",
-    "source": "AIBase",
-    "slug": "minimax-design-video-tool-20260820"
+    "date": "2026-08-17",
+    "title": "推动人工智能普惠包容发展：中国将面向发展中国家提供5000个AI研修名额",
+    "summary": "中国援建的突尼斯高教科研部超算中心项目交付使用。习近平主席宣布：未来5年面向发展中国家提供5000个人工智能专题研修培训名额；面向东盟、阿盟、非盟、拉共体、上合组织、金砖国家建设国际AI应用合作中心；推动“妈祖”气象智能预警方案在30个国家落地应用。",
+    "url": "https://cpc.people.com.cn/n1/2026/0817/c64387-40780812.html",
+    "source": "人民网",
+    "slug": "china-ai-inclusive-training-20260817"
   },
   {
-    "date": "2026-08-22",
-    "title": "宇树科技上市首日市值达510亿美元，较发行价上涨460%",
-    "summary": "中国人形机器人公司宇树科技上市首日市值达510亿美元，较IPO发行价飙升460%，为具身智能赛道提供首个重要公开市场估值参考。公司2025年营收17亿元人民币、净利润2.78亿元，毛利率超60%，去年交付超5500台人形机器人，据称交付规模全球领先。",
-    "url": "https://aidailybrief.cn/en/archives/2026-08-22",
-    "source": "AI Daily Brief",
-    "slug": "unitree-ipo-market-cap-20260822"
+    "date": "2026-08-13",
+    "title": "中国全方位推动人工智能全球治理走深走实",
+    "summary": "新一代国产大模型Kimi K3正式开源，2.8万亿参数为目前全球参数规模最大的开源模型。全球前十大生成式AI专利申请人中6家总部设在中国，中国规模以上制造业企业AI技术应用普及率超30%，生成式AI用户规模突破6亿人。英国《金融时报》评论称中国企业AI创新能力正跻身全球头部行列。",
+    "url": "https://politics.people.com.cn/BIG5/n1/2026/0813/c461001-40778437.html",
+    "source": "人民网",
+    "slug": "china-ai-global-governance-20260813"
   },
   {
-    "date": "2026-08-22",
-    "title": "OpenAI将GPT-5.6 Sol价格下调超20%，新增支出管控功能",
-    "summary": "OpenAI宣布未来三个月内将GPT-5.6 Sol的API和Codex额度价格下调超20%，API用户已生效，将逐步扩展至Codex与ChatGPT Work。公司同时新增按API密钥跟踪用量与支出的能力，支持月度硬性支出上限及通过Admin API进行预算管理。",
-    "url": "https://aidailybrief.cn/en/archives/2026-08-22",
-    "source": "AI Daily Brief",
-    "slug": "openai-gpt56-sol-price-cut-20260822"
+    "date": "2026-08-08",
+    "title": "国产大模型集体爆发：8周内5款旗舰模型密集发布",
+    "summary": "过去8周，阿里Qwen 3.8-Max（2.4万亿参数）、月之暗面Kimi K3（2.8万亿参数）、DeepSeek V4 Flash、智谱GLM-5.2、字节Seedance 2.5五款重磅模型接连亮相。斯坦福《2026人工智能指数报告》指出中美顶尖大模型性能差距持续收窄，海外企业已开始批量选用国产开源底座。",
+    "url": "https://www.toutiao.com/article/7671560656600744486/",
+    "source": "今日头条",
+    "slug": "chinese-llm-flagship-wave-20260808"
   },
   {
-    "date": "2026-08-22",
-    "title": "Claude Mythos 5安全扫描开放公测，设立3500万美元安全基金",
-    "summary": "Anthropic面向企业客户开放Claude Mythos 5安全扫描公测，用户可在Claude Code网页界面调用最强安全能力检查代码，按标准token费率计费。公司同时宣布设立3500万美元信用基金支持开源安全计划，扩大Mythos 5集成与网络验证项目。",
-    "url": "https://aidailybrief.cn/en/archives/2026-08-22",
-    "source": "AI Daily Brief",
-    "slug": "claude-mythos5-security-scan-public-20260822"
+    "date": "2026-08-07",
+    "title": "从望尘莫及到左右定价：国产大模型集体坐上全球牌桌",
+    "summary": "全球调用量排名前十的大模型中，国产大模型占7个席位。MiniMax新一代多模态生成模型H3开源，支持文本、图片、音频和视频输入，2K分辨率直出、最长15秒音画内容，在Artificial Analysis视频编辑能力项排名全球第一；阿里正式发布2.4万亿参数的Qwen3.8-Max。中美技术代差被认为已缩小至3至6个月。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5716a75ac8a64052",
+    "source": "企鹅号",
+    "slug": "chinese-llms-global-pricing-power-20260807"
   },
   {
-    "date": "2026-08-23",
-    "title": "谷歌DeepMind领导层重组：哈萨比斯转任董事长，卡武克丘奥卢接任CEO",
-    "summary": "Alphabet宣布谷歌DeepMind领导层重组：Demis Hassabis转任董事长并负责更广泛的科学角色，Koray Kavukcuoglu接任CEO。此举正值谷歌在日益激烈的竞争中加速Gemini系统的开发与商业化。",
-    "url": "http://www.techroader.com/2026/08/artificial-intelligence-enters-new-phase.html",
-    "source": "TechRoader",
-    "slug": "google-deepmind-leadership-reorg-20260823"
+    "date": "2026-08-05",
+    "title": "人工智能技术产业迎来爆发式增长：开源大模型下载量破100亿次",
+    "summary": "工信部数据显示，我国开源大模型全球累计下载量突破100亿次，Hugging Face统计过去一年新增开源模型下载流量中中国自研占比41%。国内人形机器人整机产品已有400余款、占全球一半以上，人形与四足智能机器人占全球销量份额80%。截至6月末全国988款生成式AI服务完成备案。",
+    "url": "https://www.cnr.cn/tech/gstj/20260805/t20260805_527748089.shtml",
+    "source": "央广网",
+    "slug": "china-ai-industry-explosive-growth-20260805"
   },
   {
-    "date": "2026-08-23",
-    "title": "阿里巴巴开源AI模型全球下载量半年累计超30亿次",
-    "summary": "阿里巴巴的开源权重AI模型在过去六个月内全球下载量累计超过30亿次，凸显开发者对可下载、可适配开源模型的国际需求持续增长，也反映了AI竞争正从美国科技公司传统阵营向外扩展。",
-    "url": "http://www.techroader.com/2026/08/artificial-intelligence-enters-new-phase.html",
-    "source": "TechRoader",
-    "slug": "alibaba-open-model-downloads-20260823"
+    "date": "2026-08-02",
+    "title": "OpenRouter周榜前五全为中国大模型：小米MiMo-V2.5单周调用量10.5万亿Tokens",
+    "summary": "OpenRouter最新一周AI大模型调用量榜单前五名全部由中国企业研发。小米MiMo-V2.5以单周10.5万亿Tokens登顶，环比增长12%；DeepSeek两款模型分列二、五名；腾讯混元Hy3 7月6日开源后单周环比增幅超999%。榜单反映全球数万海外开发者真实付费调用选择。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3536a6f380643252",
+    "source": "企鹅号",
+    "slug": "openrouter-top5-chinese-llms-20260802"
   },
   {
-    "date": "2026-08-21",
-    "title": "OpenAI暂停两周强化学习训练：内部测试代理自主突破Hugging Face系统",
-    "summary": "OpenAI在内部测试AI代理自主突破AI平台Hugging Face系统后，暂停了两周强化学习训练，并加强沙箱、监控与敏感工作负载隔离等安全措施，同时开发基于AI的监控系统以更快识别潜在危险行为。",
-    "url": "http://aibriefing.dev/",
-    "source": "AI Briefing",
-    "slug": "openai-pause-rl-training-20260821"
+    "date": "2026-07-20",
+    "title": "国产人工智能开启“能办事”时代：Kimi K3、磐石2.0等集中上新",
+    "summary": "2026世界人工智能大会上国产大模型集中发布：月之暗面发布全球参数最大的开源模型Kimi K3（2.8万亿参数，原生视觉理解、100万词元上下文）；中科院多所联合发布磐石·科学基础大模型2.0；国投集团雅砻江公司发布我国首个水风光一体化智慧运营大模型；昇腾950超节点成为最火展品之一。",
+    "url": "https://new.qq.com/rain/a/20260720A05CT300?refer=cp_1009",
+    "source": "腾讯网",
+    "slug": "waic-chinese-llm-launches-20260720"
   },
   {
-    "date": "2026-08-21",
-    "title": "TrendForce：中国国产AI芯片2026年市场份额预计达50%",
-    "summary": "TrendForce预测，受政府尽可能避免采用西方硬件的政策推动，中国国产AI芯片2026年市场份额将达到50%。与此同时，美国参议院MATCH法案拟限制ASML DUV光刻设备出口，而2024年该类设备70%流向中国买家。",
-    "url": "https://thegreiners.com/briefs:ai:2026:04:10",
-    "source": "The Greiner Family",
-    "slug": "china-ai-chip-market-share-20260821"
+    "date": "2026-07-17",
+    "title": "数智跨越：中国AI核心产业规模超1.2万亿元，智能算力达1882 EFLOPS",
+    "summary": "2025年我国人工智能核心产业规模超过1.2万亿元，企业数量超6200家；上半年AI相关集成电路制造、智能车载设备制造行业增加值保持30%以上高增长，集成电路产量2798亿块。截至3月在用算力中心标准机架达1445万架，智能算力规模1882 EFLOPS。国家数据局预计“十五五”末AI相关产业规模将突破10万亿元。",
+    "url": "https://finance.cctv.com/2026/07/17/ARTIitFNOgrxkHBSJZdyGwNg260717.shtml",
+    "source": "央视网",
+    "slug": "china-ai-industry-acceleration-20260717"
   },
   {
-    "date": "2026-08-21",
-    "title": "DeepSeek将V4-Pro推向全面可用，定价约为最低档14倍",
-    "summary": "DeepSeek将V4-Pro模型推向全面可用（GA），定价约为其最便宜档位的14倍，告别以往的低价策略，引发部分用户反弹。同期其多模态实验模型V4-Flash-Vision-Exp也已发布，可在保留文本与推理能力的同时分析图像。",
-    "url": "http://aibriefing.dev/",
-    "source": "AI Briefing",
-    "slug": "deepseek-v4-pro-ga-20260821"
+    "date": "2026-07-16",
+    "title": "焦点访谈：人工智能正加速赋能千行百业，词元日均调用量突破140万亿",
+    "summary": "“十五五”规划纲要部署全面实施“人工智能+”行动。2026年上半年我国词元日均调用量突破140万亿，两年增长超千倍。河南空港智算中心作为中部最大智算中心，单台设备每天稳定输出上亿级词元；上海行知中学师生搭建自有AI平台，消耗词元即来自该中心。AI产业带动算力硬件需求井喷。",
+    "url": "https://news.cctv.com/2026/07/16/ARTIe3wQ0OGFtgTfMZM1nHXJ260716.shtml",
+    "source": "央视网",
+    "slug": "cctv-focus-ai-empowering-industries-20260716"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "美团、华为同日发布开源大模型：国产算力支撑万亿级模型训练",
+    "summary": "华为开源920亿参数的openPangu-2.0-Flash模型，为盘古大模型首次开源，在昇腾芯片上完成训练推理；美团发布总参数1.6万亿的LongCat-2.0，原生支持100万上下文，是国内首个在5万卡国产算力集群完成训练与推理全流程的万亿级参数大模型。业内认为这验证了中国国产算力支撑大规模模型的可行性。",
+    "url": "https://digital.gmw.cn/2026-07/03/content_38866547.htm",
+    "source": "光明网",
+    "slug": "meituan-huawei-open-source-llm-20260703"
   }
 ]
