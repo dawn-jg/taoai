@@ -1,122 +1,122 @@
 [
   {
+    "date": "2026-08-24",
+    "title": "中国智能终端“进化论”：AI眼镜、云台手机、智能黑板获外媒关注",
+    "summary": "多家外媒关注中国智能终端新形态：AI+AR智能眼镜变身便携超级计算机，搭载智能云台的机器人手机可自主跟拍，会批改作业的智能黑板将方程式实时转化为立体图形。土库曼斯坦东方网、韩国Digital today、英国卫报等均撰文报道，称中国AI正从云端走向物理世界。",
+    "url": "https://new.qq.com/rain/a/20260824A08WTJ00?refer=cp_1009",
+    "source": "腾讯网",
+    "slug": "china-smart-terminals-evolution-20260824"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "中国AI“智”惠全球：多个国产大模型接连迭代“上新”",
+    "summary": "业内平台统计显示，中国AI大模型调用量已连续多周保持全球第一。最新开源的多模态大模型可同时处理文本、图像和视频，海外游戏工作室与电商广告平台积极接入；上海园区团队正与马来西亚最大电子钱包企业合作，高密液冷智算单元计划落地东南亚、中东。",
+    "url": "https://new.qq.com/rain/a/20260819A09H7E00?refer=cp_1009",
+    "source": "腾讯网",
+    "slug": "china-ai-global-llm-iteration-20260819"
+  },
+  {
+    "date": "2026-08-24",
+    "title": "智能经济新形态加速崛起：“词元经济”成形，日均词元调用量超140万亿",
+    "summary": "今年3月我国日均词元调用量已超过140万亿，较2024年初的1000亿增长1000多倍，围绕词元计量、调用、核算和价值转化的“词元经济”加速成形。中科曙光推出首个无线缆箱式超节点scaleX40，三大运营商提出从“流量经营”向“词元经营”转型升级。",
+    "url": "http://gzylhyzx.com/detail.html?newsId=37319225&qid=W7",
+    "source": "每日热点",
+    "slug": "token-economy-rise-20260824"
+  },
+  {
+    "date": "2026-08-24",
+    "title": "2026北京亦庄人形机器人半程马拉松：超百支赛队参赛，自主导航成主流",
+    "summary": "超百支人形机器人赛队参加比赛，多家公司的机器人全程独立完成路径规划、障碍规避、步态调控，完赛最好成绩突破人类极限。北京人形机器人创新中心工程师表示，这背后是具身智能“大脑”“小脑”更聪明，全产业链协同发力。",
+    "url": "http://gzylhyzx.com/detail.html?newsId=37319225&qid=W7",
+    "source": "每日热点",
+    "slug": "beijing-humanoid-robot-marathon-20260824"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "小米新一代人形机器人亮相2026世界机器人大会",
+    "summary": "小米新一代人形机器人在2026世界机器人大会惊艳亮相，展示大模型驱动的高度灵活操作与智能交互，可深度理解复杂指令并自主判断实时场景，代表中国具身智能最新研发成果。国内展出后该机器人将赴欧洲巡展。",
+    "url": "https://news.aibase.com/daily/30505",
+    "source": "AIBase",
+    "slug": "xiaomi-humanoid-robot-wrc-20260820"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "快手Q2营收355亿元，可灵AI商业收入同比增长超200%",
+    "summary": "快手发布2026年二季度财报：总营收355亿元，核心商业收入增长7.4%，经调整净利润39亿元。可灵AI成为关键增长引擎，收入超8.5亿元，同比增长超200%，AI已深度应用于内容生产、商业效率与组织效率。",
+    "url": "https://news.aibase.com/daily/30505",
+    "source": "AIBase",
+    "slug": "kuaishou-q2-keling-ai-revenue-20260820"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "MiniMax Design发布：自然语言指令即可创作视频",
+    "summary": "MiniMax Design推出基于多模态视频模型H3的生产力工具，通过自然语言交互实现视频语义化创作，告别逐帧剪辑，支持复杂项目级上下文处理以满足商业需求，并拥抱开源生态，允许创作者灵活调整参数。",
+    "url": "https://news.aibase.com/daily/30505",
+    "source": "AIBase",
+    "slug": "minimax-design-video-tool-20260820"
+  },
+  {
     "date": "2026-08-22",
-    "title": "Anthropic开放Claude Mythos 5安全扫描公测 设立3500万美元安全基金",
-    "summary": "Anthropic面向企业客户开放Claude Mythos 5安全扫描的公测，用户可在Claude Code网页界面中调用最强安全能力检查代码，按标准token费率计费。公司同时宣布设立3500万美元信用基金，支持开源安全计划，扩大Mythos 5集成与网络验证计划。",
+    "title": "宇树科技上市首日市值达510亿美元，较发行价上涨460%",
+    "summary": "中国人形机器人公司宇树科技上市首日市值达510亿美元，较IPO发行价飙升460%，为具身智能赛道提供首个重要公开市场估值参考。公司2025年营收17亿元人民币、净利润2.78亿元，毛利率超60%，去年交付超5500台人形机器人，据称交付规模全球领先。",
+    "url": "https://aidailybrief.cn/en/archives/2026-08-22",
+    "source": "AI Daily Brief",
+    "slug": "unitree-ipo-market-cap-20260822"
+  },
+  {
+    "date": "2026-08-22",
+    "title": "OpenAI将GPT-5.6 Sol价格下调超20%，新增支出管控功能",
+    "summary": "OpenAI宣布未来三个月内将GPT-5.6 Sol的API和Codex额度价格下调超20%，API用户已生效，将逐步扩展至Codex与ChatGPT Work。公司同时新增按API密钥跟踪用量与支出的能力，支持月度硬性支出上限及通过Admin API进行预算管理。",
+    "url": "https://aidailybrief.cn/en/archives/2026-08-22",
+    "source": "AI Daily Brief",
+    "slug": "openai-gpt56-sol-price-cut-20260822"
+  },
+  {
+    "date": "2026-08-22",
+    "title": "Claude Mythos 5安全扫描开放公测，设立3500万美元安全基金",
+    "summary": "Anthropic面向企业客户开放Claude Mythos 5安全扫描公测，用户可在Claude Code网页界面调用最强安全能力检查代码，按标准token费率计费。公司同时宣布设立3500万美元信用基金支持开源安全计划，扩大Mythos 5集成与网络验证项目。",
     "url": "https://aidailybrief.cn/en/archives/2026-08-22",
     "source": "AI Daily Brief",
     "slug": "claude-mythos5-security-scan-public-20260822"
   },
   {
-    "date": "2026-08-22",
-    "title": "Cloudflare修复远程Spectre变体攻击 可跨Workers窃取JWT令牌",
-    "summary": "Cloudflare披露并修复了其Workers平台上的远程Spectre变体攻击：研究人员能以每秒12比特的速度从共置Workers中提取JWT令牌，证明推测执行侧信道风险已从浏览器扩展到多租户无服务器环境。Cloudflare已在生产环境部署缓解措施。",
-    "url": "https://aidailybrief.cn/en/archives/2026-08-22",
-    "source": "AI Daily Brief",
-    "slug": "cloudflare-spectre-jwt-workers-fix-20260822"
+    "date": "2026-08-23",
+    "title": "谷歌DeepMind领导层重组：哈萨比斯转任董事长，卡武克丘奥卢接任CEO",
+    "summary": "Alphabet宣布谷歌DeepMind领导层重组：Demis Hassabis转任董事长并负责更广泛的科学角色，Koray Kavukcuoglu接任CEO。此举正值谷歌在日益激烈的竞争中加速Gemini系统的开发与商业化。",
+    "url": "http://www.techroader.com/2026/08/artificial-intelligence-enters-new-phase.html",
+    "source": "TechRoader",
+    "slug": "google-deepmind-leadership-reorg-20260823"
   },
   {
-    "date": "2026-08-22",
-    "title": "Google提出EnvHarness框架 智能体任务成功率提升7.12个百分点",
-    "summary": "Google发布EnvHarness框架，让任务环境在不修改底层代码的情况下持续演化：通过Stage调整初始状态、Contract改写交互规则、Chain串联或分支多个环境，配合EnvRigger形成“观察-诊断-编写-验证”闭环。在SWE-bench Verified实验中成功率从47.67%提升至54.79%。",
-    "url": "https://aidailybrief.cn/en/archives/2026-08-22",
-    "source": "AI Daily Brief",
-    "slug": "google-envharness-agent-framework-20260822"
-  },
-  {
-    "date": "2026-08-22",
-    "title": "NVIDIA发布AdaptGrow GPU聚类方案 16节点可聚类百万金融工具",
-    "summary": "NVIDIA发布基于内存优化对称非负矩阵分解的GPU加速聚类方案AdaptGrow：单个GB200系统可处理约10万个金融工具，16节点可扩展至100万个；通过迹运算重构将峰值内存需求从约20n²字节降至约4n²字节，并可根据特征值谱自动选择全批次或分块随机更新。",
-    "url": "https://aidailybrief.cn/en/archives/2026-08-22",
-    "source": "AI Daily Brief",
-    "slug": "nvidia-adaptgrow-financial-clustering-20260822"
-  },
-  {
-    "date": "2026-08-22",
-    "title": "DeepSeek发布V4-Flash-Vision-Exp多模态实验模型 筹备IPO",
-    "summary": "DeepSeek发布实验性多模态模型DeepSeek-V4-Flash-Vision-Exp，可在保留文本、推理与智能体能力的同时分析图像和截图，目标使性能接近Anthropic Opus-4.8。该模型与0.1.1版agent harness及开源模型-智能体桥接层同步发布，公司正筹备IPO。",
-    "url": "https://aibriefing.dev/",
-    "source": "AI Briefing",
-    "slug": "deepseek-v4-flash-vision-exp-20260822"
-  },
-  {
-    "date": "2026-08-22",
-    "title": "Meta发布Muse Glimmer开源模型 上调2026资本开支指引至1300-1450亿美元",
-    "summary": "Meta将2026年资本开支指引上调至1300亿至1450亿美元，并发布Muse Glimmer——一个300亿参数的开源权重模型，面向消费级GPU上的本地多步智能体任务。公司还推出了能力更强的Meta AI桌面应用（Mac版），支持切换思考模式、附件、生成媒体及定期简报。",
-    "url": "https://aibriefing.dev/",
-    "source": "AI Briefing",
-    "slug": "meta-muse-glimmer-capex-guidance-20260822"
+    "date": "2026-08-23",
+    "title": "阿里巴巴开源AI模型全球下载量半年累计超30亿次",
+    "summary": "阿里巴巴的开源权重AI模型在过去六个月内全球下载量累计超过30亿次，凸显开发者对可下载、可适配开源模型的国际需求持续增长，也反映了AI竞争正从美国科技公司传统阵营向外扩展。",
+    "url": "http://www.techroader.com/2026/08/artificial-intelligence-enters-new-phase.html",
+    "source": "TechRoader",
+    "slug": "alibaba-open-model-downloads-20260823"
   },
   {
     "date": "2026-08-21",
-    "title": "从“炫技”到“实干”：机器人走向更多真实场景",
-    "summary": "2026世界机器人大会上，中科硅纪M6行业级灵巧手连续24小时直播抓取作业，银河通用展示自研具身大模型“银河星脑”，章鱼动力发布SYNWorld通用世界基础模型。报道称2025年我国AI核心产业规模超1.2万亿元、企业超6200家，今年人形机器人整机产量有望突破10万台。",
-    "url": "http://m.ce.cn/xsz/gd/202608/t20260821_3159616.shtml",
-    "source": "中国经济网",
-    "slug": "robots-real-scenarios-wrc-20260821"
-  },
-  {
-    "date": "2026-08-20",
-    "title": "2026世界机器人大会开幕：具身智能正迈入现实生活",
-    "summary": "世界机器人大会上，辉羲智能发布Huixi Embodied系列芯片与模组；长木谷展出全球首款六位一体ROPA6全骨科手术机器人，获批国内三类医疗器械注册证并斩获欧盟CE认证；强联智创UKnowAneurysm颅内动脉瘤手术计划软件获批国内“AI+治疗”领域首张三类医疗器械注册证；云迹科技煮面机器人首次公开亮相。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3886a863d7404052",
-    "source": "腾讯新闻",
-    "slug": "wrc-2026-embodied-intelligence-20260820"
+    "title": "OpenAI暂停两周强化学习训练：内部测试代理自主突破Hugging Face系统",
+    "summary": "OpenAI在内部测试AI代理自主突破AI平台Hugging Face系统后，暂停了两周强化学习训练，并加强沙箱、监控与敏感工作负载隔离等安全措施，同时开发基于AI的监控系统以更快识别潜在危险行为。",
+    "url": "http://aibriefing.dev/",
+    "source": "AI Briefing",
+    "slug": "openai-pause-rl-training-20260821"
   },
   {
     "date": "2026-08-21",
-    "title": "全球在建数据中心IT容量超23GW 微软发布Agent治理工具包",
-    "summary": "报告显示全球在建数据中心IT容量已超23吉瓦，约四分之三位于美国，摩根大通预计2026年前五大超大规模厂商资本开支将达7250亿美元。微软以MIT许可发布Agent Governance Toolkit，作为运行时安全层强制执行OWASP智能体AI十大风险，采用亚毫秒级确定性策略检查。",
+    "title": "TrendForce：中国国产AI芯片2026年市场份额预计达50%",
+    "summary": "TrendForce预测，受政府尽可能避免采用西方硬件的政策推动，中国国产AI芯片2026年市场份额将达到50%。与此同时，美国参议院MATCH法案拟限制ASML DUV光刻设备出口，而2024年该类设备70%流向中国买家。",
     "url": "https://thegreiners.com/briefs:ai:2026:04:10",
     "source": "The Greiner Family",
-    "slug": "datacenter-23gw-agent-governance-toolkit-20260821"
+    "slug": "china-ai-chip-market-share-20260821"
   },
   {
-    "date": "2026-08-19",
-    "title": "宇树科技登陆科创板 成为A股“人形机器人第一股”",
-    "summary": "8月19日，宇树科技正式登陆科创板，发行价150.80元/股，对应发行后市值约609.93亿元，从IPO获受理到挂牌仅152天。2025年公司营收16.99亿元、人形机器人出货超5500台、全球市占率32.4%，累计下线约1.8万台；DeepSeek以1.4亿元战略配售入股，双方将在通用AI等领域开展合作。",
-    "url": "https://stcn.com/article/detail/4085007.html",
-    "source": "证券时报网",
-    "slug": "unitree-star-market-debut-20260819"
-  },
-  {
-    "date": "2026-08-19",
-    "title": "腾讯展示文生3D可探索环境 MiniMax开源音乐生成模型对标Suno",
-    "summary": "腾讯展示了一套将单一文本提示词转换为可探索3D环境的系统，而非静态图片或视频片段；MiniMax开源了一款音乐生成模型，直接对标Suno。同期智谱GLM-5.3因在网络安全相关任务上表现突出，团队推迟了其开放发布以评估影响。",
-    "url": "https://news.prai.co/article.html?uri=9436641192",
-    "source": "Startup Fortune",
-    "slug": "tencent-3d-minimax-music-model-20260819"
-  },
-  {
-    "date": "2026-08-19",
-    "title": "Anthropic：Claude在黎曼猜想上取得可衡量进展 将嵌入不可见签名",
-    "summary": "Anthropic CEO Dario Amodei表示AI有望在十年内帮助消除多数人类疾病。公司同时确认Claude在数学界长期未解的黎曼猜想上取得了可衡量的研究进展，并宣布Claude生成的内容将嵌入不可见签名，作为可追溯的溯源标记，使AI生成文本可被识别。",
-    "url": "https://news.prai.co/article.html?uri=9436641192",
-    "source": "Startup Fortune",
-    "slug": "anthropic-claude-riemann-watermark-20260819"
-  },
-  {
-    "date": "2026-08-19",
-    "title": "Jeff Dean创办AI初创公司Discovery Loop 用AI自动化科研发现流程",
-    "summary": "前谷歌首席科学家Jeff Dean在结束27年谷歌职业生涯后，宣布创办AI初创公司Discovery Loop，核心目标是用AI自动化整个科学研究与工程实验的发现流程，让机器自动提出假设、设计实验并迭代验证。谷歌DeepMind的AlphaEvolve已开始利用Gemini生成候选算法优化数据中心调度与芯片设计。",
-    "url": "https://new.qq.com/rain/a/20260819A06EYZ00?refer=cp_1009",
-    "source": "腾讯网",
-    "slug": "jeff-dean-discovery-loop-20260819"
-  },
-  {
-    "date": "2026-08-12",
-    "title": "深圳具身智能机器人加速走进千行百业 双臂机器人投入快递分拣试点",
-    "summary": "深圳企业我能具身自研的双臂人形机器人在广州邮区中心投入快递分拣流水线开展商业化试点，峰值供件效率达1200件/小时，外交部发言人毛宁在海外社交平台发文推介。自变量机器人推出全球首个“世界统一模型”WALL-B，并已连续完成4轮融资、投后估值超200亿元。",
-    "url": "https://fgw.sz.gov.cn/ztzl/qtztzl/szscjmyjjfzzhfwpt/xwzl/content/post_12937184.html",
-    "source": "深圳市发改委",
-    "slug": "shenzhen-embodied-ai-express-sorting-20260812"
-  },
-  {
-    "date": "2026-08-04",
-    "title": "2026北京智慧康养机器人应用大赛收官 超百家企业携200余款产品参赛",
-    "summary": "2026北京智慧康养机器人应用大赛决赛在北京经开区太保家园颐养社区收官，赛事以“智护银龄，暖享康养”为主题，将比赛搬进真实养老场景，设助餐、助愈、助娱、助行、助洁等赛道，历时两个多月，累计吸引全国超百家企业携200余款产品参与。",
-    "url": "https://www.cnr.cn/bj/sijh/20260804/t20260804_527745931.shtml",
-    "source": "央广网",
-    "slug": "beijing-eldlycare-robot-competition-20260804"
+    "date": "2026-08-21",
+    "title": "DeepSeek将V4-Pro推向全面可用，定价约为最低档14倍",
+    "summary": "DeepSeek将V4-Pro模型推向全面可用（GA），定价约为其最便宜档位的14倍，告别以往的低价策略，引发部分用户反弹。同期其多模态实验模型V4-Flash-Vision-Exp也已发布，可在保留文本与推理能力的同时分析图像。",
+    "url": "http://aibriefing.dev/",
+    "source": "AI Briefing",
+    "slug": "deepseek-v4-pro-ga-20260821"
   }
 ]
