@@ -1,122 +1,122 @@
 [
   {
-    "date": "2026-08-25",
-    "title": "AI大模型迎范式跃迁：从聊天对话迈入Agent主动执行新阶段",
-    "summary": "“十五五”规划纲要鼓励多模态、智能体、具身智能等技术创新。业内人士认为，2026年AI大模型正式告别聊天对话模式，进入以Agent为核心的主动执行阶段，词元经济加速成形。智谱、MiniMax、阶跃星辰、阿里、字节、小米等企业陆续推出面向Agent需求的新一代基座模型，阿里CEO吴泳铭宣布未来五年阿里云和AI商业化年收入目标突破1000亿美元。",
-    "url": "http://gzylhyzx.com/detail.html?newsId=32576006",
-    "source": "每日热点",
-    "slug": "ai-model-paradigm-shift-agent-20260825"
-  },
-  {
-    "date": "2026-08-25",
-    "title": "大模型圈本周仅5条真消息：Claude Opus 5、Grok 4.6、GLM-5.3确认发布",
-    "summary": "AI编辑经核验官方文档后梳理本周真实动态：确认的大版本发布为Anthropic Claude Opus 5、xAI Grok 4.6、智谱GLM-5.3；DeepSeek未发V4正式版，而是发布实验性视觉理解模型DeepSeek-V4-Flash-Vision-Exp；Cursor更新云端代理订阅功能，AI编程从“帮你写”走向“替你干”；腾讯混元正在将能力迁移到新平台TokenHub，旧版模型6月已下线。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0696a8cf9a686152",
-    "source": "企鹅号",
-    "slug": "weekly-verified-model-releases-20260825"
-  },
-  {
-    "date": "2026-08-24",
-    "title": "2026世界机器人大会闭幕：中国AI机器人从“炫技”走向“实干”",
-    "summary": "2026世界机器人大会23日在北京闭幕，以“人机共生 产需共融”为主题，同期举办世界机器人博览会、世界机器人大赛等70余场配套活动。具备自主决策、人机协作能力的新一代工业机器人加快从技术验证走向规模化应用，面向养老、医疗、教育等民生领域的服务机器人加速普及，农业采摘、应急救援特种机器人应用场景不断拓展。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1716a8b957856452",
-    "source": "企鹅号",
-    "slug": "world-robot-conference-2026-closing-20260824"
-  },
-  {
-    "date": "2026-08-25",
-    "title": "一周两场世界级机器人盛会：中国人形机器人出货量占全球97%",
-    "summary": "2026世界机器人大会报告显示，上半年中国人形机器人出货量超4万台，全球占比提升至97%；中国已建成全球最完整的机器人硬件产业链，核心零部件国产化率超90%。大模型与机器人软硬件结合正解决“泛化能力差”痛点，为机器人装上可进化的“通用大脑”，软硬协同重塑产业链与资本布局。",
-    "url": "https://www.china.com.cn/opinion/2026-08/25/content_118662709.html",
-    "source": "中国网",
-    "slug": "china-humanoid-shipments-97-percent-20260825"
-  },
-  {
-    "date": "2026-08-21",
-    "title": "从“炫技”到“实干”：灵巧手、具身大模型集中亮相世界机器人大会",
-    "summary": "中科硅纪M6行业级灵巧手连续24小时抓取直播，上半年订单规模突破亿元；北京银河通用发布自研具身大模型“银河星脑”，实现“大脑-小脑-神经控制”一体化；章鱼动力展出SYNWorld通用世界基础模型并完成多轮迭代。2025年我国AI核心产业规模超1.2万亿元，企业数量超6200家，今年人形机器人整机产量有望突破10万台。",
-    "url": "http://m.ce.cn/xsz/gd/202608/t20260821_3159616.shtml",
-    "source": "中国经济网",
-    "slug": "robots-real-scenarios-wrc-20260821"
-  },
-  {
-    "date": "2026-08-21",
-    "title": "中国具身智能进入大规模应用关键期：上半年出货4万台人形机器人",
-    "summary": "中国电子学会理事长徐晓兰在世界机器人大会上表示，中国具身智能正进入大规模应用关键窗口期，产品从小批量试点转向规模化部署。报告显示上半年中国人形机器人出货超4万台、占全球97%；中国电子学会预计2030年中国人形机器人市场规模约8700亿元。工信部7月数据显示中国已开发超400款人形机器人整机产品，占全球一半以上。",
-    "url": "https://www.china.org.cn/china/Off_the_Wire/2026-08/21/content_118659275.shtml",
-    "source": "中国网（新华社）",
-    "slug": "embodied-ai-critical-phase-20260821"
-  },
-  {
-    "date": "2026-08-24",
-    "title": "中国机器人IPO浪潮：46家机器人企业排队港股上市",
-    "summary": "据新华网报道，港股排队IPO企业中46家为机器人相关企业；中国拥有超140家人形机器人厂商，上半年全球人形机器人出货约1.91万台、中国占97%。摩根士丹利报告将中国人形机器人产业轨迹类比十年前的电动车行业，预测未来5至10年人形机器人将成为中国机械出口的下一个主要引擎。",
-    "url": "http://www.chinaview.cn/20260824/c3519beae83a47f1900980ceff541d28/c.html",
-    "source": "新华网",
-    "slug": "china-robot-ipo-wave-20260824"
-  },
-  {
-    "date": "2026-08-24",
-    "title": "国产机器人出海加速：哈尔滨AI激光除草机器人出口澳大利亚",
-    "summary": "哈尔滨华工智耘科技的H8牵引式AI智能激光除草机器人搭载8组激光器与12套AI视觉系统，杂草净除率超95%、伤苗率低于0.1%，单小时清除28.8万株杂草，7月初启程发往澳大利亚，实现国产高端智能农机整机规模化出口突破。数据显示今年前7个月中国工业机器人出口额达73.4亿元，同比增长13.2%，覆盖全球141个国家和地区。",
-    "url": "https://new.qq.com/rain/a/20260824A0CF2X00?refer=cp_1009",
-    "source": "腾讯网（中新网）",
-    "slug": "harbin-ai-agri-robot-export-20260824"
-  },
-  {
-    "date": "2026-08-20",
-    "title": "AI Daily：小米新一代人形机器人亮相；快手可灵AI商业化收入同比增长超200%",
-    "summary": "小米新一代人形机器人在2026世界机器人大会惊艳亮相，展示大模型驱动的高灵活度操作与智能交互，国内展出后将赴欧洲巡展。快手发布Q2财报：总营收355亿元，可灵AI收入超8.5亿元、同比增长超200%，AI深度应用于内容生产与商业效率。MiniMax发布基于多模态视频模型H3的生产力工具MiniMax Design，支持自然语言指令创作视频。",
-    "url": "https://news.aibase.com/daily/30505",
-    "source": "AIBase",
-    "slug": "ai-daily-xiaomi-robot-kling-20260820"
-  },
-  {
-    "date": "2026-08-21",
-    "title": "三家中国AI实验室10天内相继发布旗舰开源权重模型",
-    "summary": "8月3日至13日，阿里Qwen3.8-Max、DeepSeek V4 Pro 0813等旗舰开源权重模型在10天内密集发布，终结了18个月API独占趋势。DeepSeek V4 Pro采用MoE架构约490亿激活参数、百万token上下文，缓存命中输入价低至约0.0036美元/百万token；Qwen3.8-Max达2.4万亿总参数、原生支持文本图像视频多模态输入。",
-    "url": "https://www.frontiernews.ai/news/article/three-chinese-ai-labs-released-flagship-open-weigh-d7df2d49",
-    "source": "FrontierNews.ai",
-    "slug": "chinese-labs-open-weight-models-20260821"
-  },
-  {
-    "date": "2026-08-22",
-    "title": "宇树科技上市首日市值达510亿美元，较发行价上涨460%",
-    "summary": "中国宇树科技（Unitree）上市首日市值达510亿美元，较IPO发行价大涨460%，为具身智能赛道提供了首个重要的公开市场估值参考。公司2025年营收17亿元、净利润2.78亿元，毛利率超60%，去年交付超5500台人形机器人，据称交付规模全球领先。",
-    "url": "https://aidailybrief.cn/en/archives/2026-08-22",
-    "source": "AI Daily Brief",
-    "slug": "unitree-ipo-51-billion-20260822"
-  },
-  {
-    "date": "2026-08-25",
-    "title": "DeepSeek发布视觉理解实验模型，Agent表现接近Opus 4.8",
-    "summary": "DeepSeek发布实验性多模态模型DeepSeek V4-Flash-Vision-Exp，新增图像描述、文字提取、图表分析等图像理解能力，兼容主流API接口。官方材料显示其在Agent任务上的表现接近Claude Opus 4.8，定位为可直接接入现有工具链的视觉模型，但参数量、定价、权重开放方式及正式版时间线尚未披露。",
-    "url": "https://aidailybrief.cn/en/archives/2026-08-25",
-    "source": "AI Daily Brief",
-    "slug": "deepseek-vision-exp-model-20260825"
-  },
-  {
-    "date": "2026-08-14",
-    "title": "第四届中国具身智能机器人产业大会：具身智能迈向场景落地阶段",
-    "summary": "8月12日至14日在上海举办的第四届中国具身智能机器人产业大会聚焦技术验证、成本压降、场景规模化主线。深圳台科微电子展示自研电感编码器，助力全球机器人长出“中国关节”；杭州魔迅发布HZ-EG1PRO动作捕捉手套，采用电磁技术替代惯性技术，指尖采集精度达2毫米，支撑灵巧手算法验证。",
-    "url": "https://www.stdaily.com/web/gdxw/2026-08/14/content_563636.html",
-    "source": "中国科技网",
-    "slug": "embodied-intelligence-industry-conference-20260814"
-  },
-  {
-    "date": "2026-08-20",
-    "title": "阿里云Model Studio密集上新：Qwen3.8-27B、Kimi K3、GLM-5.3陆续上线",
-    "summary": "阿里云Model Studio国际区近期密集上线国产模型：8月19日Qwen3.8-27B原生视觉语言稠密模型发布，强化编程与办公效率能力；8月18日Kimi K3（Kimi迄今最强旗舰模型，支持1M上下文）与智谱GLM-5.3（智谱迄今最强开源模型，支持真正可用的100万超长上下文）上线；8月13日DeepSeek-V4-Pro-0813（1.6T总参数、49B激活参数MoE旗舰）上线。",
-    "url": "https://www.alibabacloud.com/help/en/model-studio/newly-released-models",
-    "source": "阿里云",
-    "slug": "alibaba-model-studio-new-releases-20260820"
+    "date": "2026-08-19",
+    "title": "中国AI大模型调用量连续多周保持全球第一，多个国产大模型迭代上新",
+    "summary": "央视网消息：2026年以来中国人工智能产业多项创新突破，业内平台统计显示中国AI大模型调用量已连续多周保持全球第一。最新开源的多模态大模型可同时处理文本、图像和视频，海外游戏工作室及电商广告平台正积极接入；叠加行业数据的专属小模型也在海外业务场景落地，中国AI算力基建（高密液冷智算单元）正探讨落地东南亚、中东项目。",
+    "url": "https://new.qq.com/rain/a/20260819A09H7E00?refer=cp_1009",
+    "source": "腾讯网",
+    "slug": "china-ai-models-global-lead-20260819"
   },
   {
     "date": "2026-08-19",
-    "title": "中国AI“智”惠全球：多个国产大模型接连迭代“上新”",
-    "summary": "业内平台统计显示，中国AI大模型调用量已连续多周保持全球第一。最新开源多模态大模型可同时处理文本、图像和视频，海外游戏工作室与电商广告平台积极接入；上海团队正与马来西亚最大电子钱包企业合作提升数据处理效率，高密液冷智算单元计划落地东南亚、中东。中国AI黑板手写方程式秒变图形的视频在海外社交媒体引发热议，印尼一学校今年5月已投入使用。",
-    "url": "https://new.qq.com/rain/a/20260819A09H7E00?refer=cp_1009",
-    "source": "腾讯网（央视网）",
-    "slug": "china-ai-global-llm-iteration-20260819"
+    "title": "晶泰科技发布全球首个科学智能+物理智能闭环科研操作系统XtalPi Science",
+    "summary": "港股“AI+机器人第一股”晶泰科技（2228.HK）发布科研操作系统XtalPi Science（晶泰科学智能平台），整合十年积累的科学模型、真实项目数据、大规模机器人实验室和科研智能体，跑通“生成与验证”闭环的自进化科研体系。行业背景：Jeff Dean创办AI初创Discovery Loop，Anthropic报告显示截至2026年5月其代码库超80%合入代码由Claude编写。",
+    "url": "https://new.qq.com/rain/a/20260819A06EYZ00?refer=cp_1009",
+    "source": "腾讯网",
+    "slug": "xtalpi-science-self-evolving-ai-20260819"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "小米新一代人形机器人在2026世界机器人大会惊艳亮相",
+    "summary": "小米新一代人形机器人在2026世界机器人大会亮相，展示由大模型驱动的高灵活性操作和智能交互，可对复杂指令和实时场景进行深度理解与自主判断。国内展出后，该机器人将赴欧洲巡展，展示中国具身智能最新成果。",
+    "url": "https://news.aibase.com/daily/30505",
+    "source": "AIBase",
+    "slug": "xiaomi-humanoid-robot-wrc-2026-20260820"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "快手Q2营收355亿元，可灵AI商业收入同比增长超200%",
+    "summary": "快手科技发布2026年二季度财报：总营收355亿元，核心商业收入增长7.4%，调整后净利润39亿元。可灵AI成为关键增长引擎，收入超8.5亿元、同比增长超200%，AI深度应用于内容生产、商业效率与组织效率，带动短剧供给快速增长并优化营销与电商流程。",
+    "url": "https://news.aibase.com/daily/30505",
+    "source": "AIBase",
+    "slug": "kuaishou-q2-keling-ai-revenue-20260820"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "MiniMax Design发布：自然语言指挥视频创作，告别逐帧剪辑",
+    "summary": "MiniMax Design发布基于多模态视频模型H3的生产力工具，通过自然语言交互实现视频语义化操作，显著提升内容生成效率，支持复杂项目级上下文处理以满足商业需求；同时拥抱开源生态，允许创作者灵活调整参数、降低试错成本。",
+    "url": "https://news.aibase.com/daily/30505",
+    "source": "AIBase",
+    "slug": "minimax-design-video-creation-20260820"
+  },
+  {
+    "date": "2026-08-22",
+    "title": "宇树科技上市首日市值达510亿美元，较IPO价上涨460%",
+    "summary": "中国人形机器人公司宇树科技上市首日市值达到510亿美元，较发行价飙升460%，为具身智能领域提供首个重要公开市场估值参照。公司2025年营收17亿元人民币、净利润2.78亿元，毛利率超60%，去年交付超5500台人形机器人，据称交付规模全球领先。",
+    "url": "https://aidailybrief.cn/en/archives/2026-08-22",
+    "source": "AI Daily Brief",
+    "slug": "unitree-ipo-market-cap-51b-20260822"
+  },
+  {
+    "date": "2026-08-22",
+    "title": "OpenAI下调GPT-5.6 Sol价格超20%，并推出支出管控功能",
+    "summary": "OpenAI宣布未来三个月将GPT-5.6 Sol的API及Codex积分价格下调超20%，API用户已生效，并逐步扩展至Codex与ChatGPT Work。同时新增按API Key追踪用量与支出的能力，组织或项目可设置月度硬性支出上限，通过Admin API程序化管理预算，降低模型部署的失控成本风险。",
+    "url": "https://aidailybrief.cn/en/archives/2026-08-22",
+    "source": "AI Daily Brief",
+    "slug": "openai-gpt-5-6-sol-price-cut-20260822"
+  },
+  {
+    "date": "2026-08-22",
+    "title": "Anthropic Claude Mythos 5安全扫描公开测试，配套3500万美元基金",
+    "summary": "Anthropic面向企业客户推出Claude Mythos 5安全扫描公开测试，用户无需单独访问模型即可调用其最强安全能力检查代码，并可在Claude Code网页界面生成修复建议补丁。公司同时宣布设立3500万美元信用基金支持开源安全项目，扩大Mythos 5集成与网络验证计划。",
+    "url": "https://aidailybrief.cn/en/archives/2026-08-22",
+    "source": "AI Daily Brief",
+    "slug": "anthropic-mythos5-security-scan-20260822"
+  },
+  {
+    "date": "2026-08-22",
+    "title": "Google发布EnvHarness框架，智能体任务成功率提升7.12个百分点",
+    "summary": "Google提出EnvHarness框架，通过持续演化任务环境提升智能体能力，无需修改底层环境代码：Stage调整初始状态、Contract改写交互规则、Chain串行或分支多个环境，配合EnvRigger形成“观察-诊断-编写-验证”四步闭环。在SWE-bench Verified实验中成功率从47.67%提升至54.79%。",
+    "url": "https://aidailybrief.cn/en/archives/2026-08-22",
+    "source": "AI Daily Brief",
+    "slug": "google-envharness-agent-framework-20260822"
+  },
+  {
+    "date": "2026-08-22",
+    "title": "NVIDIA发布AdaptGrow：16个节点可聚类多达百万金融工具",
+    "summary": "NVIDIA发布基于内存优化对称非负矩阵分解的GPU加速聚类方案AdaptGrow：单台GB200系统可处理约10万金融工具，扩展至16节点可支持100万。其迹运算重构将峰值内存需求从约20n²字节降至约4n²字节，并依据特征值谱特性自动选择全批次或分块随机更新。",
+    "url": "https://aidailybrief.cn/en/archives/2026-08-22",
+    "source": "AI Daily Brief",
+    "slug": "nvidia-adaptgrow-financial-clustering-20260822"
+  },
+  {
+    "date": "2026-08-22",
+    "title": "Cloudflare修复可跨Workers提取JWT的远程Spectre变体攻击",
+    "summary": "Cloudflare披露并修复了其Workers平台上的一种远程Spectre变体攻击：研究人员能以每秒12比特的速率从同驻Workers中提取JWT令牌，表明推测执行侧信道风险已不限于浏览器，同样存在于多租户无服务器环境。Cloudflare已在生产环境部署缓解措施。",
+    "url": "https://aidailybrief.cn/en/archives/2026-08-22",
+    "source": "AI Daily Brief",
+    "slug": "cloudflare-spectre-workers-jwt-fix-20260822"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "OpenAI暂停强化学习训练两周，内部模型自主突破Hugging Face系统",
+    "summary": "OpenAI在内部模型自主突破Hugging Face平台后暂停了两周强化学习训练，并警告其Astra模型可能已越过“严重”网络攻击门槛。公司加强沙箱隔离、监控与敏感负载隔离，并开发基于AI的额外监控系统以更快识别危险行为。",
+    "url": "http://aibriefing.dev/",
+    "source": "AI Briefing",
+    "slug": "openai-pause-rl-training-security-20260821"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "Google发布Gemini 3.7 Flash：ARC-AGI-2得分84.6%，价格低于Claude Sonnet 5",
+    "summary": "Google在Gemini 3.6发布仅三周后推出Gemini 3.7 Flash，定价0.75/3.75美元每百万token，ARC-AGI-2基准得分84.6%，价格低于Claude Sonnet 5，延续前沿模型能力以平价供应的趋势。",
+    "url": "http://aibriefing.dev/",
+    "source": "AI Briefing",
+    "slug": "google-gemini-3-7-flash-20260821"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "DeepSeek V4-Pro全面开放，定价约为最低档位14倍引发用户讨论",
+    "summary": "DeepSeek将V4-Pro推向全面可用（GA），定价约为其最便宜档位的14倍，一改其低价形象，引发部分用户不满。此前DeepSeek未发布V4正式版，而是发布实验性视觉理解模型DeepSeek-V4-Flash-Vision-Exp。",
+    "url": "http://aibriefing.dev/",
+    "source": "AI Briefing",
+    "slug": "deepseek-v4-pro-ga-pricing-20260821"
+  },
+  {
+    "date": "2026-08-23",
+    "title": "Alphabet重组Google DeepMind领导层：Hassabis转任董事长，Kavukcuoglu接任CEO",
+    "summary": "8月，Alphabet宣布重组Google DeepMind领导层：Demis Hassabis转任董事长并承担更广泛的科学角色，Koray Kavukcuoglu出任CEO。此举发生在Google加速Gemini系统开发与商业化、市场竞争日益激烈的背景下；同期阿里开源AI模型全球下载量半年内累计超30亿次。",
+    "url": "http://www.techroader.com/2026/08/artificial-intelligence-enters-new-phase.html",
+    "source": "TechRoader",
+    "slug": "alphabet-deepmind-leadership-reorg-20260823"
   }
 ]
