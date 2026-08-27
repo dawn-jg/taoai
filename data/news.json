@@ -1,106 +1,106 @@
 [
   {
-    "date": "2026-08-27",
-    "title": "Kimi K3全面开源：海外开发者称让Anthropic万亿美元市值失去意义",
-    "summary": "月之暗面宣布全面开源Kimi K3模型权重及技术报告，该模型总参数2.8万亿，是全球首个开源3T级模型。在综合性能上仅次Claude Fable 5和GPT-5.6 Sol，但运行成本仅为它们的1/2至1/3。华为昇腾实现0day适配，阿里云真武M890超节点已Day0适配K3。",
-    "url": "https://www.thepaper.cn/newsDetail_forward_33672871",
-    "source": "澎湃新闻",
-    "slug": "kimi-k3-open-source-release"
+    "date": "2026-08-26",
+    "title": "我国AI开源大模型全球累计下载破百亿次",
+    "summary": "工信部透露“十四五”以来我国人工智能开源大模型全球累计下载突破100亿次，截至6月底智能算力规模达2185EFLOPS，建成70余条算力大通道。",
+    "url": "https://new.qq.com/rain/a/20260826A06OYN00",
+    "source": "央视新闻",
+    "slug": "china-ai-opensource-100b-downloads"
   },
   {
-    "date": "2026-08-27",
-    "title": "大模型公司集体造芯：DeepSeek、智谱AI加入自研芯片行列",
-    "summary": "路透社报道DeepSeek已秘密启动自研AI推理芯片项目约一年，定位专攻推理以降低对英伟达和华为的依赖。智谱AI也在评估自研定制芯片。OpenAI与博通联合发布定制推理芯片Jalapeño，Anthropic与三星探讨2纳米制程代工合作。AI战争正从模型战争进入算力主权战争。",
-    "url": "https://www.tmtpost.com/8072378.html",
-    "source": "钛媒体",
-    "slug": "ai-model-companies-build-chips"
+    "date": "2026-08-26",
+    "title": "全球AI大模型周调用量首破90万亿Token",
+    "summary": "OpenRouter数据显示，8月17日至23日全球AI大模型总调用量达93.4万亿Token，环比增长24%，连续第三周创历史新高，首次突破90万亿关口。",
+    "url": "https://new.qq.com/rain/a/20260826A06OYN00",
+    "source": "观点新媒体",
+    "slug": "global-ai-token-usage-93t"
   },
   {
-    "date": "2026-08-27",
-    "title": "2026世界人工智能大会：超300款AI新品首发，具身智能成焦点",
-    "summary": "WAIC2026展览面积首次突破10万平方米，1100余家企业携3000余项展品亮相，超300款产品实现全球首发。全球首款AI智能体手机、多系列人形机器人、自研AI算力芯片等前沿成果集中亮相。具身智能与智能算力成为两大核心赛道，200多家企业同台竞技。",
-    "url": "https://www.stdaily.com/web/2026-07/18/content_549264.html",
-    "source": "中国科技网",
-    "slug": "waic-2026-300-ai-products-premiere"
+    "date": "2026-08-26",
+    "title": "OpenAI自研推理芯片Jalapeno发布",
+    "summary": "OpenAI历经16个月发布的自研推理芯片Jalapeno在多个顶级开源模型测试中击败英伟达、AMD、谷歌芯片，FP8算力3.4PFLOPS，功耗仅700W。",
+    "url": "https://new.qq.com/rain/a/20260826A06OYN00",
+    "source": "土人观芯",
+    "slug": "openai-jalapeno-chip-launch"
   },
   {
-    "date": "2026-08-27",
-    "title": "东方算芯全球首发DF1000芯片：14nm制程性能对标4nm",
-    "summary": "上海东方算芯科技在WAIC2026全球首发首颗软件定义近存计算3D AI芯片DF1000，基于国内成熟的14nm制程打造，性能对标4nm制程芯片，破解了国内高端算力芯片长期面临的先进制程依赖、存储墙壁垒等核心瓶颈，开辟了一条无需依赖顶尖制程的自主创新道路。",
-    "url": "https://www.cinn.cn/yc/2026/07-17/K18x4Vx1.html",
-    "source": "中国工业新闻网",
-    "slug": "df1000-chip-14nm-4nm-performance"
+    "date": "2026-08-26",
+    "title": "英伟达宣布Groq 3 LPX量产",
+    "summary": "英伟达宣布交互式AI推理加速器NVIDIA Groq 3 LPX全面量产，单机架集成256颗芯片，每秒可处理3400个Token，Vera Rubin平台全系产品进入全面投产。",
+    "url": "https://www.163.com/dy/article/L58B5D190534A4SC.html",
+    "source": "界面新闻",
+    "slug": "nvidia-groq-3-lpx-production"
   },
   {
-    "date": "2026-08-27",
-    "title": "华为Atlas950SuperPoD首次公开展示：万卡集群算力规模可达50万卡",
-    "summary": "华为Atlas950SuperPoD首次公开展示，1024张昇腾卡整齐排列。基于超节点的Atlas950SuperCluster集群算力规模可扩展至50万卡，号称目前全世界最强算力集群。中科曙光十万卡全国产AI超融合集群、阿里真武M890超节点等商用液冷万卡集群成为新建大型算力中心标配。",
-    "url": "https://www.cinn.cn/yc/2026/07-17/K18x4Vx1.html",
-    "source": "中国工业新闻网",
-    "slug": "huawei-atlas950-superpod-debut"
+    "date": "2026-08-25",
+    "title": "小米发布大模型专用AI加速芯片玄戒O100",
+    "summary": "小米推出大模型专用AI加速芯片玄戒O100，采用6nm 3D晶圆级堆叠方案，带宽达1.22TB/s，运行MiMo 3B模型可实现330Tokens/s推理速度。",
+    "url": "https://www.163.com/dy/article/L55PK7FE0534A4SC.html",
+    "source": "界面新闻",
+    "slug": "xiaomi-xuanjie-o100-chip"
   },
   {
-    "date": "2026-08-27",
-    "title": "AI迈入智能体时代：安全能力建设提速",
-    "summary": "WAIC2026上AI安全治理成为焦点议题。图灵奖得主约书亚·本吉奥表示AI能力快速增长，安全保护措施提升速度仍可能赶不上能力增长。安远AI发布前沿AI风险监测平台2.0，覆盖网络攻击、生物、化学、有害操纵和失控五类风险，已监测16家公司的80多个模型。",
-    "url": "https://www.news.cn/tech/20260720/3a9baa44d47d4765b62ce60accf9277e/c.html",
-    "source": "新华网",
-    "slug": "ai-agent-era-safety-acceleration"
+    "date": "2026-08-25",
+    "title": "小鹏机器人业务首轮融资超9亿美元",
+    "summary": "小鹏集团宣布旗下人形机器人业务完成首轮融资，金额超9亿美元，投后估值超63亿美元，刷新中国具身智能行业单轮私募股权融资纪录。",
+    "url": "https://www.163.com/dy/article/L55PK7FE0534A4SC.html",
+    "source": "界面新闻",
+    "slug": "xpeng-robot-funding-900m"
   },
   {
-    "date": "2026-08-27",
-    "title": "数据为核算力为基：科学智能产业化蓄势待发",
-    "summary": "WAIC2026上AIforScience成为最密集出现的词汇之一，多位专家判断科学智能未来2-3年将进入产业化爆发期。中国科学院磐石·科学基础大模型2.0将催化剂设计时间从几个月缩短到30分钟。悟界·Brainμ1.0是全球首个生成理解统一的多模态神经科学大模型，相关研究已发表于《科学》期刊。",
-    "url": "https://gxt.hebei.gov.cn/sme/cy51/cjfx/2026080416254053101/index.html",
-    "source": "河北省人民政府",
-    "slug": "ai4s-industrialization-readiness"
+    "date": "2026-08-25",
+    "title": "字节跳动发布豆包工作企业级Agent",
+    "summary": "豆包工作正式发布，面向生产力场景的Agent产品能自主拆解任务、调用工具，与飞书深度打通，基于企业上下文完成复杂工作流程。",
+    "url": "https://www.163.com/dy/article/L58B5D190534A4SC.html",
+    "source": "界面新闻",
+    "slug": "doubao-work-agent-launch"
   },
   {
-    "date": "2026-08-27",
-    "title": "中国开源模型吸引全球目光：月之暗面开源K3完整模型权重",
-    "summary": "月之暗面正式将其自主研发的大模型Kimi K3的完整模型权重开源，并发布技术报告。中国AI企业在推理、多模态、长文本、文档智能等大模型关键方向不断取得突破，坚持开放共享的开源发展路线，促使中国成为推动全球人工智能事业开放发展的重要力量。",
-    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
-    "source": "国际科技创新中心网络服务平台",
-    "slug": "china-open-source-models-global-attention"
+    "date": "2026-08-25",
+    "title": "人形机器人百米竞速刷新纪录至8.86秒",
+    "summary": "第二届世界人形机器人运动会大型组100米复赛，北京人形机器人创新中心的天工机器人跑出8.86秒最好成绩，再次刷新纪录。",
+    "url": "https://www.163.com/dy/article/L58B5D190534A4SC.html",
+    "source": "界面新闻",
+    "slug": "robot-100m-record-8-86s"
   },
   {
-    "date": "2026-08-27",
-    "title": "首届AI智能体手机亮相：荣耀发布全球首款RobotPhone",
-    "summary": "2026世界人工智能大会上，荣耀发布全球首款AI智能体手机RobotPhone，用户只需一句话就能让AI跨应用执行订酒店、买车票、路线规划等任务。徐汇西岸展区64件消费级AI产品全部开放上手体验，从AI手机到AI眼镜，从陪伴机器人到中医健康终端，所有展品都被设计成可以摸、可以戴、可以带走。",
-    "url": "https://epaper.hubeidaily.net/pc/content/202607/20/content_353720.html",
-    "source": "湖北日报",
-    "slug": "honor-robotphone-first-ai-agent-phone"
+    "date": "2026-08-24",
+    "title": "智元灵犀X2获机器人运动会100米障碍赛金牌",
+    "summary": "第二届世界人形机器人运动会100米障碍赛，智元灵犀X2以量产版本夺冠，赛事考核高速机动、动态平衡、实时感知导航等五大核心能力。",
+    "url": "https://www.163.com/dy/article/L55PK7FE0534A4SC.html",
+    "source": "界面新闻",
+    "slug": "zhiyuan-x2-obstacle-gold"
   },
   {
-    "date": "2026-08-27",
-    "title": "人形机器人迈入规模化商用拐点：全年产量有望突破10万台",
-    "summary": "工信部数据显示，2026年人形机器人整机产量有望突破10万台。从能表演到能干活，机器人正走出展台走向产线。宇树科技展出全球首款载人变形机甲GD01，智元机器人把整条产线搬进展馆多台机器人协同上下料。1-5月我国工业企业购进的具身智能机器人总金额同比增长2.3倍。",
-    "url": "https://www.shanghai.gov.cn/nw15343/20260722/4514c99cfd364c3ba7d1b81790a09163.html",
-    "source": "上海市人民政府",
-    "slug": "humanoid-robots-100k-production-milestone"
+    "date": "2026-08-26",
+    "title": "Claude新模型空间推理能力突破",
+    "summary": "Anthropic两款Claude新模型实测流出，在空间推理、复杂规划等任务上表现突出，被开发者形容为算力被榨干也在所不惜。",
+    "url": "https://www.shopex.cn/news/35734",
+    "source": "新智元",
+    "slug": "claude-spatial-reasoning-breakthrough"
   },
   {
-    "date": "2026-08-27",
-    "title": "端侧大模型芯片选型指南：国产自主可控算力芯片发展加速",
-    "summary": "2026年端侧AI渗透率预计突破54%，中国端侧AI市场规模预计达8661亿元。中星微技术星光智能五号是我国首枚全自主可控、可单芯片同时运行通用语言大模型和视觉大模型的嵌入式AI芯片。后摩智能M50芯片在10W功耗下实现160 TOPS单芯片算力，可流畅运行30B至120B参数量级大模型。",
-    "url": "https://www.cet.com.cn/itpd/itxw/10483972.shtml",
-    "source": "中国经济新闻网",
-    "slug": "edge-ai-chip-selection-guide"
+    "date": "2026-08-26",
+    "title": "Perplexity联手英伟达发布本地AI Agent",
+    "summary": "Perplexity与英伟达合作推出Portable Computer，在DGX Spark上本地运行模型，任务默认留在设备、零token成本，数据主权更强。",
+    "url": "https://www.shopex.cn/news/35734",
+    "source": "VentureBeat",
+    "slug": "perplexity-nvidia-portable-computer"
   },
   {
-    "date": "2026-08-27",
-    "title": "世界人工智能大会发布三项国际合作文件",
-    "summary": "WAIC2026上国家发改委等部门发布《人工智能合作发展行动计划》，提出优质数据供给、智能算力普惠、人工智能向善等8项行动。《中国智·惠世界(2026)》案例集收录我国在人工智能领域开展国际合作的10个生动故事。《国际人工智能伦理治理行动计划》《智能体互信互联互操作全球合作倡议》等创新成果相继发布。",
-    "url": "https://news.cctv.com/2026/07/18/ARTIY7Fn0GQKhdmqdGDjB4mf260718.shtml",
-    "source": "央视网",
-    "slug": "waic-2026-international-cooperation-documents"
+    "date": "2026-08-26",
+    "title": "中消协：AI客服不能以自动生成为由免责",
+    "summary": "中国消费者协会发布提醒，部署AI客服的经营者不能以人工智能自动生成、系统自动回复等为由逃避责任，需建立责任承接机制。",
+    "url": "https://new.qq.com/rain/a/20260826A02T1500",
+    "source": "中国青年报",
+    "slug": "consumer-association-ai-customer-service"
   },
   {
-    "date": "2026-08-27",
-    "title": "中国AI产业规模破万亿：日均词元调用量突破数百万亿",
-    "summary": "国家发改委透露，2025年我国人工智能相关产业规模已经破万亿元，初步预测2026年还会有30%以上的增速。国家发改委布局了30余个国家人工智能应用中试基地，推动央国企开放1000余个应用场景，重点行业的人工智能整体渗透率突破80%。目前我国词元日均调用量已经达到数百万亿。",
-    "url": "https://www.news.cn/tech/20260708/fbbd5fbe39b5452098b5dde915b0c959/c.html",
-    "source": "新华网",
-    "slug": "china-ai-industry-trillion-scale"
+    "date": "2026-08-26",
+    "title": "国产GPU公司燧原科技冲刺近9亿美元IPO",
+    "summary": "上海AI芯片企业燧原科技计划9月2日启动科创板IPO申购，拟募资60亿元人民币，公司被归入中国四小GPU龙头之一，腾讯是重要投资者。",
+    "url": "https://weibo.com/1788558755/5336060569845908",
+    "source": "微博",
+    "slug": "enflame-ipo-900m-usd"
   }
 ]
