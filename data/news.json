@@ -1,106 +1,122 @@
 [
   {
-    "date": "2026-08-26",
-    "title": "我国AI开源大模型全球累计下载破百亿次",
-    "summary": "工信部透露“十四五”以来我国人工智能开源大模型全球累计下载突破100亿次，截至6月底智能算力规模达2185EFLOPS，建成70余条算力大通道。",
-    "url": "https://new.qq.com/rain/a/20260826A06OYN00",
-    "source": "央视新闻",
-    "slug": "china-ai-opensource-100b-downloads"
+    "date": "2026-08-03",
+    "title": "阿里发布2.4万亿参数旗舰模型Qwen3.8-Max",
+    "summary": "阿里巴巴发布新一代基座大模型Qwen3.8-Max，总参数量2.4万亿、激活参数95B，在Arena权威榜单中整体性能仅次于Anthropic Claude系列；该模型可自主编程16天完成真实项目交付，并首次开放Max级旗舰模型权重。",
+    "url": "https://caifuhao.eastmoney.com/news/20260813162904509069080",
+    "source": "东方财富",
+    "slug": "alibaba-qwen38-max-release"
   },
   {
-    "date": "2026-08-26",
-    "title": "全球AI大模型周调用量首破90万亿Token",
-    "summary": "OpenRouter数据显示，8月17日至23日全球AI大模型总调用量达93.4万亿Token，环比增长24%，连续第三周创历史新高，首次突破90万亿关口。",
-    "url": "https://new.qq.com/rain/a/20260826A06OYN00",
-    "source": "观点新媒体",
-    "slug": "global-ai-token-usage-93t"
+    "date": "2026-08-13",
+    "title": "DeepSeek V4 Pro正式版上线",
+    "summary": "DeepSeek V4-Pro-0813正式版发布，重点升级Agent能力，支持100万Token上下文、最长38.4万Token输出，并引入高峰/低谷差异化定价，价格仍远低于海外前沿模型。",
+    "url": "https://local-ai-zone.github.io/blog/ai-updates-august-2026.html",
+    "source": "Local AI Zone",
+    "slug": "deepseek-v4-pro-ga"
   },
   {
-    "date": "2026-08-26",
-    "title": "OpenAI自研推理芯片Jalapeno发布",
-    "summary": "OpenAI历经16个月发布的自研推理芯片Jalapeno在多个顶级开源模型测试中击败英伟达、AMD、谷歌芯片，FP8算力3.4PFLOPS，功耗仅700W。",
-    "url": "https://new.qq.com/rain/a/20260826A06OYN00",
-    "source": "土人观芯",
-    "slug": "openai-jalapeno-chip-launch"
+    "date": "2026-08-12",
+    "title": "xAI发布Grok 4.6大模型",
+    "summary": "xAI正式发布Grok 4.6，1.5万亿参数，基于V9基础模型强化监督微调与强化学习，在Artificial Analysis智能指数中跻身前十、升至第7位，标准API定价每百万输入Token 2美元。",
+    "url": "https://unrot.co/blogs/today-top-ai-news-august-26-2026",
+    "source": "Unrot",
+    "slug": "xai-grok-46-launch"
   },
   {
-    "date": "2026-08-26",
-    "title": "英伟达宣布Groq 3 LPX量产",
-    "summary": "英伟达宣布交互式AI推理加速器NVIDIA Groq 3 LPX全面量产，单机架集成256颗芯片，每秒可处理3400个Token，Vera Rubin平台全系产品进入全面投产。",
-    "url": "https://www.163.com/dy/article/L58B5D190534A4SC.html",
-    "source": "界面新闻",
-    "slug": "nvidia-groq-3-lpx-production"
+    "date": "2026-08-13",
+    "title": "谷歌发布Gemini 3.7 Flash",
+    "summary": "谷歌于8月13日推出Gemini 3.7 Flash，主打编码能力与低价策略，加入8月密集的旗舰模型迭代潮。",
+    "url": "https://abmedia.io/ai-industry-monthly-report-august-2026",
+    "source": "链新闻ABMedia",
+    "slug": "google-gemini-37-flash"
   },
   {
-    "date": "2026-08-25",
-    "title": "小米发布大模型专用AI加速芯片玄戒O100",
-    "summary": "小米推出大模型专用AI加速芯片玄戒O100，采用6nm 3D晶圆级堆叠方案，带宽达1.22TB/s，运行MiMo 3B模型可实现330Tokens/s推理速度。",
-    "url": "https://www.163.com/dy/article/L55PK7FE0534A4SC.html",
-    "source": "界面新闻",
-    "slug": "xiaomi-xuanjie-o100-chip"
+    "date": "2026-08-10",
+    "title": "Meta开源Muse Glimmer模型",
+    "summary": "Meta回归开源权重路线，发布29.6B参数的稠密多模态模型Muse Glimmer，支持128K上下文，专为单张消费级显卡上的常驻AI代理设计，并推出编程代理Muse Code。",
+    "url": "https://local-ai-zone.github.io/blog/ai-updates-august-2026.html",
+    "source": "Local AI Zone",
+    "slug": "meta-muse-glimmer-open"
   },
   {
-    "date": "2026-08-25",
-    "title": "小鹏机器人业务首轮融资超9亿美元",
-    "summary": "小鹏集团宣布旗下人形机器人业务完成首轮融资，金额超9亿美元，投后估值超63亿美元，刷新中国具身智能行业单轮私募股权融资纪录。",
-    "url": "https://www.163.com/dy/article/L55PK7FE0534A4SC.html",
-    "source": "界面新闻",
-    "slug": "xpeng-robot-funding-900m"
-  },
-  {
-    "date": "2026-08-25",
-    "title": "字节跳动发布豆包工作企业级Agent",
-    "summary": "豆包工作正式发布，面向生产力场景的Agent产品能自主拆解任务、调用工具，与飞书深度打通，基于企业上下文完成复杂工作流程。",
-    "url": "https://www.163.com/dy/article/L58B5D190534A4SC.html",
-    "source": "界面新闻",
-    "slug": "doubao-work-agent-launch"
+    "date": "2026-08-10",
+    "title": "OpenAI暂缓Astra并启动Doug预训练",
+    "summary": "OpenAI因安全评估显示下一代模型Astra存在关键级网络攻击能力风险而暂缓部分研发，随后启动代号Doug的10万亿参数新一轮预训练，预计最迟11月推出。",
+    "url": "https://www.yunthe.com/gpt6-shi-wan-yi-can-shu-yu-xun-lian-chong-qi-yu-ai-yu-liao",
+    "source": "云栖网",
+    "slug": "openai-astra-pause-doug-pretrain"
   },
   {
     "date": "2026-08-25",
-    "title": "人形机器人百米竞速刷新纪录至8.86秒",
-    "summary": "第二届世界人形机器人运动会大型组100米复赛，北京人形机器人创新中心的天工机器人跑出8.86秒最好成绩，再次刷新纪录。",
-    "url": "https://www.163.com/dy/article/L58B5D190534A4SC.html",
-    "source": "界面新闻",
-    "slug": "robot-100m-record-8-86s"
+    "title": "Anthropic Q2营收首破115亿美元并单季转盈",
+    "summary": "Anthropic公布Q2营收初步突破115亿美元，首次实现单季盈利；同时与矿企TeraWulf签下190亿美元算力租约，并传出正为Claude打造定制AI芯片。",
+    "url": "https://abmedia.io/ai-industry-monthly-report-august-2026",
+    "source": "链新闻ABMedia",
+    "slug": "anthropic-q2-revenue-11-5b"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "Stripe逾70亿美元收购OpenRouter",
+    "summary": "支付巨头Stripe以超过70亿美元收购AI模型网关OpenRouter，显示模型连接层成为AI产业链新的必争之地。",
+    "url": "https://abmedia.io/ai-industry-monthly-report-august-2026",
+    "source": "链新闻ABMedia",
+    "slug": "stripe-acquires-openrouter"
   },
   {
     "date": "2026-08-24",
-    "title": "智元灵犀X2获机器人运动会100米障碍赛金牌",
-    "summary": "第二届世界人形机器人运动会100米障碍赛，智元灵犀X2以量产版本夺冠，赛事考核高速机动、动态平衡、实时感知导航等五大核心能力。",
-    "url": "https://www.163.com/dy/article/L55PK7FE0534A4SC.html",
-    "source": "界面新闻",
-    "slug": "zhiyuan-x2-obstacle-gold"
+    "title": "阿里云Wan3.0视频生成模型正式商用",
+    "summary": "阿里云Wan3.0视频生成模型结束公测正式上线，视频最长时长翻倍至30秒，可直接输入DOC、PPT、PDF等文档生成视频，8月24日至9月23日API价格享七折优惠。",
+    "url": "https://unrot.co/blogs/today-top-ai-news-august-26-2026",
+    "source": "Unrot",
+    "slug": "alibaba-wan30-ga"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "DeepSeek发布V4-Flash视觉多模态实验模型",
+    "summary": "DeepSeek发布V4-Flash-Vision-Exp实验模型，在V4-Flash文本能力基础上加入图像输入支持，同日开源Harness Agent框架同步适配。",
+    "url": "https://unrot.co/blogs/today-top-ai-news-august-26-2026",
+    "source": "Unrot",
+    "slug": "deepseek-v4-flash-vision"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "中国AI大模型调用量连续多周全球第一",
+    "summary": "央视网报道，业内平台统计显示中国AI大模型调用量已连续多周保持全球第一，多个国产大模型接连迭代上新，开源模型与AI算力基建正加速赋能海外市场。",
+    "url": "https://news.cctv.com/2026/08/19/ARTI3n9cl6MtqOzwf93UoD4y260819.shtml",
+    "source": "央视网",
+    "slug": "china-ai-calls-global-no1"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "英伟达联手贝莱德扩建5000亿美元AI融资平台",
+    "summary": "英伟达携手贝莱德、黑石等华尔街巨头扩建规模达5000亿美元的AI融资平台，并传出将以逾300亿美元估值投资Perplexity，布局芯片之外的AI生态。",
+    "url": "https://abmedia.io/ai-industry-monthly-report-august-2026",
+    "source": "链新闻ABMedia",
+    "slug": "nvidia-blackrock-500b-platform"
   },
   {
     "date": "2026-08-26",
-    "title": "Claude新模型空间推理能力突破",
-    "summary": "Anthropic两款Claude新模型实测流出，在空间推理、复杂规划等任务上表现突出，被开发者形容为算力被榨干也在所不惜。",
-    "url": "https://www.shopex.cn/news/35734",
-    "source": "新智元",
-    "slug": "claude-spatial-reasoning-breakthrough"
+    "title": "英伟达Groq 3 LPX推理芯片全面量产",
+    "summary": "英伟达旗下Groq 3 LPX推理芯片全面进入量产，面向Vera Rubin平台，单机架可集成多达256颗加速器，加速交互式AI推理应用。",
+    "url": "https://unrot.co/blogs/today-top-ai-news-august-26-2026",
+    "source": "Unrot",
+    "slug": "nvidia-groq3-lpx-production"
   },
   {
-    "date": "2026-08-26",
-    "title": "Perplexity联手英伟达发布本地AI Agent",
-    "summary": "Perplexity与英伟达合作推出Portable Computer，在DGX Spark上本地运行模型，任务默认留在设备、零token成本，数据主权更强。",
-    "url": "https://www.shopex.cn/news/35734",
-    "source": "VentureBeat",
-    "slug": "perplexity-nvidia-portable-computer"
+    "date": "2026-08-03",
+    "title": "MiniMax开源33B全模态模型H3",
+    "summary": "MiniMax在Hugging Face开放H3模型权重，33B参数的全模态生成系统，可理解文本、图像与视频，并生成4-15秒带原生立体声的2K视频片段。",
+    "url": "https://local-ai-zone.github.io/blog/ai-updates-august-2026.html",
+    "source": "Local AI Zone",
+    "slug": "minimax-h3-open-weights"
   },
   {
-    "date": "2026-08-26",
-    "title": "中消协：AI客服不能以自动生成为由免责",
-    "summary": "中国消费者协会发布提醒，部署AI客服的经营者不能以人工智能自动生成、系统自动回复等为由逃避责任，需建立责任承接机制。",
-    "url": "https://new.qq.com/rain/a/20260826A02T1500",
-    "source": "中国青年报",
-    "slug": "consumer-association-ai-customer-service"
-  },
-  {
-    "date": "2026-08-26",
-    "title": "国产GPU公司燧原科技冲刺近9亿美元IPO",
-    "summary": "上海AI芯片企业燧原科技计划9月2日启动科创板IPO申购，拟募资60亿元人民币，公司被归入中国四小GPU龙头之一，腾讯是重要投资者。",
-    "url": "https://weibo.com/1788558755/5336060569845908",
-    "source": "微博",
-    "slug": "enflame-ipo-900m-usd"
+    "date": "2026-08-13",
+    "title": "微软发布MAI-Thinking-1推理模型",
+    "summary": "微软MAI模型家族新增MAI-Thinking-1中型推理模型，面向编码、数学与知识任务的成本高效企业级场景，显示中型推理模型成为生产环境新甜点区。",
+    "url": "https://local-ai-zone.github.io/blog/ai-updates-august-2026.html",
+    "source": "Local AI Zone",
+    "slug": "microsoft-mai-thinking-1"
   }
 ]
