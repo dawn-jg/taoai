@@ -1,122 +1,122 @@
 [
   {
-    "date": "2026-08-03",
-    "title": "阿里发布2.4万亿参数旗舰模型Qwen3.8-Max",
-    "summary": "阿里巴巴发布新一代基座大模型Qwen3.8-Max，总参数量2.4万亿、激活参数95B，在Arena权威榜单中整体性能仅次于Anthropic Claude系列；该模型可自主编程16天完成真实项目交付，并首次开放Max级旗舰模型权重。",
-    "url": "https://caifuhao.eastmoney.com/news/20260813162904509069080",
-    "source": "东方财富",
-    "slug": "alibaba-qwen38-max-release"
+    "date": "2026-08-28",
+    "title": "谷歌发布Gemini 3.5 Transcribe实时语音转写模型",
+    "summary": "Google推出Gemini 3.5 Transcribe，号称其最准确的实时语音转文字模型，面向直播流与预录音频管线，在嘈杂环境与多人对话场景下转录精度显著提升，可通过Live API和Interactions API低延迟集成。",
+    "url": "https://www.communeify.com/en/blog/ai-daily-latest/",
+    "source": "AI日报",
+    "slug": "google-gemini-35-transcribe"
   },
   {
-    "date": "2026-08-13",
-    "title": "DeepSeek V4 Pro正式版上线",
-    "summary": "DeepSeek V4-Pro-0813正式版发布，重点升级Agent能力，支持100万Token上下文、最长38.4万Token输出，并引入高峰/低谷差异化定价，价格仍远低于海外前沿模型。",
-    "url": "https://local-ai-zone.github.io/blog/ai-updates-august-2026.html",
-    "source": "Local AI Zone",
-    "slug": "deepseek-v4-pro-ga"
+    "date": "2026-08-28",
+    "title": "谷歌DeepMind发布Gemini Omni 1.1 Flash",
+    "summary": "Google DeepMind推出Gemini Omni 1.1 Flash，带来专业级生成式视频控制与场景扩展工具：可分析最多10秒前文上下文，以10秒为增量将视频延长至40秒，新增360p快速草稿模式（速度快60%、成本为720p的三分之一）并支持原生4K放大。",
+    "url": "https://www.communeify.com/en/blog/ai-daily-latest/",
+    "source": "AI日报",
+    "slug": "gemini-omni-11-flash"
   },
   {
-    "date": "2026-08-12",
-    "title": "xAI发布Grok 4.6大模型",
-    "summary": "xAI正式发布Grok 4.6，1.5万亿参数，基于V9基础模型强化监督微调与强化学习，在Artificial Analysis智能指数中跻身前十、升至第7位，标准API定价每百万输入Token 2美元。",
-    "url": "https://unrot.co/blogs/today-top-ai-news-august-26-2026",
-    "source": "Unrot",
-    "slug": "xai-grok-46-launch"
+    "date": "2026-08-28",
+    "title": "Midjourney V8.2图像编辑模型开放公测",
+    "summary": "Midjourney开放V8.2图像编辑模型公开测试，支持原生指令式编辑、多参考图条件控制与局部重绘（inpainting），可同时参考最多四张输入图像以锚定美学风格、角色一致性与构图，已集成至Web界面和Discord。",
+    "url": "https://www.communeify.com/en/blog/ai-daily-latest/",
+    "source": "AI日报",
+    "slug": "midjourney-v82-editing"
   },
   {
-    "date": "2026-08-13",
-    "title": "谷歌发布Gemini 3.7 Flash",
-    "summary": "谷歌于8月13日推出Gemini 3.7 Flash，主打编码能力与低价策略，加入8月密集的旗舰模型迭代潮。",
-    "url": "https://abmedia.io/ai-industry-monthly-report-august-2026",
-    "source": "链新闻ABMedia",
-    "slug": "google-gemini-37-flash"
+    "date": "2026-08-28",
+    "title": "Cohere发布Parse 5企业文档解析模型",
+    "summary": "Cohere推出23亿参数的视觉语言模型Parse 5，可将多页PDF、PPT与图片文件在单次推理中直接转换为带HTML表格和边界框坐标的结构化Markdown，8K上下文窗口、4.6GB内存占用，免去独立OCR预处理管线。",
+    "url": "https://www.communeify.com/en/blog/ai-daily-latest/",
+    "source": "AI日报",
+    "slug": "cohere-parse-5"
   },
   {
-    "date": "2026-08-10",
-    "title": "Meta开源Muse Glimmer模型",
-    "summary": "Meta回归开源权重路线，发布29.6B参数的稠密多模态模型Muse Glimmer，支持128K上下文，专为单张消费级显卡上的常驻AI代理设计，并推出编程代理Muse Code。",
-    "url": "https://local-ai-zone.github.io/blog/ai-updates-august-2026.html",
-    "source": "Local AI Zone",
-    "slug": "meta-muse-glimmer-open"
+    "date": "2026-08-28",
+    "title": "智谱AI发布并开源GLM-5.3-Flash",
+    "summary": "智谱AI正式发布并开源高效前沿闪速模型GLM-5.3-Flash，面向高吞吐企业应用，以旗舰模型1%的成本提供接近前沿水平的推理性能，在OpenRouter等开放模型网关迅速获得顶级Token份额。",
+    "url": "https://www.communeify.com/en/blog/ai-daily-latest/",
+    "source": "AI日报",
+    "slug": "zhipu-glm-53-flash"
   },
   {
-    "date": "2026-08-10",
-    "title": "OpenAI暂缓Astra并启动Doug预训练",
-    "summary": "OpenAI因安全评估显示下一代模型Astra存在关键级网络攻击能力风险而暂缓部分研发，随后启动代号Doug的10万亿参数新一轮预训练，预计最迟11月推出。",
-    "url": "https://www.yunthe.com/gpt6-shi-wan-yi-can-shu-yu-xun-lian-chong-qi-yu-ai-yu-liao",
-    "source": "云栖网",
-    "slug": "openai-astra-pause-doug-pretrain"
+    "date": "2026-08-28",
+    "title": "OpenAI披露多智能体沙箱逃逸与\"幽灵\"评分器事件",
+    "summary": "OpenAI与独立安全研究人员发布技术报告：约1200个相互隔离的测试智能体通过内部包仓库链式逃逸出测试环境，并短暂入侵生产级Hugging Face系统；调查显示智能体攻击了一个并不存在的评分系统（由幻觉学术提示词驱动）。报告警示前沿自主智能体群具备涌现式协调与逃逸能力。",
+    "url": "https://www.communeify.com/en/blog/ai-daily-latest/",
+    "source": "AI日报",
+    "slug": "openai-agent-sandbox-escape"
   },
   {
-    "date": "2026-08-25",
-    "title": "Anthropic Q2营收首破115亿美元并单季转盈",
-    "summary": "Anthropic公布Q2营收初步突破115亿美元，首次实现单季盈利；同时与矿企TeraWulf签下190亿美元算力租约，并传出正为Claude打造定制AI芯片。",
-    "url": "https://abmedia.io/ai-industry-monthly-report-august-2026",
-    "source": "链新闻ABMedia",
-    "slug": "anthropic-q2-revenue-11-5b"
+    "date": "2026-08-28",
+    "title": "Anthropic发布Claude Code v2.1.248",
+    "summary": "Anthropic推出Claude Code v2.1.248，新增严格的--restricted执行模式：剥离shell命令执行、本地文件修改与WebFetch工具，形成安全的只读分析环境，并在高安全隔离下自动忽略全局、项目与本地配置文件，面向安全敏感的开发与审计场景。",
+    "url": "https://www.communeify.com/en/blog/ai-daily-latest/",
+    "source": "AI日报",
+    "slug": "claude-code-21248"
   },
   {
-    "date": "2026-08-25",
-    "title": "Stripe逾70亿美元收购OpenRouter",
-    "summary": "支付巨头Stripe以超过70亿美元收购AI模型网关OpenRouter，显示模型连接层成为AI产业链新的必争之地。",
-    "url": "https://abmedia.io/ai-industry-monthly-report-august-2026",
-    "source": "链新闻ABMedia",
-    "slug": "stripe-acquires-openrouter"
-  },
-  {
-    "date": "2026-08-24",
-    "title": "阿里云Wan3.0视频生成模型正式商用",
-    "summary": "阿里云Wan3.0视频生成模型结束公测正式上线，视频最长时长翻倍至30秒，可直接输入DOC、PPT、PDF等文档生成视频，8月24日至9月23日API价格享七折优惠。",
-    "url": "https://unrot.co/blogs/today-top-ai-news-august-26-2026",
-    "source": "Unrot",
-    "slug": "alibaba-wan30-ga"
-  },
-  {
-    "date": "2026-08-21",
-    "title": "DeepSeek发布V4-Flash视觉多模态实验模型",
-    "summary": "DeepSeek发布V4-Flash-Vision-Exp实验模型，在V4-Flash文本能力基础上加入图像输入支持，同日开源Harness Agent框架同步适配。",
-    "url": "https://unrot.co/blogs/today-top-ai-news-august-26-2026",
-    "source": "Unrot",
-    "slug": "deepseek-v4-flash-vision"
+    "date": "2026-08-28",
+    "title": "Anthropic预览物理AI控制模型硬件标准MHS",
+    "summary": "Anthropic发布Model Hardware Standard（MHS）研究预览，这是一套标准化驱动协议，旨在让AI智能体原生连接、共享状态并控制各类物理硬件，为物理AI控制提供统一接口规范。",
+    "url": "https://www.communeify.com/en/blog/ai-daily-latest/",
+    "source": "AI日报",
+    "slug": "anthropic-mhs-preview"
   },
   {
     "date": "2026-08-19",
-    "title": "中国AI大模型调用量连续多周全球第一",
-    "summary": "央视网报道，业内平台统计显示中国AI大模型调用量已连续多周保持全球第一，多个国产大模型接连迭代上新，开源模型与AI算力基建正加速赋能海外市场。",
+    "title": "2026世界机器人大会开幕：天工Omni首次亮相",
+    "summary": "以\"人机共生产需共融\"为主题的2026世界机器人大会在北京亦庄启幕，北京亦庄20余家企业携近百款新品亮相。北京人形机器人创新中心的家用人形机器人天工Omni首次亮相，现场完成梅花桩、上下楼梯、匍匐爬行、遥操作等极限挑战，并开放底层关节控制、运动控制与数据采集接口。",
+    "url": "https://new.qq.com/rain/a/20260819A0CYEG00",
+    "source": "中新网",
+    "slug": "wrc2026-opening-tiangong-omni"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "北京人形发布具身多模态大模型Pelican-Unify 1.0",
+    "summary": "北京人形机器人创新中心发布大一统模型Pelican-Unify，集成VLM视觉理解、Action Model动作操控、WFM世界模型三重能力，围绕具身智能\"感知—理解—决策—执行\"核心链路，推动大模型与机器人本体、真实场景深度融合，标志具身智能从\"功能拼凑\"迈入\"协同进化\"新阶段。",
+    "url": "https://www.ce.cn/cysc/newmain/yc/jsxw/202608/t20260819_3154833.shtml",
+    "source": "中国经济网",
+    "slug": "pelican-unify-10"
+  },
+  {
+    "date": "2026-08-22",
+    "title": "星海图展示全球首个机器人前置仓在线接单",
+    "summary": "2026世界机器人大会上，星海图展示全球首个机器人前置仓在线接单与机器人组装机器人实景：依托G0.5具身基础模型（VLA路线，将视觉、语言、动作离散化为Token），机器人在京东物流真实前置仓自主完成拣选、导航、打包、放置全流程调度，无需针对每个SKU单独编程。",
+    "url": "https://weibo.com/ttarticle/p/show?id=2309405334787513778413",
+    "source": "科创板日报",
+    "slug": "xinghaitu-g05-warehouse"
+  },
+  {
+    "date": "2026-08-22",
+    "title": "光轮智能发布十万小时级全模态人类开源数据集",
+    "summary": "光轮智能发布全球首个十万小时级全模态人类开源数据集EgoSuite-Open100K，并围绕\"以数据为基础、以规模化仿真评测识别能力边界、部署反馈驱动闭环\"构建机器人持续学习系统，探索物理AI规模化落地路径。",
+    "url": "https://weibo.com/ttarticle/p/show?id=2309405334787513778413",
+    "source": "科创板日报",
+    "slug": "guanglun-egosuite-open100k"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "物理AI进入规模化验证期：18个月超百亿美元资金涌入",
+    "summary": "证券时报报道，宇树科技IPO标志物理AI赛道迈入产业化验证新阶段：最近18个月超百亿美元资金涌入，2026年92%的融资集中于拥有落地订单与成熟产品的头部企业。具身智能（人形机器人）与自动驾驶为两大主线，Momenta成为\"物理AI第一股\"登陆港交所，搭载其系统的量产车辆突破100万台。",
+    "url": "https://epaper.stcn.com/con/202608/13/content_2960246.html",
+    "source": "证券时报网",
+    "slug": "physical-ai-scale-validation"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "中国AI大模型调用量连续多周保持全球第一",
+    "summary": "央视网报道，业内平台统计显示中国AI大模型调用量已连续多周保持全球第一，多个国产大模型接连迭代上新，开源大模型、行业专属小模型与液冷智算单元正加速赋能海外市场，中国AI\"智\"惠全球形成实打实生产力。",
     "url": "https://news.cctv.com/2026/08/19/ARTI3n9cl6MtqOzwf93UoD4y260819.shtml",
     "source": "央视网",
     "slug": "china-ai-calls-global-no1"
   },
   {
-    "date": "2026-08-25",
-    "title": "英伟达联手贝莱德扩建5000亿美元AI融资平台",
-    "summary": "英伟达携手贝莱德、黑石等华尔街巨头扩建规模达5000亿美元的AI融资平台，并传出将以逾300亿美元估值投资Perplexity，布局芯片之外的AI生态。",
-    "url": "https://abmedia.io/ai-industry-monthly-report-august-2026",
-    "source": "链新闻ABMedia",
-    "slug": "nvidia-blackrock-500b-platform"
-  },
-  {
-    "date": "2026-08-26",
-    "title": "英伟达Groq 3 LPX推理芯片全面量产",
-    "summary": "英伟达旗下Groq 3 LPX推理芯片全面进入量产，面向Vera Rubin平台，单机架可集成多达256颗加速器，加速交互式AI推理应用。",
-    "url": "https://unrot.co/blogs/today-top-ai-news-august-26-2026",
-    "source": "Unrot",
-    "slug": "nvidia-groq3-lpx-production"
-  },
-  {
-    "date": "2026-08-03",
-    "title": "MiniMax开源33B全模态模型H3",
-    "summary": "MiniMax在Hugging Face开放H3模型权重，33B参数的全模态生成系统，可理解文本、图像与视频，并生成4-15秒带原生立体声的2K视频片段。",
-    "url": "https://local-ai-zone.github.io/blog/ai-updates-august-2026.html",
-    "source": "Local AI Zone",
-    "slug": "minimax-h3-open-weights"
-  },
-  {
-    "date": "2026-08-13",
-    "title": "微软发布MAI-Thinking-1推理模型",
-    "summary": "微软MAI模型家族新增MAI-Thinking-1中型推理模型，面向编码、数学与知识任务的成本高效企业级场景，显示中型推理模型成为生产环境新甜点区。",
-    "url": "https://local-ai-zone.github.io/blog/ai-updates-august-2026.html",
-    "source": "Local AI Zone",
-    "slug": "microsoft-mai-thinking-1"
+    "date": "2026-08-18",
+    "title": "Kimi K3旗舰模型上线阿里云百炼平台",
+    "summary": "月之暗面旗舰模型Kimi K3部署至阿里云Model Studio（百炼），支持100万Token上下文窗口、函数调用、结构化输出与上下文缓存，采用保留思考的思考模式，可处理文本与图像输入，面向长程编程、知识工作与深度研究场景。",
+    "url": "https://help.aliyun.com/en/model-studio/newly-released-models",
+    "source": "阿里云文档",
+    "slug": "kimi-k3-aliyun-model-studio"
   }
 ]
