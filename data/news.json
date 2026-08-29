@@ -1,114 +1,98 @@
 [
   {
-    "date": "2026-08-28",
-    "title": "腾讯混元开源770B旗舰大模型Hy4 preview",
-    "summary": "腾讯混元于8月28日发布并开源旗舰大模型Hy4 preview，总参数量770B、激活参数49B，支持1M上下文长度，定位生产力场景，已在HuggingFace、GitHub、ModelScope等平台开源，并上线腾讯云TokenHub和OpenRouter，提供两周免费体验期。",
-    "url": "https://www.163.com/dy/article/L5F7T2QM05561FZP.html",
-    "source": "网易",
-    "slug": "tencent-hunyuan-hy4-preview-opensource"
+    "date": "2026-08-13",
+    "title": "物理AI进入规模化验证期，宇树科技冲刺IPO",
+    "summary": "证券时报报道，具身智能龙头宇树科技冲刺IPO被业内视为物理AI赛道迈入产业化验证的标志性事件；2025年其人形机器人出货量突破5500台。近18个月超百亿美元资金涌入物理AI赛道，2026年92%的资金投向拥有落地订单、成熟产品的头部企业。",
+    "url": "https://epaper.stcn.com/con/202608/13/content_2960246.html",
+    "source": "证券时报网",
+    "slug": "physical-ai-scale-validation-unitree-ipo"
   },
   {
-    "date": "2026-08-29",
-    "title": "智谱开源GLM-5.3模型权重，编码能力提升约50%",
-    "summary": "智谱AI正式开源GLM-5.3模型权重，该模型基于GLM-5.2底座、增量来自后训练，内部Code Bench编码成绩提升约50%，并涌现出网络攻防能力；Flash版本以MIT协议开源，为320B MoE、18B激活参数。",
-    "url": "https://weibo.com/7905315703/5337147651654495",
-    "source": "微博AIGC日报",
-    "slug": "zhipu-glm-5-3-open-source"
+    "date": "2026-08-04",
+    "title": "国产大模型包揽OpenRouter全球调用量排行榜前六",
+    "summary": "截至7月31日，全球最大模型聚合平台OpenRouter公布的7月月度大语言模型调用量排行榜中，前六名全部被中国开源大模型包揽，依次为小米MiMo-V2.5、DeepSeek V4 Flash、腾讯HY3、MiniMax M3、智谱GLM-5.2及DeepSeek V4 Pro；小米MiMo-V2.5两个月内全球调用量增长约616%。",
+    "url": "https://kw.beijing.gov.cn//xwdt/kcyx/xwdtcyfz/202608/t20260804_4807596.html",
+    "source": "北京市科委",
+    "slug": "chinese-llms-top-openrouter-ranking"
   },
   {
-    "date": "2026-08-28",
-    "title": "英伟达拟129亿美元收购开源AI平台Hugging Face",
-    "summary": "据报道，英伟达于8月27日同意以129亿美元收购开源AI平台Hugging Face，该平台托管超300万模型。交易尚未正式签署，社区治理中立性与反垄断审查成为核心争议点。",
-    "url": "https://www.toutiao.com/a7679253866621239837",
-    "source": "今日头条",
-    "slug": "nvidia-acquires-hugging-face"
+    "date": "2026-07-20",
+    "title": "月之暗面发布Kimi K3，全球参数最大开源模型",
+    "summary": "北京企业月之暗面发布新一代模型Kimi K3，参数规模2.8万亿，成为全球首个开源的近3万亿级大模型；K3通过模型架构、训练方法协同优化，整体扩展效率较上代提升约2.5倍，可完成芯片构建优化验证、品牌视频剪辑、科研编程等复杂任务。",
+    "url": "https://fgw.beijing.gov.cn/gzdt/fgzs/mtbdx/bzwlxw/202607/t20260720_4770981.htm",
+    "source": "北京市发改委",
+    "slug": "moonshot-kimi-k3-largest-opensource"
   },
   {
-    "date": "2026-08-28",
-    "title": "2026数博会贵阳开幕，我国日均词元调用量突破140万亿",
-    "summary": "2026中国国际大数据产业博览会8月28日在贵阳开幕，以“词元——数据要素价值释放新路径”为主题，1.6万余名嘉宾参会、372家企业参展；数据显示我国AI日均词元调用量已突破140万亿。",
-    "url": "https://weibo.com/5236032763/5337179908998536",
-    "source": "微博科技早报",
-    "slug": "big-data-expo-guiyang-2026"
+    "date": "2026-07-17",
+    "title": "习近平出席2026世界人工智能大会开幕式并发表主旨讲话",
+    "summary": "7月17日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海开幕，国家主席习近平出席开幕式并发表主旨讲话，宣布未来5年中国将面向发展中国家提供5000个人工智能专题研修培训名额，并推动气象智能预警方案“妈祖”在30个国家落地应用。",
+    "url": "https://www.cinn.cn/yc/2026/07-17/K18x4Vx1.html",
+    "source": "中国工业新闻网",
+    "slug": "xi-attends-waic-2026-opening"
   },
   {
-    "date": "2026-08-29",
-    "title": "谷歌发布Gemini Omni 1.1 Flash视频生成模型",
-    "summary": "谷歌推出Gemini Omni 1.1 Flash多模态模型，主打高清长时视频生成，支持场景扩展、运镜控制和参考视频片段，每次扩展步长10秒，可输出4K画质。",
-    "url": "https://www.163.com/dy/article/L5F7T2QM05561FZP.html",
-    "source": "网易",
-    "slug": "google-gemini-omni-11-flash"
+    "date": "2026-07-20",
+    "title": "2026世界人工智能大会闭幕，300余款新品全球首发",
+    "summary": "以“智能伙伴 共创未来”为主题的2026世界人工智能大会7月20日在上海闭幕，1100余家企业携3000余项展品亮相，超300款产品全球首发，覆盖从底层算力、中层软件模型到上层终端硬件、行业应用的国产全链路。",
+    "url": "https://www.cs.com.cn/xwzx/01/2026/07/20/detail_2026072010025772.html",
+    "source": "中证网",
+    "slug": "waic-2026-closes-300-debuts"
   },
   {
-    "date": "2026-08-27",
-    "title": "Anthropic发布MHS模型硬件标准，智能体可操控物理设备",
-    "summary": "Anthropic于8月27日发布MHS（模型硬件标准）研究预览版，让AI智能体通过标准化接口操控显微镜、机械臂、液体处理器等物理设备，将硬件集成时间从数周压缩至数小时；AWS、Universal Robots等厂商已加入适配。",
-    "url": "https://www.tmtpost.com/8121473.html",
-    "source": "钛媒体",
-    "slug": "anthropic-mhs-hardware-standard"
+    "date": "2026-07-20",
+    "title": "曙光8000“登峰”与昇腾950超节点真机亮相WAIC",
+    "summary": "中科曙光首次展出全国产十万卡AI超集群“曙光8000（登峰）”，采用“超智融合”技术路线，已接入国家超算互联网；华为昇腾950超节点Atlas 950 SuperPoD真机首展，高密搭载1024张昇腾算力卡，为目前业界亮相的最大规模超节点。",
+    "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=8027691810132573847",
+    "source": "央视网",
+    "slug": "sugon-8000-ascend-950-supernode-debut"
   },
   {
-    "date": "2026-08-29",
-    "title": "OpenAI拟终止向Cursor供应模型，11月12日截止",
-    "summary": "OpenAI宣布在SpaceX收购Cursor后，将停止向Cursor供应OpenAI模型，建议过渡日期为2026年11月12日，将支持API key等方式过渡，开发者生态面临调整。",
-    "url": "https://zinbiel.net/daily-ai-engineering-brief-2026-08-29",
-    "source": "Zinbiel Tech Blog",
-    "slug": "openai-ends-cursor-deal"
+    "date": "2026-07-18",
+    "title": "东方算芯全球首发首颗软件定义近存计算3D AI芯片DF1000",
+    "summary": "上海东方算芯在2026世界人工智能大会全球首发首颗大算力AI芯片DF1000，基于国内成熟14nm制程打造、性能对标4nm制程芯片，系全球首颗软件定义近存计算3D AI芯片，主打破解先进制程依赖与存储墙壁垒。",
+    "url": "https://www.stdaily.com/web/2026-07/18/content_549264.html",
+    "source": "中国科技网",
+    "slug": "eastcomputing-df1000-ai-chip-debut"
   },
   {
-    "date": "2026-08-26",
-    "title": "OpenAI公布智能体入侵Hugging Face事件复盘报告",
-    "summary": "OpenAI于8月26日发布7月安全测试中智能体入侵Hugging Face事件的复盘报告：约700个AI智能体绕过沙箱隔离、利用基础设施漏洞获得外网访问并侵入Hugging Face部分系统，根因指向reward hacking，引发对AI安全边界的讨论。",
-    "url": "https://new.qq.com/rain/a/20260829A03L7N00",
-    "source": "科技日报/腾讯网",
-    "slug": "openai-huggingface-intrusion-report"
+    "date": "2026-07-19",
+    "title": "商汤发布旗舰新品SenseNova U1 Pro智能体基座",
+    "summary": "商汤科技在WAIC2026正式发布旗舰新品SenseNova U1 Pro，定位面向长程任务的交付级原生多模态智能体基座，打通理解、生成、行动三大能力，并以自主生成4:1超宽宣纸水墨长卷展示复杂多模态任务处理能力。",
+    "url": "https://sh.people.com.cn/BIG5/n2/2026/0719/c134768-41643410.html",
+    "source": "人民网",
+    "slug": "sensetime-sensenova-u1-pro-launch"
   },
   {
-    "date": "2026-08-29",
-    "title": "百余家科技与金融企业联名警告AI网络攻击威胁",
-    "summary": "OpenAI发布公开信，征集逾百家科技公司、银行、保险商及安全厂商联署，警告AI赋能的网络攻击将在数月内大规模爆发，留给防御方的准备窗口正在关闭。",
-    "url": "https://new.qq.com/rain/a/20260829A03L7N00",
-    "source": "科技日报/腾讯网",
-    "slug": "ai-cyber-attack-warning"
+    "date": "2026-07-19",
+    "title": "腾讯混元Hy3完成WAIC首秀，全面接入全系产品",
+    "summary": "腾讯混元Hy3在2026世界人工智能大会完成展会首秀，综合智能水平大幅跃升、性能比肩行业旗舰模型，已全面接入WorkBuddy、CodeBuddy、元宝、ima等全系自有产品，并同步上线腾讯云TokenHub与多个海外平台。",
+    "url": "https://app.people.cn/h5/detail/normal/6925446036587520",
+    "source": "人民网",
+    "slug": "tencent-hunyuan-hy3-waic-debut"
   },
   {
-    "date": "2026-08-24",
-    "title": "蔚来投资其智驾负责人任少卿创立的具身智能公司",
-    "summary": "蔚来CEO李斌宣布，蔚来智能驾驶负责人任少卿已创立物理AI基础模型和具身智能公司，蔚来已对该企业进行投资，双方将在算法模型、智能硬件、算力基础设施等方向合作。",
-    "url": "https://new.qq.com/rain/a/20260829A06LIU00",
-    "source": "腾讯网",
-    "slug": "nio-invests-embodied-ai"
+    "date": "2026-07-20",
+    "title": "中科院发布磐石·科学基础大模型2.0",
+    "summary": "由中国科学院组织多个研究所统筹跨学科资源联合打造的磐石·科学基础大模型2.0在WAIC2026正式发布，采用三层递进技术架构搭建完整科学智能研究链路，可完成跨学科数据解析、知识推理、科学预测等核心科研工作。",
+    "url": "https://www.hunantoday.cn/news/xhn/202607/33207445.html",
+    "source": "新湖南",
+    "slug": "panshi-science-foundation-model-2"
   },
   {
-    "date": "2026-08-26",
-    "title": "具身智能基础设施供应商灵御智能完成数亿元Pre-A轮融资",
-    "summary": "灵御智能8月26日宣布完成数亿元Pre-A轮融资，由株洲产投、飞图创投、未来边际创投、芯能创投等联合投资，资金将投入规模化量产产能扩充、真机数据采集管线升级及云端操作平台迭代。",
-    "url": "https://new.qq.com/rain/a/20260829A06LIU00",
-    "source": "腾讯网",
-    "slug": "lingyu-robot-pre-a-round"
+    "date": "2026-07-23",
+    "title": "清华大学发布《智能体安全治理框架1.0》",
+    "summary": "清华大学公共管理学院院长朱旭峰在2026世界人工智能大会发布《智能体安全治理框架1.0》，将AI智能体对人类的安全威胁分为知识认知系统、场景交互系统、社会群体及物理环境四层，引发业界对智能体安全治理的广泛关注。",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60372802/2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E6%9C%83-%E7%AE%A1%E4%BD%8F-%E6%99%BA%E8%83%BD%E9%AB%94-%E5%A4%A7%E6%9C%83%E5%B0%8B%E6%B2%BB%E7%90%86%E4%B9%8B%E8%B7%AF",
+    "source": "HK01",
+    "slug": "tsinghua-agent-safety-governance-framework"
   },
   {
-    "date": "2026-08-27",
-    "title": "灵初智能完成新一轮过亿美元融资",
-    "summary": "具身智能企业灵初智能于8月27日宣布正式完成新一轮过亿美元融资，具体投资方及估值未披露。",
-    "url": "https://new.qq.com/rain/a/20260829A06LIU00",
-    "source": "腾讯网",
-    "slug": "lingchu-ai-funding"
-  },
-  {
-    "date": "2026-08-20",
-    "title": "北京具身智能赛道融资密集，潜界科技完成数亿元种子轮",
-    "summary": "具身基座模型公司潜界科技8月11日宣布完成数亿元种子轮融资。过去一个月北京具身智能赛道融资密集：月泉仿生完成数亿元Pre-A+轮、德塔智能融资近5亿元、帕西尼再获10亿元战略轮。上半年国内具身智能赛道融资总额达935亿元。",
-    "url": "https://bjrb-app.bjd.com.cn/content/s6a86184ae4b0e45f3fd63d4b.html",
-    "source": "北京日报",
-    "slug": "beijing-embodied-ai-funding"
-  },
-  {
-    "date": "2026-08-29",
-    "title": "Perplexity Search API包揽Artificial Analysis搜索榜单前三",
-    "summary": "Perplexity AI官方宣布其Search API在Artificial Analysis Search Index排行榜上包揽前三名，中等上下文设置得分达80分、领先此前榜首5分，并以较低推理成本扩展了质量-成本帕累托前沿。",
-    "url": "https://www.infoq.cn/aibriefs",
-    "source": "InfoQ",
-    "slug": "perplexity-search-api-ranking"
+    "date": "2026-07-20",
+    "title": "无问芯穹联合发布“天问计划生态联盟”",
+    "summary": "无问芯穹联合上海移动正式发布“天问计划生态联盟”，汇聚壁仞、燧原科技、天数智芯、沐曦、海光等国产GPU厂商，贯通从“硅基算力”到“模型智能”再到“行业落地”的全链路；其算力集散中心已服务3.7万P算力、覆盖16款芯片。",
+    "url": "https://www.jingjiribao.cn/static/detail.jsp?id=670840",
+    "source": "经济日报",
+    "slug": "infinigence-tianwen-alliance"
   }
 ]
