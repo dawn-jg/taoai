@@ -1,98 +1,106 @@
 [
   {
-    "date": "2026-08-13",
-    "title": "物理AI进入规模化验证期，宇树科技冲刺IPO",
-    "summary": "证券时报报道，具身智能龙头宇树科技冲刺IPO被业内视为物理AI赛道迈入产业化验证的标志性事件；2025年其人形机器人出货量突破5500台。近18个月超百亿美元资金涌入物理AI赛道，2026年92%的资金投向拥有落地订单、成熟产品的头部企业。",
-    "url": "https://epaper.stcn.com/con/202608/13/content_2960246.html",
-    "source": "证券时报网",
-    "slug": "physical-ai-scale-validation-unitree-ipo"
+    "date": "2026-08-30",
+    "title": "国务院发布《关于深入实施“人工智能+”行动的意见》",
+    "summary": "国务院近日发布《关于深入实施“人工智能+”行动的意见》，提出加快形成人机协同、跨界融合、共创分享的智能经济和智能社会新形态，并明确了六项重点行动与八项基础支撑能力。意见强调提升模型基础能力，推动通用人工智能发展，同时注重能源与算力的协同布局。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_76468b3b0ed77752",
+    "source": "企鹅号/人民网",
+    "slug": "state-council-ai-plus-action"
   },
   {
-    "date": "2026-08-04",
-    "title": "国产大模型包揽OpenRouter全球调用量排行榜前六",
-    "summary": "截至7月31日，全球最大模型聚合平台OpenRouter公布的7月月度大语言模型调用量排行榜中，前六名全部被中国开源大模型包揽，依次为小米MiMo-V2.5、DeepSeek V4 Flash、腾讯HY3、MiniMax M3、智谱GLM-5.2及DeepSeek V4 Pro；小米MiMo-V2.5两个月内全球调用量增长约616%。",
-    "url": "https://kw.beijing.gov.cn//xwdt/kcyx/xwdtcyfz/202608/t20260804_4807596.html",
-    "source": "北京市科委",
-    "slug": "chinese-llms-top-openrouter-ranking"
+    "date": "2026-08-23",
+    "title": "人形机器人市场规模持续扩大，2026上半年全球出货2.2万台",
+    "summary": "市场调研机构Counterpoint Research数据显示，2026年上半年全球人形机器人出货量达2.2万台，主要集中于文娱商演、科教数采等领域，智能制造和仓储物流等干活场景累计出货占比不足两成。AMD、黑芝麻智能、辉曦智能等智驾芯片厂商同期发布或展出可应用于具身机器人的芯片方案。",
+    "url": "https://www.nfnews.com/content/O3GA4WdVo0.html",
+    "source": "南方+",
+    "slug": "humanoid-robot-market-2026-h1"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "中国机器人加速进化：大脑小脑协同突破，国产芯片支撑规模化落地",
+    "summary": "2026年人形机器人马拉松赛上，国产人形机器人打破人类男子半马世界纪录，较2025年冠军完赛时间提速近2小时，标志我国“小脑”运动控制领域达到世界领先水平。星动纪元等企业的具身智能大模型以方块物体数据训练即能实现陌生物体精准抓取，泛化能力显著增强。地瓜机器人旭日S600芯片已与20余家头部机器人企业达成合作，推动规模化量产落地。",
+    "url": "https://www.digitalchina.gov.cn/2026/xwzx/szkx/202608/t20260820_5361464.htm",
+    "source": "数字中国建设峰会",
+    "slug": "china-robot-evolution-embodied-ai"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "物理AI进入规模化验证期，场景与数据成资本下注方向",
+    "summary": "具身智能龙头宇树科技冲刺IPO标志着物理AI赛道迈入产业化验证和资本市场公开定价新阶段。最近18个月已有超百亿美元资金涌入物理AI赛道，2026年首轮融资占比降至8%，92%资金集中投向拥有落地订单和成熟产品的头部企业。首程控股联合多方设立35亿元前沿科创新兴未来产业股权投资基金，专项重仓物理AI全产业链。",
+    "url": "https://epaper.stcn.com/con/202608/13/content_2960246.html",
+    "source": "证券时报网",
+    "slug": "physical-ai-scale-validation"
+  },
+  {
+    "date": "2026-08-03",
+    "title": "北京具身智能迈入全身协同新范式，银河通用机器人发布端到端具身大模型",
+    "summary": "银河通用机器人联合创始人张直政介绍，其搭载的“银河星脑”（AstraBrain）是全球首创的“大脑—小脑—神经控制”端到端具身大模型架构，成功打通了多模态感知理解、智能任务规划、实时动作执行的全链路闭环。对银河通用的机器人来说，每一个真实场景都是它们的赛场。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "国际科技创新中心网络服务平台",
+    "slug": "yinhe-general-robot-astrabrain"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "科学智能产业化蓄势待发，数据成为战略高地",
+    "summary": "在WAIC2026上，AI for Science成为最密集出现的词汇之一。中国科学院发布的磐石·科学基础大模型2.0将催化剂设计时间从几个月缩短至30分钟，并成功发现活性提高38%的新型催化剂。清华大学教授俞立表示，AI正从辅助工具演变为科研基础设施的关键组成部分，目标是将新药研发周期从10年、10亿美元压缩至3个月、300万美元。",
+    "url": "https://gxt.hebei.gov.cn/sme/cy51/cjfx/2026080416254053101/index.html",
+    "source": "河北省工业和信息化厅",
+    "slug": "ai-for-science-industrialization"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "月之暗面Kimi K3完整权重开源，全球规模最大开源大模型登场",
+    "summary": "中国人工智能企业月之暗面正式将其自主研发的大模型Kimi K3的完整模型权重开源，并发布技术报告。Kimi K3搭载2.8万亿参数与自研KDA架构，支持百万Token超长上下文与原生多模态视觉，编程能力登顶国际榜单，可自主完成大型工程与芯片设计。这一举措促使中国正成为推动全球人工智能事业开放发展的重要力量。",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+    "source": "国际科技创新中心网络服务平台",
+    "slug": "moonshot-kimi-k3-open-source"
   },
   {
     "date": "2026-07-20",
-    "title": "月之暗面发布Kimi K3，全球参数最大开源模型",
-    "summary": "北京企业月之暗面发布新一代模型Kimi K3，参数规模2.8万亿，成为全球首个开源的近3万亿级大模型；K3通过模型架构、训练方法协同优化，整体扩展效率较上代提升约2.5倍，可完成芯片构建优化验证、品牌视频剪辑、科研编程等复杂任务。",
-    "url": "https://fgw.beijing.gov.cn/gzdt/fgzs/mtbdx/bzwlxw/202607/t20260720_4770981.htm",
-    "source": "北京市发改委",
-    "slug": "moonshot-kimi-k3-largest-opensource"
+    "title": "WAIC 2026超300款全球首发产品，具身智能成最大亮点",
+    "summary": "2026世界人工智能大会以“智能伙伴 共创未来”为主题，1100余家企业携3000余项展品集中亮相，超300款产品实现全球首发。宇树科技全球首款载人变形机甲GD01从机器狗直立为机器人引发全场惊呼；东方算芯首发DF1000芯片，14nm制程性能对标4nm；华为Atlas950 SuperPoD超节点首次亮相，算力规模可扩展至50万卡。",
+    "url": "https://www.stdaily.com/web/2026-07/18/content_549264.html",
+    "source": "中国科技网",
+    "slug": "waic-2026-300-global-debuts"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "商汤发布SenseNova U1 Pro智能体底座，阶跃星辰推出STEP X Neo智能体手机",
+    "summary": "WAIC 2026期间，商汤正式发布SenseNova U1 Pro，定位面向长任务的高可靠多模态智能体底座，打通理解、生成、行动三大能力；阶跃星辰发布全球首个大模型原生智能体手机STEP X Neo及智能体原生操作系统STEP AOS。阿里巴巴联合荣耀基于千问大模型共创面向手机场景深度优化的方案，已在荣耀Robot Phone落地。",
+    "url": "https://sh.people.com.cn/n2/2026/0719/c134768-41643410.html",
+    "source": "人民网上海频道",
+    "slug": "waic-2026-agent-hardware-launches"
   },
   {
     "date": "2026-07-17",
-    "title": "习近平出席2026世界人工智能大会开幕式并发表主旨讲话",
-    "summary": "7月17日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海开幕，国家主席习近平出席开幕式并发表主旨讲话，宣布未来5年中国将面向发展中国家提供5000个人工智能专题研修培训名额，并推动气象智能预警方案“妈祖”在30个国家落地应用。",
+    "title": "习近平出席WAIC 2026开幕式，宣布中国将提供5000个人工智能培训名额",
+    "summary": "国家主席习近平在上海世界会客厅出席2026世界人工智能大会开幕式并发表主旨讲话指出，世界人工智能合作组织在上海应运而生，成为人工智能发展史上的重要里程碑。习近平宣布，未来5年中国将面向发展中国家提供5000个人工智能专题研修培训名额，推动气象智能预警方案“妈祖”在30个国家落地应用。",
     "url": "https://www.cinn.cn/yc/2026/07-17/K18x4Vx1.html",
     "source": "中国工业新闻网",
     "slug": "xi-attends-waic-2026-opening"
   },
   {
-    "date": "2026-07-20",
-    "title": "2026世界人工智能大会闭幕，300余款新品全球首发",
-    "summary": "以“智能伙伴 共创未来”为主题的2026世界人工智能大会7月20日在上海闭幕，1100余家企业携3000余项展品亮相，超300款产品全球首发，覆盖从底层算力、中层软件模型到上层终端硬件、行业应用的国产全链路。",
-    "url": "https://www.cs.com.cn/xwzx/01/2026/07/20/detail_2026072010025772.html",
-    "source": "中证网",
-    "slug": "waic-2026-closes-300-debuts"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "曙光8000“登峰”与昇腾950超节点真机亮相WAIC",
-    "summary": "中科曙光首次展出全国产十万卡AI超集群“曙光8000（登峰）”，采用“超智融合”技术路线，已接入国家超算互联网；华为昇腾950超节点Atlas 950 SuperPoD真机首展，高密搭载1024张昇腾算力卡，为目前业界亮相的最大规模超节点。",
-    "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=8027691810132573847",
-    "source": "央视网",
-    "slug": "sugon-8000-ascend-950-supernode-debut"
-  },
-  {
-    "date": "2026-07-18",
-    "title": "东方算芯全球首发首颗软件定义近存计算3D AI芯片DF1000",
-    "summary": "上海东方算芯在2026世界人工智能大会全球首发首颗大算力AI芯片DF1000，基于国内成熟14nm制程打造、性能对标4nm制程芯片，系全球首颗软件定义近存计算3D AI芯片，主打破解先进制程依赖与存储墙壁垒。",
-    "url": "https://www.stdaily.com/web/2026-07/18/content_549264.html",
-    "source": "中国科技网",
-    "slug": "eastcomputing-df1000-ai-chip-debut"
-  },
-  {
     "date": "2026-07-19",
-    "title": "商汤发布旗舰新品SenseNova U1 Pro智能体基座",
-    "summary": "商汤科技在WAIC2026正式发布旗舰新品SenseNova U1 Pro，定位面向长程任务的交付级原生多模态智能体基座，打通理解、生成、行动三大能力，并以自主生成4:1超宽宣纸水墨长卷展示复杂多模态任务处理能力。",
-    "url": "https://sh.people.com.cn/BIG5/n2/2026/0719/c134768-41643410.html",
-    "source": "人民网",
-    "slug": "sensetime-sensenova-u1-pro-launch"
-  },
-  {
-    "date": "2026-07-19",
-    "title": "腾讯混元Hy3完成WAIC首秀，全面接入全系产品",
-    "summary": "腾讯混元Hy3在2026世界人工智能大会完成展会首秀，综合智能水平大幅跃升、性能比肩行业旗舰模型，已全面接入WorkBuddy、CodeBuddy、元宝、ima等全系自有产品，并同步上线腾讯云TokenHub与多个海外平台。",
-    "url": "https://app.people.cn/h5/detail/normal/6925446036587520",
-    "source": "人民网",
-    "slug": "tencent-hunyuan-hy3-waic-debut"
-  },
-  {
-    "date": "2026-07-20",
-    "title": "中科院发布磐石·科学基础大模型2.0",
-    "summary": "由中国科学院组织多个研究所统筹跨学科资源联合打造的磐石·科学基础大模型2.0在WAIC2026正式发布，采用三层递进技术架构搭建完整科学智能研究链路，可完成跨学科数据解析、知识推理、科学预测等核心科研工作。",
-    "url": "https://www.hunantoday.cn/news/xhn/202607/33207445.html",
-    "source": "新湖南",
-    "slug": "panshi-science-foundation-model-2"
-  },
-  {
-    "date": "2026-07-23",
-    "title": "清华大学发布《智能体安全治理框架1.0》",
-    "summary": "清华大学公共管理学院院长朱旭峰在2026世界人工智能大会发布《智能体安全治理框架1.0》，将AI智能体对人类的安全威胁分为知识认知系统、场景交互系统、社会群体及物理环境四层，引发业界对智能体安全治理的广泛关注。",
+    "title": "清华大学发布《智能体安全治理框架1.0》，AI Agent治理成全球焦点",
+    "summary": "清华大学公共管理学院院长朱旭峰在WAIC 2026发布《智能体安全治理框架1.0》，将AI智能体对人类的安全威胁分为知识认知系统风险、场景交互系统风险、社会群体威胁和物理环境威胁四层。大会同时发布《人工智能合作发展行动计划》《智能体互信互连互操作全球合作倡议》《国际人工智能伦理治理行动计划》三份重要文件。",
     "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60372802/2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E6%9C%83-%E7%AE%A1%E4%BD%8F-%E6%99%BA%E8%83%BD%E9%AB%94-%E5%A4%A7%E6%9C%83%E5%B0%8B%E6%B2%BB%E7%90%86%E4%B9%8B%E8%B7%AF",
     "source": "HK01",
-    "slug": "tsinghua-agent-safety-governance-framework"
+    "slug": "tsinghua-agent-safety-framework"
   },
   {
     "date": "2026-07-20",
-    "title": "无问芯穹联合发布“天问计划生态联盟”",
-    "summary": "无问芯穹联合上海移动正式发布“天问计划生态联盟”，汇聚壁仞、燧原科技、天数智芯、沐曦、海光等国产GPU厂商，贯通从“硅基算力”到“模型智能”再到“行业落地”的全链路；其算力集散中心已服务3.7万P算力、覆盖16款芯片。",
-    "url": "https://www.jingjiribao.cn/static/detail.jsp?id=670840",
-    "source": "经济日报",
-    "slug": "infinigence-tianwen-alliance"
+    "title": "中科院发布磐石·科学基础大模型2.0，AI4S新药研发效率大幅提升",
+    "summary": "中国科学院组织的多个研究所联合打造的磐石·科学基础大模型2.0在WAIC 2026正式发布，采用三阶段递进技术架构构建科研智能研究链，可完成材料科学数据解析、认知推演、科学预测等核心科研工作。深圳河套学院联合苏州国家实验室推出的Owl·灵鉴多智能体系统已覆盖6类精密仪器，晶体结构解析工作量减少50.6%。",
+    "url": "https://gxt.hebei.gov.cn/sme/cy51/cjfx/2026080416254053101/index.html",
+    "source": "河北省工业和信息化厅",
+    "slug": "panshi-science-model-2-ai4s"
+  },
+  {
+    "date": "2026-06-10",
+    "title": "“天工3.0”人形机器人下半年规模化量产，配备定制算力芯片",
+    "summary": "从北京人形机器人创新中心获悉，诞生在北京的人形机器人“天工3.0”将在2026年下半年正式开启规模化量产交付。该机型配备地瓜机器人研发的旭日S600具身智能大算力芯片，经过模型参数蒸馏和架构轻量化，将原生大模型压缩至原有体量的20%以内，实现算法与芯片精准适配，计划广泛应用于工业制造、商业服务、3D复杂场景作业等领域。",
+    "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/lqfw/gggs/202606/t20260610_4693622.html",
+    "source": "北京市人民政府",
+    "slug": "tiangong-3-robot-mass-production"
   }
 ]
