@@ -1,106 +1,114 @@
 [
   {
-    "date": "2026-08-29",
-    "title": "腾讯混元开源770B旗舰大模型Hy4preview",
-    "summary": "8月28日，腾讯混元发布并开源旗舰大模型Hy4preview：总参数770B、激活参数49B，支持1M上下文，定位\"真正生产力\"。模型已在HuggingFace、GitHub、ModelScope平台开源，同时上线腾讯云TokenHub和OpenRouter，腾讯WorkBuddy已首发接入，并提供两周免费体验期。",
-    "url": "https://weibo.com/7905315703/5337147651654495",
-    "source": "AIGC日报",
-    "slug": "tencent-hunyuan-hy4preview-open-source"
+    "date": "2026-08-31",
+    "title": "具身智能机器人迈向“价值兑现”",
+    "summary": "2026世界机器人大会与第二届世界人形机器人运动会先后在京举行，300多家国内外企业携超3000件创新产品参展，展会全面转向真实工况下的实操能力比拼；48家央企首次集体组团参展。宇树科技创始人王兴兴表示，具身智能尚未迎来类似ChatGPT的产业临界点，并给出量化定义：在80%的陌生场景中通过语音或文字指令完成约80%的任务，预计最快2至3年内到来。",
+    "url": "https://www.cnr.cn/tech/gstj/20260831/t20260831_527799498.shtml",
+    "source": "央广网",
+    "slug": "embodied-ai-value-realization"
   },
   {
-    "date": "2026-08-29",
-    "title": "智谱开源GLM-5.3-Flash，大模型调价暗战升级",
-    "summary": "智谱发布GLM-5.3-Flash（320B MoE、18B激活参数，MIT协议开源），定价为GLM-5.3的1/10，限时折扣低至1/20。今年以来阿里云、腾讯云、百度智能云、月之暗面等国内厂商集体调价，大模型价格战持续升温。",
-    "url": "https://new.qq.com/rain/a/20260829A03L7N00?refer=cp_1009",
-    "source": "腾讯网·科技日报",
-    "slug": "zhipu-glm-5-3-flash-open-source"
+    "date": "2026-08-28",
+    "title": "2026年8月AI圈大事件：国产大模型集体开源反攻",
+    "summary": "8月国产大模型动作密集：阿里通义千问发布Qwen3.8Max（2.4万亿参数MoE架构、百万级上下文、全模态）并开源旗舰权重，演示无人工干预连续自主编码16天；智谱“神秘模型”OxAlpha实为GLM5.3Flash（320B总参、激活18B），全部跑在10万张国产算力卡集群上，MIT协议开源；DeepSeek V4 Pro正式版上线；字节跳动发布“豆包工作”独立AI办公产品；小鹏机器人完成超9亿美元首轮融资、估值63亿美元，刷新国内人形机器人单轮融资纪录；小米发布三颗“玄戒”自研AI芯片。",
+    "url": "https://www.toutiao.com/a7678917312543523372",
+    "source": "今日头条",
+    "slug": "august-2026-ai-events-roundup"
   },
   {
-    "date": "2026-08-29",
-    "title": "2026数博会开幕：我国日均词元调用量突破140万亿",
-    "summary": "8月28日，2026中国国际大数据产业博览会在贵阳开幕，聚焦\"词元\"主题，国家数据局将集中发布制度规范、行业标准及实践案例集等20余项成果。会上数据显示，我国日均词元调用量已突破140万亿。",
-    "url": "https://weibo.com/7905315703/5337147651654495",
-    "source": "AIGC日报",
-    "slug": "big-data-expo-2026-token-140-trillion"
-  },
-  {
-    "date": "2026-08-29",
-    "title": "蚂蚁集团推出金融增强大模型Ling-3.0-flash-Fin",
-    "summary": "蚂蚁集团推出金融增强大模型Ling-3.0-flash-Fin，基于Gemma 4微调，专注金融分析场景，在信息检索、图表理解、数值计算和文本生成四大核心能力上表现突出，通用能力同步提升，并计划开源。",
-    "url": "https://www.163.com/dy/article/L5F7T2QM05561FZP.html",
-    "source": "网易",
-    "slug": "ant-ling-3-finance-model"
-  },
-  {
-    "date": "2026-08-20",
-    "title": "辉羲智能发布Huixi Embodied系列，打造具身智能全栈算力平台",
-    "summary": "2026世界机器人大会期间，辉羲智能发布面向具身智能的Huixi Embodied产品系列：R1 MAX与全新R1 PRO组成R1芯片家族，其中R1 PRO为大小脑融合SoC，单芯片集成CPU、NPU、GPU，提供375 TOPS INT8算力并支持1KHz实时控制；同时发布RCM 400/500核心模组及具身供应链生态联盟。",
-    "url": "https://www.toutiao.com/w/1874002579706887",
-    "source": "经济观察网",
-    "slug": "huixi-embodied-chip-series"
+    "date": "2026-08-28",
+    "title": "August 2026 AI Pulse：Gemini 3.7 Flash发布、Stripe收购OpenRouter",
+    "summary": "Google Gemini 3.7 Flash正式发布，支持100万token上下文并内置agentic子代理；Skild AI的S1机器人仅需观看一段人类视频即可学习10分钟任务、无需微调，未见过任务成功率66%；DeepSeek-V4-Pro-0813开源，支持原生8K图像token；Stripe完成对OpenRouter的收购，成为领先的AI模型路由中心；微软Project Perception与MAI-Cyber-1-Flash推出统一AI安全平台。",
+    "url": "https://xenolve.com/blog/generative-ai-updates-2026-08-28",
+    "source": "Xenolve",
+    "slug": "august-2026-ai-pulse"
   },
   {
     "date": "2026-08-25",
-    "title": "WRC 2026落幕：机器人芯片企业从幕后走向台前",
-    "summary": "8月23日，2026世界机器人大会在北京亦庄落幕。辉羲智能、兆易创新、瑞芯微、摩尔线程、清微智能、昆仑芯等国产芯片厂商集中展出面向机器人的端侧算力、关节实时控制、多模态感知与触觉处理方案；AMD、Intel、Infineon等国际厂商也围绕\"Physical AI底座\"展开正面交锋。",
-    "url": "https://gu.qq.com/resources/shy/news/detail-v2/index.html#/index?id=nesSN20260825122732974cc4ab&s=b&prefer_reader_view=1&prefer_safari=1",
-    "source": "腾讯证券",
-    "slug": "wrc-2026-robot-chip-companies"
+    "title": "2026年8月AI产业月报：模型密集迭代、资本千亿美元涌入",
+    "summary": "Google于8月13日推出Gemini 3.7 Flash，xAI同日发布Grok 4.6，DeepSeek推出V4 Pro正式版（价格约为Claude Fable 5的1/46）；Anthropic公布Q2营收初步突破115亿美元、首度单季转盈，并与矿企TeraWulf签下190亿美元算力租约；英伟达联手贝莱德、黑石等扩建规模达5000亿美元的AI融资平台；Stripe以逾70亿美元收购AI模型网关OpenRouter；Meta开源Muse Glimmer，一张显卡即可本地运行AI代理。",
+    "url": "https://abmedia.io/ai-industry-monthly-report-august-2026",
+    "source": "鏈新聞ABMedia",
+    "slug": "august-2026-ai-industry-monthly"
   },
   {
-    "date": "2026-08-22",
-    "title": "兆易创新发布两款人形机器人关节专用MCU",
-    "summary": "在世界机器人大会上，兆易创新展出本月最新发布的两款机器人专用MCU：GD32H77R面向小体积伺服关节，片内集成工业以太网控制器与物理层收发器，可实现多关节超高精度同步；GD32F50MxxG主频252MHz，集成自研三相栅极驱动器与高带宽运放。两款产品均已通过IEC 61508功能安全认证。",
-    "url": "https://www.toutiao.com/article/7676842886582845961/",
-    "source": "央广网",
-    "slug": "gigadevice-robot-mcu-gd32"
+    "date": "2026-08-24",
+    "title": "2026世界机器人大会落幕 “北京机域”绘就具身智能新蓝图",
+    "summary": "大会主论坛发布《2026年人形机器人产业发展报告》，显示2026年上半年中国人形机器人出货量已超4万台，全球占比进一步提升至97%；中国电子学会联合世界机器人合作组织携手268家国际机构及企业共同发布《智能机器人向上向善发展倡议》，并启动“全球机器人应用探索计划”；北京经开区发布“北京机域”构想，规划打造100款可落地特色机器人产品、推动1000种细分领域应用、实现10万台套级具身智能机器人规模量产。",
+    "url": "https://www.beijing.gov.cn/ywdt/yaowen/202608/t20260824_4833806.html",
+    "source": "北京市人民政府",
+    "slug": "wrc-2026-beijing-jiyu"
+  },
+  {
+    "date": "2026-08-24",
+    "title": "从花式炫技到“能干活、能交付”，人形机器人加速进化",
+    "summary": "8月19日至23日，2026世界机器人大会在北京亦庄举办，主题为“人机共生，产需共融”，具身智能机器人在餐饮、清洁、康养、巡检等场景大显身手。大晓机器人携“晓满”即时零售一体化履约方案亮相，覆盖闪购仓、前置仓、仓店一体及无人便利店等业态，已与烧卖购、快客达、中石油便利店等达成合作；润科具能升级款半人马机器人可攀爬60厘米障碍物、整机最大负重150公斤。",
+    "url": "https://big5.china.com.cn/gate/big5/finance.china.com.cn/industry/20260824/6321875.shtml",
+    "source": "中国网",
+    "slug": "wrc-2026-humanoid-robots-working"
   },
   {
     "date": "2026-08-23",
-    "title": "智驾芯片玩家涌入具身机器人赛道",
-    "summary": "2026世界机器人大会期间，AMD、黑芝麻智能、辉羲智能等发布可应用于具身机器人的芯片方案。Counterpoint Research数据显示，2026年上半年全球人形机器人出货量2.2万台，主要集中于文娱商演、科教数采领域，智能制造和仓储物流等\"干活场景\"累计出货占比不足两成。",
-    "url": "https://dy.163.com/article/L51QLJN505129QAF.html",
-    "source": "南方都市报",
-    "slug": "autonomous-driving-chips-embodied-robots"
+    "title": "中国具身智能迎来规模化应用关键窗口期",
+    "summary": "2026世界机器人大会期间，中国电子学会理事长徐晓兰表示具身智能正迎来规模化应用关键窗口期，产品正处于“小批量试用”转向“大规模落地”的关键拐点；工信部7月发布数据显示我国人形机器人整机产品已达400余款、超全球半数；大会报告显示2026年上半年我国人形机器人出货量超4万台、全球占比97%，中国电子学会预测到2030年我国人形机器人市场规模有望达约8700亿元。",
+    "url": "http://bgimg.ce.cn/cysc/newmain/yc/jsxw/202608/t20260823_3164617.shtml",
+    "source": "中国经济网",
+    "slug": "embodied-ai-scale-window"
   },
   {
-    "date": "2026-08-21",
-    "title": "宇树科技王兴兴：推动\"物理AI机器人自进化\"",
-    "summary": "8月20日，2026世界机器人大会在北京亦庄开幕，宇树科技创始人王兴兴透露公司正推动\"物理AI机器人自进化\"：由顶尖AI大模型驱动，自动搜索论文、编写控制代码、在仿真环境验证、部署真机测试，再由AI和人类共同评分反馈，形成闭环迭代，让AI自己写自己的控制代码。",
-    "url": "https://www.toutiao.com/article/7676346416754803223/",
-    "source": "今日头条·码农财经",
-    "slug": "unitree-physical-ai-self-evolution"
+    "date": "2026-08-26",
+    "title": "具身智能机器人开启“实干时代”",
+    "summary": "优必选发布全尺寸商用服务人形机器人Walker C1，集迎宾导览、文娱展演、客流互动于一体；北京人形机器人创新中心首秀轻量化人形机器人天工Omni（身高1.35米、整机39公斤）；银河通用发布小型双足人形机器人ET1，搭载自研通用大脑“银河星脑AstraBrain”，无需动作捕捉或动作视频参考，仅通过与人类交互即可习得新动作技能；自变量发布端到端模型WALL-A，短期少样本训练即可胜任香囊制作、快递分拣、家居清洁等多元任务。",
+    "url": "https://gxt.fujian.gov.cn/zwgk/xw/hydt/xydt/202608/t20260826_7204407.htm",
+    "source": "福建省工业和信息化厅",
+    "slug": "embodied-ai-practical-era"
   },
   {
-    "date": "2026-08-21",
-    "title": "AMD、Intel、Infineon争夺机器人\"Physical AI底座\"",
-    "summary": "8月21日，2026世界机器人大会主论坛进入\"生态建设\"篇章，AMD、Intel、Infineon等半导体厂商集中亮相。AMD大中华区嵌入式事业部副总裁酆毅表示，机器人技术正从脚本式自动化转向自主化，未来一台机器人可能需CPU同时运行几十条甚至上百条智能体并发线程，对内部算力架构提出全新要求。",
-    "url": "https://finance.sina.com.cn/tech/roll/2026-08-21/doc-inipakuq1411809.shtml",
+    "date": "2026-08-19",
+    "title": "人工智能行业半月报：大模型加速迭代 AI应用百花齐放",
+    "summary": "8月上半月中证人工智能产业指数上涨7.23%；OpenRouter数据显示8月10日至16日一周大模型周调用量达75.3万亿tokens；OpenAI暂缓最强模型Astra，网络安全能力触及临界；DeepSeek-V4-Pro正式版发布并调整价格；阿里开源2.4万亿参数旗舰模型Qwen3.8；谷歌发布Gemini 3.7 Flash；智谱发布GLM-5.3；MiniMax被正式纳入港股通；谷歌DeepMind掌门卸任、首席科学家离职创业。",
+    "url": "https://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/lastest/rptid/840454259744/index.phtml",
     "source": "新浪财经",
-    "slug": "amd-intel-infineon-physical-ai"
+    "slug": "ai-industry-half-month-report-aug"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "WRC 2026：机器人告别“舞台秀”奔赴“产业场”",
+    "summary": "《2026人形机器人产业发展报告》显示，上半年我国人形机器人出货量超4万台、全球占比高达97%，全年整机产量有望突破10万台；星尘智能带来“AI模型具身OS绳驱本体”三位一体全栈升级方案，新品T1人形机器人北京首秀起售价8.99万元，将人形机器人价格下探至中高端消费电子区间；宇树科技创始人王兴兴表示，当前人形机器人短板集中在具身泛化能力，作业效率、场景适配仍不及人工。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1756a87f3ed44652",
+    "source": "环球网科技",
+    "slug": "wrc-2026-from-stage-to-industry"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "中国AI模型公司近期大事：阿里开源Qwen3.8、智谱发布GLM-5.3",
+    "summary": "8月14日阿里云千问团队正式开源Qwen3.8系列，Qwen3.8-27B为原生多模态稠密模型，原生支持262K上下文、可外推至1M Tokens；智谱同日发布GLM-5.3，称“编程能力最强的开源模型”，较GLM-5.2提升50%；DeepSeek于8月13日推出V4-Pro-0813正式版，自8月17日起实行峰谷分时定价；字节跳动发布新一代视频创作模型Seedance 2.5；华为开源5050亿参数openPangu-2.0-Pro模型。",
+    "url": "https://epaper.cena.com.cn/pc/content/202608/18/content_18108.html",
+    "source": "中国电子报",
+    "slug": "china-ai-model-releases-august"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "GPT-6十万亿参数预训练重启与AI语料短缺",
+    "summary": "OpenAI代号Astra的GPT-6模型（约10万亿参数）因安全团队对模型能力的担忧紧急暂缓后，8月10日启动代号Doug的新一轮大规模预训练，参数规模较GPT-4的1.8万亿翻超五倍，预计最迟2026年11月前推出；AIGC日报数据显示全球AI大模型周调用量达69万亿Token，中国模型包揽周调用量前四名；高质量训练数据短缺成为行业新瓶颈，出版与新闻企业加速向AI语料供应商转型。",
+    "url": "https://www.yunthe.com/gpt6-shi-wan-yi-can-shu-yu-xun-lian-chong-qi-yu-ai-yu-liao",
+    "source": "云栖网",
+    "slug": "gpt6-doug-pretraining-restart"
   },
   {
     "date": "2026-08-13",
-    "title": "物理AI进入规模化验证期，场景与数据成资本下注方向",
-    "summary": "证券时报报道，宇树科技冲刺IPO标志物理AI赛道迈入产业化验证与资本市场公开定价新阶段。最近18个月已有超百亿美元资金涌入物理AI赛道，2026年92%的资金投向拥有落地订单、成熟产品的头部企业。弗若斯特沙利文预测，物理AI产业以47.2%年复合增速成长，到2040年全球关联产业规模有望达3.25万亿美元。",
+    "title": "物理AI进入规模化验证期 场景与数据成资本下注方向",
+    "summary": "宇树科技冲刺IPO标志着物理AI赛道迈入产业化验证和资本市场公开定价的新阶段；最近18个月已有超百亿美元资金涌入物理AI赛道，2026年92%的资金集中投向拥有落地订单、成熟产品的头部企业；英伟达CEO黄仁勋定义物理AI为让AI从“看懂世界”升级到“改变世界”；弗若斯特沙利文预测物理AI产业以47.2%年复合增速成长，到2040年全球关联产业规模有望达3.25万亿美元。",
     "url": "https://epaper.stcn.com/con/202608/13/content_2960246.html",
     "source": "证券时报",
     "slug": "physical-ai-scale-validation"
   },
   {
-    "date": "2026-08-14",
-    "title": "黑芝麻智能：复用车规芯片切入具身智能赛道",
-    "summary": "黑芝麻智能向中国电子报表示，当前具身智能芯片行业整体处于起步培育、向产品化落地加速演进的初期阶段，大部分方案仍使用智能驾驶或消费电子通用芯片。其SesameX多维具身智能计算平台在车规级芯片基础上，把芯片、软件工具链和模型库做成完整计算平台，形成\"先复用、后定制\"的发展路线。",
-    "url": "https://www.toutiao.com/article/7673688104272495156",
-    "source": "中国电子报",
-    "slug": "black-sesame-sesamex-embodied-platform"
-  },
-  {
-    "date": "2026-07-19",
-    "title": "多项首发技术和创新成果亮相2026世界人工智能大会",
-    "summary": "2026世界人工智能大会上，国家发展改革委会同中央广播电视总台等部门发布《人工智能合作发展行动计划》《中国智·惠世界(2026)》等成果；蛋白质设计智能体、人类技能采集服等前沿技术集中首发；200多款具身智能产品亮相，参展规模达去年的三倍以上。",
-    "url": "https://news.china.com.cn/2026-07/19/content_118606373.shtml",
-    "source": "中国网",
-    "slug": "waic-2026-debuts"
+    "date": "2026-08-31",
+    "title": "8月收官：DeepSeek V4-Pro峰值定价、xAI Grok Bot、Meta Muse Glimmer",
+    "summary": "DeepSeek发布V4-Pro通用可用版，支持灵活推理控制，自8月16日起实行峰谷分时定价、低谷价为峰值50%；xAI推出Grok Bot早期测试版，可在云端电脑上24/7运行、自主完成多步任务；Meta开源300亿参数Muse Glimmer，4-bit量化后体积低于20GB，可在消费级硬件上运行本地Agent；MiniMax开源MiniMax-Music3音乐生成模型，可生成最长5分钟的完整歌曲。",
+    "url": "https://headsupai.io/ai-news-and-updates/this-month",
+    "source": "HeadsUpAI",
+    "slug": "biggest-ai-news-august-2026"
   }
 ]
