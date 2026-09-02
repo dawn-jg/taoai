@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-09-02",
+    "title": "Anthropic发布Claude Fable 5.1与Mythos 5.1 缓存读取价格下调75%",
+    "summary": "当地时间9月1日，Anthropic发布Claude Fable 5.1与Claude Mythos 5.1，两者基于同一底座模型但安全与访问机制不同：Fable 5.1面向一般用户与企业全面开放，Mythos 5.1仅通过可信访问计划向审核过的网络安全与生命科学机构提供。Fable 5.1在Terminal-Bench-Science 0.1等多项基准上超越前代Fable 5及GPT-5.6 Sol；缓存读取价格从每百万token 1美元下调75%至0.25美元，典型工作负载成本降低约25%，高度智能体化任务最高降约45%。",
+    "url": "https://www.jiemian.com/article/15047269.html",
+    "source": "界面新闻",
+    "slug": "anthropic-claude-fable-mythos-51"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "OpenAI披露Astra达“关键”网络安全门槛 可自主挖掘利用漏洞",
+    "summary": "据外媒报道，OpenAI披露下一代前沿大模型Astra已达到其内部“关键网络安全阈值”：无需人类逐步指导即可在加固系统中自主发现并利用未知漏洞，内部测试在ExploitBench漏洞利用基准上获满分，并自主发现两个此前未知的零日漏洞。OpenAI表示Astra很快将开放测试，最高等级的网络安全能力将限制访问范围；相关评估均为OpenAI内部自评，有前员工质疑模型或只是“学会欺骗测试人员”。",
+    "url": "https://3w.huanqiu.com/a/c36dc8/4T2mQW6gmLj",
+    "source": "环球网",
+    "slug": "openai-astra-critical-cyber"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "普华永道：2050年全球数据中心累计投资将达31.6万亿美元",
+    "summary": "普华永道9月2日发布报告预测，为满足全球AI需求，到2050年全球数据中心累计投资规模将达31.6万亿美元，超过铁路、电气化、互联网等历史基建浪潮；若AI普及速度超预期，未来约25年支出或升至50万亿美元。区域上美国将吸引近半数投资（约15.1万亿美元），亚太约8.2万亿、欧洲5.6万亿；中国和印度将贡献最大增量需求，支出大头为AI芯片等数据中心内部设备。",
+    "url": "https://www.cls.cn/detail/2472402",
+    "source": "财联社",
+    "slug": "pwc-datacenter-investment-2050"
+  },
+  {
+    "date": "2026-09-02",
     "title": "上证科创板人工智能应用臻选指数正式发布",
     "summary": "上交所与中证指数公司于9月2日正式发布上证科创板人工智能应用臻选指数，选取科创板业务涉及AI应用软件和硬件的上市公司证券作为样本，反映该领域整体表现。",
     "url": "https://view.inews.qq.com/a/20260901A0AUD500",
@@ -9,35 +33,35 @@
   },
   {
     "date": "2026-09-02",
-    "title": "李飞飞团队发布全球首个多模态世界模型Atlas",
-    "summary": "World Labs于9月2日发布可生成像素级精确图像视频并重建3D世界的多模态世界模型Atlas，支持输入1至6张图生成最长1分钟1440p视频，可用于机器人预训练与视觉特效场景。",
-    "url": "http://view.inews.qq.com/a/20260902A09U3500",
+    "title": "戴尔上调全年营收指引至1920亿美元 AI服务器订单创纪录",
+    "summary": "戴尔发布2027财年第二季度财报：AI优化服务器营收164亿美元，同比翻倍创历史新高；当季AI服务器订单金额达创纪录的609亿美元，积压订单高达950亿美元。公司全年营收指引从1670亿美元上调至1920亿美元，并预计2027财年AI优化服务器销售额740亿美元、同比增长200%。",
+    "url": "https://new.qq.com/rain/a/20260902A0BZ2C00",
     "source": "财联社",
-    "slug": "world-labs-atlas-world-model"
-  },
-  {
-    "date": "2026-09-02",
-    "title": "中央网信办通报：AI应用乱象整治第二阶段查处账号4.9万余个",
-    "summary": "9月2日通报显示，“清朗·整治AI应用乱象”专项行动第二阶段累计清理违法违规信息561万余条，查处账号4.9万余个，处置违规网站及应用程序2400余个，涉及AI魔改经典、换脸仿冒、毒动画等乱象。",
-    "url": "http://view.inews.qq.com/a/20260902A09R6000",
-    "source": "新华社",
-    "slug": "cac-ai-abuse-crackdown-phase2"
-  },
-  {
-    "date": "2026-09-02",
-    "title": "戴尔上季AI服务器营收164亿美元 订单金额创纪录",
-    "summary": "9月2日戴尔发布2027财年第二季度财报：营收470亿美元，同比增长58%；AI优化服务器营收164亿美元，同比翻倍创历史新高；当季AI服务器订单金额达创纪录的609亿美元，季度末积压订单高达950亿美元，全年营收指引上调至1920亿美元。",
-    "url": "https://segmentfault.com/a/1190000048258894",
-    "source": "SegmentFault",
     "slug": "dell-ai-server-record-quarter"
   },
   {
     "date": "2026-09-02",
     "title": "智谱上市后首份半年报：营收9.54亿元 同比增399.7%",
-    "summary": "智谱交出港股上市后首份半年报：上半年营收9.54亿元，同比增长399.7%，半年收入超2025年全年；API业务收入8.25亿元，同比增2735.7%。创始人唐杰透露下一代GLM-6.0将聚焦“自进化”能力，Token推理成本较年初下降80%。",
+    "summary": "智谱交出港股上市后首份半年报：上半年营收9.54亿元，同比增长399.7%，半年收入超2025年全年；API业务收入8.25亿元，同比增2735.7%。创始人唐杰透露下一代GLM-6.0将聚焦“自进化”能力，已实现10万级国产芯片规模化推理，Token推理成本较年初下降80%。",
     "url": "https://segmentfault.com/a/1190000048258894",
     "source": "SegmentFault",
     "slug": "zhipu-h1-2026-earnings"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "美年健康上半年AI创收2.19亿元 同比增55.96%",
+    "summary": "体检龙头美年健康2026年半年报显示，主营收入中结合AI技术手段取得的收入达2.19亿元，同比增长55.96%，“All in AI”战略从成本中心迈向利润引擎；上半年归母净利润亏损1.82亿元，同比收窄17.61%。“健康小美”AI智能主检系统已覆盖394家体检中心，累计审核生成超1600万份体检报告。",
+    "url": "https://news.qq.com/rain/a/20260902A07WSW00",
+    "source": "腾讯新闻",
+    "slug": "meinian-ai-income-h1-2026"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "腾讯上线WorkBuddy开放平台 首批超百家生态伙伴入驻",
+    "summary": "9月2日腾讯正式上线WorkBuddy开放平台，首批入驻超百家生态伙伴，打造国内首个打通硬件、应用、开发者三层生态的AI Agent开放平台，可自动完成文档处理、会议纪要、工作流程自主规划等办公场景任务。",
+    "url": "https://www.toutiao.com/article/7680912323736879670/",
+    "source": "今日头条",
+    "slug": "tencent-workbuddy-open-platform"
   },
   {
     "date": "2026-09-02",
@@ -49,19 +73,35 @@
   },
   {
     "date": "2026-09-02",
-    "title": "腾讯上线WorkBuddy开放平台 首批超百家生态伙伴入驻",
-    "summary": "9月2日腾讯正式上线WorkBuddy开放平台，首批入驻超百家生态伙伴，打造国内首个打通硬件、应用、开发者三层生态的AI Agent开放平台，可自动完成文档处理、会议纪要、工作流程自主规划等办公场景任务。",
-    "url": "https://www.toutiao.com/article/7680912323736879670/",
-    "source": "今日头条",
-    "slug": "tencent-workbuddy-open-platform"
+    "title": "李飞飞团队发布全球首个多模态世界模型Atlas",
+    "summary": "World Labs于9月2日发布可生成像素级精确图像视频并重建3D世界的多模态世界模型Atlas，支持输入1至6张图生成最长1分钟1440p视频，可用于机器人预训练与视觉特效场景。",
+    "url": "http://view.inews.qq.com/a/20260902A09U3500",
+    "source": "财联社",
+    "slug": "world-labs-atlas-world-model"
   },
   {
     "date": "2026-09-01",
-    "title": "OpenAI官宣将发布下一代模型Astra 可自主发起网络攻击",
-    "summary": "当地时间9月1日，OpenAI宣布将尽快发布下一代模型Astra。该模型达到内部“关键”网络安全能力门槛，可自主发现未知漏洞并发起攻击，在ExploitBench测试获满分；因其能力高危，最强网络安全功能将限制访问。",
-    "url": "https://view.inews.qq.com/a/20260902A08GHO00",
-    "source": "观察者网",
-    "slug": "openai-astra-agentic-attack"
+    "title": "科大讯飞词元星火开源端侧模型 首个支持百万Token上下文",
+    "summary": "9月1日科大讯飞全资子公司词元星火推出并开源星火X2.5-4B和X2.5-1.7B两款端侧通用大模型，为端侧模型中首个原生支持最长100万Token上下文的模型，采用混合注意力架构，围绕智能体、代码、数学与指令遵循等能力优化，基于全国产算力平台完成全流程训练。模型权重已在Hugging Face、GitHub开放，对应API上线讯飞星辰MaaS平台。",
+    "url": "https://cn.chinadaily.com.cn/a/202609/02/WS6a97772de4b09a165c78768e.html",
+    "source": "中国日报网",
+    "slug": "iflytek-spark-x25-edge-open"
+  },
+  {
+    "date": "2026-09-01",
+    "title": "腾讯混元发布Hy4 preview轻量版 权重从1.5TB压缩至214GB",
+    "summary": "9月1日腾讯混元推出Hy4 preview轻量版，通过自研Sherry稀疏三值量化算法与MIX-STQ1_0混合精度策略，将模型权重从接近1.5TB压缩至约214GB，长文理解、多轮长上下文检索与原始版基本持平；团队还验证了异构设备联合推理方案，量化GGUF库及代码已同步开源。",
+    "url": "https://news.qq.com/rain/a/20260901A069H400",
+    "source": "腾讯新闻",
+    "slug": "tencent-hy4-preview-lightweight"
+  },
+  {
+    "date": "2026-09-01",
+    "title": "Manus正式恢复独立运营 创始团队继续领导",
+    "summary": "9月1日通用AI智能体公司Manus宣布正式恢复独立运营，肖弘、张涛、季逸超组成的创始团队将继续领导公司，以独立AI智能体实验室形式运营并推进通用AI Agent产品。此前Meta对Manus的收购于4月被国家发改委外商投资安全审查禁止，双方完成分拆与数据迁移，数据恢复入口现已开放。",
+    "url": "https://news.qq.com/rain/a/20260901A07WHA00",
+    "source": "腾讯新闻",
+    "slug": "manus-resumes-independent"
   },
   {
     "date": "2026-09-01",
@@ -78,45 +118,5 @@
     "url": "http://view.inews.qq.com/a/20260902A09ULY00",
     "source": "澎湃新闻",
     "slug": "musk-ai-gdp-boost-g20"
-  },
-  {
-    "date": "2026-09-01",
-    "title": "AI 3D公司VAST半年内融资约50亿元",
-    "summary": "9月1日VAST宣布完成B轮和B+轮融资合计约30亿元，由经纬创投领投，完美世界、蓝色光标、鼎晖VGC、中金资本等参投，不到半年累计融资约50亿元。资金将投入3D原生模型与数据能力迭代、训练推理基础设施扩建及商业化落地。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8476a975a5055052",
-    "source": "每日经济新闻",
-    "slug": "vast-3d-ai-5b-funding"
-  },
-  {
-    "date": "2026-09-01",
-    "title": "影眸科技发布世界生成模型Hyper3D WorldGen",
-    "summary": "9月1日3D生成大模型公司影眸正式发布世界生成模型Hyper3D WorldGen，用户上传一张场景图片后，系统可自动识别其中主要物体，也可由用户手动框选生成对象，推动3D内容生成向世界级场景拓展。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8476a975a5055052",
-    "source": "每日经济新闻",
-    "slug": "yingmou-hyper3d-worldgen"
-  },
-  {
-    "date": "2026-09-01",
-    "title": "成都施行全国首部人工智能地方政府规章",
-    "summary": "《成都市促进人工智能产业发展办法》于9月1日正式施行，共六章三十六条，确立“以人为本、科技引领、应用驱动、安全可控”原则，实行分级分类监管，并探索“规章先行—实践检验—法规升华”的梯次立法路径。",
-    "url": "https://new.qq.com/rain/a/20260902A0302900",
-    "source": "成都经信发布",
-    "slug": "chengdu-ai-regulation-first"
-  },
-  {
-    "date": "2026-09-01",
-    "title": "8月全球人工智能发展盘点：模型“越界”敲响警钟 开源热度持续攀升",
-    "summary": "新华网综述指出，8月英国AI安全研究所警示模型“越界”行为风险；开放权重模型持续升温，美国法律AI公司哈维发布的法律专用模型Tenet即以月之暗面Kimi K3为基础开发；8月22日开放权重模型词元调用占比一度达62%，主要由中国开放权重模型推动；阿里云8月初发布Qwen3.8-Max并首次开源Max级别权重。",
-    "url": "https://my-h5news.app.xinhuanet.com/h5/article.html?articleId=20260901bd43ed3f145c432da94e89bd204b42c5",
-    "source": "新华网",
-    "slug": "aug-2026-ai-review-open-source"
-  },
-  {
-    "date": "2026-08-31",
-    "title": "香港首个真实开放场景服务机器人落地兰桂坊",
-    "summary": "8月31日智平方宣布，搭载原创类脑架构具身大模型的AlphaBot 2（爱宝）机器人已入驻中国香港兰桂坊酒吧，为顾客提供打鸡尾酒与互动服务，标志香港首个真实开放场景服务机器人落地，已在真实商业环境中实现常态化运营。",
-    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8476a975a5055052",
-    "source": "每日经济新闻",
-    "slug": "alphabot2-lankwaifong-hk"
   }
 ]
