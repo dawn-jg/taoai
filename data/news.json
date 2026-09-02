@@ -1,11 +1,99 @@
 [
   {
+    "date": "2026-09-02",
+    "title": "上证科创板人工智能应用臻选指数正式发布",
+    "summary": "上交所与中证指数公司于9月2日正式发布上证科创板人工智能应用臻选指数，选取科创板业务涉及AI应用软件和硬件的上市公司证券作为样本，反映该领域整体表现。",
+    "url": "https://view.inews.qq.com/a/20260901A0AUD500",
+    "source": "IT时代网",
+    "slug": "star-market-ai-index"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "李飞飞团队发布全球首个多模态世界模型Atlas",
+    "summary": "World Labs于9月2日发布可生成像素级精确图像视频并重建3D世界的多模态世界模型Atlas，支持输入1至6张图生成最长1分钟1440p视频，可用于机器人预训练与视觉特效场景。",
+    "url": "http://view.inews.qq.com/a/20260902A09U3500",
+    "source": "财联社",
+    "slug": "world-labs-atlas-world-model"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "中央网信办通报：AI应用乱象整治第二阶段查处账号4.9万余个",
+    "summary": "9月2日通报显示，“清朗·整治AI应用乱象”专项行动第二阶段累计清理违法违规信息561万余条，查处账号4.9万余个，处置违规网站及应用程序2400余个，涉及AI魔改经典、换脸仿冒、毒动画等乱象。",
+    "url": "http://view.inews.qq.com/a/20260902A09R6000",
+    "source": "新华社",
+    "slug": "cac-ai-abuse-crackdown-phase2"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "戴尔上季AI服务器营收164亿美元 订单金额创纪录",
+    "summary": "9月2日戴尔发布2027财年第二季度财报：营收470亿美元，同比增长58%；AI优化服务器营收164亿美元，同比翻倍创历史新高；当季AI服务器订单金额达创纪录的609亿美元，季度末积压订单高达950亿美元，全年营收指引上调至1920亿美元。",
+    "url": "https://segmentfault.com/a/1190000048258894",
+    "source": "SegmentFault",
+    "slug": "dell-ai-server-record-quarter"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "智谱上市后首份半年报：营收9.54亿元 同比增399.7%",
+    "summary": "智谱交出港股上市后首份半年报：上半年营收9.54亿元，同比增长399.7%，半年收入超2025年全年；API业务收入8.25亿元，同比增2735.7%。创始人唐杰透露下一代GLM-6.0将聚焦“自进化”能力，Token推理成本较年初下降80%。",
+    "url": "https://segmentfault.com/a/1190000048258894",
+    "source": "SegmentFault",
+    "slug": "zhipu-h1-2026-earnings"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "高通侯纪磊：混合AI是未来 端云协同才有生命力",
+    "summary": "9月2日高通AI工程团队负责人侯纪磊表示，智能体AI时代端侧与云侧协同才是出路，100B以下模型可覆盖70%-80%日常任务；高通明确不做基础大模型，定位底层计算平台，借中国团队需求驱动研发-产品“飞轮”。",
+    "url": "https://view.inews.qq.com/a/20260902A080XK00",
+    "source": "C114通信网",
+    "slug": "qualcomm-hybrid-ai-end-cloud"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "腾讯上线WorkBuddy开放平台 首批超百家生态伙伴入驻",
+    "summary": "9月2日腾讯正式上线WorkBuddy开放平台，首批入驻超百家生态伙伴，打造国内首个打通硬件、应用、开发者三层生态的AI Agent开放平台，可自动完成文档处理、会议纪要、工作流程自主规划等办公场景任务。",
+    "url": "https://www.toutiao.com/article/7680912323736879670/",
+    "source": "今日头条",
+    "slug": "tencent-workbuddy-open-platform"
+  },
+  {
     "date": "2026-09-01",
-    "title": "8月全球人工智能发展盘点：模型“越界”敲响警钟 开源热度持续攀升",
-    "summary": "新华网综述指出，8月英国AI安全研究所警示模型“越界”行为风险；开放权重模型持续升温，美国法律AI公司哈维发布的法律专用模型Tenet即以月之暗面Kimi K3为基础开发；8月22日开放权重模型词元调用占比一度达62%，主要由中国开放权重模型推动；阿里云8月初发布Qwen3.8-Max并首次开源Max级别权重。",
-    "url": "https://my-h5news.app.xinhuanet.com/h5/article.html?articleId=20260901bd43ed3f145c432da94e89bd204b42c5",
-    "source": "新华网",
-    "slug": "aug-2026-ai-review-open-source"
+    "title": "OpenAI官宣将发布下一代模型Astra 可自主发起网络攻击",
+    "summary": "当地时间9月1日，OpenAI宣布将尽快发布下一代模型Astra。该模型达到内部“关键”网络安全能力门槛，可自主发现未知漏洞并发起攻击，在ExploitBench测试获满分；因其能力高危，最强网络安全功能将限制访问。",
+    "url": "https://view.inews.qq.com/a/20260902A08GHO00",
+    "source": "观察者网",
+    "slug": "openai-astra-agentic-attack"
+  },
+  {
+    "date": "2026-09-01",
+    "title": "全球首款AI智能体手机努比亚NaviX Ultra获入网许可",
+    "summary": "9月1日努比亚NaviX Ultra正式获工信部入网许可，由中兴通讯与字节跳动联合研发，搭载豆包手机助手，定位全球首款AI智能体手机。该机大模型运算全部在端侧本地完成，可跨应用完成多步骤任务，计划9月上市开售。",
+    "url": "http://view.inews.qq.com/a/20260902A08CQ100",
+    "source": "闪电新闻",
+    "slug": "nubia-navix-ultra-ai-agent-phone"
+  },
+  {
+    "date": "2026-09-01",
+    "title": "马斯克：AI或令全球经济规模扩大20%至30%",
+    "summary": "当地时间9月1日，马斯克在G20创新部长级会议视频连线中预测，AI将把全球经济总量提升20%至30%，若叠加人形机器人有望扩大十倍，并警告AI芯片将带来严重电力危机。",
+    "url": "http://view.inews.qq.com/a/20260902A09ULY00",
+    "source": "澎湃新闻",
+    "slug": "musk-ai-gdp-boost-g20"
+  },
+  {
+    "date": "2026-09-01",
+    "title": "AI 3D公司VAST半年内融资约50亿元",
+    "summary": "9月1日VAST宣布完成B轮和B+轮融资合计约30亿元，由经纬创投领投，完美世界、蓝色光标、鼎晖VGC、中金资本等参投，不到半年累计融资约50亿元。资金将投入3D原生模型与数据能力迭代、训练推理基础设施扩建及商业化落地。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8476a975a5055052",
+    "source": "每日经济新闻",
+    "slug": "vast-3d-ai-5b-funding"
+  },
+  {
+    "date": "2026-09-01",
+    "title": "影眸科技发布世界生成模型Hyper3D WorldGen",
+    "summary": "9月1日3D生成大模型公司影眸正式发布世界生成模型Hyper3D WorldGen，用户上传一张场景图片后，系统可自动识别其中主要物体，也可由用户手动框选生成对象，推动3D内容生成向世界级场景拓展。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8476a975a5055052",
+    "source": "每日经济新闻",
+    "slug": "yingmou-hyper3d-worldgen"
   },
   {
     "date": "2026-09-01",
@@ -17,98 +105,18 @@
   },
   {
     "date": "2026-09-01",
-    "title": "中央网信办详解人工智能五大安全风险",
-    "summary": "9月1日国家网络安全宣传周发布会上，中央网信办官员指出AI领域面临技术先天脆弱性、模型极端失控、应用形态迭代、误用滥用恶用、全球技术霸权五方面风险，多家科技巨头近期接连曝出大模型失控事件。",
-    "url": "http://view.inews.qq.com/a/20260902A00YMB00",
-    "source": "华商网",
-    "slug": "cac-five-ai-security-risks"
-  },
-  {
-    "date": "2026-09-02",
-    "title": "上证科创板人工智能应用臻选指数正式发布",
-    "summary": "上交所与中证指数公司于9月2日正式发布上证科创板人工智能应用臻选指数，选取科创板业务涉及AI应用软件和硬件的上市公司证券作为样本，反映该领域整体表现。",
-    "url": "https://view.inews.qq.com/a/20260901A0AUD500",
-    "source": "IT时代网",
-    "slug": "star-market-ai-index"
+    "title": "8月全球人工智能发展盘点：模型“越界”敲响警钟 开源热度持续攀升",
+    "summary": "新华网综述指出，8月英国AI安全研究所警示模型“越界”行为风险；开放权重模型持续升温，美国法律AI公司哈维发布的法律专用模型Tenet即以月之暗面Kimi K3为基础开发；8月22日开放权重模型词元调用占比一度达62%，主要由中国开放权重模型推动；阿里云8月初发布Qwen3.8-Max并首次开源Max级别权重。",
+    "url": "https://my-h5news.app.xinhuanet.com/h5/article.html?articleId=20260901bd43ed3f145c432da94e89bd204b42c5",
+    "source": "新华网",
+    "slug": "aug-2026-ai-review-open-source"
   },
   {
     "date": "2026-08-31",
-    "title": "工信部启动AI应用服务商培育专项行动",
-    "summary": "工信部印发通知，聚焦AI落地“最后一公里”，目标到2026年底全国服务商资源池突破2000家、2027年底不少于3000家，并加快制定相关国家与行业标准，支持服务商对接国家算力网络枢纽节点、用好“算力券”等政策工具。",
-    "url": "https://news.cctv.com/2026/09/01/ARTIXMhzFSewkmIQ3LRj5WPx260901.shtml",
-    "source": "央视网",
-    "slug": "miit-ai-service-provider-initiative"
-  },
-  {
-    "date": "2026-08-28",
-    "title": "小鹏人形机器人完成超9亿美元首轮融资 刷新国内纪录",
-    "summary": "8月24日小鹏集团宣布旗下人形机器人业务完成首轮融资，金额超9亿美元、投后估值超63亿美元，由IDG资本领投，腾讯、阿里巴巴战略跟投，刷新中国具身智能行业单轮私募股权融资纪录。",
-    "url": "https://www.toutiao.com/article/7678690423207969282",
-    "source": "今日头条",
-    "slug": "xpeng-humanoid-9b-funding"
-  },
-  {
-    "date": "2026-08-28",
-    "title": "2026年8月AI大事件：国产大模型集体开源 智谱神秘模型揭晓",
-    "summary": "阿里通义千问发布Qwen3.8-Max并开源旗舰权重，2.4万亿参数MoE架构、百万级上下文、全模态支持；匿名登顶海外排行榜的OxAlpha实为智谱GLM5.3Flash，全部跑在10万张国产算力卡集群上，MIT协议开源；DeepSeek V4 Pro正式版上线；字节跳动发布“豆包工作”独立AI办公产品。",
-    "url": "https://www.toutiao.com/a7678917312543523372",
-    "source": "今日头条",
-    "slug": "aug-2026-china-model-open-source"
-  },
-  {
-    "date": "2026-08-25",
-    "title": "2026年8月AI产业月报：Google推Gemini 3.7 Flash xAI发Grok 4.6",
-    "summary": "8月13日Google推出Gemini 3.7 Flash主打编码与低价，xAI同日发布Grok 4.6；DeepSeek推出V4 Pro正式版，价格约为Claude Fable 5的1/46；Meta开源Muse Glimmer并推出编程代理Muse Code；Anthropic Q2营收初步突破115亿美元、首度单季转盈。",
-    "url": "https://abmedia.io/ai-industry-monthly-report-august-2026",
-    "source": "链新闻ABMedia",
-    "slug": "aug-2026-ai-monthly-report"
-  },
-  {
-    "date": "2026-08-17",
-    "title": "芯擎科技车规级7纳米AI加速芯片“天工100”全面量产",
-    "summary": "2026年8月芯擎科技宣布自研车规级7纳米AI加速芯片“天工100”（NNA100）全面量产，INT8算力96 TOPS，可运行30亿至70亿参数规模大模型，已向整车厂、Tier1等生态伙伴批量供货，面向智能座舱和自动驾驶场景。",
-    "url": "https://www.cet.com.cn/wzsy/kjzx/cygdzx/10508528.shtml",
-    "source": "中国经济新闻网",
-    "slug": "siengine-tiangong100-mass-production"
-  },
-  {
-    "date": "2026-08-15",
-    "title": "5000余台出租车装上AI翻译机",
-    "summary": "深圳市人工智能产业协会市场动态显示，8月15日场景资讯报道5000余台出租车装上AI翻译机，AI应用加速渗透公共交通出行场景。",
-    "url": "https://www.szaicx.com/scdt.html",
-    "source": "深圳市人工智能产业协会",
-    "slug": "taxi-ai-translator-5000"
-  },
-  {
-    "date": "2026-08-14",
-    "title": "Bilibili开源IndexTTS-2.5工业级零样本语音克隆模型",
-    "summary": "8月14日产业资讯显示，Bilibili开源IndexTTS-2.5工业级零样本语音克隆模型，为语音合成领域提供新的开源方案。",
-    "url": "https://www.szaicx.com/scdt.html",
-    "source": "深圳市人工智能产业协会",
-    "slug": "bilibili-indextts-25-open-source"
-  },
-  {
-    "date": "2026-08-13",
-    "title": "物理AI进入规模化验证期 场景与数据成资本下注方向",
-    "summary": "证券时报报道，宇树科技IPO标志物理AI赛道迈入产业化验证新阶段；最近18个月超百亿美元资金涌入物理AI赛道；弗若斯特沙利文预测该产业以47.2%年复合增速成长，到2040年全球关联产业规模有望达3.25万亿美元。",
-    "url": "https://epaper.stcn.com/con/202608/13/content_2960246.html",
-    "source": "证券时报网",
-    "slug": "physical-ai-scaling-validation"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "阿里发布Wan 3.0视频生成模型 火山引擎上线Seedance 2.5 API",
-    "summary": "8月7日阿里发布Wan 3.0视频生成模型，最长可稳定直出30秒视频；火山引擎同步上线Seedance 2.5 API，支持30秒视频直出，强化电影级长叙事能力，视频生成能力全面升级。",
-    "url": "https://www.szaicx.com/scdt.html",
-    "source": "深圳市人工智能产业协会",
-    "slug": "alibaba-wan3-seedance25"
-  },
-  {
-    "date": "2026-08-03",
-    "title": "欧盟AI法案8月2日落地 全球AI监管迎来执法节点",
-    "summary": "欧盟《人工智能法》透明度条款8月2日正式生效，成为全球首套覆盖全行业、具强约束力的AI专项监管法律：对话类AI须自证身份、深度伪造内容需嵌入可机器识别的标识，违规企业面临最高750万欧元或全球年营收1%的罚款；谷歌、微软、OpenAI等180余家企业签署配套自律准则，Meta拒绝加入。",
-    "url": "https://m.toutiao.com/article/7671248246672704002",
-    "source": "今日头条",
-    "slug": "eu-ai-act-enforcement"
+    "title": "香港首个真实开放场景服务机器人落地兰桂坊",
+    "summary": "8月31日智平方宣布，搭载原创类脑架构具身大模型的AlphaBot 2（爱宝）机器人已入驻中国香港兰桂坊酒吧，为顾客提供打鸡尾酒与互动服务，标志香港首个真实开放场景服务机器人落地，已在真实商业环境中实现常态化运营。",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8476a975a5055052",
+    "source": "每日经济新闻",
+    "slug": "alphabot2-lankwaifong-hk"
   }
 ]
