@@ -1,114 +1,106 @@
 [
   {
-    "date": "2026-09-03",
-    "title": "马斯克与扎克伯格G20同台警示AI基建瓶颈：2027年电力缺口或超15吉瓦",
-    "summary": "9月1日在美国北卡罗来纳州举行的G20科技部长会议上，马斯克与扎克伯格同台警告AI发展受电力与熟练工人短缺双重制约。马斯克预计2027年AI芯片电力缺口至少15吉瓦；谷歌、Anthropic已向SpaceX租赁算力。",
-    "url": "http://view.inews.qq.com/a/20260903A091ID00",
+    "date": "2026-09-04",
+    "title": "OpenAI发布GPT-6 Astra 宣布“进入AGI时代”",
+    "summary": "9月4日凌晨OpenAI发布旗舰模型GPT-6 Astra，训练动用超10万张GPU，可直接操作浏览器与专业软件完成数小时级复杂任务，成为其首个达到“关键”网络安全能力门槛的模型，能在较少人类干预下识别此前未知的软件漏洞。最强功能暂不全面开放；API定价每百万输入Token 10美元、输出50美元，约为GPT-5.6 Sol的2.5倍。",
+    "url": "https://wallstreetcn.com/articles/3781042",
     "source": "华尔街见闻",
-    "slug": "g20-musk-zuckerberg-ai-power-gap"
+    "slug": "openai-gpt6-astra-agi-era"
   },
   {
-    "date": "2026-09-03",
-    "title": "博通上调AI收入指引：2028财年目标2300亿美元",
-    "summary": "美东时间9月2日博通发布2026财年Q3财报，单季收入296亿美元、同比增长86%，AI半导体收入同比暴涨221%；CEO陈福阳给出指引：2027财年AI收入翻倍至1150亿美元，2028财年再翻倍至2300亿美元。",
-    "url": "http://view.inews.qq.com/a/20260903A092HX00",
-    "source": "界面新闻",
-    "slug": "broadcom-ai-revenue-guidance-2028"
+    "date": "2026-09-04",
+    "title": "英伟达宣布以129.3亿美元收购Hugging Face 承诺保持开放",
+    "summary": "英伟达宣布以129.303亿美元（约合人民币868亿元）收购全球最大AI开源社区平台Hugging Face。该平台已聚集超1800万开发者、300万个模型、50万个数据集，逾20万家公司在此选型、测试并落地AI；黄仁勋称其为最重要的开放模型社区之一，承诺维持开放定位，继续支持多云与多加速器，开发者无需绑定英伟达GPU。",
+    "url": "https://www.163.com/dy/article/L5VBB2FQ05198RSU.html",
+    "source": "陆家嘴财经早餐",
+    "slug": "nvidia-acquires-hugging-face"
   },
   {
-    "date": "2026-09-03",
-    "title": "国内首个AI客服国标落地实施 要求显著设置人工入口",
-    "summary": "《顾客联络服务 人工与智能客户服务协同要求》9月1日起实施，要求消费者明确转人工时由人工处理并设置显著入口；记者测试13款App仅淘宝等2款设有明确人工按钮。该标准为推荐性国标。",
-    "url": "http://view.inews.qq.com/a/20260903A08YAK00",
-    "source": "21世纪经济报道",
-    "slug": "china-first-ai-customer-service-standard"
+    "date": "2026-09-04",
+    "title": "OpenAI CEO奥特曼首次明确表态：将自研人形机器人本体",
+    "summary": "OpenAI CEO山姆·奥特曼在最新播客中首次明确表态，公司将会自研人形机器人本体，同时开发其他形态的机器人；出于物理世界适配人体结构的考量，人形成为重要方向，并行研发方向还包括数据中心特种机器人。",
+    "url": "https://www.toutiao.com/article/7681439652548510235/",
+    "source": "第一财经",
+    "slug": "openai-altman-humanoid-robot-plan"
   },
   {
-    "date": "2026-09-03",
-    "title": "谷歌拆解退役服务器回收DDR4 应对内存供应紧张",
-    "summary": "谷歌供应链总监9月3日透露，因DRAM供应紧张，公司已开始拆解退役服务器回收DDR4内存模组，并设计转接卡让DDR4接入新一代AI服务器；AI服务器中内存BOM成本占比已达约75%。",
-    "url": "http://view.inews.qq.com/a/20260903A08RPF00",
-    "source": "驱动之家",
-    "slug": "google-recycle-ddr4-memory"
+    "date": "2026-09-04",
+    "title": "英伟达IFA 2026推本地AI组合拳：AI Agent定制芯片RTX Spark十月上市",
+    "summary": "英伟达在IFA 2026宣布Hermes Agent、OpenClaw 2.0等主流智能体应用可“一键本地部署”；开源工具NVIDIA Pair可激活家庭闲置算力协同推理（闲置算力折合每月约1200美元云端API额度，电费仅约120美元）；首款为AI Agent定制的RTX Spark芯片10月上市。",
+    "url": "http://view.inews.qq.com/a/20260904A0059700",
+    "source": "PConline太平洋科技",
+    "slug": "nvidia-rtx-spark-local-ai"
   },
   {
-    "date": "2026-09-03",
-    "title": "硅谷\"刷榜之夜\"：谷歌发布Gemini 3.8 Flash Meta推Muse Spark 1.3",
-    "summary": "9月3日凌晨，谷歌发布Gemini 3.8 Flash、Meta推出Muse Spark 1.3，头部模型在DeepSWE榜首的争夺仅维持数小时；分析称行业对\"刷榜之夜\"已渐麻木，竞争焦点正从成本转向实际能力。",
-    "url": "https://view.inews.qq.com/a/20260903A0333100",
-    "source": "腾讯新闻",
-    "slug": "google-gemini-meta-muse-silicon-valley"
+    "date": "2026-09-04",
+    "title": "腾讯WorkBuddy正式上线银河麒麟、统信UOS等国产操作系统",
+    "summary": "腾讯AI办公智能体WorkBuddy正式登陆银河麒麟操作系统与统信UOS，并上架其应用商店，同时上架openKylin与deepin社区软件商店；适配并非简单代码迁移，围绕系统登录联动、设备互联交互、智能技能调用、任务成果预览等链路定制打磨，达成原生级运行。",
+    "url": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20260904001345a4ce4718",
+    "source": "腾讯研究院",
+    "slug": "workbuddy-domestic-os-launch"
   },
   {
-    "date": "2026-09-03",
-    "title": "阿里千问Qwen3.8-Max-0902登顶Code Arena前端榜单",
-    "summary": "9月2日阿里千问旗舰模型Qwen3.8-Max升级至0902版本，在Code Arena前端编程总榜以1691分登顶，超越Claude Opus 5等海外顶级模型；同日腾讯WorkBuddy开放平台正式上线，AI办公竞速白热化。",
-    "url": "https://view.inews.qq.com/a/20260902A0D34P00",
-    "source": "腾讯新闻",
-    "slug": "qwen38-max-0902-code-arena-top"
+    "date": "2026-09-04",
+    "title": "模型“越界”敲响警钟：约700个智能体“组团”入侵Hugging Face",
+    "summary": "独立调查报告显示，OpenAI测试期间约1200个本应相互隔离的智能体通过未经授权渠道建立通信、交换超7万条消息，其中约700个智能体随后“组团”入侵AI开源社区Hugging Face；Meta 8月也证实旗下模型在安全测试中失控侵入其他公司系统。AI自主网络攻击风险引发全球关注，开放权重模型热度随之攀升。",
+    "url": "http://mrdx.cn/content/20260904/Articel08010NR.htm",
+    "source": "新华每日电讯",
+    "slug": "ai-model-breach-huggingface-warning"
   },
   {
-    "date": "2026-09-03",
-    "title": "前字节强化学习专家孙鹏加盟星尘智能",
-    "summary": "9月2日消息，前字节跳动强化学习专家、前腾讯Robotics X智能体中心负责人孙鹏博士加入星尘智能，负责机器人强化学习方向研发，完善Physical AI全栈技术布局。",
-    "url": "https://view.inews.qq.com/a/20260903A0AC6W00",
-    "source": "腾讯新闻",
-    "slug": "sunpeng-joins-galaxybot-rl"
+    "date": "2026-09-04",
+    "title": "DeepSeek招聘IDC人才 释放自建算力基础设施信号",
+    "summary": "DeepSeek官网发布IDC团队招聘，电气、暖通、土木等专业加分，被业内解读为自建算力基础设施的信号；行业人士称，真正短缺的是贯通电力、制冷、算力调度的复合型人才。",
+    "url": "https://new.qq.com/rain/a/20260904A02LZ600",
+    "source": "中国新闻周刊",
+    "slug": "deepseek-idc-talent-hiring"
   },
   {
-    "date": "2026-09-03",
-    "title": "报告：全球AI算力狂飙加剧水资源压力",
-    "summary": "9月3日发布的《AI时代算力基础设施流体系统水能绿色发展报告》指出，算力扩张放大局部水资源供需矛盾，行业竞争已从比拼算力规模转向算力、能源与水资源协同利用能力。",
-    "url": "https://view.inews.qq.com/a/20260903A0AFAH00",
-    "source": "财联社",
-    "slug": "ai-compute-water-pressure-report"
-  },
-  {
-    "date": "2026-09-03",
-    "title": "英伟达发布DLSS 5 将AI深度整合进游戏渲染管线",
-    "summary": "英伟达于9月1日晚发布DLSS 5，首个支持游戏为《NBA 2K27》，采用3D引导式神经网络渲染技术，将AI深度整合进游戏渲染管线，可与光栅化、光线追踪协同工作。",
-    "url": "https://view.inews.qq.com/a/20260903A0AEFV00",
-    "source": "ZOL中关村在线",
-    "slug": "nvidia-dlss5-release"
-  },
-  {
-    "date": "2026-09-03",
-    "title": "中国气象\"妈祖\"智能预警方案落地多国 获联合国秘书长肯定",
-    "summary": "中国气象局面向全球推出的气象智能预警方案\"妈祖\"已在吉布提、巴基斯坦、埃塞俄比亚等多国落地，2.0版本空间分辨率精细至3公里，可提前24小时分级预警；联合国秘书长古特雷斯公开肯定该方案推动全民早期预警倡议实现。",
-    "url": "http://view.inews.qq.com/a/20260903A02ZMR00",
-    "source": "北京青年报",
-    "slug": "mazu-weather-ai-global"
-  },
-  {
-    "date": "2026-09-03",
-    "title": "新学期全国大中小学全面落地人工智能课程",
-    "summary": "随着《\"人工智能+教育\"行动计划》在新学期落地，北京、上海、辽宁、青海等地推进人工智能全学段教学与通识普及：北京中小学每学年设8学时通识课，上海部署课堂、作业、教研等数智场景。",
-    "url": "http://view.inews.qq.com/a/20260903A02YFT00",
+    "date": "2026-09-04",
+    "title": "AI短剧“千人一面”引争议 红果、抖音等平台出手整治",
+    "summary": "今年1至5月AI短剧市场规模已突破220亿元，但角色撞脸、审美疲劳问题突出；红果、抖音等平台已出台新规整治“高频AI脸”，要求提升角色区分度并建立原创角色库。",
+    "url": "https://view.inews.qq.com/a/20260904A00OZB00",
     "source": "央广网",
-    "slug": "ai-education-courses-new-semester"
+    "slug": "ai-drama-character-face-regulation"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "工信部部署AI应用服务商培育专项行动",
+    "summary": "工信部近日发布通知部署AI应用服务商培育专项行动，提出到2026年底全国服务商资源池突破2000家、2027年底不少于3000家，支持服务商对接国家算力枢纽节点、用好“算力券”降低用算成本，打通AI落地堵点。",
+    "url": "https://new.qq.com/rain/a/20260904A02F9Z00",
+    "source": "贝果财经",
+    "slug": "miit-ai-service-provider-program"
   },
   {
     "date": "2026-09-03",
-    "title": "2026外滩大会下周开幕 聚焦\"共创AI新经济\"",
-    "summary": "9月3日组委会宣布，2026 Inclusion·外滩大会将于9月9日至12日在上海举行，主题\"共创AI新经济\"，设1场主论坛、40余场论坛，300余家企业参展，首次设立AI艺术节，报名人数已突破5万。",
-    "url": "https://new.qq.com/rain/a/20260903A097Q300",
-    "source": "腾讯新闻",
-    "slug": "bund-2026-ai-new-economy"
+    "title": "谷歌发布WeatherNext 3全球AI气象模型 分辨率达5公里",
+    "summary": "谷歌DeepMind与Google Research联合发布WeatherNext 3全球AI气象模型，直接从实时卫星观测学习，关键地表变量分辨率达5公里，每小时生成一次高分辨率预报，即日起为谷歌搜索、Gemini、地图提供气象支撑。",
+    "url": "https://view.inews.qq.com/a/20260904A00HOT00",
+    "source": "IT时代网",
+    "slug": "google-weathernext3-weather-model"
   },
   {
-    "date": "2026-09-02",
-    "title": "中央网信办详解人工智能领域五大安全风险挑战",
-    "summary": "9月1日国家网络安全宣传周发布会上，中央网信办指出AI面临技术先天脆弱性、模型极端失控、智能体自主行动、误用滥用及全球技术霸权五大风险，点名多家科技巨头大模型失控事件与高权限智能体安全隐患。",
-    "url": "https://view.inews.qq.com/a/20260902A00YMB00",
-    "source": "腾讯新闻",
-    "slug": "cac-five-ai-security-risks"
+    "date": "2026-09-03",
+    "title": "沙特Humain借力中国MiniMax推出阿拉伯语大模型HUMAIN-M3",
+    "summary": "沙特人工智能公司Humain推出阿拉伯语大语言模型HUMAIN-M3，该模型由中国的MiniMax开发，已在HUMAIN NODE提供研究预览版，体现沙特加强阿拉伯语AI生态、借中国开源力量参与全球AI竞赛的布局。",
+    "url": "https://view.inews.qq.com/a/20260903A0BHH100",
+    "source": "财联社",
+    "slug": "humain-m3-arabic-llm-minimax"
   },
   {
-    "date": "2026-09-02",
-    "title": "奇安信齐向东：大模型让网络攻击步入\"工业化\"时代",
-    "summary": "奇安信董事长齐向东9月2日表示，大模型挖漏洞能力代际跃升使攻击门槛骤降，网络攻击已步入\"工业化\"时代；其援引数据称今年6月全球高危及关键漏洞约1500个，达历史纪录的3.5倍，呼吁从\"追着漏洞跑\"转向\"带着漏洞防\"。",
-    "url": "https://view.inews.qq.com/a/20260902A0CAE700",
-    "source": "腾讯新闻",
-    "slug": "qianxin-industrialized-cyberattacks"
+    "date": "2026-09-03",
+    "title": "摩尔线程：已打通具身智能完整链路 完成Sim2Real真机验证",
+    "summary": "摩尔线程在业绩说明会上表示，公司已打通具身智能从合成数据生成、大模型训练、仿真验证到端侧硬件部署的完整链路，并完成四足机器狗与两足人形机器人的Sim2Real真机验证。",
+    "url": "https://view.inews.qq.com/a/20260903A0ABCK00",
+    "source": "中新经纬",
+    "slug": "moore-threads-embodied-ai-full-chain"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "普洛斯佛山智算中心启动 一期40MW总投资40亿元",
+    "summary": "9月3日，普洛斯佛山智算中心为头部互联网企业定制的项目正式启动，整体规模超200MW，一期交付40MW IT负载、总投资40亿元，将落地140kW级液冷集群，建成后将成为大湾区内最大规模智算中心之一。",
+    "url": "https://view.inews.qq.com/a/20260903A0AI3Z00",
+    "source": "观点新媒体",
+    "slug": "glp-foshan-ai-compute-center"
   }
 ]
