@@ -9,6 +9,14 @@
   },
   {
     "date": "2026-09-04",
+    "title": "72小时AI巅峰之战：五大厂商密集迭代旗舰模型，编程仍是皇冠",
+    "summary": "9月初三天内已有5家头部厂商迭代旗舰模型：Anthropic推出Claude Fable 5.1与Mythos 5.1，编程跑分直接翻倍；谷歌连发Gemini 3.8 Flash与Flash Cyber；Meta更新Muse Spark 1.3；阿里升级Qwen3.8-Max；OpenAI于9月4日凌晨正式推出GPT-6 Astra，称其为“迄今最强的软件工程模型”。往前追溯，腾讯8月28日发布混元Hy4 preview，智谱8月14日发布GLM-5.3，编程仍是各家最看重的竞争焦点。",
+    "url": "https://finance.sina.com.cn/cj/2026-09-04/doc-iniqrtww0864300.shtml",
+    "source": "新浪财经",
+    "slug": "72h-ai-frontier-model-race"
+  },
+  {
+    "date": "2026-09-04",
     "title": "英伟达宣布以129.3亿美元收购Hugging Face 承诺保持开放",
     "summary": "英伟达宣布以129.303亿美元（约合人民币868亿元）收购全球最大AI开源社区平台Hugging Face。该平台已聚集超1800万开发者、300万个模型、50万个数据集，逾20万家公司在此选型、测试并落地AI；黄仁勋称其为最重要的开放模型社区之一，承诺维持开放定位，继续支持多云与多加速器，开发者无需绑定英伟达GPU。",
     "url": "https://www.163.com/dy/article/L5VBB2FQ05198RSU.html",
@@ -102,5 +110,13 @@
     "url": "https://view.inews.qq.com/a/20260903A0AI3Z00",
     "source": "观点新媒体",
     "slug": "glp-foshan-ai-compute-center"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "阿里升级Qwen3.8-Max：前端编程登顶CodeArena全球第一",
+    "summary": "9月2日阿里更新旗舰模型Qwen3.8-Max，针对编程与专业办公进行专项后训练后性能显著提升：在聚焦前端编程的全球权威榜单CodeArena中得分提升22分至1691分，超越Claude Opus 5、Kimi K3等模型位居总榜第一；同时性价比突出，每百万Tokens综合平均仅约5美元。",
+    "url": "https://www.sohu.com/a/1070972683_122755661",
+    "source": "搜狐科技",
+    "slug": "qwen38-max-codearena-top"
   }
 ]
