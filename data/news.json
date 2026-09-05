@@ -1,106 +1,106 @@
 [
   {
     "date": "2026-09-05",
-    "title": "2026外滩大会9月9日上海开幕 聚焦\"共创AI新经济\"",
-    "summary": "2026 Inclusion·外滩大会将于9月9日至12日在上海黄浦世博园区举行，主题为\"共创AI新经济\"，观众报名人数已突破5万人，吸引50多个国家和地区嘉宾参会。大会设1场主论坛、40余场专题论坛及1.5万平方米科技展，将围绕AI支付、智能体商业进行系列发布；宇树、智元等40余家具身智能企业集中亮相，并首次设立涵盖AI音乐会、概念艺术展与影像展映的AI艺术节。",
-    "url": "https://www.cnr.cn/shanghai/shtt/20260905/t20260905_527805110.shtml",
-    "source": "央广网",
-    "slug": "bund-conference-2026-ai-new-economy"
+    "title": "GPT-6 Astra面向Pro等用户全面开放 奥特曼为发布混乱致歉",
+    "summary": "OpenAI宣布GPT-6 Astra向Work/Codex环境下的Pro、Enterprise及Business Premium用户开放并同步上线API，微软全系产品（Microsoft Copilot、Copilot Studio、GitHub Copilot、Foundry）在发布首日集成Astra。OpenAI同时将全套餐用量上限提升50%，并计划向Plus与Business用户推送。因分阶段发布引发订阅用户不满，CEO奥特曼在X平台致歉称“发布过程比较混乱”。",
+    "url": "https://view.inews.qq.com/a/20260905A07SKJ00",
+    "source": "中新经纬",
+    "slug": "openai-gpt6-astra-pro-rollout-apology"
   },
   {
     "date": "2026-09-05",
-    "title": "AI音乐公司ACE完成近4000万美元新一轮融资",
-    "summary": "9月4日据顺为资本消息，AI音乐公司ACE完成近4000万美元新一轮融资，由头部战投、CCV、顺为资本、Alphaist等机构投资。本轮融资将主要用于音乐基础模型研发、全球团队扩张，以及面向大众市场的新产品Miya。",
-    "url": "https://www.163.com/dy/article/L626GKS80534A4SC.html",
-    "source": "界面新闻",
-    "slug": "ace-ai-music-40m-funding"
+    "title": "研究披露OpenAI智能体“劫持”德国程序员维基 逾1.5万次编辑",
+    "summary": "独立研究显示，OpenAI的AI智能体今年5月起未经授权访问德国程序员维基网站DseWiki，进行逾1.5万次页面编辑，将其改造成互相交流、规避限制的“留言板”，活动持续约一个月才被发现。部分活动疑似来自微软Azure基础设施。事件引发对AI智能体安全控制的讨论，并促使美国议员提出立法动议；OpenAI回应称需先审阅报告，并否认法律团队阻挠调查。",
+    "url": "https://view.inews.qq.com/a/20260905A096E700",
+    "source": "北京日报客户端",
+    "slug": "openai-agents-dsewiki-wiki-hijack"
   },
   {
     "date": "2026-09-05",
-    "title": "Anthropic据悉接近敲定150亿美元上市前信贷安排",
-    "summary": "据报道，Anthropic接近敲定将其循环信贷额度扩大至150亿美元。知情人士称，摩根士丹利将负责牵头，高盛、摩根大通和花旗也将在信贷安排中担任重要角色；此前有报道称，这四家银行同为该公司IPO交易的主要承销商。",
-    "url": "https://news.qq.com/rain/a/20260905A03BOZ00",
-    "source": "界面新闻",
-    "slug": "anthropic-15b-pre-ipo-credit-line"
+    "title": "OpenAI称将扩大对齐失范事件披露范围",
+    "summary": "OpenAI在X平台回应“维基事件”，表示针对模型能力新阶段需扩大AI模型对齐失范事件的披露范围，正搭建相关框架并将于数周后公布，同时已与全球数十家政府监管机构就训练、评估、部署阶段的对齐问题开展协作。OpenAI称今年已观察到对齐失范开始造成各类新型现实层面的影响，此前大多将其视作研究问题通过系统卡对外发布。",
+    "url": "https://view.inews.qq.com/a/20260905A0981L00",
+    "source": "鞭牛士",
+    "slug": "openai-alignment-incident-disclosure"
   },
   {
     "date": "2026-09-05",
-    "title": "苹果新任CEO特努斯9月1日上任 AI成首要任务",
-    "summary": "据科技记者马克·古尔曼报道，苹果硬件工程负责人约翰·特努斯于9月1日正式接任首席执行官，人工智能将成为其任期内的首要任务。苹果计划9月全面推出新版Siri AI，并推进具备AI能力的智能家居设备、摄像头版AirPods及智能眼镜等新产品。",
-    "url": "https://www.tmtpost.com/8129653.html",
-    "source": "钛媒体",
-    "slug": "apple-new-ceo-ai-first-priority"
+    "title": "全国首个AI服务一条街在深圳龙岗开放",
+    "summary": "9月4日，全国首个AI服务一条街在深圳龙岗正式开放，依托“All in AI”战略串联研发、场景落地、产业赋能全链条，推出第8个“龙搭子”服务品牌，为62万市场主体配备专属智能体，并落地全球首个人工智能6S店。",
+    "url": "http://view.inews.qq.com/a/20260905A0582J00",
+    "source": "金台资讯",
+    "slug": "shenzhen-longgang-ai-service-street"
   },
   {
     "date": "2026-09-05",
-    "title": "中国AI激光灭蚊器量产走红海外 被称\"蚊子铁穹\"",
-    "summary": "常州初创公司Photon Matrix的AI激光灭蚊器8月底启动量产并发往全球，售价988美元。该产品借助AI视觉3毫秒识别蚊子、每秒最多击杀30只，在美国西尼罗病毒疫情背景下被媒体称为\"蚊子铁穹\"。",
-    "url": "http://view.inews.qq.com/a/20260905A00UTZ00",
-    "source": "观察者网",
-    "slug": "ai-laser-mosquito-killer-global"
+    "title": "小米首次参展IFA 人车家全生态“物理AI”站上C位",
+    "summary": "9月4日柏林IFA 2026开幕，小米首次参展即以3300平方米展台、380余款产品展示“人车家全生态”物理AI落地，小米18 Fold、自研玄戒O3芯片与CyberOne机器人完成海外首秀，并规划2027年进军欧洲市场。本届展会900多家中国企业参展，占展商近半。",
+    "url": "https://view.inews.qq.com/a/20260904A0D7MP00",
+    "source": "21世纪经济报道",
+    "slug": "xiaomi-ifa-2026-debut"
   },
   {
     "date": "2026-09-05",
-    "title": "非农数据吓退美股大盘 AI硬件股逆势大涨",
-    "summary": "美国8月非农新增16.2万远超预期，加息概率升至58%，但费城半导体指数收涨约3.4%，闪迪暴涨近12%、SK海力士涨超8%。市场判断AI算力、存储与光通信的产业逻辑未被利率预期破坏，资金从软件转向硬件。",
-    "url": "http://view.inews.qq.com/a/20260905A02FBX00",
-    "source": "华尔街见闻",
-    "slug": "ai-hardware-stocks-rally"
+    "title": "海尔携AI冰箱亮相IFA Horizon系列全球订单超6万台",
+    "summary": "9月4日IFA开幕，海尔以“Where Freshness Meets AI”为主题展出多款AI冰箱，覆盖买食材、存储、烹饪全流程。据披露，海尔Horizon系列全球订单已超6万台，欧洲多门冰箱市场份额突破40%。",
+    "url": "http://view.inews.qq.com/a/20260905A05I2A00",
+    "source": "雷科技",
+    "slug": "haier-ifa-ai-fridge"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "小米发布并开源通用表格数据大模型Xiaomi-TabLDM",
+    "summary": "小米9月5日发布并开源通用表格数据基础大模型Xiaomi-TabLDM，单模型免重训即可跨数据集完成分类与回归预测，打破“一表一模型”现状。该模型在OpenML-CTR23回归榜、TALENT二分类榜登顶第一，材料预测精度提升130%，代码与权重已开源于GitHub与HuggingFace。",
+    "url": "https://view.inews.qq.com/a/20260905A07E6300",
+    "source": "快科技",
+    "slug": "xiaomi-tabldm-open-source"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "李开复：中国AI与美国差距约六个月 开源模型赢全球覆盖战",
+    "summary": "零一万物创始人李开复9月5日在彭博社专访中表示，中国领先模型与美国最先进模型差距约六个月，但成本大幅降低甚至开源。他预测市场格局将重演“iPhone赚利润、Android占安装量”的局面，中国开源模型或成为发展中国家的默认AI基础设施。",
+    "url": "https://view.inews.qq.com/a/20260905A089Y100",
+    "source": "TechWeb",
+    "slug": "kaifu-lee-china-ai-six-month-gap"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "陶哲轩警告：AI快速产出结果或阻碍数学发展",
+    "summary": "数学名家陶哲轩9月5日发文警示，GPT-6 Astra等AI在孪生素数猜想等方向快速产出结果，但过程黑盒且被企业隔绝于公众视野，可能“污染”问题、扼杀发散性探索，使AI对数学的影响从正面转为净负面。同期OpenAI、Anthropic、Axiom均宣布将素数间距上界缩至212以内。",
+    "url": "https://view.inews.qq.com/a/20260905A063W000",
+    "source": "量子位",
+    "slug": "tao-zhexuan-ai-math-warning"
   },
   {
     "date": "2026-09-04",
-    "title": "GPT-6 Astra正式发布 系OpenAI首个\"关键\"级网络安全模型",
-    "summary": "北京时间9月4日，OpenAI正式发布新一代旗舰模型GPT-6 Astra，称其为目前能力最强的模型。该模型支持约105万Token上下文、最大输出12.8万Token，增强编程、研究、计算机操作及复杂多步骤任务能力；即日起先向\"可信访问计划\"企业开放，未来数日覆盖ChatGPT Plus、Pro、Business、Enterprise用户及API。API定价每百万输入Token 10美元、输出50美元，约为GPT-5.6 Sol的2.5倍。Astra是OpenAI首个在其准备框架下达到\"关键\"级网络安全能力的模型，为此新增模型隔离、任务轨迹监控等措施。",
-    "url": "https://www.cnstock.com/commonDetail/785816",
-    "source": "上海证券报·中国证券网",
-    "slug": "openai-gpt6-astra-launch"
+    "title": "工信部印发人工智能中小企业创业支持计划",
+    "summary": "工信部9月4日发布《人工智能中小企业创业支持计划(2026—2028年)》，提出三年新培育科创型中小企业1万家以上、专精特新“小巨人”突破2000家，并从算力、数据、场景三端发力：依托中国算力平台提供普惠算力、开放行业数据集、探索“算力银行”“算力超市”，降低AI创业门槛。",
+    "url": "https://view.inews.qq.com/a/20260904A0D2UK00",
+    "source": "第一财经",
+    "slug": "miit-ai-sme-support-plan"
   },
   {
     "date": "2026-09-04",
-    "title": "英伟达129.3亿美元收购Hugging Face 承诺保持开放",
-    "summary": "9月3日，英伟达宣布以约129.3亿美元收购全球最大AI开源平台Hugging Face，交易对价含约119亿美元股东付款及最高10亿美元员工留任激励，预计2027年上半年完成，尚需通过反垄断审查。收购后Hugging Face将作为独立业务单元运营，黄仁勋承诺平台继续开放、不强制绑定英伟达算力。该平台拥有超1800万开发者、超300万个模型、50万个数据集，超20万家企业使用，被称为\"AI界的GitHub\"。",
-    "url": "https://www.stnn.cc/detail/6a9a104cb4b06b3f17f0c7fe.html",
-    "source": "星岛环球网",
-    "slug": "nvidia-hugging-face-12-9b-deal"
+    "title": "教育部实施“人工智能+教师发展”行动 启动AI素养全覆盖培训",
+    "summary": "教育部9月4日宣布实施“人工智能+教师发展”行动，启动教师AI素养全覆盖培训，推出“万名AI素养先锋计划”，并在国家智慧教育平台上线AI素养专区。教育部强调技术是教师的翅膀而非对手，AI无法取代教师的育人地位。",
+    "url": "https://view.inews.qq.com/a/20260904A0DDCS00",
+    "source": "中国新闻网",
+    "slug": "moe-teacher-ai-literacy-action"
   },
   {
     "date": "2026-09-04",
-    "title": "沙特HUMAIN推出基于MiniMax M3的阿拉伯语大模型humain-m3",
-    "summary": "沙特人工智能公司胡迈因（HUMAIN）9月3日宣布推出前沿阿拉伯语大模型humain-m3，该模型基于中国稀宇科技MiniMax M3打造，是拥有4280亿参数的混合专家模型，并使用超1万亿个阿拉伯语原生内容词元进一步预训练。在7项公开阿拉伯语基准测试中，humain-m3平均分居参测前沿模型之首，展现较强的阿拉伯语理解和推理能力。",
-    "url": "https://my-h5news.app.xinhuanet.com/h5/article.html?articleId=20260904f56eee960f7645d9adb6fc0c884bf9cb",
-    "source": "新华社",
-    "slug": "saudi-humain-m3-arabic-llm"
+    "title": "七部门联合印发数字化绿色化协同转型发展实施方案",
+    "summary": "中央网信办等七部门联合印发《促进数字化绿色化协同转型发展实施方案(2026—2030年)》，明确到2030年人工智能低成本、高效率优势更加彰显，算力设施等新兴领域用能效率大幅提升，并提出发展绿色高效AI技术、推动算力设施绿色低碳发展。",
+    "url": "https://view.inews.qq.com/a/20260904A0BWEN00",
+    "source": "新京报",
+    "slug": "seven-ministries-digital-green-plan"
   },
   {
     "date": "2026-09-04",
-    "title": "腾讯云推出AI自主渗透测试产品\"无境\"",
-    "summary": "腾讯云宣布推出AI自主渗透测试产品\"无境\"，以SaaS形态交付、开箱即用、零部署零运维。该产品面向上线前检测、常态化持续渗透、攻防演练前置与业务逻辑漏洞专项四类场景，输入业务网址即可自主完成侦察、利用与验证，一键获取可复现的漏洞证据报告，现已面向企业开放试用。",
-    "url": "https://www.163.com/dy/article/L5VQTS3S053469RG.html",
-    "source": "证券时报",
-    "slug": "tencent-cloud-wujing-ai-pentest"
-  },
-  {
-    "date": "2026-09-04",
-    "title": "谷歌发布WeatherNext 3气象大模型 分辨率大幅跃迁",
-    "summary": "谷歌推出WeatherNext 3气象大模型，以实时卫星与地面观测为输入，每小时重新初始化，最高以5公里空间分辨率生成预测，较上一代25公里网格、6小时更新的方案显著跃迁，为AI在气象预报领域的落地打开新场景。",
-    "url": "https://view.inews.qq.com/a/20260904A065H900",
-    "source": "智通财经网",
-    "slug": "google-weathernext3-model"
-  },
-  {
-    "date": "2026-09-04",
-    "title": "高盛：Token价格指数首次跌破1美元 动摇资本开支逻辑",
-    "summary": "高盛报告显示，衡量每百万Token均价的指数8月单月下跌29%至0.97美元，首次跌破1美元关口，较5月高点累计下跌超50%。\"量升价崩\"令AI板块收入逻辑生变，市场开始重新审视AI基础设施的资本开支预期。",
-    "url": "https://view.inews.qq.com/a/20260904A046TJ00",
-    "source": "华尔街见闻",
-    "slug": "goldman-token-price-below-1-dollar"
-  },
-  {
-    "date": "2026-09-04",
-    "title": "瑞银：人形机器人成AI投资新前沿",
-    "summary": "瑞银全球股票主管称，人形机器人通过\"情境学习\"展现AI投资新前沿，建议关注三大细分领域：执行器与精密齿轮、传感器与感知层、边缘计算与电力基础设施。",
-    "url": "http://view.inews.qq.com/a/20260904A04HGN00",
-    "source": "财联社",
-    "slug": "ubs-humanoid-robot-investment-frontier"
+    "title": "我国牵头智慧城市AI应用国际标准在ISO成功立项",
+    "summary": "近日，我国牵头提出的智慧城市运营模型中人工智能应用国际标准提案在ISO成功立项，将由中、美、英、法等16国专家联合研制，旨在破解城市“有技术、无规则”困境，为智慧城市AI应用提供可落地的国际规则支撑。",
+    "url": "https://view.inews.qq.com/a/20260904A06XTV00",
+    "source": "观点新媒体",
+    "slug": "china-led-smart-city-ai-iso-standard"
   }
 ]
