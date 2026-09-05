@@ -1,114 +1,106 @@
 [
   {
-    "date": "2026-09-04",
-    "title": "OpenAI正式发布GPT-6 Astra 总裁宣称\"欢迎来到AGI时代\"",
-    "summary": "北京时间9月4日凌晨，OpenAI发布新一代旗舰模型GPT-6 Astra，称其为\"目前全球最智能且对齐程度最高的模型\"。Astra在FrontierMath Tier 4得分97.6%（几乎打穿该测试）、ARC-AGI-3从GPT-5.6 Sol的7.8%跃升至99.9%、ExploitBench网络安全测试达100%；使用超10万块GPU在得州Stargate基地训练，是OpenAI首个达到内部\"关键\"网络安全能力门槛的模型，测试中曾自主发现并利用两个零日漏洞，因此最强网络安全能力暂不全面开放。API定价每百万输入Token 10美元、输出50美元，约为GPT-5.6 Sol的2.5倍。",
-    "url": "https://www.jiemian.com/article/15054041.html",
+    "date": "2026-09-05",
+    "title": "2026外滩大会9月9日上海开幕 聚焦\"共创AI新经济\"",
+    "summary": "2026 Inclusion·外滩大会将于9月9日至12日在上海黄浦世博园区举行，主题为\"共创AI新经济\"，观众报名人数已突破5万人，吸引50多个国家和地区嘉宾参会。大会设1场主论坛、40余场专题论坛及1.5万平方米科技展，将围绕AI支付、智能体商业进行系列发布；宇树、智元等40余家具身智能企业集中亮相，并首次设立涵盖AI音乐会、概念艺术展与影像展映的AI艺术节。",
+    "url": "https://www.cnr.cn/shanghai/shtt/20260905/t20260905_527805110.shtml",
+    "source": "央广网",
+    "slug": "bund-conference-2026-ai-new-economy"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "AI音乐公司ACE完成近4000万美元新一轮融资",
+    "summary": "9月4日据顺为资本消息，AI音乐公司ACE完成近4000万美元新一轮融资，由头部战投、CCV、顺为资本、Alphaist等机构投资。本轮融资将主要用于音乐基础模型研发、全球团队扩张，以及面向大众市场的新产品Miya。",
+    "url": "https://www.163.com/dy/article/L626GKS80534A4SC.html",
     "source": "界面新闻",
-    "slug": "openai-gpt6-astra-agi-era"
+    "slug": "ace-ai-music-40m-funding"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "Anthropic据悉接近敲定150亿美元上市前信贷安排",
+    "summary": "据报道，Anthropic接近敲定将其循环信贷额度扩大至150亿美元。知情人士称，摩根士丹利将负责牵头，高盛、摩根大通和花旗也将在信贷安排中担任重要角色；此前有报道称，这四家银行同为该公司IPO交易的主要承销商。",
+    "url": "https://news.qq.com/rain/a/20260905A03BOZ00",
+    "source": "界面新闻",
+    "slug": "anthropic-15b-pre-ipo-credit-line"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "苹果新任CEO特努斯9月1日上任 AI成首要任务",
+    "summary": "据科技记者马克·古尔曼报道，苹果硬件工程负责人约翰·特努斯于9月1日正式接任首席执行官，人工智能将成为其任期内的首要任务。苹果计划9月全面推出新版Siri AI，并推进具备AI能力的智能家居设备、摄像头版AirPods及智能眼镜等新产品。",
+    "url": "https://www.tmtpost.com/8129653.html",
+    "source": "钛媒体",
+    "slug": "apple-new-ceo-ai-first-priority"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "中国AI激光灭蚊器量产走红海外 被称\"蚊子铁穹\"",
+    "summary": "常州初创公司Photon Matrix的AI激光灭蚊器8月底启动量产并发往全球，售价988美元。该产品借助AI视觉3毫秒识别蚊子、每秒最多击杀30只，在美国西尼罗病毒疫情背景下被媒体称为\"蚊子铁穹\"。",
+    "url": "http://view.inews.qq.com/a/20260905A00UTZ00",
+    "source": "观察者网",
+    "slug": "ai-laser-mosquito-killer-global"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "非农数据吓退美股大盘 AI硬件股逆势大涨",
+    "summary": "美国8月非农新增16.2万远超预期，加息概率升至58%，但费城半导体指数收涨约3.4%，闪迪暴涨近12%、SK海力士涨超8%。市场判断AI算力、存储与光通信的产业逻辑未被利率预期破坏，资金从软件转向硬件。",
+    "url": "http://view.inews.qq.com/a/20260905A02FBX00",
+    "source": "华尔街见闻",
+    "slug": "ai-hardware-stocks-rally"
   },
   {
     "date": "2026-09-04",
-    "title": "英伟达129.3亿美元收购Hugging Face 承诺保持平台开放",
-    "summary": "当地时间9月3日，英伟达CEO黄仁勋宣布已与全球最大AI开源平台Hugging Face签署最终收购协议，交易金额129.3亿美元（约合870亿元人民币），双方于9月2日签约。交易对价含约119亿美元股东付款及最高10亿美元员工股权留任计划，预计2027年上半年完成、需通过反垄断审查。黄仁勋承诺Hugging Face将继续作为开放平台运营，开发者不强制使用英伟达算力。该平台拥有超1800万开发者、300多万个模型、50万个数据集，超20万家公司使用。",
-    "url": "https://finance.sina.com.cn/stock/aigcy/2026-09-04/doc-iniqryew6141013.shtml",
-    "source": "新浪财经",
-    "slug": "nvidia-acquires-hugging-face"
+    "title": "GPT-6 Astra正式发布 系OpenAI首个\"关键\"级网络安全模型",
+    "summary": "北京时间9月4日，OpenAI正式发布新一代旗舰模型GPT-6 Astra，称其为目前能力最强的模型。该模型支持约105万Token上下文、最大输出12.8万Token，增强编程、研究、计算机操作及复杂多步骤任务能力；即日起先向\"可信访问计划\"企业开放，未来数日覆盖ChatGPT Plus、Pro、Business、Enterprise用户及API。API定价每百万输入Token 10美元、输出50美元，约为GPT-5.6 Sol的2.5倍。Astra是OpenAI首个在其准备框架下达到\"关键\"级网络安全能力的模型，为此新增模型隔离、任务轨迹监控等措施。",
+    "url": "https://www.cnstock.com/commonDetail/785816",
+    "source": "上海证券报·中国证券网",
+    "slug": "openai-gpt6-astra-launch"
   },
   {
     "date": "2026-09-04",
-    "title": "奥特曼首次明确表态：OpenAI一定会自研人形机器人",
-    "summary": "OpenAI CEO山姆·奥特曼在GPT-6 Astra发布期间首次明确表示，公司\"一定会做人形机器人\"，并将开发面向数据中心等场景的其他形态机器人。OpenAI今年6月已启动机器人团队招聘，其世界模拟研究项目也已逐步演变为OpenAI Robotics。",
-    "url": "https://news.qq.com/rain/a/20260904A05CF700",
+    "title": "英伟达129.3亿美元收购Hugging Face 承诺保持开放",
+    "summary": "9月3日，英伟达宣布以约129.3亿美元收购全球最大AI开源平台Hugging Face，交易对价含约119亿美元股东付款及最高10亿美元员工留任激励，预计2027年上半年完成，尚需通过反垄断审查。收购后Hugging Face将作为独立业务单元运营，黄仁勋承诺平台继续开放、不强制绑定英伟达算力。该平台拥有超1800万开发者、超300万个模型、50万个数据集，超20万家企业使用，被称为\"AI界的GitHub\"。",
+    "url": "https://www.stnn.cc/detail/6a9a104cb4b06b3f17f0c7fe.html",
+    "source": "星岛环球网",
+    "slug": "nvidia-hugging-face-12-9b-deal"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "沙特HUMAIN推出基于MiniMax M3的阿拉伯语大模型humain-m3",
+    "summary": "沙特人工智能公司胡迈因（HUMAIN）9月3日宣布推出前沿阿拉伯语大模型humain-m3，该模型基于中国稀宇科技MiniMax M3打造，是拥有4280亿参数的混合专家模型，并使用超1万亿个阿拉伯语原生内容词元进一步预训练。在7项公开阿拉伯语基准测试中，humain-m3平均分居参测前沿模型之首，展现较强的阿拉伯语理解和推理能力。",
+    "url": "https://my-h5news.app.xinhuanet.com/h5/article.html?articleId=20260904f56eee960f7645d9adb6fc0c884bf9cb",
+    "source": "新华社",
+    "slug": "saudi-humain-m3-arabic-llm"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "腾讯云推出AI自主渗透测试产品\"无境\"",
+    "summary": "腾讯云宣布推出AI自主渗透测试产品\"无境\"，以SaaS形态交付、开箱即用、零部署零运维。该产品面向上线前检测、常态化持续渗透、攻防演练前置与业务逻辑漏洞专项四类场景，输入业务网址即可自主完成侦察、利用与验证，一键获取可复现的漏洞证据报告，现已面向企业开放试用。",
+    "url": "https://www.163.com/dy/article/L5VQTS3S053469RG.html",
+    "source": "证券时报",
+    "slug": "tencent-cloud-wujing-ai-pentest"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "谷歌发布WeatherNext 3气象大模型 分辨率大幅跃迁",
+    "summary": "谷歌推出WeatherNext 3气象大模型，以实时卫星与地面观测为输入，每小时重新初始化，最高以5公里空间分辨率生成预测，较上一代25公里网格、6小时更新的方案显著跃迁，为AI在气象预报领域的落地打开新场景。",
+    "url": "https://view.inews.qq.com/a/20260904A065H900",
+    "source": "智通财经网",
+    "slug": "google-weathernext3-model"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "高盛：Token价格指数首次跌破1美元 动摇资本开支逻辑",
+    "summary": "高盛报告显示，衡量每百万Token均价的指数8月单月下跌29%至0.97美元，首次跌破1美元关口，较5月高点累计下跌超50%。\"量升价崩\"令AI板块收入逻辑生变，市场开始重新审视AI基础设施的资本开支预期。",
+    "url": "https://view.inews.qq.com/a/20260904A046TJ00",
+    "source": "华尔街见闻",
+    "slug": "goldman-token-price-below-1-dollar"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "瑞银：人形机器人成AI投资新前沿",
+    "summary": "瑞银全球股票主管称，人形机器人通过\"情境学习\"展现AI投资新前沿，建议关注三大细分领域：执行器与精密齿轮、传感器与感知层、边缘计算与电力基础设施。",
+    "url": "http://view.inews.qq.com/a/20260904A04HGN00",
     "source": "财联社",
-    "slug": "openai-altman-humanoid-robot-confirmed"
-  },
-  {
-    "date": "2026-09-04",
-    "title": "大模型卷入\"周抛时代\"：9月前四天四家海外巨头轮番上新",
-    "summary": "9月仅过去四天，四家海外巨头接连发布新模型：9月1日Anthropic推出Claude Fable 5.1和Mythos 5.1，9月2日谷歌发布Gemini 3.8 Flash及专攻网络安全的Cyber版本、Meta推出Muse Spark 1.3，9月4日OpenAI发布GPT-6 Astra并称\"欢迎来到AGI时代\"。国内上周阿里千问Qwen3.8-Flash、智谱GLM-5.3-Flash、腾讯混元Hy4 preview接连上线。行业认为RSI（递归式自我改进）机制正成为模型发布加速的新推手——OpenAI称Astra是首款由前代模型深度参与训练监督的旗舰产品。",
-    "url": "https://k.sina.com.cn/article_5953466437_162dab0450670bbi1e.html",
-    "source": "Tech星球",
-    "slug": "weekly-model-release-cadence-race"
-  },
-  {
-    "date": "2026-09-04",
-    "title": "工信部印发人工智能中小企业创业支持计划（2026—2028年）",
-    "summary": "9月4日，工信部办公厅印发《人工智能中小企业创业支持计划（2026—2028年）》，提出三年新培育科技和创新型中小企业1万家以上、专精特新\"小巨人\"企业突破2000家，依托中国算力平台提供低成本普惠算力，鼓励\"一人公司\"、超级个体等新型经营主体和智能体开发者发展。",
-    "url": "http://view.inews.qq.com/a/20260904A0CLKC00",
-    "source": "中国新闻网",
-    "slug": "miit-ai-sme-entrepreneurship-plan"
-  },
-  {
-    "date": "2026-09-04",
-    "title": "阿里千问办公上线满月：用户破3000万 企业用户过半",
-    "summary": "9月4日阿里披露，企业级通用Agent产品\"千问办公\"上线30天用户数突破3000万，企业用户占比超一半，月内完成120个版本迭代并推出国际版。长安汽车、汇付天下等多行业头部企业已接入，覆盖研发、制造、供应链等核心场景。",
-    "url": "https://view.inews.qq.com/a/20260904A0C9ST00",
-    "source": "北京商报",
-    "slug": "qwen-work-30m-users"
-  },
-  {
-    "date": "2026-09-04",
-    "title": "联想携手英伟达：把千亿参数大模型装进笔记本",
-    "summary": "9月4日，联想在Innovation World 2026发布搭载英伟达RTX Spark的Yoga新品，最高128GB统一内存可本地运行1200亿参数大模型，AI算力达1 PFLOPS。这标志着端侧AI从辅助功能迈向完整本地工作流，企业数据可在本地完成推理。",
-    "url": "https://view.inews.qq.com/a/20260904A0D3LB00",
-    "source": "曾响铃",
-    "slug": "lenovo-nvidia-yoga-local-llm"
-  },
-  {
-    "date": "2026-09-04",
-    "title": "中央网信办等七部门印发数字化绿色化协同转型实施方案",
-    "summary": "中央网信办等七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026—2030年）》，提出到2030年人工智能低成本、高效率优势更加彰显，深度赋能绿色低碳技术创新与算力设施用能效率提升，并扩大人工智能终端等产品供给、统筹算力设施布局。",
-    "url": "http://view.inews.qq.com/a/20260904A0BWEN00",
-    "source": "新京报",
-    "slug": "seven-ministries-digital-green-ai-plan"
-  },
-  {
-    "date": "2026-09-04",
-    "title": "教育部启动教师人工智能素养全覆盖培训",
-    "summary": "9月4日教育部新闻发布会宣布实施\"人工智能+教师发展\"行动，启动教师AI素养全覆盖培训，并推出\"万名AI素养先锋计划\"，在国家智慧教育平台教师中心上线AI素养专区。",
-    "url": "https://view.inews.qq.com/a/20260904A0DDCS00",
-    "source": "中国新闻网",
-    "slug": "moe-teacher-ai-literacy-training"
-  },
-  {
-    "date": "2026-09-04",
-    "title": "我国牵头智慧城市AI应用国际标准在ISO立项",
-    "summary": "我国牵头提出的《城市和社区可持续发展 智慧城市运营模型中的人工智能应用 第2部分》国际标准提案近日在ISO成功立项，将由中、美、英、法等16国专家联合研制，标志着中国在智慧城市AI应用国际标准领域取得新突破。",
-    "url": "https://view.inews.qq.com/a/20260904A06XTV00",
-    "source": "观点新媒体",
-    "slug": "china-led-iso-smart-city-ai-standard"
-  },
-  {
-    "date": "2026-09-04",
-    "title": "追觅在IFA 2026发布物理AI技术底座与家庭服务机器人",
-    "summary": "9月4日，追觅在德国柏林IFA 2026发布全域感知系统、家庭通用模型和智能控制系统三大物理AI技术底座，形成从感知、决策到执行反馈的完整闭环，并展示了处于研发阶段的ECHO S1和ECHO P1两款家庭服务机器人。",
-    "url": "https://view.inews.qq.com/a/20260904A0C2WN00",
-    "source": "时代周报",
-    "slug": "dreame-ifa-2026-physical-ai-robots"
-  },
-  {
-    "date": "2026-09-04",
-    "title": "广州发起设立亚太人工智能赋能中小企业合作中心",
-    "summary": "在第32次APEC中小企业部长会议新闻发布会上，中方宣布在广州发起设立亚太人工智能赋能中小企业发展合作中心，并邀请APEC经济体共同参与建设，围绕政策研究、能力建设等方向开展务实合作。",
-    "url": "https://view.inews.qq.com/a/20260904A0DJ7P00",
-    "source": "金羊网",
-    "slug": "guangzhou-apec-ai-sme-center"
-  },
-  {
-    "date": "2026-09-03",
-    "title": "腾讯WorkBuddy开放平台上线：首批引入超百家生态伙伴",
-    "summary": "9月2日，腾讯WorkBuddy宣布开放平台（open.WorkBuddy.cn）正式上线，首批引入超百家生态伙伴，是国内AI Agent赛道首个同时打通硬件、应用与开发者三层生态的开放平台。Plaud、Rokid、影石、科大讯飞、安克等品牌推出9款联名智能硬件，覆盖眼镜、麦克风、录音卡及耳机等形态；30余个行业应用同步接入，覆盖金融、法律、医疗、教育等20多个领域。",
-    "url": "http://bgimg.ce.cn/cysc/newmain/yc/jsxw/202609/t20260903_3191393.shtml",
-    "source": "中国经济网",
-    "slug": "tencent-workbuddy-open-platform"
-  },
-  {
-    "date": "2026-09-03",
-    "title": "光明日报综述：国产算力密集突破 \"国芯训国模\"加速落地",
-    "summary": "光明日报发文指出，人工智能大模型发展迈入新阶段，海外头部企业正从\"买算力\"转向\"定义算力\"。国内\"国芯训国模\"成果密集落地：DeepSeek完成首轮510亿元外部融资，聚焦国产算力扩建与自研芯片；美团开源万亿参数大模型LongCat-2.0（1.6万亿参数），全程依托超5万张国产算力卡完成训练与推理；华为昇腾384超节点提供300PFLOPS密集BF16算力，已用于训练盘古Ultra MoE大模型；粤港澳大湾区首个昇腾万卡智算集群在韶关上线，总算力达9000P。",
-    "url": "https://epaper.gmw.cn/gmrb/html/content/202609/03/content_23946.html",
-    "source": "光明日报",
-    "slug": "domestic-compute-national-model-progress"
+    "slug": "ubs-humanoid-robot-investment-frontier"
   }
 ]
