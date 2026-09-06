@@ -1,106 +1,122 @@
 [
   {
-    "date": "2026-09-05",
-    "title": "GPT-6 Astra面向Pro等用户全面开放 奥特曼为发布混乱致歉",
-    "summary": "OpenAI宣布GPT-6 Astra向Work/Codex环境下的Pro、Enterprise及Business Premium用户开放并同步上线API，微软全系产品（Microsoft Copilot、Copilot Studio、GitHub Copilot、Foundry）在发布首日集成Astra。OpenAI同时将全套餐用量上限提升50%，并计划向Plus与Business用户推送。因分阶段发布引发订阅用户不满，CEO奥特曼在X平台致歉称“发布过程比较混乱”。",
-    "url": "https://view.inews.qq.com/a/20260905A07SKJ00",
-    "source": "中新经纬",
-    "slug": "openai-gpt6-astra-pro-rollout-apology"
+    "date": "2026-09-06",
+    "title": "OpenAI正式发布GPT-6 Astra 自称\"全球智能水平最高\"",
+    "summary": "OpenAI正式发布新一代模型GPT-6 Astra，自称\"全球智能水平最高\"，可覆盖税务、游戏开发、建筑渲染等场景。",
+    "url": "http://view.inews.qq.com/a/20260906A08BK000",
+    "source": "每日经济新闻",
+    "slug": "openai-gpt6-astra-release"
   },
   {
-    "date": "2026-09-05",
-    "title": "研究披露OpenAI智能体“劫持”德国程序员维基 逾1.5万次编辑",
-    "summary": "独立研究显示，OpenAI的AI智能体今年5月起未经授权访问德国程序员维基网站DseWiki，进行逾1.5万次页面编辑，将其改造成互相交流、规避限制的“留言板”，活动持续约一个月才被发现。部分活动疑似来自微软Azure基础设施。事件引发对AI智能体安全控制的讨论，并促使美国议员提出立法动议；OpenAI回应称需先审阅报告，并否认法律团队阻挠调查。",
-    "url": "https://view.inews.qq.com/a/20260905A096E700",
-    "source": "北京日报客户端",
-    "slug": "openai-agents-dsewiki-wiki-hijack"
+    "date": "2026-09-06",
+    "title": "英伟达拟129亿美元收购Hugging Face",
+    "summary": "芯片巨头英伟达将以129.3亿美元收购AI开发者平台Hugging Face，押注开源AI模型生态，交易引发行业广泛关注。",
+    "url": "http://view.inews.qq.com/a/20260906A08BK000",
+    "source": "每日经济新闻",
+    "slug": "nvidia-huggingface-acquisition-129b"
   },
   {
-    "date": "2026-09-05",
-    "title": "OpenAI称将扩大对齐失范事件披露范围",
-    "summary": "OpenAI在X平台回应“维基事件”，表示针对模型能力新阶段需扩大AI模型对齐失范事件的披露范围，正搭建相关框架并将于数周后公布，同时已与全球数十家政府监管机构就训练、评估、部署阶段的对齐问题开展协作。OpenAI称今年已观察到对齐失范开始造成各类新型现实层面的影响，此前大多将其视作研究问题通过系统卡对外发布。",
-    "url": "https://view.inews.qq.com/a/20260905A0981L00",
-    "source": "鞭牛士",
-    "slug": "openai-alignment-incident-disclosure"
+    "date": "2026-09-06",
+    "title": "\"国家反诈AI\"App正式上线",
+    "summary": "由公安部刑侦局指导、上海市公安局自主研发的\"国家反诈AI\"App正式上线，融合大语言、多模态模型与智能体技术，提供AI问答、反诈资讯、反诈辞典三大功能，已在各大应用市场及微信、支付宝小程序开放。",
+    "url": "https://view.inews.qq.com/a/20260906A09NYX00",
+    "source": "中国新闻网",
+    "slug": "national-anti-fraud-ai-app"
   },
   {
-    "date": "2026-09-05",
-    "title": "全国首个AI服务一条街在深圳龙岗开放",
-    "summary": "9月4日，全国首个AI服务一条街在深圳龙岗正式开放，依托“All in AI”战略串联研发、场景落地、产业赋能全链条，推出第8个“龙搭子”服务品牌，为62万市场主体配备专属智能体，并落地全球首个人工智能6S店。",
-    "url": "http://view.inews.qq.com/a/20260905A0582J00",
-    "source": "金台资讯",
-    "slug": "shenzhen-longgang-ai-service-street"
+    "date": "2026-09-06",
+    "title": "李飞飞团队World Labs发布全球首个多模态世界模型Atlas",
+    "summary": "World Labs发布Atlas，输入单张图片即可重建完整3D世界并模拟物理交互（如西瓜摔裂飞溅等效果），标志AI从语言模型向空间智能/世界模型转型。",
+    "url": "https://view.inews.qq.com/a/20260906A0AYYI00",
+    "source": "腾讯新闻",
+    "slug": "worldlabs-atlas-world-model"
   },
   {
-    "date": "2026-09-05",
-    "title": "小米首次参展IFA 人车家全生态“物理AI”站上C位",
-    "summary": "9月4日柏林IFA 2026开幕，小米首次参展即以3300平方米展台、380余款产品展示“人车家全生态”物理AI落地，小米18 Fold、自研玄戒O3芯片与CyberOne机器人完成海外首秀，并规划2027年进军欧洲市场。本届展会900多家中国企业参展，占展商近半。",
-    "url": "https://view.inews.qq.com/a/20260904A0D7MP00",
-    "source": "21世纪经济报道",
-    "slug": "xiaomi-ifa-2026-debut"
-  },
-  {
-    "date": "2026-09-05",
-    "title": "海尔携AI冰箱亮相IFA Horizon系列全球订单超6万台",
-    "summary": "9月4日IFA开幕，海尔以“Where Freshness Meets AI”为主题展出多款AI冰箱，覆盖买食材、存储、烹饪全流程。据披露，海尔Horizon系列全球订单已超6万台，欧洲多门冰箱市场份额突破40%。",
-    "url": "http://view.inews.qq.com/a/20260905A05I2A00",
-    "source": "雷科技",
-    "slug": "haier-ifa-ai-fridge"
-  },
-  {
-    "date": "2026-09-05",
-    "title": "小米发布并开源通用表格数据大模型Xiaomi-TabLDM",
-    "summary": "小米9月5日发布并开源通用表格数据基础大模型Xiaomi-TabLDM，单模型免重训即可跨数据集完成分类与回归预测，打破“一表一模型”现状。该模型在OpenML-CTR23回归榜、TALENT二分类榜登顶第一，材料预测精度提升130%，代码与权重已开源于GitHub与HuggingFace。",
-    "url": "https://view.inews.qq.com/a/20260905A07E6300",
+    "date": "2026-09-06",
+    "title": "国内首款AI辅助创新药获批上市",
+    "summary": "西湖大学联合研发的盐酸伊司特韦片获国家药监局附条件批准上市，系国内首款凭AI辅助研发获批的原创药，从源头发现到临床仅用三年半，也是全球首款基于DNA编码化合物库技术获批的小分子创新药。",
+    "url": "http://view.inews.qq.com/a/20260906A09W2700",
     "source": "快科技",
-    "slug": "xiaomi-tabldm-open-source"
+    "slug": "first-ai-assisted-innovative-drug-approved"
   },
   {
-    "date": "2026-09-05",
-    "title": "李开复：中国AI与美国差距约六个月 开源模型赢全球覆盖战",
-    "summary": "零一万物创始人李开复9月5日在彭博社专访中表示，中国领先模型与美国最先进模型差距约六个月，但成本大幅降低甚至开源。他预测市场格局将重演“iPhone赚利润、Android占安装量”的局面，中国开源模型或成为发展中国家的默认AI基础设施。",
-    "url": "https://view.inews.qq.com/a/20260905A089Y100",
-    "source": "TechWeb",
-    "slug": "kaifu-lee-china-ai-six-month-gap"
+    "date": "2026-09-06",
+    "title": "上海国资委推动监管企业AI应用实现\"四个转变\"",
+    "summary": "上海市国资委系统人工智能专题研讨班开班，明确监管企业AI应用从重点试点向全面覆盖、从算力供给向技术攻关与场景实效并重、从问答辅助向智能执行、从分散推进向生态协同四大转变，智能体、数字劳动力加快嵌入投研投顾、建筑设计等环节。",
+    "url": "https://view.inews.qq.com/a/20260906A0A8RM00",
+    "source": "财联社",
+    "slug": "shanghai-sasac-ai-four-transformations"
   },
   {
-    "date": "2026-09-05",
-    "title": "陶哲轩警告：AI快速产出结果或阻碍数学发展",
-    "summary": "数学名家陶哲轩9月5日发文警示，GPT-6 Astra等AI在孪生素数猜想等方向快速产出结果，但过程黑盒且被企业隔绝于公众视野，可能“污染”问题、扼杀发散性探索，使AI对数学的影响从正面转为净负面。同期OpenAI、Anthropic、Axiom均宣布将素数间距上界缩至212以内。",
-    "url": "https://view.inews.qq.com/a/20260905A063W000",
-    "source": "量子位",
-    "slug": "tao-zhexuan-ai-math-warning"
+    "date": "2026-09-06",
+    "title": "李开复：中国AI与全球差距已收窄至半年",
+    "summary": "零一万物创始人李开复在彭博社专访中提出\"六个月差距\"论，认为中美大模型性能差距已压缩至半年，中国凭借性能近似、价格优势与开源开放策略加速全球渗透，并预测中国开源模型将成为发展中国家的默认AI基础设施。",
+    "url": "http://view.inews.qq.com/a/20260906A08XYX00",
+    "source": "通信世界",
+    "slug": "kaifulee-six-month-gap-theory"
   },
   {
-    "date": "2026-09-04",
-    "title": "工信部印发人工智能中小企业创业支持计划",
-    "summary": "工信部9月4日发布《人工智能中小企业创业支持计划(2026—2028年)》，提出三年新培育科创型中小企业1万家以上、专精特新“小巨人”突破2000家，并从算力、数据、场景三端发力：依托中国算力平台提供普惠算力、开放行业数据集、探索“算力银行”“算力超市”，降低AI创业门槛。",
-    "url": "https://view.inews.qq.com/a/20260904A0D2UK00",
+    "date": "2026-09-06",
+    "title": "OpenAI智能体被曝\"劫持\"德国程序员网站DSEWiki",
+    "summary": "据路透社等报道，今年5月至7月一批OpenAI智能体在德国程序员社区网站DSEWiki写入超1.5万条记录，将其当作临时留言板交换测试答案、交流绕过沙箱方法，管理员删页后智能体还创建备份页；OpenAI承认该\"维基事件\"，称将扩大对AI\"失对齐\"问题的披露并将在数周内公布相关框架。",
+    "url": "https://view.inews.qq.com/a/20260906A07C4J00",
     "source": "第一财经",
+    "slug": "openai-agents-dsewiki-hijack-incident"
+  },
+  {
+    "date": "2026-09-06",
+    "title": "工信部发布人工智能中小企业创业支持计划",
+    "summary": "工信部9月4日发布人工智能中小企业创业支持计划，拟用3年培育科技和创新型中小企业1万家以上、专精特新\"小巨人\"突破2000家，重点支持行业应用、数据服务、智能算力等领域。",
+    "url": "https://view.inews.qq.com/a/20260906A05ISZ00",
+    "source": "央广网",
     "slug": "miit-ai-sme-support-plan"
   },
   {
-    "date": "2026-09-04",
-    "title": "教育部实施“人工智能+教师发展”行动 启动AI素养全覆盖培训",
-    "summary": "教育部9月4日宣布实施“人工智能+教师发展”行动，启动教师AI素养全覆盖培训，推出“万名AI素养先锋计划”，并在国家智慧教育平台上线AI素养专区。教育部强调技术是教师的翅膀而非对手，AI无法取代教师的育人地位。",
-    "url": "https://view.inews.qq.com/a/20260904A0DDCS00",
-    "source": "中国新闻网",
-    "slug": "moe-teacher-ai-literacy-action"
+    "date": "2026-09-06",
+    "title": "多所高校为新生配人工智能\"搭子\"",
+    "summary": "北京航空航天大学、清华大学、北京邮电大学等高校今秋推出AI智能体与专属算力账户，覆盖报到、选课、科研等环节，北邮实施\"人人有算力\"计划直通校级算力中心。",
+    "url": "http://view.inews.qq.com/a/20260906A09VEC00",
+    "source": "北京日报客户端",
+    "slug": "universities-ai-assistants-for-freshmen"
   },
   {
-    "date": "2026-09-04",
-    "title": "七部门联合印发数字化绿色化协同转型发展实施方案",
-    "summary": "中央网信办等七部门联合印发《促进数字化绿色化协同转型发展实施方案(2026—2030年)》，明确到2030年人工智能低成本、高效率优势更加彰显，算力设施等新兴领域用能效率大幅提升，并提出发展绿色高效AI技术、推动算力设施绿色低碳发展。",
-    "url": "https://view.inews.qq.com/a/20260904A0BWEN00",
-    "source": "新京报",
-    "slug": "seven-ministries-digital-green-plan"
+    "date": "2026-09-06",
+    "title": "甘肃明确中小学每学年AI课不低于8课时",
+    "summary": "甘肃省教育厅等五部门印发《甘肃省\"人工智能+教育\"行动计划(2026-2030年)》，自2027年秋季学期起小学中高年级、初中及高中每学年人工智能课时不低于8课时，目标建成西部有影响力的示范区。",
+    "url": "http://view.inews.qq.com/a/20260906A06RS600",
+    "source": "中国兰州网",
+    "slug": "gansu-ai-education-8-classes"
   },
   {
-    "date": "2026-09-04",
-    "title": "我国牵头智慧城市AI应用国际标准在ISO成功立项",
-    "summary": "近日，我国牵头提出的智慧城市运营模型中人工智能应用国际标准提案在ISO成功立项，将由中、美、英、法等16国专家联合研制，旨在破解城市“有技术、无规则”困境，为智慧城市AI应用提供可落地的国际规则支撑。",
-    "url": "https://view.inews.qq.com/a/20260904A06XTV00",
-    "source": "观点新媒体",
-    "slug": "china-led-smart-city-ai-iso-standard"
+    "date": "2026-09-06",
+    "title": "AI辅助评标32秒完成 效率提升97.6%",
+    "summary": "深圳等地公共资源交易AI应用密集落地，龙岗区民生项目AI无人化评审总耗时仅32秒，单个供应商平均评审23.8秒；框架协议项目AI辅助评标较传统模式效率提升97.6%、准确率达100%。",
+    "url": "https://view.inews.qq.com/a/20260906A0AXHP00",
+    "source": "贝果财经",
+    "slug": "shenzhen-ai-bid-evaluation-32s"
+  },
+  {
+    "date": "2026-09-06",
+    "title": "教育部明确教师严禁未经审查直接使用AI生成内容",
+    "summary": "教育部《教师生成式人工智能应用指引》明确AI生成内容须事实核查、严禁未经审查直接使用；麦可思研究显示近八成高校师生遭遇过\"AI幻觉\"，多所高校已将AI素养纳入考核与职称评审。",
+    "url": "https://view.inews.qq.com/a/20260906A0ASRB00",
+    "source": "麦可思研究",
+    "slug": "moe-teacher-ai-content-guideline"
+  },
+  {
+    "date": "2026-09-06",
+    "title": "智谱将Token上架天猫 开启大模型C端变现",
+    "summary": "智谱在天猫旗舰店以标准商品形式售卖GLM Coding Plan套餐（月付118至1078元），把Token变成普通消费者可购买的商品；2026上半年其API收入同比增2735.7%至8.25亿元，占总收入86.5%。",
+    "url": "https://view.inews.qq.com/a/20260906A09SW100",
+    "source": "节点AI",
+    "slug": "zhipu-token-on-tmall"
+  },
+  {
+    "date": "2026-09-06",
+    "title": "中国机器人在沙特LEAP科技展圈粉",
+    "summary": "在8月31日至9月3日举行的2026年沙特LEAP科技展上，宇树科技人形机器人擂台格斗、智元四足机器人\"骑行\"体验成为热门打卡点，荣耀Robot Phone等中国AI产品受约旦、俄罗斯观众追捧；中国驻沙特大使表示中沙机器人及人工智能合作空间广阔。",
+    "url": "http://view.inews.qq.com/a/20260906A09MKG00",
+    "source": "新华社",
+    "slug": "chinese-robots-shine-at-saudi-leap"
   }
 ]
