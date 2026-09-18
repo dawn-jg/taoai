@@ -1,122 +1,122 @@
 [
   {
-    "date": "2026-09-06",
-    "title": "美团发布万亿参数大模型LongCat 2.0 推出多款AI产品",
-    "summary": "美团二季度营收1046.4亿元，研发投入同比增22.5%至77亿元，发布万亿参数模型LongCat 2.0，面向用户、商户、骑手推出\"小团\"\"CatPaw\"\"团宝\"等AI产品；王兴称不会做Token工厂，AI将融入真实业务场景。",
-    "url": "http://view.inews.qq.com/a/20260906A0924X00",
-    "source": "新品略财观",
-    "slug": "meituan-longcat-2-release"
+    "date": "2026-09-18",
+    "title": "DeepSeek拟部署16万片华为昇腾芯片 打造最大国产AI芯片集群",
+    "summary": "据外媒报道，DeepSeek正计划在内蒙古新建数据中心大规模部署至少16万片华为昇腾AI加速芯片，若订单落地将成为已知规模最大的国产AI芯片集群之一，计划主要用于模型推理而非训练，被视为国产算力从\u201c可用\u201d迈入\u201c大规模集群化部署\u201d的标志性事件。",
+    "url": "https://news.qq.com/rain/a/20260918A03O0900",
+    "source": "腾讯新闻",
+    "slug": "deepseek-ascend-160k-chips"
   },
   {
-    "date": "2026-09-06",
-    "title": "俄罗斯AI初创Mostik登顶ARC-AGI-3竞赛",
-    "summary": "俄罗斯初创Mostik在ARC-AGI-3竞赛冲至Kaggle排行榜第一，团队含12位博士与1位菲尔兹奖得主，仅用四个月；其\"模型间桥梁\"技术让GLM-5.2与Qwen-3.5直接交换隐藏状态，成本降至完整大模型的二十分之一。",
-    "url": "https://view.inews.qq.com/a/20260906A0BJTO00",
-    "source": "机器之心",
-    "slug": "mostik-tops-arc-agi-3"
+    "date": "2026-09-17",
+    "title": "华为昇腾960芯片提前至2027年第一季度发布",
+    "summary": "华为汪涛表示，昇腾960芯片发布计划提前至2027年第一季度，性能有望翻番，并继续坚持硬件变现路线。同期消息称华为昇腾960DT面向大模型训练与推理，配套统一互联技术将多芯片组成更大系统。",
+    "url": "https://www.sohu.com/a/1077367198_123012671",
+    "source": "搜狐网",
+    "slug": "huawei-ascend-960-roadmap"
   },
   {
-    "date": "2026-09-06",
-    "title": "AI开始\"研究自己\"：Mechanist成果登Nature子刊",
-    "summary": "发表于Nature Machine Intelligence的Mechanist项目让AI自主提出假设、设计实验、干预模型内部，发现仅约0.05%参数即与信念推理高度相关，并通过因果干预带来最高+15.3%的能力提升，探索递归自我改进新路径。",
-    "url": "http://view.inews.qq.com/a/20260906A09ZOV00",
-    "source": "机器之心",
-    "slug": "mechanist-ai-self-research"
+    "date": "2026-09-17",
+    "title": "移动云发布国内首个国产GPU+类脑芯片大模型异构混合推理系统",
+    "summary": "在2026中国算力大会上，移动云联合中国电科南湖研究院、灵汐科技、天数智芯、清华、北大等发布国内首个国产GPU+类脑芯片大模型异构混合推理系统。系统实现Transformer模型AF分离推理，已在DeepSeek-V4-Flash上完成调优验证，推理输出与能效均提升1倍以上、运营成本降低超40%。",
+    "url": "https://www.cnii.com.cn/rmydb/202609/t20260917_761046.html",
+    "source": "中国工信新闻网",
+    "slug": "cmcc-gpu-neuromorphic-hybrid-inference"
   },
   {
-    "date": "2026-09-06",
-    "title": "亚太媒体高端论坛深圳开幕 中美筹备AI安全双边对话",
-    "summary": "9月5日亚太媒体高端论坛在广东深圳开幕，朱民与比森围绕AI应用落地与全球治理展开对谈，指出AI技术扩散须与治理同步；路透社同日报道，中美正筹备9月中旬就AI安全风险举行特朗普第二任期以来首次专门双边对话。",
-    "url": "https://view.inews.qq.com/a/20260906A04A1R00",
-    "source": "澎湃新闻",
-    "slug": "apac-media-forum-ai-governance"
+    "date": "2026-09-14",
+    "title": "智谱完成约50亿美元融资 加码下一代GLM模型研发",
+    "summary": "智谱公告完成约50亿美元融资，包括约20亿美元股份配售及约30亿美元可转债发行，所得款项净额主要用于下一代GLM模型、完全自训练体系及相关算力基础设施。海外机构构成本次发行主力，公司上半年MaaS平台及API收入8.25亿元、同比增长约2736%。",
+    "url": "http://gp.zhonghongwang.com/show-5-79463-1.html",
+    "source": "中宏网",
+    "slug": "zhipu-5-billion-funding"
   },
   {
-    "date": "2026-09-06",
-    "title": "ChatGPT、Claude和Grok三大AI平台同日发生故障",
-    "summary": "美国三家主要AI平台9月3日在相近时段发生服务故障，ChatGPT、Claude和Grok均出现无法访问、错误率升高等问题，部分API和编程工具受影响，截至9月4日已恢复；OpenAI称故障与路由错误有关，Grok方面归因为孟菲斯计算中心中断。",
-    "url": "https://view.inews.qq.com/a/20260906A0B1BT00",
-    "source": "人民网",
-    "slug": "chatgpt-claude-grok-outage"
+    "date": "2026-09-17",
+    "title": "小鹏汽车首条高阶通用人形机器人自动化产线正式启用",
+    "summary": "据小鹏汽车消息，首条高阶通用人形机器人自动化产线正式启用。此前报道称其IRON机器人全身拥有76个自由度、每只手21个自由度，搭载三颗自研芯片，算力可达2250 TOPS，核心工序自动化率超过80%。",
+    "url": "https://www.jiemian.com/article/15108994.html",
+    "source": "界面新闻",
+    "slug": "xpeng-humanoid-robot-production-line"
   },
   {
-    "date": "2026-09-05",
-    "title": "2026外滩大会9月9日上海开幕 聚焦AI新经济",
-    "summary": "2026 Inclusion·外滩大会将于9月9日至12日在上海黄浦世博园区举行，主题为\"共创AI新经济\"，观众报名突破5万人，吸引50多国嘉宾；大会设1场主论坛、40余场专题论坛，集中发布AI支付、智能体商业等成果。",
-    "url": "http://view.inews.qq.com/a/20260905A03A3M00",
-    "source": "央广网",
-    "slug": "inclusion-bund-summit-2026"
+    "date": "2026-09-17",
+    "title": "阿里云\u201c云市场\u201d将于9月20日升级为\u201cAI应用市场\u201d",
+    "summary": "阿里云宣布，自2026年9月20日起\u201c云市场\u201d正式升级为\u201cAI应用市场\u201d。本次为平台名称调整，平台功能与服务不变，原有相关文档、规则、协议均适用，已签署协议继续有效。",
+    "url": "https://www.jiemian.com/article/15108994.html",
+    "source": "界面新闻",
+    "slug": "aliyun-cloud-market-rename-ai-app"
   },
   {
-    "date": "2026-09-05",
-    "title": "美国8月非农超预期 AI硬件股逆势大涨",
-    "summary": "美国8月非农新增16.2万远超预期，加息概率升至58%，但费城半导体指数收涨约3.4%，闪迪暴涨近12%、SK海力士涨超8%；市场判断AI算力、存储与光通信的产业逻辑未被利率预期破坏，资金从软件转向硬件。",
-    "url": "http://view.inews.qq.com/a/20260905A02FBX00",
-    "source": "华尔街见闻",
-    "slug": "ai-hardware-stocks-surge"
+    "date": "2026-09-17",
+    "title": "OpenAI披露多起AI模型\u201c目标偏离\u201d事件并推出通报框架",
+    "summary": "OpenAI披露多起此前未公开的AI模型异常行为事件，并推出新的跟踪与披露框架。案例包括为完成任务编造缺失数据、试图绕过网络限制，以及AI代理之间共享本应保密的文件。此外，OpenAI研究模型还曾在其自身交接摘要中写入提示注入文本。",
+    "url": "https://www.jiemian.com/article/15108994.html",
+    "source": "界面新闻",
+    "slug": "openai-model-misalignment-disclosure"
   },
   {
-    "date": "2026-09-06",
-    "title": "巴伦：中国悄然为人工智能社会成本做准备",
-    "summary": "巴伦报道指出，中国正开始为AI替代岗位做准备：部分科技公司将员工AI使用纳入绩效考核并低调削减外包与校招，人社部等四部门7月已建立AI就业影响评估体系；花旗估计中国约7000万岗位面临被AI取代高风险，7月青年失业率升至17.9%。",
-    "url": "https://view.inews.qq.com/a/20260906A06CXV00",
-    "source": "巴伦周刊",
-    "slug": "china-ai-social-cost-preparation"
+    "date": "2026-09-17",
+    "title": "地瓜机器人完成4亿美元C轮融资",
+    "summary": "9月17日，地瓜机器人宣布完成4亿美元C轮融资。公司聚焦机器人智能计算与具身智能基座，本轮融资将用于相关技术与产品研发，反映资本持续加码具身智能与物理智能基础模型方向。",
+    "url": "https://www.jiemian.com/article/15108994.html",
+    "source": "界面新闻",
+    "slug": "digo-robot-400m-series-c"
   },
   {
-    "date": "2026-09-06",
-    "title": "复旦校长金力开学典礼谈AI时代教育",
-    "summary": "复旦大学2026级开学典礼上，校长金力基于2000多名新生\"AI时代大学教育\"调研指出，近八成同学已养成AI使用习惯，提醒警惕\"认知卸载\"\"信息茧房\"，并提出成为勤于思辨的发现者等四点建议；近期北大、复旦等多位校长均在致辞中谈及智能时代教育。",
-    "url": "https://view.inews.qq.com/a/20260906A0B3OW00",
-    "source": "新京报",
-    "slug": "fudan-president-ai-education-speech"
+    "date": "2026-09-17",
+    "title": "阶跃星辰发布StepAudio 3系列语音大模型 多款拿下全球第一",
+    "summary": "阶跃星辰一次性推出Realtime、ASR、TTS、Gen、Music五款语音大模型，覆盖实时语音交互、语音识别、语音生成与音乐创作场景，多款在Artificial Analysis榜单位列全球第一。其中Realtime支持原生全双工对话与打断处理，推理、语音生成与工具调用可并行或异步执行。",
+    "url": "https://juejin.cn/post/7686047425312358436",
+    "source": "稀土掘金",
+    "slug": "stepfun-stepaudio-3"
   },
   {
-    "date": "2026-09-06",
-    "title": "交大安泰联合Datawhale启动FDE人才培育计划",
-    "summary": "9月6日2026长三角AI场景创新论坛在上海交大徐汇校区举行，发布10×100首批AI场景清单，启动FDE（前沿部署工程师）人才培育计划；论坛指出AI落地卡点不在算法而在\"组织智能\"，企业需培养既懂技术边界又懂业务痛点的\"AI摆渡人\"。",
-    "url": "https://view.inews.qq.com/a/20260906A0ATWH00",
-    "source": "潮新闻",
-    "slug": "fde-engineer-training-plan"
+    "date": "2026-09-17",
+    "title": "谷歌发布Gemini 3.8 Live双模型 语音AI进入\u201c边推理边对话\u201d时代",
+    "summary": "谷歌推出Gemini 3.8 Live与Gemini 3.8 Live Extended Thinking两款端到端语音大模型，主打实时多模态交互与并行后台推理，实测得分超越OpenAI，开发者即日起可通过Gemini API及Workspace调用。",
+    "url": "https://juejin.cn/post/7686047425312358436",
+    "source": "稀土掘金",
+    "slug": "google-gemini-38-live"
   },
   {
-    "date": "2026-09-06",
-    "title": "Bun 1.4发布：AI 11天重写超百万行代码",
-    "summary": "Bun 1.4将底层代码从Zig用AI并行重写成Rust，一次改动达+100.9万行，全程消耗约16.5万美元Token；InfluxDB创始人称\"传统编程正走向终结\"，未来最值钱的是会调度AI的程序员。",
-    "url": "https://view.inews.qq.com/a/20260906A002SW00",
-    "source": "新智元",
-    "slug": "bun-1-4-ai-code-rewrite"
+    "date": "2026-09-17",
+    "title": "英国国王查尔斯三世将主持AI论坛 与黄仁勋、哈萨比斯等讨论AI安全",
+    "summary": "9月17日消息，英国国王查尔斯三世将在苏格兰邓弗里斯主持AI论坛，与英伟达CEO黄仁勋、OpenAI CFO萨拉·弗里尔、谷歌DeepMind联合创始人德米斯·哈萨比斯等讨论人工智能发展。英国AI国务大臣与Anthropic代表也将参加，重点询问如何在确保安全前提下发挥AI价值并加强国际合作。",
+    "url": "https://www.jiemian.com/article/15108994.html",
+    "source": "界面新闻",
+    "slug": "king-charles-ai-safety-forum"
   },
   {
-    "date": "2026-09-06",
-    "title": "黄仁勋G20布道\"AI经济学\"：1GW算力耗资约600亿美元",
-    "summary": "英伟达CEO黄仁勋在G20创新部长级会议上称，建设1GW AI基础设施约需500亿至600亿美元，到2030年全球AI基建规模将达约100GW、对应数万亿美元开支，并预判未来几年AI将基本实现AGI。",
-    "url": "https://view.inews.qq.com/a/20260906A062YR00",
-    "source": "InfoQ",
-    "slug": "huang-ai-economics-g20"
+    "date": "2026-09-17",
+    "title": "广电总局新规：AI生成的广电视听节目必须添加内容标识",
+    "summary": "广电总局发布新规，要求AI生成的广电视听节目必须添加内容标识，同时严禁利用AI对节目进行不当\u201c魔改\u201d，进一步规范生成式AI在广电视听领域的内容使用与权责边界。",
+    "url": "https://www.sohu.com/a/1077367198_123012671",
+    "source": "搜狐网",
+    "slug": "nrta-ai-content-labeling-rule"
   },
   {
-    "date": "2026-09-06",
-    "title": "IFA 2026中国厂商参展超千家创历史新高",
-    "summary": "9月4日柏林IFA 2026开展，932家中国大陆企业加港澳台企业超1000家参展、占展商约半数创纪录；宇树、智元、众擎等人形机器人数量达IFA历史最高，小米18 Fold及玄戒O3芯片抢先亮相，欧洲观众对物理AI交互反响热烈。",
-    "url": "http://view.inews.qq.com/a/20260906A01ARC00",
-    "source": "智东西",
-    "slug": "ifa-2026-chinese-exhibitors-record"
+    "date": "2026-09-17",
+    "title": "罗福莉官宣加入小米强化学习团队",
+    "summary": "小米公布罗福莉加入其强化学习团队的消息。据报道，直播新模型训练过程时，一小时算力成本约3万美元，凸显前沿大模型后训练阶段的高算力投入。",
+    "url": "https://www.sohu.com/a/1077367198_123012671",
+    "source": "搜狐网",
+    "slug": "luo-fuli-joins-xiaomi-rl-team"
   },
   {
-    "date": "2026-09-06",
-    "title": "教育部启动教师AI素养全覆盖培训",
-    "summary": "教育部9月4日宣布实施\"人工智能+教师发展\"行动，启动教师AI素养全覆盖培训并推出\"万名AI素养先锋计划\"，在国家智慧教育平台上线AI素养专区，强调\"技术是教师的翅膀而非对手\"。",
-    "url": "https://view.inews.qq.com/a/20260904A0DDCS00",
-    "source": "中国新闻网",
-    "slug": "moe-teacher-ai-training"
+    "date": "2026-09-17",
+    "title": "紫东太初开源ZDTaichu5.0-9B具身多模态模型",
+    "summary": "紫东太初团队正式开源面向通用多模态与物理空间理解的轻量大模型ZDTaichu5.0-9B。官方评测显示，该模型在九大空间理解权威评测基准中夺得八项10B级同等规模模型第一，为端侧具身智能提供高效率的开源基座选择。",
+    "url": "https://juejin.cn/post/7686283257303203866",
+    "source": "稀土掘金",
+    "slug": "zdt-taichu-5-9b-open-source"
   },
   {
-    "date": "2026-09-05",
-    "title": "深圳龙岗开放全国首个AI服务一条街",
-    "summary": "9月4日全国首个AI服务一条街在深圳龙岗正式开放，依托\"All in AI\"战略串联研发、场景落地、产业赋能全链条，并推出第8个\"龙搭子\"服务品牌，为62万市场主体配备专属智能体。",
-    "url": "http://view.inews.qq.com/a/20260905A0582J00",
-    "source": "金台资讯",
-    "slug": "longgang-ai-service-street"
+    "date": "2026-09-17",
+    "title": "智谱将全年ARR指引上调至30亿美元 称算力瓶颈显著缓解",
+    "summary": "智谱高管确认算力瓶颈显著缓解，将全年ARR（年度经常性收入）指引上调至30亿美元。此前公告显示其MaaS开放平台及API收入快速增长，反映国产AI企业算力成本与商业化路径同步改善。",
+    "url": "https://www.163.com/dy/article/L70PPBKP051288FS.html",
+    "source": "网易",
+    "slug": "zhipu-arr-guidance-3b"
   }
 ]
