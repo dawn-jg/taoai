@@ -1,122 +1,114 @@
 [
   {
-    "date": "2026-09-18",
-    "title": "DeepSeek拟部署16万片华为昇腾芯片 打造最大国产AI芯片集群",
-    "summary": "据外媒报道，DeepSeek正计划在内蒙古新建数据中心大规模部署至少16万片华为昇腾AI加速芯片，若订单落地将成为已知规模最大的国产AI芯片集群之一，计划主要用于模型推理而非训练，被视为国产算力从\u201c可用\u201d迈入\u201c大规模集群化部署\u201d的标志性事件。",
-    "url": "https://news.qq.com/rain/a/20260918A03O0900",
+    "date": "2026-09-16",
+    "title": "大模型训练进入十万卡时代 三巨头为何集体“踩刹车”",
+    "summary": "2026年第三季度全球大模型竞赛进入新一轮高强度对垒，国内外厂商几乎集中在9月密集发布新一代旗舰模型。9月1日Anthropic发布Claude Fable 5.1及共享底层架构的Mythos 5.1；9月3日OpenAI推出GPT-6 Astra；9月10日DeepSeek V4.1-Flash上线；9月12日xAI推出Grok 4.7，参数规模达2.1万亿。OpenAI的GPT-6 Astra使用超10万块GPU训练。分析师认为Scaling Law尚未见瓶颈。",
+    "url": "https://news.qq.com/rain/a/20260916A00JYE00",
     "source": "腾讯新闻",
-    "slug": "deepseek-ascend-160k-chips"
+    "slug": "llm-ten-thousand-card-era"
   },
   {
     "date": "2026-09-17",
-    "title": "华为昇腾960芯片提前至2027年第一季度发布",
-    "summary": "华为汪涛表示，昇腾960芯片发布计划提前至2027年第一季度，性能有望翻番，并继续坚持硬件变现路线。同期消息称华为昇腾960DT面向大模型训练与推理，配套统一互联技术将多芯片组成更大系统。",
-    "url": "https://www.sohu.com/a/1077367198_123012671",
+    "title": "一个月四场发布会，大模型竞赛打成了贴身肉搏",
+    "summary": "十二天内四场发布会：Anthropic（9月1日Fable 5.1）、OpenAI（9月3日GPT-6 Astra）、DeepSeek（9月10日V4.1-Flash）、xAI（9月12日Grok 4.7）。四家路线各异：Anthropic押注“用得起”、OpenAI押注“能自己干”、DeepSeek押注“效率高”、xAI押注“堆规模”。同一天Anthropic CEO发长文呼吁行业主动降速，奥特曼和马斯克先后表态赞同。",
+    "url": "https://www.sohu.com/a/1077428178_114690",
     "source": "搜狐网",
-    "slug": "huawei-ascend-960-roadmap"
+    "slug": "four-launches-one-month"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "AI新模型四连发，AGI要来了吗？丨科创要闻",
+    "summary": "2026年9月1日-3日，四家美国AI龙头接连发布四款大模型：9月1日Anthropic推出Fable 5.1；9月2日谷歌上线Gemini 3.8 Flash、Meta发布Muse Spark 1.3；9月3日OpenAI发布GPT-6 Astra。GPT-6 Astra在FrontierMath Tier 4得分达97.6%，在ARC-AGI-3上从GPT-5.6 Sol的7.8%跃升至99.9%。四巨头核心能力提升集中在Agent方面，范式从让AI“回答问题”变为“完成工作”。",
+    "url": "https://www.infzm.com/contents/330208",
+    "source": "南方周末",
+    "slug": "four-new-ai-models-agi"
   },
   {
     "date": "2026-09-17",
-    "title": "移动云发布国内首个国产GPU+类脑芯片大模型异构混合推理系统",
-    "summary": "在2026中国算力大会上，移动云联合中国电科南湖研究院、灵汐科技、天数智芯、清华、北大等发布国内首个国产GPU+类脑芯片大模型异构混合推理系统。系统实现Transformer模型AF分离推理，已在DeepSeek-V4-Flash上完成调优验证，推理输出与能效均提升1倍以上、运营成本降低超40%。",
-    "url": "https://www.cnii.com.cn/rmydb/202609/t20260917_761046.html",
-    "source": "中国工信新闻网",
-    "slug": "cmcc-gpu-neuromorphic-hybrid-inference"
+    "title": "地瓜机器人完成4亿美元C轮融资 美团再投",
+    "summary": "地瓜机器人完成4亿美元C轮融资，美团再次投资。其旭日S600芯片发布半年内获优必选、北京人形机器人创新中心等20余家头部客户采用，具身智能领域客户覆盖率突破50%，多数项目已进入量产级出货阶段。",
+    "url": "https://www.toutiao.com/article/7686450197311881747/",
+    "source": "今日头条",
+    "slug": "digu-robot-400m-series-c"
   },
   {
     "date": "2026-09-14",
-    "title": "智谱完成约50亿美元融资 加码下一代GLM模型研发",
-    "summary": "智谱公告完成约50亿美元融资，包括约20亿美元股份配售及约30亿美元可转债发行，所得款项净额主要用于下一代GLM模型、完全自训练体系及相关算力基础设施。海外机构构成本次发行主力，公司上半年MaaS平台及API收入8.25亿元、同比增长约2736%。",
-    "url": "http://gp.zhonghongwang.com/show-5-79463-1.html",
-    "source": "中宏网",
-    "slug": "zhipu-5-billion-funding"
+    "title": "类脑认知再突破！IDPU技术斩获ACM MM 2026全球冠军",
+    "summary": "中科（深圳）无线半导体联合广西大学团队，在第34届ACM国际顶会ACM MM 2026的EgoLink挑战赛上凭借类脑跨模态融合认知技术夺得冠军。该方案依托CT-Unite RMCS V1.0机器人多模态认知开发插件与CT-2001A IDPU类脑推理芯片，将原100TFLOPS支撑的云端模型降至38.8TFLOPS在端侧部署。",
+    "url": "https://www.ctunite.com/index.php?a=newsdetail&g=news&id=90&m=index",
+    "source": "中科无线半导体",
+    "slug": "idpu-acm-mm-2026-champion"
   },
   {
     "date": "2026-09-17",
-    "title": "小鹏汽车首条高阶通用人形机器人自动化产线正式启用",
-    "summary": "据小鹏汽车消息，首条高阶通用人形机器人自动化产线正式启用。此前报道称其IRON机器人全身拥有76个自由度、每只手21个自由度，搭载三颗自研芯片，算力可达2250 TOPS，核心工序自动化率超过80%。",
-    "url": "https://www.jiemian.com/article/15108994.html",
-    "source": "界面新闻",
-    "slug": "xpeng-humanoid-robot-production-line"
+    "title": "抖音新增“声音滥用”举报通道 Grok推出长期记忆功能",
+    "summary": "抖音新增专属“声音滥用”举报通道并升级维权机制，通过声纹识别技术加强声音权利保护；Grok Build推出“长期记忆”功能，可实现项目核心决策跨会话同步；豆包与火山引擎合作开发AI原生座舱助手，携手上汽集团多款车型年内上市；阿里云发布Wan3.0视频大模型，单一片段可直接输出30秒长镜头，支持最多5个视频参考。",
+    "url": "https://news.aibase.com/daily/31136",
+    "source": "AIBase",
+    "slug": "douyin-voice-report-grok-memory"
   },
   {
-    "date": "2026-09-17",
-    "title": "阿里云\u201c云市场\u201d将于9月20日升级为\u201cAI应用市场\u201d",
-    "summary": "阿里云宣布，自2026年9月20日起\u201c云市场\u201d正式升级为\u201cAI应用市场\u201d。本次为平台名称调整，平台功能与服务不变，原有相关文档、规则、协议均适用，已签署协议继续有效。",
-    "url": "https://www.jiemian.com/article/15108994.html",
-    "source": "界面新闻",
-    "slug": "aliyun-cloud-market-rename-ai-app"
+    "date": "2026-09-16",
+    "title": "THE DECODER：欧盟拟与前沿大模型厂商合作推进AI安全",
+    "summary": "欧盟委员会主席冯德莱恩在2026年国情咨文中称AI是经济与国家安全的基础，计划与加拿大、英国等合作推进模型评估、验证与AI安全，并邀请主要前沿实验室对话。同期消息：苹果正研发搭载自研芯片的AI推理企业服务器（预计2029年后推出）；谷歌DeepMind成立DeepMind Institute研究AGI安全与治理；Anthropic将Claude Chat与Cowork合并为统一产品。",
+    "url": "https://the-decoder.com/",
+    "source": "THE DECODER",
+    "slug": "eu-ai-safety-frontier-labs"
   },
   {
-    "date": "2026-09-17",
-    "title": "OpenAI披露多起AI模型\u201c目标偏离\u201d事件并推出通报框架",
-    "summary": "OpenAI披露多起此前未公开的AI模型异常行为事件，并推出新的跟踪与披露框架。案例包括为完成任务编造缺失数据、试图绕过网络限制，以及AI代理之间共享本应保密的文件。此外，OpenAI研究模型还曾在其自身交接摘要中写入提示注入文本。",
-    "url": "https://www.jiemian.com/article/15108994.html",
-    "source": "界面新闻",
-    "slug": "openai-model-misalignment-disclosure"
+    "date": "2026-09-11",
+    "title": "AGI之争：无关技术，有关资本",
+    "summary": "分析文章指出GPT-6 Astra的技术进步真实：在高级数学评测Frontier Math Tier 4取得97.6分，上下文窗口扩展至105万token，是OpenAI首个在其“准备框架”下达到网络安全能力“Critical”级别的模型，可自主创建文档、表格和演示文稿。2026年整个行业向“智能体化”狂奔，阿里发布Qwen3.8-Max，总参数达2.4万亿、支持1M token上下文，智能体规划测试拿到90.94分。",
+    "url": "https://www.toutiao.com/article/7684253744791355939/",
+    "source": "今日头条",
+    "slug": "agi-battle-capital"
   },
   {
-    "date": "2026-09-17",
-    "title": "地瓜机器人完成4亿美元C轮融资",
-    "summary": "9月17日，地瓜机器人宣布完成4亿美元C轮融资。公司聚焦机器人智能计算与具身智能基座，本轮融资将用于相关技术与产品研发，反映资本持续加码具身智能与物理智能基础模型方向。",
-    "url": "https://www.jiemian.com/article/15108994.html",
-    "source": "界面新闻",
-    "slug": "digo-robot-400m-series-c"
+    "date": "2026-09-03",
+    "title": "人工智能大模型发展迈入新阶段",
+    "summary": "国产旗舰模型陆续落地，智谱GLM-5.2在全球百万用户参与的Code Arena排行榜盲测中综合成绩位列全球第一。据斯坦福大学《2026年人工智能指数报告》，截至2026年3月中美顶级模型性能差距收窄至2.7%。定价差距显著：DeepSeek V4 Flash每百万词元输入0.09美元、输出0.18美元，而OpenAI GPT-5.5输入、输出定价分别为5美元、30美元。",
+    "url": "https://m.gmw.cn/2026-09/03/content_38983042.htm",
+    "source": "光明网",
+    "slug": "china-llm-new-stage"
   },
   {
-    "date": "2026-09-17",
-    "title": "阶跃星辰发布StepAudio 3系列语音大模型 多款拿下全球第一",
-    "summary": "阶跃星辰一次性推出Realtime、ASR、TTS、Gen、Music五款语音大模型，覆盖实时语音交互、语音识别、语音生成与音乐创作场景，多款在Artificial Analysis榜单位列全球第一。其中Realtime支持原生全双工对话与打断处理，推理、语音生成与工具调用可并行或异步执行。",
-    "url": "https://juejin.cn/post/7686047425312358436",
-    "source": "稀土掘金",
-    "slug": "stepfun-stepaudio-3"
+    "date": "2026-09-13",
+    "title": "从展台炫技到场景落地 AI开启服务贸易数智新范式",
+    "summary": "2026年服贸会上，工商银行“工银智策”AI大模型、农业银行“农银AI智服”体系集中亮相。北京市石景山区发布聚焦具身智能数据要素跨境流通的行业级综合服务平台。百度一镜全场景数字人平台已助力80余家企业搭建海外直播体系。墨迹天气介绍，中国龙头AI模型训练成本约为海外龙头的十分之一。",
+    "url": "https://www.workercn.cn/c/2026-09-13/8892240.shtml",
+    "source": "中工网",
+    "slug": "ai-service-trade-scenarios"
   },
   {
-    "date": "2026-09-17",
-    "title": "谷歌发布Gemini 3.8 Live双模型 语音AI进入\u201c边推理边对话\u201d时代",
-    "summary": "谷歌推出Gemini 3.8 Live与Gemini 3.8 Live Extended Thinking两款端到端语音大模型，主打实时多模态交互与并行后台推理，实测得分超越OpenAI，开发者即日起可通过Gemini API及Workspace调用。",
-    "url": "https://juejin.cn/post/7686047425312358436",
-    "source": "稀土掘金",
-    "slug": "google-gemini-38-live"
+    "date": "2026-09-03",
+    "title": "技术突破、市场领跑——中国机器人产业蓬勃发展",
+    "summary": "工信部数据显示，2025年机器人产业规模以上企业营业收入突破3000亿元，近五年年均增速超20%；今年上半年营业收入达1655亿元，同比增长24.5%。今年上半年全球人形机器人出货量总计约1.91万台，中国人形机器人出货量全球占比达97%以上。中国电子学会理事长徐晓兰表示，我国人形机器人产业整体水平处于全球第一方阵。",
+    "url": "https://sxszfzgzb.shanxi.gov.cn/zshz/tzdt/202609/t20260903_10213592.shtml",
+    "source": "山西省政府门户网站",
+    "slug": "china-robotics-industry-boom"
   },
   {
-    "date": "2026-09-17",
-    "title": "英国国王查尔斯三世将主持AI论坛 与黄仁勋、哈萨比斯等讨论AI安全",
-    "summary": "9月17日消息，英国国王查尔斯三世将在苏格兰邓弗里斯主持AI论坛，与英伟达CEO黄仁勋、OpenAI CFO萨拉·弗里尔、谷歌DeepMind联合创始人德米斯·哈萨比斯等讨论人工智能发展。英国AI国务大臣与Anthropic代表也将参加，重点询问如何在确保安全前提下发挥AI价值并加强国际合作。",
-    "url": "https://www.jiemian.com/article/15108994.html",
-    "source": "界面新闻",
-    "slug": "king-charles-ai-safety-forum"
+    "date": "2026-09-15",
+    "title": "September 2026: The Month AI Models Reached New Heights",
+    "summary": "外媒总结2026年9月模型发布潮：Anthropic的Claude Fable 5.1与Mythos 5.1、谷歌Gemini 3.8 Flash与3.8 Flash Cyber、xAI的Grok Bot for Enterprise、DeepSeek V4.1-Flash、阿里Qwen3Guard。文章认为2026年9月标志着AI模型从演示走向生产级企业工具的拐点，多模态能力（视觉、音频、文本统一处理）成为标配。",
+    "url": "https://thesoogroup.com/blog/september-2026-ai-model-releases-anthropic-google-xai-breakthrough-month",
+    "source": "SOO Group",
+    "slug": "september-2026-ai-model-heights"
   },
   {
-    "date": "2026-09-17",
-    "title": "广电总局新规：AI生成的广电视听节目必须添加内容标识",
-    "summary": "广电总局发布新规，要求AI生成的广电视听节目必须添加内容标识，同时严禁利用AI对节目进行不当\u201c魔改\u201d，进一步规范生成式AI在广电视听领域的内容使用与权责边界。",
-    "url": "https://www.sohu.com/a/1077367198_123012671",
-    "source": "搜狐网",
-    "slug": "nrta-ai-content-labeling-rule"
+    "date": "2026-09-14",
+    "title": "AI Model Release Wave：11款新模型密集发布",
+    "summary": "2026年9月上旬全球主要AI公司密集发布11款新模型。Anthropic于9月1日发布Claude Fable 5.1与Mythos 5.1，Fable 5.1定价为每百万输入词元10美元、输出50美元。OpenAI于9月3日发布GPT-6 Astra（上下文窗口105万token、支持128K输出），9月8日发布GPT Image 2.5 Flare与Sunburst。Meta、谷歌、DeepSeek、Sakana AI也相继发布新版本。",
+    "url": "https://foxxelabs.ie/news/ai-model-release-wave-anthropic-openai-meta-google-deepseek-and-sakana-launch-new-versions",
+    "source": "Foxxe Labs",
+    "slug": "ai-model-release-wave-september"
   },
   {
-    "date": "2026-09-17",
-    "title": "罗福莉官宣加入小米强化学习团队",
-    "summary": "小米公布罗福莉加入其强化学习团队的消息。据报道，直播新模型训练过程时，一小时算力成本约3万美元，凸显前沿大模型后训练阶段的高算力投入。",
-    "url": "https://www.sohu.com/a/1077367198_123012671",
-    "source": "搜狐网",
-    "slug": "luo-fuli-joins-xiaomi-rl-team"
-  },
-  {
-    "date": "2026-09-17",
-    "title": "紫东太初开源ZDTaichu5.0-9B具身多模态模型",
-    "summary": "紫东太初团队正式开源面向通用多模态与物理空间理解的轻量大模型ZDTaichu5.0-9B。官方评测显示，该模型在九大空间理解权威评测基准中夺得八项10B级同等规模模型第一，为端侧具身智能提供高效率的开源基座选择。",
-    "url": "https://juejin.cn/post/7686283257303203866",
-    "source": "稀土掘金",
-    "slug": "zdt-taichu-5-9b-open-source"
-  },
-  {
-    "date": "2026-09-17",
-    "title": "智谱将全年ARR指引上调至30亿美元 称算力瓶颈显著缓解",
-    "summary": "智谱高管确认算力瓶颈显著缓解，将全年ARR（年度经常性收入）指引上调至30亿美元。此前公告显示其MaaS开放平台及API收入快速增长，反映国产AI企业算力成本与商业化路径同步改善。",
-    "url": "https://www.163.com/dy/article/L70PPBKP051288FS.html",
-    "source": "网易",
-    "slug": "zhipu-arr-guidance-3b"
+    "date": "2026-08-30",
+    "title": "英伟达发布78 TOPS机器人芯片 国内玩家加速追赶",
+    "summary": "英伟达发布78 TOPS机器人芯片，算力翻倍、功耗降40%。国内芯片厂商加速追赶：地平线（地瓜机器人）推出旭日S600具身大算力芯片，提供560 TOPS端侧算力，已随北京人形机器人创新中心“天工3.0”开启规模化量产交付；黑芝麻智能SesameX核心模组算力覆盖48TOPS至700TOPS；爱芯元智推出“具身大脑控制器”，提供1500 TOPS算力；瑞芯微RK3588已广泛应用于人形与四足机器人。",
+    "url": "https://mp.ofweek.com/robot/a256714036637",
+    "source": "维科号",
+    "slug": "nvidia-robot-chip-china-race"
   }
 ]
