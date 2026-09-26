@@ -19,7 +19,7 @@
     "name": "AI图像工具",
     "slug": "ai-image",
     "icon": "🎨",
-    "count": 179,
+    "count": 180,
     "description": "AI绘画、图像生成与编辑",
     "subcategories": {
       "ai-image-illustration": "AI图片插画生成",
@@ -36,7 +36,7 @@
     "name": "AI视频工具",
     "slug": "ai-video",
     "icon": "🎬",
-    "count": 103,
+    "count": 104,
     "description": "AI视频生成与编辑工具",
     "subcategories": {
       "ai-video-generation": "AI视频生成",
@@ -49,7 +49,7 @@
     "name": "AI办公工具",
     "slug": "ai-office",
     "icon": "📊",
-    "count": 205,
+    "count": 208,
     "description": "AI办公效率、PPT、文档",
     "subcategories": {
       "ai-office-ppt": "AI PPT生成",
@@ -63,7 +63,7 @@
     "name": "AI智能体",
     "slug": "ai-agent",
     "icon": "🤖",
-    "count": 86,
+    "count": 89,
     "description": "AI Agent智能体搭建平台",
     "subcategories": {
       "ai-agent-framework": "AI Agent框架",
@@ -75,7 +75,7 @@
     "name": "AI聊天助手",
     "slug": "ai-chat",
     "icon": "💬",
-    "count": 79,
+    "count": 78,
     "description": "智能对话、问答助手",
     "subcategories": {
       "ai-chat-general": "通用对话AI",
@@ -87,7 +87,7 @@
     "name": "AI编程工具",
     "slug": "ai-coding",
     "icon": "💻",
-    "count": 83,
+    "count": 82,
     "description": "AI编程、代码生成与辅助",
     "subcategories": {
       "ai-coding-generator": "AI代码生成",
@@ -114,7 +114,7 @@
     "name": "AI音频工具",
     "slug": "ai-audio",
     "icon": "🎵",
-    "count": 89,
+    "count": 90,
     "description": "AI音乐、配音与音频处理",
     "subcategories": {
       "ai-audio-tts": "AI语音合成",
@@ -140,7 +140,7 @@
     "name": "AI开发平台",
     "slug": "ai-platform",
     "icon": "⚙️",
-    "count": 84,
+    "count": 86,
     "description": "AI开发框架、模型平台",
     "subcategories": {
       "ai-platform-training": "模型训练平台",
