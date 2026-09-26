@@ -130,7 +130,7 @@
     "pricing": "freemium",
     "createdAt": "2023-08-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://ai-bot.cn/wp-content/uploads/2026/03/doubao-icon.png",
+    "logo": "/logos/doubao.png",
     "domain": "chat.sensetime.com",
     "detailed_content": [
       {
@@ -444,7 +444,7 @@
     "pricing": "freemium",
     "createdAt": "2025-03-01",
     "subcategory": "ai-writing-article",
-    "logo": "https://ai-bot.cn/wp-content/uploads/2025/07/trae.ai-logo.png",
+    "logo": "/logos/trae.png",
     "domain": "devchat.ai",
     "detailed_content": [
       {
@@ -2407,7 +2407,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=www.36ma.com&sz=64",
+    "logo": "/logos/tool72610.png",
     "domain": "36ma.com",
     "detailed_content": [
       {
@@ -2489,7 +2489,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=www.yfbudong.com&sz=64",
+    "logo": "/logos/tool65468.png",
     "domain": "yfbudong.com",
     "detailed_content": [
       {
@@ -2530,7 +2530,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-paper",
-    "logo": "https://www.google.com/s2/favicons?domain=www.sheyantong.cn&sz=64",
+    "logo": "/logos/tool68892.png",
     "domain": "sheyantong.cn",
     "detailed_content": [
       {
@@ -2612,7 +2612,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-translate",
-    "logo": "https://www.google.com/s2/favicons?domain=try.quillbot.com&sz=64",
+    "logo": "/logos/tool597.png",
     "domain": "try.quillbot.com",
     "detailed_content": [
       {
@@ -2817,7 +2817,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=www.qianyeai.com&sz=64",
+    "logo": "/logos/tool64875.png",
     "domain": "qianyeai.com",
     "detailed_content": [
       {
@@ -3350,7 +3350,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-paper",
-    "logo": "https://www.google.com/s2/favicons?domain=www.zhangqiaokeyan.com&sz=64",
+    "logo": "/logos/tool59730.png",
     "domain": "zhangqiaokeyan.com",
     "detailed_content": [
       {
@@ -3432,7 +3432,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=vgoapp.com&sz=64",
+    "logo": "/logos/tool31.png",
     "domain": "vgoapp.com",
     "detailed_content": [
       {
@@ -3596,7 +3596,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-article",
-    "logo": "https://www.google.com/s2/favicons?domain=www.wenzhuangyuan.cn&sz=64",
+    "logo": "/logos/tool26114.png",
     "domain": "wenzhuangyuan.cn",
     "detailed_content": [
       {
@@ -3637,7 +3637,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=www.xiaoyutai.com&sz=64",
+    "logo": "https://favicon.im/xiaoyutai.com",
     "domain": "xiaoyutai.com",
     "detailed_content": [
       {
@@ -3760,7 +3760,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-article",
-    "logo": "https://www.google.com/s2/favicons?domain=try.quillbot.com&sz=64",
+    "logo": "/logos/tool2304.png",
     "domain": "try.quillbot.com",
     "detailed_content": [
       {
@@ -3998,7 +3998,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-article",
-    "logo": "https://www.google.com/s2/favicons?domain=88lingo.com&sz=64",
+    "logo": "/logos/tool5572.png",
     "domain": "88lingo.com",
     "detailed_content": [
       {
@@ -4240,7 +4240,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=ai.zaker.cn&sz=64",
+    "logo": "/logos/tool2404.png",
     "domain": "ai.zaker.cn",
     "detailed_content": [
       {
@@ -4277,7 +4277,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-article",
-    "logo": "https://www.google.com/s2/favicons?domain=verse.app.yinxiang.com&sz=64",
+    "logo": "/logos/tool2940.png",
     "domain": "verse.app.yinxiang.com",
     "detailed_content": [
       {
@@ -4397,7 +4397,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-article",
-    "logo": "https://www.google.com/s2/favicons?domain=writingpal.ai&sz=64",
+    "logo": "https://favicon.im/writingpal.ai",
     "domain": "writingpal.ai",
     "detailed_content": [
       {
@@ -4496,7 +4496,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-article",
-    "logo": "https://www.google.com/s2/favicons?domain=wen.mobvoi.com&sz=64",
+    "logo": "/logos/tool1930.png",
     "domain": "wen.mobvoi.com",
     "detailed_content": [
       {
@@ -4558,7 +4558,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=www.36ma.com&sz=64",
+    "logo": "/logos/tool577.png",
     "domain": "36ma.com",
     "detailed_content": [
       {
@@ -4633,7 +4633,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "https://www.google.com/s2/favicons?domain=effidit.qq.com&sz=64",
+    "logo": "/logos/tool37.png",
     "domain": "effidit.qq.com",
     "detailed_content": [
       {
@@ -4861,7 +4861,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-article",
-    "logo": "https://www.google.com/s2/favicons?domain=vgoapp.com&sz=64",
+    "logo": "/logos/tool1459.png",
     "domain": "vgoapp.com",
     "detailed_content": [
       {
@@ -4898,7 +4898,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-paper",
-    "logo": "https://www.google.com/s2/favicons?domain=www.130ai.com&sz=64",
+    "logo": "/logos/tool7424.png",
     "domain": "130ai.com",
     "detailed_content": [
       {
@@ -4972,7 +4972,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-translate",
-    "logo": "https://www.google.com/s2/favicons?domain=zj.xfyun.cn&sz=64",
+    "logo": "/logos/tool1515.png",
     "domain": "zj.xfyun.cn",
     "detailed_content": [
       {
@@ -6202,7 +6202,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-product",
-    "logo": "https://www.google.com/s2/favicons?domain=www.photonaiclub.com&sz=64",
+    "logo": "https://favicon.im/photonaiclub.com",
     "domain": "photonaiclub.com",
     "detailed_content": [
       {
@@ -6374,7 +6374,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-product",
-    "logo": "https://www.google.com/s2/favicons?domain=www.jiaodianai.com&sz=64",
+    "logo": "/logos/tool70979.png",
     "domain": "jiaodianai.com",
     "detailed_content": [
       {
@@ -6567,7 +6567,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-product",
-    "logo": "https://www.google.com/s2/favicons?domain=www.cliclic.ai&sz=64",
+    "logo": "/logos/tool13023.png",
     "domain": "cliclic.ai",
     "detailed_content": [
       {
@@ -6695,7 +6695,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-background-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=www.hsphoto.cn&sz=64",
+    "logo": "/logos/tool11541.png",
     "domain": "hsphoto.cn",
     "detailed_content": [
       {
@@ -7315,7 +7315,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-3d",
-    "logo": "https://www.google.com/s2/favicons?domain=voxcraft.ai&sz=64",
+    "logo": "/logos/tool11164.png",
     "domain": "voxcraft.ai",
     "detailed_content": [
       {
@@ -7623,7 +7623,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-background-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=www.photonaiclub.com&sz=64",
+    "logo": "https://favicon.im/photonaiclub.com",
     "domain": "photonaiclub.com",
     "detailed_content": [
       {
@@ -7660,7 +7660,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=pixian.ai&sz=64",
+    "logo": "/logos/tool7983.png",
     "domain": "pixian.ai",
     "detailed_content": [
       {
@@ -8142,7 +8142,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-background-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=zyro.com&sz=64",
+    "logo": "/logos/tool302.png",
     "domain": "zyro.com",
     "detailed_content": [
       {
@@ -8212,7 +8212,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-background-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=clippingmagic.com&sz=64",
+    "logo": "/logos/tool310.png",
     "domain": "clippingmagic.com",
     "detailed_content": [
       {
@@ -8821,7 +8821,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=aiart.chuangkit.com&sz=64",
+    "logo": "/logos/tool1818.png",
     "domain": "aiart.chuangkit.com",
     "detailed_content": [
       {
@@ -9105,7 +9105,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=175.fun&sz=64",
+    "logo": "/logos/tool2676.png",
     "domain": "175.fun",
     "detailed_content": [
       {
@@ -9640,7 +9640,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-upscale",
-    "logo": "https://www.google.com/s2/favicons?domain=zyro.com&sz=64",
+    "logo": "/logos/tool216.png",
     "domain": "zyro.com",
     "detailed_content": [
       {
@@ -10119,7 +10119,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-object-remove",
-    "logo": "https://www.google.com/s2/favicons?domain=www.iopaint.com&sz=64",
+    "logo": "/logos/tool9056.png",
     "domain": "iopaint.com",
     "detailed_content": [
       {
@@ -10861,7 +10861,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=transpic.cn&sz=64",
+    "logo": "/logos/tool4246.png",
     "domain": "transpic.cn",
     "detailed_content": [
       {
@@ -11190,7 +11190,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-digital-human",
-    "logo": "https://www.google.com/s2/favicons?domain=www.chanjing.cc&sz=64",
+    "logo": "/logos/tool11290.png",
     "domain": "chanjing.cc",
     "detailed_content": [
       {
@@ -11395,7 +11395,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=ai.volcengine.com&sz=64",
+    "logo": "/logos/tool76349.png",
     "domain": "ai.volcengine.com",
     "detailed_content": [
       {
@@ -12516,7 +12516,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=www.zaoci.tv&sz=64",
+    "logo": "/logos/tool66554.png",
     "domain": "zaoci.tv",
     "detailed_content": [
       {
@@ -12918,7 +12918,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=www.animon.com&sz=64",
+    "logo": "/logos/tool63694.png",
     "domain": "animon.com?vd=qFokWH",
     "detailed_content": [
       {
@@ -13451,7 +13451,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-digital-human",
-    "logo": "https://www.google.com/s2/favicons?domain=avatar.console.aliyun.com&sz=64",
+    "logo": "/logos/tool63255.png",
     "domain": "avatar.console.aliyun.com",
     "detailed_content": [
       {
@@ -13833,7 +13833,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=aigc.yizhentv.com&sz=64",
+    "logo": "/logos/tool1880.png",
     "domain": "aigc.yizhentv.com",
     "detailed_content": [
       {
@@ -14137,7 +14137,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-digital-human",
-    "logo": "https://www.google.com/s2/favicons?domain=humva.ai&sz=64",
+    "logo": "https://favicon.im/humva.ai",
     "domain": "humva.ai",
     "detailed_content": [
       {
@@ -14285,7 +14285,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=noisee.ai&sz=64",
+    "logo": "/logos/tool13667.png",
     "domain": "noisee.ai",
     "detailed_content": [
       {
@@ -14396,7 +14396,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=etna.7volcanoes.com&sz=64",
+    "logo": "/logos/tool24359.png",
     "domain": "etna.7volcanoes.com",
     "detailed_content": [
       {
@@ -14515,7 +14515,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=member.bilibili.com&sz=64",
+    "logo": "/logos/tool11721.png",
     "domain": "member.bilibili.com",
     "detailed_content": [
       {
@@ -14790,7 +14790,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-ppt",
-    "logo": "https://www.google.com/s2/favicons?domain=pi.deepvinci.tech&sz=64",
+    "logo": "/logos/tool63272.png",
     "domain": "pi.deepvinci.tech",
     "detailed_content": [
       {
@@ -15032,7 +15032,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-ppt",
-    "logo": "https://www.google.com/s2/favicons?domain=try.gamma.app&sz=64",
+    "logo": "/logos/tool995.png",
     "domain": "try.gamma.app",
     "detailed_content": [
       {
@@ -15327,7 +15327,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-ppt",
-    "logo": "https://www.google.com/s2/favicons?domain=ppt.quark.cn&sz=64",
+    "logo": "/logos/tool66082.png",
     "domain": "ppt.quark.cn",
     "detailed_content": [
       {
@@ -15853,7 +15853,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=ai.iterms.com&sz=64",
+    "logo": "/logos/tool64973.png",
     "domain": "ai.iterms.com",
     "detailed_content": [
       {
@@ -16018,7 +16018,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.hairuilegal.com&sz=64",
+    "logo": "/logos/tool11443.png",
     "domain": "hairuilegal.com",
     "detailed_content": [
       {
@@ -16170,7 +16170,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-excel",
-    "logo": "https://www.google.com/s2/favicons?domain=www.dify-ai.cn&sz=64",
+    "logo": "https://favicon.im/dify-ai.cn",
     "domain": "dify-ai.cn",
     "detailed_content": [
       {
@@ -16441,7 +16441,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=gbi.cloud.baidu.com&sz=64",
+    "logo": "/logos/tool16121.png",
     "domain": "gbi.cloud.baidu.com",
     "detailed_content": [
       {
@@ -16837,7 +16837,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.xljsci.com&sz=64",
+    "logo": "/logos/tool53977.png",
     "domain": "xljsci.com",
     "detailed_content": [
       {
@@ -16923,7 +16923,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=baoyueai.com&sz=64",
+    "logo": "/logos/tool13503.png",
     "domain": "baoyueai.com",
     "detailed_content": [
       {
@@ -17252,7 +17252,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.quivr.app&sz=64",
+    "logo": "/logos/tool8353.png",
     "domain": "quivr.app",
     "detailed_content": [
       {
@@ -17474,7 +17474,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=getgetai.com&sz=64",
+    "logo": "https://favicon.im/getgetai.com",
     "domain": "getgetai.com",
     "detailed_content": [
       {
@@ -17618,7 +17618,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=smartread.cc&sz=64",
+    "logo": "/logos/tool3674.png",
     "domain": "smartread.cc?utm_source=ai-bot.cn",
     "detailed_content": [
       {
@@ -18970,7 +18970,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=ai.lipind.com&sz=64",
+    "logo": "/logos/tool66201.png",
     "domain": "ai.lipind.com",
     "detailed_content": [
       {
@@ -19081,7 +19081,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.telehire.ai&sz=64",
+    "logo": "/logos/tool63291.png",
     "domain": "telehire.ai",
     "detailed_content": [
       {
@@ -19122,7 +19122,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=dinq.io&sz=64",
+    "logo": "/logos/tool58825.png",
     "domain": "dinq.io",
     "detailed_content": [
       {
@@ -19266,7 +19266,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.lanzidian.com&sz=64",
+    "logo": "/logos/tool26782.png",
     "domain": "lanzidian.com",
     "detailed_content": [
       {
@@ -19426,7 +19426,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-meeting",
-    "logo": "https://www.google.com/s2/favicons?domain=tingwu.aliyun.com&sz=64",
+    "logo": "/logos/tool2026.png",
     "domain": "tingwu.aliyun.com",
     "detailed_content": [
       {
@@ -19768,7 +19768,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-meeting",
-    "logo": "https://www.google.com/s2/favicons?domain=www.airgram.io&sz=64",
+    "logo": "/logos/tool1807.png",
     "domain": "airgram.io",
     "detailed_content": [
       {
@@ -19830,7 +19830,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=ima-app.image.myqcloud.com&sz=64",
+    "logo": "/logos/tool26420.png",
     "domain": "ima-app.image.myqcloud.com",
     "detailed_content": [
       {
@@ -20159,7 +20159,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=briefly.video&sz=64",
+    "logo": "/logos/tool71074.png",
     "domain": "briefly.video",
     "detailed_content": [
       {
@@ -20537,7 +20537,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=bangong.360.cn&sz=64",
+    "logo": "/logos/tool23449.png",
     "domain": "bangong.360.cn",
     "detailed_content": [
       {
@@ -20578,7 +20578,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=tome.app&sz=64",
+    "logo": "/logos/tool482.png",
     "domain": "tome.app",
     "detailed_content": [
       {
@@ -20755,7 +20755,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=smartchoose.cn&sz=64",
+    "logo": "/logos/tool14473.png",
     "domain": "smartchoose.cn",
     "detailed_content": [
       {
@@ -21199,7 +21199,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=transmart.qq.com&sz=64",
+    "logo": "/logos/tool26673.png",
     "domain": "transmart.qq.com",
     "detailed_content": [
       {
@@ -21302,7 +21302,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=www.trytoby.com&sz=64",
+    "logo": "/logos/tool16079.png",
     "domain": "trytoby.com",
     "detailed_content": [
       {
@@ -21600,7 +21600,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=kuaiyi.wps.cn&sz=64",
+    "logo": "/logos/tool1854.png",
     "domain": "kuaiyi.wps.cn",
     "detailed_content": [
       {
@@ -21687,7 +21687,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=workspace.dingtalk.com&sz=64",
+    "logo": "/logos/tool4080.png",
     "domain": "workspace.dingtalk.com",
     "detailed_content": [
       {
@@ -21986,7 +21986,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=agent.xfyun.cn&sz=64",
+    "logo": "/logos/astronclaw.png",
     "domain": "agent.xfyun.cn",
     "detailed_content": [
       {
@@ -22074,7 +22074,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=ml-explore.github.io&sz=64",
+    "logo": "/logos/mashangfei.png",
     "domain": "ml-explore.github.io",
     "detailed_content": [
       {
@@ -22156,7 +22156,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=flowith.paluai.com&sz=64",
+    "logo": "/logos/tool11395.png",
     "domain": "flowith.paluai.com",
     "detailed_content": [
       {
@@ -22242,7 +22242,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=agent.xfyun.cn&sz=64",
+    "logo": "/logos/tool50068.png",
     "domain": "agent.xfyun.cn",
     "detailed_content": [
       {
@@ -23801,7 +23801,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=qiewenpaper.com&sz=64",
+    "logo": "/logos/tool72406.png",
     "domain": "qiewenpaper.com",
     "detailed_content": [
       {
@@ -24080,7 +24080,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=seelesai.go.link&sz=64",
+    "logo": "/logos/tool59644.png",
     "domain": "seelesai.go.link",
     "detailed_content": [
       {
@@ -24142,7 +24142,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=www.tbox.cn&sz=64",
+    "logo": "/logos/tool62355.png",
     "domain": "tbox.cn",
     "detailed_content": [
       {
@@ -24647,7 +24647,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=www.ruciapp.com&sz=64",
+    "logo": "https://favicon.im/ruciapp.com",
     "domain": "ruciapp.com",
     "detailed_content": [
       {
@@ -25041,7 +25041,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=dis.chatdesks.cn&sz=64",
+    "logo": "/logos/tool1338.png",
     "domain": "dis.chatdesks.cn",
     "detailed_content": [
       {
@@ -25205,7 +25205,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=yuanbao.paluai.com&sz=64",
+    "logo": "/logos/tool12946.png",
     "domain": "yuanbao.paluai.com",
     "detailed_content": [
       {
@@ -25684,7 +25684,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=ling.tbox.cn&sz=64",
+    "logo": "/logos/tool64622.png",
     "domain": "ling.tbox.cn",
     "detailed_content": [
       {
@@ -25869,7 +25869,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=chat.sensetime.com&sz=64",
+    "logo": "/logos/tool11529.png",
     "domain": "chat.sensetime.com",
     "detailed_content": [
       {
@@ -26285,7 +26285,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-roleplay",
-    "logo": "https://www.google.com/s2/favicons?domain=www.museland.ai&sz=64",
+    "logo": "/logos/tool15123.png",
     "domain": "museland.ai",
     "detailed_content": [
       {
@@ -26437,7 +26437,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=chatwiz.cn&sz=64",
+    "logo": "/logos/tool13251.png",
     "domain": "chatwiz.cn",
     "detailed_content": [
       {
@@ -26470,7 +26470,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=maopaoya.com&sz=64",
+    "logo": "/logos/tool9412.png",
     "domain": "maopaoya.com",
     "detailed_content": [
       {
@@ -26750,7 +26750,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=luca-beta.modelbest.cn&sz=64",
+    "logo": "/logos/tool4362.png",
     "domain": "luca-beta.modelbest.cn",
     "detailed_content": [
       {
@@ -26820,7 +26820,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=www.chitchop.com&sz=64",
+    "logo": "/logos/tool6101.png",
     "domain": "chitchop.com",
     "detailed_content": [
       {
@@ -26948,7 +26948,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "https://www.google.com/s2/favicons?domain=tigerbot.com&sz=64",
+    "logo": "/logos/tool2771.png",
     "domain": "tigerbot.com",
     "detailed_content": [
       {
@@ -27824,7 +27824,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-ide",
-    "logo": "https://www.google.com/s2/favicons?domain=www.codebuddy.ai&sz=64",
+    "logo": "/logos/tool57753.png",
     "domain": "codebuddy.ai",
     "detailed_content": [
       {
@@ -28444,7 +28444,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=www.devchat.ai&sz=64",
+    "logo": "/logos/tool7582.png",
     "domain": "devchat.ai",
     "detailed_content": [
       {
@@ -28596,7 +28596,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=twinny.dev&sz=64",
+    "logo": "/logos/tool22307.png",
     "domain": "twinny.dev",
     "detailed_content": [
       {
@@ -28715,7 +28715,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=sketch2code.azurewebsites.net&sz=64",
+    "logo": "/logos/tool938.png",
     "domain": "sketch2code.azurewebsites.net",
     "detailed_content": [
       {
@@ -28740,7 +28740,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=codefuse.alipay.com&sz=64",
+    "logo": "/logos/tool5256.png",
     "domain": "codefuse.alipay.com",
     "detailed_content": [
       {
@@ -28946,7 +28946,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=preview.devin.ai&sz=64",
+    "logo": "/logos/tool9533.png",
     "domain": "preview.devin.ai",
     "detailed_content": [
       {
@@ -29020,7 +29020,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=code.fittentech.com&sz=64",
+    "logo": "/logos/tool7587.png",
     "domain": "code.fittentech.com",
     "detailed_content": [
       {
@@ -29210,7 +29210,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=codesandbox.io&sz=64",
+    "logo": "/logos/tool2610.png",
     "domain": "codesandbox.io",
     "detailed_content": [
       {
@@ -29239,7 +29239,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=www.quest.ai&sz=64",
+    "logo": "/logos/tool3051.png",
     "domain": "quest.ai",
     "detailed_content": [
       {
@@ -29276,7 +29276,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=sky-code.singularity-ai.com&sz=64",
+    "logo": "/logos/tool1801.png",
     "domain": "sky-code.singularity-ai.com",
     "detailed_content": [
       {
@@ -29417,7 +29417,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=ling-deco.jd.com&sz=64",
+    "logo": "/logos/tool2051.png",
     "domain": "ling-deco.jd.com",
     "detailed_content": [
       {
@@ -29592,7 +29592,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=debuild.app&sz=64",
+    "logo": "/logos/tool1493.png",
     "domain": "debuild.app",
     "detailed_content": [
       {
@@ -29658,7 +29658,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=fig.io&sz=64",
+    "logo": "/logos/tool114.png",
     "domain": "fig.io",
     "detailed_content": [
       {
@@ -29808,7 +29808,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "https://www.google.com/s2/favicons?domain=www.heycli.com&sz=64",
+    "logo": "/logos/tool115.png",
     "domain": "heycli.com",
     "detailed_content": [
       {
@@ -30234,7 +30234,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=try.wegic.ai&sz=64",
+    "logo": "/logos/tool12503.png",
     "domain": "try.wegic.ai",
     "detailed_content": [
       {
@@ -30500,7 +30500,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=aiart.chuangkit.com&sz=64",
+    "logo": "/logos/tool13019.png",
     "domain": "aiart.chuangkit.com",
     "detailed_content": [
       {
@@ -30746,7 +30746,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=idesign.alipay.com&sz=64",
+    "logo": "/logos/tool28903.png",
     "domain": "idesign.alipay.com",
     "detailed_content": [
       {
@@ -31054,7 +31054,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-logo",
-    "logo": "https://www.google.com/s2/favicons?domain=www.yanqueai.com&sz=64",
+    "logo": "https://favicon.im/yanqueai.com",
     "domain": "yanqueai.com",
     "detailed_content": [
       {
@@ -31585,7 +31585,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.fable.app&sz=64",
+    "logo": "/logos/tool10172.png",
     "domain": "fable.app",
     "detailed_content": [
       {
@@ -31963,7 +31963,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.kujiale.cn&sz=64",
+    "logo": "/logos/tool6309.png",
     "domain": "kujiale.cn",
     "detailed_content": [
       {
@@ -32222,7 +32222,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=vectorizer.ai&sz=64",
+    "logo": "/logos/tool3713.png",
     "domain": "vectorizer.ai",
     "detailed_content": [
       {
@@ -32684,7 +32684,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=kebuxi.datasink.sensorsdata.cn&sz=64",
+    "logo": "/logos/tool3433.png",
     "domain": "kebuxi.datasink.sensorsdata.cn",
     "detailed_content": [
       {
@@ -32857,7 +32857,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=huemint.com&sz=64",
+    "logo": "/logos/tool164.png",
     "domain": "huemint.com",
     "detailed_content": [
       {
@@ -33133,7 +33133,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "https://www.google.com/s2/favicons?domain=www.getalpaca.io&sz=64",
+    "logo": "/logos/tool1825.png",
     "domain": "getalpaca.io",
     "detailed_content": [
       {
@@ -33412,7 +33412,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=try.elevenlabs.io&sz=64",
+    "logo": "/logos/tool4294.png",
     "domain": "try.elevenlabs.io",
     "detailed_content": [
       {
@@ -34783,7 +34783,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-music",
-    "logo": "https://www.google.com/s2/favicons?domain=fryderyk.ai&sz=64",
+    "logo": "/logos/tool14961.png",
     "domain": "fryderyk.ai",
     "detailed_content": [
       {
@@ -34972,7 +34972,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=deepgram.partnerlinks.io&sz=64",
+    "logo": "/logos/tool9548.png",
     "domain": "deepgram.partnerlinks.io",
     "detailed_content": [
       {
@@ -35009,7 +35009,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=audiobox.metademolab.com&sz=64",
+    "logo": "/logos/tool6630.png",
     "domain": "audiobox.metademolab.com",
     "detailed_content": [
       {
@@ -35182,7 +35182,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=www.kzzimu.com&sz=64",
+    "logo": "/logos/tool6544.png",
     "domain": "kzzimu.com",
     "detailed_content": [
       {
@@ -35371,7 +35371,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-music",
-    "logo": "https://www.google.com/s2/favicons?domain=beatbot.fm&sz=64",
+    "logo": "/logos/tool1965.png",
     "domain": "beatbot.fm",
     "detailed_content": [
       {
@@ -35569,7 +35569,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
-    "logo": "https://www.google.com/s2/favicons?domain=play.ht&sz=64",
+    "logo": "/logos/tool253.png",
     "domain": "play.ht",
     "detailed_content": [
       {
@@ -35882,7 +35882,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-edit",
-    "logo": "https://www.google.com/s2/favicons?domain=themetavoice.xyz&sz=64",
+    "logo": "/logos/tool404.png",
     "domain": "themetavoice.xyz",
     "detailed_content": [
       {
@@ -36483,7 +36483,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=think.baidu.com&sz=64",
+    "logo": "/logos/tool28907.png",
     "domain": "think.baidu.com",
     "detailed_content": [
       {
@@ -37121,7 +37121,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=www.phind.com&sz=64",
+    "logo": "/logos/tool11852.png",
     "domain": "phind.com",
     "detailed_content": [
       {
@@ -37221,7 +37221,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=searcholic.com&sz=64",
+    "logo": "/logos/tool11853.png",
     "domain": "searcholic.com",
     "detailed_content": [
       {
@@ -37375,7 +37375,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=www.adot.tech&sz=64",
+    "logo": "/logos/tool14712.png",
     "domain": "adot.tech",
     "detailed_content": [
       {
@@ -37412,7 +37412,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
-    "logo": "https://www.google.com/s2/favicons?domain=kaisouai.com&sz=64",
+    "logo": "/logos/tool12880.png",
     "domain": "kaisouai.com",
     "detailed_content": [
       {
@@ -38207,7 +38207,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=ecloud.10086.cn&sz=64",
+    "logo": "/logos/tool77159.png",
     "domain": "ecloud.10086.cn",
     "detailed_content": [
       {
@@ -38350,7 +38350,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=www.lingguang.com&sz=64",
+    "logo": "/logos/tool68455.png",
     "domain": "lingguang.com",
     "detailed_content": [
       {
@@ -38428,7 +38428,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-api",
-    "logo": "https://www.google.com/s2/favicons?domain=www.agentsyun.com&sz=64",
+    "logo": "/logos/tool76356.png",
     "domain": "agentsyun.com",
     "detailed_content": [
       {
@@ -39223,7 +39223,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=tbox.alipay.com&sz=64",
+    "logo": "/logos/tool16414.png",
     "domain": "tbox.alipay.com",
     "detailed_content": [
       {
@@ -39264,7 +39264,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=wavespeed.ai&sz=64",
+    "logo": "/logos/tool60829.png",
     "domain": "wavespeed.ai",
     "detailed_content": [
       {
@@ -39375,7 +39375,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-api",
-    "logo": "https://www.google.com/s2/favicons?domain=www.x-aio.com&sz=64",
+    "logo": "/logos/tool61576.png",
     "domain": "x-aio.com",
     "detailed_content": [
       {
@@ -39564,7 +39564,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=model-platform-skyagents.tiangong.cn&sz=64",
+    "logo": "/logos/tool24351.png",
     "domain": "model-platform-skyagents.tiangong.cn",
     "detailed_content": [
       {
@@ -39943,7 +39943,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=ml-explore.github.io&sz=64",
+    "logo": "/logos/tool6853.png",
     "domain": "ml-explore.github.io",
     "detailed_content": [
       {
@@ -40017,7 +40017,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-api",
-    "logo": "https://www.google.com/s2/favicons?domain=lumina.sh&sz=64",
+    "logo": "https://favicon.im/lumina.sh",
     "domain": "lumina.sh",
     "detailed_content": [
       {
@@ -40268,7 +40268,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "https://www.google.com/s2/favicons?domain=www.nltk.org&sz=64",
+    "logo": "/logos/tool1273.png",
     "domain": "nltk.org",
     "detailed_content": [
       {
@@ -40638,7 +40638,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-learning-tutor",
-    "logo": "https://www.google.com/s2/favicons?domain=www.fast.ai&sz=64",
+    "logo": "/logos/tool1356.png",
     "domain": "fast.ai",
     "detailed_content": [
       {
@@ -41534,7 +41534,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-video",
-    "logo": "https://www.google.com/s2/favicons?domain=ai.volcengine.com&sz=64",
+    "logo": "/logos/tool22232.png",
     "domain": "ai.volcengine.com",
     "detailed_content": [
       {
@@ -41768,7 +41768,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=www.openbmb.org&sz=64",
+    "logo": "https://favicon.im/openbmb.org",
     "domain": "openbmb.org",
     "detailed_content": [
       {
@@ -41924,7 +41924,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=lamini.ai&sz=64",
+    "logo": "/logos/tool49.png",
     "domain": "lamini.ai",
     "detailed_content": [
       {
@@ -41961,7 +41961,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-image",
-    "logo": "https://www.google.com/s2/favicons?domain=moss.fastnlp.top&sz=64",
+    "logo": "/logos/tool50.png",
     "domain": "moss.fastnlp.top",
     "detailed_content": [
       {
@@ -42036,7 +42036,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=www.baai.ac.cn&sz=64",
+    "logo": "/logos/tool1083.png",
     "domain": "baai.ac.cn",
     "detailed_content": [
       {
@@ -42244,7 +42244,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=lamini.ai&sz=64",
+    "logo": "/logos/tool2038.png",
     "domain": "lamini.ai",
     "detailed_content": [
       {
@@ -42319,7 +42319,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=www.deepspeed.ai&sz=64",
+    "logo": "/logos/tool1520.png",
     "domain": "deepspeed.ai",
     "detailed_content": [
       {
@@ -42373,7 +42373,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-image",
-    "logo": "https://www.google.com/s2/favicons?domain=segment-anything.com&sz=64",
+    "logo": "/logos/tool1351.png",
     "domain": "segment-anything.com",
     "detailed_content": [
       {
@@ -42439,7 +42439,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-image",
-    "logo": "https://www.google.com/s2/favicons?domain=imagen.research.google&sz=64",
+    "logo": "/logos/tool55.png",
     "domain": "imagen.research.google",
     "detailed_content": [
       {
@@ -42464,7 +42464,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=chat.lmsys.org&sz=64",
+    "logo": "/logos/tool2113.png",
     "domain": "chat.lmsys.org",
     "detailed_content": [
       {
@@ -42614,7 +42614,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=chat.sensetime.com&sz=64",
+    "logo": "/logos/tool1539.png",
     "domain": "chat.sensetime.com",
     "detailed_content": [
       {
@@ -42639,7 +42639,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
-    "logo": "https://www.google.com/s2/favicons?domain=moss.fastnlp.top&sz=64",
+    "logo": "/logos/tool1858.png",
     "domain": "moss.fastnlp.top",
     "detailed_content": [
       {
@@ -43731,7 +43731,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-prompt-library",
-    "logo": "https://www.google.com/s2/favicons?domain=promptpilot.volcengine.com&sz=64",
+    "logo": "/logos/tool69602.png",
     "domain": "promptpilot.volcengine.com",
     "detailed_content": [
       {
@@ -43883,7 +43883,7 @@
     "pricing": "paid",
     "createdAt": "2025-01-01",
     "subcategory": "ai-prompt-library",
-    "logo": "https://www.google.com/s2/favicons?domain=promptperfect.jinaai.cn&sz=64",
+    "logo": "https://favicon.im/promptperfect.jinaai.cn",
     "domain": "promptperfect.jinaai.cn",
     "detailed_content": [
       {
@@ -44027,7 +44027,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-prompt-library",
-    "logo": "https://www.google.com/s2/favicons?domain=prompt.phodal.com&sz=64",
+    "logo": "/logos/tool756.png",
     "domain": "prompt.phodal.com",
     "detailed_content": [
       {
@@ -44376,7 +44376,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-prompt-library",
-    "logo": "https://www.google.com/s2/favicons?domain=www.aipromptgenius.app&sz=64",
+    "logo": "/logos/tool748.png",
     "domain": "aipromptgenius.app",
     "detailed_content": [
       {
@@ -44527,7 +44527,7 @@
     "pricing": "freemium",
     "createdAt": "2026-09-25",
     "subcategory": "ai-agent-automation",
-    "logo": "https://www.google.com/s2/favicons?domain=muse.ai&sz=64",
+    "logo": "/logos/muse-meta.png",
     "domain": "muse.ai",
     "detailed_content": [
       {
@@ -44567,7 +44567,7 @@
     "pricing": "freemium",
     "createdAt": "2026-09-25",
     "subcategory": "ai-video-digital-human",
-    "logo": "https://www.google.com/s2/favicons?domain=vivix.ai&sz=64",
+    "logo": "/logos/vivix.png",
     "domain": "vivix.ai",
     "detailed_content": [
       {
@@ -44607,7 +44607,7 @@
     "pricing": "freemium",
     "createdAt": "2026-09-23",
     "subcategory": "ai-agent-automation",
-    "logo": "https://www.google.com/s2/favicons?domain=hellome.art&sz=64",
+    "logo": "/logos/hellome.png",
     "domain": "hellome.art",
     "detailed_content": [
       {
@@ -44648,7 +44648,7 @@
     "pricing": "freemium",
     "createdAt": "2026-09-23",
     "subcategory": "ai-agent-automation",
-    "logo": "https://www.google.com/s2/favicons?domain=lingxi.cn&sz=64",
+    "logo": "/logos/lingxi-wps.png",
     "domain": "lingxi.cn",
     "detailed_content": [
       {
@@ -44688,7 +44688,7 @@
     "pricing": "freemium",
     "createdAt": "2026-09-23",
     "subcategory": "ai-audio-music",
-    "logo": "https://www.google.com/s2/favicons?domain=music.douyin.com&sz=64",
+    "logo": "/logos/miaoxiang.png",
     "domain": "music.douyin.com",
     "detailed_content": [
       {
@@ -44728,7 +44728,7 @@
     "pricing": "freemium",
     "createdAt": "2026-09-23",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=pilex.yzsdai.top&sz=64",
+    "logo": "/logos/pilex.png",
     "domain": "pilex.yzsdai.top",
     "detailed_content": [
       {
@@ -44768,7 +44768,7 @@
     "pricing": "freemium",
     "createdAt": "2026-09-23",
     "subcategory": "ai-platform-api",
-    "logo": "https://www.google.com/s2/favicons?domain=typesafe.ai&sz=64",
+    "logo": "/logos/jev.png",
     "domain": "typesafe.ai",
     "detailed_content": [
       {
@@ -44809,7 +44809,7 @@
     "pricing": "freemium",
     "createdAt": "2026-09-22",
     "subcategory": "ai-image-product",
-    "logo": "https://www.google.com/s2/favicons?domain=lainuoniao.com&sz=64",
+    "logo": "/logos/lainuoniao.png",
     "domain": "lainuoniao.com",
     "detailed_content": [
       {
@@ -44850,7 +44850,7 @@
     "pricing": "freemium",
     "createdAt": "2026-09-22",
     "subcategory": "ai-image-illustration",
-    "logo": "https://www.google.com/s2/favicons?domain=sci-draw.com&sz=64",
+    "logo": "/logos/scidraw-ai.png",
     "domain": "sci-draw.com",
     "detailed_content": [
       {
@@ -44891,7 +44891,7 @@
     "pricing": "paid",
     "createdAt": "2026-09-20",
     "subcategory": "ai-agent-framework",
-    "logo": "https://www.google.com/s2/favicons?domain=tezign.com&sz=64",
+    "logo": "/logos/tezign.png",
     "domain": "tezign.com",
     "detailed_content": [
       {
@@ -44931,7 +44931,7 @@
     "pricing": "freemium",
     "createdAt": "2026-09-20",
     "subcategory": "ai-video-generation",
-    "logo": "https://www.google.com/s2/favicons?domain=huimengi.com&sz=64",
+    "logo": "/logos/huimengi.png",
     "domain": "huimengi.com",
     "detailed_content": [
       {
@@ -44971,7 +44971,7 @@
     "pricing": "paid",
     "createdAt": "2026-09-19",
     "subcategory": "ai-office-doc",
-    "logo": "https://www.google.com/s2/favicons?domain=biaodaren.manaont.com&sz=64",
+    "logo": "/logos/biaodaren.png",
     "domain": "biaodaren.manaont.com",
     "detailed_content": [
       {
@@ -44989,6 +44989,485 @@
       {
         "title": "标达人的应用场景",
         "html": "<ul>\n<li><strong>政府采购项目</strong>：评分项逐条响应、废标条款逐条核对。</li>\n<li><strong>工程施工类</strong>：房屋、市政、公路、水利、电力等，处理施工组织设计与多标段分包。</li>\n<li><strong>货物采购类</strong>：询价与公开招标通道，支持投标货物业绩等评分项。</li>\n<li><strong>服务类项目</strong>：物业、冷链、家具等，竞争性谈判与磋商通道单独优化。</li>\n<li><strong>大型企业与代理机构</strong>：可走私有化部署或通过 API Key 与 MCP 端点对接既有系统。</li>\n</ul>"
+      }
+    ]
+  },
+  {
+    "slug": "motiofy",
+    "name": "Motiofy",
+    "description": "属于AI视频工具·AI视频生成分类。Motiofy是一款AI视频工具领域的免费增值AI工具，一站式AI图生视频工作台，聚合Seedance、Kling、MiniMax、Wan等旗舰模型，支持精准运镜与真人动作迁移。",
+    "url": "https://motiofy.ai/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "AI视频",
+      "图生视频",
+      "多模型聚合",
+      "运镜控制"
+    ],
+    "featured": true,
+    "rating": 4.5,
+    "pricing": "freemium",
+    "createdAt": "2026-09-26",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/motiofy.png",
+    "domain": "motiofy.ai",
+    "detailed_content": [
+      {
+        "title": "Motiofy是什么",
+        "html": "<p>Motiofy 是聚合 Seedance、Kling、MiniMax、Wan 等旗舰模型的一站式 AI 图生视频工作台。上传图片或输入文字即可生成视频，支持精准运镜、首尾帧过渡、参考图锁定主体及真人动作迁移。生成前实时预估积分、费用透明，成片自动归档、无水印高清导出，适合电商卖家、自媒体、插画师与营销团队低成本批量出片。</p>"
+      },
+      {
+        "title": "Motiofy的主要功能",
+        "html": "<ul>\n<li><strong>图生视频</strong>：上传商品图、照片或插画，配一句运镜描述即可一键生成动态短片。</li>\n<li><strong>文生视频</strong>：直接输入文字分镜，由 AI 生成商用级动态画面，免费计划可用基础模型体验。</li>\n<li><strong>动作控制</strong>：上传角色图与真人表演视频，将舞蹈、手势等动作精准迁移至动漫或写实角色。</li>\n<li><strong>多模型聚合</strong>：直连 Seedance、Kling、MiniMax、Wan 等旗舰模型，按需自由切换，无需分别订阅。</li>\n<li><strong>首尾帧控制</strong>：指定起始与结束画面，AI 自动补全中间过渡，适合产品蜕变、前后对比镜头。</li>\n<li><strong>参考图锁定</strong>：上传参考图固定商品外形、角色五官与画风，确保多镜头创作不走样。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用Motiofy",
+        "html": "<ul>\n<li>访问 Motiofy 官网 motiofy.ai，注册并登录账号。</li>\n<li>导入照片、插画或商品图；文生视频直接输入文字分镜。</li>\n<li>用大白话描述动作与运镜需求，例如“镜头缓慢推进、光带环绕瓶身”。</li>\n<li>从 Seedance、Kling、MiniMax、Wan 等旗舰模型中挑选最匹配的一个。</li>\n<li>核对实时预估积分后点击生成，等待数分钟渲染完成。</li>\n<li>成片自动存入“我的作品”，可无水印高清导出或微调提示词重新生成。</li>\n</ul>"
+      },
+      {
+        "title": "Motiofy的应用场景",
+        "html": "<ul>\n<li><strong>电商商品展示</strong>：上传商品白底图一键生成带运镜和光影的广告短片，批量盘活型录图。</li>\n<li><strong>社媒短视频创作</strong>：把日常照片做成适配抖音、TikTok、Reels 的竖屏爆款短视频。</li>\n<li><strong>插画与二次元动态化</strong>：为静态绘画注入动态生命力，实现水墨、折纸等材质蜕变效果。</li>\n<li><strong>广告创意预演</strong>：一张产品图快速测试多种运镜变体，压缩实拍与前期试错成本。</li>\n<li><strong>真人动作迁移</strong>：上传角色图配合真人表演视频，用舞蹈、手势驱动动漫或 3D 角色。</li>\n</ul>"
+      }
+    ]
+  },
+  {
+    "slug": "lightx2v-studio",
+    "name": "LightX2V Studio",
+    "description": "属于AI视频工具·AI数字人分类。LightX2V Studio是一款AI视频工具领域的免费增值AI工具，集数字人、图生视频、图像与声音生成于一体的一站式AI创作平台，源自轻量高性能开源推理框架。",
+    "url": "https://x2v.light-ai.top/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "AI数字人",
+      "图生视频",
+      "声音克隆",
+      "开源框架"
+    ],
+    "featured": true,
+    "rating": 4.5,
+    "pricing": "freemium",
+    "createdAt": "2026-09-26",
+    "subcategory": "ai-video-digital-human",
+    "logo": "/logos/lightx2v-studio.png",
+    "domain": "x2v.light-ai.top",
+    "detailed_content": [
+      {
+        "title": "LightX2V Studio是什么",
+        "html": "<p>LightX2V Studio 是从灵感到生产的一站式 AI 创作平台，起步于轻量、高性能的开源图像与视频生成推理框架。平台集数字人、视频生成、图像创作和声音处理于一体，覆盖口型同步、文生视频、图生视频、角色替换、动作迁移、AI 配音和声音克隆等创作环节。</p>"
+      },
+      {
+        "title": "LightX2V Studio的主要功能",
+        "html": "<ul>\n<li><strong>多模态创作 Agent</strong>：理解图片、视频、音频和文字素材，用自然语言完成脚本分析、提示词编写与任务编排。</li>\n<li><strong>AI数字人 SekoTalk</strong>：支持单人及多人精准口型同步，单段最长 60 秒，内置 200 多种音色并支持多语言配音。</li>\n<li><strong>参考视频复刻同款</strong>：输入参考视频 URL，Agent 分析镜头结构与风格后重新生成相近表现的新作品。</li>\n<li><strong>AI视频生成</strong>：支持文生视频、图生视频、首尾帧和多关键帧生成，可自选比例、时长与分辨率。</li>\n<li><strong>视频创意处理</strong>：提供角色替换、动作迁移、画质增强及人物与风格一致性控制。</li>\n<li><strong>AI图片与声音工具</strong>：支持最高 4K 出图、多参考图编辑，以及文字转语音、AI 配音和声音克隆。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用LightX2V Studio",
+        "html": "<ul>\n<li>访问 LightX2V Studio 官网 x2v.light-ai.top，注册并登录账号。</li>\n<li>按需求选择数字人、文生视频、图生视频、图片生成或声音工具。</li>\n<li>输入提示词，上传人物图片、参考视频或音频素材。</li>\n<li>选择模型、画面比例、时长、分辨率等参数后提交生成任务。</li>\n<li>预览结果继续调整或下载成品；重复性任务可用 Canvas 保存工作流。</li>\n<li>开发者可通过 API 与 Skill 接入，或从 GitHub 获取开源推理框架本地部署。</li>\n</ul>"
+      },
+      {
+        "title": "LightX2V Studio的应用场景",
+        "html": "<ul>\n<li><strong>短视频创作</strong>：生成口播与剧情类视频，降低拍摄成本、提升更新效率。</li>\n<li><strong>电商营销</strong>：制作商品图与带货视频，增强商品展示并促进转化。</li>\n<li><strong>自媒体运营</strong>：批量产出日常内容，保障多账号矩阵稳定高频更新。</li>\n<li><strong>品牌营销</strong>：制作数字人代言与品牌宣传片，统一视觉调性。</li>\n<li><strong>内容出海</strong>：生成多语言数字人视频，低成本实现全球市场本地化分发。</li>\n</ul>"
+      }
+    ]
+  },
+  {
+    "slug": "astudio",
+    "name": "AStudio",
+    "description": "属于AI办公工具·AI文档处理分类。AStudio是一款AI办公工具领域的免费增值AI工具，科大讯飞推出的全场景AI生产力工作台，以星火X2.5为核心、ACode Harness为执行内核，覆盖办公与Coding。",
+    "url": "https://agent.xfyun.cn/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "AI办公",
+      "AI智能体",
+      "全场景",
+      "讯飞"
+    ],
+    "featured": true,
+    "rating": 4.5,
+    "pricing": "freemium",
+    "createdAt": "2026-09-26",
+    "subcategory": "ai-office-doc",
+    "logo": "/logos/astudio.png",
+    "domain": "agent.xfyun.cn",
+    "detailed_content": [
+      {
+        "title": "AStudio是什么",
+        "html": "<p>AStudio 是科大讯飞推出的新一代全场景 AI 生产力工作台，以星火 X2.5 大模型为核心、ACode Harness 为执行内核，支持多模型切换。AStudio 分日常与项目双空间，能连接本地文件和真实项目，自动规划任务、调用工具、修改文件并验证结果，覆盖办公、Coding、数据分析等场景，全程透明可控、数据本地安全。</p>"
+      },
+      {
+        "title": "AStudio的主要功能",
+        "html": "<ul>\n<li><strong>双空间工作</strong>：日常空间处理办公任务，项目空间连接本地文件夹直接读写代码、运行命令。</li>\n<li><strong>多模型切换</strong>：以星火 X2.5 为核心，支持 DeepSeek 等开源模型自由切换。</li>\n<li><strong>三种执行模式</strong>：简单任务直接执行，复杂任务可选规划模式或目标模式。</li>\n<li><strong>全自动任务闭环</strong>：自动规划、调用工具、修改文件并验证结果，交付文档、网页、代码等成果。</li>\n<li><strong>过程透明可控</strong>：任务进度全程可视，文件修改可看 Diff，关键操作需用户审批。</li>\n<li><strong>生态开放扩展</strong>：内置翻译、OCR、PPT 等讯飞能力，支持插件市场、MCP 与 Skills 扩展。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用AStudio",
+        "html": "<ul>\n<li>访问 AStudio 官网 agent.xfyun.cn 下载并安装桌面客户端。</li>\n<li>登录账号，新用户自动领取 1,000 积分。</li>\n<li>日常任务进“日常空间”，代码项目进“项目空间”并连接本地文件夹。</li>\n<li>用文字或语音输入需求，简单任务直接执行，复杂任务可选规划或目标模式。</li>\n<li>规划模式下先审核 AI 生成的方案，关键操作按需审批。</li>\n<li>实时查看进度与 Diff，验收交付的文档、网页或代码。</li>\n</ul>"
+      },
+      {
+        "title": "AStudio的应用场景",
+        "html": "<ul>\n<li><strong>出海营销建站</strong>：一句话生成多语种营销工作台，产出可在线编辑的专属网页。</li>\n<li><strong>运营数据分析</strong>：读取本地运营底表，自动统计 PV、DAU、留存等指标并生成交互式数据看板。</li>\n<li><strong>学术科研调研</strong>：检索论文专利、筛选强相关文献，输出可视化的研究脉络网页。</li>\n<li><strong>Coding 项目开发</strong>：连接本地项目文件夹，理解代码结构、修改文件、运行命令。</li>\n<li><strong>移动办公救急</strong>：通过星火 APP 拍照识别白板内容，现场生成会议纪要 Word 与待办 Excel。</li>\n</ul>"
+      }
+    ]
+  },
+  {
+    "slug": "doubao-work",
+    "name": "豆包工作",
+    "description": "属于AI办公工具·AI文档处理分类。豆包工作是一款AI办公工具领域的免费增值AI工具，字节跳动推出的AI Agent办公产品，自主拆解任务、调用工具，与飞书深度打通。",
+    "url": "https://www.doubao.com/work",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "AI办公",
+      "AI Agent",
+      "飞书",
+      "字节跳动"
+    ],
+    "featured": true,
+    "rating": 4.5,
+    "pricing": "freemium",
+    "createdAt": "2026-09-26",
+    "subcategory": "ai-office-doc",
+    "logo": "/logos/doubao-work.png",
+    "domain": "www.doubao.com",
+    "detailed_content": [
+      {
+        "title": "豆包工作是什么",
+        "html": "<p>豆包工作是字节跳动推出的 AI Agent 办公产品，能自主拆解任务、调用工具，完成写文档、做 PPT、搭系统、操作浏览器等复杂工作流。豆包工作与飞书深度打通，基于企业上下文精准办公，支持全程可见、随时接管，具备企业级安全防护。</p>"
+      },
+      {
+        "title": "豆包工作的主要功能",
+        "html": "<ul>\n<li><strong>自主任务拆解与执行</strong>：围绕用户目标自主拆解任务、调用工具、持续推进复杂工作流。</li>\n<li><strong>Office 工具</strong>：生成专业的 PPT、文档和表格，加速专业成果交付。</li>\n<li><strong>深入调研分析</strong>：深度分析复杂问题，检索多方相关信息，生成专业研究报告。</li>\n<li><strong>电脑与浏览器操作</strong>：读写本地文件、自动打开网页填写信息，也可通过手机远程派发任务。</li>\n<li><strong>AI 精准编辑</strong>：对文档、PPT、网页或应用中的具体位置进行精准编辑。</li>\n<li><strong>飞书深度打通</strong>：接入飞书后可查会议结论、总结群聊、制定方案、生成周报。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用豆包工作",
+        "html": "<ul>\n<li>访问豆包工作官网 doubao.com/work，下载电脑版安装。</li>\n<li>登录账号后进入主界面。</li>\n<li>在对话窗口输入任务需求，豆包工作会自动拆解并执行。</li>\n<li>需要时可随时暂停或接管 Agent 的操作。</li>\n<li>通过手机远程向豆包工作派发任务。</li>\n<li>接入飞书后，可基于企业上下文完成更精准的办公任务。</li>\n</ul>"
+      },
+      {
+        "title": "豆包工作的应用场景",
+        "html": "<ul>\n<li><strong>电商运营</strong>：自动生成商品标题、详情文案、客服话术及大促活动策划。</li>\n<li><strong>金融研究</strong>：快速筛选标的、解读公告、搭建估值模型，辅助投研决策。</li>\n<li><strong>医疗辅助</strong>：针对复杂病例提供循证建议，检索医学文献并定期推送最新指南解读。</li>\n<li><strong>企业办公</strong>：自动汇总飞书群聊与会议纪要生成周报，搭建生产日报等内部系统。</li>\n<li><strong>内容创作</strong>：一键生成多平台差异化文案与海报，结合视频模型完成分镜到成片。</li>\n</ul>"
+      }
+    ]
+  },
+  {
+    "slug": "aionclaw",
+    "name": "AionClaw",
+    "description": "属于AI智能体·AI自动化分类。AionClaw是一款AI智能体领域的免费增值AI工具，杭州趣猿推出的桌面级AI智能体，基于OpenClaw深度升级，可直接在电脑上读写文件、运行脚本、操作浏览器。",
+    "url": "https://prom.aionclaw.com/tool/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "AI智能体",
+      "桌面端",
+      "RPA",
+      "远程控制"
+    ],
+    "featured": false,
+    "rating": 4.5,
+    "pricing": "freemium",
+    "createdAt": "2026-09-26",
+    "subcategory": "ai-agent-automation",
+    "logo": "/logos/aionclaw.png",
+    "domain": "prom.aionclaw.com",
+    "detailed_content": [
+      {
+        "title": "AionClaw是什么",
+        "html": "<p>AionClaw 是杭州趣猿推出的桌面级 AI 智能体，基于 OpenClaw 深度升级，一键安装零门槛。AionClaw 能对话，更能直接在用户的电脑上读写文件、运行脚本、操作浏览器，自动交付 Word、PPT、Excel、PDF 乃至视频成片等成品。平台内置 DeepSeek、千问、Kimi 等主流大模型，支持本地运行与数据安全可控。</p>"
+      },
+      {
+        "title": "AionClaw的主要功能",
+        "html": "<ul>\n<li><strong>任务直接执行、成品落地</strong>：直接读写文档、运行脚本，把 Word、PPT、Excel 等成品自动保存到本地。</li>\n<li><strong>数字专家自动匹配</strong>：内置 PPT 制作、Excel 表格、软件开发、抖音运营等数字专家，系统按任务内容自动派单。</li>\n<li><strong>主流大模型开箱即用</strong>：聚合 DeepSeek、通义千问、Kimi、智谱 GLM 等模型，无需自备 API Key。</li>\n<li><strong>自进化记忆</strong>：持久记住用户的工作偏好与习惯，跨任务延续，越用越顺手。</li>\n<li><strong>技能市场</strong>：社区 5000+ 技能免费安装，覆盖文档、设计、数据等场景。</li>\n<li><strong>手机远程派活</strong>：绑定微信、飞书、钉钉等后，手机发指令，电脑自动执行并回传结果。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用AionClaw",
+        "html": "<ul>\n<li>访问 AionClaw 官网 prom.aionclaw.com，一键下载安装 Windows/macOS 客户端。</li>\n<li>在对话框用自然语言描述具体目标，系统自动匹配数字专家与大模型。</li>\n<li>本地自动拆解步骤并执行，完成后直接把成品文件交给用户。</li>\n<li>不满意可语音或文字提修改意见，基于现有成品调整。</li>\n<li>在技能市场安装技能或创建专属数字专家。</li>\n<li>在设置中绑定微信、飞书、钉钉，并可将日报周报设为定时任务。</li>\n</ul>"
+      },
+      {
+        "title": "AionClaw的应用场景",
+        "html": "<ul>\n<li><strong>日常办公</strong>：自动生成周报月报、会议纪要、推广方案、合同审查等规范文档。</li>\n<li><strong>数据与汇报</strong>：清洗分析 Excel 数据、生成图表、输出整套商务 PPT。</li>\n<li><strong>自媒体与短视频</strong>：完成选题挖掘、爆款分析、脚本撰写及小红书/抖音运营。</li>\n<li><strong>短/漫剧创作</strong>：从一句灵感出发，一站式完成剧本、分镜到成片。</li>\n<li><strong>电商运营</strong>：批量抓取商品信息、整理订单库存、生成直播话术与客服回复。</li>\n</ul>"
+      }
+    ]
+  },
+  {
+    "slug": "codewave",
+    "name": "CodeWave",
+    "description": "属于AI编程工具·AI代码生成分类。CodeWave是一款AI编程工具领域的免费增值AI工具，网易智企推出的企业级可控AI Coding平台，基于自研NASL领域语言和Spec驱动开发。",
+    "url": "https://codewave.163.com/",
+    "categories": [
+      "ai-coding"
+    ],
+    "tags": [
+      "AI编程",
+      "企业级",
+      "低代码",
+      "NASL"
+    ],
+    "featured": false,
+    "rating": 4.5,
+    "pricing": "freemium",
+    "createdAt": "2026-09-26",
+    "subcategory": "ai-coding-generator",
+    "logo": "/logos/codewave.png",
+    "domain": "codewave.163.com",
+    "detailed_content": [
+      {
+        "title": "CodeWave是什么",
+        "html": "<p>CodeWave SDD 是网易智企旗下可控的企业级 AI Coding 平台，基于自研 NASL 领域语言和 Spec 驱动开发，替代 Prompt 玄学，实现 Prompt→需求→设计→任务→代码全流程可控、可审、可回退。平台统一技术栈，沉淀组件、服务等企业资产支持复用，可导出 Vue/React/Spring 标准源码，不锁定厂商。</p>"
+      },
+      {
+        "title": "CodeWave的主要功能",
+        "html": "<ul>\n<li><strong>NASL 领域特定语言</strong>：网易自研的 Web 应用描述语言，通过强类型系统和静态检查让 AI 生成代码可见可控。</li>\n<li><strong>可视化编程</strong>：拖拽式页面/逻辑/数据/流程设计器，让非技术成员也能参与开发与验证。</li>\n<li><strong>Spec 驱动开发</strong>：用标准化 Spec 文档替代 Prompt 玄学，实现从需求到代码的规范流程。</li>\n<li><strong>企业资产中心</strong>：统一管理组件、服务、连接器等 IT 资产，支持智能生成与复用。</li>\n<li><strong>历史源码复用</strong>：对接企业现有代码库并识别通用代码，加速 IT 资产沉淀。</li>\n<li><strong>源码导出</strong>：支持导出 Vue/React/Spring 工程模板，生成标准 JS/Java 源码，不锁定厂商。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用CodeWave",
+        "html": "<ul>\n<li>访问 CodeWave 官网 codewave.163.com，完成账号登录和注册。</li>\n<li>用自然语言描述业务需求，平台辅助将模糊想法转化为结构化需求文档。</li>\n<li>将需求标准化为 Spec 文档，作为后续 AI 生成的唯一依据。</li>\n<li>通过可视化设计器搭建页面、逻辑、数据与流程，技术方案可审查、可调整。</li>\n<li>平台自动将 Spec 拆解为 Design → Tasks 的开发任务清单。</li>\n<li>AI 基于 NASL 约束和企业资产库生成代码并自动测试，确认后发布或导出源码自主部署。</li>\n</ul>"
+      },
+      {
+        "title": "CodeWave的应用场景",
+        "html": "<ul>\n<li><strong>企业内部管理系统快速交付</strong>：OA、CRM、ERP 外围系统等中后台应用，大幅缩短需求到上线周期。</li>\n<li><strong>金融/政企高合规场景</strong>：银行、烟草、国企等对代码安全和自主可控要求高的行业实现可控交付。</li>\n<li><strong>存量系统改造与资产盘活</strong>：识别并复用历史通用代码，将老系统逐步迁移至统一技术栈。</li>\n<li><strong>业务人员参与的敏捷开发</strong>：让产品经理、业务运营等非技术人员参与原型搭建与验证。</li>\n<li><strong>高校教学与人才培养</strong>：作为低门槛的 AI 开发教学平台，帮助学生理解工程化开发流程。</li>\n</ul>"
+      }
+    ]
+  },
+  {
+    "slug": "pangzhengboyin",
+    "name": "庞征博引",
+    "description": "属于AI学习网站·AI学习助手分类。庞征博引是一款AI学习网站领域的免费增值AI工具，面向自主学习与终身学习者的AI学习工具，把想了解的主题写成5-10分钟能读完的个性化连载文章。",
+    "url": "https://pangzhengboyin.com/",
+    "categories": [
+      "ai-learning"
+    ],
+    "tags": [
+      "AI学习",
+      "个性化学习",
+      "微学习"
+    ],
+    "featured": false,
+    "rating": 4.5,
+    "pricing": "freemium",
+    "createdAt": "2026-09-26",
+    "subcategory": "ai-learning-tutor",
+    "logo": "/logos/pangzhengboyin.png",
+    "domain": "pangzhengboyin.com",
+    "detailed_content": [
+      {
+        "title": "庞征博引是什么",
+        "html": "<p>庞征博引是面向自主学习和终身学习者的 AI 学习工具，把想系统了解的主题写成一篇篇 5–10 分钟能读完、前后衔接的个性化文章。用户先说出想学什么，产品了解其基础、目标和起点，再围绕这个主题持续连载。阅读时可以直接针对某一段提问或反馈理解程度，这些信息会影响后续文章的内容和方向。</p>"
+      },
+      {
+        "title": "庞征博引的主要功能",
+        "html": "<ul>\n<li><strong>把主题写成连载</strong>：每个学习主题由一组前后承接的文章组成，帮助读者逐步建立认知。</li>\n<li><strong>从读者的起点开始</strong>：开始前先了解已有基础、学习目标和兴趣，避免重复已经会的内容。</li>\n<li><strong>每篇 5–10 分钟</strong>：以微学习节奏拆解复杂主题，让一次阅读能认真完成，也更容易长期坚持。</li>\n<li><strong>边读边问</strong>：选中正文任意一段即可提问、评论或反馈理解程度，不必离开当前文章。</li>\n<li><strong>反馈影响下一篇</strong>：哪里没懂、哪里想深入，会成为后续内容的依据。</li>\n<li><strong>内容附有来源</strong>：文章写作时联网检索并附上参考来源，读者可逐条查看核对。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用庞征博引",
+        "html": "<ul>\n<li>访问庞征博引官网 pangzhengboyin.com，输入想学的主题。</li>\n<li>登录后回答几句关于现有基础、目标和兴趣的问题。</li>\n<li>AI 据此编排并写出第一篇文章。</li>\n<li>阅读文章，遇到没懂或想深入的内容，选中对应段落直接提问。</li>\n<li>读完后反馈理解程度或新的兴趣点，下一篇会沿着这些信息继续展开。</li>\n<li>需要时回到对话中调整方向，或开始一个新的学习主题。</li>\n</ul>"
+      },
+      {
+        "title": "庞征博引的应用场景",
+        "html": "<ul>\n<li><strong>工作中补知识</strong>：临时接触陌生业务、技术或行业，想从自己的起点逐步理解。</li>\n<li><strong>进入新领域前打底</strong>：还没决定选哪门长课，先用短文章搭框架，再决定深入方向。</li>\n<li><strong>长期兴趣学习</strong>：围绕摄影、历史、做饭、经济常识等主题持续积累。</li>\n<li><strong>理解实际生活问题</strong>：如个税、社保、租房合同，重点看背景、概念与判断框架。</li>\n<li><strong>学前衔接与体验</strong>：先用公共知识库免登录试读，再进入课程或代码仓库深挖。</li>\n</ul>"
+      }
+    ]
+  },
+  {
+    "slug": "wenduoduo",
+    "name": "文朵朵AI办公",
+    "description": "属于AI办公工具·AI PPT生成分类。文朵朵AI办公是一款AI办公工具领域的免费增值AI工具，AI Agent办公工作台，像随叫随到的AI同事，自主规划执行并交付可继续编辑的PPT/Excel/Word成品。",
+    "url": "https://wenduoduo.com/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "AI办公",
+      "AI Agent",
+      "PPT生成",
+      "Excel"
+    ],
+    "featured": false,
+    "rating": 4.5,
+    "pricing": "freemium",
+    "createdAt": "2026-09-26",
+    "subcategory": "ai-office-ppt",
+    "logo": "/logos/wenduoduo.png",
+    "domain": "wenduoduo.com",
+    "detailed_content": [
+      {
+        "title": "文朵朵AI办公是什么",
+        "html": "<p>文朵朵AI办公是 AI Agent 办公工作台，像一位随叫随到的 AI 同事，用户用自然语言交代目标，AI 理解意图后自主规划、执行，生成可继续编辑修改的办公成品。相比模板套壳类工具，文朵朵更强调对话式协作、多轮修改和真正交付可用文件。</p>"
+      },
+      {
+        "title": "文朵朵AI办公的主要功能",
+        "html": "<ul>\n<li><strong>Agent 工作台</strong>：对话式布置任务、多轮反复修改，产出 PPTX/DOCX/XLSX 可编辑源文件。</li>\n<li><strong>PPT Agent</strong>：讲清演示主题与场合，自主组织大纲、匹配版式，产出可编辑 PPT 并支持反复修改。</li>\n<li><strong>图片还原 Agent</strong>：白板草图、手绘思路、报表截图可识别结构并还原为可编辑 PPT 或 Excel。</li>\n<li><strong>Excel Agent</strong>：自然语言完成建表、清洗、筛选与计算，支持多表合并拆分、图表生成与结论解读。</li>\n<li><strong>文档 Agent</strong>：涵盖法定公文、通知请示、毕业论文、商业计划书等 70+ 写作场景。</li>\n<li><strong>效率工具箱</strong>：PPT 美化、Word 一键排版、文档 AI 校对与审核。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用文朵朵AI办公",
+        "html": "<ul>\n<li>访问文朵朵官网 wenduoduo.com，微信扫码或手机号验证码登录，新用户送积分。</li>\n<li>在 Agent 工作台用自然语言说明目标、场景和要求，可附加大纲、文档或图片素材。</li>\n<li>Agent 理解意图后自主规划，生成可编辑的 PPT、Excel、Word 或图片还原结果。</li>\n<li>对风格、单页、措辞、数据口径不满意，继续对话让它在同一任务上迭代。</li>\n<li>生成后在线预览效果，检查内容、版式、数据和结构。</li>\n<li>满意后导出 PPTX/DOCX/XLSX 源文件，或一键公开分享并带过程回放。</li>\n</ul>"
+      },
+      {
+        "title": "文朵朵AI办公的应用场景",
+        "html": "<ul>\n<li><strong>职场汇报</strong>：把汇报主题和资料交给 Agent，快速生成可继续修改的 PPT。</li>\n<li><strong>数据整理分析</strong>：用自然语言让 Agent 建表、清洗、计算、做图表并输出结论。</li>\n<li><strong>公文材料写作</strong>：生成通知、请示、公文、总结等文稿并多轮润色。</li>\n<li><strong>图片资料还原</strong>：将白板草图、手绘思路、报表截图还原为可编辑 PPT 或 Excel。</li>\n<li><strong>教学与学习产出</strong>：教师做课件，学生整理论文、实验报告或课程展示材料。</li>\n</ul>"
+      }
+    ]
+  },
+  {
+    "slug": "bage",
+    "name": "网易叭哥说",
+    "description": "属于AI音频工具·AI语音合成分类。网易叭哥说是一款AI音频工具领域的免费AI工具，网易有道推出的AI原生语音输入Agent，听懂口语真实意图，输出结构化文字，输入效率约为打字的5倍。",
+    "url": "https://bug.youdao.com/",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "语音输入",
+      "语音转文字",
+      "AI翻译",
+      "网易有道"
+    ],
+    "featured": false,
+    "rating": 4.5,
+    "pricing": "free",
+    "createdAt": "2026-09-26",
+    "subcategory": "ai-audio-tts",
+    "logo": "/logos/bage.png",
+    "domain": "bug.youdao.com",
+    "detailed_content": [
+      {
+        "title": "网易叭哥说是什么",
+        "html": "<p>网易叭哥说是网易有道推出的 AI 原生语音输入 Agent，支持 Mac 与 Windows 双端。突破传统语音输入语音转文字的工具定位，能听懂用户口语中的真实意图，自动去除口头禅、修正改口内容，输出可直接复用的结构化文字，输入效率约为键盘打字的 5 倍。</p>"
+      },
+      {
+        "title": "网易叭哥说的主要功能",
+        "html": "<ul>\n<li><strong>口述转写</strong>：按住 Fn 键说话，自动去口头禅、修正改口、补标点分段，输出结构化文字。</li>\n<li><strong>实时翻译</strong>：支持 124 个语种语音互译，说中文直接输出目标语言文字。</li>\n<li><strong>耳语拾音</strong>：支持低至 30dB 的耳语级小声输入，开放工位也能用。</li>\n<li><strong>专属词库</strong>：可手动添加或批量导入专业术语、产品名、代码名，提升识别准确率。</li>\n<li><strong>历史记录</strong>：所有语音输入内容本地留存，支持回看和一键复制复用。</li>\n<li><strong>隐私保护</strong>：云端零留存、数据不用于训练，输入历史仅保存在本地。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用网易叭哥说",
+        "html": "<ul>\n<li>访问网易叭哥说官网 bug.youdao.com，选择 Mac 或 Windows 版本免费下载安装。</li>\n<li>使用网易账号登录，按提示完成系统权限等授权设置。</li>\n<li>在任意应用中按住 Fn 键开始说话，松开后自动输出结构化文字。</li>\n<li>按住 Fn + 左 Shift 说中文，松开后直接输出目标语言文字。</li>\n<li>在词典功能中手动添加或批量导入专业术语。</li>\n<li>在“历史记录”中回看输入内容，“使用情况”里查看使用统计。</li>\n</ul>"
+      },
+      {
+        "title": "网易叭哥说的应用场景",
+        "html": "<ul>\n<li><strong>职场沟通</strong>：会议室、工位上小声口述，自动整理成结构化文字发邮件、回消息。</li>\n<li><strong>AI 协作提效</strong>：向 AI 工具口述需求，输出规范 prompt，vibe coding 变 voice coding。</li>\n<li><strong>跨语言交流</strong>：与外国客户沟通时说中文、直接输出英文等 124 种语言。</li>\n<li><strong>文档写作</strong>：口述长文、报告、会议纪要，成稿速度约为打字的 5 倍。</li>\n<li><strong>灵感速记</strong>：即时记录零散想法，自动理顺逻辑、删掉废话，说完即理顺成文。</li>\n</ul>"
+      }
+    ]
+  },
+  {
+    "slug": "tokera",
+    "name": "Tokera AI",
+    "description": "属于AI写作工具·AI营销文案分类。Tokera AI是一款AI写作工具领域的免费增值AI工具，面向品牌商家与内容创作者的一站式AI策略内容智能体，先诊断账号、分析竞品、制定策略再生成内容。",
+    "url": "https://www.tokera.com.cn/",
+    "categories": [
+      "ai-writing"
+    ],
+    "tags": [
+      "AI营销",
+      "内容创作",
+      "策略内容",
+      "多平台"
+    ],
+    "featured": false,
+    "rating": 4.5,
+    "pricing": "freemium",
+    "createdAt": "2026-09-26",
+    "subcategory": "ai-writing-copy",
+    "logo": "/logos/tokera.png",
+    "domain": "www.tokera.com.cn",
+    "detailed_content": [
+      {
+        "title": "Tokera AI是什么",
+        "html": "<p>Tokera AI 是面向品牌商家与内容创作者的一站式 AI 策略内容智能体。Tokera AI 会先诊断账号、分析竞品、制定营销策略，再进一步生成适配小红书、抖音、公众号等平台的内容方案与配套视觉素材。用户可在同一工作流中持续完成营销任务，无需切换多个工具。</p>"
+      },
+      {
+        "title": "Tokera AI的主要功能",
+        "html": "<ul>\n<li><strong>账号诊断</strong>：全面分析账号现状、内容表现与定位问题，给出针对性优化方向。</li>\n<li><strong>竞品分析</strong>：研究同行品牌与竞品账号的内容打法，帮助用户找准差异化竞争策略。</li>\n<li><strong>营销策略制定</strong>：基于品牌、产品和目标用户，制定可落地的传播方向与内容执行思路。</li>\n<li><strong>内容选题与规划</strong>：围绕营销目标规划选题矩阵，解决“不知道该发什么”的困境。</li>\n<li><strong>多平台内容生成</strong>：根据平台特性，一键生成适配小红书、抖音、公众号等平台的文案方案。</li>\n<li><strong>配套视觉内容生成</strong>：在文案基础上同步生成图片等视觉素材，策略直接转化为可发布内容。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用Tokera AI",
+        "html": "<ul>\n<li>访问 Tokera AI 官网 tokera.com.cn，完成账户登录和注册。</li>\n<li>在对话中告诉 Tokera 品牌、产品和当前想解决的营销问题。</li>\n<li>根据场景选择 C 端营销、科普笔记、漫剧分镜或 AI 实验室等创作模块。</li>\n<li>Tokera 自动完成账号诊断、竞品研究与营销环境深度分析。</li>\n<li>围绕营销目标、平台特性与竞品分析结果，生成选题、文案及视觉素材。</li>\n<li>在对话中补充信息或提出修改，Tokera 基于上下文持续迭代优化结果。</li>\n</ul>"
+      },
+      {
+        "title": "Tokera AI的应用场景",
+        "html": "<ul>\n<li><strong>新账号冷启动定位</strong>：新开小红书/抖音账号时，通过账号诊断明确差异化定位与内容方向。</li>\n<li><strong>竞品内容打法研究</strong>：分析同行近期爆款内容结构与选题趋势，找到差异化竞争策略。</li>\n<li><strong>月度营销内容规划</strong>：围绕新品上市或节日促销，自动生成内容矩阵、发布节奏与选题清单。</li>\n<li><strong>多平台日常内容生产</strong>：将同一营销主题快速适配为小红书图文、抖音脚本、公众号长文。</li>\n<li><strong>视觉营销素材快速产出</strong>：根据文案策略同步生成商品海报、plog、科普笔记配图等素材。</li>\n</ul>"
+      }
+    ]
+  },
+  {
+    "slug": "loomy",
+    "name": "Loomy",
+    "description": "属于AI智能体·AI自动化分类。Loomy是一款AI智能体领域的免费增值AI工具，讯飞推出的AI工作搭子，基于AstronClaw打造的桌面级助理，主打低门槛、高安全、强适配、主动协作。",
+    "url": "https://loomy.xunfei.cn/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "AI智能体",
+      "桌面端",
+      "办公搭子",
+      "讯飞"
+    ],
+    "featured": false,
+    "rating": 4.5,
+    "pricing": "freemium",
+    "createdAt": "2026-09-26",
+    "subcategory": "ai-agent-automation",
+    "logo": "/logos/loomy.png",
+    "domain": "loomy.xunfei.cn",
+    "detailed_content": [
+      {
+        "title": "Loomy是什么",
+        "html": "<p>Loomy 是讯飞推出的 AI 工作搭子，基于 AstronClaw 打造的桌面级助理，面向真实办公场景，主打低门槛、高安全、强适配、主动协作。工具支持数据分析、内容撰写、跨工具串联、远程控制等能力，可调用飞书、钉钉、微信等国内常用工具。文件默认本地处理，采用目录级授权，支持自定义 API Key。</p>"
+      },
+      {
+        "title": "Loomy的主要功能",
+        "html": "<ul>\n<li><strong>数据分析</strong>：实时洞察经营数据，辅助业务决策。</li>\n<li><strong>内容撰写</strong>：从灵感到成稿一步到位，快速产出各类文案。</li>\n<li><strong>搭子团</strong>：按专业领域匹配对口 AI 搭子，复杂项目可分工协作推进。</li>\n<li><strong>资料库</strong>：支持海量本地文件上传分析，提取关键信息与结论。</li>\n<li><strong>远程控制</strong>：手机远程操控电脑，不在工位也能继续推进任务。</li>\n<li><strong>技能系统与多模型</strong>：办公流程沉淀为可复用 Skill，输入 / 可快速调用；支持讯飞星火、DeepSeek、通义千问等多模型切换。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用Loomy",
+        "html": "<ul>\n<li>访问 Loomy 官网 loomy.xunfei.cn，下载 Windows 或 macOS 桌面端。</li>\n<li>安装后选择授权目录，绑定常用工具，最快 1 分钟即可启动。</li>\n<li>用一句自然语言指令交代任务，Loomy 自动完成多步骤工作。</li>\n<li>文件整理、内容创作、数据分析、网页操作、处理邮件等都可交给 Loomy。</li>\n<li>输入 / 调用技能，或将办公流程沉淀为可复用 Skill。</li>\n<li>通过 QQ、飞书、钉钉等 IM 配置后，用手机远程指挥电脑。</li>\n</ul>"
+      },
+      {
+        "title": "Loomy的应用场景",
+        "html": "<ul>\n<li><strong>自媒体运营</strong>：整理素材、撰写内容、生成课件，提升内容产能。</li>\n<li><strong>日常办公</strong>：文件整理、批量办公、会议内容结构化。</li>\n<li><strong>数据与研发</strong>：写代码、查报错、做方案，省下研发时间。</li>\n<li><strong>行业调研</strong>：信息收集、对比和推送，会议资料整理。</li>\n<li><strong>远程协作</strong>：离开工位后通过手机继续推进任务与决策。</li>\n</ul>"
+      }
+    ]
+  },
+  {
+    "slug": "domery",
+    "name": "Domery",
+    "description": "属于AI办公工具·AI表格处理分类。Domery是一款AI办公工具领域的免费增值AI工具，腾讯推出的全链路数据AI助手，自然语言提问即可自动完成数据整理、分析并生成图表、看板与汇报PPT。",
+    "url": "https://domery.cn/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "AI数据分析",
+      "数据助手",
+      "腾讯",
+      "看板"
+    ],
+    "featured": false,
+    "rating": 4.5,
+    "pricing": "freemium",
+    "createdAt": "2026-09-26",
+    "subcategory": "ai-office-excel",
+    "logo": "/logos/domery.png",
+    "domain": "domery.cn",
+    "detailed_content": [
+      {
+        "title": "Domery是什么",
+        "html": "<p>Domery 是腾讯推出的全链路数据 AI 助手，专注于理解用户自己的数据资产，包括埋点采集、多源报表和上传的文档，只需用自然语言提问，Domery 能自动完成整理、分析和提炼，把结论直接做成图表、看板甚至汇报 PPT。Domery 像一个常驻的数据分析师，帮用户把枯燥重复的文档和报表工作变成一句话能交付的答案。</p>"
+      },
+      {
+        "title": "Domery的主要功能",
+        "html": "<ul>\n<li><strong>一键埋点采集</strong>：覆盖 iOS、Android、H5、小程序、服务端，SDK 埋点代码即时生成上线。</li>\n<li><strong>多源一并分析</strong>：数据库、数仓、表格等多源接入，AI 自动对齐字段与口径。</li>\n<li><strong>知识花园（知识库）</strong>：文档资料上传后可多次复用问答，对话时可引用知识库、历史会话和本地文件。</li>\n<li><strong>对话式数据分析</strong>：自然语言提问即可自动完成总结、提炼、分析。</li>\n<li><strong>4 种可视化交付</strong>：答案可生成 AI 数据插画、HTML 静态页面、HTML 动态看板、汇报级 PPT。</li>\n<li><strong>能力封装复用</strong>：分析能力可封装为 Agent、技能和定时任务，持续自动运行。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用Domery",
+        "html": "<ul>\n<li>访问 Domery 官网 domery.cn，点击“立即开始”。</li>\n<li>在“知识花园”中新建知识库，上传文档资料或接入数据库、数仓、表格等数据源。</li>\n<li>为数据资产设置权限，必要时配置 SQL 模板，让 AI 贴合业务口径。</li>\n<li>在对话中直接提问，可引用知识库、历史会话或本地文件作为上下文。</li>\n<li>AI 自动分析并生成数据插画、HTML 看板或汇报 PPT。</li>\n<li>将常用分析流程封装为 Agent 或定时任务，一次配置长期复用。</li>\n</ul>"
+      },
+      {
+        "title": "Domery的应用场景",
+        "html": "<ul>\n<li><strong>经营报表自动分析</strong>：业务负责人直接用自然语言追问销售、流量等核心指标。</li>\n<li><strong>埋点数据自助采集</strong>：App/小程序团队一键生成多端 SDK 埋点代码上线。</li>\n<li><strong>文档知识库问答</strong>：把产品手册、研报、合同 PDF 传入知识花园，销售或客服提问即获精准答案。</li>\n<li><strong>汇报材料一键生成</strong>：周报、月报、复盘 PPT 无需手工制作，提问后自动产出。</li>\n<li><strong>多源数据口径统一</strong>：数据库、数仓、Excel 口径不一致时，AI 自动对齐字段后统一问答。</li>\n</ul>"
       }
     ]
   }

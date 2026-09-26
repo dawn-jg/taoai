@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <!-- 背景渐变：深夜蓝 -->
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0%" stop-color="#1a2140"/>
+      <stop offset="100%" stop-color="#0d1020"/>
+    </linearGradient>
+
+    <!-- 金色渐变：天平主体 -->
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f0ce6a"/>
+      <stop offset="60%" stop-color="#d4a520"/>
+      <stop offset="100%" stop-color="#b88a10"/>
+    </linearGradient>
+
+    <!-- 冷蓝渐变：π 字母装饰 -->
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6bb3f8"/>
+      <stop offset="100%" stop-color="#3a78d4"/>
+    </linearGradient>
+
+    <!-- 金色辉光 -->
+    <filter id="goldGlow" x="-15%" y="-15%" width="130%" height="130%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="1 0.6 0 0 0  0.8 0.5 0 0 0  0 0 0 0 0  0 0 0 0.6 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- 蓝色辉光 -->
+    <filter id="blueGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="14" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="0 0 0 0 0  0 0.4 0.8 0 0  0 0 1 0 0  0 0 0 0.7 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- 微光点 -->
+    <radialGradient id="spotLight" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#2a3060" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+
+    <!-- 秤盘内反光 -->
+    <radialGradient id="panShine" cx="30%" cy="20%" r="70%">
+      <stop offset="0%" stop-color="#f0ce6a" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+  </defs>
+
+  <!-- ══════════════════════════════════════════ -->
+  <!-- 背景：深夜蓝圆角矩形 -->
+  <!-- ══════════════════════════════════════════ -->
+  <rect width="1024" height="1024" rx="220" ry="220" fill="url(#bg)"/>
+  <!-- 中央光晕 -->
+  <rect width="1024" height="1024" rx="220" ry="220" fill="url(#spotLight)"/>
+
+  <!-- 细网格纹理（极淡） -->
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0L0 0 0 40" fill="none" stroke="white" stroke-width="0.5" opacity="0.04"/>
+    </pattern>
+  </defs>
+  <rect width="1024" height="1024" rx="220" ry="220" fill="url(#grid)"/>
+
+  <!-- ══════════════════════════════════════════ -->
+  <!-- 天平主体（金色，带辉光） -->
+  <!-- ══════════════════════════════════════════ -->
+
+  <!-- 中央支柱 -->
+  <rect x="496" y="290" width="32" height="380" rx="16"
+        fill="url(#gold)" filter="url(#goldGlow)"/>
+
+  <!-- 横梁（天平横杆 = π 的顶横） -->
+  <rect x="248" y="295" width="528" height="26" rx="13"
+        fill="url(#gold)" filter="url(#goldGlow)"/>
+
+  <!-- 横梁两端端帽 -->
+  <circle cx="261" cy="308" r="22" fill="url(#gold)" filter="url(#goldGlow)"/>
+  <circle cx="763" cy="308" r="22" fill="url(#gold)" filter="url(#goldGlow)"/>
+
+  <!-- 中心支轴圆 -->
+  <circle cx="512" cy="308" r="36" fill="url(#gold)" filter="url(#goldGlow)"/>
+  <!-- 支轴孔 -->
+  <circle cx="512" cy="308" r="16" fill="#0d1020"/>
+
+  <!-- ══════════════════════════════════════════ -->
+  <!-- 左侧链条 -->
+  <!-- ══════════════════════════════════════════ -->
+  <line x1="320" y1="330" x2="320" y2="480"
+        stroke="#d4a520" stroke-width="7" stroke-linecap="round"
+        stroke-dasharray="12,9" filter="url(#goldGlow)"/>
+
+  <!-- ══════════════════════════════════════════ -->
+  <!-- 右侧链条 -->
+  <!-- ══════════════════════════════════════════ -->
+  <line x1="704" y1="330" x2="704" y2="480"
+        stroke="#d4a520" stroke-width="7" stroke-linecap="round"
+        stroke-dasharray="12,9" filter="url(#goldGlow)"/>
+
+  <!-- ══════════════════════════════════════════ -->
+  <!-- 左秤盘：椭圆弧形 + 内反光 -->
+  <!-- ══════════════════════════════════════════ -->
+  <g filter="url(#goldGlow)">
+    <!-- 盘框 -->
+    <path d="M 210 490 Q 320 560 430 490"
+          stroke="url(#gold)" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <!-- 盘底线 -->
+    <ellipse cx="320" cy="527" rx="106" ry="24"
+             fill="none" stroke="url(#gold)" stroke-width="5" opacity="0.45"/>
+    <!-- 盘内反光 -->
+    <ellipse cx="320" cy="510" rx="86" ry="16"
+             fill="url(#panShine)"/>
+  </g>
+
+  <!-- ══════════════════════════════════════════ -->
+  <!-- 右秤盘：椭圆弧形 + 内反光（与左盘等高） -->
+  <!-- ══════════════════════════════════════════ -->
+  <g filter="url(#goldGlow)">
+    <path d="M 594 490 Q 704 560 814 490"
+          stroke="url(#gold)" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <ellipse cx="704" cy="527" rx="106" ry="24"
+             fill="none" stroke="url(#gold)" stroke-width="5" opacity="0.45"/>
+    <ellipse cx="704" cy="510" rx="86" ry="16"
+             fill="url(#panShine)"/>
+  </g>
+
+  <!-- ══════════════════════════════════════════ -->
+  <!-- 底座 -->
+  <!-- ══════════════════════════════════════════ -->
+  <!-- 底盘横杆 -->
+  <rect x="400" y="664" width="224" height="20" rx="10"
+        fill="url(#gold)" filter="url(#goldGlow)"/>
+  <!-- 底盘脚 -->
+  <rect x="370" y="682" width="284" height="14" rx="7"
+        fill="url(#gold)" opacity="0.7" filter="url(#goldGlow)"/>
+
+  <!-- ══════════════════════════════════════════ -->
+  <!-- π 字母（蓝色，发光，叠在底部） -->
+  <!-- ══════════════════════════════════════════ -->
+  <text x="512" y="870"
+        font-family="'Times New Roman', Georgia, 'Palatino Linotype', serif"
+        font-size="200" font-weight="700"
+        text-anchor="middle"
+        fill="url(#blue)"
+        filter="url(#blueGlow)"
+        opacity="0.92">π</text>
+
+  <!-- ══════════════════════════════════════════ -->
+  <!-- 装饰：星点 -->
+  <!-- ══════════════════════════════════════════ -->
+  <circle cx="180" cy="200" r="5" fill="#f0ce6a" opacity="0.3"/>
+  <circle cx="840" cy="175" r="4" fill="#f0ce6a" opacity="0.22"/>
+  <circle cx="155" cy="700" r="4" fill="#6bb3f8" opacity="0.25"/>
+  <circle cx="870" cy="720" r="5" fill="#6bb3f8" opacity="0.2"/>
+  <circle cx="900" cy="450" r="3" fill="#f0ce6a" opacity="0.18"/>
+  <circle cx="130" cy="480" r="3" fill="#f0ce6a" opacity="0.2"/>
+  <circle cx="420" cy="120" r="3.5" fill="#6bb3f8" opacity="0.22"/>
+  <circle cx="640" cy="110" r="2.5" fill="#6bb3f8" opacity="0.18"/>
+</svg>
