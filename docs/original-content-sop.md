@@ -100,6 +100,7 @@ CODEBUDDY_SAFE_DELETE_ENABLED=0 npm run build
 | `scripts/recover-stripped-content.mjs` | 从历史提交恢复被误删的正文（判定缺陷修复后使用） |
 | `scripts/fix-data-quality.mjs` | 修正错误 URL、脏名称、脏 domain，补 `updatedAt` |
 | `scripts/migrate-slugs.mjs` | 无语义 slug（`toolNNNN`）→ 语义 slug，并累积生成 `public/_redirects` 的 301 |
+| `scripts/dedupe-tools.mjs` | 全库一致性校验：合并「同 URL + 同名」的重复条目并重算分类计数；同时打印待人工复核的同名/同 URL 清单 |
 | `scripts/apply-tool-profiles.mjs` | 把原创资料合并进 `data/tools.json` |
 | `scripts/generate-sitemap.mjs` | 生成 sitemap，仅收录可索引页面 |
 | `~/.workbuddy/skills/taoai-content-audit/` | 体检技能：一次性输出错配、重复、稀薄页、canonical、sitemap 一致性诊断 |

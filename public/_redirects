@@ -1,7 +1,9 @@
 # Cloudflare Pages 重定向规则（自动生成，请勿手改；重新生成见 scripts/migrate-slugs.mjs）
 # 2026-09：可索引工具页的无语义 slug（toolNNNN）→ 语义 slug，全部 301
-# 映射明细见 data/slug_redirects.json（共 515 条）
+# 映射明细见 data/slug_redirects.json（共 520 条）
 
+/tools/claude-ai  /tools/claude  301
+/tools/pika  /tools/pika-art  301
 /tools/tool10217  /tools/zoom-workplace  301
 /tools/tool1055  /tools/udacity  301
 /tools/tool1062  /tools/novelai-net  301
@@ -102,6 +104,7 @@
 /tools/tool16885  /tools/napkin-ai  301
 /tools/tool16965  /tools/hotshot-co  301
 /tools/tool17330  /tools/abeiai-com  301
+/tools/tool1737  /tools/wps-ai  301
 /tools/tool17398  /tools/chuangziyou-com  301
 /tools/tool17432  /tools/ciyuan-ideaflow-pro  301
 /tools/tool17480  /tools/fazhi-law  301
@@ -282,6 +285,7 @@
 /tools/tool6039  /tools/generative-ai-for-beginners  301
 /tools/tool6044  /tools/shenyandayi-com  301
 /tools/tool60471  /tools/tripo-ai  301
+/tools/tool60584  /tools/qoder-com  301
 /tools/tool60693  /tools/kuxuanai-com  301
 /tools/tool6075  /tools/pixcakeai-com  301
 /tools/tool6080  /tools/meshy-ai  301
@@ -336,6 +340,7 @@
 /tools/tool64715  /tools/dakou-iflow-cn  301
 /tools/tool64863  /tools/haisnap-com  301
 /tools/tool64880  /tools/tunee-ai  301
+/tools/tool6492  /tools/removal-ai  301
 /tools/tool64927  /tools/moonstatistics-com  301
 /tools/tool6498  /tools/miaobi-xinhuaskl-com  301
 /tools/tool65041  /tools/reelsagent-com  301
@@ -518,6 +523,8 @@
 /tools/tool9533  /tools/preview-devin-ai  301
 /tools/tool9744  /tools/writingpal-ai  301
 
+/content/claude-ai  /tools/claude  301
+/content/pika  /tools/pika-art  301
 /content/tool10217  /tools/zoom-workplace  301
 /content/tool1055  /tools/udacity  301
 /content/tool1062  /tools/novelai-net  301
@@ -618,6 +625,7 @@
 /content/tool16885  /tools/napkin-ai  301
 /content/tool16965  /tools/hotshot-co  301
 /content/tool17330  /tools/abeiai-com  301
+/content/tool1737  /tools/wps-ai  301
 /content/tool17398  /tools/chuangziyou-com  301
 /content/tool17432  /tools/ciyuan-ideaflow-pro  301
 /content/tool17480  /tools/fazhi-law  301
@@ -798,6 +806,7 @@
 /content/tool6039  /tools/generative-ai-for-beginners  301
 /content/tool6044  /tools/shenyandayi-com  301
 /content/tool60471  /tools/tripo-ai  301
+/content/tool60584  /tools/qoder-com  301
 /content/tool60693  /tools/kuxuanai-com  301
 /content/tool6075  /tools/pixcakeai-com  301
 /content/tool6080  /tools/meshy-ai  301
@@ -852,6 +861,7 @@
 /content/tool64715  /tools/dakou-iflow-cn  301
 /content/tool64863  /tools/haisnap-com  301
 /content/tool64880  /tools/tunee-ai  301
+/content/tool6492  /tools/removal-ai  301
 /content/tool64927  /tools/moonstatistics-com  301
 /content/tool6498  /tools/miaobi-xinhuaskl-com  301
 /content/tool65041  /tools/reelsagent-com  301

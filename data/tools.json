@@ -634,28 +634,6 @@
     "updatedAt": "2026-09-27"
   },
   {
-    "slug": "pika",
-    "name": "Pika",
-    "description": "属于AI视频工具·AI视频生成分类。Pika是一款AI视频工具领域的免费增值AI工具，AI视频生成平台。支持视频、创意。",
-    "url": "https://pika.art",
-    "categories": [
-      "ai-video"
-    ],
-    "tags": [
-      "视频",
-      "创意"
-    ],
-    "featured": false,
-    "rating": 4.4,
-    "pricing": "freemium",
-    "createdAt": "2023-07-01",
-    "subcategory": "ai-video-generation",
-    "logo": "/logos/pika.png",
-    "domain": "pika.art",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
-  },
-  {
     "slug": "stability-ai",
     "name": "Stable Diffusion",
     "description": "Stable Diffusion是一款AI图像工具领域的免费AI工具，开源AI绘画，可本地部署。支持开源、免费。",
@@ -7482,27 +7460,6 @@
     "subcategory": "ai-image-illustration",
     "logo": "/logos/tool4212.png",
     "domain": "ke.study.163.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "tool6492",
-    "name": "抠抠图",
-    "description": "属于AI图像工具·AI图片插画生成分类。抠抠图是一款AI图像工具领域的免费增值AI工具，Meta最新推出的在线AI图像生成器。支持AI图像工。",
-    "url": "https://removal.ai",
-    "categories": [
-      "ai-image"
-    ],
-    "tags": [
-      "AI图像工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-image-illustration",
-    "logo": "/logos/tool6492.png",
-    "domain": "removal.ai",
     "detailed_content": [],
     "updatedAt": "2026-09-27"
   },
@@ -15076,27 +15033,6 @@
     "updatedAt": "2026-09-27"
   },
   {
-    "slug": "tool1737",
-    "name": "WPS AI",
-    "description": "属于AI办公工具·AI文档处理分类。WPS AI是一款AI办公工具领域的免费AI工具，WPS推出的AI办公助手，已免费开放。支持AI办公工。",
-    "url": "https://ai.wps.cn/",
-    "categories": [
-      "ai-office"
-    ],
-    "tags": [
-      "AI办公工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "free",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-office-doc",
-    "logo": "/logos/tool1737.png",
-    "domain": "ai.wps.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
-  },
-  {
     "slug": "tool8079",
     "name": "腾讯推出的AI文档生成和辅助工具",
     "description": "腾讯推出的AI文档生成和辅助工具是一款AI办公工具领域的免费增值AI工具，腾讯推出的AI文档生成和辅助工具。支持AI办公工。",
@@ -21385,56 +21321,6 @@
     "updatedAt": "2026-09-27"
   },
   {
-    "slug": "claude-ai",
-    "name": "Claude",
-    "description": "属于AI聊天助手·通用对话AI分类。Anthropic公司推出的对话式AI智能助手。支持AI聊天助，适合需要AI辅助对话与问答的用户。",
-    "url": "https://claude.ai/",
-    "categories": [
-      "ai-chat"
-    ],
-    "tags": [
-      "AI聊天助"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-chat-general",
-    "logo": "/logos/claude-ai.png",
-    "domain": "claude.ai",
-    "detailed_content": [
-      {
-        "title": "Claude是什么",
-        "html": "<p>Claude 是 Anthropic 推出的高性能、安全可靠的AI智能助手，以安全、准确、可控为核心定位，提供从日常聊天到专业编程的完整 AI 工作流。产品覆盖 Web、移动端与桌面端，核心功能包括 Artifacts 可视化创作、<a href=\"https://ai-bot.cn/claude-cowork/\" target=\"_blank\" rel=\"noopener\">Cowork</a> 本地文件协作、Research 深度研究及跨对话记忆等功能。平台采用 <a href=\"https://ai-bot.cn/claude-opus-4-7/\" target=\"_blank\" rel=\"noopener\">Claude Opus 4.7</a>、<a href=\"https://ai-bot.cn/claude-sonnet-4-6/\" target=\"_blank\" rel=\"noopener\">Claude Sonnet 4.6</a>、<a href=\"https://ai-bot.cn/claude-haiku-4-5/\" target=\"_blank\" rel=\"noopener\">Claude Haiku 4.5</a> 三级模型架构，免费版即可体验基础能力。Claude 具备多模态特性，能处理图像和音频内容，设计遵循“宪法式人工智能”哲学，注重道德规范和安全性，是ChatGPT最为有力的竞争对手之一。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/05/Claude-website.png\" data-fancybox=\"fancybox\" data-caption=\"Claude\"><img decoding=\"async\" class=\"alignnone wp-image-76910\" src=\"https://ai-bot.cn/wp-content/uploads/2026/05/Claude-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Claude\" width=\"740\" height=\"416\"></a>"
-      },
-      {
-        "title": "Claude的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>Artifacts 可视化创作</strong>：在聊天中直接生成并迭代网站、图形、文档和代码，支持实时预览与编辑。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Cowork 桌面协作</strong>：连接本地文件与云端应用，自主完成文件夹整理、表格构建与报告生成，用户可审批每一步。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Claude Code 编程代理</strong>：通过终端或 IDE 集成，执行代码库分析、跨文件重构、Bug 修复与测试运行。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Research 深度研究</strong>：针对复杂主题执行多步骤网络搜索与信息整合，输出带引用来源的研究报告。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>跨对话记忆</strong>：自动保存关键信息与用户偏好，在后续对话中保持上下文连贯性与个性化回应。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>扩展思考模式</strong>：针对复杂数学、逻辑与推理任务启用深度思考链，提升高难度问题求解精度。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Connectors 与 MCP 集成</strong>：通过远程 MCP 协议连接 Slack、Google Workspace 及任意第三方工具，扩展工作流自动化。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>桌面端扩展</strong>：支持 Excel、Chrome、Word、PowerPoint 插件，在常用办公软件内直接调用 Claude 能力。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "如何使用Claude",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>网页端聊天</strong>：访问 claude 官网 https://claude.ai/，选择 Free/Pro/Max 计划，直接在浏览器中输入问题或上传文件开始对话。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>移动端应用</strong>：下载<a href=\"https://ai-bot.cn/app/11821.html\" target=\"_blank\" rel=\"noopener\"> Claude App</a>，支持语音输入、应用连接与移动任务发起。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Office 插件集成</strong>：在 Excel、Word、PowerPoint 或 Chrome 中安装 Claude 扩展，直接在文档与网页内调用 AI 辅助写作与数据分析。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>API 与企业部署</strong>：通过 Anthropic API 或 AWS Bedrock、Google Vertex AI、Microsoft Foundry 将 Claude 集成至自有系统。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "Claude的核心优势",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>安全可控的行业标杆</strong>：Constitutional AI 训练框架使 Claude 在有害内容识别与拒绝方面表现突出，适合对合规要求严格的企业场景。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Agentic 工作流完整</strong>：从 Claude Code（编程）到 Cowork（办公）再到桌面扩展，形成覆盖开发到日常办公的全场景自主代理矩阵。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Artifacts 实时创作</strong>：在对话流中直接生成可交互、可编辑的网站、图表与文档，无需切换工具即可迭代可视化内容。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Research 深度调研</strong>：针对复杂主题执行多轮搜索与信息整合，输出结构化研究报告并标注来源，适合学术与商业调研。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>跨平台无缝集成</strong>：原生支持 Excel、Word、PowerPoint、Chrome、Slack 与 Google Workspace，在常用工具内直接调用 AI 能力。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "Claude的同类竞品对比",
-        "html": "<table data-v-e7c0e5f5=\"\">\n<thead data-v-e7c0e5f5=\"\">\n<tr data-v-e7c0e5f5=\"\">\n<th align=\"left\" data-v-e7c0e5f5=\"\">对比维度</th>\n<th align=\"left\" data-v-e7c0e5f5=\"\">Claude</th>\n<th align=\"left\" data-v-e7c0e5f5=\"\"><a href=\"https://ai-bot.cn/sites/30.html\" target=\"_blank\" rel=\"noopener\">ChatGPT</a></th>\n<th align=\"left\" data-v-e7c0e5f5=\"\"><a href=\"https://ai-bot.cn/sites/736.html\" target=\"_blank\" rel=\"noopener\">Gemini</a></th>\n</tr>\n</thead>\n<tbody data-v-e7c0e5f5=\"\">\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">安全对齐</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">Constitutional AI，拒绝有害请求更严格，偶有过度敏感</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">平衡实用导向，安全过滤相对宽松</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">中等，功能覆盖优先</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong class=\"\" data-v-e7c0e5f5=\"\">编程能力</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">Claude Code +&nbsp;<strong data-v-e7c0e5f5=\"\">Claude Opus 4.7</strong>，SWE-Bench Pro 64.3%，多文件推理强</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">Codex CLI + GPT-5.5，Terminal-Bench 2.0 82.7%，终端代理强</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">中等，深度集成 Google 开发工具</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong class=\"\" data-v-e7c0e5f5=\"\">Agentic 生态</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">Code + Cowork + Desktop 扩展，覆盖编程到办公</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">ChatGPT + Codex CLI + Operator，侧重网络浏览与购物</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">Workspace 全家桶深度集成，原生多模态</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">视觉与创作</strong></td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">Artifacts 实时生成可交互网页与图表，3.75MP 图像解析</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">Canvas 协作编辑，DALL-E 图像生成，多模态均衡</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">原生最强多模态，支持视频、音频联合推理</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">定价策略</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">Free/Pro $20/Max $100，Code 含在 Pro 内</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">Plus $20/Pro $200，Codex CLI 单独计费</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">Free/Gemini Advanced $20，Google One 捆绑</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">长上下文</strong></td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">100 万 token，极端长度召回率波动</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">100 万 token，稳定性较好</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">200 万 token，长文本表现稳定</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">企业集成</strong></td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">Slack、Excel、Word、PowerPoint、Chrome 插件</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">Microsoft 365、macOS 深度集成</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">Google Workspace 原生全家桶</td>\n</tr>\n</tbody>\n</table>"
-      },
-      {
-        "title": "Claude的产品定价",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>Free 计划</strong>：$0，支持 Web、iOS、Android 及桌面端聊天，可生成代码与可视化数据、写作编辑、分析文本与图像、联网搜索、创建文件并执行代码，支持桌面扩展、Slack 与 Google Workspace 连接、远程 MCP Connectors 及扩展思考模式。</li>\n<li class=\"paragraph\"><strong>Pro 计划</strong>：$17/月（年付 $200 upfront）或 $20/月付，面向日常生产力，在 Free 基础上增加更多用量、Claude Code 终端编程、Claude Cowork 桌面协作、无限项目、Claude for PowerPoint（beta）、Research 深度研究、更多 Claude 模型选择及 Claude for Excel（beta）。</li>\n<li class=\"paragraph\"><strong>Max 5x 计划</strong>：$100/月/人，适合频繁使用 Claude 处理多种任务的用户，每会话用量为 Pro 的 5 倍，包含 Pro 全部功能及更高输出限额、高级功能早期体验、高峰期优先访问。</li>\n<li class=\"paragraph\"><strong>Max 20x 计划</strong>：$200/月/人，适合每天与 Claude 深度协作处理大多数任务的用户，每会话用量为 Pro 的 20 倍，同样包含 Pro 全部功能及更高输出限额、高级功能早期体验、高峰期优先访问。</li>\n<li class=\"paragraph\"><strong>Team Standard 席位</strong>：$20/席位/月（年付），月付 $25，面向 5–150 人团队，包含聊天、项目、Claude Code、Connectors、集中管理员控制台及统一账单管理。</li>\n<li class=\"paragraph\"><strong>Team Premium 席位</strong>：$100/席位/月（年付），月付 $125，在 Standard 基础上增加更多用量配额，团队可按需混合搭配 Standard 与 Premium 席位。</li>\n</ul>"
-      },
-      {
-        "title": "Claude的应用场景",
-        "html": "<ul>\n<li><strong>内容创作：</strong>Claude 可帮助博主、自媒体人或企业快速生成文章草稿、标题创意、社交媒体文案、故事、诗歌等。</li>\n<li><strong>智能客服</strong>：Claude 的长上下文能力和对话连贯性非常适合构建智能客服系统。可以处理用户多轮对话，解答问题并提供个性化建议，同时避免输出不当内容。</li>\n<li><strong>教育辅助</strong>：Claude 可作为学习助手，帮助学生解答问题、生成学习笔记、提供写作指导或辅导英语口语。</li>\n<li><strong>代码辅助</strong>：Claude 可帮助开发者编写简单的脚本、注释代码或调试问题。</li>\n</ul>"
-      }
-    ],
-    "updatedAt": "2026-09-27"
-  },
-  {
     "slug": "tool736",
     "name": "Gemini 3.5",
     "description": "属于AI聊天助手·通用对话AI分类。Google推出的AI聊天对话机器人Gemini。支持AI聊天助，适合需要AI辅助对话与问答的用户。",
@@ -23329,27 +23215,6 @@
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool56948.png",
     "domain": "anthropic.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "tool60584",
-    "name": "QoderWork",
-    "description": "属于AI编程工具·AI代码生成分类。阿里巴巴推出的 AI Agentic 编程工具。支持AI编程工，适合需要AI辅助编程与代码生成的用户。",
-    "url": "https://qoder.com/qoderwork?utm_source=xy&utm_medium=banner&utm_campaign=aibot",
-    "categories": [
-      "ai-coding"
-    ],
-    "tags": [
-      "AI编程工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-coding-generator",
-    "logo": "/logos/tool60584.png",
-    "domain": "qoder.com",
     "detailed_content": [],
     "updatedAt": "2026-09-27"
   },

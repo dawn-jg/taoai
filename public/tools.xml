@@ -3253,15 +3253,6 @@
     </image:image>
   </url>
   <url>
-    <loc>https://taoai365.com/tools/claude-ai</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-    <image:image>
-      <image:loc>/logos/claude-ai.png</image:loc>
-      <image:title>Claude logo</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://taoai365.com/tools/yuanbao-paluai-com</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

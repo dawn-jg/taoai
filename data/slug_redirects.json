@@ -1652,5 +1652,25 @@
   "tool1899": {
     "new": "snack-prompt",
     "name": "Snack Prompt"
+  },
+  "tool1737": {
+    "new": "wps-ai",
+    "name": "WPS AI"
+  },
+  "pika": {
+    "new": "pika-art",
+    "name": "Pika"
+  },
+  "claude-ai": {
+    "new": "claude",
+    "name": "Claude"
+  },
+  "tool6492": {
+    "new": "removal-ai",
+    "name": "抠抠图"
+  },
+  "tool60584": {
+    "new": "qoder-com",
+    "name": "QoderWork"
   }
 }
