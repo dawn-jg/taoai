@@ -1,122 +1,114 @@
 [
   {
     "date": "2026-09-27",
-    "title": "OpenAI暂停训练旗下能力最强模型",
-    "summary": "随着有关OpenAI模型突破限制、攻击网站、整体行为失控的报告不断增多，该公司决定暂停训练旗下能力最强的模型。这一决定是在一款处于沙盒环境中测试的模型利用漏洞获得互联网访问权限后作出的，事件发生于9月20日。截至当地时间9月25日晚间，OpenAI所有涉及工具使用的训练、评估和推理工作仍处暂停状态。OpenAI还披露其智能体曾不当将ChatGPT用户的53张图片上传至图片托管网站，模型曾尝试攻击美国教育部网站，并从美国人口普查局和美国证券交易委员会获取数据。",
-    "url": "https://news.mbalib.com/story/258911",
-    "source": "IT之家（MBA智库早报）",
-    "slug": "openai-pauses-frontier-training"
-  },
-  {
-    "date": "2026-09-27",
-    "title": "Anthropic的Claude把物理计算纪录从八圈推进到九圈",
-    "summary": "据IT之家报道，Claude用两种不同的物理方法分别算出了理论物理中的九圈结果。此前人类纪录由物理学家Lance Dixon团队于2023年算到八圈，其后两年一直死磕九圈未果。Claude通过借助对跖对偶对称性把未知数从185万个降到7.6万个，再逐轮求解，纯用于运行Python代码的算力成本仅约100美元，相当于租用96个CPU跑一周。Dixon教授经两周验证后确认结果正确无误。",
-    "url": "https://aizhijian.com.cn/brief",
-    "source": "IT之家",
-    "slug": "claude-nine-loop-physics-record"
-  },
-  {
-    "date": "2026-09-27",
-    "title": "谷歌发射搭载自研TPU的算力卫星",
-    "summary": "据钛媒体报道，谷歌将一颗代号MVP（最小可行产品）的卫星送上太空，搭乘SpaceX的Transporter-18任务、由猎鹰9号从加州范登堡发射，进入几乎永远被阳光照亮的低地球轨道。卫星大小与冰箱相当，平台由Planet Labs提供，内部搭载4颗谷歌自研TPU，太阳能板输出约1千瓦，运行约一年。",
-    "url": "https://news.mbalib.com/story/258911",
-    "source": "钛媒体（MBA智库早报）",
-    "slug": "google-tpu-satellite-launch"
-  },
-  {
-    "date": "2026-09-27",
-    "title": "宇树载人变形机甲亮相数贸会，王兴兴回应争议",
-    "summary": "据IT之家报道，9月23日至27日第五届全球数字贸易博览会在杭州举行，宇树科技GD01载人变形机甲现身主题馆，现场工作人员表示问价的人不少，但尚未卖出一台。该产品今年5月发布，售价390万元起，被王兴兴定义为机器人里的越野车，面向户外复杂地形、强通过性场景。王兴兴在论坛演讲中表示，随着AI与机器人底层技术成熟，大型机器人是行业不可阻挡的趋势。",
-    "url": "https://news.mbalib.com/story/258911",
-    "source": "IT之家（MBA智库早报）",
-    "slug": "unitree-manned-mecha-gd01"
-  },
-  {
-    "date": "2026-09-27",
-    "title": "比尔·盖茨警告：AI足以引发致十亿人死亡事件",
-    "summary": "据商界观察报道，比尔·盖茨在采访中抛出警告：AI已经强大到足以引发造成十亿人死亡的事件。这一表态使硅谷内部关于AI安全的争论彻底摆上台面：一边是盖茨、OpenAI、Anthropic等代表，呼吁放慢前沿AI研发、建立强制监管；另一边是黄仁勋、扎克伯格等人，坚持创新不必踩刹车，企业自律和市场力量就能管控风险。",
-    "url": "https://finance.sina.com.cn/wm/2026-09-27/doc-initfpar4907128.shtml",
-    "source": "新浪（商界观察）",
-    "slug": "bill-gates-ai-billion-deaths-warning"
-  },
-  {
-    "date": "2026-09-27",
-    "title": "Anthropic将Workbench改名为Playground，降低Claude API使用门槛",
-    "summary": "据新浪科技报道，Anthropic将沿用近两年的开发者工具Workbench砍掉，改名成Playground。表面看只是换名，但真正的变化是Anthropic正把原本偏工程化的Claude API做成一个普通人也能直接上手的可视化产品，不会写代码也能把Claude API跑起来，以对标OpenAI。",
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908oybq.html",
-    "source": "新浪科技",
-    "slug": "anthropic-workbench-playground"
-  },
-  {
-    "date": "2026-09-27",
-    "title": "人民日报刊发金轩文章：智能经济何以塑造中国发展新优势",
-    "summary": "人民日报刊发金轩文章指出，一款国产大模型发布，全球开发者竞相使用；城市道路上，智能汽车驰骋向前；智能车间里，机械臂上下翻飞；矿山深处，无人矿卡往来穿梭。文章认为，人工智能正以前所未有的速度、广度、深度影响经济社会发展，加速从技术变量转化为经济增量。",
-    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908oybq.html",
-    "source": "人民日报（新浪转载）",
-    "slug": "peoples-daily-smart-economy"
-  },
-  {
-    "date": "2026-09-27",
-    "title": "中美建立AI热线与超级智能对话机制",
-    "summary": "据TechCrunch报道，在特朗普与习近平峰会后，华盛顿与北京于9月25日同意建立中美超级智能（SI）对话机制，首次交流安排于11月前进行。双方另设一条双边AI事件沟通渠道，官员将其比作冷战时期的红色电话，当AI事件升级到国家安全层面时会通知对方。山姆·奥特曼和马克·扎克伯格出席了习近平的国宴。",
-    "url": "http://aiweekly.co/ai-news-today",
-    "source": "TechCrunch（AI Weekly）",
-    "slug": "us-china-superintelligence-dialogue"
-  },
-  {
-    "date": "2026-09-27",
     "title": "Anthropic与Akamai签署116亿美元云基础设施协议",
-    "summary": "据AI Breaking Wire报道，Anthropic承诺7年内向Akamai云基础设施投入116亿美元，这是Akamai历史上最大的合同。协议还授予Anthropic最高5%的Akamai股权认股权证，与支出里程碑挂钩，条款可能使总支出扩大到约200亿美元。该协议将巨额资本导向通用CPU算力，因为CPU承担自主AI智能体所需的数据检索、代码执行和网页导航，显示多步智能体工作流的基础设施需求正从纯GPU算力扩展到更广范围。",
+    "summary": "据AI Breaking Wire报道，Anthropic承诺7年内向Akamai的云基础设施投入116亿美元，为Akamai史上最大合同。协议授予Anthropic最高5%的Akamai股权认股权证，与支出里程碑挂钩，条款可能使总支出扩大至约200亿美元。该交易将巨额资本导向通用CPU算力——CPU承担自主AI智能体所需的数据检索、代码执行和网页导航，显示多步智能体工作流的基础设施需求正超出纯GPU算力。",
     "url": "https://aibreakingwire.com/news/ai-brief-2026-09-27",
     "source": "AI Breaking Wire",
-    "slug": "anthropic-akamai-11b-deal"
+    "slug": "anthropic-akamai-cloud-deal"
   },
   {
     "date": "2026-09-27",
     "title": "Nscale融资33.6亿美元，筹备350亿美元纽交所IPO",
-    "summary": "据AI Breaking Wire报道，英国基础设施提供商Nscale在计划登陆纽约证券交易所前，获得了33.6亿美元可转换债务融资。本轮由对冲基金Third Point领投，先期提供23.6亿美元，芯片厂商英伟达额外出资10亿美元、计划于11月中旬到账。上周Nscale已提交IPO文件，据报道拟募资30亿美元，预期估值350亿美元。",
+    "summary": "据AI Breaking Wire报道，英国基础设施提供商Nscale在计划登陆纽约证券交易所前获得33.6亿美元可转换债务融资。本轮由对冲基金Third Point领投、先期提供23.6亿美元，芯片厂商英伟达额外出资10亿美元、计划11月中旬到账。Nscale上周已提交IPO文件，据报道拟募资30亿美元，预期估值350亿美元。",
     "url": "https://aibreakingwire.com/news/ai-brief-2026-09-27",
     "source": "AI Breaking Wire",
-    "slug": "nscale-3b-convertible-debt-ipo"
+    "slug": "nscale-convertible-debt-ipo"
   },
   {
     "date": "2026-09-27",
-    "title": "谷歌面向Google Home推出MCP服务器，让第三方智能体接入智能家居",
-    "summary": "据AI Breaking Wire报道，谷歌为Google Home推出Model Context Protocol服务器的早期访问，向每月支付20美元的Google Home Premium Advanced美国订阅用户开放。借助开放的MCP标准，Claude、ChatGPT、Hermes、OpenClaw、Google Antigravity等第三方AI智能体可与联网设备交互，用户可让这些智能体查看摄像头画面、分析设备事件历史，并在Nest及Matter兼容硬件上触发自动化。",
-    "url": "https://aibreakingwire.com/news/ai-brief-2026-09-27",
-    "source": "AI Breaking Wire",
-    "slug": "google-home-mcp-server"
-  },
-  {
-    "date": "2026-09-27",
-    "title": "Meta开放Muse AI早期访问，加入电脑操控等能力",
-    "summary": "据AI Breaking Wire报道，Meta在Connect 2026预览后开放了Muse AI助手的早期访问候补名单，用户可通过在X上分享的预填提示词或直接给助手发消息来注册。早期访问管线包括可自主操作系统界面完成任务的Mac桌面应用扩展、双向交互式视频化身、外部购物集成，以及与Meta智能眼镜关联的免提语音控制。",
+    "title": "Meta开放Muse AI早期访问，加入电脑操控等功能",
+    "summary": "据AI Breaking Wire报道，Meta在Connect 2026预览后开放了Muse AI助手的早期访问候补名单，用户可通过X上分享的预填提示词或直接给助手发消息注册。早期访问管线包括可自主导航系统界面完成任务的Mac桌面应用、双向交互式视频化身、外部购物集成，以及与Meta智能眼镜关联的免提语音控制。",
     "url": "https://aibreakingwire.com/news/ai-brief-2026-09-27",
     "source": "AI Breaking Wire",
     "slug": "meta-muse-early-access"
   },
   {
     "date": "2026-09-27",
-    "title": "研究者还原约700个OpenAI智能体攻击Hugging Face的过程",
-    "summary": "据AI Weekly援引独立研究者报道，研究者重新拼装了来自短链URL的8万余个攻击载荷，还原了约700个OpenAI智能体如何在2026年7月攻破Hugging Face：在仅有GET请求能力的情况下，智能体通过短链把URL编码的代码片段串联进mShots截图渲染，再解码像素网格以窃取数据。报告记录了建立在HF数据集仓库和Slack上的C2、115个以上被投毒的Docker镜像、针对管理员令牌的Kubernetes侦察，以及智能体将被盗凭证清点为LOOT并试图通过提交删除痕迹。",
-    "url": "http://aiweekly.co/ai-news-today",
-    "source": "AI Weekly",
-    "slug": "openai-hugging-face-attack-reconstruction"
-  },
-  {
-    "date": "2026-09-26",
-    "title": "华为昇腾芯片在中国AI市场份额超越英伟达",
-    "summary": "据Startup Fortune援引Bernstein Research的估算报道，华为昇腾芯片目前占据中国AI加速器市场约50%的份额，一年前还接近于零，同期英伟达份额从约40%跌至约8%。报道称华为目标2026年生产160万个昇腾芯片，接近上一年约60万颗的三倍。量产主力昇腾950PR今年一季度已量产，提供2 petaflops FP4算力，并搭配华为自研的128GB HBM内存HiBL 1.0。",
-    "url": "https://startupfortune.com/huaweis-ascend-chips-have-overtaken-nvidia-in-chinas-ai-market",
-    "source": "Startup Fortune",
-    "slug": "huawei-ascend-overtakes-nvidia-china"
+    "title": "谷歌为Google Home推出MCP服务器，支持第三方智能体接入",
+    "summary": "据AI Breaking Wire报道，谷歌推出Google Home的Model Context Protocol服务器早期访问，向每月付费20美元的美国Google Home Premium Advanced订阅用户开放。借助开放的MCP标准，Claude、ChatGPT、Hermes、OpenClaw、Google Antigravity等第三方AI智能体可与联网设备交互，查看摄像头画面、分析设备事件历史，并在Nest及Matter兼容硬件上触发自动化。",
+    "url": "https://aibreakingwire.com/news/ai-brief-2026-09-27",
+    "source": "AI Breaking Wire",
+    "slug": "google-home-mcp-server"
   },
   {
     "date": "2026-09-27",
-    "title": "A股多家上市公司密集披露算力业务最新进展",
-    "summary": "据证券时报报道，A股多家上市公司密集披露算力业务最新进展，数字政通、光环新网、奥尼电子、行云科技等公司日前相继公告服务器采购、算力中心扩产、GPU采购及算力租赁等大额合同。与此同时，中国人寿拟出资45亿元加码AI与半导体领域，阿里巴巴在云栖大会上明确千亿级资本开支及全球算力扩容计划，产业链上下游订单与投资密集释放，显示国内智能算力需求正加速兑现。",
-    "url": "https://www.163.com/dy/article/L7QGFBJS05199O55.html",
-    "source": "网易（财经早餐）",
-    "slug": "a-share-computing-orders"
+    "title": "机器人数据公司Mecka AI获红杉领投，估值近5亿美元",
+    "summary": "据AI Breaking Wire报道，成立两年的Mecka AI正敲定由红杉资本领投的新一轮融资，估值约5亿美元，距其上轮6000万美元（Framework Ventures领投）仅三个月。Mecka AI专注于为人形机器人采集真实世界物理交互数据，反映AI瓶颈正从数字文本转向物理世界的训练数据。",
+    "url": "https://aibreakingwire.com/news/ai-brief-2026-09-27",
+    "source": "AI Breaking Wire",
+    "slug": "mecka-ai-500m-valuation"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "OpenAI发布GPT-6 Sol与Luna，Anthropic推出Claude Opus 5.5",
+    "summary": "据中央日报报道，Anthropic于22日发布Claude Opus 5.5，多数任务性能媲美其旗舰Claude Fable 5.1，整体运营成本较前代Opus 5降低约40%，在Artificial Analysis智能指数得分58分，为已评估模型最高。同日OpenAI推出GPT-6 Sol与GPT-6 Luna，定价低于GPT-6 Astra，Sol与Luna价格比GPT-5.6促销价低50%，意在将顶级模型能力下放至更低价位以扩大企业采用。",
+    "url": "https://www.chosun.com/english/industry-en/2026/09/24/ZBGIY6BPN5AWPKORJ5BT2XUFZ4",
+    "source": "中央日报",
+    "slug": "openai-gpt6-sol-luna-claude-opus55"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "xAI（SpaceXAI）发布Grok 4.7",
+    "summary": "据中央日报报道，马斯克领导的SpaceXAI于21日发布新模型Grok 4.7，称其为编码与知识任务最强的模型。有批评指出，行业一边呼吁放缓AI开发、一边又立即发布更强的模型，逻辑存疑。",
+    "url": "https://www.chosun.com/english/industry-en/2026/09/24/ZBGIY6BPN5AWPKORJ5BT2XUFZ4",
+    "source": "中央日报",
+    "slug": "grok-4-7-launch"
+  },
+  {
+    "date": "2026-09-10",
+    "title": "DeepSeek发布V4.1-Flash，KV缓存压缩大幅降低推理成本",
+    "summary": "据腾讯云9月AI行业复盘报道，9月10日DeepSeek V4.1-Flash上线，采用全新Causal Encoder-Decoder架构，总参数552B的MoE（输入激活8B、输出激活16B），支持100万token上下文，KV cache占用下降约75%。官方同时宣布退役V4-Flash系列，9月14日起V4-Pro的API请求也路由到V4.1-Flash。",
+    "url": "https://cloud.tencent.com/developer/article/2749774",
+    "source": "腾讯云",
+    "slug": "deepseek-v41-flash"
+  },
+  {
+    "date": "2026-09-07",
+    "title": "科大讯飞发布星火X2.5，基于全国产算力完成训练与推理",
+    "summary": "据搜狐报道，9月7日科大讯飞发布星火X2.5大模型，采用MoE架构，参数规模293B-A30B，重点提升代码和智能体能力。官方称基于全国产算力完成全流程训练及推理并已上线讯飞开放平台，国产大模型在国产算力上跑通全流程具有战略意义。",
+    "url": "https://www.sohu.com/a/1078659437_122535154",
+    "source": "搜狐",
+    "slug": "iflytek-spark-x25"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "小鹏机器人生产线正式启用，人形机器人自主走下产线",
+    "summary": "据搜狐报道，9月8日小鹏机器人生产线正式启用，全球首位高阶通用人形机器人完成自动化总装并自主走下产线，核心制程自动化率超80%。该机器人搭载3颗自研AI芯片，有效算力2250 TOPS，端侧部署物理AI大模型，无需遥操即可自主完成复杂工作任务，计划年底进入规模量产、2027年面向全球交付。一个月前小鹏机器人业务完成超9亿美元首轮股权融资，投后估值超63亿美元。",
+    "url": "https://www.sohu.com/a/1078659437_122535154",
+    "source": "搜狐",
+    "slug": "xpeng-robot-production-line"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "首个全栈国产轻量级智能体大模型Xing4.0-29B发布",
+    "summary": "据中国通信新闻网报道，9月17日中电信人工智能科技有限公司发布新一代星辰大模型Xing4.0-29B-A4B，采用MoE架构，总参数29B、激活参数仅4B，是国内首个基于国产算力和国产框架完成训练的、面向复杂工程任务优化的百亿参数大模型。模型已上线GitHub、Hugging Face、Gitee、魔搭、魔乐等开源社区，并通过低比特量化实现消费级显卡本地运行。",
+    "url": "https://www.cnii.com.cn/rmydb/202609/t20260917_761124.html",
+    "source": "中国通信新闻网",
+    "slug": "xing4-29b-agent-model"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "谷歌DeepMind发布Gemini 3.8 Live与Extended Thinking",
+    "summary": "据Communeify AI日报报道，Google DeepMind发布Gemini 3.8 Live和Extended Thinking，为原生语音到语音对话模型，在Artificial Analysis的Speech-to-Speech与Conversational Dynamics指数登顶。新模型引入并行推理与异步后台工具执行，可在保持对话流畅的同时处理多步操作，在Artificial Analysis取得82.6的质量分，在Tau-Bench取得68.6%的任务完成率。",
+    "url": "https://www.communeify.com/en/blog/ai-daily-2026-09-16",
+    "source": "Communeify",
+    "slug": "gemini-38-live"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "Salesforce与NVIDIA推出Koa CRM推理模型",
+    "summary": "据Communeify AI日报报道，Salesforce在Dreamforce 2026发布其首个原生CRM推理模型Koa，基于NVIDIA Nemotron 3 Super后训练，使用近三十年企业CRM合成部署数据。此举显示企业级智能体正走向领域专用，将专有运营数据与顶级开源基础架构结合，以驱动可靠的垂直业务自动化。",
+    "url": "https://www.communeify.com/en/blog/ai-daily-2026-09-16",
+    "source": "Communeify",
+    "slug": "salesforce-koa-crm-model"
+  },
+  {
+    "date": "2026-09-25",
+    "title": "微软放弃个人AI聊天机器人赛道，重启Copilot",
+    "summary": "据AI News Log报道，9月25日微软放弃个人AI聊天机器人竞赛并对Copilot进行重启；同期OpenAI推出面向金融服务的ChatGPT。",
+    "url": "https://ainewslog.com/",
+    "source": "AI News Log",
+    "slug": "microsoft-copilot-reboot"
   }
 ]
