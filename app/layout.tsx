@@ -7,11 +7,11 @@ import { OrganizationSchema, WebSiteSchema } from '@/components/StructuredData';
 
 export const metadata: Metadata = {
   title: 'TaoAI - AI工具导航 | 发现最好用的AI工具',
-  description: 'TaoAI 是独立AI工具导航站，收录1200+款AI工具，覆盖AI对话、写作、绘画、视频、编程、设计、办公等15个分类。每款工具附编辑部真实评测和优缺点分析，帮你快速找到最适合的AI工具。每日更新AI快讯与教程。',
+  description: 'TaoAI 是独立 AI 工具导航站，收录 1200+ 款 AI 工具，覆盖 AI 对话、写作、绘画、视频、编程、设计、办公等 15 个分类。提供工具信息整理、分类检索与编辑部评测，每日更新 AI 快讯与使用教程。',
   keywords: 'AI工具,AI导航,TaoAI,AI对话,AI写作,AI绘画,AI视频,AI编程,AI设计,AI办公,DeepSeek,豆包,Kimi,通义千问,AI工具推荐',
   openGraph: {
     title: 'TaoAI - AI工具导航 | 发现最好用的AI工具',
-    description: 'TaoAI 是独立AI工具导航站，收录1200+款AI工具。编辑部真实评测，优缺点分析，帮你找到最适合的AI工具。',
+    description: 'TaoAI 是独立 AI 工具导航站，收录 1200+ 款 AI 工具，提供工具信息整理、分类检索与编辑部评测。',
     type: 'website',
     locale: 'zh_CN',
     siteName: 'TaoAI',
@@ -19,7 +19,9 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true },
   metadataBase: new URL('https://taoai365.com'),
-  alternates: { canonical: '/', languages: { 'zh-CN': '/' } },
+  // 相对 canonical：在 Next.js 中解析为「当前页面自身地址」，
+  // 各动态路由再用 generateMetadata 覆盖为绝对地址。
+  alternates: { canonical: './', languages: { 'zh-CN': './' } },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -27,20 +29,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="zh-CN" className="h-full">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://taoai365.com" />
-        <link rel="alternate" hrefLang="zh-CN" href="https://taoai365.com" />
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <link rel="shortcut icon" href="/favicon.ico" />
-        <meta property="og:title" content="TaoAI - AI工具导航 | 发现最好用的AI工具" />
-        <meta property="og:description" content="TaoAI 是独立AI工具导航站，收录1200+款AI工具。编辑部真实评测，优缺点分析，帮你找到最适合的AI工具。" />
-        <meta property="og:type" content="website" />
-        <meta property="og:locale" content="zh_CN" />
-        <meta property="og:site_name" content="TaoAI" />
-        <meta property="og:image" content="https://taoai365.com/og-image.png" />
-        <meta property="og:image:width" content="1200" />
-        <meta property="og:image:height" content="630" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:image" content="https://taoai365.com/og-image.png" />
         <script charSet="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js" />
         <script>{`LA.init({id:"LCklhM4QMEncFfxL",ck:"LCklhM4QMEncFfxL"})`}</script>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7487473818971469" crossOrigin="anonymous" />

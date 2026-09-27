@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { getToolBySlug, getCategories, getAllTools, getEditorialBySlug } from '@/lib/tools';
+import { getToolBySlug, getCategories, getAllTools, getEditorialBySlug, isToolIndexable } from '@/lib/tools';
 import { AITool } from '@/types';
 import ToolLogo from '@/components/ToolLogo';
 import { ToolSchema, BreadcrumbSchema, FAQSchema } from '@/components/StructuredData';
@@ -13,7 +13,15 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const tool = getToolBySlug((await params).slug);
   if (!tool) return { title: '未找到' };
-  return { title: buildToolTitle(tool), description: buildToolDescription(tool) };
+
+  return {
+    title: buildToolTitle(tool),
+    description: buildToolDescription(tool),
+    alternates: { canonical: `https://taoai365.com/tools/${tool.slug}` },
+    // 缺少实质内容的条目：保留可访问性，但不参与索引，
+    // 避免被 AdSense / 搜索算法判定为批量生成的低价值内容。
+    robots: isToolIndexable(tool) ? undefined : { index: false, follow: true },
+  };
 }
 
 // ─── SEO helpers: 长尾关键词 Title/Description 模板 ───
@@ -107,6 +115,8 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
   const relatedTools = getAllTools().filter(t => t.slug !== slug && t.categories.some(c => tool.categories.includes(c))).slice(0, 6);
   const hasDetails = tool.detailed_content && tool.detailed_content.length > 0;
   const editorial = getEditorialBySlug(slug);
+  const indexable = isToolIndexable(tool);
+  const faqs = buildToolFaqs(tool, relatedTools);
   const canonicalUrl = `https://taoai365.com/tools/${slug}`;
 
   return (
@@ -242,9 +252,8 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
         </div>
       )}
 
-      {/* ===== Content: Detailed (from ai-bot) or Generic ===== */}
+      {/* ===== 正文内容 ===== */}
       {hasDetails ? (
-        /* ===== Detailed Content from ai-bot ===== */
         <div className="space-y-4">
           {tool.detailed_content!.map((section, i) => (
             <div key={i} className="bg-white rounded-xl border border-gray-200 p-5">
@@ -259,59 +268,18 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
           ))}
         </div>
       ) : (
-        /* ===== Generic Content (fallback) ===== */
-        <div className="space-y-5">
-          <SectionCard title={`什么是 ${tool.name}`}>
-            <p className="text-sm text-gray-700 leading-relaxed mb-3">
-              {tool.name} 是一款 {tool.description}。作为 AI 工具生态中的优秀产品,{tool.name} 在 {tool.tags.slice(0, 3).join('、')} 等场景中表现出色,帮助用户提升效率、激发创造力。
-            </p>
-            <div className="bg-blue-50 border-l-4 border-blue-400 p-3 rounded-r">
-              <p className="text-xs text-blue-700">
-                💡 {tool.name} 支持 {tool.pricing === 'free' ? '完全免费使用' : tool.pricing === 'freemium' ? '免费版 + 付费高级功能' : '付费订阅'},
-                访问官网了解更多信息。
-              </p>
-            </div>
-          </SectionCard>
-
-          <SectionCard title="主要功能">
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-              {tool.tags.map((tag, i) => (
-                <div key={i} className="flex items-start gap-2.5 p-3 bg-gray-50 rounded-lg">
-                  <span className="shrink-0 w-6 h-6 flex items-center justify-center rounded-full bg-blue-100 text-blue-600 text-xs font-bold">{(i + 1).toString().padStart(2, '0')}</span>
-                  <div>
-                    <h4 className="text-sm font-semibold text-gray-900">{tag}</h4>
-                    <p className="text-xs text-gray-500 mt-0.5">在 {tag} 方面提供专业级能力支持,满足多样化创作需求。</p>
-                  </div>
-                </div>
-              ))}
-            </div>
-          </SectionCard>
-
-          <SectionCard title="技术优势">
-            <div className="space-y-3">
-              <TechRow icon="🚀" title="响应速度快" desc={`${tool.name} 推理响应速度快,延迟低,适合实时交互场景。`} />
-              <TechRow icon="🎯" title="效果出色" desc={`在${tool.tags[0] || '核心'}场景下表现优异,输出质量稳定可靠。`} />
-              <TechRow icon="💰" title="性价比高" desc={tool.pricing === 'free' ? '完全免费,无任何隐藏费用。' : '提供灵活的定价方案,满足不同用户需求。'} />
-              <TechRow icon="🔌" title="接入便捷" desc="支持 API 调用,可快速集成到现有工作流中。" />
-            </div>
-          </SectionCard>
-
-          <SectionCard title={`如何使用 ${tool.name}`}>
-            <ol className="space-y-3">
-              <Step num={1} title="访问官网" desc={`打开浏览器访问 ${tool.url},进入 ${tool.name} 官方网站。`} />
-              <Step num={2} title="注册/登录" desc="根据页面提示完成账号注册或直接登录(支持第三方登录)。" />
-              <Step num={3} title="选择功能" desc={`在控制台中选择需要的 ${tool.tags.slice(0, 2).join(' / ')} 等功能模块开始使用。`} />
-              <Step num={4} title="查看文档" desc="如需深入了解,可查看官方文档或在本站搜索相关教程。" />
-            </ol>
-          </SectionCard>
-
-          <SectionCard title="价格信息">
-            <div className="text-sm text-gray-700 leading-relaxed">
-              {tool.pricing === 'free' && <p>✅ <strong>{tool.name}</strong> 目前完全<strong className="text-green-600">免费</strong>使用,无需付费即可体验全部核心功能。</p>}
-              {tool.pricing === 'freemium' && <p>✅ <strong>{tool.name}</strong> 提供<strong className="text-blue-600">免费版</strong>,同时提供付费高级版,解锁更多功能和更高配额。</p>}
-              {tool.pricing === 'paid' && <p>✅ <strong>{tool.name}</strong> 为付费工具,提供多种订阅方案,可按需选择。</p>}
-            </div>
-          </SectionCard>
+        /* 无实质内容的条目：不再生成模板化填充文本，
+           只保留基础信息与官网入口供用户跳转。 */
+        <div className="bg-white rounded-xl border border-gray-200 p-5">
+          <h2 className="text-base font-bold text-gray-900 mb-2">关于 {tool.name}</h2>
+          <p className="text-sm text-gray-600 leading-relaxed mb-3">{tool.description}</p>
+          <p className="text-xs text-gray-400 leading-relaxed">
+            本站暂未收录该工具的使用体验评测。你可以先访问官网了解详情，或在
+            <Link href="/tutorials" className="text-blue-600 hover:underline">教程栏目</Link>
+            中查找相关用法。若你是该工具的作者或深度用户，欢迎
+            <Link href="/contact" className="text-blue-600 hover:underline">提供信息</Link>
+            帮助我们完善此条目。
+          </p>
         </div>
       )}
 
@@ -336,20 +304,22 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
         </div>
       )}
 
-      {/* ===== FAQ (GEO: 生成式引擎可引用的问答区块) ===== */}
-      <SectionCard title={`${tool.name} 常见问题`}>
-        <div className="space-y-4">
-          {toolFaqs.map((faq, i) => (
-            <div key={i}>
-              <h3 className="text-sm font-semibold text-gray-900 mb-1.5">{faq.question}</h3>
-              <p className="text-sm text-gray-600 leading-relaxed">{faq.answer}</p>
-            </div>
-          ))}
-        </div>
-        <p className="text-[10px] text-gray-400 mt-4 pt-3 border-t border-gray-100">
-          信息更新于 {tool.createdAt || '2026-07'}。如信息有误,欢迎<a href="/contact" className="text-blue-600 hover:underline">联系我们</a>更正。
-        </p>
-      </SectionCard>
+      {/* ===== FAQ：按工具自身信息生成，仅在与内容匹配的页面上输出 ===== */}
+      {indexable && (
+        <SectionCard title={`${tool.name} 常见问题`}>
+          <div className="space-y-4">
+            {faqs.map((faq, i) => (
+              <div key={i}>
+                <h3 className="text-sm font-semibold text-gray-900 mb-1.5">{faq.question}</h3>
+                <p className="text-sm text-gray-600 leading-relaxed">{faq.answer}</p>
+              </div>
+            ))}
+          </div>
+          <p className="text-[10px] text-gray-400 mt-4 pt-3 border-t border-gray-100">
+            信息更新于 {tool.createdAt || '2026-07'}。如信息有误,欢迎<Link href="/contact" className="text-blue-600 hover:underline">联系我们</Link>更正。
+          </p>
+        </SectionCard>
+      )}
 
       {/* JSON-LD Structured Data */}
       <BreadcrumbSchema items={[
@@ -358,17 +328,40 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
         { name: tool.name, url: canonicalUrl },
       ]} />
       <ToolSchema tool={tool} editorial={editorial} />
-      <FAQSchema faqs={toolFaqs} />
+      {indexable && <FAQSchema faqs={faqs} />}
     </div>
   );
 }
 
-/* 工具 FAQ 数据(GEO 优化:直接回答式内容,便于 AI 搜索引擎引用) */
-const toolFaqs = [
-  { question: '这是免费的 AI 工具吗?', answer: '这取决于具体产品:部分工具提供完全免费版本,部分采用免费增值模式,部分需要付费订阅。建议访问官网查看最新的定价方案。' },
-  { question: '适合哪些人使用?', answer: '适合需要提升工作效率、内容创作、编程开发、设计绘画等场景的个人用户和团队。具体适用场景可参考本页分类标签和编辑评测。' },
-  { question: '与其他同类 AI 工具相比如何?', answer: '每个工具各有侧重。本页「类似于」区块列出了同类工具,可以对比评分、价格模式和使用场景后做出选择。' },
-];
+/* 按工具自身字段生成 FAQ（GEO 优化：直接回答式内容，便于 AI 搜索引擎引用）。
+   每条内容随工具不同而不同，避免全站复用同一段文本构成重复内容。 */
+function buildToolFaqs(tool: AITool, relatedTools: AITool[]): { question: string; answer: string }[] {
+  const catName = tool.categories[0]
+    ? (getCategories().find(c => c.slug === tool.categories[0])?.name || 'AI')
+    : 'AI';
+  const pricingAnswer = {
+    free: `${tool.name} 目前可免费使用，无需付费即可体验核心功能。具体额度与限制请以官网说明为准。`,
+    freemium: `${tool.name} 采用免费增值模式：提供免费版本，付费后可解锁更高配额与进阶功能。`,
+    paid: `${tool.name} 为付费产品，提供多种订阅方案，选择前建议先确认试用政策。`,
+  }[tool.pricing] || `${tool.name} 的定价方案请以官网最新说明为准。`;
+
+  const faqs = [
+    { question: `${tool.name} 是免费的吗？`, answer: pricingAnswer },
+    {
+      question: `${tool.name} 适合哪些场景？`,
+      answer: `${tool.name} 属于${catName}类工具，主要覆盖 ${tool.tags.slice(0, 5).join('、')} 等使用场景。是否适合你的需求，可结合这些能力点与自己的工作流对照判断。`,
+    },
+  ];
+
+  if (relatedTools.length > 0) {
+    faqs.push({
+      question: `有哪些和 ${tool.name} 类似的工具？`,
+      answer: `与本页收录的同类工具相比，${relatedTools.slice(0, 3).map(t => t.name).join('、')} 等定位相近。可以对照各自的定价模式、能力侧重和使用场景再做选择。`,
+    });
+  }
+
+  return faqs;
+}
 
 /* ---- Sub-components ---- */
 
@@ -378,29 +371,5 @@ function SectionCard({ title, children }: { title: string; children: React.React
       <h2 className="text-base font-bold text-gray-900 mb-3">{title}</h2>
       {children}
     </div>
-  );
-}
-
-function TechRow({ icon, title, desc }: { icon: string; title: string; desc: string }) {
-  return (
-    <div className="flex items-start gap-3 p-3 bg-gray-50 rounded-lg">
-      <span className="text-lg">{icon}</span>
-      <div>
-        <h4 className="text-sm font-semibold text-gray-900">{title}</h4>
-        <p className="text-xs text-gray-500 mt-0.5">{desc}</p>
-      </div>
-    </div>
-  );
-}
-
-function Step({ num, title, desc }: { num: number; title: string; desc: string }) {
-  return (
-    <li className="flex items-start gap-3">
-      <span className="shrink-0 w-6 h-6 flex items-center justify-center rounded-full bg-blue-600 text-white text-xs font-bold">{num}</span>
-      <div>
-        <h4 className="text-sm font-semibold text-gray-900">{title}</h4>
-        <p className="text-xs text-gray-500 mt-0.5">{desc}</p>
-      </div>
-    </li>
   );
 }
