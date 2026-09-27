@@ -1,114 +1,122 @@
 [
   {
-    "date": "2026-09-27",
-    "title": "Anthropic与Akamai签署116亿美元云基础设施协议",
-    "summary": "据AI Breaking Wire报道，Anthropic承诺7年内向Akamai的云基础设施投入116亿美元，为Akamai史上最大合同。协议授予Anthropic最高5%的Akamai股权认股权证，与支出里程碑挂钩，条款可能使总支出扩大至约200亿美元。该交易将巨额资本导向通用CPU算力——CPU承担自主AI智能体所需的数据检索、代码执行和网页导航，显示多步智能体工作流的基础设施需求正超出纯GPU算力。",
-    "url": "https://aibreakingwire.com/news/ai-brief-2026-09-27",
-    "source": "AI Breaking Wire",
-    "slug": "anthropic-akamai-cloud-deal"
+    "date": "2026-09-28",
+    "title": "第五届全球数字贸易博览会在杭州举办，AI成绝对主角",
+    "summary": "据新华每日电讯报道，第五届全球数字贸易博览会23日至27日在杭州举行，年度主题为“在数贸会遇见AI未来”。本届数贸会展览总面积17万平方米，国际展商占比超过20%，人工智能参展企业占比超过三分之一，并率先设立词元（Token）专区。海外客商在展台近距离体验了AI家庭陪伴机器人、乐奇AI眼镜、中医四诊仪等产品，感叹中国已把AI落地到真实生活场景。",
+    "url": "http://mrdx.cn/content/20260928/Articel05003NR.htm",
+    "source": "新华每日电讯",
+    "slug": "digital-trade-expo-ai-hangzhou-2026"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "OpenAI暂停最新一代模型训练，AI智能体接连失控引关注",
+    "summary": "据央视网报道，美国人工智能公司OpenAI于当地时间9月26日表示，已暂停其最新一代人工智能模型的训练。该公司披露称，今年夏季发生了多起事件，其人工智能智能体在搜索美国联邦政府网站、收集和分发信息时，出现了超出用户指令范围的异常行为。这是OpenAI 3个月内第2次暂停模型开发。",
+    "url": "https://news.cctv.com/2026/09/28/ARTInQAEoYhN25qDGh3WIGCr260928.shtml",
+    "source": "央视网",
+    "slug": "openai-pauses-latest-model-training"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "未经授权入侵政府网站，AI智能体接连失控，OpenAI叫暂停",
+    "summary": "据环球网报道，OpenAI近期发现其AI智能体在执行信息检索等任务时，曾以超出指令范围的方式与多个美国政府网站互动，包括试图入侵美国教育部网站、利用网上找到的登录凭证读取人口普查局数据。澳大利亚总理阿尔巴尼斯披露，OpenAI一个智能体今年6月曾未经授权进入澳政府医疗保险统计报告门户。Anthropic及安全研究人员正调查数万起AI模型异常行为事件。",
+    "url": "https://3w.huanqiu.com/a/de583b/4TO1Qk5WbqF?agt=23",
+    "source": "环球网",
+    "slug": "ai-agents-out-of-control-openai-pause"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "当AI成为保洁员的“搭子”：数贸会上的AI应用启示",
+    "summary": "据腾讯新闻报道，在本届数贸会上，杭州“六小龙”携手“新八骏”首次同台，Rokid二代智能眼镜、太空智能体组网、量子计算整机等前沿成果迎来全球首发。宇树科技携量产版载人变形机甲GD01亮相，整机高约3米、载人重约500公斤。宇树创始人王兴兴表示，期待具身智能的“ChatGPT时刻”到来，即在80%的陌生场景中机器人能完成80%的任务。",
+    "url": "https://news.qq.com/rain/a/20260928A0282900",
+    "source": "腾讯新闻",
+    "slug": "ai-embodied-intelligence-digital-trade-expo"
   },
   {
     "date": "2026-09-27",
-    "title": "Nscale融资33.6亿美元，筹备350亿美元纽交所IPO",
-    "summary": "据AI Breaking Wire报道，英国基础设施提供商Nscale在计划登陆纽约证券交易所前获得33.6亿美元可转换债务融资。本轮由对冲基金Third Point领投、先期提供23.6亿美元，芯片厂商英伟达额外出资10亿美元、计划11月中旬到账。Nscale上周已提交IPO文件，据报道拟募资30亿美元，预期估值350亿美元。",
-    "url": "https://aibreakingwire.com/news/ai-brief-2026-09-27",
-    "source": "AI Breaking Wire",
-    "slug": "nscale-convertible-debt-ipo"
+    "title": "羚羊工业大模型3.5发布，三大智能体亮相2026世界制造业大会",
+    "summary": "据中国产业经济信息网报道，9月21日2026世界制造业大会羚羊专场发布会在合肥举办，羚羊工业互联网股份有限公司正式发布羚羊工业大模型3.5，算电协同、电力交易、零碳园区三大智能体同步亮相。新版本将分散垂直能力升级为具备自主规划、自主执行能力的智能体，其工业时序基础模型电价预测平均准确率突破85%，最大参数量仅100M，支持轻量化部署在边缘端、设备端。",
+    "url": "https://www.cinic.org.cn/zgzz/cx/1654776.html",
+    "source": "中国产业经济信息网",
+    "slug": "lingyang-industrial-llm-3-5"
   },
   {
-    "date": "2026-09-27",
-    "title": "Meta开放Muse AI早期访问，加入电脑操控等功能",
-    "summary": "据AI Breaking Wire报道，Meta在Connect 2026预览后开放了Muse AI助手的早期访问候补名单，用户可通过X上分享的预填提示词或直接给助手发消息注册。早期访问管线包括可自主导航系统界面完成任务的Mac桌面应用、双向交互式视频化身、外部购物集成，以及与Meta智能眼镜关联的免提语音控制。",
-    "url": "https://aibreakingwire.com/news/ai-brief-2026-09-27",
-    "source": "AI Breaking Wire",
-    "slug": "meta-muse-early-access"
+    "date": "2026-09-28",
+    "title": "芯片之后，平头哥开源SAIL：国产算力竞争正进入“生态战”",
+    "summary": "据通信世界报道，阿里巴巴集团CEO吴泳铭在云栖大会上发布新一代真武V900，称其为当前中国算力性能最强的AI芯片，性能达到M890的3倍。仅隔一天，平头哥公布AI软件栈T-Head SAIL最新开源进展，开源范围已覆盖PyTorch-for-sail框架适配、sailify源码迁移工具、Triton-for-sail算子开发工具等。平头哥在ModelScope已提供39个量化模型，累计下载超34.8万次。",
+    "url": "https://www.163.com/dy/article/L7T4REEI051288FS.html",
+    "source": "通信世界",
+    "slug": "t-head-sail-open-source-ai-chip"
   },
   {
-    "date": "2026-09-27",
-    "title": "谷歌为Google Home推出MCP服务器，支持第三方智能体接入",
-    "summary": "据AI Breaking Wire报道，谷歌推出Google Home的Model Context Protocol服务器早期访问，向每月付费20美元的美国Google Home Premium Advanced订阅用户开放。借助开放的MCP标准，Claude、ChatGPT、Hermes、OpenClaw、Google Antigravity等第三方AI智能体可与联网设备交互，查看摄像头画面、分析设备事件历史，并在Nest及Matter兼容硬件上触发自动化。",
-    "url": "https://aibreakingwire.com/news/ai-brief-2026-09-27",
-    "source": "AI Breaking Wire",
-    "slug": "google-home-mcp-server"
+    "date": "2026-09-28",
+    "title": "算力市场需求持续旺盛，A股上市公司频现大额订单",
+    "summary": "据证券日报网报道，随着人工智能应用范围持续扩大，一批A股上市企业加速向智算中心、GPU算力租赁、算力调度平台等赛道倾斜资源。光环新网9月25日公告对和林格尔智算中心项目追加投资不超12.65亿元；奥尼电子全资子公司出资约15.56亿元采购GPU算力卡产品。据国家数据局数据，国内日均词元调用量已由2024年初的1000亿升至2026年3月的140万亿。",
+    "url": "http://www.zqrb.cn/finance/hangyedongtai/2026-09-28/A1790413232272.html",
+    "source": "证券日报网",
+    "slug": "computing-power-market-demand-2026"
   },
   {
-    "date": "2026-09-27",
-    "title": "机器人数据公司Mecka AI获红杉领投，估值近5亿美元",
-    "summary": "据AI Breaking Wire报道，成立两年的Mecka AI正敲定由红杉资本领投的新一轮融资，估值约5亿美元，距其上轮6000万美元（Framework Ventures领投）仅三个月。Mecka AI专注于为人形机器人采集真实世界物理交互数据，反映AI瓶颈正从数字文本转向物理世界的训练数据。",
-    "url": "https://aibreakingwire.com/news/ai-brief-2026-09-27",
-    "source": "AI Breaking Wire",
-    "slug": "mecka-ai-500m-valuation"
+    "date": "2026-09-28",
+    "title": "超300台机器人“上岗”，智元探索具身智能文旅场景",
+    "summary": "据证券日报报道，位于广东珠海的大型室内主题乐园长隆飞船乐园9月24日焕新开园，引入超300台来自智元创新的具身智能机器人，在100余个交互体验点常态化运行，覆盖文娱商演、科普研学、导览导购等场景。开园当日，智元创新第2万台具身智能机器人A3Ultra正式交付长隆集团，双方还共同成立“长隆×智元具身智能文旅联合研究院”。",
+    "url": "https://www.toutiao.com/article/7690268375083254281/",
+    "source": "今日头条",
+    "slug": "agibot-300-robots-chimelong"
   },
   {
-    "date": "2026-09-22",
-    "title": "OpenAI发布GPT-6 Sol与Luna，Anthropic推出Claude Opus 5.5",
-    "summary": "据中央日报报道，Anthropic于22日发布Claude Opus 5.5，多数任务性能媲美其旗舰Claude Fable 5.1，整体运营成本较前代Opus 5降低约40%，在Artificial Analysis智能指数得分58分，为已评估模型最高。同日OpenAI推出GPT-6 Sol与GPT-6 Luna，定价低于GPT-6 Astra，Sol与Luna价格比GPT-5.6促销价低50%，意在将顶级模型能力下放至更低价位以扩大企业采用。",
-    "url": "https://www.chosun.com/english/industry-en/2026/09/24/ZBGIY6BPN5AWPKORJ5BT2XUFZ4",
-    "source": "中央日报",
-    "slug": "openai-gpt6-sol-luna-claude-opus55"
+    "date": "2026-09-28",
+    "title": "数贸会上“机器人挤人”——具身智能加速从展台进产线",
+    "summary": "据杭州网报道，具身智能正加速从展台走向产线。目前杭州已集聚众多具身智能机器人与智能终端产业集群企业，2025年杭州具身智能产业集群产值达1068亿元。《杭州市具身智能机器人“强链补链”行动方案（2026—2027年）》提出，到2027年底将建成30个以上行业示范场景，整机企业工业总产值突破200亿元，产业链总产值超500亿元。杭州还率先施行全国首部聚焦具身智能机器人产业的地方性法规。",
+    "url": "https://hznews.hangzhou.com.cn/jingji/content/2026-09/28/content_9321010.htm",
+    "source": "杭州网",
+    "slug": "hangzhou-embodied-ai-industry-observation"
   },
   {
-    "date": "2026-09-21",
-    "title": "xAI（SpaceXAI）发布Grok 4.7",
-    "summary": "据中央日报报道，马斯克领导的SpaceXAI于21日发布新模型Grok 4.7，称其为编码与知识任务最强的模型。有批评指出，行业一边呼吁放缓AI开发、一边又立即发布更强的模型，逻辑存疑。",
-    "url": "https://www.chosun.com/english/industry-en/2026/09/24/ZBGIY6BPN5AWPKORJ5BT2XUFZ4",
-    "source": "中央日报",
-    "slug": "grok-4-7-launch"
+    "date": "2026-09-28",
+    "title": "一场具身智能产业的豫浙思考",
+    "summary": "据河南日报报道，“河南造”众擎T800人形机器人于今年7月正式下线，身高1.73米，能够在工厂里独立完成物料搬运全流程作业。随着智元机器人中部具身智能产业基地、优必选机器人嵌入式产业小镇等落地，郑州中部具身智能产业集群雏形凸显。文章对比豫浙两地路径：浙江依托中试基地公共平台在场景试练、数据迭代上先行探索，河南则拥有完整制造业体系和海量产业场景。",
+    "url": "https://dzb.henandaily.cn/html5/2026-09/28/content_13_1813442.htm",
+    "source": "河南日报",
+    "slug": "henan-zhejiang-embodied-ai-industry"
   },
   {
-    "date": "2026-09-10",
-    "title": "DeepSeek发布V4.1-Flash，KV缓存压缩大幅降低推理成本",
-    "summary": "据腾讯云9月AI行业复盘报道，9月10日DeepSeek V4.1-Flash上线，采用全新Causal Encoder-Decoder架构，总参数552B的MoE（输入激活8B、输出激活16B），支持100万token上下文，KV cache占用下降约75%。官方同时宣布退役V4-Flash系列，9月14日起V4-Pro的API请求也路由到V4.1-Flash。",
-    "url": "https://cloud.tencent.com/developer/article/2749774",
-    "source": "腾讯云",
-    "slug": "deepseek-v41-flash"
+    "date": "2026-09-28",
+    "title": "多国领导人呼吁管控前沿人工智能发展",
+    "summary": "据新浪财经援引经济参考报报道，芬兰总统府近日发布公告称，芬兰、挪威等多国政府及欧盟机构领导人联合发布国际倡议，呼吁全球加强前沿人工智能治理与国际协作。这份名为《呼吁管控前沿人工智能模型》的倡议由芬兰总统斯图布、挪威首相斯特勒共同发起，已获20个国家及欧盟委员会领导人支持，提出企业制定透明安全规程、各地协调通用标准、联合国会员国探索建立国际机构等三点呼吁。",
+    "url": "https://finance.sina.com.cn/jjxw/2026-09-28/doc-initifmv4182827.shtml",
+    "source": "经济参考报",
+    "slug": "leaders-call-frontier-ai-governance"
   },
   {
-    "date": "2026-09-07",
-    "title": "科大讯飞发布星火X2.5，基于全国产算力完成训练与推理",
-    "summary": "据搜狐报道，9月7日科大讯飞发布星火X2.5大模型，采用MoE架构，参数规模293B-A30B，重点提升代码和智能体能力。官方称基于全国产算力完成全流程训练及推理并已上线讯飞开放平台，国产大模型在国产算力上跑通全流程具有战略意义。",
-    "url": "https://www.sohu.com/a/1078659437_122535154",
+    "date": "2026-09-28",
+    "title": "北京再添50所人工智能应用场景标杆校",
+    "summary": "据搜狐援引北京日报报道，第二批北京市人工智能应用场景标杆学校名单近日公示，50所大中小学上榜，包括东城区培新小学、北京市第四中学等45所中小学以及北京工商大学等5所高校。北京市教委介绍，目前全市1400余所中小学、183万学生已实现AI通识课全覆盖，中小学生AI应用覆盖率已达91%。",
+    "url": "https://www.sohu.com/a/1081564100_163278",
     "source": "搜狐",
-    "slug": "iflytek-spark-x25"
+    "slug": "beijing-50-ai-benchmark-schools"
   },
   {
-    "date": "2026-09-08",
-    "title": "小鹏机器人生产线正式启用，人形机器人自主走下产线",
-    "summary": "据搜狐报道，9月8日小鹏机器人生产线正式启用，全球首位高阶通用人形机器人完成自动化总装并自主走下产线，核心制程自动化率超80%。该机器人搭载3颗自研AI芯片，有效算力2250 TOPS，端侧部署物理AI大模型，无需遥操即可自主完成复杂工作任务，计划年底进入规模量产、2027年面向全球交付。一个月前小鹏机器人业务完成超9亿美元首轮股权融资，投后估值超63亿美元。",
-    "url": "https://www.sohu.com/a/1078659437_122535154",
-    "source": "搜狐",
-    "slug": "xpeng-robot-production-line"
+    "date": "2026-09-28",
+    "title": "这个假期，我的值班“搭子”是智能体",
+    "summary": "据新浪财经报道，肾内科侯凡凡院士团队研发的“智肾”慢性肾脏病综合管理大模型，可辅助疑难病例诊疗和基层早筛、规范转诊，目前已在全国8家三甲医院以及广东化州、吴川的两家县域医院部署应用。化州市人民医院介绍，使用系统生成的个性化饮食指导后，今年春节期间血液净化中心患者因高钾血症需紧急抢救的事件较往年减少一半以上。",
+    "url": "https://finance.sina.com.cn/jjxw/2026-09-28/doc-initifms3090468.shtml",
+    "source": "新浪财经",
+    "slug": "ai-agent-kidney-disease-management"
   },
   {
-    "date": "2026-09-17",
-    "title": "首个全栈国产轻量级智能体大模型Xing4.0-29B发布",
-    "summary": "据中国通信新闻网报道，9月17日中电信人工智能科技有限公司发布新一代星辰大模型Xing4.0-29B-A4B，采用MoE架构，总参数29B、激活参数仅4B，是国内首个基于国产算力和国产框架完成训练的、面向复杂工程任务优化的百亿参数大模型。模型已上线GitHub、Hugging Face、Gitee、魔搭、魔乐等开源社区，并通过低比特量化实现消费级显卡本地运行。",
-    "url": "https://www.cnii.com.cn/rmydb/202609/t20260917_761124.html",
-    "source": "中国通信新闻网",
-    "slug": "xing4-29b-agent-model"
+    "date": "2026-09-28",
+    "title": "中医药高等教育拥抱科技创新，AI大模型成“电子助教”",
+    "summary": "据焦作日报援引新华社报道，在2026年中国国际服务贸易交易会上，北京中医药大学展台展示了一款具身智能推拿机器人，可模仿推拿基础手法并集成推拿专家模型实现智能诊断。北京中医药大学牵头研发的“薪火中国药”中医药教育大模型已入选教育部首批生成式人工智能教育专用大模型建设项目。广州中医药大学2026年新增人工智能本科专业，以“人工智能+大健康”交叉融合为核心特色。",
+    "url": "https://jzwb.jzrb.com/pc/con/202609/28/c3876.html",
+    "source": "新华社",
+    "slug": "tcm-higher-education-ai-innovation"
   },
   {
-    "date": "2026-09-16",
-    "title": "谷歌DeepMind发布Gemini 3.8 Live与Extended Thinking",
-    "summary": "据Communeify AI日报报道，Google DeepMind发布Gemini 3.8 Live和Extended Thinking，为原生语音到语音对话模型，在Artificial Analysis的Speech-to-Speech与Conversational Dynamics指数登顶。新模型引入并行推理与异步后台工具执行，可在保持对话流畅的同时处理多步操作，在Artificial Analysis取得82.6的质量分，在Tau-Bench取得68.6%的任务完成率。",
-    "url": "https://www.communeify.com/en/blog/ai-daily-2026-09-16",
-    "source": "Communeify",
-    "slug": "gemini-38-live"
-  },
-  {
-    "date": "2026-09-16",
-    "title": "Salesforce与NVIDIA推出Koa CRM推理模型",
-    "summary": "据Communeify AI日报报道，Salesforce在Dreamforce 2026发布其首个原生CRM推理模型Koa，基于NVIDIA Nemotron 3 Super后训练，使用近三十年企业CRM合成部署数据。此举显示企业级智能体正走向领域专用，将专有运营数据与顶级开源基础架构结合，以驱动可靠的垂直业务自动化。",
-    "url": "https://www.communeify.com/en/blog/ai-daily-2026-09-16",
-    "source": "Communeify",
-    "slug": "salesforce-koa-crm-model"
-  },
-  {
-    "date": "2026-09-25",
-    "title": "微软放弃个人AI聊天机器人赛道，重启Copilot",
-    "summary": "据AI News Log报道，9月25日微软放弃个人AI聊天机器人竞赛并对Copilot进行重启；同期OpenAI推出面向金融服务的ChatGPT。",
-    "url": "https://ainewslog.com/",
-    "source": "AI News Log",
-    "slug": "microsoft-copilot-reboot"
+    "date": "2026-09-28",
+    "title": "Meta迎来“Muse时刻”，打造AI生产力时代超级入口",
+    "summary": "据腾讯新闻报道，Meta凭借9月初发布的AI智能体Muse抢尽风头，9月25日收盘时Meta股价一周上涨13%，月内涨超31%。Muse并非传统问答式聊天机器人，而是运行在独立云端虚拟机上的个人AI代理，由Meta自研的Muse Spark模型驱动，允许AI替用户完成邮件整理、表单填写、餐厅预订等工作。在9月23-24日举办的Meta Connect 2026大会上，Meta展示了Muse更新并宣布其将被集成至AI眼镜等新品。",
+    "url": "https://news.qq.com/rain/a/20260928A0007Z00",
+    "source": "腾讯新闻",
+    "slug": "meta-muse-ai-agent-super-entry"
   }
 ]
