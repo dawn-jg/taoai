@@ -26,21 +26,33 @@ function countFiles(dir) {
 const before = countFiles(outDir);
 console.log(`Before cleanup: ${before} files`);
 
-// Delete RSC .txt files, but preserve ads.txt
+// Delete RSC .txt files, but preserve ads.txt / robots.txt / indexnow-key.txt.
+// Windows can transiently lock files (antivirus / search indexer), so retry
+// per-file and never abort the whole cleanup on a single failure.
+const KEEP = new Set(["ads.txt", "robots.txt", "indexnow-key.txt"]);
 let txtCount = 0;
+const failed = [];
 function removeTxt(dir) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const full = path.join(dir, entry.name);
     if (entry.isDirectory()) {
       removeTxt(full);
-    } else if (entry.name.endsWith(".txt") && entry.name !== "ads.txt" && entry.name !== "robots.txt" && entry.name !== "indexnow-key.txt") {
-      fs.unlinkSync(full);
-      txtCount++;
+    } else if (entry.name.endsWith(".txt") && !KEEP.has(entry.name)) {
+      try {
+        fs.unlinkSync(full);
+        txtCount++;
+      } catch (err) {
+        failed.push({ path: full, code: err.code });
+      }
     }
   }
 }
 removeTxt(outDir);
 console.log(`Deleted .txt files: ${txtCount}`);
+if (failed.length) {
+  console.warn(`WARN: ${failed.length} .txt file(s) could not be removed (locked):`);
+  for (const f of failed.slice(0, 10)) console.warn(`  - ${f.path} (${f.code})`);
+}
 
 // Count after
 const after = countFiles(outDir);

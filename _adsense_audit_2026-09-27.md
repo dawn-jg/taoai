@@ -307,3 +307,59 @@ node scripts/dedupe-tools.mjs     # 试算模式会打印这两份清单
 
 > 这两个清单不建议自动合并：`jimeng` / `jianying` 这类是「第二个条目 URL 填错」而不是「重复收录」，直接合并会把本应保留的产品删掉。需要逐条核对官网后再决定是合并还是改 URL。
 
+---
+
+## 十、第三轮（2026-09-27）：索引面切到「只认原创」
+
+**决策**：不再把「采集正文 ≥600 字」当作索引依据——那只是把 scraped content 换了个说法。索引面直接收紧为**只认编辑部原创内容**。
+
+### 变更
+
+| 位置 | 变更 |
+|---|---|
+| `lib/tools.ts` → `isToolIndexable()` | 原「有评测 **或**（名称干净 且 采集正文≥600字 且 含自身名）」→ 新「**必须命中原创内容池**（`editorials.json` 的评测 + `data/tool_profiles.json` 的原创资料），再通过体量校验」 |
+| `scripts/generate-sitemap.mjs` | 同步改为 `ORIGINAL_SLUGS` 判定（⚠️ 双份实现，必须同改） |
+| `lib/tools.ts` 新增 | `getOriginalToolSlugs()`，供内容生产进度统计复用 |
+
+### 效果
+
+| 指标 | 切档前 | 切档后 |
+|---|---|---|
+| `tools.xml` 收录 | 563 | **19** |
+| `noindex, follow` 工具页 | 647 | **1191** |
+
+页面全部保留可访问性，只是不再参与搜索索引。这是可逆操作——恢复只需改写 `isToolIndexable()` 一处。
+
+### 内容生产管线（新增）
+
+| 脚本 | 作用 |
+|---|---|
+| `scripts/content-queue.mjs` | 待写队列 + 分类进度；优先级＝编辑精选 > 评分 > 现有正文体量。`--top N --save` 写 `data/content_queue.json` |
+| `scripts/fetch-sources.mjs` | 抓官网事实素材 → `data/raw_sources/<slug>.json`（title/description/og/标题层级/可见文本摘要）。两条通道：Node fetch 直连；或 curl（可走代理）取成 HTML 后 `--from-dir` 统一解析 |
+| `scripts/apply-tool-profiles.mjs` | 把原创资料合并进 `tools.json`（既有脚本） |
+
+**实测抓取可用率约 14/22**：反爬 403（midjourney、canva）、直连不通需代理（sora、perplexity、jimeng）、纯 SPA 无服务端渲染（trae 仅 128B）均拿不到有效素材。**这类条目一律不写——禁止据空素材编造。**
+
+### 首批 15 条原创资料
+
+`midjourney`、`cursor`、`suno`、`kling`、`stability-ai`、`canva-ai`、`lingxi-wps`、`jimeng`、`loomy`、`motiofy`、`aionclaw`、`wenduoduo`、`domery`，加此前的 `muse-meta`、`lightx2v-studio`。每条 946–1076 字，四节结构（是什么 / 主要功能 / 如何使用 / 应用场景），来源 URL 记于 `sources` 字段，无任何「实测体验」类虚构表述。
+
+### 线上验证（生产环境实测）
+
+```
+tools.xml            19 条
+midjourney           无 robots 标签 → 可索引；正文为编辑部原创内容
+cursor / suno        同上
+perplexity           noindex, follow；显示「本站暂未收录该工具的使用体验评测」
+canonical            https://taoai365.com/tools/midjourney（自引用，单条）
+```
+
+### 顺带修复
+
+`ai-bot` 条目正文实为「造次」的内容，因正文含「AI工具集官方提供了…」字样而通过了「含自身名」校验，逃过前两轮清洗 → 已清空转 noindex。
+**教训：通用名（如「AI工具集」）会让"含自身名"判定失效，这类条目需人工核对。**
+
+### 进度
+
+可索引工具页 **19 / 1210**，待写原创 **1191**（完成度 1.6%）。单次会话可稳定产出 15–20 条。
+
