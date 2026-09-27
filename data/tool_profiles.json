@@ -1,6 +1,6 @@
 {
   "_note": "P1 内容补强：为缺少实质正文的工具补写原创资料。内容依据产品官网/官方发布与公开报道整理，由编辑部撰写，非逐字搬运；仅用于补充 detailed_content。由 scripts/apply-tool-profiles.mjs 合并进 data/tools.json。",
-  "_updated": "2026-09-27",
+  "_updated": "2026-09-28",
   "items": {
     "ai-volcengine-com": {
       "updated": "2026-09-27",
@@ -1470,6 +1470,486 @@
         {
           "title": "WPS AI 的应用场景",
           "html": "<ul><li>把一句话主题一键扩成 PPT 大纲，再补内容。</li><li>写工作周报、述职汇报、新闻稿等有固定体例的办公文案。</li><li>处理长文材料，需要先读懂再动笔时。</li><li>对表格做分析处理、减少手工公式操作时。</li><li>需要改写续写或翻译现成文稿时。</li><li>准备有固定体例的汇报与总结材料，先出初稿再改。</li><li>需要把一段长文压缩成汇报要点时。</li></ul>"
+        }
+      ]
+    },
+    "juhuo-cn": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://juhuo.cn/"
+      ],
+      "sections": [
+        {
+          "title": "剧火AI 是什么",
+          "html": "<p>剧火AI 是一个面向 AI 短剧创作的一站式制作平台，官网把自己的定位写成「AI 编剧 + 导演，一人短剧工作室」。按官网说明，剧火AI 支持 AI 漫剧与 AI 仿真人剧两条创作方向：用户给出一个想法或一篇小说，平台内置的剧火 Agent 负责策划剧本、拆解分镜、搭建角色与场景，最后调用视频生成模型合成成片。</p><p>剧火AI 官方表示自己是国内首批接入字节跳动 Seedance 2.0 视频生成模型的短剧制作平台。官网同时注明，Agent 创作、全能画板、模型生成等核心能力针对桌面端做过深度优化，并建议在电脑端体验完整功能；当前页面标注为公测中。</p>"
+        },
+        {
+          "title": "剧火AI 的主要功能",
+          "html": "<ul><li><strong>AI 短剧 Agent</strong>：上传剧本或小说，由剧火AI 的 Agent 自动完成策划与制作。</li><li><strong>全能画板</strong>：把视频、图片、音频模型集中在一个工作台里调用。</li><li><strong>AI 编剧</strong>：输入一句想法或上传小说，自动生成包含角色设定、场景描述与分集剧情的短剧剧本，官网列举了都市、古风、悬疑、甜宠等题材方向。</li><li><strong>AI 导演与分镜</strong>：根据剧本自动拆解分镜，规划每一幕的画面构图、角色站位、镜头运动与转场效果。</li><li><strong>角色与场景搭建</strong>：可从内置虚拟演员肖像库中选角，也可由 AI 生成角色形象与场景背景；AI 漫剧支持多种漫画画风。</li><li><strong>Seedance 2.0 视频合成</strong>：将分镜画面合成为连贯视频，官网称该模型在人物一致性与动作流畅度上表现突出。</li><li><strong>AI 视频与 AI 图片</strong>：支持文生视频、图生视频，以及高保真文生图与风格统一的角色形象。</li><li><strong>音色克隆</strong>：用少量样本即可定制专属配音音色。</li><li><strong>画质增强</strong>：老视频高清化，以及智能去字幕、去水印。</li></ul>"
+        },
+        {
+          "title": "如何使用 剧火AI",
+          "html": "<ol><li>在电脑端打开剧火AI 官网并登录账号。</li><li>进入 AI 短剧创作入口，在输入框里描述故事构思，可以是一句话创意，也可以是完整大纲。</li><li>或者跳过输入环节，直接上传已有的剧本或小说文件——剧火AI 官网说明支持 .txt、.docx、.md 以及文本型 .pdf 格式。</li><li>交给 Agent 分析：它会生成结构化剧本、角色设定、场景描述和逐镜头分镜脚本。</li><li>确认或调整角色形象与场景画面，需要漫画风格或写实风格在这里定方向。</li><li>触发视频合成，由剧火AI 调用 Seedance 2.0 等模型生成画面，并配合 AI 配音配乐。</li><li>导出成片，用于发布到抖音、快手等短视频平台。</li></ol>"
+        },
+        {
+          "title": "剧火AI 的应用场景",
+          "html": "<ul><li><strong>个人短剧创作者</strong>：剧火AI 官网称无需团队与专业设备，一个人即可走完从编剧到成片的全流程。</li><li><strong>AI 漫剧方向</strong>：把故事想法转成漫画风格的竖屏短剧，官网点名适合发布在抖音、快手、小红书。</li><li><strong>AI 仿真人剧方向</strong>：追求写实人物与接近真人拍摄的画面质感时使用。</li><li><strong>内容团队批量生产</strong>：官网把「个人创作或团队批量生产」都列在适用范围内。</li><li><strong>存量素材翻新</strong>：借助画质增强把老视频高清化，或做去字幕、去水印处理。</li></ul><p>需要注意，使用剧火AI 生成的短剧涉及人物形象与素材版权，发布前建议按目标平台的规则自行核对授权范围。</p>"
+        }
+      ]
+    },
+    "tagomovie-bitaihub-com": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://tagomovie.bitaihub.com/"
+      ],
+      "sections": [
+        {
+          "title": "TagoMovie 是什么",
+          "html": "<p>TagoMovie 是一个零基础制作 AI 漫剧与 AI 仿真人剧的创作工具，官网把卖点概括为「0 基础做 AI 漫剧 &amp; 仿真人剧的神器」，核心思路是让用户只负责创意，把编剧、运镜和提示词这些专业环节交给 Agent。</p><p>按官网说明，TagoMovie 已经接入 Seedance 2.5 模型并免排队使用，官网特别注明对真人素材不设限制。定价方面，注册可免费领取 300 算力积分；官网页脚署名 Tago AI Inc.，备案号为粤 ICP 备 2025400347 号。</p>"
+        },
+        {
+          "title": "TagoMovie 的主要功能",
+          "html": "<ul><li><strong>一句想法起步</strong>：不必先准备完整剧本，说清想讲的故事即可开始，TagoMovie 的 Agent 会接手后续环节。</li><li><strong>长文本改编</strong>：官网称最高支持 40 万字文本输入，一句灵感、小说文本或已有剧本都能作为起点。</li><li><strong>资产统一管理</strong>：角色形象、音色与场景可持续复用，支持跨镜头与跨集复用，帮助人物在前后镜头之间保持连贯。</li><li><strong>剧本与镜头可改</strong>：对白、镜头脚本、景别与时长都能单独调整，也可针对选定片段重新生成。</li><li><strong>字幕与高清</strong>：提供字幕识别与编辑，以及提升画质和导出的后续处理。</li><li><strong>六步引导流程</strong>：故事大纲、故事分集、剧本、角色场景与道具、镜头视频、字幕与高清，逐步确认方向。</li><li><strong>画布模式</strong>：官网提示画布模式需要有效付费订阅，具体功能范围以当前套餐为准。</li></ul>"
+        },
+        {
+          "title": "如何使用 TagoMovie",
+          "html": "<ol><li>打开 TagoMovie 官网并注册账号，领取官网提供的 300 算力积分。</li><li>从故事大纲开始：输入一句灵感或粘贴小说文本，让 TagoMovie 梳理故事主线。</li><li>确认故事分集，规划每一集的内容与情节推进顺序。</li><li>进入剧本环节，打磨剧情、对白与场景描述。</li><li>建立角色、场景与道具资产，这些形象与音色会在后续镜头中复用。</li><li>拆解镜头并生成视频，对不满意的片段按需调整或重新生成。</li><li>处理字幕、提升画质并导出成片。官网提示第一次尝试可以先从一个短故事开始。</li></ol>"
+        },
+        {
+          "title": "TagoMovie 的应用场景",
+          "html": "<ul><li><strong>第一次做短剧的新手</strong>：没有现成剧本也没关系，TagoMovie 官网给出的路径是先说出想讲的故事，完成第一轮创作。</li><li><strong>已有小说或剧本的创作者</strong>：可以先试做一个章节，把文字里的世界转成角色和镜头，熟悉后沿用本剧资产继续创作后续剧集。</li><li><strong>品牌与内容团队</strong>：从产品故事、品牌短剧到宣传内容，用可编辑的流程探索创意再打磨成片。</li><li><strong>需要控制制作成本的团队</strong>：TagoMovie 把编剧、运镜、提示词等门槛交给 Agent，减少对专业岗位的依赖。</li></ul>"
+        }
+      ]
+    },
+    "quiver-ai": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://quiver.ai"
+      ],
+      "sections": [
+        {
+          "title": "QuiverAI 是什么",
+          "html": "<p>QuiverAI 是一家把生成式 AI 用在矢量设计上的团队，官网的自我描述是「Frontier AI for Design」——用基础模型完成矢量图形的生成、编辑与动画制作。和常见的位图生成工具不同，QuiverAI 输出的重点是可编辑的矢量文件，官方把它概括为面向产品、品牌与营销工作流生成可编辑 SVG 资产。</p><p>QuiverAI 目前主推的模型是 Arrow 2 与 Arrow 2 Telos，官网把它标注为面向设计工作的基础模型，强调「control and precision」，也就是在生成的同时保留设计上的可控性。官网同时提供 Solutions、Developers、Platform、Enterprise 与 Pricing 等入口，说明它既面向个人设计师，也面向团队与企业。</p>"
+        },
+        {
+          "title": "QuiverAI 的主要功能",
+          "html": "<ul><li><strong>Text to SVG</strong>：用文字描述直接生成矢量图形。</li><li><strong>Image to SVG</strong>：把参考图转为可编辑的矢量结果。</li><li><strong>Logo 生成</strong>：QuiverAI 可以从文字或参考图生成干净的 SVG 标志，官网强调「production-ready」，即结果可以直接进入实际项目。</li><li><strong>矢量插画</strong>：生成完整矢量插画，之后可以编辑、重新上色，或迁移到 UI、营销、产品流程等不同场景。</li><li><strong>字体与字形（标注为即将推出）</strong>：QuiverAI 计划支持自定义矢量字形与字体，从实验性展示字体到可用的界面字体，并能调整字重、对比度与字符细节。</li><li><strong>动画（标注为即将推出）</strong>：官网称要让 SVG 动起来而不必把设计工作变成工程工作。</li><li><strong>开发者接口</strong>：官网列出 List Models、Get Model、Vectorize、Responses 等能力，说明 QuiverAI 提供 API 供程序调用。</li></ul>"
+        },
+        {
+          "title": "如何使用 QuiverAI",
+          "html": "<ol><li>打开 QuiverAI 官网，通过 Get started 注册并进入工作区。</li><li>按需求选择入口：做标志用 Logo，做配图用 Illustrations，需要矢量化已有素材时走 Image to SVG 或 Vectorize。</li><li>写提示词时明确形态要求。官网的示例提示词是「生成一枚字母 Q 的极简单字母组合标志，使用利落的矢量路径」，这类描述比笼统的风格词更容易得到可用的路径。</li><li>生成后检查路径结构，QuiverAI 的输出是可编辑的矢量，可以继续调整节点与配色。</li><li>需要批量或集成到自有系统时，改用 API 调用 Arrow 2 等模型。</li><li>注意字体与动画两项在 QuiverAI 官网当前标注为即将推出，暂时不能作为可用功能依赖。</li></ol>"
+        },
+        {
+          "title": "QuiverAI 的应用场景",
+          "html": "<ul><li><strong>品牌设计</strong>：QuiverAI 适合在标志探索阶段快速产出多个方向，官方称这样能让探索变快而不牺牲工艺质量。</li><li><strong>产品与营销素材</strong>：把矢量插画用到界面、落地页和营销物料里，矢量格式便于放大与改色。</li><li><strong>设计团队协作</strong>：官网提到已有设计公司在使用 QuiverAI，说明其定位包括团队级工作流。</li><li><strong>需要交付源文件的场景</strong>：客户要求提供可编辑源文件时，SVG 比位图更容易后续维护。</li><li><strong>开发者集成</strong>：希望把矢量生成能力嵌进自有产品或内部工具时，可以走 QuiverAI 的 API。</li></ul>"
+        }
+      ]
+    },
+    "neural4d-com": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://www.neural4d.com/"
+      ],
+      "sections": [
+        {
+          "title": "Neural4D 是什么",
+          "html": "<p>Neural4D 是一个 AI 三维资产生成工具，官网把它缩写为 N4D。它的核心能力是把文字、图片和视频转成三维模型与 CAD 资产，官方强调产出的是 production-ready 的结果，并且整个过程以分钟计。</p><p>Neural4D 官网把目标行业写得很明确：游戏开发、3D 打印与工业设计。除此之外，官网还列出教育、动画、VR/AR 与建筑设计等方向。产品线包含 Features、Pricing、API 与 Resource 等入口，首页提供免费试用，说明它同时面向个人创作者与开发者。</p>"
+        },
+        {
+          "title": "Neural4D 的主要功能",
+          "html": "<ul><li><strong>图片转三维模型</strong>：上传图片即可生成三维模型，Neural4D 官网说明支持 JPG、PNG、WEBP 格式，单张上限 5MB。</li><li><strong>文字转三维模型</strong>：输入提示词后由模型直接生成三维资产。</li><li><strong>视频转三维模型</strong>：官网在介绍中把视频与文字、图片并列为输入来源。</li><li><strong>AI 贴图</strong>：可以上传自己的贴图并应用到生成的模型上，用于替换默认材质表现。</li><li><strong>绑定与动画</strong>：官网列出 Rigging &amp; Animation 模块，用于给模型做骨骼绑定和动画。</li><li><strong>资产库</strong>：首页提供 Asset Hub 入口，用于集中管理生成的三维资产。</li><li><strong>API 接入</strong>：Neural4D 提供 API，便于把三维生成能力集成到自有流程里。</li></ul>"
+        },
+        {
+          "title": "如何使用 Neural4D",
+          "html": "<ol><li>打开 Neural4D 官网，点击 Free to Try 开始试用。</li><li>按手上素材选择入口：有图片就用 AI Image to 3D Generator，只有文字描述就用 AI Text to 3D Generator。</li><li>上传图片时留意格式与体积限制——Neural4D 官网写明支持 JPG、PNG、WEBP，单张 5MB 以内。</li><li>写提示词或贴参考图时尽量把结构、比例和材质讲清楚，三维生成对形体的描述比位图更敏感。</li><li>生成模型后检查拓扑与形体，按需使用 AI Texture 上传自定义贴图，或进入 Rigging &amp; Animation 做绑定。</li><li>在 Asset Hub 中整理生成的资产，按目标工具链导出使用。</li></ol>"
+        },
+        {
+          "title": "Neural4D 的应用场景",
+          "html": "<ul><li><strong>游戏开发</strong>：用 Neural4D 快速产出道具、场景物件的三维草模，减少前期建模量。</li><li><strong>3D 打印</strong>：把参考图或文字想法转成可打印的三维模型文件。</li><li><strong>工业设计与建筑设计</strong>：官网把这两个方向与 CAD 资产并列，说明 Neural4D 也面向工程类表达需求。</li><li><strong>动画与 VR/AR</strong>：配合绑定与动画能力，把生成模型用于动画制作和实时场景。</li><li><strong>教学演示</strong>：官网列出的 Education 场景适合把抽象概念做成可见的三维模型。</li></ul><p>三维生成的形体精度和拓扑质量会直接影响能否直接进入生产管线，Neural4D 官网将其定位为快速出资产，实际项目中仍建议按用途做人工修正。</p>"
+        }
+      ]
+    },
+    "augment-code": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://www.augmentcode.com/"
+      ],
+      "sections": [
+        {
+          "title": "Augment Code 是什么",
+          "html": "<p>Augment Code 的定位是「组织规模的智能体软件开发」。官网用一句话点出它想解决的问题：工程师手上已经有各种智能体了，但组织层面还没有对应的机制，而 Augment Code 推出的 Cosmos 平台就是用来补上这段差距的。</p><p>用官方的说法，Cosmos 是一个用来构建「always-on software delivery system」的平台，把工作从需求说明推进到验证环节。构建和调优都通过自然语言完成，但关键节点仍由工程师把关。Augment Code 官网还强调 Expertise as an asset 与 Humans in by design，意思是把团队的最佳实践沉淀成资产，同时把人放在流程设计之内。</p>"
+        },
+        {
+          "title": "Augment Code 的主要功能",
+          "html": "<ul><li><strong>Software Factory</strong>：Augment Code 用它来描述整条软件交付产线，官网称智能体运行的是整条产线而不只是写代码。</li><li><strong>需求到 PR</strong>：Ticket to PR 能力可以把一个工单推进到已审阅的合并请求。</li><li><strong>代码评审</strong>：Code Review 让智能体参与每一个 PR 的检查。</li><li><strong>测试覆盖</strong>：Test Coverage 的目标是让覆盖率上升的同时保持测试套件稳定。</li><li><strong>故障与告警处理</strong>：Incident Management 在人工介入之前先完成告警排查。</li><li><strong>安全修复</strong>：Security Remediation 可以把 CVE 告警推进到经过审阅的修复方案。</li><li><strong>迁移与现代化</strong>：Migrations 把系统改造当成一项长期计划而不是一次性项目。</li><li><strong>入职与规范</strong>：Onboarding 用于缩短新人上手时间，Team Standards at Scale 把团队最优工作流变成默认配置。</li><li><strong>Context Engine、CLI 与 Cloud Agents</strong>：分别对应上下文理解、命令行使用与云端运行的智能体。</li></ul>"
+        },
+        {
+          "title": "如何使用 Augment Code",
+          "html": "<ol><li>打开 Augment Code 官网，通过 Get Started 或 Talk to Sales 选择合适的进入方式；官网同时提供 Docs 与 Status Page。</li><li>接通代码仓库与上下文来源，让 Context Engine 能读取项目信息。</li><li>用自然语言描述想要的交付流水线，Augment Code 官网说明构建与调优都可以通过对话完成。</li><li>按官网给出的循环跑通第一轮：从工单确定意图与范围，到写规格并委派，再到评审与验证。</li><li>继续后半段循环：审批发布、监控告警并修正，修正结果会回到工单形成闭环。</li><li>把一个流程验证好之后，再把它固化成可复用的自动化，团队其他人就能沿用同一套标准。</li><li>需要本地或脚本化使用时改用 CLI，需要常驻运行则用 Cloud Agents。</li></ol>"
+        },
+        {
+          "title": "Augment Code 的应用场景",
+          "html": "<ul><li><strong>工程团队规模化引入智能体</strong>：Augment Code 面向的正是已经零散使用智能体、但缺少统一机制的组织。</li><li><strong>代码评审与质量守门</strong>：评审量大、人力吃紧的团队可以先把 Code Review 交给智能体过一遍。</li><li><strong>安全漏洞响应</strong>：把 CVE 告警到修复的链路交给 Augment Code 处理，缩短暴露时间。</li><li><strong>大型项目交付</strong>：官网列出从设计文档到功能上线的完整路径，适合周期长的项目。</li><li><strong>遗留系统迁移</strong>：把迁移当程序来管，而不是当作一次性工程。</li><li><strong>新人入职提速</strong>：用 Onboarding 能力缩短工程师熟悉代码库的时间。</li></ul>"
+        }
+      ]
+    },
+    "pollo-ai": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://pollo.ai/"
+      ],
+      "sections": [
+        {
+          "title": "Pollo AI 是什么",
+          "html": "<p>Pollo AI 把自己定义为面向创作者与营销团队的 AI 创意套件（AI creative suite），覆盖视频、图像、数字人与音频四类内容。官网的核心卖点是 multi-model freedom——同一个平台里汇集多家厂商的生成模型，用户不必在多个站点之间来回切换。</p><p>从导航结构看，Pollo AI 的主线包括 AI Video、AI Image、Agent、Marketing Studio、API、Mobile 与 Pricing。官网强调生成结果可以直接用于生产：分辨率最高支持 4K，同时提供可复用的资产管理和音频能力，把「生成」和「改到能用」放在同一条链路里。</p>"
+        },
+        {
+          "title": "Pollo AI 的主要功能",
+          "html": "<ul><li><strong>文生视频与图生视频</strong>：Pollo AI 提供 Text to Video、Image to Video 与 Reference to Video 三种输入方式。</li><li><strong>视频编辑与增强</strong>：包含 AI Video Editor、Video to Video、Mimic Motion、AI Video Upscaler、Video BG Remover 与 Video Extender。</li><li><strong>多模型可选</strong>：官网列出的视频模型包括 MiniMax H3、Wan 3.0、Seedance 2.5 与 2.0、Veo 3、Sora 2、Kling 3.0 与 Hailuo AI。</li><li><strong>数字人</strong>：AI Avatar Generator、AI Product Avatar 与 AI Talking Avatar 分别面向通用形象、商品展示和口播视频。</li><li><strong>音频能力</strong>：AI Voice Generator、AI Voice Cloning、Text to Speech 与 Sound Effect Generator。</li><li><strong>图像工具与模型</strong>：图像侧提供 Image to Image、AI Photo Editor、Watermark Remover、Magic Eraser、Image Upscaler、Background Remover、Face Swap 等；模型包括 GPT Image 2.5、Nano Banana 2、Seedream 5.0、Grok Imagine Image、Flux Kontext 等。</li><li><strong>专项生成器</strong>：Pollo AI 还提供美术、像素风、角色、标志、纹身、涂鸦与填色页等细分生成入口。</li><li><strong>Agent</strong>：官网称可以直接产出带音效、角色一致性良好的成片，无需再手工剪辑。</li></ul>"
+        },
+        {
+          "title": "如何使用 Pollo AI",
+          "html": "<ol><li>打开 Pollo AI 官网，先想清楚要做的是视频、图像还是音频，再进入对应栏目。</li><li>在视频栏目里按素材情况选输入方式：只有文字用 Text to Video，有图用 Image to Video，有参考片段用 Reference to Video。</li><li>选择模型。Pollo AI 把模型选择放在流程里，不同模型在画面风格、运动幅度和成本上差异明显。</li><li>生成后进入编辑环节，用 Video Extender 延长、用 Upscaler 提升分辨率，或用 Magic Eraser、Watermark Remover 处理瑕疵。</li><li>需要人物出镜的内容改用 Avatar 与 Voice 栏目，先定形象再配音。</li><li>批量做营销素材时用 Agent 或 Marketing Studio，先让它产出初版，再按需微调。</li><li>要接入自有系统时走 Pollo AI 的 API 入口。</li></ol>"
+        },
+        {
+          "title": "Pollo AI 的应用场景",
+          "html": "<ul><li><strong>社媒与短视频内容</strong>：用同一套 Pollo AI 流程产出竖屏短片、动画与解说类视频。</li><li><strong>电商与商品营销</strong>：用 Product Avatar 和商品图生成功能制作展示素材。</li><li><strong>广告与品牌campaign</strong>：Pollo AI 的 Marketing Studio 面向的是需要持续出量的营销团队。</li><li><strong>口播与讲解视频</strong>：用 Talking Avatar 配合语音克隆，减少真人反复录制。</li><li><strong>素材修复与复用</strong>：把低分辨率或带水印的旧素材用 Pollo AI 的增强与擦除工具处理后再使用。</li><li><strong>多模型对比选型</strong>：需要在同一需求下试不同厂商模型时，聚合平台比逐个注册更省事。</li></ul>"
+        }
+      ]
+    },
+    "komiko-app": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://komiko.app/"
+      ],
+      "sections": [
+        {
+          "title": "KomikoAI 是什么",
+          "html": "<p>KomikoAI 是一个围绕动漫题材打造的 AI 创作平台，官网给自己的定位是「all-in-one AI anime studio」。它的目标用户是对动漫、同人与原创角色感兴趣的群体：既能生成图与视频，也能设计原创角色并和角色对话。</p><p>按官网描述，KomikoAI 提供 100 多个 AI 工具与创作模板，其中不少是围绕特定作品或圈层做的模板，官方称之为 built for fandoms。平台内置社区，用户可以看到别人的创作并一键复刻，官方鼓励用户把自己的作品分享出来互相启发。</p>"
+        },
+        {
+          "title": "KomikoAI 的主要功能",
+          "html": "<ul><li><strong>AI 绘图</strong>：用提示词生成动漫风格图片，KomikoAI 官网提到 Art Max 引擎与 20 多种画风可选。</li><li><strong>AI 视频</strong>：把图片或提示词转成有动漫观感的短片。</li><li><strong>一键特效</strong>：上传照片即可套用热门模板，生成流行的短片或画作。</li><li><strong>原创角色（OC Maker）</strong>：专门用来设计原创角色的工具。</li><li><strong>角色对话</strong>：可以和平台上的角色进行角色扮演式聊天，官网称角色库规模较大。</li><li><strong>AI 漫画</strong>：把故事转成漫画分页。</li><li><strong>语音合成</strong>：为台词配上自然的动漫风格配音。</li><li><strong>Komiko Agent</strong>：通过对话完成创作，把多个工具串起来用。</li><li><strong>多模型支持</strong>：KomikoAI 官网列出的底层模型覆盖 Gemini、GPT-4o、Kling 系列、Hailuo AI、Google Veo、Wan、Luma Ray、PixVerse、Midjourney、Vidu 等。</li></ul>"
+        },
+        {
+          "title": "如何使用 KomikoAI",
+          "html": "<ol><li>打开 KomikoAI 官网并登录，首页可以看到 Characters、Effects 与 AI Apps 等分区。</li><li>先决定产出形态：要静态图进 AI Image Generator，要动态进 AI Video Generator，要角色设定进 OC Maker。</li><li>写提示词时把画风、人物特征和构图讲清楚，KomikoAI 支持在 20 多种风格之间切换，风格描述会显著影响结果。</li><li>想看社区里有什么热门玩法，可以从 Trending effects 里挑一个模板，上传照片或素材一键生成。</li><li>做连载内容时用 AI Comic 把故事组织成分页，再用 Text to Speech 给台词配音。</li><li>希望少手工、多对话时改用 Komiko Agent，用自然语言描述需求让它调度工具。</li></ol>"
+        },
+        {
+          "title": "KomikoAI 的应用场景",
+          "html": "<ul><li><strong>同人创作</strong>： KomikoAI 的模板与角色库面向圈层内容，适合围绕已有作品做二次创作。</li><li><strong>原创角色与设定集</strong>：用 OC Maker 设计角色并持续迭代形象。</li><li><strong>动漫短视频</strong>：为社交平台产出动漫风格短片或动态表情。</li><li><strong>漫画与分镜试作</strong>：把故事快速转成漫画分页，用于验证叙事节奏。</li><li><strong>角色互动内容</strong>：想做角色扮演式对话内容时，可以直接使用平台的角色聊天能力。</li></ul><p>涉及同人题材与角色形象时要留意版权边界，KomikoAI 官网提到部分创作能力会与外部平台打通，发布前建议按具体渠道的规则确认。</p>"
+        }
+      ]
+    },
+    "pexo-ai-2": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://pexo.ai/"
+      ],
+      "sections": [
+        {
+          "title": "Pexo 是什么",
+          "html": "<p>Pexo 是一个以对话为交互方式的 AI 视频智能体，官网的自我介绍直白：把想法变成视频。它的差异点在于不要求用户掌握高级 AI 视频生成技巧，只要把需求讲给 Pexo 听，剩下的由它完成。</p><p>按官网说明，Pexo 的输入来源相当宽松——网址、PDF、图片、视频、音频，或者单纯的创意描述都能作为起点。它会先和用户一起把脚本、场景、镜头和创意方向定下来，再进入生产，最后交付一条完整的视频，官网把这种协作方式比作在共享文档上做批注。</p>"
+        },
+        {
+          "title": "Pexo 的主要功能",
+          "html": "<ul><li><strong>多形态输入</strong>：Pexo 支持从 URL、PDF、图片、视频、音频或一段想法启动项目。</li><li><strong>自动规划</strong>：由 Pexo 编写脚本，设计场景与镜头，并给出创意方向。</li><li><strong>对话式修改</strong>：在时间轴上标出要改的位置，然后用对话提出修改要求，类似在协作文档里评论。</li><li><strong>成片交付</strong>：输出视频时同步带上配音、音乐与动态图形。</li><li><strong>多种视频类型</strong>：官网列出动态字体、2.5D 动画、白板动画、纸片动画、线稿动画与解说视频等方向。</li><li><strong>工具与集成</strong>：Pexo 官网提供 Toolkit、Gallery 与 Resources 入口，并支持 CLI 与 MCP，方便接入开发流程。</li></ul>"
+        },
+        {
+          "title": "如何使用 Pexo",
+          "html": "<ol><li>打开 Pexo 官网，点击 Get Started 进入创作界面。</li><li>把素材交给 Pexo：可以粘贴一个网址、上传 PDF 或图片、给一段音频，也可以直接描述想要什么视频。</li><li>用一句话说明目标，例如官网示例中的「为我的网站做一条一分钟发布视频，要动态图形效果」。</li><li>等 Pexo 给出脚本、场景与镜头方案，检查创意方向是否符合预期。</li><li>在时间轴上标注要调整的片段，用对话提修改意见，逐轮收敛到满意版本。</li><li>导出成片。Pexo 会一并生成配音、音乐与动态图形，产出可直接发布的版本。</li><li>需要批量或自动化时，改用 CLI 或 MCP 接入自己的流程。</li></ol>"
+        },
+        {
+          "title": "Pexo 的应用场景",
+          "html": "<ul><li><strong>产品发布视频</strong>：把官网链接丢给 Pexo，由它提炼卖点并生成发布短片。</li><li><strong>解说与教程内容</strong>：官网列出 Animated Explainer Video，适合把流程或概念讲清楚。</li><li><strong>社媒短视频</strong>：为社交平台快速产出多种形态的短内容。</li><li><strong>营销与广告素材</strong>：产品广告、音乐视频等场景都可以作为 Pexo 的起点。</li><li><strong>把文档变成视频</strong>：已有 PDF 报告或方案时，用 Pexo 转成便于传播的视频版本。</li><li><strong>开发流程集成</strong>：有工程能力的团队可以通过 Pexo 的 CLI 与 MCP 把视频生成嵌进自动化链路。</li></ul>"
+        }
+      ]
+    },
+    "vidu-cn": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://www.vidu.cn/"
+      ],
+      "sections": [
+        {
+          "title": "Vidu 是什么",
+          "html": "<p>Vidu 是一个国产 AI 视频生成平台，官网把它描述为「全球领先的 AI 内容生产平台」，并强调自己是国内首个纯自研的 AI 视频生成模型。它的核心能力是把文字和图像转成高质量动态视频，同时保持主体一致性——也就是同一角色或物体在镜头之间不跑形。</p><p>Vidu 官网给出的使用路径是三步生成创意视频，并配套推出 Vidu APP、AI 模板、订阅套餐与 API 开放平台。官方还提到支持 16 秒音画同出，覆盖社交媒体与电子商务场景，并提供智能切镜能力。</p>"
+        },
+        {
+          "title": "Vidu 的主要功能",
+          "html": "<ul><li><strong>文生视频</strong>：直接用文字描述生成视频片段。</li><li><strong>图生视频</strong>：以图片为起点生成动态内容，适合已有分镜或商品图的场景。</li><li><strong>参考生视频</strong>：Vidu 的特色能力之一，用参考素材约束主体，官方与用户都把它视为保持角色一致性的关键。</li><li><strong>图像生成</strong>：包含参考生图与文生图片两类能力。</li><li><strong>Vidu Q3</strong>：官网列出的视频模型版本。</li><li><strong>Vidu Agent</strong>：从一句话出发、全程协作完成作品的智能体入口。</li><li><strong>实时交互模型</strong>：官网称其为全球首个实时交互模型，毫秒级响应，边说边生成。</li><li><strong>智能切镜</strong>：一键完成镜头切换，官网提到 16 秒音画同出。</li><li><strong>配套资源</strong>：提供 AI 模板、创作社区、教程与 API 开放平台，另有企业服务入口。</li></ul>"
+        },
+        {
+          "title": "如何使用 Vidu",
+          "html": "<ol><li>打开 Vidu 官网并登录，可以先从「立即体验」进入在线创作，也可以下载 Vidu APP。</li><li>按素材情况选择生成方式：只有文字就用文生视频，已有画面用图生视频，需要锁定角色形象时用参考生视频。</li><li>准备提示词与参考素材，把主体特征、镜头运动和画面氛围描述清楚。</li><li>生成后检查主体一致性，这是 Vidu 官方强调的优化方向，也是判断结果是否可用的主要标准。</li><li>需要更长内容时使用智能切镜把多段画面衔接起来，并结合音画同出能力处理声音。</li><li>想减少手工操作时改用 Vidu Agent，用一句话说清需求，由它调度后续步骤。</li><li>需要批量或集成到自有系统时，接入 Vidu 的 API 开放平台；新手可以先看官网教程与模板。</li></ol>"
+        },
+        {
+          "title": "Vidu 的应用场景",
+          "html": "<ul><li><strong>社媒与电商内容</strong>：Vidu 官网把社交媒体和电子商务列为 16 秒音画同出的主要适用场景。</li><li><strong>动画与短片创作</strong>：参考生视频主要用于解决角色一致性问题，适合做有连续角色的动画。</li><li><strong>广告与宣传片</strong>：官网的「影视叙事」方向覆盖动画、真人、广告与短片等形态。</li><li><strong>互动式内容实验</strong>：实时交互模型适合需要即时响应反馈的创作尝试。</li><li><strong>企业内容中台</strong>：有开发能力的团队可以通过 API 开放平台把 Vidu 的视频能力接入内部生产流程。</li></ul>"
+        }
+      ]
+    },
+    "luxreal-ai": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://www.luxreal.ai/"
+      ],
+      "sections": [
+        {
+          "title": "LuxReal 是什么",
+          "html": "<p>LuxReal 是一个基于 3D 空间智能的 AI 视频生成平台。按官网的说明，它的价值在于保持角色、场景和道具的一致性，并把整条链路做成闭环——从剧本解析开始，到成片导出结束，官方把这条链路称为「短剧生产线」。</p><p>LuxReal 官网同时给出另一条更轻的路径：把一张产品图片转成专业视频。官方常见问题里写明，它适合电商产品上架、营销活动或社交媒体使用，生成结果可以商用，而且因为真实产品图片和材质不会被改动，官方称其符合亚马逊、Shopify 等平台的规则。</p>"
+        },
+        {
+          "title": "LuxReal 的主要功能",
+          "html": "<ul><li><strong>3D 空间智能一致性</strong>：LuxReal 的核心能力是让角色与场景在一镜到底的过程中保持一致，官网用「不变形」来形容。</li><li><strong>剧本到成片的闭环</strong>：从解析剧本、搭建场景到导出成片，都在同一平台内完成。</li><li><strong>商品图生视频</strong>：上传产品图片，选择相机运动与产品动作，几分钟内生成专业视频。</li><li><strong>AI 模板</strong>：官网提供模板入口，官网把它描述为「人人都是创作高手」，模板可以降低上手门槛。</li><li><strong>多领域适配</strong>：官网强调能满足多个领域的视频需求，从商品视频到短剧都在范围内。</li><li><strong>社区灵感</strong>：站内提供社区参考，缺乏灵感时可以先看别人的作品。</li></ul><p>定价方面，LuxReal 官网说明新用户注册会获得免费额度，也可以通过兑换码获取额外额度；免费账户产出的视频带水印，下载无水印视频需要升级订阅。生成视频按积分消耗，官方给出的量级是一条视频通常需要 100 到 500 点数，具体取决于视频长度；若退出编辑器而未生成视频，不会扣除积分。</p>"
+        },
+        {
+          "title": "如何使用 LuxReal",
+          "html": "<ol><li>打开 LuxReal 官网注册账号，先领免费额度，必要时用兑换码增加额度。</li><li>确定走哪条路线：已有剧本走短剧生产线，只有商品图走商品视频流程。</li><li>短剧路线从剧本解析开始，让 LuxReal 提取角色、场景与道具，再生成画面。</li><li>商品视频路线则上传产品图片，然后选择需要的相机运动和产品动作。</li><li>等待生成，LuxReal 官网称商品视频在几分钟内即可完成。</li><li>检查积分余额。余额显示在网页界面左下角头像下方，点击余额可以查看可用方案与价格。</li><li>导出成片。官网提示免费账户的成片带水印，需要无水印版本要升级订阅；遇到问题可邮件联系官方或加入其 Discord 社区。</li></ol>"
+        },
+        {
+          "title": "LuxReal 的应用场景",
+          "html": "<ul><li><strong>电商商品视频</strong>：用一张产品图生成上架与促销用的视频素材。</li><li><strong>专业短剧团队</strong>：LuxReal 官网称其面向专业短剧团队，用于提升从剧本到成片的效率。</li><li><strong>营销与品牌活动</strong>：官方把营销活动与社交媒体内容列为适用场景。</li><li><strong>跨境平台合规上架</strong>：需要按亚马逊、Shopify 规则提供商品视频时，LuxReal 保留真实产品还原的思路更省事。</li><li><strong>控制视频制作成本</strong>：官网提到无需组建昂贵的视频制作团队，用图片加模板即可出片。</li></ul>"
+        }
+      ]
+    },
+    "udacity": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://www.udacity.com/school/artificial-intelligence"
+      ],
+      "sections": [
+        {
+          "title": "Udacity 是什么",
+          "html": "<p>Udacity 是一家在线职业教育平台，站内的「School of Artificial Intelligence」是专门做人工智能方向的学院。按官网介绍，Udacity 人工智能学院提供的培训覆盖机器学习、深度学习、计算机视觉、自然语言处理以及 AI 产品管理等方向。</p><p>Udacity 的课程组织形式带有明显的职业导向：官网把人工智能列为当今最具变革性和增长最快的技术之一，页面主打「Your Path to Career Success」，并按岗位给出学习路径，例如 AI Software Engineer 与 Machine Learning Engineer。除了自研课程，Udacity 还提供与企业共同开发的合作项目，以及免费的人工智能课程。</p>"
+        },
+        {
+          "title": "Udacity 的主要功能",
+          "html": "<ul><li><strong>按岗位组织学习路径</strong>：Udacity 官网把 Learning Paths by Job Title 单独列出，用户可以从目标职位倒推需要学的技能。</li><li><strong>方向齐全的课程体系</strong>：覆盖 Python、机器学习、深度学习、计算机视觉、生成式 AI 与 Agentic AI 等方向。</li><li><strong>与企业共建的项目</strong>：官网设有 Programs Co-created With Artificial Intelligence Leaders 板块，说明部分课程由 Udacity 与行业公司共同设计。</li><li><strong>免费课程入口</strong>：官网提供 Free Artificial Intelligence Programs，方便在付费前先试学。</li><li><strong>行业视角内容</strong>：页面包含 Artificial Intelligence Across Industries，介绍 AI 在不同行业的应用。</li><li><strong>其他学院入口</strong>：Udacity 同时运营多个方向的学院，学完 AI 相关课程可以继续横向扩展。</li><li><strong>学习提醒</strong>：官网支持通过邮箱或短信接收课程与路径信息。</li></ul>"
+        },
+        {
+          "title": "如何使用 Udacity",
+          "html": "<ol><li>打开 Udacity 官网的人工智能学院页面，先通读课程方向，确认自己要补的是工程能力、算法能力还是产品能力。</li><li>在 Your Path to Career Success 模块里选择目标岗位，例如 AI Software Engineer 或 Machine Learning Engineer，让 Udacity 给出对应的学习路径。</li><li>如果不确定方向，先从 Free Artificial Intelligence Programs 里的免费课程试学，验证学习节奏是否适合自己。</li><li>确定路径后按顺序推进课程，遇到需要动手的部分尽量跟着做完，Udacity 的课程以实操训练为主要形式。</li><li>关注与企业共建的项目，这类课程通常更贴近实际岗位要求。</li><li>学完一个方向后利用其他学院的入口继续扩展，把 AI 能力和原有专业结合起来。</li></ol>"
+        },
+        {
+          "title": "Udacity 的应用场景",
+          "html": "<ul><li><strong>转行进入 AI 岗位</strong>：希望从其他领域转到机器学习或 AI 工程方向的人，可以用 Udacity 的岗位路径规划学习顺序。</li><li><strong>在职工程师补课</strong>：已经在做开发、需要补深度学习或生成式 AI 能力的人，可以按模块挑课。</li><li><strong>产品与管理人员建立技术认知</strong>：Udacity 的人工智能学院把 AI 产品管理纳入课程范围，适合非算法岗建立共同语言。</li><li><strong>团队培训</strong>：需要给多人统一技术基线时，成体系的学习路径比零散教程更容易执行。</li><li><strong>在校学生提前准备</strong>：可以用免费课程先建立基础，再决定是否投入完整路径。</li></ul><p>Udacity 的课程以英文为主，学习前建议确认语言门槛与自己的可投入时间。</p>"
+        }
+      ]
+    },
+    "gapp-so": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://gapp.so/"
+      ],
+      "sections": [
+        {
+          "title": "gapp.so 是什么",
+          "html": "<p>gapp.so 是一个 AI 原生互动内容平台。官网对自己的定义很简短：模拟器、推理、策略、创造，都是 AI 才做得出来的玩法。也就是说，它承载的不是传统意义上的小游戏，而是必须依赖大模型才能运行起来的互动内容。</p><p>从站内结构看，gapp.so 更像一个内容社区加运行平台：用户可以看到编辑精选、热门榜、最新发布，也可以按校园青春、宫廷权谋、测试占卜等题材分类浏览。每个内容都标注了作者与游玩次数，官方还提供 QQ 交流群与安装入口，方便用户参与创作和反馈。</p>"
+        },
+        {
+          "title": "gapp.so 的主要功能",
+          "html": "<ul><li><strong>模拟器类玩法</strong>：gapp.so 上最典型的内容形态，覆盖娱乐圈、恋爱、经纪人、留学等题材。</li><li><strong>推理与策略玩法</strong>：官网把推理和策略与模拟器并列为三大方向之一，站内可以看到沉浸式文字推理类内容。</li><li><strong>互动创作</strong>：创作者可以把想法做成可玩内容发布，官网以作者署名与游玩数据的方式呈现。</li><li><strong>编辑精选</strong>：平台人工挑选内容放在首页显眼位置，作为质量参考。</li><li><strong>热门与最新榜</strong>：分别按游玩量和发布时间排序，便于快速发现当下流行的玩法。</li><li><strong>题材分类</strong>：站内按校园青春、宫廷权谋、测试占卜等方向组织内容，找同类玩法更快。</li><li><strong>模型选择自由度</strong>：站内创作说明里会提示不同大模型在同一玩法下的表现差异与积分消耗，作者可按成本与效果取舍。</li><li><strong>移动端安装</strong>：gapp.so 提供安装入口，把网页端体验延伸到手机上。</li></ul>"
+        },
+        {
+          "title": "如何使用 gapp.so",
+          "html": "<ol><li>打开 gapp.so 首页，先浏览编辑精选与热门 TOP 榜，了解平台上主流的玩法形态。</li><li>按兴趣进入分类，例如校园青春或宫廷权谋，挑一个题材相近的内容试玩。</li><li>阅读内容说明。gapp.so 的作者通常会在介绍里写清可选身份、路线数量与推荐模型，这会影响你的初始选择。</li><li>进入内容后按提示推进剧情或做出选择，互动内容的结果会随选择分叉。</li><li>玩过之后可以看同作者的其他作品，站内会标出作者名，便于追踪风格一致的创作者。</li><li>想自己动手时从互动创作入口开始，参考平台上已有内容的写法组织分支。遇到问题可以加入官方 QQ 交流群，也可以在移动端安装后体验。</li></ol>"
+        },
+        {
+          "title": "gapp.so 的应用场景",
+          "html": "<ul><li><strong>轻度娱乐与消遣</strong>：适合碎片时间体验剧情向互动内容，比传统游戏更依赖阅读与选择。</li><li><strong>题材兴趣社区</strong>：喜欢特定题材的用户可以在 gapp.so 的分类下集中找到同类内容。</li><li><strong>文字创作练手</strong>：想尝试互动叙事的创作者，可以先用 gapp.so 这种门槛较低的形式验证设定与分支设计。</li><li><strong>性格与趣味测试</strong>：平台内的测试占卜类内容可以当作轻量互动小工具使用。</li><li><strong>观察大模型应用形态</strong>：想了解大模型除了对话还能做成什么体验的人，可以在 gapp.so 上直接上手感受。</li></ul>"
+        }
+      ]
+    },
+    "dify-ai-cn": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://www.dify-ai.cn/excelagent/excelagent.html"
+      ],
+      "sections": [
+        {
+          "title": "数以轻舟Agent 是什么",
+          "html": "<p>数以轻舟Agent 是一款由本地大模型驱动的 Excel 数据处理智能体，官网把它定位为「智能 Excel 助手」——用一句话处理 Excel 数据。它的最大卖点是数据不出本机：支持本地部署大模型，数据处理在本地完成，不需要上传到云端。</p><p>数以轻舟Agent 的兼容性写在官网显眼位置：可接入 Qwen、DeepSeek、Kimi、GLM、豆包、MIMO、通义千问等多种本地模型。官网给出的购买方式是终身买断、一次付费永久使用，并标注了限时优惠与原价。它的目标用户是需要处理敏感数据、又不希望数据离开内网的团队。</p>"
+        },
+        {
+          "title": "数以轻舟Agent 的主要功能",
+          "html": "<ul><li><strong>本地大模型接入</strong>：数以轻舟Agent 支持本地部署模型并离线运行，官网列出 Qwen、DeepSeek、Kimi、GLM、豆包、MIMO、通义千问等已就绪模型。</li><li><strong>智能数据清洗</strong>：自动识别空值、异常值与重复数据，后台编写 Python 程序完成处理。</li><li><strong>多格式数据处理</strong>：面向 Excel、CSV 等格式，支持数据清洗、转换、分析以及可视化，并可做批量处理与多表关联。</li><li><strong>大批量数据支持</strong>：官网称支持 500MB 百万级数据量，后台自动编写 Python 做分块并行计算，数据合并、拆分、关联过滤可以一键完成。</li><li><strong>语义自定义查询</strong>：支持自然语言查询，能按行业术语和自定义规则匹配数据，官网的说法是「用大白话查数据」。</li><li><strong>自定义 AI 分析师</strong>：按行业和业务场景自定义分析角色，并支持 AI 生成角色模板与行业知识定义。</li><li><strong>自动生成报告</strong>：一键生成数据分析报告，可按需定制财务、市场、运营等报告模板，支持自定义结构与样式并导出文档。</li></ul>"
+        },
+        {
+          "title": "如何使用 数以轻舟Agent",
+          "html": "<ol><li>在数以轻舟Agent 官网下载并安装产品，购买后按官方说明完成激活。</li><li>配置模型。官网给出的第一步是选择并配置硅基流动接口，或者接入本地化大模型；追求数据不出内网就选后者，按官方文档把 Qwen、DeepSeek 等模型接上。</li><li>导入待处理数据。数以轻舟Agent 面向 Excel 与 CSV 文件，支持批量导入。</li><li>用自然语言说明目标，例如要清洗哪些字段、需要做什么口径的汇总，或要按什么规则筛选。</li><li>让数以轻舟Agent 生成并执行处理逻辑。官网说明它会自动编写 Python 代码来跑数据清洗与计算。</li><li>核对中间结果，确认口径无误后再让它生成报告，并按需选择报告模板与导出格式。</li><li>日常使用时可以把常用分析角色和报告模板保存下来复用。</li></ol>"
+        },
+        {
+          "title": "数以轻舟Agent 的应用场景",
+          "html": "<ul><li><strong>财务与运营数据整理</strong>：数以轻舟Agent 官网列出财务报告、市场分析报告与运营报告模板，适合固定周期出报表的岗位。</li><li><strong>数据合规要求高的行业</strong>：不允许把业务数据上传到外部云服务时，本地模型加本地处理是更稳妥的方案。</li><li><strong>缺乏数据分析专职人员的团队</strong>：官网把「分析角色专业性不足」列为企业常见痛点，自定义分析师角色正是针对这一点。</li><li><strong>大批量表格处理</strong>：百万行级别的合并、拆分与关联过滤，手工处理成本高，适合交给数以轻舟Agent。</li><li><strong>业务人员自助取数</strong>：不想每次都提需求给数据团队时，可以用自然语言直接查询。</li></ul><p>官网提到本地化处理与断网可用，但实际运行效果依赖所接入本地模型的规模与硬件条件，选型时建议先用自有数据做验证。</p>"
+        }
+      ]
+    },
+    "danqingmiaobi-com": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://www.danqingmiaobi.com/"
+      ],
+      "sections": [
+        {
+          "title": "丹青妙笔 是什么",
+          "html": "<p>丹青妙笔 是一款面向公文与办公写作场景的 AI 写作工具，官网的定位是「专注 AI 高效办公，公文一站搞定」，并明确说明它是专为秘书工作设计的，希望解决写公文时用词用典的困难。</p><p>按官网描述，丹青妙笔 采用 Word 式的操作界面，目标是把写作和排版串成一条线，做到生成即可交稿。它的支撑能力包括范文文库、AI 审核纠错、一键排版与长文写作，并接入 Deepseek、Kimi、Grok 等 8 种大模型。产品方署名华文智言（西安）信息科技有限责任公司，官网提供桌面端下载与免费使用入口。</p>"
+        },
+        {
+          "title": "丹青妙笔 的主要功能",
+          "html": "<ul><li><strong>AI 公文写作</strong>：面向公文场景生成正文，官网提到支持 1.2 万字长文写作。</li><li><strong>AI 审核纠错</strong>：对文稿做检查与修改建议。</li><li><strong>AI 一键排版</strong>：按规范完成排版，减少手工调整格式的时间。</li><li><strong>AI 公文助理</strong>：围绕用词与用典提供辅助，覆盖金句、大纲、词语、古诗词、用典与原创度检测。</li><li><strong>范文与素材库</strong>：官网给出的规模是 50 万以上政策学习文件、100 万以上范文材料与 1000 万以上写作素材库。</li><li><strong>多模型支持</strong>：丹青妙笔 接入 8 种大模型，可根据任务切换。</li><li><strong>协作与分享</strong>：官网在功能页脚列出协作能力与分享返现入口，说明它支持多人使用与推广。</li></ul>"
+        },
+        {
+          "title": "如何使用 丹青妙笔",
+          "html": "<ol><li>打开丹青妙笔 官网，注册账号后可直接进入免费使用，也可以先下载电脑桌面客户端。</li><li>进入工作区，界面按 Word 式操作设计，写作与排版在同一个环境里完成。</li><li>先明确文种与主题，把写作要求写清楚，涉及单位、时间、事由等要素尽量给全。</li><li>借助 AI 文思泉涌或大纲能力搭出骨架，再让它扩展成正文；长文可以分段推进，便于逐段校对。</li><li>使用范文文库与素材库查找同类文种的写法，用典和古诗词功能适合需要引用典故的场合。</li><li>定稿前跑一遍 AI 审核纠错，再做一键排版，然后交稿。</li><li>需要确认原创度时使用丹青妙笔 的原创度检测功能。</li></ol>"
+        },
+        {
+          "title": "丹青妙笔 的应用场景",
+          "html": "<ul><li><strong>机关与企事业单位文秘</strong>：丹青妙笔 官网明确面向秘书工作，日常通知、汇报、总结类文稿是主要场景。</li><li><strong>需要引用规范表述的场合</strong>：政策学习文件与素材库对需要准确引用表述的写作帮助较大。</li><li><strong>长文档写作</strong>：官网标注支持 1.2 万字长文，适合篇幅较长的报告或方案。</li><li><strong>格式要求严格的公文</strong>：一键排版用于统一格式，减少反复调整样式的成本。</li><li><strong>写作经验不足的新人</strong>：官网的说法是「提笔即写，每个人都可以成为单位的笔杆子」，范文与大纲功能对刚接触公文写作的人更实用。</li></ul><p>AI 生成的公文内容涉及事实表述与政策口径，正式报送前必须由人工逐条核对。</p>"
+        }
+      ]
+    },
+    "shutu-cn": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://shutu.cn/?from=aibot"
+      ],
+      "sections": [
+        {
+          "title": "TreeMind树图 是什么",
+          "html": "<p>TreeMind树图 是一款在线 AI 思维导图工具，官网域名是 shutu.cn。它的核心卖点是把「画导图」这件事变成「说出来」：输入一句话或上传一份资料，由 TreeMind树图 自动生成可编辑的思维导图文件。</p><p>按官网介绍，TreeMind树图 支持脑图、逻辑图、树形图、鱼骨图、组织架构图、时间轴等多种专业结构，适用于头脑风暴与创意规划。官网还列出了一系列合作与荣誉，包括与讯飞星火、字节跳动扣子的官方插件合作，以及上海人工智能行业协会会员单位旗下产品等身份。</p>"
+        },
+        {
+          "title": "TreeMind树图 的主要功能",
+          "html": "<ul><li><strong>一句话生成导图</strong>：输入需求即可由 TreeMind树图 生成结构，官网举例的场景包括读书笔记、教学安排、工作计划、宣传文案、商业分析与活动策划。</li><li><strong>图片转可编辑导图</strong>：上传图片，由 AI 转成可以继续编辑的思维导图文件。</li><li><strong>文档总结为导图</strong>：上传文档自动提炼结构，官网提到适合看财报、研报与电子书。</li><li><strong>分屏导图</strong>：一屏之内一边看资料一边做导图，不必来回切换窗口。</li><li><strong>互动演示</strong>：用演示功能讲解导图，协作者可以喝彩、评论和投票。</li><li><strong>多人协作与团队空间</strong>：支持多人同时查看和编辑同一张导图，团队空间用于管理团队文件。</li><li><strong>丰富结构</strong>：30 多种结构与 200 多款配色模板，支持彩虹分支与子主题切换结构。</li><li><strong>素材与公式</strong>：素材库覆盖图标、插图、背景、摄影图、3D 元素、GIF、音频与视频；公式库覆盖初高中数学、高等数学、物理与化学方程式。</li><li><strong>多格式导出</strong>：支持图片、PDF、Word 等十多种格式，客户端还支持分页打印。</li><li><strong>跨平台</strong>：提供 Windows、macOS、Linux、iOS、iPad、Android 客户端以及在线 web 版。</li></ul>"
+        },
+        {
+          "title": "如何使用 TreeMind树图",
+          "html": "<ol><li>打开 TreeMind树图 官网，点击进入工作台，网页端可以直接使用，也可以下载对应平台的客户端。</li><li>选择创建方式：从零开始就写一句话让 TreeMind树图 生成，已有资料则上传图片或文档让它自动转成导图。</li><li>确定结构类型。站内提供脑图、逻辑图、鱼骨图、组织架构图、时间轴等 30 多种结构，选对结构比后期调整更省事。</li><li>套用主题与配色，18 个配色主题搭配 200 多款模板，可以只对单分支做调整。</li><li>补充细节时用分屏导图一边看原资料一边改节点，需要公式的节点直接从公式库调用。</li><li>团队评审时用互动演示模式讲解，收集评论与投票后再回到导图修改。</li><li>完成后按需要导出为图片、PDF 或 Word，客户端可以直接分页打印。</li></ol>"
+        },
+        {
+          "title": "TreeMind树图 的应用场景",
+          "html": "<ul><li><strong>学习与读书笔记</strong>：把一本书或一门课的结构整理成导图，TreeMind树图 可以从文档直接提炼。</li><li><strong>工作规划与项目管理</strong>：工作计划、教学安排、活动策划都适合用结构化导图呈现。</li><li><strong>商业分析</strong>：官网提到上传财报或研报后由 AI 转成导图，用于快速抓取信息要义。</li><li><strong>团队头脑风暴</strong>：多人同时编辑加互动演示，适合评审和共创场景。</li><li><strong>知识库沉淀</strong>：用团队空间积累行业导图，站内本身也有覆盖教育、IT 互联网、金融、医疗等行业的导图搜索库。</li><li><strong>答辩与汇报</strong>：需要现场讲解结构时，TreeMind树图 的演示模式配合打印导出可以覆盖线上与线下两种场合。</li></ul>"
+        }
+      ]
+    },
+    "feelfish-com": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://www.feelfish.com/?fr=aibot"
+      ],
+      "sections": [
+        {
+          "title": "FeelFish 是什么",
+          "html": "<p>FeelFish 是一款专为小说创作打造的 AI 写作客户端，官网把它称为「小说写作 AI 智能体」。它面向的是长篇创作场景：不是单次生成一段文字，而是把角色、设定、章节和上下文放进同一个工作台，让 AI 真正参与一部作品的持续创作。</p><p>FeelFish 的技术路线是把小说项目当作一个可管理的工程。官网强调「智能上下文自动记忆和管理」，目的是让 AI 在续写时保持风格与逻辑的一致。平台目前提供 Windows 客户端，官网同时也列出 macOS 与鸿蒙 PC 版本，并说明会配套推出移动端辅助应用。</p>"
+        },
+        {
+          "title": "FeelFish 的主要功能",
+          "html": "<ul><li><strong>自定义部门</strong>：按创作流程配置编辑部、审稿、角色顾问等部门，把复杂长篇拆成有分工的环节。</li><li><strong>多智能体协作</strong>：支持自定义多个智能体，让它们围绕同一个项目协同工作；还支持技能（Skills）等扩展能力。</li><li><strong>智能延续剧情</strong>：FeelFish 通过上下文记忆管理已有内容，确保续写时风格与逻辑不冲突。</li><li><strong>对话即创作</strong>：用对话直接新建和修改文件，覆盖角色、设定、章节等内容，也支持和 AI 协同修改。</li><li><strong>角色与世界观构建</strong>：内置角色和设定文件夹，一键设计角色、搭建世界观，创作时会携带这些信息。</li><li><strong>多模型支持</strong>：FeelFish 支持 DeepSeek、千问等多种大语言模型，可按需要切换。</li><li><strong>资源市场</strong>：提供智能解决方案、技能与智能体，随需选用。</li><li><strong>本地项目组织</strong>：项目文件保存在本地，方便长期维护。</li></ul>"
+        },
+        {
+          "title": "如何使用 FeelFish",
+          "html": "<ol><li>在 FeelFish 官网下载客户端，官网当前给出的 Windows 版本号是 4.0.47，其他平台版本可在下载页查看。</li><li>新建项目。FeelFish 支持小说、剧本、非虚构类图书等类型，也可以自定义方案来定义不同类型的创作智能体。</li><li>先做设定：把主要角色的性格、关系、背景和世界观整理进角色与设定文件夹，这一步做得越细，后续生成越贴合预期。</li><li>按创作流程配置部门与智能体，例如把审稿和角色一致性检查交给不同角色负责。</li><li>进入章节写作，用对话让 FeelFish 生成或修改内容。上下文会自动累积，写作时携带角色和设定信息。</li><li>长篇推进时定期回看设定文件，把新出现的角色和规则补进去，避免上下文漂移。</li><li>需要现成能力时到资源市场挑选技能或智能体，再回到项目里调用。</li></ol>"
+        },
+        {
+          "title": "FeelFish 的应用场景",
+          "html": "<ul><li><strong>长篇网络小说连载</strong>：FeelFish 的上下文管理针对的就是超长文本，适合需要保持人设与剧情连贯的连载。</li><li><strong>剧本与分场写作</strong>：官网明确说明 FeelFish 可以用于创作剧本，人物小传、世界观、分场大纲、对白草稿与修改记录能放在同一个本地项目里。</li><li><strong>非虚构类图书</strong>：官网把非虚构类图书列为支持的项目类型。</li><li><strong>多人分工的创作团队</strong>：用自定义部门与多智能体，把规划、初稿与审校拆开处理。</li><li><strong>重视资料私密的作者</strong>：项目组织在本地，适合不希望草稿散落在多个在线工具里的写作者。</li></ul><p>FeelFish 官网也说明面向专业小说创作者，客户端目前覆盖 Windows、macOS 与鸿蒙 PC 平台，移动端为辅助应用。</p>"
+        }
+      ]
+    },
+    "picdoc-cn": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://www.picdoc.cn/"
+      ],
+      "sections": [
+        {
+          "title": "PicDoc 是什么",
+          "html": "<p>PicDoc 是一款 AI 文本可视化工具，官网把它描述为「AI 文本可视化助手」。它的思路是让用户先把内容和逻辑讲清楚，再由 PicDoc 把文字转成结构化的可视化图形，而不是单纯替用户画一张图——官网的说法是「不是帮你画图，是帮你理解之后画出来」。</p><p>PicDoc 的目标场景非常明确：科研、教育、办公与高校工作。官网列出的产出包括科研机制示意图、实验流程图、研究框架图、技术路线图、学术配图与 PPT 等，并强调符合 SCI 期刊标准、支持高清矢量导出与在线编辑。</p>"
+        },
+        {
+          "title": "PicDoc 的主要功能",
+          "html": "<ul><li><strong>文本解析与沉淀</strong>：上传文件或粘贴文本后，由 PicDoc 提炼核心观点、方法与结论，官网强调可溯源；同时支持摘要、大纲、翻译等写作辅助。</li><li><strong>知识库积累</strong>：支持链接与文件归档，自动构建知识库，问答与笔记持续沉淀。</li><li><strong>一键生成图形</strong>：基于研究内容的理解生成机制图、技术路线图与数据图表。</li><li><strong>图文分层在线编辑</strong>：生成的图支持图文分离，可以在线编辑，不必重绘。</li><li><strong>多格式导出</strong>：支持 PDF、PNG、PPT 等格式，官网提到可导出 4K 分辨率。</li><li><strong>模板覆盖广</strong>：站内按学科和用途提供了大量图形类型，包括细胞机制图、信号通路图、病理机制图、材料结构模型图、实验流程图、技术路线图、系统架构图、网络拓扑图以及柱状图、折线图、热力图、散点图等数据图。</li><li><strong>期刊规范适配</strong>：官网把「期刊规范自动适配」列为选择理由之一。</li></ul>"
+        },
+        {
+          "title": "如何使用 PicDoc",
+          "html": "<ol><li>打开 PicDoc 官网，从立即体验进入工作区；需要模板时先浏览模板库确认要做的图形类型。</li><li>把内容交给 PicDoc：可以直接粘贴文本，也可以上传文稿，让它先做解析与要点提炼。</li><li>核对提炼结果。官网强调低幻觉与可溯源，这一步的目的是确认它理解的研究内容和你要表达的逻辑一致。</li><li>选择目标图形类型，让 PicDoc 一键生成机制图、流程图或数据图表。</li><li>进入在线编辑，利用图文分层能力调整节点文字、排版与配色，直到符合投稿或汇报要求。</li><li>按用途导出：期刊配图优先用高清矢量格式，PPT 场景直接导出可编辑文件。</li><li>把常用资料归档进知识库，后续同类研究可以直接复用积累的素材。</li></ol>"
+        },
+        {
+          "title": "PicDoc 的应用场景",
+          "html": "<ul><li><strong>论文配图</strong>：机制图、信号通路图与实验流程图是 PicDoc 官网重点覆盖的类型，适合需要反复修改的投稿配图。</li><li><strong>基金与开题材料</strong>：技术路线图、研究框架图与标书信息图属于同一类需求。</li><li><strong>学术汇报与答辩</strong>：官网列出学术 PPT、开题报告 PPT 与答辩绘图等场景。</li><li><strong>教学与知识整理</strong>：把复杂概念转成知识卡片、思维导图或知识图谱，便于讲解与复习。</li><li><strong>跨学科数据呈现</strong>：站内提供面向计算机、通信、管理学、社会学等方向的架构图与拓扑图模板，数据图部分覆盖生命科学与理化实验的常见图表。</li><li><strong>没有设计基础的研究者</strong>：官网把「零设计基础」列为产品特点，适合自己动手但不熟悉专业绘图软件的人。</li></ul>"
+        }
+      ]
+    },
+    "tukeli-net": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://www.tukeli.net"
+      ],
+      "sections": [
+        {
+          "title": "图可丽 是什么",
+          "html": "<p>图可丽 是一个在线图片与视频处理平台，主打智能一键抠图，官网同时把它描述为覆盖抠图、修复、增强与艺术化处理的在线编辑工具。它的使用门槛很低：不需要专业 PS 技能，上传素材后由算法自动完成处理，官网给出的速度是自动处理三秒出结果。</p><p>除了面向个人用户的网页工具，图可丽 还提供 API 与桌面客户端。官网公布的服务规模是单月调用量超过 3 亿张、覆盖 2000 多个全球应用，平均单张图片处理时间 300 毫秒，全年系统可用性 99.9%，并在国内与海外均有部署节点。</p>"
+        },
+        {
+          "title": "图可丽 的主要功能",
+          "html": "<ul><li><strong>一键抠图与去背景</strong>：覆盖通用抠图、头部抠图以及物体、人像等细分类目，支持批量处理。</li><li><strong>视频处理</strong>：包含视频抠图与视频动漫化，官网称视频抠图可 100% 自动、免费、在线完成。</li><li><strong>艺术化与风格迁移</strong>：把头像、人像、照片或视频转成漫画、动漫风格，也支持风格迁移。</li><li><strong>AI 艺术创作</strong>：输入文字描述并选择风格，由 AI 生成创意画作。</li><li><strong>修复与增强</strong>：提供去水印、涂抹去除人物或文字、瑕疵与划痕修复、老照片上色、自动曝光与图片高清化。</li><li><strong>OCR 与文档处理</strong>：包含通用文字识别、文档矫正增强、表格识别提取与体检报告结构化。</li><li><strong>自动设计与换背景</strong>：支持证件照、电商白底图、形象照，以及批量换背景、批量证件照、批量电商白底图。</li><li><strong>开发者接口</strong>：图可丽 提供 API，官网给出 Python、PHP、Java、Node.js、.NET、Objective-C 与 JS 的调用示例，并提供 Token 验证与用户鉴权。</li></ul>"
+        },
+        {
+          "title": "如何使用 图可丽",
+          "html": "<ol><li>打开图可丽 官网，按任务选择工具入口：去背景进抠图类目，处理视频进视频处理类目，修图进修复增强类目。</li><li>上传素材。单张处理直接上传图片或视频；需要批量处理的场景使用批量通用抠图、批量证件照或批量电商白底图入口。</li><li>等待自动处理。图可丽 官网给出的常规速度是单张约三秒，开发者调用的平均耗时是 300 毫秒。</li><li>检查边缘与细节。抠图类任务重点看发丝、半透明区域和复杂轮廓，必要时用涂抹修复工具补齐。</li><li>按用途继续加工：做证件照的换底色与换装，做电商的换背景与出白底图，做社交内容的选择卡通或动漫风格。</li><li>导出或批量下载结果。需要接入自有系统的团队改用 图可丽 的 API，按官方示例完成鉴权与调用。</li></ol>"
+        },
+        {
+          "title": "图可丽 的应用场景",
+          "html": "<ul><li><strong>电商图片处理</strong>：图可丽 官网把时尚服饰、美妆数码、家居电器、餐饮外卖列为电子商务场景的适用范围，批量白底图是高频需求。</li><li><strong>证件照制作</strong>：支持换底色、换装、全尺寸与自动排版。</li><li><strong>照片修复与美化</strong>：老照片上色、划痕修复、去水印适合处理存量家庭照片或旧素材。</li><li><strong>内容创作与社交头像</strong>：卡通头像、形象照与风格迁移用于个性化定制，官网提到可延伸到手机壳、钥匙扣、T 恤等定制打印。</li><li><strong>视频与 XR 内容</strong>：视频抠像与动漫化适合教育培训、金融保险、医疗保健与企业发布会等场景。</li><li><strong>产品集成</strong>：有研发能力的团队可以调用 图可丽 的 API，把抠图、OCR 等能力嵌进 App、小程序或站点。</li></ul>"
+        }
+      ]
+    },
+    "keevx-com": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://www.keevx.com/"
+      ],
+      "sections": [
+        {
+          "title": "Keevx 是什么",
+          "html": "<p>Keevx 是一个面向商业内容的 AI 视频生成平台，官网把它概括为「翻译、克隆与生成 AI 视频」的一站式服务。它的核心是 AI 数字人视频：借助虚拟形象与语音能力，把产品故事做成多语种视频，用于触达全球受众。</p><p>Keevx 的显著特点是多语言与本地化能力。官网提到支持 170 多种语言，并具备唇形同步与母语配音，这意味着同一条原始视频可以转成面向不同市场的版本。平台同时提供公共人像库、公共语音库与预置视频模板，降低从零创作的门槛。</p>"
+        },
+        {
+          "title": "Keevx 的主要功能",
+          "html": "<ul><li><strong>视频翻译</strong>：上传视频后把语音替换为目标语种，Keevx 官网称支持 170 多种语言，并实现唇形同步、本地化配音与精准字幕。</li><li><strong>商品图生视频</strong>：上传静态图片，由 AI 理解内容并生成动态视频，同时自动添加运镜效果。</li><li><strong>AI 广告视频</strong>：从产品信息分析、视觉素材混剪到脚本生成，把广告制作流程自动化。</li><li><strong>克隆爆款内容</strong>：对高表现视频逐帧解析，把传播模式转化为 UGC 风格视频。</li><li><strong>灵感转视频</strong>：输入提示词生成视频脚本，选定人像与音色后直接产出数字人视频。</li><li><strong>人像与声音克隆</strong>：基于用户提供的视频或音频生成专属数字人资产，Keevx 官网提到人像克隆以分钟计、声音克隆以秒计。</li><li><strong>资产库</strong>：公共人像库包含 210 多个角色，覆盖不同种族、年龄、职业与场景；公共语音库支持 80 多种区域语言与不同年龄、语气风格。</li><li><strong>预置模板</strong>：覆盖电商营销、企业推广与知识分享三类高频场景。</li></ul>"
+        },
+        {
+          "title": "如何使用 Keevx",
+          "html": "<ol><li>打开 Keevx 官网并开始免费试用，先明确要做的是视频翻译、商品图转视频还是数字人口播。</li><li>做本地化时上传原视频，选择目标语言，让 Keevx 完成语音替换、唇形同步与字幕生成。</li><li>做商品视频时上传产品图片，由 AI 自动生成动态画面与运镜效果。</li><li>需要数字人出镜时先选形象：从公共人像库里挑，或者用自己的素材做人像克隆。</li><li>配音环节从公共语音库选择音色，需要独特声线时做声音克隆。</li><li>用预置模板快速搭出结构，或输入提示词让 Keevx 生成脚本后再调整。</li><li>导出成片并按目标平台发布；批量任务可复用已建好的数字人资产与模板。</li></ol>"
+        },
+        {
+          "title": "Keevx 的应用场景",
+          "html": "<ul><li><strong>电商营销</strong>：商家可以用 Keevx 全自动生成商品介绍与促销视频，并适配多语种与多个平台。</li><li><strong>内容本地化</strong>：出海企业与自媒体创作者可以把已有视频翻译、配音并对口型，快速输出面向不同市场的版本。</li><li><strong>知识付费与课程</strong>：课程创作者可以生成讲解类视频，支持多语种讲解与字幕输出。</li><li><strong>企业培训</strong>：HR 与培训团队可以批量生成多语种培训视频，统一内容标准并覆盖分散的员工。</li><li><strong>跨境广告投放</strong>：需要为不同地区批量准备广告素材时，Keevx 的模板与数字人资产可以重复利用。</li></ul><p>声音与形象克隆涉及个人生物特征，使用前应确保已取得相关人员的授权。</p>"
+        }
+      ]
+    },
+    "imgak-com": {
+      "updated": "2026-09-28",
+      "sources": [
+        "https://www.imgak.com/"
+      ],
+      "sections": [
+        {
+          "title": "imgAK 是什么",
+          "html": "<p>imgAK 是一个在线 AI 图像工具平台，官网把它定位为「ImgAK AI 图像魔法师」。它的思路是把图片修复、高清放大、电商视觉与创意生成放在同一个平台里完成，用户不需要专业设计经验就能产出相对专业的视觉素材。</p><p>从站内分类看，imgAK 的功能分成三条主线：电商作图、图像处理与创意应用。官网首页写明的目标用户是需要快速产出商品套图、详情页与创意照片的商家与个人，同时也覆盖普通的照片修复需求。平台提供免费开始创作的入口，工具以列表形式集中展示，便于按任务直接取用。</p>"
+        },
+        {
+          "title": "imgAK 的主要功能",
+          "html": "<ul><li><strong>AI 放大变高清</strong>：在线放大并增强低清图片，可选修复增强模式，并按自动、2K、4K、6K、8K 或 16K 输出，系统会自动保持原图比例。</li><li><strong>AI 商品套图与详情页</strong>：imgAK 可一键生成整套电商商品图，自动提炼卖点并批量生成主图、场景图、卖点图与详情页视觉模块。</li><li><strong>爆款图复刻</strong>：上传版式参考图与替换主体，选择高度复刻或参考风格，生成电商图、营销海报与社媒视觉；画面文字可选无文字、自动文案或准确文案。</li><li><strong>AI 产品精修</strong>：自动增强产品轮廓、调节光影与色彩平衡，提升画面纯净度与立体感。</li><li><strong>AI 物体多视角套图</strong>：上传 1 至 3 张同一物体的参考图，默认一次生成 2×2 四视角总览，也可输出正面、45 度、侧面、背面等独立角度，尽量锁定外形、材质、颜色与结构。</li><li><strong>AI 相似图创作</strong>：基于原图裂变创意版本，支持主体改造、换背景、换色调、调光影与换镜头角度。</li><li><strong>全能照片修复</strong>：包含去除破损、折痕与水印，以及人像精修。</li><li><strong>AI 抠图白底图</strong>：用于快速得到干净的电商白底素材。</li><li><strong>创意应用</strong>：提供 AI 婚纱照摄影馆、AI 儿童写真摄影馆与照片变卡通等入口。</li></ul>"
+        },
+        {
+          "title": "如何使用 imgAK",
+          "html": "<ol><li>打开 imgAK 官网，从首页或创作中心按任务挑工具，也可以直接用搜索框找具体功能。</li><li>做电商素材时先上传商品图，用 AI 商品套图与详情页一次生成整套视觉，再按需替换单张。</li><li>图片太小时先过一遍 AI 放大变高清。imgAK 官网提示：清晰原图可以用细微增强，低像素或噪点图用修复增强，严重模糊的素材先做深度修复再选输出倍率。</li><li>需要同一主体的多角度展示时使用 AI 物体多视角套图，上传 1 至 3 张参考图，按需选四视角总览或指定角度。</li><li>想沿用竞品或爆款版式时用爆款图复刻，上传参考图并选择复刻程度，画面文字按需要设置。</li><li>创意类需求走婚纱照、儿童写真或照片变卡通入口，上传照片后选风格生成。</li><li>导出前核对细节。imgAK 官网说明生成式修复可能推测缺失细节，重要文字、人物身份与商品标签需要人工核对；多视角结果也不是精确的 3D 或 CAD 数据，关键尺寸要另行确认。</li></ol>"
+        },
+        {
+          "title": "imgAK 的应用场景",
+          "html": "<ul><li><strong>电商上新与详情页制作</strong>：用 imgAK 批量产出主图、场景图与卖点图，缩短上新周期。</li><li><strong>商品图精修与白底处理</strong>：抠图、精修与光影调整都在同一平台完成。</li><li><strong>设计与建模参考</strong>：多视角套图适合作为商品展示、外观设计与建模的参考素材。</li><li><strong>低清素材抢救</strong>：老图、截图与压缩损伤严重的图片可以通过放大与修复流程改善。</li><li><strong>纪念照与创意写真</strong>：没有条件拍婚纱照或儿童写真时，可以用上传照片生成的方式进行尝试。</li><li><strong>营销海报与社媒配图</strong>：爆款图复刻与相似图创作适合需要持续出图的运营岗位。</li></ul>"
         }
       ]
     }

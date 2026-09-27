@@ -1689,39 +1689,23 @@
     "domain": "danqingmiaobi.com",
     "detailed_content": [
       {
-        "title": "丹青妙笔是什么",
-        "html": "<p>丹青妙笔是专为体制内办公场景打造的<a href=\"https://ai-bot.cn/ai-document-writing-tools/\" target=\"_blank\" rel=\"noopener\">AI公文写作</a>助手，采用Word式操作界面，让用户无需学习即可上手使用。丹青妙笔支持1.2万字长文AI生成、智能文章纠错、一键排版、AI原创度检测及PPT自动生成。丹青妙笔内置丰富的公文资源库，涵盖范文、金句、大纲、古诗词、用典等内容，支持润色、仿写、续写、凝练等智能编辑功能。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-75421\" src=\"https://ai-bot.cn/wp-content/uploads/2026/04/danqingmiaobi-website.png\"   alt=\"丹青妙笔AI写作\" width=\"741\" height=\"417\" />"
+        "title": "丹青妙笔 是什么",
+        "html": "<p>丹青妙笔 是一款面向公文与办公写作场景的 AI 写作工具，官网的定位是「专注 AI 高效办公，公文一站搞定」，并明确说明它是专为秘书工作设计的，希望解决写公文时用词用典的困难。</p><p>按官网描述，丹青妙笔 采用 Word 式的操作界面，目标是把写作和排版串成一条线，做到生成即可交稿。它的支撑能力包括范文文库、AI 审核纠错、一键排版与长文写作，并接入 Deepseek、Kimi、Grok 等 8 种大模型。产品方署名华文智言（西安）信息科技有限责任公司，官网提供桌面端下载与免费使用入口。</p>"
       },
       {
-        "title": "丹青妙笔的主要功能",
-        "html": "<ul>\n<li><strong>AI智能写作</strong>：支持1.2万字长文一键生成，90秒内产出万字材料；提供文思泉涌、智能续写等功能，输入主题即可自动生成完整公文。</li>\n<li><strong>公文资源库</strong>：内置范文库、金句库、大纲库、词语库、古诗词、用典六大资源模块，为公文写作提供丰富的参考素材和语言表达。</li>\n<li><strong>AI辅助工具</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>文章纠错</strong>：智能审核文字错误和格式规范</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>一键排版</strong>：自动完成标准公文格式，导出即可交稿</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>生成PPT</strong>：将公文内容转为演示文稿</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>原创度检测</strong>：检测内容重复率，确保原创合规</div>\n</li>\n</ul>\n</li>\n<li><strong>智能编辑功能</strong>：支持润色优化、仿写改写、续写扩写、凝练精简四大编辑模式，满足不同场景下的文稿修改需求。</li>\n</ul>"
+        "title": "丹青妙笔 的主要功能",
+        "html": "<ul><li><strong>AI 公文写作</strong>：面向公文场景生成正文，官网提到支持 1.2 万字长文写作。</li><li><strong>AI 审核纠错</strong>：对文稿做检查与修改建议。</li><li><strong>AI 一键排版</strong>：按规范完成排版，减少手工调整格式的时间。</li><li><strong>AI 公文助理</strong>：围绕用词与用典提供辅助，覆盖金句、大纲、词语、古诗词、用典与原创度检测。</li><li><strong>范文与素材库</strong>：官网给出的规模是 50 万以上政策学习文件、100 万以上范文材料与 1000 万以上写作素材库。</li><li><strong>多模型支持</strong>：丹青妙笔 接入 8 种大模型，可根据任务切换。</li><li><strong>协作与分享</strong>：官网在功能页脚列出协作能力与分享返现入口，说明它支持多人使用与推广。</li></ul>"
       },
       {
-        "title": "如何使用丹青妙笔",
-        "html": "<ul>\n<li><strong>进入工作区</strong>：访问丹青妙笔官网 https://www.danqingmiaobi.com/ ，点击”进入工作区”按钮，进入类似Word的在线编辑界面。</li>\n<li><strong>选择功能模块</strong>：根据需求选择对应功能：AI公文写作（生成长文）、公文文库（查找范文金句）、AI文章纠错（审核文稿）、AI生成PPT（转演示文稿）或AI原创度检测。</li>\n<li><strong>输入创作需求</strong>：在AI写作模块输入公文主题、关键词或上传参考资料；或在文库中搜索所需的范文、金句、大纲等素材。</li>\n<li><strong>AI生成内容</strong>：系统自动生成初稿，支持1.2万字长文输出；生成后可使用润色、仿写、续写、凝练等功能对内容进行智能优化。</li>\n<li><strong>审核与排版</strong>：使用AI文章纠错检查文字错误和格式规范，通过AI一键排版完成标准公文格式设置。</li>\n<li><strong>导出交付</strong>：将最终文稿导出为DOCX格式，或直接生成PPT，实现”生成即交稿”。</li>\n</ul>"
+        "title": "如何使用 丹青妙笔",
+        "html": "<ol><li>打开丹青妙笔 官网，注册账号后可直接进入免费使用，也可以先下载电脑桌面客户端。</li><li>进入工作区，界面按 Word 式操作设计，写作与排版在同一个环境里完成。</li><li>先明确文种与主题，把写作要求写清楚，涉及单位、时间、事由等要素尽量给全。</li><li>借助 AI 文思泉涌或大纲能力搭出骨架，再让它扩展成正文；长文可以分段推进，便于逐段校对。</li><li>使用范文文库与素材库查找同类文种的写法，用典和古诗词功能适合需要引用典故的场合。</li><li>定稿前跑一遍 AI 审核纠错，再做一键排版，然后交稿。</li><li>需要确认原创度时使用丹青妙笔 的原创度检测功能。</li></ol>"
       },
       {
-        "title": "丹青妙笔的核心优势",
-        "html": "<ul>\n<li><strong>Word式操作界面</strong>：采用类似Office Word的专业编辑界面，无需学习成本，用户可直接上手使用，实现”生成即交稿”的高效办公体验。</li>\n<li><strong>超长文本生成能力</strong>：支持1.2万字AI长文写作，90秒内即可产出万字材料，满足讲话稿、工作总结、汇报材料等大篇幅公文的快速创作需求。</li>\n<li><strong>一站式公文解决方案</strong>：集成AI写作、智能纠错、一键排版、原创度检测、PPT生成五大核心功能，覆盖公文创作全流程，无需切换多个工具。</li>\n<li><strong>海量公文资源库</strong>：内置范文库、金句库、大纲库、词语库、古诗词、用典六大资源模块，为体制内写作提供丰富的素材参考和语言表达的AI文思泉涌支持。</li>\n<li><strong>体制内场景深度适配</strong>：专门针对政府机关、企事业单位的公文写作场景优化，支持标准公文格式自动排版，确保生成的内容符合体制内规范要求。</li>\n</ul>"
-      },
-      {
-        "title": "丹青妙笔的关键信息和使用要求",
-        "html": "<ul>\n<li><strong>产品定位与核心能力</strong>：定位为”专注AI高效办公，公文一站搞定”，核心能力包括支持1.2万字AI长文生成、Word式操作界面、90秒内产出万字材料。</li>\n<li><strong>收费模式与会员权益</strong>：基础功能可免费使用；年费会员389元，赠送90天SVIP会员，可解锁更多高级功能和资源库权限。</li>\n<li><strong>使用环境要求</strong>：需在联网环境下使用，支持主流浏览器访问；建议在电脑端使用以获得最佳的Word式编辑体验。</li>\n<li><strong>功能使用限制</strong>：免费用户可能存在生成字数、使用次数或功能权限的限制，完整功能需开通会员；生成的内容建议通过AI原创度检测确保合规。</li>\n</ul>"
-      },
-      {
-        "title": "丹青妙笔的会员定价",
-        "html": "<p><strong>注册就送3天会员，无限制使用所有功能，</strong>无任何字数、次数限制，无任何隐藏额外收费</p>\n<p>不同会员区别如下：</p>\n<ul>\n<li>终身会员：免费参加 丹青妙笔 所有的及后续的AI公文写作训练营。其他会员 无此权益</li>\n<li>所有会员，功能上无任何区别</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-75453\" src=\"https://ai-bot.cn/wp-content/uploads/2026/04/danqingmiaobi-website3.png\"   alt=\"丹青妙笔AI写作\" width=\"695\" height=\"401\" />"
-      },
-      {
-        "title": "丹青妙笔的同类竞品对比",
-        "html": "<table data-v-5d23a35d=\"\">\n<thead data-v-5d23a35d=\"\">\n<tr data-v-5d23a35d=\"\">\n<th align=\"left\" data-v-5d23a35d=\"\">对比维度</th>\n<th align=\"left\" data-v-5d23a35d=\"\">丹青妙笔</th>\n<th align=\"left\" data-v-5d23a35d=\"\"><a href=\"https://ai-bot.cn/sites/67827.html\" target=\"_blank\" rel=\"noopener\">讯飞公文写作助手</a></th>\n<th align=\"left\" data-v-5d23a35d=\"\">新华妙笔</th>\n</tr>\n</thead>\n<tbody data-v-5d23a35d=\"\">\n<tr data-v-5d23a35d=\"\">\n<td align=\"left\" data-v-5d23a35d=\"\"><strong data-v-5d23a35d=\"\">开发商</strong></td>\n<td align=\"left\" data-v-5d23a35d=\"\">华文智言(西安)信息科技有限责任公司</td>\n<td align=\"left\" data-v-5d23a35d=\"\">科大讯飞</td>\n<td class=\"\" align=\"left\" data-v-5d23a35d=\"\">新华社媒体融合生产技术与系统国家重点实验室 × 博特智能</td>\n</tr>\n<tr data-v-5d23a35d=\"\">\n<td align=\"left\" data-v-5d23a35d=\"\"><strong data-v-5d23a35d=\"\">底层技术</strong></td>\n<td align=\"left\" data-v-5d23a35d=\"\">智谱大模型</td>\n<td align=\"left\" data-v-5d23a35d=\"\">讯飞星火大模型</td>\n<td align=\"left\" data-v-5d23a35d=\"\">融合媒体实验室垂直领域模型</td>\n</tr>\n<tr data-v-5d23a35d=\"\">\n<td align=\"left\" data-v-5d23a35d=\"\"><strong data-v-5d23a35d=\"\">核心功能</strong></td>\n<td align=\"left\" data-v-5d23a35d=\"\">海量素材库，60万+（注册即终身免费）<br />\nAI对话写作（4个自研模型+n其它模型）<br />\nAI一键排版<br />\nAI一键润色<br />\nAI一键改写<br />\nAI一键扩写<br />\nAI一键续写<br />\nAI一键仿写<br />\nAI一键缩写<br />\nAI私有知识库+私人智能体<br />\nAI PPT生成</td>\n<td align=\"left\" data-v-5d23a35d=\"\">素材筹备、拟稿写作、审稿核稿、内容加工、录音智记、以稿写稿</td>\n<td class=\"\" align=\"left\" data-v-5d23a35d=\"\">查/写/审/学一体化、AI写作、AI校对、AI续写、AI润色、范文库</td>\n</tr>\n<tr data-v-5d23a35d=\"\">\n<td align=\"left\" data-v-5d23a35d=\"\"><strong data-v-5d23a35d=\"\">最大生成字数</strong></td>\n<td align=\"left\" data-v-5d23a35d=\"\">1.2万字长文</td>\n<td class=\"\" align=\"left\" data-v-5d23a35d=\"\">未明确限制</td>\n<td align=\"left\" data-v-5d23a35d=\"\">支持长文本，超3000字表现突出</td>\n</tr>\n<tr data-v-5d23a35d=\"\">\n<td align=\"left\" data-v-5d23a35d=\"\"><strong data-v-5d23a35d=\"\">特色优势</strong></td>\n<td align=\"left\" data-v-5d23a35d=\"\">Word式操作界面、90秒生成万字、生成即交稿</td>\n<td align=\"left\" data-v-5d23a35d=\"\">语音输入/录音转写、以稿写稿（学习参考文章风格）</td>\n<td class=\"\" align=\"left\" data-v-5d23a35d=\"\">“新华体”权威风格、七步成文法、涉政内容安全过滤、新华社权威语料库</td>\n</tr>\n<tr data-v-5d23a35d=\"\">\n<td align=\"left\" data-v-5d23a35d=\"\"><strong data-v-5d23a35d=\"\">内容安全</strong></td>\n<td align=\"left\" data-v-5d23a35d=\"\">AI原创度检测</td>\n<td align=\"left\" data-v-5d23a35d=\"\">政策表达风险检测</td>\n<td align=\"left\" data-v-5d23a35d=\"\">意识形态审核、负面人物/事件检测、最高等级安全测试</td>\n</tr>\n<tr data-v-5d23a35d=\"\">\n<td align=\"left\" data-v-5d23a35d=\"\"><strong data-v-5d23a35d=\"\">资源库</strong></td>\n<td class=\"\" align=\"left\" data-v-5d23a35d=\"\">范文、金句、大纲、词语、古诗词、用典</td>\n<td align=\"left\" data-v-5d23a35d=\"\">历史文件语义检索、素材库</td>\n<td align=\"left\" data-v-5d23a35d=\"\">14个数据库、40类范文、18类素材、28个模板，覆盖86种写作场景</td>\n</tr>\n<tr data-v-5d23a35d=\"\">\n<td align=\"left\" data-v-5d23a35d=\"\"><strong data-v-5d23a35d=\"\">适用人群</strong></td>\n<td align=\"left\" data-v-5d23a35d=\"\">政府机关、事业单位、国企材料员</td>\n<td align=\"left\" data-v-5d23a35d=\"\">公务员、教师、公司职工</td>\n<td align=\"left\" data-v-5d23a35d=\"\">公务员、事业单位人员、国企人员、备考学生</td>\n</tr>\n<tr data-v-5d23a35d=\"\">\n<td align=\"left\" data-v-5d23a35d=\"\"><strong data-v-5d23a35d=\"\">支持平台</strong></td>\n<td align=\"left\" data-v-5d23a35d=\"\">Web网页端</td>\n<td align=\"left\" data-v-5d23a35d=\"\">Web端 + 移动端App</td>\n<td align=\"left\" data-v-5d23a35d=\"\">Web端 + 移动端App（Android/iOS）</td>\n</tr>\n</tbody>\n</table>"
-      },
-      {
-        "title": "丹青妙笔的应用场景",
-        "html": "<ul>\n<li><strong>政府机关公文写作</strong>：适用于各级党政机关工作人员撰写领导讲话稿、工作总结、汇报材料、调研报告、通知公告等各类政务公文，支持1.2万字长文生成，满足大型会议材料和年度总结等长篇幅文档需求。</li>\n<li><strong>事业单位材料撰写</strong>：面向教育、医疗、科研等事业单位的办公室人员，用于撰写工作计划、活动方案、述职报告、经验交流材料等日常办公文档。</li>\n<li><strong>国企央企文案工作</strong>：适用于国有企业、央企的行政、党建、宣传等部门，快速产出党建材料、会议纪要、项目汇报、事迹材料等企业内部公文。</li>\n<li><strong>会议演示材料制作</strong>：通过AI生成PPT功能，将文字材料快速转换为演示文稿，适用于工作汇报、培训课件、会议展示等场景。</li>\n<li><strong>公文审核与规范化</strong>：用AI文章纠错和一键排版功能，对已起草的文稿进行格式规范检查、文字错误纠正和标准化排版，确保公文符合体制内格式要求。</li>\n</ul>"
+        "title": "丹青妙笔 的应用场景",
+        "html": "<ul><li><strong>机关与企事业单位文秘</strong>：丹青妙笔 官网明确面向秘书工作，日常通知、汇报、总结类文稿是主要场景。</li><li><strong>需要引用规范表述的场合</strong>：政策学习文件与素材库对需要准确引用表述的写作帮助较大。</li><li><strong>长文档写作</strong>：官网标注支持 1.2 万字长文，适合篇幅较长的报告或方案。</li><li><strong>格式要求严格的公文</strong>：一键排版用于统一格式，减少反复调整样式的成本。</li><li><strong>写作经验不足的新人</strong>：官网的说法是「提笔即写，每个人都可以成为单位的笔杆子」，范文与大纲功能对刚接触公文写作的人更实用。</li></ul><p>AI 生成的公文内容涉及事实表述与政策口径，正式报送前必须由人工逐条核对。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "feelfish-com",
@@ -1743,27 +1727,23 @@
     "domain": "feelfish.com",
     "detailed_content": [
       {
-        "title": "FeelFish是什么",
-        "html": "<p>FeelFish 是专为小说创作者设计的 <a href=\"https://ai-bot.cn/ai-writing-tools/\" target=\"_blank\" rel=\"noopener\">AI 写作工具</a>，通过智能辅助提升创作效率和质量。支持剧本和非虚构类书籍创作，擅长长篇内容的创作。面向专业作家设计，基于 FeelFish 智能体提供优秀的人机交互页面，让 AI 和作家可以深度地协作共创优质小说等专业内容。具备强大的角色和设定规划功能，可让用户详细输入角色性格、外貌、背景以及世界观规则，AI 会严格遵循这些设定进行创作，避免人设崩塌或逻辑矛盾。FeelFish 的上下文管理功能可自动总结前文内容，确保新生成的章节自然衔接，保持风格和剧情连贯性。支持多种主流大模型，如 DeepSeek、ChatGPT、Gemini 等，用户可根据需求选择合适的模型，通过自定义提示词精准控制创作方向。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-67005\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/FeelFish-website2.png\"   alt=\"FeelFish\" width=\"742\" height=\"388\" />"
+        "title": "FeelFish 是什么",
+        "html": "<p>FeelFish 是一款专为小说创作打造的 AI 写作客户端，官网把它称为「小说写作 AI 智能体」。它面向的是长篇创作场景：不是单次生成一段文字，而是把角色、设定、章节和上下文放进同一个工作台，让 AI 真正参与一部作品的持续创作。</p><p>FeelFish 的技术路线是把小说项目当作一个可管理的工程。官网强调「智能上下文自动记忆和管理」，目的是让 AI 在续写时保持风格与逻辑的一致。平台目前提供 Windows 客户端，官网同时也列出 macOS 与鸿蒙 PC 版本，并说明会配套推出移动端辅助应用。</p>"
       },
       {
-        "title": "FeelFish的主要功能",
-        "html": "<ul>\n<li><strong>对话即创作</strong>：基于 AI 大语言模型的小说写作智能体，帮你新建和修改文件。创作角色、设定、章节等内容。</li>\n<li><strong>沉浸式交互</strong>：随时唤起辅助创作面板，从角色设定到情节发展，从对话到描写，AI 能为你提供专业的小说创作建议和内容生成。</li>\n<li><strong>智能延续剧情</strong>：通过智能上下文自动记忆和管理你的小说已有内容，确保小说内容保持风格和逻辑的一致性。</li>\n<li><strong>一键构建角色&世界观</strong>：帮助你设计丰富立体的角色，构建完整的世界观设定，为 AI 小说写作奠定坚实基础。</li>\n<li><strong>支持全球前沿大模型</strong>：支持 DeepSeek、ChatGPT、Gemini、Grok、豆包、Qwen、Kimi 等多种大语言模型，让你选择最适合的 AI 助手。</li>\n<li>\n<div class=\"paragraph\"><strong>自定义提示词</strong>：用户可以自定义提示词，精准控制 AI 的输出内容，满足个性化创作需求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>章节管理</strong>：提供专门的章节管理功能，方便创作者组织和管理作品结构。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>写作风格记忆</strong>：AI 能记忆用户的写作风格，确保生成内容与作者的风格保持一致。</div>\n</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-67003\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/FeelFish-website3.png\"   alt=\"FeelFish\" width=\"685\" height=\"358\" />"
+        "title": "FeelFish 的主要功能",
+        "html": "<ul><li><strong>自定义部门</strong>：按创作流程配置编辑部、审稿、角色顾问等部门，把复杂长篇拆成有分工的环节。</li><li><strong>多智能体协作</strong>：支持自定义多个智能体，让它们围绕同一个项目协同工作；还支持技能（Skills）等扩展能力。</li><li><strong>智能延续剧情</strong>：FeelFish 通过上下文记忆管理已有内容，确保续写时风格与逻辑不冲突。</li><li><strong>对话即创作</strong>：用对话直接新建和修改文件，覆盖角色、设定、章节等内容，也支持和 AI 协同修改。</li><li><strong>角色与世界观构建</strong>：内置角色和设定文件夹，一键设计角色、搭建世界观，创作时会携带这些信息。</li><li><strong>多模型支持</strong>：FeelFish 支持 DeepSeek、千问等多种大语言模型，可按需要切换。</li><li><strong>资源市场</strong>：提供智能解决方案、技能与智能体，随需选用。</li><li><strong>本地项目组织</strong>：项目文件保存在本地，方便长期维护。</li></ul>"
       },
       {
-        "title": "如何使用FeelFish",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>创建账户</strong>：访问 FeelFish 官网 <a href=\"https://www.feelfish.com/?fr=aibot\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >www.feelfish.com</a> ，注册并创建个人账户。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择计划</strong>：根据创作需求，选择合适的付费计划，如免费版、基础版、进阶版或专业版。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>设置角色与世界观</strong>：在FeelFish中详细输入角色的性格、外貌、背景以及世界观的规则和设定。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>输入上下文</strong>：将已有的创作内容或关键情节输入到上下文管理模块，AI 能理解前文并生成连贯内容。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择 AI 模型</strong>：从支持的多种大模型中选择适合的模型进行创作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">自定义提示词</strong>：根据创作需求，输入自定义提示词，指导 AI 进行精准创作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>开始创作</strong>：通过对话框与 AI 互动，输入指令或问题，AI 将根据设定生成相应内容。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>编辑与调整</strong>：根据 AI 的输出内容进行编辑和调整，符合创作意图。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>保存与导出</strong>：将创作内容保存在平台或导出到本地，继续后续创作或进行排版发布。</div>\n</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-67004\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/FeelFish-website4.png\"   alt=\"FeelFish\" width=\"683\" height=\"357\" />"
+        "title": "如何使用 FeelFish",
+        "html": "<ol><li>在 FeelFish 官网下载客户端，官网当前给出的 Windows 版本号是 4.0.47，其他平台版本可在下载页查看。</li><li>新建项目。FeelFish 支持小说、剧本、非虚构类图书等类型，也可以自定义方案来定义不同类型的创作智能体。</li><li>先做设定：把主要角色的性格、关系、背景和世界观整理进角色与设定文件夹，这一步做得越细，后续生成越贴合预期。</li><li>按创作流程配置部门与智能体，例如把审稿和角色一致性检查交给不同角色负责。</li><li>进入章节写作，用对话让 FeelFish 生成或修改内容。上下文会自动累积，写作时携带角色和设定信息。</li><li>长篇推进时定期回看设定文件，把新出现的角色和规则补进去，避免上下文漂移。</li><li>需要现成能力时到资源市场挑选技能或智能体，再回到项目里调用。</li></ol>"
       },
       {
-        "title": "FeelFish的产品定价",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>免费版</strong>：每月赠送五百万积分，适合创作爱好者，满足基础创作需求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>基础版</strong>：每月17元，包含一亿积分，适合专业创作者，每月可创作约十万字小说。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>进阶版</strong>：每月35元，提供三亿积分，适合专业作家，每月可创作约三十万字小说。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">专业版</strong>：每月119元，提供十四亿积分，适合高产创作者，每月可输出百万字以上。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "FeelFish的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>小说创作</strong>：帮助小说作者规划角色、设定世界观，生成连贯的剧情和对话，提升创作效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>剧本编写</strong>：为影视、话剧等剧本创作提供角色设定、情节发展和对白生成支持，保持故事逻辑连贯性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>故事续写</strong>：在已有故事基础上，使用 AI 续写情节，探索不同发展方向，激发创作灵感。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>创意构思</strong>：快速生成创意概念和情节框架，帮助创作者突破灵感瓶颈，探索新的故事方向。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>写作辅助</strong>：在写作过程中，提供即时的语言润色、情节补充和风格调整建议，提升写作质量。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多语言创作</strong>：支持多种语言创作，帮助跨语言写作的作者快速生成内容，适应不同语言环境的创作需求。</div>\n</li>\n</ul>"
+        "title": "FeelFish 的应用场景",
+        "html": "<ul><li><strong>长篇网络小说连载</strong>：FeelFish 的上下文管理针对的就是超长文本，适合需要保持人设与剧情连贯的连载。</li><li><strong>剧本与分场写作</strong>：官网明确说明 FeelFish 可以用于创作剧本，人物小传、世界观、分场大纲、对白草稿与修改记录能放在同一个本地项目里。</li><li><strong>非虚构类图书</strong>：官网把非虚构类图书列为支持的项目类型。</li><li><strong>多人分工的创作团队</strong>：用自定义部门与多智能体，把规划、初稿与审校拆开处理。</li><li><strong>重视资料私密的作者</strong>：项目组织在本地，适合不希望草稿散落在多个在线工具里的写作者。</li></ul><p>FeelFish 官网也说明面向专业小说创作者，客户端目前覆盖 Windows、macOS 与鸿蒙 PC 平台，移动端为辅助应用。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "loomi-live",
@@ -5835,27 +5815,23 @@
     "domain": "neural4d.com",
     "detailed_content": [
       {
-        "title": "Neural4D是什么",
-        "html": "<p>Neural4D 是 DreamTech 团队（汇集牛津大学、南京大学等顶尖高校研究人才）推出的 <a href=\"https://ai-bot.cn/ai-3d-model-generation-tools/\" target=\"_blank\" rel=\"noopener\">AI  3D 模型生成平台</a>，基于全球领先的 Neural4D-2.5 大模型，能通过文字描述或图片输入快速生成高质量的 3D 模型和动画。支持千万面级精细度，首次实现 100 万 tokens 的 3D 模型生成，可在 1 分半内完成高精度模型推理，效率极高。Neural4D 具备原生 3D 纹理生成能力和强大的泛化能力，支持常规图片，能处理表情包、简笔画等写意图，生成效果在多场景评测中领先于欧美大厂。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-70252\" src=\"https://ai-bot.cn/wp-content/uploads/2026/01/Neural4D-website.png\"   alt=\"Neural4D\" width=\"741\" height=\"417\" />"
+        "title": "Neural4D 是什么",
+        "html": "<p>Neural4D 是一个 AI 三维资产生成工具，官网把它缩写为 N4D。它的核心能力是把文字、图片和视频转成三维模型与 CAD 资产，官方强调产出的是 production-ready 的结果，并且整个过程以分钟计。</p><p>Neural4D 官网把目标行业写得很明确：游戏开发、3D 打印与工业设计。除此之外，官网还列出教育、动画、VR/AR 与建筑设计等方向。产品线包含 Features、Pricing、API 与 Resource 等入口，首页提供免费试用，说明它同时面向个人创作者与开发者。</p>"
       },
       {
-        "title": "Neural4D的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">高精度 3D 模型生成</strong>：支持千万面级精细度，首次实现 100 万 tokens 的 3D 模型生成，能在 1 分半内完成高精度模型推理，适合复杂场景和高细节需求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多模态交互</strong>：用户可以通过文字描述或上传图片生成 3D 模型，平台支持自然语言对话交互，实时微调已生成模型的细节，如修改颜色、调整比例等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>原生 3D 纹理生成</strong>：避免传统二维贴图的空间不一致问题，实现最佳三维几何与纹理效果，提升模型的真实感和视觉质量。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>强大的泛化能力</strong>：支持常规图片，能处理表情包、简笔画、毛绒飘散粒子等写意图，生成高质量的 3D 模型，适应多种输入风格。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>生产优化</strong>：为 3D 打印和 CNC 雕刻优化几何算法，解决流形加厚、结构平滑等实物生产痛点，生成的模型可直接用于实物制造。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>高性价比</strong>：API 调用成本低，每次约 0.51 元，算力要求仅为传统模型的 1/5，大幅降低硬件门槛，适合个人和专业用户。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多场景应用</strong>：生成的 3D 模型支持多种主流格式（如 OBJ、GLB、STL），可直接用于 3D 打印、游戏引擎（Unity/Unreal）、Blender 等软件，广泛应用于游戏开发、影视制作、教育、工业设计等领域。</div>\n</li>\n</ul>"
+        "title": "Neural4D 的主要功能",
+        "html": "<ul><li><strong>图片转三维模型</strong>：上传图片即可生成三维模型，Neural4D 官网说明支持 JPG、PNG、WEBP 格式，单张上限 5MB。</li><li><strong>文字转三维模型</strong>：输入提示词后由模型直接生成三维资产。</li><li><strong>视频转三维模型</strong>：官网在介绍中把视频与文字、图片并列为输入来源。</li><li><strong>AI 贴图</strong>：可以上传自己的贴图并应用到生成的模型上，用于替换默认材质表现。</li><li><strong>绑定与动画</strong>：官网列出 Rigging &amp; Animation 模块，用于给模型做骨骼绑定和动画。</li><li><strong>资产库</strong>：首页提供 Asset Hub 入口，用于集中管理生成的三维资产。</li><li><strong>API 接入</strong>：Neural4D 提供 API，便于把三维生成能力集成到自有流程里。</li></ul>"
       },
       {
-        "title": "如何使用Neural4D",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>注册登录</strong>：访问 Neural4D 官网 https://www.neural4d.com/ ，点击“开始”注册账号。新用户注册后会赠送 600 积分，可用于生成 10 次模型。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择生成方式</strong>：进入平台后，选择“文生 3D”或“图生 3D”等模式。</div>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>文生 3D</strong>：在“魔术提示”框输入描述（如：“一只可爱的卡通龙，翅膀张开”）。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>图生 3D</strong>：上传参考图片（支持 JPG、PNG 等格式）。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Neural4D-2.5</strong>：多模态大模型，支持文本与图像输入，实现基于自然语言的实时交互式编辑生成并修改模型。</div>\n</li>\n</ul>\n</li>\n<li>\n<div class=\"paragraph\"><strong>点击生成</strong>：输入完成后，点击“生成”按钮。根据模型复杂度，生成时间通常在 30 秒至 2 分钟之间。100 万 token 的高精度模型大约需要 1 分半。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>调整模型</strong>：生成模型后，可以使用平台提供的工具栏调整模型的细节、材质或颜色，也可以通过自然语言对话指令进行微调，例如“让角更尖锐一些”。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>导出模型</strong>：调整满意后，支持将模型导出为 OBJ、GLB、STL 等主流 3D 格式，可用于 3D 打印、游戏引擎（如 Unity/Unreal）或 Blender 等软件中。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>预览与应用</strong>：支持在手机端网页登录，使用 VR 功能将生成的 3D 模型放置在真实环境中预览，方便用户直观感受模型效果。</div>\n</li>\n</ul>"
+        "title": "如何使用 Neural4D",
+        "html": "<ol><li>打开 Neural4D 官网，点击 Free to Try 开始试用。</li><li>按手上素材选择入口：有图片就用 AI Image to 3D Generator，只有文字描述就用 AI Text to 3D Generator。</li><li>上传图片时留意格式与体积限制——Neural4D 官网写明支持 JPG、PNG、WEBP，单张 5MB 以内。</li><li>写提示词或贴参考图时尽量把结构、比例和材质讲清楚，三维生成对形体的描述比位图更敏感。</li><li>生成模型后检查拓扑与形体，按需使用 AI Texture 上传自定义贴图，或进入 Rigging &amp; Animation 做绑定。</li><li>在 Asset Hub 中整理生成的资产，按目标工具链导出使用。</li></ol>"
       },
       {
-        "title": "Neural4D的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>游戏开发</strong>：快速生成游戏中的角色、场景和道具，缩短美术资源制作时间，加速游戏开发流程。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>影视与动画制作</strong>：通过文字描述或图片生成高质量的 3D 模型和动画，用于特效制作或预览，降低实拍成本和后期合成难度。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>3D 打印</strong>：优化的几何算法确保生成的模型适合 3D 打印，用户可直接导出 STL 格式进行实物制造。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>工业设计与建筑可视化</strong>：快速生成产品的 3D 模型或建筑的日照、人流模拟场景，辅助设计评估和客户沟通。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教育与科研</strong>：帮助学生和教师更好地理解复杂结构，用于教学演示或科研模拟。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>虚拟现实（VR）与增强现实（AR）</strong>：创建沉浸式的虚拟空间和动态元素，增强用户体验。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "<strong>常见问题（FAQ）</strong>",
-        "html": "<h4><strong>Q：生成一个模型需要多少钱？</strong></h4>\n<p>A：通过官网体验，新用户注册赠送积分可免费生成。API调用成本约1元/次，性价比领先大部分 AI 3D 工具。</p>\n<h4><strong>Q：支持哪些类型的图片输入？</strong></h4>\n<p>A：支持绝大多数图片类型，包括照片、插画、设计稿，甚至表情包和简笔画。对“写意”风格图片（如绒毛、飘散粒子）有特别优化。</p>\n<h4><strong>Q：生成的模型可以直接用于3D打印吗？</strong></h4>\n<p>A：可以。Neural4D专门为3D打印优化了几何算法，确保模型为流形、厚度均匀，导出STL格式后可直接送入切片软件。</p>\n<h4><strong>Q：生成速度如何？</strong></h4>\n<p>A：根据模型复杂度，通常在30秒至2分钟内完成。100万token的高精度模型约需1分半。</p>\n<h4><strong>Q：是否支持模型修改？</strong></h4>\n<p>A：支持。Neural4D-2o版本可通过自然语言对话交互进行微调，例如修改颜色、调整比例、增加细节等。</p>\n<h4><strong>Q：有移动端吗？</strong></h4>\n<p>A：支持手机端网页登录，可使用VR功能将生成的3D模型放置在真实环境中预览。</p>\n<h4><strong>Q：如何获取更多积分或优惠？</strong></h4>\n<p>A：关注官方社交媒体账号，常有限时活动赠送积分。合作达人粉丝可使用专属兑换码额外获得500积分。</p>\n<p><strong>体验建议：</strong>可从简单表情包或清晰物体照片开始尝试，感受其快速生成与高还原度的特点。适合3D打印爱好者、游戏开发者、动画师及所有希望降低3D创作门槛的用户。</p>"
+        "title": "Neural4D 的应用场景",
+        "html": "<ul><li><strong>游戏开发</strong>：用 Neural4D 快速产出道具、场景物件的三维草模，减少前期建模量。</li><li><strong>3D 打印</strong>：把参考图或文字想法转成可打印的三维模型文件。</li><li><strong>工业设计与建筑设计</strong>：官网把这两个方向与 CAD 资产并列，说明 Neural4D 也面向工程类表达需求。</li><li><strong>动画与 VR/AR</strong>：配合绑定与动画能力，把生成模型用于动画制作和实时场景。</li><li><strong>教学演示</strong>：官网列出的 Education 场景适合把抽象概念做成可见的三维模型。</li></ul><p>三维生成的形体精度和拓扑质量会直接影响能否直接进入生产管线，Neural4D 官网将其定位为快速出资产，实际项目中仍建议按用途做人工修正。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "marble-worldlabs-ai",
@@ -6101,31 +6077,23 @@
     "domain": "luxreal.ai",
     "detailed_content": [
       {
-        "title": "LuxReal是什么",
-        "html": "<p>LuxReal 是群核科技推出的 AI 3D 视频创作平台，基于自研的 Lux3D 模型和多智能体协同系统，能快速生成高质量、主体一致且画面可控的视频。LuxReal 支持多模态输入，如图像和 3D 模型，具备实时 3D 预览、模板化设计、AI 辅助创作等功能，广泛应用于电商、影视、广告、工业设计等领域，助力用户高效创作商业级视频内容。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-69991\" src=\"https://ai-bot.cn/wp-content/uploads/2026/01/LuxReal-website-2.png\"   alt=\"LuxReal\" width=\"740\" height=\"416\" />"
+        "title": "LuxReal 是什么",
+        "html": "<p>LuxReal 是一个基于 3D 空间智能的 AI 视频生成平台。按官网的说明，它的价值在于保持角色、场景和道具的一致性，并把整条链路做成闭环——从剧本解析开始，到成片导出结束，官方把这条链路称为「短剧生产线」。</p><p>LuxReal 官网同时给出另一条更轻的路径：把一张产品图片转成专业视频。官方常见问题里写明，它适合电商产品上架、营销活动或社交媒体使用，生成结果可以商用，而且因为真实产品图片和材质不会被改动，官方称其符合亚马逊、Shopify 等平台的规则。</p>"
       },
       {
-        "title": "LuxReal的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>一键生成商品视频</strong>：上传产品图片或3D 模型后，LuxReal 能自动生成高质量的商业广告视频，支持多种分辨率和视频比例，操作简单快捷。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">保持主体一致性</strong>：通过 3D 空间建模技术，LuxReal 视频中主体在不同镜头和场景下始终保持一致。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>实时 3D 预览与高效创作</strong>：提供实时 3D 场景预览功能，用户能即时更新和可视化创作内容，简化创作流程，显著提高创作效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>电影级镜头运动与视觉效果</strong>：提供平滑、专业的镜头运动和电影级视觉效果，生成的视频更接近专业广告大片。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多智能体协同系统</strong>：LuxReal 采用多智能体协同工作，整合 3D 理解、场景构建和视频渲染，实现高效、连贯的视频生成。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">易用性与模板化</strong>：提供多种预设模板，操作简单易上手，适合初学者和专业人士，快速生成高质量视频。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">可复刻性与扩展性</strong>：支持复用主体和空间设定，调整镜头参数即可生成类似视频。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自动解析与生成</strong>：自动解析上传的图片内容，生成分镜头脚本和提示词，减少用户输入工作量，提升创作效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>支持中文图像解析</strong>：平台能处理中文图像，生成符合中文市场风格的视频内容，满足本地化需求。</div>\n</li>\n</ul>"
+        "title": "LuxReal 的主要功能",
+        "html": "<ul><li><strong>3D 空间智能一致性</strong>：LuxReal 的核心能力是让角色与场景在一镜到底的过程中保持一致，官网用「不变形」来形容。</li><li><strong>剧本到成片的闭环</strong>：从解析剧本、搭建场景到导出成片，都在同一平台内完成。</li><li><strong>商品图生视频</strong>：上传产品图片，选择相机运动与产品动作，几分钟内生成专业视频。</li><li><strong>AI 模板</strong>：官网提供模板入口，官网把它描述为「人人都是创作高手」，模板可以降低上手门槛。</li><li><strong>多领域适配</strong>：官网强调能满足多个领域的视频需求，从商品视频到短剧都在范围内。</li><li><strong>社区灵感</strong>：站内提供社区参考，缺乏灵感时可以先看别人的作品。</li></ul><p>定价方面，LuxReal 官网说明新用户注册会获得免费额度，也可以通过兑换码获取额外额度；免费账户产出的视频带水印，下载无水印视频需要升级订阅。生成视频按积分消耗，官方给出的量级是一条视频通常需要 100 到 500 点数，具体取决于视频长度；若退出编辑器而未生成视频，不会扣除积分。</p>"
       },
       {
-        "title": "如何使用LuxReal",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>访问官网</strong>：访问 LuxReal 官网 https://www.luxreal.ai/ ，注册登录账号。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>上传图片</strong>：上传一张清晰的产品图片，确保能完整展示产品的外观和细节。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>描述创意</strong>：输入文字描述或选择模板，简单说明视频的主题、风格和场景。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">生成分镜头</strong>：点击生成按钮，LuxReal 根据图片和描述生成分镜头图像供预览。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>编辑调整</strong>：不满意分镜头时，可调整镜头角度、运镜方式或场景设置。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>生成视频</strong>：确认分镜头后，点击生成视频，LuxReal 将渲染完整的广告级视频。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择参数</strong>：设置视频分辨率（720p 或 1080p）和比例（16:9、1:1 或 9:16）。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>保存分享</strong>：视频生成后可保存到本地或直接分享到社交媒体平台。</div>\n</li>\n</ul>"
+        "title": "如何使用 LuxReal",
+        "html": "<ol><li>打开 LuxReal 官网注册账号，先领免费额度，必要时用兑换码增加额度。</li><li>确定走哪条路线：已有剧本走短剧生产线，只有商品图走商品视频流程。</li><li>短剧路线从剧本解析开始，让 LuxReal 提取角色、场景与道具，再生成画面。</li><li>商品视频路线则上传产品图片，然后选择需要的相机运动和产品动作。</li><li>等待生成，LuxReal 官网称商品视频在几分钟内即可完成。</li><li>检查积分余额。余额显示在网页界面左下角头像下方，点击余额可以查看可用方案与价格。</li><li>导出成片。官网提示免费账户的成片带水印，需要无水印版本要升级订阅；遇到问题可邮件联系官方或加入其 Discord 社区。</li></ol>"
       },
       {
-        "title": "LuxReal的使用示例",
-        "html": "<blockquote><p>This video showcases a modern light blue upholstered chair, emphasizing its plush texture and ergonomic design through soft, diffused lighting and elegant scenes. It aims to highlight how the chair seamlessly integrates into cozy, contemporary living spaces, promoting comfort and style.一个高端产品展示，以现代风格呈现椅子，使用柔和、散射的灯光来突出其柔软的质感和符合人体工程学的设计，非常适合提升温馨生活空间的舒适度。</p></blockquote>\n<img decoding=\"async\" class=\"alignnone wp-image-69994\" src=\"https://ai-bot.cn/wp-content/uploads/2026/01/LuxReal-website2.png\"   alt=\"LuxReal\" width=\"740\" height=\"416\" />\n<img decoding=\"async\" class=\"alignnone wp-image-69996\" src=\"https://ai-bot.cn/wp-content/uploads/2026/01/LuxReal-website5.png\"   alt=\"LuxReal\" width=\"740\" height=\"416\" />\n<blockquote><p>Create a fun and engaging product showcase featuring the plush Orange character. Utilize a bright, cheerful style with vibrant colors and playful lighting to emphasize its unique design. Highlight the plush texture and adorable expression, appealing to both children and collectors alike.创建一个充满乐趣和吸引力的产品展示，以毛绒绒的橙色角色为特色。利用明亮、欢快的风格，搭配鲜艳的色彩和有趣的灯光效果来强调其独特的设计。突出其毛绒质感和可爱的表情，吸引儿童和收藏家的喜爱。</p></blockquote>\n<img decoding=\"async\" class=\"alignnone wp-image-69999\" src=\"https://ai-bot.cn/wp-content/uploads/2026/01/LuxReal-website3-1.png\"   alt=\"LuxReal\" width=\"740\" height=\"416\" />\n<img decoding=\"async\" class=\"alignnone wp-image-69997\" src=\"https://ai-bot.cn/wp-content/uploads/2026/01/LuxReal-website1.png\"   alt=\"LuxReal\" width=\"740\" height=\"416\" />"
-      },
-      {
-        "title": "LuxReal的产品定价",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>1000 积分</strong>：$9.99，可创建200个720P视频，移除视频水印。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>3600 积分</strong>：$29.99，可创建720个720P视频，移除视频水印。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "LuxReal的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>电商产品展示</strong>：平台能快速生成商品展示视频，提升电商平台的产品吸引力，节省拍摄和后期成本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>广告制作</strong>：平台支持一键生成高质量的广告视频，适用于社交媒体、电视广告等多种渠道。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>美妆与化妆品</strong>：LuxReal能展示产品的使用效果和特点，增强品牌宣传和用户吸引力。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>消费电子</strong>：清晰展示电子产品的功能和外观，提升用户对产品的认知和兴趣。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>食品与饮料</strong>：通过生动的视频展示美食和饮品，激发消费者的购买欲望。</div>\n</li>\n</ul>"
+        "title": "LuxReal 的应用场景",
+        "html": "<ul><li><strong>电商商品视频</strong>：用一张产品图生成上架与促销用的视频素材。</li><li><strong>专业短剧团队</strong>：LuxReal 官网称其面向专业短剧团队，用于提升从剧本到成片的效率。</li><li><strong>营销与品牌活动</strong>：官方把营销活动与社交媒体内容列为适用场景。</li><li><strong>跨境平台合规上架</strong>：需要按亚马逊、Shopify 规则提供商品视频时，LuxReal 保留真实产品还原的思路更省事。</li><li><strong>控制视频制作成本</strong>：官网提到无需组建昂贵的视频制作团队，用图片加模板即可出片。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "voxcraft-ai",
@@ -6885,27 +6853,23 @@
     "domain": "tukeli.net",
     "detailed_content": [
       {
-        "title": "图可丽是什么",
-        "html": "<p>图可丽（tukeli.net）是一款由杭州王道控股有限公司开发的人工智能图像处理工具。基于人工智能和计算机视觉技术，为用户提供图片和视频编辑服务，提供批量<a href=\"https://ai-bot.cn/ai-image-background-removers/\" target=\"_blank\" rel=\"noopener\">抠图</a>、<a href=\"https://ai-bot.cn/ai-watermark-removing-tools/\" target=\"_blank\" rel=\"noopener\">去水印</a>、视频抠图、一键生成漫画、<a href=\"https://ai-bot.cn/ai-video-to-anime-tools/\" target=\"_blank\" rel=\"noopener\">视频转动漫</a>、图像修复、模糊视频变高清、AI绘画、AI更换背景等功能。是一款集图片&视频处理的在线网站。</p>\n<img decoding=\"async\" class=\"alignnone  wp-image-24101\" src=\"https://ai-bot.cn/wp-content/uploads/2024/10/tukeli-website2.png\"   alt=\"\" width=\"745\" height=\"419\" />"
+        "title": "图可丽 是什么",
+        "html": "<p>图可丽 是一个在线图片与视频处理平台，主打智能一键抠图，官网同时把它描述为覆盖抠图、修复、增强与艺术化处理的在线编辑工具。它的使用门槛很低：不需要专业 PS 技能，上传素材后由算法自动完成处理，官网给出的速度是自动处理三秒出结果。</p><p>除了面向个人用户的网页工具，图可丽 还提供 API 与桌面客户端。官网公布的服务规模是单月调用量超过 3 亿张、覆盖 2000 多个全球应用，平均单张图片处理时间 300 毫秒，全年系统可用性 99.9%，并在国内与海外均有部署节点。</p>"
       },
       {
-        "title": "图可丽的主要功能",
-        "html": "<ul>\n<li><strong>一键抠图</strong>：图可丽的核心技术之一是一键抠图功能，可以轻松移除图片背景，适用于简单的物品到复杂的人物肖像。</li>\n<li><strong>视频处理</strong>：包括视频抠图和视频动漫化，提供高效的视频编辑工具，支持AI视频抠图，能够将视频中的特定元素抠取出来，并支持一键将视频或图片转换为动漫风格。</li>\n<li><strong>照片修复和美化</strong>：自动去除瑕疵、优化曝光、上色等，提升照片质量，包括老照片上色、老照片修复、图像智能修复、模糊照片/视频变清晰等。</li>\n<li><strong>AI绘画与背景更换</strong>：根据用户的指令创造出与指令相符的作品，为用户带来艺术体验。背景更换功能则可以自动分析图片内容，巧妙替换图片的背景。</li>\n<li><strong>批量处理能力</strong>：用户可以一次性上传多张图片，进行自动抠图或去除水印，这一功能在处理具有相似背景的大量图片时尤为高效。</li>\n<li><strong>证件照与电商图片制作</strong>：提供在线制作证件照、电商白底图以及高端个人形象照等功能，用户只需简单几步操作即可获得符合要求的图片作品。</li>\n</ul>"
+        "title": "图可丽 的主要功能",
+        "html": "<ul><li><strong>一键抠图与去背景</strong>：覆盖通用抠图、头部抠图以及物体、人像等细分类目，支持批量处理。</li><li><strong>视频处理</strong>：包含视频抠图与视频动漫化，官网称视频抠图可 100% 自动、免费、在线完成。</li><li><strong>艺术化与风格迁移</strong>：把头像、人像、照片或视频转成漫画、动漫风格，也支持风格迁移。</li><li><strong>AI 艺术创作</strong>：输入文字描述并选择风格，由 AI 生成创意画作。</li><li><strong>修复与增强</strong>：提供去水印、涂抹去除人物或文字、瑕疵与划痕修复、老照片上色、自动曝光与图片高清化。</li><li><strong>OCR 与文档处理</strong>：包含通用文字识别、文档矫正增强、表格识别提取与体检报告结构化。</li><li><strong>自动设计与换背景</strong>：支持证件照、电商白底图、形象照，以及批量换背景、批量证件照、批量电商白底图。</li><li><strong>开发者接口</strong>：图可丽 提供 API，官网给出 Python、PHP、Java、Node.js、.NET、Objective-C 与 JS 的调用示例，并提供 Token 验证与用户鉴权。</li></ul>"
       },
       {
-        "title": "如何使用图可丽",
-        "html": "<ul>\n<li><strong>注册账号</strong>：<span style=\"font-size: 0.875rem;\">访问图可丽的<a href=\"https://www.tukeli.net/?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >官方网站</a>。</span><span style=\"font-size: 0.875rem;\">点击注册或立即体验。</span></li>\n<li><strong>选择服务</strong>：<span style=\"font-size: 0.875rem;\">在图可丽的主页上，可以看到不同的服务选项，如抠图、视频剪辑、图片编辑等。</span><span style=\"font-size: 0.875rem;\">根据需求选择相应的服务。</span></li>\n<li><strong>上传图片或视频</strong>：<span style=\"font-size: 0.875rem;\">选择服务后，上传本地的图片或视频文件。</span><span style=\"font-size: 0.875rem;\">支持的文件格式包括常见的图片格式（如JPG、PNG）和视频格式（如MP4）。</span></li>\n<li><strong>编辑和处理</strong>：<span style=\"font-size: 0.875rem;\">上传文件后，使用图可丽提供的工具进行编辑。例如，如果选择抠图服务，系统可能会自动抠除背景。</span><span style=\"font-size: 0.875rem;\">可以进行更细致的编辑，如调整抠图的边缘、更换背景、应用滤镜等。</span></li>\n<li><strong>预览和调整</strong>：<span style=\"font-size: 0.875rem;\">在编辑过程中，可以预览编辑效果，如果不满意可以继续调整。</span></li>\n<li><strong>下载成品</strong>：<span style=\"font-size: 0.875rem;\">编辑完成后，对结果满意，可以下载处理后的图片或视频。</span></li>\n</ul>"
+        "title": "如何使用 图可丽",
+        "html": "<ol><li>打开图可丽 官网，按任务选择工具入口：去背景进抠图类目，处理视频进视频处理类目，修图进修复增强类目。</li><li>上传素材。单张处理直接上传图片或视频；需要批量处理的场景使用批量通用抠图、批量证件照或批量电商白底图入口。</li><li>等待自动处理。图可丽 官网给出的常规速度是单张约三秒，开发者调用的平均耗时是 300 毫秒。</li><li>检查边缘与细节。抠图类任务重点看发丝、半透明区域和复杂轮廓，必要时用涂抹修复工具补齐。</li><li>按用途继续加工：做证件照的换底色与换装，做电商的换背景与出白底图，做社交内容的选择卡通或动漫风格。</li><li>导出或批量下载结果。需要接入自有系统的团队改用 图可丽 的 API，按官方示例完成鉴权与调用。</li></ol>"
       },
       {
-        "title": "图可丽的产品定价",
-        "html": "<ul>\n<li><strong>免费</strong>：提供了视频预览服务，用户可以注册使用。</li>\n<li><strong>视频定价：</strong>按时长充值，按视频消耗，1分钟视频：19元；3分钟视频：29元；15分钟视频：129元；45分钟视频：299元；120分钟视频：789元；330分钟视频：2149元。</li>\n<li><strong>图片定价</strong>：\n<ul>\n<li><strong>包月</strong>：100点/月 19元。200点/月 29元。400点/月 49元。800点/月 79元。1200点/月 99元。5000点/月 399元。10000点/月 699元。</li>\n<li><strong>按点购买（按点消耗）：</strong>2点 3.99元。10点 9.9元。100点 49元。300点 139元。1000点 399元。10000点 999元。</li>\n</ul>\n</li>\n</ul>"
-      },
-      {
-        "title": "图可丽的应用场景",
-        "html": "<ul>\n<li><strong>设计行业</strong>：<span style=\"font-size: 0.875rem;\">设计师可以用图可丽的图像编辑工具，如抠图、图像美化等，来提高工作效率，适用于广告、海报、宣传册等设计场景。</span><span style=\"font-size: 0.875rem;\">自动去除背景，并通过文字描述生成替换背景，满足设计师对图片背景灵活处理的需求。</span></li>\n<li><strong>电商领域</strong>：<span style=\"font-size: 0.875rem;\">电商卖家可以用图可丽进行商品图片的批量处理，如抠图、背景替换、图片美化等，提升商品图片的吸引力，增加点击率和转化率。</span></li>\n<li><strong>证件照与形象照处理</strong>：<span style=\"font-size: 0.875rem;\">提供在线制作证件照的服务，支持多种尺寸和背景色更换，满足不同场景的需求。</span><span style=\"font-size: 0.875rem;\">用户可以使用图可丽的工具进行个人形象照的美化，如美白、瘦脸、祛斑等，提升照片效果。</span></li>\n<li><strong>视频处理</strong>：<span style=\"font-size: 0.875rem;\">支持AI视频抠图，将视频中的特定元素抠取出来，支持一键将视频或图片转换为动漫风格，适用于视频制作、短视频平台内容创作等场景。</span><span style=\"font-size: 0.875rem;\">对模糊视频进行一键修复变高清，提升视频的画质和清晰度，支持帧率提升、色彩增强等技术。</span></li>\n<li><strong>新媒体创作</strong>：<span style=\"font-size: 0.875rem;\">自媒体创作者可以用图可丽一键美化照片，转换卡通风格吸引流量。</span></li>\n</ul>"
+        "title": "图可丽 的应用场景",
+        "html": "<ul><li><strong>电商图片处理</strong>：图可丽 官网把时尚服饰、美妆数码、家居电器、餐饮外卖列为电子商务场景的适用范围，批量白底图是高频需求。</li><li><strong>证件照制作</strong>：支持换底色、换装、全尺寸与自动排版。</li><li><strong>照片修复与美化</strong>：老照片上色、划痕修复、去水印适合处理存量家庭照片或旧素材。</li><li><strong>内容创作与社交头像</strong>：卡通头像、形象照与风格迁移用于个性化定制，官网提到可延伸到手机壳、钥匙扣、T 恤等定制打印。</li><li><strong>视频与 XR 内容</strong>：视频抠像与动漫化适合教育培训、金融保险、医疗保健与企业发布会等场景。</li><li><strong>产品集成</strong>：有研发能力的团队可以调用 图可丽 的 API，把抠图、OCR 等能力嵌进 App、小程序或站点。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "tool303",
@@ -8880,27 +8844,23 @@
     "domain": "imgak.com",
     "detailed_content": [
       {
-        "title": "imgAK是什么",
-        "html": "<p>imgAK是强大的在线 AI 图像处理工具，专注于通过 AI 技术修复和增强图像，让模糊、破损的老照片重焕新生。用户只需上传图片，imgAK 可一键修复模糊、褪色、破损、折痕、水印等问题，能为黑白照片精准上色。 AI 放大功能可将低分辨率图片无损放大至 16000px，输出高清图像，适配人像、合影、宠物、商品图等多种类型。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-69517\" src=\"https://ai-bot.cn/wp-content/uploads/2026/01/imgak-website.png\"   alt=\"imgak\" width=\"741\" height=\"417\" />"
+        "title": "imgAK 是什么",
+        "html": "<p>imgAK 是一个在线 AI 图像工具平台，官网把它定位为「ImgAK AI 图像魔法师」。它的思路是把图片修复、高清放大、电商视觉与创意生成放在同一个平台里完成，用户不需要专业设计经验就能产出相对专业的视觉素材。</p><p>从站内分类看，imgAK 的功能分成三条主线：电商作图、图像处理与创意应用。官网首页写明的目标用户是需要快速产出商品套图、详情页与创意照片的商家与个人，同时也覆盖普通的照片修复需求。平台提供免费开始创作的入口，工具以列表形式集中展示，便于按任务直接取用。</p>"
       },
       {
-        "title": "imgAK的主要功能",
-        "html": "<ul>\n<li><strong>照片修复</strong>：基于先进 AI 算法，一键修复老照片的模糊、褪色、破损、折痕、水印等问题，同时支持黑白照片上色，自动识别人脸与场景，细腻还原细节。</li>\n<li><strong>AI 放大变高清</strong>：采用智能超分技术，将低分辨率、压缩失真或年代久远的照片提升至超高清画质，无损放大至 16000px，修复模糊和噪点，输出 300DPI 的打印级高清图像。</li>\n<li><strong>AI 婚纱照生成</strong>：提供海量婚纱照样片和风格模板，通过智能换脸技术快速生成定制婚纱照，适合居家使用，节省时间和成本。</li>\n<li><strong>AI抠图白底图</strong>：精准识别图像主体并分离背景，支持批量处理，适配电商、设计、海报等多种场景，处理复杂边缘如毛发时也能保持高精度。</li>\n<li><strong>照片转卡通</strong>：利用深度学习技术将真实照片转换为卡通风格，提供多种艺术风格选择，适用于头像制作、插画创作等场景，无需专业绘画技能。</li>\n<li><strong>AI产品图精修</strong>：融合前沿人工智能算法，智能识别并精细化商品图像的多维细节。自动增强产品轮廓，提画面纯净度与立体感。</li>\n<li><strong>AI人像精修</strong>：专业级AI人像修图，肤质增强，秒变精致，告别繁琐修图！AI自动完成祛痘、去瑕疵、磨皮、瘦脸与美白美颜，同步优化肤色不均与暗沉。</li>\n</ul>"
+        "title": "imgAK 的主要功能",
+        "html": "<ul><li><strong>AI 放大变高清</strong>：在线放大并增强低清图片，可选修复增强模式，并按自动、2K、4K、6K、8K 或 16K 输出，系统会自动保持原图比例。</li><li><strong>AI 商品套图与详情页</strong>：imgAK 可一键生成整套电商商品图，自动提炼卖点并批量生成主图、场景图、卖点图与详情页视觉模块。</li><li><strong>爆款图复刻</strong>：上传版式参考图与替换主体，选择高度复刻或参考风格，生成电商图、营销海报与社媒视觉；画面文字可选无文字、自动文案或准确文案。</li><li><strong>AI 产品精修</strong>：自动增强产品轮廓、调节光影与色彩平衡，提升画面纯净度与立体感。</li><li><strong>AI 物体多视角套图</strong>：上传 1 至 3 张同一物体的参考图，默认一次生成 2×2 四视角总览，也可输出正面、45 度、侧面、背面等独立角度，尽量锁定外形、材质、颜色与结构。</li><li><strong>AI 相似图创作</strong>：基于原图裂变创意版本，支持主体改造、换背景、换色调、调光影与换镜头角度。</li><li><strong>全能照片修复</strong>：包含去除破损、折痕与水印，以及人像精修。</li><li><strong>AI 抠图白底图</strong>：用于快速得到干净的电商白底素材。</li><li><strong>创意应用</strong>：提供 AI 婚纱照摄影馆、AI 儿童写真摄影馆与照片变卡通等入口。</li></ul>"
       },
       {
-        "title": "如何使用imgAK",
-        "html": "<ul>\n<li><strong>访问官网</strong>：打开浏览器，访问imgAK官网 https://www.imgak.com/ ，进入 imgAK 网站。</li>\n<li><strong>选择功能</strong>：在官网首页，根据需求选择对应的功能模块。</li>\n<li><strong>上传图片</strong>：点击“上传图片”按钮，选择需要处理的图像文件，支持多种图片格式。</li>\n<li><strong>调整参数</strong>：部分功能支持参数调整，如修复强度、放大倍数、风格选择等。用户可以根据需求进行个性化设置，预览效果后确认。</li>\n<li><strong>开始处理</strong>：设置完成后，点击“提交创作”按钮，imgAK 将自动运用 AI 技术对图片进行处理，处理时间视图片大小和功能复杂度而定。</li>\n<li><strong>下载结果</strong>：处理完成后，imgAK 会显示处理后的图片效果，用户可以查看并下载高清结果图片，保存到本地设备。</li>\n<li><strong>分享或使用</strong>：用户可以将处理后的图片用于个人收藏、社交媒体分享、商业设计或其他创意项目中。</li>\n</ul>"
+        "title": "如何使用 imgAK",
+        "html": "<ol><li>打开 imgAK 官网，从首页或创作中心按任务挑工具，也可以直接用搜索框找具体功能。</li><li>做电商素材时先上传商品图，用 AI 商品套图与详情页一次生成整套视觉，再按需替换单张。</li><li>图片太小时先过一遍 AI 放大变高清。imgAK 官网提示：清晰原图可以用细微增强，低像素或噪点图用修复增强，严重模糊的素材先做深度修复再选输出倍率。</li><li>需要同一主体的多角度展示时使用 AI 物体多视角套图，上传 1 至 3 张参考图，按需选四视角总览或指定角度。</li><li>想沿用竞品或爆款版式时用爆款图复刻，上传参考图并选择复刻程度，画面文字按需要设置。</li><li>创意类需求走婚纱照、儿童写真或照片变卡通入口，上传照片后选风格生成。</li><li>导出前核对细节。imgAK 官网说明生成式修复可能推测缺失细节，重要文字、人物身份与商品标签需要人工核对；多视角结果也不是精确的 3D 或 CAD 数据，关键尺寸要另行确认。</li></ol>"
       },
       {
-        "title": "imgAK的核心优势",
-        "html": "<ul>\n<li><strong>一键高效</strong>：聚焦图像修复、增强与生成的核心场景，用一键式智能工具，帮普通人省时间、助设计师提效率，让AI真正服务于日常创作与生活。</li>\n<li><strong>细节专项优化</strong>：针对人脸、服饰、文字、边缘等细节进行专项优化，确保修复和放大后的图像在各个部分都自然、清晰。</li>\n<li><strong>高清输出</strong>：采用智能超分算法，可将图像无损放大至 16000px，输出 300DPI 的打印级高清图像，满足高分辨率需求。</li>\n<li><strong>多场景适配</strong>：适用于家庭用户修复老照片、电商卖家提升产品图清晰度、设计师翻新低清素材、内容创作者放大网络小图等多种场景。</li>\n<li><strong>高效处理能力</strong>：支持多图同步处理，大幅提升工作效率，适合批量处理老照片或电商产品图。</li>\n<li><strong>无需专业技能</strong>：用户无需掌握 Photoshop 等专业软件，无需具备复杂的图像处理知识，可轻松完成高质量的图像修复和优化。</li>\n<li><strong>全网页端操作</strong>：支持手机和电脑等多种设备，无需安装任何软件或插件，直接在网页上操作，方便快捷。</li>\n<li><strong>隐私保护</strong>：用户上传的图片经过加密处理，处理完成后自动删除，确保数据安全，用户无需担心隐私泄露。</li>\n</ul>"
-      },
-      {
-        "title": "imgAK的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>家庭用户</strong>：修复泛黄的老照片、童年照、结婚照等，让珍贵回忆重焕新生。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>电商卖家</strong>：提升模糊产品图的清晰度，优化商品展示效果，增强销售吸引力。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>设计师</strong>：快速翻新低清素材，避免重新拍摄，节省时间和成本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>内容创作者</strong>：将网络小图智能放大，用于视频制作、海报设计等，确保高清输出。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>文博爱好者</strong>：高清复原历史照片与文献，用于研究或展示，保留文化记忆。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>摄影爱好者</strong>：修复老胶卷或底片数字化后的瑕疵，提升照片整体质量。</div>\n</li>\n</ul>"
+        "title": "imgAK 的应用场景",
+        "html": "<ul><li><strong>电商上新与详情页制作</strong>：用 imgAK 批量产出主图、场景图与卖点图，缩短上新周期。</li><li><strong>商品图精修与白底处理</strong>：抠图、精修与光影调整都在同一平台完成。</li><li><strong>设计与建模参考</strong>：多视角套图适合作为商品展示、外观设计与建模的参考素材。</li><li><strong>低清素材抢救</strong>：老图、截图与压缩损伤严重的图片可以通过放大与修复流程改善。</li><li><strong>纪念照与创意写真</strong>：没有条件拍婚纱照或儿童写真时，可以用上传照片生成的方式进行尝试。</li><li><strong>营销海报与社媒配图</strong>：爆款图复刻与相似图创作适合需要持续出图的运营岗位。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "yunxiu-meitu-com",
@@ -9730,31 +9690,23 @@
     "domain": "fas.st",
     "detailed_content": [
       {
-        "title": "Pollo AI是什么",
-        "html": "<p>Pollo AI 是一站式 <a href=\"https://ai-bot.cn/best-ai-painting-tools/\" target=\"_blank\" rel=\"noopener\">AI 图像</a>与<a href=\"https://ai-bot.cn/ai-video-generation-tools/\" target=\"_blank\" rel=\"noopener\">视频创作</a>平台，Pollo AI 集成多种先进的 AI 模型，如 Pollo 2.5、<a href=\"https://ai-bot.cn/veo-3/\" target=\"_blank\" rel=\"noopener\">Veo 3</a> 等，支持从文本生成视频、图片转视频、视频风格转换等多种功能。用户能通过简单的文本提示或上传图片，快速生成高质量的视频和图像内容，支持使用 AI 视频编辑器、特效工具等增强创作效果。Pollo AI 提供丰富的创作模型和工具，适合创作者、企业和个人使用，帮助用户轻松实现创意表达。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-70439\" src=\"https://ai-bot.cn/wp-content/uploads/2026/01/Pollo-AI-website.png\"   alt=\"Pollo AI\" width=\"740\" height=\"416\" />"
+        "title": "Pollo AI 是什么",
+        "html": "<p>Pollo AI 把自己定义为面向创作者与营销团队的 AI 创意套件（AI creative suite），覆盖视频、图像、数字人与音频四类内容。官网的核心卖点是 multi-model freedom——同一个平台里汇集多家厂商的生成模型，用户不必在多个站点之间来回切换。</p><p>从导航结构看，Pollo AI 的主线包括 AI Video、AI Image、Agent、Marketing Studio、API、Mobile 与 Pricing。官网强调生成结果可以直接用于生产：分辨率最高支持 4K，同时提供可复用的资产管理和音频能力，把「生成」和「改到能用」放在同一条链路里。</p>"
       },
       {
-        "title": "Pollo AI的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">AI 视频生成</strong></div>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>文本转视频</strong>：将文字描述转化为生动的视频内容。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>图片转视频</strong>：将静态图片动画化，生成动态视频。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>视频转视频</strong>：将现有视频转换为不同的动画风格，如日漫、迪士尼风格等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI 视频编辑</strong>：通过文本提示快速编辑视频，调整场景、添加特效等。</div>\n</li>\n</ul>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">AI 图像生成</strong></div>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>文本转图像</strong>：根据文字描述生成高质量图像。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>图像转图像</strong>：对现有图像进行风格转换或重新创作。</div>\n</li>\n</ul>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI 动画生成</strong></div>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>AI 动画生成器</strong>：生成各种风格的动漫和卡通视频。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI 视频头像生成</strong>：将单张照片转化为长达两分钟的动态视频头像。</div>\n</li>\n</ul>\n</li>\n<li>\n<div class=\"paragraph\"><strong>特效与工具</strong></div>\n<ul>\n<li>\n<div class=\"paragraph\">提供超过 150 种视频和图片特效，如 AI 亲吻、AI 肌肉生成等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>视频工具</strong>：包括视频增强、视频转动漫、AI 视频滤镜等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>图像工具</strong>：支持<a href=\"https://ai-bot.cn/ai-image-background-removers/\" target=\"_blank\" rel=\"noopener\">背景移除</a>、对象移除、图像增强等功能。</div>\n</li>\n</ul>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多平台支持</strong><span style=\"font-size: 0.875rem;\">：提供网页版和移动应用，方便用户随时随地创作。</span></div>\n</li>\n</ul>"
+        "title": "Pollo AI 的主要功能",
+        "html": "<ul><li><strong>文生视频与图生视频</strong>：Pollo AI 提供 Text to Video、Image to Video 与 Reference to Video 三种输入方式。</li><li><strong>视频编辑与增强</strong>：包含 AI Video Editor、Video to Video、Mimic Motion、AI Video Upscaler、Video BG Remover 与 Video Extender。</li><li><strong>多模型可选</strong>：官网列出的视频模型包括 MiniMax H3、Wan 3.0、Seedance 2.5 与 2.0、Veo 3、Sora 2、Kling 3.0 与 Hailuo AI。</li><li><strong>数字人</strong>：AI Avatar Generator、AI Product Avatar 与 AI Talking Avatar 分别面向通用形象、商品展示和口播视频。</li><li><strong>音频能力</strong>：AI Voice Generator、AI Voice Cloning、Text to Speech 与 Sound Effect Generator。</li><li><strong>图像工具与模型</strong>：图像侧提供 Image to Image、AI Photo Editor、Watermark Remover、Magic Eraser、Image Upscaler、Background Remover、Face Swap 等；模型包括 GPT Image 2.5、Nano Banana 2、Seedream 5.0、Grok Imagine Image、Flux Kontext 等。</li><li><strong>专项生成器</strong>：Pollo AI 还提供美术、像素风、角色、标志、纹身、涂鸦与填色页等细分生成入口。</li><li><strong>Agent</strong>：官网称可以直接产出带音效、角色一致性良好的成片，无需再手工剪辑。</li></ul>"
       },
       {
-        "title": "如何使用Pollo AI",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>注册账号</strong>：访问 Pollo AI 官网 <a href=\"https://fas.st/t/nFLHVC4T\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >https://pollo.ai/</a> ，或下载Pollo AI应用，用邮箱或社交媒体账号完成注册。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择功能模块</strong>：根据需求选择 AI 视频生成、图像生成、视频编辑或动画生成等功能。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>上传素材</strong>：按提示上传图片、视频等素材，确保格式符合要求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>设置参数</strong>：选择生成风格、时长、分辨率等参数，调整生成效果。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>生成内容</strong>：点击“生成”，等待系统处理，生成时间视内容复杂度而定。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>下载或分享</strong>：生成后可下载内容，或直接分享到社交媒体。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>探索更多功能</strong>：尝试特效工具和视频增强等功能，进一步优化创作。</div>\n</li>\n</ul>"
+        "title": "如何使用 Pollo AI",
+        "html": "<ol><li>打开 Pollo AI 官网，先想清楚要做的是视频、图像还是音频，再进入对应栏目。</li><li>在视频栏目里按素材情况选输入方式：只有文字用 Text to Video，有图用 Image to Video，有参考片段用 Reference to Video。</li><li>选择模型。Pollo AI 把模型选择放在流程里，不同模型在画面风格、运动幅度和成本上差异明显。</li><li>生成后进入编辑环节，用 Video Extender 延长、用 Upscaler 提升分辨率，或用 Magic Eraser、Watermark Remover 处理瑕疵。</li><li>需要人物出镜的内容改用 Avatar 与 Voice 栏目，先定形象再配音。</li><li>批量做营销素材时用 Agent 或 Marketing Studio，先让它产出初版，再按需微调。</li><li>要接入自有系统时走 Pollo AI 的 API 入口。</li></ol>"
       },
       {
-        "title": "Pollo AI的使用示例",
-        "html": "<p><strong>AI视频</strong></p>\n<blockquote><p>Gigantic holographic koi fish glide silently above a cyber city. [cut] Koi swim through clouds and between towers[cut] Reflections ripple across glass buildings[cut] People below stop and look up.（巨大的全息锦鲤无声地滑过赛博城市上空。[镜头切换]锦鲤穿行云间，游弋于摩天楼群之中[镜头切换]玻璃建筑表面泛起粼粼波光倒影[镜头切换]下方驻足仰望的人群）</p></blockquote>\n<img decoding=\"async\" class=\"alignnone wp-image-70441\" src=\"https://ai-bot.cn/wp-content/uploads/2026/01/Pollo-AI-website4-1.png\"   alt=\"Pollo AI\" width=\"740\" height=\"416\" />\n<p><strong>AI图像</strong></p>\n<blockquote><p>A single piece of nigiri rests on a stark black plate, but instead of fish, the topping is a calm ocean horizon at sunset. Waves subtly move within the slice. The sushi represents origin, balance, and impermanence rather than food. Minimal composition, poetic realism.（）一块手握寿司置于纯黑餐盘中，顶上却非鱼生，而是一片日落时分静谧的海平线。寿司饭中，微澜暗涌。这并非食物，而是源起、平衡与无常的隐喻。极简构图，诗意写实。）</p></blockquote>\n<img decoding=\"async\" class=\"alignnone wp-image-70447\" src=\"https://ai-bot.cn/wp-content/uploads/2026/01/Pollo-AI-website9.png\"   alt=\"Pollo AI\" width=\"740\" height=\"732\" />\n<p><strong>AI 头像生成</strong></p>\n<blockquote><p>the woman said: Bonne année !这位女士说：新年快乐！</p></blockquote>\n<ul>\n<li><strong>参考图</strong></li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-70448\" src=\"https://ai-bot.cn/wp-content/uploads/2026/01/Pollo-AI-website11.png\"   alt=\"Pollo AI\" width=\"740\" height=\"416\" />\n<ul>\n<li><strong>生成视频</strong></li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-70446\" src=\"https://ai-bot.cn/wp-content/uploads/2026/01/Pollo-AI-website8.png\"   alt=\"Pollo AI\" width=\"740\" height=\"420\" />"
-      },
-      {
-        "title": "Pollo AI的产品定价",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>免费计划</strong>：每月0美元，包括20个积分，最多2个视频，最多20张图片，1个并行任务，一体化多模型支持，文本/图像/视频转视频，AI头像生成器，AI动画生成器，文本/图像/聊天转图像，300+模板和效果，100+ AI图像和视频工具，3k+自定义LoRA模型，互动社区，带水印输出，以及常规支持。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">专业计划</strong>：每月14.5美元（限时5折优惠，按年计费），包括每月800个积分，每月最多80个视频，每月最多800张图片，3个并行任务，一体化多模型支持，文本/图像/视频转视频，AI头像生成器，AI短视频生成器，参考视频，AI动画生成器，文本/图像/聊天转图像，300+模板和效果，100+ AI图像和视频工具，3k+自定义LoRA模型，互动社区，更快的生成速度，无水印输出，更多的相机运动选项，私人视频可见性，版权保护，以及优先支持。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>精简计划</strong>：每月10美元（按年计费），包括每月300个积分，每月最多30个视频，每月最多300张图片，2个并行任务，一体化多模型支持，文本/图像/视频转视频，AI头像生成器，AI短视频生成器，参考视频，AI动画生成器，文本/图像/聊天转图像，300+模板和效果，100+ AI图像和视频工具，3k+自定义LoRA模型，互动社区，更快的生成速度，无水印输出，更多的相机运动选项，私人视频可见性，版权保护，以及优先支持。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "Pollo AI的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>内容创作</strong>：创作者能快速生成视频和图像内容，用于社交媒体、博客、视频频道等，节省时间和精力。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>广告与营销</strong>：企业能用 AI 生成吸引人的广告视频和图像，用于产品推广和品牌宣传。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教育与培训</strong>：平台能生成教育视频和动画，帮助学生更好地理解和记忆知识，提升学习体验。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>娱乐与影视</strong>：用户能制作动画短片、音乐视频或特效视频，为影视制作提供创意灵感和初步素材。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>个人娱乐</strong>：用户可以为自己或朋友生成有趣的视频和图像，如 AI 合成的明星合影、特效视频等。</div>\n</li>\n</ul>"
+        "title": "Pollo AI 的应用场景",
+        "html": "<ul><li><strong>社媒与短视频内容</strong>：用同一套 Pollo AI 流程产出竖屏短片、动画与解说类视频。</li><li><strong>电商与商品营销</strong>：用 Product Avatar 和商品图生成功能制作展示素材。</li><li><strong>广告与品牌campaign</strong>：Pollo AI 的 Marketing Studio 面向的是需要持续出量的营销团队。</li><li><strong>口播与讲解视频</strong>：用 Talking Avatar 配合语音克隆，减少真人反复录制。</li><li><strong>素材修复与复用</strong>：把低分辨率或带水印的旧素材用 Pollo AI 的增强与擦除工具处理后再使用。</li><li><strong>多模型对比选型</strong>：需要在同一需求下试不同厂商模型时，聚合平台比逐个注册更省事。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "xingyun3d-com",
@@ -10032,27 +9984,23 @@
     "domain": "vidu.cn",
     "detailed_content": [
       {
-        "title": "Vidu是什么",
-        "html": "<p>Vidu是生数科技推出的<a href=\"https://ai-bot.cn/ai-video-generation-tools/\" target=\"_blank\" rel=\"noopener\">AI视频生成平台</a>，集成<a href=\"https://ai-bot.cn/vidu-q2/\" target=\"_blank\" rel=\"noopener\">Vidu Q2</a>、<a href=\"https://ai-bot.cn/vidu-q3/\" target=\"_blank\" rel=\"noopener\">Vidu Q3</a>等先进模型，支持图生视频、文生视频和参考生视频功能。用户能通过上传图片、输入文字或参考视频生成具有细腻表情和生动演技的数字角色视频。Vidu Q3使平台能一次性同步生成画面、对白、环境音效与 BGM，无需后期制作。平台提供专业模式，支持自定义视频时长、清晰度等参数，且配备丰富的AI模板和音效库。Vidu设有活动专区，支持用户参与活动赢取积分和和现金奖励，增加互动性和趣味性。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-65105\" src=\"https://ai-bot.cn/wp-content/uploads/2025/10/Vidu-website.png\"   alt=\"Vidu\" width=\"740\" height=\"416\" />"
+        "title": "Vidu 是什么",
+        "html": "<p>Vidu 是一个国产 AI 视频生成平台，官网把它描述为「全球领先的 AI 内容生产平台」，并强调自己是国内首个纯自研的 AI 视频生成模型。它的核心能力是把文字和图像转成高质量动态视频，同时保持主体一致性——也就是同一角色或物体在镜头之间不跑形。</p><p>Vidu 官网给出的使用路径是三步生成创意视频，并配套推出 Vidu APP、AI 模板、订阅套餐与 API 开放平台。官方还提到支持 16 秒音画同出，覆盖社交媒体与电子商务场景，并提供智能切镜能力。</p>"
       },
       {
-        "title": "Vidu的主要功能",
-        "html": "<ul>\n<li><strong>文本转视频</strong>：用户只需输入文字描述，Vidu 能将其转化为生动的视频内容。</li>\n<li><strong>图片转视频</strong>：上传静态图片后，Vidu 可将其动态化，生成具有动画效果的视频。</li>\n<li><strong>参考视频生成</strong>：用户上传参考视频或图片，Vidu 能根据其风格、主体特征生成一致性的视频。</li>\n<li><strong>多主体一致性</strong>：支持在视频中保持多个主体的一致性，适用于复杂场景的创作。</li>\n<li><strong>高质量视频输出</strong>：可生成长达 16 秒、分辨率高达 1080P 的高清视频。</li>\n<li><strong>动态场景捕捉与物理模拟</strong>：能够生成复杂的动态场景，模拟真实世界的光影效果和物体物理行为。</li>\n<li><strong>丰富的创意生成</strong>：基于文本描述，可创造出充满想象力的超现实场景。</li>\n<li><strong>智能超清功能</strong>：对已生成的视频进行自动修复和清晰度提升。</li>\n<li><strong>丰富的参数配置</strong>：用户可自定义视频的风格、时长、清晰度、运动幅度等。</li>\n<li><strong>多镜头生成</strong>：支持生成包含远景、近景、中景、特写等多种镜头的视频，有丰富的视角和动态效果。</li>\n<li><strong>中国元素理解</strong>：能理解并生成具有中国特色的元素，如熊猫、龙等，丰富文化表达。</li>\n<li><strong>快速推理速度</strong>：实测生成4秒视频片段只需约30秒，提供行业领先的生成速度。</li>\n<li><strong>风格多样</strong>：支持多种视频风格，包括写实和动漫风格，满足不同用户需求。</li>\n<li>\n<div class=\"paragraph\"><strong>AI模板</strong>：Vidu的AI模板功能为用户提供一系列预设的视频模板，简化视频创作过程，加快生产效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI音效</strong>：Vidu集成AI生成的音效库，用户能为视频添加合适的音效，增强视听效果。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>参考生图</strong>：上传参考图片（支持多图元素参考），让 AI 基于这些元素生成新图片，实现角色一致性或风格迁移。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>文生图片</strong>：直接输入文字描述，AI 从零生成符合描述的原创图片，无需任何参考素材。</div>\n</li>\n</ul>"
+        "title": "Vidu 的主要功能",
+        "html": "<ul><li><strong>文生视频</strong>：直接用文字描述生成视频片段。</li><li><strong>图生视频</strong>：以图片为起点生成动态内容，适合已有分镜或商品图的场景。</li><li><strong>参考生视频</strong>：Vidu 的特色能力之一，用参考素材约束主体，官方与用户都把它视为保持角色一致性的关键。</li><li><strong>图像生成</strong>：包含参考生图与文生图片两类能力。</li><li><strong>Vidu Q3</strong>：官网列出的视频模型版本。</li><li><strong>Vidu Agent</strong>：从一句话出发、全程协作完成作品的智能体入口。</li><li><strong>实时交互模型</strong>：官网称其为全球首个实时交互模型，毫秒级响应，边说边生成。</li><li><strong>智能切镜</strong>：一键完成镜头切换，官网提到 16 秒音画同出。</li><li><strong>配套资源</strong>：提供 AI 模板、创作社区、教程与 API 开放平台，另有企业服务入口。</li></ul>"
       },
       {
-        "title": "Vidu的技术原理",
-        "html": "<ul>\n<li><strong>Diffusion技术</strong>：Diffusion是一种生成模型技术，通过逐步引入噪声并学习如何逆转这个过程来生成高质量的图像或视频。Vidu利用Diffusion技术生成连贯且逼真的视频内容。</li>\n<li><strong>Transformer架构</strong>：Transformer是一种深度学习模型，最初用于自然语言处理任务，因其强大的性能和灵活性，后来被广泛应用于计算机视觉等领域。Vidu结合了Transformer架构来处理视频数据。</li>\n<li><strong>U-ViT架构</strong>：U-ViT是Vidu技术架构的核心，是一种将Diffusion与Transformer融合的创新架构。U-ViT由生数科技团队提出，是全球首个此类融合架构，它结合了Diffusion模型的生成能力和Transformer模型的感知能力。</li>\n<li><strong>多模态扩散模型UniDiffuser</strong>：UniDiffuser是生数科技基于U-ViT架构开发的多模态扩散模型，验证了U-ViT架构在处理大规模视觉任务时的可扩展性。</li>\n<li><strong>长视频表示与处理技术</strong>：Vidu在U-ViT架构的基础上，进一步突破了长视频表示与处理的关键技术，Vidu能够生成更长、更连贯的视频内容。</li>\n<li><strong>贝叶斯机器学习</strong>：贝叶斯机器学习是一种统计学习方法，通过贝叶斯定理来更新模型的概率估计。Vidu在开发过程中，团队利用了贝叶斯机器学习的技术来优化模型性能。</li>\n</ul>"
+        "title": "如何使用 Vidu",
+        "html": "<ol><li>打开 Vidu 官网并登录，可以先从「立即体验」进入在线创作，也可以下载 Vidu APP。</li><li>按素材情况选择生成方式：只有文字就用文生视频，已有画面用图生视频，需要锁定角色形象时用参考生视频。</li><li>准备提示词与参考素材，把主体特征、镜头运动和画面氛围描述清楚。</li><li>生成后检查主体一致性，这是 Vidu 官方强调的优化方向，也是判断结果是否可用的主要标准。</li><li>需要更长内容时使用智能切镜把多段画面衔接起来，并结合音画同出能力处理声音。</li><li>想减少手工操作时改用 Vidu Agent，用一句话说清需求，由它调度后续步骤。</li><li>需要批量或集成到自有系统时，接入 Vidu 的 API 开放平台；新手可以先看官网教程与模板。</li></ol>"
       },
       {
-        "title": "如何使用Vidu",
-        "html": "<ul>\n<li><strong>注册和登录</strong>：访问Vidu官网（vidu.cn）或下载<a href=\"https://ai-bot.cn/app/48759.html\" target=\"_blank\" rel=\"noopener\">Vidu APP</a>，注册账号并登录。</li>\n<li><strong>选择生成模式</strong>：在页面上选择“文生视频”或“图生视频”模式。</li>\n<li><strong>文生视频（Text-to-Video）</strong>：用户输入文本描述，Vidu根据文本内容生成视频。适合从零开始创造视频内容。</li>\n<li><strong>图生视频（Image-to-Video）</strong>：用户上传图片，Vidu基于图片内容生成视频。有两种子模式：\n<ul>\n<li>>”参考起始帧”：使用上传的图片作为视频的起始帧，并基于此生成视频。</li>\n<li>“参考人物角色”：识别图片中的人物，并在生成的视频中保持该人物的一致性。</li>\n</ul>\n</li>\n<li><strong>输入文本或上传图片</strong>：\n<ul>\n<li>对于文生视频，输入详细的描述性文本，包括场景、动作、风格等。</li>\n<li>对于图生视频，上传一张图片，并选择相应的生成模式。</li>\n</ul>\n</li>\n<li><strong>调整生成参数</strong>：根据需要调整视频的时长、分辨率、风格等参数。</li>\n<li><strong>生成视频</strong>：点击生成按钮，Vidu将处理输入的文本或图片，开始生成视频。</li>\n</ul>"
-      },
-      {
-        "title": "Vidu的适用人群",
-        "html": "<ul>\n<li><strong>视频制作人员</strong>：包括电影制作人、广告创意人员、视频编辑等，可以利用Vidu快速生成创意视频内容。</li>\n<li><strong>游戏开发者</strong>：在游戏设计中需要生成逼真的动态背景或剧情动画的游戏开发者。</li>\n<li><strong>教育机构</strong>：教师和教育技术公司可以利用Vidu制作教育视频、模拟教学场景或科学可视化内容。</li>\n<li><strong>科研人员</strong>：科研领域中的研究人员可以使用Vidu模拟实验场景，帮助展示和理解复杂概念。</li>\n<li><strong>内容创作者</strong>：社交媒体影响者、博客作者和独立视频制作者可以利用Vidu生成有吸引力的视频内容。</li>\n</ul>"
+        "title": "Vidu 的应用场景",
+        "html": "<ul><li><strong>社媒与电商内容</strong>：Vidu 官网把社交媒体和电子商务列为 16 秒音画同出的主要适用场景。</li><li><strong>动画与短片创作</strong>：参考生视频主要用于解决角色一致性问题，适合做有连续角色的动画。</li><li><strong>广告与宣传片</strong>：官网的「影视叙事」方向覆盖动画、真人、广告与短片等形态。</li><li><strong>互动式内容实验</strong>：实时交互模型适合需要即时响应反馈的创作尝试。</li><li><strong>企业内容中台</strong>：有开发能力的团队可以通过 API 开放平台把 Vidu 的视频能力接入内部生产流程。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "rhtv-runninghub-cn",
@@ -10300,35 +10248,23 @@
     "domain": "juhuo.cn",
     "detailed_content": [
       {
-        "title": "剧火AI是什么",
-        "html": "<p>剧火AI是面向AI短剧创作者的一站式创作Agent，定位为”AI 编剧 + 导演，一人短剧工作室”。用户只需提供一句话想法、一部小说或一份剧本，AI Agent 可自动完成从剧本策划、分镜设计、角色场景搭建到视频合成、配音配乐的全流程，将传统需要团队数周完成的短剧制作压缩至分钟级，一个人一天可完成一部完整短剧。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-76596\" src=\"https://ai-bot.cn/wp-content/uploads/2026/05/juhuo-website.png\"   alt=\"剧火AI\" width=\"740\" height=\"416\" />"
+        "title": "剧火AI 是什么",
+        "html": "<p>剧火AI 是一个面向 AI 短剧创作的一站式制作平台，官网把自己的定位写成「AI 编剧 + 导演，一人短剧工作室」。按官网说明，剧火AI 支持 AI 漫剧与 AI 仿真人剧两条创作方向：用户给出一个想法或一篇小说，平台内置的剧火 Agent 负责策划剧本、拆解分镜、搭建角色与场景，最后调用视频生成模型合成成片。</p><p>剧火AI 官方表示自己是国内首批接入字节跳动 Seedance 2.0 视频生成模型的短剧制作平台。官网同时注明，Agent 创作、全能画板、模型生成等核心能力针对桌面端做过深度优化，并建议在电脑端体验完整功能；当前页面标注为公测中。</p>"
       },
       {
-        "title": "剧火AI的主要功能",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>AI 编剧</strong>：输入一句话创意或上传小说/剧本文件，自动生成包含角色设定、场景描述和分集剧情的结构化剧本，支持都市、古风、悬疑、甜宠等近 20 种热门题材。</li>\n<li class=\"paragraph\"><strong>AI 导演与分镜</strong>：根据剧本自动拆解逐镜头分镜，规划画面构图、角色站位、镜头运动和转场效果，按”铺垫-触发-高潮-收尾-悬念”五节点组织每场结构。</li>\n<li class=\"paragraph\"><strong>角色与场景搭建</strong>：内置虚拟演员肖像库，支持 AI 自动生成角色形象与场景背景；提供角色多视角定妆照与场景概念设计稿，确保全剧视觉统一。</li>\n<li class=\"paragraph\"><strong>Seedance 2.0 视频合成</strong>：首批接入字节<a href=\"https://ai-bot.cn/seedance-2-0/\" target=\"_blank\" rel=\"noopener\"> Seedance 2.0</a> 模型，将分镜合成为高质量连贯视频，人物一致性与动作流畅度达到业界领先，画面质感接近真人拍摄。</li>\n<li class=\"paragraph\"><strong>悬疑链视图</strong>：从整部剧结构层面梳理起承转合，可视化展示”本集尾钩 → 下集开场承接 → 未解答悬念”的跨集衔接，方便把控叙事节奏。</li>\n<li><strong>AI 配音配乐</strong>：内置配音与配乐能力，输出可直接发布至抖音、快手、小红书等平台的竖屏高清成片。</li>\n<li class=\"paragraph\"><a href=\"https://ai-bot.cn/ai-video-generation-tools/\" target=\"_blank\" rel=\"noopener\"><strong>AI 视频</strong></a>：调用 Seedance 2.0 等模型，将分镜或图片转化为高质量连贯视频，支持仿真人剧与漫剧两种风格。</li>\n<li class=\"paragraph\"><a href=\"https://ai-bot.cn/best-ai-painting-tools/\" target=\"_blank\" rel=\"noopener\"><strong>AI 图片</strong></a>：支持角色形象生成、场景概念设计、道具绘制等，为短剧提供统一的视觉资产。</li>\n<li class=\"paragraph\"><a href=\"https://ai-bot.cn/ai-voice-cloning-tools/\" target=\"_blank\" rel=\"noopener\"><strong>音色克隆</strong></a>：克隆特定人声音色，用于短剧角色配音，保证全剧配音风格一致。</li>\n<li class=\"paragraph\"><strong>视频高清化</strong>：对生成的视频进行画质增强与分辨率提升，输出竖屏高清成片。</li>\n<li class=\"paragraph\"><strong>一键去字幕</strong>：自动去除视频中的原有字幕，便于二次剪辑或重新配字幕后发布。</li>\n</ul>"
+        "title": "剧火AI 的主要功能",
+        "html": "<ul><li><strong>AI 短剧 Agent</strong>：上传剧本或小说，由剧火AI 的 Agent 自动完成策划与制作。</li><li><strong>全能画板</strong>：把视频、图片、音频模型集中在一个工作台里调用。</li><li><strong>AI 编剧</strong>：输入一句想法或上传小说，自动生成包含角色设定、场景描述与分集剧情的短剧剧本，官网列举了都市、古风、悬疑、甜宠等题材方向。</li><li><strong>AI 导演与分镜</strong>：根据剧本自动拆解分镜，规划每一幕的画面构图、角色站位、镜头运动与转场效果。</li><li><strong>角色与场景搭建</strong>：可从内置虚拟演员肖像库中选角，也可由 AI 生成角色形象与场景背景；AI 漫剧支持多种漫画画风。</li><li><strong>Seedance 2.0 视频合成</strong>：将分镜画面合成为连贯视频，官网称该模型在人物一致性与动作流畅度上表现突出。</li><li><strong>AI 视频与 AI 图片</strong>：支持文生视频、图生视频，以及高保真文生图与风格统一的角色形象。</li><li><strong>音色克隆</strong>：用少量样本即可定制专属配音音色。</li><li><strong>画质增强</strong>：老视频高清化，以及智能去字幕、去水印。</li></ul>"
       },
       {
-        "title": "如何使用剧火AI",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>输入创意</strong>：访问剧火AI官网 https://juhuo.cn/，在输入框描述故事想法，或上传 .txt/.docx/.md/.pdf 格式的小说/剧本文件，选择 AI 漫剧或 AI 仿真人剧赛道及视觉风格。</li>\n<li class=\"paragraph\"><strong>AI 策划剧本与分镜</strong>：AI 自动生成项目概览、角色小传、分集大纲和逐场剧本；可通过对话随时调整台词、语气、神态动作，确认后进入分镜与资产生成环节。</li>\n<li class=\"paragraph\"><strong class=\"\">一键生成短剧视频</strong>：AI 自动完成角色形象生成、场景绘制，调用 Seedance 2.0 合成视频并配合 AI 配音配乐，输出竖屏高清成片，可直接发布。</li>\n</ul>\n<div>"
+        "title": "如何使用 剧火AI",
+        "html": "<ol><li>在电脑端打开剧火AI 官网并登录账号。</li><li>进入 AI 短剧创作入口，在输入框里描述故事构思，可以是一句话创意，也可以是完整大纲。</li><li>或者跳过输入环节，直接上传已有的剧本或小说文件——剧火AI 官网说明支持 .txt、.docx、.md 以及文本型 .pdf 格式。</li><li>交给 Agent 分析：它会生成结构化剧本、角色设定、场景描述和逐镜头分镜脚本。</li><li>确认或调整角色形象与场景画面，需要漫画风格或写实风格在这里定方向。</li><li>触发视频合成，由剧火AI 调用 Seedance 2.0 等模型生成画面，并配合 AI 配音配乐。</li><li>导出成片，用于发布到抖音、快手等短视频平台。</li></ol>"
       },
       {
-        "title": "剧火AI的关键信息和使用要求",
-        "html": "<ul>\n<li><strong>产品名称</strong>：剧火AI</li>\n<li><strong>产品定位</strong>：AI 编剧 + 导演，一人短剧工作室</li>\n<li><strong>核心模型</strong>：字节跳动 Seedance 2.0</li>\n<li><strong>支持类型</strong>：AI 漫剧（漫画风格）、AI 仿真人剧（写实风格）</li>\n<li><strong>输入格式</strong>：一句话创意 / .txt / .docx / .md / 文本型 PDF</li>\n<li><strong>计费模式</strong>：算力点计费，按实际消耗扣除，无月费/年费</li>\n<li><strong>商用权限</strong>：生成视频拥有使用权，可发布至短视频平台</li>\n<li><strong>仿真人剧要求</strong>：需认证为 B 端用户并签署真人形象使用免责协议</li>\n<li><strong>制作效率</strong>：1 人 1 天约可完成 30 集短剧</li>\n</ul>"
-      },
-      {
-        "title": "剧火AI的核心优势",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>首批接入 Seedance 2.0</strong>：国内首批深度集成该模型的短剧平台，AI 仿真人剧画面质感业界领先。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>全流程一站式闭环</strong>：覆盖编剧、导演、分镜、合成、配音配乐，无需在多工具间来回切换。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>角色一致性高</strong>：通过资产前置与 Extend 技术，确保整部剧角色造型、服装、场景风格统一。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>分钟级出片</strong>：将完整短剧从创意到成片压缩至分钟级，产能较传统制作提升一个数量级。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>零门槛创作</strong>：无需编剧、导演、剪辑经验，无需专业设备，一句话即可启动制作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>悬疑链全局视角</strong>：独有的跨集悬念可视化，帮助创作者检查叙事节奏是否断裂。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "剧火AI的同类竞品对比",
-        "html": "<table data-v-e7c0e5f5=\"\">\n<thead data-v-e7c0e5f5=\"\">\n<tr data-v-e7c0e5f5=\"\">\n<th align=\"left\" data-v-e7c0e5f5=\"\">对比维度</th>\n<th align=\"left\" data-v-e7c0e5f5=\"\">剧火AI</th>\n<th align=\"left\" data-v-e7c0e5f5=\"\"><a href=\"https://ai-bot.cn/sites/13002.html\" target=\"_blank\" rel=\"noopener\">可灵AI</a> / <a href=\"https://ai-bot.cn/sites/17772.html\" target=\"_blank\" rel=\"noopener\">即梦</a></th>\n<th align=\"left\" data-v-e7c0e5f5=\"\">传统短剧制作</th>\n</tr>\n</thead>\n<tbody data-v-e7c0e5f5=\"\">\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">AI 编剧（剧本自动生成）</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">✓ 全链路 Agent</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">✗ 仅视频生成</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">✗ 人工编剧</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">AI 导演（分镜自动拆解）</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">✓ 智能分镜</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">✗</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">✗ 人工分镜</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">角色一致性保持</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">✓ 虚拟演员库 + Extend</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">△ 有限</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">✓ 真人演员</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">视频生成模型</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">✓ Seedance 2.0 深度集成</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">✓ 自研模型</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">✗ 不适用</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\">AI 漫剧制作</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">✓ 多种漫画风格</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">△ 部分支持</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">✗</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\">AI 仿真人剧制作</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">✓ 全集成片</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">△ 仅生成片段</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">✗</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\">AI 配音配乐</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">✓ 内置</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">✗</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">✗ 需外包</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">从想法到成片</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">✓ 一站式自动</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">✗ 需多工具拼接</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">✗ 需完整团队</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">制作成本</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">低（约 1.5 万/20 集）</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">中（约 1.19 元/秒）</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">高（40–70 万/部）</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">制作周期</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">分钟级</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">数小时（仅视频）</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">数天至数周</td>\n</tr>\n</tbody>\n</table>"
-      },
-      {
-        "title": "剧火AI的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>个人短剧创作者</strong>：无需团队和专业设备，一人即可完成从编剧到成片的全流程，大幅降低创作门槛。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>网文小说影视化</strong>：将 .txt/.docx/.pdf 格式小说快速改编为结构化短剧剧本并一键成片，实现网文 IP 的高效影视化转化。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>MCN 机构批量生产</strong>：用 AI 处理编剧、分镜、合成等重复性工作，团队专注于创意与质量把控，短剧产能提升数倍。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>抖音/快手/小红书内容运营</strong>：生成竖屏高清短剧，直接适配主流短视频平台的内容规格与发布需求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>悬疑/古风/甜宠等题材试水</strong>：通过低成本的 AI 短剧快速验证内容方向与市场反馈，降低试错成本。</div>\n</li>\n</ul>\n</div>"
+        "title": "剧火AI 的应用场景",
+        "html": "<ul><li><strong>个人短剧创作者</strong>：剧火AI 官网称无需团队与专业设备，一个人即可走完从编剧到成片的全流程。</li><li><strong>AI 漫剧方向</strong>：把故事想法转成漫画风格的竖屏短剧，官网点名适合发布在抖音、快手、小红书。</li><li><strong>AI 仿真人剧方向</strong>：追求写实人物与接近真人拍摄的画面质感时使用。</li><li><strong>内容团队批量生产</strong>：官网把「个人创作或团队批量生产」都列在适用范围内。</li><li><strong>存量素材翻新</strong>：借助画质增强把老视频高清化，或做去字幕、去水印处理。</li></ul><p>需要注意，使用剧火AI 生成的短剧涉及人物形象与素材版权，发布前建议按目标平台的规则自行核对授权范围。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "vibepaper-ai-com",
@@ -10500,11 +10436,23 @@
     "domain": "pexo.ai",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<h2 class=\"\">Pexo是什么</h2>\n<p>Pexo 是 <a href=\"https://ai-bot.cn/ai-video-generation-tools/\" target=\"_blank\" rel=\"noopener\">AI 视频</a>创作Agent，个人专属的 AI 视频伙伴。用户无需写复杂提示词，AI能自动完成脚本、分镜、配音、剪辑全流程，交付可直接发布的完整视频。Pexo 支持图生视频、文生视频、虚拟人等功能，单次最长生成2分钟。Pexo已接入<a href=\"https://ai-bot.cn/sites/70880.html\" target=\"_blank\" rel=\"noopener\">OpenClaw</a>，支持在飞书/钉钉里调用，适合制作产品广告、UGC种草、品牌宣传片、动漫短剧、音乐MV等内容。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-74008\" src=\"https://ai-bot.cn/wp-content/uploads/2026/03/Pexo-website.png\"   alt=\"Pexo\" width=\"740\" height=\"416\" />\n<h2 class=\"\">Pexo的主要功能</h2>\n<ul>\n<li class=\"paragraph\"><strong>交互方式</strong>：支持自然语言交互，用户无需编写复杂提示词，像聊天一样描述需求可生成视频。</li>\n<li class=\"paragraph\"><strong class=\"\">智能规划</strong>：Pexo具备主动规划能力，能在用户描述过程中自动构建故事板、挑选参考素材并提供创意方向。</li>\n<li class=\"paragraph\"><strong>完整交付</strong>：Pexo支持交付完整成片、，包含脚本、分镜、配音、转场和背景音乐等所有元素。</li>\n<li class=\"paragraph\"><strong>创作模式</strong>：平台支持文生视频、图生视频、虚拟人形象和音频驱动视频等多种创作模式。</li>\n<li class=\"paragraph\"><strong>精准编辑</strong>：用户可通过时间轴标记对视频进行精准修改，圈出特定区域提出调整需求。</li>\n<li class=\"paragraph\"><strong>记忆能力</strong>：Pexo拥有上下文记忆功能，能够记住用户的创作偏好和审美习惯，实现越用越懂你的个性化体验。</li>\n<li class=\"paragraph\"><strong>接入方式</strong>：Pexo已接入OpenClaw，用户可在飞书、钉钉等对话平台直接调用其功能。</li>\n<li class=\"paragraph\"><strong>技术规格</strong>：单次最长可生成2分钟视频，支持16:9、9:16、1:1等多种常见视频比例。</li>\n</ul>\n<h2 class=\"\">Pexo的关键信息和使用要求</h2>\n<ul>\n<li class=\"paragraph\"><strong class=\"\">产品背景</strong>：Pexo由前Vidu团队成员开发，是AI视频创作Agent，定位为”个人AI视频伙伴”。</li>\n<li class=\"paragraph\"><strong class=\"\">核心优势</strong>：支持无需复杂提示词，像聊天一样描述需求可完成视频创作。</li>\n<li class=\"paragraph\"><strong>生成规格</strong>：支持单次最长生成2分钟视频，支持16:9、9:16、1:1三种比例。</li>\n<li class=\"paragraph\"><strong>使用门槛</strong>：需在官网注册账号获取API Key，新用户首次登录赠送2个额外项目额度。</li>\n<li class=\"paragraph\"><strong>接入方式</strong>：平台已上线ClawHub，可在飞书/钉钉等OpenClaw对话平台直接调用。</li>\n</ul>\n<h2 class=\"\">Pexo的核心优势</h2>\n<ul>\n<li class=\"paragraph\"><strong>零门槛交互</strong>：无需学习提示词工程，像聊天一样自然描述需求可生成视频。</li>\n<li class=\"paragraph\"><strong>主动智能</strong>：不等用户指令，提前构建故事板、挑选参考素材、提供创意方向。</li>\n<li class=\"paragraph\"><strong>完整交付</strong>：平台输出的是剪辑好的完整成片，非需要后期拼接的5秒片段。</li>\n<li class=\"paragraph\"><strong>精准可控</strong>：支持时间轴标记修改，圈出具体区域提出调整需求，定位准确。</li>\n<li class=\"paragraph\"><strong>上下文记忆</strong>：平台能记住用户偏好、确认过的风格、调整方向，越用越懂你，创作效率持续提升。</li>\n<li class=\"paragraph\"><strong>多模态输入</strong>：支持文字、图片、视频、音频多种素材形式，灵活组合创作。</li>\n<li class=\"paragraph\"><strong>全流程自动化</strong>：支持自动完成脚本、分镜、画面生成、配音、转场、背景音乐等所有环节。</li>\n</ul>\n<h2 class=\"\">如何使用Pexo</h2>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>登录</strong>：访问 Pexo 官网 https://pexo.ai ，使用谷歌邮箱注册登录。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>输入需求</strong>：在对话框中用自然语言描述视频想法，可上传人物或产品图片作为参考。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>确认方案</strong>：Pexo 会提供视频时长和画面比例的制作建议供用户确认。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择创意</strong>：AI 生成两个概念视频方向，可选其一或要求结合两者。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>预览修改</strong>：在时间轴上逐帧查看视频，用 Batch Feedback 功能圈出画面并输入修改意见。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>生成成片</strong>：AI 自动渲染最终视频，包含配音、背景音乐和特效，无需二次剪辑。</div>\n</li>\n</ul>\n<h2 class=\"\">Pexo的同类竞品对比</h2>\n<table data-v-5c5bdb04=\"\">\n<thead data-v-5c5bdb04=\"\">\n<tr data-v-5c5bdb04=\"\">\n<th align=\"left\" data-v-5c5bdb04=\"\">对比维度</th>\n<th align=\"left\" data-v-5c5bdb04=\"\">Pexo</th>\n<th align=\"left\" data-v-5c5bdb04=\"\"><a href=\"https://ai-bot.cn/sites/13002.html\" target=\"_blank\" rel=\"noopener\">可灵AI</a></th>\n<th class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><a href=\"https://ai-bot.cn/sites/13002.html\" target=\"_blank\" rel=\"noopener\">即梦AI</a></th>\n</tr>\n</thead>\n<tbody data-v-5c5bdb04=\"\">\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong class=\"\" data-v-5c5bdb04=\"\">交互方式</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">自然语言对话，零提示词门槛</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">传统指令式，需学习成本</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">功能全面但需熟悉操作</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">主动规划</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">✅ 自动构建故事板、提供创意方向</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">❌ 按指令执行</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">❌ 按指令执行</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">交付形式</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">完整成片（含脚本、配音、剪辑）</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">视频片段</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">视频片段</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">修改方式</strong></td>\n<td align=\"left\" data-v-5c5bdb04=\"\">对话式迭代+时间轴精准标记</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">重新生成或基础编辑</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">重新生成或基础编辑</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">上下文记忆</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">✅ 记住用户偏好，越用越懂</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">❌ 无记忆功能</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">❌ 无记忆功能</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">单次时长</strong></td>\n<td align=\"left\" data-v-5c5bdb04=\"\">最长2分钟</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">最长3分钟</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">最长12秒</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">核心优势</strong></td>\n<td align=\"left\" data-v-5c5bdb04=\"\">零门槛、全流程自动化、Agent化体验</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">表现力最强、3分钟超长视频</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">功能均衡、生态整合抖音系</td>\n</tr>\n</tbody>\n</table>\n<h2 class=\"\">Pexo的应用场景</h2>\n<ul>\n<li class=\"paragraph\"><strong>产品广告</strong>：上传产品图片和人物图片，Pexo能自动生成包含分镜设计、背景音乐和镜头语言的完整TVC广告片。</li>\n<li class=\"paragraph\"><strong>UGC视频</strong>：平台能制作具有真实感”随手拍”风格的用户体验视频，支持中文口播与人物口型精准同步。</li>\n<li class=\"paragraph\"><strong>品牌宣传片</strong>：结合品牌元素与创意概念，制作具有反差萌或情感共鸣的品牌故事短片。</li>\n<li class=\"paragraph\"><strong>动漫短剧</strong>：用文字描述即可生成带完整剧情的动漫视频，人物表情自然生动，叙事节奏流畅。</li>\n<li class=\"paragraph\"><strong>音乐MV</strong>：上传音频文件后，AI自动识别歌词含义和情绪氛围，生成与之匹配的视觉画面。</li>\n<li class=\"paragraph\"><strong>生日祝福</strong>：基于人物照片生成个性化祝福视频，适用于朋友生日、节日问候等场景。</li>\n</ul>\n<h2 class=\"\">Pexo  FAQ 问答</h2>\n<ul>\n<li class=\"paragraph\"><strong>Pexo 可以用来做什么？</strong>\n<ul>\n<li class=\"paragraph\">Pexo 帮助你创建任何类型的视频——产品广告、社交媒体内容、解说视频、个人项目等。只需描述你的需求，Pexo 会处理其余部分。</li>\n</ul>\n</li>\n<li class=\"paragraph\"><strong>Pexo 如何理解我的想法？</strong>\n<ul>\n<li class=\"paragraph\">Pexo 使用先进的 AI 来理解自然语言、语境，甚至是抽象的情绪。你不需要提示词工程——就像跟创意伙伴聊天一样自然交流即可。</li>\n</ul>\n</li>\n<li class=\"paragraph\"><strong>Pexo 可以创建什么类型的视频？</strong>\n<ul>\n<li class=\"paragraph\">从 15 秒的 TikTok 广告到电影预告片、产品演示、UGC 风格的用户证言、生日视频，以及介于两者之间的任何内容。Pexo 支持所有主流格式和画面比例。</li>\n</ul>\n</li>\n<li class=\"paragraph\"><strong>我可以邀请团队使用 Pexo 吗？</strong>\n<ul>\n<li class=\"paragraph\">可以！Pexo 支持团队协作。你可以邀请团队成员、共享项目，并使用共享的品牌套件和素材共同进行视频创作。</li>\n</ul>\n</li>\n</ul>"
+        "title": "Pexo 是什么",
+        "html": "<p>Pexo 是一个以对话为交互方式的 AI 视频智能体，官网的自我介绍直白：把想法变成视频。它的差异点在于不要求用户掌握高级 AI 视频生成技巧，只要把需求讲给 Pexo 听，剩下的由它完成。</p><p>按官网说明，Pexo 的输入来源相当宽松——网址、PDF、图片、视频、音频，或者单纯的创意描述都能作为起点。它会先和用户一起把脚本、场景、镜头和创意方向定下来，再进入生产，最后交付一条完整的视频，官网把这种协作方式比作在共享文档上做批注。</p>"
+      },
+      {
+        "title": "Pexo 的主要功能",
+        "html": "<ul><li><strong>多形态输入</strong>：Pexo 支持从 URL、PDF、图片、视频、音频或一段想法启动项目。</li><li><strong>自动规划</strong>：由 Pexo 编写脚本，设计场景与镜头，并给出创意方向。</li><li><strong>对话式修改</strong>：在时间轴上标出要改的位置，然后用对话提出修改要求，类似在协作文档里评论。</li><li><strong>成片交付</strong>：输出视频时同步带上配音、音乐与动态图形。</li><li><strong>多种视频类型</strong>：官网列出动态字体、2.5D 动画、白板动画、纸片动画、线稿动画与解说视频等方向。</li><li><strong>工具与集成</strong>：Pexo 官网提供 Toolkit、Gallery 与 Resources 入口，并支持 CLI 与 MCP，方便接入开发流程。</li></ul>"
+      },
+      {
+        "title": "如何使用 Pexo",
+        "html": "<ol><li>打开 Pexo 官网，点击 Get Started 进入创作界面。</li><li>把素材交给 Pexo：可以粘贴一个网址、上传 PDF 或图片、给一段音频，也可以直接描述想要什么视频。</li><li>用一句话说明目标，例如官网示例中的「为我的网站做一条一分钟发布视频，要动态图形效果」。</li><li>等 Pexo 给出脚本、场景与镜头方案，检查创意方向是否符合预期。</li><li>在时间轴上标注要调整的片段，用对话提修改意见，逐轮收敛到满意版本。</li><li>导出成片。Pexo 会一并生成配音、音乐与动态图形，产出可直接发布的版本。</li><li>需要批量或自动化时，改用 CLI 或 MCP 接入自己的流程。</li></ol>"
+      },
+      {
+        "title": "Pexo 的应用场景",
+        "html": "<ul><li><strong>产品发布视频</strong>：把官网链接丢给 Pexo，由它提炼卖点并生成发布短片。</li><li><strong>解说与教程内容</strong>：官网列出 Animated Explainer Video，适合把流程或概念讲清楚。</li><li><strong>社媒短视频</strong>：为社交平台快速产出多种形态的短内容。</li><li><strong>营销与广告素材</strong>：产品广告、音乐视频等场景都可以作为 Pexo 的起点。</li><li><strong>把文档变成视频</strong>：已有 PDF 报告或方案时，用 Pexo 转成便于传播的视频版本。</li><li><strong>开发流程集成</strong>：有工程能力的团队可以通过 Pexo 的 CLI 与 MCP 把视频生成嵌进自动化链路。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "topview-ai",
@@ -10614,31 +10562,23 @@
     "domain": "tagomovie.bitaihub.com",
     "detailed_content": [
       {
-        "title": "TagoMovie是什么",
-        "html": "<p>TagoMovie 是专为零基础新手打造的一站式 AI 漫剧与短剧创作平台。无需掌握复杂提示词或导演经验，只需输入小说文本或故事创意，通过”6步走”傻瓜式工作流，快速生成可直接发布于抖音、B站、快手等平台的”出街级”精美漫剧与短剧。TagoMovie 支持单次高达 3 万字的文本输入，AI 自动拆解剧情、提炼对话并生成专业剧本；独有的”本剧资产库”确保角色形象在多镜头中保持一致，内置顶级渲染模型实现自动打光与运镜。真正实现”扔个故事进去，大片自动出来”的创作体验。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-75607\" src=\"https://ai-bot.cn/wp-content/uploads/2026/04/TagoMovie-website.png\"   alt=\"TagoMovie\" width=\"739\" height=\"416\" />"
+        "title": "TagoMovie 是什么",
+        "html": "<p>TagoMovie 是一个零基础制作 AI 漫剧与 AI 仿真人剧的创作工具，官网把卖点概括为「0 基础做 AI 漫剧 &amp; 仿真人剧的神器」，核心思路是让用户只负责创意，把编剧、运镜和提示词这些专业环节交给 Agent。</p><p>按官网说明，TagoMovie 已经接入 Seedance 2.5 模型并免排队使用，官网特别注明对真人素材不设限制。定价方面，注册可免费领取 300 算力积分；官网页脚署名 Tago AI Inc.，备案号为粤 ICP 备 2025400347 号。</p>"
       },
       {
-        "title": "TagoMovie的主要功能",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>小说智能转剧本</strong>：支持单集多达 30,000 字文本输入，AI 自动拆解剧情结构、提炼角色对话，一键生成可直接拍摄的专业剧本，彻底告别编剧门槛。</li>\n<li>\n<div class=\"paragraph\"><strong>傻瓜式”6步走”导航</strong>：将复杂影视制作简化为填空式流程：①写故事 ➔ ②定剧本 ➔ ③建角色/场景 ➔ ④画分镜 ➔ ⑤出成片 ➔ ⑥AI 剪辑，新手也能零失误完成作品。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>角色一致性保障</strong>：”本剧资产库”功能只需在开头设定主角样貌与场景，AI 自动在后续生成中保持角色形象高度一致，无需反复调试复杂参数。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>出街级画质渲染</strong>：内置行业顶级画面渲染模型（3D/2D 动漫风、逼真写实风），AI 自动完成专业打光与运镜，成片自带高级感，达到直接发布标准。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>连载剧集管理</strong>：左侧目录树清晰管理多集内容（第1集、第2集……），支持断点续作，轻松实现日更连载，持续留住粉丝。</div>\n</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-75608\" src=\"https://ai-bot.cn/wp-content/uploads/2026/04/TagoMovie-website1.png\"   alt=\"\" width=\"738\" height=\"415\" />"
+        "title": "TagoMovie 的主要功能",
+        "html": "<ul><li><strong>一句想法起步</strong>：不必先准备完整剧本，说清想讲的故事即可开始，TagoMovie 的 Agent 会接手后续环节。</li><li><strong>长文本改编</strong>：官网称最高支持 40 万字文本输入，一句灵感、小说文本或已有剧本都能作为起点。</li><li><strong>资产统一管理</strong>：角色形象、音色与场景可持续复用，支持跨镜头与跨集复用，帮助人物在前后镜头之间保持连贯。</li><li><strong>剧本与镜头可改</strong>：对白、镜头脚本、景别与时长都能单独调整，也可针对选定片段重新生成。</li><li><strong>字幕与高清</strong>：提供字幕识别与编辑，以及提升画质和导出的后续处理。</li><li><strong>六步引导流程</strong>：故事大纲、故事分集、剧本、角色场景与道具、镜头视频、字幕与高清，逐步确认方向。</li><li><strong>画布模式</strong>：官网提示画布模式需要有效付费订阅，具体功能范围以当前套餐为准。</li></ul>"
       },
       {
-        "title": "如何使用TagoMovie",
-        "html": "<ul>\n<li><strong>访问平台</strong>：访问 TagoMovie 官网 https://tagomovie.bitaihub.com/ ，注册登录账号。</li>\n<li>\n<div class=\"paragraph\"><strong>输入故事</strong>：将小说文本（支持最高3万字）或原创故事复制粘贴进编辑器。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI 生成剧本</strong>：系统自动拆解剧情，生成带对话的专业拍摄剧本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>创建资产库</strong>：设定主角形象与常驻场景，建立本剧专属视觉资产。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>生成分镜</strong>：AI 根据剧本自动绘制分镜图，确认画面构图与镜头语言。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>渲染成片</strong>：选择画面风格（动漫/写实），AI 自动打光运镜生成高清视频。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI 剪辑优化</strong>：自动完成剪辑节奏调整，输出可直接发布的成片。</div>\n</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-75609\" src=\"https://ai-bot.cn/wp-content/uploads/2026/04/TagoMovie-website2.png\"   alt=\"\" width=\"738\" height=\"415\" />"
+        "title": "如何使用 TagoMovie",
+        "html": "<ol><li>打开 TagoMovie 官网并注册账号，领取官网提供的 300 算力积分。</li><li>从故事大纲开始：输入一句灵感或粘贴小说文本，让 TagoMovie 梳理故事主线。</li><li>确认故事分集，规划每一集的内容与情节推进顺序。</li><li>进入剧本环节，打磨剧情、对白与场景描述。</li><li>建立角色、场景与道具资产，这些形象与音色会在后续镜头中复用。</li><li>拆解镜头并生成视频，对不满意的片段按需调整或重新生成。</li><li>处理字幕、提升画质并导出成片。官网提示第一次尝试可以先从一个短故事开始。</li></ol>"
       },
       {
-        "title": "TagoMovie的核心优势",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>零门槛上手</strong>：无需学习专业软件，不用背诵 AI 提示词，有故事就能做视频。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>3万字长文本支持</strong>：远超同类产品的文本处理能力，适合网文改编与长剧情创作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>角色颜值不掉线</strong>：独有的资产库机制彻底解决 AI 视频”换镜头就变脸”的痛点。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>全流程自动化</strong>：从剧本→分镜→成片→剪辑，一站式完成传统影视团队工作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多平台适配</strong>：生成内容符合抖音、B站、快手等平台发布标准，直接赚取流量。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "TagoMovie的关键信息和使用要求",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>产品定位</strong>：一站式 AI 漫剧与短剧创作智能体平台，专为零基础新手打造的傻瓜式视频创作工具，实现”扔个故事进去，大片自动出来”的零门槛创作体验。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>技术特点</strong>：网页应用形态无需下载安装，支持 1080P 高清输出，符合抖音/B站/快手等平台发布标准，基于生成式 AI 模型实现画面渲染。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>目标人群</strong>：网文/小说爱好者（想将文字故事视觉化）、漫剧创作新人、短视频自媒体新手、学生/上班族（业余零成本圆导演梦）。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>定价模式</strong>：免费版（0 元体验核心功能）与付费版（按量计费或订阅制，解锁高级渲染/更多生成额度/商用授权）。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>输入要求</strong>：故事文本支持单集最高 30,000 字（适合网文章节或完整短剧剧本），直接复制粘贴纯文本即可无需特定格式，支持小说/脑洞故事/原创剧本等多种叙事形式。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>硬件/软件要求</strong>：需可运行现代浏览器的电脑（Windows/Mac 均可），推荐使用 Chrome/Edge 等主流浏览器，需稳定网络连接进行云端 AI 渲染。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>账号要求</strong>：需注册账号登录使用，免费版可直接体验核心功能，付费功能需升级套餐解锁。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>操作流程要求</strong>：需按 6 步导航顺序操作且不可跳过关键步骤，需在第三步”建角色/场景”中设定本剧资产以确保后续一致性，分镜生成后需人工确认画面再进行最终渲染。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>输出规格</strong>：视频时长根据剧本自动适配短剧/漫剧标准时长，支持高清 1080P 输出，标准视频格式适配主流短视频平台上传要求。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "TagoMovie的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>网文小说视觉化改编</strong>：将修仙、霸总、逆袭等长篇网文章节直接导入平台，用单集 30,000 字的大容量输入能力，AI 自动拆解剧情并生成专业漫剧，让文字故事快速转化为可观看的视觉内容。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自媒体短视频日更</strong>：解决短视频创作者缺乏拍摄设备和剪辑经验的痛点，通过 AI 一键生成高质量短剧内容，轻松实现抖音、B站、快手等平台的每日更新，持续提升账号活跃度和粉丝粘性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI 漫剧连载追更</strong>：用左侧目录树进行多集内容管理，开启日更连载模式，系统保持角色形象一致性，适合制作长篇系列短剧，培养观众追更习惯并建立固定粉丝群体。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>零基础个人创作圆梦</strong>：面向学生、上班族等业余创作者，无需学习复杂导演知识和提示词工程，用业余时间零成本制作”出街级”作品，实现个人导演梦想和创意表达。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>跨平台商业内容分发</strong>：生成符合抖音、B站、快手等主流平台标准的高清 1080P 视频，支持直接发布赚取流量，适用于想通过短剧变现的自媒体人和内容创业团队。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>品牌营销短剧制作</strong>：中小商家可用低成本 AI 生成能力，快速制作产品故事片或品牌短剧，替代传统高昂的视频拍摄成本，实现低预算的内容营销和流量获取。</div>\n</li>\n</ul>"
+        "title": "TagoMovie 的应用场景",
+        "html": "<ul><li><strong>第一次做短剧的新手</strong>：没有现成剧本也没关系，TagoMovie 官网给出的路径是先说出想讲的故事，完成第一轮创作。</li><li><strong>已有小说或剧本的创作者</strong>：可以先试做一个章节，把文字里的世界转成角色和镜头，熟悉后沿用本剧资产继续创作后续剧集。</li><li><strong>品牌与内容团队</strong>：从产品故事、品牌短剧到宣传内容，用可编辑的流程探索创意再打磨成片。</li><li><strong>需要控制制作成本的团队</strong>：TagoMovie 把编剧、运镜、提示词等门槛交给 Agent，减少对专业岗位的依赖。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "linghuiai-net",
@@ -11207,11 +11147,23 @@
     "domain": "komiko.app",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<h2 class=\"text-2xl font-semibold tracking-tight\">KomikoAI是什么</h2>\n<p>KomikoAI 是 AI 动漫内容创作平台，提供多种创作工具，如 AI 动漫角色生成器、动画生成器、漫画创作工具等，帮助用户轻松创作动漫风格的图片、GIF 和视频。KomikoAI 提供多种 AI 模型，如 <a href=\"https://ai-bot.cn/sites/736.html\" target=\"_blank\" rel=\"noopener\">Gemini</a>、<a href=\"https://ai-bot.cn/openai-gpt-4o/\" target=\"_blank\" rel=\"noopener\">GPT-4o</a>、<a href=\"https://ai-bot.cn/kling2-1/\" target=\"_blank\" rel=\"noopener\">Kling 2.1</a>、<a href=\"https://ai-bot.cn/wan2-1/\" target=\"_blank\" rel=\"noopener\">Wan2.1</a>、<a href=\"https://ai-bot.cn/veo-2/\" target=\"_blank\" rel=\"noopener\">Google Veo 2</a> 等，帮助用户实现从角色设计到动画制作的全过程。用户上传照片或描述，选择不同动漫风格，能生成个性化的作品。KomikoAI 能满足观看需求，激发创作灵感，让动漫爱好者将创意变为现实。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/12/KomikoAI-website.png\" data-fancybox=\"fancybox\" data-caption=\"&nbsp;KomikoAI\"><img decoding=\"async\" class=\"alignnone wp-image-68092\" src=\"https://ai-bot.cn/wp-content/uploads/2025/12/KomikoAI-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"&nbsp;KomikoAI\" width=\"740\" height=\"416\"></a>\n<h2 class=\"text-2xl font-semibold tracking-tight\">KomikoAI的主要功能</h2>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>AI 动漫角色生成器</strong>：支持通过文字描述或图片生成个性化动漫角色，支持多种风格定制。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI 动画生成</strong>：支持将静态内容转化为动态 GIF 或视频，添加动画效果，适合制作表情包和短视频。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>漫画创作工具</strong>：提供漫画画布和分镜头设计功能，AI 能生成完整漫画页面，支持风格切换。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>图片编辑与风格转换</strong>：支持将普通照片转换为动漫风格，支持背景移除、线稿上色等编辑功能。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>视频编辑与动画化</strong>：上传视频后添加动画效果，生成中间帧，实现平滑过渡和风格化处理。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI 角色表生成器</strong>：自动生成角色的详细信息表，包括外观、性格和背景故事，助力前期创作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">AI 动作与表情生成</strong>：根据角色和场景生成自然的动作和表情变化，支持自定义动作序列。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>社区与分享功能</strong>：用户可在社区分享作品，支持导出高清内容，分享到社交媒体。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>模板与预设功能</strong>：提供丰富模板和预设风格，支持自定义模板保存，提升创作效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多语言支持</strong>：支持多种语言，包括英语、中文、日语、韩语等，方便全球用户使用。</div>\n</li>\n</ul>\n<h2 class=\"text-2xl font-semibold tracking-tight\">如何使用KomikoAI</h2>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>注册与登录</strong>：访问 KomikoAI 官网 https://komiko.app/ ，用邮箱或社交媒体账号注册和登录。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择功能模块</strong>：根据需求选择角色生成、动画制作、漫画创作、图片编辑或视频处理等功能。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>定制与生成</strong>：输入描述或上传素材，选择风格和参数后点击生成，等待 AI 完成创作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>编辑与优化</strong>：使用平台编辑工具对生成结果进行微调，如修改颜色、动作或细节。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>下载与分享</strong>：完成创作后下载作品，或分享到社交媒体和平台社区。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>探索社区</strong>：浏览社区获取灵感，与其他创作者互动交流。</div>\n</li>\n</ul>\n<h2 class=\"text-2xl font-semibold tracking-tight\">KomikoAI的使用示例</h2>\n<blockquote><p>tall stature, athletic build, tousled black hair, piercing emerald eyes, sharp jawline, enigmatic smile, fitted leather jacket, subtle scars, anime coloring, elegant posture.高挑身材，运动型体格，凌乱黑发，锐利翠眸，清晰下颌线，神秘微笑，修身皮夹克，淡淡疤痕，动漫风色调，优雅体态。。</p></blockquote>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/12/KomikoAI-website-2.png\" data-fancybox=\"fancybox\" data-caption=\"KomikoAI\"><img decoding=\"async\" class=\"alignnone wp-image-68096\" src=\"https://ai-bot.cn/wp-content/uploads/2025/12/KomikoAI-website-2.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"KomikoAI\" width=\"740\" height=\"416\"></a>\n<blockquote><p>@Zhongli_(Genshin_Impact) stands solemnly amidst a desolate landscape of jagged, ancient stones battered by relentless heavy rain, his chiseled face frozen in stoic grief as he gazes downward with profound sorrow at the lifeless body of @guizhong-5VmK cradled gently and horizontally in his arms, her body utterly motionless with arms, head, and legs limply drooping downward, surrendering to gravity just as she surrendered to death.钟离肃立于嶙峋古石构成的荒芜之地，漫天暴雨倾泻如注。他棱角分明的面容凝滞着沉郁的悲怆，目光低垂，以近乎凝固的庄重姿态横抱着归终毫无生息的躯体。她四肢与头颅在重力牵引下无力垂落，衣袖随暴雨翻飞，恰似生命消散后最后的臣服——向死亡，亦向这滂沱天地。</p></blockquote>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/12/KomikoAI-website3.png\" data-fancybox=\"fancybox\" data-caption=\"&nbsp;KomikoAI\"><img decoding=\"async\" class=\"alignnone wp-image-68095\" src=\"https://ai-bot.cn/wp-content/uploads/2025/12/KomikoAI-website3.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"&nbsp;KomikoAI\" width=\"740\" height=\"416\"></a>\n<h2 class=\"text-2xl font-semibold tracking-tight\">KomikoAI的产品定价</h2>\n<ul>\n<li class=\"paragraph\"><strong>入门版</strong>：每月$9.99，提供5,000个Zaps，每日100个免费Zaps，最多生成800张图像，最多生成40个视频，每月创建10个原创角色，支持3个视频同时生成任务，可根据多张参考图像生成图像，支持导出无水印图像。</li>\n<li class=\"paragraph\"><strong>高级版</strong>：每月$19.99，提供15,000个Zaps，每日120个免费Zaps，最多生成1,860张图像，最多生成93个视频，每月创建20个原创角色，支持5个视频同时生成任务，支持导出无水印图像，可根据多张参考图像生成图像，优先体验新功能。</li>\n<li class=\"paragraph\"><strong>尊享版</strong>：每月$49.99，提供50,000个Zaps，每日160个免费Zaps，最多生成5,480张图像，最多生成274个视频，每月创建10,000个原创角色，支持10个视频同时生成任务，支持导出无水印图像，可根据多张参考图像生成图像，优先体验新功能。</li>\n</ul>\n<h2 class=\"text-2xl font-semibold tracking-tight\">KomikoAI的应用场景</h2>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>动漫爱好者创作</strong>：创作者用于生成个性化的动漫角色、制作动态表情包或短动画，满足粉丝的创作热情。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">漫画制作</strong>：帮助创作者快速生成漫画分镜头、角色和场景，加速漫画创作流程。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">视频内容创作</strong>：为视频制作者提供动画化处理，将静态图片或视频片段转化为生动的动画效果。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">社交媒体分享</strong>：生成有趣的内容用于社交媒体，如动漫风格的头像、动态 GIF 等，吸引粉丝互动。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教育与学习</strong>：在动漫绘画或动画制作课程中，作为辅助工具帮助学生理解和实践创作技巧。</div>\n</li>\n</ul>"
+        "title": "KomikoAI 是什么",
+        "html": "<p>KomikoAI 是一个围绕动漫题材打造的 AI 创作平台，官网给自己的定位是「all-in-one AI anime studio」。它的目标用户是对动漫、同人与原创角色感兴趣的群体：既能生成图与视频，也能设计原创角色并和角色对话。</p><p>按官网描述，KomikoAI 提供 100 多个 AI 工具与创作模板，其中不少是围绕特定作品或圈层做的模板，官方称之为 built for fandoms。平台内置社区，用户可以看到别人的创作并一键复刻，官方鼓励用户把自己的作品分享出来互相启发。</p>"
+      },
+      {
+        "title": "KomikoAI 的主要功能",
+        "html": "<ul><li><strong>AI 绘图</strong>：用提示词生成动漫风格图片，KomikoAI 官网提到 Art Max 引擎与 20 多种画风可选。</li><li><strong>AI 视频</strong>：把图片或提示词转成有动漫观感的短片。</li><li><strong>一键特效</strong>：上传照片即可套用热门模板，生成流行的短片或画作。</li><li><strong>原创角色（OC Maker）</strong>：专门用来设计原创角色的工具。</li><li><strong>角色对话</strong>：可以和平台上的角色进行角色扮演式聊天，官网称角色库规模较大。</li><li><strong>AI 漫画</strong>：把故事转成漫画分页。</li><li><strong>语音合成</strong>：为台词配上自然的动漫风格配音。</li><li><strong>Komiko Agent</strong>：通过对话完成创作，把多个工具串起来用。</li><li><strong>多模型支持</strong>：KomikoAI 官网列出的底层模型覆盖 Gemini、GPT-4o、Kling 系列、Hailuo AI、Google Veo、Wan、Luma Ray、PixVerse、Midjourney、Vidu 等。</li></ul>"
+      },
+      {
+        "title": "如何使用 KomikoAI",
+        "html": "<ol><li>打开 KomikoAI 官网并登录，首页可以看到 Characters、Effects 与 AI Apps 等分区。</li><li>先决定产出形态：要静态图进 AI Image Generator，要动态进 AI Video Generator，要角色设定进 OC Maker。</li><li>写提示词时把画风、人物特征和构图讲清楚，KomikoAI 支持在 20 多种风格之间切换，风格描述会显著影响结果。</li><li>想看社区里有什么热门玩法，可以从 Trending effects 里挑一个模板，上传照片或素材一键生成。</li><li>做连载内容时用 AI Comic 把故事组织成分页，再用 Text to Speech 给台词配音。</li><li>希望少手工、多对话时改用 Komiko Agent，用自然语言描述需求让它调度工具。</li></ol>"
+      },
+      {
+        "title": "KomikoAI 的应用场景",
+        "html": "<ul><li><strong>同人创作</strong>： KomikoAI 的模板与角色库面向圈层内容，适合围绕已有作品做二次创作。</li><li><strong>原创角色与设定集</strong>：用 OC Maker 设计角色并持续迭代形象。</li><li><strong>动漫短视频</strong>：为社交平台产出动漫风格短片或动态表情。</li><li><strong>漫画与分镜试作</strong>：把故事快速转成漫画分页，用于验证叙事节奏。</li><li><strong>角色互动内容</strong>：想做角色扮演式对话内容时，可以直接使用平台的角色聊天能力。</li></ul><p>涉及同人题材与角色形象时要留意版权边界，KomikoAI 官网提到部分创作能力会与外部平台打通，发布前建议按具体渠道的规则确认。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "keevx-com",
@@ -11233,31 +11185,23 @@
     "domain": "keevx.com",
     "detailed_content": [
       {
-        "title": "Keevx是什么",
-        "html": "<p>Keevx是AI数字人视频创作工具，帮助用户快速生成多语言、高质量的视频内容。Keevx提供丰富的功能，包括爆款视频裂变、URL 转视频、<a href=\"https://ai-bot.cn/ai-video-translation-tools/\" target=\"_blank\" rel=\"noopener\">视频翻译</a>、<a href=\"https://ai-bot.cn/ai-script-generation-tools/\" target=\"_blank\" rel=\"noopener\">AI 脚本生成</a>、PPT/PDF 转视频等。用户可以用 210+ 海外原生数字人形象和 40+ 视频模板，结合 70+ 种语言和 180+ 口音，轻松制作出符合需求的视频。Keevx 支持电商平台链接的一键解析，为跨境电商提供高效的广告视频解决方案。适用于电商广告、企业培训和社交媒体宣传等多种场景，无需拍摄和剪辑，可在几分钟内完成视频制作。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/08/Keevx-website-1.png\" data-fancybox=\"fancybox\" data-caption=\"Keevx\"><img decoding=\"async\" class=\"alignnone wp-image-60379\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/Keevx-website-1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Keevx\" width=\"739\" height=\"416\"></a>"
+        "title": "Keevx 是什么",
+        "html": "<p>Keevx 是一个面向商业内容的 AI 视频生成平台，官网把它概括为「翻译、克隆与生成 AI 视频」的一站式服务。它的核心是 AI 数字人视频：借助虚拟形象与语音能力，把产品故事做成多语种视频，用于触达全球受众。</p><p>Keevx 的显著特点是多语言与本地化能力。官网提到支持 170 多种语言，并具备唇形同步与母语配音，这意味着同一条原始视频可以转成面向不同市场的版本。平台同时提供公共人像库、公共语音库与预置视频模板，降低从零创作的门槛。</p>"
       },
       {
-        "title": "Keevx的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">爆款裂变</strong>：输入热门视频链接，AI自动解析视频结构与要素，支持直接复刻视频（替换素材）或多语言翻译版本，助力内容传播与转化。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">URL转视频</strong>：粘贴电商平台商品链接，如Amazon、eBay、Shopify等，自动提取商品信息，生成多种风格的广告视频，提升电商广告制作效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">视频翻译</strong>：上传视频，一键生成多语言版本，结合AI声纹克隆与口型同步技术，支持70+语言、180+口音，助力视频全球化传播。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">AI脚本生成</strong>：输入创意或主题，自动生成爆款视频脚本，结合数字人形象与模板，快速生成成片，实现从创意到成片的全流程自动化。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">PPT/PDF转视频</strong>：上传PPT或PDF文档，自动生成带数字人讲解的专业视频，适用于产品宣讲、教育培训和企业宣传。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">自定义视频编辑</strong>：提供专业时间轴式编辑器，满足用户个性化创作需求，可从零开始创作独特视频。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">多样化资产支持</strong>：提供210+海外原生数字人形象、80+音色、70+语言、178+方言以及40+模板，覆盖培训、宣传、广告等核心场景，满足多样化内容创作需求。</div>\n</li>\n</ul>"
+        "title": "Keevx 的主要功能",
+        "html": "<ul><li><strong>视频翻译</strong>：上传视频后把语音替换为目标语种，Keevx 官网称支持 170 多种语言，并实现唇形同步、本地化配音与精准字幕。</li><li><strong>商品图生视频</strong>：上传静态图片，由 AI 理解内容并生成动态视频，同时自动添加运镜效果。</li><li><strong>AI 广告视频</strong>：从产品信息分析、视觉素材混剪到脚本生成，把广告制作流程自动化。</li><li><strong>克隆爆款内容</strong>：对高表现视频逐帧解析，把传播模式转化为 UGC 风格视频。</li><li><strong>灵感转视频</strong>：输入提示词生成视频脚本，选定人像与音色后直接产出数字人视频。</li><li><strong>人像与声音克隆</strong>：基于用户提供的视频或音频生成专属数字人资产，Keevx 官网提到人像克隆以分钟计、声音克隆以秒计。</li><li><strong>资产库</strong>：公共人像库包含 210 多个角色，覆盖不同种族、年龄、职业与场景；公共语音库支持 80 多种区域语言与不同年龄、语气风格。</li><li><strong>预置模板</strong>：覆盖电商营销、企业推广与知识分享三类高频场景。</li></ul>"
       },
       {
-        "title": "如何使用Keevx",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">访问官网</strong>：访问Keevx官网 https://www.keevx.com/ ，注册账号，选择适合的订阅计划。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">输入主题或上传素材</strong>：根据需求输入视频主题、创意提示，或上传电商平台链接、PPT/PDF文档等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">选择数字人形象和语言</strong>：从平台提供的210+数字人形象中选择合适角色，并选择目标语言和音色。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">生成视频脚本</strong>：输入主题或创意后，利用AI脚本生成功能自动生成视频脚本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">生成视频</strong>：点击生成按钮，系统将自动完成视频制作，包括口型同步、场景匹配等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>预览与编辑</strong>：预览生成的视频，如有需要，可使用时间轴编辑器进行个性化调整。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>导出与分享</strong>：预览无误后，导出1080P高清视频，支持直接分享至社交媒体或下载本地使用。</div>\n</li>\n</ul>"
+        "title": "如何使用 Keevx",
+        "html": "<ol><li>打开 Keevx 官网并开始免费试用，先明确要做的是视频翻译、商品图转视频还是数字人口播。</li><li>做本地化时上传原视频，选择目标语言，让 Keevx 完成语音替换、唇形同步与字幕生成。</li><li>做商品视频时上传产品图片，由 AI 自动生成动态画面与运镜效果。</li><li>需要数字人出镜时先选形象：从公共人像库里挑，或者用自己的素材做人像克隆。</li><li>配音环节从公共语音库选择音色，需要独特声线时做声音克隆。</li><li>用预置模板快速搭出结构，或输入提示词让 Keevx 生成脚本后再调整。</li><li>导出成片并按目标平台发布；批量任务可复用已建好的数字人资产与模板。</li></ol>"
       },
       {
-        "title": "Keevx的产品优势",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">分钟级出片</strong>：借助URL解析、AI脚本生成与爆款视频复刻，快速完成视频制作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多语言本地化</strong>：支持70+种语言与170+方言，结合声纹克隆与唇形同步技术，生成多语种视频。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">丰富的数字资产</strong>：提供210+海外原生数字人形象和40+视频模板，满足多样化创作需求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">电商广告场景领先</strong>：支持多个电商平台链接的一键解析与视频生成。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">稳定与合规</strong>：具备真人级口型同步和合规风控机制。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>灵活与易用</strong>：提供高性价比套餐，支持按需付费与灵活加购，网页端免安装。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "Keevx的产品定价",
-        "html": "<p>新注册用户有五分钟的免费试用</p>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>Lite Plan（推荐）</strong>：每月7.2美元，每年支付为89美元，提供180分钟/年、360分钟/月、540分钟/月的额度，支持1080P分辨率和无限视频处理。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Pro Plan</strong>：每月27美元，每年支付为324美元，提供720分钟/年、1200分钟/月、1440分钟/月的额度，支持1080P分辨率和快速视频处理。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Enterprise Plan</strong>：需要联系销售团队进行咨询，提供定制分钟计划、视频克隆技术、音频克隆能力以及私有部署选项。</div>\n</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/08/Keevx-website-2.png\" data-fancybox=\"fancybox\" data-caption=\"Keevx\"><img decoding=\"async\" class=\"alignnone wp-image-60381\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/Keevx-website-2.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Keevx\" width=\"694\" height=\"390\"></a>"
-      },
-      {
-        "title": "Keevx的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">跨境电商</strong>：商家可以快速批量生成虚拟模特演示与广告视频，用于产品详情页、平台广告和社交媒体推广，降低拍摄成本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">广告与内容工作室</strong>：满足大规模、多频次的内容生产需求，轻松交付高质量视频素材。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">企业内部应用</strong>：市场部门可制作产品介绍，销售部门生成产品演示，人力部门则可高效制作培训与入职视频。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教育与培训</strong>：教育机构能够快速生成标准化课程视频与知识讲解内容，同时支持招生宣传和校区展示。</div>\n</li>\n</ul>"
+        "title": "Keevx 的应用场景",
+        "html": "<ul><li><strong>电商营销</strong>：商家可以用 Keevx 全自动生成商品介绍与促销视频，并适配多语种与多个平台。</li><li><strong>内容本地化</strong>：出海企业与自媒体创作者可以把已有视频翻译、配音并对口型，快速输出面向不同市场的版本。</li><li><strong>知识付费与课程</strong>：课程创作者可以生成讲解类视频，支持多语种讲解与字幕输出。</li><li><strong>企业培训</strong>：HR 与培训团队可以批量生成多语种培训视频，统一内容标准并覆盖分散的员工。</li><li><strong>跨境广告投放</strong>：需要为不同地区批量准备广告素材时，Keevx 的模板与数字人资产可以重复利用。</li></ul><p>声音与形象克隆涉及个人生物特征，使用前应确保已取得相关人员的授权。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "aic-oceanengine-com",
@@ -13336,31 +13280,23 @@
     "domain": "picdoc.cn",
     "detailed_content": [
       {
-        "title": "PicDoc是什么",
-        "html": "<p>PicDoc是创客贴团队推出的AI文本转图表工具，能将文本内容快速转换为多种视觉图表，如流程图、思维导图、信息图等，让复杂信息一目了然。AI文案生成功能可依据关键词生成优质文本，为创作提供灵感。具备图片清晰化功能，可优化模糊图片。PicDoc支持多人协作，团队成员可共享项目和素材库，实时编辑与评论。拥有海量正版设计模板和图片素材，覆盖多种场景，满足不同需求。多平台支持（Web、Mobile、Mac、Windows）云端存储确保文档安全，随时随地可访问。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/06/PicDoc-website.png\" data-fancybox=\"fancybox\" data-caption=\"PicDoc\"><img decoding=\"async\" class=\"alignnone wp-image-53416\" src=\"https://ai-bot.cn/wp-content/uploads/2025/06/PicDoc-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"PicDoc\" width=\"741\" height=\"417\"></a>"
+        "title": "PicDoc 是什么",
+        "html": "<p>PicDoc 是一款 AI 文本可视化工具，官网把它描述为「AI 文本可视化助手」。它的思路是让用户先把内容和逻辑讲清楚，再由 PicDoc 把文字转成结构化的可视化图形，而不是单纯替用户画一张图——官网的说法是「不是帮你画图，是帮你理解之后画出来」。</p><p>PicDoc 的目标场景非常明确：科研、教育、办公与高校工作。官网列出的产出包括科研机制示意图、实验流程图、研究框架图、技术路线图、学术配图与 PPT 等，并强调符合 SCI 期刊标准、支持高清矢量导出与在线编辑。</p>"
       },
       {
-        "title": "PicDoc的主要功能",
-        "html": "<ul>\n<li><strong>文字转图表</strong>：PicDoc将文本内容一键转换为多种视觉图表，如流程图、思维导图、信息图、结构图、对比图、漏斗图等。用户输入文字后，系统能智能识别文本逻辑结构并生成图表，可根据需求调整图表颜色、样式、布局等元素。</li>\n<li><strong>AI文案生成</strong>：用户输入相关主题关键词，PicDoc的AI功能便能自动生成高质量的文本内容，为用户提供灵感和思路，帮助快速组织思路，节省时间和精力。</li>\n<li><strong>视觉图表自定义</strong>：PicDoc 提供自定义的功能，在图表生成后，您可以自定义图表中元素，帮助您轻松定制和个性化您的视觉图表。</li>\n<li><strong>视觉图表导出</strong>：PicDoc 可以将的生成视觉图表以 PNG/JPG/PDF/PPT 等格式进行导出，方便在 PowerPoint 或 Word 等其他软件中使用。</li>\n<li><strong>文件导出</strong>：PicDoc 可以将文档整个导出为 PDF 或 PNG 格式，更完整展示您的信息和想法。</li>\n<li><strong>图片清晰化</strong>：PicDoc具备图片清晰化功能，可以将模糊的图片进行优化处理，提升图片质量。</li>\n<li><strong>云端存储与协作</strong>：PicDoc支持多人协作，团队成员可以共享设计项目和素材库，实时进行编辑和评论。云端存储功能确保了文档的安全性和可访问性，用户可以在任何设备上登录账户，随时随地管理和调整文档。</li>\n<li><strong>丰富的模板与素材库</strong>：PicDoc提供了超过百万级的正版设计模板和图片素材，覆盖了海报、名片、公众号配图、PPT等65个场景。</li>\n</ul>"
+        "title": "PicDoc 的主要功能",
+        "html": "<ul><li><strong>文本解析与沉淀</strong>：上传文件或粘贴文本后，由 PicDoc 提炼核心观点、方法与结论，官网强调可溯源；同时支持摘要、大纲、翻译等写作辅助。</li><li><strong>知识库积累</strong>：支持链接与文件归档，自动构建知识库，问答与笔记持续沉淀。</li><li><strong>一键生成图形</strong>：基于研究内容的理解生成机制图、技术路线图与数据图表。</li><li><strong>图文分层在线编辑</strong>：生成的图支持图文分离，可以在线编辑，不必重绘。</li><li><strong>多格式导出</strong>：支持 PDF、PNG、PPT 等格式，官网提到可导出 4K 分辨率。</li><li><strong>模板覆盖广</strong>：站内按学科和用途提供了大量图形类型，包括细胞机制图、信号通路图、病理机制图、材料结构模型图、实验流程图、技术路线图、系统架构图、网络拓扑图以及柱状图、折线图、热力图、散点图等数据图。</li><li><strong>期刊规范适配</strong>：官网把「期刊规范自动适配」列为选择理由之一。</li></ul>"
       },
       {
-        "title": "PicDoc的核心优势",
-        "html": "<ul>\n<li><strong>操作简单易使用</strong>：不需要复杂的操作流程，不需要有设计基础，操作简单，可以快速上手。</li>\n<li><strong>AI </strong><strong>生成</strong>：只需选中要生成图表的文字内容，AI 一键生成，提升图表制作效率。</li>\n<li><strong>免费使用</strong>：图表生成、图表导出等基础功能，免费使用，也可以付费体验更多进阶功能。</li>\n<li><strong>在线生成</strong>：只需在浏览器中访问网址，登录后即可使用，省去下载安装软件的麻烦。</li>\n<li><strong>云端储存</strong>：文档和图表都会云端存储，方便进行管理和再次对图表进行调整。</li>\n</ul>"
+        "title": "如何使用 PicDoc",
+        "html": "<ol><li>打开 PicDoc 官网，从立即体验进入工作区；需要模板时先浏览模板库确认要做的图形类型。</li><li>把内容交给 PicDoc：可以直接粘贴文本，也可以上传文稿，让它先做解析与要点提炼。</li><li>核对提炼结果。官网强调低幻觉与可溯源，这一步的目的是确认它理解的研究内容和你要表达的逻辑一致。</li><li>选择目标图形类型，让 PicDoc 一键生成机制图、流程图或数据图表。</li><li>进入在线编辑，利用图文分层能力调整节点文字、排版与配色，直到符合投稿或汇报要求。</li><li>按用途导出：期刊配图优先用高清矢量格式，PPT 场景直接导出可编辑文件。</li><li>把常用资料归档进知识库，后续同类研究可以直接复用积累的素材。</li></ol>"
       },
       {
-        "title": "如何使用PicDoc",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">注册登录</strong>：访问PicDoc官网 www.picdoc.cn ，用手机号快速完成注册。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">创建文档</strong>：点击新建文档，粘贴要生成图表的文字内容或者上传附件。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>生成图表</strong>：</div>\n<ul>\n<li>\n<div class=\"paragraph\">将鼠标悬停在文本块上方，点击蓝色的“生成视觉效果”按钮。</div>\n</li>\n<li>\n<div class=\"paragraph\">选取需要生成图表的文字内容，点击左侧文生图选项，AI会根据选中的文字自动生成匹配的视觉图表，可通过左侧的列表选择合适的样式和风格。</div>\n</li>\n</ul>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">自定义调整</strong>：</div>\n<ul>\n<li>\n<div class=\"paragraph\">可以对视觉图表中的文案信息进行自定义调整，选中要调整的文案，删掉原有文案，重新输入即可。对图表内的图标调整位置和大小，可以调节图表内文字字体样式、大小、位置、排列方式等等。可以调节文档中文本的字体样式、颜色、排列方式等等。</div>\n</li>\n</ul>\n</li>\n<li>\n<div class=\"paragraph\"><strong>导出图表</strong>：<span style=\"font-size: 0.875rem;\">点击右上角的 “下载” 按钮并选择 PNG 或 PDF，可把整个文档导出。</span><span style=\"font-size: 0.875rem;\">可以点击右上角分享来复制链接分享文档。</span></div>\n</li>\n</ul>"
-      },
-      {
-        "title": "PicDoc的应用场景",
-        "html": "<ul>\n<li><strong>职场汇报</strong>：纯文字的汇报，领导抓不到重点。用 PicDoc 将汇报内容转为视觉图表，汇报更清晰。</li>\n<li><strong>教学资料</strong>：复杂的教学内容，学生很难理解，用 PicDoc 将知识内容转为视觉图表，教学更容易。</li>\n<li><strong>文章配图</strong>：篇幅过长的文章，用户阅读不畅，用 PicDoc 将文章内容转为视觉图表，阅读更顺畅。</li>\n<li><strong>客户沟通</strong>：枯燥的文字信息，客户吸引力低，用 PicDoc 将文字信息转为视觉图表，沟通更有吸引力。</li>\n<li><strong>商业文稿演示</strong>：逻辑混乱的演示文稿，缺少说服力，用 PicDoc 将文稿内容转为逻辑清晰的图表，商业演示更具说服力。</li>\n</ul>"
-      },
-      {
-        "title": "PicDoc的适用人群",
-        "html": "<ul>\n<li><strong>职场人</strong>：PicDoc 可以将枯燥的文字信息，生成视觉丰富的各种图表，帮助职场人进行汇报等工作。</li>\n<li><strong>老师/学生</strong>：PicDoc 可以把知识点转换为时间轴、思维导图，帮助老师和学生更好的传授知识和论文展示。</li>\n<li><strong>自媒体达人</strong>：PicDoc 可以将长文生成高颜值信息图，帮助自媒体人更好的展示内容。</li>\n<li><strong>小企业主</strong>：PicDoc 可以低成本搞定商业提案、产品手册等内容，没有设计师也能完成宣传内容</li>\n</ul>"
+        "title": "PicDoc 的应用场景",
+        "html": "<ul><li><strong>论文配图</strong>：机制图、信号通路图与实验流程图是 PicDoc 官网重点覆盖的类型，适合需要反复修改的投稿配图。</li><li><strong>基金与开题材料</strong>：技术路线图、研究框架图与标书信息图属于同一类需求。</li><li><strong>学术汇报与答辩</strong>：官网列出学术 PPT、开题报告 PPT 与答辩绘图等场景。</li><li><strong>教学与知识整理</strong>：把复杂概念转成知识卡片、思维导图或知识图谱，便于讲解与复习。</li><li><strong>跨学科数据呈现</strong>：站内提供面向计算机、通信、管理学、社会学等方向的架构图与拓扑图模板，数据图部分覆盖生命科学与理化实验的常见图表。</li><li><strong>没有设计基础的研究者</strong>：官网把「零设计基础」列为产品特点，适合自己动手但不熟悉专业绘图软件的人。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "kimi-com-2",
@@ -14107,31 +14043,23 @@
     "domain": "dify-ai.cn",
     "detailed_content": [
       {
-        "title": "数以轻舟Agent是什么",
-        "html": "<p>数以轻舟Agent是专注Excel数据处理的本地化AI智能体。用户无需记忆复杂函数公式，仅通过自然语言描述需求，即可自动完成数据清洗、格式标准化、动态分组汇总、跨表关联及批量文件处理等操作。产品全面兼容本地大模型部署，数据全程在本地闭环运行，零上传云端，满足金融、医疗、政务等强监管行业的合规要求。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/05/Dify-ai-website.png\" data-fancybox=\"fancybox\" data-caption=\"数以轻舟Agent \"><img decoding=\"async\" class=\"alignnone wp-image-77035\" src=\"https://ai-bot.cn/wp-content/uploads/2026/05/Dify-ai-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"数以轻舟Agent \" width=\"741\" height=\"417\"></a>"
+        "title": "数以轻舟Agent 是什么",
+        "html": "<p>数以轻舟Agent 是一款由本地大模型驱动的 Excel 数据处理智能体，官网把它定位为「智能 Excel 助手」——用一句话处理 Excel 数据。它的最大卖点是数据不出本机：支持本地部署大模型，数据处理在本地完成，不需要上传到云端。</p><p>数以轻舟Agent 的兼容性写在官网显眼位置：可接入 Qwen、DeepSeek、Kimi、GLM、豆包、MIMO、通义千问等多种本地模型。官网给出的购买方式是终身买断、一次付费永久使用，并标注了限时优惠与原价。它的目标用户是需要处理敏感数据、又不希望数据离开内网的团队。</p>"
       },
       {
-        "title": "数以轻舟Agent的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>自然语言驱动数据处理</strong>：用户无需记忆复杂函数公式，直接以口语化描述需求，如”把A列的姓名和B列的电话合并成一列，中间用顿号隔开”，Agent 自动解析意图并生成执行方案。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>智能数据清洗与格式标准化</strong>：自动识别日期格式混乱、文本数字混排、空值填充等常见问题，支持批量规范化处理，并提供清洗前后的对比预览。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>动态分组汇总与透视分析</strong>：基于语义理解自动生成分组统计，如”按地区统计销售额并计算占比”，无需手动拖拽透视表字段。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>跨表关联与数据合并</strong>：支持 VLOOKUP、XLOOKUP 等关联逻辑的语义化表达，自动匹配关键字段，处理多表数据整合场景。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>批量文件处理</strong>：支持对文件夹内多个 Excel 文件执行相同操作流程，如统一格式、提取特定字段、合并汇总等，适合周期性报表处理。</div>\n</li>\n</ul>"
+        "title": "数以轻舟Agent 的主要功能",
+        "html": "<ul><li><strong>本地大模型接入</strong>：数以轻舟Agent 支持本地部署模型并离线运行，官网列出 Qwen、DeepSeek、Kimi、GLM、豆包、MIMO、通义千问等已就绪模型。</li><li><strong>智能数据清洗</strong>：自动识别空值、异常值与重复数据，后台编写 Python 程序完成处理。</li><li><strong>多格式数据处理</strong>：面向 Excel、CSV 等格式，支持数据清洗、转换、分析以及可视化，并可做批量处理与多表关联。</li><li><strong>大批量数据支持</strong>：官网称支持 500MB 百万级数据量，后台自动编写 Python 做分块并行计算，数据合并、拆分、关联过滤可以一键完成。</li><li><strong>语义自定义查询</strong>：支持自然语言查询，能按行业术语和自定义规则匹配数据，官网的说法是「用大白话查数据」。</li><li><strong>自定义 AI 分析师</strong>：按行业和业务场景自定义分析角色，并支持 AI 生成角色模板与行业知识定义。</li><li><strong>自动生成报告</strong>：一键生成数据分析报告，可按需定制财务、市场、运营等报告模板，支持自定义结构与样式并导出文档。</li></ul>"
       },
       {
-        "title": "如何使用数以轻舟Agent",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>下载安装</strong>：访问数以轻舟Agent官网 https://www.dify-ai.cn/excelagent/excelagent.html ，下载 Windows 桌面端安装包，按引导完成本地部署，普通行政人员可在技术文档指导下独立完成安装。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>配置本地大模型</strong>：接入 Qwen、DeepSeek、Kimi 等主流本地大模型，数据全程在本地环境闭环运行，无需上传云端，支持离线使用。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>打开 Excel 文件</strong>：直接导入需要处理的 Excel 表格，Agent 自动识别表结构、字段类型及数据特征。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自然语言输入需求</strong>：在对话框中用口语化描述操作指令，如”把A列姓名和B列电话合并成一列用顿号隔开”或”按地区统计销售额并计算占比”，无需记忆函数公式。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>预览与确认执行</strong>：Agent 自动生成执行方案并展示清洗前后的对比预览，确认后一键完成数据清洗、格式标准化、透视分析或跨表关联。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>批量处理（可选）</strong>：选择文件夹内多个 Excel 文件，执行统一格式转换、字段提取或合并汇总，适合周期性报表批量处理。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>保存指令模板</strong>：将常用操作流程保存为模板，下次遇到同类任务（如人事考勤统计、月度财务对账）直接一键复用，实现周期性工作自动化。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>导出结果</strong>：处理完成后直接导出标准格式的 Excel 文件，或一键生成含图表与排版的 Word 分析报告，用于工作汇报或系统导入。</div>\n</li>\n</ul>"
+        "title": "如何使用 数以轻舟Agent",
+        "html": "<ol><li>在数以轻舟Agent 官网下载并安装产品，购买后按官方说明完成激活。</li><li>配置模型。官网给出的第一步是选择并配置硅基流动接口，或者接入本地化大模型；追求数据不出内网就选后者，按官方文档把 Qwen、DeepSeek 等模型接上。</li><li>导入待处理数据。数以轻舟Agent 面向 Excel 与 CSV 文件，支持批量导入。</li><li>用自然语言说明目标，例如要清洗哪些字段、需要做什么口径的汇总，或要按什么规则筛选。</li><li>让数以轻舟Agent 生成并执行处理逻辑。官网说明它会自动编写 Python 代码来跑数据清洗与计算。</li><li>核对中间结果，确认口径无误后再让它生成报告，并按需选择报告模板与导出格式。</li><li>日常使用时可以把常用分析角色和报告模板保存下来复用。</li></ol>"
       },
       {
-        "title": "数以轻舟Agent的核心优势",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>自然语言零门槛操作</strong>：全程不写公式、不记语法，用口语化描述，Agent 自动解析意图并执行，Excel 新手也能完成专业级数据处理。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>本地部署数据主权</strong>：全面兼容 Qwen、DeepSeek、Kimi 等本地大模型，Excel 文件与业务数据全程在本地闭环运行，零出站网络请求，满足金融、医疗、政务等强监管行业合规要求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>智能清洗与格式标准化</strong>：自动识别日期格式混乱、文本数字混排、空值填充等常见问题，支持批量规范化处理，并提供清洗前后对比预览，省去手动排查时间。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>语义化透视与分组汇总</strong>：基于自然语言语义理解自动生成分组统计，无需手动拖拽透视表字段，一键完成多维度分析。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>跨表关联语义化表达</strong>：支持 VLOOKUP、XLOOKUP 等复杂关联逻辑的自然语言描述，自动匹配关键字段，轻松处理多表数据整合与合并拆分场景。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>批量文件高效处理</strong>：支持对文件夹内多个 Excel 文件执行相同操作流程，如统一格式、提取特定字段、合并汇总，适合月度、季度等周期性报表批量处理。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>指令模板一键复用</strong>：可将常用操作流程保存为模板，人事考勤、财务对账、销售统计等周期性任务下次直接调用，实现自动化流水线。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "数以轻舟Agent的同类竞品对比",
-        "html": "<table data-v-e7c0e5f5=\"\">\n<thead data-v-e7c0e5f5=\"\">\n<tr data-v-e7c0e5f5=\"\">\n<th align=\"left\" data-v-e7c0e5f5=\"\">对比维度</th>\n<th align=\"left\" data-v-e7c0e5f5=\"\">数以轻舟Agent</th>\n<th align=\"left\" data-v-e7c0e5f5=\"\"><a href=\"https://ai-bot.cn/sites/69072.html\" target=\"_blank\" rel=\"noopener\">ChatExcel</a></th>\n<th align=\"left\" data-v-e7c0e5f5=\"\"><a href=\"https://ai-bot.cn/sites/1737.html\" target=\"_blank\" rel=\"noopener\">WPS AI</a></th>\n</tr>\n</thead>\n<tbody data-v-e7c0e5f5=\"\">\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">开发团队</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">北京乾策数智科技有限公司</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">北京大学团队</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">金山办公（Kingsoft）</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong class=\"\" data-v-e7c0e5f5=\"\">核心定位</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">本地化 Excel 数据处理 Agent</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">在线 AI 表格处理与数据分析平台</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">WPS 办公套件内置 AI 助手</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">部署方式</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">Windows 桌面端本地安装，支持离线运行</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">网页端在线使用，需上传文件至云端</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">集成于 WPS Office 客户端，部分功能需联网</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">数据安全</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">数据全程本地闭环，零出站网络请求，满足金融/医疗/政务合规</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">文件需上传云端处理，依赖平台数据安全策略</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">数据在 WPS 云服务与本地间流转，企业版有安全加固</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong class=\"\" data-v-e7c0e5f5=\"\">自然语言操作</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">支持，口语化描述即可生成复杂公式与透视分析</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">支持，中文语义适配深，一句话完成清洗/汇总/图表</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">支持，在表格内通过侧边栏或对话框输入指令</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">本地大模型</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">全面兼容 Qwen、DeepSeek、Kimi 等本地模型</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">主要依赖云端大模型，本地化能力有限</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">依赖金山自研或合作云端模型，不支持第三方本地模型接入</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong class=\"\" data-v-e7c0e5f5=\"\">批量文件处理</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">支持文件夹内多 Excel 批量执行相同流程</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">支持多表协作处理，但批量自动化程度有限</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">支持批量格式转换与基础处理，复杂批量场景需手动操作</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">跨表关联</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">VLOOKUP/XLOOKUP 语义化表达，自动匹配关键字段</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">支持跨表格协作处理、数据合并与比较</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">支持多表数据引用与基础关联，复杂关联需手动公式</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">指令模板复用</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">支持保存常用指令模板，周期性任务一键复用</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">支持对话历史与部分操作复用</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">支持常用功能快捷调用，深度自定义模板有限</td>\n</tr>\n</tbody>\n</table>"
-      },
-      {
-        "title": "数以轻舟Agent的应用场景",
-        "html": "<ul>\n<li><strong>客户名单整理</strong>：销售部门从各渠道收集的客户信息格式不一，通过自然语言指令快速完成去重、补全、格式统一，生成可用于 CRM 导入的标准客户表。</li>\n<li><strong>报价单快速生成</strong>：输入产品基础数据与价格规则，自动生成含公式计算的动态报价单，支持批量替换客户信息输出多份独立文件。</li>\n<li><strong>财务报表预处理</strong>：对导出的原始财务数据进行科目归类、月度汇总、异常值标记，生成管理层可读的分析底表。</li>\n<li><strong>人事数据批量处理</strong>：入职信息表、考勤统计、薪资核算等周期性 Excel 操作，通过保存常用指令模板实现一键复用。</li>\n<li><strong>敏感数据内部分析</strong>：涉及客户隐私、商业机密、未公开财务数据的分析场景，全程本地运行，满足企业对数据主权的要求。</li>\n</ul>"
+        "title": "数以轻舟Agent 的应用场景",
+        "html": "<ul><li><strong>财务与运营数据整理</strong>：数以轻舟Agent 官网列出财务报告、市场分析报告与运营报告模板，适合固定周期出报表的岗位。</li><li><strong>数据合规要求高的行业</strong>：不允许把业务数据上传到外部云服务时，本地模型加本地处理是更稳妥的方案。</li><li><strong>缺乏数据分析专职人员的团队</strong>：官网把「分析角色专业性不足」列为企业常见痛点，自定义分析师角色正是针对这一点。</li><li><strong>大批量表格处理</strong>：百万行级别的合并、拆分与关联过滤，手工处理成本高，适合交给数以轻舟Agent。</li><li><strong>业务人员自助取数</strong>：不想每次都提需求给数据团队时，可以用自然语言直接查询。</li></ul><p>官网提到本地化处理与断网可用，但实际运行效果依赖所接入本地模型的规模与硬件条件，选型时建议先用自有数据做验证。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "tool65832",
@@ -15453,27 +15381,23 @@
     "domain": "shutu.cn",
     "detailed_content": [
       {
-        "title": "TreeMind树图是什么",
-        "html": "<p>TreeMind树图是在线<a href=\"https://ai-bot.cn/ai-mind-mapping-tools/\" target=\"_blank\" rel=\"noopener\">AI思维导图工具</a>，拥有120万+模板和素材库，支持多种图表格式。基于AI技术，实现一键生成导图，提高效率。支持多人协作，云端同步，适用于教育、商业分析和项目管理。免费模板库和导出功能，成为提升思维效率和创新能力的多功能工具。TreeMind树图是搭载了最新AI语言模型的智能思维导图，输入需求，树图AI可以帮你完成一切：读书笔记，教学安排，工作计划，商业分析，活动策划等。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/10/shutu-website.png\" data-fancybox=\"fancybox\" data-caption=\"TreeMind树图\"><img decoding=\"async\" class=\"alignnone wp-image-26265\" src=\"https://ai-bot.cn/wp-content/uploads/2024/10/shutu-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"TreeMind树图\" width=\"741\" height=\"417\"></a>"
+        "title": "TreeMind树图 是什么",
+        "html": "<p>TreeMind树图 是一款在线 AI 思维导图工具，官网域名是 shutu.cn。它的核心卖点是把「画导图」这件事变成「说出来」：输入一句话或上传一份资料，由 TreeMind树图 自动生成可编辑的思维导图文件。</p><p>按官网介绍，TreeMind树图 支持脑图、逻辑图、树形图、鱼骨图、组织架构图、时间轴等多种专业结构，适用于头脑风暴与创意规划。官网还列出了一系列合作与荣誉，包括与讯飞星火、字节跳动扣子的官方插件合作，以及上海人工智能行业协会会员单位旗下产品等身份。</p>"
       },
       {
-        "title": "TreeMind树图的主要功能",
-        "html": "<ul>\n<li><strong>AI一句话生成思维导图</strong>：用户只需输入一句话描述，AI可快速生成相应的思维导图，极大提高制作效率。</li>\n<li><strong>丰富的模板库</strong>：提供超过百万的模板，涵盖多个行业和使用场景，用户可以选择合适的模板快速开始工作。</li>\n<li><strong>多人协作编辑</strong>：支持团队成员实时在线协作，共同编辑和讨论思维导图，提高团队工作效率。</li>\n<li><strong>跨平台文件同步</strong>：支持云端同步，用户可以在不同设备上随时随地访问和编辑思维导图。</li>\n<li><strong>设计资源库</strong>：提供丰富的图标、插图、背景等设计素材，用户可以根据需要个性化定制思维导图。</li>\n<li><strong>导出功能</strong>：支持将思维导图导出为图片、PDF、文本等多种格式，方便分享和打印。</li>\n<li><strong>个性化编辑</strong>：用户可以自定义节点样式、布局和结构，以及添加标签、评论和附件等，使思维导图更加丰富和完整。</li>\n<li><strong>演示功能</strong>：支持互动演示、幻灯片演示和平滑演示，使思维导图的展示更加生动和专业。</li>\n<li><strong>开放平台</strong>：支持接入更多外部应用，扩展功能，满足不同用户的特殊需求。</li>\n</ul>"
+        "title": "TreeMind树图 的主要功能",
+        "html": "<ul><li><strong>一句话生成导图</strong>：输入需求即可由 TreeMind树图 生成结构，官网举例的场景包括读书笔记、教学安排、工作计划、宣传文案、商业分析与活动策划。</li><li><strong>图片转可编辑导图</strong>：上传图片，由 AI 转成可以继续编辑的思维导图文件。</li><li><strong>文档总结为导图</strong>：上传文档自动提炼结构，官网提到适合看财报、研报与电子书。</li><li><strong>分屏导图</strong>：一屏之内一边看资料一边做导图，不必来回切换窗口。</li><li><strong>互动演示</strong>：用演示功能讲解导图，协作者可以喝彩、评论和投票。</li><li><strong>多人协作与团队空间</strong>：支持多人同时查看和编辑同一张导图，团队空间用于管理团队文件。</li><li><strong>丰富结构</strong>：30 多种结构与 200 多款配色模板，支持彩虹分支与子主题切换结构。</li><li><strong>素材与公式</strong>：素材库覆盖图标、插图、背景、摄影图、3D 元素、GIF、音频与视频；公式库覆盖初高中数学、高等数学、物理与化学方程式。</li><li><strong>多格式导出</strong>：支持图片、PDF、Word 等十多种格式，客户端还支持分页打印。</li><li><strong>跨平台</strong>：提供 Windows、macOS、Linux、iOS、iPad、Android 客户端以及在线 web 版。</li></ul>"
       },
       {
-        "title": "如何使用TreeMind树图",
-        "html": "<ul>\n<li><strong>注册和登录</strong>：\n<ul>\n<li>访问TreeMind树图的<a href=\"https://shutu.cn/?from=aibot\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">官方网站</a>。</li>\n<li>注册账户或使用社交媒体账户快速登录。</li>\n<li>登录后，进入TreeMind树图的主界面。</li>\n</ul>\n</li>\n<li><strong>创建新的思维导图</strong>：\n<ul>\n<li>在主界面，选择“新建”或“创建新导图”选项。</li>\n<li>可以直接开始绘制，或选择一个现有的模板作为起点。</li>\n</ul>\n</li>\n<li><strong>使用AI生成思维导图</strong>：\n<ul>\n<li>在输入框中输入主题或需求，例如“会议记录”或“项目计划”。</li>\n<li>点击“AI生成”按钮，TreeMind树图将自动创建一个思维导图。</li>\n</ul>\n</li>\n<li><strong>编辑思维导图</strong>：\n<ul>\n<li>使用鼠标点击和拖拽来添加、移动或删除节点。</li>\n<li>输入文本、插入图片、链接和其他附件来丰富你的导图。</li>\n<li>调整节点样式，如颜色、形状和连接线样式。</li>\n</ul>\n</li>\n<li><strong>选择和应用模板</strong>：\n<ul>\n<li>浏览模板库，选择合适的模板。</li>\n<li>应用模板后，可以根据需要进一步编辑和定制。</li>\n</ul>\n</li>\n<li><strong>协作编辑</strong>：\n<ul>\n<li>邀请团队成员或朋友一起协作。</li>\n<li>通过分享链接或使用协作功能，多人可以实时编辑同一张思维导图。</li>\n</ul>\n</li>\n<li><strong>演示和分享</strong>：\n<ul>\n<li>使用TreeMind树图的演示功能，如互动演示或平滑演示，展示思维导图。</li>\n<li>通过分享链接或导出文件，将思维导图分享给他人。</li>\n</ul>\n</li>\n<li><strong>导出和保存</strong>：\n<ul>\n<li>完成思维导图后，选择导出功能，将导图保存为图片、PDF或其他格式。</li>\n<li>思维导图会自动保存在云端，可以随时访问和编辑。</li>\n</ul>\n</li>\n</ul>"
+        "title": "如何使用 TreeMind树图",
+        "html": "<ol><li>打开 TreeMind树图 官网，点击进入工作台，网页端可以直接使用，也可以下载对应平台的客户端。</li><li>选择创建方式：从零开始就写一句话让 TreeMind树图 生成，已有资料则上传图片或文档让它自动转成导图。</li><li>确定结构类型。站内提供脑图、逻辑图、鱼骨图、组织架构图、时间轴等 30 多种结构，选对结构比后期调整更省事。</li><li>套用主题与配色，18 个配色主题搭配 200 多款模板，可以只对单分支做调整。</li><li>补充细节时用分屏导图一边看原资料一边改节点，需要公式的节点直接从公式库调用。</li><li>团队评审时用互动演示模式讲解，收集评论与投票后再回到导图修改。</li><li>完成后按需要导出为图片、PDF 或 Word，客户端可以直接分页打印。</li></ol>"
       },
       {
-        "title": "TreeMind树图的产品定价",
-        "html": "<ul>\n<li><strong>免费版：</strong> Treemind树图的免费版提供基础脑图功能，包括2000字AI体验、每天1次免费导出、500M云盘空间，以及创建3人团队的能力。</li>\n<li><strong>个人高级版：</strong> 每月￥39的个人高级版为个人学习者和创作者提供无限高级功能，包括5-10万字AI字数、无限制导出和5G云盘，以及所有模版内容的使用权。</li>\n<li><strong>团队版：</strong> 团队版以每人每月￥9.8的价格，为5人团队提供个人高级版所有权益，包括10万字起的团队AI字数、20G云盘和高级团队管理功能。</li>\n<li><strong>积分充值：</strong> Treemind树图的积分充值服务提供不同额度的积分购买，积分价值等同于人民币，购买更多积分可获额外赠送。</li>\n<li><strong>AI字数充值：</strong> 提供不同字数的AI辅助功能充值，包括10000、50000、100000字套餐，以及3天不限字数的套餐，价格从￥9.9起。</li>\n</ul>"
-      },
-      {
-        "title": "TreeMind树图的应用场景",
-        "html": "<ul>\n<li><strong>学习规划</strong>：<span style=\"font-size: 0.875rem;\">学生可以用来整理学习笔记、制定学习计划、准备考试大纲。</span><span style=\"font-size: 0.875rem;\">教师可以设计课程结构、组织教学内容、准备课件。</span></li>\n<li><strong>项目管理</strong>：<span style=\"font-size: 0.875rem;\">项目经理可以规划项目流程、分配任务、追踪进度。</span><span style=\"font-size: 0.875rem;\">团队成员可以协作、头脑风暴和梳理项目需求。</span></li>\n<li><strong>商业分析</strong>：<span style=\"font-size: 0.875rem;\">商业分析师可以进行市场研究、SWOT分析、竞争对手分析。</span><span style=\"font-size: 0.875rem;\">可以用来制定商业策略、进行财务规划。</span></li>\n<li><strong>会议记录</strong>：<span style=\"font-size: 0.875rem;\">在会议中，可以实时记录讨论要点、决策结果和行动计划。</span><span style=\"font-size: 0.875rem;\">可以快速分享会议摘要和后续行动指南。</span></li>\n<li><strong>创意策划</strong>：<span style=\"font-size: 0.875rem;\">广告和营销团队可以用来组织创意点子、策划营销活动。</span><span style=\"font-size: 0.875rem;\">可以梳理产品功能、用户需求和设计思路。</span></li>\n<li><strong>个人成长</strong>：<span style=\"font-size: 0.875rem;\">个人可以制定发展计划、整理生活目标、进行自我反思。</span><span style=\"font-size: 0.875rem;\">职业规划师可以为客户制定职业发展路径。</span></li>\n</ul>"
+        "title": "TreeMind树图 的应用场景",
+        "html": "<ul><li><strong>学习与读书笔记</strong>：把一本书或一门课的结构整理成导图，TreeMind树图 可以从文档直接提炼。</li><li><strong>工作规划与项目管理</strong>：工作计划、教学安排、活动策划都适合用结构化导图呈现。</li><li><strong>商业分析</strong>：官网提到上传财报或研报后由 AI 转成导图，用于快速抓取信息要义。</li><li><strong>团队头脑风暴</strong>：多人同时编辑加互动演示，适合评审和共创场景。</li><li><strong>知识库沉淀</strong>：用团队空间积累行业导图，站内本身也有覆盖教育、IT 互联网、金融、医疗等行业的导图搜索库。</li><li><strong>答辩与汇报</strong>：需要现场讲解结构时，TreeMind树图 的演示模式配合打印导出可以覆盖线上与线下两种场合。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "tool1534",
@@ -23488,27 +23412,23 @@
     "domain": "augmentcode.com",
     "detailed_content": [
       {
-        "title": "Augment Code是什么",
-        "html": "<p>Augment Code 是 AI 编程助手，专为开发团队设计，提升开发效率和代码质量。通过深度理解代码库的上下文，为开发者提供个性化的代码生成、代码优化以及问题解答服务。核心优势在于能处理大型复杂项目，支持多模态输入，如截图和设计文件，帮助开发者更直观地解决问题。 Augment Code 提供从问题定义到代码优化的全流程支持，支持 VS Code、JetBrains IDEs 等主流开发工具，通过 Slack 集成助力团队协作。具备强大的上下文引擎，容量高达20万tokens，能更好地理解代码结构和依赖关系。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-47853\" src=\"https://ai-bot.cn/wp-content/uploads/2025/04/Augment-Code-website1.png\"   alt=\"Augment Code\" width=\"739\" height=\"416\" />"
+        "title": "Augment Code 是什么",
+        "html": "<p>Augment Code 的定位是「组织规模的智能体软件开发」。官网用一句话点出它想解决的问题：工程师手上已经有各种智能体了，但组织层面还没有对应的机制，而 Augment Code 推出的 Cosmos 平台就是用来补上这段差距的。</p><p>用官方的说法，Cosmos 是一个用来构建「always-on software delivery system」的平台，把工作从需求说明推进到验证环节。构建和调优都通过自然语言完成，但关键节点仍由工程师把关。Augment Code 官网还强调 Expertise as an asset 与 Humans in by design，意思是把团队的最佳实践沉淀成资产，同时把人放在流程设计之内。</p>"
       },
       {
-        "title": "Augment Code的主要功能",
-        "html": "<ul>\n<li><strong>大型代码库适配</strong>：Augment专门针对大型代码库进行了优化，能够理解复杂的项目结构和编码模式，为开发者提供更加精准的代码建议。</li>\n<li><strong>深度代码理解</strong>：能够全面理解整个代码库的上下文，即使是大型复杂项目也能快速响应。它通过预先索引代码库，实现对代码结构和依赖关系的深度理解。</li>\n<li><strong>个性化代码生成</strong>：随着开发者的工作自动学习和适应代码风格，提供个性化的内联代码完成功能。</li>\n<li><strong>支持多种输入方式</strong>：除了传统的文本输入外，还支持多模态输入，如截图、Figma 文件等，帮助开发者更直观地描述问题。</li>\n<li><strong>强大上下文处理能力</strong>：上下文容量高达20万tokens，能更好地理解代码库的结构和依赖关系。</li>\n<li><strong>Slack 集成</strong>：通过 Slack 集成，开发者可以快速获得答案、让新成员跟上进度或在需要时做出决策。</li>\n<li><strong>代码优化建议</strong>：提供代码优化建议，帮助开发者提升代码质量和性能。</li>\n<li><strong>重构辅助</strong>：辅助代码重构，确保代码的可读性和可维护性。</li>\n<li><strong>即时回答问题</strong>：能即时回答关于代码库的问题，帮助开发者快速定位和解决问题。</li>\n<li><strong>自动创建快照</strong>：自动创建工作空间的快照，方便开发者随时查看和回退到之前的版本。</li>\n<li><strong>项目管理</strong>：从问题到拉取请求，帮助开发者从问题定义、代码创建到代码优化的整个过程。</li>\n</ul>"
+        "title": "Augment Code 的主要功能",
+        "html": "<ul><li><strong>Software Factory</strong>：Augment Code 用它来描述整条软件交付产线，官网称智能体运行的是整条产线而不只是写代码。</li><li><strong>需求到 PR</strong>：Ticket to PR 能力可以把一个工单推进到已审阅的合并请求。</li><li><strong>代码评审</strong>：Code Review 让智能体参与每一个 PR 的检查。</li><li><strong>测试覆盖</strong>：Test Coverage 的目标是让覆盖率上升的同时保持测试套件稳定。</li><li><strong>故障与告警处理</strong>：Incident Management 在人工介入之前先完成告警排查。</li><li><strong>安全修复</strong>：Security Remediation 可以把 CVE 告警推进到经过审阅的修复方案。</li><li><strong>迁移与现代化</strong>：Migrations 把系统改造当成一项长期计划而不是一次性项目。</li><li><strong>入职与规范</strong>：Onboarding 用于缩短新人上手时间，Team Standards at Scale 把团队最优工作流变成默认配置。</li><li><strong>Context Engine、CLI 与 Cloud Agents</strong>：分别对应上下文理解、命令行使用与云端运行的智能体。</li></ul>"
       },
       {
-        "title": "如何使用Augment Code",
-        "html": "<ul>\n<li><strong>访问官网</strong>：访问Augment Code的官网。邮箱注册并登录。</li>\n<li><strong>安装插件</strong>：根据使用的 IDE，选择安装对应的插件。Augment Code支持<strong style=\"font-size: 0.875rem;\">VS Code</strong><strong class=\"\" style=\"font-size: 0.875rem;\">、JetBrains、</strong><strong class=\"\" style=\"font-size: 0.875rem;\">Vim等。</strong></li>\n<li><strong>配置环境</strong>：安装后，打开 IDE，登录账号。插件会扫描项目代码库，建立索引，首次扫描时间因项目大小而异。</li>\n<li><strong>功能使用</strong>\n<ul>\n<li><strong>代码补全</strong>：在 IDE 中输入代码，插件会根据上下文建议代码，按“Tab”键接受建议。</li>\n<li><strong>智能聊天</strong>：通过聊天窗口提问代码问题。点击 IDE 侧边栏“Chat”图标，输入问题，AI 分析代码库后返回答案并标注文件路径。</li>\n<li><strong>多文件编辑</strong>：使用 Agent 模式批量修改代码。在聊天窗口输入任务，Agent 列出修改预览，点击“Apply”执行。</li>\n<li><strong>多模态输入</strong>：上传截图或 Figma 文件，辅助调试或实现 UI。在聊天窗口点击上传按钮，选择截图或 Figma 文件，输入需求，AI 会生成代码。</li>\n<li><strong>项目生成</strong>：在 Agent 模式输入需求，快速搭建完整项目。>输入需求，如“做一个微信小程序图书管理系统”，AI 生成前端代码、后端服务和数据库表，检查代码后按提示运行。</li>\n<li><strong>工具集成</strong>：在设置中授权 GitHub、Slack 等账号。在 IDE 中提交代码或发送消息。</li>\n</ul>\n</li>\n</ul>"
+        "title": "如何使用 Augment Code",
+        "html": "<ol><li>打开 Augment Code 官网，通过 Get Started 或 Talk to Sales 选择合适的进入方式；官网同时提供 Docs 与 Status Page。</li><li>接通代码仓库与上下文来源，让 Context Engine 能读取项目信息。</li><li>用自然语言描述想要的交付流水线，Augment Code 官网说明构建与调优都可以通过对话完成。</li><li>按官网给出的循环跑通第一轮：从工单确定意图与范围，到写规格并委派，再到评审与验证。</li><li>继续后半段循环：审批发布、监控告警并修正，修正结果会回到工单形成闭环。</li><li>把一个流程验证好之后，再把它固化成可复用的自动化，团队其他人就能沿用同一套标准。</li><li>需要本地或脚本化使用时改用 CLI，需要常驻运行则用 Cloud Agents。</li></ol>"
       },
       {
-        "title": "Augment Code的应用场景",
-        "html": "<ul>\n<li><strong>大型代码库管理</strong>：Augment Code 支持高达 20 万 token 的上下文，能快速理解复杂项目，生成准确的代码建议。适用于拥有庞大代码库和多个开发团队的大型企业，帮助统一编码标准并提高代码复用率。</li>\n<li><strong>快速原型开发</strong>：通过 Agent 模式，Augment Code 可以在几分钟内生成前后端代码，适合快速验证想法。</li>\n<li><strong>团队协作与知识传承</strong>：Augment Code 支持多开发者协作，促进内部最佳实践的共享。新成员可以通过聊天功能快速了解代码库的工作原理、调查错误等，加速学习和融入团队。</li>\n<li><strong>代码优化与重构</strong>：Augment Code 提供基于 AI 的代码审查功能，识别潜在的错误和改进空间。为代码重构提供分步指导，帮助开发者改进代码结构和性能。</li>\n<li><strong>复杂任务处理</strong>：Augment Code 凭借强大的上下文处理能力，能应对复杂的代码重构和迁移任务。</li>\n</ul>"
-      },
-      {
-        "title": "Augment Code的适用人群",
-        "html": "<ul>\n<li><strong>个人开发者</strong>：需要提高编码效率、快速生成高质量代码的独立开发者。</li>\n<li><strong>开发团队</strong>：在大型项目中协作的团队成员，特别是那些需要快速理解和适应项目编码风格的新团队成员。</li>\n<li><strong>资深工程师</strong>：希望推广内部最佳实践、提升团队整体编码水平的高级工程师。</li>\n<li><strong>技术领导和项目经理</strong>：负责监督项目进度和代码质量，需要确保团队遵循既定的开发流程和标准。</li>\n<li><strong>初创公司</strong>：寻求快速迭代产品，需要在短时间内产生大量可靠代码的初创企业。</li>\n<li><strong>大型企业</strong>：拥有庞大代码库和多个开发团队的大型企业，需要统一编码标准并提高代码复用率。</li>\n</ul>"
+        "title": "Augment Code 的应用场景",
+        "html": "<ul><li><strong>工程团队规模化引入智能体</strong>：Augment Code 面向的正是已经零散使用智能体、但缺少统一机制的组织。</li><li><strong>代码评审与质量守门</strong>：评审量大、人力吃紧的团队可以先把 Code Review 交给智能体过一遍。</li><li><strong>安全漏洞响应</strong>：把 CVE 告警到修复的链路交给 Augment Code 处理，缩短暴露时间。</li><li><strong>大型项目交付</strong>：官网列出从设计文档到功能上线的完整路径，适合周期长的项目。</li><li><strong>遗留系统迁移</strong>：把迁移当程序来管，而不是当作一次性工程。</li><li><strong>新人入职提速</strong>：用 Onboarding 能力缩短工程师熟悉代码库的时间。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "tool70526",
@@ -25529,35 +25449,23 @@
     "domain": "quiver.ai",
     "detailed_content": [
       {
-        "title": "QuiverAI是什么",
-        "html": "<p>QuiverAI 是专注矢量图形生成的AI设计工具 ，基于自研基础模型 Arrow 构建的”视觉代码生成”平台，能直接输出可编辑的 SVG 代码，非传统像素图像。QuiverAI 覆盖 Logo、插画、字体和动画四大场景，面向设计师与开发者提供从文本或参考图生成生产级矢量资产的能力，支持通过 API 和 SDK 集成到第三方设计工具中。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-76257\" src=\"https://ai-bot.cn/wp-content/uploads/2026/04/QuiverAI-website.png\"   alt=\"QuiverAI\" width=\"739\" height=\"416\" />"
+        "title": "QuiverAI 是什么",
+        "html": "<p>QuiverAI 是一家把生成式 AI 用在矢量设计上的团队，官网的自我描述是「Frontier AI for Design」——用基础模型完成矢量图形的生成、编辑与动画制作。和常见的位图生成工具不同，QuiverAI 输出的重点是可编辑的矢量文件，官方把它概括为面向产品、品牌与营销工作流生成可编辑 SVG 资产。</p><p>QuiverAI 目前主推的模型是 Arrow 2 与 Arrow 2 Telos，官网把它标注为面向设计工作的基础模型，强调「control and precision」，也就是在生成的同时保留设计上的可控性。官网同时提供 Solutions、Developers、Platform、Enterprise 与 Pricing 等入口，说明它既面向个人设计师，也面向团队与企业。</p>"
       },
       {
-        "title": "QuiverAI的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>文本转 SVG（Text-to-SVG）</strong>：输入自然语言描述即可生成 Logo、图标、插画等矢量图形，支持风格化指令（如扁平单色、圆角、描边风格）。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>图像转 SVG / 智能矢量化（Image-to-SVG）</strong>：将 PNG、JPEG、WebP 等栅格图像转换为干净、结构化的 SVG 代码，支持自动裁剪主体（<code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-849e0090=\"\">auto_crop</code>）。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>实时流式渲染</strong>：通过 Server-Sent Events 实时查看生成过程中的推理、草稿和最终成品。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多格式导出</strong>：支持导出 SVG、PNG、JPEG、WebP 四种格式。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自然语言迭代编辑</strong>：生成后可通过文字指令对 SVG 进行精细化修改，无需手动调整路径。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>参考图风格约束</strong>：支持上传最多 4 张参考图像，引导输出风格与构图。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>高保真模式（Arrow 1.1 Max）</strong>：针对复杂插画、技术图纸等细节敏感场景提供增强版模型。</div>\n</li>\n</ul>"
+        "title": "QuiverAI 的主要功能",
+        "html": "<ul><li><strong>Text to SVG</strong>：用文字描述直接生成矢量图形。</li><li><strong>Image to SVG</strong>：把参考图转为可编辑的矢量结果。</li><li><strong>Logo 生成</strong>：QuiverAI 可以从文字或参考图生成干净的 SVG 标志，官网强调「production-ready」，即结果可以直接进入实际项目。</li><li><strong>矢量插画</strong>：生成完整矢量插画，之后可以编辑、重新上色，或迁移到 UI、营销、产品流程等不同场景。</li><li><strong>字体与字形（标注为即将推出）</strong>：QuiverAI 计划支持自定义矢量字形与字体，从实验性展示字体到可用的界面字体，并能调整字重、对比度与字符细节。</li><li><strong>动画（标注为即将推出）</strong>：官网称要让 SVG 动起来而不必把设计工作变成工程工作。</li><li><strong>开发者接口</strong>：官网列出 List Models、Get Model、Vectorize、Responses 等能力，说明 QuiverAI 提供 API 供程序调用。</li></ul>"
       },
       {
-        "title": "如何使用QuiverAI",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>注册账号</strong>：访问 QuiverAI 官网 https://quiver.ai/ ，完成注册并登录。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择生成模式</strong>：在创作界面选择”Text-to-SVG”（文生矢量）或”Image-to-SVG”（图生矢量）。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>输入提示或上传素材</strong>：</div>\n<ul>\n<li>\n<div class=\"paragraph\">文生模式：输入描述性提示词，可附加风格指令。</div>\n</li>\n<li>\n<div class=\"paragraph\">图生模式：上传 PNG/JPEG/WebP 参考图，可选开启 <code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-849e0090=\"\">auto_crop</code>。</div>\n</li>\n</ul>\n</li>\n<li>\n<div class=\"paragraph\"><strong>配置参数</strong>：选择模型版本（Arrow 1.1 或 Arrow 1.1 Max）、设置导出格式、上传风格参考图（最多4张）。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>生成与预览</strong>：点击生成，通过流式渲染实时查看输出过程。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>迭代优化</strong>：使用自然语言指令对颜色、形状、布局进行微调。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>导出或集成</strong>：下载 SVG/PNG 文件，或通过 API Key 接入自有系统。</div>\n</li>\n</ul>"
+        "title": "如何使用 QuiverAI",
+        "html": "<ol><li>打开 QuiverAI 官网，通过 Get started 注册并进入工作区。</li><li>按需求选择入口：做标志用 Logo，做配图用 Illustrations，需要矢量化已有素材时走 Image to SVG 或 Vectorize。</li><li>写提示词时明确形态要求。官网的示例提示词是「生成一枚字母 Q 的极简单字母组合标志，使用利落的矢量路径」，这类描述比笼统的风格词更容易得到可用的路径。</li><li>生成后检查路径结构，QuiverAI 的输出是可编辑的矢量，可以继续调整节点与配色。</li><li>需要批量或集成到自有系统时，改用 API 调用 Arrow 2 等模型。</li><li>注意字体与动画两项在 QuiverAI 官网当前标注为即将推出，暂时不能作为可用功能依赖。</li></ol>"
       },
       {
-        "title": "QuiverAI的关键信息和使用要求",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>官网</strong>：https://quiver.ai</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>应用入口</strong>：https://app.quiver.ai/creations</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>文档中心</strong>：https://docs.quiver.ai</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>GitHub</strong>：https://github.com/quiverai（提供 Node SDK 与 OpenAPI 规范）</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>API 接入</strong>：Base URL 为 <code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-849e0090=\"\">https://api.quiver.ai/v1</code>，认证方式为 <code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-849e0090=\"\">Authorization: Bearer <API_KEY></code></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>核心端点</strong>：<code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-849e0090=\"\">POST /v1/svgs/generations</code>（文生图）、<code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-849e0090=\"\">POST /v1/svgs/vectorizations</code>（图生矢量）</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>免费额度</strong>：Free 计划每周提供 20 张 SVG 生成额度</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>付费方案</strong>：Basic（$20/月，100张/周）、Pro（$40/月，250张/周）、Enterprise（定制）</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>使用要求</strong>：需具备基础英文提示词能力；API 调用需 Node.js 或 HTTP 客户端环境；高保真复杂图形建议使用 Arrow 1.1 Max</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "QuiverAI的核心优势",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>原生矢量输出</strong>：直接生成 SVG 代码而非像素图，可无限缩放、逐层编辑，无缝融入 Figma、Illustrator 等专业工作流。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>结构极度干净</strong>：生成的路径控制点少、层级组织清晰，即使元素重叠也保持可编辑性，大幅减少后期手动清理成本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>专业领域性能领先</strong>：自研 Arrow 模型在 SVG Arena 排行榜以 1583 Elo 评分位列第一，是首个突破 1500 分的设计类模型。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>研究型团队背景</strong>：团队由 SVG 生成 AI 领域研究人员组成，曾发表 StarVector、RLRF 等前沿论文，技术迭代能力强。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>开发者友好</strong>：提供 REST API 与官方 Node.js SDK（<code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-849e0090=\"\">@quiverai/sdk</code>），便于集成到设计工具、字体编辑器（如 Runebender）和自动化工作流。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "QuiverAI的同类竞品对比",
-        "html": "<table data-v-e7c0e5f5=\"\">\n<thead data-v-e7c0e5f5=\"\">\n<tr data-v-e7c0e5f5=\"\">\n<th align=\"left\" data-v-e7c0e5f5=\"\">对比维度</th>\n<th align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">QuiverAI</strong></th>\n<th align=\"left\" data-v-e7c0e5f5=\"\"><a href=\"https://ai-bot.cn/sites/3171.html\" target=\"_blank\" rel=\"noopener\"><strong data-v-e7c0e5f5=\"\">Recraft</strong></a></th>\n<th align=\"left\" data-v-e7c0e5f5=\"\"><a href=\"https://ai-bot.cn/adobe-firefly/\" target=\"_blank\" rel=\"noopener\"><strong data-v-e7c0e5f5=\"\">Adobe Firefly</strong></a></th>\n</tr>\n</thead>\n<tbody data-v-e7c0e5f5=\"\">\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">核心输出</strong></td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">原生 SVG 矢量代码</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">支持 SVG、PNG、PDF 等多格式</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">支持 SVG、PNG、PSD 等，深度集成 Adobe 生态</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">生成方式</strong></td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">Text-to-SVG、Image-to-SVG</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">Text-to-Vector、Image-to-Vector</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">Text-to-Image、生成式填充、矢量重新着色</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">模型定位</strong></td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">专注矢量基础模型（Arrow）</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">通用设计 AI 平台</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">集成于 Creative Cloud 的生成式 AI</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">编辑能力</strong></td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">自然语言迭代编辑 SVG</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">提供画布编辑与样式控制</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">原生支持 Photoshop/Illustrator 深度编辑</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">开发者接口</strong></td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">REST API + Node.js SDK</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">提供 API 与插件</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">通过 Adobe API 与插件生态接入</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">价格策略</strong></td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">Free/Basic($20)/Pro($40)/Enterprise</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">免费额度 + 付费订阅</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">包含在 Creative Cloud 订阅或积分购买</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">差异化优势</strong></td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">路径最干净、SVG Arena 排名第一、研究驱动</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">社区模板丰富、品牌套件功能强</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">与 Adobe 工作流无缝衔接、企业合规性强</td>\n</tr>\n</tbody>\n</table>"
-      },
-      {
-        "title": "QuiverAI的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>品牌标识系统</strong>：从概念到生产级 SVG Logo 的快速探索与交付。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>产品界面设计</strong>：生成统一风格的图标集、空状态插画和营销物料。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>技术图纸矢量化</strong>：建筑平面图、时尚设计稿、工程图的智能转换与精修。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>字体与实验性排版</strong>：创建自定义显示字体或功能性 UI 字体的矢量字母形态。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>SVG 动画制作</strong>：为 Logo、图标、插画直接生成轻量且可控的矢量动画（即将推出）。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>第三方工具集成</strong>：作为云端矢量化引擎，嵌入设计插件、字体编辑器和自动化流水线。</div>\n</li>\n</ul>"
+        "title": "QuiverAI 的应用场景",
+        "html": "<ul><li><strong>品牌设计</strong>：QuiverAI 适合在标志探索阶段快速产出多个方向，官方称这样能让探索变快而不牺牲工艺质量。</li><li><strong>产品与营销素材</strong>：把矢量插画用到界面、落地页和营销物料里，矢量格式便于放大与改色。</li><li><strong>设计团队协作</strong>：官网提到已有设计公司在使用 QuiverAI，说明其定位包括团队级工作流。</li><li><strong>需要交付源文件的场景</strong>：客户要求提供可编辑源文件时，SVG 比位图更容易后续维护。</li><li><strong>开发者集成</strong>：希望把矢量生成能力嵌进自有产品或内部工具时，可以走 QuiverAI 的 API。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "tool60993",
@@ -31857,35 +31765,23 @@
     "domain": "gapp.so",
     "detailed_content": [
       {
-        "title": "gapp.so是什么",
-        "html": "<p>gapp.so 是专注于AI生成应用的发布与托管平台，为开发者提供一键上线的完整解决方案。只需提交AI生成的应用，gapp.so 自动生成专业落地页并提供稳定托管服务，让作品能被全球用户即点即玩。支持PC、手机、iPad全端无缝访问，无需下载安装。gapp.so 汇聚了丰富的AI原生应用和互动游戏，为创作者提供应用库展示、定价方案等全套服务，部署功能永久免费。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/04/gapp.so-website.png\" data-fancybox=\"fancybox\" data-caption=\"gapp.so\"><img decoding=\"async\" class=\"alignnone wp-image-75112\" src=\"https://ai-bot.cn/wp-content/uploads/2026/04/gapp.so-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"gapp.so\" width=\"741\" height=\"417\"></a>"
+        "title": "gapp.so 是什么",
+        "html": "<p>gapp.so 是一个 AI 原生互动内容平台。官网对自己的定义很简短：模拟器、推理、策略、创造，都是 AI 才做得出来的玩法。也就是说，它承载的不是传统意义上的小游戏，而是必须依赖大模型才能运行起来的互动内容。</p><p>从站内结构看，gapp.so 更像一个内容社区加运行平台：用户可以看到编辑精选、热门榜、最新发布，也可以按校园青春、宫廷权谋、测试占卜等题材分类浏览。每个内容都标注了作者与游玩次数，官方还提供 QQ 交流群与安装入口，方便用户参与创作和反馈。</p>"
       },
       {
-        "title": "gapp.so的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>AI 应用发布托管</strong>：支持一键发布 AI 生成应用，自动生成专业落地页并提供稳定云端托管服务。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>应用展示发现</strong>：提供应用库供用户浏览体验，支持 PC / 手机 / iPad 三端即点即玩，无需下载安装。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>开发者服务</strong>：提供应用提交入口、平台定价方案及 State 等开发工具，降低应用上线门槛。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>社区内容运营</strong>：通过博客、公众号、小红书等多渠道分享平台动态与创作教程，构建中文 AI 开发者社区。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>互动体验生态</strong>：汇聚 AI 原生游戏和互动应用，践行 “Vibe Coding” 轻量开发理念。</div>\n</li>\n</ul>"
+        "title": "gapp.so 的主要功能",
+        "html": "<ul><li><strong>模拟器类玩法</strong>：gapp.so 上最典型的内容形态，覆盖娱乐圈、恋爱、经纪人、留学等题材。</li><li><strong>推理与策略玩法</strong>：官网把推理和策略与模拟器并列为三大方向之一，站内可以看到沉浸式文字推理类内容。</li><li><strong>互动创作</strong>：创作者可以把想法做成可玩内容发布，官网以作者署名与游玩数据的方式呈现。</li><li><strong>编辑精选</strong>：平台人工挑选内容放在首页显眼位置，作为质量参考。</li><li><strong>热门与最新榜</strong>：分别按游玩量和发布时间排序，便于快速发现当下流行的玩法。</li><li><strong>题材分类</strong>：站内按校园青春、宫廷权谋、测试占卜等方向组织内容，找同类玩法更快。</li><li><strong>模型选择自由度</strong>：站内创作说明里会提示不同大模型在同一玩法下的表现差异与积分消耗，作者可按成本与效果取舍。</li><li><strong>移动端安装</strong>：gapp.so 提供安装入口，把网页端体验延伸到手机上。</li></ul>"
       },
       {
-        "title": "如何使用gapp.so",
-        "html": "<div class=\"paragraph\"><strong>作为开发者发布应用</strong>：</div>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>注册账号</strong>：访问 gapp.so 官网 https://gapp.so/ ，创建开发者账户，获取平台服务权限。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>提交应用</strong>：通过提交应用入口上传 AI 生成的代码或项目文件，支持多种 AI 开发框架。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自动配置</strong>：平台自动解析应用结构，生成专业的落地页展示界面和访问链接。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>发布托管</strong>：确认无误后一键发布，应用自动部署至云端服务器，获得可分享的独立 URL。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>更新维护</strong>：在开发者后台随时更新应用版本、查看运行状态和访问数据。</div>\n</li>\n</ul>\n<div class=\"paragraph\"><strong>作为用户体验应用</strong>：</div>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>浏览应用库</strong>：进入官网应用库，按分类或推荐浏览各类 AI 原生应用和互动游戏。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>即点即玩</strong>：选择感兴趣的应用，无需下载安装，直接在浏览器中运行体验。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多端访问</strong>：支持在 PC、手机、iPad 任意设备上通过链接访问，自动适配屏幕尺寸。</div>\n</li>\n</ul>"
+        "title": "如何使用 gapp.so",
+        "html": "<ol><li>打开 gapp.so 首页，先浏览编辑精选与热门 TOP 榜，了解平台上主流的玩法形态。</li><li>按兴趣进入分类，例如校园青春或宫廷权谋，挑一个题材相近的内容试玩。</li><li>阅读内容说明。gapp.so 的作者通常会在介绍里写清可选身份、路线数量与推荐模型，这会影响你的初始选择。</li><li>进入内容后按提示推进剧情或做出选择，互动内容的结果会随选择分叉。</li><li>玩过之后可以看同作者的其他作品，站内会标出作者名，便于追踪风格一致的创作者。</li><li>想自己动手时从互动创作入口开始，参考平台上已有内容的写法组织分支。遇到问题可以加入官方 QQ 交流群，也可以在移动端安装后体验。</li></ol>"
       },
       {
-        "title": "gapp.so的核心优势",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>一键发布零配置</strong>：无需繁琐的服务器部署和域名配置，上传 AI 生成应用后平台自动生成专业落地页并完成云端托管，大幅降低应用上线技术门槛。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>即点即玩跨端兼容</strong>：所有应用均基于浏览器运行，支持 PC、手机、iPad 全端无缝访问，用户无需下载安装即可即时体验。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Vibe Coding 理念</strong>：倡导轻松随性的 AI 编程创作方式，让开发者专注于创意本身而非工程细节，适配 AI 时代的轻量开发范式。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI 原生内容生态</strong>：专注服务 AI 生成的应用与互动游戏，聚集同类创作者和早期尝鲜用户，形成垂直领域的优质内容社区。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>全链路开发支持</strong>：从应用提交、自动构建、托管部署到展示分发、社区运营提供一站式服务，覆盖应用生命周期全流程。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "gapp.so的关键信息和使用要求",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>平台定位</strong>：AI 生成应用的一站式发布与托管平台，专为 AI 时代的开发者打造，聚焦一键上线轻量化服务。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>核心服务</strong>：提供应用自动部署、专业落地页生成、云端托管及全球访问加速，覆盖从代码到上线的完整链路。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>技术理念</strong>：践行 “Vibe Coding” 开发哲学，强调轻松、直觉式的 AI 辅助编程体验，降低创作门槛。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多端兼容</strong>：所有应用均基于 Web 技术构建，原生支持 PC、手机、平板跨设备访问，自动适配屏幕尺寸。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>开发者端</strong>：需拥有可运行的 AI 生成应用（支持多种框架），注册平台账号后通过”提交应用”入口上传，同意平台服务条款和隐私政策后方可发布。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>用户端</strong>：无需注册即可浏览和体验应用库内容，用Chrome、Safari、Edge 等浏览器可即点即玩，无需下载安装任何客户端。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "gapp.so的同类竞品分析",
-        "html": "<table data-v-5d23a35d=\"\">\n<thead data-v-5d23a35d=\"\">\n<tr data-v-5d23a35d=\"\">\n<th align=\"left\" data-v-5d23a35d=\"\">对比维度</th>\n<th align=\"left\" data-v-5d23a35d=\"\"><strong data-v-5d23a35d=\"\">gapp.so</strong></th>\n<th align=\"left\" data-v-5d23a35d=\"\"><a href=\"https://ai-bot.cn/replit-agent/\" target=\"_blank\" rel=\"noopener\"><strong data-v-5d23a35d=\"\">Replit</strong></a></th>\n<th align=\"left\" data-v-5d23a35d=\"\"><strong data-v-5d23a35d=\"\">Vercel (<a href=\"https://ai-bot.cn/sites/4794.html\" target=\"_blank\" rel=\"noopener\">v0.app</a>)</strong></th>\n</tr>\n</thead>\n<tbody data-v-5d23a35d=\"\">\n<tr data-v-5d23a35d=\"\">\n<td align=\"left\" data-v-5d23a35d=\"\"><strong data-v-5d23a35d=\"\">核心定位</strong></td>\n<td align=\"left\" data-v-5d23a35d=\"\">AI 生成应用的发布与托管平台，专注”一键上线”轻量服务<p></p>\n<div class=\"rag-tag text\" data-v-dd7b2b5f=\"\" data-site-name=\"gapp.so\"></div>\n</td>\n<td align=\"left\" data-v-5d23a35d=\"\">云端 IDE + AI 编码代理的完整开发平台，支持从编写到部署全流程<p></p>\n<div class=\"rag-tag text\" data-v-dd7b2b5f=\"\" data-site-name=\"Y Build\"></div>\n</td>\n<td align=\"left\" data-v-5d23a35d=\"\">AI 驱动的 UI 生成工具 + 前端托管平台，专注 React/Next.js 生态<p></p>\n<div class=\"rag-tag text\" data-v-dd7b2b5f=\"\" data-site-name=\"NxCode\"></div>\n</td>\n</tr>\n<tr data-v-5d23a35d=\"\">\n<td align=\"left\" data-v-5d23a35d=\"\"><strong data-v-5d23a35d=\"\">AI 能力</strong></td>\n<td align=\"left\" data-v-5d23a35d=\"\">支持上传 AI 生成应用并自动托管，平台本身不直接生成代码</td>\n<td align=\"left\" data-v-5d23a35d=\"\">Replit Agent 4 支持自然语言描述自动生成、调试、部署完整应用，具备并行智能体任务处理能力<p></p>\n<div class=\"rag-tag text\" data-v-dd7b2b5f=\"\" data-site-name=\"tinyash.com\"></div>\n</td>\n<td align=\"left\" data-v-5d23a35d=\"\">v0 支持自然语言生成生产级 React/Next.js 组件，2026年升级为 Agentic AI 可处理全栈应用搭建<p></p>\n<div class=\"rag-tag text\" data-v-dd7b2b5f=\"\" data-site-name=\"微信公众号(前端之巅)\"></div>\n</td>\n</tr>\n<tr data-v-5d23a35d=\"\">\n<td align=\"left\" data-v-5d23a35d=\"\"><strong data-v-5d23a35d=\"\">托管部署</strong></td>\n<td align=\"left\" data-v-5d23a35d=\"\">自动生成专业落地页，提供云端托管服务，支持 PC/手机/iPad 即点即玩<p></p>\n<div class=\"rag-tag text\" data-v-dd7b2b5f=\"\" data-site-name=\"gapp.so\"></div>\n</td>\n<td align=\"left\" data-v-5d23a35d=\"\">Replit Hosting 一键部署，支持导出到自有服务器，可生成 iOS/Android 移动应用包<p></p>\n<div class=\"rag-tag text\" data-v-dd7b2b5f=\"\" data-site-name=\"tinyash.com\"></div>\n</td>\n<td align=\"left\" data-v-5d23a35d=\"\">一键部署至 Vercel 全球 CDN，支持 Serverless 函数、自定义域名、自动 SSL 证书<p></p>\n<div class=\"rag-tag text\" data-v-dd7b2b5f=\"\" data-site-name=\"NxCode\"></div>\n</td>\n</tr>\n<tr data-v-5d23a35d=\"\">\n<td align=\"left\" data-v-5d23a35d=\"\"><strong data-v-5d23a35d=\"\">目标用户</strong></td>\n<td align=\"left\" data-v-5d23a35d=\"\">AI 应用开发者、独立创作者、追求 Vibe Coding 的轻量开发者</td>\n<td align=\"left\" data-v-5d23a35d=\"\">各水平开发者、编程学习者、需要完整云端开发环境的创意人员</td>\n<td align=\"left\" data-v-5d23a35d=\"\">前端开发者、设计师、产品经理及与开发相邻的非技术角色<p></p>\n<div class=\"rag-tag text\" data-v-dd7b2b5f=\"\" data-site-name=\"微信公众号(前端之巅)\"></div>\n</td>\n</tr>\n<tr data-v-5d23a35d=\"\">\n<td align=\"left\" data-v-5d23a35d=\"\"><strong data-v-5d23a35d=\"\">生态优势</strong></td>\n<td align=\"left\" data-v-5d23a35d=\"\">中文本土社区（公众号、小红书）、专注浏览器端轻量体验、新兴 AI 应用内容社区</td>\n<td align=\"left\" data-v-5d23a35d=\"\">成熟的多语言在线 IDE、无限画布协作、并行 AI 任务处理、教育市场深耕<p></p>\n<div class=\"rag-tag text\" data-v-dd7b2b5f=\"\" data-site-name=\"tinyash.com\"></div>\n</td>\n<td align=\"left\" data-v-5d23a35d=\"\">Next.js 官方生态、shadcn/ui + Tailwind CSS 标准、GitHub 深度集成、全球最大前端托管网络之一</td>\n</tr>\n</tbody>\n</table>"
-      },
-      {
-        "title": "gapp.so的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>AI 互动叙事与游戏发布</strong>：适用于发布 AI 驱动的互动小说、历史推演、角色扮演类游戏，支持即点即玩的沉浸式体验，无需用户下载安装。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI 生成应用快速上线验证</strong>：适合开发者将 ChatGPT、Claude、Cursor 等 AI 工具生成的应用原型一键发布，自动生成专业落地页，快速验证产品概念和市场反馈。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>轻量级 AI 工具托管分发</strong>：适用于各类 AI 辅助工具的云端托管和分享，支持通过链接在社交媒体快速传播。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>跨端内容展示与体验</strong>：适合需要在 PC、手机、iPad 全端无缝访问的轻量应用，满足用户随时随地即点即玩的场景需求，无需适配不同平台的客户端开发。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>中文 AI 创作者社区建设</strong>：面向中文开发者提供本土化的应用发布渠道，帮助国内 AI 创作者构建个人品牌并触达目标用户群体。</div>\n</li>\n</ul>"
+        "title": "gapp.so 的应用场景",
+        "html": "<ul><li><strong>轻度娱乐与消遣</strong>：适合碎片时间体验剧情向互动内容，比传统游戏更依赖阅读与选择。</li><li><strong>题材兴趣社区</strong>：喜欢特定题材的用户可以在 gapp.so 的分类下集中找到同类内容。</li><li><strong>文字创作练手</strong>：想尝试互动叙事的创作者，可以先用 gapp.so 这种门槛较低的形式验证设定与分支设计。</li><li><strong>性格与趣味测试</strong>：平台内的测试占卜类内容可以当作轻量互动小工具使用。</li><li><strong>观察大模型应用形态</strong>：想了解大模型除了对话还能做成什么体验的人，可以在 gapp.so 上直接上手感受。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "tool71707",
@@ -33951,23 +33847,23 @@
     "domain": "udacity.com",
     "detailed_content": [
       {
-        "title": "Udacity AI学院是什么",
-        "html": "<p>Udacity AI 学院是专注于人工智能技术的在线学习平台，提供从基础到高级的课程。课程涵盖机器学习、深度学习、自然语言处理、计算机视觉等热门领域，帮助学习者掌握前沿 AI 技能。课程结合理论与实践，通过项目和案例强化学习效果。学院与行业巨头如 AWS、Nvidia 等合作，确保内容紧跟行业需求。无论是初学者还是专业人士，在这里能找到适合自己的学习路径，开启通往高薪 AI 职业的大门。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/07/Udacity-AI-school-website.png\" data-fancybox=\"fancybox\" data-caption=\"Udacity AI学院\"><img decoding=\"async\" class=\"alignnone wp-image-57067\" src=\"https://ai-bot.cn/wp-content/uploads/2025/07/Udacity-AI-school-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Udacity AI学院\" width=\"740\" height=\"416\"></a>"
+        "title": "Udacity 是什么",
+        "html": "<p>Udacity 是一家在线职业教育平台，站内的「School of Artificial Intelligence」是专门做人工智能方向的学院。按官网介绍，Udacity 人工智能学院提供的培训覆盖机器学习、深度学习、计算机视觉、自然语言处理以及 AI 产品管理等方向。</p><p>Udacity 的课程组织形式带有明显的职业导向：官网把人工智能列为当今最具变革性和增长最快的技术之一，页面主打「Your Path to Career Success」，并按岗位给出学习路径，例如 AI Software Engineer 与 Machine Learning Engineer。除了自研课程，Udacity 还提供与企业共同开发的合作项目，以及免费的人工智能课程。</p>"
       },
       {
-        "title": "Udacity AI学院的主要功能",
-        "html": "<ul>\n<li><strong>从基础到高级</strong>：课程涵盖从人工智能编程基础（如 Python 编程、线性代数等）到高级主题（如深度学习、强化学习、自然语言处理等）。</li>\n<li><strong>多种学习路径</strong>：针对不同职业目标（如机器学习工程师、深度学习工程师、人工智能专家等）设计了定制化的学习路径。</li>\n<li><strong>动手实践</strong>：课程中包含大量实践项目，帮助学习者将理论知识应用于实际问题。</li>\n<li><strong>真实案例</strong>：通过解决真实世界中的问题，培养学习者的实际操作能力和问题解决能力。</li>\n<li><strong>与行业领导者合作</strong>：与 AWS、Nvidia、IBM Watson 等行业巨头合作开发课程，确保内容与行业需求紧密结合。</li>\n</ul>"
+        "title": "Udacity 的主要功能",
+        "html": "<ul><li><strong>按岗位组织学习路径</strong>：Udacity 官网把 Learning Paths by Job Title 单独列出，用户可以从目标职位倒推需要学的技能。</li><li><strong>方向齐全的课程体系</strong>：覆盖 Python、机器学习、深度学习、计算机视觉、生成式 AI 与 Agentic AI 等方向。</li><li><strong>与企业共建的项目</strong>：官网设有 Programs Co-created With Artificial Intelligence Leaders 板块，说明部分课程由 Udacity 与行业公司共同设计。</li><li><strong>免费课程入口</strong>：官网提供 Free Artificial Intelligence Programs，方便在付费前先试学。</li><li><strong>行业视角内容</strong>：页面包含 Artificial Intelligence Across Industries，介绍 AI 在不同行业的应用。</li><li><strong>其他学院入口</strong>：Udacity 同时运营多个方向的学院，学完 AI 相关课程可以继续横向扩展。</li><li><strong>学习提醒</strong>：官网支持通过邮箱或短信接收课程与路径信息。</li></ul>"
       },
       {
-        "title": "Udacity AI学院的课程设置",
-        "html": "<ul>\n<li><strong>基础课程</strong>：\n<ul>\n<li><strong>AI 编程基础（AI Programming with Python）</strong>：包含Python 编程基础、线性代数、神经网络训练、反向传播、PyTorch 框架等。适合初学者入门 AI 编程，掌握基本的编程技能和 AI 算法实现。</li>\n<li><strong>机器学习入门（Intro to Machine Learning）</strong>：包含机器学习基础概念、数据预处理、监督学习与无监督学习、模型评估等。帮助学习者了解机器学习的基本原理和常用算法。</li>\n</ul>\n</li>\n<li><strong>中级课程</strong>：\n<ul>\n<li><strong>使用 TensorFlow 的机器学习入门（Introduction to Machine Learning with TensorFlow）</strong>：包含TensorFlow 框架的使用、深度学习基础、卷积神经网络、循环神经网络等。适合有一定编程基础的学习者，深入学习深度学习技术。</li>\n<li><strong>使用 PyTorch 的机器学习入门（Introduction to Machine Learning with Pytorch）</strong>：包含PyTorch 框架的使用、深度学习基础、卷积神经网络、循环神经网络等。与 TensorFlow 课程类似，但使用 PyTorch 框架。</li>\n</ul>\n</li>\n<li><strong>高级课程</strong>：\n<ul>\n<li><strong>深度学习（Deep Learning）</strong>：深度学习进阶技术，包括卷积神经网络、循环神经网络、Transformer 等。适合有一定深度学习基础的学习者，深入掌握高级技术。</li>\n<li><strong>深度强化学习（Deep Reinforcement Learning）</strong>：包含强化学习基础、Q-learning、策略梯度、深度强化学习等。适合对强化学习感兴趣的学习者，掌握前沿技术。</li>\n</ul>\n</li>\n<li><strong>行业特定课程</strong>：\n<ul>\n<li><strong>AWS 机器学习工程师（AWS Machine Learning Engineer Nanodegree）</strong>：包含AWS SageMaker 的使用、模型训练与部署、超参数调优、云资源管理等。适合希望在 AWS 云平台上进行机器学习开发的学习者。</li>\n</ul>\n</li>\n<li><strong>免费课程</strong>：\n<ul>\n<li><strong>TensorFlow 深度学习入门（Intro to TensorFlow for Deep Learning）</strong>：TensorFlow 基础使用，适合初学者快速入门深度学习。</li>\n<li><strong>生成式 AI 入门（Introduction to Generative AI with Google Cloud</strong>）：生成式 AI 的基础概念和 Google Cloud 上的相关工具。</li>\n</ul>\n</li>\n<li><strong>其他课程</strong>：\n<ul>\n<li><strong>计算机视觉（Computer Vision）</strong>：包含图像处理、目标检测、图像分割等计算机视觉技术。</li>\n<li><strong>自然语言处理（Natural Language Processing）</strong>：包含文本处理、语言模型、情感分析等自然语言处理技术。</li>\n</ul>\n</li>\n</ul>"
+        "title": "如何使用 Udacity",
+        "html": "<ol><li>打开 Udacity 官网的人工智能学院页面，先通读课程方向，确认自己要补的是工程能力、算法能力还是产品能力。</li><li>在 Your Path to Career Success 模块里选择目标岗位，例如 AI Software Engineer 或 Machine Learning Engineer，让 Udacity 给出对应的学习路径。</li><li>如果不确定方向，先从 Free Artificial Intelligence Programs 里的免费课程试学，验证学习节奏是否适合自己。</li><li>确定路径后按顺序推进课程，遇到需要动手的部分尽量跟着做完，Udacity 的课程以实操训练为主要形式。</li><li>关注与企业共建的项目，这类课程通常更贴近实际岗位要求。</li><li>学完一个方向后利用其他学院的入口继续扩展，把 AI 能力和原有专业结合起来。</li></ol>"
       },
       {
-        "title": "Udacity AI学院的应用场景",
-        "html": "<ul>\n<li><strong>制造业中的预测性维护</strong>：用机器学习算法分析设备运行数据（如温度、振动、电流等），提前预测设备故障，安排预防性维护，减少停机时间和维修成本。</li>\n<li><strong>医疗影像诊断辅助</strong>：在医疗保健领域，用深度学习技术（如卷积神经网络）对医学影像（如X光、CT、MRI）进行分析，辅助医生快速准确地发现病变，提高诊断效率和准确性。</li>\n<li><strong>金融风险评估</strong>：在金融行业，机器学习模型可用于评估信贷风险，通过分析客户的信用记录、消费行为等数据，预测违约风险，优化贷款审批流程。</li>\n<li><strong>交通流量优化</strong>：在交通领域，优化城市交通流量，通过分析交通数据（如车流量、路况等），智能调整交通信号灯，缓解拥堵。</li>\n<li><strong>零售行业的个性化推荐</strong>：在零售行业，用机器学习算法分析消费者的购买历史和浏览行为，为顾客提供个性化的产品推荐，提升购物体验和销售业绩。</li>\n</ul>"
+        "title": "Udacity 的应用场景",
+        "html": "<ul><li><strong>转行进入 AI 岗位</strong>：希望从其他领域转到机器学习或 AI 工程方向的人，可以用 Udacity 的岗位路径规划学习顺序。</li><li><strong>在职工程师补课</strong>：已经在做开发、需要补深度学习或生成式 AI 能力的人，可以按模块挑课。</li><li><strong>产品与管理人员建立技术认知</strong>：Udacity 的人工智能学院把 AI 产品管理纳入课程范围，适合非算法岗建立共同语言。</li><li><strong>团队培训</strong>：需要给多人统一技术基线时，成体系的学习路径比零散教程更容易执行。</li><li><strong>在校学生提前准备</strong>：可以用免费课程先建立基础，再决定是否投入完整路径。</li></ul><p>Udacity 的课程以英文为主，学习前建议确认语言门槛与自己的可投入时间。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-28"
   },
   {
     "slug": "ai-google",
