@@ -231,20 +231,20 @@
     "domain": "metaso.cn",
     "detailed_content": [
       {
-        "title": "Reportify是什么",
-        "html": "<p>Reportify是由北京积沙成塔科技有限公司（小帮规划背后的公司）推出的一个AI投资研究深度内容问答和<a href=\"https://ai-bot.cn/top-ai-search-engines/\" target=\"_blank\" rel=\"noopener\">AI搜索引擎</a>，该工具借助AI技术的力量，旨在改变和提升金融分析师处理和分析非结构化数据的方式及效率。Reportify专注于快速分析和处理大量的数据，包括但不限于财务投资报告、新闻、音频和视频资料，以便直接提供精准和关键的答案，从而大幅提高投资研究的效率和质量。</p>\n<p>相比于<a href=\"https://ai-bot.cn/sites/9499.html\" target=\"_blank\" rel=\"noopener\">秘塔AI搜索</a>和<a href=\"https://ai-bot.cn/perplexity-ai/\" target=\"_blank\" rel=\"noopener\">Perplexity</a>等通用的AI搜索引擎，Reportify则更专注于金融投资的垂直领域。</p>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-9859 rounded-lg border\" src=\"https://ai-bot.cn/wp-content/uploads/2024/03/reportify-ai-engine.png\"   alt=\"Reportify\" width=\"700\" />"
+        "title": "秘塔AI搜索 是什么",
+        "html": "<p>秘塔AI搜索是秘塔科技推出的 AI 搜索产品，官网把它概括为「没有广告，直达结果」。它和以链接列表呈现答案的传统搜索引擎不同：秘塔AI搜索会先抓取并理解网页内容，再把结果整理成一段结构化的文字，用户读到的直接是结论和要点，而不是需要逐条点开筛选的标题。</p><p>产品同时提供网页端与移动端，界面把搜索、学习与文件处理入口并列，定位更接近一个能直接给出答案的信息入口，而不是一份待筛选的链接清单。对于习惯先看结论、再决定往哪个方向深挖的用户，这种方式能省下大量在多个页面之间来回切换的时间。</p>"
       },
       {
-        "title": "Reportify的主要功能",
-        "html": "<ul class=\"text-md\">\n<li><strong>综合问答Copilot</strong>：引擎理解用户问题并提供精准答案，支持中英文查询，能够处理多语言文档，并提供引用来源。</li>\n<li><strong>单篇文档阅读</strong>：系统自动总结报告、电话会议和新闻的关键要点，提供原文链接，支持全文翻译和选中翻译。</li>\n<li><strong>内容聚合</strong>：自动聚合上市公司的财报、电话会和相关新闻，提供原始材料参考，并有关注公司文档信息的聚合信息流。</li>\n<li><strong>历史会话</strong>：记录所有问答历史，便于回顾和分享，有助于构建个人投研知识库和工作区。</li>\n</ul>\n<p>后续 Reportify 还计划扩展到更多市场和文档类型，如市场研报、券商研报等，并将持续迭代功能，如上传文档、关键字订阅提醒等。</p>"
+        "title": "秘塔AI搜索 的主要功能",
+        "html": "<ul><li>AI 搜索问答：用自然语言提问，返回整理过的答案而非单纯的链接列表，减少逐条筛选。</li><li>学点啥：面向学习场景的讲解入口，适合按主题系统了解一个领域，而不是只查一个点。</li><li>视频生成：把检索到的内容组织成视频形态，便于二次表达与分享。</li><li>幻灯片：将资料整理成可直接使用的演示文稿结构，省去从零排版的时间。</li><li>上传文件：支持导入本地文档，围绕文件内容继续提问与归纳，适合处理自己的资料。</li><li>自定义技能与 API：为进阶用户保留自定义能力与接口调用方式，便于嵌入自有流程。</li><li>无广告结果页：官网强调结果页没有广告位干扰，阅读体验更集中。</li></ul>"
       },
       {
-        "title": "如何使用Reportify",
-        "html": "<ol class=\"text-md\">\n<li>用户可以通过访问 Reportify 的官网（<a href=\"https://reportify.cc/?ref=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >reportify.cc</a>）体验产品。</li>\n<li>新用户注册后可获得200个点数体验问答引擎，每月还有免费点数提供。</li>\n<li>基础浏览文档信息流、单篇文档浏览和总结功能永久免费。</li>\n</ol>"
+        "title": "如何使用 秘塔AI搜索",
+        "html": "<ol><li>访问 metaso.cn，或用手机端扫码进入。</li><li>在搜索框里输入完整的自然语言问题，而不是只敲几个关键词，描述越具体结果越贴合。</li><li>阅读整理好的答案，需要核对时再查看它引用的来源。</li><li>要处理自己的资料，就从上传文件入口导入后再围绕文件提问。</li><li>若目标是成稿，可继续用幻灯片或视频相关的入口加工内容。</li><li>需要把能力接入自己的系统时，再看自定义技能与 API 的接入方式。</li></ol>"
       },
       {
-        "title": "Reportify的适用人群",
-        "html": "<ul class=\"text-md\">\n<li><strong>金融分析师</strong>：需要分析大量财报、研究报告和新闻稿，以提供投资建议。</li>\n<li><strong>投资者</strong>：希望深入了解公司财务状况和市场动态，以做出明智的投资决策。</li>\n<li><strong>企业决策者</strong>：如CFO、CEO等，需要及时了解市场和财务数据来指导公司战略。</li>\n</ul>"
+        "title": "秘塔AI搜索 的应用场景",
+        "html": "<ul><li>快速摸清一个陌生话题，先拿到概述再决定细读哪些材料。</li><li>写方案、做汇报前的资料速查与要点归纳。</li><li>围绕一份长文档做问答式阅读，减少逐页翻找的时间。</li><li>把检索结果快速转成幻灯片或视频草稿，用于内部沟通。</li><li>需要一份没有广告干扰、可直接阅读的答案页时。</li><li>把常见检索需求沉淀为自定义技能，供重复使用。</li></ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -544,7 +544,24 @@
     "subcategory": "ai-chat-general",
     "logo": "/logos/chatglm.png",
     "domain": "chatglm.cn",
-    "detailed_content": [],
+    "detailed_content": [
+      {
+        "title": "智谱清言 是什么",
+        "html": "<p>智谱清言是智谱推出的 AI 助手产品，官网把它描述为「基于 GLM 大模型，不只是 AI 助手，更是能帮你把事办成的 Agent」。这意味着智谱清言的目标不止于回答问题：它会先理解用户想达成的结果，再调用工具、拆解任务并协调各环节，最终交付出可直接使用的结果，而不只是给出一段文字回复。</p><p>对把它当作日常助手的人来说，这种以交付为导向的定位是它与其他对话产品的区别所在：你描述的是想完成的事，而不是每一条具体指令，过程由它来组织。</p>"
+      },
+      {
+        "title": "智谱清言 的主要功能",
+        "html": "<ul><li>对话问答：基于 GLM 大模型进行多轮交流，能理解上下文与前后指代。</li><li>目标理解：先弄清用户真正想达成的结果，再决定处理方式。</li><li>工具调用：在需要时调用外部工具配合完成任务。</li><li>任务拆解：把复杂需求拆成可执行步骤逐一推进。</li><li>协调配合：在多个环节之间做衔接，减少人工来回搬运。</li><li>结果交付：把回答推进到可直接使用的成果，而非停留在建议。</li><li>Agent 定位：官网强调它更像能把事办成的智能体，而不只是问答框。</li></ul>"
+      },
+      {
+        "title": "如何使用 智谱清言",
+        "html": "<ol><li>打开 chatglm.cn 并登录账号。</li><li>直接描述你要达成的目标，而不只是抛出一个孤立的问题。</li><li>按提示补充必要信息，帮助智谱清言更准确地理解意图。</li><li>遇到需要工具或分步执行的环节，跟随它的拆解逐步完成。</li><li>对结果不满意时，继续对话提出具体的修改要求。</li><li>需要复用同一类任务时，把稳定下来的说法沉淀为常用提示。</li></ol>"
+      },
+      {
+        "title": "智谱清言 的应用场景",
+        "html": "<ul><li>日常问答与知识查询。</li><li>把一段模糊需求交给它辅助拆成执行步骤。</li><li>需要工具配合的任务型场景。</li><li>写作、整理与信息处理等通用办公需求。</li><li>需要一轮对话就拿到可用结果时。</li><li>把重复出现的工作流交给它代跑。</li></ul>"
+      }
+    ],
     "updatedAt": "2026-09-27"
   },
   {
@@ -755,7 +772,24 @@
     "subcategory": "ai-office-ppt",
     "logo": "/logos/aippt.png",
     "domain": "aippt.cn",
-    "detailed_content": [],
+    "detailed_content": [
+      {
+        "title": "AiPPT 是什么",
+        "html": "<p>AiPPT 是一款由 AI 大模型驱动的智能 PPT 制作工具，官网把它概括为「AI 一键生成 PPT」。它的核心能力是把制作演示文稿的过程压缩：支持一句话生成完整专业的 PPT，也能把现有文档秒变成 PPT，再由 AI 自动排版润色，并配合海量模板与 Agent 模式。</p><p>对需要在短时间内交出演示材料的人来说，AiPPT 覆盖了职场汇报、教学课件与项目展示等常见场景。它提供的多种模式（专业、极速、创意、自由等）让用户可以在「快」和「可控」之间按需选择，新手也能快速上手。</p><p>它的价值在于把「先搭骨架」这一步自动化，用户只需在大纲和模板上做有限调整，就能得到一版结构完整的演示稿。</p>"
+      },
+      {
+        "title": "AiPPT 的主要功能",
+        "html": "<ul><li>一句话生成 PPT：给出主题或一句话需求即可生成完整演示文稿。</li><li>文档转 PPT：把已有文档快速转成演示形态。</li><li>AI 排版与润色：自动处理版式与文字表达。</li><li>海量模板：提供覆盖多种场景的模板广场。</li><li>多种模式：包含专业模式、极速模式、创意模式与自由模式等。</li><li>多端同步：客户端与插件支持跨设备使用。</li><li>模板广场：可按工作总结、年终总结、开题报告等类型直接挑模板。</li><li>大纲可调：生成后可按需增删章节，控制内容范围。</li><li>导出便捷：确认后直接下载，或转到客户端继续打磨。</li></ul>"
+      },
+      {
+        "title": "如何使用 AiPPT",
+        "html": "<ol><li>打开 AiPPT（aippt.cn）并登录。</li><li>选择一种模式，或直接输入主题生成大纲。</li><li>确认大纲与页面结构，按需增删章节。</li><li>选择模板，让 AI 完成排版与内容填充。</li><li>逐页微调后下载导出，或用客户端继续编辑。</li><li>需要批量产出时，可沿用同一套模板快速生成多份材料。</li></ol>"
+      },
+      {
+        "title": "AiPPT 的应用场景",
+        "html": "<ul><li>职场汇报与年终总结等常规演示。</li><li>教师制作教学课件。</li><li>项目展示与方案讲解材料。</li><li>时间有限时需要一份及格线以上的初稿。</li><li>把现有文档快速转成可讲的演示稿。</li><li>需要多套风格模板应对不同场合时。</li><li>把已有文档快速转成可讲的演示稿。</li></ul>"
+      }
+    ],
     "updatedAt": "2026-09-27"
   },
   {
@@ -779,20 +813,20 @@
     "domain": "sora.com",
     "detailed_content": [
       {
-        "title": "Sora是什么",
-        "html": "<p>Sora是由OpenAI推出的<a href=\"https://ai-bot.cn/ai-video-generation-tools/\" target=\"_blank\" rel=\"noopener\">AI视频生成</a>模型，具备将文本描述转化为视频的能力，能够创造出既逼真又富有想象力的视频场景。该模型专注于模拟物理世界的运动，旨在帮助人们解决需要现实世界互动的问题。相较于<a href=\"https://ai-bot.cn/sites/6263.html\" target=\"_blank\" rel=\"noopener\">Pika</a>、<a href=\"https://ai-bot.cn/sites/240.html\" target=\"_blank\" rel=\"noopener\">Runway</a>、<a href=\"https://ai-bot.cn/pixverse-ai-video-generator/\" target=\"_blank\" rel=\"noopener\">PixVerse</a>、<a href=\"https://ai-bot.cn/sites/7225.html\" target=\"_blank\" rel=\"noopener\">Morph Studio</a>、<a href=\"https://ai-bot.cn/genmo-ai/\" target=\"_blank\" rel=\"noopener\">Genmo</a>等只能生成四五秒的AI视频工具，Sora能够生成长达一分钟的视频，同时保持视觉质量和对用户输入的高度还原。除从零开始创建视频，Sora还能基于现有静态图像生成动画，或者扩展和补全现有视频。</p>\n<ul>\n<li><span style=\"font-size: 12pt;\"><a href=\"https://ai-bot.cn/sora-2/\" target=\"_blank\" rel=\"noopener\"><strong>Sora 2</strong></a>：OpenAI 新一代AI音视频生成模型，首次实现了<strong>环境音效与画面动态的实时同步生成。</strong></span></li>\n<li><span style=\"font-size: 12pt;\"><strong>Sora 2邀请码</strong>：<a href=\"https://ai-bot.cn/sora-2-invite-code/\" target=\"_blank\" rel=\"noopener\">怎么获取Sora 2邀请码？附免费领取方式</a></span></li>\n<li><span style=\"font-size: 12pt;\"><strong>Sora教程玩法</strong>：<a href=\"https://ai-bot.cn/sora2-hot-videos-and-prompt-words/\" target=\"_blank\" rel=\"noopener\">Sora2教程玩法合集，附20个热门视频提示词</a></span></li>\n<li><span style=\"font-size: 12pt;\"><strong>Sora视频去水印</strong>：<a href=\"https://ai-bot.cn/sora-ai-video-watermark-removal-tools/\" target=\"_blank\" rel=\"noopener\">7个免费Sora视频去水印工具，AI一键去除视频水印</a></span></li>\n</ul>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-8616 rounded-lg shadow-sm\" src=\"https://ai-bot.cn/wp-content/uploads/2024/02/openai-sora-videos.png\"   alt=\"OpenAI Sora\" width=\"700\" />"
+        "title": "Sora 是什么",
+        "html": "<p>Sora 是一款 AI 视频生成产品，官网对它的介绍是「把文字和图像变成沉浸式视频」。它的核心能力，是让用户用一段文字描述或一张图片作为起点，生成画面连续、带有运镜的视频片段，从而把脑海里的故事、概念或场景直观呈现出来。</p><p>对不熟悉拍摄与剪辑流程的创作者来说，Sora 把原本需要脚本、分镜、拍摄、剪辑的链路，压缩成一次描述加一次生成，显著降低了把想法变成影像的门槛，也让快速试错变得可行：先看效果，再决定要不要继续打磨。</p>"
       },
       {
-        "title": "Sora的主要功能",
-        "html": "<ul class=\"text-md\">\n<li><strong>文本驱动的视频生成</strong>：Sora 能够根据用户提供的详细文本描述，生成与之相符的视频内容。这些描述可以涉及场景、角色、动作、情感等多个方面。</li>\n<li><strong>视频质量与忠实度</strong>：生成的视频保持高质量的视觉效果，并且紧密遵循用户的文本提示，确保视频内容与描述相符。</li>\n<li><strong>模拟物理世界</strong>：Sora旨在模拟现实世界的运动和物理规律，使得生成的视频在视觉上更加逼真，能够处理复杂的场景和角色动作。</li>\n<li><strong>多角色与复杂场景处理</strong>：模型能够处理包含多个角色和复杂背景的视频生成任务，尽管在某些情况下可能存在局限性。</li>\n<li><strong>视频扩展与补全</strong>：Sora不仅能从头开始生成视频，还能基于现有的静态图像或视频片段进行动画制作，或者延长现有视频的长度。</li>\n</ul>"
+        "title": "Sora 的主要功能",
+        "html": "<ul><li>文生视频：输入文字描述即可生成视频片段，把想法快速变成画面。</li><li>图生视频：以一张图片为基础生成动态内容，让静帧动起来。</li><li>故事动画：围绕一条故事线索生成连贯镜头，用于叙事类短片。</li><li>概念可视化：把抽象概念渲染成直观画面，便于讲解与演示。</li><li>风格与氛围控制：在生成时通过描述调整画面风格与整体氛围。</li><li>多镜头表达：支持把同一主题扩展成多个镜头的组合。</li><li>快速迭代：同一条描述可反复生成，从多个结果里挑选满意的版本。</li></ul>"
       },
       {
-        "title": "Sora的技术原理",
-        "html": "<div id=\"attachment_8615\" style=\"width: 710px\" class=\"wp-caption alignnone\"><img aria-describedby=\"caption-attachment-8615\" decoding=\"async\" class=\"rounded-lg shadow-sm wp-image-8615 size-full\" src=\"https://ai-bot.cn/wp-content/uploads/2024/02/openai-sora-possible-architecture.png\"   alt=\"OpenAI Sora的技术架构猜想\" width=\"700\" /><p id=\"caption-attachment-8615\" class=\"wp-caption-text\">OpenAI Sora的技术架构猜想</p></div>\n<ul class=\"text-md\">\n<li><strong>文本条件生成</strong>：Sora模型能够根据文本提示生成视频，这是通过将文本信息与视频内容相结合实现的。这种能力使得模型能够理解用户的描述，并生成与之相符的视频片段。</li>\n<li><strong>视觉块（Visual Patches）</strong>：Sora将视频和图像分解为小块的视觉块，作为视频和图像的低维表示。这种方法允许模型处理和理解复杂的视觉信息，同时保持计算效率。</li>\n<li><strong>视频压缩网络</strong>：在生成视频之前，Sora使用一个视频压缩网络将原始视频数据压缩到一个低维的潜在空间。这个压缩过程减少了数据的复杂性，使得模型更容易学习和生成视频内容。</li>\n<li><strong>空间时间块（Spacetime Patches）</strong>：在视频压缩后，Sora进一步将视频表示分解为一系列空间时间块，作为模型的输入，使得模型能够处理和理解视频的时空特性。</li>\n<li><strong>扩散模型（Diffusion Model）</strong>：Sora采用扩散模型（基于Transformer架构的<a href=\"https://ai-bot.cn/dit/\" target=\"_blank\" rel=\"noopener\">DiT</a>模型）作为其核心生成机制。扩散模型通过逐步去除噪声并预测原始数据的方式来生成内容。在视频生成中，这意味着模型会从一系列噪声补丁开始，逐步恢复出清晰的视频帧。</li>\n<li><strong>Transformer架构</strong>：Sora利用Transformer架构来处理空间时间块。Transformer是一种强大的神经网络模型，在处理序列数据（如文本和时间序列）方面表现出色。在Sora中，Transformer用于理解和生成视频帧序列。</li>\n<li><strong>大规模训练</strong>：Sora在大规模的视频数据集上进行训练，这使得模型能够学习到丰富的视觉模式和动态变化。大规模训练有助于提高模型的泛化能力，使其能够生成多样化和高质量的视频内容。</li>\n<li><strong>文本到视频的生成</strong>：Sora通过训练一个描述性字幕生成器，将文本提示转换为详细的视频描述。然后，这些描述被用来指导视频生成过程，确保生成的视频内容与文本描述相匹配。</li>\n<li><strong>零样本学习</strong>：Sora能够通过零样本学习来执行特定的任务，如模拟特定风格的视频或游戏。即模型能够在没有直接训练数据的情况下，根据文本提示生成相应的视频内容。</li>\n<li><strong>模拟物理世界</strong>：Sora在训练过程中展现出了模拟物理世界的能力，如3D一致性和物体持久性，表明该模型能够在一定程度上理解并模拟现实世界中的物理规律。</li>\n</ul>\n<ul class=\"list-group list-group-flush\">\n<li class=\"list-group-item mb-0 bg-white\"><i class=\"fas fa-angle-double-right mr-2\"></i>OpenAI官方Sora技术报告：<a href=\"https://openai.com/research/video-generation-models-as-world-simulators\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >https://openai.com/research/video-generation-models-as-world-simulators</a></li>\n<li class=\"list-group-item mt-0 mb-0 bg-white\"><i class=\"fas fa-angle-double-right mr-2\"></i>机器之心解读的Sora技术细节：<a href=\"https://www.jiqizhixin.com/articles/2024-02-16-7\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >https://www.jiqizhixin.com/articles/2024-02-16-7</a></li>\n<li class=\"list-group-item mt-0 bg-white\"><i class=\"fas fa-angle-double-right mr-2\"></i>赛博禅心 – 中学生能看懂：Sora 原理解读：<a href=\"https://mp.weixin.qq.com/s/KUnXlDlg-Rs_6D5RFpQbnQ\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >https://mp.weixin.qq.com/s/KUnXlDlg-Rs_6D5RFpQbnQ</a></li>\n</ul>"
+        "title": "如何使用 Sora",
+        "html": "<ol><li>访问 sora.com 并登录账号。</li><li>在创作入口选择以文字还是图片作为输入。</li><li>用清晰的描述交代主体、动作与场景，描述越具体越容易得到预期画面。</li><li>生成后预览结果，不满意就修改描述再生成。</li><li>挑选满意的片段，用于后续剪辑或分享。</li><li>需要成组镜头时，把同一主题拆成多条描述分别生成再组合。</li></ol>"
       },
       {
-        "title": "Sora的应用场景",
-        "html": "<ul class=\"text-md\">\n<li><strong>社交媒体短片制作</strong>：内容创作者快速制作出吸引人的短片，用于在社交媒体平台上分享。创作者可以轻松地将他们的想法转化为视频，而无需投入大量的时间和资源去学习视频编辑软件。Sora还可以根据社交媒体平台的特点（如短视频、直播等）生成适合特定格式和风格的视频内容。</li>\n<li><strong>广告营销：</strong>快速生成广告视频，帮助品牌在短时间内传达核心信息。Sora可以生成具有强烈视觉冲击力的动画，或者模拟真实场景来展示产品特性。此外，Sora还可以帮助企业测试不同的广告创意，通过快速迭代找到最有效的营销策略。</li>\n<li><strong>原型设计和概念可视化</strong>：对于设计师和工程师来说，Sora可以作为一个强大的工具来可视化他们的设计和概念。例如，建筑师可以使用Sora生成建筑项目的三维动画，让客户更直观地理解设计意图。产品设计师可以利用 Sora 展示新产品的工作原理或用户体验流程。</li>\n<li><strong>影视制作</strong>：辅助导演和制片人在前期制作中快速构建故事板，或者生成初步的视觉效果。这可以帮助团队在实际拍摄前更好地规划场景和镜头。此外，Sora还可以用于生成特效预览，让制作团队在预算有限的情况下，探索不同的视觉效果。</li>\n<li><strong>教育和培训</strong>：Sora 可以用来创建教育视频，帮助学生更好地理解复杂的概念。例如，它可以生成科学实验的模拟视频，或者历史事件的重现，使得学习过程更加生动和直观。</li>\n</ul>"
+        "title": "Sora 的应用场景",
+        "html": "<ul><li>把文字创意快速转成可看的视频草稿。</li><li>为营销与社交媒体制作短视频素材。</li><li>做概念演示，把抽象想法直观呈现。</li><li>给故事或剧本做视觉化的分镜尝试。</li><li>在正式拍摄前先验证画面方向是否可行。</li><li>为演示材料补充动态片段，提升表达效果。</li></ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -975,24 +1009,20 @@
     "domain": "chatpdf.com",
     "detailed_content": [
       {
-        "title": "会译是什么",
-        "html": "<p>会译是沉浸对照式<a href=\"https://ai-bot.cn/best-ai-translation-tools/\" target=\"_blank\" rel=\"noopener\">AI翻译</a>插件，支持超过100种语言的互译，提供网页、PDF、视频和划词翻译功能。会译的特色在于双语对照阅读，支持用户在同一页面上同时查看原文和译文，提升阅读和理解效率。具备悬停翻译和一键翻译文档的能力，适合学术研究、商务沟通等多场景使用。用户可以通过官网下载安装。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-25960\" src=\"https://ai-bot.cn/wp-content/uploads/2024/10/huiyi-website1.png\"   alt=\"会译\" width=\"741\" height=\"417\" />"
+        "title": "ChatPDF 是什么",
+        "html": "<p>ChatPDF 是一款把对话式 AI 与 PDF 处理结合起来的工具，官网把它概括为「像 ChatGPT 一样，但面向研究资料」。它的用法是围绕一份文档展开：用户上传文件后，可以就用对话的方式提问、总结与分析，让阅读长文档从逐页翻找变成有针对性的问答。</p><p>除了 PDF，它也在扩展对文件、视频与网页内容的支持，并配有 AI Writer、AI Detector、Research 等配套工具，定位是学生、研究人员与职场人处理长资料的统一入口。</p>"
       },
       {
-        "title": "会译的主要功能",
-        "html": "<ul>\n<li><strong>双语对照翻译</strong>：能在同一个页面上同时展示原文和译文，方便用户对照阅读，提高理解和学习效率。</li>\n<li><strong>网页翻译</strong>：一键自动翻译整个网页内容，用户可以实时看到翻译后的内容，保持阅读流畅性。</li>\n<li><strong>划词翻译</strong>：用户在浏览网页时，可以通过鼠标划选单词或短语，快速获取翻译结果，无需复制粘贴。</li>\n<li><strong>悬停翻译</strong>：将鼠标悬停在网页的任何部分，可查看内容的翻译，适合快速获取信息。</li>\n<li><strong>PDF文档翻译</strong>：支持上传PDF文件进行翻译，提供双语对照视图，方便阅读和理解专业文献或报告。</li>\n<li><strong>视频翻译</strong>：能为视频内容生成双语字幕或显示翻译后的字幕，帮助用户理解外语视频内容。</li>\n<li><strong>多语言支持</strong>：支持超过100种语言的互译，满足不同用户的语言转换需求。</li>\n<li><strong>插件安装</strong>：基于Chromium内核的浏览器插件，兼容Chrome、Edge、360等主流浏览器。</li>\n</ul>"
+        "title": "ChatPDF 的主要功能",
+        "html": "<ul><li>文档对话：上传文件后就内容提问，获得基于该文档的回答。</li><li>内容总结：快速生成长文档的要点摘要。</li><li>资料分析：围绕文档做归纳与比较。</li><li>多来源支持：除 PDF 外，也覆盖文件、视频与网页内容。</li><li>配套工具：提供 AI Writer、AI Detector 与 Research 等辅助功能。</li><li>多端使用：提供桌面端与移动端应用，方便随手查阅。</li><li>会话留存：保存对话记录，便于之后回头继续看同一份资料。</li></ul>"
       },
       {
-        "title": "如何使用会译",
-        "html": "<ul>\n<li><strong>下载和安装插件</strong>：<span style=\"font-size: 0.875rem;\">访问会译的<a href=\"https://huiyiai.net/hy_api/activity/invite?invite_code=594072316\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >官方网站</a>。</span><span style=\"font-size: 0.875rem;\">根据使用的浏览器（如Chrome、Edge、360等），下载相应的插件版本。</span><span style=\"font-size: 0.875rem;\">从官网下载，需要拖拽插件文件到浏览器的扩展页面进行安装。</span></li>\n<li><strong>激活插件</strong>：<span style=\"font-size: 0.875rem;\">安装完成后，</span><span style=\"font-size: 0.875rem;\">点击浏览器右上角的会译图标，确认插件已启用。</span></li>\n<li><strong>开始翻译</strong>：\n<ul>\n<li><strong>网页翻译</strong>：打开任意外文网页，点击浏览器右上角的会译图标，选择翻译选项，会译将自动翻译整个网页。</li>\n<li><strong>双语对照阅读</strong>：在翻译后的网页上，可以通过会译图标选择“对照”模式，查看原文和译文的对照。</li>\n<li><strong>划词翻译</strong>：在阅读时遇到生词，只需用鼠标划选该单词或短语，会译会立即显示翻译结果。</li>\n<li><strong>悬停翻译</strong>：将鼠标悬停在网页的任何文字上，会译会显示该文字的翻译。</li>\n<li><strong>PDF文档翻译</strong>：上传需要翻译的PDF文件，会译会提供双语对照的翻译结果。</li>\n</ul>\n</li>\n</ul>"
+        "title": "如何使用 ChatPDF",
+        "html": "<ol><li>访问 chatpdf.com 并登录或注册。</li><li>上传需要阅读的 PDF 或其他文档。</li><li>像聊天一样提问，例如让它概括、解释或对比文档内容。</li><li>对回答不满意时换一种问法，或指出具体章节。</li><li>需要留存时保存会话，方便之后继续查看。</li><li>把多份相关文档一起上传，做交叉比对式阅读。</li></ol>"
       },
       {
-        "title": "会译的产品定价",
-        "html": "<ul>\n<li><strong>免费版</strong>：共赠送 5,000 token；支持1篇PDF对照翻译；5次ChatPDF询问；学习模式7天免费试用；5张/月图片翻译；使用聚焦/在线翻译/视频翻译/网页翻译消耗token。</li>\n<li><strong>PRO版</strong>：<span class=\"price_oOc_z\">18.4</span><span class=\"unit_rhvYL\">元/月起；</span>每月 1,000,000 token；支持50篇PDF对照翻译；1000次ChatPDF询问；无限学习模式；100张/月图片翻译；使用聚焦/在线翻译/视频翻译/网页翻译消耗token。</li>\n<li><strong>无线版</strong>：21<span class=\"unit_rhvYL\">元/月起；</span>所有功能无限使用。</li>\n</ul>"
-      },
-      {
-        "title": "会译的应用场景",
-        "html": "<ul>\n<li><strong>学术研究</strong>：<span style=\"font-size: 0.875rem;\">翻译学术论文和文献，帮助研究人员快速理解国外研究成果。</span><span style=\"font-size: 0.875rem;\">阅读外文教材和专业书籍，辅助学术学习和知识积累。</span></li>\n<li><strong>商务沟通</strong>：<span style=\"font-size: 0.875rem;\">翻译商务文档和合同，确保跨语言的商业交流无障碍。</span><span style=\"font-size: 0.875rem;\">翻译邮件和即时通讯，提高与国际客户和合作伙伴的沟通效率。</span></li>\n<li><strong>在线学习</strong>：<span style=\"font-size: 0.875rem;\">翻译在线课程和教育材料，帮助学生理解外文教育资源。</span><span style=\"font-size: 0.875rem;\">辅助语言学习，通过双语对照提高外语阅读和写作能力。</span></li>\n<li><strong>新闻和媒体消费</strong>：<span style=\"font-size: 0.875rem;\">翻译新闻报道和文章，让用户及时了解全球时事。</span><span style=\"font-size: 0.875rem;\">提供视频字幕翻译，无障碍享受国外电影、电视剧和教育视频。</span></li>\n<li><strong>旅游和生活</strong>：<span style=\"font-size: 0.875rem;\">翻译旅游攻略和用户评价，帮助旅行者规划行程和了解目的地信息。</span><span style=\"font-size: 0.875rem;\">翻译日常生活中遇到的外文标识和说明书。</span></li>\n<li><strong>技术文档和开发</strong>：<span style=\"font-size: 0.875rem;\">翻译技术文档和API说明，帮助开发者快速掌握新技术。</span><span style=\"font-size: 0.875rem;\">辅助代码阅读和编写，通过划词翻译快速理解外文资料中的技术术语。</span></li>\n</ul>"
+        "title": "ChatPDF 的应用场景",
+        "html": "<ul><li>阅读论文与研究报告时快速抓要点。</li><li>处理合同、说明书等长文档的问答式查阅。</li><li>学生与研究人员做资料整理。</li><li>职场场景中快速消化一份长文件。</li><li>多份资料并排比对时先让 AI 找差异。</li><li>投稿或交稿前做一轮要点核对。</li></ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -1062,24 +1092,20 @@
     "domain": "tongyi.aliyun.com",
     "detailed_content": [
       {
-        "title": "通义灵码是什么",
-        "html": "<p>通义灵码是阿里推出的免费<a href=\"https://ai-bot.cn/best-ai-coding-assistant-tools/\" target=\"_blank\" rel=\"noopener nofollow\">AI编程工具</a>，基于通义大模型，帮助开发者提升编程效率和质量。具备多种实用功能，如智能代码续写，能根据上下文实时生成代码；自然语言生成代码，用户只需用自然语言描述需求，可快速生成对应代码；能自动生成代码注释、解释代码逻辑，以及协助排查异常报错。通义灵码支持离线单行补全，可在网络受限时继续使用部分功能；提供技术文档和代码片段搜索，方便开发者在主流IDE中快速查找资料。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-50563\" src=\"https://ai-bot.cn/wp-content/uploads/2025/05/aliyun-lingma-website.png\"   alt=\"通义灵码\" width=\"741\" height=\"417\" />"
+        "title": "通义灵码 是什么",
+        "html": "<p>通义灵码是阿里云推出的智能编码辅助工具，官网把它定位为「你的智能编码助手」。它提供代码智能生成、智能问答、多文件修改与编程智能体等能力。</p><p>它的目标是让开发者与工具围绕研发任务协同编程：开发者提出编码诉求，通义灵码自主完成任务拆解，并使用工程检索、文件编辑、终端等工具推进。相比只做单行补全的插件，它更强调围绕一个研发任务协作，把重复性编码工作交出去，让人专注在设计与判断上。</p><p>对开发者来说，它的现实意义是把查文档、写样板、改多处文件这类事务性工作压缩，让人更多停留在设计判断上。</p>"
       },
       {
-        "title": "通义灵码的主要功能",
-        "html": "<ul>\n<li><strong>行/函数级实时续写</strong>：在编码的过程中，根据上下文和当前语法，为你自动预测和生成建议代码，你只需单击 Tab 键即可采纳。</li>\n<li><strong>自然语言生成代码</strong>：在编辑器中，通过自然语言描述你想要的功能，根据你的描述和上下文，支持在编辑器区直接生成代码及相关注释，编码心流不间断。</li>\n<li><strong>代码优化生成</strong>：帮你识别代码中的问题，并提供代码优化建议。</li>\n<li><strong>单元测试生成</strong>：支持根据 JUnit、Mockito、Spring Test、unit test、pytest 等框架生成单元测试以及单元测试相关代码解释。</li>\n<li><b data-spm-anchor-id=\"a2c4g.11186623.0.i8.53306b969ZOgWZ\">图片多模态问答：</b>支持选择、拖拽或粘贴将图片添加为上下文，自动分析图片内容，并根据需求描述生成代码建议或问题修复建议等。</li>\n<li><strong>代码注释生成</strong>：一键生成方法注释及行间注释，节省你写代码注释的时间，有效提升代码可读性和注释覆盖率。</li>\n<li><strong>代码解释</strong>：支持 30 多种语言的识别，选中代码后可自动识别编程语言并生成代码解释。跨越语言的边界，让你快速了解代码逻辑和功能设计。</li>\n<li><strong>研发智能问答</strong>：基于海量研发文档、产品文档、通用研发知识、阿里云的云服务文档和 SDK/OpenAPI 文档等进行问答训练，为你答疑解惑，助你轻松解决研发问题。</li>\n<li><b data-spm-anchor-id=\"a2c4g.11186623.0.i5.53306b969ZOgWZ\">本地工程问答：</b>通过问答即可快速结合当前仓库进行工程理解、代码查询等，同时可以通过自然语言描述需求，结合当前工程生成简单需求或缺陷的整体修复建议和建议代码。</li>\n<li><b>企业知识库问答：</b>借助企业知识和数据进行问答，快速构建企业研发知识问答助手，提升团队的工作效率和协作能力。</li>\n<li><strong>异常报错排查</strong>：协助开发者排查代码中的异常和报错。当代码出现错误时，通义灵码可以提供可能的解决方案，帮助开发者快速定位和解决问题。</li>\n<li><strong class=\"\">离线单行补全</strong>：在网络受限或无网络环境下，开发者可以切换至本地补全模式，通义灵码会提供单行代码建议，确保开发工作不会因网络问题而中断。</li>\n<li class=\"paragraph\"><strong class=\"\">技术文档和代码片段搜索</strong>：在支持的IDE（如IntelliJ IDEA、PyCharm等）中，开发者可以直接搜索技术文档和代码片段，快速找到所需的资料，提升开发效率。</li>\n<li class=\"paragraph\"><strong>项目规则配置（Project Rules）</strong>：开发者可以根据项目需求定制代码生成规则，如代码风格、技术栈约束、安全规则等。有助于确保团队代码风格一致，减少因个人风格差异导致的沟通成本和代码维护难度。</li>\n<li class=\"paragraph\"><b data-spm-anchor-id=\"a2c4g.11186623.0.i11.53306b969ZOgWZ\">统一授权管理：</b>支持统一为企业内开发者的添加使用权限，统一管理企业成员权限。</li>\n<li class=\"paragraph\"><b>统计报表：</b>提供开发者活跃、AI 代码生成占比、问答使用占比等统计数据，帮助企业快速了解使用效果。</li>\n<li><strong>RepoWik</strong>：支持自动为代码库生成一份覆盖模块关系、接口定义与实现逻辑的结构化知识文档，让 AI 真正读懂项目架构非只看单个文件。</li>\n</ul>"
+        "title": "通义灵码 的主要功能",
+        "html": "<ul><li>代码智能生成：按上下文补全与生成代码。</li><li>编程智能体：具备自主规划、自动感知与工具使用能力。</li><li>多文件修改：跨文件完成成组的代码改动。</li><li>研发智能问答：围绕代码与工程问题作答。</li><li>问题排查与修复：辅助定位并修复代码问题。</li><li>工程自动感知：理解当前工程结构，给出贴合上下文的建议。</li><li>多语言多编辑器：支持多种编程语言与主流编辑器。</li><li>上下文感知：结合当前工程给出更贴合的建议。</li><li>终端配合：可在终端里辅助执行命令、处理工程任务。</li><li>代码解释：对不熟悉的写法给出说明。</li></ul>"
       },
       {
-        "title": "如何使用通义灵码",
-        "html": "<ul>\n<li><strong>安装通义灵码</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">从插件市场安装</strong>：</div>\n<ul>\n<li id=\"97f7d6a072u6y\" data-spm-anchor-id=\"a2c4g.11186623.0.i22.3868650cJfwvl2\">在 JetBrains IDEs 中安装\n<ul>\n<li data-spm-anchor-id=\"a2c4g.11186623.0.i22.3868650cJfwvl2\">下载并安装兼容的 JetBrains IDEs 2020.3 及以上版本</li>\n<li data-spm-anchor-id=\"a2c4g.11186623.0.i22.3868650cJfwvl2\">打开 IntelliJ IDEA 设置窗口，在插件市场中搜索Lingma，找到<span id=\"af5ad6ab046jx\" class=\"ph\" data-tag=\"ph\" data-ref-searchable=\"yes\" data-cond-props=\"china\">通义灵码</span>后单击安装。</li>\n<li data-spm-anchor-id=\"a2c4g.11186623.0.i22.3868650cJfwvl2\">安装完成后，请重启 IntelliJ IDEA。</li>\n</ul>\n</li>\n<li>在 Visual Studio Code 中安装\n<ul>\n<li>下载并安装<b> </b>Visual Studio Code <b>1.68.0 及以上版本。</b></li>\n<li>打开 Visual Studio Code 扩展窗口，搜索Lingma，找到<span id=\"186d94b460zm7\" class=\"ph\" data-tag=\"ph\" data-ref-searchable=\"yes\" data-cond-props=\"china\">通义灵码</span>后单击安装。</li>\n<li>安装完成后，请重启 Visual Studio Code。</li>\n</ul>\n</li>\n<li id=\"b75a29573ah48\">在 Visual Studio 中安装\n<ul>\n<li id=\"cb9ca535ceynv\" data-spm-anchor-id=\"a2c4g.11186623.0.i32.3868650cJfwvl2\">下载并安装<b> Visual Studio 2022 17.3.0 </b>及以上版本，或 <b>Visual Studio 2019 16.3.0 </b>及以上版本</li>\n<li data-spm-anchor-id=\"a2c4g.11186623.0.i32.3868650cJfwvl2\">打开 Visual Studio 顶部扩展-管理扩展窗口，搜索 Lingma，找到<span id=\"b3a992bea4t4f\" class=\"ph\" data-tag=\"ph\" data-ref-searchable=\"yes\" data-cond-props=\"china\">通义灵码</span>后单击安装。</li>\n<li data-spm-anchor-id=\"a2c4g.11186623.0.i32.3868650cJfwvl2\">安装完成后，请重启 Visual Studio。</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">下载安装包安装</strong>：访问通义灵码的官方网站，下载JetBrains IDEs的zip安装包。下载完成后，打开IntelliJ IDEA，进入插件管理的设置，选择从本地安装插件，找到并选择下载的zip文件进行安装，安装完成后重启IntelliJ IDEA。</div>\n</li>\n</ul>\n</li>\n<li><strong>登录和初始化</strong>：重启IDEA后，在右侧工具栏点击通义灵码图标进入插件界面，首次使用需要登录阿里云账号，点击登录按钮后，浏览器会自动打开阿里云登录页面，完成登录后返回IDEA即可。</li>\n<li><strong>使用通义灵码的主要功能</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">智能代码补全</strong>：在编写代码时，通义灵码会根据上下文提供智能的代码补全建议，帮助快速完成代码。也可以通过快捷键<code class=\"segment-code-inline\" data-v-30467974=\"\" data-v-16354e31=\"\">Alt + P</code>（Windows）或<code class=\"segment-code-inline\" data-v-30467974=\"\" data-v-16354e31=\"\">Option + P</code>（macOS）手动触发生成代码建议。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>代码解释</strong>：选中代码片段后，右键点击并选择<code class=\"segment-code-inline\" data-v-30467974=\"\" data-v-16354e31=\"\">通义灵码</code>-><code class=\"segment-code-inline\" data-v-30467974=\"\" data-v-16354e31=\"\">解释代码</code>，即可获得代码的详细解释。也可以在IDE编辑器区选中代码后，点击通义灵码的代码解释按钮，AI会根据代码生成对应的解释。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">生成单元测试</strong>：在代码中右键点击通义灵码图标，选择<code class=\"segment-code-inline\" data-v-30467974=\"\" data-v-16354e31=\"\">生成单元测试</code>功能，通义灵码会自动生成对应的测试代码。生成的测试代码可以直接复制到测试文件中，根据需要进行修改和调试。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">代码优化与重构</strong>：通义灵码可以分析代码并提供优化建议，帮助改进代码质量和性能。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">自然语言生成代码</strong>：可以用自然语言描述需求（如“生成一个用户登录的函数”），通义灵码会尝试将其转换为代码。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>代码注释生成</strong>：选中代码片段后，右键点击并选择<code class=\"segment-code-inline\" data-v-30467974=\"\" data-v-16354e31=\"\">通义灵码</code>-><code class=\"segment-code-inline\" data-v-30467974=\"\" data-v-16354e31=\"\">生成注释</code>，即可快速为代码添加注释。也可以使用快捷键<code class=\"segment-code-inline\" data-v-30467974=\"\" data-v-16354e31=\"\">Shift+Alt+V</code>，或者在右键菜单中选择代码注释功能。</div>\n</li>\n</ul>\n</li>\n<li><strong>使用建议</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">配置插件</strong>：安装完成后，建议进入通义灵码的设置页面，调整自动补全延迟、语言偏好等选项。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">充分利用功能</strong>：通义灵码支持多种编程语言，建议在不同项目中尝试其功能，以熟悉其工作方式。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">定期更新</strong>：保持插件和IDEA的最新版本，以获取最新的功能和改进。</div>\n</li>\n</ul>\n</li>\n<li><strong>添加上下文</strong>：在智能会话中，可以通过以下几种方式添加上下文：\n<ul>\n<li>\n<div class=\"paragraph\">输入框中单击添加上下文按钮，触发上下文选择窗口。</div>\n</li>\n<li>\n<div class=\"paragraph\">输入框输入<code class=\"segment-code-inline\" data-v-30467974=\"\" data-v-16354e31=\"\">#</code>，触发上下文选择窗口，继续输入时可进行文件检索。</div>\n</li>\n<li>\n<div class=\"paragraph\">对于代码文件、图片，可拖拽或复制粘贴，将对应内容添加为上下文（仅JetBrains IDEs）。</div>\n</li>\n</ul>\n</li>\n<li><strong>支持的上下文类型</strong>：通义灵码提供多种上下文选择，包括<code class=\"segment-code-inline\" data-v-30467974=\"\" data-v-16354e31=\"\">file</code>、<code class=\"segment-code-inline\" data-v-30467974=\"\" data-v-16354e31=\"\">folder</code>、<code class=\"segment-code-inline\" data-v-30467974=\"\" data-v-16354e31=\"\">image</code>、<code class=\"segment-code-inline\" data-v-30467974=\"\" data-v-16354e31=\"\">codebase</code>、<code class=\"segment-code-inline\" data-v-30467974=\"\" data-v-16354e31=\"\">teamDocs</code>、<code class=\"segment-code-inline\" data-v-30467974=\"\" data-v-16354e31=\"\">codeChanges</code>、<code class=\"segment-code-inline\" data-v-30467974=\"\" data-v-16354e31=\"\">gitCommit</code>等。</li>\n</ul>"
+        "title": "如何使用 通义灵码",
+        "html": "<ol><li>在支持的编辑器或 IDE 中安装通义灵码插件。</li><li>登录账号后即可在编码时获得补全与建议。</li><li>遇到问题时用智能问答描述现象，获取排查思路。</li><li>需要成组改动时，交给它做多文件修改。</li><li>复杂任务可交由编程智能体按拆解步骤推进。</li><li>对生成的改动逐项复核后再提交，保持代码质量可控。</li></ol>"
       },
       {
-        "title": "通义灵码的兼容IDE和系统",
-        "html": "<ul>\n<li id=\"c2813549269zi\"><b>JetBrains IDEs</b>：\n<ul>\n<li>IDE 版本：IntelliJ IDEA、PyCharm、GoLand、WebStorm、Android Studio、HUAWEI DevEco Studio 等 2020.3 及以上</li>\n<li>操作系统：Windows 7 及以上、macOS、Linux</li>\n</ul>\n</li>\n<li id=\"eb991664f3pyp\"><b>Visual Studio Code</b>\n<ul>\n<li id=\"4c9b766718w20\">IDE 版本：1.68.0 及以上</li>\n<li id=\"7ca085def71h6\">操作系统：Windows 7 及以上、macOS、Linux</li>\n</ul>\n</li>\n<li id=\"96db5249eebpm\"><b>Visual Studio</b>\n<ul>\n<li id=\"840a72079bxxd\">IDE 版本：Visual Studio 2022 17.3.0 及以上，或 Visual Studio 2019 16.3.0 及以上</li>\n<li id=\"b9a73bf38eq85\" data-spm-anchor-id=\"a2c4g.11186623.0.i16.2ef11a9bk6oAT7\">操作系统：Windows 10 及以上</li>\n</ul>\n</li>\n</ul>"
-      },
-      {
-        "title": "通义灵码的应用场景",
-        "html": "<ul>\n<li><strong>个人开发</strong>：通义灵码能根据上下文智能预测并补全代码，减少编码量，提升编码速度。</li>\n<li><strong>团队协作</strong>：团队可以将编码规范、安全规范和代码文档等知识整合到通义灵码的企业知识库中，使成员在代码生成和优化时更贴近业务需求。</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">代码重构与技术架构调整</strong>：在企业技术架构调整中，通义灵码可以帮助高效完成组件替换，确保系统质量与一致性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>企业客服</strong>：通义灵码可以帮助企业实现智能客服自动化，回答用户的常见问题。</div>\n</li>\n</ul>"
+        "title": "通义灵码 的应用场景",
+        "html": "<ul><li>日常编码中的补全与样板代码生成。</li><li>阅读陌生代码库时的问答式理解。</li><li>批量修改与重构类任务。</li><li>定位并修复代码缺陷。</li><li>写测试与补充注释等重复性工作。</li><li>在终端里辅助执行命令、处理工程任务。</li><li>写测试与补充注释等重复性工作。</li><li>接手他人工程时快速建立理解。</li></ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -36617,20 +36643,20 @@
     "domain": "music.douyin.com",
     "detailed_content": [
       {
-        "title": "妙响是什么",
-        "html": "<p>妙响是汽水音乐旗下的一站式 AI 音乐创作发行平台，由抖音音乐创作实验室升级更名而来。平台搭载 Sway、SeedMusic 等自研模型，支持灵感作曲、AI 作词、音乐改编、多轨精编、虚拟歌手及 AI MV，作品可一键发行至汽水音乐并同步抖音曲库，版权与收益归创作者。</p>"
+        "title": "妙响 是什么",
+        "html": "<p>妙响是抖音的音乐创作实验室，官网把它介绍为一站式 AI 音乐创作发行平台。它覆盖从创作到发行的完整流程：支持 AI 写歌、AI 作词、AI 作曲与 AI 编曲，可以一键智能生成原创音乐。</p><p>主页陈列着大量用户作品与「做同款」入口，说明它既适合从零开始创作，也支持在已有作品基础上改编。对没有乐理基础的人来说，它的意义在于把灵感直接变成可听的成品，而不必先过制作这一关。</p><p>它把「写歌」这件事从需要编曲知识，变成把想要的风格和情绪描述清楚即可开始。</p>"
       },
       {
-        "title": "妙响的主要功能",
-        "html": "<ul>\n<li><strong>灵感作曲</strong>：输入情绪、风格或场景描述，一键生成完整旋律，覆盖数十种曲风。</li>\n<li><strong>AI 作词</strong>：根据主题与情绪生成多版本歌词，支持智能押韵与对话式修改。</li>\n<li><strong>音乐改编</strong>：提供翻唱、仿写、续写三种模式，可改歌词、换音色。</li>\n<li><strong>AI 编辑器</strong>：支持剪辑、变速变调、音轨分离、AI 和声与母带导出。</li>\n<li><strong>虚拟歌手与 AI MV</strong>：一键替换虚拟主唱，并自动生成可视化音乐视频。</li>\n<li><strong>一键发行</strong>：作品可直接上架汽水音乐并同步抖音曲库。</li>\n</ul>"
+        "title": "妙响 的主要功能",
+        "html": "<ul><li>AI 写歌：根据描述或主题智能生成完整歌曲。</li><li>AI 作词：生成或辅助完善歌词。</li><li>AI 作曲与编曲：产出旋律与编曲伴奏。</li><li>音乐编辑器：在编辑器里继续调整作品细节。</li><li>改编与做同款：基于已有作品进行二次创作。</li><li>创作到发行：覆盖作品产出与后续发布环节。</li><li>作品社区：可浏览他人作品，作为风格参考与灵感来源。</li><li>多种创作模式：既有经典创作，也有适合快速起步的入口。</li><li>作品资产管理：作品与素材在「资产」中统一管理。</li><li>精选与改编：可参考社区精选作品再做改编。</li></ul>"
       },
       {
-        "title": "如何使用妙响",
-        "html": "<ul>\n<li>访问 music.douyin.com/studio，用抖音账号扫码登录进入创作工作台。</li>\n<li>选择灵感模式（一句话成歌）或专业模式（自定义歌词、曲风、速度）。</li>\n<li>生成后可一次挑选多个版本，并进入 AI 编辑器精修。</li>\n<li>确认成品后导出母带，一键发行至汽水音乐。</li>\n</ul>"
+        "title": "如何使用 妙响",
+        "html": "<ol><li>打开妙响（music.douyin.com/studio）并登录。</li><li>创建新作品，选择经典创作模式或其他模式。</li><li>用文字描述想要的风格、情绪与主题，交给它生成。</li><li>在音乐编辑器中试听并调整词曲与编曲。</li><li>满意后保存作品，需要时走发行流程。</li><li>想快速起步时，可从「做同款」入手再逐步改出自己的版本。</li></ol>"
       },
       {
-        "title": "妙响的应用场景",
-        "html": "<ul>\n<li><strong>AI 音乐人出道</strong>：零基础快速出歌并直接发行，从 0 到 1 打造作品。</li>\n<li><strong>短视频 BGM 创作</strong>：为抖音视频定制原创配乐，进入 BGM 池后可获创作收益。</li>\n<li><strong>音乐改编与二创</strong>：对热门歌曲进行翻唱、仿写、续写。</li>\n<li><strong>自媒体配曲</strong>：为短视频、播客、广告一键生成匹配情绪的原创音乐。</li>\n<li><strong>专业制作辅助</strong>：用 AI 编辑器进行分轨精修、AI 和声、母带处理。</li>\n</ul>"
+        "title": "妙响 的应用场景",
+        "html": "<ul><li>零基础用户快速做出一首原创歌曲。</li><li>为短视频、直播准备定制背景音乐。</li><li>在喜欢的作品上做改编与再创作。</li><li>需要快速产出小样验证创意时。</li><li>为品牌或活动制作专属音乐。</li><li>把灵感碎片整理成完整歌曲。</li><li>为个人企划或活动制作主题曲。</li><li>把一段旋律灵感扩展成完整歌曲。</li></ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -36741,20 +36767,20 @@
     "domain": "lainuoniao.com",
     "detailed_content": [
       {
-        "title": "莱诺鸟是什么",
-        "html": "<p>莱诺鸟是面向跨境电商卖家、美妆品牌方与新消费团队的 AI 电商图和详情页生成工具。它不止于用 AI 做图做视频，还把包装包材供应链搬到线上，覆盖从市场洞察、产品设计到营销内容、生产落地的新品开发全链路。</p>"
+        "title": "莱诺鸟 是什么",
+        "html": "<p>莱诺鸟是一款面向电商场景的 AI 图片工具，官网对它的定位是「AI 电商图与详情页生成」。它解决的问题很具体：商家通常只有一张产品图，却需要成套的广告图、场景图和详情页素材，而传统做法要经历找模特、搭场景、拍摄、修图一连串环节。</p><p>莱诺鸟的做法是让用户从一张产品图出发，由 AI 生成可用于投放的广告素材，从而减少上面这一整套流程，把素材产出从「排期等拍摄」变成「随时补图」，对上新节奏快的商家尤其有意义。</p><p>对个体卖家和小团队来说，这类工具的价值在于把「有产品图就能出货架」变成常态，不必为每一款新品重复预约拍摄。</p>"
       },
       {
-        "title": "莱诺鸟的主要功能",
-        "html": "<ul>\n<li><strong>3D 编辑器</strong>：内置万级数字包材库，平面稿一键转 3D 效果图。</li>\n<li><strong>AI 生电商图</strong>：一键生成商详主图、卖点长图、种草素材，并附合规风险初筛。</li>\n<li><strong>AI 生营销视频</strong>：输入产品信息即可生成 TVC 级广告片与短视频分镜。</li>\n<li><strong>AI 开品策划</strong>：输入一句新品想法，自动完成市场分析与新品方案。</li>\n<li><strong>供应链匹配</strong>：按品牌定位与预算智能对接认证配方、包材与生产资源。</li>\n</ul>"
+        "title": "莱诺鸟 的主要功能",
+        "html": "<ul><li>电商套图生成：围绕同一产品批量产出风格统一的图片素材。</li><li>详情页生成：把产品卖点组织成详情页所需的图组。</li><li>场景图生成：为产品合成使用场景，替代实拍搭景。</li><li>广告素材生成：产出可直接用于投放的转化型广告图。</li><li>单图起步：只需一张产品图即可开始生成。</li><li>批量产出：同一产品可一次生成多套素材，便于对比与筛选。</li><li>风格统一：同一批素材保持相近调性，减少拼凑感。</li><li>多品类适配：服饰、家居、3C 等不同类目可按各自特点出图。</li><li>快速迭代：对同一张产品图可反复调整描述，直到素材符合预期。</li></ul>"
       },
       {
-        "title": "如何使用莱诺鸟",
-        "html": "<ul>\n<li>访问官网 lainuoniao.com 注册登录。</li>\n<li>在左侧导航选择产品设计、广告与海报或市场策略工具。</li>\n<li>在搜索栏搜产品，或用“搜同款”传图找参考，热点区可一键“平面稿转 3D”。</li>\n<li>生成后在编辑器调整细节，成品存入“我的设计”，并可进供应商库对接落地。</li>\n</ul>"
+        "title": "如何使用 莱诺鸟",
+        "html": "<ol><li>访问 lainuoniao.com 并登录。</li><li>上传一张清晰的产品图作为基础素材。</li><li>选择要生成的素材类型，例如套图、场景图或详情页。</li><li>按需要补充产品信息与风格要求，交给莱诺鸟生成。</li><li>挑选合适的结果下载使用，必要时调整要求重新生成。</li><li>把表现较好的风格固定下来，用于同系列产品的后续出图。</li></ol>"
       },
       {
-        "title": "莱诺鸟的应用场景",
-        "html": "<ul>\n<li><strong>新品开品策划</strong>：快速判断品类是否值得投入。</li>\n<li><strong>包装设计打样</strong>：上传平面稿一键生成 3D 渲染效果图与包装全案。</li>\n<li><strong>跨境电商上新</strong>：一键生成多语言详情页与商详主图。</li>\n<li><strong>营销内容批量产出</strong>：批量产出种草素材、爆款视频与广告海报。</li>\n<li><strong>供应链寻源落地</strong>：发布包材或生产需求，由平台匹配合适供应商。</li>\n</ul>"
+        "title": "莱诺鸟 的应用场景",
+        "html": "<ul><li>中小商家快速补齐商品图与详情页素材。</li><li>同一款产品批量产出多套投放素材做测试。</li><li>缺少拍摄条件时用场景图替代实拍。</li><li>电商上新节奏紧张时压缩出图周期。</li><li>为节日或活动临时补一批主题素材。</li><li>给同一系列产品保持统一的视觉风格。</li><li>一人多店运营时，用同一套素材快速覆盖多个店铺。</li></ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -36783,20 +36809,20 @@
     "domain": "sci-draw.com",
     "detailed_content": [
       {
-        "title": "SciDraw AI是什么",
-        "html": "<p>SciDraw AI 是面向科研人员、研究生和高校教师的 AI 科研绘图平台。用户只需用中文或英文描述研究内容，几十秒内即可生成论文配图、技术路线图、图形摘要、机制图等专业学术插图，支持 SVG 矢量与高分辨率位图导出，满足主流期刊对图件分辨率与矢量格式的要求。</p>"
+        "title": "SciDraw AI 是什么",
+        "html": "<p>SciDraw AI 是一款面向科研场景的 AI 绘图工具，官网把它概括为「科研绘图 AI 工具」，主打图形摘要与 TOC 图的在线生成。它的方式是让用户用文字描述来生成科研配图：论文插图、学位论文与教学插图、图形摘要、TOC 图和技术路线图都可以通过描述完成。</p><p>除了直接生成图片，它还支持上传数据一键生成统计图表，并提供 SVG 等矢量格式的高清导出，便于按期刊要求进一步编辑。对需要出图的作者来说，它把绘图门槛降到了把想法说清楚这一步。</p><p>它尤其适合不太会用专业绘图软件、又必须按期刊规范出图的研究生与科研人员。</p>"
       },
       {
-        "title": "SciDraw AI的主要功能",
-        "html": "<ul>\n<li><strong>文字生成科研插图</strong>：输入自然语言描述，生成机制图、信号通路图、实验流程图等，可指定学科风格与期刊配色。</li>\n<li><strong>技术路线图与申报图</strong>：提供路线图、方法逻辑、时间进度、开题设计四种模式。</li>\n<li><strong>图形摘要制作</strong>：粘贴论文摘要或上传 PDF，自动提炼研究逻辑并生成视觉总结图。</li>\n<li><strong>科研数据可视化</strong>：上传 CSV/Excel，一键生成火山图、箱线图、热图、森林图、KM 曲线等图表。</li>\n<li><strong>草图精修与格式转换</strong>：手绘草图转期刊级图件，支持 PNG 转 SVG、无损放大、可编辑 PPTX 导出。</li>\n<li><strong>投稿预检</strong>：检查分辨率、字号、线宽、色彩模式。</li>\n</ul>"
+        "title": "SciDraw AI 的主要功能",
+        "html": "<ul><li>科研绘图生成：用文字描述生成论文配图与教学插图。</li><li>图形摘要与 TOC 图：面向期刊投稿的摘要图制作。</li><li>技术路线图：把研究思路表达成流程图式配图。</li><li>数据图表：上传数据后一键生成统计图表。</li><li>矢量导出：支持 SVG 等格式的高清、可编辑导出。</li><li>多模式生成：内置多种 AI 模式应对不同绘图需求。</li><li>在线编辑：生成后可直接调整元素、标注与配色，无需另装软件。</li><li>可编辑导出：矢量格式便于在投稿前做最后微调。</li><li>在线完成：浏览器内直接生成与修改，无需本地安装。</li><li>风格可控：生成后可调整配色与线条风格以贴合期刊规范。</li></ul>"
       },
       {
-        "title": "如何使用SciDraw AI",
-        "html": "<ul>\n<li>访问官网 sci-draw.com 注册登录。</li>\n<li>进入 AI 科研绘图工作台，或从工具库按场景挑选具体工具。</li>\n<li>用中文或英文具体描述要画的内容，也可粘贴论文摘要或上传草图。</li>\n<li>数十秒得到结果，可多轮对话调整，满意后导出 SVG、PNG、TIFF 或 PPTX。</li>\n</ul>"
+        "title": "如何使用 SciDraw AI",
+        "html": "<ol><li>打开 SciDraw AI 并进入创作界面。</li><li>用文字描述要画的图，例如研究对象、关系与布局。</li><li>选择合适的生成模式，生成初稿。</li><li>对元素、标注与配色做编辑调整。</li><li>按目标期刊要求导出 SVG 或 PDF 等格式。</li><li>把常用风格保存下来，供同课题的其他配图复用。</li></ol>"
       },
       {
-        "title": "SciDraw AI的应用场景",
-        "html": "<ul>\n<li><strong>SCI 论文投稿</strong>：生成论文配图、机制图与图形摘要。</li>\n<li><strong>国自然与课题申报</strong>：制作技术路线图、研究框架图与时间进度图。</li>\n<li><strong>系统综述与临床研究</strong>：生成 PRISMA 流程图、森林图、KM 曲线、ROC 曲线。</li>\n<li><strong>学术汇报与海报</strong>：制作组会汇报图、会议海报与期刊封面图。</li>\n<li><strong>课堂教学与科普</strong>：生成带中文标注的教学插图。</li>\n</ul>"
+        "title": "SciDraw AI 的应用场景",
+        "html": "<ul><li>论文投稿需要图形摘要与 TOC 图时。</li><li>学位论文与教学材料的插图制作。</li><li>把研究思路整理成技术路线图。</li><li>已有数据需要快速出统计图表时。</li><li>学术汇报需要示意图说明方法时。</li><li>教学场景中制作概念示意图。</li><li>基金申请与研究进展汇报配图。</li></ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -36866,20 +36892,20 @@
     "domain": "huimengi.com",
     "detailed_content": [
       {
-        "title": "绘梦工坊AI是什么",
-        "html": "<p>绘梦工坊AI 是面向短剧、漫剧和商业内容生产的一站式 AIGC 创作平台，提供从剧本解析到成片导出的模板化工作流、可自由搭建节点的 DreamoTV 画布，以及聚合多种主流模型能力的 API 平台。漫剧工作流支持长篇项目与工业化量产。</p>"
+        "title": "绘梦工坊AI 是什么",
+        "html": "<p>绘梦工坊AI 是专为长剧集打造的 AI 全流程创作平台，官网把它定位为「一站式 AIGC 创作引擎」。它面向的不是单条短视频，而是需要多集连续制作的短剧：从剧本深度解析、智能分镜生成，到美术风格定调与核心视频制作，都放在同一条流程里完成。</p><p>平台特别强调全剧角色与场景的一致性保障，并原生支持团队协同。这两点决定了它和通用视频生成工具的区别：目标是让 AI 短剧走向工业化生产，而不是把每集当成互不相关的单条内容来处理。</p><p>对做连载内容的团队来说，一致性是最难的部分：角色换了脸、场景串了风格，观众立刻出戏；绘梦工坊AI 把这部分前置到流程里解决。</p>"
       },
       {
-        "title": "绘梦工坊AI的主要功能",
-        "html": "<ul>\n<li><strong>AI 剧本解析</strong>：支持长篇文本导入，自动梳理人物关系、场景、道具与剧情节点。</li>\n<li><strong>智能分镜生成</strong>：根据场景转换与情绪起伏拆分镜头，生成景别、运镜与时长。</li>\n<li><strong>角色与场景资产库</strong>：通过角色三视图与资产复用，降低跨镜头“换脸”和风格漂移。</li>\n<li><strong>DreamoTV 自由画布</strong>：节点式自由搭建，同一画布可适配漫剧、短视频、电商素材与商业 TVC。</li>\n<li><strong>多模型 API 聚合</strong>：统一接入视频、图像、音频、文本模型与 AI 处理工具。</li>\n<li><strong>配音配乐与智能剪辑</strong>：提供音色选择、口型匹配、字幕、音效与背景音乐。</li>\n</ul>"
+        "title": "绘梦工坊AI 的主要功能",
+        "html": "<ul><li>剧本解析：深度理解剧本文本，为后续分镜提供依据。</li><li>智能分镜：根据剧本自动生成分镜方案。</li><li>美术风格定调：统一整部作品的美术风格。</li><li>视频制作：在平台内完成核心视频环节。</li><li>角色与场景一致性：保障全剧角色、场景前后统一。</li><li>团队协同：原生支持多人协作推进制作。</li><li>全流程覆盖：从剧本到成片在同一平台内衔接，减少多工具来回切换。</li><li>批量按集推进：在同一套风格设定下连续生产多集内容。</li><li>流程衔接：解析、分镜、风格、制作之间无需导出导入。</li></ul>"
       },
       {
-        "title": "如何使用绘梦工坊AI",
-        "html": "<ul>\n<li>访问官网 huimengi.com 注册登录，按需求选择漫剧工作流或 DreamoTV 画布。</li>\n<li>漫剧工作流：新建项目 → 粘贴小说或上传剧本 → AI 解析生成故事框架与分镜初稿 → 逐镜生成 → 配音合成 → 导出成片。</li>\n<li>DreamoTV 画布：新建无限画布 → 添加剧本、提示词、角色、场景节点 → 连接生图与生视频节点并精修。</li>\n<li>开发者可通过 API 聚合平台（api.huimengi.com）接入模型能力，构建自动化内容生产链路。</li>\n</ul>"
+        "title": "如何使用 绘梦工坊AI",
+        "html": "<ol><li>访问 huimengi.com 并注册登录。</li><li>导入剧本文本，让平台先做深度解析。</li><li>确定美术风格，再生成对应的分镜。</li><li>在平台内推进视频制作，注意保持角色与场景一致。</li><li>通过团队协同功能分工，按集推进并导出成片。</li><li>成片完成后按需迭代，保持后续剧集的风格延续。</li></ol>"
       },
       {
-        "title": "绘梦工坊AI的应用场景",
-        "html": "<ul>\n<li><strong>AI 短剧与漫剧</strong>：把小说、原创剧本快速转化为多集连续内容。</li>\n<li><strong>自由创意短片</strong>：用画布搭建个性化节点，制作实验短片、AI MV。</li>\n<li><strong>电商与营销素材</strong>：批量生成商品主图、场景图、种草视频。</li>\n<li><strong>商业 TVC 与品牌片</strong>：用自由画布控制风格、镜头与人物关系。</li>\n<li><strong>企业内容中台</strong>：通过 API 接入文本、图像、视频与音频生成能力。</li>\n</ul>"
+        "title": "绘梦工坊AI 的应用场景",
+        "html": "<ul><li>AI 短剧与连载剧集的批量制作。</li><li>需要统一角色形象的多集内容创作。</li><li>团队分工协作的影视化生产流程。</li><li>从剧本到成片希望在一处完成的项目。</li><li>需要保障跨集一致性的系列内容。</li><li>面向发行与商务合作的内容生产场景。</li><li>需要控制成本的长篇内容生产。</li></ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -36907,20 +36933,20 @@
     "domain": "biaodaren.manaont.com",
     "detailed_content": [
       {
-        "title": "标达人是什么",
-        "html": "<p>标达人（标达人·AI 标书）是和通智能（深圳）有限公司推出的智能标书编写工具，专注政府采购技术方案。上传招标文件后，自动提取评审因素与废标条款、逐条撰写回应并完成排版，约 10 分钟可导出可直接投标的 Word 文档，帮助解决漏项、雷同、格式判废三大风险。</p>"
+        "title": "标达人 是什么",
+        "html": "<p>标达人是和通智能自主研发的智能标书编写工具，官网把它定位为「智能 AI 标书编写平台」。它面向政企投标中的技术方案编制：用户上传招标文件后，标达人会自动生成目录与正文，导出即可使用。</p><p>官方强调其覆盖 28 个行业、基于大模型做了深度训练，技术方案编制更精准可靠。它的价值在于把投标中最耗时、最重复的技术方案撰写环节交给 AI 处理，让编制者的精力更多放在策略与核校上，同时通过本地化部署满足数据不外泄的要求。</p>"
       },
       {
-        "title": "标达人的主要功能",
-        "html": "<ul>\n<li><strong>招标文件智能解析</strong>：自动提取评分项、废标条款、资质要求与采购需求，每条结论可定位回原文。</li>\n<li><strong>评分项一一对应</strong>：评分标准强制逐条回应，按采购包核算并做总分 100 自检。</li>\n<li><strong>一键生成投标目录</strong>：按页数逐级展开四级目录，支持手动调整排序。</li>\n<li><strong>正文生成与断点续跑</strong>：逐章流式生成，支持暂停、续跑与单章重生成。</li>\n<li><strong>自动复检与定点修复</strong>：自动核查项目名、工期等前后冲突，一键只替换出错章节。</li>\n<li><strong>暗标合规与防串标</strong>：检测到暗标自动锁定无图模式并逐字脱敏，内置文本与图像双查重机制。</li>\n</ul>"
+        "title": "标达人 的主要功能",
+        "html": "<ul><li>招标文件解析：上传招标文件，自动提取要求并生成目录。</li><li>方案自动生成：按目录生成技术方案正文。</li><li>行业覆盖：面向 28 个行业细分场景（房屋、市政、公路、水利、电力等）。</li><li>知识库支撑：基于大量行业技术方案资料做检索增强。</li><li>多种使用方式：平台自带模型、用户自定义模型与本地化部署可选。</li><li>私有化部署：数据与算力可放在内网，适配大型企业与代理机构。</li><li>性价比入口：官网提供低价试用券，便于先小成本验证效果。</li></ul>"
       },
       {
-        "title": "如何使用标达人",
-        "html": "<ul>\n<li>访问官网 biaodaren.manaont.com 登录进入上传页。</li>\n<li>拖拽上传招标文件（.doc/.docx/.pdf，推荐 DOCX），系统自动识别解析。</li>\n<li>配置模型档位、输出版式与目标页数，可关联知识库、图库与行业范文。</li>\n<li>生成目录 → 生成正文 → 自动复检 → 下载 Word 定稿，导出不额外扣点。</li>\n</ul>"
+        "title": "如何使用 标达人",
+        "html": "<ol><li>访问标达人并注册账号。</li><li>上传招标文件，由平台解析并生成目录结构。</li><li>核对目录与要点，按需调整章节。</li><li>选择使用方式：平台自带模型、自己的模型或本地化部署。</li><li>生成技术方案正文，检查后导出直接使用。</li><li>对关键章节做人工复核后再定稿，避免直接照搬。</li></ol>"
       },
       {
-        "title": "标达人的应用场景",
-        "html": "<ul>\n<li><strong>政府采购项目</strong>：评分项逐条响应、废标条款逐条核对。</li>\n<li><strong>工程施工类</strong>：房屋、市政、公路、水利、电力等，处理施工组织设计与多标段分包。</li>\n<li><strong>货物采购类</strong>：询价与公开招标通道，支持投标货物业绩等评分项。</li>\n<li><strong>服务类项目</strong>：物业、冷链、家具等，竞争性谈判与磋商通道单独优化。</li>\n<li><strong>大型企业与代理机构</strong>：可走私有化部署或通过 API Key 与 MCP 端点对接既有系统。</li>\n</ul>"
+        "title": "标达人 的应用场景",
+        "html": "<ul><li>政府采购与工程类项目的技术方案编制。</li><li>投标时间紧张时快速产出方案初稿。</li><li>需要按行业细分要求出稿的代理机构。</li><li>对数据不外泄有要求的大型企业本地化部署。</li><li>投标量大、需要批量起草方案的团队。</li><li>缺乏专职标书编写人手时的补位工具。</li></ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -37030,20 +37056,20 @@
     "domain": "agent.xfyun.cn",
     "detailed_content": [
       {
-        "title": "AStudio是什么",
-        "html": "<p>AStudio 是科大讯飞推出的新一代全场景 AI 生产力工作台，以星火 X2.5 大模型为核心、ACode Harness 为执行内核，支持多模型切换。AStudio 分日常与项目双空间，能连接本地文件和真实项目，自动规划任务、调用工具、修改文件并验证结果，覆盖办公、Coding、数据分析等场景，全程透明可控、数据本地安全。</p>"
+        "title": "AStudio 是什么",
+        "html": "<p>AStudio 是科大讯飞推出的新一代全场景 AI 生产力工作台，官网的口号是「工作再多变，工具不用变」。它的工作方式是把目标作为输入：用户只需说明想要什么，AStudio 会深度理解意图、自主拆解规划并调用工具执行任务，最后透明可控地交付文档、表格、网页与代码等成果。</p><p>它的两个关键词是「透明可控」与「协同迭代」：过程可见、结果可改，且支持实时预览与多人协作打磨。对使用者而言，它更像一个可以派活的执行者，而不是只回答问题的助手。</p>"
       },
       {
-        "title": "AStudio的主要功能",
-        "html": "<ul>\n<li><strong>双空间工作</strong>：日常空间处理办公任务，项目空间连接本地文件夹直接读写代码、运行命令。</li>\n<li><strong>多模型切换</strong>：以星火 X2.5 为核心，支持 DeepSeek 等开源模型自由切换。</li>\n<li><strong>三种执行模式</strong>：简单任务直接执行，复杂任务可选规划模式或目标模式。</li>\n<li><strong>全自动任务闭环</strong>：自动规划、调用工具、修改文件并验证结果，交付文档、网页、代码等成果。</li>\n<li><strong>过程透明可控</strong>：任务进度全程可视，文件修改可看 Diff，关键操作需用户审批。</li>\n<li><strong>生态开放扩展</strong>：内置翻译、OCR、PPT 等讯飞能力，支持插件市场、MCP 与 Skills 扩展。</li>\n</ul>"
+        "title": "AStudio 的主要功能",
+        "html": "<ul><li>目标式交互：输入目标而非逐步指令，由 AStudio 理解并规划。</li><li>任务拆解与规划：自主把目标拆成可执行步骤。</li><li>工具调用执行：在执行过程中调用相应工具完成任务。</li><li>多形态成果：交付文档、表格、网页与代码等不同产物。</li><li>实时预览与协同迭代：过程可见、结果可改，支持协作打磨。</li><li>透明可控：关键步骤可被查看与干预，避免变成黑盒。</li><li>多场景覆盖：把办公与研发等不同任务收在同一工作台内。</li></ul>"
       },
       {
-        "title": "如何使用AStudio",
-        "html": "<ul>\n<li>访问 AStudio 官网 agent.xfyun.cn 下载并安装桌面客户端。</li>\n<li>登录账号，新用户自动领取 1,000 积分。</li>\n<li>日常任务进“日常空间”，代码项目进“项目空间”并连接本地文件夹。</li>\n<li>用文字或语音输入需求，简单任务直接执行，复杂任务可选规划或目标模式。</li>\n<li>规划模式下先审核 AI 生成的方案，关键操作按需审批。</li>\n<li>实时查看进度与 Diff，验收交付的文档、网页或代码。</li>\n</ul>"
+        "title": "如何使用 AStudio",
+        "html": "<ol><li>进入 AStudio（agent.xfyun.cn）并登录。</li><li>用一句话说清你要完成的目标与交付形态。</li><li>查看它对任务的理解与拆解，必要时补充信息或纠正方向。</li><li>等待其调用工具执行，并在实时预览中检查产出。</li><li>基于产出提出修改要求，协同迭代到可用为止。</li><li>确认无误后导出成果，或继续推进下一项任务。</li></ol>"
       },
       {
-        "title": "AStudio的应用场景",
-        "html": "<ul>\n<li><strong>出海营销建站</strong>：一句话生成多语种营销工作台，产出可在线编辑的专属网页。</li>\n<li><strong>运营数据分析</strong>：读取本地运营底表，自动统计 PV、DAU、留存等指标并生成交互式数据看板。</li>\n<li><strong>学术科研调研</strong>：检索论文专利、筛选强相关文献，输出可视化的研究脉络网页。</li>\n<li><strong>Coding 项目开发</strong>：连接本地项目文件夹，理解代码结构、修改文件、运行命令。</li>\n<li><strong>移动办公救急</strong>：通过星火 APP 拍照识别白板内容，现场生成会议纪要 Word 与待办 Excel。</li>\n</ul>"
+        "title": "AStudio 的应用场景",
+        "html": "<ul><li>一次性交付文档、表格或网页等办公产物。</li><li>把长流程任务交给 AI 拆解并推进。</li><li>多人协作打磨同一份成果。</li><li>需要过程透明、结果可控的工作场景。</li><li>把研发与办公任务放进同一个工作台处理。</li><li>需求多变、希望不换工具就能切换任务类型时。</li></ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -37071,20 +37097,20 @@
     "domain": "www.doubao.com",
     "detailed_content": [
       {
-        "title": "豆包工作是什么",
-        "html": "<p>豆包工作是字节跳动推出的 AI Agent 办公产品，能自主拆解任务、调用工具，完成写文档、做 PPT、搭系统、操作浏览器等复杂工作流。豆包工作与飞书深度打通，基于企业上下文精准办公，支持全程可见、随时接管，具备企业级安全防护。</p>"
+        "title": "豆包工作 是什么",
+        "html": "<p>豆包工作是豆包面向生产力场景推出的 AI 产品及品牌，官网的口号是「工作新习惯，你说豆包干」。它围绕用户的目标来组织工作：能够自主拆解任务、调用工具，完成调研分析、内容创作、数据处理与应用搭建等复杂工作，并与用户协作交付专业可靠的工作成果。</p><p>与偏重问答的助手相比，豆包工作更强调把事推进到完成、交出可用的结果。它适合把一整件事而不是一个问题交给它的场景：先描述目标，再由它组织过程，用户在其中做确认与调整。</p><p>它强调的是「你说目标、它干活」的协作方式，适合把一整件事交给 AI 从头推进，再由用户把关。</p>"
       },
       {
-        "title": "豆包工作的主要功能",
-        "html": "<ul>\n<li><strong>自主任务拆解与执行</strong>：围绕用户目标自主拆解任务、调用工具、持续推进复杂工作流。</li>\n<li><strong>Office 工具</strong>：生成专业的 PPT、文档和表格，加速专业成果交付。</li>\n<li><strong>深入调研分析</strong>：深度分析复杂问题，检索多方相关信息，生成专业研究报告。</li>\n<li><strong>电脑与浏览器操作</strong>：读写本地文件、自动打开网页填写信息，也可通过手机远程派发任务。</li>\n<li><strong>AI 精准编辑</strong>：对文档、PPT、网页或应用中的具体位置进行精准编辑。</li>\n<li><strong>飞书深度打通</strong>：接入飞书后可查会议结论、总结群聊、制定方案、生成周报。</li>\n</ul>"
+        "title": "豆包工作 的主要功能",
+        "html": "<ul><li>目标驱动：围绕用户目标组织工作，而非被动回答问题。</li><li>任务拆解：把复杂需求拆成可执行的步骤。</li><li>工具调用：在执行过程中调用相应工具完成任务。</li><li>调研分析：面向资料收集与分析类任务。</li><li>内容创作与数据处理：产出文本内容并处理数据。</li><li>应用搭建：支持把需求落成可用的应用。</li><li>协作交付：过程与用户协作推进，结果以可用的成果形态交付。</li><li>多工具协同：在一次任务里串联多个工具，减少手工转接。</li><li>成果格式化交付：按用户需要的形态输出结果。</li></ul>"
       },
       {
-        "title": "如何使用豆包工作",
-        "html": "<ul>\n<li>访问豆包工作官网 doubao.com/work，下载电脑版安装。</li>\n<li>登录账号后进入主界面。</li>\n<li>在对话窗口输入任务需求，豆包工作会自动拆解并执行。</li>\n<li>需要时可随时暂停或接管 Agent 的操作。</li>\n<li>通过手机远程向豆包工作派发任务。</li>\n<li>接入飞书后，可基于企业上下文完成更精准的办公任务。</li>\n</ul>"
+        "title": "如何使用 豆包工作",
+        "html": "<ol><li>访问 doubao.com/work 并登录。</li><li>说明你想完成的工作目标与期望的交付形式。</li><li>让它先拆解任务，确认方向无误。</li><li>在推进过程中提供必要资料，按反馈调整。</li><li>检查交付结果，继续提出修改要求直到可用。</li><li>完成一件工作后，可把相似需求的描述复用，提升下次效率。</li></ol>"
       },
       {
-        "title": "豆包工作的应用场景",
-        "html": "<ul>\n<li><strong>电商运营</strong>：自动生成商品标题、详情文案、客服话术及大促活动策划。</li>\n<li><strong>金融研究</strong>：快速筛选标的、解读公告、搭建估值模型，辅助投研决策。</li>\n<li><strong>医疗辅助</strong>：针对复杂病例提供循证建议，检索医学文献并定期推送最新指南解读。</li>\n<li><strong>企业办公</strong>：自动汇总飞书群聊与会议纪要生成周报，搭建生产日报等内部系统。</li>\n<li><strong>内容创作</strong>：一键生成多平台差异化文案与海报，结合视频模型完成分镜到成片。</li>\n</ul>"
+        "title": "豆包工作 的应用场景",
+        "html": "<ul><li>调研分析类工作，先让 AI 收集与归纳资料。</li><li>内容创作与文案产出的初稿。</li><li>数据整理与处理。</li><li>把零散需求搭建成简单可用的应用。</li><li>把一整条工作流交给 AI 分步推进。</li><li>需要以成果形态交付、而非只拿到建议的场景。</li><li>把重复性的事务性工作流程化交给它执行。</li></ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -37153,20 +37179,20 @@
     "domain": "codewave.163.com",
     "detailed_content": [
       {
-        "title": "CodeWave是什么",
-        "html": "<p>CodeWave SDD 是网易智企旗下可控的企业级 AI Coding 平台，基于自研 NASL 领域语言和 Spec 驱动开发，替代 Prompt 玄学，实现 Prompt→需求→设计→任务→代码全流程可控、可审、可回退。平台统一技术栈，沉淀组件、服务等企业资产支持复用，可导出 Vue/React/Spring 标准源码，不锁定厂商。</p>"
+        "title": "CodeWave 是什么",
+        "html": "<p>CodeWave 是网易推出的智能低代码开发平台，官网介绍它基于网易的智能模型底座，为企业级应用提供更智能化的软件生产方式。</p><p>它的思路是把「智能生成」与「可视化拖拽调整」结合起来：开发者先由平台按描述生成应用骨架，再通过可视化方式拖拽调整，完成全栈低代码应用的搭建。相比纯手工编码，这种组合把重复性的结构搭建交给平台，人只需要聚焦在业务逻辑与细节上，从而让复杂应用的开发更高效。</p><p>对缺少专职开发人手的中小团队来说，这类平台的现实意义是把「想做个内部系统」从排期半年变成按月推进。</p>"
       },
       {
-        "title": "CodeWave的主要功能",
-        "html": "<ul>\n<li><strong>NASL 领域特定语言</strong>：网易自研的 Web 应用描述语言，通过强类型系统和静态检查让 AI 生成代码可见可控。</li>\n<li><strong>可视化编程</strong>：拖拽式页面/逻辑/数据/流程设计器，让非技术成员也能参与开发与验证。</li>\n<li><strong>Spec 驱动开发</strong>：用标准化 Spec 文档替代 Prompt 玄学，实现从需求到代码的规范流程。</li>\n<li><strong>企业资产中心</strong>：统一管理组件、服务、连接器等 IT 资产，支持智能生成与复用。</li>\n<li><strong>历史源码复用</strong>：对接企业现有代码库并识别通用代码，加速 IT 资产沉淀。</li>\n<li><strong>源码导出</strong>：支持导出 Vue/React/Spring 工程模板，生成标准 JS/Java 源码，不锁定厂商。</li>\n</ul>"
+        "title": "CodeWave 的主要功能",
+        "html": "<ul><li>智能生成：根据描述生成应用的数据模型与页面结构。</li><li>可视化拖拽：在可视化界面中调整页面与逻辑，降低编码门槛。</li><li>全栈低代码：覆盖前端界面到后端逻辑的搭建。</li><li>企业级应用能力：面向企业系统所需的权限、流程等场景。</li><li>智能模型底座：依托网易的模型能力辅助研发。</li><li>低门槛协作：让业务与技术人员在同一平台上协作交付。</li><li>智能到可视化的衔接：先智能生成、再拖拽微调，兼顾效率与可控。</li><li>模型驱动：智能生成的数据模型与页面可直接进入二次调整。</li><li>可视化调试：在平台上直接预览和调试页面效果。</li></ul>"
       },
       {
-        "title": "如何使用CodeWave",
-        "html": "<ul>\n<li>访问 CodeWave 官网 codewave.163.com，完成账号登录和注册。</li>\n<li>用自然语言描述业务需求，平台辅助将模糊想法转化为结构化需求文档。</li>\n<li>将需求标准化为 Spec 文档，作为后续 AI 生成的唯一依据。</li>\n<li>通过可视化设计器搭建页面、逻辑、数据与流程，技术方案可审查、可调整。</li>\n<li>平台自动将 Spec 拆解为 Design → Tasks 的开发任务清单。</li>\n<li>AI 基于 NASL 约束和企业资产库生成代码并自动测试，确认后发布或导出源码自主部署。</li>\n</ul>"
+        "title": "如何使用 CodeWave",
+        "html": "<ol><li>开通 CodeWave 平台并进入项目。</li><li>用描述或表单定义应用所需的数据模型。</li><li>由平台智能生成初始的页面与流程。</li><li>在可视化编辑器中拖拽组件、调整布局与交互。</li><li>配置发布环境，将应用部署到目标环境使用。</li><li>上线后按业务反馈继续在平台上迭代修改。</li></ol>"
       },
       {
-        "title": "CodeWave的应用场景",
-        "html": "<ul>\n<li><strong>企业内部管理系统快速交付</strong>：OA、CRM、ERP 外围系统等中后台应用，大幅缩短需求到上线周期。</li>\n<li><strong>金融/政企高合规场景</strong>：银行、烟草、国企等对代码安全和自主可控要求高的行业实现可控交付。</li>\n<li><strong>存量系统改造与资产盘活</strong>：识别并复用历史通用代码，将老系统逐步迁移至统一技术栈。</li>\n<li><strong>业务人员参与的敏捷开发</strong>：让产品经理、业务运营等非技术人员参与原型搭建与验证。</li>\n<li><strong>高校教学与人才培养</strong>：作为低门槛的 AI 开发教学平台，帮助学生理解工程化开发流程。</li>\n</ul>"
+        "title": "CodeWave 的应用场景",
+        "html": "<ul><li>企业内部管理系统的快速搭建。</li><li>把重复的表单与流程类需求交给低代码实现。</li><li>在标准产品不满足时做定制化应用。</li><li>希望缩短开发周期、减少手写代码的团队。</li><li>业务人员参与原型搭建、技术人员负责打磨的协作模式。</li><li>需要把数字化想法快速上线验证的场景。</li><li>把线下审批与报表流程搬到线上。</li></ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -37193,20 +37219,20 @@
     "domain": "pangzhengboyin.com",
     "detailed_content": [
       {
-        "title": "庞征博引是什么",
-        "html": "<p>庞征博引是面向自主学习和终身学习者的 AI 学习工具，把想系统了解的主题写成一篇篇 5–10 分钟能读完、前后衔接的个性化文章。用户先说出想学什么，产品了解其基础、目标和起点，再围绕这个主题持续连载。阅读时可以直接针对某一段提问或反馈理解程度，这些信息会影响后续文章的内容和方向。</p>"
+        "title": "庞征博引 是什么",
+        "html": "<p>庞征博引是一款以连载方式组织学习的 AI 学习工具，官网的口号是「想学的，慢慢都会」。它的做法是：用户说出想学什么，庞征博引会先了解你的基础，再把主题写成一篇篇 5–10 分钟能读完的文章，让人可以边读边问，接下来学什么也跟着你的节奏走。</p><p>与一次性给出长篇答案的助手不同，它更像一位按计划陪你连载下去的讲解者。这种把学习拆成短篇节奏的方式，更适合需要长期坚持、又不想被信息一次淹没的人。</p><p>它试图解决的是「想学但坚持不下来」的问题：把内容切成短篇，让每天推进一点变得容易。</p>"
       },
       {
-        "title": "庞征博引的主要功能",
-        "html": "<ul>\n<li><strong>把主题写成连载</strong>：每个学习主题由一组前后承接的文章组成，帮助读者逐步建立认知。</li>\n<li><strong>从读者的起点开始</strong>：开始前先了解已有基础、学习目标和兴趣，避免重复已经会的内容。</li>\n<li><strong>每篇 5–10 分钟</strong>：以微学习节奏拆解复杂主题，让一次阅读能认真完成，也更容易长期坚持。</li>\n<li><strong>边读边问</strong>：选中正文任意一段即可提问、评论或反馈理解程度，不必离开当前文章。</li>\n<li><strong>反馈影响下一篇</strong>：哪里没懂、哪里想深入，会成为后续内容的依据。</li>\n<li><strong>内容附有来源</strong>：文章写作时联网检索并附上参考来源，读者可逐条查看核对。</li>\n</ul>"
+        "title": "庞征博引 的主要功能",
+        "html": "<ul><li>基础了解：先摸清用户当前水平，再决定内容深浅。</li><li>连载式讲解：把主题拆成一篇篇短文章，便于持续学习。</li><li>边读边问：阅读过程中随时就疑惑提问。</li><li>节奏可调：后续学什么跟着用户的兴趣与进度走。</li><li>知识库：沉淀已生成的内容，形成个人可回看的知识库。</li><li>公共知识库：可从他人已生成的主题入手，减少从零开始的成本。</li><li>自定义思路入口：可通过提及与命令调整想要的学习方向。</li><li>按主题连载：一个主题会持续更新多篇，而不是一次讲完。</li><li>进度可续：随时接着上次的内容继续，不必从头。</li><li>提问留痕：阅读中的提问会留在上下文里，便于回看。</li></ul>"
       },
       {
-        "title": "如何使用庞征博引",
-        "html": "<ul>\n<li>访问庞征博引官网 pangzhengboyin.com，输入想学的主题。</li>\n<li>登录后回答几句关于现有基础、目标和兴趣的问题。</li>\n<li>AI 据此编排并写出第一篇文章。</li>\n<li>阅读文章，遇到没懂或想深入的内容，选中对应段落直接提问。</li>\n<li>读完后反馈理解程度或新的兴趣点，下一篇会沿着这些信息继续展开。</li>\n<li>需要时回到对话中调整方向，或开始一个新的学习主题。</li>\n</ul>"
+        "title": "如何使用 庞征博引",
+        "html": "<ol><li>打开 pangzhengboyin.com 并登录。</li><li>输入你想学的主题，或从公共知识库挑一个。</li><li>回答它关于你基础的问题，让它调整难度。</li><li>按篇阅读连载文章，遇到不懂的直接提问。</li><li>读完继续下一个主题，内容会沉淀到知识库。</li><li>定期回看知识库，把之前学过的内容串起来复习。</li></ol>"
       },
       {
-        "title": "庞征博引的应用场景",
-        "html": "<ul>\n<li><strong>工作中补知识</strong>：临时接触陌生业务、技术或行业，想从自己的起点逐步理解。</li>\n<li><strong>进入新领域前打底</strong>：还没决定选哪门长课，先用短文章搭框架，再决定深入方向。</li>\n<li><strong>长期兴趣学习</strong>：围绕摄影、历史、做饭、经济常识等主题持续积累。</li>\n<li><strong>理解实际生活问题</strong>：如个税、社保、租房合同，重点看背景、概念与判断框架。</li>\n<li><strong>学前衔接与体验</strong>：先用公共知识库免登录试读，再进入课程或代码仓库深挖。</li>\n</ul>"
+        "title": "庞征博引 的应用场景",
+        "html": "<ul><li>系统学习一个陌生领域，而非零散查资料。</li><li>把通勤、碎片时间用来读短篇讲解。</li><li>为某个主题建立可持续积累的个人知识库。</li><li>希望按自己的节奏而非统一课程表学习。</li><li>把一个宽泛主题拆成有顺序的学习路径。</li><li>长期跟进一个方向，持续补充新内容。</li><li>为考试或转行做有次序的长期学习。</li></ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -37275,20 +37301,20 @@
     "domain": "bug.youdao.com",
     "detailed_content": [
       {
-        "title": "网易叭哥说是什么",
-        "html": "<p>网易叭哥说是网易有道推出的 AI 原生语音输入 Agent，支持 Mac 与 Windows 双端。突破传统语音输入语音转文字的工具定位，能听懂用户口语中的真实意图，自动去除口头禅、修正改口内容，输出可直接复用的结构化文字，输入效率约为键盘打字的 5 倍。</p>"
+        "title": "网易叭哥说 是什么",
+        "html": "<p>网易叭哥说是网易推出的一款桌面端 AI 语音输入工具，官网把它概括为「比打字快 5 倍」。它的使用方式是把说话直接变成可用的文字：用户在任意应用里说话，由网易叭哥说完成识别与整理，再输入到当前光标位置。</p><p>它面向的是那些输入量大、又不想长时间敲键盘的场景，例如写作、记录和沟通。与简单的语音转文字相比，它更强调「说出来的就是能直接用的文字」——转写只是第一步，后续的润色与清理才是它着力的地方。</p><p>它的定位是把「口述」当成主要输入方式，让表达的速度跟上思考的速度，而不是让人去适应键盘。</p>"
       },
       {
-        "title": "网易叭哥说的主要功能",
-        "html": "<ul>\n<li><strong>口述转写</strong>：按住 Fn 键说话，自动去口头禅、修正改口、补标点分段，输出结构化文字。</li>\n<li><strong>实时翻译</strong>：支持 124 个语种语音互译，说中文直接输出目标语言文字。</li>\n<li><strong>耳语拾音</strong>：支持低至 30dB 的耳语级小声输入，开放工位也能用。</li>\n<li><strong>专属词库</strong>：可手动添加或批量导入专业术语、产品名、代码名，提升识别准确率。</li>\n<li><strong>历史记录</strong>：所有语音输入内容本地留存，支持回看和一键复制复用。</li>\n<li><strong>隐私保护</strong>：云端零留存、数据不用于训练，输入历史仅保存在本地。</li>\n</ul>"
+        "title": "网易叭哥说 的主要功能",
+        "html": "<ul><li>语音转文字：把口述内容实时转成文字。</li><li>智能润色：在转写的同时调整措辞，让文本更通顺。</li><li>自动去除口头语：清理「嗯、啊」这类口语填充词，减少二次修改。</li><li>语音翻译：把说出的话翻译成目标语言。</li><li>跨应用输入：在各类软件里直接完成输入，无需切换窗口。</li><li>桌面端常驻：以桌面工具形态随叫随用，不打断当前工作。</li><li>面向长文本：适合连续口述成段内容，而不是只说一两个词。</li><li>连续口述：支持成段表达，适合写段落而不是只填一个词。</li><li>低打断：输入过程不打断当前应用，保持工作节奏。</li></ul>"
       },
       {
-        "title": "如何使用网易叭哥说",
-        "html": "<ul>\n<li>访问网易叭哥说官网 bug.youdao.com，选择 Mac 或 Windows 版本免费下载安装。</li>\n<li>使用网易账号登录，按提示完成系统权限等授权设置。</li>\n<li>在任意应用中按住 Fn 键开始说话，松开后自动输出结构化文字。</li>\n<li>按住 Fn + 左 Shift 说中文，松开后直接输出目标语言文字。</li>\n<li>在词典功能中手动添加或批量导入专业术语。</li>\n<li>在“历史记录”中回看输入内容，“使用情况”里查看使用统计。</li>\n</ul>"
+        "title": "如何使用 网易叭哥说",
+        "html": "<ol><li>在电脑上安装并登录网易叭哥说。</li><li>在需要输入的位置唤起它，开始口述。</li><li>说话时尽量保持正常语速，让它稳定识别。</li><li>由它自动完成转写与润色，口头语会被一并清理。</li><li>检查文字后确认输入，或继续口述下一段。</li><li>需要跨语言时切换到翻译，直接说出要表达的意思。</li></ol>"
       },
       {
-        "title": "网易叭哥说的应用场景",
-        "html": "<ul>\n<li><strong>职场沟通</strong>：会议室、工位上小声口述，自动整理成结构化文字发邮件、回消息。</li>\n<li><strong>AI 协作提效</strong>：向 AI 工具口述需求，输出规范 prompt，vibe coding 变 voice coding。</li>\n<li><strong>跨语言交流</strong>：与外国客户沟通时说中文、直接输出英文等 124 种语言。</li>\n<li><strong>文档写作</strong>：口述长文、报告、会议纪要，成稿速度约为打字的 5 倍。</li>\n<li><strong>灵感速记</strong>：即时记录零散想法，自动理顺逻辑、删掉废话，说完即理顺成文。</li>\n</ul>"
+        "title": "网易叭哥说 的应用场景",
+        "html": "<ul><li>长文写作时用口述替代大量敲字。</li><li>聊天与邮件回复等高频短文本输入。</li><li>需要跨语言沟通时使用语音翻译。</li><li>手不方便或希望提高输入速度的场合。</li><li>把想到的内容快速记下，避免思路中断。</li><li>需要一边操作其他软件一边完成输入的场合。</li><li>记录会议与采访要点时边听边转写。</li></ul>"
       }
     ],
     "updatedAt": "2026-09-27"
