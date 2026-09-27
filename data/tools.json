@@ -271,28 +271,20 @@
     "domain": "jimeng.jianying.com",
     "detailed_content": [
       {
-        "title": "即梦AI是什么",
-        "html": "<p>即梦AI是字节跳动推出的一站式AI创作平台，支持<a href=\"https://ai-bot.cn/ai-video-generation-tools/\" target=\"_blank\" rel=\"noopener\">AI视频生成</a>和<a href=\"https://ai-bot.cn/best-ai-image-generators/\" target=\"_blank\" rel=\"noopener\">AI图片生成</a>。用户可通过自然语言或图片输入生成高质量的图像和视频。即梦AI提供<a href=\"https://ai-bot.cn/best-ai-painting-tools/\" target=\"_blank\" rel=\"noopener\">AI绘画</a>、智能画布、视频生成以及<a href=\"https://ai-bot.cn/ai-skit-generation-tools/\" target=\"_blank\" rel=\"noopener\">故事创作</a>等多种功能，降低创作门槛，激发用户创意。用户可以用即梦AI的AI视频生成功能，输入简单的文案或图片，快速生成视频片段，且视频动效效果连贯性强、流畅自然。</p>\n<p>即梦AI已进行全面升级，上线 <a href=\"https://ai-bot.cn/seedance-2-0/\" target=\"_blank\" rel=\"noopener\">Seedance 2.0</a> 和 <a href=\"https://ai-bot.cn/seedream-5-0/\" target=\"_blank\" rel=\"noopener\">Seedream 5.0</a> 等全新模型，支持音视频同步生成、更优质的人像和设计效果。同时，智能多帧2.0功能实现视频与图片的自由拼接和精细化编辑，大幅提升创作灵活性。画布与Agent交互升级，整合创作流程，提供灵感搜索和创意设计模式，打造一站式“AI片场”，让创作更高效、更专业。</p>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-17776\" src=\"https://ai-bot.cn/wp-content/uploads/2024/08/jimengAI-website1.png\"   alt=\"jimengAI\" width=\"800\" height=\"450\" />"
+        "title": "即梦AI 是什么",
+        "html": "<p>即梦 AI 是字节跳动推出的一站式智能创作平台，覆盖 AI 绘画与视频生成两条主线。官方把它定位成「即刻造梦」的创作工具：输入简单的文案或一张图片，就能产出图片与视频素材，并在站内社区中分享与浏览他人作品。</p><p>它的一个明显特点是对中文提示词的支持。官方说明即梦在语义理解上针对中文做了优化，能把用中文描述的抽象想法更准确地转成视觉作品，这对习惯用中文构思的创作者而言降低了表达成本。</p><p>即梦 AI 采用免费增值模式：可以先免费试用核心的生成能力，需要更高额度或更高规格输出时再选择付费套餐。官方列出的功能入口包括文生图、视频生成与智能画布三块，套餐规格会调整，以官网页面为准。</p>"
       },
       {
-        "title": "即梦AI的主要功能",
-        "html": "<ul>\n<li><strong>AI图片创作</strong>：即梦AI支持文生图和以图生图两种方式，用户输入关键词或描述，AI能迅速生成相应的图片，支持超现实场景、人物肖像等多样风格。用户上传一张图也能生成具有不同风格的新图片。</li>\n<li><strong>AI视频创作</strong>：提供从剧本构思到视频成片的一站式服务，用户只需输入故事梗概或关键描述，AI能自动生成连贯、视觉冲击力强的视频内容。</li>\n<li><strong>AI图片编辑</strong>：用户可以对现有图片进行创意改造，如背景替换、风格转换、人物姿势保持等。</li>\n<li><strong>智能画布</strong>：集成AI拼图生成能力，支持局部重绘、一键扩图、<a href=\"https://ai-bot.cn/ai-watermark-removing-tools/\" target=\"_blank\" rel=\"noopener\">AI消除去水印</a>和<a href=\"https://ai-bot.cn/ai-image-background-removers/\" target=\"_blank\" rel=\"noopener\">AI抠图</a>等多功能操作。</li>\n<li><strong>对口型</strong>：即梦AI的“<a href=\"https://ai-bot.cn/ai-lip-syncing-tools/\" target=\"_blank\" rel=\"noopener\">对口型</a>”是视频生成中的二次编辑功能，支持中文、英文配音，主要针对写实/偏真实风格化人物的口型及配音生成，为用户的创作提供更多视听信息传达的能力 。</li>\n<li><strong>AI数字人</strong>：用户只需上传一张人物图片和一段音频，<a href=\"https://ai-bot.cn/jimeng-ai-digital-human/\" target=\"_blank\" rel=\"noopener\">即梦数字人</a>可快速生成与音频内容同步的动态数字人视频。</li>\n<li><strong>多语言支持</strong>：特别优化对中文的理解，更好地满足中文用户的需求。</li>\n<li><strong>社区互动</strong>：用户可以浏览、评论其他用户的作品，参与创意挑战赛，构建开放、多元的创意社区。</li>\n<li><strong>会员服务</strong>：提供不同级别的会员订阅，包括积分生成、视频延长、去水印等特权服务。</li>\n<li><strong>无限画布</strong>：\n<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">一体化创作流程</strong>：从内容生成到编辑调整，均可在画布中完成，无需切换工具，让创作更加流畅高效。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Agent智能共创</strong>：支持多会话并行，创作者能与AI协同创作，快速生成创意并实时优化，最新上线全新灵感搜索、创意设计模式，实现对话即创作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多模态创作</strong>：在同一画布中结合绘画、文字、音频等多种元素，丰富创作形式，满足多样化需求。</div>\n</li>\n</ul>\n</li>\n<li><strong>新升级画布功能</strong>：整合创作流程，实现可视化素材管理，支持多资产并行操作，减少场景切换，加入工单模式一键调用图片或视频，大幅提升交互效率。</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">智能多帧2.0</strong>：支持“视频 + 视频”或“视频 + 图片”拼接创作，可锁定特定片段进行精细化编辑，最多上传20个素材，支持硬切和“仅尾帧”模式。</div>\n</li>\n<li><strong class=\"\">即梦Octo</strong>：以”Vibe Create”为理念的AI原生动态叙事创作工具，通过与AI进行创意对话和协作，实现从故事构思、分镜设计到视频生成的全流程动态叙事内容创作。</li>\n</ul>"
+        "title": "即梦AI 的主要功能",
+        "html": "<ul><li><strong>AI 绘画</strong>：用提示词生成图片，也支持在现有图片基础上做创意改造。</li><li><strong>文生视频与图生视频</strong>：输入文案或图片生成视频片段，运镜效果连贯、可调节速度变化。</li><li><strong>首帧与尾帧控制</strong>：可同时指定起始画面与结束画面，提升视频生成的可控性，适合对画面走向有明确要求的场景。</li><li><strong>风格与主体保持</strong>：支持背景替换、风格联想、画风保持与姿势保持等操作，让人物或主体在多次生成中保持一致。</li><li><strong>智能画布</strong>：在同一画布内完成多图融合，并集成局部重绘、一键扩图、图像消除与抠图等操作。</li><li><strong>多图层编辑</strong>：把画面元素拆成图层做精细化控制，避免整图重生成的反复试错。</li><li><strong>创作社区</strong>：浏览他人作品与提示词，作为风格参考与灵感来源。</li></ul>"
       },
       {
-        "title": "即梦AI的项目地址",
-        "html": "<ul>\n<li><strong>产品官网</strong>：<a href=\"https://jimeng.jianying.com/ai-tool/home/?utm_medium=aitools&utm_source=aibot&utm_campaign=null&utm_content=hw_jm_aibot\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >jimeng.jianying.com</a></li>\n<li><strong>即梦AI APP下载链接</strong>：<a href=\"https://ai-bot.cn/app/15155.html\" target=\"_blank\" rel=\"noopener\">https://ai-bot.cn/app/15155.html</a></li>\n</ul>"
+        "title": "如何使用 即梦AI",
+        "html": "<ol><li>打开官网注册账号，先分别试一次文生图与视频生成，了解不同任务的生成速度与耗用额度。</li><li>做图时把提示词写具体：主体、环境、风格、光线与画幅比例，中文描述即可，不必刻意翻译成英文。</li><li>做视频时优先上传一张构图满意的图片作为起点，再用文字描述动作与镜头运动，比纯文字描述更容易得到预期画面。</li><li>对画面走向有要求时启用首帧与尾帧输入，用两张图框定开头和结尾。</li><li>需要在同一张图上反复调整时改用智能画布，用局部重绘与扩图处理细节，避免整图重新生成。</li><li>满意的结果及时下载保存，并把有效的提示词记录下来，便于后续复用同一套风格。</li></ol>"
       },
       {
-        "title": "如何使用即梦AI",
-        "html": "<ul>\n<li><strong>注册/登录</strong>：访问产品官网注册新账户或账户登录。</li>\n<li><strong>选择功能</strong>：登录后，可以根据需要选择不同的创作功能，如AI图片创作、视频创作等。</li>\n<li><strong>输入描述</strong>：在图片或视频创作模块中，输入想要生成内容的描述或关键词。描述可以是场景、人物、动作等。</li>\n<li><strong>调整参数</strong>：根据需要调整生成内容的参数，如风格、色彩、画面比例等。</li>\n<li><strong>生成内容</strong>：点击生成按钮，AI将根据描述和参数设置生成图片或视频。</li>\n<li><strong>编辑和优化</strong>：生成的图片或视频需要进一步编辑和优化以满足要求。用即梦AI的编辑工具进行调整。</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-17777\" src=\"https://ai-bot.cn/wp-content/uploads/2024/08/jimengAI-website2.png\"   alt=\"\" width=\"800\" height=\"450\" />"
-      },
-      {
-        "title": "即梦AI的产品定价",
-        "html": "<p>即梦AI的产品定价策略包括免费版和付费会员制。<strong>免费版用户每天可以获得60-100积分，积分可用于生成图片和视频</strong>（<span style=\"color: #ff0000;\">积分不够用？多注册几个账号~</span>）。</p>\n<p>平台还提供了多种付费订阅选项：</p>\n<ul>\n<li><strong>基础会员</strong>：价格为79元/月，提供更多的积分以生成更多的图片和视频。</li>\n<li><strong>标准会员</strong>：价格为239元/月，相较于基础会员，提供更多的积分和其他特权。</li>\n<li><strong>高级会员</strong>：价格为649元/月，是最全面的订阅选项，提供更多的积分和其他高级功能。</li>\n</ul>"
-      },
-      {
-        "title": "即梦AI的适用人群",
-        "html": "<ul>\n<li><strong>创意爱好者</strong>：对艺术创作有热情，喜欢尝试新工具和技术来表达自己的创意。</li>\n<li><strong>设计师</strong>：需要快速生成设计概念或视觉元素的平面设计师、UI/UX设计师等。</li>\n<li><strong>内容创作者</strong>：包括博主、视频制作者、社交媒体影响者等，需要制作吸引人的视觉内容。</li>\n<li><strong>广告和营销专业人士</strong>：需要为广告活动或营销材料快速制作吸引人的视觉和视频内容。</li>\n<li><strong>教育工作者</strong>：用AI创作工具激发学生创造力，或在教学中使用视觉辅助材料。</li>\n</ul>"
+        "title": "即梦AI 的应用场景",
+        "html": "<ul><li><strong>短视频素材</strong>：为内容创作快速产出空镜、转场与氛围片段。</li><li><strong>插画与配图</strong>：为文章、海报与社交媒体内容生成风格统一的图片。</li><li><strong>产品与广告视觉</strong>：制作用于投放的视觉草稿，确认方向后再进入正式制作。</li><li><strong>创意试验</strong>：把尚不成熟的想法先做成可看的画面，用于内部沟通与筛选。</li></ul><p>需要注意：生成内容若涉及真实人物形象、品牌标识或受版权保护的作品，需要自行判断授权与合规边界；对外商用前建议确认官方对生成内容的授权说明。</p>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -318,24 +310,20 @@
     "domain": "midjourney.com",
     "detailed_content": [
       {
-        "title": "Midjourney是什么",
-        "html": "<p>Midjourney 是人工智能研究实验室 Midjourney, Inc. 推出的<a href=\"https://ai-bot.cn/best-ai-image-generators/\">AI图像生成工具</a>，可根据输入的文本提示生成图像。程序最早于2022年7月12日进入公开测试阶段，用户可通过 Discord 的机器人指令进行操作，创作出许多不同风格的图像作品。工具持续迭代升级模型（如 <a href=\"https://ai-bot.cn/midjourney-v7/\" target=\"_blank\" rel=\"noopener\">MidjourneyV7</a>、MidjourneyV8 等），其国内官方中文版为：<a href=\"https://ai-bot.cn/sites/33956.html\" target=\"_blank\" rel=\"noopener\">悠船</a>。Midjourney 支持多种艺术风格、画面比例和参数调节，广泛应用于设计、插画、概念艺术等领域。</p>"
+        "title": "Midjourney 是什么",
+        "html": "<p>Midjourney 是由一家独立研究实验室推出的 AI 图像生成工具，以画面质感和艺术表现力见长。它最早以在聊天社区里发送指令出图的方式被大众熟知，此后逐步提供网页端创作界面，把出图、浏览与管理作品收拢到浏览器内完成。</p><p>团队在官网把自己描述为「由社区资助的研究实验室」，并把重心放在图像与视频模型这一条线上，而不是把多种生成能力打包成综合平台。对使用者来说，这意味着 Midjourney 的特点集中在视觉完成度上：光影、材质与构图的处理是它被选择的主要原因。</p><p>Midjourney 采用订阅制，需要付费后使用。官方提供多个档位，差异主要落在可生成的图片数量、同时进行的任务数以及商用授权范围上；不同档位与价格会调整，以下单页面显示的为准。团队也预告过图像与视频模型等方向的新项目，形态与时间以官方发布为准。</p>"
       },
       {
-        "title": "Midjourney的主要功能",
-        "html": "<ul>\n<li><strong>文本到图像生成</strong>：在Discord中使用/imagine命令后，输入文本提示词，即可生成对应描述的图片</li>\n<li><strong>图像混合创意叠图</strong>：使用/blend命令，可以将多张图片合并以创建融合型风格的全新图片，激发独特创意</li>\n<li><strong>图像扩展和平移</strong>：Midjourney支持在上下左右四个方向平移图像扩展画面内容，支持zoom out外绘缩放画面主体</li>\n<li><strong>图像高清放大</strong>：Midjourney默认生成1024*1024像素的图片，支持最高放大图像4倍</li>\n<li><strong>智能扩图</strong>：自动延伸画面边缘，扩展场景内容，支持上下左右及全方位扩展。</li>\n<li><strong>参数控制</strong>：支持调节画面比例、混沌度、风格化强度、版本模型等参数以精准控制效果。</li>\n</ul>"
+        "title": "Midjourney 的主要功能",
+        "html": "<ul><li><strong>文字生成图像</strong>：用自然语言描述想要的画面，由模型直接出图，描述越具体，结果越接近预期。</li><li><strong>参考图控制</strong>：上传参考图来约束风格方向或画面构成，让多张作品保持视觉一致。</li><li><strong>参数调节</strong>：通过附加参数控制画面比例、风格化强弱、随机程度等，同一段提示词可以产出差异明显的版本。</li><li><strong>变体与细化</strong>：对某一张结果做多版本衍生，或在此基础上继续调整、提高分辨率。</li><li><strong>网页端工作台</strong>：在浏览器中创作、整理与检索自己的历史作品，不必再依赖聊天窗口逐条翻找。</li><li><strong>社区画廊</strong>：浏览其他用户公开分享的作品与提示词，作为风格参考与灵感来源。</li></ul>"
       },
       {
-        "title": "Midjourney的产品定价",
-        "html": "<p>Midjourney 目前提供有四个订阅级别，按年支付可享受 20% 的折扣。每个订阅计划都包括访问 Midjourney 会员图库、官方 Discord、一般商业使用等。</p>\n<ul>\n<li>Basic Plan 基础版：10美元每月（年付96美元）</li>\n<li>Standard Plan 标准版：30美元每月（年付288美元）</li>\n<li>Pro Plan 专业版：60美元每月（年付576美元）</li>\n<li>Mega Plan 大型版：120美元每月（年付1152美元）</li>\n</ul>"
+        "title": "如何使用 Midjourney",
+        "html": "<ol><li>访问官网注册账号，根据预计的出图量选择订阅档位。</li><li>进入创作界面，用一段描述说明画面主体、环境、光线与风格倾向。</li><li>按需要追加参数，控制画幅比例与风格化的强度，先小批量试跑找到合适的方向。</li><li>从生成的多张结果里挑出可用的，再做变体或细化，直到达到可用状态。</li><li>把确定的版本导出使用，并在个人作品库中保留当时的提示词，方便后续复用同一套风格。</li></ol><p>订阅额度按周期重置，未用完的额度通常不会结转到下一周期，建议按实际出图节奏选择档位。</p>"
       },
       {
-        "title": "Midjourney的使用方法",
-        "html": "<p><strong>方法1：Discord社区</strong></p>\n<ul>\n<li>登录或注册Discord账号：Midjourney目前支持通过Discord社区来生成图片，所以需要Discord账户。</li>\n<li>选择一个付费版本订阅：访问midjourney.com/account，使用 Discord 帐户登录，选择一个订阅计划。</li>\n<li>在 Discord 上加入 Midjourney 服务器：访问 https://discord.com/invite/midjourney 点击接受邀请加入该服务器。</li>\n<li>切换到#General 或 #Newbie 频道：在 Discord 上找到并选择标有 general 或 newbie 的任何频道。</li>\n<li>使用/imagine命令生成图片：在输入框键入/imagine指令，然后输入提示词描述，即可生成图片。</li>\n</ul>\n<p><strong>方法2：Midjourney网页端</strong></p>\n<ul>\n<li>登录账号：使用Discord或Google账号登录Midjourney网页端，可以在账户设置中合并两个平台的登录信息，确保历史记录同步。</li>\n<li>开始创作：进入Midjourney网页端，找到Create：https://www.midjourney.com/imagine ，输入文本指令即可开始创作，新用户可以免费试用25次。</li>\n<li>作品案例：Midjourney网页端提供了很多作品案例，用户可以直接复制优秀作品的提示词，修改后使用。</li>\n</ul>"
-      },
-      {
-        "title": "Midjourney的常见问题",
-        "html": "<div id=\"accordion\" style=\"max-width: 700px;\">\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Midjourney提供免费试用吗？</strong></div>\n<div class=\"card-body text-sm\">Midjourney在上线初期，有为用户提供免费试用生成25张图片的额度，但由于用户量的激增，服务器费用增加，取消了免费试用的计划，需要付费订阅才能使用。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Midjourney只能通过Discord使用吗？</strong></div>\n<div class=\"card-body text-sm\">目前Midjourney暂时只能通过Discord服务器使用，但Midjourney的在线网站处于建设中，预计将很快上线在线网页生成图片的功能。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Midjourney有国内版本吗？</strong></div>\n<div class=\"card-body text-sm\">Midjourney虽然一直有进军中国市场的打算，但至今未官方推出过任何国内版本，许多声称国内版的基本都是假冒。</div>\n</div>\n</div>"
+        "title": "Midjourney 的应用场景",
+        "html": "<ul><li><strong>概念探索</strong>：在正式投入制作之前快速铺开多个视觉方向，用于内部讨论与筛选。</li><li><strong>插画与素材制作</strong>：文章配图、封面、海报等需要统一风格的视觉内容。</li><li><strong>产品与品牌视觉</strong>：为宣传物料、活动页面提供风格草案与参考图。</li><li><strong>个人创作</strong>：把脑中的画面直接用文字描述出来，降低绘画工具的使用门槛。</li></ul><p>使用前建议先确认授权条款：不同订阅档位对商用范围的规定不同，涉及商业发布时应以官方条款为准。涉及人物形象、品牌标识与受保护作品时，也需要自行判断合规边界。</p>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -361,20 +349,20 @@
     "domain": "cursor.com",
     "detailed_content": [
       {
-        "title": "Cursor是什么",
-        "html": "<p>Cursor是Anysphere公司推出的<a href=\"https://ai-bot.cn/ai-ide/\" target=\"_blank\" rel=\"noopener\">AI代码编辑器</a>，基于GPT3.5、GPT4.0模型，支持Python、Java、C#、JavaScript等多语言，通过快捷键操作，实现代码自动生成、编辑、讨论等功能，显著提升开发效率。Cursor具备代码重构、理解、优化等高级功能。Cursor推出网页端和移动端 Agent。能在任何设备上无缝衔接地使用 AI 编程代理。可以并行运行多个 Agent 任务。每月提供200次GPT3.5和50次GPT4.0的使用次数，满足大多数用户需求。</p>\n<p>全新升级的Cursor 2.0 ，搭载自研编码模型 Composer，能在 30 秒内完成复杂任务，代码生成速度达 250 tokens/秒，比同行快 400%。Cursor 2.0支持语音生成代码、原生浏览器工具测试代码、多 Agent 同时运行等功能，界面从“以文件为中心”变为“以 Agent 为中心”。Composer 基于强化学习和 MoE 架构训练，直接在真实环境中运行，具备强大的推理和泛化能力。</p>\n<p>Cursor 2.2 版本新增调试模式，可在应用运行时植入日志，帮助开发者快速定位、修复复杂 Bug。计划模式也得到改进，新增内联流程图和任务分配功能，让团队协作更高效。多智能体“裁判”机制能自动评估多个智能体的结果、推荐最佳方案，附带详细评语，省去筛选结果的烦恼。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-46667\" src=\"https://ai-bot.cn/wp-content/uploads/2025/03/Cursor-website.png\"   alt=\"Cursor\" width=\"739\" height=\"416\" />"
+        "title": "Cursor 是什么",
+        "html": "<p>Cursor 是一款面向软件开发者的 AI 编程工具，官方把它定义为「编程智能体」。它的形态介于编辑器与自动化开发工具之间：既可以像传统代码编辑器那样逐行书写，也能把一整项任务交给智能体，由它读取项目文件、规划步骤、修改代码并给出结果。</p><p>与只提供代码补全的插件不同，Cursor 的着力点是把开发流程中反复出现的环节自动化。官网列出的产品线覆盖了桌面应用、命令行工具、移动端、云端任务、代码审查与自动化等多个入口，意味着同一套智能体能力可以在本地、终端与云端之间流转。</p><p>Cursor 采用免费增值模式：可以先安装体验，再按使用强度决定是否升级到付费方案。可用的模型会随官方节奏更新，具体清单与额度以官网定价页为准。</p>"
       },
       {
-        "title": "Cursor的主要功能",
-        "html": "<ul>\n<li><strong>代码生成</strong>：Cursor能够根据开发者的指令或代码上下文自动生成代码，节省编写基础代码的时间。</li>\n<li><strong>智能补全</strong>：提供更精准的代码补全建议，帮助开发者快速完成代码编写。</li>\n<li><strong>Bug检测与修复</strong>：AI能够识别代码中的错误并提供修复建议，减少调试时间。</li>\n<li><strong>代码解释</strong>：当开发者对某段代码有疑问时，Cursor可以提供代码的解释和功能说明。</li>\n<li><strong>文档生成</strong>：如README文件的自动生成，帮助开发者快速整理项目信息。</li>\n<li><strong>代码优化建议</strong>：分析现有代码，提供优化建议以提升代码质量和性能。</li>\n<li><strong>多语言支持</strong>：支持多种编程语言，为不同领域的开发者提供帮助。</li>\n<li><strong>Cursor Agent</strong>：是Cursor推出网页端和移动端 Agent。能在任何设备上无缝衔接地使用 AI 编程代理。\n<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">代码编写与任务执行</strong>：Agent 可以在后台运行任务，例如启动漏洞修复、构建新功能或回答复杂的代码库问题。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">跨设备协作</strong>：开发者可以在任何桌面、平板或移动浏览器上使用 Agent，可以将其作为渐进式 Web 应用（PWA）安装，获得类似原生应用的体验。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">团队协作</strong>：拥有代码库访问权限的团队成员可以通过网页界面审查 Agent 的更改、查看拉取请求，直接从网页界面创建拉取请求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">丰富的上下文支持</strong>：用户可以添加图片、后续指令，可以并行运行多个 Agent 来比较结果。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">Slack 集成</strong>：开发者可以在 Slack 中通过 “@Cursor” 触发 Agent，并在任务完成后接收 Slack 通知。</div>\n</li>\n<li><strong>使用Agent</strong>：可以通过访问官网 https://www.cursor.com/cn/agents ，开始使用网页端和移动端的 Agent。</li>\n</ul>\n</li>\n<li><strong>Cursor 2.0功能更新</strong>：\n<ul>\n<li class=\"paragraph\"><strong class=\"\">编码效率提升</strong>：Cursor 2.0 的 Composer 模型以每秒 250 个 tokens 的速度生成代码，30 秒内完成复杂任务，比同行快 400%。</li>\n<li class=\"paragraph\"><strong>智能编程辅助</strong>：原生浏览器工具可自动测试、调错、迭代代码；语音生成代码功能让开发者通过语音输入即可转化为代码；多 Agent 协作支持多个 Agent 同时运行，互不干扰且可择优选择结果。</li>\n<li class=\"paragraph\"><strong>真实环境训练与实战能力</strong>：Composer 基于强化学习训练，在真实环境中运行，具备自动测试、修复错误等涌现行为，贴合开发者日常工作流程。</li>\n</ul>\n</li>\n<li><strong>Cursor 2.2功能更新</strong>：\n<ul>\n<li class=\"paragraph\"><strong>调试模式（Debug Mode）</strong>：在应用运行时植入日志，帮助开发者主动发现并修复难以捉摸的 Bug，节省排查问题的时间，适用于各种技术栈。</li>\n<li class=\"paragraph\"><strong>计划模式升级（Plan Mode Improvements）</strong>：新增内联 Mermaid 流程图，直观展示 AI 的解题思路；支持将待办事项分配给不同智能体，提升团队协作效率。</li>\n<li class=\"paragraph\"><strong>多智能体“裁判”机制（Multi-Agent Judging）</strong>：自动评估多个智能体的结果，推荐最佳解决方案，并附带详细评语，帮助开发者快速筛选最优解。</li>\n<li class=\"paragraph\"><strong>聊天置顶功能（Pinned Chats）</strong>：在智能体侧边栏中可以将重要聊天记录置顶，方便快速访问和回顾重要信息。</li>\n</ul>\n</li>\n</ul>"
+        "title": "Cursor 的主要功能",
+        "html": "<ul><li><strong>任务级智能体</strong>：用自然语言描述目标，由智能体自己规划并执行跨文件的修改，而不是只补全当前这一行。</li><li><strong>并行执行</strong>：多项任务可以同时推进，在任务面板中查看各自的进度与产出。</li><li><strong>任务编排与审查</strong>：官网展示的工作流包含规划、生成方案、等待审查等环节，便于在执行前确认方向、执行后复核改动。</li><li><strong>命令行入口</strong>：提供 CLI，把智能体能力带到终端环境中，衔接脚本与自动化流程。</li><li><strong>多模型选择</strong>：针对不同类型的任务挑选合适的模型，让简单改动与复杂重构各用其所。</li><li><strong>云端与移动端</strong>：任务可放到云端执行，也能从移动端发起与跟进。</li><li><strong>团队协作能力</strong>：面向企业场景提供代码审查、权限与团队协作相关支持。</li></ul>"
       },
       {
-        "title": "如何使用Cursor",
-        "html": "<ul>\n<li><strong>下载和安装</strong>：访问Cursor的官网（<a href=\"https://www.cursor.com/?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >cursor.com</a>）下载安装包，根据提示完成安装。</li>\n<li><strong>注册账号</strong>：启动Cursor后，需要注册账号并进行邮箱验证。</li>\n<li><strong>安装插件</strong>：根据需要安装语言插件和其他扩展，例如中文插件或特定编程语言的编译插件。</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-46668\" src=\"https://ai-bot.cn/wp-content/uploads/2025/03/Cursor-website1.png\"   alt=\"Cursor\" width=\"695\" height=\"391\" />\n<ul>\n<li><strong>新建文件</strong>：在Cursor中打开或创建新的项目文件，并为文件添加正确的扩展名。</li>\n<li><strong>配置解释器</strong>：如果需要特定语言的运行环境，配置相应的解释器。</li>\n<li><strong>使用AI功能</strong>：\n<ul>\n<li>通过快捷键（如Ctrl+K）呼出AI对话框，输入你的编程需求。</li>\n<li>AI会根据需求生成代码或提供建议。</li>\n</ul>\n</li>\n<li><strong>运行和测试代码</strong>：使用界面上的运行按钮或快捷键运行代码，并观察输出结果。</li>\n<li><strong>代码审查与修改</strong>：如果AI生成的代码不符合预期，可以手动修改或通过AI对话框进一步细化需求。</li>\n<li><strong>询问和学习</strong>：对于不理解的代码段，可以使用快捷键呼出聊天框，向AI询问代码的功能和原理。</li>\n<li><strong>导入库</strong>：如需使用特定库，可以通过终端或命令行安装所需的库。</li>\n<li><strong>代码管理和优化</strong>：利用Cursor的AI功能进行代码审查和优化，提高代码质量。</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-46669\" src=\"https://ai-bot.cn/wp-content/uploads/2025/03/Cursor-website2.png\"   alt=\"Cursor\" width=\"695\" height=\"391\" />"
+        "title": "如何使用 Cursor",
+        "html": "<ol><li>从官网下载对应系统的安装包完成安装，首次启动时导入原有编辑器配置与快捷键，降低迁移成本。</li><li>打开项目所在目录，先让工具对整个代码库建立索引，后续提问与修改才能准确引用相关文件。</li><li>从小范围任务开始：先让它解释一段逻辑、补一个函数，确认输出风格符合预期。</li><li>处理较大改动时改用智能体模式，把目标、约束与验收标准一起写清楚，再让它给出方案。</li><li>执行后逐项复核改动内容，确认无误再提交到版本控制。</li><li>常用规范可以沉淀为项目级规则文件，让后续任务自动遵循同一套约定。</li></ol>"
       },
       {
-        "title": "Cursor的适用人群",
-        "html": "<ul>\n<li><strong>编程新手</strong>：刚开始学习编程的，Cursor的AI辅助可以帮助他们快速掌握编程技巧，提供代码示例和解释。</li>\n<li><strong>专业开发者</strong>：经验丰富的开发者可以利用Cursor的AI功能来提高编码效率，自动生成代码片段，检测和修复Bug。</li>\n<li><strong>学生和教师</strong>：在学习编程或教授编程课程的过程中，Cursor可以作为一个强大的工具，帮助理解和实践编程概念。</li>\n<li><strong>数据科学家和分析师</strong>：在进行数据分析和机器学习项目时，Cursor可以帮助快速编写和测试代码。</li>\n<li><strong>自由职业者和创业者</strong>：需要快速开发软件原型或产品的个人，可以使用Cursor加速开发过程。</li>\n</ul>"
+        "title": "Cursor 的应用场景",
+        "html": "<ul><li><strong>日常编码</strong>：写样板代码、补测试、修小问题，把重复劳动交给工具。</li><li><strong>陌生代码库上手</strong>：借助索引快速理解既有项目的结构与关键逻辑。</li><li><strong>重构与迁移</strong>：批量修改调用方式、升级依赖版本这类牵涉多个文件的工作。</li><li><strong>团队协同</strong>：结合代码审查流程，让改动先经过一轮自动检查再进入人工评审。</li></ul><p>需要注意：智能体生成的代码仍需要开发者自行审查与测试。涉及生产环境、权限控制与数据处理的改动，不应跳过人工确认环节。</p>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -400,24 +388,20 @@
     "domain": "suno.com",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<p>Suno是一个专业高质量的AI歌曲和音乐创作平台，用户只需输入简单的文本提示词，即可根据流派风格和歌词生成带有人声的歌曲。该<a href=\"https://ai-bot.cn/best-ai-music-generators/\" target=\"_blank\" rel=\"noopener\">AI音乐生成器</a>由来自Meta、TikTok、Kensho等知名科技公司的团队成员开发，目标是不需要任何乐器工具，让所有人都可以创造美妙的音乐。Suno还与微软合作，支持直接通过微软的<a href=\"https://ai-bot.cn/sites/6019.html\" target=\"_blank\" rel=\"noopener\">Copilot</a>调用其插件生成音乐。Suno最新已将音乐生成模型升级到V3版本，可生成2分钟的歌曲。</p>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-6971 rounded-lg\" src=\"https://ai-bot.cn/wp-content/uploads/2023/12/suno-ai-song-maker.png\"   alt=\"Suno AI音乐生成器\" width=\"700\" height=\"377\" />"
+        "title": "Suno 是什么",
+        "html": "<p>Suno 是一款 AI 音乐生成工具，主打用一段文字描述直接产出完整歌曲。用户既可以只给一句灵感提示，也可以把自己写好的歌词、脑中的旋律哼唱交给它，由模型补齐编曲、演唱与混音，最终得到一首可播放的成品。</p><p>官网把「让每个人都能做音乐」作为核心定位：不需要乐理基础、不需要录音棚，创作门槛被压缩到「描述你想要的音乐」这一步。与此同时，Suno 也提供了面向进阶用户的编辑能力，让已经习惯音乐制作流程的人可以介入到更细的环节。</p><p>Suno 采用免费增值模式：可以先免费生成体验，付费后获得更高额度与更完整的编辑功能。具体额度与功能范围以官网定价页为准。站内还有创作者社区，可以浏览其他用户公开的作品。</p>"
       },
       {
-        "title": "Suno的主要功能",
-        "html": "<ul class=\"text-md\">\n<li>文本描述生成歌曲：输入简单的歌曲说明和提示词即可快速生成一首完整的歌曲，可自定义歌词</li>\n<li>多样化的音乐风格：支持流行、R&B、嘻哈、乡村、电子、迷幻等多种风格的音乐生成</li>\n<li>支持50种语言的歌曲：包括英文、中文、法语、日语、俄语、西班牙语等50多种语言进行输入和歌曲输出</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-6972 rounded-lg\" src=\"https://ai-bot.cn/wp-content/uploads/2023/12/suno-ai-music-generator.png\"   alt=\"Suno AI歌曲生成\" width=\"700\" height=\"369\" />"
+        "title": "Suno 的主要功能",
+        "html": "<ul><li><strong>文字生成歌曲</strong>：输入主题、情绪或场景描述，直接生成带人声与伴奏的完整曲目。</li><li><strong>自定义歌词</strong>：把自己的歌词填进去，由模型负责谱曲与演唱。</li><li><strong>风格标签控制</strong>：通过流派、乐器、节奏与情绪标签约束成品方向。</li><li><strong>人声与声音能力</strong>：官方提供 Voices 相关功能，用于设定或延续特定的演唱声音。</li><li><strong>分轨导出</strong>：提供 Stem separation，把成品拆成人声、伴奏等独立音轨，便于后期再加工。</li><li><strong>改编与重制</strong>：Remix 功能可以基于已有曲目做新的版本。</li><li><strong>创作工作台</strong>：Suno Studio 面向进阶编辑场景，提供更细的编排与调整入口。</li><li><strong>自定义模型</strong>：支持按自己的素材与风格训练定制模型。</li><li><strong>作品库</strong>：生成的曲目统一存放，便于检索、播放与分享。</li></ul>"
       },
       {
-        "title": "如何使用Suno AI生成歌曲",
-        "html": "<ol class=\"text-md\">\n<li>访问Suno的官网（suno.ai），点击Make a song进入后台界面</li>\n<li>点击左侧的Create按钮，然后登录注册账号，登录成功后输入歌曲描述</li>\n<li>输入完成后点击Create音乐，稍等片刻即可生成歌曲</li>\n<li>生成的歌曲可以分享、预览、Remix</li>\n</ol>"
+        "title": "如何使用 Suno",
+        "html": "<ol><li>打开官网并注册账号，先以简单提示词试生成，熟悉出歌的速度与风格覆盖面。</li><li>确定方向后，把描述写得具体一些：说明流派、主要乐器、节奏感与情绪，必要时给出参考氛围。</li><li>有原创歌词的直接填入歌词框；没有的可以让模型先出草稿，再自行修改。</li><li>同时生成多个版本做对比，挑选最接近预期的版本继续迭代。</li><li>需要进一步加工时，用分轨导出拿到独立音轨，导入自己的音频软件做混音或剪辑。</li><li>把满意的作品保存到作品库，并记录下当时使用的风格标签，方便延续同一套制作方向。</li></ol>"
       },
       {
-        "title": "Suno AI的产品价格",
-        "html": "<ul class=\"text-md\">\n<li>基础版：免费使用，每日50积分（可生成10首歌），不可商用，同时进行2个任务</li>\n<li>专业版：10美元每月（包年8美元每月），每月2500积分（可生成500首歌），可商用，同时进行10个任务</li>\n<li>高级版：30美元每月（包年24美元每月），每月10000积分（可生成2000首歌），可商用，同时进行10个任务</li>\n</ul>"
-      },
-      {
-        "title": "常见问题",
-        "html": "<div id=\"accordion\" style=\"max-width: 700px;\">\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Suno基于什么大模型？</strong></div>\n<div class=\"card-body text-sm\">Suno的AI歌曲生成能力基于其自研的音乐大模型Chirp，最新为v3版本。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Suno生成的歌曲可以商用吗？</strong></div>\n<div class=\"card-body text-sm\">免费版的Suno生成的歌曲不能商用，付费版的才可以商用。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Suno支持生成特定歌手风格的音乐吗？</strong></div>\n<div class=\"card-body text-sm\">为了避免版权问题，Suno不支持根据特定歌手和艺术家的提示生成音乐。</div>\n</div>\n</div>"
+        "title": "Suno 的应用场景",
+        "html": "<ul><li><strong>短视频与内容配乐</strong>：按视频节奏和情绪定制背景音乐，避免通用素材的撞车问题。</li><li><strong>创意 Demo</strong>：把歌词或旋律想法快速做成可试听的版本，用于内部沟通或展示。</li><li><strong>个人创作与娱乐</strong>：为纪念日、生日、团队活动等场景定制专属歌曲。</li><li><strong>音乐学习</strong>：通过调整风格标签观察编曲与配器变化，理解不同流派的结构特点。</li></ul><p>需要注意：AI 生成音乐的版权与商用规则仍在演进，涉及公开发行、商业投放或平台分发时，应先确认官方对生成内容的授权说明，并留意所用声音是否存在侵权风险。</p>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -500,24 +484,20 @@
     "domain": "klingai.com",
     "detailed_content": [
       {
-        "title": "可灵AI是什么",
-        "html": "<p>可灵AI是快手推出的<a href=\"https://ai-bot.cn/best-ai-painting-tools/\" target=\"_blank\" rel=\"noopener\">AI图像</a>和<a href=\"https://ai-bot.cn/ai-video-generation-tools/\" target=\"_blank\" rel=\"noopener\">AI视频</a>创作平台，提供网页版和手机APP。支持AI图片和AI视频生成功能，AI图片生成支持文生图和图生图，用户可以输入描述或上传图片，AI据此生成新的图片。AI视频生成能将文本或图片转化为生动视频，具备视频延长和高清画质升级特性。用户能自定义首尾帧生成视频，享受丰富的视频编辑功能，如多种镜头控制选项。提供了多人协同创作的平台，支持最多5人同时在一个画布内进行创作，实现素材共享、实时联动和一键导出，通过“灵动画布”，创作者可以将零散的创意想法转化为文本、图像或视频节点，高效串联成完整的视觉作品。</p>\n<p>可灵AI最新上线的AI数字人功能，支持用户上传一张角色图片和一段文字或音频，能生成高清数字人视频，基于Transformer的DiT架构，能实现口型精准同步与情绪动作精细控制，支持多种角色和语言，画质1080p，帧率48FPS，成本低至0.12元/秒。</p>\n<p>可灵数字人 2.0 已正式上线，只需三步，上传角色图、添加配音、描述表现，即可生成表现力十足的数字人视频。此次升级支持手部和口型精准控制，单次生成最长可达 5 分钟，知识讲解和表演都能生动呈现。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-46446\" src=\"https://ai-bot.cn/wp-content/uploads/2025/03/klingai-website.png\"   alt=\"可灵\" width=\"739\" height=\"416\" />"
+        "title": "可灵AI 是什么",
+        "html": "<p>可灵 AI（Kling AI）是快手推出的 AI 视频与图像生成工具，官方定位是「下一代 AI 视频与图像生成器」。它把视频、图像、声音三类生成能力放进同一个创作工作台，让用户既可以从文字出发，也可以从图片或参考素材出发，产出成片级的视频内容。</p><p>官网目前主推的是 3.0 系列模型，覆盖视频、图像与 Omni 多模态方向，官方将其描述为一体化模型系列。可灵在画质上强调原生 4K 输出，并提供动作控制、数字人等偏专业制作的工具，目标用户既包括个人创作者，也包括需要批量产出的商业团队。</p><p>可灵 AI 采用免费增值模式：可以先免费试用体验生成效果，付费后解锁更高分辨率、更长时长或更多生成额度。各档位的额度与可用功能会调整，以官网定价页为准。除网页端外，官方提供 iOS 与 Android 应用。</p>"
       },
       {
-        "title": "可灵AI的主要功能",
-        "html": "<ul class=\"text-md\">\n<li><strong>文生视频</strong>：根据文本描述生成视频内容，用户输入创意文本，AI将文本转化为视频。</li>\n<li><strong>图生视频</strong>：根据已有图片作为参考，AI创作出新的视频内容，支持自定义首尾帧，视频更加个性化。</li>\n<li><strong>视频延长（续写）</strong>：用户可以将生成的视频进行续写，延长视频时长，最多可至约3分钟。</li>\n<li><strong>AI图片功能</strong>：包括文生图和图生图，用户可以输入描述或上传图片，AI据此生成新的图片。</li>\n<li><a href=\"https://ai-bot.cn/keling-lab/\" target=\"_blank\" rel=\"noopener\"><strong>灵动画布</strong></a>：是可灵AI发布的全新创意工作台，提供多人协同创作的平台，支持最多5人同时在一个画布内进行创作，实现素材共享、实时联动和一键导出，打造更流畅的创作闭环。创作者可以将零散的创意想法转化为文本、图像或视频节点，高效串联成完整的视觉作品。</li>\n<li><strong>高清画质升级</strong>：提供“高表现”模式，优化生成视频的画质，适合对画面质量有更高要求的用户。</li>\n<li><strong>丰富的视频编辑能力</strong>：包括多种镜头控制选项，如旋转运镜、垂直摇镜、水平摇镜、垂直运镜、水平运镜、推进/拉远等。</li>\n<li><strong>AI数字人</strong>：通过上传角色图片和文字或音频，快速生成高清数字人视频，支持多角色、多语言，具备口型同步和情绪动作控制，适用于广告、电商、教育等场景。</li>\n<li><strong>可灵数字人 2.0</strong>：\n<ul class=\"text-md\">\n<li>\n<div class=\"paragraph\"><strong class=\"\">精准动作控制</strong>：支持手部动作和口型精准控制，表现力大幅提升。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>长视频生成</strong>：单次生成时长可达 5 分钟，满足深度内容创作需求。</div>\n</li>\n</ul>\n</li>\n</ul>"
+        "title": "可灵AI 的主要功能",
+        "html": "<ul><li><strong>文生视频</strong>：用一段文字描述画面与镜头，直接生成视频片段。</li><li><strong>图生视频</strong>：上传图片作为起始帧，让静态画面动起来，适合已有素材的再利用。</li><li><strong>图像生成</strong>：提供文生图与图生图能力，并配有 AI 修图工具。</li><li><strong>声音生成</strong>：为视频内容生成配音或音效素材。</li><li><strong>动作控制</strong>：官方新版本中上线了动作控制能力，用于约束人物的姿态与动作走向。</li><li><strong>AI 数字人</strong>：面向口播类内容的数字人视频生成。</li><li><strong>素材库</strong>：提供元素库管理生成中用到的素材，便于跨项目复用。</li><li><strong>创作工作室与 API</strong>：既可在网页端工作室完成全流程创作，也可通过 API 接入自有系统做批量生产。</li></ul>"
       },
       {
-        "title": "如何使用可灵AI",
-        "html": "<ul>\n<li><strong>访问官方网站</strong>：<span style=\"font-size: 0.875rem;\">访问可灵AI的官方网站：</span>app.klingai.com</li>\n<li><strong>注册和登录</strong>：<span style=\"font-size: 0.875rem;\">新用户注册账号。</span><span style=\"font-size: 0.875rem;\">可以使用手机登录，或者使用快手APP、快手极速版APP扫码登录。</span></li>\n<li><strong>选择功能</strong>：<span style=\"font-size: 0.875rem;\">在网站首页，可以选择“AI图片”或“AI视频”功能。</span></li>\n<li><strong>AI图片功能</strong>：\n<ul>\n<li><strong>文生图</strong>：输入创意描述文本，设置图片的尺寸和数量，点击“立即生成”。</li>\n<li><strong>图生图</strong>：上传一张参考图片，输入描述，调整参考强度后，点击“立即生成”。</li>\n</ul>\n</li>\n<li><strong>AI视频功能</strong>：\n<ul>\n<li>如果是首次使用，可能需要进行体验申请。完成简单问答后，等待申请通过。</li>\n<li>如果已在快影APP中体验过，可以在快影中绑定快手ID来同步体验权限。</li>\n</ul>\n</li>\n<li><strong>视频生成</strong>：\n<ul>\n<li><strong>文生视频</strong>：输入视频的创意描述，选择生成模式（如“高表现”或“高性能”），点击生成。</li>\n<li><strong>图生视频</strong>：上传图片，输入描述，选择生成模式，点击生成。</li>\n</ul>\n</li>\n<li><strong>视频编辑</strong>：<span style=\"font-size: 0.875rem;\">使用提供的视频编辑工具，如镜头控制，对生成的视频进行进一步的编辑和优化。</span></li>\n</ul>"
+        "title": "如何使用 可灵AI",
+        "html": "<ol><li>访问官网注册账号，或安装 iOS / Android 应用，先熟悉生成速度与画面风格。</li><li>在创作工作台选择生成类型：从文字开始，或上传一张图片作为起始画面。</li><li>描述镜头与画面：主体、动作、环境、镜头运动方式写得越明确，成片越接近预期。</li><li>选择合适的模型版本与时长、画幅等参数，先做短片段测试方向，确认后再生成完整版本。</li><li>生成结果可反复重试或做局部调整，满意后下载使用。</li><li>需要成批产出或嵌入自有流程时，改用 API 接入，把生成环节自动化。</li></ol><p>视频生成属于算力密集型任务，生成排队与额度消耗都较快，建议先用低分辨率方案确定方向，再用高画质设置出终版。</p>"
       },
       {
-        "title": "可灵AI的产品定价",
-        "html": "<ul>\n<li><strong>免费灵感值</strong>：每日登录可领取66灵感值。</li>\n<li><strong>黄金会员</strong>：\n<ul>\n<li><strong>价格</strong>：1个月￥66；1季度￥178；1年￥553；连续包月：首月￥19，下月￥55；连续包季：首季￥99，下季￥152。</li>\n<li><strong>权益</strong>：登录每日送灵感值；每月获得660灵感值；去水印；高表现视频生成；视频延长功能；专享大师运镜；图片画质增强。</li>\n</ul>\n</li>\n<li><strong>铂金会员</strong>：\n<ul>\n<li><strong>价格</strong>：1个月￥266；1季度￥718；1年￥2234；连续包月：首月￥79，下月￥234；连续包季：首季￥399，下季￥614。</li>\n<li><strong>权益</strong>：登录每日送灵感值；每月获得3000灵感值；去水印；高表现视频生成；视频延长功能；专享大师运镜；图片画质增强；新功能优先体验。</li>\n</ul>\n</li>\n<li><strong>钻石会员</strong>：\n<ul>\n<li><strong>价格</strong>： 1个月￥666；1季度￥1798；1年￥5594；连续包月：首月￥199，下月￥589；连续包季：首季￥999，下季￥1538。</li>\n<li><strong>权益</strong>：登录每日送灵感值；每月获得8000灵感值；去水印；高表现视频生成；视频延长功能；专享大师运镜；图片画质增强；新功能优先体验。</li>\n</ul>\n</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-19782\" src=\"https://ai-bot.cn/wp-content/uploads/2024/09/keling-website1.png\"   alt=\"\" width=\"800\" height=\"450\" />"
-      },
-      {
-        "title": "可灵AI的应用场景",
-        "html": "<ul>\n<li><strong>艺术视频创作</strong>：可灵AI能根据用户的文本描述生成具有艺术感的视频，适用于艺术家和视频创作者制作独特的视觉作品。</li>\n<li><strong>广告制作</strong>：可灵AI可以快速生成吸引人的广告视频，节省制作成本和时间，同时提供高质量的视觉效果。</li>\n<li><strong>影视行业</strong>：可灵AI能为影视制作提供高效的视频素材生成解决方案，包括特效制作、场景设计和虚拟角色创作等。</li>\n<li><strong>教育和培训</strong>：可灵AI可以生成教育内容，如模拟实验、历史重现等，提供生动的教学辅助材料。</li>\n<li><strong>游戏开发</strong>：在游戏行业，可灵AI可以用于生成游戏内的动画和动态背景，增强游戏体验。</li>\n</ul>"
+        "title": "可灵AI 的应用场景",
+        "html": "<ul><li><strong>短视频与广告素材</strong>：为社交平台内容快速产出镜头素材，压缩实拍与剪辑成本。</li><li><strong>影视与动画前期</strong>：在正式制作前把分镜想法做成可视化的动态预览。</li><li><strong>电商与产品展示</strong>：用静态商品图生成动态展示视频，补充详情页的表现力。</li><li><strong>数字人口播</strong>：需要标准化输出的讲解、播报类内容。</li></ul><p>需要注意：生成内容涉及真人肖像、品牌标识或受保护作品时，需自行确认授权与合规边界；涉及商用发布时，也应先阅读官方对生成内容的授权说明。</p>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -653,7 +633,24 @@
     "subcategory": "ai-image-illustration",
     "logo": "/logos/stability-ai.png",
     "domain": "stability.ai",
-    "detailed_content": [],
+    "detailed_content": [
+      {
+        "title": "Stable Diffusion 是什么",
+        "html": "<p>Stable Diffusion 是开源图像生成模型系列，由 Stability AI 主导并开放发布。与只提供在线服务的生成工具不同，Stable Diffusion 的模型权重可以下载到本地运行，这意味着使用者能在自己的显卡环境里出图，不依赖云端额度，也不必把素材上传到第三方服务器。</p><p>Stability AI 的官网目前以公司产品入口的形式组织内容，围绕音频、图像、视频、3D 四条模型线展开，并同时提供自托管与平台化两种使用路径：既可以按授权条款把模型部署在自己的基础设施上，也可以通过官方平台与 API 直接调用。</p><p>模型的开源属性使它在社区生态上有明显优势——围绕它衍生出大量界面工具、插件与微调模型，覆盖从个人把玩到企业级内容生产的各种需求。官网面向企业客户提供专业级生成工具与规模化内容生产方案，并提供自托管授权选项。</p>"
+      },
+      {
+        "title": "Stable Diffusion 的主要功能",
+        "html": "<ul><li><strong>文字生成图像</strong>：用提示词描述画面内容与风格，由模型生成图像。</li><li><strong>图像到图像</strong>：以现有图片为起点做风格转换、内容修改或细节重绘。</li><li><strong>局部重绘与扩图</strong>：只修改画面中的指定区域，或向外延展画布。</li><li><strong>多模型可选</strong>：Stability AI 在图像之外还提供音频、视频与 3D 方向的模型，可按任务选择对应能力。</li><li><strong>本地部署</strong>：模型可下载到自有硬件运行，数据不出本地环境。</li><li><strong>自托管与授权</strong>：面向企业提供自托管部署与商业授权方案。</li><li><strong>平台与 API</strong>：不想自建环境时，可通过官方平台或 API 直接调用模型能力。</li></ul>"
+      },
+      {
+        "title": "如何使用 Stable Diffusion",
+        "html": "<ol><li>先明确使用路径：个人试用可以走官方平台或社区界面，团队规模化使用则更适合自托管部署。</li><li>选择部署方式。本地运行需要一张具备足够显存的显卡，社区有成熟的安装包与整合环境，可省去手动配置依赖的环节。</li><li>下载模型权重并放入对应目录，根据任务切换使用不同的模型版本或社区微调模型。</li><li>用提示词描述画面，逐步补充风格、光线、构图等限定条件，通过反复调整找到稳定出图的方式。</li><li>需要批量或嵌入业务系统时，改用官方 API 或把模型封装成自有服务。</li></ol><p>本地部署的隐性成本主要在硬件与环境维护上，出图速度直接取决于显卡性能，建议先小规模验证再决定是否扩大投入。</p>"
+      },
+      {
+        "title": "Stable Diffusion 的应用场景",
+        "html": "<ul><li><strong>企业内部内容生产</strong>：在自有环境中生成配图与素材，避免素材外传带来的合规顾虑。</li><li><strong>产品与二次开发</strong>：把模型集成进自有工具或业务流程，做定制化的图像生成功能。</li><li><strong>研究与实验</strong>：模型权重开放，便于做微调、算法对比与效果验证。</li><li><strong>个人创作与学习</strong>：无云端额度限制，适合长期练习与风格探索。</li></ul><p>需要注意：开源不等于无约束。不同模型版本与授权条款对商用范围的规定不同，社区微调模型还可能带有各自的附加条款，用于商业用途前应逐项确认。</p>"
+      }
+    ],
     "updatedAt": "2026-09-27"
   },
   {
@@ -719,7 +716,24 @@
     "subcategory": "ai-design-graphic",
     "logo": "/logos/canva-ai.png",
     "domain": "canva.com",
-    "detailed_content": [],
+    "detailed_content": [
+      {
+        "title": "Canva AI 是什么",
+        "html": "<p>Canva AI 是 Canva 可画在设计工具中内置的 AI 能力集合。Canva 本身是一款免费的在线平面设计工具，主打用模板与拖拽操作完成社交媒体图、演示文稿、海报、视频等视觉内容；AI 功能则被嵌入到具体的制作环节里，用来省掉那些原本需要手工完成的步骤。</p><p>与独立的 AI 生图工具不同，Canva AI 的定位是「在设计流程中顺手可用」：生成的图片可以直接拖进画布继续排版，抠图结果就是图层，配音结果就是素材轨道。对不熟悉专业设计软件的团队来说，这种整合方式降低了从想法到成品的操作成本。</p><p>Canva 采用免费增值模式：基础设计功能可以免费使用，AI 能力的可用范围与额度随订阅方案变化，高级版、商务版与企业版在协作、品牌管理与素材授权上各有侧重。</p>"
+      },
+      {
+        "title": "Canva AI 的主要功能",
+        "html": "<ul><li><strong>AI 图片生成</strong>：用文字描述生成图片，直接用于版式中的配图位置。</li><li><strong>AI 抠图</strong>：自动识别主体并去除背景，快速得到透明底素材。</li><li><strong>AI 照片编辑器</strong>：对已有照片做修整与优化处理。</li><li><strong>AI 视频生成与动效</strong>：生成视频素材，或为静态元素添加动效。</li><li><strong>文字转配音与声音生成</strong>：为视频内容生成配音与声音素材。</li><li><strong>AI 音乐生成</strong>：按需生成背景音乐。</li><li><strong>Canva AI 助手</strong>：用对话方式发起设计任务，由助手协助完成初稿。</li><li><strong>AI 写作与翻译</strong>：生成、改写文案，或把内容翻译成其他语言。</li><li><strong>AI 图层与自动调整尺寸</strong>：按语义拆分图层便于单独编辑；一键把同一设计适配到不同平台的尺寸规格。</li><li><strong>AI 数据洞察与公式</strong>：在表格类内容中辅助处理数据与公式。</li></ul>"
+      },
+      {
+        "title": "如何使用 Canva AI",
+        "html": "<ol><li>打开 Canva 官网注册账号，按使用场景选择画布类型，或直接从模板市场挑选版式作为起点。</li><li>需要配图时用 AI 图片生成器描述想要的画面，生成结果可直接替换版式中的占位图。</li><li>已有素材需要处理时，用 AI 抠图或照片编辑器完成去背景与修整。</li><li>制作视频内容时，用文字转配音与 AI 音乐生成补齐声音部分，再调整时间轴节奏。</li><li>一套设计做完后，用自动调整尺寸批量生成不同平台的版本，避免逐个重排。</li><li>团队协作场景下，把常用版式与品牌素材固化为模板，由成员在统一规范内创作。</li></ol>"
+      },
+      {
+        "title": "Canva AI 的应用场景",
+        "html": "<ul><li><strong>社交媒体运营</strong>：按平台规格批量产出帖子、封面与短视频素材。</li><li><strong>市场与销售物料</strong>：宣传海报、产品单页、演示文稿等需要频繁改版的材料。</li><li><strong>企业品牌管理</strong>：在统一品牌规范下由多个成员协作产出内容，降低风格走样的概率。</li><li><strong>教学与培训</strong>：教师与学生制作课件、图表与学习材料。</li></ul><p>需要注意：素材库与 AI 生成内容的可用范围随订阅方案变化，免费版与付费版在商用授权上的规定不同。对外发布的物料建议先确认所用素材的授权状态。</p>"
+      }
+    ],
     "updatedAt": "2026-09-27"
   },
   {
@@ -914,24 +928,7 @@
     "subcategory": "ai-prompt-library",
     "logo": "/logos/ai-bot.png",
     "domain": "ai-bot.cn",
-    "detailed_content": [
-      {
-        "title": "造次是什么",
-        "html": "<p>造次是专为创作者打造的 AI 原创 IP 视频社区。用户能通过自然语言描述，快速生成个性化的 IP 视频。造次打破传统动画和建模的技术壁垒，让每个人都能轻松创作。造次支持用户能创建属于自己的次元，与其他创作者共建故事。让 OC 圈、动态漫创作者和品牌运营者，都能找到乐趣。造次以“主次元”与“小剧场”功能，实现真正的 IP 共创。造次目前仅支持iOS端访问。</p>\n<ul>\n<li>内测阶段：造次需邀请码体验，每个用户登录成功有1个邀请码可使用5次，且目前仅支持iOS用户访问。</li>\n<li><a href=\"https://ai-bot.cn/zaoci-invite-code/\" target=\"_blank\" rel=\"noopener\">造次邀请码</a>：AI工具集官方提供了造次邀请码互助群，免费共享邀请码，互助解锁优先体验。</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-66556\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/zaoci-website1.png\"   alt=\"造次\" width=\"740\" height=\"416\" />"
-      },
-      {
-        "title": "造次的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>AI 视频生成</strong>：用户通过自然语言描述，快速生成个性化的 IP 视频，无需复杂的动画或建模技术。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">IP 创建与管理</strong>：用户能创建自己的“次元”（IP），对其进行详细设定，包括外观、性格、背景等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>主次元与小剧场</strong>：主次元用于存放创作者的“正史”视频，小剧场支持其他用户基于该 IP 创作“同人”视频，创作者能管理这些内容。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>风格融合</strong>：支持多种风格（如二次元、水墨风、3D 等）的 IP 融入不同场景，满足多样化创作需求。</div>\n</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-66559\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/zaoci-website3.png\"   alt=\"造次\" width=\"740\" height=\"416\" />"
-      },
-      {
-        "title": "如何使用造次",
-        "html": "<ul>\n<li><strong class=\"\">下载与注册</strong>：下载<a href=\"https://ai-bot.cn/app/66531.html\" target=\"_blank\" rel=\"noopener\">造次APP</a>，用手机号或邮箱注册账号，内测期间需输入邀请码访问。</li>\n<li><strong class=\"\">创建次元</strong>：打开APP，点击「创建次元」按钮，进入创建界面。</li>\n<li><strong>填写次元信息</strong>：输入次元名称（如“caia”），选择次元类型（如角色），提供次元描述（如“一个被娱乐圈捕获的‘野生’艺术家”）。</li>\n<li><strong>完成创建</strong>：确认信息无误后，点击完成创建。</li>\n<li><strong class=\"\">输入描述</strong>：在创作界面的文本框中输入视频的具体内容，如角色的动作、对话、场景描述等。</li>\n<li><strong class=\"\">关联次元</strong>：在输入框中输入「@次元名称」，关联创建的次元角色（如「@caia」），确保视频围绕该角色展开。</li>\n<li><strong>选择风格</strong>：从提供的风格选项中选择视频的风格，如二次元、水墨风、3D 等。</li>\n<li><strong>点击生成</strong>：点击「生成」按钮，提交任务，等待 AI 完成视频生成。</li>\n<li><strong>主次元管理</strong>：在「主次元」页面查看自己发布的所有视频，对视频进行编辑、删除或分享到其他平台。</li>\n<li><strong class=\"\">小剧场互动</strong>：在「小剧场」页面查看其他用户基于次元创作的视频，可以点赞、评论或将其「提拔」到主次元。</li>\n<li><strong>分享作品</strong>：点击视频右上角的「分享」按钮，将生成的视频分享到社区、社交媒体或保存到本地。</li>\n</ul>"
-      },
-      {
-        "title": "造次的应用场景",
-        "html": "<ul>\n<li class=\"paragraph\"><strong class=\"\">个人娱乐与创作</strong>：用户通过将个人想象和创意快速转化为视频内容，用于个人娱乐或社交媒体分享。</li>\n<li class=\"paragraph\"><strong class=\"\">IP角色开发</strong>：创作者构建自己的原创IP角色或世界观，通过造次生成视频，为角色开发提供视觉素材。</li>\n<li class=\"paragraph\"><strong>故事叙述与动画制作</strong>：作家、编剧或动画制作者造次快速制作故事板或动画短片，加速创作流程。</li>\n<li class=\"paragraph\"><strong>教育与培训</strong>：教育工作者用造次生成教育视频，如历史重现、科学实验模拟等，增强教学的互动性和趣味性。</li>\n<li class=\"paragraph\"><strong>广告与营销</strong>：企业用造次快速生成广告视频或营销内容，吸引目标受众并提高品牌知名度。</li>\n</ul>"
-      }
-    ],
+    "detailed_content": [],
     "updatedAt": "2026-09-27"
   },
   {
@@ -36579,20 +36576,20 @@
     "domain": "lingxi.cn",
     "detailed_content": [
       {
-        "title": "灵犀是什么",
-        "html": "<p>灵犀是金山办公推出的桌面端 AI 智能体。用户用一句话交代想法，AI 即可自主规划步骤、调用工具，直接产出可编辑的 Word、Excel、PPT 等办公成品。产品依托 WPS 文档技术底座，擅长复杂文档与数据任务，并支持通过微信等 IM 远程指挥。</p>"
+        "title": "灵犀 是什么",
+        "html": "<p>灵犀是金山办公推出的桌面端 AI 办公智能体，官方定位是「AI 搭手」。它要解决的问题很具体：把一句话的想法直接变成可以继续编辑的成品文件——Word 文档、Excel 表格和 PowerPoint 演示文稿，而不是只给出一段需要自己再整理的文本。</p><p>与只做对话的助手相比，灵犀的差别在于它落地的位置是办公环境本身。它可以连接本地与云端的办公资料，读取共享文档、汇总会议纪要、处理经营数据，最后交付结构完整、公式联动、可直接演示的文件。官方把这一过程概括为从「理解你」到「替你完成」。</p><p>灵犀为免费增值模式。官方提供 macOS（分 Apple 芯片与 Intel 版本）、Windows 10/11 桌面客户端，以及移动端 App 与网页版，Office 插件标注为即将上线。具体功能范围与额度以官网说明为准。</p>"
       },
       {
-        "title": "灵犀的主要功能",
-        "html": "<ul>\n<li><strong>智能对话</strong>：支持多轮对话与复杂逻辑推理，理解上下文并追踪话题。</li>\n<li><strong>文档处理</strong>：生成、编辑、排版、翻译 Word/Excel/PPT/PDF 各类文档。</li>\n<li><strong>数据分析</strong>：上传数据文件自动分析，生成公式与可视化图表，过程可溯。</li>\n<li><strong>深度研究</strong>：直连学术库、金融行情等权威数据源，输出可信分析报告。</li>\n<li><strong>网页自动化</strong>：模拟真人操作浏览器，批量采集信息、填写表单。</li>\n<li><strong>长期记忆与技能生态</strong>：跨会话记住偏好，支持把重复工作流封装为自定义技能。</li>\n<li><strong>IM 远程操控</strong>：微信、企微、飞书、钉钉发指令，手机远程指挥电脑干活。</li>\n</ul>"
+        "title": "灵犀 的主要功能",
+        "html": "<ul><li><strong>一句话交付成品</strong>：描述任务后直接产出 .docx、.xlsx、.pptx 三种可编辑文件，而不是纯文本回复。</li><li><strong>记忆能力</strong>：在协作中沉淀偏好、项目背景与常用格式，下一次任务无需重复交代前因后果。</li><li><strong>办公环境连接</strong>：可读取金山文档等共享资料，按指令把最新数据带入任务。</li><li><strong>远程操控</strong>：官方示例中可在企业微信里发指令，由灵犀读取资料并推进任务，人不在电脑前也能继续。</li><li><strong>数据分析</strong>：汇总销售数据、定位异常并完成测算，输出带公式的表格。</li><li><strong>文档处理</strong>：整理访谈与会议纪要，形成结构完整的报告。</li><li><strong>汇报材料生成</strong>：把策略与数据整理成可直接演示的演示文稿。</li><li><strong>专家模式</strong>：针对复杂度更高的任务切换处理方式。</li></ul>"
       },
       {
-        "title": "如何使用灵犀",
-        "html": "<ul>\n<li>访问官网 lingxi.cn 下载 Windows 或 macOS 客户端并安装。</li>\n<li>使用 WPS 账号登录，支持验证码、微信/QQ 或企业 SSO。</li>\n<li>在输入框用自然语言说出需求，或拖拽上传文档。</li>\n<li>查看执行阶段说明，任务完成后直接查看、下载或导出成品。</li>\n</ul>"
+        "title": "如何使用 灵犀",
+        "html": "<ol><li>从官网下载对应系统的桌面客户端，安装后登录金山办公账号；也可以先用网页版体验。</li><li>在任务描述里交代清楚目标、约束和期望的产出格式，例如「把本年销售数据做经营分析，输出带公式的 Excel」。</li><li>首次使用时把常用的表达偏好与格式要求说明一次，后续任务会沿用这套设定，减少重复沟通。</li><li>需要引用内部资料时，让灵犀读取共享文档中的数据，避免手工复制带来的版本错乱。</li><li>拿到成品后直接在原有办公软件中继续编辑，它交付的是标准格式文件，不会带来额外的迁移成本。</li><li>移动场景下可通过移动端 App 查看进度或追加指令，把等待时间利用起来。</li></ol>"
       },
       {
-        "title": "灵犀的应用场景",
-        "html": "<ul>\n<li><strong>文档生成与排版</strong>：一句话生成专业 PPT、Word 报告，全要素可自由编辑。</li>\n<li><strong>数据分析与可视化</strong>：上传 Excel 自动分析趋势、生成公式与图表。</li>\n<li><strong>深度调研报告</strong>：直连权威数据源，输出结构化研究报告。</li>\n<li><strong>网页信息批量采集</strong>：自动采集评论、招聘等信息并整理成表格。</li>\n<li><strong>移动办公远程指挥</strong>：通过微信发送指令，远程处理紧急事项。</li>\n</ul>"
+        "title": "灵犀 的应用场景",
+        "html": "<ul><li><strong>经营分析与复盘</strong>：把销售数据汇总成表，定位异常指标并完成测算，直接用于内部汇报。</li><li><strong>会议与访谈整理</strong>：把零散的会议记录、访谈内容整理成结构化的会议纪要与专题报告。</li><li><strong>汇报演示准备</strong>：把结论与数据整理成逻辑成篇的演示文稿，减少排版与结构调整的时间。</li><li><strong>办公协同</strong>：在常用沟通工具里远程下达任务，由智能体在办公资料中完成取数与处理。</li></ul><p>需要注意：涉及公司内部数据与文档的任务，建议先确认客户端的权限设置与数据流向；对外输出的报告与数据结论仍应由人工复核后再使用。</p>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -36951,20 +36948,20 @@
     "domain": "motiofy.ai",
     "detailed_content": [
       {
-        "title": "Motiofy是什么",
-        "html": "<p>Motiofy 是聚合 Seedance、Kling、MiniMax、Wan 等旗舰模型的一站式 AI 图生视频工作台。上传图片或输入文字即可生成视频，支持精准运镜、首尾帧过渡、参考图锁定主体及真人动作迁移。生成前实时预估积分、费用透明，成片自动归档、无水印高清导出，适合电商卖家、自媒体、插画师与营销团队低成本批量出片。</p>"
+        "title": "Motiofy 是什么",
+        "html": "<p>Motiofy 是一款在线的 AI 图生视频工具，官方把它定义为「图片转视频生成器」。它要解决的问题是把一张静态照片变成可播放的动态片段，适用于商品展示、付费广告与社交内容等需要视频素材但缺少拍摄条件的场景。</p><p>与只接单一模型的工具不同，Motiofy 把工作台做成了多模型的聚合形态：用户上传图片后，可以在同一界面里选择不同的视频生成模型，按任务特点切换。这种做法省去了在多个平台之间来回搬运素材的麻烦，也让同一条需求可以用不同模型做效果对比。</p><p>Motiofy 采用免费增值模式，官方提供免费试用额度（20 credits），用于先验证效果再决定是否继续投入。具体额度规则与价格以官网页面为准。</p>"
       },
       {
-        "title": "Motiofy的主要功能",
-        "html": "<ul>\n<li><strong>图生视频</strong>：上传商品图、照片或插画，配一句运镜描述即可一键生成动态短片。</li>\n<li><strong>文生视频</strong>：直接输入文字分镜，由 AI 生成商用级动态画面，免费计划可用基础模型体验。</li>\n<li><strong>动作控制</strong>：上传角色图与真人表演视频，将舞蹈、手势等动作精准迁移至动漫或写实角色。</li>\n<li><strong>多模型聚合</strong>：直连 Seedance、Kling、MiniMax、Wan 等旗舰模型，按需自由切换，无需分别订阅。</li>\n<li><strong>首尾帧控制</strong>：指定起始与结束画面，AI 自动补全中间过渡，适合产品蜕变、前后对比镜头。</li>\n<li><strong>参考图锁定</strong>：上传参考图固定商品外形、角色五官与画风，确保多镜头创作不走样。</li>\n</ul>"
+        "title": "Motiofy 的主要功能",
+        "html": "<ul><li><strong>图片转视频</strong>：上传一张照片，描述想要的运动方式，生成短视频片段。</li><li><strong>多模型聚合</strong>：同一工作台内提供多款视频生成模型，可按效果或成本切换。</li><li><strong>动作描述控制</strong>：用文字说明镜头与主体的运动方式，比一键套用模板动画更贴近具体需求。</li><li><strong>首尾帧控制</strong>：可以指定故事的开头与结尾画面，让生成结果朝既定方向推进。</li><li><strong>主体与视觉方向引导</strong>：约束画面中的主体表现与整体视觉走向。</li><li><strong>统一工作区</strong>：从上传、描述、选模型到生成、下载集中在同一界面完成，覆盖多种图生视频工作流。</li><li><strong>增强选项</strong>：生成前可启用增强设置，提升最终画面表现。</li></ul>"
       },
       {
-        "title": "如何使用Motiofy",
-        "html": "<ul>\n<li>访问 Motiofy 官网 motiofy.ai，注册并登录账号。</li>\n<li>导入照片、插画或商品图；文生视频直接输入文字分镜。</li>\n<li>用大白话描述动作与运镜需求，例如“镜头缓慢推进、光带环绕瓶身”。</li>\n<li>从 Seedance、Kling、MiniMax、Wan 等旗舰模型中挑选最匹配的一个。</li>\n<li>核对实时预估积分后点击生成，等待数分钟渲染完成。</li>\n<li>成片自动存入“我的作品”，可无水印高清导出或微调提示词重新生成。</li>\n</ul>"
+        "title": "如何使用 Motiofy",
+        "html": "<ol><li>打开官网进入创作页，先看示例库了解不同类别（商品、人像、艺术、社交广告）的实际效果。</li><li>上传一张清晰、主体明确的图片，图片质量直接影响最终视频的可用程度。</li><li>用文字描述想要的运动：主体做什么动作、镜头如何移动、整体节奏快慢。</li><li>选择视频生成模型，必要时启用增强选项。</li><li>生成后对比效果，同一素材可以换模型再试一次，比较不同模型的稳定性与风格差异。</li><li>确定可用版本后下载，用于后续剪辑或直接投放。</li></ol><p>视频生成会消耗额度，建议先明确用途再批量生成，避免在效果探索阶段过度消耗试用额度。</p>"
       },
       {
-        "title": "Motiofy的应用场景",
-        "html": "<ul>\n<li><strong>电商商品展示</strong>：上传商品白底图一键生成带运镜和光影的广告短片，批量盘活型录图。</li>\n<li><strong>社媒短视频创作</strong>：把日常照片做成适配抖音、TikTok、Reels 的竖屏爆款短视频。</li>\n<li><strong>插画与二次元动态化</strong>：为静态绘画注入动态生命力，实现水墨、折纸等材质蜕变效果。</li>\n<li><strong>广告创意预演</strong>：一张产品图快速测试多种运镜变体，压缩实拍与前期试错成本。</li>\n<li><strong>真人动作迁移</strong>：上传角色图配合真人表演视频，用舞蹈、手势驱动动漫或 3D 角色。</li>\n</ul>"
+        "title": "Motiofy 的应用场景",
+        "html": "<ul><li><strong>商品展示</strong>：把商品图片做成带动态效果的展示视频，用于详情页与广告投放。</li><li><strong>人像内容</strong>：让静态人像产生自然的动态表现，用于社交内容与个人素材。</li><li><strong>艺术与插画动效</strong>：把插画作品做成短动效，提升作品的展示观感。</li><li><strong>社交广告素材</strong>：快速产出多条广告视频做投放测试，用低成本筛选有效创意。</li></ul><p>需要注意：涉及真实人物肖像的图片用于商业用途时，应确认肖像授权；生成内容若用于广告投放，还需遵守投放平台对 AI 生成内容的标注要求。</p>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -37115,20 +37112,20 @@
     "domain": "prom.aionclaw.com",
     "detailed_content": [
       {
-        "title": "AionClaw是什么",
-        "html": "<p>AionClaw 是杭州趣猿推出的桌面级 AI 智能体，基于 OpenClaw 深度升级，一键安装零门槛。AionClaw 能对话，更能直接在用户的电脑上读写文件、运行脚本、操作浏览器，自动交付 Word、PPT、Excel、PDF 乃至视频成片等成品。平台内置 DeepSeek、千问、Kimi 等主流大模型，支持本地运行与数据安全可控。</p>"
+        "title": "AionClaw 是什么",
+        "html": "<p>AionClaw 是一款桌面级 AI 智能体，由杭州趣猿推出，官方说明其基于 OpenClaw 做了深度升级。它的核心主张是「不止回答，而是完成任务」：安装到本地电脑后，可以直接读写文件、运行脚本、操作浏览器，把多步操作串起来做实打实的工作。</p><p>与纯云端助手相比，桌面形态带来的差别在于能触达本地环境。官方同时强调本地私有部署，数据不必上传到外部服务，这对涉及合同、财务等敏感资料的使用场景较为关键。客户端支持 Mac 与 Windows 双端，并支持多端同步与远程操控。</p><p>在模型接入上，AionClaw 聚合了国内主流大模型，用户无需自行配置 API Key，一次接入即可切换使用。产品为免费增值模式，官方提供每日免费额度用于体验。具体额度与套餐以官网说明为准。</p>"
       },
       {
-        "title": "AionClaw的主要功能",
-        "html": "<ul>\n<li><strong>任务直接执行、成品落地</strong>：直接读写文档、运行脚本，把 Word、PPT、Excel 等成品自动保存到本地。</li>\n<li><strong>数字专家自动匹配</strong>：内置 PPT 制作、Excel 表格、软件开发、抖音运营等数字专家，系统按任务内容自动派单。</li>\n<li><strong>主流大模型开箱即用</strong>：聚合 DeepSeek、通义千问、Kimi、智谱 GLM 等模型，无需自备 API Key。</li>\n<li><strong>自进化记忆</strong>：持久记住用户的工作偏好与习惯，跨任务延续，越用越顺手。</li>\n<li><strong>技能市场</strong>：社区 5000+ 技能免费安装，覆盖文档、设计、数据等场景。</li>\n<li><strong>手机远程派活</strong>：绑定微信、飞书、钉钉等后，手机发指令，电脑自动执行并回传结果。</li>\n</ul>"
+        "title": "AionClaw 的主要功能",
+        "html": "<ul><li><strong>本地执行能力</strong>：读取与修改文件、运行脚本、操作浏览器，把任务真正落到电脑上完成。</li><li><strong>多模型聚合</strong>：接入多家国内主流大模型，无需逐一申请并配置密钥即可切换。</li><li><strong>数字专家</strong>：按任务性质自动匹配对应的专业角色，用户不必先选角色再做配置。</li><li><strong>记忆能力</strong>：记录用户的偏好与历史，使用越久越贴合个人习惯。</li><li><strong>定时任务</strong>：把重复性工作交给它按计划执行，到点直接取结果。</li><li><strong>多渠道接入</strong>：支持在常用聊天工具中调用，不限定在客户端内使用。</li><li><strong>真实场景演示</strong>：官方展示了短剧生成、网站开发、数据分析与合同审查四类任务的实机操作过程。</li><li><strong>企业版能力</strong>：面向团队提供部署方案与协同支持。</li></ul>"
       },
       {
-        "title": "如何使用AionClaw",
-        "html": "<ul>\n<li>访问 AionClaw 官网 prom.aionclaw.com，一键下载安装 Windows/macOS 客户端。</li>\n<li>在对话框用自然语言描述具体目标，系统自动匹配数字专家与大模型。</li>\n<li>本地自动拆解步骤并执行，完成后直接把成品文件交给用户。</li>\n<li>不满意可语音或文字提修改意见，基于现有成品调整。</li>\n<li>在技能市场安装技能或创建专属数字专家。</li>\n<li>在设置中绑定微信、飞书、钉钉，并可将日报周报设为定时任务。</li>\n</ul>"
+        "title": "如何使用 AionClaw",
+        "html": "<ol><li>从官网下载 Mac 或 Windows 客户端并安装，登录后领取官方赠送的体验额度。</li><li>直接用自然语言说明想做的事，不必先挑选角色或做复杂配置，由系统判断所需能力。</li><li>涉及本地文件的任务，先确认工作目录与访问权限范围，避免不必要的数据暴露。</li><li>需要处理数据的场景可以分步验证：先让它梳理数据结构，再执行清洗与分析，最后核对图表结论。</li><li>把周期性重复的工作配置为定时任务，例如每周固定时间整理报表。</li><li>团队使用时评估企业版，把能力按岗位分配到具体成员。</li></ol><p>智能体具备文件与浏览器操作权限，实际使用中建议限定可访问范围，并在关键操作环节保留人工确认。</p>"
       },
       {
-        "title": "AionClaw的应用场景",
-        "html": "<ul>\n<li><strong>日常办公</strong>：自动生成周报月报、会议纪要、推广方案、合同审查等规范文档。</li>\n<li><strong>数据与汇报</strong>：清洗分析 Excel 数据、生成图表、输出整套商务 PPT。</li>\n<li><strong>自媒体与短视频</strong>：完成选题挖掘、爆款分析、脚本撰写及小红书/抖音运营。</li>\n<li><strong>短/漫剧创作</strong>：从一句灵感出发，一站式完成剧本、分镜到成片。</li>\n<li><strong>电商运营</strong>：批量抓取商品信息、整理订单库存、生成直播话术与客服回复。</li>\n</ul>"
+        "title": "AionClaw 的应用场景",
+        "html": "<ul><li><strong>内容与短剧制作</strong>：从一段想法出发完成分镜与素材的整理工作。</li><li><strong>网站与原型开发</strong>：按需求生成可运行的页面原型，缩短验证时间。</li><li><strong>数据分析</strong>：自动完成数据清洗、分析与图表产出。</li><li><strong>合同与文档审查</strong>：逐条梳理文档中的风险条款，作为人工复核的初筛。</li><li><strong>团队协同</strong>：把重复性的岗位工作交给智能体按计划执行。</li></ul><p>需要注意：涉及合同、财务与个人信息的内容，仍应由人工做最终判断；自动生成的分析结论不应直接作为决策依据对外使用。</p>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -37237,20 +37234,20 @@
     "domain": "wenduoduo.com",
     "detailed_content": [
       {
-        "title": "文朵朵AI办公是什么",
-        "html": "<p>文朵朵AI办公是 AI Agent 办公工作台，像一位随叫随到的 AI 同事，用户用自然语言交代目标，AI 理解意图后自主规划、执行，生成可继续编辑修改的办公成品。相比模板套壳类工具，文朵朵更强调对话式协作、多轮修改和真正交付可用文件。</p>"
+        "title": "文朵朵AI办公 是什么",
+        "html": "<p>文朵朵 AI 办公是一个面向日常办公文档的 AI 工作平台，主打 PPT、Excel 与 Word 三类产出的自动生成。它的定位接近「随叫随到的 AI 同事」：用户说明要做的事、给出参考资料，由平台规划步骤并交付可以继续编辑的成品文件，而不是一段需要自己搬运的文本。</p><p>在演示文稿这条线上，文朵朵的做法是先定场景再选模板：用户从教育培训、商业分析、工作汇报、学术答辩等场景中选定方向，配套的模板已经覆盖常见的汇报与答辩需求。官方说明生成结果可以继续编辑，这一点对需要按内部规范调整格式的用户比较重要。</p><p>文朵朵为免费增值模式，同时提供企业服务与私有化部署选项，开发方为上海光向量智能科技有限公司。具体套餐与功能范围以官网页面为准。</p>"
       },
       {
-        "title": "文朵朵AI办公的主要功能",
-        "html": "<ul>\n<li><strong>Agent 工作台</strong>：对话式布置任务、多轮反复修改，产出 PPTX/DOCX/XLSX 可编辑源文件。</li>\n<li><strong>PPT Agent</strong>：讲清演示主题与场合，自主组织大纲、匹配版式，产出可编辑 PPT 并支持反复修改。</li>\n<li><strong>图片还原 Agent</strong>：白板草图、手绘思路、报表截图可识别结构并还原为可编辑 PPT 或 Excel。</li>\n<li><strong>Excel Agent</strong>：自然语言完成建表、清洗、筛选与计算，支持多表合并拆分、图表生成与结论解读。</li>\n<li><strong>文档 Agent</strong>：涵盖法定公文、通知请示、毕业论文、商业计划书等 70+ 写作场景。</li>\n<li><strong>效率工具箱</strong>：PPT 美化、Word 一键排版、文档 AI 校对与审核。</li>\n</ul>"
+        "title": "文朵朵AI办公 的主要功能",
+        "html": "<ul><li><strong>AI PPT 生成</strong>：根据主题、大纲或已有文档生成演示文稿，不必从空白页开始排版。</li><li><strong>场景与模板匹配</strong>：按教育培训、商业分析、工作汇报、学术答辩等场景选用对应模板。</li><li><strong>参考资料上传</strong>：把文档、资料作为生成依据，让内容贴合实际业务而不是泛泛而谈。</li><li><strong>图片转可编辑 PPT</strong>：把现有图片形式的演示内容转成可继续修改的文稿。</li><li><strong>AI Excel</strong>：表格类内容的生成与处理。</li><li><strong>AI Word</strong>：文档类内容的撰写与整理。</li><li><strong>工作空间与文件库</strong>：统一管理生成的文件，配合历史会话回溯此前任务。</li><li><strong>企业服务与私有化部署</strong>：面向团队提供部署方案，满足数据不出内部环境的要求。</li></ul>"
       },
       {
-        "title": "如何使用文朵朵AI办公",
-        "html": "<ul>\n<li>访问文朵朵官网 wenduoduo.com，微信扫码或手机号验证码登录，新用户送积分。</li>\n<li>在 Agent 工作台用自然语言说明目标、场景和要求，可附加大纲、文档或图片素材。</li>\n<li>Agent 理解意图后自主规划，生成可编辑的 PPT、Excel、Word 或图片还原结果。</li>\n<li>对风格、单页、措辞、数据口径不满意，继续对话让它在同一任务上迭代。</li>\n<li>生成后在线预览效果，检查内容、版式、数据和结构。</li>\n<li>满意后导出 PPTX/DOCX/XLSX 源文件，或一键公开分享并带过程回放。</li>\n</ul>"
+        "title": "如何使用 文朵朵AI办公",
+        "html": "<ol><li>打开官网注册登录，进入工作台，先明确这次要做的是 PPT、Excel 还是 Word。</li><li>制作演示文稿时，先用一句话描述主题，或直接上传已有的大纲与参考文档。</li><li>按使用场合选择任务场景与模板，课堂讲解、述职汇报与学术答辩的版式差异较大，选对场景能省下大量调整时间。</li><li>生成后逐页检查内容与数据的准确性，再把表述改成符合自身口径的说法。</li><li>需要在既有材料上改版时，用图片转可编辑 PPT 把旧稿转成可编辑形式，再继续调整。</li><li>生成的成品保存到文件库，按项目归类，便于后续复用同一套模板与结构。</li></ol>"
       },
       {
-        "title": "文朵朵AI办公的应用场景",
-        "html": "<ul>\n<li><strong>职场汇报</strong>：把汇报主题和资料交给 Agent，快速生成可继续修改的 PPT。</li>\n<li><strong>数据整理分析</strong>：用自然语言让 Agent 建表、清洗、计算、做图表并输出结论。</li>\n<li><strong>公文材料写作</strong>：生成通知、请示、公文、总结等文稿并多轮润色。</li>\n<li><strong>图片资料还原</strong>：将白板草图、手绘思路、报表截图还原为可编辑 PPT 或 Excel。</li>\n<li><strong>教学与学习产出</strong>：教师做课件，学生整理论文、实验报告或课程展示材料。</li>\n</ul>"
+        "title": "文朵朵AI办公 的应用场景",
+        "html": "<ul><li><strong>工作汇报</strong>：周报、月报、季度总结等周期性汇报材料的快速成型。</li><li><strong>教育培训</strong>：课件与教学材料的制作，把讲义内容转成结构清晰的演示文稿。</li><li><strong>学术与答辩</strong>：开题、论文答辩、课题汇报等对结构要求较高的场合。</li><li><strong>商业分析</strong>：行业研究、数据洞察类报告的框架搭建与呈现。</li><li><strong>旧稿翻新</strong>：把历史演示材料转换成可编辑版本，适配新的模板规范。</li></ul><p>需要注意：AI 生成的文稿仍需人工核对数据来源与结论表述，尤其是对外发布的商业分析与汇报材料。</p>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -37360,20 +37357,20 @@
     "domain": "loomy.xunfei.cn",
     "detailed_content": [
       {
-        "title": "Loomy是什么",
-        "html": "<p>Loomy 是讯飞推出的 AI 工作搭子，基于 AstronClaw 打造的桌面级助理，面向真实办公场景，主打低门槛、高安全、强适配、主动协作。工具支持数据分析、内容撰写、跨工具串联、远程控制等能力，可调用飞书、钉钉、微信等国内常用工具。文件默认本地处理，采用目录级授权，支持自定义 API Key。</p>"
+        "title": "Loomy 是什么",
+        "html": "<p>Loomy 是科大讯飞推出的桌面级 AI 智能助理，官方称其为「AI 工作搭子」。它安装在本地电脑上运行，面向的不是单次问答，而是围绕日常工作反复发生的动作——整理文件、汇总沟通信息、分析数据、撰写内容。</p><p>安装方式上，Loomy 提供 macOS（需 14.0 或更高版本，仅支持 Apple 芯片）与 Windows 10 及以上（x64）客户端。官方强调数据在本地处理，不需要把工作文件上传到外部服务，这一点对涉及敏感资料的使用场景较为关键。产品说明其兼容社区技能生态，可扩展能力范围。</p><p>Loomy 为免费增值模式，基础使用免费，进阶能力与额度按方案区分。官方同时提供技能广场、产品文档与视频教程，便于逐步上手。具体功能与额度以官网说明为准。</p>"
       },
       {
-        "title": "Loomy的主要功能",
-        "html": "<ul>\n<li><strong>数据分析</strong>：实时洞察经营数据，辅助业务决策。</li>\n<li><strong>内容撰写</strong>：从灵感到成稿一步到位，快速产出各类文案。</li>\n<li><strong>搭子团</strong>：按专业领域匹配对口 AI 搭子，复杂项目可分工协作推进。</li>\n<li><strong>资料库</strong>：支持海量本地文件上传分析，提取关键信息与结论。</li>\n<li><strong>远程控制</strong>：手机远程操控电脑，不在工位也能继续推进任务。</li>\n<li><strong>技能系统与多模型</strong>：办公流程沉淀为可复用 Skill，输入 / 可快速调用；支持讯飞星火、DeepSeek、通义千问等多模型切换。</li>\n</ul>"
+        "title": "Loomy 的主要功能",
+        "html": "<ul><li><strong>工作区与工作目录</strong>：指定本地目录作为工作范围，助理在该范围内读写文件、处理资料。</li><li><strong>文件与数据处理</strong>：支持批量文件操作，以及 Excel 与表格类数据的整理与分析。</li><li><strong>信息汇总</strong>：归集邮件、会议与聊天记录，提炼讨论重点、关键结论与待办事项。</li><li><strong>会议纪要生成</strong>：把沟通内容整理成结构化纪要，识别负责人与截止时间并持续跟进。</li><li><strong>本地数据分析</strong>：分析本地数据并生成图表，让复盘结论更直观。</li><li><strong>内容创作</strong>：从灵感梳理到成稿的内容撰写辅助。</li><li><strong>搭子团</strong>：按专业领域配置不同的助理角色，把不同性质的任务分开处理。</li><li><strong>资料库</strong>：支持对大批量文件做检索与分析。</li><li><strong>定时任务与连接器</strong>：按计划自动执行任务，并接入常用工具打通工作流。</li><li><strong>多模型可选</strong>：可按任务选择不同的底层模型。</li></ul>"
       },
       {
-        "title": "如何使用Loomy",
-        "html": "<ul>\n<li>访问 Loomy 官网 loomy.xunfei.cn，下载 Windows 或 macOS 桌面端。</li>\n<li>安装后选择授权目录，绑定常用工具，最快 1 分钟即可启动。</li>\n<li>用一句自然语言指令交代任务，Loomy 自动完成多步骤工作。</li>\n<li>文件整理、内容创作、数据分析、网页操作、处理邮件等都可交给 Loomy。</li>\n<li>输入 / 调用技能，或将办公流程沉淀为可复用 Skill。</li>\n<li>通过 QQ、飞书、钉钉等 IM 配置后，用手机远程指挥电脑。</li>\n</ul>"
+        "title": "如何使用 Loomy",
+        "html": "<ol><li>从官网下载对应系统的客户端并安装，注意 macOS 版本对芯片与系统版本有要求。</li><li>首次使用时指定一个工作目录，把需要处理的文件放在该目录下，助理的操作范围清晰可控。</li><li>从一件具体的事开始，例如「汇总本周邮件与会议记录，提取待办并生成工作简报」。</li><li>需要处理数据时，把表格文件交给它做本地分析，确认数据不外传。</li><li>把定期重复的工作配置成定时任务，让助理按计划自动执行。</li><li>熟悉基础用法后再到技能广场按需补充技能，逐步扩展可处理的任务类型。</li></ol><p>汇报与结论类产出建议人工复核后再对外使用，尤其是涉及数据口径与对外口径的内容。</p>"
       },
       {
-        "title": "Loomy的应用场景",
-        "html": "<ul>\n<li><strong>自媒体运营</strong>：整理素材、撰写内容、生成课件，提升内容产能。</li>\n<li><strong>日常办公</strong>：文件整理、批量办公、会议内容结构化。</li>\n<li><strong>数据与研发</strong>：写代码、查报错、做方案，省下研发时间。</li>\n<li><strong>行业调研</strong>：信息收集、对比和推送，会议资料整理。</li>\n<li><strong>远程协作</strong>：离开工位后通过手机继续推进任务与决策。</li>\n</ul>"
+        "title": "Loomy 的应用场景",
+        "html": "<ul><li><strong>自媒体运营</strong>：素材整理、选题梳理与内容初稿的准备工作。</li><li><strong>远程办公</strong>：远程整理文件、跟进任务进度，随时掌握手头工作的状态。</li><li><strong>日程与信息管理</strong>：汇总邮件与会议信息，提炼待办并跟进落实。</li><li><strong>数据复盘</strong>：对本地经营数据做分析与图表输出，形成复盘结论。</li><li><strong>电商运营</strong>：日常的表格处理、数据核对与资料整理。</li></ul><p>需要注意：本地处理虽然降低了数据外传风险，但仍应确认客户端的权限范围，避免把与工作无关的敏感目录纳入工作区。</p>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -37401,20 +37398,20 @@
     "domain": "domery.cn",
     "detailed_content": [
       {
-        "title": "Domery是什么",
-        "html": "<p>Domery 是腾讯推出的全链路数据 AI 助手，专注于理解用户自己的数据资产，包括埋点采集、多源报表和上传的文档，只需用自然语言提问，Domery 能自动完成整理、分析和提炼，把结论直接做成图表、看板甚至汇报 PPT。Domery 像一个常驻的数据分析师，帮用户把枯燥重复的文档和报表工作变成一句话能交付的答案。</p>"
+        "title": "Domery 是什么",
+        "html": "<p>Domery 是一款全链路数据 AI 助手，官方将其定位为「AI Native」的数据工作平台，覆盖从数据采集到结果呈现的完整链条。它的使用方式是把问题直接问出来：用自然语言描述想了解的内容，由系统完成取数、整理与分析，最后给出带图表的答案，而不是让人先去写查询、再自己画图。</p><p>「全链路」这个定位体现在两端：上游提供埋点设计与代码生成，让数据采集的门槛降低；下游把分析结果转成多种可视化形式，包括数据插画、静态页面、动态看板与汇报级演示文稿。中间的多源接入环节由 AI 自动对齐字段与口径，减少跨系统取数时的人工核对工作。</p><p>Domery 为免费增值模式，可免费开始使用，进阶能力按方案区分。官方同时提供文档与技术支持渠道，具体功能范围与额度以官网为准。</p>"
       },
       {
-        "title": "Domery的主要功能",
-        "html": "<ul>\n<li><strong>一键埋点采集</strong>：覆盖 iOS、Android、H5、小程序、服务端，SDK 埋点代码即时生成上线。</li>\n<li><strong>多源一并分析</strong>：数据库、数仓、表格等多源接入，AI 自动对齐字段与口径。</li>\n<li><strong>知识花园（知识库）</strong>：文档资料上传后可多次复用问答，对话时可引用知识库、历史会话和本地文件。</li>\n<li><strong>对话式数据分析</strong>：自然语言提问即可自动完成总结、提炼、分析。</li>\n<li><strong>4 种可视化交付</strong>：答案可生成 AI 数据插画、HTML 静态页面、HTML 动态看板、汇报级 PPT。</li>\n<li><strong>能力封装复用</strong>：分析能力可封装为 Agent、技能和定时任务，持续自动运行。</li>\n</ul>"
+        "title": "Domery 的主要功能",
+        "html": "<ul><li><strong>AI 埋点设计与代码生成</strong>：生成多端 SDK 的埋点代码，覆盖 iOS、Android、H5、小程序与服务端，减少手工归档式的埋点工作。</li><li><strong>多源数据分析</strong>：接入数据库、数仓与表格等多种数据源，由 AI 自动对齐字段与统计口径。</li><li><strong>自然语言提问</strong>：用一句话描述要分析的问题，直接得到答案而不是查询语句。</li><li><strong>多模型可选</strong>：支持在多个主流大模型之间切换，按任务特点选择。</li><li><strong>四种可视化输出</strong>：包括数据插画、HTML 静态页面、HTML 动态看板与汇报级 PPT，按使用场景选择呈现方式。</li><li><strong>知识库</strong>：把业务知识与分析上下文沉淀下来，让后续提问更贴合实际业务口径。</li></ul>"
       },
       {
-        "title": "如何使用Domery",
-        "html": "<ul>\n<li>访问 Domery 官网 domery.cn，点击“立即开始”。</li>\n<li>在“知识花园”中新建知识库，上传文档资料或接入数据库、数仓、表格等数据源。</li>\n<li>为数据资产设置权限，必要时配置 SQL 模板，让 AI 贴合业务口径。</li>\n<li>在对话中直接提问，可引用知识库、历史会话或本地文件作为上下文。</li>\n<li>AI 自动分析并生成数据插画、HTML 看板或汇报 PPT。</li>\n<li>将常用分析流程封装为 Agent 或定时任务，一次配置长期复用。</li>\n</ul>"
+        "title": "如何使用 Domery",
+        "html": "<ol><li>从官网注册并进入平台，先接入数据源：数据库、数仓或表格文件，按提示完成授权。</li><li>需要补埋点时，用埋点设计功能生成多端 SDK 代码，交由开发上线，先把数据采集这步打通。</li><li>数据接入后直接用自然语言提问，例如「上个月各渠道的新增用户数和留存情况」。</li><li>核对 AI 对齐后的字段与口径是否符合内部定义，特别是同名不同义的指标，必要时在知识库中补充口径说明。</li><li>确认结论无误后，按用途选择输出形式：日常跟进用动态看板，汇报场合用演示文稿。</li><li>把常用的分析问题与看板保存下来，形成固定的分析闭环。</li></ol>"
       },
       {
-        "title": "Domery的应用场景",
-        "html": "<ul>\n<li><strong>经营报表自动分析</strong>：业务负责人直接用自然语言追问销售、流量等核心指标。</li>\n<li><strong>埋点数据自助采集</strong>：App/小程序团队一键生成多端 SDK 埋点代码上线。</li>\n<li><strong>文档知识库问答</strong>：把产品手册、研报、合同 PDF 传入知识花园，销售或客服提问即获精准答案。</li>\n<li><strong>汇报材料一键生成</strong>：周报、月报、复盘 PPT 无需手工制作，提问后自动产出。</li>\n<li><strong>多源数据口径统一</strong>：数据库、数仓、Excel 口径不一致时，AI 自动对齐字段后统一问答。</li>\n</ul>"
+        "title": "Domery 的应用场景",
+        "html": "<ul><li><strong>经营数据跟进</strong>：日常查看核心指标变化，快速定位异常并追问原因。</li><li><strong>产品与增长分析</strong>：从埋点采集到漏斗分析，串联起产品迭代的验证过程。</li><li><strong>汇报与决策支持</strong>：把分析结果整理成可直接演示的材料，减少二次加工。</li><li><strong>跨系统取数</strong>：在多个数据源之间做口径对齐，降低人工核对成本。</li></ul><p>需要注意：涉及企业内部经营数据时，应确认数据接入的权限范围与安全策略；AI 给出的分析结论仍应由数据团队复核后再用于对外汇报或决策。</p>"
       }
     ],
     "updatedAt": "2026-09-27"

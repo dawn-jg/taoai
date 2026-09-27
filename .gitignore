@@ -40,3 +40,11 @@ _*.html
 _*.json
 
 _batch_status.md
+
+# 内容生产中间产物（素材与队列，可由 scripts 重新生成；来源已在 tool_profiles.json 的 sources 中留档）
+data/raw_sources/
+data/content_queue.json
+.tmp_raw/
+
+# WorkBuddy 项目数据
+.workbuddy/

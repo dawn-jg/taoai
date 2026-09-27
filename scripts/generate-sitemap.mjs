@@ -13,6 +13,7 @@ const TOOLS = JSON.parse(readFileSync(join(ROOT, 'data', 'tools.json'), 'utf-8')
 const CATEGORIES = JSON.parse(readFileSync(join(ROOT, 'data', 'categories.json'), 'utf-8'));
 const TUTORIALS = JSON.parse(readFileSync(join(ROOT, 'data', 'tutorials.json'), 'utf-8'));
 const EDITORIALS = JSON.parse(readFileSync(join(ROOT, 'data', 'editorials.json'), 'utf-8'));
+const TOOL_PROFILES = JSON.parse(readFileSync(join(ROOT, 'data', 'tool_profiles.json'), 'utf-8'));
 
 const BASE_URL = 'https://taoai365.com';
 const today = new Date().toISOString().split('T')[0];
@@ -111,7 +112,11 @@ function isCleanToolName(name) {
   return true;
 }
 
-const EDITORIAL_SLUGS = new Set(EDITORIALS.map(e => e.slug));
+// 原创内容池（必须与 lib/tools.ts 的 originalToolSlugs 保持一致）
+const ORIGINAL_SLUGS = new Set([
+  ...EDITORIALS.map(e => e.slug),
+  ...Object.keys(TOOL_PROFILES.items || {}),
+]);
 
 // 工具名标准化：toolPlainText 已去掉空白，比对前名称也要去空白，
 // 否则多词名称（"Kimi AI"）会永远匹配失败。
@@ -119,8 +124,9 @@ function normalizeName(name) {
   return String(name || '').replace(/\s+/g, '').trim();
 }
 
+// 索引面只认原创内容：采集正文不构成索引依据（AdSense 低价值内容整改第二轮）
 function isToolIndexable(tool) {
-  if (EDITORIAL_SLUGS.has(tool.slug)) return true;
+  if (!ORIGINAL_SLUGS.has(tool.slug)) return false;
   if (!isCleanToolName(tool.name)) return false;
   const plain = toolPlainText(tool);
   if (plain.length < TOOL_MIN_CONTENT_CHARS) return false;
