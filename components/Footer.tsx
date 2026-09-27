@@ -9,7 +9,7 @@ export default function Footer() {
           <div>
             <h4 className="text-xs font-semibold text-gray-900 mb-2">分类</h4>
             <ul className="space-y-1">
-              {categories.slice(0,4).map(c => (
+              {categories.slice(0,5).map(c => (
                 <li key={c.slug}><Link href={`/categories/${c.slug}`} className="text-xs text-gray-500 hover:text-blue-600">{c.icon} {c.name}</Link></li>
               ))}
             </ul>
@@ -17,7 +17,7 @@ export default function Footer() {
           <div>
             <h4 className="text-xs font-semibold text-gray-900 mb-2">分类</h4>
             <ul className="space-y-1">
-              {categories.slice(4,8).map(c => (
+              {categories.slice(5,10).map(c => (
                 <li key={c.slug}><Link href={`/categories/${c.slug}`} className="text-xs text-gray-500 hover:text-blue-600">{c.icon} {c.name}</Link></li>
               ))}
             </ul>
@@ -25,7 +25,7 @@ export default function Footer() {
           <div>
             <h4 className="text-xs font-semibold text-gray-900 mb-2">分类</h4>
             <ul className="space-y-1">
-              {categories.slice(8,12).map(c => (
+              {categories.slice(10).map(c => (
                 <li key={c.slug}><Link href={`/categories/${c.slug}`} className="text-xs text-gray-500 hover:text-blue-600">{c.icon} {c.name}</Link></li>
               ))}
             </ul>
@@ -36,7 +36,9 @@ export default function Footer() {
               <li className="text-xs text-gray-500">TaoAI · 发现最好的AI工具</li>
               <li className="text-xs text-gray-500">已收录 {categories.reduce((s,c)=>s+c.count,0)}+ 款</li>
               <li><Link href="/about" className="text-xs text-gray-500 hover:text-blue-600">关于我们</Link></li>
+              <li><Link href="/authors" className="text-xs text-gray-500 hover:text-blue-600">编辑团队</Link></li>
               <li><Link href="/editorial-policy" className="text-xs text-gray-500 hover:text-blue-600">编辑政策</Link></li>
+              <li><Link href="/sources" className="text-xs text-gray-500 hover:text-blue-600">来源与引用规范</Link></li>
               <li><Link href="/contact" className="text-xs text-gray-500 hover:text-blue-600">联系我们</Link></li>
               <li><Link href="/privacy" className="text-xs text-gray-500 hover:text-blue-600">隐私政策</Link></li>
             </ul>

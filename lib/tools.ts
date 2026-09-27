@@ -2,6 +2,7 @@ import { AITool, Category, NewsItem, TutorialItem, EditorialItem } from '@/types
 import toolsData from '@/data/tools.json';
 import categoriesData from '@/data/categories.json';
 import newsData from '@/data/news.json';
+import newsDetailsData from '@/data/news_details.json';
 import tutorialsData from '@/data/tutorials.json';
 import editorialsData from '@/data/editorials.json';
 import categoryIntrosData from '@/data/category_intros.json';
@@ -59,6 +60,45 @@ export function getNews(): NewsItem[] {
   return newsItems;
 }
 
+// ─── 快讯详情（长文内容与 news.json 分离，避免被每日定时任务覆盖）──
+type NewsDetail = { content: string; related: string[] };
+const newsDetails = (newsDetailsData as { items: Record<string, NewsDetail> }).items || {};
+
+export function getNewsDetail(slug: string): NewsDetail | undefined {
+  return newsDetails[slug];
+}
+
+/** 快讯详情页可索引判定：必须有编辑部撰写的原创解读，且达到最低体量。
+ *  快讯本身是「摘要 + 外链」形态，只有配上原创解读才具备独立价值。 */
+export const NEWS_MIN_COMMENTARY_CHARS = 180;
+
+export function newsPlainText(item: NewsItem): string {
+  const detail = newsDetails[item.slug];
+  const content = detail ? String(detail.content || '').replace(/<[^>]+>/g, '') : '';
+  return String(item.summary || '').replace(/\s+/g, '') + content.replace(/\s+/g, '');
+}
+
+export function newsCommentaryText(item: NewsItem): string {
+  const detail = newsDetails[item.slug];
+  return detail ? String(detail.content || '').replace(/<[^>]+>/g, '').replace(/\s+/g, '') : '';
+}
+
+export function isNewsIndexable(item: NewsItem): boolean {
+  return newsCommentaryText(item).length >= NEWS_MIN_COMMENTARY_CHARS;
+}
+
+export function getIndexableNews(): NewsItem[] {
+  return newsItems.filter(isNewsIndexable);
+}
+
+export function getRelatedToolsForNews(slug: string): AITool[] {
+  const detail = newsDetails[slug];
+  if (!detail || !Array.isArray(detail.related)) return [];
+  return detail.related
+    .map((s) => tools.find((t) => t.slug === s))
+    .filter((t): t is AITool => Boolean(t));
+}
+
 export function getTutorials(): TutorialItem[] {
   return tutorialItems;
 }
@@ -106,6 +146,12 @@ function isCleanToolName(name: string): boolean {
 /** 单个工具页的最低正文体量（纯文本字符数） */
 export const TOOL_MIN_CONTENT_CHARS = 600;
 
+/** 工具名标准化：去掉空白后比对。
+ *  注意 toolPlainText 已移除空白，若直接用含空格的 name 比对，多词名称（如 "Kimi AI"）永远匹配不上。 */
+export function normalizeName(name: string): string {
+  return String(name || '').replace(/\s+/g, '').trim();
+}
+
 /**
  * 工具页是否允许被搜索引擎索引。
  * 1) 有编辑部原创评测 → 可索引
@@ -117,7 +163,7 @@ export function isToolIndexable(tool: AITool): boolean {
 
   const plain = toolPlainText(tool);
   if (plain.length < TOOL_MIN_CONTENT_CHARS) return false;
-  if (!plain.includes(tool.name.trim())) return false;
+  if (!plain.includes(normalizeName(tool.name))) return false;
 
   return true;
 }
@@ -125,6 +171,27 @@ export function isToolIndexable(tool: AITool): boolean {
 /** 可索引的工具页集合（供 sitemap 使用） */
 export function getIndexableTools(): AITool[] {
   return tools.filter(isToolIndexable);
+}
+
+// ─── 教程页可索引判定（同一套思路：稀薄页退出索引）──────────────────
+// 当前教程正文普遍在 300 字上下，属于「摘要 + 外链」形态，缺少独立价值。
+// 在补齐真正原创的教程正文之前，这些页面输出 noindex,follow。
+
+/** 教程正文纯文本长度阈值 */
+export const TUTORIAL_MIN_CONTENT_CHARS = 600;
+
+export function tutorialPlainText(tutorial: TutorialItem): string {
+  return String(tutorial.content || '')
+    .replace(/<[^>]+>/g, '')
+    .replace(/\s+/g, '');
+}
+
+export function isTutorialIndexable(tutorial: TutorialItem): boolean {
+  return tutorialPlainText(tutorial).length >= TUTORIAL_MIN_CONTENT_CHARS;
+}
+
+export function getIndexableTutorials(): TutorialItem[] {
+  return tutorialItems.filter(isTutorialIndexable);
 }
 
 export function getEditorials(): EditorialItem[] {

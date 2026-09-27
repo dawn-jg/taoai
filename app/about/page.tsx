@@ -29,16 +29,17 @@ export default function AboutPage() {
             帮助开发者和普通用户快速找到最适合自己的 AI 工具，降低 AI 工具的使用门槛。
           </p>
           <p className="mt-2">
-            与纯链接聚合站不同，我们坚持为重要工具撰写<strong className="text-gray-900">原创评测</strong>——
-            亲自注册、真实使用、如实评价优缺点，而不是复制官方宣传语。
+            与纯链接聚合站不同，我们优先为重要的工具撰写<strong className="text-gray-900">原创内容</strong>——
+            核对官方信息、说明实际能力与适用场景、如实标注不确定的部分，而不是复制官方宣传语。
           </p>
         </section>
 
         <section id="editorial-team">
           <h2 className="text-base font-semibold text-gray-900 mb-3">👥 编辑团队</h2>
           <p className="mb-3">
-            评测工作由「TaoAI 编辑部」完成，成员覆盖大模型、编程开发、视觉设计、内容创作等 AI 应用一线领域。
-            每篇评测均标注作者与更新日期，并对内容准确性负责。
+            评测与内容维护工作由「TaoAI 编辑部」完成，成员覆盖大模型、编程开发、视觉设计、内容创作等 AI 应用一线领域。
+            每篇内容均标注署名与更新时间，并对准确性负责。团队分工、工作流程与署名规则见
+            <Link href="/authors" className="text-blue-600 hover:underline mx-1">编辑团队</Link>。
           </p>
           <div className="bg-blue-50 border border-blue-100 rounded-lg p-4">
             <p className="text-xs text-blue-800">
@@ -52,11 +53,12 @@ export default function AboutPage() {
         <section>
           <h2 className="text-base font-semibold text-gray-900 mb-3">📊 平台数据</h2>
           <ul className="list-disc pl-5 space-y-1">
-            <li>收录 <strong>1200+</strong> 款 AI 工具，覆盖 15 个分类、30+ 个子分类</li>
-            <li>编辑精选深度评测持续扩充中（首批覆盖 DeepSeek、ChatGPT、豆包、Kimi、通义千问）</li>
+            <li>收录 <strong>1200+</strong> 款 AI 工具，覆盖 15 个分类、50 个子分类</li>
+            <li>编辑精选深度评测（首批覆盖 DeepSeek、ChatGPT、豆包、Kimi、通义千问），持续扩充中</li>
             <li>15 个分类页均配有编辑部原创导读</li>
-            <li>每日更新 AI 行业快讯，标注来源可追溯</li>
-            <li>56 篇原创精选教程，覆盖编程、视频、绘画、大模型等主题</li>
+            <li>每日更新 AI 行业快讯，逐条标注原始来源</li>
+            <li>教程栏目收录 56 篇主题指南，正在逐篇补充原创正文</li>
+            <li>每个工具页标注收录时间、最后更新时间与信息来源</li>
           </ul>
         </section>
 
@@ -72,7 +74,13 @@ export default function AboutPage() {
 
         <section>
           <h2 className="text-base font-semibold text-gray-900 mb-3">🔍 评测方法论</h2>
-          <p className="mb-2">我们的评测遵循 <Link href="/editorial-policy" className="text-blue-600 hover:underline">编辑政策与评测标准</Link>，核心原则：</p>
+          <p className="mb-2">
+            我们的评测遵循
+            <Link href="/editorial-policy" className="text-blue-600 hover:underline mx-1">编辑政策与评测标准</Link>
+            与
+            <Link href="/sources" className="text-blue-600 hover:underline mx-1">来源与引用规范</Link>
+            ，核心原则：
+          </p>
           <ul className="list-disc pl-5 space-y-1">
             <li>真实使用后才评分，不接受「付费好评」</li>
             <li>评分综合体验、功能、性价比、稳定性、生态五个维度</li>

@@ -1,0 +1,50 @@
+{
+  "_note": "P1 内容补强：为缺少实质正文的工具补写原创资料。内容依据产品官网/官方发布与公开报道整理，由编辑部撰写，非逐字搬运；仅用于补充 detailed_content。由 scripts/apply-tool-profiles.mjs 合并进 data/tools.json。",
+  "_updated": "2026-09-27",
+  "items": {
+    "muse-meta": {
+      "updated": "2026-09-27",
+      "sources": ["https://ai.meta.com/", "https://ai.meta.com/muse/download"],
+      "sections": [
+        {
+          "title": "Muse 是什么",
+          "html": "<p>Muse 是 Meta 推出的个人 AI 智能体（personal AI agent），于 2026 年 9 月在美国上线。与只回答问题型助手不同，Muse 的定位是替用户把事情办完：它能连接用户自己的应用与服务，代为处理邮件、日程、文件等日常事务，并在任务耗时较长时留在后台继续执行，遇到需要确认的环节再回来询问。</p><p>Muse 由 Meta 自研的 Muse Spark 系列模型驱动。Meta 将 Muse Spark 定位为面向真实智能体任务的模型，后续版本分别强化了终端编码能力（Muse Code）与图像生成能力（Muse Image）。</p>"
+        },
+        {
+          "title": "Muse 的主要功能",
+          "html": "<ul><li><strong>跨应用执行任务</strong>：在获得授权的前提下连接邮件、消息、日历、笔记与本地文件，完成整理、填写表单、起草回复等工作。</li><li><strong>后台长任务</strong>：任务可在关闭应用后继续推进，必要时主动回到对话中请求确认（例如发送邮件或完成支付前）。</li><li><strong>电脑操控（Mac）</strong>：Meta 已发布 Muse for Mac，可在用户逐项授权后操作桌面应用。</li><li><strong>多入口接入</strong>：提供 iOS、Android 应用、网页版与 WhatsApp 入口，Mac 版通过官网下载。</li><li><strong>连接器与购物</strong>：通过连接器对接外部服务，并支持在合作商户内完成选购与支付流程。</li><li><strong>安全隔离设计</strong>：Meta 介绍 Muse 运行在独立的虚拟机环境中，敏感凭据由安全存储代管，并配有独立的审批环节。</li></ul>"
+        },
+        {
+          "title": "如何使用 Muse",
+          "html": "<ol><li>在 iPhone / Android 应用商店安装 Muse，或通过网页版登录 Meta 账号（需年满 18 岁）。</li><li>按需逐项开放权限：Muse 只在你授权的范围内访问具体应用与数据，敏感动作建议保留人工确认。</li><li>用自然语言描述目标而不是单个指令，例如「把这周的会议整理成待办并同步到日历」。</li><li>需要长时间执行的任务可以关闭应用，Muse 会在有进展或需要确认时回来找你。</li><li>如需在桌面端使用，从 Meta 官方 Muse 下载页获取 Mac 版本。</li></ol>"
+        },
+        {
+          "title": "Muse 的应用场景",
+          "html": "<ul><li><strong>个人事务代办</strong>：整理收件箱、安排行程、跟进待办，把跨应用来回切换的动作合并成一次委托。</li><li><strong>资料整理</strong>：从消息、日历、笔记中提取信息并汇总成清单或草稿。</li><li><strong>购物与比价</strong>：在支持连接器的商户中完成选品与下单流程。</li><li><strong>桌面办公</strong>：在 Mac 上把重复性的文件与表单操作交给智能体处理。</li></ul><p>需要注意：Muse 目前主要面向美国地区开放，官方说明其对免费额度与订阅条款仍在测试调整中；具体支持范围、价格与功能以 Meta 官方页面为准。</p>"
+        }
+      ]
+    },
+    "lightx2v-studio": {
+      "updated": "2026-09-27",
+      "sources": ["https://x2v.light-ai.top", "https://github.com/ModelTC/LightX2V", "https://modeltc.github.io"],
+      "sections": [
+        {
+          "title": "LightX2V Studio 是什么",
+          "html": "<p>LightX2V Studio 是开源视频生成项目 LightX2V 的在线体验与创作平台，由 Light AI（ModelTC 团队）推出。LightX2V 本体是一个面向低成本、强实时视频生成的推理技术栈，目标是让视频生成在主流消费级显卡上尽可能接近实时，而不依赖数据中心级算力。</p><p>Studio 把底层推理能力做成可视化创作界面，让不写代码的创作者也能直接用上少步数视频生成、数字人对口型、多关键帧控制等能力；同时保留 API 与私有化部署选项，供团队接入自有业务。</p>"
+        },
+        {
+          "title": "LightX2V Studio 的主要功能",
+          "html": "<ul><li><strong>AI 视频生成</strong>：支持文生视频、图生视频以及多关键帧控制的视频生成。</li><li><strong>数字人与对口型</strong>：支持人物形象驱动的口播视频与多语言数字人内容制作。</li><li><strong>视频编辑类能力</strong>：包含角色替换、动作迁移与风格一致性控制等后期处理方向。</li><li><strong>AI 图片生成</strong>：面向高分辨率图片生成与多参考图编辑。</li><li><strong>声音工具</strong>：提供语音合成与声音克隆相关能力。</li><li><strong>多种创作模式</strong>：提供自由创作、智能体辅助创作与可复用工作流三种模式。</li><li><strong>开发者接口</strong>：提供 API 接入与企业私有化部署方案。</li></ul>"
+        },
+        {
+          "title": "为什么它值得关注",
+          "html": "<p>LightX2V 的核心价值在于推理效率。项目采用轻量 VAE 与少步数蒸馏的思路，把视频扩散模型的采样步数大幅压缩，并配合低比特与稀疏算子等系统级优化，使 8GB–24GB 的消费级显卡也能完成视频生成。这意味着「本地出片」对个人创作者而言变得可行，而不必按次付费调用云端服务。</p><p>对开发者来说，它同时是一个可自部署的开源方案：模型与推理代码在开源社区发布，便于二次开发与私有化集成。</p>"
+        },
+        {
+          "title": "如何使用 LightX2V Studio",
+          "html": "<ol><li>直接打开官方体验站（x2v.light-ai.top）注册后即可在网页端创作，适合快速试用文生视频与数字人口播。</li><li>创作者可先在「自由创作」中熟悉参数，再用工作流模式把固定流程沉淀为可复用模板。</li><li>需要批量生产时，改用智能体辅助模式，用自然语言描述目标由平台编排流程。</li><li>开发者如需集成到自有系统，可通过 API 接入，或在自有显卡环境部署开源版本。</li></ol><p>说明：平台功能与额度可能随版本调整，具体以官方体验站说明为准。</p>"
+        }
+      ]
+    }
+  }
+}

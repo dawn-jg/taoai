@@ -1,7 +1,8 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { getTutorialBySlug, getTutorials } from '@/lib/tools';
+import { getTutorialBySlug, getTutorials, isTutorialIndexable } from '@/lib/tools';
 import { notFound } from 'next/navigation';
+import { ArticleSchema, BreadcrumbSchema } from '@/components/StructuredData';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -14,6 +15,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${tutorial.title} - AI教程 | TaoAI`,
     description: tutorial.summary || tutorial.title,
+    alternates: { canonical: `https://taoai365.com/tutorials/${tutorial.slug}` },
+    // 正文过短的教程（摘要 + 外链形态）暂不参与索引，避免稀薄内容被判定为低价值。
+    robots: isTutorialIndexable(tutorial) ? undefined : { index: false, follow: true },
   };
 }
 
@@ -52,6 +56,12 @@ export default async function TutorialDetailPage({ params }: Props) {
           </div>
           <h1 className="text-2xl font-bold text-gray-900 leading-snug">{tutorial.title}</h1>
           {tutorial.summary && <p className="text-gray-500 mt-3">{tutorial.summary}</p>}
+          {/* 署名与更新时间（E-E-A-T） */}
+          <p className="text-xs text-gray-400 mt-3">
+            作者：<Link href="/about#editorial-team" className="text-blue-600 hover:underline">TaoAI 编辑部</Link>
+            {tutorial.date ? <> · 发布于 <time dateTime={tutorial.date}>{tutorial.date}</time></> : null}
+            {' '}· 引用规范见<Link href="/sources" className="text-blue-600 hover:underline">来源与引用规范</Link>
+          </p>
         </header>
 
         {/* Content */}
@@ -65,7 +75,18 @@ export default async function TutorialDetailPage({ params }: Props) {
           </div>
         )}
 
-
+        <BreadcrumbSchema items={[
+          { name: '首页', url: 'https://taoai365.com' },
+          { name: 'AI教程', url: 'https://taoai365.com/tutorials' },
+          { name: tutorial.title, url: `https://taoai365.com/tutorials/${tutorial.slug}` },
+        ]} />
+        <ArticleSchema
+          title={tutorial.title}
+          description={tutorial.summary || tutorial.title}
+          date={tutorial.date || '2026-07-01'}
+          author="TaoAI 编辑部"
+          url={`https://taoai365.com/tutorials/${tutorial.slug}`}
+        />
       </article>
     </div>
   );

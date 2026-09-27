@@ -316,10 +316,25 @@ export default async function ToolDetailPage({ params }: { params: Promise<{ slu
             ))}
           </div>
           <p className="text-[10px] text-gray-400 mt-4 pt-3 border-t border-gray-100">
-            信息更新于 {tool.createdAt || '2026-07'}。如信息有误,欢迎<Link href="/contact" className="text-blue-600 hover:underline">联系我们</Link>更正。
+            信息最后更新于 {tool.updatedAt || tool.createdAt || '2026-07'}。如信息有误,欢迎<Link href="/contact" className="text-blue-600 hover:underline">联系我们</Link>更正。
           </p>
         </SectionCard>
       )}
+
+      {/* ===== 署名 · 更新时间 · 数据来源（E-E-A-T） ===== */}
+      <div className="mt-5 bg-gray-50 rounded-xl border border-gray-200 p-4 text-xs text-gray-500 leading-relaxed">
+        <p>
+          本页由{' '}
+          <Link href="/about#editorial-team" className="text-blue-600 hover:underline">TaoAI 编辑部</Link>{' '}
+          整理维护 · 收录于 {tool.createdAt || '—'} · 最后更新 {tool.updatedAt || tool.createdAt || '—'}
+        </p>
+        <p className="mt-1">
+          信息来源：工具官网与公开资料，核对与引用规则见{' '}
+          <Link href="/sources" className="text-blue-600 hover:underline">来源与引用规范</Link>
+          ；工具信息可能随官方调整而变化，请以官网最新说明为准。纠错请
+          <Link href="/contact" className="text-blue-600 hover:underline">联系我们</Link>。
+        </p>
+      </div>
 
       {/* JSON-LD Structured Data */}
       <BreadcrumbSchema items={[

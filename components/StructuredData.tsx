@@ -66,6 +66,7 @@ export function ToolSchema({ tool, editorial }: { tool: any; editorial?: Editori
     url: tool.url,
     applicationCategory: 'AIApplication',
     operatingSystem: 'Web',
+    dateModified: tool.updatedAt || tool.createdAt || undefined,
     offers: {
       '@type': 'Offer',
       price: '0',
@@ -79,13 +80,17 @@ export function ToolSchema({ tool, editorial }: { tool: any; editorial?: Editori
   if (editorial) {
     schema.review = {
       '@type': 'Review',
-      author: { '@type': 'Person', name: editorial.author },
+      author: { '@type': 'Organization', name: editorial.author },
+      publisher: { '@type': 'Organization', name: 'TaoAI', url: 'https://taoai365.com' },
       datePublished: editorial.date,
+      dateModified: editorial.date,
+      url: `https://taoai365.com/editorial-policy`,
       reviewBody: editorial.summary,
       reviewRating: {
         '@type': 'Rating',
         ratingValue: editorial.rating,
         bestRating: '5',
+        worstRating: '1',
       },
     };
   }
@@ -101,7 +106,8 @@ export function ArticleSchema({ title, description, date, author, url }: { title
     headline: title,
     description,
     datePublished: date,
-    author: { '@type': 'Person', name: author },
+    dateModified: date,
+    author: { '@type': 'Organization', name: author, url: 'https://taoai365.com/about#editorial-team' },
     publisher: { '@type': 'Organization', name: 'TaoAI', logo: { '@type': 'ImageObject', url: 'https://taoai365.com/favicon.svg' } },
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },
   };

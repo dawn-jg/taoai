@@ -4,7 +4,8 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: '每日AI快讯 - AI工具集 | TaoAI',
-  description: 'AI行业最新动态、产品发布、投融资信息，每日更新',
+  description: 'AI行业最新动态、产品发布、投融资信息，每日更新，逐条标注原始来源。',
+  alternates: { canonical: '/news' },
 };
 
 function formatDate(dateStr: string): string {
@@ -67,25 +68,32 @@ export default function NewsPage() {
               <div className="space-y-6">
                 {items.map((item) => (
                   <article key={item.slug}>
-                    {item.url ? (
-                      <a
-                        href={item.url}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-[15px] font-medium text-blue-600 hover:text-blue-800 hover:underline decoration-blue-300 underline-offset-2 mb-1.5 inline-block"
+                    <h2 className="text-[15px] font-medium mb-1.5">
+                      <Link
+                        href={`/news/${item.slug}`}
+                        className="text-blue-600 hover:text-blue-800 hover:underline decoration-blue-300 underline-offset-2"
                       >
                         {item.title}
-                      </a>
-                    ) : (
-                      <h2 className="text-[15px] font-medium text-gray-900 mb-1.5">
-                        {item.title}
-                      </h2>
-                    )}
+                      </Link>
+                    </h2>
                     <p className="text-sm text-gray-500 leading-relaxed mb-1.5">
                       {item.summary}
                     </p>
                     <span className="text-xs text-gray-350">
                       来源: {item.source}
+                      {item.url && (
+                        <>
+                          {' · '}
+                          <a
+                            href={item.url}
+                            target="_blank"
+                            rel="noopener noreferrer nofollow"
+                            className="text-gray-400 hover:text-blue-600"
+                          >
+                            原文
+                          </a>
+                        </>
+                      )}
                     </span>
                   </article>
                 ))}

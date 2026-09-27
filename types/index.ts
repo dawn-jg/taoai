@@ -10,6 +10,8 @@ export interface AITool {
   pricing: 'free' | 'freemium' | 'paid';
   screenshots?: string[];
   createdAt: string;
+  /** 信息最后核对/更新时间（YYYY-MM-DD），用于页面署名与 dateModified */
+  updatedAt?: string;
   subcategory?: string;
   logo?: string;
   domain?: string;

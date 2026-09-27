@@ -4,6 +4,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '编辑政策与评测标准 - TaoAI',
   description: 'TaoAI 编辑部的评测标准、内容更新机制与广告披露政策。我们坚持独立客观的 AI 工具评测，所有编辑内容与商业合作严格分离。',
+  alternates: { canonical: '/editorial-policy' },
 };
 
 export default function EditorialPolicyPage() {
@@ -74,9 +75,25 @@ export default function EditorialPolicyPage() {
         <section>
           <h2 className="text-base font-semibold text-gray-900 mb-3">✍️ 编辑部</h2>
           <p>
-            我们的评测由熟悉 AI 产品的编辑团队完成，团队成员覆盖大模型、编程、设计、办公等不同领域。
-            关于团队和联系方式，请参阅 <Link href="/about#editorial-team" className="text-blue-600 hover:underline">关于我们</Link>。
+            我们的内容由熟悉 AI 产品的编辑团队完成，团队成员覆盖大模型、编程、设计、办公等不同领域。
+            团队分工、工作流程与署名规则见
+            <Link href="/authors" className="text-blue-600 hover:underline mx-1">编辑团队</Link>
+            ；信息来源、引用规则与 AI 使用披露见
+            <Link href="/sources" className="text-blue-600 hover:underline mx-1">来源与引用规范</Link>。
           </p>
+        </section>
+
+        <section>
+          <h2 className="text-base font-semibold text-gray-900 mb-3">📉 内容规模门槛</h2>
+          <p className="mb-2">
+            为了避免产生「批量生成的薄内容」，我们对页面设置明确的内容门槛：
+          </p>
+          <ul className="list-disc pl-5 space-y-1.5">
+            <li>工具页只有在<strong className="text-gray-900">具备与自身相关的实质内容</strong>（名称与正文一致、正文达到最低字数）时，才允许被搜索引擎索引</li>
+            <li>未达到门槛的页面保留可访问性，但输出 <code className="text-xs bg-gray-100 px-1 rounded">noindex, follow</code>，并<strong className="text-gray-900">不提交到 sitemap</strong></li>
+            <li>正文来源不当、与页面主题不符的内容一律移除，而不是保留充数</li>
+          </ul>
+          <p className="mt-2 text-xs text-gray-500">换言之：宁可少一些可索引页面，也不让低价值页面稀释整站质量。</p>
         </section>
       </div>
     </div>

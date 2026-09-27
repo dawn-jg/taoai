@@ -30,6 +30,10 @@ const plainText = (t) =>
 
 const isAutoSlug = (s) => /^tool\d+$/.test(s);
 
+// 名称标准化：plainText 已去掉空白，比对前名称也须去空白，
+// 否则含空格的多词名称（如 "Kimi AI"）会被误判为「正文未提及自身工具名」。
+const nameKey = (t) => String(t.name || '').replace(/\s+/g, '').trim();
+
 // ─── 1. 指纹分组，确定每个重复组的归属方 ───
 const groups = new Map();
 for (const t of tools) {
@@ -51,7 +55,7 @@ for (const [, members] of groups) {
   // 组内可能没有一个成员是这份正文的真正归属者
   // （例如 55 个页面共用「豆包」的正文，但组内没有任何一个叫豆包）。
   // 这种情况整组剥离，不保留任何副本。
-  const selfMentioning = members.filter((t) => plainText(t).includes(t.name));
+  const selfMentioning = members.filter((t) => plainText(t).includes(nameKey(t)));
   if (selfMentioning.length === 0) {
     for (const m of members) {
       if (!stripSet.has(m.slug)) {
@@ -82,7 +86,7 @@ for (const t of tools) {
   if (stripSet.has(t.slug)) continue;
   const p = plainText(t);
   if (p.length === 0) continue;
-  if (!p.includes(t.name)) {
+  if (!p.includes(nameKey(t))) {
     stripSet.set(t.slug, '正文未提及自身工具名');
     mismatchStripped++;
   }

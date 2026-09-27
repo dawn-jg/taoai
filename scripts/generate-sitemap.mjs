@@ -75,7 +75,9 @@ const staticUrls = [
   { loc: `${BASE_URL}/news`, changefreq: 'daily', priority: '0.8', lastmod: today },
   { loc: `${BASE_URL}/tutorials`, changefreq: 'weekly', priority: '0.7' },
   { loc: `${BASE_URL}/about`, changefreq: 'monthly', priority: '0.5' },
+  { loc: `${BASE_URL}/authors`, changefreq: 'monthly', priority: '0.4' },
   { loc: `${BASE_URL}/editorial-policy`, changefreq: 'monthly', priority: '0.5' },
+  { loc: `${BASE_URL}/sources`, changefreq: 'monthly', priority: '0.4' },
   { loc: `${BASE_URL}/search`, changefreq: 'weekly', priority: '0.4' },
   { loc: `${BASE_URL}/contact`, changefreq: 'monthly', priority: '0.3' },
   { loc: `${BASE_URL}/privacy`, changefreq: 'yearly', priority: '0.2' },
@@ -111,12 +113,18 @@ function isCleanToolName(name) {
 
 const EDITORIAL_SLUGS = new Set(EDITORIALS.map(e => e.slug));
 
+// 工具名标准化：toolPlainText 已去掉空白，比对前名称也要去空白，
+// 否则多词名称（"Kimi AI"）会永远匹配失败。
+function normalizeName(name) {
+  return String(name || '').replace(/\s+/g, '').trim();
+}
+
 function isToolIndexable(tool) {
   if (EDITORIAL_SLUGS.has(tool.slug)) return true;
   if (!isCleanToolName(tool.name)) return false;
   const plain = toolPlainText(tool);
   if (plain.length < TOOL_MIN_CONTENT_CHARS) return false;
-  if (!plain.includes(tool.name.trim())) return false;
+  if (!plain.includes(normalizeName(tool.name))) return false;
   return true;
 }
 
@@ -136,15 +144,41 @@ const toolUrls = indexableTools.map(t => {
   };
 });
 
-// ─── 未收录页面的说明 ───
-// news.xml 已停用：原先生成的 /news/<slug> 链接在本站并不存在（仅有 /news 列表页），
-// 提交后会形成一批 404。待补齐真正的资讯详情页后再恢复 news sitemap。
+// ─── tutorials（与 lib/tools.ts 的 isTutorialIndexable 保持一致） ───
+// 教程正文普遍偏短（摘要 + 外链形态），未达阈值的页面已输出 noindex，
+// 不应再出现在 sitemap 中。修改规则时务必同步 lib/tools.ts。
+const TUTORIAL_MIN_CONTENT_CHARS = 600;
 
-// ─── tutorials ───
-const tutorialUrls = TUTORIALS.map(t => ({
+function tutorialPlainText(t) {
+  return String(t.content || '').replace(/<[^>]+>/g, '').replace(/\s+/g, '');
+}
+
+const indexableTutorials = TUTORIALS.filter(t => tutorialPlainText(t).length >= TUTORIAL_MIN_CONTENT_CHARS);
+const tutorialUrls = indexableTutorials.map(t => ({
   loc: `${BASE_URL}/tutorials/${t.slug}`,
   changefreq: 'monthly',
   priority: t.is_new ? '0.7' : '0.5',
+}));
+
+// ─── news 详情页（与 lib/tools.ts 的 isNewsIndexable 保持一致） ───
+// news.json 只存列表数据，长文解读在 news_details.json。
+// 注意：不使用 news: 命名空间（那是给 Google News 出版方用的），
+// 本站是工具导航站，按普通 urlset 收录即可。
+const NEWS = JSON.parse(readFileSync(join(ROOT, 'data', 'news.json'), 'utf-8'));
+const NEWS_DETAILS = JSON.parse(readFileSync(join(ROOT, 'data', 'news_details.json'), 'utf-8')).items || {};
+const NEWS_MIN_COMMENTARY_CHARS = 180;
+
+function newsCommentaryText(item) {
+  const detail = NEWS_DETAILS[item.slug];
+  return detail ? String(detail.content || '').replace(/<[^>]+>/g, '').replace(/\s+/g, '') : '';
+}
+
+const indexableNews = NEWS.filter(n => newsCommentaryText(n).length >= NEWS_MIN_COMMENTARY_CHARS);
+const newsDetailUrls = indexableNews.map(n => ({
+  loc: `${BASE_URL}/news/${n.slug}`,
+  changefreq: 'never',
+  priority: '0.5',
+  lastmod: n.date,
 }));
 
 // ─── write files ───
@@ -152,35 +186,48 @@ const outDir = join(ROOT, 'public');
 const IMG_NS = ' xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"';
 
 console.log(`tools.xml: 收录 ${indexableTools.length}/${TOOLS.length} 个工具页（其余 ${TOOLS.length - indexableTools.length} 个为 noindex，不提交）`);
+console.log(`tutorials.xml: 收录 ${indexableTutorials.length}/${TUTORIALS.length} 个教程页`);
+console.log(`news.xml: 收录 ${indexableNews.length}/${NEWS.length} 条快讯详情页`);
 
 const files = [
   ['tools.xml', urlsetXml(IMG_NS, toolUrls)],
   ['categories.xml', urlsetXml(null, categoryUrls)],
-  ['tutorials.xml', urlsetXml(null, tutorialUrls)],
   ['static-pages.xml', urlsetXml(null, staticUrls)],
 ];
+
+const indexEntries = [
+  { loc: `${BASE_URL}/tools.xml`, lastmod: today },
+  { loc: `${BASE_URL}/categories.xml`, lastmod: today },
+  { loc: `${BASE_URL}/static-pages.xml`, lastmod: today },
+];
+
+if (tutorialUrls.length > 0) {
+  files.push(['tutorials.xml', urlsetXml(null, tutorialUrls)]);
+  indexEntries.push({ loc: `${BASE_URL}/tutorials.xml`, lastmod: today });
+}
+if (newsDetailUrls.length > 0) {
+  files.push(['news.xml', urlsetXml(null, newsDetailUrls)]);
+  indexEntries.push({ loc: `${BASE_URL}/news.xml`, lastmod: today });
+}
 
 files.forEach(([name, xml]) => {
   writeFileSync(join(outDir, name), xml, 'utf-8');
   console.log(`Generated ${name} (${xml.length} bytes)`);
 });
 
-// 移除历史遗留的 news.xml：其中的 /news/<slug> 均为 404。
-// 用 node 的 unlinkSync 而非 rm，避免批量删除拦截器介入。
-const staleNews = join(outDir, 'news.xml');
-try {
-  unlinkSync(staleNews);
-  console.log('Removed stale news.xml (all /news/<slug> URLs returned 404)');
-} catch {
-  // 文件不存在即视为已完成
-}
+// 子 sitemap 若已无任何可收录 URL，则删除文件并移出索引，
+// 避免提交空 sitemap。用 node 的 unlinkSync 而非 rm，避免批量删除拦截器介入。
+[['tutorials.xml', tutorialUrls.length], ['news.xml', newsDetailUrls.length]].forEach(([name, count]) => {
+  if (count > 0) return;
+  try {
+    unlinkSync(join(outDir, name));
+    console.log(`Removed empty ${name}`);
+  } catch {
+    // 文件不存在即视为已完成
+  }
+});
 
-const sitemapIndex = indexXml([
-  { loc: `${BASE_URL}/tools.xml`, lastmod: today },
-  { loc: `${BASE_URL}/categories.xml`, lastmod: today },
-  { loc: `${BASE_URL}/tutorials.xml`, lastmod: today },
-  { loc: `${BASE_URL}/static-pages.xml`, lastmod: today },
-]);
+const sitemapIndex = indexXml(indexEntries);
 writeFileSync(join(outDir, 'sitemap-index.xml'), sitemapIndex, 'utf-8');
 console.log(`Generated sitemap-index.xml (${sitemapIndex.length} bytes)`);
 
