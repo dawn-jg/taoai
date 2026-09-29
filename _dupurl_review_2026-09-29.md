@@ -93,9 +93,32 @@ TRAE→trae.ai ｜ 剪映AI→jianying.com ｜ HuggingChat→huggingface.co/chat
 - 其他数据文件（`news_details.json` / `editorials.json` / `tool_profiles.json` / `tutorials.json`）
   对被移除 slug 均无引用；`content_queue.json` 已重新生成。
 
-## 四、遗留
+## 四、遗留与后续处置
 
-1. **logo 未同步**：本次修正 URL 的 44 条，其本地图标仍是**旧（错误）站点**的图标，
-   与名称不再匹配，建议用 `taoai-logo-sync` 按新 URL 重新抓取。
-2. `gaoding-art` 等少量条目的 URL 仍带 utm/跟踪路径（如 `gaoding.art/utms/...`），可后续统一清洗。
-3. 这批条目**仍不在原创池**，因此仍为 `noindex`；若要恢复索引，需按 SOP 撰写原创资料。
+### 4.1 已处置（2026-09-29 晚）
+
+1. **logo 已按新 URL 重抓**（38 条 URL 变更条目，全部成功）：
+   `trae`/`jianying`/`tool31`/`tool14`/`tool32`/`tool2304`/`moyin-com`/`tool1325`/
+   `tool2195`/`tool577`/`tool580`/`tool782`/`xmyeditor-com`/`tool58`/`visual-electric`/
+   `mashangfei`/`ibm-com`/`tool137`/`tool457`/`tool2034`/`claude-ai-2`/`tool1220`/
+   `tool140`/`tool138`/`tool1656`/`tool2122`/`tool1710`/`tool1890`/`miaoda`/`xingliu-ai`/
+   `tool1989`/`tool1957`/`dexa-ai`/`huggingface-co`/`ai-bot-cn`/`lamini-ai`/`tool50`/`tool69212`。
+   来源优先 apple-touch-icon → 大尺寸 icon → og:image；站点不可达或只有横幅的 2 条
+   （`tool457`→Bing、`visual-electric`→ai-bot 官方图标）改用指定来源。全量体检 0 问题。
+
+2. **URL 跟踪参数已统一清洗**（236 条，脚本 `scripts/clean-tracking-urls.mjs`）：
+   - 删除跟踪类查询参数：`utm_*` / `ref` / `from` / `fr` / `hmsr` / `spm` / `inviteCode` /
+     `channel(Code)` / `share_code` / `huiwaInviteCode` 等；保留功能性参数（如 `?q=PPT`）。
+   - 路径型跟踪：`/utms/<hash>`（稿定）、`/invite/<code>`、`/inviteCode/<code>`、
+     `/register-invite/<code>`；hash 内嵌 `#/?ref=...` 一并清理。
+   - 稿定 6 条按各自真实功能页归位（`tools-ai-writer` / `ai-product` / `tools-ai-eliminate` /
+     `tools-ai-clearer` / `contents?q=PPT` / `gaoding.art`），避免清洗后撞车。
+   - 清洗后 0 条残留跟踪参数、0 组 URL 撞车。
+
+### 4.2 仍待处理
+
+1. 这批条目**仍不在原创池**，因此仍为 `noindex`；要恢复索引需按 SOP 撰写原创资料
+   （定时任务正在推进，当前 205 条可索引）。
+2. 少量 logo 分辨率偏低（如 `ibm-com` 32×32、`xmyeditor-com` 60×60、`trae` 48×48），
+   已属官网可得的最高质量，如需更佳可后续人工替换。
+3. AdSense 后台「提交重新审核」仍需人工操作。

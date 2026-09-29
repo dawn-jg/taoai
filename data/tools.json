@@ -956,7 +956,7 @@
     "pricing": "free",
     "createdAt": "2023-12-01",
     "subcategory": "ai-video-edit",
-    "logo": "/logos/jianying.png",
+    "logo": "/logos/jianying.ico",
     "domain": "jianying.com",
     "detailed_content": [],
     "updatedAt": "2026-09-29"
@@ -1126,7 +1126,7 @@
     "slug": "wawa-writing",
     "name": "蛙蛙写作",
     "description": "属于AI写作工具·AI小说创作分类。蛙蛙写作是一款AI写作工具领域的免费增值AI工具，AI小说和内容创作工具。支持AI写作工。",
-    "url": "https://wawawriter.com/app/?utm_source=aigongjuji",
+    "url": "https://wawawriter.com/app/",
     "categories": [
       "ai-writing"
     ],
@@ -1147,7 +1147,7 @@
     "slug": "xunfei-article",
     "name": "讯飞绘文",
     "description": "属于AI写作工具·AI文章写作分类。讯飞绘文是一款AI写作工具领域的免费增值AI工具，AI批量原创，多平台矩阵号管理。支持AI写作工。",
-    "url": "https://turbodesk.xfyun.cn/?channelid=aitool1",
+    "url": "https://turbodesk.xfyun.cn/",
     "categories": [
       "ai-writing"
     ],
@@ -1168,7 +1168,7 @@
     "slug": "tool22626",
     "name": "笔灵AI小说",
     "description": "AI一键写全篇+爆文拆解，搞定大纲、素材，新手写作过稿神器！。支持AI写作工，适合需要进行AI辅助内容创作与写作的用户。",
-    "url": "https://ibiling.cn/novel-workbench/?from=aibotnovel",
+    "url": "https://ibiling.cn/novel-workbench/",
     "categories": [
       "ai-writing"
     ],
@@ -1189,7 +1189,7 @@
     "slug": "tool49483",
     "name": "稿定AI文案",
     "description": "属于AI写作工具·AI营销文案分类。稿定AI文案是一款AI写作工具领域的免费增值AI工具，小红书、公众号、短视频AI文案生成工具。支持AI写作工。",
-    "url": "https://www.gaoding.com/utms/cd3cc3a1cb0149d3bfc4a71b5e157098",
+    "url": "https://www.gaoding.com/tools-ai-writer",
     "categories": [
       "ai-writing"
     ],
@@ -1210,7 +1210,7 @@
     "slug": "tool56573",
     "name": "沁言学术",
     "description": "属于AI写作工具·AI论文写作分类。沁言学术是一款AI写作工具领域的免费增值AI工具，AI科研写作平台，一站式文献管理。支持AI写作工。",
-    "url": "https://app.qinyanai.com/?utm=cg&cgv=aibot",
+    "url": "https://app.qinyanai.com/",
     "categories": [
       "ai-writing"
     ],
@@ -1231,7 +1231,7 @@
     "slug": "tool53972",
     "name": "笔目鱼",
     "description": "属于AI写作工具·AI论文写作分类。笔目鱼是一款AI写作工具领域的免费增值AI工具，专业英文论文写作器。支持AI写作工。",
-    "url": "https://www.bmysci.com/?channelCode=aibotad",
+    "url": "https://www.bmysci.com/",
     "categories": [
       "ai-writing"
     ],
@@ -1315,7 +1315,7 @@
     "slug": "tool60799",
     "name": "维普科创助手",
     "description": "属于AI写作工具·AI文章写作分类。维普科创助手是一款AI写作工具领域的免费增值AI工具，维普的一站式AI科研服务平台。支持AI写作工。",
-    "url": "https://super.cqvip.com/?invite=aibot",
+    "url": "https://super.cqvip.com/",
     "categories": [
       "ai-writing"
     ],
@@ -1399,7 +1399,7 @@
     "slug": "guangsuxie-com",
     "name": "光速写作",
     "description": "属于AI写作工具·AI文章写作分类。AI写作、PPT生成工具，单篇最长15000字。支持AI写作工，适合需要进行AI辅助内容创作与写作的用户。",
-    "url": "https://www.guangsuxie.com/static/college-write-web/home?from=AItools",
+    "url": "https://www.guangsuxie.com/static/college-write-web/home",
     "categories": [
       "ai-writing"
     ],
@@ -1441,7 +1441,7 @@
     "slug": "youmind-com",
     "name": "YouMind",
     "description": "属于AI写作工具·AI小说创作分类。专注提升创作效率和信息整合的AI原生工具。支持AI写作工，适合需要进行AI辅助内容创作与写作的用户。",
-    "url": "https://youmind.com/invite/84LX6W",
+    "url": "https://youmind.com/",
     "categories": [
       "ai-writing"
     ],
@@ -1483,7 +1483,7 @@
     "slug": "xiaoin-com-cn",
     "name": "万能小in",
     "description": "3分钟4万字150+应用，只需标题，快速生成毕业论文。支持AI写作工，适合需要进行AI辅助内容创作与写作的用户。",
-    "url": "https://xiaoin.com.cn/home/index?sharerUserId=1815301629231030274",
+    "url": "https://xiaoin.com.cn/home/index",
     "categories": [
       "ai-writing"
     ],
@@ -1559,7 +1559,7 @@
     "slug": "miaobi-xinhuaskl-com",
     "name": "新华妙笔",
     "description": "属于AI写作工具·AI文章写作分类。新华妙笔是一款AI写作工具领域的免费增值AI工具，新华社推出的AI公文写作平台。支持AI写作工。",
-    "url": "https://miaobi.xinhuaskl.com/?channel=shuzhi",
+    "url": "https://miaobi.xinhuaskl.com/",
     "categories": [
       "ai-writing"
     ],
@@ -1639,7 +1639,7 @@
     "slug": "feelfish-com",
     "name": "FeelFish",
     "description": "专为小说创作者打造的 AI 写作 PC 客户端软件。支持AI写作工，适合需要进行AI辅助内容创作与写作的用户。",
-    "url": "https://www.feelfish.com/?fr=aibot",
+    "url": "https://www.feelfish.com/",
     "categories": [
       "ai-writing"
     ],
@@ -1795,7 +1795,7 @@
     "slug": "tool74592",
     "name": "创飞写作",
     "description": "属于AI写作工具·AI文章写作分类。创飞写作是一款AI写作工具领域的免费增值AI工具，新一代智能AIGC写作调度平台。支持AI写作工。",
-    "url": "https://www.chuangfeiai.com/login?invitationCode=MV6433",
+    "url": "https://www.chuangfeiai.com/login",
     "categories": [
       "ai-writing"
     ],
@@ -1816,7 +1816,7 @@
     "slug": "tool72610",
     "name": "超级小说家",
     "description": "属于AI写作工具·AI小说创作分类。专为网文作家和短剧编剧打造的AI创作助手。支持AI写作工，适合需要进行AI辅助内容创作与写作的用户。",
-    "url": "https://www.36ma.com/?fr=aibot",
+    "url": "https://www.36ma.com/",
     "categories": [
       "ai-writing"
     ],
@@ -1900,7 +1900,7 @@
     "slug": "tool65034",
     "name": "Rubriq",
     "description": "属于AI写作工具·AI论文写作分类。Rubriq是一款AI写作工具领域的免费AI工具，免费试用，AI学术论文润色与翻译工具。支持AI写作工。",
-    "url": "https://rubriq.cn/?utm_source=ai&utm_medium=ai-bot&utm_campaign=2025rubriq_cn",
+    "url": "https://rubriq.cn/",
     "categories": [
       "ai-writing"
     ],
@@ -2190,7 +2190,7 @@
     "slug": "flowus-ai",
     "name": "FlowUs AI",
     "description": "在线文档平台息流推出的AI创作助手，类似于Notion AI。支持AI写作工，适合需要进行AI辅助内容创作与写作的用户。",
-    "url": "https://flowus.cn/ai?ref=ai-bot.cn",
+    "url": "https://flowus.cn/ai",
     "categories": [
       "ai-writing"
     ],
@@ -2350,7 +2350,7 @@
     "slug": "shenyandayi-com",
     "name": "深言达意",
     "description": "免费的词句查询智能写作辅助工具，输入模糊描述即可查找词句。支持AI写作工，适合需要进行AI辅助内容创作与写作的用户。",
-    "url": "https://www.shenyandayi.com/?ref=ai-bot.cn",
+    "url": "https://www.shenyandayi.com/",
     "categories": [
       "ai-writing"
     ],
@@ -2480,7 +2480,7 @@
     "slug": "tool59730",
     "name": "掌桥科研AI论文",
     "description": "掌桥科研AI论文是一款AI写作工具领域的免费增值AI工具，依托3亿+真实文献库的AI论文写作工具。支持AI写作工。",
-    "url": "https://www.zhangqiaokeyan.com/ai/journalthesis.html?from=19-003-aiqkxz",
+    "url": "https://www.zhangqiaokeyan.com/ai/journalthesis.html",
     "categories": [
       "ai-writing"
     ],
@@ -2627,7 +2627,7 @@
     "slug": "tool6316",
     "name": "晓语台",
     "description": "属于AI写作工具·AI小说创作分类。晓语台是一款AI写作工具领域的免费增值AI工具，智能AI写作工具，内置500+创作模板。支持AI写作工。",
-    "url": "https://www.xiaoyutai.com/?share_code=XYT90931478",
+    "url": "https://www.xiaoyutai.com/",
     "categories": [
       "ai-writing"
     ],
@@ -2702,7 +2702,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-article",
-    "logo": "/logos/tool2304.png",
+    "logo": "/logos/tool2304.svg",
     "domain": "jenni.ai",
     "detailed_content": [],
     "updatedAt": "2026-09-29"
@@ -2837,7 +2837,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-article",
-    "logo": "/logos/moyin-com.png",
+    "logo": "/logos/moyin-com.ico",
     "domain": "x.moyin.com",
     "detailed_content": [
       {
@@ -2909,7 +2909,7 @@
     "slug": "tool5572",
     "name": "灵构AI笔记",
     "description": "属于AI写作工具·AI文章写作分类。在线安全的灵感收集、思路整理AI笔记工具。支持AI写作工，适合需要进行AI辅助内容创作与写作的用户。",
-    "url": "https://88lingo.com/ai?utm_id=577",
+    "url": "https://88lingo.com/ai",
     "categories": [
       "ai-writing"
     ],
@@ -3010,7 +3010,7 @@
     "slug": "tool5577",
     "name": "WriteWise",
     "description": "属于AI写作工具·AI小说创作分类。喜马拉雅推出的免费网文和小说AI写作工具。支持AI写作工，适合需要进行AI辅助内容创作与写作的用户。",
-    "url": "https://www.ximalaya.com/gatekeeper/write-wise-web?ref=ai-bot.cn",
+    "url": "https://www.ximalaya.com/gatekeeper/write-wise-web",
     "categories": [
       "ai-writing"
     ],
@@ -3180,7 +3180,7 @@
     "slug": "tool2388",
     "name": "万彩AI",
     "description": "属于AI写作工具·AI小说创作分类。万彩AI是一款AI写作工具领域的免费增值AI工具，全能型AI内容和文案创作助手。支持AI写作工。",
-    "url": "https://ai.kezhan365.com/inviteCode/FwJFxy",
+    "url": "https://ai.kezhan365.com/",
     "categories": [
       "ai-writing"
     ],
@@ -3214,7 +3214,7 @@
     "slug": "writingpal-ai",
     "name": "WritingPal",
     "description": "属于AI写作工具·AI文章写作分类。WritingPal是一款AI写作工具领域的免费增值AI工具，面向留学生的AI英文写作工具。支持AI写作工。",
-    "url": "https://writingpal.ai/?ref=ai-bot.cn",
+    "url": "https://writingpal.ai/",
     "categories": [
       "ai-writing"
     ],
@@ -3252,7 +3252,7 @@
     "slug": "tool59",
     "name": "Magic Write",
     "description": "属于AI写作工具·AI营销文案分类。Magic Write是一款AI写作工具领域的免费增值AI工具，Canva旗下AI文案生成器。支持AI写作工。",
-    "url": "https://ibiling.cn/?from=ai-bot",
+    "url": "https://ibiling.cn/",
     "categories": [
       "ai-writing"
     ],
@@ -3311,7 +3311,7 @@
     "slug": "wen-mobvoi-com",
     "name": "奇妙文",
     "description": "属于AI写作工具·AI文章写作分类。奇妙文是一款AI写作工具领域的免费增值AI工具，出门问问推出的AI写作助理。支持AI写作工。",
-    "url": "https://wen.mobvoi.com/?ref=ai-bot.cn",
+    "url": "https://wen.mobvoi.com/",
     "categories": [
       "ai-writing"
     ],
@@ -3349,7 +3349,7 @@
     "slug": "tool575",
     "name": "Spell.tools",
     "description": "属于AI写作工具·AI小说创作分类。Spell.tools是一款AI写作工具领域的免费增值AI工具，高颜值AI内容营销创作工具。支持AI写作工。",
-    "url": "https://write.bigan.net/?ref=ai-bot.cn",
+    "url": "https://write.bigan.net/",
     "categories": [
       "ai-writing"
     ],
@@ -3382,7 +3382,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "/logos/tool577.png",
+    "logo": "/logos/tool577.webp",
     "domain": "hyperwriteai.com",
     "detailed_content": [],
     "updatedAt": "2026-09-29"
@@ -3403,7 +3403,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "/logos/tool580.png",
+    "logo": "/logos/tool580.ico",
     "domain": "typeface.ai",
     "detailed_content": [],
     "updatedAt": "2026-09-29"
@@ -3628,7 +3628,7 @@
     "slug": "tool1333",
     "name": "创作王",
     "description": "属于AI写作工具·AI小说创作分类。创作王是一款AI写作工具领域的免费增值AI工具，AI一键帮助你创作营销内容。支持AI写作工。",
-    "url": "https://aiapp.cc/?ref=ai-bot.cn",
+    "url": "https://aiapp.cc/",
     "categories": [
       "ai-writing"
     ],
@@ -3654,7 +3654,7 @@
     "slug": "vgoapp-com",
     "name": "字符狂飙",
     "description": "属于AI写作工具·AI文章写作分类。全方位AI文档生成工具，快速生成专业文档。支持AI写作工，适合需要进行AI辅助内容创作与写作的用户。",
-    "url": "https://vgoapp.com/?ref=ai-bot.cn",
+    "url": "https://vgoapp.com/",
     "categories": [
       "ai-writing"
     ],
@@ -3692,7 +3692,7 @@
     "slug": "tool7424",
     "name": "XPaper AI",
     "description": "属于AI写作工具·AI论文写作分类。XPaper AI是一款AI写作工具领域的免费增值AI工具，晓语台旗下的论文写作辅助指导平台。支持AI写作工。",
-    "url": "https://www.130ai.com/?source=ugJBi0zP",
+    "url": "https://www.130ai.com/",
     "categories": [
       "ai-writing"
     ],
@@ -3713,7 +3713,7 @@
     "slug": "wuz-com-cn",
     "name": "悟智写作",
     "description": "属于AI写作工具·AI文章写作分类。悟智写作是一款AI写作工具领域的免费增值AI工具，人工智能驱动的自动化写作平台。支持AI写作工。",
-    "url": "https://www.wuz.com.cn/?ref=ai-bot.cn",
+    "url": "https://www.wuz.com.cn/",
     "categories": [
       "ai-writing"
     ],
@@ -3837,7 +3837,7 @@
     "slug": "d-design",
     "name": "堆友AI反应堆",
     "description": "属于AI图像工具·AI图片插画生成分类。堆友AI反应堆是一款AI图像工具领域的免费增值AI工具，全能AI绘画生成器。支持AI图像工。",
-    "url": "https://d.design/ai/generate?from=ab1",
+    "url": "https://d.design/ai/generate",
     "categories": [
       "ai-image"
     ],
@@ -4009,7 +4009,7 @@
     "slug": "runninghub-cn",
     "name": "RunningHub",
     "description": "属于AI图像工具·AI图片插画生成分类。基于云端ComfyUI的AI图像与视频创作平台。支持AI图像工，适合需要AI生成或处理图像的用户。",
-    "url": "https://www.runninghub.cn/?inviteCode=bemsxzdr",
+    "url": "https://www.runninghub.cn/",
     "categories": [
       "ai-image"
     ],
@@ -4085,7 +4085,7 @@
     "slug": "miaohua-sensetime-com",
     "name": "秒画",
     "description": "属于AI图像工具·AI图片插画生成分类。商汤科技推出的免费AI作画和图片生成平台。支持AI图像工，适合需要AI生成或处理图像的用户。",
-    "url": "https://miaohua.sensetime.com/inspiration?invite_code=9yvxNm7BR",
+    "url": "https://miaohua.sensetime.com/inspiration",
     "categories": [
       "ai-image"
     ],
@@ -4367,7 +4367,7 @@
     "slug": "katuai-cn",
     "name": "咖图AI",
     "description": "属于AI图像工具·AI图片插画生成分类。AI图像设计平台，搭载NanoBanana Pro模型。支持AI图像工，适合需要AI生成或处理图像的用户。",
-    "url": "https://www.katuai.cn/?from=ai-bot",
+    "url": "https://www.katuai.cn/",
     "categories": [
       "ai-image"
     ],
@@ -4447,7 +4447,7 @@
     "slug": "miaohui-jixueai-com",
     "name": "秒绘AI",
     "description": "属于AI图像工具·AI图片插画生成分类。秒绘AI是一款AI图像工具领域的免费AI工具，一键生成爆款图文，免费发布小红书。支持AI图像工。",
-    "url": "https://miaohui.jixueai.com/?from=ai-bot",
+    "url": "https://miaohui.jixueai.com/",
     "categories": [
       "ai-image"
     ],
@@ -4485,7 +4485,7 @@
     "slug": "imiaohua-com",
     "name": "妙话AI",
     "description": "属于AI图像工具·AI图片插画生成分类。妙话AI是一款AI图像工具领域的免费增值AI工具，专为内容创作者设计的创意图片生成工具。支持AI图像工。",
-    "url": "https://imiaohua.com/?utm=r2254801",
+    "url": "https://imiaohua.com/",
     "categories": [
       "ai-image"
     ],
@@ -4523,7 +4523,7 @@
     "slug": "tool7050",
     "name": "Krea AI",
     "description": "属于AI图像工具·AI图片插画生成分类。Krea AI是一款AI图像工具领域的免费增值AI工具，实时AI图像、视频生成和编辑平台。支持AI图像工。",
-    "url": "https://www.krea.ai/?ref=ai-bot.cn",
+    "url": "https://www.krea.ai/",
     "categories": [
       "ai-image"
     ],
@@ -4662,7 +4662,7 @@
     "slug": "d-design-2",
     "name": "堆友AI商品图",
     "description": "属于AI图像工具·AI商品图生成分类。堆友AI商品图是一款AI图像工具领域的免费增值AI工具，堆友AI推出AI商品图生成工具。支持AI图像工。",
-    "url": "https://d.design/toolbox/ai-product-background?from=ab13",
+    "url": "https://d.design/toolbox/ai-product-background",
     "categories": [
       "ai-image"
     ],
@@ -4700,7 +4700,7 @@
     "slug": "designkit-cn",
     "name": "美图商拍",
     "description": "属于AI图像工具·AI图片插画生成分类。美图商拍是一款AI图像工具领域的免费增值AI工具，美图设计室推出的AI商拍工具。支持AI图像工。",
-    "url": "https://www.designkit.cn/product-shoot/?channel=100103",
+    "url": "https://www.designkit.cn/product-shoot/",
     "categories": [
       "ai-image"
     ],
@@ -4738,7 +4738,7 @@
     "slug": "gaoding-com",
     "name": "稿定AI商品图",
     "description": "属于AI图像工具·AI商品图生成分类。稿定AI商品图是一款AI图像工具领域的免费增值AI工具，稿定设计推出的AI商品图生成工具。支持AI图像工。",
-    "url": "https://www.gaoding.com/utms/d0bf3af869c245eabb7f52bbcc85aa88",
+    "url": "https://www.gaoding.com/ai-product",
     "categories": [
       "ai-image"
     ],
@@ -5075,7 +5075,7 @@
     "slug": "meijian-com",
     "name": "美间AI商拍",
     "description": "属于AI图像工具·AI商品图生成分类。美间AI商拍是一款AI图像工具领域的免费增值AI工具，AI电商设计工具，一键生成高质量商品图。支持AI图像工。",
-    "url": "https://www.meijian.com/ai?utm_source=mjaidhaibot",
+    "url": "https://www.meijian.com/ai",
     "categories": [
       "ai-image"
     ],
@@ -5117,7 +5117,7 @@
     "slug": "cliclic-ai",
     "name": "Cliclic AI",
     "description": "Cliclic AI是一款AI图像工具领域的免费增值AI工具，创客贴推出的AI商品图生成和编辑工具。支持AI图像工。",
-    "url": "https://www.cliclic.ai/?utm_source=ai-bot",
+    "url": "https://www.cliclic.ai/",
     "categories": [
       "ai-image"
     ],
@@ -5391,7 +5391,7 @@
     "slug": "redoon-cn",
     "name": "灵动AI",
     "description": "属于AI图像工具·AI商品图生成分类。灵动AI是一款AI图像工具领域的免费增值AI工具，专业的AI商品图生成工具。支持AI图像工。",
-    "url": "https://www.redoon.cn/?ref=ai-bot.cn",
+    "url": "https://www.redoon.cn/",
     "categories": [
       "ai-image"
     ],
@@ -5433,7 +5433,7 @@
     "slug": "tool61408",
     "name": "绘蛙AI转3D",
     "description": "属于AI图像工具·AI 3D模型生成分类。绘蛙AI转3D是一款AI图像工具领域的免费增值AI工具，服装平铺图快速转换为3D立体展示图。支持AI图像工。",
-    "url": "https://www.ihuiwa.com/workspace/ai-image/func/to-3d?huiwaInviteCode=EMRCAL",
+    "url": "https://www.ihuiwa.com/workspace/ai-image/func/to-3d",
     "categories": [
       "ai-image"
     ],
@@ -5892,7 +5892,7 @@
     "slug": "meshy-ai",
     "name": "Meshy",
     "description": "属于AI图像工具·AI 3D模型生成分类。Meshy是一款AI图像工具领域的免费增值AI工具，AI快速从文本或图像生成3D模型。支持AI图像工。",
-    "url": "https://www.meshy.ai/?ref=ai-bot.cn",
+    "url": "https://www.meshy.ai/",
     "categories": [
       "ai-image"
     ],
@@ -5930,7 +5930,7 @@
     "slug": "ihuiwa-com",
     "name": "绘蛙AI抠图",
     "description": "属于AI图像工具·AI图片背景移除分类。绘蛙AI抠图是一款AI图像工具领域的免费增值AI工具，绘蛙推出的AI智能抠图工具。支持AI图像工。",
-    "url": "https://www.ihuiwa.com/workspace/partial-redraw?editType=smart-matting&huiwaInviteCode=EMRCAL",
+    "url": "https://www.ihuiwa.com/workspace/partial-redraw?editType=smart-matting",
     "categories": [
       "ai-image"
     ],
@@ -5964,7 +5964,7 @@
     "slug": "cutout-designkit-com",
     "name": "美图抠图",
     "description": "属于AI图像工具·AI图片背景移除分类。美图秀秀推出的AI智能抠图工具，一键移除背景。支持AI图像工，适合需要AI生成或处理图像的用户。",
-    "url": "https://cutout.designkit.com/?channel=100104",
+    "url": "https://cutout.designkit.com/",
     "categories": [
       "ai-image"
     ],
@@ -6002,7 +6002,7 @@
     "slug": "d-design-3",
     "name": "顽兔抠图",
     "description": "属于AI图像工具·AI图片背景移除分类。顽兔抠图是一款AI图像工具领域的免费增值AI工具，阿里推出的一键去除商品图背景工具。支持AI图像工。",
-    "url": "https://d.design/toolbox/cutout?from=ab13",
+    "url": "https://d.design/toolbox/cutout",
     "categories": [
       "ai-image"
     ],
@@ -6082,7 +6082,7 @@
     "slug": "photonaiclub-com-2",
     "name": "光子AI抠图",
     "description": "属于AI图像工具·AI图片背景移除分类。光子AI抠图是一款AI图像工具领域的免费增值AI工具，光子AI推出的AI图片背景抠除工具。支持AI图像工。",
-    "url": "https://www.photonaiclub.com/workspace/cutout?invitationType=register&inviterId=7328241868114231444",
+    "url": "https://www.photonaiclub.com/workspace/cutout",
     "categories": [
       "ai-image"
     ],
@@ -6120,7 +6120,7 @@
     "slug": "pixian-ai",
     "name": "Pixian.AI",
     "description": "属于AI图像工具·AI图片插画生成分类。Pixian.AI是一款AI图像工具领域的免费AI工具，免费的AI图片背景抠除工具。支持AI图像工。",
-    "url": "https://pixian.ai/?ref=ai-bot.cn",
+    "url": "https://pixian.ai/",
     "categories": [
       "ai-image"
     ],
@@ -6252,7 +6252,7 @@
     "slug": "tool9946",
     "name": "千图设计室AI助手",
     "description": "属于AI图像工具·AI图片背景移除分类。千图设计室AI助手是一款AI图像工具领域的免费增值AI工具，AI绘画抠图工具集。支持AI图像工。",
-    "url": "https://hisheai.com/?from=ai-bot",
+    "url": "https://hisheai.com/",
     "categories": [
       "ai-image"
     ],
@@ -7005,7 +7005,7 @@
     "slug": "tool1818",
     "name": "创客贴AI画匠",
     "description": "属于AI图像工具·AI图片插画生成分类。创客贴AI画匠是一款AI图像工具领域的免费增值AI工具，创客贴推出的AI艺术画生成工具。支持AI图像工。",
-    "url": "https://aiart.chuangkit.com/landingpage?utm_source=aibotQD",
+    "url": "https://aiart.chuangkit.com/landingpage",
     "categories": [
       "ai-image"
     ],
@@ -7077,7 +7077,7 @@
     "slug": "tool6840",
     "name": "360智绘",
     "description": "属于AI图像工具·AI图片插画生成分类。360智绘是一款AI图像工具领域的免费增值AI工具，360推出的AI图片和绘画生成工具。支持AI图像工。",
-    "url": "https://aigc.360.com/?ref=ai-bot.cn",
+    "url": "https://aigc.360.com/",
     "categories": [
       "ai-image"
     ],
@@ -7136,7 +7136,7 @@
     "slug": "tool2762",
     "name": "AI Image Generator",
     "description": "属于AI图像工具·AI图片插画生成分类。Freepik最新推出的AI图片生成工具。支持AI图像工，适合需要AI生成或处理图像的用户。",
-    "url": "https://www.freepik.com/ai/image-generator?ref=ai-bot.cn",
+    "url": "https://www.freepik.com/ai/image-generator",
     "categories": [
       "ai-image"
     ],
@@ -7199,7 +7199,7 @@
     "slug": "tool2676",
     "name": "175FUN",
     "description": "属于AI图像工具·AI图片插画生成分类。175FUN是一款AI图像工具领域的免费AI工具，免费AI绘画社区，国货之光。支持AI图像工。",
-    "url": "https://175.fun/?refer=ai-bot.cn",
+    "url": "https://175.fun/",
     "categories": [
       "ai-image"
     ],
@@ -7229,7 +7229,7 @@
     "slug": "d-design-4",
     "name": "堆友AI高清",
     "description": "属于AI图像工具·AI图片无损放大分类。AI图片无损放大工具，支持4倍、9倍、16倍。支持AI图像工，适合需要AI生成或处理图像的用户。",
-    "url": "https://d.design/toolbox/hd?from=ab13",
+    "url": "https://d.design/toolbox/hd",
     "categories": [
       "ai-image"
     ],
@@ -7267,7 +7267,7 @@
     "slug": "designkit-cn-2",
     "name": "美图无损放大",
     "description": "属于AI图像工具·AI图片无损放大分类。美图无损放大是一款AI图像工具领域的免费增值AI工具，美图设计室推出的AI图片变清晰工具。支持AI图像工。",
-    "url": "https://www.designkit.cn/upscale/?channel=100101",
+    "url": "https://www.designkit.cn/upscale/",
     "categories": [
       "ai-image"
     ],
@@ -7453,7 +7453,7 @@
     "slug": "tool7402",
     "name": "Magnific AI",
     "description": "属于AI图像工具·AI图片无损放大分类。强大的AI图像放大工具，最高支持到10K分辨率。支持AI图像工，适合需要AI生成或处理图像的用户。",
-    "url": "https://magnific.ai/?ref=ai-bot.cn",
+    "url": "https://magnific.ai/",
     "categories": [
       "ai-image"
     ],
@@ -7795,7 +7795,7 @@
     "slug": "d-design-5",
     "name": "堆友AI消除",
     "description": "属于AI图像工具·AI图片插画生成分类。堆友AI消除是一款AI图像工具领域的免费增值AI工具，一键消除图片中的水印、图标、牛皮癣。支持AI图像工。",
-    "url": "https://d.design/toolbox/elimination?from=ab13",
+    "url": "https://d.design/toolbox/elimination",
     "categories": [
       "ai-image"
     ],
@@ -7833,7 +7833,7 @@
     "slug": "ihuiwa-com-3",
     "name": "绘蛙AI消除",
     "description": "属于AI图像工具·AI图片插画生成分类。免费AI修图工具，一键去除图片中多余元素。支持AI图像工，适合需要AI生成或处理图像的用户。",
-    "url": "https://www.ihuiwa.com/workspace/ai-image/partial-redraw?editType=eraser-pen&huiwaInviteCode=EMRCAL",
+    "url": "https://www.ihuiwa.com/workspace/ai-image/partial-redraw?editType=eraser-pen",
     "categories": [
       "ai-image"
     ],
@@ -7875,7 +7875,7 @@
     "slug": "designkit-cn-3",
     "name": "美图AI消除",
     "description": "属于AI图像工具·AI图片插画生成分类。美图AI消除是一款AI图像工具领域的免费增值AI工具，美图设计室推出的AI消除工具。支持AI图像工。",
-    "url": "https://www.designkit.cn/aieraser/?channel=100102",
+    "url": "https://www.designkit.cn/aieraser/",
     "categories": [
       "ai-image"
     ],
@@ -7913,7 +7913,7 @@
     "slug": "gaoding-com-2",
     "name": "稿定AI消除",
     "description": "属于AI图像工具·AI图片插画生成分类。稿定AI消除是一款AI图像工具领域的免费增值AI工具，AI图像杂物消除工具。支持AI图像工。",
-    "url": "https://www.gaoding.com/utms/a98ffea27c9145089671bb8a06037423",
+    "url": "https://www.gaoding.com/tools-ai-eliminate",
     "categories": [
       "ai-image"
     ],
@@ -7972,7 +7972,7 @@
     "slug": "iopaint-com",
     "name": "IOPaint",
     "description": "属于AI图像工具·AI图片物体抹除分类。IOPaint是一款AI图像工具领域的免费AI工具，免费开源的AI图像擦除、修复和处理工具。支持AI图像工。",
-    "url": "https://www.iopaint.com/?ref=ai-bot.cn",
+    "url": "https://www.iopaint.com/",
     "categories": [
       "ai-image"
     ],
@@ -8136,7 +8136,7 @@
     "slug": "tusiart-com-2",
     "name": "吐司AI消除",
     "description": "属于AI图像工具·AI图片插画生成分类。吐司AI消除是一款AI图像工具领域的免费增值AI工具，吐司AI推出的AI智能消除、去杂物工具。支持AI图像工。",
-    "url": "https://tusiart.com/template/820385276638620489?utm_source=ai_bot&source_id=ai_bot",
+    "url": "https://tusiart.com/template/820385276638620489",
     "categories": [
       "ai-image"
     ],
@@ -8292,7 +8292,7 @@
     "slug": "gaoding-com-3",
     "name": "稿定AI变清晰",
     "description": "属于AI图像工具·AI图片插画生成分类。稿定AI变清晰是一款AI图像工具领域的免费增值AI工具，稿定设计推出的AI变清晰图像处理工具。支持AI图像工。",
-    "url": "https://www.gaoding.com/utms/2a5760f7f0d74446b2c8ef68a34d5bfc",
+    "url": "https://www.gaoding.com/tools-ai-clearer",
     "categories": [
       "ai-image"
     ],
@@ -8453,7 +8453,7 @@
     "slug": "remini-ai",
     "name": "Remini",
     "description": "属于AI图像工具·AI图片优化修复分类。Remini是一款AI图像工具领域的免费增值AI工具，AI智能将模糊照片变高清的图像修复工具。支持AI图像工。",
-    "url": "https://remini.ai/?ref=ai-bot.cn",
+    "url": "https://remini.ai/",
     "categories": [
       "ai-image"
     ],
@@ -8516,7 +8516,7 @@
     "slug": "pixcakeai-com",
     "name": "像素蛋糕PixCake",
     "description": "属于AI图像工具·AI图片插画生成分类。像素蛋糕PixCake是一款AI图像工具领域的免费增值AI工具，简单易用的AI图像精修工具。支持AI图像工。",
-    "url": "https://www.pixcakeai.com/?ref=ai-bot.cn",
+    "url": "https://www.pixcakeai.com/",
     "categories": [
       "ai-image"
     ],
@@ -8554,7 +8554,7 @@
     "slug": "aixtsy-com",
     "name": "咻图AI",
     "description": "属于AI图像工具·AI图片插画生成分类。咻图AI是一款AI图像工具领域的免费增值AI工具，面向影楼的摄影后期AI修图软件。支持AI图像工。",
-    "url": "https://www.aixtsy.com/?ref=ai-bot.cn",
+    "url": "https://www.aixtsy.com/",
     "categories": [
       "ai-image"
     ],
@@ -8828,7 +8828,7 @@
     "slug": "libtv",
     "name": "LibTV",
     "description": "专业AI视频创作平台，支持Seedance 2.0（真人参考）。支持AI视频工，适合需要进行AI视频创作与编辑的用户。",
-    "url": "https://www.liblib.tv/?sourceid=005902&utm=cg&cgv=aibot",
+    "url": "https://www.liblib.tv/",
     "categories": [
       "ai-video"
     ],
@@ -8866,7 +8866,7 @@
     "slug": "ihuiwa-com-4",
     "name": "绘蛙AI视频",
     "description": "属于AI视频工具·AI视频生成分类。绘蛙AI视频是一款AI视频工具领域的免费增值AI工具，绘蛙推出的AI图生视频工具。支持AI视频工。",
-    "url": "https://www.ihuiwa.com/workspace/ai-video/custom-action?huiwaInviteCode=EMRCAL",
+    "url": "https://www.ihuiwa.com/workspace/ai-video/custom-action",
     "categories": [
       "ai-video"
     ],
@@ -8904,7 +8904,7 @@
     "slug": "soundviewai-com",
     "name": "SoundView",
     "description": "属于AI视频工具·AI视频生成分类。SoundView是一款AI视频工具领域的免费增值AI工具，讯飞推出的AI短视频智能创作平台。支持AI视频工。",
-    "url": "https://soundviewai.com/invitation?inviteCode=H6tVloZUV&from=aibot",
+    "url": "https://soundviewai.com/invitation",
     "categories": [
       "ai-video"
     ],
@@ -9034,7 +9034,7 @@
     "slug": "liblibai",
     "name": "LiblibAI",
     "description": "属于AI视频工具·AI视频生成分类。LiblibAI是一款AI视频工具领域的免费增值AI工具，一站式 AI 内容创作生成平台。支持AI视频工。",
-    "url": "https://www.liblib.art/?souceid=005904&utm=cg&cgv=dqndpmwn2z",
+    "url": "https://www.liblib.art/",
     "categories": [
       "ai-video"
     ],
@@ -9076,7 +9076,7 @@
     "slug": "youyan3d-com",
     "name": "有言",
     "description": "属于AI视频工具·AI数字人分类。有言是一款AI视频工具领域的免费增值AI工具，一站式AI视频创作和3D数字人生成平台。支持AI视频工。",
-    "url": "https://www.youyan3d.com/login/?utm_source=zhanwaidaoliu&utm_campaign=zwj&utm_content=aigongjuji&from=aigongjuji",
+    "url": "https://www.youyan3d.com/login/",
     "categories": [
       "ai-video"
     ],
@@ -9156,7 +9156,7 @@
     "slug": "ai-volcengine-com",
     "name": "Seedance",
     "description": "字节跳动 Seed 团队推出的多模态 AI 视频生成模型。支持AI视频工，适合需要进行AI视频创作与编辑的用户。",
-    "url": "https://ai.volcengine.com/activity/seedance2?utm_campaign=CG&utm_content=CG&utm_medium=CakeGrowth&utm_source=OWO&utm_term=CG&utm=cg&cgv=aibot",
+    "url": "https://ai.volcengine.com/activity/seedance2",
     "categories": [
       "ai-video"
     ],
@@ -9232,7 +9232,7 @@
     "slug": "xingyun3d-com",
     "name": "魔珐星云",
     "description": "属于AI视频工具·AI数字人分类。魔珐星云是一款AI视频工具领域的免费增值AI工具，具身智能3D数字人开放平台。支持AI视频工。",
-    "url": "https://www.xingyun3d.com/?utm_source=zhanwaidaoliu&utm_campaign=zwj&utm_content=aibot",
+    "url": "https://www.xingyun3d.com/",
     "categories": [
       "ai-video"
     ],
@@ -9270,7 +9270,7 @@
     "slug": "joypix-ai",
     "name": "JoyPix",
     "description": "属于AI视频工具·AI数字人分类。JoyPix是一款AI视频工具领域的免费增值AI工具，AI数字人创作工具，支持声音克隆。支持AI视频工。",
-    "url": "https://www.joypix.ai/app/login/?utm=cg&cgv=aibotcn",
+    "url": "https://www.joypix.ai/app/login/",
     "categories": [
       "ai-video"
     ],
@@ -9430,7 +9430,7 @@
     "slug": "lumen-flow",
     "name": "Lumen Flow",
     "description": "属于AI视频工具·AI视频生成分类。端到端 AI 漫剧自动生产线，AI 剧本一键成片。支持AI视频工，适合需要进行AI视频创作与编辑的用户。",
-    "url": "https://lumenflow.net/register?invite=CODE-P8R7JZ4Y",
+    "url": "https://lumenflow.net/register",
     "categories": [
       "ai-video"
     ],
@@ -9518,7 +9518,7 @@
     "slug": "rhtv-runninghub-cn",
     "name": "RHTV",
     "description": "RunningHub 推出的原生 AI 无限画布创作工具。支持AI视频工，适合需要进行AI视频创作与编辑的用户。",
-    "url": "https://rhtv.runninghub.cn/?inviteCode=bemsxzdr",
+    "url": "https://rhtv.runninghub.cn/",
     "categories": [
       "ai-video"
     ],
@@ -10511,7 +10511,7 @@
     "slug": "yunmuts-com",
     "name": "云幕同声",
     "description": "属于AI视频工具·AI视频生成分类。专业AI视频翻译，短剧出海、跨境电商，效果超棒！。支持AI视频工，适合需要进行AI视频创作与编辑的用户。",
-    "url": "https://www.yunmuts.com/?from=ai-bot",
+    "url": "https://www.yunmuts.com/",
     "categories": [
       "ai-video"
     ],
@@ -11337,7 +11337,7 @@
     "slug": "viggle-ai",
     "name": "Viggle",
     "description": "属于AI视频工具·AI视频生成分类。Viggle是一款AI视频工具领域的免费增值AI工具，AI生成可控的角色动态视频的工具。支持AI视频工。",
-    "url": "https://viggle.ai/?ref=ai-bot.cn",
+    "url": "https://viggle.ai/",
     "categories": [
       "ai-video"
     ],
@@ -11396,7 +11396,7 @@
     "slug": "admuse-qq-com-2",
     "name": "妙播",
     "description": "属于AI视频工具·AI视频生成分类。妙播是一款AI视频工具领域的免费增值AI工具，腾讯广告推出的AI直播电商解决方案。支持AI视频工。",
-    "url": "https://admuse.qq.com/intelligent/live/page/index.html#/",
+    "url": "https://admuse.qq.com/intelligent/live/page/index.html",
     "categories": [
       "ai-video"
     ],
@@ -11708,7 +11708,7 @@
     "slug": "humva-ai",
     "name": "Humva",
     "description": "属于AI视频工具·AI数字人分类。AI数字人生成工具，自定义创建专属数字人。支持AI视频工，适合需要进行AI视频创作与编辑的用户。",
-    "url": "https://humva.ai/?utm_source=aibot&utm_medium=website&utm_campaign=seo",
+    "url": "https://humva.ai/",
     "categories": [
       "ai-video"
     ],
@@ -12096,7 +12096,7 @@
     "slug": "tool2670",
     "name": "度加创作工具",
     "description": "属于AI视频工具·AI视频生成分类。度加创作工具是一款AI视频工具领域的免费增值AI工具，百度官方出品的AIGC创作平台。支持AI视频工。",
-    "url": "https://aigc.baidu.com/?utm_source=ai-bot-c",
+    "url": "https://aigc.baidu.com/",
     "categories": [
       "ai-video"
     ],
@@ -12126,7 +12126,7 @@
     "slug": "wink-meitu-com",
     "name": "WinkStudio",
     "description": "WinkStudio是一款AI视频工具领域的免费增值AI工具，美图推出的桌面端AI视频剪辑工具。支持AI视频工。",
-    "url": "https://wink.meitu.com/?ref=ai-bot.cn",
+    "url": "https://wink.meitu.com/",
     "categories": [
       "ai-video"
     ],
@@ -12164,7 +12164,7 @@
     "slug": "zhiwen-xfyun-cn",
     "name": "讯飞智文",
     "description": "属于AI办公工具·AI PPT生成分类。讯飞智文是一款AI办公工具领域的免费增值AI工具，一键生成PPT和Word。支持AI办公工。",
-    "url": "https://zhiwen.xfyun.cn/home?from=aitool1",
+    "url": "https://zhiwen.xfyun.cn/home",
     "categories": [
       "ai-office"
     ],
@@ -12248,7 +12248,7 @@
     "slug": "pptgo-cn",
     "name": "博思AIPPT",
     "description": "属于AI办公工具·AI PPT生成分类。博思AIPPT是一款AI办公工具领域的免费增值AI工具，PPT效率神器，AI一键生成PPT。支持AI办公工。",
-    "url": "https://pptgo.cn/?utm_source=referrals&utm_content=aibot&_channel_track_key=LkU8aJjk",
+    "url": "https://pptgo.cn/",
     "categories": [
       "ai-office"
     ],
@@ -12286,7 +12286,7 @@
     "slug": "tool8840",
     "name": "iSlide AIPPT",
     "description": "iSlide AIPPT是一款AI办公工具领域的免费增值AI工具，AI一键设计精美PPT，只需一句标题。支持AI办公工。",
-    "url": "https://www.islide.cc/landing?utm=cg&cgv=aibot",
+    "url": "https://www.islide.cc/landing",
     "categories": [
       "ai-office"
     ],
@@ -12307,7 +12307,7 @@
     "slug": "pi-deepvinci-tech",
     "name": "Pi 智能演示文档",
     "description": "Pi-智能演示文档 | AI是一款AI办公工具领域的免费增值AI工具，一键生成PPT，复制精美模板。支持AI办公工。",
-    "url": "https://pi.deepvinci.tech/idea?share_token=CUFCN44CB6WIA",
+    "url": "https://pi.deepvinci.tech/idea",
     "categories": [
       "ai-office"
     ],
@@ -12345,7 +12345,7 @@
     "slug": "gaoding-com-4",
     "name": "稿定推出的PPT模板资源库",
     "description": "稿定推出的PPT模板资源库是一款AI办公工具领域的免费增值AI工具，稿定推出的PPT模板资源库。支持AI办公工。",
-    "url": "https://www.gaoding.com/utms/c2eb98df0bf24cd9a4b691b0e8d2914e",
+    "url": "https://www.gaoding.com/contents?q=PPT",
     "categories": [
       "ai-office"
     ],
@@ -12383,7 +12383,7 @@
     "slug": "tool7012",
     "name": "高效的AI PPT生成工具",
     "description": "高效的AI PPT生成工具是一款AI办公工具领域的免费增值AI工具，高效的AI PPT生成工具。支持AI办公工。",
-    "url": "https://www.bigppt.cn/?hmmd=aibot",
+    "url": "https://www.bigppt.cn/",
     "categories": [
       "ai-office"
     ],
@@ -12404,7 +12404,7 @@
     "slug": "tool14213",
     "name": "一键生成PPT和千字演讲稿",
     "description": "一键生成PPT和千字演讲稿是一款AI办公工具领域的免费增值AI工具，一键生成PPT和千字演讲稿。支持AI办公工。",
-    "url": "https://ibiling.cn/ppt-zone?from=aibotaippt",
+    "url": "https://ibiling.cn/ppt-zone",
     "categories": [
       "ai-office"
     ],
@@ -12425,7 +12425,7 @@
     "slug": "wenku-baidu-com",
     "name": "百度文库AI助手",
     "description": "属于AI办公工具·AI文档处理分类。百度文库AI助手是一款AI办公工具领域的免费增值AI工具，基于文心一言的一站式智能文档助手。支持AI办公工。",
-    "url": "https://wenku.baidu.com/ndlaunch/browse/chat?fr=dist_wk_aiasis&dist_source=kfpt-WD&utm_account=dist&keyword=PPT&searchFr=1&third_id=wkds_98a21f011a37f111f0855b83_400000159",
+    "url": "https://wenku.baidu.com/ndlaunch/browse/chat",
     "categories": [
       "ai-office"
     ],
@@ -12471,7 +12471,7 @@
     "slug": "aippt-cn",
     "name": "AiPPT 插件",
     "description": "属于AI办公工具·AI PPT生成分类。AiPPT推出的AI PPT制作工具（插件版）。支持AI办公工，适合需要提升办公效率与自动化的用户。",
-    "url": "https://www.aippt.cn/plugin?utm_type=CJDHZ&utm_source=cakegrowth&utm_page=home&utm_plan=dhzfx&utm_unit=c1&utm_keyword=40515276&utm=cg&cgv=aibot",
+    "url": "https://www.aippt.cn/plugin",
     "categories": [
       "ai-office"
     ],
@@ -12765,7 +12765,7 @@
     "slug": "tool1744",
     "name": "Designkit",
     "description": "属于AI办公工具·AI PPT生成分类。美图秀秀推出的免费在线AI生成PPT设计工具。支持AI办公工，适合需要提升办公效率与自动化的用户。",
-    "url": "https://www.designkit.com/ppt/?channel=ai-bot.cn",
+    "url": "https://www.designkit.com/ppt/",
     "categories": [
       "ai-office"
     ],
@@ -12824,7 +12824,7 @@
     "slug": "tool76405",
     "name": "去 AI 味中式职场 PPT 生成工具",
     "description": "去 AI 味中式职场 PPT 生成工具是一款AI办公工具领域的免费增值AI工具，去 AI 味中式职场 PPT 生成工具。支持AI办公工。",
-    "url": "https://www.2dogppt.com/login?invite=268533",
+    "url": "https://www.2dogppt.com/login",
     "categories": [
       "ai-office"
     ],
@@ -12988,7 +12988,7 @@
     "slug": "mindshow-vip",
     "name": "AI在线PPT生成工具",
     "description": "属于AI办公工具·AI PPT生成分类。AI在线PPT生成工具是一款AI办公工具领域的免费增值AI工具，AI在线PPT生成工具。支持AI办公工。",
-    "url": "https://www.mindshow.vip/workstation/?from=ai-bot.cn",
+    "url": "https://www.mindshow.vip/workstation/",
     "categories": [
       "ai-office"
     ],
@@ -13026,7 +13026,7 @@
     "slug": "tool59512",
     "name": "创新的AI演示文稿生成工具",
     "description": "创新的AI演示文稿生成工具是一款AI办公工具领域的免费增值AI工具，创新的AI演示文稿生成工具。支持AI办公工。",
-    "url": "https://www.voxdeck.ai/?utm_source=dhvoxaibot",
+    "url": "https://www.voxdeck.ai/",
     "categories": [
       "ai-office"
     ],
@@ -13331,7 +13331,7 @@
     "slug": "office-raccoon",
     "name": "办公小浣熊",
     "description": "属于AI办公工具·AI文档处理分类。办公小浣熊是一款AI办公工具领域的免费增值AI工具，最强AI数据分析助手。支持AI办公工。",
-    "url": "https://www.xiaohuanxiong.com/login?utm_source=blmay1",
+    "url": "https://www.xiaohuanxiong.com/login",
     "categories": [
       "ai-office"
     ],
@@ -13465,7 +13465,7 @@
     "slug": "tool65832",
     "name": "察言观数AskTable",
     "description": "属于AI办公工具·AI文档处理分类。察言观数AskTable是一款AI办公工具领域的免费增值AI工具，企业级AI数据智能体平台。支持AI办公工。",
-    "url": "https://www.asktable.com/?utm_source=aigongjuji&utm_medium=article&utm_campaign=channel",
+    "url": "https://www.asktable.com/",
     "categories": [
       "ai-office"
     ],
@@ -13562,7 +13562,7 @@
     "slug": "aitubiao-com",
     "name": "爱图表",
     "description": "属于AI办公工具·AI文档处理分类。爱图表是一款AI办公工具领域的免费增值AI工具，镝数科技推出的AI数据可视化和分析工具。支持AI办公工。",
-    "url": "https://aitubiao.com/?utm_source=DSF-DHWZ-AIBOT-TOOL",
+    "url": "https://aitubiao.com/",
     "categories": [
       "ai-office"
     ],
@@ -14049,7 +14049,7 @@
     "slug": "xljsci-com",
     "name": "小绿鲸",
     "description": "属于AI办公工具·AI文档处理分类。小绿鲸是一款AI办公工具领域的免费增值AI工具，AI英文文献阅读工具。支持AI办公工。",
-    "url": "https://www.xljsci.com/?channelCode=sebEce",
+    "url": "https://www.xljsci.com/",
     "categories": [
       "ai-office"
     ],
@@ -14146,7 +14146,7 @@
     "slug": "tool56588",
     "name": "Wisfile: AI",
     "description": "Wisfile: AI是一款AI办公工具领域的免费增值AI工具，AI文件整理工具，支持批量归纳文件。支持AI办公工。",
-    "url": "https://www.wisfile.ai/?from=dhz_aibot",
+    "url": "https://www.wisfile.ai/",
     "categories": [
       "ai-office"
     ],
@@ -14268,7 +14268,7 @@
     "slug": "acrobat-ai-assistant",
     "name": "Acrobat AI Assistant",
     "description": "属于AI办公工具·AI文档处理分类。Adobe推出的Acrobat PDF文档AI助手。支持AI办公工，适合需要提升办公效率与自动化的用户。",
-    "url": "https://www.adobe.com/acrobat/generative-ai-pdf.html?ref=ai-bot.cn",
+    "url": "https://www.adobe.com/acrobat/generative-ai-pdf.html",
     "categories": [
       "ai-office"
     ],
@@ -14306,7 +14306,7 @@
     "slug": "tool8079",
     "name": "腾讯推出的AI文档生成和辅助工具",
     "description": "腾讯推出的AI文档生成和辅助工具是一款AI办公工具领域的免费增值AI工具，腾讯推出的AI文档生成和辅助工具。支持AI办公工。",
-    "url": "https://docs.qq.com/?ref=ai-bot.cn",
+    "url": "https://docs.qq.com/",
     "categories": [
       "ai-office"
     ],
@@ -14327,7 +14327,7 @@
     "slug": "tool8427",
     "name": "Cubox: AI Read",
     "description": "属于AI办公工具·AI文档处理分类。高效的AI阅读学习助手和信息收集管理工具。支持AI办公工，适合需要提升办公效率与自动化的用户。",
-    "url": "https://www.cubox.cc/?ref=ai-bot.cn",
+    "url": "https://www.cubox.cc/",
     "categories": [
       "ai-office"
     ],
@@ -14348,7 +14348,7 @@
     "slug": "tool8353",
     "name": "开源的知识库搭建工具，构建你的第二大脑",
     "description": "开源的知识库搭建工具，构建你的第二大脑是一款AI办公工具领域的免费增值AI工具，开源的知识库搭建工具，构建你的第二大脑。支持AI办公工。",
-    "url": "https://www.quivr.app/?ref=ai-bot.cn",
+    "url": "https://www.quivr.app/",
     "categories": [
       "ai-office"
     ],
@@ -14390,7 +14390,7 @@
     "slug": "tool7120",
     "name": "网易有道推出的AI论文和文档阅读助手",
     "description": "网易有道推出的AI论文和文档阅读助手是一款AI办公工具领域的免费增值AI工具，网易有道推出的AI论文和文档阅读助手。支持AI办公工。",
-    "url": "https://read.youdao.com/?ref=ai-bot.cn",
+    "url": "https://read.youdao.com/",
     "categories": [
       "ai-office"
     ],
@@ -14411,7 +14411,7 @@
     "slug": "tool8584",
     "name": "腾讯推出的AI生成调查问卷的免费工具",
     "description": "腾讯推出的AI生成调查问卷的免费工具是一款AI办公工具领域的免费AI工具，腾讯推出的AI生成调查问卷的免费工具。支持AI办公工。",
-    "url": "https://wj.qq.com/ai/generate.html?utm_source=AI&utm_medium=aibot",
+    "url": "https://wj.qq.com/ai/generate.html",
     "categories": [
       "ai-office"
     ],
@@ -14453,7 +14453,7 @@
     "slug": "tool5273",
     "name": "通义智文_AI助手_文档阅读_人工智能",
     "description": "基于通义大模型的AI阅读助手，可智能阅读网页、论文、图书和文档。支持AI办公工，适合需要提升办公效率与自动化的用户。",
-    "url": "https://tongyi.aliyun.com/zhiwen#/?ref=ai-bot.cn",
+    "url": "https://tongyi.aliyun.com/zhiwen",
     "categories": [
       "ai-office"
     ],
@@ -14474,7 +14474,7 @@
     "slug": "tool2106",
     "name": "一站式智能Office内容创作平台",
     "description": "一站式智能Office内容创作平台是一款AI办公工具领域的免费增值AI工具，一站式智能Office内容创作平台。支持AI办公工。",
-    "url": "https://getgetai.com/?from=AIGJDH",
+    "url": "https://getgetai.com/",
     "categories": [
       "ai-office"
     ],
@@ -14504,7 +14504,7 @@
     "slug": "tool5564",
     "name": "星火知识库",
     "description": "属于AI办公工具·AI文档处理分类。基于讯飞星火大模型的AI文档和知识库问答助手。支持AI办公工，适合需要提升办公效率与自动化的用户。",
-    "url": "https://chatdoc.xfyun.cn/?from=ai-bot.cn",
+    "url": "https://chatdoc.xfyun.cn/",
     "categories": [
       "ai-office"
     ],
@@ -14525,7 +14525,7 @@
     "slug": "tool6509",
     "name": "面向产品经理的AI助手",
     "description": "属于AI办公工具·AI文档处理分类。面向产品经理的AI助手是一款AI办公工具领域的免费增值AI工具，面向产品经理的AI助手。支持AI办公工。",
-    "url": "https://www.pm-ai.cn/?utm_source=NoKVb4O",
+    "url": "https://www.pm-ai.cn/",
     "categories": [
       "ai-office"
     ],
@@ -14626,7 +14626,7 @@
     "slug": "tool6765",
     "name": "iWeaver",
     "description": "属于AI办公工具·AI文档处理分类。智能阅读机器人，AI总结文档、网页、视频、播客等。支持AI办公工，适合需要提升办公效率与自动化的用户。",
-    "url": "https://knowme.xiaoduoai.com/?ref=ai-bot.cn",
+    "url": "https://knowme.xiaoduoai.com/",
     "categories": [
       "ai-office"
     ],
@@ -14647,7 +14647,7 @@
     "slug": "tool6468",
     "name": "星火科研助手",
     "description": "属于AI办公工具·AI文档处理分类。科大讯飞联合中科院推出的AI科研文献助手。支持AI办公工，适合需要提升办公效率与自动化的用户。",
-    "url": "https://paper.iflytek.com/?ref=ai-bot.cn",
+    "url": "https://paper.iflytek.com/",
     "categories": [
       "ai-office"
     ],
@@ -14685,7 +14685,7 @@
     "slug": "tool9794",
     "name": "万知 I 提问、搜索、想写什么通通问万知",
     "description": "属于AI办公工具·AI PPT生成分类。零一万物推出的一站式AI文档阅读和PPT创作工作台。支持AI办公工，适合需要提升办公效率与自动化的用户。",
-    "url": "https://www.wanzhi01.com/?ref=ai-bot.cn",
+    "url": "https://www.wanzhi01.com/",
     "categories": [
       "ai-office"
     ],
@@ -14765,7 +14765,7 @@
     "slug": "shutu-cn",
     "name": "TreeMind树图",
     "description": "属于AI办公工具·AI文档处理分类。新一代AI智能思维导图，一句话生成思维导图。支持AI办公工，适合需要提升办公效率与自动化的用户。",
-    "url": "https://shutu.cn/?from=aibot",
+    "url": "https://shutu.cn/",
     "categories": [
       "ai-office"
     ],
@@ -14824,7 +14824,7 @@
     "slug": "tool57154",
     "name": "AI图表生成工具，一键生成思维导图、流程图",
     "description": "属于AI办公工具·AI文档处理分类。AI图表生成工具，一键生成思维导图、流程图。支持AI办公工，适合需要提升办公效率与自动化的用户。",
-    "url": "https://www.fluig.cn/?hmsr=aibot",
+    "url": "https://www.fluig.cn/",
     "categories": [
       "ai-office"
     ],
@@ -14845,7 +14845,7 @@
     "slug": "kezign-cn",
     "name": "可赞AI",
     "description": "可赞AI - AI办公可视化工具 | 文字一秒生成图表是一款AI办公工具领域的免费增值AI工具，AI办公可视化工具，文字转图表。支持AI办公工。",
-    "url": "https://kezign.cn/?source=aibot&track_id=1&hmmd=aibot",
+    "url": "https://kezign.cn/",
     "categories": [
       "ai-office"
     ],
@@ -14963,7 +14963,7 @@
     "slug": "imiaoban-com",
     "name": "妙办画板",
     "description": "属于AI办公工具·AI文档处理分类。在线实时协作的画图工具，AI一键生成流程图。支持AI办公工，适合需要提升办公效率与自动化的用户。",
-    "url": "https://imiaoban.com/?ref=ai-bot.cn",
+    "url": "https://imiaoban.com/",
     "categories": [
       "ai-office"
     ],
@@ -15022,7 +15022,7 @@
     "slug": "tool6811",
     "name": "在线协作白板工具，内置AIGC功能",
     "description": "在线协作白板工具，内置AIGC功能是一款AI办公工具领域的免费增值AI工具，在线协作白板工具，内置AIGC功能。支持AI办公工。",
-    "url": "https://www.xiaohuazhuo.com/?ref=ai-bot.cn",
+    "url": "https://www.xiaohuazhuo.com/",
     "categories": [
       "ai-office"
     ],
@@ -15064,7 +15064,7 @@
     "slug": "tool6551",
     "name": "知犀推出的AI思维导图生成工具",
     "description": "知犀推出的AI思维导图生成工具是一款AI办公工具领域的免费增值AI工具，知犀推出的AI思维导图生成工具。支持AI办公工。",
-    "url": "https://www.swdt.com/?ref=ai-bot.cn",
+    "url": "https://www.swdt.com/",
     "categories": [
       "ai-office"
     ],
@@ -15085,7 +15085,7 @@
     "slug": "tool1869",
     "name": "Xmind AI思维导图助手",
     "description": "Xmind AI思维导图助手是一款AI办公工具领域的免费增值AI工具，Xmind AI思维导图助手。支持AI办公工。",
-    "url": "https://xmind.ai/?ref=ai-bot.cn",
+    "url": "https://xmind.ai/",
     "categories": [
       "ai-office"
     ],
@@ -15106,7 +15106,7 @@
     "slug": "tool1155",
     "name": "AI驱动的免费思维导图工具",
     "description": "属于AI办公工具·AI文档处理分类。AI驱动的免费思维导图工具是一款AI办公工具领域的免费AI工具，AI驱动的免费思维导图工具。支持AI办公工。",
-    "url": "https://gitmind.cn/?ref=ai-bot.cn",
+    "url": "https://gitmind.cn/",
     "categories": [
       "ai-office"
     ],
@@ -15169,7 +15169,7 @@
     "slug": "tool952",
     "name": "开箱即用的在线AI思维导图工具",
     "description": "开箱即用的在线AI思维导图工具是一款AI办公工具领域的免费增值AI工具，开箱即用的在线AI思维导图工具。支持AI办公工。",
-    "url": "https://amymind.com/?ref=ai-bot.cn",
+    "url": "https://amymind.com/",
     "categories": [
       "ai-office"
     ],
@@ -15270,7 +15270,7 @@
     "slug": "tool56807",
     "name": "AI聊天搞定简历",
     "description": "属于AI办公工具·AI文档处理分类。AI聊天搞定简历是一款AI办公工具领域的免费增值AI工具，AI聊天搞定简历。支持AI办公工。",
-    "url": "https://upcv.tech/?utm=cg&cgv=aibot",
+    "url": "https://upcv.tech/",
     "categories": [
       "ai-office"
     ],
@@ -15291,7 +15291,7 @@
     "slug": "tool56512",
     "name": "3分钟生成简历超千万人使用",
     "description": "3分钟生成简历超千万人使用是一款AI办公工具领域的免费增值AI工具，3分钟生成简历超千万人使用。支持AI办公工。",
-    "url": "https://www.wondercv.com/?utm=cg&cgv=aibot",
+    "url": "https://www.wondercv.com/",
     "categories": [
       "ai-office"
     ],
@@ -15472,7 +15472,7 @@
     "slug": "tool73202",
     "name": "超矩AI协作力人才招聘平台",
     "description": "超矩AI协作力人才招聘平台是一款AI办公工具领域的免费增值AI工具，超矩AI协作力人才招聘平台。支持AI办公工。",
-    "url": "https://www.xmatrix.tech/#/",
+    "url": "https://www.xmatrix.tech/",
     "categories": [
       "ai-office"
     ],
@@ -15556,7 +15556,7 @@
     "slug": "ai-lipind-com",
     "name": "更懂硕博的AI求职神器",
     "description": "属于AI办公工具·AI文档处理分类。更懂硕博的AI求职神器是一款AI办公工具领域的免费增值AI工具，更懂硕博的AI求职神器。支持AI办公工。",
-    "url": "https://ai.lipind.com/chat?from=aibot",
+    "url": "https://ai.lipind.com/chat",
     "categories": [
       "ai-office"
     ],
@@ -15998,7 +15998,7 @@
     "slug": "meeting-iflyrec-com",
     "name": "讯飞会议",
     "description": "属于AI办公工具·AI会议纪要分类。AI智能会议系统，实时字幕、实时翻译、自动生成会议记录。支持AI办公工，适合需要提升办公效率与自动化的用户。",
-    "url": "https://meeting.iflyrec.com/?from=ai-bot_zwz",
+    "url": "https://meeting.iflyrec.com/",
     "categories": [
       "ai-office"
     ],
@@ -16125,7 +16125,7 @@
     "slug": "tool8649",
     "name": "腾讯会议推出的AI会议内容助理",
     "description": "腾讯会议推出的AI会议内容助理是一款AI办公工具领域的免费增值AI工具，腾讯会议推出的AI会议内容助理。支持AI办公工。",
-    "url": "https://meeting.tencent.com/ai/?ref=ai-bot.cn",
+    "url": "https://meeting.tencent.com/ai/",
     "categories": [
       "ai-office"
     ],
@@ -16285,7 +16285,7 @@
     "slug": "base-feishu-cn",
     "name": "表格形态的 AI 工作流搭建工具",
     "description": "表格形态的 AI 工作流搭建工具是一款AI办公工具领域的免费增值AI工具，表格形态的 AI 工作流搭建工具。支持AI办公工。",
-    "url": "https://base.feishu.cn/?utm_from=dlz_aibot",
+    "url": "https://base.feishu.cn/",
     "categories": [
       "ai-office"
     ],
@@ -17064,7 +17064,7 @@
     "slug": "tool72334",
     "name": "科大讯飞推出的专业AI同声传译平台",
     "description": "科大讯飞推出的专业AI同声传译平台是一款AI办公工具领域的免费增值AI工具，科大讯飞推出的专业AI同声传译平台。支持AI办公工。",
-    "url": "https://tongchuan.iflyrec.com/?channel=TJTC014",
+    "url": "https://tongchuan.iflyrec.com/",
     "categories": [
       "ai-office"
     ],
@@ -17148,7 +17148,7 @@
     "slug": "tool61392",
     "name": "AI图片翻译工具，自动翻译图片文字内容",
     "description": "AI图片翻译工具，自动翻译图片文字内容是一款AI办公工具领域的免费增值AI工具，AI图片翻译工具，自动翻译图片文字内容。支持AI办公工。",
-    "url": "https://d.design/toolbox/translate?from=ab13",
+    "url": "https://d.design/toolbox/translate",
     "categories": [
       "ai-office"
     ],
@@ -17304,7 +17304,7 @@
     "slug": "tool25959",
     "name": "沉浸对照式AI翻译，支持100+语言",
     "description": "沉浸对照式AI翻译，支持100+语言是一款AI办公工具领域的免费增值AI工具，沉浸对照式AI翻译，支持100+语言。支持AI办公工。",
-    "url": "https://huiyiai.net/hy_api/activity/invite?invite_code=594072316",
+    "url": "https://huiyiai.net/hy_api/activity/invite",
     "categories": [
       "ai-office"
     ],
@@ -17430,7 +17430,7 @@
     "slug": "tool1851",
     "name": "阿里翻译",
     "description": "属于AI办公工具·AI文档处理分类。阿里巴巴达摩院推出的多领域多语种的在线机器翻译。支持AI办公工，适合需要提升办公效率与自动化的用户。",
-    "url": "https://translate.alibaba.com/?ref=ai-bot.cn",
+    "url": "https://translate.alibaba.com/",
     "categories": [
       "ai-office"
     ],
@@ -17498,7 +17498,7 @@
     "slug": "tool2921",
     "name": "控制台",
     "description": "属于AI办公工具·AI文档处理分类。AI图片和视频翻译神器，支持多种语言的翻译。支持AI办公工，适合需要提升办公效率与自动化的用户。",
-    "url": "https://www.xiangjifanyi.com/console/register-invite/741be04feb30bf16",
+    "url": "https://www.xiangjifanyi.com/console/register-invite",
     "categories": [
       "ai-office"
     ],
@@ -17599,7 +17599,7 @@
     "slug": "tool1366",
     "name": "中英文音视频同传字幕工具",
     "description": "属于AI办公工具·AI文档处理分类。中英文音视频同传字幕工具是一款AI办公工具领域的免费增值AI工具，中英文音视频同传字幕工具。支持AI办公工。",
-    "url": "https://fanyi.baidu.com/appdownload/download.html?tab=helper&fr=pcproduct",
+    "url": "https://fanyi.baidu.com/appdownload/download.html?tab=helper",
     "categories": [
       "ai-office"
     ],
@@ -17760,7 +17760,7 @@
     "slug": "volcengine-com",
     "name": "火山引擎推出的云端托管版OpenClaw服务",
     "description": "属于AI智能体·AI Agent框架分类。火山引擎推出的云端托管版OpenClaw服务。支持AI智能体，适合需要AI智能体与自动化工作流的用户。",
-    "url": "https://www.volcengine.com/product/arkclaw?utm_campaign=CG&utm_content=CG&utm_medium=CakeGrowth&utm_source=OWO&utm_term=CG&utm=cg&cgv=aibottt",
+    "url": "https://www.volcengine.com/product/arkclaw",
     "categories": [
       "ai-agent"
     ],
@@ -17810,7 +17810,7 @@
     "slug": "tool70016",
     "name": "第一支自动构建真实业务的 AI 团队",
     "description": "第一支自动构建真实业务的 AI 团队是一款AI智能体领域的免费增值AI工具，第一支自动构建真实业务的 AI 团队。支持AI智能体。",
-    "url": "https://mgx.dev/?utm_source=aidirectory&utm_medium=aibot&utm_campaign=pay_per_action",
+    "url": "https://mgx.dev/",
     "categories": [
       "ai-agent"
     ],
@@ -17831,7 +17831,7 @@
     "slug": "haisnap-com",
     "name": "响指HaiSnap",
     "description": "属于AI智能体·AI Agent框架分类。面向工作与学习场景的通用 AI Agent 平台。支持AI智能体，适合需要AI智能体与自动化工作流的用户。",
-    "url": "https://www.haisnap.com/?channel=ai_bot",
+    "url": "https://www.haisnap.com/",
     "categories": [
       "ai-agent"
     ],
@@ -17885,7 +17885,7 @@
     "slug": "tool63774",
     "name": "AiPy，超级AI牛马智能体工厂，爱派AiPy软件官网",
     "description": "属于AI智能体·AI Agent框架分类。本地Manus、国内能用、内网能用，开源免费。支持AI智能体，适合需要AI智能体与自动化工作流的用户。",
-    "url": "https://www.aipyaipy.com/?referral=BJ5OOSP&utm=cg&cgv=aibot",
+    "url": "https://www.aipyaipy.com/",
     "categories": [
       "ai-agent"
     ],
@@ -17906,7 +17906,7 @@
     "slug": "tool72614",
     "name": "美团光年之外推出的AI原生浏览器",
     "description": "美团光年之外推出的AI原生浏览器是一款AI智能体领域的免费增值AI工具，美团光年之外推出的AI原生浏览器。支持AI智能体。",
-    "url": "https://web.tabbit-ai.com/invite/F09B336F",
+    "url": "https://web.tabbit-ai.com/",
     "categories": [
       "ai-agent"
     ],
@@ -17927,7 +17927,7 @@
     "slug": "astronclaw",
     "name": "AstronClaw",
     "description": "AstronClaw是一款AI智能体领域的免费增值AI工具，科大讯飞推出的云端部署OpenClaw。支持AI智能体。",
-    "url": "https://agent.xfyun.cn/astron-claw?utm=cg&cgv=aibot",
+    "url": "https://agent.xfyun.cn/astron-claw",
     "categories": [
       "ai-agent"
     ],
@@ -17969,7 +17969,7 @@
     "slug": "tool77488",
     "name": "堆友推出的 AI 设计智能体",
     "description": "堆友推出的 AI 设计智能体是一款AI智能体领域的免费增值AI工具，堆友推出的 AI 设计智能体。支持AI智能体。",
-    "url": "https://d.design/agent?from=ab13",
+    "url": "https://d.design/agent",
     "categories": [
       "ai-agent"
     ],
@@ -18004,7 +18004,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
-    "logo": "/logos/mashangfei.png",
+    "logo": "/logos/mashangfei.ico",
     "domain": "codeflying.net",
     "detailed_content": [
       {
@@ -18034,7 +18034,7 @@
     "slug": "qoder-com",
     "name": "QoderWork",
     "description": "属于AI智能体·AI Agent框架分类。阿里Qoder团队推出的桌面端AI智能体。支持AI智能体，适合需要AI智能体与自动化工作流的用户。",
-    "url": "https://qoder.com/qoderwork?utm_source=xy&utm_medium=banner&utm_campaign=aibot",
+    "url": "https://qoder.com/qoderwork",
     "categories": [
       "ai-agent"
     ],
@@ -18181,7 +18181,7 @@
     "slug": "tool65797",
     "name": "免费全能的AI办公智能体",
     "description": "属于AI智能体·AI Agent框架分类。免费全能的AI办公智能体是一款AI智能体领域的免费AI工具，免费全能的AI办公智能体。支持AI智能体。",
-    "url": "https://www.coze.cn/overview?utm_medium=daohang&utm_source=aibot&utm_term=49156769m",
+    "url": "https://www.coze.cn/overview",
     "categories": [
       "ai-agent"
     ],
@@ -18424,7 +18424,7 @@
     "slug": "tool71899",
     "name": "Sign Up",
     "description": "Trickle 团队推出的云端 AI Agent 计算机。支持AI智能体，适合需要AI智能体与自动化工作流的用户。",
-    "url": "https://happycapy.ai/signup?invite_ref=QTcWrsch",
+    "url": "https://happycapy.ai/signup",
     "categories": [
       "ai-agent"
     ],
@@ -18634,7 +18634,7 @@
     "slug": "tool77198",
     "name": "ToDesk远程桌面软件",
     "description": "属于AI智能体·AI Agent框架分类。桌面端 AI 智能助手，支持微信远程操控。支持AI智能体，适合需要AI智能体与自动化工作流的用户。",
-    "url": "https://www.todesk.com/?utm_source=aibot&utm_medium=ad&utm_campaign=ads&utm_content=1001",
+    "url": "https://www.todesk.com/",
     "categories": [
       "ai-agent"
     ],
@@ -18693,7 +18693,7 @@
     "slug": "agent-polis-com",
     "name": "AgentPolis",
     "description": "属于AI智能体·AI Agent框架分类。专为AI Agent打造的交易、社交、协作平台。支持AI智能体，适合需要AI智能体与自动化工作流的用户。",
-    "url": "https://agent-polis.com?from=aibot",
+    "url": "https://agent-polis.com/",
     "categories": [
       "ai-agent"
     ],
@@ -19404,7 +19404,7 @@
     "slug": "tool72406",
     "name": "Scholar Search",
     "description": "属于AI智能体·AI Agent框架分类。FudanNLP团队推出的AI学术智能体。支持AI智能体，适合需要AI智能体与自动化工作流的用户。",
-    "url": "https://qiewenpaper.com/zh?utm_source=aibot",
+    "url": "https://qiewenpaper.com/zh",
     "categories": [
       "ai-agent"
     ],
@@ -19686,7 +19686,7 @@
     "slug": "anygen-io",
     "name": "字节跳动推出的AI办公智能体",
     "description": "字节跳动推出的AI办公智能体是一款AI智能体领域的免费增值AI工具，字节跳动推出的AI办公智能体。支持AI智能体。",
-    "url": "https://www.anygen.io/home?invitation_code=HQUCT0VDOZLXK17",
+    "url": "https://www.anygen.io/home",
     "categories": [
       "ai-agent"
     ],
@@ -19750,7 +19750,7 @@
     "slug": "gaoding-art",
     "name": "稿定AI",
     "description": "属于AI智能体·AI Agent框架分类。稿定AI是一款AI智能体领域的AI工具。",
-    "url": "https://www.gaoding.art/utms/9f9e3162fb274b11810089a93ea547f1",
+    "url": "https://www.gaoding.art/",
     "categories": [
       "ai-agent"
     ],
@@ -19897,7 +19897,7 @@
     "slug": "story-neodomain-cn",
     "name": "AI创意内容生成智能体",
     "description": "属于AI智能体·AI Agent框架分类。AI创意内容生成智能体是一款AI智能体领域的免费增值AI工具，AI创意内容生成智能体。支持AI智能体。",
-    "url": "https://story.neodomain.cn/?channelCode=6mqNx8PYT7",
+    "url": "https://story.neodomain.cn/",
     "categories": [
       "ai-agent"
     ],
@@ -20091,7 +20091,7 @@
     "slug": "moonstatistics-com",
     "name": "月亮树跨境",
     "description": "属于AI智能体·AI Agent框架分类。亚马逊AI选品智能体，亿级实时商品大数据。支持AI智能体，适合需要AI智能体与自动化工作流的用户。",
-    "url": "https://www.moonstatistics.com/home?share_code=7c6f04&ref=ai-bot.cn",
+    "url": "https://www.moonstatistics.com/home",
     "categories": [
       "ai-agent"
     ],
@@ -21185,7 +21185,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-roleplay",
-    "logo": "/logos/tool137.png",
+    "logo": "/logos/tool137.ico",
     "domain": "character.ai",
     "detailed_content": [
       {
@@ -21240,7 +21240,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "/logos/tool457.png",
+    "logo": "/logos/tool457.ico",
     "domain": "bing.com",
     "detailed_content": [],
     "updatedAt": "2026-09-29"
@@ -21506,7 +21506,7 @@
     "slug": "tool9412",
     "name": "阶跃星辰推出的AI聊天机器人和智能体平台",
     "description": "属于AI聊天助手·通用对话AI分类。阶跃星辰推出的AI聊天机器人和智能体平台。支持AI聊天助，适合需要AI辅助对话与问答的用户。",
-    "url": "https://maopaoya.com/?ref=ai-bot.cn",
+    "url": "https://maopaoya.com/",
     "categories": [
       "ai-chat"
     ],
@@ -21590,7 +21590,7 @@
     "slug": "tool6290",
     "name": "百度智能云发布的基于文心一言的AI原生应",
     "description": "属于AI聊天助手·通用对话AI分类。百度智能云发布的基于文心一言的AI原生应用和Copilot“超级助理”。支持AI聊天助。",
-    "url": "https://cloud.baidu.com/product/infoflow.html?ref=ai-bot.cn",
+    "url": "https://cloud.baidu.com/product/infoflow.html",
     "categories": [
       "ai-chat"
     ],
@@ -21632,7 +21632,7 @@
     "slug": "tool5533",
     "name": "孟子GPT",
     "description": "属于AI聊天助手·通用对话AI分类。孟子GPT是一款AI聊天助手领域的AI工具。",
-    "url": "https://www.langboat.com/portal/mengzi-gpt?from=ai-bot.cn",
+    "url": "https://www.langboat.com/portal/mengzi-gpt",
     "categories": [
       "ai-chat"
     ],
@@ -21674,7 +21674,7 @@
     "slug": "tool5678",
     "name": "元象XVERSE大模型驱动的AI聊天助手",
     "description": "属于AI聊天助手·通用对话AI分类。元象XVERSE大模型驱动的AI聊天助手。支持AI聊天助，适合需要AI辅助对话与问答的用户。",
-    "url": "https://chat.xverse.cn/home/index.html?ref=ai-bot.cn",
+    "url": "https://chat.xverse.cn/home/index.html",
     "categories": [
       "ai-chat"
     ],
@@ -21695,7 +21695,7 @@
     "slug": "tool6101",
     "name": "字节旗下面向海外用户推出的免费大模型产品和AI助手工具箱",
     "description": "属于AI聊天助手·通用对话AI分类。字节旗下面向海外用户推出的免费大模型产品和AI助手工具箱。支持AI聊天助，适合需要AI辅助对话与问答的用户。",
-    "url": "https://www.chitchop.com/?ref=ai-bot.cn",
+    "url": "https://www.chitchop.com/",
     "categories": [
       "ai-chat"
     ],
@@ -21864,7 +21864,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "/logos/tool1220.png",
+    "logo": "/logos/tool1220.ico",
     "domain": "chat.colossalai.org",
     "detailed_content": [
       {
@@ -21890,7 +21890,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
-    "logo": "/logos/tool140.png",
+    "logo": "/logos/tool140.ico",
     "domain": "you.com",
     "detailed_content": [],
     "updatedAt": "2026-09-29"
@@ -22946,7 +22946,7 @@
     "slug": "tool4099",
     "name": "百度推出的AI编程助手，基于文心大模型",
     "description": "百度推出的AI编程助手，基于文心大模型是一款AI编程工具领域的免费增值AI工具，百度推出的AI编程助手，基于文心大模型。支持AI编程工。",
-    "url": "https://comate.baidu.com/?inviteCode=8f8or9cz",
+    "url": "https://comate.baidu.com/",
     "categories": [
       "ai-coding"
     ],
@@ -23089,7 +23089,7 @@
     "slug": "tool5256",
     "name": "蚂蚁集团推出的AI代码编程助手",
     "description": "蚂蚁集团推出的AI代码编程助手是一款AI编程工具领域的免费增值AI工具，蚂蚁集团推出的AI代码编程助手。支持AI编程工。",
-    "url": "https://codefuse.alipay.com/?ref=ai-bot.cn",
+    "url": "https://codefuse.alipay.com/",
     "categories": [
       "ai-coding"
     ],
@@ -23110,7 +23110,7 @@
     "slug": "tool9382",
     "name": "免费开源的自托管AI编程助手",
     "description": "免费开源的自托管AI编程助手是一款AI编程工具领域的免费AI工具，免费开源的自托管AI编程助手。支持AI编程工。",
-    "url": "https://tabby.tabbyml.com/?ref=ai-bot.cn",
+    "url": "https://tabby.tabbyml.com/",
     "categories": [
       "ai-coding"
     ],
@@ -23253,7 +23253,7 @@
     "slug": "preview-devin-ai",
     "name": "首个全自主的AI软件工程师智能体",
     "description": "首个全自主的AI软件工程师智能体是一款AI编程工具领域的免费增值AI工具，首个全自主的AI软件工程师智能体。支持AI编程工。",
-    "url": "https://preview.devin.ai/?ref=ai-bot.cn",
+    "url": "https://preview.devin.ai/",
     "categories": [
       "ai-coding"
     ],
@@ -23291,7 +23291,7 @@
     "slug": "tool10880",
     "name": "免费开源的基于终端的AI编程引擎",
     "description": "免费开源的基于终端的AI编程引擎是一款AI编程工具领域的免费AI工具，免费开源的基于终端的AI编程引擎。支持AI编程工。",
-    "url": "https://plandex.ai/?ref=ai-bot.cn",
+    "url": "https://plandex.ai/",
     "categories": [
       "ai-coding"
     ],
@@ -23312,7 +23312,7 @@
     "slug": "tool7587",
     "name": "非十科技推出的免费AI代码助手",
     "description": "非十科技推出的免费AI代码助手是一款AI编程工具领域的免费AI工具，非十科技推出的免费AI代码助手。支持AI编程工。",
-    "url": "https://code.fittentech.com/?ref=ai-bot.cn",
+    "url": "https://code.fittentech.com/",
     "categories": [
       "ai-coding"
     ],
@@ -23333,7 +23333,7 @@
     "slug": "tool1908",
     "name": "黑箱AI编程助理，快速代码生成",
     "description": "黑箱AI编程助理，快速代码生成是一款AI编程工具领域的免费增值AI工具，黑箱AI编程助理，快速代码生成。支持AI编程工。",
-    "url": "https://www.useblackbox.io/?ref=ai-bot.cn",
+    "url": "https://www.useblackbox.io/",
     "categories": [
       "ai-coding"
     ],
@@ -23359,7 +23359,7 @@
     "slug": "soloist-ai",
     "name": "Solo",
     "description": "属于AI编程工具·AI代码生成分类。Mozilla推出的零编程无代码AI网站建设工具。支持AI编程工，适合需要AI辅助编程与代码生成的用户。",
-    "url": "https://soloist.ai/?ref=ai-bot.cn",
+    "url": "https://soloist.ai/",
     "categories": [
       "ai-coding"
     ],
@@ -23397,7 +23397,7 @@
     "slug": "tool6557",
     "name": "JetBrains推出的AI编程开发助手",
     "description": "属于AI编程工具·AI代码生成分类。JetBrains推出的AI编程开发助手。支持AI编程工，适合需要AI辅助编程与代码生成的用户。",
-    "url": "https://www.jetbrains.com/ai/?ref=ai-bot.cn",
+    "url": "https://www.jetbrains.com/ai/",
     "categories": [
       "ai-coding"
     ],
@@ -24014,7 +24014,7 @@
     "slug": "duiyou-ai",
     "name": "堆友AI",
     "description": "属于AI聊天助手·ai-writing-article分类。堆友AI是一款AI聊天助手领域的免费增值AI工具，专为设计师打造的AI设计服务平台。支持AI设计工。",
-    "url": "https://www.designkit.cn/?channel=10026",
+    "url": "https://www.designkit.cn/",
     "categories": [
       "ai-chat",
       "ai-coding",
@@ -24096,7 +24096,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
-    "logo": "/logos/xingliu-ai.png",
+    "logo": "/logos/xingliu-ai.ico",
     "domain": "xingliu.art",
     "detailed_content": [
       {
@@ -24126,7 +24126,7 @@
     "slug": "tool2648",
     "name": "AI秒生原型稿",
     "description": "属于AI设计工具·AI平面设计分类。AI秒生原型稿是一款AI设计工具领域的免费增值AI工具，AI秒生原型稿。支持AI设计工。",
-    "url": "https://modao.cc/feature/ai?utm_channel=wl&utm_source=referrals&utm_keyword=cakegrowth&utm=cg&cgv=aibot",
+    "url": "https://modao.cc/feature/ai",
     "categories": [
       "ai-design"
     ],
@@ -24168,7 +24168,7 @@
     "slug": "tool10754",
     "name": "公众号AI图文排版和智能文案生成工具",
     "description": "公众号AI图文排版和智能文案生成工具是一款AI设计工具领域的免费增值AI工具，公众号AI图文排版和智能文案生成工具。支持AI设计工。",
-    "url": "https://www.135editor.com/ai_editor/?track_id=34&hmmd=ai-bot.cn",
+    "url": "https://www.135editor.com/ai_editor/",
     "categories": [
       "ai-design"
     ],
@@ -24189,7 +24189,7 @@
     "slug": "holopix-ai",
     "name": "Holopix AI",
     "description": "属于AI设计工具·AI平面设计分类。专为游戏、动漫、插画设计打造的AI设计平台。支持AI设计工，适合需要AI辅助设计创作的用户。",
-    "url": "https://holopix.cn/?inviteCode=741737",
+    "url": "https://holopix.cn/",
     "categories": [
       "ai-design"
     ],
@@ -24294,7 +24294,7 @@
     "slug": "tool4435",
     "name": "Pixso推出的AI设计工具",
     "description": "Pixso推出的AI设计工具是一款AI设计工具领域的免费增值AI工具，Pixso推出的AI设计工具。支持AI设计工。",
-    "url": "https://paico.cn/?utm_source=referrals&utm_content=aibot&_channel_track_key=e20XAlbs",
+    "url": "https://paico.cn/",
     "categories": [
       "ai-design"
     ],
@@ -24315,7 +24315,7 @@
     "slug": "recraft",
     "name": "Recraft",
     "description": "免费无限AI画板，生成高质量矢量艺术画、图标、3D图片和插画。支持AI设计工，适合需要AI辅助设计创作的用户。",
-    "url": "https://www.recraft.ai/?ref=ai-bot.cn",
+    "url": "https://www.recraft.ai/",
     "categories": [
       "ai-design"
     ],
@@ -24470,7 +24470,7 @@
     "slug": "tool13019",
     "name": "AI辅助的智能在线设计工具",
     "description": "AI辅助的智能在线设计工具是一款AI设计工具领域的免费增值AI工具，AI辅助的智能在线设计工具。支持AI设计工。",
-    "url": "https://aiart.chuangkit.com/matrix?utm_source=aibotQD",
+    "url": "https://aiart.chuangkit.com/matrix",
     "categories": [
       "ai-design"
     ],
@@ -24685,7 +24685,7 @@
     "slug": "tool72579",
     "name": "一站式全能AI内容创作和设计平台",
     "description": "一站式全能AI内容创作和设计平台是一款AI设计工具领域的免费增值AI工具，一站式全能AI内容创作和设计平台。支持AI设计工。",
-    "url": "https://www.pagepop.cn/?invite_code=57065835",
+    "url": "https://www.pagepop.cn/",
     "categories": [
       "ai-design"
     ],
@@ -24921,7 +24921,7 @@
     "slug": "tool1954",
     "name": "腾讯推出的智能设计平台，让内容更精彩",
     "description": "腾讯推出的智能设计平台，让内容更精彩是一款AI设计工具领域的免费增值AI工具，腾讯推出的智能设计平台，让内容更精彩。支持AI设计工。",
-    "url": "https://taishan.qq.com/brand/?ref=ai-bot.cn",
+    "url": "https://taishan.qq.com/brand/",
     "categories": [
       "ai-design"
     ],
@@ -25005,7 +25005,7 @@
     "slug": "tool1986",
     "name": "阿里推出的智能设计商品图和海报的平台",
     "description": "阿里推出的智能设计商品图和海报的平台是一款AI设计工具领域的免费增值AI工具，阿里推出的智能设计商品图和海报的平台。支持AI设计工。",
-    "url": "https://d.design/toolbox/luban-pic?from=ab1",
+    "url": "https://d.design/toolbox/luban-pic",
     "categories": [
       "ai-design"
     ],
@@ -25308,7 +25308,7 @@
     "slug": "tool10172",
     "name": "AI动效设计和动画效果制作工具",
     "description": "AI动效设计和动画效果制作工具是一款AI设计工具领域的免费增值AI工具，AI动效设计和动画效果制作工具。支持AI设计工。",
-    "url": "https://www.fable.app/prism?ref=ai-bot.cn",
+    "url": "https://www.fable.app/prism",
     "categories": [
       "ai-design"
     ],
@@ -25367,7 +25367,7 @@
     "slug": "tool9977",
     "name": "AI室内家居设计生成平台",
     "description": "属于AI设计工具·AI平面设计分类。AI室内家居设计生成平台是一款AI设计工具领域的免费增值AI工具，AI室内家居设计生成平台。支持AI设计工。",
-    "url": "https://collov.cn/?ref=ai-bot.cn",
+    "url": "https://collov.cn/",
     "categories": [
       "ai-design"
     ],
@@ -25388,7 +25388,7 @@
     "slug": "tool14683",
     "name": "包图网提供的特色图库服务",
     "description": "属于AI设计工具·AI平面设计分类。包图网提供的特色图库服务是一款AI设计工具领域的免费增值AI工具，包图网提供的特色图库服务。支持AI设计工。",
-    "url": "https://ibaotu.com/tupian/shuziyishu.html?spm=aibot1",
+    "url": "https://ibaotu.com/tupian/shuziyishu.html",
     "categories": [
       "ai-design"
     ],
@@ -25481,7 +25481,7 @@
     "slug": "tool9772",
     "name": "AI驱动的UI和UX设计工具",
     "description": "AI驱动的UI和UX设计工具是一款AI设计工具领域的免费增值AI工具，AI驱动的UI和UX设计工具。支持AI设计工。",
-    "url": "https://creatie.ai/?ref=ai-bot.cn",
+    "url": "https://creatie.ai/",
     "categories": [
       "ai-design"
     ],
@@ -25502,7 +25502,7 @@
     "slug": "tool7993",
     "name": "AI驱动的平面图形设计工具",
     "description": "AI驱动的平面图形设计工具是一款AI设计工具领域的免费增值AI工具，AI驱动的平面图形设计工具。支持AI设计工。",
-    "url": "https://www.kittl.com/?ref=ai-bot.cn",
+    "url": "https://www.kittl.com/",
     "categories": [
       "ai-design"
     ],
@@ -25565,7 +25565,7 @@
     "slug": "kujiale-cn",
     "name": "功能强大的AI家居设计软件",
     "description": "功能强大的AI家居设计软件是一款AI设计工具领域的免费增值AI工具，功能强大的AI家居设计软件。支持AI设计工。",
-    "url": "https://www.kujiale.cn/activities/AI-kujiale?ref=ai-bot.cn",
+    "url": "https://www.kujiale.cn/activities/AI-kujiale",
     "categories": [
       "ai-design"
     ],
@@ -25708,7 +25708,7 @@
     "slug": "tool6622",
     "name": "AI驱动的Logo和标志生成工具",
     "description": "AI驱动的Logo和标志生成工具是一款AI设计工具领域的免费增值AI工具，AI驱动的Logo和标志生成工具。支持AI设计工。",
-    "url": "https://logodiffusion.com/?ref=ai-bot.cn",
+    "url": "https://logodiffusion.com/",
     "categories": [
       "ai-design"
     ],
@@ -25843,7 +25843,7 @@
     "slug": "tool2462",
     "name": "AI在线生成精美3D动画的网站",
     "description": "AI在线生成精美3D动画的网站是一款AI设计工具领域的免费增值AI工具，AI在线生成精美3D动画的网站。支持AI设计工。",
-    "url": "https://www.dora.run/ai?ref=ai-bot.cn",
+    "url": "https://www.dora.run/ai",
     "categories": [
       "ai-design"
     ],
@@ -25944,7 +25944,7 @@
     "slug": "tool9943",
     "name": "免费批量生成在线可编辑的AI海报工具",
     "description": "免费批量生成在线可编辑的AI海报工具是一款AI设计工具领域的免费AI工具，免费批量生成在线可编辑的AI海报工具。支持AI设计工。",
-    "url": "https://hihaibao.com?from=ai-bot",
+    "url": "https://hihaibao.com/",
     "categories": [
       "ai-design"
     ],
@@ -26028,7 +26028,7 @@
     "slug": "nolibox-com",
     "name": "图宇宙",
     "description": "属于AI设计工具·AI平面设计分类。图宇宙是一款AI设计工具领域的免费增值AI工具，高品质AI智能设计平台。支持AI设计工。",
-    "url": "https://www.nolibox.com/introduction?ref=ai-bot.cn",
+    "url": "https://www.nolibox.com/introduction",
     "categories": [
       "ai-design"
     ],
@@ -26078,7 +26078,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-logo",
-    "logo": "/logos/tool1989.png",
+    "logo": "/logos/tool1989.ico",
     "domain": "logo.aliyun.com",
     "detailed_content": [
       {
@@ -26380,7 +26380,7 @@
     "slug": "tool1059",
     "name": "即时设计推出的由文本描述生成可编辑的原型设计稿",
     "description": "属于AI设计工具·AI平面设计分类。即时设计推出的由文本描述生成可编辑的原型设计稿。支持AI设计工，适合需要AI辅助设计创作的用户。",
-    "url": "https://jsai.cc/ai/create?source=ai-bot.cn",
+    "url": "https://jsai.cc/ai/create",
     "categories": [
       "ai-design"
     ],
@@ -26401,7 +26401,7 @@
     "slug": "tool1825",
     "name": "将生成式AI集成到Photoshop图像设计中",
     "description": "属于AI设计工具·AI平面设计分类。将生成式AI集成到Photoshop图像设计中。支持AI设计工，适合需要AI辅助设计创作的用户。",
-    "url": "https://www.getalpaca.io/?ref=ai-bot.cn",
+    "url": "https://www.getalpaca.io/",
     "categories": [
       "ai-design"
     ],
@@ -26427,7 +26427,7 @@
     "slug": "tool1924",
     "name": "魔音工坊",
     "description": "属于AI音频工具·AI语音合成分类。魔音工坊是一款AI音频工具领域的AI工具。",
-    "url": "https://www.moyin.com/?channelCode=AIGJJ01_20240905",
+    "url": "https://www.moyin.com/",
     "categories": [
       "ai-audio"
     ],
@@ -26448,7 +26448,7 @@
     "slug": "tool246",
     "name": "讯飞配音",
     "description": "属于AI音频工具·AI语音合成分类。AI文本配音工具，数字人课程、营销视频制作。支持AI音频工，适合需要AI处理音频或生成语音的用户。",
-    "url": "https://peiyin.xunfei.cn/make?utm=cg&cgv=y59ng9gkr2",
+    "url": "https://peiyin.xunfei.cn/make",
     "categories": [
       "ai-audio"
     ],
@@ -26469,7 +26469,7 @@
     "slug": "tool75064",
     "name": "逗哥配音神器",
     "description": "属于AI音频工具·AI语音合成分类。逗哥配音神器是一款AI音频工具领域的免费增值AI工具，一站式AI配音工具，抖音爆款配音始发地。支持AI音频工。",
-    "url": "https://www.douge.com/companyProfile?from=J7jaYv",
+    "url": "https://www.douge.com/companyProfile",
     "categories": [
       "ai-audio"
     ],
@@ -26532,7 +26532,7 @@
     "slug": "tool6968",
     "name": "高质量的AI音乐创作平台",
     "description": "属于AI音频工具·AI音乐生成分类。高质量的AI音乐创作平台是一款AI音频工具领域的免费增值AI工具，高质量的AI音乐创作平台。支持AI音频工。",
-    "url": "https://www.suno.ai/?ref=ai-bot.cn",
+    "url": "https://www.suno.ai/",
     "categories": [
       "ai-audio"
     ],
@@ -26553,7 +26553,7 @@
     "slug": "yinshu-me",
     "name": "全球首个AI音乐社区",
     "description": "属于AI音频工具·AI音乐生成分类。全球首个AI音乐社区是一款AI音频工具领域的免费增值AI工具，全球首个AI音乐社区。支持AI音频工。",
-    "url": "https://www.yinshu.me/?ad_channel=cakegrowth&utm=cg&cgv=aibot",
+    "url": "https://www.yinshu.me/",
     "categories": [
       "ai-audio"
     ],
@@ -26696,7 +26696,7 @@
     "slug": "iflyrec-com",
     "name": "科大讯飞推出的在线AI语音转文字工具",
     "description": "科大讯飞推出的在线AI语音转文字工具是一款AI音频工具领域的免费增值AI工具，科大讯飞推出的在线AI语音转文字工具。支持AI音频工。",
-    "url": "https://www.iflyrec.com/zhuanwenzi.html?from=ai-bot_zwz",
+    "url": "https://www.iflyrec.com/zhuanwenzi.html",
     "categories": [
       "ai-audio"
     ],
@@ -27163,7 +27163,7 @@
     "slug": "tool8681",
     "name": "超拟真的中英文AI语音克隆/生成平台",
     "description": "超拟真的中英文AI语音克隆/生成平台是一款AI音频工具领域的免费增值AI工具，超拟真的中英文AI语音克隆/生成平台。支持AI音频工。",
-    "url": "https://www.reecho.ai/?ref=ai-bot.cn",
+    "url": "https://www.reecho.ai/",
     "categories": [
       "ai-audio"
     ],
@@ -27462,7 +27462,7 @@
     "slug": "dubbing-tech",
     "name": "大饼AI变声",
     "description": "属于AI音频工具·AI音频编辑分类。免费专业的AI变声软件，一键实时语音变声。支持AI音频工，适合需要AI处理音频或生成语音的用户。",
-    "url": "https://dubbing.tech/?ref=ai-bot.cn",
+    "url": "https://dubbing.tech/",
     "categories": [
       "ai-audio"
     ],
@@ -27795,7 +27795,7 @@
     "slug": "tool10145",
     "name": "云知声旗下的AI配音和声音克隆平台",
     "description": "云知声旗下的AI配音和声音克隆平台是一款AI音频工具领域的免费增值AI工具，云知声旗下的AI配音和声音克隆平台。支持AI音频工。",
-    "url": "https://aigc.unisound.com/?ref=ai-bot.cn",
+    "url": "https://aigc.unisound.com/",
     "categories": [
       "ai-audio"
     ],
@@ -27837,7 +27837,7 @@
     "slug": "audiobox-metademolab-com",
     "name": "Meta推出的免费AI语音和声音生成模型",
     "description": "属于AI音频工具·AI语音合成分类。Meta推出的免费AI语音和声音生成模型。支持AI音频工，适合需要AI处理音频或生成语音的用户。",
-    "url": "https://audiobox.metademolab.com/?ref=ai-bot.cn",
+    "url": "https://audiobox.metademolab.com/",
     "categories": [
       "ai-audio"
     ],
@@ -27976,7 +27976,7 @@
     "slug": "tool6544",
     "name": "AI语音视频转文字和字幕的工具",
     "description": "AI语音视频转文字和字幕的工具是一款AI音频工具领域的免费增值AI工具，AI语音视频转文字和字幕的工具。支持AI音频工。",
-    "url": "https://www.kzzimu.com/?ref=ai-bot.cn",
+    "url": "https://www.kzzimu.com/",
     "categories": [
       "ai-audio"
     ],
@@ -28035,7 +28035,7 @@
     "slug": "tool10631",
     "name": "内置AI音乐编曲的音乐制作工具",
     "description": "内置AI音乐编曲的音乐制作工具是一款AI音频工具领域的免费增值AI工具，内置AI音乐编曲的音乐制作工具。支持AI音频工。",
-    "url": "https://www.soundbug.com/?ref=ai-bot.cn",
+    "url": "https://www.soundbug.com/",
     "categories": [
       "ai-audio"
     ],
@@ -28098,7 +28098,7 @@
     "slug": "tool1965",
     "name": "输入文本提示快速生成歌曲和音乐",
     "description": "输入文本提示快速生成歌曲和音乐是一款AI音频工具领域的免费增值AI工具，输入文本提示快速生成歌曲和音乐。支持AI音频工。",
-    "url": "https://beatbot.fm/?ref=ai-bot.cn",
+    "url": "https://beatbot.fm/",
     "categories": [
       "ai-audio"
     ],
@@ -28736,7 +28736,7 @@
     "slug": "tool14200",
     "name": "阿里旗下推出的AI搜索助手",
     "description": "阿里旗下推出的AI搜索助手是一款AI搜索引擎领域的免费增值AI工具，阿里旗下推出的AI搜索助手。支持AI搜索引。",
-    "url": "https://iflow.cn/?utm_source=aibot",
+    "url": "https://iflow.cn/",
     "categories": [
       "ai-search"
     ],
@@ -28757,7 +28757,7 @@
     "slug": "tool7108",
     "name": "面向程序员的新一代AI搜索引擎",
     "description": "面向程序员的新一代AI搜索引擎是一款AI搜索引擎领域的免费增值AI工具，面向程序员的新一代AI搜索引擎。支持AI搜索引。",
-    "url": "https://devv.ai/zh?ref=ai-bot.cn",
+    "url": "https://devv.ai/zh",
     "categories": [
       "ai-search"
     ],
@@ -28998,7 +28998,7 @@
     "slug": "wispaper-ai",
     "name": "复旦团队推出的 AI 学术搜索工具",
     "description": "复旦团队推出的 AI 学术搜索工具是一款AI搜索引擎领域的免费增值AI工具，复旦团队推出的 AI 学术搜索工具。支持AI搜索引。",
-    "url": "https://www.wispaper.ai/?utm_source=aibot",
+    "url": "https://www.wispaper.ai/",
     "categories": [
       "ai-search"
     ],
@@ -29407,7 +29407,7 @@
     "slug": "tool9857",
     "name": "AI投资研究问答搜索引擎",
     "description": "属于AI搜索引擎·AI搜索引擎分类。AI投资研究问答搜索引擎是一款AI搜索引擎领域的免费增值AI工具，AI投资研究问答搜索引擎。支持AI搜索引。",
-    "url": "https://reportify.cc/?ref=ai-bot.cn",
+    "url": "https://reportify.cc/",
     "categories": [
       "ai-search"
     ],
@@ -29733,7 +29733,7 @@
     "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
-    "logo": "/logos/huggingface-co.png",
+    "logo": "/logos/huggingface-co.ico",
     "domain": "maas.xfyun.cn",
     "detailed_content": [
       {
@@ -29834,7 +29834,7 @@
     "slug": "volcengine-com-2",
     "name": "火山引擎推出的业界首个 Agent 套餐",
     "description": "属于AI开发平台·模型部署平台分类。火山引擎推出的业界首个 Agent 套餐。支持AI开发平，适合需要构建或部署AI应用的用户。",
-    "url": "https://www.volcengine.com/activity/agentplan?utm_campaign=CG&utm_content=CG&utm_medium=CakeGrowth&utm_source=OWO&utm_term=CG&utm=cg&cgv=aibott",
+    "url": "https://www.volcengine.com/activity/agentplan",
     "categories": [
       "ai-platform"
     ],
@@ -29864,7 +29864,7 @@
     "slug": "zenmux-ai",
     "name": "全球首个带保险赔付机制的企业级大模型聚合平台",
     "description": "属于AI开发平台·模型部署平台分类。全球首个带保险赔付机制的企业级大模型聚合平台。支持AI开发平，适合需要构建或部署AI应用的用户。",
-    "url": "https://zenmux.ai/invite/5MQIGW",
+    "url": "https://zenmux.ai/",
     "categories": [
       "ai-platform"
     ],
@@ -29927,7 +29927,7 @@
     "slug": "tool65189",
     "name": "免费AI工作流搭建工具 自动化提高效率",
     "description": "免费AI工作流搭建工具 自动化提高效率是一款AI开发平台领域的免费AI工具，免费AI工作流搭建工具 自动化提高效率。支持AI开发平。",
-    "url": "https://cloud.fastgpt.cn/dashboard/templateMarket?utm_source=ad&utm_medium=aibot&utm_content=aibot",
+    "url": "https://cloud.fastgpt.cn/dashboard/templateMarket",
     "categories": [
       "ai-platform"
     ],
@@ -30057,7 +30057,7 @@
     "slug": "tool77069",
     "name": "麦芽AI企业用户平台",
     "description": "麦芽AI企业用户平台是一款AI开发平台领域的免费增值AI工具，多范式兼容，全流程 AI 项目开发。支持AI开发平。",
-    "url": "https://www.myaifast.com/company/login?inviteCode=AGENT202605120003&type=register&inviteSource=agent",
+    "url": "https://www.myaifast.com/company/login?type=register",
     "categories": [
       "ai-platform"
     ],
@@ -30589,7 +30589,7 @@
     "slug": "tool67000",
     "name": "InsCode 快马",
     "description": "属于AI开发平台·模型部署平台分类。通过对话、设计图或文章链接生成工程项目代码。支持AI开发平，适合需要构建或部署AI应用的用户。",
-    "url": "https://www.inscode.net/?utm_source=aibot",
+    "url": "https://www.inscode.net/",
     "categories": [
       "ai-platform"
     ],
@@ -30803,7 +30803,7 @@
     "slug": "llama-factory-online",
     "name": "LLaMA-Factory Online",
     "description": "属于AI开发平台·模型部署平台分类。在线AI大模型微调平台，零代码、可视化操作。支持AI开发平，适合需要构建或部署AI应用的用户。",
-    "url": "https://www.llamafactory.online/register?utm_source=aigjj",
+    "url": "https://www.llamafactory.online/register",
     "categories": [
       "ai-platform"
     ],
@@ -30845,7 +30845,7 @@
     "slug": "tool67775",
     "name": "在线大模型训练微调及AI科研学习平台",
     "description": "在线大模型训练微调及AI科研学习平台是一款AI开发平台领域的免费增值AI工具，在线大模型训练微调及AI科研学习平台。支持AI开发平。",
-    "url": "https://www.lab4ai.cn/register?utm_source=ai_bot",
+    "url": "https://www.lab4ai.cn/register",
     "categories": [
       "ai-platform"
     ],
@@ -31081,7 +31081,7 @@
     "slug": "tool8536",
     "name": "一站式AI应用开发平台",
     "description": "属于AI开发平台·模型部署平台分类。一站式AI应用开发平台是一款AI开发平台领域的免费增值AI工具，一站式AI应用开发平台。支持AI开发平。",
-    "url": "https://www.tianrang.com/?ref=ai-bot.cn",
+    "url": "https://www.tianrang.com/",
     "categories": [
       "ai-platform"
     ],
@@ -31283,7 +31283,7 @@
     "slug": "tool60619",
     "name": "AI模型算力聚合平台，聚合全球100+大模型",
     "description": "属于AI开发平台·模型部署平台分类。AI模型算力聚合平台，聚合全球100+大模型。支持AI开发平，适合需要构建或部署AI应用的用户。",
-    "url": "https://www.shengsuanyun.com/?from=CH_SYUM912W",
+    "url": "https://www.shengsuanyun.com/",
     "categories": [
       "ai-platform"
     ],
@@ -31304,7 +31304,7 @@
     "slug": "bigmodel-cn",
     "name": "智谱清流",
     "description": "属于AI开发平台·模型部署平台分类。智谱清流是一款AI开发平台领域的免费增值AI工具，智谱推出的企业级AI智能体开发平台。支持AI开发平。",
-    "url": "https://bigmodel.cn/agent?utm_campaign=aibot&_channel_track_key=vqYFLTGW",
+    "url": "https://bigmodel.cn/agent",
     "categories": [
       "ai-platform"
     ],
@@ -32018,7 +32018,7 @@
     "slug": "tool1848",
     "name": "快速训练、部署和开发人工智能产品的深度学",
     "description": "属于AI开发平台·模型训练平台分类。快速训练、部署和开发人工智能产品的深度学习框架，由Pytorch Lightning团队推出。支持AI开发平。",
-    "url": "https://lightning.ai/?ref=ai-bot.cn",
+    "url": "https://lightning.ai/",
     "categories": [
       "ai-platform"
     ],
@@ -32060,7 +32060,7 @@
     "slug": "chatdev-modelbest-cn",
     "name": "ChatDev",
     "description": "面壁智能推出的AI智能体软件开发平台，使用自然语言即可创建软件。支持AI开发平，适合需要构建或部署AI应用的用户。",
-    "url": "https://chatdev.modelbest.cn/?ref=ai-bot.cn",
+    "url": "https://chatdev.modelbest.cn/",
     "categories": [
       "ai-platform"
     ],
@@ -32098,7 +32098,7 @@
     "slug": "anakin-ai",
     "name": "一站式无代码AI应用构建平台",
     "description": "一站式无代码AI应用构建平台是一款AI开发平台领域的免费增值AI工具，一站式无代码AI应用构建平台。支持AI开发平。",
-    "url": "https://anakin.ai/zh-cn?ref=ai-bot.cn",
+    "url": "https://anakin.ai/zh-cn",
     "categories": [
       "ai-platform"
     ],
@@ -32153,7 +32153,7 @@
     "slug": "d-design-6",
     "name": "堆友AI推出的AI设计知识学习网站",
     "description": "堆友AI推出的AI设计知识学习网站是一款AI学习网站领域的免费增值AI工具，堆友AI推出的AI设计知识学习网站。支持AI学习网。",
-    "url": "https://d.design/study?from=ab13",
+    "url": "https://d.design/study",
     "categories": [
       "ai-learning"
     ],
@@ -32596,7 +32596,7 @@
     "slug": "tool6807",
     "name": "AI驱动的语言学习工具",
     "description": "属于AI学习网站·AI学习助手分类。AI驱动的语言学习工具是一款AI学习网站领域的免费增值AI工具，AI驱动的语言学习工具。支持AI学习网。",
-    "url": "https://trancy.org/zh-cn?referrer=65803e3f65752510b033ade9",
+    "url": "https://trancy.org/zh-cn",
     "categories": [
       "ai-learning"
     ],
@@ -32617,7 +32617,7 @@
     "slug": "tool7785",
     "name": "微软推出的免费个性化AI阅读学习教练",
     "description": "微软推出的免费个性化AI阅读学习教练是一款AI学习网站领域的免费AI工具，微软推出的免费个性化AI阅读学习教练。支持AI学习网。",
-    "url": "https://coach.microsoft.com/?ref=ai-bot.cn",
+    "url": "https://coach.microsoft.com/",
     "categories": [
       "ai-learning"
     ],
@@ -32798,7 +32798,7 @@
     "slug": "tool1444",
     "name": "人工智能领域的资料库和学习社区",
     "description": "人工智能领域的资料库和学习社区是一款AI学习网站领域的免费增值AI工具，人工智能领域的资料库和学习社区。支持AI学习网。",
-    "url": "https://www.showmeai.tech/?ref=ai-bot.cn",
+    "url": "https://www.showmeai.tech/",
     "categories": [
       "ai-learning"
     ],
@@ -32899,7 +32899,7 @@
     "slug": "tool5973",
     "name": "本地运行Llama和其他大语言模型",
     "description": "本地运行Llama和其他大语言模型是一款AI训练模型领域的免费增值AI工具，本地运行Llama和其他大语言模型。支持AI训练模。",
-    "url": "https://ollama.ai/?ref=ai-bot.cn",
+    "url": "https://ollama.ai/",
     "categories": [
       "ai-models"
     ],
@@ -32941,7 +32941,7 @@
     "slug": "tool22232",
     "name": "火山引擎",
     "description": "属于AI训练模型·视频模型分类。字节跳动推出的AI大模型家族，包括视频生成、语音视觉、通用语言模型等。支持AI训练模。",
-    "url": "https://ai.volcengine.com/model?utm_campaign=CG&utm_content=CG&utm_medium=CakeGrowth&utm_source=OWO&utm_term=CG&utm=cg&cgv=aibotttt",
+    "url": "https://ai.volcengine.com/model",
     "categories": [
       "ai-models"
     ],
@@ -32962,7 +32962,7 @@
     "slug": "dataify-com",
     "name": "Dataify",
     "description": "属于AI训练模型·大语言模型分类。数据采集API、高质量数据集、代理资源服务一体化供应。支持AI训练模，适合需要了解和使用大语言模型的用户。",
-    "url": "https://www.dataify.com/?utm_source=aigjj&utm_term=01",
+    "url": "https://www.dataify.com/",
     "categories": [
       "ai-models"
     ],
@@ -33059,7 +33059,7 @@
     "slug": "tool7412",
     "name": "本地运行大模型并进行AI对话的工具，免费开源",
     "description": "属于AI训练模型·大语言模型分类。本地运行大模型并进行AI对话的工具，免费开源。支持AI训练模，适合需要了解和使用大语言模型的用户。",
-    "url": "https://jan.ai/?ref=ai-bot.cn",
+    "url": "https://jan.ai/",
     "categories": [
       "ai-models"
     ],
@@ -33317,7 +33317,7 @@
     "slug": "tool6279",
     "name": "美图AI开放平台",
     "description": "属于AI训练模型·视频模型分类。美图推出的AI视觉大模型，支持AI图像、设计和视频创作。支持AI训练模，适合需要了解和使用大语言模型的用户。",
-    "url": "https://www.miraclevision.com/?ref=ai-bot.cn",
+    "url": "https://www.miraclevision.com/",
     "categories": [
       "ai-models"
     ],
@@ -33946,7 +33946,7 @@
     "slug": "tool7189",
     "name": "AI检测科研图像是否造假抄袭",
     "description": "AI检测科研图像是否造假抄袭是一款AI内容检测领域的免费增值AI工具，AI检测科研图像是否造假抄袭。支持AI内容检。",
-    "url": "https://www.proofig.com/?ref=ai-bot.cn",
+    "url": "https://www.proofig.com/",
     "categories": [
       "ai-detection"
     ],
@@ -34030,7 +34030,7 @@
     "slug": "rx-ruijianai-com",
     "name": "中科睿鉴推出的一站式学术诚信检测系统",
     "description": "中科睿鉴推出的一站式学术诚信检测系统是一款AI内容检测领域的免费增值AI工具，中科睿鉴推出的一站式学术诚信检测系统。支持AI内容检。",
-    "url": "https://rx.ruijianai.com/login?inviteCode=C6br36ylOBph",
+    "url": "https://rx.ruijianai.com/login",
     "categories": [
       "ai-detection"
     ],
@@ -34219,7 +34219,7 @@
     "slug": "speedai",
     "name": "SpeedAI",
     "description": "属于AI内容检测·AI查重降重分类。AI科研助手，AIGC检测、降重降AI率。支持AI内容检，适合需要检测AI生成内容的用户。",
-    "url": "https://speedai.com/?utm=cg&cgv=aibot",
+    "url": "https://speedai.com/",
     "categories": [
       "ai-detection"
     ],
@@ -34303,7 +34303,7 @@
     "slug": "tool67481",
     "name": "笔灵AI 论文降重",
     "description": "ai论文降重查重 | AI痕迹检测去除 | AIGC查重网站是一款AI内容检测领域的免费增值AI工具，降低AIGC痕迹工具，实时适配最新规则。支持AI内容检。",
-    "url": "https://ibiling.cn/paper-pass?from=ai-bot",
+    "url": "https://ibiling.cn/paper-pass",
     "categories": [
       "ai-detection"
     ],
@@ -34509,7 +34509,7 @@
     "slug": "wenshusanyan-com",
     "name": "文枢三言",
     "description": "属于AI内容检测·AI查重降重分类。专注学术场景的 AI 论文降重降AI率助手。支持AI内容检，适合需要检测AI生成内容的用户。",
-    "url": "https://wenshusanyan.com/writing/login?invite_code=K3DE9O",
+    "url": "https://wenshusanyan.com/writing/login",
     "categories": [
       "ai-detection"
     ],
@@ -34601,7 +34601,7 @@
     "slug": "tool68309",
     "name": "8200 +专业AI提示词模板｜灵活{变量}定制，免费试用",
     "description": "8200 +专业AI提示词模板｜灵活{变量}定制，免费试用是一款AI提示指令领域的免费增值AI工具，AI提示词交易与管理平台，支持定制。支持AI提示指。",
-    "url": "https://prompts.explinks.com/?ref=aibot",
+    "url": "https://prompts.explinks.com/",
     "categories": [
       "ai-prompt"
     ],
@@ -34929,7 +34929,7 @@
     "slug": "snack-prompt",
     "name": "Snack Prompt",
     "description": "Snack Prompt是一款AI提示指令领域的免费增值AI工具，输入正确的提示词，可以让Cha...。支持AI提示指。",
-    "url": "https://snackprompt.com/?ref=ai-bot.cn",
+    "url": "https://snackprompt.com/",
     "categories": [
       "ai-prompt"
     ],
