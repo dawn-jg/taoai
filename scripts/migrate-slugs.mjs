@@ -20,13 +20,21 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 const TOOLS_PATH = join(ROOT, 'data', 'tools.json');
 const EDITORIALS_PATH = join(ROOT, 'data', 'editorials.json');
+const TOOL_PROFILES_PATH = join(ROOT, 'data', 'tool_profiles.json');
 const LOGO_DIR = join(ROOT, 'public', 'logos');
 const REDIRECTS_PATH = join(ROOT, 'public', '_redirects');
 const APPLY = process.argv.includes('--apply');
 
 const tools = JSON.parse(readFileSync(TOOLS_PATH, 'utf-8'));
 const editorials = JSON.parse(readFileSync(EDITORIALS_PATH, 'utf-8'));
-const editorialSlugs = new Set(editorials.map((e) => e.slug));
+const toolProfiles = JSON.parse(readFileSync(TOOL_PROFILES_PATH, 'utf-8'));
+// 原创内容池（与 lib/tools.ts 的 isToolIndexable 保持一致）：
+// 编辑部评测（editorials）+ 原创工具资料（tool_profiles.items）。
+// 第三轮 AdSense 整改后索引面收紧为「只认原创」，故 slug 迁移目标也仅限池内条目。
+const originalSlugs = new Set([
+  ...editorials.map((e) => e.slug),
+  ...Object.keys(toolProfiles.items || {}),
+]);
 
 const TOOL_MIN_CONTENT_CHARS = 600;
 const plainText = (t) =>
@@ -42,7 +50,8 @@ const isCleanName = (name) => {
   return true;
 };
 const isIndexable = (t) => {
-  if (editorialSlugs.has(t.slug)) return true;
+  // 只认原创池：不在池内的页面一律 noindex，无需迁移 slug
+  if (!originalSlugs.has(t.slug)) return false;
   if (!isCleanName(t.name)) return false;
   const p = plainText(t);
   if (p.length < TOOL_MIN_CONTENT_CHARS) return false;
@@ -173,6 +182,28 @@ tools.forEach((t) => {
 
 writeFileSync(TOOLS_PATH, JSON.stringify(tools, null, 2), 'utf-8');
 console.log(`\n已更新 data/tools.json（重命名 logo ${renamedLogos} 个，未找到 logo ${missingLogos} 个）`);
+
+// 同步原创资料/评测中的 slug 引用，否则迁移后资料会变成悬空条目（页面明明有原创内容却进不了池）
+if (mapping.length) {
+  const tp = JSON.parse(readFileSync(TOOL_PROFILES_PATH, 'utf-8'));
+  let tpFixed = 0;
+  for (const m of mapping) {
+    if (tp.items && tp.items[m.old]) {
+      tp.items[m.new] = tp.items[m.old];
+      delete tp.items[m.old];
+      tpFixed++;
+    }
+  }
+  if (tpFixed) writeFileSync(TOOL_PROFILES_PATH, JSON.stringify(tp, null, 2), 'utf-8');
+  let edFixed = 0;
+  for (const m of mapping) {
+    editorials.forEach((e) => {
+      if (e.slug === m.old) { e.slug = m.new; edFixed++; }
+    });
+  }
+  if (edFixed) writeFileSync(EDITORIALS_PATH, JSON.stringify(editorials, null, 2), 'utf-8');
+  console.log(`同步引用：tool_profiles ${tpFixed} 条、editorials ${edFixed} 条`);
+}
 
 // ─── 生成 _redirects（累积式：历史映射写入 data/slug_redirects.json） ───
 const REDIRECTS_DB = join(ROOT, 'data', 'slug_redirects.json');

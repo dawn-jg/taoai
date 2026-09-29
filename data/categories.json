@@ -19,7 +19,7 @@
     "name": "AI图像工具",
     "slug": "ai-image",
     "icon": "🎨",
-    "count": 179,
+    "count": 178,
     "description": "AI绘画、图像生成与编辑",
     "subcategories": {
       "ai-image-illustration": "AI图片插画生成",

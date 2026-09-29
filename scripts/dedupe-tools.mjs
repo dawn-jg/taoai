@@ -22,6 +22,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 const TOOLS_PATH = join(ROOT, 'data', 'tools.json');
 const EDITORIALS_PATH = join(ROOT, 'data', 'editorials.json');
+const TOOL_PROFILES_PATH = join(ROOT, 'data', 'tool_profiles.json');
 const CATEGORIES_PATH = join(ROOT, 'data', 'categories.json');
 const REDIRECTS_DB = join(ROOT, 'data', 'slug_redirects.json');
 const LOGO_DIR = join(ROOT, 'public', 'logos');
@@ -29,7 +30,12 @@ const APPLY = process.argv.includes('--apply');
 
 const tools = JSON.parse(readFileSync(TOOLS_PATH, 'utf-8'));
 const editorials = JSON.parse(readFileSync(EDITORIALS_PATH, 'utf-8'));
-const editorialSlugs = new Set(editorials.map((e) => e.slug));
+const toolProfiles = JSON.parse(readFileSync(TOOL_PROFILES_PATH, 'utf-8'));
+// 原创内容池（与 lib/tools.ts 的 isToolIndexable 保持一致）
+const originalSlugs = new Set([
+  ...editorials.map((e) => e.slug),
+  ...Object.keys(toolProfiles.items || {}),
+]);
 
 const TOOL_MIN_CONTENT_CHARS = 600;
 const plain = (t) =>
@@ -44,7 +50,7 @@ const clean = (n) => {
   return !!s && s.length <= 30 && !s.includes(' | ') && !s.includes('&#') && !s.includes('--');
 };
 const indexable = (t) =>
-  editorialSlugs.has(t.slug) || (clean(t.name) && plain(t).length >= TOOL_MIN_CONTENT_CHARS && plain(t).includes(nk(t.name)));
+  originalSlugs.has(t.slug) && clean(t.name) && plain(t).length >= TOOL_MIN_CONTENT_CHARS && plain(t).includes(nk(t.name));
 const normUrl = (u) => {
   try {
     const x = new URL(u);
@@ -66,7 +72,7 @@ const groups = [...byKey.entries()].filter(([, v]) => v.length > 1);
 
 // 保留方打分（越大越优先）
 const score = (t) => [
-  editorialSlugs.has(t.slug) ? 1 : 0,
+  originalSlugs.has(t.slug) ? 1 : 0,
   indexable(t) ? 1 : 0,
   /^tool\d+$/.test(t.slug) ? 0 : 1,
 ];

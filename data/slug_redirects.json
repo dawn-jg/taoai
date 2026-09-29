@@ -1672,5 +1672,13 @@
   "tool60584": {
     "new": "qoder-com",
     "name": "QoderWork"
+  },
+  "kimi": {
+    "new": "kimi-com",
+    "name": "Kimi AI"
+  },
+  "tool3171": {
+    "new": "recraft",
+    "name": "Recraft"
   }
 }

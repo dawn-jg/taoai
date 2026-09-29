@@ -1248,7 +1248,7 @@
   <url>
     <loc>https://taoai365.com/tools/kimi-com</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
     <image:image>
       <image:loc>/logos/kimi-com.png</image:loc>
       <image:title>Kimi智能助手 logo</image:title>
@@ -1318,11 +1318,11 @@
     </image:image>
   </url>
   <url>
-    <loc>https://taoai365.com/tools/tool3171</loc>
+    <loc>https://taoai365.com/tools/recraft</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <image:image>
-      <image:loc>/logos/tool3171.png</image:loc>
+      <image:loc>/logos/recraft.png</image:loc>
       <image:title>Recraft logo</image:title>
     </image:image>
   </url>

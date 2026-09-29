@@ -701,28 +701,6 @@
     "updatedAt": "2026-09-27"
   },
   {
-    "slug": "kimi",
-    "name": "Kimi AI",
-    "description": "属于AI聊天助手·通用对话AI分类。Kimi AI是一款AI聊天助手领域的免费AI工具，超长上下文处理。支持长上下文、国产。",
-    "url": "https://kimi.moonshot.cn",
-    "categories": [
-      "ai-chat"
-    ],
-    "tags": [
-      "长上下文",
-      "国产"
-    ],
-    "featured": true,
-    "rating": 4.5,
-    "pricing": "free",
-    "createdAt": "2023-10-01",
-    "subcategory": "ai-chat-general",
-    "logo": "/logos/kimi.png",
-    "domain": "kimi.moonshot.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
-  },
-  {
     "slug": "cloudmusic-xiaowei",
     "name": "网易天音",
     "description": "属于AI音频工具·AI音乐生成分类。网易天音是一款AI音频工具领域的免费AI工具，网易AI音乐创作工具。支持音乐、作曲。",
@@ -1169,30 +1147,25 @@
   },
   {
     "slug": "wenxin-yige",
-    "name": "文心一格",
-    "description": "属于AI图像工具·AI图片插画生成分类。文心一格是一款AI图像工具领域的免费AI工具，百度AI绘画，国风特色。支持百度、国风。",
+    "name": "百度文心助手",
+    "description": "属于AI聊天助手·通用对话AI分类。百度文心助手是一款AI聊天助手领域的免费AI工具，百度推出的一站式智能助手。支持百度、AI助手。",
     "url": "https://yige.baidu.com",
     "categories": [
-      "ai-image"
+      "ai-chat"
     ],
     "tags": [
       "百度",
-      "国风"
+      "AI助手"
     ],
     "featured": false,
     "rating": 4.2,
     "pricing": "free",
     "createdAt": "2023-08-01",
-    "subcategory": "ai-image-illustration",
+    "subcategory": "ai-chat-general",
     "logo": "/logos/wenxin-yige.png",
     "domain": "yige.baidu.com",
-    "detailed_content": [
-      {
-        "title": "",
-        "html": "<p>文心一格是由百度推出的依托其文心大模型和飞桨技术的文本生成图片的 AI 艺术和创意辅助平台，于2022年8月正式发布。作为国内第一梯队的<a href=\"https://ai-bot.cn/best-ai-image-generators/\">AI图片生成的工具</a>和平台，文心一格可以进行国风、油画、水彩、水粉、动漫、写实等十余种不同风格高清画作的生成。</p>\n<p>文心一格面向的用户人群非常广泛，既能启发画师、设计师、艺术家等专业视觉内容创作者的灵感，辅助其进行艺术创作，还能为媒体、作者等文字内容创作者提供高质量、高效率的配图。</p>\n<img decoding=\"async\" class=\"alignnone size-medium\" src=\"https://ai-bot.cn/wp-content/uploads/2023/05/wenxin-yige-page.png\"   width=\"800\" height=\"450\" />\n<h5><strong>💵 产品价格</strong></h5>\n<p>目前文心一格是采用的免费增值模式，新用户注册登录后可以获得 50 的电量用以生成图像，签到、分享和公开自己的画作可以获得额外免费的电量。你也可以采用付费充值电量，9.9 元 80 个电量、15.9 元 200 个电量、49.9 元 800 个电量、599 元 1 万个电量。</p>"
-      }
-    ],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [],
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "wawa-writing",
@@ -21082,12 +21055,14 @@
       "ai-chat"
     ],
     "tags": [
-      "AI聊天助"
+      "AI聊天助手",
+      "长上下文",
+      "国产"
     ],
-    "featured": false,
-    "rating": 4,
+    "featured": true,
+    "rating": 4.5,
     "pricing": "freemium",
-    "createdAt": "2025-01-01",
+    "createdAt": "2023-10-01",
     "subcategory": "ai-chat-general",
     "logo": "/logos/kimi-com.png",
     "domain": "kimi.com",
@@ -21109,7 +21084,7 @@
         "html": "<ul><li>把资料整理成一份咨询级 PPT。</li><li>用智能体方式并行推进多个知识工作任务。</li><li>围绕一个项目持续对话与产出文档。</li><li>尝试 AI 辅助构建小游戏或 3D 交互内容。</li><li>做深度研究型问题的资料梳理。</li><li>把零散资料整理成结构化的文档与项目笔记。</li><li>在知识工作中把重复性问题交给智能体并行处理。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool5368",
@@ -25040,7 +25015,7 @@
     "updatedAt": "2026-09-27"
   },
   {
-    "slug": "tool3171",
+    "slug": "recraft",
     "name": "Recraft",
     "description": "免费无限AI画板，生成高质量矢量艺术画、图标、3D图片和插画。支持AI设计工，适合需要AI辅助设计创作的用户。",
     "url": "https://www.recraft.ai/?ref=ai-bot.cn",
@@ -25055,7 +25030,7 @@
     "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
-    "logo": "/logos/tool3171.png",
+    "logo": "/logos/recraft.png",
     "domain": "recraft.ai",
     "detailed_content": [
       {
