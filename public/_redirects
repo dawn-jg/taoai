@@ -1,10 +1,22 @@
 # Cloudflare Pages 重定向规则（自动生成，请勿手改；重新生成见 scripts/migrate-slugs.mjs）
 # 2026-09：可索引工具页的无语义 slug（toolNNNN）→ 语义 slug，全部 301
-# 映射明细见 data/slug_redirects.json（共 522 条）
+# 映射明细见 data/slug_redirects.json（共 554 条）
 
 /tools/claude-ai  /tools/claude  301
+/tools/ihuiwa-com-2  /tools/ihuiwa-com  301
 /tools/kimi  /tools/kimi-com  301
+/tools/liblib-art  /tools/liblibai  301
+/tools/liblib-art-2  /tools/liblibai  301
+/tools/liblib-art-3  /tools/liblibai  301
+/tools/liblib-art-4  /tools/liblibai  301
+/tools/loomy-xunfei-cn  /tools/loomy  301
+/tools/meijian-com-2  /tools/meijian-com  301
+/tools/perplexity-ai  /tools/perplexity  301
+/tools/pexo-ai  /tools/pexo-ai-2  301
 /tools/pika  /tools/pika-art  301
+/tools/stable-diffusion  /tools/stability-ai  301
+/tools/tianyin-163-com  /tools/cloudmusic-xiaowei  301
+/tools/tongyi-xiangma  /tools/tongyi-aliyun-com  301
 /tools/tool10217  /tools/zoom-workplace  301
 /tools/tool1055  /tools/udacity  301
 /tools/tool1062  /tools/novelai-net  301
@@ -37,12 +49,14 @@
 /tools/tool1237  /tools/virbo-wondershare-cn  301
 /tools/tool12385  /tools/kreadoai-com  301
 /tools/tool12550  /tools/wondercraft-ai  301
+/tools/tool12663  /tools/tool4453  301
 /tools/tool1276  /tools/jax-readthedocs-io  301
 /tools/tool12769  /tools/qiyuai-net  301
 /tools/tool12890  /tools/coderider-gitlab-cn  301
 /tools/tool12946  /tools/yuanbao-paluai-com  301
 /tools/tool12962  /tools/cp-baidu-com  301
 /tools/tool12987  /tools/exactly-ai  301
+/tools/tool13002  /tools/kling  301
 /tools/tool13023  /tools/cliclic-ai  301
 /tools/tool13399  /tools/moki-cn  301
 /tools/tool13455  /tools/lumalabs-ai  301
@@ -55,6 +69,7 @@
 /tools/tool13966  /tools/zhida-zhihu-com  301
 /tools/tool13979  /tools/glif-app  301
 /tools/tool14023  /tools/zhiyan-wondershare-cn  301
+/tools/tool141  /tools/tool14  301
 /tools/tool1412  /tools/img-logosc-cn  301
 /tools/tool1414  /tools/logosc-cn-2  301
 /tools/tool14162  /tools/xunguang-com  301
@@ -88,11 +103,13 @@
 /tools/tool1531  /tools/upscayl-org  301
 /tools/tool15416  /tools/ai-bot-cn  301
 /tools/tool1570  /tools/shutu-cn  301
+/tools/tool1608  /tools/tool13  301
 /tools/tool16121  /tools/gbi-cloud-baidu-com  301
 /tools/tool16136  /tools/icnpy-com  301
 /tools/tool16152  /tools/datarc-cn  301
 /tools/tool16162  /tools/jurilu-paluai-com  301
 /tools/tool16181  /tools/jiangziai-com  301
+/tools/tool163  /tools/tool14769  301
 /tools/tool1632  /tools/monica-cn  301
 /tools/tool16356  /tools/me-bot  301
 /tools/tool16367  /tools/glean-com  301
@@ -129,8 +146,10 @@
 /tools/tool1991  /tools/cutout-designkit-com  301
 /tools/tool20  /tools/ai-google  301
 /tools/tool20030  /tools/flow-studio  301
+/tools/tool2005  /tools/chatglm  301
 /tools/tool2009  /tools/moyin-com  301
 /tools/tool2026  /tools/tingwu-aliyun-com  301
+/tools/tool2029  /tools/gaoding-art  301
 /tools/tool2042  /tools/yunxiu-meitu-com  301
 /tools/tool2048  /tools/ling-jd-com  301
 /tools/tool20683  /tools/cueme-cn  301
@@ -139,6 +158,7 @@
 /tools/tool21255  /tools/hitpaw-watermark-remover  301
 /tools/tool21260  /tools/beecut-cn  301
 /tools/tool21961  /tools/gumloop-com  301
+/tools/tool2198  /tools/chat-baidu-com  301
 /tools/tool22182  /tools/lyrics-into-song-ai  301
 /tools/tool22307  /tools/twinny-dev  301
 /tools/tool228  /tools/designs-ai  301
@@ -162,6 +182,7 @@
 /tools/tool24687  /tools/imiaoban-com  301
 /tools/tool24841  /tools/qianlu-cc  301
 /tools/tool2515  /tools/nolibox-com  301
+/tools/tool252  /tools/lovo-ai  301
 /tools/tool25213  /tools/yiketu-com  301
 /tools/tool254  /tools/naturalreaders-com  301
 /tools/tool25529  /tools/meijian-com  301
@@ -187,6 +208,8 @@
 /tools/tool29778  /tools/noedgeai-com  301
 /tools/tool3044  /tools/sight-youdao-com  301
 /tools/tool3171  /tools/recraft  301
+/tools/tool32253  /tools/pic-copilot  301
+/tools/tool32344  /tools/pic-copilot  301
 /tools/tool33683  /tools/designkit-cn-3  301
 /tools/tool33687  /tools/ihuiwa-com-4  301
 /tools/tool33694  /tools/designkit-cn  301
@@ -209,6 +232,7 @@
 /tools/tool402  /tools/voice-ai  301
 /tools/tool408  /tools/aiseo-ai  301
 /tools/tool41196  /tools/fengniaoai-com  301
+/tools/tool4257  /tools/tiangong-cn  301
 /tools/tool42689  /tools/tusiart-com  301
 /tools/tool42692  /tools/tusiart-com-3  301
 /tools/tool432  /tools/zh-d2l-ai  301
@@ -225,6 +249,7 @@
 /tools/tool47103  /tools/wacuowang-com  301
 /tools/tool4749  /tools/miaohua-sensetime-com  301
 /tools/tool48043  /tools/ai-gitee-com  301
+/tools/tool4841  /tools/doubao  301
 /tools/tool49  /tools/lamini-ai  301
 /tools/tool49491  /tools/gaoding-com-3  301
 /tools/tool49506  /tools/gaoding-com-2  301
@@ -303,6 +328,7 @@
 /tools/tool61384  /tools/d-design-2  301
 /tools/tool61388  /tools/d-design-4  301
 /tools/tool61396  /tools/d-design-5  301
+/tools/tool61400  /tools/d-design  301
 /tools/tool61404  /tools/d-design-6  301
 /tools/tool61432  /tools/longcat-chat  301
 /tools/tool61515  /tools/logosc-cn  301
@@ -340,6 +366,7 @@
 /tools/tool64617  /tools/codeflicker-ai  301
 /tools/tool6463  /tools/visual-electric  301
 /tools/tool64715  /tools/dakou-iflow-cn  301
+/tools/tool6474  /tools/liblibai  301
 /tools/tool64863  /tools/haisnap-com  301
 /tools/tool64880  /tools/tunee-ai  301
 /tools/tool6492  /tools/removal-ai  301
@@ -347,6 +374,7 @@
 /tools/tool6498  /tools/miaobi-xinhuaskl-com  301
 /tools/tool65041  /tools/reelsagent-com  301
 /tools/tool65119  /tools/ai-mianshiya-com  301
+/tools/tool6519  /tools/office-raccoon  301
 /tools/tool65208  /tools/teamoteam-com  301
 /tools/tool65226  /tools/perplexity-ai  301
 /tools/tool65354  /tools/audiomyst-baidu-com  301
@@ -379,6 +407,7 @@
 /tools/tool67673  /tools/huasheng-cn  301
 /tools/tool67677  /tools/story-neodomain-cn  301
 /tools/tool67872  /tools/llama-factory-online  301
+/tools/tool67911  /tools/tool69212  301
 /tools/tool68040  /tools/fogsight-ai  301
 /tools/tool68087  /tools/komiko-app  301
 /tools/tool68111  /tools/mornai-cn  301
@@ -481,6 +510,7 @@
 /tools/tool75645  /tools/agent-polis-com  301
 /tools/tool7575  /tools/wuz-com-cn  301
 /tools/tool75762  /tools/linghuiai-net  301
+/tools/tool7582  /tools/trae  301
 /tools/tool75881  /tools/loopit-com-cn  301
 /tools/tool76030  /tools/bloome-im  301
 /tools/tool76040  /tools/open-bochaai-com  301
@@ -517,6 +547,7 @@
 /tools/tool82  /tools/lemonaide-ai  301
 /tools/tool8594  /tools/acrobat-ai-assistant  301
 /tools/tool8662  /tools/stable-video  301
+/tools/tool87  /tools/removal-ai  301
 /tools/tool8835  /tools/chat-minimaxi-com  301
 /tools/tool8970  /tools/anakin-ai  301
 /tools/tool9056  /tools/iopaint-com  301
@@ -524,10 +555,23 @@
 /tools/tool928  /tools/fronty-com  301
 /tools/tool9533  /tools/preview-devin-ai  301
 /tools/tool9744  /tools/writingpal-ai  301
+/tools/wenxin-yige  /tools/chat-baidu-com  301
 
 /content/claude-ai  /tools/claude  301
+/content/ihuiwa-com-2  /tools/ihuiwa-com  301
 /content/kimi  /tools/kimi-com  301
+/content/liblib-art  /tools/liblibai  301
+/content/liblib-art-2  /tools/liblibai  301
+/content/liblib-art-3  /tools/liblibai  301
+/content/liblib-art-4  /tools/liblibai  301
+/content/loomy-xunfei-cn  /tools/loomy  301
+/content/meijian-com-2  /tools/meijian-com  301
+/content/perplexity-ai  /tools/perplexity  301
+/content/pexo-ai  /tools/pexo-ai-2  301
 /content/pika  /tools/pika-art  301
+/content/stable-diffusion  /tools/stability-ai  301
+/content/tianyin-163-com  /tools/cloudmusic-xiaowei  301
+/content/tongyi-xiangma  /tools/tongyi-aliyun-com  301
 /content/tool10217  /tools/zoom-workplace  301
 /content/tool1055  /tools/udacity  301
 /content/tool1062  /tools/novelai-net  301
@@ -560,12 +604,14 @@
 /content/tool1237  /tools/virbo-wondershare-cn  301
 /content/tool12385  /tools/kreadoai-com  301
 /content/tool12550  /tools/wondercraft-ai  301
+/content/tool12663  /tools/tool4453  301
 /content/tool1276  /tools/jax-readthedocs-io  301
 /content/tool12769  /tools/qiyuai-net  301
 /content/tool12890  /tools/coderider-gitlab-cn  301
 /content/tool12946  /tools/yuanbao-paluai-com  301
 /content/tool12962  /tools/cp-baidu-com  301
 /content/tool12987  /tools/exactly-ai  301
+/content/tool13002  /tools/kling  301
 /content/tool13023  /tools/cliclic-ai  301
 /content/tool13399  /tools/moki-cn  301
 /content/tool13455  /tools/lumalabs-ai  301
@@ -578,6 +624,7 @@
 /content/tool13966  /tools/zhida-zhihu-com  301
 /content/tool13979  /tools/glif-app  301
 /content/tool14023  /tools/zhiyan-wondershare-cn  301
+/content/tool141  /tools/tool14  301
 /content/tool1412  /tools/img-logosc-cn  301
 /content/tool1414  /tools/logosc-cn-2  301
 /content/tool14162  /tools/xunguang-com  301
@@ -611,11 +658,13 @@
 /content/tool1531  /tools/upscayl-org  301
 /content/tool15416  /tools/ai-bot-cn  301
 /content/tool1570  /tools/shutu-cn  301
+/content/tool1608  /tools/tool13  301
 /content/tool16121  /tools/gbi-cloud-baidu-com  301
 /content/tool16136  /tools/icnpy-com  301
 /content/tool16152  /tools/datarc-cn  301
 /content/tool16162  /tools/jurilu-paluai-com  301
 /content/tool16181  /tools/jiangziai-com  301
+/content/tool163  /tools/tool14769  301
 /content/tool1632  /tools/monica-cn  301
 /content/tool16356  /tools/me-bot  301
 /content/tool16367  /tools/glean-com  301
@@ -652,8 +701,10 @@
 /content/tool1991  /tools/cutout-designkit-com  301
 /content/tool20  /tools/ai-google  301
 /content/tool20030  /tools/flow-studio  301
+/content/tool2005  /tools/chatglm  301
 /content/tool2009  /tools/moyin-com  301
 /content/tool2026  /tools/tingwu-aliyun-com  301
+/content/tool2029  /tools/gaoding-art  301
 /content/tool2042  /tools/yunxiu-meitu-com  301
 /content/tool2048  /tools/ling-jd-com  301
 /content/tool20683  /tools/cueme-cn  301
@@ -662,6 +713,7 @@
 /content/tool21255  /tools/hitpaw-watermark-remover  301
 /content/tool21260  /tools/beecut-cn  301
 /content/tool21961  /tools/gumloop-com  301
+/content/tool2198  /tools/chat-baidu-com  301
 /content/tool22182  /tools/lyrics-into-song-ai  301
 /content/tool22307  /tools/twinny-dev  301
 /content/tool228  /tools/designs-ai  301
@@ -685,6 +737,7 @@
 /content/tool24687  /tools/imiaoban-com  301
 /content/tool24841  /tools/qianlu-cc  301
 /content/tool2515  /tools/nolibox-com  301
+/content/tool252  /tools/lovo-ai  301
 /content/tool25213  /tools/yiketu-com  301
 /content/tool254  /tools/naturalreaders-com  301
 /content/tool25529  /tools/meijian-com  301
@@ -710,6 +763,8 @@
 /content/tool29778  /tools/noedgeai-com  301
 /content/tool3044  /tools/sight-youdao-com  301
 /content/tool3171  /tools/recraft  301
+/content/tool32253  /tools/pic-copilot  301
+/content/tool32344  /tools/pic-copilot  301
 /content/tool33683  /tools/designkit-cn-3  301
 /content/tool33687  /tools/ihuiwa-com-4  301
 /content/tool33694  /tools/designkit-cn  301
@@ -732,6 +787,7 @@
 /content/tool402  /tools/voice-ai  301
 /content/tool408  /tools/aiseo-ai  301
 /content/tool41196  /tools/fengniaoai-com  301
+/content/tool4257  /tools/tiangong-cn  301
 /content/tool42689  /tools/tusiart-com  301
 /content/tool42692  /tools/tusiart-com-3  301
 /content/tool432  /tools/zh-d2l-ai  301
@@ -748,6 +804,7 @@
 /content/tool47103  /tools/wacuowang-com  301
 /content/tool4749  /tools/miaohua-sensetime-com  301
 /content/tool48043  /tools/ai-gitee-com  301
+/content/tool4841  /tools/doubao  301
 /content/tool49  /tools/lamini-ai  301
 /content/tool49491  /tools/gaoding-com-3  301
 /content/tool49506  /tools/gaoding-com-2  301
@@ -826,6 +883,7 @@
 /content/tool61384  /tools/d-design-2  301
 /content/tool61388  /tools/d-design-4  301
 /content/tool61396  /tools/d-design-5  301
+/content/tool61400  /tools/d-design  301
 /content/tool61404  /tools/d-design-6  301
 /content/tool61432  /tools/longcat-chat  301
 /content/tool61515  /tools/logosc-cn  301
@@ -863,6 +921,7 @@
 /content/tool64617  /tools/codeflicker-ai  301
 /content/tool6463  /tools/visual-electric  301
 /content/tool64715  /tools/dakou-iflow-cn  301
+/content/tool6474  /tools/liblibai  301
 /content/tool64863  /tools/haisnap-com  301
 /content/tool64880  /tools/tunee-ai  301
 /content/tool6492  /tools/removal-ai  301
@@ -870,6 +929,7 @@
 /content/tool6498  /tools/miaobi-xinhuaskl-com  301
 /content/tool65041  /tools/reelsagent-com  301
 /content/tool65119  /tools/ai-mianshiya-com  301
+/content/tool6519  /tools/office-raccoon  301
 /content/tool65208  /tools/teamoteam-com  301
 /content/tool65226  /tools/perplexity-ai  301
 /content/tool65354  /tools/audiomyst-baidu-com  301
@@ -902,6 +962,7 @@
 /content/tool67673  /tools/huasheng-cn  301
 /content/tool67677  /tools/story-neodomain-cn  301
 /content/tool67872  /tools/llama-factory-online  301
+/content/tool67911  /tools/tool69212  301
 /content/tool68040  /tools/fogsight-ai  301
 /content/tool68087  /tools/komiko-app  301
 /content/tool68111  /tools/mornai-cn  301
@@ -1004,6 +1065,7 @@
 /content/tool75645  /tools/agent-polis-com  301
 /content/tool7575  /tools/wuz-com-cn  301
 /content/tool75762  /tools/linghuiai-net  301
+/content/tool7582  /tools/trae  301
 /content/tool75881  /tools/loopit-com-cn  301
 /content/tool76030  /tools/bloome-im  301
 /content/tool76040  /tools/open-bochaai-com  301
@@ -1040,6 +1102,7 @@
 /content/tool82  /tools/lemonaide-ai  301
 /content/tool8594  /tools/acrobat-ai-assistant  301
 /content/tool8662  /tools/stable-video  301
+/content/tool87  /tools/removal-ai  301
 /content/tool8835  /tools/chat-minimaxi-com  301
 /content/tool8970  /tools/anakin-ai  301
 /content/tool9056  /tools/iopaint-com  301
@@ -1047,3 +1110,4 @@
 /content/tool928  /tools/fronty-com  301
 /content/tool9533  /tools/preview-devin-ai  301
 /content/tool9744  /tools/writingpal-ai  301
+/content/wenxin-yige  /tools/chat-baidu-com  301

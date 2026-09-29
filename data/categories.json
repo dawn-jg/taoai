@@ -19,7 +19,7 @@
     "name": "AI图像工具",
     "slug": "ai-image",
     "icon": "🎨",
-    "count": 178,
+    "count": 166,
     "description": "AI绘画、图像生成与编辑",
     "subcategories": {
       "ai-image-illustration": "AI图片插画生成",
@@ -36,7 +36,7 @@
     "name": "AI视频工具",
     "slug": "ai-video",
     "icon": "🎬",
-    "count": 105,
+    "count": 102,
     "description": "AI视频生成与编辑工具",
     "subcategories": {
       "ai-video-generation": "AI视频生成",
@@ -63,7 +63,7 @@
     "name": "AI智能体",
     "slug": "ai-agent",
     "icon": "🤖",
-    "count": 91,
+    "count": 89,
     "description": "AI Agent智能体搭建平台",
     "subcategories": {
       "ai-agent-framework": "AI Agent框架",
@@ -75,7 +75,7 @@
     "name": "AI聊天助手",
     "slug": "ai-chat",
     "icon": "💬",
-    "count": 77,
+    "count": 69,
     "description": "智能对话、问答助手",
     "subcategories": {
       "ai-chat-general": "通用对话AI",
@@ -87,7 +87,7 @@
     "name": "AI编程工具",
     "slug": "ai-coding",
     "icon": "💻",
-    "count": 82,
+    "count": 80,
     "description": "AI编程、代码生成与辅助",
     "subcategories": {
       "ai-coding-generator": "AI代码生成",
@@ -100,7 +100,7 @@
     "name": "AI设计工具",
     "slug": "ai-design",
     "icon": "🖌️",
-    "count": 96,
+    "count": 93,
     "description": "AI辅助设计与创意工具",
     "subcategories": {
       "ai-design-graphic": "AI平面设计",
@@ -114,7 +114,7 @@
     "name": "AI音频工具",
     "slug": "ai-audio",
     "icon": "🎵",
-    "count": 91,
+    "count": 89,
     "description": "AI音乐、配音与音频处理",
     "subcategories": {
       "ai-audio-tts": "AI语音合成",
@@ -128,7 +128,7 @@
     "name": "AI搜索引擎",
     "slug": "ai-search",
     "icon": "🔍",
-    "count": 47,
+    "count": 45,
     "description": "新一代AI搜索引擎",
     "subcategories": {
       "ai-search-engine": "AI搜索引擎",

@@ -1680,5 +1680,133 @@
   "tool3171": {
     "new": "recraft",
     "name": "Recraft"
+  },
+  "tool2005": {
+    "new": "chatglm",
+    "name": "智谱推出的全能AI助手"
+  },
+  "perplexity-ai": {
+    "new": "perplexity",
+    "name": "AI搜索引擎与深度研究工具"
+  },
+  "tianyin-163-com": {
+    "new": "cloudmusic-xiaowei",
+    "name": "网易推出的一站式AI音乐创作工具"
+  },
+  "tool61400": {
+    "new": "d-design",
+    "name": "堆友AI视频"
+  },
+  "tool6474": {
+    "new": "liblibai",
+    "name": "LiblibAI·哩布哩布AI"
+  },
+  "liblib-art": {
+    "new": "liblibai",
+    "name": "LiblibAI电商营销"
+  },
+  "liblib-art-2": {
+    "new": "liblibai",
+    "name": "LiblibAI抠图"
+  },
+  "liblib-art-3": {
+    "new": "liblibai",
+    "name": "LiblibAI高清放大"
+  },
+  "liblib-art-4": {
+    "new": "liblibai",
+    "name": "LiblibAI去水印"
+  },
+  "meijian-com-2": {
+    "new": "meijian-com",
+    "name": "新一代AI画布式创意设计平台"
+  },
+  "ihuiwa-com-2": {
+    "new": "ihuiwa-com",
+    "name": "绘蛙AI高清"
+  },
+  "tool32344": {
+    "new": "pic-copilot",
+    "name": "阿里国际推出的AI电商设计工具"
+  },
+  "tool32253": {
+    "new": "pic-copilot",
+    "name": "Pic Copilot AI抠图"
+  },
+  "loomy-xunfei-cn": {
+    "new": "loomy",
+    "name": "科大讯飞推出的桌面级 AI 个人助理"
+  },
+  "tool2029": {
+    "new": "gaoding-art",
+    "name": "一站式AI创作和设计平台"
+  },
+  "tool4257": {
+    "new": "tiangong-cn",
+    "name": "AI办公智能体先行者"
+  },
+  "tool2198": {
+    "new": "chat-baidu-com",
+    "name": "百度最新上线的AI搜索对话工具"
+  },
+  "tool252": {
+    "new": "lovo-ai",
+    "name": "AI人声和文本转语音生成工具"
+  },
+  "stable-diffusion": {
+    "new": "stability-ai",
+    "name": "Stable Diffusion"
+  },
+  "tool1608": {
+    "new": "tool13",
+    "name": "秘塔写作猫"
+  },
+  "pexo-ai": {
+    "new": "pexo-ai-2",
+    "name": "造点AI"
+  },
+  "tool87": {
+    "new": "removal-ai",
+    "name": "Removal.AI"
+  },
+  "tool67911": {
+    "new": "tool69212",
+    "name": "专注于 AI 图像视频的无限画布"
+  },
+  "tool4841": {
+    "new": "doubao",
+    "name": "字节跳动推出的免费AI对话助手和个人助理"
+  },
+  "wenxin-yige": {
+    "new": "chat-baidu-com",
+    "name": "百度文心助手"
+  },
+  "tool6519": {
+    "new": "office-raccoon",
+    "name": "商汤科技推出的免费AI编程助手"
+  },
+  "tool163": {
+    "new": "tool14769",
+    "name": "Whispr"
+  },
+  "tool7582": {
+    "new": "trae",
+    "name": "开源的支持多款大模型的AI编程助手"
+  },
+  "tool12663": {
+    "new": "tool4453",
+    "name": "百川智能推出的免费AI助手"
+  },
+  "tool141": {
+    "new": "tool14",
+    "name": "Jasper Chat"
+  },
+  "tool13002": {
+    "new": "kling",
+    "name": "可灵AI"
+  },
+  "tongyi-xiangma": {
+    "new": "tongyi-aliyun-com",
+    "name": "通义万相"
   }
 }

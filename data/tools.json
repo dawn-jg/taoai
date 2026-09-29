@@ -410,7 +410,7 @@
     "slug": "trae",
     "name": "TRAE",
     "description": "属于AI聊天助手·ai-writing-article分类。TRAE是一款AI聊天助手领域的免费增值AI工具，字节跳动推出的 AI IDE 编程工具。支持IDE、免费。",
-    "url": "https://www.devchat.ai/zh?ref=ai-bot.cn",
+    "url": "https://www.trae.ai/",
     "categories": [
       "ai-chat",
       "ai-coding",
@@ -438,7 +438,7 @@
     "createdAt": "2025-03-01",
     "subcategory": "ai-writing-article",
     "logo": "/logos/trae.png",
-    "domain": "devchat.ai",
+    "domain": "trae.ai",
     "detailed_content": [
       {
         "title": "TRAE 是什么",
@@ -457,7 +457,7 @@
         "html": "<ul><li><strong>软件开发</strong>：用 TraeCode 承接编码、改造与调试类任务。</li><li><strong>数据分析与汇报</strong>：把数据集交给 TraeWork，生成分析结论与配套材料。</li><li><strong>文档写作</strong>：基于现有规格文档、会议材料整理成正式文档。</li><li><strong>演示文稿制作</strong>：从零散素材直接产出可讲可发的幻灯片。</li><li><strong>深度调研</strong>：让 TRAE 围绕一个题目做资料收集与汇总。</li><li><strong>跨端办公</strong>：在同一工作区里往返桌面端与网页端，随时查看任务进度。</li></ul><p>TRAE 这类把任务整体托付出去的产品，适合把重复度高、步骤明确的工作交出去，把需要判断与决定的部分留给自己。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "kling",
@@ -496,29 +496,6 @@
         "html": "<ul><li><strong>短视频与广告素材</strong>：为社交平台内容快速产出镜头素材，压缩实拍与剪辑成本。</li><li><strong>影视与动画前期</strong>：在正式制作前把分镜想法做成可视化的动态预览。</li><li><strong>电商与产品展示</strong>：用静态商品图生成动态展示视频，补充详情页的表现力。</li><li><strong>数字人口播</strong>：需要标准化输出的讲解、播报类内容。</li></ul><p>需要注意：生成内容涉及真人肖像、品牌标识或受保护作品时，需自行确认授权与合规边界；涉及商用发布时，也应先阅读官方对生成内容的授权说明。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "tongyi-xiangma",
-    "name": "通义万相",
-    "description": "属于AI图像工具·AI图片插画生成分类。通义万相是一款AI图像工具领域的免费AI工具，阿里AI绘画与视频平台。支持阿里、免费。",
-    "url": "https://tongyi.aliyun.com/wanxiang",
-    "categories": [
-      "ai-image",
-      "ai-video"
-    ],
-    "tags": [
-      "阿里",
-      "免费"
-    ],
-    "featured": false,
-    "rating": 4.3,
-    "pricing": "free",
-    "createdAt": "2024-03-01",
-    "subcategory": "ai-image-illustration",
-    "logo": "/logos/tongyi-xiangma.png",
-    "domain": "tongyi.aliyun.com",
-    "detailed_content": [],
     "updatedAt": "2026-09-27"
   },
   {
@@ -965,7 +942,7 @@
     "slug": "jianying",
     "name": "剪映AI",
     "description": "属于AI视频工具·AI视频编辑分类。剪映AI是一款AI视频工具领域的免费AI工具，剪映Pro AI视频编辑。支持免费、剪辑。",
-    "url": "https://jimeng.jianying.com",
+    "url": "https://www.jianying.com/",
     "categories": [
       "ai-video",
       "ai-design"
@@ -980,9 +957,9 @@
     "createdAt": "2023-12-01",
     "subcategory": "ai-video-edit",
     "logo": "/logos/jianying.png",
-    "domain": "jimeng.jianying.com",
+    "domain": "jianying.com",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "chatpdf",
@@ -1144,28 +1121,6 @@
       }
     ],
     "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "wenxin-yige",
-    "name": "百度文心助手",
-    "description": "属于AI聊天助手·通用对话AI分类。百度文心助手是一款AI聊天助手领域的免费AI工具，百度推出的一站式智能助手。支持百度、AI助手。",
-    "url": "https://yige.baidu.com",
-    "categories": [
-      "ai-chat"
-    ],
-    "tags": [
-      "百度",
-      "AI助手"
-    ],
-    "featured": false,
-    "rating": 4.2,
-    "pricing": "free",
-    "createdAt": "2023-08-01",
-    "subcategory": "ai-chat-general",
-    "logo": "/logos/wenxin-yige.png",
-    "domain": "yige.baidu.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-29"
   },
   {
     "slug": "wawa-writing",
@@ -1402,7 +1357,7 @@
     "slug": "tool69212",
     "name": "01Agent",
     "description": "属于AI写作工具·AI小说创作分类。AI图文创作工具，支持生成、排版、编辑、发布。支持AI写作工，适合需要进行AI辅助内容创作与写作的用户。",
-    "url": "https://flowmuse.ai/",
+    "url": "https://01agent.net/",
     "categories": [
       "ai-writing"
     ],
@@ -1415,9 +1370,9 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
     "logo": "/logos/tool69212.png",
-    "domain": "flowmuse.ai",
+    "domain": "01agent.net",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool67418",
@@ -2567,7 +2522,7 @@
     "slug": "tool31",
     "name": "Copy.ai",
     "description": "属于AI写作工具·AI小说创作分类。Copy.ai是一款AI写作工具领域的免费增值AI工具，人工智能营销文案和内容创作工具。支持AI写作工。",
-    "url": "https://vgoapp.com/?ref=ai-bot.cn",
+    "url": "https://www.copy.ai/",
     "categories": [
       "ai-writing"
     ],
@@ -2580,15 +2535,15 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
     "logo": "/logos/tool31.png",
-    "domain": "vgoapp.com",
+    "domain": "copy.ai",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool14",
     "name": "Jasper",
     "description": "属于AI写作工具·AI小说创作分类。Jasper是一款AI写作工具领域的免费增值AI工具，AI文字内容创作工具。支持AI写作工。",
-    "url": "https://www.ximalaya.com/gatekeeper/write-wise-web?ref=ai-bot.cn",
+    "url": "https://www.jasper.ai/",
     "categories": [
       "ai-writing"
     ],
@@ -2601,9 +2556,9 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
     "logo": "/logos/tool14.png",
-    "domain": "ximalaya.com",
+    "domain": "jasper.ai",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool14618",
@@ -2693,7 +2648,7 @@
     "slug": "tool32",
     "name": "Writesonic",
     "description": "属于AI写作工具·AI营销文案分类。Writesonic是一款AI写作工具领域的免费增值AI工具，AI写作，文案，释义工具。支持AI写作工。",
-    "url": "https://www.chuangfeiai.com/login?invitationCode=MV6433",
+    "url": "https://writesonic.com/",
     "categories": [
       "ai-writing"
     ],
@@ -2706,9 +2661,9 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-copy",
     "logo": "/logos/tool32.png",
-    "domain": "chuangfeiai.com",
+    "domain": "writesonic.com",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool608",
@@ -2735,7 +2690,7 @@
     "slug": "tool2304",
     "name": "Jenni",
     "description": "属于AI写作工具·AI文章写作分类。Jenni是一款AI写作工具领域的免费增值AI工具，AI研究文章和博客写作辅助工具。支持AI写作工。",
-    "url": "https://try.quillbot.com/6eqrqpoysmlh",
+    "url": "https://www.jenni.ai/",
     "categories": [
       "ai-writing"
     ],
@@ -2748,9 +2703,9 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-article",
     "logo": "/logos/tool2304.png",
-    "domain": "try.quillbot.com",
+    "domain": "jenni.ai",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "fanyi-youdao-com",
@@ -2870,7 +2825,7 @@
     "slug": "moyin-com",
     "name": "魔撰写作",
     "description": "属于AI写作工具·AI文章写作分类。魔撰写作是一款AI写作工具领域的免费增值AI工具，出门问问旗下推出的AI智能写作工具。支持AI写作工。",
-    "url": "https://www.moyin.com/?channelCode=AIGJJ01_20240905",
+    "url": "https://x.moyin.com/",
     "categories": [
       "ai-writing"
     ],
@@ -2883,7 +2838,7 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-article",
     "logo": "/logos/moyin-com.png",
-    "domain": "moyin.com",
+    "domain": "x.moyin.com",
     "detailed_content": [
       {
         "title": "魔撰写作是什么？",
@@ -2906,7 +2861,7 @@
         "html": "<div id=\"accordion\" style=\"max-width: 700px;\">\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>魔撰写作提供免费试用吗？</strong></div>\n<div class=\"card-body text-sm\">魔撰写作提供免费体验版，免费版拥有基础的写作辅助能力，享有字数限制下的AI写作、智能润色、实时纠错、句子修辞、文本翻译等部分功能，可满足轻量级的写作需求。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>魔撰写作基于什么大模型？</strong></div>\n<div class=\"card-body text-sm\">魔撰写作基于出门问问自研的大型语言模型“序列猴子”。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>魔撰写作支持哪些平台？</strong></div>\n<div class=\"card-body text-sm\">魔撰写作支持通过浏览器网页版和微信小程序平台使用。</div>\n</div>\n</div>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "ailjyk-com",
@@ -3173,7 +3128,7 @@
     "slug": "tool1325",
     "name": "Moonbeam",
     "description": "属于AI写作工具·AI小说创作分类。Moonbeam是一款AI写作工具领域的免费增值AI工具，长文章AI内容创作助手。支持AI写作工。",
-    "url": "https://muset.ai/?s=aibot",
+    "url": "https://www.gomoonbeam.com/",
     "categories": [
       "ai-writing"
     ],
@@ -3186,20 +3141,20 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
     "logo": "/logos/tool1325.png",
-    "domain": "muset.ai",
+    "domain": "gomoonbeam.com",
     "detailed_content": [
       {
         "title": "",
         "html": "<p>Moonbeam是一款经过专门训练的人工智能写作助手，可以帮助你撰写论文、故事、文章、博客和其他长篇内容。该工具免费版提供30,000个单词的额度，付费版Pro 15 美金每月。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool2195",
     "name": "Cohesive",
     "description": "属于AI写作工具·AI小说创作分类。Cohesive是一款AI写作工具领域的免费增值AI工具，人工智能文案内容创作和编辑工具。支持AI写作工。",
-    "url": "https://www.wuz.com.cn/?ref=ai-bot.cn",
+    "url": "https://cohesive.so/",
     "categories": [
       "ai-writing"
     ],
@@ -3212,14 +3167,14 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
     "logo": "/logos/tool2195.png",
-    "domain": "wuz.com.cn",
+    "domain": "cohesive.so",
     "detailed_content": [
       {
         "title": "",
         "html": "<p>Cohesive是一个人工智能文案内容创作工具，旨在帮助创建、完善、编辑和发布各种类型的文案内容。该工具为不同类型的内容提供了50多个模板，如SEO友好型博客、LinkedIn帖子、吸引人的故事、Instagram标题、Twitter推文和演示幻灯片。</p>\n<p>Cohesive在多个领域都有应用，如营销、销售、支持和个人使用，并向用户保证高质量的人工智能生成的内容。Cohesive还提供了一个人工智能编辑器，帮助用户编辑文本、图像和语言翻译，以确保内容的准确度、吸引力和转化率。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool2388",
@@ -3415,7 +3370,7 @@
     "slug": "tool577",
     "name": "HyperWrite",
     "description": "HyperWrite是一款AI写作工具领域的免费增值AI工具，AI写作助手帮助你创作内容更自信。支持AI写作工。",
-    "url": "https://www.36ma.com/?fr=aibot",
+    "url": "https://www.hyperwriteai.com/",
     "categories": [
       "ai-writing"
     ],
@@ -3428,15 +3383,15 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
     "logo": "/logos/tool577.png",
-    "domain": "36ma.com",
+    "domain": "hyperwriteai.com",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool580",
     "name": "Typeface AI",
     "description": "属于AI写作工具·AI小说创作分类。Typeface AI是一款AI写作工具领域的免费增值AI工具，AI创意内容创作助手。支持AI写作工。",
-    "url": "https://ai.koalaoffice.com/ai/homePage",
+    "url": "https://www.typeface.ai/",
     "categories": [
       "ai-writing"
     ],
@@ -3449,9 +3404,9 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
     "logo": "/logos/tool580.png",
-    "domain": "ai.koalaoffice.com",
+    "domain": "typeface.ai",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool39",
@@ -3822,7 +3777,7 @@
     "slug": "tool782",
     "name": "ContentBot",
     "description": "属于AI写作工具·AI文章写作分类。ContentBot是一款AI写作工具领域的免费增值AI工具，AI快速写作工具。支持AI写作工。",
-    "url": "https://wawawriter.com/app/?utm_source=aigongjuji",
+    "url": "https://www.contentbot.ai/",
     "categories": [
       "ai-writing"
     ],
@@ -3835,9 +3790,9 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-article",
     "logo": "/logos/tool782.png",
-    "domain": "wawawriter.com",
+    "domain": "contentbot.ai",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "huiwa",
@@ -3933,27 +3888,6 @@
     "updatedAt": "2026-09-27"
   },
   {
-    "slug": "tool6474",
-    "name": "LiblibAI·哩布哩布AI",
-    "description": "属于AI图像工具·AI图片插画生成分类。国内领先的AI图像创作平台和模型分享社区。支持AI图像工，适合需要AI生成或处理图像的用户。",
-    "url": "https://www.liblib.art/?souceid=005904&utm=cg&cgv=dqndpmwn2z",
-    "categories": [
-      "ai-image"
-    ],
-    "tags": [
-      "AI图像工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-image-illustration",
-    "logo": "/logos/tool6474.png",
-    "domain": "liblib.art",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
-  },
-  {
     "slug": "abeiai-com",
     "name": "阿贝智能",
     "description": "属于AI图像工具·AI图片插画生成分类。阿贝智能是一款AI图像工具领域的免费增值AI工具，一站式AI绘本创作平台，副业变现必备。支持AI图像工。",
@@ -3995,7 +3929,7 @@
     "slug": "xmyeditor-com",
     "name": "美图设计室",
     "description": "属于AI图像工具·AI图片插画生成分类。美图设计室是一款AI图像工具领域的免费增值AI工具，AI图像创作和设计平台。支持AI图像工。",
-    "url": "https://www.xmyeditor.com/",
+    "url": "https://design.meitu.com/",
     "categories": [
       "ai-image"
     ],
@@ -4008,7 +3942,7 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
     "logo": "/logos/xmyeditor-com.png",
-    "domain": "xmyeditor.com",
+    "domain": "design.meitu.com",
     "detailed_content": [
       {
         "title": "美图设计室是什么",
@@ -4035,33 +3969,7 @@
         "html": "<ul>\n<li><strong>电商设计</strong>：为在线商店创建吸引人的商品展示图、广告横幅、促销海报和社交媒体图像。</li>\n<li><strong>社交媒体管理</strong>：设计用于Instagram、Facebook、微博等社交平台的帖子和故事。</li>\n<li><strong>营销和广告</strong>：制作营销材料，如传单、宣传册、广告牌和在线广告。</li>\n<li><strong>企业品牌</strong>：设计企业logo、名片、信纸、演示文稿和其他品牌宣传材料。</li>\n<li><strong>教育和培训</strong>：制作教学幻灯片、课程大纲、海报和教育材料。</li>\n<li><strong>个人项目</strong>：为个人博客、简历、个人品牌或作品集创建专业的视觉效果。</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "stable-diffusion",
-    "name": "Stable Diffusion",
-    "description": "属于AI图像工具·AI图片插画生成分类。StabilityAI推出的文本到图像生成AI。支持AI图像工，适合需要AI生成或处理图像的用户。",
-    "url": "https://www.insmind.com/",
-    "categories": [
-      "ai-image"
-    ],
-    "tags": [
-      "AI图像工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-image-illustration",
-    "logo": "/logos/stable-diffusion.png",
-    "domain": "insmind.com",
-    "detailed_content": [
-      {
-        "title": "",
-        "html": "<p>Stable Diffusion 是于2022年发布的一个基于深度学习的<a href=\"https://ai-bot.cn/best-ai-image-generators/\">AI文本到图像生成</a>模型，该模型主要用于生成以文本描述为条件的详细图像和插画，由初创公司 StabilityAI 与一些学术研究人员和非营利组织合作开发的。</p>\n<div class=\"io-edit-post-card-content\"><div class=\"url-card shortcode-url site_0 mx-auto \" style=\"max-width:420px\">        <div class=\"card flex-fill mb-3\" >\n            <div class=\"row no-gutters\">\n                <div class=\"col-4\">\n                <div class=\"media media-4x3 rounded-left\">\n                                        <a class=\"media-content\" href=\"https://ai-bot.cn/how-to-run-stable-diffusion/\" target=\"_blank\" src=\"https://ai-bot.cn/wp-content/uploads/2023/07/how-to-run-stable-diffusion.png\"></a>\n                                    </div>\n                </div>\n                <div class=\"col-8\">\n                    <div class=\"card-body list-content p-2\" style=\"height: 100%;\"> \n                        <div class=\"list-body\"> \n                            <a href=\"https://ai-bot.cn/how-to-run-stable-diffusion/\" title=\"如何运行Stable Diffusion？在线和本地运行的5种方法\" class=\"list-title no-c overflowClip_1\" target=\"_blank\">如何运行Stable Diffusion？在线和本地运行的5种方法</a>\n                            <div class=\"list-desc d-none d-md-block text-sm text-secondary my-3\">\n                        <div class=\"overflowClip_2 \">Stable Diffusion是由初创公司Stability AI和来自慕尼黑大学以及Runway的研究人员在2022年发布的文本到图像的生成模型，本篇文章将讲解如何在线和本地运行Sta...</div>\n                    </div>\n                        </div>\n                        <div>\n                            <div class=\"d-flex flex-fill align-items-center text-muted text-xs\">\n                                                                <span><i class=\"iconfont icon-classification\"></i>\n                                    <a href=\"https://ai-bot.cn/ai-tutorials/\" class=\"no-c\" target=\"_blank\">AI教程</a>\n                                </span>\n                                                                <div class=\"flex-fill\"></div>\n                                <div>\n                                    <time class=\"mx-1\">3年前 (2023)</time>\n                                </div>\n                            </div>      \n                        </div>  \n                    </div>\n                </div>\n            </div>\n        </div>\n</div></div>\n<p>Stable Diffusion是一个潜在扩散模型（ Latent Diffusion Model）——深度生成性神经网络的一种。Stable Diffusion的代码和模型权重已公开发布，可以在大多数配备有适度GPU的电脑硬件上运行，而在此之前的专有文生图模型（如DALL-E和Midjourney）只能通过云计算服务访问。</p>\n<p>Stable Diffusion在线版本主要可通过以下官方网站访问：</p>\n<ol>\n<li><a href=\"https://beta.dreamstudio.ai/\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >DreamStudio版</a>（StabilityAI官方推出）</li>\n<li><a href=\"https://clipdrop.co/stable-diffusion\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >Stable Diffusion XL</a> （StabilityAI旗下的ClipDrop推出）</li>\n<li><a href=\"https://ai-bot.cn/stable-artisan/\" target=\"_blank\" rel=\"noopener\">Stable Artisan</a>（StabilityAI推出的Discord版服务）</li>\n</ol>\n<p>Stable Diffusion本地部署方法可通过以下工具使用：</p>\n<ol>\n<li><a href=\"https://ai-bot.cn/stable-diffusion-webui/\" target=\"_blank\" rel=\"noopener\">绘世启动器</a>（B站UP主@秋葉aaaki制作并免费发布的Stable Diffusion-WebUI启动器桌面版）</li>\n<li><a href=\"https://ai-bot.cn/stable-diffusion-webui/\" target=\"_blank\" rel=\"noopener\">Stable Diffusion整合包</a>（详见 如何使用Stable Diffusion – 方法二）</li>\n</ol>"
-      }
-    ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "civitai-com",
@@ -4093,49 +4001,6 @@
       {
         "title": "常见问题",
         "html": "<div id=\"accordion\" style=\"max-width: 700px;\">\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Civitai有什么含义？</strong></div>\n<div class=\"card-body text-sm\">Civitai一词中的Civit来自拉丁语“Civitas”，意思是社区。后缀加上AI，便意为人工智能社区。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Civitai是免费的吗？</strong></div>\n<div class=\"card-body text-sm\">Civitai目前是完全免费向用户开放的，你可以自由浏览和下载该平台上的模型和图像。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Civitai社区内容如何审核？</strong></div>\n<div class=\"card-body text-sm\">Civitai提供自动内容标签、社区审核和手动审核，并且用户可自行过滤或隐藏敏感内容。</div>\n</div>\n</div>"
-      }
-    ],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "pexo-ai",
-    "name": "造点AI",
-    "description": "属于AI视频工具·ai-image-illustration分类。造点AI是一款AI视频工具领域的免费增值AI工具，夸克团队推出的AI图像与视频创作平台。支持AI图像工。",
-    "url": "https://pexo.ai/",
-    "categories": [
-      "ai-video",
-      "ai-image"
-    ],
-    "tags": [
-      "AI图像工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-image-illustration",
-    "logo": "/logos/pexo-ai.png",
-    "domain": "pexo.ai",
-    "detailed_content": [
-      {
-        "title": "造点AI是什么",
-        "html": "<p>造点AI是阿里旗下夸克团队推出的AI图像与视频创作平台，提供网页版和手机APP。造点AI支持<a href=\"https://ai-bot.cn/best-ai-image-generators/\" target=\"_blank\" rel=\"noopener\">AI图片生成</a>和<a href=\"https://ai-bot.cn/ai-video-generation-tools/\" target=\"_blank\" rel=\"noopener\">AI视频生成</a>功能，用户只需输入想法或提示词，能快速生成相应的图片和视频。造点AI支持多种模型和参数调整，如<a href=\"https://ai-bot.cn/midjourney-v7/\" target=\"_blank\" rel=\"noopener\">Midjourney V7</a>生图模型和<a href=\"https://ai-bot.cn/wan2-2/\" target=\"_blank\" rel=\"noopener\">万相2.2</a>视频模型，满足不同创作需求。造点AI设有灵感社区，促进创作者之间的交流与灵感碰撞。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-63438\" src=\"https://ai-bot.cn/wp-content/uploads/2025/09/zaodian-website1.png\"   alt=\"造点AI\" width=\"740\" height=\"416\" />"
-      },
-      {
-        "title": "造点AI的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>AI生图</strong>：用户输入创意想法，造点AI基于AI技术生成相应的图片，支持多种模型和参数调整，如Midjourney V7，用户可以自定义风格化和怪异化程度。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI生视频</strong>：支持文生视频和图生视频，用户输入提示词或图片，AI将转化为动态视频内容，用户能调整视频的成片比例和选择智能润色等功能。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>创意特效玩法</strong>：提供角色穿越、风格变换、魔法转场等特效，增强视频或图片的创意表达。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>灵感社区互动</strong>：用户能在社区中分享作品，浏览其他创作者作品获取灵感。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "如何使用造点AI",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>访问平台</strong>：访问造点AI官网 https://www.zaodian.com/ 或在手机应用商店中下载、安装移动APP，注册登录账号。</li>\n<li class=\"paragraph\"><strong>选择功能</strong>：在官网页面上，选择“AI生图”或“AI生视频”功能。</li>\n<li class=\"paragraph\"><strong>输入创意</strong>：在输入框中输入创意想法或提示词。对于视频，能添加描述场景转换、人物动作等。</li>\n<li class=\"paragraph\"><strong>调整参数</strong>：根据需要调整风格化、怪异化、画面比例等参数。对于视频，支持选择智能润色、镜头语言等选项。</li>\n<li class=\"paragraph\"><strong>生成内容</strong>：点击“立即生成”按钮，AI将根据输入和设置生成图片或视频。</li>\n<li class=\"paragraph\"><strong>预览和下载</strong>：生成完成后，预览结果。如果满意，下载到本地设备。</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-63441\" src=\"https://ai-bot.cn/wp-content/uploads/2025/09/zaodian-website2-1.png\"   alt=\"造点AI\" width=\"740\" height=\"416\" />"
-      },
-      {
-        "title": "造点AI的产品定价",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>免费计划</strong>：登录免费赠送每日积分。</li>\n<li class=\"paragraph\"><strong>标准会员</strong>：48元/月，每月获得800积分，可用MJ生图400张，不限并发畅玩。</li>\n<li class=\"paragraph\"><strong>高级会员</strong>：188元/月，每月获得3600积分，可用MJ生图1800张，不限并发畅玩。</li>\n</ul>"
-      },
-      {
-        "title": "造点AI的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>艺术创作</strong>：<span style=\"font-size: 0.875rem;\">艺术家和设计师用AI生图功能生成独特的艺术作品或设计元素。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>广告和营销</strong>：<span style=\"font-size: 0.875rem;\">营销人员用AI快速生成吸引人的广告图像或视频，提高广告的创意性和吸引力。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>社交媒体内容</strong>：<span style=\"font-size: 0.875rem;\">社交媒体管理者用AI生图和生视频功能创建引人入胜的帖子，增加粉丝互动和参与度。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教育和培训</strong>：<span style=\"font-size: 0.875rem;\">教育工作者生成教学材料，如图解、动画视频等，使学习内容更加生动有趣。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>游戏开发</strong>：<span style=\"font-size: 0.875rem;\">游戏开发者用AI生成游戏内的角色、场景或动画，加快开发进程。</span></div>\n</li>\n</ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -4214,27 +4079,6 @@
         "html": "<ul>\n<li><strong>艺术创作</strong>：艺术家和设计师可以用AI技术来探索新的艺术风格和创作方法，生成独特的艺术作品。</li>\n<li><strong>广告制作</strong>：广告公司可以用AI生成的视频和图像来创造吸引人的广告内容，提高广告的吸引力和效果。</li>\n<li><strong>游戏开发</strong>：游戏开发者可以用AI生成的图像和动画来设计游戏角色、场景和特效，加快游戏开发进程。</li>\n<li><strong>影视制作</strong>：电影和视频制作团队可以用AI技术来生成特效、背景或者预览动画，提高制作效率。</li>\n<li><strong>教育和培训</strong>：教育机构可以用AI生成的图像和视频来辅助教学，使学习内容更加生动和直观。</li>\n<li><strong>社交媒体内容</strong>：内容创作者和社交媒体影响者可以用AI生成的内容来吸引粉丝和提高互动。</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "tool13002",
-    "name": "可灵AI",
-    "description": "属于AI图像工具·AI图片插画生成分类。可灵AI是一款AI图像工具领域的免费增值AI工具，快手推出的AI图像和视频创作平台。支持AI图像工。",
-    "url": "https://app.klingai.com/cn/",
-    "categories": [
-      "ai-image"
-    ],
-    "tags": [
-      "AI图像工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-image-illustration",
-    "logo": "/logos/tool13002.png",
-    "domain": "app.klingai.com",
-    "detailed_content": [],
     "updatedAt": "2026-09-27"
   },
   {
@@ -4848,52 +4692,6 @@
       {
         "title": "堆友AI商品图的应用场景",
         "html": "<ul>\n<li><strong>电商平台</strong>：为在线商店生成高质量的商品图片，提升商品的吸引力和销售潜力。</li>\n<li><strong>社交媒体营销</strong>：在社交媒体平台上发布吸引人的商品图片，增加用户互动和品牌曝光。</li>\n<li><strong>广告和宣传材料</strong>：为广告和宣传册设计提供专业的商品图片，增强广告效果。</li>\n<li><strong>产品目录和说明书</strong>：在产品目录和说明书中使用，提供清晰、专业的产品视觉展示。</li>\n<li><strong>网站和移动应用</strong>：用在网站和移动应用的商品展示，提升用户体验。</li>\n</ul>"
-      }
-    ],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "liblib-art",
-    "name": "LiblibAI电商营销",
-    "description": "属于AI图像工具·AI商品图生成分类。LiblibAI电商营销场景模型工具，丰富的LoRA模型。支持AI图像工，适合需要AI生成或处理图像的用户。",
-    "url": "https://www.liblib.art/?souceid=005904&utm=cg&cgv=dqndpmwn2z",
-    "categories": [
-      "ai-image"
-    ],
-    "tags": [
-      "AI图像工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-image-product",
-    "logo": "/logos/liblib-art.png",
-    "domain": "liblib.art",
-    "detailed_content": [
-      {
-        "title": "LiblibAI电商营销是什么",
-        "html": "<p>LiblibAI电商营销是<a href=\"https://ai-bot.cn/sites/66771.html\" target=\"_blank\" rel=\"noopener\">LiblibAI</a>平台内专业创作者围绕电商场景训练的专业级LoRA模型，专注于电商领域的图像生成和处理。通过先进的LoRA模型，LiblibAI电商营销板块提供从主图到详情页的一站式图像解决方案，用户能通过简单的提示词生成专业级的商品图像，极大提升电商营销的效率和视觉效果。LiblibAI电商营销简化了图像制作流程，适合需要快速、大量生成高质量电商图像的商家和设计师使用。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-68319\" src=\"https://ai-bot.cn/wp-content/uploads/2025/12/liblib-image-model-website1.png\"   alt=\"LiblibAI电商营销\" width=\"740\" height=\"416\" />"
-      },
-      {
-        "title": "LiblibAI电商营销的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>图像生成与编辑</strong>：基于AI技术生成高质量的商品图像，包括主图、详情页等，同时提供编辑工具调整图像细节。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>风格一致性</strong>：确保生成的图像在风格和色调上保持一致，便于品牌视觉的统一。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>场景渲染</strong>：能将商品图像渲染到不同的虚拟场景中，增强商品的吸引力。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>光影效果</strong>：调整和优化商品图像的光影，模拟真实世界的光照条件，提升图像的真实感。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>材质提质</strong>：增强商品图像中材质的质感，使其看起来更加高端和吸引人。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>构图稳控</strong>：帮助用户控制图像的构图，确保商品在图像中的位置和角度最佳。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>一键换装</strong>：在不改变模特或商品的情况下，快速更换服装或配饰，展示不同风格。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>产品精修</strong>：对产品图像进行精细修饰，包括去除瑕疵、优化色彩等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>视角转换</strong>：提供不同视角的图像生成，满足不同展示需求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>产品迁移与扩图</strong>：将产品图像迁移到新的背景或扩展画布，适应不同的营销材料。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自动化工作流</strong>：提供自动化的工作流程，简化图像生成和编辑过程。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>参数调整</strong>：<span style=\"font-size: 0.875rem;\">支持用户调整模型参数，如参考图尺寸、提示词描述、Lora权重等，获得最佳效果。</span></div>\n</li>\n</ul>"
-      },
-      {
-        "title": "如何使用LiblibAI电商营销",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>访问平台</strong>：<span style=\"font-size: 0.875rem;\">访问LiblibAI电商营销官网 <a href=\"https://www.liblib.art/?souceid=005904&utm=cg&cgv=dqndpmwn2z\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >https://www.liblib.art/image-model</a> ，注册和登录账号。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择模型</strong>：<span style=\"font-size: 0.875rem;\">选择适合电商营销需求的模型，例如用于产品精修、背景生成或场景渲染的模型。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>阅读指南</strong>：<span style=\"font-size: 0.875rem;\">查看模型作者提供的详细指南，了解如何设置参考图尺寸、规范、提示词描述、Lora权重等参数。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>准备参考图</strong>：<span style=\"font-size: 0.875rem;\">根据指南准备或上传参考图像。确保图像符合模型要求的尺寸和质量。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>编写提示词</strong>：<span style=\"font-size: 0.875rem;\">根据想要的图像效果编写提示词。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>设置参数</strong>：<span style=\"font-size: 0.875rem;\">根据模型的推荐设置Lora权重和其他相关参数。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>应用工作流</strong>：<span style=\"font-size: 0.875rem;\">如果有现成的工作流，按照工作流的步骤进行操作，能简化操作流程。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>生成图像</strong>：<span style=\"font-size: 0.875rem;\">点击生成按钮，让AI根据提供的参考图和提示词生成图像。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>预览和调整</strong>：<span style=\"font-size: 0.875rem;\">查看生成的图像预览。如果需要，调整提示词或参数重新生成。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>下载图像</strong>：<span style=\"font-size: 0.875rem;\">对生成的图像满意时，下载图像到本地。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>使用图像</strong>：<span style=\"font-size: 0.875rem;\">将下载的图像用于电商平台的商品展示、广告、社交媒体推广等。</span></div>\n</li>\n</ul>"
-      },
-      {
-        "title": "LiblibAI电商营销的使用示例",
-        "html": "<blockquote><p>Chiaroscuro light,the image features a minimalist composition with a hand silhouetted against a soft,gradient background,gently holding a transparent glass bottle,the bottle contains a golden-yellow liquid and is topped with a sleek,metallic spray nozzle,the label on the bottle displays elegant,vertical Chinese characters,with two large black characters Xiu Mu prominently centered,meaning rotten wood or decaying wood,smaller text appears above and below,including product details such as volume (Net content:150ml) and possibly ingredients or branding,a subtle shadow from the hand and bottle stretches across the dark surface below,enhancing depth,the lighting is dramatic yet refined,emphasizing the bottle’s transparency and the liquid’s warm hue,the overall aesthetic conveys simplicity,elegance,and a sense of quiet sophistication.明暗对比光影，这幅图像以极简构图呈现，一只手的剪影映衬在柔和的渐变背景前，轻握着一个透明的玻璃瓶。瓶内盛有金黄色的液体，瓶口配有时尚的金属喷雾喷嘴。瓶身标签饰以优雅的竖排中文字体，中央醒目地印着两个大黑色汉字——“朽木”，周围上下附有产品细节，如净含量（150毫升）及可能的成分或品牌信息。手与瓶投下的微妙阴影延伸至下方暗色表面，增强了画面的纵深感。光线戏剧化而精致，突显了瓶身的通透感与液体的温暖色调，整体美学传达出一种简约、优雅与静谧的精致感。</p></blockquote>\n<p><strong>文本提示生成</strong></p>\n<img decoding=\"async\" class=\"alignnone wp-image-68321\" src=\"https://ai-bot.cn/wp-content/uploads/2025/12/liblib-image-model-website3.png\"   alt=\"LiblibAI电商营销\" width=\"740\" height=\"416\" />\n<p><strong>工作流生成</strong></p>\n<img decoding=\"async\" class=\"alignnone wp-image-68322\" src=\"https://ai-bot.cn/wp-content/uploads/2025/12/liblib-image-model-website4.png\"   alt=\"LiblibAI电商营销\" width=\"740\" height=\"416\" />"
-      },
-      {
-        "title": "LiblibAI电商营销的产品定价",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>基础版VIP连续包月</strong>：价格为39元，提供每月15000点算力，20GB存储空间，每月800次生图加速，3个生图任务并行。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">基础版VIP 12个月</strong>：价格为336元，提供每月15000点算力，20GB存储空间，每月800次生图加速，3个生图任务并行。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>专业版VIP连续包月</strong>：价格为70元，提供每月35000点算力，50GB存储空间，每月5000次生图加速，6个生图任务并行，可训练XL模型。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>专业版VIP 12个月</strong>：价格为672元，提供每月35000点算力，50GB存储空间，每月5000次生图加速，6个生图任务并行，可训练XL模型。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>大师版VIP 12个月</strong>：价格为1600元，提供每月90000点算力，130GB存储空间，每月30000次生图加速，10个生图任务并行，可训练XL模型。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "LiblibAI电商营销的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>商品展示</strong>：用在生成吸引顾客注意的高质量商品主图和详情页图像，提升电商平台上的产品展示效果。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">广告和促销</strong>：设计引人入胜的广告图像和促销材料，用于社交媒体、搜索引擎和网站，增加品牌曝光和吸引潜在客户。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>品牌营销</strong>：制作与品牌形象一致的营销图像，加强品牌识别度，确保所有营销材料的视觉风格统一。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>社交媒体内容</strong>：为Instagram、Facebook、微博等社交媒体平台定制图像和视频内容，提高用户参与度和品牌互动。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>产品目录和宣传册</strong>：为产品目录和宣传册生成专业的产品图像，提高印刷材料的吸引力和信息传达效果。</div>\n</li>\n</ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -6163,44 +5961,6 @@
     "updatedAt": "2026-09-27"
   },
   {
-    "slug": "liblib-art-2",
-    "name": "LiblibAI抠图",
-    "description": "LiblibAI抠图是一款AI图像工具领域的免费增值AI工具，LiblibAI推出的AI抠图工作流。支持AI图像工。",
-    "url": "https://www.liblib.art/?souceid=005904&utm=cg&cgv=dqndpmwn2z",
-    "categories": [
-      "ai-image"
-    ],
-    "tags": [
-      "AI图像工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-image-background-remove",
-    "logo": "/logos/liblib-art-2.png",
-    "domain": "liblib.art",
-    "detailed_content": [
-      {
-        "title": "LiblibAI抠图是什么",
-        "html": "<p>LiblibAI抠图是<a href=\"https://ai-bot.cn/sites/66771.html\" target=\"_blank\" rel=\"noopener\">LiblibAI</a>（哩布哩布AI）推出的AI抠图工作流，主要应用在电商工作流的“一键去除背景”功能上。用户只需上传商品图片，LiblibAI抠图即可智能识别商品主体并自动抠图。用户可以选择系统提供的多种背景样式或上传自定义背景，完成背景替换。功能操作简单，适合电商新手和没有专业设计基础的用户，能快速提升商品图的专业性和视觉效果。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-68304\" src=\"https://ai-bot.cn/wp-content/uploads/2025/12/LiblibAI-remove-website-1.png\"   alt=\"LiblibAI抠图\" width=\"741\" height=\"417\" />"
-      },
-      {
-        "title": "LiblibAI抠图的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>智能识别与抠图</strong>：LiblibAI 能智能识别商品图片中的主体，精准抠出，为后续的背景替换等操作提供基础。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>背景替换与融合</strong>：用户可以上传一张风格类似的背景参考图，LiblibAI 会根据参考图的提示词创建新的背景，智能调整光影和色调，使产品与背景的融合效果自然。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>操作简便</strong>：无论是在线运行还是本地运行，操作过程都较为简单。在线运行适合新手，直接点开工作流上传文件即可；本地运行虽然需要一定的配置，但也能满足对硬件性能要求较高的用户。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "如何使用LiblibAI抠图",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">下载工作流</strong>：打开 LiblibAI抠图官网 <a href=\"https://www.liblib.art/?souceid=005904&utm=cg&cgv=dqndpmwn2z\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >www.liblib.art/workflows</a> ，进入工作流选择界面，选择“抠图”功能，选择下载所选工作流或应用。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">选择运行方式</strong>：可以选择在线运行或本地运行。在线运行适合新手，直接点开工作流上传文件即可；本地运行需要先安装 ComfyUI 和相关节点模型，并调整参数配置。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>上传图片</strong>：准备产品图和参考图，上传到工作流中。产品图是需要处理的商品图片，参考图是风格类似的背景图片。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>点击生成</strong>：确认图片上传后，点击“生成”按钮，工作流会先将产品抠出，然后根据参考图的提示词创建背景，并智能调整光影和色调，整个过程大概需要 1-3 分钟，具体时间取决于图片大小和硬件性能。</div>\n</li>\n<li><strong>注意事项</strong></li>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>\n<div class=\"paragraph\"><strong>图片质量</strong>：上传的产品图和参考图质量越高，生成效果通常越好。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>硬件要求</strong>：如果选择本地运行，需要确保电脑硬件配置满足要求，如显存至少要 8GB。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>生成时间</strong>：生成时间会因图片大小和硬件性能而有所不同，耐心等待即可。</div>\n</li>\n</ul>\n</li>\n</ul>"
-      },
-      {
-        "title": "LiblibAI抠图的应用场景",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>电商产品图处理</strong>：快速将商品从原始背景中精准抠出，替换为更具吸引力的背景，提升商品展示效果，适用于电商平台的商品详情页和宣传海报制作。</li>\n<li class=\"paragraph\"><strong>社交媒体内容创作</strong>：为社交媒体平台制作个性化的图片内容，通过抠图替换背景，使图片风格更符合特定主题或活动，增强视觉吸引力。</li>\n<li class=\"paragraph\"><strong>设计与创意工作</strong>：设计师可以使用抠图功能将不同元素从原图中提取出来，重新组合到新的设计场景中，快速生成创意概念图或进行视觉效果的测试。</li>\n<li class=\"paragraph\"><strong>广告与营销素材制作</strong>：在广告设计中，抠图功能可以帮助将产品或人物与广告背景完美融合，制作出更具说服力和吸引力的广告素材，提高广告效果。</li>\n<li class=\"paragraph\"><strong>个人照片美化</strong>：用户可以对个人照片进行抠图，更换背景，用于制作电子相册、社交媒体分享或打印照片等，让照片更具个性和创意。</li>\n</ul>"
-      }
-    ],
-    "updatedAt": "2026-09-27"
-  },
-  {
     "slug": "cutout-designkit-com",
     "name": "美图抠图",
     "description": "属于AI图像工具·AI图片背景移除分类。美图秀秀推出的AI智能抠图工具，一键移除背景。支持AI图像工，适合需要AI生成或处理图像的用户。",
@@ -6317,27 +6077,6 @@
       }
     ],
     "updatedAt": "2026-09-28"
-  },
-  {
-    "slug": "tool32253",
-    "name": "Pic Copilot AI抠图",
-    "description": "属于AI图像工具·AI图片背景移除分类。Pic Copilot推出的AI抠图工具，支持批量抠图。支持AI图像工，适合需要AI生成或处理图像的用户。",
-    "url": "https://www.piccopilot.com/create",
-    "categories": [
-      "ai-image"
-    ],
-    "tags": [
-      "AI图像工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-image-background-remove",
-    "logo": "/logos/tool32253.png",
-    "domain": "piccopilot.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
   },
   {
     "slug": "photonaiclub-com-2",
@@ -6548,27 +6287,6 @@
     "subcategory": "ai-image-background-remove",
     "logo": "/logos/tool313.png",
     "domain": "adobe.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "tool87",
-    "name": "Removal.AI",
-    "description": "属于AI图像工具·AI图片背景移除分类。Removal.AI是一款AI图像工具领域的免费增值AI工具，AI图片背景移除工具。支持AI图像工。",
-    "url": "https://removal.ai",
-    "categories": [
-      "ai-image"
-    ],
-    "tags": [
-      "AI图像工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-image-background-remove",
-    "logo": "/logos/tool87.png",
-    "domain": "removal.ai",
     "detailed_content": [],
     "updatedAt": "2026-09-27"
   },
@@ -6988,7 +6706,7 @@
     "slug": "tool58",
     "name": "Canva AI图像生成",
     "description": "属于AI图像工具·AI图片插画生成分类。在线设计工具Canva推出的AI图像生成工具。支持AI图像工，适合需要AI生成或处理图像的用户。",
-    "url": "https://www.katuai.cn/?from=ai-bot",
+    "url": "https://www.canva.cn/",
     "categories": [
       "ai-image"
     ],
@@ -7001,9 +6719,9 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
     "logo": "/logos/tool58.png",
-    "domain": "katuai.cn",
+    "domain": "canva.cn",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "photo-baidu-com",
@@ -7313,7 +7031,7 @@
     "slug": "visual-electric",
     "name": "Visual Electric",
     "description": "Visual Electric是一款AI图像工具领域的免费增值AI工具，专业的高质量AI图像创作工具。支持AI图像工。",
-    "url": "https://acgnai.art/",
+    "url": "https://visualelectric.com/",
     "categories": [
       "ai-image"
     ],
@@ -7326,7 +7044,7 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-image-illustration",
     "logo": "/logos/visual-electric.png",
-    "domain": "acgnai.art",
+    "domain": "visualelectric.com",
     "detailed_content": [
       {
         "title": "Visual Electric是什么",
@@ -7353,7 +7071,7 @@
         "html": "<div id=\"accordion\" style=\"max-width: 700px;\">\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Visual Electric是免费的吗？</strong></div>\n<div class=\"card-body text-sm\">Visual Electric提供免费版本，用户每天可以进行40次图片生成。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Visual Electric基于什么模型？</strong></div>\n<div class=\"card-body text-sm\">Visual Electric的图片生成能力基于Stable Diffusion，提示词建议基于GPT-3.5 Turbo。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Visual Electric支持哪些平台？</strong></div>\n<div class=\"card-body text-sm\">Visual Electric目前只提供了网页版，后续将会推出桌面端和移动端APP。</div>\n</div>\n</div>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool6840",
@@ -7546,44 +7264,6 @@
     "updatedAt": "2026-09-27"
   },
   {
-    "slug": "ihuiwa-com-2",
-    "name": "绘蛙AI高清",
-    "description": "属于AI图像工具·AI图片优化修复分类。绘蛙AI高清是一款AI图像工具领域的免费增值AI工具，绘蛙推出的AI图像高清修复工具。支持AI图像工。",
-    "url": "https://www.ihuiwa.com/workspace/partial-redraw?editType=enhance-image&huiwaInviteCode=EMRCAL",
-    "categories": [
-      "ai-image"
-    ],
-    "tags": [
-      "AI图像工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-image-enhance",
-    "logo": "/logos/ihuiwa-com-2.png",
-    "domain": "ihuiwa.com",
-    "detailed_content": [
-      {
-        "title": "绘蛙AI高清是什么",
-        "html": "<p>绘蛙AI高清是绘蛙推出的AI图像高清修复工具，用于提升图片清晰度和画质。用户只需上传图片，绘蛙可自动识别并修复图片中的模糊、低分辨率、噪点等问题，提升图像的整体质感和细节表现。绘蛙支持图片尺寸在400×400至8192×8192之间，文件大小不超过15MB，适用于电商商品图、社交媒体内容等多种场景。绘蛙AI采用先进的图像增强算法，能智能还原细节，图片更具视觉吸引力，帮助用户降低拍摄成本、提高内容质量。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-56511\" src=\"https://ai-bot.cn/wp-content/uploads/2025/07/ihuiwa-partial-redraw-website.png\"   alt=\"绘蛙AI高清\" width=\"738\" height=\"415\" />"
-      },
-      {
-        "title": "绘蛙AI高清的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">智能提升分辨率</strong>：基于深度学习算法，对低分辨率图片进行智能放大和细节重建，有效提升图片的清晰度和质感，使模糊图片变得更加锐利、真实。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">自动降噪与细节增强</strong>：在高清修复过程中，系统会自动识别图片中的噪点、模糊区域，进行降噪处理和细节增强，恢复图片中丢失的纹理、边缘和结构信息。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">一键操作，简单易用</strong>：用户只需上传图片，系统可自动完成修复过程，无需复杂参数设置或专业技能，适合电商卖家、内容创作者等非专业用户快速优化图片。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">适配多种电商与社交场景</strong>：修复后的图片可直接用于淘宝、天猫、京东、小红书、跨境电商等平台的商品展示、主图优化、种草内容等，提升视觉吸引力和转化率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">与其他图像处理功能协同使用</strong>：高清修复可与绘蛙的其他功能（如一键美图、去水印、换装、局部重绘等）组合使用，实现更全面的图片优化效果。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "如何使用绘蛙AI高清",
-        "html": "<ul>\n<li><strong>访问功能页面</strong>：打开<a href=\"https://www.ihuiwa.com/workspace/partial-redraw?editType=enhance-image&huiwaInviteCode=EMRCAL\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >绘蛙AI高清官网</a>，进入【AI修图】页面，选择“高清修复”功能模块。</li>\n<li><strong>上传图片</strong>：点击上传按钮，选择你需要修复的图片。系统支持以下图片规格：\n<ul>\n<li>\n<div class=\"paragraph\"><strong>分辨率</strong>：大于400×400，小于8192×8192</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>文件大小</strong>：20KB 至 15MB</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>格式</strong>：常见图片格式如 JPG、PNG 等</div>\n</li>\n</ul>\n</li>\n<li class=\"paragraph\"><strong>自动修复处理</strong>：上传后，系统会自动识别图片中的模糊、低清、噪点等问题，进行智能增强处理，包括：提升分辨率；增强细节与纹理；降噪与锐化处理。</li>\n<li class=\"paragraph\"><strong>预览与下载</strong>：修复完成后，你可以在线预览效果，满意后直接下载高清图片用于商品展示、社交媒体发布等场景。</li>\n<li><strong>注意事项</strong>：请确保上传的图片为你本人拥有或已获得合法授权，避免侵权。</li>\n</ul>"
-      },
-      {
-        "title": "绘蛙AI高清的应用场景",
-        "html": "<ul>\n<li><strong>电商平台商品图优化</strong>：商家可以修复商品图片的模糊、低分辨率等问题，使商品展示更加清晰、专业，提升用户购买欲望。</li>\n<li><strong>跨境电商图片处理</strong>：绘蛙AI高清修复能帮助商家快速优化图片，满足不同国家和地区消费者对高质量图片的需求。</li>\n<li><strong>社交媒体内容创作</strong>：在小红书、微博、抖音等社交媒体平台，高质量的图片内容更容易吸引用户关注。可以帮助内容创作者、博主和达人快速修复和优化图片，提升内容的视觉效果和传播效果。</li>\n<li><strong>商品图片后期处理</strong>：商家在拍摄商品图片后，会遇到图片模糊、细节不清晰等问题。绘蛙AI高清可以自动识别修复这些问题，减少人工修图的时间和成本，提高工作效率。</li>\n<li><strong>老照片或历史图片修复</strong>：适用于老照片、历史图片的修复和优化。通过AI技术，能有效提升旧图片的清晰度和细节表现，恢复图片原有的视觉效果。</li>\n</ul>"
-      }
-    ],
-    "updatedAt": "2026-09-27"
-  },
-  {
     "slug": "designkit-cn-2",
     "name": "美图无损放大",
     "description": "属于AI图像工具·AI图片无损放大分类。美图无损放大是一款AI图像工具领域的免费增值AI工具，美图设计室推出的AI图片变清晰工具。支持AI图像工。",
@@ -7617,44 +7297,6 @@
       {
         "title": "美图无损放大的应用场景",
         "html": "<ul>\n<li><strong>电商平台</strong>：电商卖家可以使用美图无损放大功能来提高产品图片的清晰度，提升商品的吸引力和销售效果。</li>\n<li><strong>个人创作</strong>：个人创作者可以用美图无损放大功能来制作个人作品展示、个人品牌推广等。</li>\n<li><strong>老照片修复</strong>：AI技术可以自动修复因年代久远而模糊的老照片，恢复其原有的清晰度和色彩。</li>\n<li><strong>视频清晰度提升</strong>：将低分辨率的视频帧通过AI放大并增强，提升整个视频的清晰度。</li>\n<li><strong>设计师和摄影师</strong>：适合需要放大图片，担心失真问题的专业设计师和摄影师，用于提升图片质量。</li>\n<li><strong>广告制作人员</strong>：广告制作人员可以用美图无损放大功能来增强广告图像的清晰度和细节。</li>\n</ul>"
-      }
-    ],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "liblib-art-3",
-    "name": "LiblibAI高清放大",
-    "description": "属于AI图像工具·AI图片无损放大分类。LiblibAI推出的AI高清放大工作流。支持AI图像工，适合需要AI生成或处理图像的用户。",
-    "url": "https://www.liblib.art/?souceid=005904&utm=cg&cgv=dqndpmwn2z",
-    "categories": [
-      "ai-image"
-    ],
-    "tags": [
-      "AI图像工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-image-upscale",
-    "logo": "/logos/liblib-art-3.png",
-    "domain": "liblib.art",
-    "detailed_content": [
-      {
-        "title": "LiblibAI高清放大是什么",
-        "html": "<p>LiblibAI高清放大是<a href=\"https://ai-bot.cn/sites/66771.html\" target=\"_blank\" rel=\"noopener\">LiblibAI</a>推出的AI高清放大工作流，基于先进的超分辨率技术，支持多种模型，能显著提升图像的清晰度和细节。主要用于将图像放大分辨率，适用于需要极高清晰度的图像输出，如专业图像展示或高清壁纸等。为用户提供了强大的图像高清放大能力，满足不同场景下的需求。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-68440\" src=\"https://ai-bot.cn/wp-content/uploads/2025/12/LiblibAI-big-website.png\"   alt=\"LiblibAI高清放大\" width=\"739\" height=\"416\" />"
-      },
-      {
-        "title": "LiblibAI高清放大的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">多种模型支持</strong>：LiblibAI支持多种超分辨率模型，如R-ESRGAN_4x+Anime6B、SUPIR-v0F和4x-UltraSharp等。这些模型针对不同风格的图像（如动漫、写实等）进行了优化，能根据图像类型选择合适的模型，获得更理想的放大效果。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>低显存运行</strong>：通过优化算法，LiblibAI的高清放大功能可以在较低的显存条件下运行。例如，使用InvSR模型时，最低仅需8G显存即可实现4K图像的高清放大。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">快速处理</strong>：高清放大功能的处理速度较快，单图4K的放大处理大约仅需21秒。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>集成于ComfyUI工作流</strong>：LiblibAI的高清放大功能可以通过ComfyUI的工作流实现，用户可以方便地将高清放大节点集成到工作流中。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "如何使用LiblibAI高清放大",
-        "html": "<ul>\n<li><strong>加载高清放大工作流</strong>：访问LiblibAI官网 <a href=\"https://www.liblib.art/?souceid=005904&utm=cg&cgv=dqndpmwn2z\" target=\"_blank\" rel=\"noopener\" rel=\"nofollow noopener\"  class=\"external\" >www.liblib.art/workflows</a> ，找到工作流，选择高清放大功能，点击“在ComfyUI中运行”，跳转到ComfyUI界面。</li>\n<li><strong>上传图片</strong>：在ComfyUI操作界面中找到“加载图像”节点，点击“choose file to upload”，从电脑中选择需要放大的图片。</li>\n<li class=\"paragraph\"><strong>调整参数</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>调整重绘幅度</strong>：找到“基础调度器”节点，调整降噪参数（重绘幅度）。数值过低会使细节不够丰富，过高则可能偏离原图构想，建议控制在0.23-0.4之间。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择模型（可选）</strong>：在工作流右上方的“UNET加载器”节点中，可更换默认模型，选择与图片风格匹配的大模型，但需确保基础算法是F.1系列。</div>\n</li>\n</ul>\n</li>\n<li><strong>运行工作流</strong>：所有参数调整完毕后，点击右上角的“运行”按钮，等待AI完成处理。</li>\n<li><strong>保存结果</strong>：处理完成后，在界面右下角找到“保存图像”节点，右键点击生成的图片并选择“保存图像”。</li>\n</ul>"
-      },
-      {
-        "title": "LiblibAI高清放大的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>动漫图像高清放大</strong>：使用R-ESRGAN_4x+Anime6B模型，适用于动漫风格图像的高清放大，能保留动漫特有的线条和色彩风格，增强图像细节，适合制作高清动漫壁纸或素材。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>写实图像高清放大</strong>：通过4x-UltraSharp等模型，对写实风格的图像进行高清放大，适用于风景、人像等写实图像，可提升图像清晰度，用于高质量的图像展示或打印。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>专业图像处理</strong>：在需要高分辨率输出的场景中，如广告设计、艺术创作等，使用高清放大功能可以将低分辨率图像放大至4K甚至更高分辨率，满足专业需求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>老旧图像修复</strong>：对于老旧或低质量的图像，高清放大功能可以帮助恢复图像细节，提升清晰度，使其更适合现代展示或进一步编辑。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>视频帧高清放大</strong>：在视频制作中，对关键帧进行高清放大，可以提升视频的整体视觉效果，尤其是在需要高清展示的视频内容中，如纪录片、广告等。</div>\n</li>\n</ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -8263,44 +7905,6 @@
       {
         "title": "美图AI消除的应用场景",
         "html": "<ul>\n<li><strong>旅行摄影</strong>：在旅行中拍摄的照片可能会有路人或其他杂物干扰画面，美图AI消除可以帮助去除这些不需要的元素，让照片更加完美。</li>\n<li><strong>电商图片处理</strong>：电商卖家需要为商品图片去除无关的水印或商标，提升商品的专业度和视觉效果。</li>\n<li><strong>教育机构</strong>：教育机构可能需要为课件或教学素材去除水印，保障视觉效果。</li>\n<li><strong>产品摄影</strong>：在产品摄影中，去除背景中的杂物或不必要的元素，可以更好地突出产品本身。</li>\n</ul>"
-      }
-    ],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "liblib-art-4",
-    "name": "LiblibAI去水印",
-    "description": "LiblibAI去水印是一款AI图像工具领域的免费增值AI工具，LiblibAI推出的AI去水印工作流。支持AI图像工。",
-    "url": "https://www.liblib.art/?souceid=005904&utm=cg&cgv=dqndpmwn2z",
-    "categories": [
-      "ai-image"
-    ],
-    "tags": [
-      "AI图像工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-image-object-remove",
-    "logo": "/logos/liblib-art-4.png",
-    "domain": "liblib.art",
-    "detailed_content": [
-      {
-        "title": "LiblibAI去水印是什么",
-        "html": "<p>LiblibAI去水印是<a href=\"https://ai-bot.cn/sites/66771.html\" target=\"_blank\" rel=\"noopener\">LiblibAI</a>推出的AI去水印工作流，用户只需简单输入指令，如“把（水印颜色和位置）移除掉”，可快速去除图片中的水印，保持与原图的高精度融合和自然效果。LiblibAI去水印支持指定区域的水印移除，例如“把红色线框内的水印移除掉”，操作灵活且精准。无需复杂的涂抹操作，使用门槛低，特别适合电商设计师等需要快速处理图片的用户。能去除水印，能消除其他不需要的元素，如物品、光效、妆容等，应用场景广泛。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-68306\" src=\"https://ai-bot.cn/wp-content/uploads/2025/12/LiblibAI-qsy-website.png\"   alt=\"LiblibAI去水印\" width=\"741\" height=\"417\" />"
-      },
-      {
-        "title": "LiblibAI去水印的主要功能",
-        "html": "<ul>\n<li class=\"paragraph\"><strong class=\"\">简单指令操作</strong>：用户只需输入简单的指令，如“把（水印颜色和位置）移除掉”，即可实现水印的快速去除，无需复杂的操作步骤。</li>\n<li class=\"paragraph\"><strong>高精度融合</strong>：去除水印后，工作流能保持与原图的高精度融合，确保图片整体自然、无痕迹。</li>\n<li class=\"paragraph\"><strong>指定区域移除</strong>：支持指定区域的水印移除，用户可以通过描述特定区域（如“红色线框内”）来精准去除水印，操作灵活。</li>\n<li class=\"paragraph\"><strong>多场景应用</strong>：不仅适用于去除水印，还能消除图片中的其他不需要的元素，如物品、光效、妆容等，应用场景广泛。</li>\n<li class=\"paragraph\"><strong>便捷高效</strong>：操作简单，无需复杂的涂抹或手动编辑，大大提高了图片处理的效率，尤其适合电商设计师等需要快速处理图片的用户。</li>\n</ul>"
-      },
-      {
-        "title": "如何使用LiblibAI去水印",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>准备工作</strong>：登录LiblibAI去水印官网 <a href=\"https://www.liblib.art/?souceid=005904&utm=cg&cgv=dqndpmwn2z\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >https://www.liblib.art/workflows</a> ，进入工作流选择界面，选择“去水印”功能，找到对应的去水印工作流，准备好需要处理的图片。</li>\n<li class=\"paragraph\"><strong>上传图片</strong>：将带有水印的图片上传到工作流界面中，确保图片清晰且格式符合平台要求。</li>\n<li class=\"paragraph\"><strong>输入指令</strong>：在工作流的指令输入框中，根据水印的具体情况输入相应的指令，如“把图片中的水印移除掉”或“把红色线框内的水印移除掉”，明确指出需要去除的内容和位置。</li>\n<li class=\"paragraph\"><strong>执行操作</strong>：点击“开始”或“执行”按钮，工作流将根据输入的指令和设置的权重自动处理图片，去除水印。</li>\n<li class=\"paragraph\"><strong>查看结果</strong>：处理完成后，查看生成的图片，检查水印是否被成功去除，图片整体是否自然、无痕迹。</li>\n<li class=\"paragraph\"><strong>优化调整</strong>：如果效果不理想，可以修改指令或调整权重，重新执行操作，直至达到满意的效果。</li>\n<li class=\"paragraph\"><strong>下载保存</strong>：确认效果后，将处理后的图片下载保存到本地，完成整个去水印流程。</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-68308\" src=\"https://ai-bot.cn/wp-content/uploads/2025/12/LiblibAI-qsy-website2.png\"   alt=\"\" width=\"711\" height=\"400\" />"
-      },
-      {
-        "title": "LiblibAI去水印的应用场景",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>电商图片处理</strong>：快速去除商品图片中的水印，提升商品展示效果，增强视觉吸引力。</li>\n<li class=\"paragraph\"><strong>设计素材优化</strong>：清除设计素材中的水印或无关元素，方便进行创意设计和二次创作。</li>\n<li class=\"paragraph\"><strong>内容创作</strong>：在制作视频、博客或社交媒体内容时，去除图片中的干扰元素，保持内容的整洁和专业性。</li>\n<li class=\"paragraph\"><strong>广告制作</strong>：移除广告图片中的水印，确保广告素材的清晰度和品牌形象的一致性。</li>\n<li class=\"paragraph\"><strong>文档整理</strong>：去除扫描文档或截图中的水印，便于文档的编辑和分享。</li>\n<li class=\"paragraph\"><strong>学术研究</strong>：在学术论文或报告中使用图片时，去除水印以符合版权要求或提升视觉效果。</li>\n<li class=\"paragraph\"><strong>个人照片美化</strong>：去除个人照片中的水印或其他不必要元素，提升照片的美观度和专业感。</li>\n</ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -9294,27 +8898,6 @@
         "html": "<ul>\n<li><strong>电商产品展示</strong>：用于电商平台的商品详情页，通过视频展示商品的使用方式、特点和效果，提高商品的吸引力。</li>\n<li><strong>社交媒体营销</strong>：在社交媒体平台上发布视频内容，吸引粉丝和潜在客户的注意力，增加品牌的曝光度。</li>\n<li><strong>广告宣传</strong>：制作广告视频，用于线上或线下的广告投放，以动态视频的形式传达广告信息。</li>\n<li><strong>时尚和服装展示</strong>：展示服装模特穿着效果，为时尚品牌和服装电商提供动态的服装展示。</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "tool61400",
-    "name": "堆友AI视频",
-    "description": "属于AI视频工具·AI视频生成分类。堆友AI视频是一款AI视频工具领域的免费增值AI工具，堆友推出的AI视频生成工具。支持AI视频工。",
-    "url": "https://d.design/ai/generate?from=ab13",
-    "categories": [
-      "ai-video"
-    ],
-    "tags": [
-      "AI视频工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-video-generation",
-    "logo": "/logos/tool61400.png",
-    "domain": "d.design",
-    "detailed_content": [],
     "updatedAt": "2026-09-27"
   },
   {
@@ -18407,7 +17990,7 @@
     "slug": "mashangfei",
     "name": "码上飞",
     "description": "属于AI开发平台·ai-coding-generator分类。码上飞是一款AI开发平台领域的免费增值AI工具，一句话生成微信小程序、APP、H5网页。支持AI智能体。",
-    "url": "https://ml-explore.github.io/mlx/build/html/index.html",
+    "url": "https://www.codeflying.net/",
     "categories": [
       "ai-platform",
       "ai-agent",
@@ -18422,7 +18005,7 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
     "logo": "/logos/mashangfei.png",
-    "domain": "ml-explore.github.io",
+    "domain": "codeflying.net",
     "detailed_content": [
       {
         "title": "码上飞是什么",
@@ -18445,7 +18028,7 @@
         "html": "<ul>\n<li><strong>电商类应用</strong>：快速创建含商品展示、购物车、支付等功能的电商平台。</li>\n<li><strong>教育类应用</strong>：生成在线教育平台，提供课程学习、在线测试、互动交流等功能。</li>\n<li><strong>工具类应用</strong>：开发记账、健康管理、天气查询等实用工具。</li>\n<li><strong>社交类应用</strong>：创建具备用户互动、信息分享、群组交流功能的社交平台。</li>\n<li><strong>企业服务类应用</strong>：开发CRM、项目管理、员工考勤等企业内部管理工具。</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "qoder-com",
@@ -19043,56 +18626,6 @@
       {
         "title": "QClaw的应用场景",
         "html": "<ul>\n<li class=\"paragraph\"><strong>移动办公场景</strong>：人在外勤或通勤途中，微信一句话能远程打开电脑里的报表文件，自动计算汇总并返回结果。</li>\n<li class=\"paragraph\"><strong>社媒运营场景</strong>：自媒体从业者无需时刻盯着手机，让 QClaw 自动生成小红书笔记、一键发布，自动回复评论互动。</li>\n<li class=\"paragraph\"><strong>编程开发场景</strong>：开发者只需描述需求，QClaw 能自动创建项目框架、编写代码、提交到 GitHub 仓库，大幅缩短从创意到代码的实现路径。</li>\n<li class=\"paragraph\"><strong>学术研究场景</strong>：研究生或科研人员面对文献综述任务时，QClaw 可自动检索近年限定主题的论文，筛选高引文献，整理成格式规范的综述文档并导出，提升科研效率。</li>\n<li class=\"paragraph\"><strong>日常生活场景</strong>：支持设置每日定时提醒，自动推送天气状况并给出穿衣建议，成为比闹钟更贴心的个人生活助理。</li>\n</ul>"
-      }
-    ],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "loomy-xunfei-cn",
-    "name": "科大讯飞推出的桌面级 AI 个人助理",
-    "description": "科大讯飞推出的桌面级 AI 个人助理是一款AI智能体领域的免费增值AI工具，科大讯飞推出的桌面级 AI 个人助理。支持AI智能体。",
-    "url": "https://loomy.xunfei.cn/",
-    "categories": [
-      "ai-agent"
-    ],
-    "tags": [
-      "AI智能体"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-agent-framework",
-    "logo": "/logos/loomy-xunfei-cn.png",
-    "domain": "loomy.xunfei.cn",
-    "detailed_content": [
-      {
-        "title": "Loomy是什么",
-        "html": "<p>Loomy 是科大讯飞推出的桌面级 AI 个人助理，基于 <a href=\"https://ai-bot.cn/sites/73413.html\" target=\"_blank\" rel=\"noopener\">AstronClaw</a> 打造，主打”零配置、下载即用”。支持文件整理、内容创作、数据分析、网页操作、邮件处理等多步骤任务自动执行，深度适配QQ、飞书、钉钉等主流IM工具，用户可通过手机远程操控电脑。Loomy 采用”目录级隔离”安全机制，仅访问授权工作目录，兼顾效率与企业级数据安全。兼容OpenClaw技能体系和MCP协议，支持DeepSeek、MiniMax等模型自由切换。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/04/Loomy-website3.png\" data-fancybox=\"fancybox\" data-caption=\"Loomy\"><img decoding=\"async\" class=\"alignnone wp-image-75982\" src=\"https://ai-bot.cn/wp-content/uploads/2026/04/Loomy-website3.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Loomy\" width=\"740\" height=\"416\"></a>"
-      },
-      {
-        "title": "Loomy的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>文件管理</strong>：扫描目录、归类文件、查找重复项、自动整理桌面和下载文件夹。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>内容创作</strong>：自动生成文案、视频脚本、图文初稿，支持热点追踪与选题推荐。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>数据分析</strong>：快速读懂表格、报表和会议纪要，提炼重点、整理结论和待办事项。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>网页操作</strong>：自动执行网页浏览、信息检索等任务。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>邮件处理</strong>：自动撰写、发送邮件，汇总邮件生成优先级清单。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>消息协同</strong>：读取文件提炼重点，同步输出到QQ、飞书、钉钉等聊天软件。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>远程操控</strong>：通过手机IM远程打开文件、检查进度、查找文档并简单编辑。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>电商运营</strong>：管理商品、客服和订单，生成标题卖点文案、自动回复话术。</div>\n</li>\n<li><strong>PPT 引导式创建</strong>：输入 PPT 主题后，选择题形式自定义页数规模、配图方案等关键参数，可输出逻辑完整、排版规范的专业级 PPT 底稿，</li>\n<li><strong>多任务并行</strong> 支持同时开启多个对话窗口，整理数据、写报告、盯竞品等各任务互不干扰。</li>\n</ul>"
-      },
-      {
-        "title": "Loomy的关键信息和使用要求",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>产品定位</strong>：科大讯飞推出的桌面级AI助理，基于AstronClaw打造，主打本地办公场景。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>核心卖点</strong>：零配置、下载即用，最快1分钟即可启动，不用像OpenClaw手动配置开发环境。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>安全机制</strong>：采用”目录级隔离”，仅允许AI访问用户授权的工作目录，超出范围需二次授权确认。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>IM适配</strong>：深度打通QQ、飞书、钉钉等主流IM工具，手机可远程操控电脑。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>生态兼容</strong>：完全兼容OpenClaw技能体系，支持MCP协议，内置SkillHub技能广场。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>模型支持</strong>：支持DeepSeek、MiniMax等主流模型自由切换，可通过API Key调用讯飞星火等国内外旗舰模型。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>首发福利</strong>：新用户无门槛赠送10,000积分（相当于100个任务）。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>系统要求</strong>：需安装桌面客户端，绑定授权目录和工具后即可使用。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "Loomy的核心优势",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>极简部署</strong>：下载安装包，选择授权目录，绑定工具，最快1分钟即可启动，不用像OpenClaw手动配置开发环境。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>目录级隔离安全机制</strong>：仅允许AI访问用户授权的工作目录，任何超出范围的操作需二次授权确认，降低数据泄露风险，适合企业级安全合规。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>IM深度适配</strong>：与QQ、飞书、钉钉等主流IM工具打通，手机成为远程控制台，通勤途中也能处理工作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>生态开放</strong>：兼容OpenClaw技能体系，支持MCP协议，内置SkillHub技能广场，支持DeepSeek、MiniMax等主流模型自由切换。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>智能任务拆解</strong>：自动理解用户意图，拆解任务步骤，可视化、可追踪、可干预，指令不清晰时主动追问。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "如何使用Loomy",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>下载安装</strong>：访问 Loomy 官网 https://loomy.xunfei.cn/ ，下载安装包并完成安装。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择授权目录</strong>：设置Loomy可访问的工作目录，建立目录级安全隔离。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>绑定工具</strong>：绑定QQ、飞书、钉钉等主流IM工具及Office等办公软件。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>启动对话</strong>：完成配置后启动Loomy，进入对话界面开始任务管理。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>发送指令</strong>：通过自然语言描述需求，如”整理桌面文件”或”把调研报告做成PPT”。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>远程协作（可选）</strong>：在手机IM中发送指令，远程操控电脑执行任务并接收结果推送。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>任务追踪</strong>：全程可视化查看任务执行进度，支持随时干预或终止。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>安装技能（可选）</strong>：访问SkillHub技能广场，一键安装文档处理、前端设计等自定义技能。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "Loomy的同类竞品对比",
-        "html": "<table data-v-5c5bdb04=\"\">\n<thead data-v-5c5bdb04=\"\">\n<tr data-v-5c5bdb04=\"\">\n<th align=\"left\" data-v-5c5bdb04=\"\">对比维度</th>\n<th align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\"><a href=\"https://ai-bot.cn/sites/73695.html\" target=\"_blank\" rel=\"noopener\">Loomy</a>（科大讯飞）</strong></th>\n<th align=\"left\" data-v-5c5bdb04=\"\"><a href=\"https://ai-bot.cn/sites/70880.html\" target=\"_blank\" rel=\"noopener\"><strong data-v-5c5bdb04=\"\">OpenClaw</strong></a></th>\n<th align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\"><a href=\"https://ai-bot.cn/sites/73229.html\" target=\"_blank\" rel=\"noopener\">AutoClaw</a>（智谱）</strong></th>\n</tr>\n</thead>\n<tbody data-v-5c5bdb04=\"\">\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">发布时间</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">2026年3月17日</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">2025年2月</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">2026年3月12日</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">产品定位</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">桌面AI办公助理</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">开源通用AI Agent框架</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">一键安装本地Claw工具</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong class=\"\" data-v-5c5bdb04=\"\">部署方式</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">桌面端应用（下载安装包）</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">需手动配置开发环境（Docker/源码）</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">本地一键安装部署</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">上手门槛</strong></td>\n<td align=\"left\" data-v-5c5bdb04=\"\">极低（最快1分钟启动）</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">高（需技术背景，部署半小时起步）</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">低（一键安装，但需一定技术基础）</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong class=\"\" data-v-5c5bdb04=\"\">核心卖点</strong></td>\n<td align=\"left\" data-v-5c5bdb04=\"\">零配置+IM远程+企业安全</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">开源灵活+社区生态+全功能</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">一键部署+文件级记忆+子智能体</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">安全机制</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">目录级隔离+二次授权确认</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">系统级权限（较高风险）</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">本地运行，自主可控</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong class=\"\" data-v-5c5bdb04=\"\">本地文件访问</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">✅授权目录内直接访问</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">✅完整系统访问</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">✅本地文件系统访问</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">远程控制能力</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">✅手机IM远程操控电脑</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">❌不支持</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">❌不支持</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">IM工具适配</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">✅QQ/飞书/钉钉深度适配</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">❌需自行开发集成</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">❌需自行配置</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">记忆机制</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">任务级记忆</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">依赖实现</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">文件级记忆+子智能体创建</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong class=\"\" data-v-5c5bdb04=\"\">模型支持</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">DeepSeek/MiniMax/讯飞星火等自由切换</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">支持多种模型配置</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">智谱GLM系列为主，支持多模型，自定义配置</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">技能生态</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">SkillHub+兼容OpenClaw+MCP协议</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">OpenClaw协议+社区贡献</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">兼容OpenClaw</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">目标用户</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">办公人员/运营/销售/企业用户</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">开发者/技术人员/极客</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">开发者/技术爱好者</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong class=\"\" data-v-5c5bdb04=\"\">企业合规</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">✅目录隔离适合企业安全要求</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">⚠️系统级权限风险较高</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">⚠️需自行评估</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong class=\"\" data-v-5c5bdb04=\"\">开源协议</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">闭源产品</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">MIT开源</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">开源</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong class=\"\" data-v-5c5bdb04=\"\">定价策略</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">新用户赠10,000积分（约100任务）</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">免费开源（自部署有服务器成本）</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">免费开源</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
-      },
-      {
-        "title": "Loomy的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>文件整理与归档</strong>：自动扫描电脑目录、归类文件、查找重复项，快速整理桌面和下载文件夹，适合文件堆积混乱的办公人群。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>内容创作辅助</strong>：自媒体运营者可通过自然语言指令，让Loomy完成热点追踪、选题推荐、标题优化，输出视频脚本或图文初稿。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>数据分析解读</strong>：将销售表、项目数据或会议纪要交给Loomy，自动提炼重点、整理结论和待办事项，减轻数据整理负担。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>远程移动办公</strong>：通勤或拜访客户途中，通过手机QQ/飞书/钉钉发送指令，远程操控电脑整理文档、制作PPT并接收结果。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>消息协同处理</strong>：自动读取文件提炼重点、汇总邮件与消息生成优先级清单，将会议纪要同步输出到聊天软件。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>电商运营管理</strong>：自动管理店铺后台商品、客服和订单，生成新品标题和卖点文案，制作发货、催单、售后自动回复话术，筛选优先处理的异常订单。</div>\n</li>\n</ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -20215,8 +19748,8 @@
   },
   {
     "slug": "gaoding-art",
-    "name": "稿定推出的设计Agent和AI创意社区",
-    "description": "稿定推出的设计Agent和AI创意社区是一款AI智能体领域的免费增值AI工具，稿定推出的设计Agent和AI创意社区。支持AI智能体。",
+    "name": "稿定AI",
+    "description": "属于AI智能体·AI Agent框架分类。稿定AI是一款AI智能体领域的AI工具。",
     "url": "https://www.gaoding.art/utms/9f9e3162fb274b11810089a93ea547f1",
     "categories": [
       "ai-agent"
@@ -20249,7 +19782,7 @@
         "html": "<ul>\n<li><strong>海报设计</strong>：用户用AI工具快速生成适用于社交媒体推广或活动宣传的海报。</li>\n<li><strong>电商设计</strong>：为电商平台的商品制作吸引人的图片和视频，包括商品展示和促销活动。</li>\n<li><strong>品牌设计</strong>：帮助品牌创建一致的视觉识别系统，如设计logo、名片和宣传册。</li>\n<li><strong>社交媒体内容</strong>：为微博、微信、小红书等平台制作封面图和帖子图。</li>\n<li><strong>视频制作</strong>：生成适用于广告、营销视频或社交媒体的视频内容。</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool61891",
@@ -20357,27 +19890,6 @@
     "subcategory": "ai-agent-framework",
     "logo": "/logos/tool67818.png",
     "domain": "agent.bitaihub.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "tool67911",
-    "name": "专注于 AI 图像视频的无限画布",
-    "description": "专注于 AI 图像视频的无限画布是一款AI智能体领域的免费增值AI工具，专注于 AI 图像视频的无限画布。支持AI智能体。",
-    "url": "https://flowmuse.ai/",
-    "categories": [
-      "ai-agent"
-    ],
-    "tags": [
-      "AI智能体"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-agent-framework",
-    "logo": "/logos/tool67911.png",
-    "domain": "flowmuse.ai",
     "detailed_content": [],
     "updatedAt": "2026-09-27"
   },
@@ -21088,8 +20600,8 @@
   },
   {
     "slug": "tool5368",
-    "name": "马斯克旗下xAI推出的人工智能助手",
-    "description": "马斯克旗下xAI推出的人工智能助手是一款AI聊天助手领域的免费增值AI工具，马斯克旗下xAI推出的人工智能助手。支持AI聊天助。",
+    "name": "Grok",
+    "description": "属于AI聊天助手·通用对话AI分类。Grok是一款AI聊天助手领域的AI工具。",
     "url": "https://grok.com",
     "categories": [
       "ai-chat"
@@ -21105,7 +20617,7 @@
     "logo": "/logos/tool5368.png",
     "domain": "grok.com",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "z-ai",
@@ -21189,8 +20701,8 @@
   },
   {
     "slug": "longcat-chat",
-    "name": "美团推出的自研大模型AI对话平台",
-    "description": "美团推出的自研大模型AI对话平台是一款AI聊天助手领域的免费增值AI工具，美团推出的自研大模型AI对话平台。支持AI聊天助。",
+    "name": "LongCat",
+    "description": "属于AI聊天助手·通用对话AI分类。LongCat是一款AI聊天助手领域的AI工具。",
     "url": "https://longcat.chat/",
     "categories": [
       "ai-chat"
@@ -21231,7 +20743,7 @@
         "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">智能对话与客服</strong>：提供流畅自然的对话交流，可作为智能客服系统，快速准确地解答用户问题，提升用户体验和客服效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>内容创作与生成</strong>：支持文章、故事、文案等多种文本类型的生成，帮助创作者快速产出高质量内容，提高创作效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>编程辅助</strong>：生成多种编程语言的代码片段并解析代码逻辑，为开发者提供编程建议和解决方案，辅助编程学习和开发工作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>智能体任务</strong>：在复杂场景中表现出色，可用于智能体任务，如自动化操作、智能决策等，适用于需要高效处理复杂任务的场景。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>知识问答</strong>：涵盖多领域知识，可作为知识问答系统，为用户提供科学、技术、文化等多领域的专业解答。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教育辅导</strong>：辅助教育领域，提供学习资料、解答学术问题，帮助学生和教育工作者更高效地进行学习和教学。</div>\n</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "yiyan-baidu-com",
@@ -21277,27 +20789,6 @@
         "html": "<ul>\n<li><strong>内容创作者</strong>：包括作家、记者、编辑等，他们需要创作大量文本内容。文心一言能帮助他们快速生成创意文案、文章草稿，甚至提供写作灵感。</li>\n<li><strong>技术开发者</strong>：软件工程师和应用开发者可用文心一言的API来开发智能应用，例如聊天机器人、智能助手、内容推荐系统等。</li>\n<li><strong>企业决策者</strong>：企业高管、市场分析师和数据科学家等，需要从大量数据中提取有价值的信息，文心一言可以帮助他们进行数据分析和生成报告。</li>\n<li><strong>教育工作者</strong>：教师和教育技术专家用文心一言辅助教学内容的创作，开发个性化学习材料，作为教学辅助工具。</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "tool2005",
-    "name": "智谱推出的全能AI助手",
-    "description": "属于AI聊天助手·通用对话AI分类。智谱推出的全能AI助手是一款AI聊天助手领域的免费增值AI工具，智谱推出的全能AI助手。支持AI聊天助。",
-    "url": "https://chatglm.cn/",
-    "categories": [
-      "ai-chat"
-    ],
-    "tags": [
-      "AI聊天助"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-chat-general",
-    "logo": "/logos/tool2005.png",
-    "domain": "chatglm.cn",
-    "detailed_content": [],
     "updatedAt": "2026-09-27"
   },
   {
@@ -21463,7 +20954,7 @@
     "slug": "ibm-com",
     "name": "书生大模型",
     "description": "属于AI聊天助手·通用对话AI分类。书生大模型是一款AI聊天助手领域的免费增值AI工具，上海人工智能实验室推出的系列AI模型。支持AI聊天助。",
-    "url": "https://www.ibm.com/products/watsonx-ai",
+    "url": "https://intern-ai.org.cn/",
     "categories": [
       "ai-chat"
     ],
@@ -21476,7 +20967,7 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
     "logo": "/logos/ibm-com.png",
-    "domain": "ibm.com",
+    "domain": "intern-ai.org.cn",
     "detailed_content": [
       {
         "title": "书生大模型是什么",
@@ -21495,7 +20986,7 @@
         "html": "<ul>\n<li><strong>教育与学术研究</strong>：辅助教学、自动生成试题和答案，支持学术研究中的文献综述和数据分析。</li>\n<li><strong>金融领域</strong>：提升金融文本分析、风险评估和合规检查的效能。</li>\n<li><strong>气象与海洋预报</strong>：提供精准的短临降水、中期天气和海洋年际预测，助力气象灾害预警和科学研究。</li>\n<li><strong>航空航天设计</strong>：生成和编辑超临界翼型，优化工程设计，提升设计效率。</li>\n<li><strong>城市规划与文化遗产保护</strong>：创建大规模城市实景三维模型，支持城市规划和文化遗产数字化保护。</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool9802",
@@ -21515,27 +21006,6 @@
     "subcategory": "ai-chat-general",
     "logo": "/logos/tool9802.png",
     "domain": "stepfun.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "tool12663",
-    "name": "百川智能推出的免费AI助手",
-    "description": "属于AI聊天助手·通用对话AI分类。百川智能推出的免费AI助手是一款AI聊天助手领域的免费AI工具，百川智能推出的免费AI助手。支持AI聊天助。",
-    "url": "https://ying.baichuan-ai.com/chat?from=ai-bot.cn",
-    "categories": [
-      "ai-chat"
-    ],
-    "tags": [
-      "AI聊天助"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "free",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-chat-general",
-    "logo": "/logos/tool12663.png",
-    "domain": "ying.baichuan-ai.com",
     "detailed_content": [],
     "updatedAt": "2026-09-27"
   },
@@ -21659,8 +21129,8 @@
   },
   {
     "slug": "tool459",
-    "name": "问答社区Quora推出的问答机器人工具",
-    "description": "问答社区Quora推出的问答机器人工具是一款AI聊天助手领域的免费增值AI工具，问答社区Quora推出的问答机器人工具。支持AI聊天助。",
+    "name": "Poe",
+    "description": "属于AI聊天助手·通用对话AI分类。Poe是一款AI聊天助手领域的AI工具。",
     "url": "https://poe.com/",
     "categories": [
       "ai-chat"
@@ -21676,7 +21146,7 @@
     "logo": "/logos/tool459.png",
     "domain": "poe.com",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool6019",
@@ -21703,7 +21173,7 @@
     "slug": "tool137",
     "name": "Character.AI",
     "description": "属于AI聊天助手·AI角色扮演分类。Character.AI是一款AI聊天助手领域的免费增值AI工具，创建虚拟角色并与其对话。支持AI聊天助。",
-    "url": "https://ai-bot.cn/huawei-xiaoyi",
+    "url": "https://character.ai/",
     "categories": [
       "ai-chat"
     ],
@@ -21716,7 +21186,7 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-roleplay",
     "logo": "/logos/tool137.png",
-    "domain": "ai-bot.cn",
+    "domain": "character.ai",
     "detailed_content": [
       {
         "title": "Character.AI是什么",
@@ -21731,7 +21201,7 @@
         "html": "<ul>\n<li><strong>创意工作者</strong>：需要灵感和创意支持的作家、艺术家和设计师，可通过与AI角色的互动获取新想法。</li>\n<li><strong>教育工作者</strong>：教师和教育开发者可以利用AI角色进行教学辅助，提供个性化的学习体验。</li>\n<li><strong>企业用户</strong>：企业可以通过定制AI角色来提供客户服务、市场调研或员工培训。</li>\n<li><strong>游戏开发者</strong>：游戏设计师可以用AI角色生成器来创造游戏中的NPC（非玩家角色），增强游戏的互动性和沉浸感。</li>\n<li><strong>心理咨询师</strong>：AI角色可以作为辅助治疗工具，提供情感支持和心理辅导。</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool11358",
@@ -21758,7 +21228,7 @@
     "slug": "tool457",
     "name": "Bing新必应",
     "description": "属于AI聊天助手·通用对话AI分类。微软推出的新版结合了ChatGPT功能的必应。支持AI聊天助，适合需要AI辅助对话与问答的用户。",
-    "url": "https://ying.baichuan-ai.com/chat?from=ai-bot.cn",
+    "url": "https://www.bing.com/chat",
     "categories": [
       "ai-chat"
     ],
@@ -21771,9 +21241,9 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
     "logo": "/logos/tool457.png",
-    "domain": "ying.baichuan-ai.com",
+    "domain": "bing.com",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool14989",
@@ -21933,8 +21403,8 @@
   },
   {
     "slug": "chat-baidu-com",
-    "name": "百度AI助手",
-    "description": "属于AI聊天助手·通用对话AI分类。百度AI助手是一款AI聊天助手领域的免费增值AI工具，百度推出的多场景AI智能体助手。支持AI聊天助。",
+    "name": "百度文心助手",
+    "description": "属于AI聊天助手·通用对话AI分类。百度文心助手是一款AI聊天助手领域的AI工具。",
     "url": "https://chat.baidu.com/",
     "categories": [
       "ai-chat"
@@ -21971,28 +21441,7 @@
         "html": "<ul>\n<li><strong>智能客服</strong>：提供全天候自动化客户支持，快速响应用户咨询。</li>\n<li><strong>搜索优化</strong>：基于AI技术提升搜索准确性，提供个性化结果。</li>\n<li><strong>教育辅助</strong>：辅助学习和教学，提高教育效率和质量。</li>\n<li><strong>健康咨询</strong>：提供基础健康建议，辅助健康管理。</li>\n<li><strong>生活助手</strong>：提醒日常事务，提供生活信息，提升生活质量。</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "tool4841",
-    "name": "字节跳动推出的免费AI对话助手和个人助理",
-    "description": "属于AI聊天助手·通用对话AI分类。字节跳动推出的免费AI对话助手和个人助理。支持AI聊天助，适合需要AI辅助对话与问答的用户。",
-    "url": "https://wukong.com/tool",
-    "categories": [
-      "ai-chat"
-    ],
-    "tags": [
-      "AI聊天助"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "free",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-chat-general",
-    "logo": "/logos/tool4841.png",
-    "domain": "wukong.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "taichu-web-ia-ac-cn",
@@ -22138,27 +21587,6 @@
     "updatedAt": "2026-09-27"
   },
   {
-    "slug": "tool2198",
-    "name": "百度最新上线的AI搜索对话工具",
-    "description": "百度最新上线的AI搜索对话工具是一款AI聊天助手领域的免费增值AI工具，百度最新上线的AI搜索对话工具。支持AI聊天助。",
-    "url": "https://chat.baidu.com",
-    "categories": [
-      "ai-chat"
-    ],
-    "tags": [
-      "AI聊天助"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-chat-general",
-    "logo": "/logos/tool2198.png",
-    "domain": "chat.baidu.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
-  },
-  {
     "slug": "tool6290",
     "name": "百度智能云发布的基于文心一言的AI原生应",
     "description": "属于AI聊天助手·通用对话AI分类。百度智能云发布的基于文心一言的AI原生应用和Copilot“超级助理”。支持AI聊天助。",
@@ -22202,8 +21630,8 @@
   },
   {
     "slug": "tool5533",
-    "name": "基于孟子GPT大模型的AI对话机器人",
-    "description": "基于孟子GPT大模型的AI对话机器人是一款AI聊天助手领域的免费增值AI工具，基于孟子GPT大模型的AI对话机器人。支持AI聊天助。",
+    "name": "孟子GPT",
+    "description": "属于AI聊天助手·通用对话AI分类。孟子GPT是一款AI聊天助手领域的AI工具。",
     "url": "https://www.langboat.com/portal/mengzi-gpt?from=ai-bot.cn",
     "categories": [
       "ai-chat"
@@ -22219,7 +21647,7 @@
     "logo": "/logos/tool5533.png",
     "domain": "langboat.com",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool4362",
@@ -22314,7 +21742,7 @@
     "slug": "tool2034",
     "name": "Forefront",
     "description": "提供GPT-3.5、GPT-4、Claude的AI聊天机器人。支持AI聊天助，适合需要AI辅助对话与问答的用户。",
-    "url": "https://www.langboat.com/portal/mengzi-gpt?from=ai-bot.cn",
+    "url": "https://www.forefront.ai/",
     "categories": [
       "ai-chat"
     ],
@@ -22327,20 +21755,20 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
     "logo": "/logos/tool2034.png",
-    "domain": "langboat.com",
+    "domain": "forefront.ai",
     "detailed_content": [
       {
         "title": "",
         "html": "<p><a href=\"https://chat.forefront.ai/\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">Forefront</a>是一个免费的基于GPT-4模型套壳的<a href=\"https://ai-bot.cn/best-free-ai-chatbots/\" target=\"_blank\" rel=\"noopener\">AI聊天机器人</a>，提供更好的ChatGPT使用体验。用户可以在GPT-4和GPT-3.5模型间切换，注册即可<a href=\"https://ai-bot.cn/how-to-use-gpt-4-for-free/\">免费使用GPT-4</a>、图像生成、自定义人物角色、可共享聊天等。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "claude-ai-2",
     "name": "HuggingChat",
     "description": "属于AI聊天助手·通用对话AI分类。HuggingFace推出的在线聊天机器人，基于Open Assistant模型。支持AI聊天助。",
-    "url": "https://claude.ai/",
+    "url": "https://huggingface.co/chat",
     "categories": [
       "ai-chat"
     ],
@@ -22353,7 +21781,7 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
     "logo": "/logos/claude-ai-2.png",
-    "domain": "claude.ai",
+    "domain": "huggingface.co",
     "detailed_content": [
       {
         "title": "HuggingChat",
@@ -22376,7 +21804,7 @@
         "html": "<ul>\n<li><strong>智能客服</strong>：HuggingChat 可以作为在线客服系统，提供24小时咨询服务，自动回答用户问题，提升客户满意度。</li>\n<li><strong>个性化助手</strong>：可以作为个人助理，帮助用户处理日常事务，如日程管理、提醒服务等。</li>\n<li><strong>教育和培训</strong>：HuggingChat 可以辅助教学，提供个性化辅导和答疑服务，帮助学生学习。</li>\n<li><strong>娱乐和社交</strong>：HuggingChat 可以提供有趣的对话体验，用于社交媒体和娱乐平台，增加用户互动性。</li>\n<li><strong>业务咨询</strong>：在金融、医疗、法律等领域，HuggingChat 可以提供专业的咨询服务。</li>\n<li><strong>内容创作</strong>：HuggingChat 可以帮助用户进行内容创作，如撰写文章、生成创意文案等。</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool2771",
@@ -22424,7 +21852,7 @@
     "slug": "tool1220",
     "name": "ColossalChat",
     "description": "属于AI聊天助手·通用对话AI分类。Colossal-AI推出的免费开源版ChatGPT聊天机器人替代品。支持AI聊天助。",
-    "url": "https://wukong.com/tool",
+    "url": "https://chat.colossalai.org/",
     "categories": [
       "ai-chat"
     ],
@@ -22437,41 +21865,20 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
     "logo": "/logos/tool1220.png",
-    "domain": "wukong.com",
+    "domain": "chat.colossalai.org",
     "detailed_content": [
       {
         "title": "",
         "html": "<p>ColossalChat是由Colossal-AI推出的免费开源版ChatGPT<a href=\"https://ai-bot.cn/best-free-ai-chatbots/\" target=\"_blank\" rel=\"noopener\">聊天机器人</a>替代品，目前其GitHub项目已斩获26K星标。</p>\n<p>作为当今领先的开源大型人工智能模型解决方案，Colossal AI是第一个基于LLaMA预训练模型开源完整RLHF机制的公司，该机制包括监督数据收集、监督微调、奖励模型训练和强化学习微调，并共享ColossalChat——与最初的ChatGPT技术解决方案非常相似的开源项目。</p>\n<p>该开源项目包括以下内容：</p>\n<ul>\n<li>Demo演示：一个交互式演示，无需注册或加入等待名单即可在线试用</li>\n<li>训练代码：开源完整的RLHF训练代码，包括70亿和130亿的模型。</li>\n<li>数据集：开源104K中英文双语数据集。</li>\n<li>推理：仅需要4GB GPU内存便可进行70亿参数模型的4-bit量化推理。</li>\n<li>模型权重：在单个服务器上只需少量计算能力即可实现快速复制。</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "tool141",
-    "name": "Jasper Chat",
-    "description": "属于AI聊天助手·通用对话AI分类。Jasper针对内容创作者出品的AI聊天工具。支持AI聊天助，适合需要AI辅助对话与问答的用户。",
-    "url": "https://poe.com/",
-    "categories": [
-      "ai-chat"
-    ],
-    "tags": [
-      "AI聊天助"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-chat-general",
-    "logo": "/logos/tool141.png",
-    "domain": "poe.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool140",
     "name": "YouChat AI",
     "description": "属于AI聊天助手·通用对话AI分类。YouChat AI是一款AI聊天助手领域的免费增值AI工具，AI搜索对话工具。支持AI聊天助。",
-    "url": "https://www.modelscope.cn/studios/damo/ModelScopeGPT",
+    "url": "https://you.com/",
     "categories": [
       "ai-chat"
     ],
@@ -22484,9 +21891,9 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
     "logo": "/logos/tool140.png",
-    "domain": "modelscope.cn",
+    "domain": "you.com",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool139",
@@ -22513,7 +21920,7 @@
     "slug": "tool138",
     "name": "Replika",
     "description": "属于AI聊天助手·通用对话AI分类。Replika是一款AI聊天助手领域的免费增值AI工具，AI对话陪伴工具。支持AI聊天助。",
-    "url": "https://ai-bot.cn/huawei-xiaoyi",
+    "url": "https://replika.com/",
     "categories": [
       "ai-chat"
     ],
@@ -22526,36 +21933,15 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
     "logo": "/logos/tool138.png",
-    "domain": "ai-bot.cn",
+    "domain": "replika.com",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "tool163",
-    "name": "Whispr",
-    "description": "属于AI聊天助手·通用对话AI分类。Whispr是一款AI聊天助手领域的免费AI工具，免费AI对话回应。支持AI聊天助。",
-    "url": "https://doudou.paluai.com/web_aitool",
-    "categories": [
-      "ai-chat"
-    ],
-    "tags": [
-      "AI聊天助"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "free",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-chat-general",
-    "logo": "/logos/tool163.png",
-    "domain": "doudou.paluai.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool1656",
     "name": "Open Assistant",
     "description": "属于AI聊天助手·通用对话AI分类。免费开源的对话式AI，GitHub星标超3万。支持AI聊天助，适合需要AI辅助对话与问答的用户。",
-    "url": "https://grok.com",
+    "url": "https://open-assistant.io/",
     "categories": [
       "ai-chat"
     ],
@@ -22568,15 +21954,15 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
     "logo": "/logos/tool1656.png",
-    "domain": "grok.com",
+    "domain": "open-assistant.io",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool2122",
     "name": "Pi",
     "description": "属于AI聊天助手·通用对话AI分类。DeepMind联创新公司推出的AI聊天机器人。支持AI聊天助，适合需要AI辅助对话与问答的用户。",
-    "url": "https://www.kimi.com/",
+    "url": "https://pi.ai/",
     "categories": [
       "ai-chat"
     ],
@@ -22589,20 +21975,20 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
     "logo": "/logos/tool2122.png",
-    "domain": "kimi.com",
+    "domain": "pi.ai",
     "detailed_content": [
       {
         "title": "",
         "html": "<p>Pi 是由初创 AI 公司 Infelection AI 推出的一个<a href=\"https://ai-bot.cn/best-free-ai-chatbots/\" rel=\"noopener\" target=\"_blank\">AI聊天机器人</a>，该公司由 DeepMind 联合创始人 Mustafa Suleyman、LinkedIn 联合创始人 Reid Hoffman 和 前 DeepMind 研究员 Karén Simonyan 共同创立。Pi 则是 Inflection AI 推出的第一个产品，其用户可以直接通过一个应用程序，或通过文本、WhatsApp、Instagram和Facebook与聊天机器人进行个人对话。</p>\n<p>Pi 代表个人智能（personal intelligence），因为它可以根据个人的独特兴趣和需求提供无限的知识。Pi 可以是一位老师、教练、知己、创意伙伴。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool1710",
     "name": "Inworld",
     "description": "属于AI聊天助手·AI角色扮演分类。Inworld是一款AI聊天助手领域的免费增值AI工具，开发和创建AI虚拟角色并与其互动。支持AI聊天助。",
-    "url": "https://longcat.chat/",
+    "url": "https://inworld.ai/",
     "categories": [
       "ai-chat"
     ],
@@ -22615,14 +22001,14 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-roleplay",
     "logo": "/logos/tool1710.png",
-    "domain": "longcat.chat",
+    "domain": "inworld.ai",
     "detailed_content": [
       {
         "title": "",
         "html": "<p>Inworld 为人工智能虚拟角色提供了一个完全集成的平台，它在<a href=\"https://ai-bot.cn/what-is-large-language-model/\">大语言模型（LLM）</a>的基础上开发，并拓展了可配置的安全性、知识、内存、叙事控制、多模态等特性。用户可以通过该平台塑造具有独特个性和背景意识的虚拟人物，并可以无缝集成到实时应用程序中，内置规模和性能优化功能。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool1714",
@@ -22654,7 +22040,7 @@
     "slug": "tool1890",
     "name": "Neeva",
     "description": "属于AI聊天助手·通用对话AI分类。Neeva是一款AI聊天助手领域的免费增值AI工具，集成了AI问答的AI搜索引擎。支持AI聊天助。",
-    "url": "https://www.seeles.ai/",
+    "url": "https://neeva.com/",
     "categories": [
       "ai-chat"
     ],
@@ -22667,40 +22053,14 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
     "logo": "/logos/tool1890.png",
-    "domain": "seeles.ai",
+    "domain": "neeva.com",
     "detailed_content": [
       {
         "title": "",
         "html": "<p>Neeva是一个类似于New Bing的AI搜索引擎，同样集成了AI问答的功能，并标注信息引用来源。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "tool1608",
-    "name": "秘塔写作猫",
-    "description": "属于AI聊天助手·通用对话AI分类。秘塔写作猫是一款AI聊天助手领域的免费增值AI工具，秘塔写作猫推出的AI对话聊天工具。支持AI聊天助。",
-    "url": "https://www.mypitaya.com",
-    "categories": [
-      "ai-chat"
-    ],
-    "tags": [
-      "AI聊天助"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-chat-general",
-    "logo": "/logos/tool1608.png",
-    "domain": "mypitaya.com",
-    "detailed_content": [
-      {
-        "title": "",
-        "html": "秘塔写作猫推出的AI对话聊天工具"
-      }
-    ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool4655",
@@ -22727,7 +22087,7 @@
     "slug": "miaoda",
     "name": "秒哒",
     "description": "属于AI聊天助手·ai-writing-article分类。秒哒是一款AI聊天助手领域的免费增值AI工具，无代码AI应用开发平台，一句话做应用。支持AI编程工。",
-    "url": "https://ai-bot.cn/wordware",
+    "url": "https://miaoda.baidu.com/",
     "categories": [
       "ai-chat",
       "ai-models",
@@ -22754,7 +22114,7 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-article",
     "logo": "/logos/miaoda.png",
-    "domain": "ai-bot.cn",
+    "domain": "miaoda.baidu.com",
     "detailed_content": [
       {
         "title": "秒哒是什么",
@@ -22773,28 +22133,7 @@
         "html": "<ul>\n<li><strong>个人创意实现</strong>：快速将创意转化为实际应用，无需编程基础。</li>\n<li><strong>企业业务提效</strong>：快速搭建内部系统，降低开发成本。</li>\n<li><strong>教育与学习</strong>：定制化学习工具或教学平台。</li>\n<li><strong>营销与推广</strong>：快速开发活动页面、报名系统或营销工具。</li>\n<li><strong>小程序开发</strong>：生成微信小程序等轻应用，满足线上业务拓展需求。</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "tool6519",
-    "name": "商汤科技推出的免费AI编程助手",
-    "description": "商汤科技推出的免费AI编程助手是一款AI编程工具领域的免费AI工具，商汤科技推出的免费AI编程助手。支持AI编程工。",
-    "url": "https://www.xiaohuanxiong.com/login?utm_source=blmay1",
-    "categories": [
-      "ai-coding"
-    ],
-    "tags": [
-      "AI编程工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "free",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-coding-generator",
-    "logo": "/logos/tool6519.png",
-    "domain": "xiaohuanxiong.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "openai-com",
@@ -23563,27 +22902,6 @@
         "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>复杂代码重构</strong>：跨模块、跨服务进行大规模代码重构，自动分析依赖关系并安全迁移代码结构。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自动化测试生成</strong>：根据现有代码自动生成单元测试、集成测试，提升测试覆盖率和代码质量。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>技术文档编写</strong>：自动分析代码逻辑并生成 API 文档、README 说明，减少维护文档的人工成本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>新功能快速开发</strong>：从需求描述到代码实现，Amp 可自主规划开发步骤，加速功能迭代周期。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>遗留代码理解</strong>：快速梳理老旧项目的代码结构和调用链，帮助新成员上手复杂代码库。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>代码审查辅助</strong>：生成详细的代码变更说明和上下文，提升 PR 审查效率和质量。</div>\n</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "tool7582",
-    "name": "开源的支持多款大模型的AI编程助手",
-    "description": "开源的支持多款大模型的AI编程助手是一款AI编程工具领域的免费增值AI工具，开源的支持多款大模型的AI编程助手。支持AI编程工。",
-    "url": "https://www.devchat.ai/zh?ref=ai-bot.cn",
-    "categories": [
-      "ai-coding"
-    ],
-    "tags": [
-      "AI编程工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-coding-generator",
-    "logo": "/logos/tool7582.png",
-    "domain": "devchat.ai",
-    "detailed_content": [],
     "updatedAt": "2026-09-27"
   },
   {
@@ -24752,7 +24070,7 @@
     "slug": "xingliu-ai",
     "name": "星流AI",
     "description": "属于AI聊天助手·ai-writing-novel分类。星流AI是一款AI聊天助手领域的免费增值AI工具，一站式 AI 设计与创作工具。支持AI设计工。",
-    "url": "https://www.douhuiai.com/",
+    "url": "https://www.xingliu.art/",
     "categories": [
       "ai-chat",
       "ai-coding",
@@ -24779,7 +24097,7 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-writing-novel",
     "logo": "/logos/xingliu-ai.png",
-    "domain": "douhuiai.com",
+    "domain": "xingliu.art",
     "detailed_content": [
       {
         "title": "星流AI是什么",
@@ -24802,28 +24120,7 @@
         "html": "<ul>\n<li><strong>品牌与产品设计</strong>：为新品牌或现有品牌设计完整的视觉方案，包括logo、slogan、海报、包装等，帮助产品在市场中脱颖而出。</li>\n<li><strong>社交媒体内容创作</strong>：快速生成适合不同社交媒体平台的海报、封面图、故事图等，制作短视频、动画等，增强内容的吸引力和传播力。</li>\n<li><strong>广告与营销</strong>：生成广告海报、宣传册、传单等，制作广告视频、动画广告等，用在电视、网络、社交媒体等渠道，吸引用户参与促销活动。</li>\n<li><strong>UI/UX设计</strong>：设计网站、APP的界面，生成交互原型图、动效图等，快速调整和优化界面设计，提升用户体验。</li>\n<li><strong>创意与艺术创作</strong>：生成艺术海报、插图、绘画等，激发艺术创作灵感，尝试不同的设计风格和创意，探索新的设计方向。</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "tool2029",
-    "name": "一站式AI创作和设计平台",
-    "description": "属于AI设计工具·AI平面设计分类。一站式AI创作和设计平台是一款AI设计工具领域的免费增值AI工具，一站式AI创作和设计平台。支持AI设计工。",
-    "url": "https://www.gaoding.art/utms/9f9e3162fb274b11810089a93ea547f1",
-    "categories": [
-      "ai-design"
-    ],
-    "tags": [
-      "AI设计工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-design-graphic",
-    "logo": "/logos/tool2029.png",
-    "domain": "gaoding.art",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool2648",
@@ -25288,27 +24585,6 @@
     "updatedAt": "2026-09-27"
   },
   {
-    "slug": "tool32344",
-    "name": "阿里国际推出的AI电商设计工具",
-    "description": "阿里国际推出的AI电商设计工具是一款AI设计工具领域的免费增值AI工具，阿里国际推出的AI电商设计工具。支持AI设计工。",
-    "url": "https://www.piccopilot.com/create/?utm_source=aff&utm_medium=aibot1",
-    "categories": [
-      "ai-design"
-    ],
-    "tags": [
-      "AI设计工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-design-graphic",
-    "logo": "/logos/tool32344.png",
-    "domain": "piccopilot.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
-  },
-  {
     "slug": "canva-cn",
     "name": "Canva可画推出的一站式AI创作套件",
     "description": "Canva可画推出的一站式AI创作套件是一款AI设计工具领域的免费增值AI工具，Canva可画推出的一站式AI创作套件。支持AI设计工。",
@@ -25460,52 +24736,6 @@
       {
         "title": "小墨鹰编辑器的应用场景",
         "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>企业品牌宣传</strong>：适用于企业新品发布、公司介绍、企业文化宣传等商务场景，使用大气商务风格模板配合SVG动效，提升品牌专业形象与阅读体验。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>政务信息发布</strong>：适配政府部门政策解读、公告通知、党建宣传等严肃内容，提供红色政务风格模板及正版商用字体，确保内容合规且视觉效果权威。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教育机构运营</strong>：覆盖幼儿园、小学、中学等教育场景，包括校园新闻、招生简章、放假通知、活动回顾等，提供卡通可爱或文艺清新风格模板，降低家校沟通成本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>医疗健康科普</strong>：适用于医院科室介绍、健康知识科普、中医养生等内容，配备蓝色医疗风、古风中医等垂直行业模板，提升内容可读性与专业度。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自媒体内容创作</strong>：满足美食、旅游、时尚、母婴等垂类博主日常推文需求，通过AI快排30秒完成排版，支持热点日历快速跟进节日营销节点。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>节日热点营销</strong>：覆盖全年各类节日（包括冷门节日）及社会热点事件，平台每日更新主题模板，帮助企业与个人快速响应热点，抢占流量先机。</div>\n</li>\n</ul>"
-      }
-    ],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "meijian-com-2",
-    "name": "新一代AI画布式创意设计平台",
-    "description": "新一代AI画布式创意设计平台是一款AI设计工具领域的免费增值AI工具，新一代AI画布式创意设计平台。支持AI设计工。",
-    "url": "https://www.meijian.com/ai",
-    "categories": [
-      "ai-design"
-    ],
-    "tags": [
-      "AI设计工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-design-graphic",
-    "logo": "/logos/meijian-com-2.png",
-    "domain": "meijian.com",
-    "detailed_content": [
-      {
-        "title": "美间AI是什么",
-        "html": "<p>美间AI是新一代AI画布式创意设计平台，用户只需一句话就能创建场景、修改内容、调整细节，可进行替换材质与风格、更换背景、修改文字、删除或添加场景元素、替换主题对象等操作。主要面向电商设计师、创意工作者、企业营销人员以及零基础用户。</p>\n<p><span style=\"font-size: 1rem;\">美间AI还提供一系列高效的设计工具和功能，包括智能抠图、真实增强、扩图、消除瑕疵、生成设计素材、创作营销文案、制作背景图、转换漫画风格、无损放大图片、生成提案PPT和海报等。美间AI的核心优势在于高效性和易用性，零基础用户能快速上手，完成高质量的设计任务。</span></p>\n<img decoding=\"async\" class=\"alignnone wp-image-54636\" src=\"https://ai-bot.cn/wp-content/uploads/2025/06/meijianai-website-1.png\"   alt=\"美间AI\" width=\"738\" height=\"415\" />"
-      },
-      {
-        "title": "美间AI的主要功能",
-        "html": "<ul>\n<li><strong>一句话设计</strong>：用户只需一句话就能创建场景、修改内容、调整细节，可进行替换材质与风格、更换背景、修改文字、删除或添加场景元素、替换主题对象等操作。</li>\n<li><strong>图像处理功能</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><a href=\"https://ai-bot.cn/sites/23047.html\" target=\"_blank\" rel=\"noopener\"><strong class=\"\">AI智能抠图</strong></a>：采用深度学习技术，实现发丝级精准抠图，支持一键批量抠图，抠图边缘自然。</div>\n</li>\n<li>\n<div class=\"paragraph\"><a href=\"https://ai-bot.cn/sites/26211.html\" target=\"_blank\" rel=\"noopener\"><strong class=\"\">AI智能消除</strong></a>：通过涂抹操作，轻松移除图片中的杂质、瑕疵、水印等元素。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">AI扩图</strong>：智能识别图片内容，无损放大图片，支持多种放大模式。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">AI真实增强</strong>：通过高清算法优化图片的光线、色彩和质感，支持多种风格化处理。</div>\n</li>\n<li>\n<div class=\"paragraph\"><a href=\"https://ai-bot.cn/sites/25974.html\" target=\"_blank\" rel=\"noopener\"><strong>AI无损放大</strong></a>：高保真放大图片分辨率，保持原有清晰度。</div>\n</li>\n</ul>\n</li>\n<li><strong>设计创作功能</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>AI智能海报</strong>：用户输入相关文案或选择模板，可快速生成多种风格的海报设计方案，支持实时修改和调整。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">AI提案PPT</strong>：输入简单文字描述，结合AI文案和丰富模板库，一键生成个性化的提案PPT。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">AI文案创作</strong>：根据产品特点和用户需求，自动生成吸引人的营销文案，支持多种文案风格。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI文生素材</strong>：输入关键词，系统自动生成相关的设计素材，如图标、图案等。</div>\n</li>\n</ul>\n</li>\n<li><strong>特色功能</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">AI漫画脸</strong>：将真实人像转换为漫画风格，支持多种漫画效果。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI软装设计</strong>：通过AI技术快速生成软装搭配方案，适用于室内设计场景。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">AI视频讲解</strong>：将提案PPT转化为详细的讲解视频，自动生成视频文案。</div>\n</li>\n</ul>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">AI背景图工具</strong>：支持多种背景风格，可一键应用到多张图片上。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多角度图片生成</strong>：支持快速创建多角度产品展示图。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI灵感库</strong>：上传图片后自动生成相应风格的图片素材，还可生成配套的提案PPT和海报。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "如何使用美间AI",
-        "html": "<ul>\n<li><strong>注册与登录</strong>：访问美间AI官网，点击“注册”按钮，选择手机号、邮箱或第三方账号进行注册，注册成功后，补充个人信息（如昵称、职业、关注领域），方便系统精准推荐设计灵感。</li>\n<li><strong>创建项目</strong>：登录后点击“新建项目”，选择项目类型（如电商海报、商品展示等），设定设计尺寸或选择预设模板。上传产品图片，支持批量上传。</li>\n<li><strong>使用功能</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">AI智能抠图</strong>：上传图片后，选择AI智能抠图工具，系统将自动识别并抠出主体，支持发丝级精度。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI智能消除</strong>：上传图片，对需要消除的部分进行涂抹，AI会自动识别并填充背景。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">AI扩图</strong>：上传图片，选择AI扩图工具，设置放大比例和输出尺寸。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">AI真实增强</strong>：上传图片，选择AI真实增强工具，系统会自动优化图片的光线、色彩和质感。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI文生素材</strong>：点击“AI文生素材”，选择属性或输入关键词，上传参考图，点击“AI生成”，即可生成个性化设计素材。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI智能海报</strong>：输入相关文案或选择预设模板，系统会快速生成多种风格的海报设计方案。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI提案PPT</strong>：输入简单文字描述，结合AI文案和模板库，一键生成个性化提案PPT。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">AI场景拼搭</strong>：拖拽商品图，快速生成3D效果图，支持一键出图。</div>\n</li>\n</ul>\n</li>\n<li><strong>预览与导出</strong>：设计完成后，实时预览效果，满意后可导出，支持多种格式和分辨率。</li>\n<li>\n<div class=\"paragraph\"><strong>协作</strong>：在画板页面点击“邀请协作”，输入对方邮箱或美间账户，即可实现共同编辑。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>分享</strong>：点击“分享”按钮，生成链接或二维码，让他人查看画板。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "美间AI的使用示例",
-        "html": "<blockquote><p>主题替换：把绿植替换成鲜花</p></blockquote>\n<img decoding=\"async\" class=\"alignnone wp-image-54639\" src=\"https://ai-bot.cn/wp-content/uploads/2025/06/meijianai-website-5-1-1.png\"   alt=\"\" width=\"699\" height=\"303\" />\n<blockquote><p>背景变化：把沙发放进客厅</p></blockquote>\n<img decoding=\"async\" class=\"alignnone wp-image-54637\" src=\"https://ai-bot.cn/wp-content/uploads/2025/06/meijianai-website-3.png\"   alt=\"\" width=\"700\" height=\"254\" />\n<blockquote><p>风格转换：转换为线稿</p></blockquote>\n<img decoding=\"async\" class=\"alignnone wp-image-54638\" src=\"https://ai-bot.cn/wp-content/uploads/2025/06/meijianai-website-4.png\"   alt=\"\" width=\"701\" height=\"255\" />"
-      },
-      {
-        "title": "美间AI的产品优势",
-        "html": "<ul>\n<li><strong class=\"\">强大的AI设计功能</strong>：美间AI具备多项先进的AI设计功能，包括智能抠图、智能消除、智能扩图、真实增强、文生素材生成和漫画脸转换等。能快速处理图像，生成高质量的设计素材，满足用户在电商设计、创意设计等多种场景下的需求。</li>\n<li><strong>高效的设计提案与营销工具</strong>：美间AI提供AI提案PPT生成、智能海报设计和AI视频讲解等功能，帮助用户快速生成设计提案和营销素材。显著提升设计和营销工作的效率，帮助用户更好地展示创意和方案。</li>\n<li><strong>丰富的应用场景支持</strong>：美间AI适用于电商设计、营销策划、室内设计、教育等多个领域。是生成商品主图、营销海报，或制作教学课件，美间AI能提供强大的支持，满足不同用户的需求。</li>\n<li><strong class=\"\">个性化与高效协作</strong>：美间AI支持多人协作功能，团队成员可以共同编辑同一个项目，提升协作效率。平台提供AI灵感库功能，用户上传一张图片可生成配套的素材库、提案PPT和海报，激发更多创意。</li>\n</ul>"
-      },
-      {
-        "title": "美间AI的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>电商设计</strong>：快速生成高质量的商品营销图、主图和头图，简化电商设计流程。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">营销策划</strong>：生成营销文案、海报和PPT，提升品牌传播力和营销效果。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">室内设计</strong>：提供软装搭配方案和3D效果图，助力室内设计师高效完成设计方案。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教育领域</strong>：为教育工作者生成教学课件、宣传海报等，提高教学资源准备效率。</div>\n</li>\n</ul>"
       }
     ],
     "updatedAt": "2026-09-27"
@@ -26836,7 +26066,7 @@
     "slug": "tool1989",
     "name": "阿里云智能logo设计",
     "description": "属于AI设计工具·AI Logo设计分类。阿里云智能logo设计是一款AI设计工具领域的免费增值AI工具，阿里云推出的智能Logo设计。支持AI设计工。",
-    "url": "https://appicons.ai/",
+    "url": "https://logo.aliyun.com/",
     "categories": [
       "ai-design"
     ],
@@ -26849,20 +26079,20 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-logo",
     "logo": "/logos/tool1989.png",
-    "domain": "appicons.ai",
+    "domain": "logo.aliyun.com",
     "detailed_content": [
       {
         "title": "",
         "html": "<p>阿里云智能logo设计为中小企业、创业者提供了一款快捷、智能的logo设计产品。用户仅需要输入logo名称、所属行业、logo描述等关键参数，阿里云就可以为您匹配出上百种logo设计供您自主选择，包括霓虹渐变、几何现代、像素科技、线型极简、赛博朋克、抖音流行、新复古风、自然主义、圆形趣味等不同的logo风格。</p>\n<p>阿里云发布停服公告称，因产品策略调整，智能logo设计产品将从2023年6月30日起停止新购服务，并计划于2023年12月31日起完全停止相关产品的服务。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool1957",
     "name": "AIDesign",
     "description": "属于AI设计工具·AI Logo设计分类。腾讯推出的免费AI Logo在线设计工具。支持AI设计工，适合需要AI辅助设计创作的用户。",
-    "url": "https://www.khroma.co/",
+    "url": "https://ailogo.qq.com/",
     "categories": [
       "ai-design"
     ],
@@ -26875,14 +26105,14 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-logo",
     "logo": "/logos/tool1957.png",
-    "domain": "khroma.co",
+    "domain": "ailogo.qq.com",
     "detailed_content": [
       {
         "title": "",
         "html": "<p>AIDesign是腾讯设计云推出的AI在线免费设计Logo的产品功能，该款<a href=\"https://ai-bot.cn/best-ai-logo-makers/\">AI Logo生成器</a>旨在帮助个人用户和企业用户快速生成具有辨识度和独特性的Logo。只需输入品牌名称，便能在10秒内生成精美的Logo。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool3433",
@@ -27085,8 +26315,8 @@
   },
   {
     "slug": "tool108",
-    "name": "AI生成精美App图标",
-    "description": "属于AI设计工具·AI平面设计分类。AI生成精美App图标是一款AI设计工具领域的免费增值AI工具，AI生成精美App图标。支持AI设计工。",
+    "name": "AppIcons.AI",
+    "description": "属于AI设计工具·AI平面设计分类。AppIcons.AI是一款AI设计工具领域的AI工具。",
     "url": "https://appicons.ai/",
     "categories": [
       "ai-design"
@@ -27102,7 +26332,7 @@
     "logo": "/logos/tool108.png",
     "domain": "appicons.ai",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool107",
@@ -27127,8 +26357,8 @@
   },
   {
     "slug": "tool106",
-    "name": "AI调色盘生成工具",
-    "description": "属于AI设计工具·AI平面设计分类。AI调色盘生成工具是一款AI设计工具领域的免费增值AI工具，AI调色盘生成工具。支持AI设计工。",
+    "name": "Khroma",
+    "description": "属于AI设计工具·AI平面设计分类。Khroma是一款AI设计工具领域的AI工具。",
     "url": "https://www.khroma.co/",
     "categories": [
       "ai-design"
@@ -27144,7 +26374,7 @@
     "logo": "/logos/tool106.png",
     "domain": "khroma.co",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool1059",
@@ -27195,8 +26425,8 @@
   },
   {
     "slug": "tool1924",
-    "name": "魔音工坊-",
-    "description": "属于AI音频工具·AI语音合成分类。魔音工坊-是一款AI音频工具领域的免费增值AI工具，AI配音工具，轻松配出媲美真人的声音。支持AI音频工。",
+    "name": "魔音工坊",
+    "description": "属于AI音频工具·AI语音合成分类。魔音工坊是一款AI音频工具领域的AI工具。",
     "url": "https://www.moyin.com/?channelCode=AIGJJ01_20240905",
     "categories": [
       "ai-audio"
@@ -27212,7 +26442,7 @@
     "logo": "/logos/tool1924.png",
     "domain": "moyin.com",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool246",
@@ -27993,44 +27223,6 @@
     "updatedAt": "2026-09-27"
   },
   {
-    "slug": "tianyin-163-com",
-    "name": "网易推出的一站式AI音乐创作工具",
-    "description": "网易推出的一站式AI音乐创作工具是一款AI音频工具领域的免费增值AI工具，网易推出的一站式AI音乐创作工具。支持AI音频工。",
-    "url": "https://tianyin.163.com/",
-    "categories": [
-      "ai-audio"
-    ],
-    "tags": [
-      "AI音频工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-audio-music",
-    "logo": "/logos/tianyin-163-com.png",
-    "domain": "tianyin.163.com",
-    "detailed_content": [
-      {
-        "title": "网易天音是什么",
-        "html": "<p>网易天音是网易推出的一站式<a href=\"https://ai-bot.cn/best-ai-music-generators/\" target=\"_blank\" rel=\"noopener\">AI音乐创作工具</a>，为用户提供简单易用的音乐创作。音乐爱好者或者歌手只需输入灵感，AI能辅助完成词、曲、编、唱，生成AI初稿后，支持词曲协同调整。用户无需专业音乐知识，通过选择风格、节奏等参数，快速生成个性化的音乐作品。网易天音丰富的模板和智能生成功能，让音乐创作变得简单又高效，适合音乐爱好者、内容创作者和专业人士使用。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/07/tianyin-webiste.png\" data-fancybox=\"fancybox\" data-caption=\"网易天音\"><img decoding=\"async\" class=\"alignnone wp-image-56787\" src=\"https://ai-bot.cn/wp-content/uploads/2025/07/tianyin-webiste.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"网易天音\" width=\"740\" height=\"416\"></a>"
-      },
-      {
-        "title": "网易天音的主要功能",
-        "html": "<ul>\n<li><strong>AI 编曲</strong>：提供丰富的和弦模板和多种音乐风格，用户能快速选择并生成伴奏。</li>\n<li><strong>极速渲染</strong>：快速生成高质量的编曲效果，节省创作时间。</li>\n<li><strong>AI 一键写歌</strong>：输入灵感，AI自动完成歌词创作、旋律生成、编曲和演唱，适合零基础用户。</li>\n<li><strong>AI 作词</strong>：根据用户输入的关键词或主题，AI智能生成歌词，提供创作灵感。</li>\n<li><strong>个性化创作管理</strong>：用户能管理自己的编曲、作词和歌曲作品，方便查看和编辑。</li>\n</ul>"
-      },
-      {
-        "title": "如何使用网易天音",
-        "html": "<ul>\n<li><strong>登录账号</strong>：访问网易天音官网，按提示完成注册和登录。</li>\n<li><strong>AI一键写歌</strong>：点击“AI一键写歌”，输入灵感关键词或歌词片段，AI快速生成完整的词、曲、编、唱初稿。</li>\n<li><strong>AI编曲</strong>：点击“AI编曲”，选择喜欢的风格模板，AI即时生成伴奏，支持进一步调整和弦、旋律和编曲细节。</li>\n<li><strong>AI作词</strong>：点击“AI作词”，输入主题或关键词，AI辅助生成歌词初稿，支持继续编辑优化。</li>\n<li><strong>管理作品</strong>：在“我的编曲”“我的作词”“我的歌曲”中管理作品，支持二次编辑和导出。</li>\n<li><strong>导出作品</strong>：点击“导出文件”，将作品保存为音频文件，方便分享和使用。</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/07/tianyin-webiste1.png\" data-fancybox=\"fancybox\" data-caption=\"网易天音\"><img decoding=\"async\" class=\"alignnone wp-image-56788\" src=\"https://ai-bot.cn/wp-content/uploads/2025/07/tianyin-webiste1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"网易天音\" width=\"740\" height=\"416\"></a>"
-      },
-      {
-        "title": "如何使用网易天音",
-        "html": "<ul>\n<li><strong>个人音乐创作</strong>：音乐爱好者快速生成自己的原创歌曲，无需专业设备和复杂的乐理知识，轻松实现音乐创作梦想。</li>\n<li><strong>视频配乐</strong>：为短视频、Vlog、广告或自媒体内容快速生成背景音乐，一键导出，适配不同风格的视频内容。</li>\n<li><strong>音乐教育</strong>：教师和学生用AI辅助创作，快速生成示例作品，用在教学或学习，降低音乐创作门槛。</li>\n<li><strong>音乐人创作辅助</strong>：专业音乐人用AI生成的初稿作为灵感启发，进一步精细化创作，提高创作效率。</li>\n<li><strong>商业音乐制作</strong>：为广告、影视、游戏等商业项目快速生成定制化音乐，节省时间和成本，满足多样化需求。</li>\n</ul>"
-      }
-    ],
-    "updatedAt": "2026-09-27"
-  },
-  {
     "slug": "lyrics-into-song-ai",
     "name": "Lyrics Into Song AI",
     "description": "属于AI音频工具·AI音乐生成分类。在线AI音乐创作工具，输入歌词创建个性化歌曲。支持AI音频工，适合需要AI处理音频或生成语音的用户。",
@@ -28344,8 +27536,8 @@
   },
   {
     "slug": "tool596",
-    "name": "Google Flow Music",
-    "description": "Google Flow Music是一款AI音频工具领域的免费AI工具，AI生成不同风格的音乐，免费开源。支持AI音频工。",
+    "name": "Riffusion",
+    "description": "属于AI音频工具·AI音乐生成分类。Riffusion是一款AI音频工具领域的AI工具。",
     "url": "https://www.riffusion.com",
     "categories": [
       "ai-audio"
@@ -28361,7 +27553,7 @@
     "logo": "/logos/tool596.png",
     "domain": "riffusion.com",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "adobe-podcast",
@@ -28946,8 +28138,8 @@
   },
   {
     "slug": "naturalreaders-com",
-    "name": "AI文本转语音工具",
-    "description": "属于AI音频工具·AI语音合成分类。AI文本转语音工具是一款AI音频工具领域的免费增值AI工具，AI文本转语音工具。支持AI音频工。",
+    "name": "NaturalReader",
+    "description": "属于AI音频工具·AI语音合成分类。NaturalReader是一款AI音频工具领域的AI工具。",
     "url": "https://www.naturalreaders.com/",
     "categories": [
       "ai-audio"
@@ -28980,7 +28172,7 @@
         "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>个人学习</strong>：学生能将教材、文献转换为语音，边听边学，提升学习效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">工作辅助</strong>：专业人士用语音朗读功能，解放双手，边走边听报告、邮件等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>阅读陪伴</strong>：阅读爱好者将电子书转为语音，享受听书的乐趣。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教育领域</strong>：教师为学生制作有声教材，帮助视障学生或阅读障碍者更好地学习。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>商业用途</strong>：企业制作培训音频、广告旁白，YouTubers能快速生成视频旁白。</div>\n</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool120",
@@ -29094,8 +28286,8 @@
   },
   {
     "slug": "lemonaide-ai",
-    "name": "AI音乐生成工具",
-    "description": "属于AI音频工具·AI音乐生成分类。AI音乐生成工具是一款AI音频工具领域的免费增值AI工具，AI音乐生成工具。支持AI音频工。",
+    "name": "Lemonaide",
+    "description": "属于AI音频工具·AI音乐生成分类。Lemonaide是一款AI音频工具领域的AI工具。",
     "url": "https://www.lemonaide.ai/",
     "categories": [
       "ai-audio"
@@ -29132,12 +28324,12 @@
         "html": "<ul>\n<li><strong>专业音乐制作</strong>：Lemonaid Music可以为专业音乐人提供灵感和创作素材，加速作曲过程。能生成独特且高质量的音乐旋律和和弦，支持MIDI和音频格式输出，专业音乐制作人能快速获得音乐原型并进行后续的制作和调整。</li>\n<li><strong>广告配乐</strong>：在商业领域，Lemonaid Music能高效地满足广告音乐、电影配乐等需求，提供快速生成背景音乐的能力，帮助创意团队在短时间内找到合适的音乐匹配他们的视觉内容。</li>\n<li><strong>游戏音效</strong>：对于游戏开发者来说，Lemonaid Music可以提供丰富的音乐素材，帮助他们提升游戏体验，生成符合游戏场景氛围的音乐和音效。</li>\n<li><strong>影视配乐</strong>：Lemonaid Music协助影视制作人创作符合场景氛围的配乐，通过AI技术快速生成适合不同情绪和场景的背景音乐。</li>\n<li><strong>音乐教育</strong>：在教育领域，Lemonaid Music可以作为一种教学工具，帮助学生理解音乐理论，激发他们对音乐的兴趣。</li>\n<li><strong>个人创作</strong>：对于业余音乐爱好者和独立艺术家，Lemonaid Music提供了创作灵感，帮助他们克服创意障碍，开发独特的声音，辅助歌手和词作者进行歌曲创作。</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool80",
-    "name": "AI音乐生成工具",
-    "description": "属于AI音频工具·AI音乐生成分类。AI音乐生成工具是一款AI音频工具领域的免费增值AI工具，AI音乐生成工具。支持AI音频工。",
+    "name": "Soundraw",
+    "description": "属于AI音频工具·AI音乐生成分类。Soundraw是一款AI音频工具领域的AI工具。",
     "url": "https://soundraw.io",
     "categories": [
       "ai-audio"
@@ -29153,7 +28345,7 @@
     "logo": "/logos/tool80.png",
     "domain": "soundraw.io",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool81",
@@ -29173,27 +28365,6 @@
     "subcategory": "ai-audio-music",
     "logo": "/logos/tool81.png",
     "domain": "boomy.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "tool252",
-    "name": "AI人声和文本转语音生成工具",
-    "description": "AI人声和文本转语音生成工具是一款AI音频工具领域的免费增值AI工具，AI人声和文本转语音生成工具。支持AI音频工。",
-    "url": "https://lovo.ai",
-    "categories": [
-      "ai-audio"
-    ],
-    "tags": [
-      "AI音频工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-audio-tts",
-    "logo": "/logos/tool252.png",
-    "domain": "lovo.ai",
     "detailed_content": [],
     "updatedAt": "2026-09-27"
   },
@@ -29420,8 +28591,8 @@
   },
   {
     "slug": "tool398",
-    "name": "AI文本转语音工具",
-    "description": "属于AI音频工具·AI语音合成分类。AI文本转语音工具是一款AI音频工具领域的免费增值AI工具，AI文本转语音工具。支持AI音频工。",
+    "name": "WellSaid Labs",
+    "description": "属于AI音频工具·AI语音合成分类。WellSaid Labs是一款AI音频工具领域的AI工具。",
     "url": "https://www.wellsaid.io/",
     "categories": [
       "ai-audio"
@@ -29437,7 +28608,7 @@
     "logo": "/logos/tool398.png",
     "domain": "wellsaid.io",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool1301",
@@ -29482,48 +28653,6 @@
     "updatedAt": "2026-09-27"
   },
   {
-    "slug": "perplexity-ai",
-    "name": "AI搜索引擎与深度研究工具",
-    "description": "AI搜索引擎与深度研究工具是一款AI搜索引擎领域的免费增值AI工具，AI搜索引擎与深度研究工具。支持AI搜索引。",
-    "url": "https://www.perplexity.ai/",
-    "categories": [
-      "ai-search"
-    ],
-    "tags": [
-      "AI搜索引"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-search-engine",
-    "logo": "/logos/perplexity-ai.png",
-    "domain": "perplexity.ai",
-    "detailed_content": [
-      {
-        "title": "Perplexity是什么",
-        "html": "<p>Perplexity是强大的<a href=\"https://ai-bot.cn/top-ai-search-engines/\" target=\"_blank\" rel=\"noopener\">AI搜索引擎</a>与深度研究工具，Perplexity能像传统搜索引擎一样快速提供答案，能记住上下文、支持连续追问。Perplexity集成多种顶级AI模型，如<a href=\"https://ai-bot.cn/claude-sonnet-4-5/\" target=\"_blank\" rel=\"noopener\">Claude Sonnet 4.5</a>、<a href=\"https://ai-bot.cn/gpt-5/\" target=\"_blank\" rel=\"noopener\">GPT-5</a>、<a href=\"https://ai-bot.cn/gemini-2-5-pro/\" target=\"_blank\" rel=\"noopener\">Gemini 2.5 Pro</a>等，用户能根据需求切换模型。Perplexity支持深度搜索、自定义搜索范围、生成知识框架等功能，适合需要高效获取、整理和分析信息的用户。Perplexity为学生、研究人员和专业人士能提供强大的支持。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/10/Perplexity-website.png\" data-fancybox=\"fancybox\" data-caption=\"Perplexity\"><img decoding=\"async\" class=\"alignnone wp-image-65227\" src=\"https://ai-bot.cn/wp-content/uploads/2025/10/Perplexity-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Perplexity\" width=\"740\" height=\"416\"></a>"
-      },
-      {
-        "title": "Perplexity的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>智能搜索</strong>：基于先进的AI技术提供直接的答案，支持连续对话和上下文理解，使用户能进行深入的查询和追问。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多模型集成</strong>：集成多种顶级AI模型，如Claude、GPT-5、Gemini等，用户能根据需求选择最合适的模型进行交互。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自定义搜索范围</strong>：支持用户自定义搜索来源，如学术论文、投资报告等，满足特定领域的信息需求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>深度搜索（Deep Research）</strong>：自动执行多次搜索，阅读和分析大量资料，生成综合报告，帮助用户进行深入研究。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Labs功能</strong>：作为AI Agent，提供从信息爬取、数据整理、代码执行到图表生成等一系列自动化服务。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">Study模式</strong>：专为学习和研究设计，提供全面、有条理的回答，自动生成知识框架，支持互动式学习。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Space空间功能</strong>：支持用户上传文件和链接，用于研究和分析特定主题，支持对话和文件的专门记忆。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>每日定制化新闻推送</strong>：通过Tasks任务功能，用户能设置定时搜集和推送相关信息，如财经新闻、天气预报等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>财务功能</strong>：提供实时市场数据、个股走势、指数信息和市场分析，帮助用户进行投资决策。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "如何使用Perplexity",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">登录账户</strong>：访问Perplexity官网 https://www.perplexity.ai/ ，接受邀请免费领取Pro会员，登录开始使用。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>智能搜索</strong>：在搜索栏输入问题，用AI直接获取答案，同时AI记住对话上下文供后续追问。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">模型选择</strong>：通过点击输入框旁的模型切换图标，选择适合需求的AI模型进行交互。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自定义搜索</strong>：点击搜索范围图标，自定义搜索特定资料，如学术论文或财经信息。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>深度研究</strong>：启用深度搜索功能，让AI自动执行多次搜索并生成综合报告。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>使用Labs</strong>：在Labs中，用AI Agent自动化完成信息收集、数据处理和结果交付。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>学习模式</strong>：进入Study模式，获取结构化的知识框架和互动式学习工具，系统学习新主题。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>管理Space</strong>：通过Space功能上传文件和链接，用AI记忆内容进行深入分析。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>设置推送</strong>：通过Tasks设置，让Perplexity定时推送感兴趣的新闻或信息。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>财务分析</strong>：用Perplexity的财务功能，获取实时市场数据和个股信息，辅助投资决策。</div>\n</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/10/Perplexity-website3-1.png\" data-fancybox=\"fancybox\" data-caption=\"Perplexity\"><img decoding=\"async\" class=\"alignnone wp-image-65230\" src=\"https://ai-bot.cn/wp-content/uploads/2025/10/Perplexity-website3-1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Perplexity\" width=\"740\" height=\"416\"></a>"
-      },
-      {
-        "title": "Perplexity的产品定价",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>个人专业版计划</strong>：每月20美元，按年计费时为每年16.67美元，提供10倍引用数量的答案、使用Perplexity Labs、无限文件和照片上传、扩展访问Perplexity Research、图像生成扩展访问、有限的视频生成访问，及订阅使用所有最新AI模型，包括GPT-5和Claude Sonnet 4。</li>\n<li class=\"paragraph\"><strong>个人最大值计划</strong>：每月200美元，包含专业版所有内容，优先访问最新产品，无限访问Perplexity Labs和Perplexity Research，使用高级AI模型如<a href=\"https://ai-bot.cn/o3-pro/\" target=\"_blank\" rel=\"noopener\">OpenAI o3-pro</a>和<a href=\"https://ai-bot.cn/claude-opus-4-1/\" target=\"_blank\" rel=\"noopener\">Anthropic Claude Opus 4.1</a>，增强的视频生成访问权限，及优先支持。</li>\n<li><strong>教育Pro计划</strong>：为学生和教师提供免费Pro版本，通过验证身份解锁，包括增加10倍答案引用数量、用Perplexity Labs、无限文件和照片上传、扩展访问Perplexity Research，及获取最新AI模型和$5.00的API积分。</li>\n</ul>"
-      },
-      {
-        "title": "Perplexity的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>学术研究</strong>：Perplexity能帮助研究人员快速获取和分析学术论文，支持深入的学术探索。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>市场分析</strong>：投资者用Perplexity获取实时市场数据和分析报告，辅助投资决策。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教育学习</strong>：学生和教育工作者用Perplexity的结构化知识框架和互动式学习工具进行系统学习。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>编程开发</strong>：开发者用Perplexity的代码生成功能加速编程过程，提高开发效率。</div>\n</li>\n</ul>"
-      }
-    ],
-    "updatedAt": "2026-09-27"
-  },
-  {
     "slug": "tool58169",
     "name": "新一代科研知识库与AI学术搜索平台",
     "description": "新一代科研知识库与AI学术搜索平台是一款AI搜索引擎领域的免费增值AI工具，新一代科研知识库与AI学术搜索平台。支持AI搜索引。",
@@ -29548,7 +28677,7 @@
     "slug": "dexa-ai",
     "name": "SearchGPT",
     "description": "SearchGPT是一款AI搜索引擎领域的免费增值AI工具，OpenAI最新推出的AI搜索引擎。支持AI搜索引。",
-    "url": "https://dexa.ai/",
+    "url": "https://openai.com/index/searchgpt/",
     "categories": [
       "ai-search"
     ],
@@ -29561,7 +28690,7 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-search-engine",
     "logo": "/logos/dexa-ai.png",
-    "domain": "dexa.ai",
+    "domain": "openai.com",
     "detailed_content": [
       {
         "title": "SearchGPT是什么",
@@ -29580,7 +28709,7 @@
         "html": "<ul>\n<li><strong>技术爱好者</strong>：对AI技术和最新搜索引擎感兴趣的用户，愿意尝试并体验前沿的搜索工具。</li>\n<li><strong>研究人员和学者</strong>：需要快速获取大量准确信息的专业人士，SearchGPT的对话式搜索和信源透明度对他们尤其有用。</li>\n<li><strong>学生</strong>：在学习过程中需要查找资料、进行学术研究的学生，SearchGPT能够提供丰富的多媒体内容和直观的展示。</li>\n<li><strong>专业人士</strong>：需要获取行业动态、市场信息或专业数据的职场人士，SearchGPT的个性化和权威性信息对他们很有帮助。</li>\n<li><strong>内容创作者</strong>：需要寻找灵感、资料或进行内容验证的作家、博主和视频制作者，SearchGPT的多媒体搜索结果和信源引用功能可以提高他们的工作效率。</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool14355",
@@ -29787,27 +28916,6 @@
         "html": "<ul>\n<li><strong>学术研究</strong>：研究人员可以使用Felo来快速获取跨学科的资料和文献，以及来自不同语言和地区的研究成果。</li>\n<li><strong>市场调研</strong>：企业和市场分析师可以用Felo搜索行业趋势、竞争对手信息、消费者反馈等，以支持决策制定。</li>\n<li><strong>新闻媒体</strong>：记者和编辑可以用Felo来搜集新闻素材、背景资料和不同来源的观点，丰富报道内容。</li>\n<li><strong>社交媒体监控</strong>：品牌和公关团队可以用Felo监控社交媒体上的品牌提及和用户反馈，及时响应舆论。</li>\n<li><strong>语言学习</strong>：语言学习者可以通过Felo获取不同语言的资料，进行语言实践和学习。</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
-  },
-  {
-    "slug": "tool4257",
-    "name": "AI办公智能体先行者",
-    "description": "属于AI搜索引擎·AI搜索引擎分类。昆仑万维最新推出的结合大模型的AI搜索引擎。支持AI搜索引，适合需要AI驱动的智能搜索的用户。",
-    "url": "https://tiangong.cn/",
-    "categories": [
-      "ai-search"
-    ],
-    "tags": [
-      "AI搜索引"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-search-engine",
-    "logo": "/logos/tool4257.png",
-    "domain": "tiangong.cn",
-    "detailed_content": [],
     "updatedAt": "2026-09-27"
   },
   {
@@ -30613,7 +29721,7 @@
     "slug": "huggingface-co",
     "name": "讯飞星辰MaaS",
     "description": "属于AI开发平台·模型部署平台分类。Coding Plan套餐首购特惠低至3.9元/月。支持AI开发平，适合需要构建或部署AI应用的用户。",
-    "url": "https://huggingface.co/docs/transformers/model_doc/bloom",
+    "url": "https://maas.xfyun.cn/",
     "categories": [
       "ai-platform"
     ],
@@ -30626,7 +29734,7 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
     "logo": "/logos/huggingface-co.png",
-    "domain": "huggingface.co",
+    "domain": "maas.xfyun.cn",
     "detailed_content": [
       {
         "title": "讯飞星辰MaaS是什么",
@@ -30661,7 +29769,7 @@
         "html": "<ul>\n<li class=\"paragraph\"><strong>智能客服</strong>：基于领域数据精调模型，打造专业客服机器人，实现精准问答与多轮对话。</li>\n<li class=\"paragraph\"><strong>内容创作</strong>：用文本生成模型辅助新闻撰写、营销文案、小说创作等，提升内容生产效率。</li>\n<li class=\"paragraph\"><strong>代码开发</strong>：通过代码大模型提供智能补全、Bug修复、代码审查等功能，加速软件开发流程。</li>\n<li class=\"paragraph\"><strong>数据分析</strong>：结合大模型能力实现报表生成、数据洞察、可视化解读，降低数据分析门槛。</li>\n<li class=\"paragraph\"><strong>智能办公</strong>：对接OpenClaw等AI Agent，自动处理邮件归类、日程管理、文档整理等日常事务。</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool15446",
@@ -31935,7 +31043,7 @@
     "slug": "ai-bot-cn",
     "name": "Wordware",
     "description": "属于AI开发平台·模型部署平台分类。零代码构建AI Agent和应用的开发平台。支持AI开发平，适合需要构建或部署AI应用的用户。",
-    "url": "https://ai-bot.cn/wordware",
+    "url": "https://www.wordware.ai/",
     "categories": [
       "ai-platform"
     ],
@@ -31948,7 +31056,7 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-platform-deploy",
     "logo": "/logos/ai-bot-cn.png",
-    "domain": "ai-bot.cn",
+    "domain": "wordware.ai",
     "detailed_content": [
       {
         "title": "Wordware是什么",
@@ -31967,7 +31075,7 @@
         "html": "<ul>\n<li><strong>社交媒体分析Agent</strong>：可以自动收集和分析社交媒体上的帖子，识别公众情绪，为市场研究或品牌监控提供洞察。</li>\n<li><strong>个性化诗歌创作</strong>：用户可以请求AI创作一首关于特定主题的诗歌，AI会根据用户给出的提示词来创作。</li>\n<li><strong>Twitter Personality分析</strong>：通过分析Twitter用户的推文，使用大型语言模型来评估用户的个性特征。</li>\n<li><strong>自动化报告生成</strong>：从结构化数据中提取信息，自动生成业务报告，节省人力并提高效率。</li>\n<li><strong>法律合同审查</strong>：自动化分析法律文件，快速识别合同中的关键条款和潜在问题。</li>\n<li><strong>个性化学习辅导</strong>：AI Tutor产品利用AI为学生提供个性化的学习辅导，同时帮助老师减少工作量。</li>\n</ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool8536",
@@ -34077,7 +33185,7 @@
     "slug": "lamini-ai",
     "name": "GPT-4",
     "description": "属于AI训练模型·大语言模型分类。GPT-4是一款AI训练模型领域的免费增值AI工具，OpenAI旗下最新的GPT-4模型。支持AI训练模。",
-    "url": "https://lamini.ai",
+    "url": "https://openai.com/index/gpt-4/",
     "categories": [
       "ai-models"
     ],
@@ -34090,7 +33198,7 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-llm",
     "logo": "/logos/lamini-ai.png",
-    "domain": "lamini.ai",
+    "domain": "openai.com",
     "detailed_content": [
       {
         "title": "GPT-4介绍",
@@ -34109,13 +33217,13 @@
         "html": "<p>这个问题的答案：是也不是。</p>\n<p>用户可以通过ChatGPT、New Bing等软件访问GPT-4，这些平台使用GPT-4来生成内容并与用户互动。然而，GPT-4只有在ChatGPT Plus付费计划下才能使用，或者作为开发者建立应用程序和服务的API。New Bing（新必应）可以每天免费有限次数使用GPT-4驱动的AI聊天，而独立用户在这些人工智能聊天机器人平台之外没有机会使用GPT-4。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool50",
     "name": "DALL·E 3",
     "description": "属于AI训练模型·图像模型分类。DALL·E 3是一款AI训练模型领域的免费增值AI工具，OpenAI旗下最新的图像生成模型。支持AI训练模。",
-    "url": "https://moss.fastnlp.top",
+    "url": "https://openai.com/index/dall-e-3/",
     "categories": [
       "ai-models"
     ],
@@ -34128,9 +33236,9 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-models-image",
     "logo": "/logos/tool50.png",
-    "domain": "moss.fastnlp.top",
+    "domain": "openai.com",
     "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-29"
   },
   {
     "slug": "tool1078",
