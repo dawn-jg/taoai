@@ -1508,27 +1508,23 @@
     "domain": "youmind.com",
     "detailed_content": [
       {
-        "title": "YouMind是什么",
-        "html": "<p>YouMind 是前阿里员工玉伯推出的专注提升创作效率和信息整合深度的AI原生工具，希望打造一个<strong>深度整合、无缝衔接的创作工作流</strong>，真正围绕创作者的实际痛点（如冷启动困难、流程割裂、效率低下）去构建产品。YouMind支持从网页、视频、播客、PDF 和图片等多种来源提取和保存信息，基于 Anthropic、OpenAI 和 Meta 等顶尖大模型提供 <a href=\"https://ai-bot.cn/ai-writing-tools/\" target=\"_blank\" rel=\"noopener\">AI 辅助创作</a>功能。用户可以在浏览网页、观看视频或阅读文档时，随时保存重要内容，通过 AI 助手获取创作灵感、智能推荐和自动生成文本。YouMind 支持浏览器扩展插件，方便用户在网页浏览时直接与 AI 互动。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-61210\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/YouMind-website1.png\"   alt=\"YouMind\" width=\"741\" height=\"417\" />"
+        "title": "YouMind 是什么",
+        "html": "<p>YouMind 是一款把「学习」和「创作」放在同一个空间里的 AI 工作台，官网的标语是「学得更深，创得更大胆」。它先从你感兴趣的资料出发，用对话帮你把内容理解透，再把理解结果转成属于自己的作品。</p><p>与常见的写作助手不同，YouMind 的起点是素材库而不是空白文档。官网描述的第一步是把文章、视频、播客和笔记集中保存到一个位置，随后以提问的方式展开探索，官方特意提到这一步的目标不是拿一份摘要，而是形成自己的理解。</p><p>在产出端，YouMind 支持文章、幻灯片、图片、视频和网页等多种形态，并提供覆盖 iOS、Android、macOS 与浏览器的客户端入口，说明它希望把这条链路做成日常可用的工具而非一次性网站。</p>"
       },
       {
-        "title": "YouMind的功能特色",
-        "html": "<ul>\n<li><strong>多格式内容提取</strong>：可以通过浏览器插件等方式，让 YouMind 从网页、视频、播客、PDF 文档、图片等多种来源中，快速抓取和总结关键信息。</li>\n<li><strong>知识管理与整合</strong>：提取的内容可以保存到你的个人知识库中，并通过 Snips（摘录）、Thoughts（想法）和 Boards（板块）等功能进行组织管理，便于后续查阅和使用。</li>\n<li><strong>AI 辅助创作</strong>：YouMind 集成了多家顶尖大型语言模型（如 Anthropic、OpenAI、Meta等），能帮你生成内容、润色文字、提供灵感建议，与你进行“对话式”共创。</li>\n<li><strong>隐私保护</strong>：YouMind 承诺不使用用户数据进行模型训练，所有上传的文件、保存的材料和AI对话数据都由用户完全控制。</li>\n</ul>"
+        "title": "YouMind 的主要功能",
+        "html": "<p>YouMind 官网把能力分成「收集、理解、产出」三段，列出的模块有：</p><ul><li><strong>素材收集</strong>：把文章、视频、播客与随手笔记汇总到统一位置。</li><li><strong>对话式探索</strong>：就素材内容提问、串联线索并比较不同视角。</li><li><strong>AI 写作</strong>：把整理出的想法扩展成完整文章。</li><li><strong>AI 幻灯片</strong>：将内容组织成演示用的页面结构。</li><li><strong>AI 图像</strong>：为作品生成配图或视觉素材。</li><li><strong>AI 视频</strong>：把内容转成视频形态。</li><li><strong>AI 网页</strong>：把成果直接做成可分享的网页。</li><li><strong>链接转笔记</strong>：官网提供了把 YouTube 内容转成要点笔记的示例。</li><li><strong>多端客户端</strong>：覆盖 iOS、Android 与 macOS，桌面端标注为测试版本。</li></ul>"
       },
       {
-        "title": "如何使用YouMind",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">安装浏览器插件</strong>：访问 YouMind 官网 <a href=\"https://youmind.com/invite/84LX6W\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >https://youmind.com/</a> ，下载并安装浏览器扩展插件。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>创建个人账户</strong>：在 YouMind 平台上注册并创建个人账户，登录后即可开始使用各项功能。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">采集资料</strong>：在浏览网页、观看视频或阅读文档时，通过浏览器插件一键保存文字、图片、音频、视频等素材到个人知识库。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>整理资料</strong>：在 YouMind 平台上对采集的资料进行整理和分类，用 AI 功能进行总结、翻译或提问。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>创作内容</strong>：根据采集的资料和创作需求，用 AI 辅助创作功能，如自动补全、灵感建议等，生成所需的文本内容。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>隐私设置</strong>：在个人账户中设置隐私选项，YouMind 不会使用用户数据进行训练。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>输出内容</strong>：将生成的内容导出为所需格式，如文档、PDF 等，用于发布或进一步编辑。</div>\n</li>\n</ul>"
+        "title": "如何使用 YouMind",
+        "html": "<p>YouMind 的工作节奏是「先喂资料、再提问、最后成稿」，官网呈现的顺序如下：</p><ol><li>注册并登录 YouMind，进入工作台首页。</li><li>把想学的文章、视频或播客存入素材区，也可以直接从一条链接开始。</li><li>围绕素材向 AI 提问，让它串联不同来源的观点，逐步建立自己的判断。</li><li>确认思路之后，选择要产出的形态：文章、幻灯片、图片、视频或网页。</li><li>在成稿过程中继续用 AI 修改，直到表达符合自己的语气和目的。</li><li>需要随身使用时，安装对应的手机或桌面客户端继续操作。</li><li>完成后导出或发布，把结果留作后续创作的基础。</li></ol>"
       },
       {
-        "title": "YouMind的产品价格",
-        "html": "<p>YouMind 目前的订阅价格为 <strong>20 美元/月</strong>，订阅后可享用平台所有功能。同时提供 7 天的免费试用期，方便用户在付费前进行体验。如果想了解最新的优惠或详细套餐内容，建议访问 YouMind 官网查看。</p>"
-      },
-      {
-        "title": "YouMind的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>学生学习</strong>：学生可保存和总结课程资料、讲座及案例，提升理解与复习效果。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>新闻与报道</strong>：记者可高效收集和整理多渠道信息，产出准确全面的报道。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>商业分析</strong>：商务人士可从报告和市场调研中提取有价值的数据，辅助决策。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">播客与视频脚本创作</strong>：帮助创作者快速整理访谈内容或视频素材，生成结构化脚本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自媒体内容生产</strong>：整合热点话题素材，快速产出高质量文章或社交媒体文案。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>团队协作与知识管理</strong>：团队成员共享素材库，协同完成项目报告或产品文档。</div>\n</li>\n</ul>"
+        "title": "YouMind 的应用场景",
+        "html": "<p>YouMind 官网通过展示真实创作者的作品来说明适用场景，常见的几类是：</p><ul><li><strong>深度阅读与学习</strong>：把长文、课程视频和播客的要点沉淀成可复用的理解。</li><li><strong>写文章与专栏</strong>：从资料出发组织论点，再扩写成完整稿件。</li><li><strong>做演示材料</strong>：把研究结果整理成幻灯片，用于汇报或分享。</li><li><strong>视觉内容创作</strong>：为作品生成配图，或制作风格化的视觉系列。</li><li><strong>短视频与解说</strong>：把知识内容转成视频，官网也展示了由图片生成的卡点视频。</li><li><strong>个人知识站点</strong>：把成果整理成网页形态对外发布。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "xiaoin-com-cn",
@@ -2325,31 +2321,23 @@
     "domain": "flowus.cn",
     "detailed_content": [
       {
-        "title": "FlowUs AI是什么",
-        "html": "<p>FlowUs AI 是国内的在线知识管理与文档协作平台FlowUs息流推出的<a href=\"https://ai-bot.cn/favorites/ai-writing-tools/\" target=\"_blank\" rel=\"noopener\">AI创作助手</a>，通过智能化的工具帮助用户更高效地收集、呈现、整理、存储和共享信息，提高工作效率和学习效果。类似于<a href=\"https://ai-bot.cn/sites/189.html\" target=\"_blank\" rel=\"noopener\">Notion AI</a>，集成在模块化笔记文档平台中，能快速帮助用户完成文本创作、润色、总结、<a href=\"https://ai-bot.cn/best-ai-translation-tools/\" target=\"_blank\" rel=\"noopener\">翻译</a>等多种任务。平台支持多种语言风格，能优化文本结构、修正语病，和处理代码、表格和 LaTeX 公式等内容。FlowUs AI 为写作、学习和工作提供高效支持，帮助用户提升表达能力和工作效率，是现代知识管理和创作的得力助手。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-7318\" src=\"https://ai-bot.cn/wp-content/uploads/2024/01/flowus-ai-writer.png\"   alt=\"\" width=\"740\" height=\"416\" />"
+        "title": "FlowUs AI 是什么",
+        "html": "<p>FlowUs AI 是息流 FlowUs 内置的智能化能力集合，官网把它描述成「用 AI 解决工作、学习和生活中的各项任务」。与独立的写作工具不同，FlowUs AI 生长在文档、多维表和知识库之上，处理对象天然包括页面里的文本、表格、代码与公式。</p><p>官网把这块能力归纳为三类：AI 写作、AI 任务处理与 AI 翻译。写作侧重从灵感到成文，任务处理侧重对既有内容做加工，翻译则负责跨语言的转换与复用，三者都直接作用在当前打开的内容上。</p><p>按照官网说明，FlowUs AI 的部分能力仍处于公测申请阶段，具体额度与计费方式以页面上的说明为准。</p>"
       },
       {
-        "title": "FlowUs AI的主要功能",
-        "html": "<ul class=\"text-md\">\n<li><strong>AI写作</strong>：协助用户进行头脑风暴、文章创作、大纲制定、故事编写等，协助用户准确、高效地完成文章创作，提高文章质量和表达能力。</li>\n<li><strong>文本处理</strong>：批量编辑文本，如替换、删除、增加和修改文本，及文本润色和结构优化。FlowUs AI能续写、改写、扩写文本，及进行摘要和总结，能拆分文本块并进行序号标注。</li>\n<li><strong>代码处理</strong>：支持代码生成、自动添加注释、代码审查和自动化测试，提升编程效率和代码的可读性。</li>\n<li><strong>AI翻译</strong>：支持多种语言互译，能够自动识别并翻译文本成目标语言，提高翻译的速度、准确度和效率。</li>\n<li><strong>表格处理</strong>：智能地处理文档中的表格，包括生成表格、提取信息、智能重组和识别解析表格数据。</li>\n<li><strong>LaTeX公式处理</strong>：对于学术和科研用户，提供LaTeX公式处理功能，可自动生成、识别和解析LaTeX公式。</li>\n</ul>\n<img decoding=\"async\" class=\"rounded-lg shadow-sm alignnone wp-image-7316\" src=\"https://ai-bot.cn/wp-content/uploads/2024/01/flowus-ai-assistant.png\"   alt=\"FlowUs AI\" width=\"740\" height=\"416\" />"
+        "title": "FlowUs AI 的主要功能",
+        "html": "<p>FlowUs AI 官网按写作、任务处理、翻译三条线列出功能，具体条目如下：</p><ul><li><strong>文章创作</strong>：官网标注覆盖八类实用场景，用于从构思到完稿。</li><li><strong>文本润色</strong>：优化句子结构、修正语病与拼写，提高可读性。</li><li><strong>风格改写</strong>：提供多种语言风格切换，适配不同受众与情境。</li><li><strong>内容分析</strong>：解读、修改或提取文本信息，也能调整内容的呈现样式。</li><li><strong>解释说明</strong>：对行业名词与职场用语给出通俗解释。</li><li><strong>摘要总结</strong>：快速抓取长材料的重点。</li><li><strong>代码处理</strong>：用于提升代码可读性与编写效率。</li><li><strong>表格处理</strong>：对表格数据做重组、识别与解析。</li><li><strong>LaTeX 公式处理</strong>：支持生成、识别与解析公式及相关符号。</li><li><strong>多国语言互译</strong>：自动识别并翻译为目标语言，官网另有一个「翻译成」的用法示例。</li></ul>"
       },
       {
-        "title": "如何使用FlowUs AI",
-        "html": "<ul>\n<li><strong>注册与登录</strong>：访问 FlowUs AI官网 https://flowus.cn/ai，注册账号并登录平台。</li>\n<li><strong>进入 FlowUs AI 功能界面</strong>：登录后点击“FlowUs AI”或“AI 创作助手”，进入 AI 功能界面。</li>\n<li><strong>唤醒FlowUs AI助手</strong>：在左侧新建页面或在体验文档中输入斜杠/，唤起FlowUs AI助手。</li>\n<li><strong>使用AI功能</strong>：输入提示描述或选择要使用的AI功能即可。</li>\n</ul>"
+        "title": "如何使用 FlowUs AI",
+        "html": "<p>FlowUs AI 的使用方式贴合文档编辑习惯，官网给出的流程是：</p><ol><li>登录 FlowUs，打开或新建一个页面。</li><li>在页面中写下一段初稿，或先记录几个零散的想法。</li><li>选中文本后唤起 FlowUs AI，根据目标选择润色、改写、摘要或分析。</li><li>需要处理表格、代码或公式时，直接在对应内容块上调用相应能力。</li><li>要翻译内容时指定目标语言，也可用「翻译成」把结果直接落到需要的位置。</li><li>部分功能需先申请公测资格，通过后即可在编辑器内使用。</li><li>完成后把内容留在知识库中，便于团队后续检索与协作。</li></ol>"
       },
       {
-        "title": "FlowUs AI的应用场景",
-        "html": "<ul>\n<li><strong>写作与内容创作</strong>：快速生成文章、文案、故事等初稿，帮助用户激发灵感并提升写作效率。</li>\n<li><strong class=\"\">数据分析与表格处理</strong>：平台智能重组表格数据，生成数据分析报告，助力用户高效理解和利用数据。</li>\n<li><strong class=\"\">代码编写与优化</strong>：FlowUs AI 能生成代码片段、优化代码结构、自动生成注释，帮助开发者快速完成编程任务。</li>\n<li><strong>翻译与多语言处理</strong>：FlowUs AI 支持多国语言互译，快速翻译文本并提供语言风格改写，促进跨文化交流。</li>\n</ul>"
-      },
-      {
-        "title": "FlowUs AI的产品价格",
-        "html": "<ul class=\"text-md\">\n<li>新用户注册登录后可获得5张每月的基础限额AI功能使用券，参与分享模版活动可获得至高20次AI补充额度</li>\n<li>AI权益包付费版按量计费，30天的价格为18元（100次/日）、30元（200次/日）、75元（500次/日）、100元（1000次/日）</li>\n</ul>"
-      },
-      {
-        "title": "常见问题",
-        "html": "<div id=\"accordion\" style=\"max-width: 700px;\">\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>FlowUs AI提供免费体验吗？</strong></div>\n<div class=\"card-body text-sm\">FlowUs AI现处于全面公测中，新用户注册登录后可免费获得5张AI功能使用券的每月次数。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>FlowUs AI支持哪些平台使用？</strong></div>\n<div class=\"card-body text-sm\">FlowUs AI支持通过在线网页版以及移动端的FlowUs APP使用。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>FlowUs AI基于什么大模型？</strong></div>\n<div class=\"card-body text-sm\">FlowUs AI的底层技术基于MiniMax提供的大模型。</div>\n</div>\n</div>"
+        "title": "FlowUs AI 的应用场景",
+        "html": "<p>FlowUs AI 官网对适用对象的描述偏向日常办公与学习，常见用法是：</p><ul><li><strong>文档撰写</strong>：在知识库页面里起草通知、方案或说明文档。</li><li><strong>内容润色与改写</strong>：把口语化草稿调整成正式表述，或改成适配不同渠道的版本。</li><li><strong>资料归纳</strong>：对冗长材料做摘要，快速判断是否需要细读。</li><li><strong>数据整理</strong>：对表格内容做识别与重组，便于后续统计。</li><li><strong>技术文档处理</strong>：整理代码片段与数学公式，提升文档可读性。</li><li><strong>跨语言协作</strong>：把中文材料翻译后交给外部伙伴，或反过来理解外文资料。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "rytr-me",
@@ -3203,8 +3191,25 @@
     "subcategory": "ai-writing-article",
     "logo": "/logos/tool5001.png",
     "domain": "littlefrog.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "写作蛙 是什么",
+        "html": "<p>写作蛙（LittleFrog.ai）是一款面向写作者的智能写作助手，官网的定位语是「选择你的 AI，找到你的表达」。它把多个语言模型放在同一个界面里供切换，让用户根据具体任务挑选更合适的那一个，而不是被动接受单一模型的结果。</p><p>写作蛙的另一条主线是语音。官网设置了 Voice Integration 能力，说明可以把口述的想法整理成成稿文字，适合习惯先说出来再落笔的人。</p><p>从官网的分类看，写作蛙覆盖的不只是短文写作，还包括故事开发、内容规划一类的长周期任务，并配有面向 SEO 的优化工具与专业技术文档支持。</p>"
+      },
+      {
+        "title": "写作蛙 的主要功能",
+        "html": "<p>写作蛙官网把能力分成几组模块，公开列出的条目有：</p><ul><li><strong>多模型选择</strong>：按写作需求切换不同的底层模型。</li><li><strong>语音输入</strong>：把口语表达转换成整理好的书面内容。</li><li><strong>创作套件</strong>：官网列出人物性格塑造、世界观搭建与故事管理三类工具。</li><li><strong>专业工具</strong>：包含内容规划、搜索优化写作与技术文档撰写支持。</li><li><strong>写作场景覆盖</strong>：官网列出的方向有故事开发、文章写作、营销文案、学术写作、诗歌创作与技术文档。</li><li><strong>多语言支持</strong>：官网在规划中列出多语种写作能力。</li><li><strong>上下文记忆</strong>：官网提到会增强对长内容的上下文记忆。</li><li><strong>团队协作</strong>：官网规划中包括团队共同创作与自定义模型微调。</li></ul>"
+      },
+      {
+        "title": "如何使用 写作蛙",
+        "html": "<p>写作蛙的入口设计得比较直接，官网页面上体现的顺序是：</p><ol><li>打开写作蛙官网，进入主界面并选择对话入口。</li><li>从可用模型列表中挑一个，根据任务是偏创意还是偏严谨做判断。</li><li>输入提示词开始写作；如果不习惯敲键盘，改用语音把想法讲出来。</li><li>处理长篇内容时启用创作套件，先建立人物与世界观设定。</li><li>需要面向搜索优化或撰写技术文档时，切换到对应的专业工具。</li><li>初稿完成后继续对话修改，直到表达符合预期。</li><li>官网标注部分进阶能力仍在开发中，可通过 Beta 计划获取体验资格。</li></ol>"
+      },
+      {
+        "title": "写作蛙 的应用场景",
+        "html": "<p>写作蛙官网列出的写作方向决定了它的适用人群，常见用法包括：</p><ul><li><strong>小说与故事创作</strong>：用它管理人物设定与情节线索，支撑长篇写作。</li><li><strong>文章与专栏撰写</strong>：从选题到成稿一站式完成常规稿件。</li><li><strong>营销与品牌文案</strong>：产出推广文案与产品描述。</li><li><strong>学术与研究报告</strong>：整理思路并推进结构化的长篇材料。</li><li><strong>诗歌与创意短篇</strong>：借助模型切换寻找不同的语言风格。</li><li><strong>技术文档</strong>：撰写接口说明与操作手册一类的说明性内容。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "tool16171",
@@ -3538,23 +3543,23 @@
     "domain": "novelai.net",
     "detailed_content": [
       {
-        "title": "NovelAI",
-        "html": "<p>Novel AI是一个创新的<a href=\"https://ai-bot.cn/ai-novel-writing-tools/\" target=\"_blank\" rel=\"noopener\">AI小说故事创作平台</a>，专门设计来辅助作家和创意人士克服写作障碍，提升故事创作的质量和效率。通过先进的自然语言处理技术，能根据用户提供的简单提示生成详细的文本和生动的图像，支持故事讲述和视觉艺术创作。Novel AI的核心功能包括AI辅助创作、图像生成、文本冒险模块以及定制化编辑器，是激发创意并提供多样化的叙事工具。用户可以通过它生成小说内容、塑造角色和对话。</p>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-20720\" src=\"https://ai-bot.cn/wp-content/uploads/2024/09/Novel-AI-website.png\"   alt=\"\" width=\"800\" height=\"450\" />"
+        "title": "NovelAI 是什么",
+        "html": "<p>NovelAI 是一款把动漫风格图像生成与故事写作打包在一起的创作工具，官网对它的概括是「生成动漫艺术、并写出有记忆的故事」。它的两条主线分别是图像模型 NovelAI Diffusion 与故事生成能力，用户在同一站点内就能交替使用。</p><p>官网当前主推的图像版本是 NovelAI Diffusion V5，描述里提到更锐利的细节、能容纳更多角色，并支持整页漫画的生成。故事侧则标注基于 GLM 4.6 驱动，官网强调它的写作定位是「和你一起写，而不是替你写」。</p><p>NovelAI 也特别提到一个细节：写作过程中模型会记住既有设定，这解决了长文创作里前后不一致的老问题。官网同时提供社区与博客入口，供用户交流用法与参考案例。</p>"
       },
       {
-        "title": "Novel AI的主要功能",
-        "html": "<ul>\n<li><strong>故事生成器（Storyteller）</strong>：是Novel AI的核心功能，支持用户输入一个故事的开头或者简单的提示，AI会基于这些信息生成故事的后续内容。</li>\n<li><strong>文本冒险（Text Adventure）</strong>：支持用户创建一个互动式的故事体验，可以通过选择不同的选项来影响故事的发展。</li>\n<li><strong>图像生成（Image Generation）</strong>：Novel AI提供了将文本描述转换成图像的功能，帮助用户将他们想象中的角色或场景可视化。</li>\n<li><strong>角色和世界观构建（Character and Worldbuilding）</strong>：平台提供了工具来帮助用户发展他们故事中的角色和世界观，确保故事的连贯性和深度。</li>\n<li><strong>写作辅助（Writing Assistance）</strong>：Novel AI可以提供语法检查、风格建议和主题分析等辅助功能，帮助用户改进他们的写作。</li>\n<li><strong>自定义编辑器（Customizable Editor）</strong>：用户可以根据个人喜好调整编辑器的界面，包括字体、颜色和布局等。</li>\n<li><strong>AI模型选择（AI Model Selection）</strong>：Novel AI提供了多种AI模型，每个模型有其独特的风格和能力，用户可以根据需要选择最合适的模型来辅助他们的创作。</li>\n</ul>"
+        "title": "NovelAI 的主要功能",
+        "html": "<p>NovelAI 官网把能力集中在图像与文字两条线上，公开列出的重点有：</p><ul><li><strong>动漫图像生成</strong>：基于 NovelAI Diffusion V5，可生成原创角色、场景与画作。</li><li><strong>整页漫画</strong>：官方说明新版本能够一次生成漫画页面，而不只是单张插图。</li><li><strong>多角色同框</strong>：官网提到该版本在容纳多角色方面做了改进。</li><li><strong>故事生成</strong>：由 GLM 4.6 驱动的写作模型，可续写并发展情节。</li><li><strong>设定记忆</strong>：官方强调模型会记住已建立的世界观与人物设定，减少前后矛盾。</li><li><strong>写作空间</strong>：官网描述其编辑器围绕创作习惯设计，而不要求用户迁就工具。</li><li><strong>社区与博客</strong>：提供作品浏览与用法分享入口。</li></ul>"
       },
       {
-        "title": "Novel AI的产品官网",
-        "html": "<ul>\n<li><strong>产品官网：<a href=\"https://novelai.net/?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener\" rel=\"nofollow noopener\"  class=\"external\" >novelai.net</a></strong></li>\n</ul>"
+        "title": "如何使用 NovelAI",
+        "html": "<p>NovelAI 页面把图像与文字做成并列入口，使用顺序大致如下：</p><ol><li>访问 NovelAI 官网并登录账号，进入主界面。</li><li>决定先做哪一件事：生成图像，还是撰写故事。</li><li>做图像时选择 NovelAI Diffusion V5 模型，输入描述提示词后提交生成。</li><li>需要漫画时把提示按页面结构组织，让模型一次产出多格内容。</li><li>写故事时切换到写作入口，先交代世界观与人物设定，再让模型顺着往下推进。</li><li>过程中随时回到设定部分做补充，模型会把新信息纳入后续内容。</li><li>满意后导出图片或文本，继续进行后期整理。</li></ol>"
       },
       {
-        "title": "Novel AI的应用场景",
-        "html": "<ul>\n<li><strong>小说创作</strong>：作家和小说家可以用Novel AI来生成故事的初稿、发展情节、塑造角色和构建世界观。可以帮助作者克服写作障碍，提供创意灵感。</li>\n<li><strong>剧本写作</strong>：编剧可以用Novel AI来构思剧本的对话和场景，快速生成剧本草稿，进行角色发展和故事线规划。</li>\n<li><strong>角色开发</strong>：通过AI辅助的角色构建工具，创作者可以深入探索角色的背景、性格特点和动机，使角色更加立体和真实。</li>\n<li><strong>互动故事和游戏设计</strong>：游戏设计师和互动故事作者可以用Novel AI的文本冒险功能来创建分支叙事，为玩家提供丰富的选择和多样的故事路径。</li>\n<li><strong>内容营销</strong>：营销专业人士可以用Novel AI来生成吸引人的博客文章、社交媒体帖子和其他营销材料，提高内容的创意性和吸引力。</li>\n</ul>"
+        "title": "NovelAI 的应用场景",
+        "html": "<p>NovelAI 官网把使用方向围绕「想象力的落地」来组织，主要覆盖这些场景：</p><ul><li><strong>动漫插画创作</strong>：生成原创角色、服装与场景，用于个人作品或同人创作。</li><li><strong>漫画制作</strong>：借助整页生成能力，把脚本推进到分镜阶段。</li><li><strong>小说与故事写作</strong>：用带记忆的写作模型续写长篇内容，维护设定一致性。</li><li><strong>角色设定整理</strong>：为世界观中的人物建立可复用的形象与背景。</li><li><strong>灵感探索</strong>：用单条提示快速验证不同画面构想。</li><li><strong>兴趣社群交流</strong>：通过官网社区浏览他人作品，参考提示与风格写法。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "wen-mobvoi-com",
@@ -4931,23 +4936,23 @@
     "domain": "photoroom.com",
     "detailed_content": [
       {
-        "title": "Photoroom是什么",
-        "html": "<p>Photoroom是在线AI图片编辑工具，提供从免费到企业级的多种服务。Photoroom使用AI技术帮助用户快速准确地<a href=\"https://ai-bot.cn/ai-image-background-removers/\" target=\"_blank\" rel=\"noopener\">擦除图片背景</a>、创建逼真背景和调整图片大小。Photoroom还支持团队协作，提高设计和编辑的效率。无论是独立创作者还是企业团队，都能在这里找到合适的工具和解决方案。</p>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-18078\" src=\"https://ai-bot.cn/wp-content/uploads/2024/08/Photoroom-website01.png\"   alt=\"Photoroom\" width=\"800\" height=\"450\" />"
+        "title": "Photoroom 是什么",
+        "html": "<p>Photoroom 是一款由 AI 驱动的图片编辑工具与商品图工作室，官网把它定位成帮助电商企业和社交媒体创作者快速产出专业视觉内容的平台。它的目标不止于修好一张图，而是把图像创建、平台规格适配和批量上架串成可重复执行的流程。</p><p>从官网的功能分区看，Photoroom 的重心明显偏向商业用途：抠图、生成产品场景、虚拟模特、批量处理、产品目录管理都围绕「把商品卖出去」这一目标组织。官网也用专门的篇幅说明它面向初创企业、成长期品牌和大型企业三类不同规模的用户。</p><p>Photoroom 同时提供网页版与 API，并支持以 MCP 连接器的形式接入 Claude，开发者可以把图像处理能力嵌进自己的系统。</p>"
       },
       {
-        "title": "Photoroom的主要功能",
-        "html": "<ul>\n<li><strong>AI背景擦除</strong>：快速去除图片背景，前景对象更加突出，提高编辑效率。</li>\n<li><strong>AI背景创建</strong>：在几秒钟内自动生成逼真的背景，无需手动设计。</li>\n<li><strong>AI图片扩展</strong>：智能填补图片空白区域，适应不同尺寸的需求，保持图片质量。</li>\n<li><strong>团队协作工具</strong>：支持团队成员实时在线协作，共享和编辑设计，提高工作效率。</li>\n<li><strong>品牌资产管理</strong>：使用共享模板、徽标等品牌资产，确保设计一致性。</li>\n<li><strong>集中式反馈系统</strong>：集中管理团队的反馈和编辑信息，简化设计审核流程。</li>\n</ul>"
+        "title": "Photoroom 的主要功能",
+        "html": "<p>Photoroom 的功能按创作、编辑、规模化三条线排列，官网给出的核心模块是：</p><ul><li><strong>一键移除背景</strong>：也就是官网常说的 AI 一键抠图，把主体从原图中分离出来。</li><li><strong>图像生成器与产品场景</strong>：为商品自动生成生活方式背景，官网称之为 AI 产品摄影。</li><li><strong>虚拟模特</strong>：把服装类商品直接穿到任意模特身上，也能更换模特与背景。</li><li><strong>尺寸调整与扩展</strong>：按不同平台要求调整画幅并补全画面。</li><li><strong>移除物体与替换颜色</strong>：清除画面中多余元素，批量生成服装颜色变体。</li><li><strong>品牌套件</strong>：统一管理字体、水印与配色，保证多张图片的视觉一致性。</li><li><strong>批量处理与产品目录</strong>：一次处理上千张图片，并对完整商品目录做集中管理。</li><li><strong>视频生成</strong>：把静态商品图转成可用的产品视频。</li><li><strong>开放接口</strong>：提供 API 与 MCP 连接器，另有团队工作区与企业级治理、SLA 支持。</li></ul>"
       },
       {
-        "title": "如何使用Photoroom",
-        "html": "<ul>\n<li><strong>注册和登录</strong>：<span style=\"font-size: 0.875rem;\">访问Photoroom的网站（<a href=\"https://www.photoroom.com/zh?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >photoroom.com</a>），</span><span style=\"font-size: 0.875rem;\">创建一个账户或使用现有账户登录。</span></li>\n<li><strong>选择服务计划</strong>：<span style=\"font-size: 0.875rem;\">根据个人或团队的需求选择合适的服务计划（Free, Pro, Enterprise）。</span></li>\n<li><strong>上传图片</strong>：<span style=\"font-size: 0.875rem;\">在Photoroom的界面上，上传您想要编辑的图片。</span></li>\n<li><strong>选择编辑工具</strong>：<span style=\"font-size: 0.875rem;\">根据需要选择编辑工具，例如背景擦除、背景创建、图片扩展等。</span></li>\n<li><strong>使用AI编辑功能</strong>：<span style=\"font-size: 0.875rem;\">利用Photoroom的AI技术进行编辑，例如自动擦除背景或生成新背景。</span></li>\n<li><strong>调整和优化</strong>：<span style=\"font-size: 0.875rem;\">手动调整图片细节，确保编辑结果符合您的要求。</span></li>\n<li><strong>保存和下载</strong>：<span style=\"font-size: 0.875rem;\">编辑完成后，预览确认无误，然后保存或下载图片。</span></li>\n</ul>"
+        "title": "如何使用 Photoroom",
+        "html": "<p>Photoroom 的上手路径与常见的在线修图工具接近，官方页面描述的顺序是：</p><ol><li>访问 Photoroom 官网并注册账号，进入图片工作区。</li><li>上传商品原图，先执行一键移除背景，得到干净的主体图。</li><li>按需求选择下一步：生成产品场景、套用虚拟模特，或直接更换背景与配色。</li><li>用尺寸调整功能把成图适配到目标平台的规格。</li><li>如果素材量大，改用批量处理一次性导入整批图片，并给品牌套件设定统一的字体与水印。</li><li>处理完成后导出图片，需要时把商品图汇入产品目录继续管理。</li><li>有开发需求时，通过 API 或 MCP 连接器把这条流程接到自有系统里。</li></ol>"
       },
       {
-        "title": "Photoroom的应用场景",
-        "html": "<ul>\n<li><strong>电子商务</strong>：为在线商店创建高质量的产品图片，包括背景擦除和专业背景设置。</li>\n<li><strong>广告和营销</strong>：制作吸引人的广告图像，用于各种营销材料和宣传品。</li>\n<li><strong>内容创作</strong>：支持博客作者、视频制作者等创作者制作和编辑视觉内容。</li>\n<li><strong>设计和创意产业</strong>：设计师使用Photoroom快速实现创意想法，提升工作效率。</li>\n<li><strong>企业品牌</strong>：企业使用Photoroom进行品牌视觉资产的创建和管理，保持品牌形象一致性。</li>\n</ul>"
+        "title": "Photoroom 的应用场景",
+        "html": "<p>Photoroom 官网按行业和团队角色两条维度列举适用对象，常见的落点有：</p><ul><li><strong>时尚与服饰</strong>：为服装、配饰和鞋履批量制作统一风格的商品图。</li><li><strong>商城与零售</strong>：为在亚马逊、eBay 等平台上架的商品准备符合规范的图片。</li><li><strong>美妆与家居</strong>：为护肤品、家具等类目生成带场景感的展示图。</li><li><strong>餐饮与外卖</strong>：用于菜单、包装和应用内的菜品展示。</li><li><strong>社媒与广告投放</strong>：为活动海报和社交内容快速产出多版本素材。</li><li><strong>技术团队集成</strong>：通过接口把抠图与场景生成做成自动化流水线，服务于运营和目录管理岗位。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "ribbet-ai",
@@ -5833,23 +5838,23 @@
     "domain": "tripo3d.ai",
     "detailed_content": [
       {
-        "title": "Tripo AI是什么",
-        "html": "<p>Tripo AI是<a href=\"https://ai-bot.cn/ai-3d-model-generation-tools/\" target=\"_blank\" rel=\"noopener\">AI 3D模型创作平台</a>，文本、图像一键生成3D模型。Tripo AI支持与Flux和<a href=\"https://ai-bot.cn/openai-gpt-4o/\" target=\"_blank\" rel=\"noopener\">GPT-4o</a>图像生成器集成，能通过文本、图片或涂鸦快速生成高精度3D模型，支持GLB、FBX、OBJ等全主流格式，一键导出至Blender、Unity、Unreal等引擎，适用于游戏、3D打印、元宇宙等领域。Tripo AI具备智能分割、自动骨骼绑定、纹理生成等强大功能，Tripo AI的最新版本3.0参数量达200亿，进一步提升了模型精度和生成效率，降低了3D创作的门槛。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-60473\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/Tripo-webiste1.png\"   alt=\"Tripo\" width=\"740\" height=\"416\" />"
+        "title": "Tripo AI 是什么",
+        "html": "<p>Tripo AI 是一款线上三维模型生成器，官网的口号是「几秒钟内把文本和图片变成 3D」。用户既可以贴一段描述，也可以上传照片或手绘草图，由模型换算出立体资产，成果可用于游戏、3D 打印与动画等下游环节。</p><p>Tripo AI 把生成结果分成两条技术路线：一条追求细节量，官网说明最高可到两百万面，适合渲染、视觉特效、打印与电商视觉这类先雕形后减面的流程；另一条追求引擎可用性，输出五百到两万五千面的原生四边形网格，官方称导入引擎无需重新拓扑。</p><p>官网还单独强调了结构准确与表面细节两点，也就是说 Tripo AI 在提示里既关心轮廓对不对，也关心输入图片与模型之间的贴合度。</p>"
       },
       {
-        "title": "Tripo AI的主要功能",
-        "html": "<ul>\n<li><strong>快速3D模型生成</strong>：通过文本、单张图片、多张图片或涂鸦，在10秒内生成高质量的3D模型。</li>\n<li><strong>双输出模式</strong>：提供标准模式和超模式。用户根据自己的具体需求选择合适的模式生成3D模型。</li>\n<li><strong>多格式支持</strong>：生成的模型支持多种格式（如glb、fbx、obj、usd、stl等），适用于游戏、3D打印、元宇宙、产品设计等多个领域。</li>\n<li><strong>高精度几何与纹理</strong>：Tripo 3.0版本提供更清晰的几何形状、更干净的拓扑结构和更丰富的纹理，支持超高清细节。</li>\n<li><strong>智能分割与编辑</strong>：自动将复杂3D模型分割成有意义的部分，便于精细编辑和调整。</li>\n<li><strong>自动骨骼绑定</strong>：为角色生成T-Pose模型并自动绑定骨骼，方便动画制作。</li>\n<li><strong>纹理生成与修复</strong>：通过Magic Brush功能，轻松生成和修复纹理。</li>\n<li><strong>低多边形优</strong>化：智能生成低多边形模型，适用于游戏和实时渲染。</li>\n<li><strong>AI驱动的创作</strong>：与Flux和GPT-4o集成，支持从文本到图像再到3D模型的生成。</li>\n<li><strong>社区与分享</strong>：提供主题画廊，创作者可以分享作品并与全球用户互动。</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-60474\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/Tripo-website2.png\"   alt=\"Tripo\" width=\"740\" height=\"416\" />"
+        "title": "Tripo AI 的主要功能",
+        "html": "<p>Tripo AI 官网把能力按输出规格和适用行业两块组织，公开列出的重点有：</p><ul><li><strong>文本转模型</strong>：用提示词直接生成三维资产，适合先看造型方向。</li><li><strong>图片转模型</strong>：支持图片、照片与草图作为输入，官方强调结构还原与输入对齐。</li><li><strong>高细节模式</strong>：面向渲染与特效，面数上限可达两百万。</li><li><strong>Smart Mesh</strong>：输出原生四边形网格，官网标注的区间是五百到两万五千面，可直接用于游戏与 VR/AR/XR。</li><li><strong>3D 打印适配</strong>：自动把模型拆成能放进打印平台的部件，并导出适合切片软件的网格。</li><li><strong>贴图与绑定动画</strong>：官网把 Texturing 与 Rig and Animate 列为配套能力。</li><li><strong>多行业模板</strong>：覆盖动画影视、产品电商、工业设计与 VR/AR/XR 等方向。</li></ul>"
       },
       {
-        "title": "如何使用Tripo AI",
-        "html": "<ul>\n<li><strong>访问官网</strong>：访问 Tripo AI官网 https://www.tripo3d.ai/，完成账号注册和登录。</li>\n<li><strong>生成3D模型</strong>：</li>\n<li><strong>选择生成模式</strong>：根据需求选择创作模式。标准模式适用需要优化拓扑结构的场景。超模式适用需要极致几何清晰度和细节的场景。</li>\n<li><strong>输入内容</strong>：\n<ul>\n<li><strong>文本描述</strong>：输入详细的文本描述，如“一个未来风格的科幻飞船”。</li>\n<li><strong>图片输入</strong>：上传单张或多张图片作为参考。</li>\n<li><strong>涂鸦</strong>：用简单的涂鸦来生成模型。</li>\n</ul>\n</li>\n<li><strong>生成模型</strong>：点击“Generate”按钮，Tripo将在10秒内生成3D模型。</li>\n<li><strong>编辑与优化</strong>：用平台提供的优化改进生成模型直到满意为止。</li>\n<li><strong>选择格式</strong>：根据需求，选择合适的文件格式（如glb、fbx、obj等）导出模型。</li>\n<li><strong>应用到项目</strong>：将导出的模型导入到3D软件或游戏引擎中，如Unity、Unreal Engine等。</li>\n<li><strong>参与活动</strong>：在Tripo GameHub中参与每月的创作活动，赢取奖金和行业支持。</li>\n</ul>"
+        "title": "如何使用 Tripo AI",
+        "html": "<p>Tripo AI 的上手步骤很短，官网把入口做成了「上传或描述、然后开始创作」的形式：</p><ol><li>打开 Tripo AI 官网，进入在线创作页面。</li><li>决定输入方式：文字提示适合从概念出发，图片、照片或草图适合还原已有对象。</li><li>把素材拖入指定区域或直接粘贴，也可以点击选择本地文件。</li><li>按用途选择输出倾向，需要精细渲染的走高细节模式，要进引擎的走 Smart Mesh。</li><li>提交生成并查看初版模型，再决定是继续调整提示还是重新生成。</li><li>为模型补充贴图，角色类资产可以进一步做绑定与动画。</li><li>最后导出网格；如果目标是 3D 打印，先让系统完成分件再送进切片软件。</li></ol>"
       },
       {
-        "title": "Tripo AI的应用场景",
-        "html": "<ul>\n<li><strong>游戏开发</strong>：开发者快速生成未来风格的武器和外星生物模型，大大缩短游戏资产的制作周期。</li>\n<li><strong>3D打印</strong>：设计师快速生成灯具的3D模型并导出为STL格式，直接用在3D打印机，轻松实现个性化设计。</li>\n<li><strong>元宇宙</strong>：在构建虚拟社交平台的元宇宙中，用户生成自己的虚拟形象和个性化的虚拟空间装饰，增强虚拟社交的沉浸感和个性化体验。</li>\n<li><strong>产品设计</strong>：设计师快速生成沙发的3D模型，展示给客户，提前获得反馈并优化设计，加速产品上市时间。</li>\n<li><strong>教育</strong>：在大学的建筑设计课程中，教师让学生快速生成简单的建筑模型，帮助他们理解空间和结构的基本概念。</li>\n</ul>"
+        "title": "Tripo AI 的应用场景",
+        "html": "<p>Tripo AI 官网按行业列出了适用方向，覆盖面比较广，典型用法包括：</p><ul><li><strong>3D 打印</strong>：把平面图片或概念稿转成可打印模型，并自动处理超尺寸拆分。</li><li><strong>游戏开发</strong>：直接产出满足引擎要求的网格，减少后续处理工序。</li><li><strong>电商与产品展示</strong>：为商品生成可用于立体展示的模型资产。</li><li><strong>工业设计</strong>：在方案阶段快速做出形态原型用于讨论。</li><li><strong>动画与影视</strong>：产出高细节资产后进入渲染与特效流程。</li><li><strong>VR 与 XR 内容</strong>：利用轻量网格为沉浸式场景补充三维元素。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "3d-hunyuan-tencent-com",
@@ -6271,23 +6276,23 @@
     "domain": "meshy.ai",
     "detailed_content": [
       {
-        "title": "Meshy是什么？",
-        "html": "<p>Meshy 是一个 <a href=\"https://ai-bot.cn/ai-3d-model-generation-tools/\" target=\"_blank\" rel=\"noopener\">3D 生成 AI 工具箱</a>，可轻松从文本或图像创建 3D 资源，适用于 3D 艺术家、爱好者、XR 开发者、游戏制作者和设计师加速 3D 设计的工作流程。使用 Meshy，用户只需输入一个简单的提示，便可以在几分钟内创建高质量的纹理和 3D 模型。值得一提的是，Meshy 公司的联合创始人兼CEO为计算机图形学知名学者胡渊鸣，太极图形和编程语言的创始人。</p>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-6082 rounded shadow-sm\" src=\"https://ai-bot.cn/wp-content/uploads/2023/11/meshy-ai-3d-1.png\"   alt=\"Meshy AI\" width=\"800\" height=\"450\" />"
+        "title": "Meshy 是什么",
+        "html": "<p>Meshy 是一款在线 AI 三维模型生成器，官网把自己描述成「把文本和图片变成可投入生产的 3D 模型」的工具，并给出 20 到 30 秒的生成时间量级，导出格式覆盖 FBX、OBJ、GLB 与 STL。它面向的不是单一行业，而是同时服务 3D 打印、游戏开发、产品设计与动画制作等方向。</p><p>与只输出静态网格的生成器相比，Meshy 强调结果要「能用」：既要在拓扑结构上满足引擎导入要求，也要能直接送进切片软件。官网把这条思路概括为先保证几何质量、再让创作者按需加工。</p><p>除了网页版，Meshy 还提供可以通过拍照生成模型的移动端应用，以及面向 Blender、Unity、Bambu Studio、Creality Print 等工具的插件。</p>"
       },
       {
-        "title": "Meshy的主要功能",
-        "html": "<ol>\n<li>AI模型纹理生成：可选择文本或图像作为输入，生成物体的纹理。 Meshy目前更适合生成道具、建筑物和武器等物体的纹理。</li>\n<li>AI文本到3D生成：即使没有 3D 经验的创作者，也能够使用文本输入在短短一分钟内快速生成 3D 模型。</li>\n<li>AI图像到3D转换：通过简单的图像输入，Meshy 可轻松将你想要的 2D 物体图像转换为 3D 立体模型。</li>\n</ol>"
+        "title": "Meshy 的主要功能",
+        "html": "<p>Meshy 把能力拆成围绕建模流程的一组模块，官网展示的条目包括：</p><ul><li><strong>文本转 3D</strong>：输入描述即可生成模型，适合先验证造型再细化。</li><li><strong>图片转 3D</strong>：上传图片、照片或手绘草图，转换成带结构的立体模型。</li><li><strong>3D Agent</strong>：用对话方式从想法、照片或草图推到模型成果。</li><li><strong>AI 贴图</strong>：为已有模型自动生成 PBR 材质贴图。</li><li><strong>多视角图像生成</strong>：产出便于三维重建的多角度参考图。</li><li><strong>自动绑定与动画</strong>：为角色模型自动生成骨架与权重，随后可直接做动作。</li><li><strong>打印就绪处理</strong>：自动拆分超出打印尺寸的部件，输出便于切片软件读取的网格。</li><li><strong>配套工具与接口</strong>：包含在线 3D 查看器、文件转换器、压缩工具以及面向开发者的 API。</li></ul>"
       },
       {
-        "title": "Meshy的产品价格",
-        "html": "<ol>\n<li>Free免费版，每月200积分，一个队列可等待生成2个任务</li>\n<li>Pro专业版，每月20美元（年付每月16美元），每月可获得1000积分，一个队列可等待生成10个任务</li>\n<li>Max版本，每月60美元（年付每月48美元），每月可获得4000积分，一个队列可等待生成20个任务</li>\n</ol>"
+        "title": "如何使用 Meshy",
+        "html": "<p>Meshy 的流程可以按「描述或上传、生成、加工、导出」四步理解，官网页面呈现的顺序是：</p><ol><li>进入 Meshy 官网并登录账号，打开创作入口。</li><li>在文本转 3D 与图片转 3D 之间选择其一，前者填写提示词，后者上传图片、照片或草图。</li><li>提交后等待生成，官网标注的等待时间通常在 20 到 30 秒区间。</li><li>对结果不满意时通过 3D Agent 继续对话调整，或切换不同的几何精度重新生成。</li><li>进入贴图环节，为模型补上 PBR 材质；角色类模型还可以交给自动绑定生成骨架。</li><li>按用途选择导出格式，游戏与动画常用 FBX、GLB，3D 打印用 STL 或 OBJ。</li><li>需要嵌入既有工作流时，安装对应的 Blender、Unity 或切片软件插件。</li></ol>"
       },
       {
-        "title": "常见问题",
-        "html": "<div id=\"accordion\" style=\"max-width: 700px;\">\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Meshy是免费的吗？</strong></div>\n<div class=\"card-body text-sm\">Meshy提供免费积分，用户每月可获得200积分，分享创建的3D作品到Discord也能额外获得最高200积分。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Meshy支持的3D文件格式？</strong></div>\n<div class=\"card-body text-sm\">Meshy目前支持.fbx、.obj、.stl、.gltf和.glb格式的3D文件。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Meshy支持上传的文件大小？</strong></div>\n<div class=\"card-body text-sm\">Meshy目前支持上传到网页版的3D模型为50MB，上传到Discord则为25MB。</div>\n</div>\n</div>"
+        "title": "Meshy 的应用场景",
+        "html": "<p>Meshy 官网把使用方向按行业罗列，覆盖的角色比较广，典型场景如下：</p><ul><li><strong>3D 打印</strong>：把照片或概念图转成可切片的模型，并自动拆分超尺寸部件。</li><li><strong>游戏资产</strong>：生成拓扑干净的四边形网格，省去重新拓扑的步骤。</li><li><strong>产品设计</strong>：快速产出外观方案，用于内部比稿与形态验证。</li><li><strong>动画与影视</strong>：配合自动绑定，把角色模型直接推进动画流程。</li><li><strong>电商产品视觉</strong>：官网提到该方向可用于商品的立体展示与渲染。</li><li><strong>教学与个人创作</strong>：官网提供免费模型区与作品展示区供浏览与下载。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "ihuiwa-com",
@@ -6863,8 +6868,25 @@
     "subcategory": "ai-image-background-remove",
     "logo": "/logos/tool284.png",
     "domain": "photoscissors.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "PhotoScissors 是什么",
+        "html": "<p>PhotoScissors 是一款自动去背景工具，官网的说明是先自动抠出主体，再把背景替换成透明、纯色或另一张图片，整个过程只需几次点击。它同时提供网页版和可下载的 Windows 与 macOS 客户端。</p><p>官网把「零点击」作为卖点：上传图片后，基于深度神经网络的算法会自行判断主体并完成抠图，不需要用户具备专业修图技能。对抠图常见的难点，例如发丝边缘、颜色相近的背景以及透明物体，官网都单独做了说明。</p><p>从网页版限制看，上传支持 JPG、PNG 与 WebP，单张体积上限为 10MB，分辨率上限约 4.2 兆像素，超出范围的内容需要在客户端里处理。</p>"
+      },
+      {
+        "title": "PhotoScissors 的主要功能",
+        "html": "<p>PhotoScissors 官网按处理难点组织功能介绍，主要条目如下：</p><ul><li><strong>自动去背景</strong>：上传后算法自动分离主体，无需手动描边。</li><li><strong>背景替换</strong>：可换成透明底、纯色底，或导入另一张图片作为新背景。</li><li><strong>按颜色擦除</strong>：针对单一色底的照片，用颜色选择快速剔除背景。</li><li><strong>发丝级边缘处理</strong>：官网把环绕发丝的抠图单独列为能力项。</li><li><strong>透明物体支持</strong>：对玻璃、水瓶这类半透明主体的处理做了说明。</li><li><strong>最近上传记录</strong>：页面保留最近的图片列表，便于回头继续处理。</li><li><strong>桌面客户端</strong>：提供 Windows 与 macOS 下载，官网还提到 iOS 版本。</li></ul>"
+      },
+      {
+        "title": "如何使用 PhotoScissors",
+        "html": "<p>PhotoScissors 的网页流程很短，官网列出的顺序是：</p><ol><li>打开 PhotoScissors 官网，进入在线去背景页面。</li><li>把 JPG、PNG 或 WebP 图片拖入上传区域，或点击选择文件。</li><li>等待算法自动识别主体，页面会给出初步的抠图结果。</li><li>检查边缘是否干净，尤其是头发或半透明区域，必要时手动补充标记。</li><li>选择输出方式：保留透明背景，或换成纯色、图片背景。</li><li>下载结果；处理大批量或高分辨率素材时改用桌面客户端。</li></ol>"
+      },
+      {
+        "title": "PhotoScissors 的应用场景",
+        "html": "<p>PhotoScissors 官网围绕「把主体摘出来」这一动作列举用途，典型场景包括：</p><ul><li><strong>商品图上架</strong>：为网店照片换纯白或透明底，符合平台展示规范。</li><li><strong>人物合成</strong>：把人物从原照片中拆出，贴进新的场景图。</li><li><strong>平面设计素材</strong>：为海报和宣传物料准备可自由叠加的主体图。</li><li><strong>证件与头像处理</strong>：替换背景色，满足表单或系统的规格要求。</li><li><strong>复杂边缘抠图</strong>：处理发型蓬松或轮廓不规则的照片。</li><li><strong>透明物件素材</strong>：为玻璃器皿、瓶装产品制作可复用的抠图。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "tool310",
@@ -7871,8 +7893,25 @@
     "subcategory": "ai-image-upscale",
     "logo": "/logos/tool7402.png",
     "domain": "magnific.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Magnific AI 是什么",
+        "html": "<p>Magnific AI 是一套面向创意团队的 AI 创作平台，官网首页直接写明它与 Freepik 的关系：原来的 Freepik 现在叫 Magnific。它把图像、视频、音频与三维四类生成能力放进同一个空间，目标是从广告campaign到产品图再到影视制作都能在同一处推进。</p><p>与只提供单一生成器的产品不同，Magnific AI 强调「把整条创作链路放在一张画布上」。官网提到它采用节点式的画布结构组织工作流，让模型的调用、素材的积累与团队协作都能在同一视图里完成。</p><p>官网还把可用的模型集中列出，包括多款近期发布的视频与图像模型，并说明可以通过 API、插件以及 Claude 与 ChatGPT 的 MCP 接口接入既有环境。</p>"
+      },
+      {
+        "title": "Magnific AI 的主要功能",
+        "html": "<p>Magnific AI 官网按媒体类型划分能力，公开列出的重点有：</p><ul><li><strong>图像工具组</strong>：包含图像生成、图像编辑、图像放大、图像扩展、背景移除、重新打光与换镜头视角。</li><li><strong>视频工具组</strong>：覆盖视频生成、视频项目编辑、视频放大、片段编辑以及 Speak Video 口型类能力。</li><li><strong>音频工具组</strong>：提供文本转语音、音效生成与音乐生成。</li><li><strong>三维能力</strong>：官网列出 3D Scenes、3D Generator 与 3D 360 三类入口。</li><li><strong>节点式画布</strong>：官网说明整个创作流程可在一个基于节点的环境中编排。</li><li><strong>团队协作</strong>：支持多人共用同一工作空间。</li><li><strong>素材库</strong>：提供图片、矢量、图标、三维、视频模板、音乐与设计模板等库存资源。</li><li><strong>模型聚合</strong>：官网集中展示当前可选的第三方模型，供按需切换。</li><li><strong>开放生态</strong>：包括 API、Photoshop 与 Figma 插件、桌面端与移动端应用。</li></ul>"
+      },
+      {
+        "title": "如何使用 Magnific AI",
+        "html": "<p>Magnific AI 的使用围绕画布展开，官网呈现的路径是：</p><ol><li>访问 Magnific AI 官网并登录，进入创作工作区。</li><li>按产出类型选择模块，例如图像生成、视频生成或音频合成。</li><li>在模型列表里挑选合适的模型，官网会标注各模型的定位与上新时间。</li><li>在节点式画布上把生成、编辑与放大等步骤依次连接起来。</li><li>需要现成素材时，从库存图片、模板与音乐中直接取用。</li><li>团队协作场景下把工作空间共享给同伴，共同推进同一份项目。</li><li>输出前可调用放大、扩展或重新打光等工具做收尾，再按目标规格导出。</li></ol>"
+      },
+      {
+        "title": "Magnific AI 的应用场景",
+        "html": "<p>Magnific AI 官网把适用方向按创作类型罗列，常见落点有：</p><ul><li><strong>广告与营销素材</strong>：为推广活动产出成组的图片与视频内容。</li><li><strong>产品图制作</strong>：生成商品展示图，并通过放大与打光提升质感。</li><li><strong>影视与动画前期</strong>：用节点画布串联分镜、素材与后期处理。</li><li><strong>品牌视觉设计</strong>：借助库存模板与设计素材保持品牌一致性。</li><li><strong>音频内容制作</strong>：为视频生成配音、音效与配乐。</li><li><strong>三维展示</strong>：为产品与场景生成可交互的三维内容。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "lets-enhance",
@@ -7974,11 +8013,23 @@
     "domain": "imgupscaler.com",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<p>Img.Upscaler是一个在线的智能 JPG/PNG <a href=\"https://ai-bot.cn/free-ai-image-upscalers/\">图片放大器</a>，利用最新的人工智能和超分辨率技术，只需要几秒钟，便可以将低分辨率图像变得高清。该工具还集成了图像编辑器工具，用于在图像放大之前或之后进行裁剪、滤镜、微调、注释等。</p>"
+        "title": "Img.Upscaler 是什么",
+        "html": "<p>Img.Upscaler 是一款在线 AI 图像放大工具，官网的定位是「用 AI 把图片放大约两倍或四倍，同时让细节更清晰」。可处理的题材覆盖人像、动漫、商品图与老照片，输入格式支持 JPG、PNG、WebP 与 AVIF。</p><p>与简单插值放大不同，Img.Upscaler 采用 AI 超分辨率思路：官方说明模型会重建更锐利的边缘、更干净的纹理以及更自然的细节，从而避免传统放大带来的模糊与像素块。</p><p>官网同时提供网页版与桌面端 Upscal，并明确提示两者是彼此独立的产品：网页订阅不包含桌面应用授权，反过来也一样。桌面端更适合需要离线批量处理的用户。</p>"
+      },
+      {
+        "title": "Img.Upscaler 的主要功能",
+        "html": "<p>Img.Upscaler 官网把能力按放大规格与工作流两类来描述，重点条目包括：</p><ul><li><strong>AI 超分辨率</strong>：用模型重建边缘、纹理与细节，而不是单纯插值。</li><li><strong>两倍与四倍放大</strong>：按用途选择倍数，官网分别对网页素材、商品图、社媒与印刷导出做了说明。</li><li><strong>批量放大</strong>：付费方案解锁批量处理，可一次放大多张图片。</li><li><strong>图像增强流程</strong>：把放大与清晰度提升放在同一条工作流里完成。</li><li><strong>隐私优先处理</strong>：官网把隐私保护列为产品特性之一。</li><li><strong>个人与商用许可</strong>：官方说明个人与商业用途均可使用。</li><li><strong>拖拽上传</strong>：支持直接拖动文件到页面，也支持点击选择本地图片。</li></ul>"
+      },
+      {
+        "title": "如何使用 Img.Upscaler",
+        "html": "<p>Img.Upscaler 的步骤在官网首页写得很清楚，属于典型的在线工具流程：</p><ol><li>访问 Img.Upscaler 官网，进入图像放大的操作页面。</li><li>把 JPG、PNG 或 WebP 图片拖入上传区域，或点击按钮从本地选取文件。</li><li>选择放大倍数，按最终用途在两倍与四倍之间决定。</li><li>提交后等待模型完成超分辨率处理，逐张查看清晰度变化。</li><li>图片较多时改用批量模式，一次导入多张统一处理。</li><li>确认结果后下载成图；若习惯离线工作，可另装桌面端 Upscal。</li></ol>"
+      },
+      {
+        "title": "Img.Upscaler 的应用场景",
+        "html": "<p>Img.Upscaler 官网按输出用途列举场景，实际落点包括：</p><ul><li><strong>网页与社媒素材</strong>：把偏小的配图放大到符合版式要求的尺寸。</li><li><strong>商品图与电商上架</strong>：提升商品照片分辨率，满足平台对画质的下限要求。</li><li><strong>印刷与演示</strong>：为手册、海报与幻灯片准备可放大印刷的素材。</li><li><strong>人像与动漫</strong>：改善头像、插画与小图的细节表现。</li><li><strong>老照片数字化</strong>：把翻拍或扫描得到的低清照片处理得更清晰。</li><li><strong>创意工作流</strong>：设计稿在合成前先做放大，减少后续重做。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "tool218",
@@ -8478,8 +8529,25 @@
     "subcategory": "ai-image-object-remove",
     "logo": "/logos/tool688.png",
     "domain": "snapedit.app",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "SnapEdit 是什么",
+        "html": "<p>SnapEdit 是一款在线 AI 照片编辑器，官网把它称为「最容易上手的去物体工具」，同时强调它并不止于去物体这一件事。页面介绍它集成了二十多种功能，覆盖去除杂物、抠背景、画质增强与人像润饰，用户不必具备修图经验。</p><p>SnapEdit 的使用数据也写在官网上：每天提供一定数量的免费额度，可下载高清与 4K 结果，批量模式下能一次处理数十张照片。这些说明指向同一个定位——面向需要快速出图的创作者与商家。</p><p>官网把 SnapEdit 描述成「一个平台覆盖所有修图任务」，意思是把以往分散在多个应用里的操作收拢到一处，减少在工具之间反复导出导入。</p>"
+      },
+      {
+        "title": "SnapEdit 的主要功能",
+        "html": "<p>SnapEdit 官网把功能分成工具与新品两块，公开列出的条目包括：</p><ul><li><strong>去除物体</strong>：抹掉画面中不需要的人、物或瑕疵。</li><li><strong>去除背景</strong>：一键分离主体与背景。</li><li><strong>画质增强</strong>：把图片提升到高清乃至 4K 分辨率。</li><li><strong>去除文字</strong>：清除图片上的文字与水印类元素。</li><li><strong>人像润饰</strong>：官网将 AI 皮肤处理列为独立工具。</li><li><strong>水印添加</strong>：为原创图片加上标识。</li><li><strong>格式转换与压缩</strong>：在输出前调整图片格式与体积。</li><li><strong>背景虚化</strong>：为人物或商品制造景深效果。</li><li><strong>批量处理</strong>：官网说明可在数分钟内处理最多五十张照片。</li><li><strong>开发者接口</strong>：提供 API 供系统集成。</li></ul>"
+      },
+      {
+        "title": "如何使用 SnapEdit",
+        "html": "<p>SnapEdit 的操作被刻意简化，官网呈现的顺序是：</p><ol><li>打开 SnapEdit 官网，可以直接开始使用，也可以先注册以便保存记录。</li><li>上传需要处理的照片，随后在工具列表中选择要执行的动作。</li><li>以去除物体为例，涂抹要清除的区域，等待 AI 完成填补。</li><li>接着按需叠加其他处理，例如替换背景、增强画质或润饰人像。</li><li>处理多张图片时切换到批量模式统一提交。</li><li>确认效果后下载成图，可输出高清或 4K 版本。</li><li>有集成需求时调用官网提供的 API，把处理能力接到自有系统。</li></ol>"
+      },
+      {
+        "title": "SnapEdit 的应用场景",
+        "html": "<p>SnapEdit 官网把适用对象分成创作者和企业两类，常见用法有：</p><ul><li><strong>社媒内容制作</strong>：为帖子与短视频封面快速清理画面、统一画质。</li><li><strong>商品图批量化</strong>：成规模处理电商图片，保持店铺视觉一致。</li><li><strong>日常照片修正</strong>：清除旅行照里闯入的路人，或修补老照片的划痕。</li><li><strong>人像美化</strong>：对证件照、头像做自然度较高的皮肤处理。</li><li><strong>原创保护</strong>：为发布内容添加水印。</li><li><strong>交付前压缩</strong>：在保证画质的前提下缩减文件体积，便于上传或发送。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "tool687",
@@ -9229,8 +9297,25 @@
     "subcategory": "ai-image-enhance",
     "logo": "/logos/tool104.png",
     "domain": "palette.fm",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Palette 是什么",
+        "html": "<p>Palette 是一款在线黑白照片上色工具，官网的说明很直接：在几秒钟内为黑白图像补上颜色。用户不需要注册即可试用，也不需要安装任何软件，把照片传上去就能看到结果。</p><p>Palette 的差异点在于上色风格的可选择性。官网提供二十余种色彩滤镜，用户不必接受唯一结果，可以逐一切换比较，选出最贴合原片年代感的配色。官网的对比示例按光线、花卉、室内、历史与服饰等题材分类展示。</p><p>官网页面还展示了来自媒体与创作者的评语，用来佐证上色效果的写实程度；这些评价属于官网自述口径，实际效果仍以自己上传的照片为准。</p>"
+      },
+      {
+        "title": "Palette 的主要功能",
+        "html": "<p>Palette 官网把功能围绕上色的前中后三步展开，公开可见的模块有：</p><ul><li><strong>黑白照片上色</strong>：上传照片后自动为画面补色，输出自然色调的结果。</li><li><strong>多样色彩滤镜</strong>：官网标注提供二十种以上滤镜，风格覆盖光照、花卉、室内、历史与服饰等题材。</li><li><strong>前后对比查看</strong>：页面以 Before 与 After 的形式并列展示原片与成片。</li><li><strong>示例素材试用</strong>：官网准备了可直接点击的样例照片，方便先熟悉效果再处理自己的图。</li><li><strong>三步操作流程</strong>：上传照片、挑选滤镜、下载或继续编辑。</li><li><strong>面向企业与团队</strong>：官网单独设有企业入口，说明除个人使用外也支持商业场景。</li></ul>"
+      },
+      {
+        "title": "如何使用 Palette",
+        "html": "<p>Palette 的操作被官网压缩成三个动作，基本没有学习成本：</p><ol><li>打开 Palette 官网，点按开始使用，无需先行注册账号。</li><li>把黑白照片上传到页面，或先点选官网提供的样例图片试手。</li><li>在上色结果出来后切换不同的色彩滤镜，对比哪一种更符合原片气质。</li><li>选定滤镜后下载成片，需要细修时再进入编辑环节。</li><li>如果是批量或商用需求，改用企业入口了解更完整的方案。</li></ol>"
+      },
+      {
+        "title": "Palette 的应用场景",
+        "html": "<p>Palette 官网按照片题材组织示例，对应的实际用途主要有：</p><ul><li><strong>家史与老照片修复</strong>：为长辈留下的黑白合影补上色彩，让画面更易辨认。</li><li><strong>历史资料可视化</strong>：为档案照片上色后用于展览或文章配图。</li><li><strong>人像与服装呈现</strong>：还原衣物与妆容的颜色细节。</li><li><strong>室内与建筑</strong>：把老建筑照片转成彩色版本，用于对比研究。</li><li><strong>花卉与静物</strong>：为植物类照片恢复自然的色彩层次。</li><li><strong>创意二次创作</strong>：把上色当作创作起点，再继续做排版或合成。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "tool126",
@@ -11432,27 +11517,23 @@
     "domain": "pika.art",
     "detailed_content": [
       {
-        "title": "Pika是什么",
-        "html": "<p>Pika是近期热门的人工智能初创公司Pika Labs推出的<a href=\"https://ai-bot.cn/ai-video-generation-tools/\" target=\"_blank\" rel=\"noopener\">AI视频生成</a>和编辑工具，该工具可以将任何创意转化为视频，用户只需输入文字或图像，即可快速生成3D动画、动漫、卡通、电影等风格的视频。该AI视频生成工具最早于2023年4月下旬推出测试版，累计已经超过50万名早期用户使用，每周都在生成数百万个视频。不过，目前Pika还在进一步完善中，实际使用来看离大规模投入到真正的生产环境中还有一定的距离。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2023/12/pika-discord-channel.png\" data-fancybox=\"fancybox\" data-caption=\"Pika\"><img decoding=\"async\" class=\"alignnone size-full wp-image-6276 rounded-lg\" src=\"https://ai-bot.cn/wp-content/uploads/2023/12/pika-discord-channel.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Pika\" width=\"800\" height=\"452\"></a>"
+        "title": "Pika 是什么",
+        "html": "<p>Pika 是一套面向创作者的 AI 创意工具，官网用一句话概括自己的定位：为创作者而生的 AI 创作工具。它并不局限在视频这一个方向，而是同时提供视频、图像与音频三类生成入口，让素材可以在同一条工作流里互相衔接。</p><p>Pika 的一个显著特点是模型可选项多。官网在视频、图像、音频三个板块下都列出了可切换的底层模型，用户不必绑定单一模型，可以按风格或成本自行挑选。这种做法把 Pika 更像是一个创作前台，而不是某一个模型的独占入口。</p><p>官网把 Product Ad、Short Film、Motion Transfer 等能力单独做成应用入口，说明 Pika 希望降低具体任务的上手门槛，而不是只提供一个空白提示词框。</p>"
       },
       {
-        "title": "Pika的主要功能",
-        "html": "<ol class=\"text-md\">\n<li>文本/图像转视频：只需输入几行文本或上传图像，即可利用AI创建简短的高质量视频</li>\n<li>视频转视频：将现有视频转换为不同的风格，包括不同的角色和对象，同时保持视频的结构</li>\n<li>视频画面比例扩展：扩展视频的画布或宽高比，比如从9:16竖屏智能转换为16:9横屏，AI模型将预测超出原始视频边界的内容</li>\n<li>视频内容改变：AI编辑视频画面中的内容或物体，例如改变某人的衣服、添加另一个角色、改变环境或添加道具</li>\n</ol>"
+        "title": "Pika 的主要功能",
+        "html": "<p>Pika 官网把功能拆成 Video、Image、Audio 三个大类，每个大类下再细分应用与模型，公开列出的条目包括：</p><ul><li><strong>视频应用</strong>：Create Video、Product Ad、Short Film、Motion Transfer 以及 Extend Video。</li><li><strong>视频模型</strong>：可选 Seedance 2.5、MiniMax H3、Wan 3.0、Google Omni Flash、Pika 2.5 与 Pikaframes 等。</li><li><strong>图像应用</strong>：Create Image 与 Character Creator，官网另设 Image Studio 与 Product Shot 入口。</li><li><strong>图像模型</strong>：覆盖 GPT Image 2.5、Nano Banana、Seedream 5、Seedream 4 与 Grok Imagine。</li><li><strong>音频生成</strong>：可生成语音与音效，另有 Pika Music、Pika Soundtrack 等音乐类应用。</li><li><strong>后处理</strong>：Video Studio 提供调色（Color Grade）等视频处理能力，Pika Soundtrack 负责给成片补配乐。</li></ul>"
       },
       {
-        "title": "Pika的适用人群",
-        "html": "<ol class=\"text-md\">\n<li>个人消费者：即使完全不懂任何视频制作的人，也可以轻松使用AI创作和编辑视频</li>\n<li>短视频创作者：快速生成病毒性传播的短视频，在TikTok上带有#pikalabs标签的短视频累计超过3000万次观看</li>\n<li>电影专业人员：AI将剧本生成分镜初稿，激发摄影灵感并辅助后期电影视频编辑</li>\n</ol>"
+        "title": "如何使用 Pika",
+        "html": "<p>Pika 的使用过程可以概括为「先定类型、再挑模型、最后加工」，官网导航体现的顺序是：</p><ol><li>打开 Pika 官网，从 Try Pika Free 进入创作界面。</li><li>先确定要产出的是视频、图像还是音频，进入对应的模块。</li><li>在模块内选择一个具体应用，例如视频侧选 Product Ad 或 Motion Transfer。</li><li>从模型列表中挑选合适的底层模型，不同模型在风格与速度上各有侧重。</li><li>输入描述文字，或用官网提供的参考素材作为起点后提交生成。</li><li>结果不理想时用 Extend Video 延长片段，或进入 Video Studio 做调色处理。</li><li>需要配乐与音效时切换到音频模块补齐，再导出成片。</li></ol>"
       },
       {
-        "title": "如何使用Pika",
-        "html": "<ol class=\"text-md\">\n<li>访问Pika的官网（pika.art），点击使用谷歌或Discord账号登录官网，加入等待列表</li>\n<li>你也可以直接点击Discord邀请链接（<a href=\"https://discord.com/invite/pika\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">https://discord.com/invite/pika</a>）加入其Discord社区抢先体验</li>\n<li>加入Pika的Discord社区后，选择任意一个生成频道如#generate-1，然后在输入框中输入/create+提示指令</li>\n<li>最后等待Pika将视频生成即可</li>\n</ol>"
-      },
-      {
-        "title": "常见问题",
-        "html": "<div id=\"accordion\" style=\"max-width: 700px;\">\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Pika是免费的吗？</strong></div>\n<div class=\"card-body text-sm\">Pika目前处于免费公测中，用户可以加入Discord频道中体验，后续可能推出付费版本。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Pika可以生成多长时间的视频？</strong></div>\n<div class=\"card-body text-sm\">Pika目前默认生成的视频长度只有3秒钟，后续更新可能支持生成更长时间。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Pika生成的视频可以商用吗？</strong></div>\n<div class=\"card-body text-sm\">目前可以将Pika生成的视频免费商用，不过后期若Pika结束测试或推出付费版，该政策可能有变化。</div>\n</div>\n</div>"
+        "title": "Pika 的应用场景",
+        "html": "<p>Pika 官网把使用方向按创作题材组织，主要覆盖以下几类：</p><ul><li><strong>产品广告</strong>：为商品快速产出短视频广告素材，适合需要高频测试创意的团队。</li><li><strong>短片创作</strong>：用短片应用把文字创意推进到成片阶段。</li><li><strong>动作迁移</strong>：把参考视频里的动作套用到新的角色或画面上。</li><li><strong>片段延长</strong>：对已有视频做时长延展，补齐叙事需要的镜头。</li><li><strong>社媒内容</strong>：为社交平台制作带配音和配乐的短内容。</li><li><strong>角色与图像设计</strong>：通过角色创作与商品图入口产出配套的静态素材。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "kreadoai-com",
@@ -12779,8 +12860,25 @@
     "subcategory": "ai-office-ppt",
     "logo": "/logos/tool8840.png",
     "domain": "islide.cc",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "iSlide AIPPT 是什么",
+        "html": "<p>iSlide AIPPT 是 iSlide 提供的 AI 生成演示文稿能力，官网把它放在首页最显眼的位置，用户可以输入主题直接生成整套 PPT，也可以导入已有文档自动转成幻灯片。它既能在网页端使用，也随 iSlide 的插件客户端一起提供。</p><p>iSlide AIPPT 并不是孤立的功能，而是长在一个素材体系之上。官网说明该平台累计提供数百万份 PPT 模板与素材，覆盖百余个行业场景，AI 生成出来的页面可以直接套用这些资源做统一风格。</p><p>从产品完整度看，官网同时列出了 AI 生成、智能编辑、文本润色与文档导入几条路径，说明 iSlide AIPPT 的定位是覆盖从起稿到排版的整段流程，而不只是生成初稿。</p>"
+      },
+      {
+        "title": "iSlide AIPPT 的主要功能",
+        "html": "<p>iSlide AIPPT 官网把功能分成生成、编辑、增强三类，公开列出的条目有：</p><ul><li><strong>主题生成 PPT</strong>：输入一句话的演示主题，由 AI 输出完整页面结构。</li><li><strong>文档导入生成</strong>：支持多种常用文档格式，自动解析内容并转成幻灯片。</li><li><strong>深度思考与联网搜索</strong>：生成前可启用这两项设置，用于补充内容深度与资料来源。</li><li><strong>页数控制</strong>：在生成环节可以指定大致页数。</li><li><strong>智能编辑</strong>：提供一键换肤、单页美化与素材自适应匹配。</li><li><strong>AI 文本润色</strong>：支持改写、扩写、翻译与分析等文本处理。</li><li><strong>模板与素材库</strong>：官网标注库存规模为数百万份模板素材，并支持企业上传自有模板。</li><li><strong>客户端提效功能</strong>：智能排版、一键优化、快速对齐等数十项操作随插件提供。</li></ul>"
+      },
+      {
+        "title": "如何使用 iSlide AIPPT",
+        "html": "<p>iSlide AIPPT 的入口分网页与插件两条，官网呈现的顺序是：</p><ol><li>打开 iSlide 官网并登录账号，在首页找到 AI 生成 PPT 的入口。</li><li>在输入框里填写演示主题，或改为上传 Word、脑图等文档让系统自动解析。</li><li>按需要开启深度思考与联网搜索，并设定期望的页数区间。</li><li>提交后等待生成，得到一份带版式的初稿。</li><li>进入编辑环节做单页美化或一键换肤，让整体风格统一。</li><li>把生成的页面套用到企业模板上，保持品牌视觉一致。</li><li>如果希望用更多排版功能，安装 iSlide 插件客户端继续加工后再导出。</li></ol>"
+      },
+      {
+        "title": "iSlide AIPPT 的应用场景",
+        "html": "<p>iSlide AIPPT 官网按行业与岗位列举适用对象，常见用法包括：</p><ul><li><strong>职场汇报</strong>：按汇报主题快速产出结构完整的演示初稿。</li><li><strong>教学与培训</strong>：把讲义或教案转成幻灯片，减少排版时间。</li><li><strong>医疗与专业领域</strong>：套用行业模板，保证专业场合的呈现规范。</li><li><strong>企业统一物料</strong>：上传品牌模板后批量生成风格一致的页面。</li><li><strong>文档转演示</strong>：把已有的长文档整理成演示用的要点页。</li><li><strong>职场写作配套</strong>：结合插件内的写作能力，同步准备演讲稿与说明文本。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "pi-deepvinci-tech",
@@ -14837,8 +14935,25 @@
     "subcategory": "ai-office-doc",
     "logo": "/logos/tool8427.png",
     "domain": "cubox.cc",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Cubox: AI Read 是什么",
+        "html": "<p>Cubox: AI Read 是一款带 AI 能力的稍后读应用，官网用「保存一次，长久记得」来概括它的价值主张。它解决的是收藏夹越堆越多却读不完的老问题：先把想看的文章、通讯和网页存下来，再由 AI 帮你回忆与消化。</p><p>与普通稍后读工具的差别在于检索与消化方式。Cubox: AI Read 允许用户就整个资料库提问，官网说明可以拿到即时答案，甚至覆盖数年前保存的内容，目标是把检索时间压到几秒内。它还能按设定的节奏把保存的链接汇总成简短简报。</p><p>官网强调资料会以原生应用的形式跨平台同步，并提供十余款扩展用于收集内容，同时支持解析、快照与高亮，用来构成一个持续生长的个人知识空间。</p>"
+      },
+      {
+        "title": "Cubox: AI Read 的主要功能",
+        "html": "<p>Cubox: AI Read 官网把功能分成收集、整理与消化三段，公开列出的重点有：</p><ul><li><strong>资料库问答</strong>：直接对整个收藏库提问并获得答案，官网标注该能力保持更新。</li><li><strong>相关内容推荐</strong>：自动关联与当前条目主题相近的已存内容。</li><li><strong>快速检索</strong>：官网称可在数秒内定位所需信息，历史内容同样覆盖。</li><li><strong>滑动清理未读</strong>：以划动方式快速处理积压的未读条目。</li><li><strong>定时简报</strong>：按自定义节奏把多条保存链接汇总成几分钟可读完的摘要。</li><li><strong>网页高亮与 AI 解读</strong>：在浏览器扩展里高亮文本，并获取 AI 给出的理解提示。</li><li><strong>多端同步</strong>：内置原生应用覆盖主流平台，扩展数量超过十款。</li><li><strong>命令行入口</strong>：官网提供 CLI，用于按需读取收藏内容。</li></ul>"
+      },
+      {
+        "title": "如何使用 Cubox: AI Read",
+        "html": "<p>Cubox: AI Read 的日常使用围绕收集与回看两条动作展开，官网体现的路径是：</p><ol><li>注册并对 Cubox: AI Read 进行初次设置，安装手机端或桌面端应用。</li><li>在浏览器中装入扩展，遇到想读的文章、通讯或网页时一键保存。</li><li>打开浏览器扩展可以直接高亮文字，并顺带查看 AI 给出的解读。</li><li>积累到一定数量后进入资料库，用问答的方式就整体内容提问。</li><li>需要清理积压时用滑动操作快速处理未读条目。</li><li>订阅定时简报，让系统把最近保存的链接整理成短篇摘要。</li><li>为文档类内容安装对应客户端，按要求自行设定阅读与检索习惯。</li></ol>"
+      },
+      {
+        "title": "Cubox: AI Read 的应用场景",
+        "html": "<p>Cubox: AI Read 官网把受众定位在阅读需求密集的人群，常见使用方式包括：</p><ul><li><strong>行业资料跟踪</strong>：把资讯与通讯集中收集，用问答快速掌握动态。</li><li><strong>研究与写作准备</strong>：按照主题积累素材，写作时直接回溯出处。</li><li><strong>跨设备阅读</strong>：在手机上保存，回到电脑继续读完。</li><li><strong>知识复盘</strong>：借助定时简报回看一段时间内关注过的内容。</li><li><strong>减少信息焦虑</strong>：用简短摘要替代逐篇通读，把注意力留给真正重要的材料。</li><li><strong>团队或个人知识沉淀</strong>：长期保存高亮与解析结果，形成可检索的参考库。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "tool8353",
@@ -17823,8 +17938,25 @@
     "subcategory": "ai-office-doc",
     "logo": "/logos/tool64787.png",
     "domain": "transor.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "TransorAI 是什么",
+        "html": "<p>TransorAI 是一款主打双语阅读的 AI 翻译工具，官网把它定位成「专业的 AI 翻译工具」，覆盖网页、字幕、PDF 与图片四类内容。它的做法不是把原文整体替换成译文，而是保留原文旁挂译文，看起来更接近对照阅读。</p><p>TransorAI 的另一个特点是翻译服务的可选范围。官网说明它内置了十余种翻译服务，包括 OpenAI、Claude、DeepSeek、Google Gemini 与 Microsoft Translator、Google Translate 等，用户可以按内容类型选择合适的引擎。</p><p>官网对使用形态的覆盖也比较全：除网页端外，还提供 Chrome、Edge、Firefox 与 Safari 扩展，以及面向手机和平板的安装包，其中部分移动端版本在官网上标注为即将推出。</p>"
+      },
+      {
+        "title": "TransorAI 的主要功能",
+        "html": "<p>TransorAI 官网按内容形态列功能，公开条目包括：</p><ul><li><strong>网页翻译</strong>：识别网页核心内容区域，做低侵入式的双语对照显示。</li><li><strong>视频字幕翻译</strong>：支持 YouTube、Netflix 等主流站点的实时双语字幕。</li><li><strong>PDF 翻译</strong>：官网称首创免费 PDF 翻译，让文档支持双语阅读。</li><li><strong>图片翻译</strong>：借助 OCR 与图像修补技术，把译文自然融入原有版面。</li><li><strong>划词翻译</strong>：选中任意文本即可获取译文，并可收藏至个人文件夹且支持导出。</li><li><strong>输入框翻译</strong>：在网页输入框内连按三次空格即可把内容译成目标语言。</li><li><strong>多引擎可选</strong>：内置 OpenAI、Claude、DeepSeek、Gemini 以及传统机器翻译服务。</li><li><strong>多端覆盖</strong>：提供多款浏览器扩展与手机端安装包。</li></ul>"
+      },
+      {
+        "title": "如何使用 TransorAI",
+        "html": "<p>TransorAI 的接入方式以浏览器扩展为主，官网给出的顺序是：</p><ol><li>打开 TransorAI 官网并完成注册，官网说明注册后可免费使用部分大模型翻译。</li><li>按自己使用的浏览器安装对应扩展，可选 Chrome、Edge、Firefox 或 Safari 版本。</li><li>浏览外文网页时开启翻译，页面会以原文加译文的形式呈现。</li><li>遇到 PDF 或图片类内容时，单独上传或直接在页面内触发翻译。</li><li>看视频时启用字幕翻译，得到实时双语字幕。</li><li>需要记住某个表达时使用划词翻译并收藏，后续可导出整理。</li><li>在搜索、写作或对话框内快速连按空格，直接完成输入内容的翻译。</li></ol>"
+      },
+      {
+        "title": "TransorAI 的应用场景",
+        "html": "<p>TransorAI 官网把适用人群写得很明确，主要包括：</p><ul><li><strong>外文资料阅读</strong>：浏览海外站点与技术文档时保持原文与译文对照。</li><li><strong>学术与商务文档</strong>：翻译论文、合同一类需要精确表述的材料。</li><li><strong>影视学习</strong>：借助双语字幕在观看过程中积累词汇与表达。</li><li><strong>设计素材处理</strong>：翻译图片中的文字，同时保留原有排版观感。</li><li><strong>语言学习</strong>：用划词与收藏功能整理个人词句库。</li><li><strong>跨境沟通</strong>：在输入框内即时转换语言，减少切换工具的步骤。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "lingxifanyi-com",
@@ -19059,27 +19191,23 @@
     "domain": "genspark.ai",
     "detailed_content": [
       {
-        "title": "Genspark是什么",
-        "html": "<p>Genspark 是前百度小度高管推出的通用&nbsp;<a href=\"https://ai-bot.cn/favorites/ai-agent/\" target=\"_blank\" rel=\"noopener\">AI 智能体</a>，通过创新的多模型协作系统（Mixture-of-Agents）打造超级 AI 智能体。Genspark 核心理念是让用户通过简单指令驱动多个 AI 模型协同工作，完成复杂任务。Genspark的核心产品Genspark Super Agent 是全能型 AI 助手，能自主思考、规划和执行各种任务，如旅行规划、视频内容生成、数据可视化等。产品功能包括 <a href=\"https://ai-bot.cn/ai-ppt-presentation-makers/\" target=\"_blank\" rel=\"noopener\">AI幻灯片</a>、AI表格、AI文档、<a href=\"https://ai-bot.cn/ai-video-generation-tools/\" target=\"_blank\" rel=\"noopener\">AI视频</a>等工具，支持在 Slack 等平台无缝协作，用户在熟悉的工作环境中可直接使用AI能力。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/11/Genspark-website-2.png\" data-fancybox=\"fancybox\" data-caption=\"Genspark\"><img decoding=\"async\" class=\"alignnone wp-image-66342\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/Genspark-website-2.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Genspark\" width=\"740\" height=\"416\"></a>"
+        "title": "Genspark 是什么",
+        "html": "<p>Genspark 把自己定义为「一体化 AI 工作空间」，官网当前主推的是 Genspark AI Workspace 6.0。它不打算只做一个聊天窗口，而是把幻灯片、文档、图像、视频、代码与设计这些产出形态集中到同一个环境里，让用户不必在多个工具之间来回搬运内容。</p><p>从官网的组织方式看，Genspark 走的是一条「入口统一、能力分层」的路线：上层是 Home、Skills、Second Brain 三个主入口，下层则挂载了大量按任务划分的生成器，覆盖写作、视觉设计、办公文档等类别。</p><p>官网还列出了 Genspark Claw、Speakly、GenClipboard、GenTerminal 等子产品，并提供了多语言区域站点，说明这套工作空间正在按不同市场做本地化扩展。</p>"
       },
       {
-        "title": "Genspark的主要功能",
-        "html": "<div class=\"flex justify-center items-center group\" data-v-217c68e6=\"\">\n<ul>\n<li><strong>Genspark 超级智能体</strong>：多功能的 AI 助手，能跨平台执行复杂任务，随着使用不断学习和适应用户需求。</li>\n<li><strong>自定义超级智能体</strong>：用户能根据自己的需求创建和定制AI智能体，执行特定的任务。</li>\n<li><strong>AI 表格和文档</strong>：用在数据分析和文档起草，帮助用户快速处理电子表格和撰写文档。</li>\n<li><strong><a href=\"https://ai-bot.cn/ai-design-tools/\" target=\"_blank\" rel=\"noopener\">AI 设计</a>师</strong>：提供设计服务，如创建海报、设计产品包装等。</li>\n<li><strong><a href=\"https://ai-bot.cn/ai-agent-development-platform/\" target=\"_blank\" rel=\"noopener\">AI 开发</a>者</strong>：支持开发任务，如构建网页游戏或预订网站。</li>\n<li><strong><a href=\"https://ai-bot.cn/best-free-ai-chatbots/\" target=\"_blank\" rel=\"noopener\">AI 聊天</a>和<a href=\"https://ai-bot.cn/ai-podcast-generator-tools/\" target=\"_blank\" rel=\"noopener\">播客</a></strong>：用于创建播客内容或进行AI驱动的对话。</li>\n<li><strong><a href=\"https://ai-bot.cn/best-ai-painting-tools/\" target=\"_blank\" rel=\"noopener\">AI 图片</a>和视频</strong>：用于生成和编辑图片、视频内容，满足创意和媒体需求。</li>\n<li><strong>AI 会议纪要</strong>：自动记录和总结会议内容。</li>\n<li><strong>深度研究和事实核查</strong>：提供深入的研究分析和信息核实服务。</li>\n<li><strong>自动化任务</strong>：执行重复性任务，如文件检索和下载。</li>\n<li><strong>集成平台</strong>：与Slack等平台集成，使用户能在平台上直接使用Genspark的服务。</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/11/Genspark-website1.png\" data-fancybox=\"fancybox\" data-caption=\"Genspark\"><img decoding=\"async\" class=\"alignnone wp-image-66343\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/Genspark-website1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Genspark\" width=\"740\" height=\"416\"></a>\n</div>"
+        "title": "Genspark 的主要功能",
+        "html": "<p>Genspark 官网把功能拆成写作与内容、设计与视觉两大部分，公开列出的工具非常密集，摘要如下：</p><ul><li><strong>统一工作空间</strong>：Home 与 Skills 入口把不同任务收敛到一处，官方描述为「从一个问题直达可用的成果页」。</li><li><strong>Second Brain</strong>：作为独立入口承载知识的沉淀与调用。</li><li><strong>写作与文档类</strong>：涵盖文章、脚本、摘要、合同、教案、求职信等生成器，以及文档与 PDF 生成。</li><li><strong>对话与笔记类</strong>：提供 AI 对话、会议记录、听写与事实核查能力。</li><li><strong>图像类</strong>：包含图像生成、照片编辑、头像与证件照生成、房间设计、线稿上色等。</li><li><strong>放大与增强</strong>：官网单独列出图像放大与图像增强两个工具。</li><li><strong>设计类</strong>：覆盖故事板、缩略图、书封、名片、横幅、样机与广告图等模板型产出。</li><li><strong>代码相关</strong>：提供 Figma 转代码与界面生成一类入口，以及 GenTerminal 这类终端形态的工具。</li></ul>"
       },
       {
-        "title": "如何使用Genspark",
-        "html": "<ul>\n<li class=\"paragraph\"><strong class=\"\">访问平台</strong>：访问Genspark官网 https://www.genspark.ai/ ，注册登录账号。</li>\n<li>\n<div class=\"paragraph\"><strong>授权集成</strong>：如果使用的是Slack或其他集成平台，需要授权Genspark访问你的账户，以便能与工作流程集成。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">创建任务</strong>：选择需要的功能，创建任务。例如，创建一个AI表格任务分析数据，或者创建一个AI文档任务起草文件。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>输入指令</strong>：根据你选择的任务，输入相应的指令或上传相关文件。Genspark的智能体会根据指令执行任务。</div>\n</li>\n<li class=\"paragraph\"><strong>使用结果</strong>：一旦任务完成，查看结果，下载文件，或者将结果直接集成到工作流程中。</li>\n<li class=\"paragraph\"><strong class=\"\">定制智能体</strong>：对于更复杂的需求，创建自定义超级智能体，适应特定的工作场景。</li>\n</ul>"
+        "title": "如何使用 Genspark",
+        "html": "<p>Genspark 的用法比较灵活，既可以先定目标再选工具，也可以直接从一句话开始，官网体现的路径是：</p><ol><li>打开 Genspark 官网并登录，进入工作空间首页。</li><li>如果已经有明确任务，进入 Skills 直接挑选对应工具，例如幻灯片或图像增强。</li><li>如果只有一个模糊问题，直接在输入框描述需求，由系统判断该调用哪些能力。</li><li>在结果页上继续追问或要求修改，逐步把草稿推向可用状态。</li><li>把长期要复用的资料放进 Second Brain，后续创作时直接调用。</li><li>需要协作或规模化管理时，切换到 Business 相关入口配置团队使用方式。</li><li>完成后导出成果，或按官网提示安装客户端随时访问。</li></ol>"
       },
       {
-        "title": "Genspark的产品定价",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>Free</strong>：提供免费访问，包括每天100积分、1GB AI Drive存储空间，及有限的AI模型和智能体使用。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Plus</strong>：每月24.99美元，提供10,000积分、50GB AI Drive存储，无限畅聊AI聊天，优先使用所有AI智能体，可访问最新图像和视频生成模型。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Pro</strong>：每月249.99美元，提供125,000积分、1TB AI Drive存储，同样享有无限畅聊AI聊天和优先使用所有AI智能体，以及访问所有最新图像、视频和音频生成模型。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "Genspark的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">自动化办公</strong>：Genspark能自动生成报告和处理数据，简化日常办公任务。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>客户服务</strong>：用Genspark提供24/7的自动化客户支持，提升服务效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>市场营销</strong>：Genspark帮助分析市场趋势，个性化营销策略，提高客户参与度。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>人力资源</strong>：Genspark辅助HR流程，如简历筛选和员工培训，优化人才管理。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教育和培训</strong>：Genspark为教育提供个性化学习计划，增强教学效果。</div>\n</li>\n</ul>"
+        "title": "Genspark 的应用场景",
+        "html": "<p>Genspark 官网把工具按「什么问题适合用什么」来归类，对应的典型场景包括：</p><ul><li><strong>内容创作</strong>：写文章、脚本和社交媒体文案，或把长材料压缩成摘要。</li><li><strong>职场文档</strong>：生成合同、教案、简历与演示材料等常规文件。</li><li><strong>视觉素材</strong>：制作头像、封面、海报、样机与商品展示图。</li><li><strong>会议与记录</strong>：用笔记与听写能力整理讨论内容，并做事实核查。</li><li><strong>设计到开发</strong>：把设计稿转成代码，或从描述生成界面结构。</li><li><strong>个人知识管理</strong>：借助 Second Brain 沉淀资料，官网称可快速生成数据看板一类的成果页。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "oiioii-ai",
@@ -20381,23 +20509,23 @@
     "domain": "gaoding.art",
     "detailed_content": [
       {
-        "title": "稿定AI社区是什么",
-        "html": "<p>稿定AI社区是稿定推出的设计Agent和AI创意社区，提供丰富的AIGC设计案例，展示最新趋势和风格，用户能在此浏览学习、积累审美。稿定AI社区支持设计Agent、无限画布、多模型接入等功能，支持一站式创作，无需切换工具。让专业设计师和创意爱好者，在稿定AI社区上获得全新的灵感和创作体验。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/08/gaoding.art-website.png\" data-fancybox=\"fancybox\" data-caption=\"稿定AI社区\"><img decoding=\"async\" class=\"alignnone wp-image-60313 loaded\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/gaoding.art-website.png\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/gaoding.art-website.png\" alt=\"稿定AI社区\" width=\"740\" height=\"416\" data-was-processed=\"true\"></a>"
+        "title": "稿定AI 是什么",
+        "html": "<p>稿定AI 是稿定推出的 AI 创作平台，官网把它定位成面向 AI 创作者、电商商家与内容团队的创作空间。与只解决单点环节的生成器不同，稿定AI 把图片生成、视频生成、AI 改图改字、Agent 模式与电商工作流收进同一套界面，用户在一个账号下就能走完从原始素材到可上架成图的链路。</p><p>官网首页把电商方向放在最醒目的位置，主推 AI 生图、AI 视频与电商工作流三条主线，同时保留创意社区、SKILL HUB、CLI 创作等扩展入口。可以看出稿定AI 想做的并不只是一个出图工具，而是一条围绕商品视觉组织起来的生产流水线。</p><p>需要区分的是，稿定AI 与稿定设计同属一个品牌体系，但前者侧重生成式能力与自动化流程，后者以模板和在线编辑见长，两者的功能边界并不重合。</p>"
       },
       {
-        "title": "稿定AI社区的主要功能",
-        "html": "<ul>\n<li><strong>设计Agent</strong>：用户只需输入一句话，系统就能理解需求、拆解任务计划、检索资料，并最终提供整套视觉方案。</li>\n<li><strong>无限画布</strong>：所有的创作都在一个画布上进行，内置各种AI工具，支持智能消除、扩图、抠图、改图等功能，用户无需切换页面，能流畅地进行创意创作。</li>\n<li><strong>创意社区</strong>：稿定AI社区提供大量AI设计的模板，满足多场景设计需求，激发用户的无限设计灵感。</li>\n<li><strong>多模型接入</strong>：整合多个大型模型包括<a href=\"https://ai-bot.cn/sites/4189.html\" target=\"_blank\" rel=\"noopener\">豆包</a>、<a href=\"https://ai-bot.cn/sites/54501.html\" target=\"_blank\" rel=\"noopener\">Deepseek</a>、<a href=\"https://ai-bot.cn/sites/17772.html\" target=\"_blank\" rel=\"noopener\">即梦</a>等不同的模型，根据任务自动匹配最佳方案，用户无需切换多个平台，能在一个平台上生成图片、视频、3D模型和文案等内容。</li>\n</ul>"
+        "title": "稿定AI 的主要功能",
+        "html": "<p>从官网页面的模块划分看，稿定AI 的能力大致沿「生成」「编辑」「电商流程」三条线展开，公开列出的重点包括：</p><ul><li><strong>图片与视频生成</strong>：提供独立的图片创作、视频创作入口，并用 AI 画布承接连续性的多轮创作。</li><li><strong>Agent 模式</strong>：用对话方式驱动任务，配套 4K 商拍精修、全套主图直出、详情页整套生成、直播间套装生成等预设能力。</li><li><strong>电商工具集</strong>：包含电商主图套图、商品精修、爆款主图复刻、商品详情页与 A+ 内容、商品场景图、电商海报等模块。</li><li><strong>模特相关能力</strong>：模特试衣、自由更换模特、模特换背景、姿势裂变以及万物穿戴。</li><li><strong>AI 改图与 AI 改字</strong>：对既有图片做局部调整，官网把「海报复刻」列为典型用法。</li><li><strong>电商工作流</strong>：上传一张产品图后按照多节点顺序一键运行，把若干处理步骤串成一条自动链路。</li><li><strong>素材翻译</strong>：图片翻译支持多国语言一键转换，方便跨境场景重复利用同一批视觉素材。</li></ul>"
       },
       {
-        "title": "如何使用稿定AI社区",
-        "html": "<ul>\n<li><strong>访问稿定AI社区</strong>：访问稿定AI社区官网 <a href=\"https://www.gaoding.art/utms/9f9e3162fb274b11810089a93ea547f1\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">https://www.gaoding.art/</a> ，注册账号登录。</li>\n<li><strong>画布</strong>：\n<ul>\n<li><strong>Agent功能</strong>： 目前需要填写表格获取邀请码体验Agent功能，Agent能作为设计助理，帮助完成复杂任务。</li>\n<li><strong>对话功能</strong>：通过与AI对话完成简单任务。描述想法或需求，AI基于描述提供创意方案。</li>\n<li><a href=\"https://ai-bot.cn/best-ai-image-generators/\" target=\"_blank\" rel=\"noopener\"><strong>图片生成</strong></a>：描述想要生成的图片或选择想要处理的图片，AI根据描述生成对应图片。</li>\n<li><a href=\"https://ai-bot.cn/ai-video-generation-tools/\" target=\"_blank\" rel=\"noopener\"><strong>视频生成</strong></a>：直接对话描述需求，或上传首尾帧图片，让AI完成视频制作。</li>\n</ul>\n</li>\n<li><strong>使用AI工具</strong>：稿定AI社区根据描述提供创意方案。用内置的AI工具来进一步发展和完善设计。</li>\n<li><strong>模版</strong>：浏览各种热门和推荐的创意作品，选择感兴趣的模版进行再创作。</li>\n<li><strong>参与社区</strong>：在稿定AI社区中发布作品，与其他用户分享，获取反馈，或浏览其他人的作品获取灵感。</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/08/gaoding.art-website2.png\" data-fancybox=\"fancybox\" data-caption=\"稿定AI社区\"><img decoding=\"async\" class=\"alignnone wp-image-60315\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/gaoding.art-website2.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"稿定AI社区\" width=\"740\" height=\"416\"></a>"
+        "title": "如何使用 稿定AI",
+        "html": "<p>稿定AI 的操作逻辑大体是「选能力、给素材、取结果」三步，官网页面上可直接看到的顺序如下：</p><ol><li>打开稿定AI 站点，完成登录或注册后进入创作工作台。</li><li>在工作台顶部挑选创作类型，例如图片生成、视频生成或 Agent 模式。</li><li>当目标是商品图时，先上传产品图，再调用电商主图套图、商品精修等工具生成成套素材。</li><li>要处理整店素材时改用电商工作流，上传一次产品图即可按节点顺序跑完多个环节。</li><li>过程中可进入 AI 画布继续编辑，或用 AI 改图、AI 改字做局部修正与文字替换。</li><li>确认效果后导出成品，用于店铺上架、社媒投放或内部评审。</li></ol>"
       },
       {
-        "title": "稿定AI社区的应用场景",
-        "html": "<ul>\n<li><strong>海报设计</strong>：用户用AI工具快速生成适用于社交媒体推广或活动宣传的海报。</li>\n<li><strong>电商设计</strong>：为电商平台的商品制作吸引人的图片和视频，包括商品展示和促销活动。</li>\n<li><strong>品牌设计</strong>：帮助品牌创建一致的视觉识别系统，如设计logo、名片和宣传册。</li>\n<li><strong>社交媒体内容</strong>：为微博、微信、小红书等平台制作封面图和帖子图。</li>\n<li><strong>视频制作</strong>：生成适用于广告、营销视频或社交媒体的视频内容。</li>\n</ul>"
+        "title": "稿定AI 的应用场景",
+        "html": "<p>稿定AI 官网对适用人群的说明相当具体，主要集中在需要持续产出商品视觉的团队，常见用法有这么几类：</p><ul><li><strong>电商主图制作</strong>：上传产品图后生成风格统一的主图套图，减少反复补拍的成本。</li><li><strong>详情页搭建</strong>：把商品卖点整理成结构化的详情页与 A+ 版式。</li><li><strong>直播间与短视频物料</strong>：借助 UGC 口播视频生成、姿势裂变等能力补充带货素材。</li><li><strong>模特与场景替换</strong>：通过试衣、换模特、换背景，把一件商品适配到多种展示风格。</li><li><strong>跨境多语种发布</strong>：配合图片翻译，让同一套素材覆盖多个语言市场。</li><li><strong>品牌视觉延展</strong>：官网还提到可生成品牌 IP 形象、周边物料与配套延展应用。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-29"
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "tool61891",
@@ -23564,23 +23692,23 @@
     "domain": "sourcegraph.com",
     "detailed_content": [
       {
-        "title": "Amp是什么",
-        "html": "<p>Amp 是 Sourcegraph 推出的 AI 编程智能体，定位为”面向团队与成果的自主编程工具”。与传统代码补全工具不同，Amp 能像初级工程师一样自主规划并执行跨代码库的多步骤任务，依托 Sourcegraph 十年积累的代码搜索能力，可深度理解项目结构、追踪函数调用链，实现复杂重构、测试生成、文档编写等端到端开发工作。Amp 采用”质量优先”策略，不限制 Token 使用，自动选择 Claude Opus 4.6、GPT-5.2 等前沿模型交付高质量代码。独特的 Thread 会话分享功能让团队可复用提示词、Agent 回复和代码修改记录，促进协作与最佳实践沉淀。支持 CLI 命令行和 VS Code 扩展两种使用方式，新用户每日可获得 $10 免费额度。</p>\n<img decoding=\"async\" class=\"alignnone  wp-image-72680\" src=\"https://ai-bot.cn/wp-content/uploads/2026/03/Amp-website1.png\"   alt=\"Amp\" width=\"741\" height=\"417\" />"
+        "title": "Amp 是什么",
+        "html": "<p>Amp 是 Sourcegraph 推出的编码智能体与开发环境，官网把它描述成面向前沿场景打造的 agent。它的核心概念叫 orb：每个智能体运行在独立的 orb 里，因此可以脱离你当前打开的窗口持续工作，也可以改用命令行和 runner 在自己的机器上执行。</p><p>官网反复强调的一句话是「少一点来回切换，多一点交付」。这一目标靠两点实现：一是让多个智能体各占一个 orb、互不干扰，二是允许任务在你合上笔记本之后继续推进，并支持从手机上接着查看。</p><p>从官网的演示脚本看，Amp 覆盖的不只是写代码，还包括监控发布、查看金丝雀结果、申请生产权限、通过 MCP 把结论同步到 Slack 等环节，属于把编码与运维串在一起的形态。</p>"
       },
       {
-        "title": "Amp的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>自主任务执行</strong>：提供代码补全，能像初级工程师一样自主规划、推理并执行复杂编程任务，如跨代码库重构模块、生成测试文件、编写文档等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多模型智能调度</strong>：自动选择最优模型（Claude Opus 4.6、GPT-5.2、DeepSeek、Gemini、Mistral 等），无需用户手动切换，始终使用最佳模型交付高质量代码。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>深度代码理解</strong>：依托 Sourcegraph 十年代码搜索技术，构建代码图谱和向量嵌入，可追踪类型定义、函数调用链，跨越微服务、共享库和 API 边界进行全局分析。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Thread 会话共享</strong>：支持将完整对话记录（提示词、Agent 回复、代码修改）保存并分享给团队成员，促进协作沉淀与最佳实践复用。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>三种 Agent 模式</strong>：<code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-7bd7ca31=\"\">smart</code> 模式无限制使用最先进模型，<code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-7bd7ca31=\"\">rush</code> 模式快速处理明确任务，<code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-7bd7ca31=\"\">deep</code> 模式深度推理解决复杂问题。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AGENT.md 集成</strong>：自动读取项目特定的 AGENT.md 文件，理解代码库结构、开发实践和编码规范，生成更贴合上下文的代码。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>无 Token 限制</strong>：不同于其他工具限制 Token 用量，Amp 对 Token 使用不设上限，确保任务完成质量。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>双平台支持</strong>：提供 CLI 命令行工具和 VS Code 扩展，无缝集成现有开发工作流，无需学习新界面。</div>\n</li>\n</ul>"
+        "title": "Amp 的主要功能",
+        "html": "<p>Amp 官网围绕智能体运行方式列出了这些能力：</p><ul><li><strong>编码智能体</strong>：接收自然语言任务并直接对代码库动手，官网演示中包含修复缺陷与重构验证。</li><li><strong>独立 orb 环境</strong>：为每个智能体分配隔离运行环境，多个任务可以并行而不互相打断。</li><li><strong>脱离窗口继续执行</strong>：提交任务后即可关闭笔记本，Agent 在后台保持推进。</li><li><strong>移动端接管</strong>：官网说明可以从手机继续跟进任务进度。</li><li><strong>CLI 与 runner</strong>：在本机运行时使用命令行工具与 runner 承载 Agent。</li><li><strong>团队协作</strong>：支持把进行中的工作共享给同事。</li><li><strong>MCP 集成</strong>：官网演示了通过 MCP 把结果发布到 Slack 的场景。</li><li><strong>Chronicle 记录</strong>：官网导航中提供 Chronicle 入口，用于回溯执行过程。</li></ul>"
       },
       {
-        "title": "如何使用Amp",
-        "html": "<ul>\n<li><strong>访问平台</strong>：访问Amp的官网 https://sourcegraph.com/amp。</li>\n<li>\n<div class=\"paragraph\"><strong>安装 CLI 工具</strong>：运行 <code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-7bd7ca31=\"\">npm install -g @sourcegraph/amp</code> 全局安装 Amp 命令行工具。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>配置 API Key</strong>：设置环境变量或在配置文件中添加 Sourcegraph API Key 完成身份验证。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>启动会话</strong>：在终端中运行 <code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-7bd7ca31=\"\">amp</code> 命令进入交互模式，可直接输入自然语言描述编程任务。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择 Agent 模式</strong>：根据任务类型选择 <code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-7bd7ca31=\"\">smart</code>（高质量）、<code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-7bd7ca31=\"\">rush</code>（快速）或 <code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-7bd7ca31=\"\">deep</code>（深度推理）模式。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>连接代码仓库</strong>：Amp 会自动分析当前目录下的项目，构建代码图谱和向量嵌入以理解代码结构。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>编写 AGENT.md</strong>（可选）：在项目根目录创建 AGENT.md 文件，定义代码库结构、开发规范和编码标准，让 Amp 生成更贴合上下文的代码。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>使用 VS Code 扩展</strong>：在 VS Code 及其分支（Cursor、Windsurf、VSCodium）中安装 Amp 扩展，直接在编辑器内调用 Agent 能力。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>分享 Thread 会话</strong>：完成会话后保存 Thread，将提示词、Agent 回复和代码修改记录分享给团队成员复用。</div>\n</li>\n</ul>"
+        "title": "如何使用 Amp",
+        "html": "<p>Amp 的落地方式比较接近「派活给同事」，官网演示的工作顺序大致如下：</p><ol><li>进入 Amp 站点完成登录，或在本机安装配套的 CLI 与 runner。</li><li>用自然语言把任务描述清楚，例如要监控哪次发布、要修哪个缺陷。</li><li>提交后 Agent 会占用一个独立的 orb 开始执行，此时可以继续安排其他任务。</li><li>合上笔记本或离开工位，官网说明执行过程不会因此中断。</li><li>需要跟进时从手机查看进度，或回到网页端阅读 Chronicle 记录。</li><li>关键步骤上可以用 MCP 让 Agent 把结论同步到 Slack 一类的协作工具。</li><li>确认结果符合预期后再批准合并或发布，把改动落到主线上。</li></ol>"
       },
       {
-        "title": "Amp的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>复杂代码重构</strong>：跨模块、跨服务进行大规模代码重构，自动分析依赖关系并安全迁移代码结构。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自动化测试生成</strong>：根据现有代码自动生成单元测试、集成测试，提升测试覆盖率和代码质量。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>技术文档编写</strong>：自动分析代码逻辑并生成 API 文档、README 说明，减少维护文档的人工成本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>新功能快速开发</strong>：从需求描述到代码实现，Amp 可自主规划开发步骤，加速功能迭代周期。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>遗留代码理解</strong>：快速梳理老旧项目的代码结构和调用链，帮助新成员上手复杂代码库。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>代码审查辅助</strong>：生成详细的代码变更说明和上下文，提升 PR 审查效率和质量。</div>\n</li>\n</ul>"
+        "title": "Amp 的应用场景",
+        "html": "<p>Amp 官网用一段完整的构建演示来举例，说明它主要落在研发日常的这些环节：</p><ul><li><strong>发布监控</strong>：让智能体定时唤醒并检查生产环境的状态。</li><li><strong>缺陷修复</strong>：把录屏或截图交给 Agent，由它定位并提交修改。</li><li><strong>代码评审</strong>：在合并前对改动做检查，官网演示了让 Agent 提供截图证据。</li><li><strong>重构验证</strong>：对已完成的重构做回归确认。</li><li><strong>发布与权限操作</strong>：包括在终端里授予生产权限、读取金丝雀结果等步骤。</li><li><strong>团队协同</strong>：把进行中的任务共享给同事，或通过 MCP 把进展同步到沟通工具。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "joycode-jd-com",
@@ -26753,8 +26881,25 @@
     "subcategory": "ai-design-ui",
     "logo": "/logos/tool122.png",
     "domain": "uizard.io",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Uizard AI 是什么",
+        "html": "<p>Uizard AI 是一款把生成式能力引入界面设计的工具，官网把它称为「首个 AI UI 设计工具」，当前主推的功能版本是 Autodesigner 2.0。它的目标是让产品想法在几秒内变成可编辑的界面稿，而不是先画草图再逐步搭框架。</p><p>Uizard AI 的入口方式有两种：一种是直接用文字描述生成界面，另一种是把现成素材转成可编辑稿。官网把后者拆成 Screenshot Scanner 与 Wireframe Scanner 两个工具，分别处理截图与手绘线框。</p><p>官网还把适用角色单独列出，覆盖产品经理、设计师、市场人员、创业者、咨询顾问与开发者，说明它想服务的对象并不限于设计岗。</p>"
+      },
+      {
+        "title": "Uizard AI 的主要功能",
+        "html": "<p>Uizard AI 官网把能力围绕「生成、转换、协作」组织，公开条目如下：</p><ul><li><strong>Autodesigner 2.0</strong>：用提示生成完整项目、页面与主题，官网称它是目前使用最广的界面生成能力。</li><li><strong>截图扫描</strong>：把界面截图转成可继续编辑的稿面。</li><li><strong>线框扫描</strong>：把手绘的线框图数字化，省去重画步骤。</li><li><strong>AI 设计助手</strong>：在编辑过程中提供设计侧的建议与辅助。</li><li><strong>原型与线框</strong>：内置在线线框与原型能力，支持从草图推进到可点击原型。</li><li><strong>多端模板</strong>：提供移动应用、网站、网页应用与平板应用的起始模板。</li><li><strong>协作与迭代</strong>：官网把 Generate、Collaborate、Iterate 列为并列环节。</li><li><strong>企业方案</strong>：单独设有面向大型组织的入口。</li></ul>"
+      },
+      {
+        "title": "如何使用 Uizard AI",
+        "html": "<p>Uizard AI 的流程可以按「起稿、改造、成型」理解，官网体现的顺序是：</p><ol><li>访问 Uizard AI 官网并注册账号，进入设计工作区。</li><li>选择一个起点：填写文字提示生成新界面，或上传截图、手绘线框做转换。</li><li>等待 Autodesigner 完成初始生成，得到多屏可编辑的项目稿。</li><li>在编辑器里调整布局、文字与配色，必要时调用设计助手获取建议。</li><li>把多个页面串联起来，形成可点击的原型用于演示。</li><li>需要团队配合时邀请成员进入同一项目继续修改。</li><li>确认版本后导出，交给开发或作为后续设计的底稿。</li></ol>"
+      },
+      {
+        "title": "Uizard AI 的应用场景",
+        "html": "<p>Uizard AI 官网按角色列举适用方式，对应的典型场景包括：</p><ul><li><strong>产品经理做原型</strong>：在需求讨论阶段快速拿出可视化界面草案。</li><li><strong>设计师探索方向</strong>：用生成结果作为起点，再进行细节打磨。</li><li><strong>创业团队验证 MVP</strong>：在没有专职设计资源时先把产品界面做出来。</li><li><strong>市场与代理公司</strong>：为客户快速产出提案用的界面示意。</li><li><strong>顾问交付方案</strong>：把建议转成可点击的原型，提高汇报说服力。</li><li><strong>开发者预研</strong>：在动手编码前先确认界面结构。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-09-30"
   },
   {
     "slug": "tool923",

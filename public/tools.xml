@@ -238,6 +238,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/youmind-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/youmind-com.png</image:loc>
+      <image:title>YouMind logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/xiaoin-com-cn</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -316,6 +325,15 @@
     <image:image>
       <image:loc>/logos/paperxie-cn.png</image:loc>
       <image:title>PaperXie智能写作 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/flowus-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/flowus-ai.png</image:loc>
+      <image:title>FlowUs AI logo</image:title>
     </image:image>
   </url>
   <url>
@@ -400,6 +418,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool5001</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool5001.png</image:loc>
+      <image:title>写作蛙 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/verse-app-yinxiang-com</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -433,6 +460,15 @@
     <image:image>
       <image:loc>/logos/tool2388.png</image:loc>
       <image:title>万彩AI logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/novelai-net</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/novelai-net.png</image:loc>
+      <image:title>NovelAI logo</image:title>
     </image:image>
   </url>
   <url>
@@ -562,6 +598,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/photoroom-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/photoroom-com.png</image:loc>
+      <image:title>Photoroom logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/ribbet-ai</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -616,6 +661,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tripo-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tripo-ai.png</image:loc>
+      <image:title>Tripo AI logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/neural4d-com</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -661,6 +715,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/meshy-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/meshy-ai.png</image:loc>
+      <image:title>Meshy logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/kt-94xy-com</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -694,6 +757,15 @@
     <image:image>
       <image:loc>/logos/tool285.png</image:loc>
       <image:title>Erase.bg logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool284</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool284.png</image:loc>
+      <image:title>PhotoScissors logo</image:title>
     </image:image>
   </url>
   <url>
@@ -751,6 +823,24 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool7402</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool7402.png</image:loc>
+      <image:title>Magnific AI logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool219</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool219.png</image:loc>
+      <image:title>Img.Upscaler logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tool215</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -775,6 +865,15 @@
     <image:image>
       <image:loc>/logos/tool691.png</image:loc>
       <image:title>Bg Eraser logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool688</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool688.png</image:loc>
+      <image:title>SnapEdit logo</image:title>
     </image:image>
   </url>
   <url>
@@ -865,6 +964,15 @@
     <image:image>
       <image:loc>/logos/picma-studio.png</image:loc>
       <image:title>PicMa Studio logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool104</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool104.png</image:loc>
+      <image:title>Palette logo</image:title>
     </image:image>
   </url>
   <url>
@@ -1138,6 +1246,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/pika-art</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/pika-art.png</image:loc>
+      <image:title>Pika logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/kreadoai-com</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1216,6 +1333,15 @@
     <image:image>
       <image:loc>/logos/pptgo-cn.png</image:loc>
       <image:title>博思AIPPT logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool8840</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool8840.png</image:loc>
+      <image:title>iSlide AIPPT logo</image:title>
     </image:image>
   </url>
   <url>
@@ -1342,6 +1468,15 @@
     <image:image>
       <image:loc>/logos/acrobat-ai-assistant.png</image:loc>
       <image:title>Acrobat AI Assistant logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool8427</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool8427.png</image:loc>
+      <image:title>Cubox: AI Read logo</image:title>
     </image:image>
   </url>
   <url>
@@ -1480,6 +1615,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool64787</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool64787.png</image:loc>
+      <image:title>TransorAI logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/lingxifanyi-com</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1534,6 +1678,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/genspark-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/genspark-ai.png</image:loc>
+      <image:title>Genspark logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/bloome-im</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1567,6 +1720,15 @@
     <image:image>
       <image:loc>/logos/tool72152.png</image:loc>
       <image:title>小云雀AI logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/gaoding-art</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/gaoding-art.png</image:loc>
+      <image:title>稿定AI logo</image:title>
     </image:image>
   </url>
   <url>
@@ -1684,6 +1846,15 @@
     <image:image>
       <image:loc>/logos/augment-code.png</image:loc>
       <image:title>Augment Code logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/sourcegraph-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/sourcegraph-com.svg</image:loc>
+      <image:title>Amp logo</image:title>
     </image:image>
   </url>
   <url>
@@ -1837,6 +2008,15 @@
     <image:image>
       <image:loc>/logos/tool1202.png</image:loc>
       <image:title>Spline AI 3D Generation logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool122</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool122.png</image:loc>
+      <image:title>Uizard AI logo</image:title>
     </image:image>
   </url>
   <url>
