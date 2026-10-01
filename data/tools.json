@@ -890,31 +890,23 @@
     "domain": "coze.cn",
     "detailed_content": [
       {
-        "title": "Coze是什么",
-        "html": "<p>Coze是字节跳动推出的AI办公助手，能通过AI技术简化工作流程，提升工作效率。通过Agent Skills技能系统和Agent Plan长期计划功能，实现从单一工具到智能工作伙伴的转变。扣子2.0能深度理解职场场景，主动推进项目，提供专业洞察，帮助用户更高效地完成复杂任务，真正实现从“能帮你”到“懂你”的跨越，成为职场中不可或缺的智能助手。最新升级的扣子2.5 核心是打造全新的 “Agent World”，让 Agent 从被动对话工具升级为能独立运转的数字生产力伙伴。</p>\n<p>Coze国际版（coze.com）提供的是基于OpenAI GPT模型的API来创建和使用<a href=\"https://ai-bot.cn/best-free-ai-chatbots/\" target=\"_blank\" rel=\"noopener\">AI聊天机器人</a>。如同此前推出的聊天机器人<a href=\"https://ai-bot.cn/sites/4189.html\" target=\"_blank\" rel=\"noopener\">豆包</a>国际版为Cici，字节推出了国内版本的Coze扣子（<a href=\"https://www.coze.cn/overview?utm_medium=daohang&utm_source=aibot&utm_term=49156769m\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >coze.cn</a>），采用豆包大模型。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-70331\" src=\"https://ai-bot.cn/wp-content/uploads/2026/01/Coze-website-2.png\"   alt=\"Coze\" width=\"740\" height=\"416\" />"
+        "title": "Coze 是什么",
+        "html": "<p>Coze 的中文名是扣子，官方文档把「扣子」（Coze）定义为面向 Agent 时代的新一代 AI 团队协作平台。它要解决的不是单轮问答，而是让一个人或一个团队同时调度多个 Agent 去推进同一件事。官方文档强调，Coze 能承载项目、沉淀资产，任务背景、执行过程与最终产出会被持续保存，而不是散落在不同的聊天窗口里。可用范围覆盖办公、编程、视频创作、文件处理与行业研究等。</p>"
       },
       {
-        "title": "Coze的主要功能",
-        "html": "<div class=\"paragraph\">\n<ul>\n<li class=\"paragraph\"><strong class=\"\">Agent Skills（技能系统）</strong>：用户能根据需要为AI添加特定领域的技能包，使其在特定任务上表现得更专业。</li>\n<li class=\"paragraph\"><strong>Agent Plan（长期计划）</strong>：用户能设定长期目标，AI自动规划执行路径、定期汇报进展，无需用户频繁提醒。</li>\n<li class=\"paragraph\"><strong>Agent Office（深度职场理解）</strong>：在处理复杂职场问题时，扣子2.0能提供深度分析和洞察，不仅是标准答案。</li>\n<li class=\"paragraph\"><strong>Agent Coding（云端开发平台）</strong>：一站式云端开发平台，支持通过对话构建智能体、工作流、网站等，提供一键部署功能。</li>\n<li class=\"paragraph\"><strong>视频创作 Skill</strong>：视频创作技能，用户可用自然语言描述需求，AI自动生成视频脚本、匹配素材、剪辑和配乐，且音画同步效果出色。</li>\n<li>\n<div class=\"paragraph\"><strong>独立云设备</strong>：配备云电脑和云手机，支持 7×24 小时后台自主运行任务，拥有独立工作台（日程+云盘）。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>全栈技能包</strong>：集成视频创作（<a href=\"https://ai-bot.cn/seedance-2-0/\" target=\"_blank\" rel=\"noopener\">Seedance 2.0</a>）、编程 CLI（一键部署）及法律/金融等行业专家 Skill。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>长期记忆</strong>：支持异步记忆整理与跨平台记忆共享，Agent 能记住用户偏好和历史任务，实现个性化协作。</div>\n</li>\n</ul>\n</div>\n<img decoding=\"async\" class=\"alignnone wp-image-70332\" src=\"https://ai-bot.cn/wp-content/uploads/2026/01/Coze-website2-1.png\"   alt=\"Coze\" width=\"740\" height=\"416\" />"
+        "title": "Coze 的主要功能",
+        "html": "<p>按官方文档「了解扣子」一节的说明，Coze 的能力沿几条线展开：</p><ul><li>协作模式：支持一人加多 Agent、多人加多 Agent，团队成员共享上下文，需要谁加入直接 @ 唤起；</li><li>多项目管理：不同任务建立独立项目，对话、文件、素材与产出随项目沉淀；</li><li>模型选择：内置 Coze Agent，可在 Doubao-Seed、Kimi、GLM、Minimax 等主流模型间切换，并结合长期记忆与技能调用；</li><li>扩展机制：通过技能、MCP 与插件为 Agent 补上方法、工具与工作界面；</li><li>编程与视频项目：覆盖网页、App、小程序开发，以及剧本、分镜、视频、音乐创作；</li><li>Agent 接入：既可用职业模板创建行业专家 Agent，也能接入本地电脑上的 Claude Code、Codex CLI、OpenClaw 等；</li><li>行业技能包：自媒体、法律、金融、互联网、医疗健康等方向的技能可一键加载；</li><li>跨端同步：桌面端可授权 Agent 处理本地文件，移动端随时查看项目并继续推进。</li></ul>"
       },
       {
-        "title": "如何使用Coze",
-        "html": "<ul>\n<li class=\"paragraph\"><strong class=\"\">下载安装</strong>：访问Coze官网，或下载<a href=\"https://ai-bot.cn/app/56721.html\" target=\"_blank\" rel=\"noopener\">扣子APP</a>进行使用，注册登录账号。</li>\n<li class=\"paragraph\"><strong class=\"\">设置目标</strong>：通过Agent Plan功能设定长期目标，如“运营自媒体账号涨粉10万”，Coze将自动规划执行路径并定期汇报进展。</li>\n<li class=\"paragraph\"><strong>使用技能</strong>：根据工作需求安装Agent Skills，如“营销文案写作”技能，Coze将依据行业最佳实践生成高质量文案。</li>\n<li class=\"paragraph\"><strong>编程开发</strong>：用扣子编程平台，通过对话式编程轻松构建智能体、工作流、网站或移动应用，实现一键部署上线。</li>\n<li class=\"paragraph\"><strong class=\"\">互动反馈</strong>：在使用过程中，Coze通过多轮对话逐步理解具体需求，提供精准答案，用户可随时调整需求或反馈优化结果。</li>\n<li class=\"paragraph\"><strong class=\"\">探索功能</strong>：体验视频创作、数据处理、文档生成等功能，满足不同场景下的多样化工作需求。</li>\n</ul>"
+        "title": "如何使用 Coze",
+        "html": "<p>第一次上手 Coze，可以照着官方文档的推荐路径来：</p><ol><li>注册账号后先阅读「了解扣子」与快速开始，弄清 Agent 与项目两层概念；</li><li>为手头的任务新建一个 Coze 项目，把相关文件与素材放进这个项目；</li><li>创建或选择一个 Agent，按需要给它加载技能、插件或 MCP；</li><li>用 @ 的方式把多个 Agent 拉进同一项目，分配各自负责的部分；</li><li>在项目里持续推进，产出会保留在项目中，后续可继续迭代或交付。</li></ol>"
       },
       {
-        "title": "Coze的使用示例",
-        "html": "<p><strong>扣子空间</strong></p>\n<blockquote><p>请你围绕 “城市青年周末微度假” 主题一系列制作一期图文指南。需涵盖不同预算档位的方案设计、小众目的地挖掘、体验感提升技巧。</p></blockquote>\n<img decoding=\"async\" class=\"alignnone wp-image-68995\" src=\"https://ai-bot.cn/wp-content/uploads/2025/12/Coze-website4.png\"   alt=\"Coze\" width=\"740\" height=\"409\" />\n<p><strong>扣子编程</strong></p>\n<blockquote><p>搭建一个发票读取工作流，支持上传并解析发票类 PDF 文件，自动提取 PDF 中的关键信息，提取完成后，生成结构化输出结果（支持 JSON 格式或表格格式），确保字段清晰、数据准确。若涉及多页 PDF 发票，需支持批量解析与信息汇总。</p></blockquote>\n<img decoding=\"async\" class=\"alignnone wp-image-68834\" src=\"https://ai-bot.cn/wp-content/uploads/2025/12/code.coze-website2-1.png\"   alt=\"扣子编程\" width=\"740\" height=\"416\" />"
-      },
-      {
-        "title": "Coze的产品定价",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>个人免费版</strong>：每月0元，提供500资源点/天，模型每分钟请求数300，空间数量1，人数50，知识库空间1GB，Trace上报量5万条/月，存储3天，单记忆库存储上限100条，会话数据加密。</li>\n<li class=\"paragraph\"><strong>个人进阶版</strong>：每月9.9元，原价39.9元，提供30,000资源点/月，模型每分钟请求数1000，空间数量10，人数100，知识库空间10GB，Trace上报量10万条/月，存储7天，单记忆库存储上限1,000条，会话数据加密。</li>\n<li class=\"paragraph\"><strong>团队版</strong>：每月178元，提供150,000资源点/月，模型每分钟请求数5000，空间数量无限，人数100，知识库空间100GB，Trace上报量10万条/月，存储90天，单记忆库存储上限100,000条，支持声音复刻，赠送1个（支持扩容），团队成员人数上限100，赠送2人。</li>\n<li class=\"paragraph\"><strong>企业版</strong>：每月4,980元，提供3,000,000资源点/月，模型每分钟请求数12000，空间数量和人数无上限，知识库空间2TB，Trace上报量200万条/月，存储180天，单记忆库存储上限10,000,000条，支持声音复刻，赠送1个（支持扩容），支持声纹降噪及语义判停。</li>\n</ul>"
-      },
-      {
-        "title": "Coze的适用人群",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>办公自动化</strong>：快速生成高质量的演示文稿、办公文档和数据分析报告，大幅提升工作效率，节省时间和精力。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>内容创作</strong>：帮助自媒体创作者、广告人员和设计师高效产出创意内容，满足多平台发布需求，提升创作效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">教育学习</strong>：辅助教师快速生成教案、课件，帮助学生整理笔记、撰写作业和论文，提升教学与学习效率，激发学习兴趣和创造力。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>开发与技术</strong>：提供低代码开发环境，快速搭建智能体、自动化工作流和网页应用，助力开发者高效实现项目，降低开发门槛。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>个人效率提升</strong>：帮助个人高效管理时间、提升学习和工作效率，更好地实现个人目标。</div>\n</li>\n</ul>"
+        "title": "Coze 的应用场景",
+        "html": "<p>官方文档列举的适用人群从第一次使用 Agent 的新手一直延伸到复杂业务工作者，落到具体场景大致有这些：</p><ul><li>办公场景：把资料整理、文件处理与报告撰写交给 Coze 里的 Agent 团队接力完成；</li><li>编程场景：用 Coze 的项目级协作推进网页、App 或小程序的开发与调试；</li><li>视频与内容创作：剧本、分镜、视频与音乐可以在同一个项目里并行推进；</li><li>行业研究：加载法律、金融、医疗等技能包后，让 Agent 处理垂直领域问题；</li><li>个人效率：手机与电脑跨端接力，随时查看项目状态并继续调度。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "ai-bot",
@@ -1338,8 +1330,25 @@
     "subcategory": "ai-writing-paper",
     "logo": "/logos/tool7358.png",
     "domain": "qianbixiezuo.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "千笔AI论文 是什么",
+        "html": "<p>千笔AI论文 在本站指向的官网是「千笔写作」，官方把它定义为 AI 长文写作与降 AI、降重平台。它的宣传口径是 10 分钟产出 3 万字级别的内容，并提供真实网络数据以及图、表、公式、代码等元素。除正文生成外，千笔AI论文 还覆盖降 AI 率与降重需求，官方承诺 AI 率、重复率不达标可以退费。它更适合需要一次写成长文的场景，而非零散段落润色。</p>"
+      },
+      {
+        "title": "千笔AI论文 的主要功能",
+        "html": "<p>千笔AI论文 的能力集中在长文生产与合规处理两块，官网列出的项目如下：</p><ul><li>长文生成：面向 3 万字量级的长篇内容一次成稿；</li><li>大纲支持：提供不限次数的 2000 字三级大纲生成；</li><li>素材引用：生成内容中可包含真实网络数据，以及图、表、公式与代码；</li><li>配套文档：附带 PPT、开题报告与任务书等衍生材料；</li><li>参考文献：提供 40 篇真实参考文献；</li><li>多语言：官网把 AI 写作、AI 写作平台等关键词作为主要方向，支持毕业长文场景；</li><li>降 AI 与降重：站内提供针对 AI 率与重复率的处理能力；</li><li>退费承诺：官方写明 AI 率、重复率不达标可退费。</li></ul>"
+      },
+      {
+        "title": "如何使用千笔AI论文",
+        "html": "<p>官网没有展开逐步教程，从功能说明可以还原出大致流程：</p><ol><li>进入千笔AI论文 官网并登录；</li><li>填写长文的主题与要求，先让平台生成三级大纲；</li><li>对大纲不满意可以重新生成，确认为止；</li><li>按大纲提交全文生成，等待平台产出正文与配套图表、公式；</li><li>拿到初稿后检查 AI 率与重复率，必要时使用站内的降重降 AI 功能；</li><li>连同开题报告、任务书、PPT 与参考文献一起导出使用。</li></ol>"
+      },
+      {
+        "title": "千笔AI论文 的应用场景",
+        "html": "<p>千笔AI论文 的定位偏「一次性成篇」，比较典型的用法包括：</p><ul><li>学位论文：从大纲到正文一次性生成，再在此基础上修改；</li><li>课题与项目材料：用于撰写任务书、开题报告等成体系的文档；</li><li>长文内容创作：需要连续数万字的报告或稿件时用来打底；</li><li>合规自查：写完先降 AI 率与重复率，降低后续返工；</li><li>教学辅助：教师用它生成示例文本，再按自己的要求改写。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "tool14679",
@@ -1359,8 +1368,25 @@
     "subcategory": "ai-writing-paper",
     "logo": "/logos/tool14679.png",
     "domain": "66paper.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "66AI论文 是什么",
+        "html": "<p>66AI论文 是 66论文网站上的 AI 论文写作工具，官方把自己描述为「高质量 AI 论文写作网站」，主打免费论文大纲，并支持在线生成毕业论文、开题报告、期刊论文、职称论文、结课论文等类型。页面标注当前版本为 66论文 AI 写作 5.0，使用 DeepSeek 学术加强版模型。它把「选题—大纲—正文」串成一条流程，同时也提供降 AIGC 率与降查重率的附加服务。</p>"
+      },
+      {
+        "title": "66AI论文 的主要功能",
+        "html": "<p>66AI论文 把可写类型与生成选项都摊开列了出来，实际包含：</p><ul><li>文档类型：覆盖毕业论文、课程论文、期刊论文、职称论文、课题论文、开题报告、文献综述、论文任务书、中期报告、调查报告、教学设计、实习报告、答辩稿、专著与教材等；</li><li>字数与学历档位：学历可选专科到博士、MBA，字数从 3000 到 10 万以上；</li><li>大纲设置：支持二级、三级大纲，也允许手动录入或自行调整大纲；</li><li>资料投喂：可上传 doc、docx、pdf、txt、md 等文档让模型先学习，单次最多 10 个文件；</li><li>多语言：正文支持中文、英语、日语、韩语、俄语、泰语；</li><li>附带产出：除正文外还提供文献综述、中英摘要与致谢模板；</li><li>查重与降重：站内提供知网、维普口径的查 AIGC 与查重说明，并配套降 AIGC 率、降查重率服务；</li><li>选题与资讯：导航中另有论文选题入口与 AI 资讯板块。</li></ul>"
+      },
+      {
+        "title": "如何使用 66AI论文",
+        "html": "<p>页面上的生成入口把参数集中在一个表单里，按顺序填完即可：</p><ol><li>先把 66AI论文 的写作类型选好，例如毕业论文或开题报告；</li><li>设置学历、目标字数、大纲层级与语言；</li><li>需要贴合特定资料时，用「投喂AI」上传参考文献或粘贴文本；</li><li>点生成大纲，确认后再进入全文生成；</li><li>在写作记录里查看进度，官方提示若长时间停在 99% 可刷新页面重新进入；</li><li>拿到初稿后按需使用站内的降 AIGC 与降重功能，再自行修改完善。</li></ol>"
+      },
+      {
+        "title": "66AI论文 的应用场景",
+        "html": "<p>66AI论文 面向的是有写作任务时间压力的学生与教师群体，常见用法有：</p><ul><li>毕业季写作：先用它产出大纲与初稿，再逐章补充自己的研究内容；</li><li>开题与中期材料：生成开题报告、任务书、中期报告一类规范性文档；</li><li>课程与教学设计：快速搭出教学设计、实习报告的框架；</li><li>多语种写作：需要外语摘要或正文时切换语言重跑；</li><li>查重前的自查：配合降重与降 AIGC 功能降低后续修改成本。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "tool60799",
@@ -4444,19 +4470,23 @@
     "domain": "civitai.com",
     "detailed_content": [
       {
-        "title": "Civitai是什么？",
-        "html": "<p>Civitai是一个专注于<a href=\"https://ai-bot.cn/best-ai-painting-tools/\" target=\"_blank\" rel=\"noopener\">AI图像绘画</a>和艺术作品创作和分享的在线平台和社区，用户可以上传和共享他们使用自己的数据训练的自定义模型（主要基于Stable Diffusion），也可以浏览、下载和评论其他用户创建的模型，然后利用这些模型与AI图片生成软件一起使用创建独特的艺术品。该网站为艺术家、设计师和人工智能爱好者提供了一个探索、展示和协作人工智能生成的图像作品的空间。凭借其多样化的功能和不断增长的社区，Civitai 已成为那些对人工智能和创意艺术感兴趣的人的重要平台，每月超过1000多万用户访问和使用。</p>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-6298\" src=\"https://ai-bot.cn/wp-content/uploads/2023/12/civitai-ai-image-community.jpeg\"   alt=\"Cvitai官网\" width=\"800\" height=\"450\" />"
+        "title": "Civitai 是什么",
+        "html": "<p>Civitai 是一个围绕生成式图像创作搭建的社区型平台，官网首页把自己的定位写成「发现并创作 AI 艺术」。它同时承担两件事：一边是模型仓库，另一边是作品社区。官方描述中提到，站内可以浏览数千个免费的 Stable Diffusion 与 Flux 模型，也可以用这些模型生成图片并把成果分享出去。对使用者来说，Civitai 更像一个「模型 + 作品 + 创作者」三者缠绕在一起的地方，而不是单一功能的在线工具。</p>"
       },
       {
-        "title": "Civitai的功能/特色",
-        "html": "<ol class=\"text-md\">\n<li><strong>海量SD Lora模型</strong>：Civitai 平台上拥有数千个独特且高质量的 Stable Diffusion 模型可供选择和下载，并且提供不同平台的直接运行地址</li>\n<li><strong>丰富多样的图像风格</strong>：该平台拥有庞大的用户生成的人工智能图像，如风景、插画、摄影、3D、建筑、科幻等各种各样的风格</li>\n<li><strong>活跃的用户社区</strong>：Civitai 提供了一个充满活力的社区，每月超过1000多万名艺术家和 AI 爱好者在这里交流、协作和分享他们的创作</li>\n<li><strong>强大的内容搜索引擎</strong>：Civitai 集成了强大的搜索引擎，使用户能够找到特定的 AI 模型或生成的艺术作品，从而节省时间并帮助发现相关内容</li>\n</ol>"
+        "title": "Civitai 的主要功能",
+        "html": "<p>Civitai 把站内入口按内容类型切得很细，官网导航里能看到下面这些板块：</p><ul><li>模型库：Featured Models 等榜单用于浏览与下载模型文件；</li><li>图片与视频：Featured Images 汇总社区作品，用户也可以发布自己的生成结果；</li><li>3D 模型与 Hub：除图片视频外还单独设有 3D 模型分区与主题 Hub；</li><li>内容板块：articles、comics、challenges 分别承载文章、漫画与创作挑战；</li><li>创作者榜单：Top Creators、New &amp; Upcoming Creators 用来发现新老创作者；</li><li>Buzz 积分：站内用 Buzz 计量生成与互动消耗，另有 Buzz Beggars Board 让用户互相赠予；</li><li>商店与拍卖：shop 提供周边入口，auctions 用于模型相关拍卖；</li><li>面向开发者的 API 与站点状态、Known Issues 页面。</li></ul>"
       },
       {
-        "title": "常见问题",
-        "html": "<div id=\"accordion\" style=\"max-width: 700px;\">\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Civitai有什么含义？</strong></div>\n<div class=\"card-body text-sm\">Civitai一词中的Civit来自拉丁语“Civitas”，意思是社区。后缀加上AI，便意为人工智能社区。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Civitai是免费的吗？</strong></div>\n<div class=\"card-body text-sm\">Civitai目前是完全免费向用户开放的，你可以自由浏览和下载该平台上的模型和图像。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Civitai社区内容如何审核？</strong></div>\n<div class=\"card-body text-sm\">Civitai提供自动内容标签、社区审核和手动审核，并且用户可自行过滤或隐藏敏感内容。</div>\n</div>\n</div>"
+        "title": "如何使用 Civitai",
+        "html": "<p>在 Civitai 上完成一次创作，通常按下面的顺序走：</p><ol><li>注册并登录 Civitai 账号；</li><li>进入模型分区，按榜单或关键词挑一个想用的模型，确认它的说明与许可后下载或直接在线使用；</li><li>打开生成入口，把提示词、模型与相关参数填好；</li><li>提交生成任务，过程中会消耗 Buzz 积分，效果不满意就调整提示词再试；</li><li>把满意的作品发布到社区，或带着它参加站内的创作挑战。</li></ol>"
+      },
+      {
+        "title": "Civitai 的应用场景",
+        "html": "<p>从官网呈现的内容结构看，Civitai 覆盖的人群相当分散，常见的用法可以归成几类：</p><ul><li>创作者想找特定画风的模型时，把它当作模型检索与对比的入口；</li><li>需要持续产出图像素材的人，用 Civitai 的在线生成与作品区管理产出；</li><li>做风格研究或灵感收集时，翻 Featured Images 与各类榜单；</li><li>技术方向的使用者通过 API 把生成能力接进自己的流程；</li><li>希望被更多人看到的画师，用创作者榜单和挑战机制积累关注。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "runninghub-cn",
@@ -5013,27 +5043,23 @@
     "domain": "kira.art",
     "detailed_content": [
       {
-        "title": "Kira是什么",
-        "html": "<p>Kira 是 <a href=\"https://ai-bot.cn/best-ai-image-generators/\" target=\"_blank\" rel=\"noopener\">AI 图像生成</a>与编辑工具，Kira具备多种功能，包括替换背景、<a href=\"https://ai-bot.cn/ai-image-background-removers/\" target=\"_blank\" rel=\"noopener\">移除背景</a>、图像修补、画质增强、风格转换和 AI 图片生成等。Kira 基于智能技术帮助用户高效处理图片，满足设计师、摄影师和创意工作者的需求，提升创作效率和效果。基于专业的开发团队背景和技术优势，在图像处理领域具有独特竞争力，为用户提供便捷、高效的创意解决方案。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-56505\" src=\"https://ai-bot.cn/wp-content/uploads/2025/07/kira-website1.png\"   alt=\"kira\" width=\"739\" height=\"416\" />"
+        "title": "Kira 是什么",
+        "html": "<p>Kira 是一款在浏览器中使用的 AI 图片与视频创作应用，官网首页的标语只有一句「Make joy worth sharing」，产品气质偏轻量与分享。站点顶部的导航依次是 Home、Editor、Discover 与 Share，说明它把「编辑创作」「发现他人作品」「分享结果」三件事放在同一条路径上。官网同时标注了当前版本号 Kira Lite 5.8，并设有 Kira Creator 共创计划。</p>"
       },
       {
-        "title": "Kira的主要功能",
-        "html": "<ul>\n<li><strong>替换背景</strong>：将图片中的背景替换为其他图像或颜色，适用于产品展示、创意设计等场景。。</li>\n<li><strong>移除背景</strong>：一键移除图片背景，提取主体，方便用户进行后续编辑或合成。</li>\n<li><strong>修补（Inpaint）</strong>：智能填补或修复图片中的缺失部分，去除不需要的元素。</li>\n<li><strong>画质增强（Upscale）</strong>：提升低分辨率图片的清晰度。</li>\n<li><strong>图像扩展（Expand）</strong>：智能扩展图片边界，根据图片内容生成额外的图像区域。</li>\n<li><strong>风格化（Stylize）</strong>：将图片转换为不同的艺术风格，满足创意设计需求。</li>\n<li><strong>重做</strong>：使用智能视觉转换重新构建和重新定义图像内容。</li>\n<li><strong>橡皮擦</strong>：擦除图片中的特定部分。</li>\n<li><strong>画廊</strong>：展示用户创作的社区空间，用户在这里浏览其他用户生成的图片作品，获取灵感或分享自己的创意成果。</li>\n<li><strong>AI 生成图片</strong>：用文字描述或参考图片，基于 AI 模型生成全新的图片。</li>\n</ul>"
+        "title": "Kira 的主要功能",
+        "html": "<p>从 Kira 首页展示的模块看，它的能力集中在模板化创作与社区分发两侧：</p><ul><li>Editor 编辑器：主要的创作入口，图片与视频都在这里生成；</li><li>模板库：首页列出的 Featured 模板覆盖图片与视频两类，图片模板以风格命名，例如海滩、复古相机、派对等场景；</li><li>视频玩法：有 Motion Control 这类视频模板，用于生成舞蹈一类的动态效果；</li><li>Discover：浏览站内其他用户发布的成品；</li><li>Share：把创作结果直接分享出去；</li><li>Kira Creator 与 Co-creation：官方的创作者与共创项目，配合 Community、Trends 两个板块使用；</li><li>Project：把多次创作归到项目下统一查看。</li></ul>"
       },
       {
-        "title": "如何使用Kira",
-        "html": "<ul>\n<li><strong>访问官网</strong>：访问Kira官网 https://kira.art/ ，完成注册和登录。</li>\n<li><strong>选择功能</strong>：根据需求选择相应的功能模块，例如“替换背景”“移除背景”“画质增强”“生成图片”等。</li>\n<li><strong>上传图片</strong>：在功能页面中，点击“上传图片”按钮，选择想要处理的图片。支持的图片格式通常包括 JPG、PNG 等常见格式。</li>\n<li><strong>替换背景</strong>：选择一张新的背景图片，或者选择预设的背景颜色，Kira 自动识别并替换原图背景。</li>\n<li><strong>移除背景</strong>：点击“移除背景”按钮，Kira 自动识别并移除背景，提取主体部分。</li>\n<li><strong>画质增强</strong>：选择增强级别，Kira 自动提升图片的清晰度和画质。</li>\n<li><strong>修补（Inpaint）</strong>：标记需要修复的区域，Kira 自动填充并修复瑕疵。</li>\n<li><strong>扩展（Expand）</strong>：选择扩展方向和范围，Kira 生成新的图像区域。</li>\n<li><strong>风格化（Stylize）</strong>：选择一种艺术风格（如油画、水彩等），Kira 将图片转换为相应风格。</li>\n<li><strong>AI 生成</strong>：输入文字描述，Kira 根据描述生成全新的图片。</li>\n<li><strong>调整与预览</strong>：根据需要调整参数（如增强程度、风格强度等）。预览处理后的图片，确保效果符合预期。</li>\n<li><strong>保存或下载</strong>：点击“保存”或“下载”按钮，将处理后的图片保存到本地或云端。</li>\n</ul>"
+        "title": "如何使用 Kira",
+        "html": "<p>Kira 的操作门槛不高，按官网入口走一遍就能出片：</p><ol><li>打开 Kira 并登录，进入 Home 查看站点推荐的模板；</li><li>在 Featured 里挑一个想试的图片或视频模板；</li><li>进入 Editor，按模板要求上传自己的照片或素材；</li><li>生成后检查结果，不满意就换模板或修改输入重试；</li><li>满意的成品可以直接 Share 分享，也可以存进 Project 留档；</li><li>想找灵感时去 Discover 和 Trends 看当前流行什么。</li></ol>"
       },
       {
-        "title": "Kira的产品定价",
-        "html": "<ul>\n<li><strong>基础套餐</strong>：$9.99/月，包含1000积分</li>\n<li><strong>专业套餐</strong>：$19.99/月，包含2000积分，使用更多高级功能</li>\n<li><strong>最大套餐</strong>：$59.99/月，包含6000积分，使用更多高级功能</li>\n</ul>"
-      },
-      {
-        "title": "Kira的应用场景",
-        "html": "<ul>\n<li><strong>电商运营</strong>：电商卖家快速移除或替换产品图片背景，一键生成符合电商平台要求的专业展示图，提升产品吸引力和店铺形象。</li>\n<li><strong>证件照制作</strong>：用户将普通照片轻松转换为符合要求的蓝底、白底或红底证件照，无需重新拍摄。</li>\n<li><strong>创意设计</strong>：设计师将图片转换为不同艺术风格，快速生成创意素材，激发更多设计灵感。</li>\n<li><strong>老照片修复</strong>：用户修复老照片的划痕和污渍，提升清晰度，让珍贵回忆焕然一新。</li>\n<li><strong>社交媒体创作</strong>：创作者快速生成创意图片内容，丰富社交媒体发布素材，吸引更多关注。</li>\n</ul>"
+        "title": "Kira 的应用场景",
+        "html": "<p>Kira 的模板设计偏向社交平台传播，常见使用场景包括：</p><ul><li>社交头像与个人形象：用 Kira 的图片模板做风格化自拍；</li><li>短视频素材：用视频模板生成适合公开发布的动态片段；</li><li>追热点：通过 Trends 跟上当前流行的视觉效果；</li><li>批量出图：围绕同一个主题用多个模板各出一版再挑；</li><li>创作者运营：加入 Kira Creator，把制作过程与作品沉淀到社区。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "photoroom-com",
@@ -8194,8 +8220,25 @@
     "subcategory": "ai-image-upscale",
     "logo": "/logos/tool217.png",
     "domain": "icons8.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Icons8 Smart Upscaler 是什么",
+        "html": "<p>Icons8 Smart Upscaler 是设计素材站 Icons8 推出的在线图片放大工具，官网对它的说明是把图片和照片用 AI 在线放大，画质与分辨率最高可提升 8 倍，并且支持批量处理。它除了网页版，还提供 Mac 应用，以及面向开发者的放大 API。作为 Icons8 工具矩阵里的一员，Smart Upscaler 更偏向「处理已有素材」而不是生成新内容。</p>"
+      },
+      {
+        "title": "Icons8 Smart Upscaler 的主要功能",
+        "html": "<p>官网把 Icons8 Smart Upscaler 的能力分成网页、桌面与接口三条来介绍：</p><ul><li>在线放大：上传图片后自动提升分辨率，官方强调「不损失质量」；</li><li>批量处理：可以一次提交多张图片，适合成组素材；</li><li>Mac 应用：桌面端除放大外，还顺带提供去除背景；</li><li>放大 API：把缩放能力接入自有系统，供程序化调用；</li><li>常见疑问：页面 FAQ 中回答了适用图片类型与使用限制；</li><li>效果取向：官方说明放大后画面保持平滑，不会出现明显锯齿；</li><li>工具联动：同站的去背景、换脸等图片工具可以配合使用，共用一套账号。</li></ul>"
+      },
+      {
+        "title": "如何使用 Icons8 Smart Upscaler",
+        "html": "<p>用网页版处理一张图，步骤大致是：</p><ol><li>打开 Icons8 Smart Upscaler 页面，登录 Icons8 账号；</li><li>把要放大的图片拖入上传区，或从 My images 里选择历史文件；</li><li>等待处理完成，对比放大前后的效果；</li><li>需要成批处理时一次选中多张，让 Icons8 Smart Upscaler 连续跑完；</li><li>下载结果，或改用 Mac 应用与 API 完成后续流程。</li></ol>"
+      },
+      {
+        "title": "Icons8 Smart Upscaler 的应用场景",
+        "html": "<p>放大类工具的需求通常来自素材尺寸不够，Icons8 Smart Upscaler 常见的使用场合是：</p><ul><li>设计稿放大：把小尺寸素材提到可用的分辨率再放进版式；</li><li>老图修复后的二次处理：先清晰化再放大输出；</li><li>电商与展示图：为商品图准备更大尺寸的版本；</li><li>批量素材整理：一次处理一组图片，减少逐张操作；</li><li>产品内集成：通过 API 把放大能力做进自己的应用。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "tool220",
@@ -8485,8 +8528,25 @@
     "subcategory": "ai-image-upscale",
     "logo": "/logos/tool211.png",
     "domain": "photoaid.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "PhotoAid Image Upscaler 是什么",
+        "html": "<p>PhotoAid Image Upscaler，由证件照服务 PhotoAiD 免费开放，页面上标注的名字是 Free Online AI Image Enlarger。它的定位很务实：把图片尺寸放大一倍而不损失质量，例如 1000×1000 像素的图会变成 2000×2000 像素。官方提到这套算法在处理带人脸的图片时效果最好，其他类型的图片同样适用。全部处理都在网页端完成，无需下载客户端。</p>"
+      },
+      {
+        "title": "PhotoAid Image Upscaler 的主要功能",
+        "html": "<p>PhotoAid Image Upscaler 支持以下几项，页面上都写得很明确：</p><ul><li>AI 放大：上传图片后自动把尺寸放大一倍，避免普通插值带来的模糊与马赛克；</li><li>放大倍率：界面提供 1x 与 2x 两档查看；</li><li>上传限制：单张图片最大 30MB，最大支持 10000×10000 像素；</li><li>支持格式：JPEG、WEBP 与 PNG；</li><li>人像优先：官方说明该算法对含人脸的图片效果最佳；</li><li>免费使用：页面解释了这款工具免费开放的原因，即原本是内部处理证件照时用到的工具；</li><li>不作注册：打开页面即可直接使用，不需要先建账号。</li></ul>"
+      },
+      {
+        "title": "如何使用 PhotoAid Image Upscaler",
+        "html": "<p>PhotoAid Image Upscaler 不需要注册，流程只有几步：</p><ol><li>打开页面，直接进入上传界面；</li><li>点击上传，选择一张符合大小与格式要求的图片；</li><li>用 1x 与 2x 切换查看放大前后的差异；</li><li>确认效果后保存图片到本地；</li><li>如果还需要护照照、签证照这类证件照，转到 PhotoAiD 主站继续处理。</li></ol>"
+      },
+      {
+        "title": "PhotoAid Image Upscaler 的应用场景",
+        "html": "<p>由于规则简单、不收费，PhotoAid Image Upscaler 常被用在这些场合：</p><ul><li>证件类材料：把自拍或证件照底图放大到要求的尺寸；</li><li>打印前准备：照片原图偏小，先放大再送去冲印；</li><li>人像素材修复：借助它对脸部细节的优化，把旧照片放大使用；</li><li>网页配图：为网页准备一张分辨率更充裕的配图；</li><li>临时救急：不想安装软件时，直接用浏览器完成放大。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "tool223",
@@ -8898,8 +8958,25 @@
     "subcategory": "ai-image-illustration",
     "logo": "/logos/tool307.png",
     "domain": "cutout.pro",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Cutout.Pro Retouch 是什么",
+        "html": "<p>Cutout.Pro Retouch 是 Cutout.Pro 图像工具矩阵中负责「在线修图」的一项，官方页面的标题写得很直白：免费自动在线照片润饰、删除不需要的对象、擦除人物、恢复图像。它的思路是用 AI 自动完成原本需要手工涂抹的修复工作，用户把图片拖进页面就能得到处理结果，页面上还给出了示例图供直接试效果。这个入口与该站其他图像修复功能并列，属于修复类功能中的一个细分。</p>"
+      },
+      {
+        "title": "Cutout.Pro Retouch 的主要功能",
+        "html": "<p>按照官方页面的文字说明，Cutout.Pro Retouch 承担的工作包括：</p><ul><li>对象移除：自动去掉照片里不需要的对象、文字与符号；</li><li>人物擦除：把画面中多余的人物抹去；</li><li>人像修饰：通过润饰消除皱纹、雀斑、皮肤粉刺与发红；</li><li>图像恢复：对存在瑕疵的画面做修复与还原；</li><li>快速输入：支持上传图片、拖放文件，以及用 Ctrl+V 粘贴图片或链接；</li><li>示例体验：页面内置样例图片，不准备素材也能先看效果；</li><li>配套功能：同站点还提供擦除与替换、照片清晰化等相邻能力。</li></ul>"
+      },
+      {
+        "title": "如何使用 Cutout.Pro Retouch",
+        "html": "<p>Cutout.Pro Retouch 不需要安装客户端，按页面提示操作即可：</p><ol><li>打开 Cutout.Pro 的在线修图页面；</li><li>把想处理的图片拖入或上传，也可以直接粘贴图片链接；</li><li>等模型自动识别并处理，需要时用画笔标出要移除的区域；</li><li>对照处理前后效果，不满意就重新上传再试；</li><li>确认后下载图片；如果需要更复杂的擦除与替换，转到官网标注为「新推出」的相邻功能继续处理。</li></ol>"
+      },
+      {
+        "title": "Cutout.Pro Retouch 的应用场景",
+        "html": "<p>因为 Cutout.Pro Retouch 的功能围绕「去掉画面里不想要的东西」，它在这些场合出现得比较多：</p><ul><li>人像修图：把路人或杂物从照片中清掉，再用于分享或打印；</li><li>商品图整理：去掉背景里多余的物件与文字标注；</li><li>老照片修缮：配合恢复类功能处理斑驳与破损；</li><li>素材清理：把带水印文字或标注的图片整理干净；</li><li>证件照前期处理：先修掉瑕疵，再交给证件照工具排版。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "beecut-cn",
@@ -9259,23 +9336,23 @@
     "domain": "yunxiu.meitu.com",
     "detailed_content": [
       {
-        "title": "美图云修是什么",
-        "html": "<p>美图云修是美图公司推出的专业级AI人像精修软件，专为商业摄影行业设计。软件用美图自研的先进AI算法，提供一键式全自动修图功能，支持RAW格式转换、批量处理、智能精修和丰富预设，能快速实现人像美化、背景替换和风格化处理。美图云修具备强大的色彩控制和图像分割能力，能在1小时内处理1000张照片，大幅提升修图效率。美图云修技术优势和用户友好的界面，成为商业摄影师和修图师的理想选择。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-60319\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/yunxiu.meitu-website1.png\"   alt=\"美图云修\" width=\"740\" height=\"416\" />"
+        "title": "美图云修 是什么",
+        "html": "<p>美图云修是美图公司面向人像批量修图推出的工具，官网说明它背靠美图影像研究院，掌握人像修图的核心 AI 算法，主打一键全自动修图。它的工作对象是摄影师与影像工作室的成批照片：先做 RAW 转档，再走批量精修流程。除了网页端与客户端，美图云修还提供 API 服务，方便把修图能力接进已有系统。</p>"
       },
       {
-        "title": "美图云修的主要功能",
-        "html": "<ul>\n<li><strong>RAW转档</strong>：轻松将RAW格式照片转换为其他格式，保留丰富细节。</li>\n<li><strong>批量处理</strong>：一键精修多张照片，快速批量出片，大幅提升修图效率。</li>\n<li><strong>智能精修</strong>：基于AI算法，实现一键美颜、祛皱、祛双下巴、牙齿美化等复杂效果。</li>\n<li><strong>丰富预设</strong>：提供多种风格预设，如婚纱、儿童、亲子、证件照等，满足不同场景需求。</li>\n<li><strong>多人协作</strong>：支持企业共享账号，子账号管理，数据看板实时监控使用情况。</li>\n<li><strong>背景处理</strong>：快速清理或替换背景，适用复杂场景。</li>\n<li><strong>全身美型</strong>：智能化调整人物全身比例，支持多人复杂场景。</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-60323\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/yunxiu.meitu-website3.png\"   alt=\"美图云修\" width=\"740\" height=\"416\" />"
+        "title": "美图云修 的主要功能",
+        "html": "<p>官网把美图云修 的功能分成转档、批量、精修、预设与协作几条：</p><ul><li>RAW 转档：把相机原始格式转成可用文件，官方强调细节保留；</li><li>批量处理：一次导入整组照片，一键精修批量出片；</li><li>AI 美颜：基于算法一键完成较为复杂的美颜效果；</li><li>AI 修复：把模糊的面容清晰还原；</li><li>形体调整：自然祛除双下巴，并支持智能化全身美型，可处理多人场景；</li><li>面部细节：牙齿美化基于人脸点定位牙齿区域再做生成修复，AI 祛皱则针对面部与颈部；</li><li>丰富预设：按婚纱、儿童、亲子、孕妇、全家福、闺蜜、证件照等场景准备预设；</li><li>多人协作：支持企业共享账号，主账号套餐可由子账号共用，管理者能设置子账号额度与 IP 并查看张数使用数据看板；</li><li>接口与帮助：提供 API 服务，官网另有快速上手、操作教程、常见问题与更新日志。</li></ul>"
       },
       {
-        "title": "如何使用美图云修",
-        "html": "<ul>\n<li><strong>下载与安装</strong>：访问美图云修官网 https://yunxiu.meitu.com。点击“Download”下载软件。安装完成后，打开软件。</li>\n<li><strong>注册与登录</strong>：按提示完成账号注册和登录。</li>\n<li><strong>导入照片</strong>：登录后，进入主界面，点击“导入照片”或“添加照片”按钮。选择需要修图的照片，支持批量导入。</li>\n<li><strong>使用预设</strong>：在预设库中选择适合的风格（如婚纱、儿童、证件照等），点击应用。</li>\n<li><strong>手动调整</strong>：如果需要更精细的调整，用以下功能：\n<ul>\n<li><strong>RAW转档</strong>：将RAW格式照片转换为其他格式。</li>\n<li><strong>智能精修</strong>：点击“智能精修”按钮，一键应用AI算法进行美颜、祛皱、祛双下巴等。</li>\n<li><strong>背景处理</strong>：选择“背景处理”功能，快速清理或替换背景。</li>\n<li><strong>全身美型</strong>：使用“全身美型”功能，调整人物比例。</li>\n<li><strong>其他功能</strong>：根据需要使用牙齿美化、AI修复等其他功能。</li>\n</ul>\n</li>\n<li><strong>批量处理</strong>：选择需要处理的照片，设置好预设或调整参数后，点击“开始处理”。</li>\n<li><strong>导出照片</strong>：修图完成后，点击“导出”或“保存”按钮。选择保存路径和格式，点击“保存”。</li>\n<li><strong>查看效果</strong>：导出的照片会保存到指定路径，能在文件夹中查看修图效果。</li>\n</ul>"
+        "title": "如何使用 美图云修",
+        "html": "<p>官网提供客户端下载与在线入口，常规使用流程是：</p><ol><li>登录美图云修 账号并下载客户端，或直接使用网页版；</li><li>把相机拍好的 RAW 文件导入，先完成转档；</li><li>按拍摄场景选择对应预设，例如婚纱、儿童或证件照；</li><li>让 AI 批量跑一遍精修，输出后逐张检查并微调不满意的部分；</li><li>需要团队协作时，用企业共享账号把子账号分配给修图师，并在数据看板查看用量；</li><li>如果要把修图环节嵌进自己的系统，改用官方 API 服务对接。</li></ol>"
       },
       {
-        "title": "美图云修的应用场景",
-        "html": "<ul>\n<li><strong>婚纱摄影</strong>：提供专业的婚纱风格预设，一键实现梦幻、浪漫的婚纱照效果，让新人的照片更加完美。</li>\n<li><strong>儿童摄影</strong>：支持儿童皮肤的自然美化和细节保留，确保修图后的照片清晰自然，保留童真。</li>\n<li><strong>证件照制作</strong>：快速调整肤色、去除瑕疵，确保证件照符合标准，同时提升照片的美观度。</li>\n<li><strong>商业广告拍摄</strong>：用AI算法进行精准的背景替换和色彩调整，满足商业广告对图片的高要求。</li>\n<li><strong>家庭合影</strong>：支持多人场景的全身美型和背景优化，让全家福照片更加和谐、美观。</li>\n</ul>"
+        "title": "美图云修 的应用场景",
+        "html": "<p>美图云修的预设与协作设计都指向规模化出片的团队，典型场景包括：</p><ul><li>婚纱与写真工作室：整场拍摄的照片批量转档并统一风格；</li><li>儿童与亲子摄影：用对应预设快速处理面部与身形细节；</li><li>证件照与形象照：对细节要求高的小批量照片做精细调整；</li><li>大型影楼多人在岗：通过子账号把工作分给不同修图师，管理者掌握整体用量；</li><li>系统集成：影楼管理系统或交付平台通过 API 调用修图能力。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "remini-ai",
@@ -9603,8 +9680,25 @@
     "subcategory": "ai-image-enhance",
     "logo": "/logos/tool308.png",
     "domain": "cutout.pro",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Cutout.Pro老照片上色 是什么",
+        "html": "<p>Cutout.Pro老照片上色 对应官网上的「在线为黑白照片着色」页面，官方把它称作智能照片着色器。它的用途是为黑白图像、褪色的照片或旧的家庭照片补上颜色，让这些素材重新变得可看。官网说明该着色算法是在数百万张黑白照片上训练出来的，目标是为老照片添加自然逼真的色彩，而不是简单叠一层色。它与同站的照片变清晰、老照片修复等功能经常搭配使用。</p>"
+      },
+      {
+        "title": "Cutout.Pro老照片上色 的主要功能",
+        "html": "<p>Cutout.Pro老照片上色 的功能相对聚焦，官方列出的内容包括：</p><ul><li>自动着色：上传黑白照片后由算法自动判断并填充颜色；</li><li>适用对象：明确面向黑色图像、褪色照片与旧家庭照片；</li><li>效果取向：官方强调输出接近真实色彩，而非滤镜式的染色；</li><li>免费使用：页面把它标注为免费的着色应用程序；</li><li>示例参考：站点提供示例图，可以先看效果再决定是否上传自己的素材；</li><li>训练基础：着色算法在数百万张黑白照片上训练得到；</li><li>功能联动：上色之后可以接着做照片清晰化或老照片修复。</li></ul>"
+      },
+      {
+        "title": "如何使用 Cutout.Pro老照片上色",
+        "html": "<p>Cutout.Pro老照片上色 的操作流程与站点内其他图像工具一致：</p><ol><li>进入 Cutout.Pro 的着色页面；</li><li>上传需要上色的黑白照片，或直接拖放到指定区域；</li><li>等待系统处理完成，查看上色前后的对比；</li><li>如果颜色不符合预期，换一张更清晰的原图再试；</li><li>下载着色后的图片；若原图本身模糊，先做清晰化再上色效果更好。</li></ol>"
+      },
+      {
+        "title": "Cutout.Pro老照片上色 的应用场景",
+        "html": "<p>需要给旧影像补色的场合，都可以用上 Cutout.Pro老照片上色：</p><ul><li>家庭影像整理：把长辈留下的黑白照片翻新成彩色版本；</li><li>史料与人物照：为历史人物、祖先照片补充色彩用于展示；</li><li>纪念内容制作：在追思、纪念类材料里使用上色后的照片；</li><li>内容配图：为讲述旧事的文章、视频准备彩色素材；</li><li>修复流程中的一环：先清晰化再着色，得到更自然的成品；</li><li>批量翻新：一次整理多张老照片，统一做成彩色版本留档。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "tool104",
@@ -10476,27 +10570,23 @@
     "domain": "tapnow.ai",
     "detailed_content": [
       {
-        "title": "TapNow是什么",
-        "html": "<p>TapNow 是专业的 <a href=\"https://ai-bot.cn/ai-video-generation-tools/\" target=\"_blank\" rel=\"noopener\">AI 视觉内容创作平台</a>，能为创作者提供高效、自由的创作体验。TapNow通过灵活的画布和前沿的 AI 模型（如<a href=\"https://ai-bot.cn/hailuo-2-3/\" target=\"_blank\" rel=\"noopener\">Hailuo2.3</a>、<a href=\"https://ai-bot.cn/veo-3-1/\" target=\"_blank\" rel=\"noopener\">Veo 3.1</a>、<a href=\"https://ai-bot.cn/wan2-5/\" target=\"_blank\" rel=\"noopener\">Wan 2.5</a>等），支持从脚本撰写、分镜头设计到成片输出的全流程创作。TapNow 适用多种场景，包括电商产品图、社交媒体广告、电视广告（TVC）、动画、游戏素材、短片和音乐视频等，能实现高质量的自动化内容生产，同时满足复杂叙事需求。TapNow 帮助创作者快速将创意落地，通过全球首个开源社区 TapTV，促进知识共享和协作创作，推动创意灵感的汇聚与进步。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-65789\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/TapNow-website.png\"   alt=\"TapNow\" width=\"740\" height=\"416\" />"
+        "title": "TapNow 是什么",
+        "html": "<p>TapNow 的官网副标题是「Your Creative OS」，官方把它描述为面向企业与创作者的新一代 AI 视觉创作引擎。它的说法是：从电商广告到电影短片再到实验性艺术，TapNow 让任何人用 AI 做出专业级视觉成品。与只做单张图的工具不同，TapNow 强调的是把文本、图像、音频与视频模型编排到同一条创作流程里，官方另外运营着创作者社区 TapTV，用来分享过程与展示项目。</p>"
       },
       {
-        "title": "TapNow的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>全流程创作支持</strong>：从脚本撰写、分镜头设计到成片输出，TapNow 提供一站式解决方案，满足不同创作阶段的需求。</div>\n</li>\n</ul>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>灵活的创作画布</strong>：创作者能自由搭建和调整工作流，支持递进和并行创作，实现高效的内容生成。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI 视频生成</strong>：通过先进的 AI 模型，将文字描述、图片或分镜头脚本转化为高质量视频，支持多种风格和场景。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>分镜头解析</strong>：一键生成分镜头脚本，解析镜头节奏、构图和动作信息，帮助创作者快速学习和复刻优秀作品。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>涂鸦生图与视频</strong>：通过简单涂鸦结合文字描述，快速生成图片或视频，降低创意表达的门槛。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>姿势控制</strong>：利用火柴人模型精准控制人物动作，解决复杂姿态的生成难题。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">AI 图像增强</strong>：提供一键美肤和超清优化功能，提升图片和视频的画质。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">音频生成</strong>：支持音频节点，为视频创作提供音画结合的完整解决方案。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>开源社区（TapTV）</strong>：创作者能发布作品、浏览他人项目，通过共享画布学习和复用创作流程，促进协作与二创文化。</div>\n</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-66336\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/TapNow-website2.png\"   alt=\"TapNow\" width=\"740\" height=\"416\" />"
+        "title": "TapNow 的主要功能",
+        "html": "<p>从官网首页与关键词标签可以看到 TapNow 的功能定位，主要包含：</p><ul><li>多模型编排：在同一条流程中调度文本、图像、音频与视频模型；</li><li>节点式画布：界面上以节点和连线组织工作流，可通过键盘在节点之间移动与增删；</li><li>Agent 驱动创作：官方称 TapNow 是用 AI Agents 进行创作最顺手的方式；</li><li>面向不同成片类型：电商广告、营销视频、AI 短片与叙事内容都在其覆盖范围内；</li><li>桌面端：官网提供 Download 入口，可安装客户端使用；</li><li>社区 TapTV：创作者可以在这里分享制作过程、展示项目；</li><li>企业方案：官网另设企业方案入口，价格页与 Manifesto、Careers、Blog 等页面并列。</li></ul>"
       },
       {
-        "title": "如何使用TapNow",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">注册与登录</strong>：访问 TapNow 官网 https://tapnow.ai/ ，完成账号注册和登录，进入创作界面。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">创建新项目</strong>：点击“创建新项目”，选择项目类型（如广告、动画等），输入项目名称，开始创作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">选择工作流模板</strong>：在画布中选择预设的工作流模板，快速搭建创作流程，或从空白画布开始自定义。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>编写脚本或上传素材</strong>：在脚本节点输入创意内容，或上传图片、视频等素材作为创作参考。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>使用分镜头解析功能</strong>：上传参考视频，点击“分镜头解析”，一键生成详细的分镜头脚本，学习优秀作品的镜头语言。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>利用 AI 生成内容</strong>：通过涂鸦或文字描述，用“涂鸦生图”或“涂鸦生视频”功能，快速生成图片或视频片段。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">调整与优化</strong>：在画布上直接修改生成的内容，使用 AI 图像增强功能优化画质，调整细节。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>整合与输出</strong>：将生成的图片或视频片段整合到一起，形成完整的视频，导出最终作品。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">分享与学习</strong>：完成创作后，将项目发布到 TapTV 社区，与其他创作者分享，同时浏览社区学习他人经验。</div>\n</li>\n</ul>"
+        "title": "如何使用 TapNow",
+        "html": "<p>官网给出的入口很简单：打开站点或用「Get started for free」开始，随后按下面的顺序推进：</p><ol><li>注册 TapNow 账号，登录后进入创作画布；</li><li>在画布上新建节点，按创作需要分别接入文本、图像、音频或视频模型；</li><li>用连线把节点串成流程，用键盘在节点间移动、调整参数；</li><li>运行流程并查看中间结果，针对不满意的一段单独重跑；</li><li>成品确认后导出，若想交流做法可以发布到 TapTV 社区。</li></ol>"
       },
       {
-        "title": "TapNow的产品定价",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>免费版（按需付费）</strong>：首次赠送200 Tapies，每周赠送40 Tapies，充值每$1获得95 Tapies。支持1个并发生成，最多50个视频生成，最多约220张图像生成，探索TapTV。</li>\n<li class=\"paragraph\"><strong>标准版</strong>：每月1500 Tapies，充值每$1获得100 Tapies。支持4个并发生成，最多150个视频生成，最多约670张图像生成，脚本相关功能，最多1000个声音和音乐生成，访问TapTV效果模板，画布协同编辑，创建约5个高质量成片（30秒）。</li>\n<li class=\"paragraph\"><strong>专业版</strong>：每月6000 Tapies，充值每$1获得107 Tapies。支持8个并发生成，最多600个视频生成，最多约2700张图像生成，脚本相关功能，最多4000个声音和音乐生成，访问TapTV效果模板，画布协同编辑，创建约20个高质量成片（30秒）。</li>\n<li class=\"paragraph\"><strong>旗舰版</strong>：每月30000 Tapies，充值每$1获得115 Tapies。支持无限并发生成，最多3000个视频生成，最多约13500张图像生成，脚本相关功能，最多20000个声音和音乐生成，访问TapTV效果模板，画布协同编辑，创建约100个高质量成片（30秒）。</li>\n</ul>"
-      },
-      {
-        "title": "TapNow的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>电商营销</strong>：快速生成高质量的产品展示图、电商广告视频和批量素材，提升电商运营效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>广告制作</strong>：一站式生成电视广告（TVC）、社交媒体广告和品牌宣传视频，满足复杂叙事需求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>内容创作</strong>：制作动画短片、音乐视频（MV）和创意短片，探索新的叙事方式和视觉风格。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>影视制作</strong>：生成分镜头脚本、视觉特效和预告片，辅助影视前期制作并提升效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>游戏开发</strong>：生成游戏内角色、场景、动画素材及宣传视频，加速游戏开发流程。</div>\n</li>\n</ul>"
+        "title": "TapNow 的应用场景",
+        "html": "<p>官网把使用对象写成「企业与创作者」两类，具体落到场景上大致是：</p><ul><li>电商与营销：为商品制作广告素材与营销短片；</li><li>短片与叙事内容：搭建从脚本到画面的成片流程；</li><li>实验性创作：用 TapNow 的节点编排尝试非常规的视觉表达；</li><li>团队协作：官网提到它有被创意团队使用的定位，适合把流程固化下来复用；</li><li>社区运营：通过 TapTV 发布作品、积累反馈与关注。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "higgsfield-ai",
@@ -16338,27 +16428,23 @@
     "domain": "qiuzhifangzhou.com",
     "detailed_content": [
       {
-        "title": "求职方舟是什么",
-        "html": "<p>求职方舟是AI求职工具，智能识别自动填简历。AI自动填简历，能一键自动填写企业招聘官网的简历表单，智能识别表单结构并填充信息，大大节省时间；AI求职助手，输入求职需求，帮你全网找工作。专岗简历美化，根据目标公司和职位智能优化简历，实现“一岗一简历”；智能记忆填写，对于重复字段只需填写一次，求职方舟会自动记忆。用户需在官网下载安装AI自动填简历插件，上传简历或手动填写基本信息后，可在企业招聘官网投递简历时，通过插件一键完成填写。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/10/qiuzhifangzhou-website.png\" data-fancybox=\"fancybox\" data-caption=\"求职方舟AI\"><img decoding=\"async\" class=\"alignnone wp-image-64298\" src=\"https://ai-bot.cn/wp-content/uploads/2025/10/qiuzhifangzhou-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"求职方舟AI\" width=\"741\" height=\"417\"></a>"
+        "title": "求职方舟AI 是什么",
+        "html": "<p>求职方舟AI 是一个包含多款 AI 求职工具的平台，官方把产品布局概括为「智能体 ×3 + 表格 ×4」：三个求职智能体分别是 AI找工作、AI填简历与 AI改简历，四张表格则是校招网申汇总表、实习网申汇总表、投递进展记录表与笔试真题汇总表。平台基于 DeepSeek 开发，官方说明主要面向应届毕业生、实习生、留学生以及有海投需求的求职群体。</p>"
       },
       {
-        "title": "求职方舟的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">AI自动填简历</strong>：一键自动填写企业招聘官网的简历表单，智能识别表单结构，自动填充信息，节省时间。</div>\n</li>\n<li><strong>AI找工作</strong>：专属AI求职助手，输入求职需求，帮你全网找工作找岗位。</li>\n<li><strong>AI改简历</strong>：基于DeepSeek，上传简历文件智能优化简历内容，支持PDF，Docx，Markdown，TXT等格式。</li>\n<li><strong>AI笔试面试</strong>：\n<ul>\n<li><strong>笔试助力工具</strong>：全自动笔试模式，8个AI全自动帮你解析。适用于所有在线笔试、各类测评、编程、行测、图推、资料分析等。</li>\n<li><strong>面试助力工具</strong>：独创双端互联，电脑练习面试，旁边手机实时生成辅助回答，无惧任何切屏，共享屏幕检测。</li>\n</ul>\n</li>\n<li>\n<div class=\"paragraph\"><strong>校招网申汇总表</strong>：实时更新5000+企业的校招、内推和实习岗位信息，按行业和地区分类展示，确保信息来源真实可靠。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>投递进展记录</strong>：以在线Excel形式管理所有投递记录，自动整理历史数据并提醒重要时间节点，可视化展示求职进度。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>专岗简历美化</strong>：根据目标公司和职位，智能美化简历，实现“一岗一简历”，提高简历的针对性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>智能记忆填写</strong>：对于简历以外的字段，用户只需填写一次，系统会智能学习和记忆，避免重复输入。</div>\n</li>\n</ul>"
+        "title": "求职方舟AI 的主要功能",
+        "html": "<p>按官方「关于我们」一页的说明，求职方舟AI 的能力可以拆成智能体与表格两部分：</p><ul><li>AI 自动填简历：用浏览器插件解析企业招聘官网的表单页面，识别姓名、学历、工作经历等字段后一键填充，兼容下拉框与多级菜单等复杂控件；</li><li>智能记忆与简历解析：简历以外的字段填过一次会被记住，首次使用则由系统解析上传的简历后自动开始填写；</li><li>AI 自动找工作：上传简历后分析个人背景与技能，再到企业官网与主流招聘平台检索匹配岗位；</li><li>公司信用检索：接入企查查评估企业资质并给出信用分，用于排除风险公司；</li><li>AI 自动改简历：结合目标岗位包装改写简历，官方提供三档优化级别，并支持在线即时修改与预览；</li><li>校招与实习汇总表：由系统定期扫描企业官网与公众号，按行业与地区汇总校招、内推与实习岗位；</li><li>投递进展表：以在线表格形式记录投递状态并提醒重要时间节点；</li><li>笔试真题汇总表：汇总笔试题库资源，支持关键词搜索定位往期真题；</li><li>技术侧重：官方把多源数据标准化列为主要技术亮点，用于统一清洗来自官网、公众号与就业办的信息。</li></ul>"
       },
       {
-        "title": "如何使用求职方舟",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">注册账号</strong>：访问求职方舟官网 https://www.qiuzhifangzhou.com/ ，完成账号注册。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>安装插件</strong>：从浏览器应用商店下载并安装求职方舟AI的自动填简历插件。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>上传简历</strong>：在插件中上传个人简历或手动填写基本信息，求职方舟AI会自动保存这些内容。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>查找岗位</strong>：通过官网的校招网申汇总表查找目标企业的校招、内推或实习岗位。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>投递简历</strong>：进入企业招聘官网，打开插件，点击“自动填简历”，求职方舟AI将自动识别并填写表单。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>优化简历</strong>：使用专岗简历美化功能，根据目标岗位智能优化简历内容。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>记录进展</strong>：在投递进展记录中管理投递历史，跟踪求职进度，求职方舟AI会自动提醒重要时间节点。</div>\n</li>\n</ul>"
+        "title": "如何使用 求职方舟AI",
+        "html": "<p>官方把使用流程写成了从投递到复盘的一条链路，按顺序走即可：</p><ol><li>先在求职方舟AI 上传自己的简历，让系统完成解析；</li><li>安装浏览器插件，在目标企业的招聘官网上使用 AI 填简历直接完成表单填写；</li><li>用 AI 找工作按自己的求职意向检索岗位，参考系统给出的公司信用分做筛选；</li><li>针对具体岗位用 AI 改简历选择优化级别，生成更贴近岗位要求的版本；</li><li>把投递记录写进投递进展表，用提醒功能跟进关键时间点；</li><li>准备笔试时到真题汇总表里按关键词检索往期题目。</li></ol>"
       },
       {
-        "title": "求职方舟的安装指南",
-        "html": "<ul>\n<li><strong>安装前准备</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>浏览器要求</strong>：支持 Chrome 88+ 或 Edge 88+ 版本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>网络环境</strong>：最好能够访问 Chrome 商店或 Edge 商店。</div>\n</li>\n</ul>\n</li>\n<li><strong>安装版本说明</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>自动安装版</strong>：谷歌、微软官方审核，安全保障；快捷部署，一键安装；新版本自动更新。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>手动安装版</strong>：手动下载安装，操作稍麻烦；需要手动更新；插件会频繁更新以适配最新企业官网。</div>\n</li>\n</ul>\n</li>\n<li><strong>自动安装版（推荐）</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>Chrome浏览器</strong>：访问求职方舟官网，点击“安装Chrome插件”，在弹出的Chrome商店页面点击“添加到Chrome”，完成安装。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Edge浏览器</strong>：访问求职方舟官网，点击“安装Edge插件”，在弹出的Edge商店页面点击“获取”，完成安装。</div>\n</li>\n</ul>\n</li>\n<li><strong>手动安装版（Chrome浏览器）</strong>\n<ul>\n<li class=\"paragraph\"><strong>下载插件压缩包</strong>：访问求职方舟官网，点击“安装Chrome插件”，并解压缩zip文件。</li>\n<li class=\"paragraph\"><strong>进入Chrome浏览器的扩展程序页面</strong>：在地址栏输入<code class=\"segment-code-inline\" data-v-7caec4f8=\"\" data-v-fc0d0c5a=\"\">chrome://extensions</code>并回车。</li>\n<li class=\"paragraph\"><strong>开启“开发者模式”</strong>：点击扩展程序页面右上角的开关。</li>\n</ul>\n</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/10/qiuzhifangzhou-website2.png\" data-fancybox=\"fancybox\" data-caption=\"\"><img decoding=\"async\" class=\"alignnone wp-image-64299\" src=\"https://ai-bot.cn/wp-content/uploads/2025/10/qiuzhifangzhou-website2.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"\" width=\"639\" height=\"184\"></a>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li class=\"paragraph\"><strong>安装插件文件</strong>：将下载的zip文件“解压缩后”，找到其中的“crx文件”拖入扩展程序页面。</li>\n</ul>\n</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/10/qiuzhifangzhou-website3.png\" data-fancybox=\"fancybox\" data-caption=\"\"><img decoding=\"async\" class=\"alignnone wp-image-64300\" src=\"https://ai-bot.cn/wp-content/uploads/2025/10/qiuzhifangzhou-website3.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"\" width=\"639\" height=\"316\"></a>\n<ul>\n<li><strong>首次使用</strong>\n<ul>\n<li class=\"paragraph\"><strong>访问求职方舟网站</strong>：打开求职方舟官网，从左侧导航进入“AI填简历”页面，登录账号。</li>\n<li class=\"paragraph\"><strong>上传简历</strong>：在AI填简历页面，点击“上传简历”按钮，选择简历文件（支持PDF、Word、TXT格式），系统自动解析简历内容，检查并确认解析结果。</li>\n<li class=\"paragraph\"><strong>开始使用</strong>：访问任意企业招聘官网，选择岗位点击投递后，登录后在简历填写页面，右下角会出现“求职方舟AI”悬浮按钮，点击按钮展开浮窗，点击“播放”按钮启动填写，填写完毕后可调整补充内容并提交投递。</li>\n</ul>\n</li>\n</ul>"
-      },
-      {
-        "title": "求职方舟的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">应届毕业生求职</strong>：帮助应届毕业生快速填写大量企业招聘官网的简历表单，优化简历内容以匹配不同岗位，提高求职效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>实习生申请</strong>：为实习生提供便捷的简历填写和投递服务，智能优化简历以适应实习岗位需求，增加获得实习机会的可能性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>海投求职</strong>：支持求职者进行大规模的简历投递，自动填写重复表单，减少重复劳动，提升海投效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>留学生求职</strong>：协助留学生适应国内求职流程，智能填写复杂表单，优化简历以符合国内企业招聘要求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>日常求职</strong>：适用于任何有求职需求的人群，寻找全职工作或兼职，通过智能填表和简历优化功能提升求职体验。</div>\n</li>\n</ul>"
+        "title": "求职方舟AI 的应用场景",
+        "html": "<p>求职方舟AI 把功能对准了求职过程中最耗时的几个环节，常见场景有：</p><ul><li>校招海投：用 AI 填简历把每家的网申时间压下来；</li><li>岗位筛选：借助 AI 找工作缩小目标范围，避免盲目投递；</li><li>简历优化：针对不同行业与职位的招聘要求，用 AI 改简历做差异化调整；</li><li>进度管理：校招周期长，用投递进展表把每家企业的状态集中管起来；</li><li>笔试准备：在真题汇总表里按公司或题型查找往期题目；</li><li>风险规避：投递前先看企业信用分，减少踩坑。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "ai-mianshiya-com",
@@ -19393,31 +19479,23 @@
     "domain": "agent.minimaxi.com",
     "detailed_content": [
       {
-        "title": "Mavis是什么",
-        "html": "<p>Mavis 是<a href=\"https://ai-bot.cn/sites/72731.html\" target=\"_blank\" rel=\"noopener\"> MiniMax Agent</a> 推出的多 Agent 协作模式，用 MiniMax as a Jarvis 为命名理念。突破传统单 Agent 模式，构建 Leader 统筹、Worker 执行、Verifier 验收的三角色协作体系，通过 Team Engine 引擎驱动任务自动拆解、并发调度与对抗循环质检。用户只需下达目标指令，Mavis 可自主组建 Agent Team，在内部完成分工、迭代与纠错，最终交付可验收的完整成果，实现真正一站式长程复杂任务处理。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/05/Mavis-website.png\" data-fancybox=\"fancybox\" data-caption=\"Mavis\"><img decoding=\"async\" class=\"alignnone size-full wp-image-77276\" src=\"https://ai-bot.cn/wp-content/uploads/2026/05/Mavis-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Mavis\" width=\"1200\" height=\"675\"></a>"
+        "title": "MiniMax Agent 是什么",
+        "html": "<p>MiniMax Agent 的官方文档把主推的桌面端应用称为 MiniMax Code，并把它定义为面向桌面端的 AI Agent 应用，支持代码开发、日常工作流、自动化任务和远程控制。它的思路是把对话、项目工作区、文件操作、终端、浏览器、技能、记忆和自动化任务放进同一个本地工作环境，让人用自然语言推进开发和复杂工作。除了桌面端，官方文档还提供 CLI 版本与更新日志。</p>"
       },
       {
-        "title": "Mavis的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>智能任务拆解</strong>：Leader 角色自动将复杂目标拆分为可并行执行的子任务，制定执行计划。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多角色 Agent 协作</strong>：内置 Worker（执行）、Verifier（验收）、Leader（管理）三类角色，各司其职完成全流程。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>并发批处理引擎</strong>：Team Engine 支持多任务并行调度，按依赖关系自动触发下游任务。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>对抗式质量验收</strong>：Verifier 对 Worker 交付成果进行独立核查，发现错误后自动驳回并要求重做。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自主迭代修复</strong>：Worker 被 Verifier 驳回后，自动分析错误原因并重新执行任务直至通过。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>长程记忆学习</strong>：任务完成后自动总结模式并更新记忆文件，持续优化后续执行策略。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>一键成果交付</strong>：最终输出可直接使用的完整产物（如 HTML 页面、研究报告、代码项目等）。</div>\n</li>\n</ul>"
+        "title": "MiniMax Agent 的主要功能",
+        "html": "<p>MiniMax Agent 文档用一张能力表把功能列了出来，主要包含：</p><ul><li>Coding / Work 双模式：Coding 模式保留开发工具与项目上下文，Work 模式聚焦任务进度与最终交付；</li><li>工作区：选定项目目录后，Agent 能基于当前代码、文件和运行环境完成任务；</li><li>内置浏览器：在侧边面板打开网页或 HTML 产物，支持预览、调试与页面理解；</li><li>文件、变更与终端：查看工作区文件、审查改动并运行命令；</li><li>无限画布：集中查看、对比和整理对话与工作区里的图片、视频素材；</li><li>插件、记忆与 Mini App：通过插件扩展能力，用记忆沉淀偏好，也可以自建 Mini App；</li><li>H3 Max 视频能力：可由文字或图片生成视频，并同步产出声音；</li><li>模型配置：可使用 MiniMax 托管模型，也能填自己的 API Key 或接自定义模型供应商；</li><li>Agent Team 与自动化：用多 Agent 分工处理复杂任务，并创建定时任务按计划执行重复工作；</li><li>移动端协同：通过 Remote Control 或 IM 连接在手机上查看进度、补充要求或处理权限确认。</li></ul>"
       },
       {
-        "title": "如何使用Mavis",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>访问入口</strong>：访问 <a href=\"https://ai-bot.cn/sites/72731.html\" target=\"_blank\" rel=\"noopener\">MiniMax Agent</a> 官网，下载并安装 MiniMax Agent 桌面端，登录账号后进入主界面。</li>\n<li class=\"paragraph\"><strong>切换模式</strong>：在界面中选择Mavis模式，启用多 Agent 协作工作流。</li>\n<li class=\"paragraph\"><strong>下达任务</strong>：向 Mavis 用自然语言描述目标，无需拆解步骤或编写详细提示词。</li>\n<li class=\"paragraph\"><strong>确认计划</strong>：Mavis 自动生成任务计划与 Agent Team 分配，用户确认后引擎即刻启动执行。</li>\n<li class=\"paragraph\"><strong>等待交付</strong>：Agent Team 内部自主完成拆解、执行、验收与迭代，完成后 Leader 直接交付最终成果。</li>\n<li class=\"paragraph\"><strong>查看详情</strong>：点击侧边栏各 Agent 对话框，可查看 Worker 与 Verifier 的完整协作过程与思考记录。</li>\n</ul>"
+        "title": "如何使用 MiniMax Agent",
+        "html": "<p>官方文档给出的上手路径分三步，之后按需深入：</p><ol><li>按系统下载并安装 MiniMax Agent 的桌面端应用，完成登录；</li><li>在首页输入目标，或先选择一个项目目录再开始任务；</li><li>进入工作区后确认 Agent 的操作，遇到权限请求及时回应；</li><li>开发类任务用 Coding 模式，交付类任务切到 Work 模式；</li><li>需要多人协作式拆解时启用 Agent Team，让不同 Agent 分工执行；</li><li>把重复性的日常工作交给定时任务，出门后用 Remote Control 在手机上继续推进。</li></ol>"
       },
       {
-        "title": "Mavis的核心优势",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>消除上下文焦虑</strong>：通过多 Agent 协作替代单 Agent 长链推理，避免模型因不确定中途停摆询问用户。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>全流程自动化</strong>：从任务拆解到验收交付全程由 Agent Team 自主完成，用户仅需一次指令输入。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>对抗机制保质量</strong>：Worker 与 Verifier 的对抗循环确保交付成果的事实准确性与逻辑一致性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>并发执行提效率</strong>：无依赖的子任务并行运行，显著压缩复杂任务的整体耗时。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>降低使用门槛</strong>：用户无需掌握提示词工程，像与项目负责人对话一样自然下达需求即可。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "Mavis的同类竞品对比",
-        "html": "<table data-v-e7c0e5f5=\"\">\n<thead data-v-e7c0e5f5=\"\">\n<tr data-v-e7c0e5f5=\"\">\n<th align=\"left\" data-v-e7c0e5f5=\"\">对比维度</th>\n<th align=\"left\" data-v-e7c0e5f5=\"\">MiniMax Mavis</th>\n<th align=\"left\" data-v-e7c0e5f5=\"\"><a href=\"https://ai-bot.cn/crewai/\" target=\"_blank\" rel=\"noopener\">CrewAI</a></th>\n<th align=\"left\" data-v-e7c0e5f5=\"\"><a href=\"https://ai-bot.cn/sites/69322.html\" target=\"_blank\" rel=\"noopener\">Manus</a></th>\n</tr>\n</thead>\n<tbody data-v-e7c0e5f5=\"\">\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">核心架构</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">Leader+Worker+Verifier 三角对抗，Team Engine 确定性代码驱动调度</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">角色驱动（Role-based）的 Crew 团队，LLM 主导对话式编排</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">多 Agent 协作架构，具体实现未完全公开，偏向提示词层级编排</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong class=\"\" data-v-e7c0e5f5=\"\">任务调度</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">Leader 自动拆解为可并行批次，引擎按依赖关系自动触发下游任务</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">开发者预定义顺序或层级流程，Agent 按固定管道执行</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">自动拆解并分配子任务，但调度透明度较低</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">质检机制</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">Verifier 独立验收 Worker 产出，发现错误自动驳回并触发对抗循环重试</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">依赖 Guardrails 规则与 Pydantic 输出校验，无内置对抗式验收</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">内置基础质量检查，但无明确的 Worker/Verifier 硬约束对抗机制</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong class=\"\" data-v-e7c0e5f5=\"\">使用门槛</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">桌面端商业产品，开箱即用，用户仅需自然语言下达目标</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">Python 开源框架，需开发者具备代码能力与配置经验</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">邀请制 Web 产品，需申请使用资格，操作相对简单</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">产品形态</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">面向终端用户的 Agent 桌面端，One Plan 合并 Token 与 Agent 计费</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">开源 SDK + 企业云 CrewAI AMP，面向开发者与 B 端团队</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">通用型 AI Agent 平台，面向个人与专业用户</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong class=\"\" data-v-e7c0e5f5=\"\">长程任务能力</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">28 分钟自主跑完全程，中途无需用户输入「继续」，支持记忆持久化</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">适合结构化流水线，复杂长程任务易因对话冗余导致 Token 激增</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">可完成复杂长程任务，但用户反馈存在中途停顿或结果偏差的情况</td>\n</tr>\n</tbody>\n</table>"
-      },
-      {
-        "title": "Mavis的应用场景",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>深度研究报告</strong>：并行检索多源数据并由 Verifier 交叉验证，自动生成可溯源的结构化深度报告。</li>\n<li class=\"paragraph\"><strong>前端工程实现</strong>：自动拆解页面需求分发给内容、设计、编码 Worker 协作，经 Verifier 验收后交付可直接运行的单文件 HTML 页面。</li>\n<li class=\"paragraph\"><strong>代码全流程开发</strong>：通过 Developer、Tester、Reviewer 三角色对抗循环，完成编码、测试与安全审查，交付可靠可回放的工程产物。</li>\n<li class=\"paragraph\"><strong>长文内容整理输出</strong>：自动提取核心论点并并行完成撰写与排版，同时交付 Markdown 与 HTML 双版本，无需用户中途干预。</li>\n<li class=\"paragraph\"><strong>数据核验与纠错</strong>：Verifier 独立核查 Worker 产出的事实准确性与数据来源，发现错误自动驳回并触发修复，确保高精度场景的数据可靠性。</li>\n</ul>"
+        "title": "MiniMax Agent 的应用场景",
+        "html": "<p>按文档「适合做什么」一节的划分，MiniMax Agent 主要覆盖四类使用场合：</p><ul><li>开发项目：绑定本地项目、读取文件上下文、执行命令并根据代码变更调试；</li><li>复杂任务：借 Agent Team 把多步骤工作拆开，让不同 Agent 分工执行并检查结果；</li><li>日常自动化：把重复工作做成定时任务，电脑唤醒时按计划跑完并把结果回到对应会话；</li><li>移动端协同：在手机上查看进度、补充要求或处理权限确认；</li><li>素材生成：用 H3 Max 直接产出视频与配套声音；</li><li>能力扩展：通过插件市场与 MCP 服务接入外部工具，把常用流程固化成 Mini App。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "tool77977",
@@ -24040,23 +24118,23 @@
     "domain": "zread.ai",
     "detailed_content": [
       {
-        "title": "Zread是什么",
-        "html": "<p>Zread是专为开发者设计的AI源码解读产品，用结构化的代码分析和深度知识萃取，一键生成清晰易懂的仓库 Guide，帮助开发者快速掌握优秀项目的核心知识和方法论。Zread能快速生成 API 文档和用户手册，梳理复杂代码，提供深度研究功能，支持多仓库对比学习和解读 GitHub Trending 上的热门项目。Zread能提升开发效率，促进知识共享和 AI 的持续学习，是开发者提升技能和团队协作的得力助手。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-57575\" src=\"https://ai-bot.cn/wp-content/uploads/2025/07/Zread.ai-website3.png\"   alt=\"Zread.ai\" width=\"740\" height=\"416\" />"
+        "title": "Zread 是什么",
+        "html": "<p>Zread 官方把自己描述成一个「AI 代码 Wiki」：它围绕 GitHub 仓库自动整理出成体系的代码说明，让使用者不用把整个项目克隆下来就能理解它的结构。官网在这段描述里点了几个关键词——多语言指南、架构洞察、社区讨论，目的都是帮助使用者深入任何一个仓库。Zread 也把自己的检索能力称为 Deep Research，强调的不是单页问答，而是对代码库的持续追问。</p>"
       },
       {
-        "title": "Zread的主要功能",
-        "html": "<ul>\n<li><strong>一键生成文档</strong>：快速生成API文档和用户手册，提升团队协作效率。</li>\n<li><strong>总结内部复杂代码</strong>：快速梳理复杂代码，帮助开发者无痛入职，提升研发效率。</li>\n<li><strong>深度研究功能</strong>：专为代码场景设计，解决开发者对仓库的专属问题，挖掘项目背后的优秀实践。</li>\n<li><strong>多仓库对比学习</strong>：支持多仓库对比，提炼最佳实践，助力开发者快速进阶。</li>\n<li><strong>链接转换功能</strong>：将GitHub仓库链接中的“github.com”替换为“Zread.ai”，即可访问AI生成的页面。</li>\n<li><strong>GitHub趋势解读</strong>：用仓库指南形式拆解GitHub Trending上的热门项目，提供深度背景信息。</li>\n<li><strong>社区互动功能</strong>：总结社区评价，展示贡献者图谱，支持划线、评论和分享，促进知识共享。</li>\n<li><strong>为Coding Agent提供更好的上下文</strong>：与MCP深度整合，为AI辅助开发提供更好的上下文，提升AI代码生成质量。</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-57577\" src=\"https://ai-bot.cn/wp-content/uploads/2025/07/Zread.ai-website5.png\"   alt=\"Zread.ai\" width=\"740\" height=\"416\" />"
+        "title": "Zread 的主要功能",
+        "html": "<p>从 Zread 官网的导航与标签可以看出它的功能构成：</p><ul><li>代码 Wiki：为仓库生成可阅读的说明文档，而不是直接抛源码；</li><li>多语言指南：同一份说明提供多种语言版本；</li><li>架构洞察：把项目的模块划分与依赖关系梳理出来；</li><li>Deep Research：围绕某个仓库进行深入研究式检索；</li><li>Discover 与 Trending：发现本周热门的仓库；</li><li>Private Repos：支持把自己关注的私有仓库加进来；</li><li>Library：集中管理自己阅读过的仓库；</li><li>Zread MCP 与 Zread CLI 本地仓库：分别面向 MCP 集成和本地代码库阅读；</li><li>订阅与反馈：站内提供 Subscription 与 Feedback 入口。</li></ul>"
       },
       {
-        "title": "如何使用Zread",
-        "html": "<ul>\n<li><strong>访问 Zread</strong>：访问 Zread 官网 https://zread.ai/ 。</li>\n<li><strong>输入 GitHub 仓库链接</strong>：在 Zread的首页输入任意 GitHub 仓库的链接。</li>\n<li><strong>一键生成 Guide</strong>：点击“生成”按钮，Zread自动分析仓库的代码，生成一个结构化的 Guide。</li>\n<li><strong>浏览 Guide</strong>：查看生成的结构化 Guide，了解项目核心思想、架构图示、模块原理和关键代码。</li>\n<li><strong>提问与探索</strong>：使用“Ask”功能提问，获取更深入的技术洞察。</li>\n<li><strong>多仓库对比</strong>：选择多个仓库进行对比，提炼最佳实践。</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">私有项目</strong>：创建个人或团队空间，上传私有项目，生成专属 Guide。</div>\n</li>\n</ul>"
+        "title": "如何使用 Zread",
+        "html": "<p>官网给出的上手路径比较短，可以按下面的方式操作：</p><ol><li>打开 Zread 并登录账号；</li><li>在 Discover 中挑一个热门仓库，或直接搜索想读的项目；</li><li>进入该仓库的 Zread 页面，从概览读起，再按模块展开细节；</li><li>对不清楚的部分继续追问，借助 Deep Research 展开更深入的检索；</li><li>把常用的仓库放进 Library，私有仓库则通过 Private Repos 添加；</li><li>如果想让编辑器或本地环境也能读，改用 Zread MCP 或 Zread CLI。</li></ol>"
       },
       {
-        "title": "Zread的应用场景",
-        "html": "<ul>\n<li><strong>企业开发团队</strong>：快速生成API文档和用户手册，梳理复杂代码，提升团队协作与研发效率。</li>\n<li><strong>开源项目贡献者</strong>：深度解读开源项目，用多仓库对比学习最佳实践，助力技术水平提升。</li>\n<li><strong>创业公司</strong>：高效生成项目文档，快速迭代产品，沉淀技术知识，促进团队协作。</li>\n<li><strong>个人开发者</strong>：快速理解复杂代码，通过对比和研究提升技能，学习优秀项目实践。</li>\n<li><strong>技术调研</strong>：解读GitHub趋势，了解热门项目背景，用社区互动提升技术视野。</li>\n</ul>"
+        "title": "Zread 的应用场景",
+        "html": "<p>结合官方强调的几个方向，Zread 比较适合这些场合：</p><ul><li>接手陌生项目：先用 Zread 把仓库的整体结构过一遍，再决定从哪个目录读起；</li><li>技术选型调研：用 Trending 与 Discover 关注同类项目的活跃度；</li><li>跨语言团队协作：借助多语言指南，让不同语种的成员读同一份说明；</li><li>私有代码整理：把公司内部仓库加入 Private Repos，形成可检索的知识入口；</li><li>把阅读能力嵌进开发流：通过 MCP 或 CLI 让 Zread 出现在日常工具里。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "tool789",
@@ -28589,27 +28667,23 @@
     "domain": "udio.com",
     "detailed_content": [
       {
-        "title": "Udio是什么",
-        "html": "<p>Udio是一款由前Google DeepMind研究人员创立的<a href=\"https://ai-bot.cn/best-ai-music-generators/\" target=\"_blank\" rel=\"noopener\">人工智能音乐生成器</a>，旨在让任何人都能够轻松地创作出具有情感共鸣的音乐。该AI音乐生成工具能够根据用户输入的文本提示，包括音乐风格、主题、歌词等信息，快速生成包含人声的完整音轨。Udio不仅支持多种音乐风格和流派，还能够捕捉并表达音乐中的情感，创造出既逼真又具有创意的音乐作品。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/04/udio-ai-music-generator.png\" data-fancybox=\"fancybox\" data-caption=\"Udio\"><img decoding=\"async\" class=\"alignnone size-full wp-image-11027 rounded-lg border\" src=\"https://ai-bot.cn/wp-content/uploads/2024/04/udio-ai-music-generator.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Udio\" width=\"700\"></a>\n<p>Udio的设计理念是作为一个“超级乐器”，放大人类的创造力。适合音乐家和业余爱好者使用，提供了一个平台，让用户可以通过简单的文本输入，体验从零到创作出音乐的“魔法时刻”。Udio拥有与<a href=\"https://ai-bot.cn/sites/6968.html\" target=\"_blank\" rel=\"noopener\">Suno</a>类似的从文本提示创建完整曲目的能力，但具有更好的声音和更自然的声音。</p>"
+        "title": "Udio 是什么",
+        "html": "<p>Udio 是一款 AI 音乐生成工具，官网标题直接写着「Udio | AI Music Generator - Official Website」。除了生成入口，Udio 还维护着一个结构完整的帮助中心，把产品能力拆成若干主题逐一解答，这从侧面说明它的功能面覆盖了从创作到订阅的完整链路。对想用 AI 做音乐的人来说，Udio 提供的是浏览器内即可完成的创作环境，另配有 iOS 客户端。</p>"
       },
       {
-        "title": "Udio的主要功能",
-        "html": "<ul class=\"text-md\">\n<li><strong>文本到音乐的转换</strong>：用户可以通过输入文本提示，如音乐风格、主题、情感描述或自定义歌词，指导Udio生成相应风格的音乐。这项功能使得即使没有音乐背景的用户也能创作出专业水准的音轨。</li>\n<li><strong>多样化的音乐风格</strong>：Udio支持广泛的音乐风格和流派，从古典、爵士到流行、嘻哈、电子等，用户可以根据自己的喜好选择不同的音乐风格进行创作。</li>\n<li><strong>人声生成</strong>：除了乐器音乐，Udio还能生成带有人声的音轨，这些合成人声能够模仿真实歌手的唱腔和情感表达，为用户提供完整的音乐体验。</li>\n<li><strong>音乐编辑和扩展</strong>：生成的音乐片段可以通过Udio的编辑功能进行修改和扩展，用户可以添加引子、过渡段和尾声，或者通过“remix”功能对现有音轨进行迭代创作。</li>\n<li><strong>社区分享与合作</strong>：Udio内置社区功能，用户可以将创作的音乐分享到社区，获取反馈，与其他音乐爱好者进行交流和合作。</li>\n<li><strong>高效率的音乐创作</strong>：Udio的设计目标是简化音乐创作过程，用户可以在极短的时间内创作出高质量的音乐作品，极大地提高了创作效率。</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/04/udio-ai-generate-music.png\" data-fancybox=\"fancybox\" data-caption=\"Udio AI音乐生成器\"><img decoding=\"async\" class=\"alignnone size-full wp-image-11030 rounded-lg border\" src=\"https://ai-bot.cn/wp-content/uploads/2024/04/udio-ai-generate-music.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Udio AI音乐生成器\" width=\"700\"></a>"
+        "title": "Udio 的主要功能",
+        "html": "<p>Udio 帮助中心按主题划分文章，把它的功能面呈现在这几个方向：</p><ul><li>歌曲创作：帮助中心设有 Song Creation 分类，并有「Create Your First Song」入门指引；</li><li>编辑：Editing 分类对应生成之后对作品的进一步调整；</li><li>发现：Discovering 分类对应站内的作品浏览与探索；</li><li>整理：Organizing 分类用于管理自己产出的内容；</li><li>账户：Account 分类处理账号相关设置；</li><li>订阅与积分：Subscriptions, credits, and billing 分类说明 credits 与额度限制；</li><li>移动端：官网单独列出 iOS app 的说明；</li><li>社区与贡献：Community info &amp; contributions 分类说明社区信息与参与方式；</li><li>故障排查与站点状态：Troubleshooting 分类与站点状态页。</li></ul>"
       },
       {
-        "title": "如何使用Udio生成AI音乐",
-        "html": "<ol class=\"text-md\">\n<li>访问Udio的官网（udio.com），点击右上角的Sign in进行登录</li>\n<li>在顶部的输入框中输入文本提示词，可点击推荐标签或自定义歌词</li>\n<li>最后点击Generate按钮，等待音乐生成即可</li>\n</ol>"
+        "title": "如何使用 Udio",
+        "html": "<p>第一次使用 Udio，可以按帮助中心推荐的顺序来：</p><ol><li>注册 Udio 账号并登录；</li><li>先读一遍「Create Your First Song」，了解生成时需要填写的部分；</li><li>在生成界面描述想要的音乐，提交后等待出稿；</li><li>用 Editing 相关功能对结果继续打磨，多次生成挑最合适的一版；</li><li>把成品归入自己的作品列表，需要时下载保存；</li><li>如果要长期使用，先弄清 credits 的消耗方式再决定是否订阅。</li></ol>"
       },
       {
-        "title": "Udio的产品价格",
-        "html": "<p>Udio目前处于免费Beta公测中，所有用户都都可免费使用，每月最高可生成1200首歌曲！尽管还处于早期版本，Udio已经得到了包括知名艺术家will.i.am和Common在内的音乐界人士的认可和支持。</p>"
-      },
-      {
-        "title": "Udio的适用人群",
-        "html": "<ul class=\"text-md\">\n<li><strong>音乐爱好者</strong>：对于对音乐有兴趣但可能缺乏专业音乐制作技能的个人，Udio提供了一个简单易用的平台，让他们能够轻松创作出个性化的音乐作品。</li>\n<li><strong>专业音乐制作人</strong>：Udio可以作为专业音乐制作人的一个辅助工具，帮助他们在创作过程中快速尝试不同的旋律和风格，提高工作效率。</li>\n<li><strong>独立艺术家</strong>：独立音乐人和创作歌手可以利用Udio来快速生成音乐草稿或伴奏，作为创作灵感的来源，或者用于社交媒体内容的背景音乐。</li>\n<li><strong>内容创作者</strong>：如视频制作人、播客主持人、游戏开发者等，他们需要音乐来丰富自己的作品，Udio能够帮助他们快速找到或生成适合的背景音乐。</li>\n<li><strong>教育工作者和学生</strong>：在学校或个人项目中，Udio可以作为教学工具，帮助学生学习音乐理论和创作技巧，同时激发他们的创造力和音乐兴趣。</li>\n<li><strong>广告和媒体行业</strong>：广告制作人和媒体专业人士可以使用Udio来创作符合特定广告或媒体项目需求的定制音乐，节省成本并提高创作灵活性。</li>\n</ul>"
+        "title": "Udio 的应用场景",
+        "html": "<p>从 Udio 帮助中心覆盖的主题看，它服务的需求大致有这么几类：</p><ul><li>个人创作：没有乐器基础的人也能试着自己生成一首完整的歌；</li><li>内容配乐：为视频、播客等素材寻找或定制背景音乐；</li><li>灵感试错：同一段描述多生成几次，用来比较不同走向；</li><li>移动端随手创作：借助 iOS app 在手机上完成部分工作；</li><li>作品整理与分享：把生成结果归档，并参与 Udio 社区的内容分享。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "lyrics-into-song-ai",
@@ -28964,23 +29038,23 @@
     "domain": "podcast.adobe.com",
     "detailed_content": [
       {
-        "title": "Adobe Podcast是什么",
-        "html": "<p>Adobe Podcast 是Adobe推出的在线AI音频录制和编辑工具，专为播客创作者、声音工作者及内容创作者设计。工具基于 AI 技术优化语音质量，去除背景噪音和回音，让声音清晰且专业。用户无需下载软件，直接在浏览器中即可录制、编辑音频，支持多人远程协作。Adobe Podcast提供转录功能，支持多种语言，可将音频转换为视频，生成字幕，方便在不同平台分享，助力创作者高效产出高质量音频内容。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/09/Adobe-Podcast-website-1.png\" data-fancybox=\"fancybox\" data-caption=\"Adobe Podcast\"><img decoding=\"async\" class=\"alignnone wp-image-63721\" src=\"https://ai-bot.cn/wp-content/uploads/2025/09/Adobe-Podcast-website-1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Adobe Podcast\" width=\"740\" height=\"416\"></a>"
+        "title": "Adobe Podcast 是什么",
+        "html": "<p>Adobe Podcast 是 Adobe 推出的网页端音频录制与编辑工具，官网的副标题写明「AI audio recording and editing, all on the web」，官方介绍则是录制、转写、编辑、分享四件事都能在网上完成。它把过去需要专业录音环境才能做到的干净人声处理，改成了上传文件后自动修复的方式。Adobe Podcast 分成两个入口：偏工具属性的 Enhance Speech，以及偏工作台的 Studio BETA。</p>"
       },
       {
-        "title": "Adobe Podcast的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>语音增强</strong>：基于 AI 技术去除背景噪音和回音，一键优化音频，让声音清晰且专业。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>录制功能</strong>：支持本地和远程多人录制，以高质量的 16 位 48kHz WAV 格式捕捉音频。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">音频编辑</strong>：将音频转录为文本，支持像编辑文档一样剪辑音频，智能剪辑静音部分，提升编辑效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>音频转视频</strong>：将音频内容转换为动态的音频可视化视频（Audiogram），支持添加字幕和字幕条，适合社交媒体分享。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>转录功能</strong>：支持多语言（包括印地语）高精度转录，用 Adobe Premiere Pro 同款技术确保准确性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">音乐和音效库</strong>：提供丰富的预编辑版权免费音乐和音效，支持一键添加，无需担心版权问题。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>便捷分享</strong>：支持多种导出格式（如 MP3、WAV、视频），提供一键分享功能，方便在不同平台发布。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI 分析与优化</strong>：基于 AI 分析麦克风和录音环境，提供优化建议，智能调整音量和音质，确保最佳录音效果。</div>\n</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/09/Adobe-Podcast-website2-1.png\" data-fancybox=\"fancybox\" data-caption=\"Adobe Podcast\"><img decoding=\"async\" class=\"alignnone wp-image-63722\" src=\"https://ai-bot.cn/wp-content/uploads/2025/09/Adobe-Podcast-website2-1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Adobe Podcast\" width=\"740\" height=\"416\"></a>"
+        "title": "Adobe Podcast 的主要功能",
+        "html": "<p>官网把 Adobe Podcast 的能力按工具和工作台两部分列出：</p><ul><li>Enhance Speech：对已有录音做后期修复，官方强调不需要专业麦克风也能用；</li><li>降噪去回声：自动减轻背景噪声与房间回声；</li><li>视频兼容：Enhance Speech 支持 MP4、MOV 等视频格式；</li><li>批量上传：可以一次提交多个文件进行处理；</li><li>分层调节：人声、音乐与环境音可以分别调整，让听感更自然；</li><li>用量上限：官方标注每天最多处理 4 小时、单个文件最大 1 GB；</li><li>Studio 工作台：在浏览器里录制、编辑并增强人声；</li><li>工程与导出：Studio 项目不限制下载次数，可下载原始录音并保留说话人分离；</li><li>配套工具：Caption video 加字幕、Remove music 去掉视频中的音乐、Transcribe audio &amp; video 转写并导出文本或 PDF、Record a podcast 录制播客。</li></ul>"
       },
       {
-        "title": "如何使用Adobe Podcast",
-        "html": "<ul>\n<li><strong class=\"\">注册和登录</strong>：访问 Adobe Podcast 官网 https://podcast.adobe.com/，完成账号注册和登录。</li>\n<li><strong>创建新项目</strong>：登录后点击“创建新项目”，选择项目类型（如播客、讲座等）。</li>\n<li><strong class=\"\">录制音频</strong>：\n<ul>\n<li class=\"paragraph\"><strong>本地录制</strong>：点击“开始录制”，Adobe Podcast 自动优化麦克风录音。</li>\n<li class=\"paragraph\"><strong>远程录制</strong>：邀请嘉宾通过链接加入，系统单独录制每位参与者音频。</li>\n</ul>\n</li>\n<li><strong>语音增强</strong>：录制完成后，点击“增强语音”，AI 自动去除噪音和回音，优化音质。</li>\n<li><strong>音频编辑</strong>：Adobe Podcast 自动转录音频为文本，能在文本中直接剪辑、复制、粘贴音频片段。</li>\n<li><strong class=\"\">添加音乐和音效</strong>：从预编辑的版权免费音乐和音效库中选择，拖拽到项目中即可。</li>\n<li><strong class=\"\">音频转视频</strong>：选择“创建 Audiogram”，将音频转换为动态可视化视频，支持添加字幕和字幕条。</li>\n<li><strong>导出和分享</strong>：选择导出格式（如 MP3、WAV 或视频），选择是否包含字幕，一键分享到社交媒体。</li>\n</ul>"
+        "title": "如何使用 Adobe Podcast",
+        "html": "<p>Adobe Podcast 的两种用法都不需要安装软件，流程分别是：</p><ol><li>要处理现成录音时，打开 Adobe Podcast 的 Enhance Speech，把音频或视频文件上传；</li><li>等待自动处理完成后试听，需要时分别调整人声、音乐与环境音的占比；</li><li>确认效果后下载文件，批量任务会一起返回；</li><li>要在浏览器里录节目时，改用 Studio，新建项目后直接在网页中录制；</li><li>在 Studio 里完成剪辑、加字幕或生成声波图，再导出成品；</li><li>需要更多额度时，官网说明可通过 Adobe Firefly Pro 方案获取 Adobe Podcast Premium 的权限。</li></ol>"
       },
       {
-        "title": "Adobe Podcast的应用场景",
-        "html": "<ul>\n<li><strong class=\"\">播客制作</strong>：创作者能录制、编辑和发布高质量的播客内容，支持远程嘉宾录制，适合个人或团队制作播客节目。</li>\n<li><strong>在线教育</strong>：教师录制课程讲座，转录为文本方便学生复习，适合在线教学和远程教育。</li>\n<li><strong>音频新闻</strong>：记者快速录制新闻报道，去除背景噪音，优化音质，提升新闻的可听性和专业性。</li>\n<li><strong>社交媒体内容</strong>：创作者将音频内容转换为动态的音频可视化视频（Audiogram），添加字幕，适合在社交媒体平台分享。</li>\n<li><strong class=\"\">企业培训</strong>：企业录制内部培训课程，支持多人远程录制，方便员工随时随地学习。</li>\n</ul>"
+        "title": "Adobe Podcast 的应用场景",
+        "html": "<p>Adobe Podcast 面向的是「录音条件一般但要出成品」的需求，常见于这些场合：</p><ul><li>播客制作：用 Enhance Speech 修掉远程连线的底噪与回声；</li><li>视频配音：把手机或笔记本录的口播修成可发布的音轨；</li><li>访谈整理：先转写音频与视频，再导出文本或 PDF 留档；</li><li>社媒短视频：给视频补字幕，或把带了背景音乐的画面清成纯人声；</li><li>课程与培训：把讲课录音处理后做成音频素材；</li><li>远程协作：在 Studio 里把录制、剪辑与导出放在同一个网页工程中完成。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "xstudio-music-163-com",
@@ -30336,23 +30410,23 @@
     "domain": "felo.ai",
     "detailed_content": [
       {
-        "title": "Felo是什么",
-        "html": "<p>Felo是免费<a href=\"https://ai-bot.cn/top-ai-search-engines/\" target=\"_blank\" rel=\"noopener\">AI智能搜索引擎</a>，支持社交联网搜索和多语种问答结果。用户可以自然语言提问，Felo能理解并分解问题，同时提供中文和英文搜索结果。Felo以分块形式展示答案，每块都有详细内容和来源链接。Felo还提供社交搜索、专业搜索和主题问答功能，满足不同用户的需求。Felo Pro订阅服务每月14.99美元，提供100次专业搜索和多种AI模型选择。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/08/Felo-AI-website-1.png\" data-fancybox=\"fancybox\" data-caption=\"Felo AI\"><img decoding=\"async\" class=\"alignnone size-full wp-image-18049\" src=\"https://ai-bot.cn/wp-content/uploads/2024/08/Felo-AI-website-1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Felo AI\" width=\"800\" height=\"450\"></a>"
+        "title": "Felo 是什么",
+        "html": "<p>Felo 的官网标题把自己定义为「免费的多语言 AI 搜索与创作平台」。它把搜索与创作放在同一个产品里：一边是可以跨语言提问和检索的搜索能力，另一边是把检索结果直接转成幻灯片、思维导图、文档、图片和网页的创作能力。官方描述中强调这是一款面向研究与创作的免费平台，首页的标语是「Search, understand, and create with AI」。</p>"
       },
       {
-        "title": "Felo的主要功能",
-        "html": "<ul>\n<li><strong>基础问答</strong>：通过自然语言处理技术，理解和分解用户问题，提供中文和英文的搜索结果。</li>\n<li><strong>社交搜索</strong>：集成Twitter、Facebook、Reddit等社交平台的信息，提供社交媒体上的相关内容。</li>\n<li><strong>小红书搜索</strong>：专门针对小红书平台的内容搜索，提供问题拆分和推荐系统。</li>\n<li><strong>Reddit搜索</strong>：针对Reddit平台的内容搜索，提供相关问题和讨论。</li>\n<li><strong>Pro 搜索</strong>：提供更深入和专业的搜索服务，可能包括更高级的搜索算法或更详细的结果。</li>\n<li><strong>Topic 问答</strong>：支持用户将问题归类到特定主题，方便管理和深入探讨。</li>\n</ul>"
+        "title": "Felo 的主要功能",
+        "html": "<p>官网导航与关键词标签把 Felo 的能力列得比较清楚，可以分成这几块：</p><ul><li>多语言 AI 搜索：用任意语言提问，检索结果跨语言返回；</li><li>深度研究：面向需要多轮检索与归纳的课题；</li><li>幻灯片生成：把内容整理成可直接使用的演示文稿；</li><li>思维导图：把主题结构化成可展开的导图；</li><li>文档与网页生成：把研究结果输出成文档形式或网页；</li><li>LiveDoc 与 Agent：官方另有 LiveDoc 与 agent 相关入口；</li><li>开发者入口：提供 LLM Playground、API 等面向程序化调用的能力；</li><li>企业与更多工具：导航中还有 Enterprise、Blog、Tools 等分区。</li></ul>"
       },
       {
-        "title": "如何使用Felo",
-        "html": "<ul>\n<li><strong>访问官网</strong>：访问Felo的官方网站（<a href=\"https://felo.ai/search?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">felo.ai</a>）。</li>\n<li><strong>输入问题</strong>：在搜索框中，输入想要查询的问题或关键词，Felo支持自然语言输入。</li>\n<li><strong>选择语言</strong>：Felo支持多语种搜索，点击搜索按钮或按下回车键提交您的查询。</li>\n<li><strong>查看结果</strong>：Felo会显示搜索结果，通常以分块的形式呈现，每个块包含相关信息和来源链接。</li>\n<li><strong>浏览详细信息</strong>：点击感兴趣的结果块，查看更详细的内容和信息来源。</li>\n<li><strong>使用社交搜索</strong>：如果想要搜索特定社交平台上的内容，可以选择社交搜索功能，并输入相关问题。</li>\n<li><strong>主题问答</strong>：如果对某个主题感兴趣，可以将相关问题添加到该主题下，Felo会提供与该主题相关的问答和信息。</li>\n</ul>"
+        "title": "如何使用 Felo",
+        "html": "<p>Felo 的用法接近「先搜后写」，大致流程如下：</p><ol><li>打开 Felo 搜索页面，用自己熟悉的语言输入问题；</li><li>阅读 Felo 给出的跨语言检索结果，必要时继续追问收敛范围；</li><li>需要深入时启用深度研究，让它多轮检索并汇总；</li><li>把结果交给幻灯片、思维导图或文档生成，得到可直接使用的成品；</li><li>如果要把能力接进自己的系统，改用 LLM Playground 或 API 调试。</li></ol>"
       },
       {
-        "title": "Felo的应用场景",
-        "html": "<ul>\n<li><strong>学术研究</strong>：研究人员可以使用Felo来快速获取跨学科的资料和文献，以及来自不同语言和地区的研究成果。</li>\n<li><strong>市场调研</strong>：企业和市场分析师可以用Felo搜索行业趋势、竞争对手信息、消费者反馈等，以支持决策制定。</li>\n<li><strong>新闻媒体</strong>：记者和编辑可以用Felo来搜集新闻素材、背景资料和不同来源的观点，丰富报道内容。</li>\n<li><strong>社交媒体监控</strong>：品牌和公关团队可以用Felo监控社交媒体上的品牌提及和用户反馈，及时响应舆论。</li>\n<li><strong>语言学习</strong>：语言学习者可以通过Felo获取不同语言的资料，进行语言实践和学习。</li>\n</ul>"
+        "title": "Felo 的应用场景",
+        "html": "<p>从官方对「研究与创作」的定位出发，Felo 比较典型的用法有这些：</p><ul><li>跨语言查资料：只用一种语言提问，也能拿到其他语种的信息；</li><li>做汇报：把检索到的内容直接转成幻灯片初稿；</li><li>梳理课题：用思维导图把零散资料整理成结构；</li><li>写作前的研究：先用 Felo 收集资料，再进入写作环节；</li><li>产品集成：开发者把搜索与生成能力通过 API 嵌入自有应用。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "exa-ai",
@@ -30530,23 +30604,23 @@
     "domain": "sheepgeo.com",
     "detailed_content": [
       {
-        "title": "SheepGeo是什么",
-        "html": "<p>SheepGeo 是国内首个专业的AI GEO（生成式引擎优化）分析平台，专为 AI 时代的企业品牌曝光设计。基于独创的 SHEEP 五维框架，SheepGeo 提供从网站 GEO 分析、AI 可见性检测、关键词渗透轮询，到品牌监控、舆情追踪、AI 流量分析的一站式服务，覆盖豆包、Kimi、DeepSeek 等 9 大主流国产 AI 模型。用户只需输入网址或品牌词，即可获得量化评分与优化建议，持续追踪品牌在 AI 回答中的提及率与排名变化。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/03/SheepGeo-website1.png\" data-fancybox=\"fancybox\" data-caption=\"SheepGeo\"><img decoding=\"async\" class=\"alignnone wp-image-72980\" src=\"https://ai-bot.cn/wp-content/uploads/2026/03/SheepGeo-website1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"SheepGeo\" width=\"741\" height=\"417\"></a>"
+        "title": "SheepGeo 是什么",
+        "html": "<p>SheepGeo 是一款面向生成式引擎优化的分析平台，官网把它定位为帮助使用者提升网站在 AI 搜索中可见性的工具。它的官方文档写得很明确：平台围绕「品牌是否被主流 AI 识别、引用和推荐」这件事做检测与追踪。为此 SheepGeo 设计了一套 SHEEP 五维评分体系，用来量化网站在 AI 回答中的表现，并把分析结果沉淀成报告与优化建议。</p>"
       },
       {
-        "title": "SheepGeo的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>网站 GEO 分析</strong>：输入网址后自动爬取站点，检测 llms.txt、页面性能及 AI 可见性，输出 SHEEP 五维评分与 GEM 综合评分。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI 可见性检测</strong>：支持按网站 URL 或品牌词检测，查看在 9 大国产 AI 模型中的识别率、提及情况、推荐位置及引用来源。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>关键词渗透与轮询</strong>：AI 自动生成轮询词，多模型交叉检测，分析品牌在不同场景下的提及率、首位推荐率及竞品差距。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>品牌监控</strong>：持续追踪品牌在 AI 回答中的提及频率、排名变化，竞品表现异常时自动预警。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>舆情监控</strong>：采集全网品牌相关内容，进行情感分析与趋势追踪，发现负面信息及时预警。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>报告中心</strong>：整合多维度数据，生成结构化 Word 报告，支持部分结果导出。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI 流量追踪</strong>：识别来自 AI 平台的访问流量，分析来源分布、访问深度、停留时长及转化情况。</div>\n</li>\n</ul>"
+        "title": "SheepGeo 的主要功能",
+        "html": "<p>SheepGeo 文档的功能指南按用途把模块分得很细，主要包括：</p><ul><li>项目向导与项目看板：首次建项目时确认品牌画像、生成查询主题并启动监测，之后按项目查看关键词、官网报告与下一步建议；</li><li>网站分析：评估网站整体的 AI 可见性，给出 SHEEP 评分与优化方向；</li><li>AI 可见性检测与精准采样：核验网站是否被主流 AI 识别推荐，并验证同一关键词在重复提问下的稳定性；</li><li>关键词渗透与优化建议：分析品牌在不同问题、不同模型中的曝光范围，再诊断未命中原因；</li><li>竞品分析：对比品牌与竞品在同类问题下被 AI 推荐的差异；</li><li>品牌监控与效果追踪：持续追踪提及率与排名变化，并回收已发布文章在 AI 回答中的命中表现；</li><li>资产与信源：项目与资产、关键词库用于统一管理资料与关键词，信源看板汇总 AI 回答中引用的来源；</li><li>报告中心与 AI 流量追踪：生成可交付的正式报告，并评估 AI 推荐是否带来访问与转化；</li><li>账户与配额：查看订阅套餐、调用余额、配额流水与账单入口。</li></ul>"
       },
       {
-        "title": "如何使用SheepGeo",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>注册登录</strong>：访问SheepGeo官网 https://sheepgeo.com/ ，注册账号并登录，进入控制台后根据权限或套餐开通对应能力。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>网站分析</strong>：在”网站分析”模块输入官网 URL，提交分析任务，系统在后台生成报告并实时展示进度。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>创建检测任务</strong>：在”AI 检测”中按网站或品牌词创建检测任务，查看在 9 大 AI 模型中的表现数据。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>设置关键词渗透</strong>：在”关键词渗透”模块创建轮询任务，AI 自动生成轮询词进行多模型交叉检测。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>配置监控中心</strong>：在”监控中心”开启品牌监控和舆情监控，设置预警阈值，异常波动时接收通知。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>查看与导出报告</strong>：在”报告中心/历史报告”查看分析结果，导出 Word 报告并根据优化建议调整内容、结构化数据及品牌策略。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>追踪 AI 流量</strong>：在流量分析模块查看来自 AI 平台的访问数据，评估 GEO 优化效果。</div>\n</li>\n</ul>"
+        "title": "如何使用 SheepGeo",
+        "html": "<p>SheepGeo 文档的快速入门把流程压缩成四步：</p><ol><li>注册 SheepGeo 账号，获取平台访问权限；</li><li>提交要分析的网站 URL，启动 SHEEP 分析；</li><li>查看评分报告与优化建议；</li><li>按建议持续改进，观察 AI 可见性的变化。</li></ol><p>文档还提醒，首次使用建议先做网站分析，拿到整体诊断结果后再进入项目向导与关键词渗透等更细的模块。</p>"
       },
       {
-        "title": "SheepGeo的适用人群",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>企业市场部</strong>：负责品牌 AI 时代曝光管理，确保客户询问 AI 时品牌被准确推荐。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>品牌部团队</strong>：监控品牌在各 AI 模型中的提及情况与口碑表现，维护品牌形象。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>SEO/GEO 团队</strong>：专业优化人员布局 AI 搜索场景，提升生成式引擎中的可见性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>网站运营人员</strong>：优化网站结构、llms.txt 配置及页面性能，提升 AI 抓取友好度。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>内容团队</strong>：根据关键词渗透数据调整内容策略，提高被 AI 引用和推荐的概率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>数字营销团队</strong>：全面把控 AI 渠道营销效果，追踪 AI 流量转化与 ROI。</div>\n</li>\n</ul>\n<div id=\"xiaomei-toaster-container\" style=\"position: fixed; top: 0px; left: 0px; width: 100%; z-index: 2147483647; pointer-events: none;\" data-v-app=\"\">\n<p><!-- Remove item from normal navigation flow, only available via hotkey --></p>\n<section tabindex=\"-1\" aria-label=\"Notifications alt+T\" aria-live=\"polite\" aria-relevant=\"additions text\" aria-atomic=\"false\"></section>\n</div>\n<div id=\"xiaomei-toaster-container\" style=\"position: fixed; top: 0px; left: 0px; width: 100%; z-index: 2147483647; pointer-events: none;\" data-v-app=\"\">\n<p><!-- Remove item from normal navigation flow, only available via hotkey --></p>\n<section tabindex=\"-1\" aria-label=\"Notifications alt+T\" aria-live=\"polite\" aria-relevant=\"additions text\" aria-atomic=\"false\"></section>\n</div>\n<div id=\"xiaomei-root-element\" class=\"xiaomei-root-element\" style=\"position: absolute; top: 0px; left: 0px; z-index: 2147483647;\"></div>\n<div id=\"xiaomei-root-element\" class=\"xiaomei-root-element\" style=\"position: absolute; top: 0px; left: 0px; z-index: 2147483647;\"></div>\n<div id=\"xiaomei-root-element\" class=\"xiaomei-root-element\" style=\"position: absolute; top: 0px; left: 0px; z-index: 2147483647;\"></div>\n<div id=\"xiaomei-root-element\" class=\"xiaomei-root-element\" style=\"position: absolute; top: 0px; left: 0px; z-index: 2147483647;\"></div>"
+        "title": "SheepGeo 的应用场景",
+        "html": "<p>SheepGeo 文档里每个模块都标注了适用时机，对应到实际需求大致是：</p><ul><li>品牌首次建站：用项目向导把品牌画像和查询主题定下来；</li><li>网站体检：需要一份整体 AI 可见性评分与改进方向时做网站分析；</li><li>验证品牌曝光：想知道某个品牌有没有被 AI 提及、提在哪里时做可见性检测；</li><li>选题与内容规划：用关键词渗透结果反推该写哪些问题；</li><li>竞品对标：比较同类问题下自己和竞品的被推荐情况；</li><li>长期监测与汇报：用品牌监控与报告中心跟踪趋势并输出材料。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "pagentia-com",
@@ -31991,35 +32065,23 @@
     "domain": "aippy.ai",
     "detailed_content": [
       {
-        "title": "Aippy是什么",
-        "html": "<p>Aippy 是赤子城科技推出的 AI 游戏生成社区，被誉为”游戏版TikTok”。用户通过语音或文字描述（如”做一个打僵尸游戏”），AI可生成可玩的互动作品。Aippy 采用竖屏Feed流形式，即刷即玩。Aippy支持Remix二创功能，用户可一键改编他人作品，形成内容生长飞轮。Aippy将游戏创作门槛降为零，让每个人都能成为游戏创作者，是AI时代UGC游戏社区的早期探索者。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/04/Aippy-website-2.png\" data-fancybox=\"fancybox\" data-caption=\"Aippy\"><img decoding=\"async\" class=\"alignnone wp-image-74847\" src=\"https://ai-bot.cn/wp-content/uploads/2026/04/Aippy-website-2.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Aippy\" width=\"740\" height=\"417\"></a>"
+        "title": "Aippy 是什么",
+        "html": "<p>Aippy 官方文档把自己称作「把想法变成可运行项目的 AI 队友」。用户只需要用自然语言描述想做的产品，Aippy 会把它变成可用的应用、网站或小工具，全程不需要写代码。文档强调整个流程发生在浏览器里，从落地页到全栈应用都能在同一个标签页中创建、复用与分享。换句话说，Aippy 想替代的是一段原本要从零搭环境的开发前置流程。</p>"
       },
       {
-        "title": "Aippy的主要功能",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>AI 自然语言生成</strong>：用户通过自然语言描述游戏需求，AI 会自动生成可玩的互动小游戏或数字玩具。</li>\n<li class=\"paragraph\"><strong>竖屏 Feed 流展示</strong>：产品采用类似 TikTok 的竖屏信息流形式，用户向上滑动即可即点即玩，无需下载安装或等待加载。</li>\n<li class=\"paragraph\"><strong>双栏实时编辑</strong>：创作界面提供 Chat 和 Preview 两个栏目，用户可在 Chat 中用自然语言修改功能或修复问题，同时在 Preview 中实时预览游戏效果。</li>\n<li class=\"paragraph\"><strong>Remix 二创机制</strong>：支持一键改编社区内的任何作品，用户可基于现有游戏添加新功能、调整参数或更换主题，形成内容持续生长的创作链条。</li>\n<li class=\"paragraph\"><strong>Idea 灵感模板</strong>：内置创意框架库，为缺乏灵感的新手提供预设模板，帮助快速上手保证社区内容质量的基线水平。</li>\n</ul>"
+        "title": "Aippy 的主要功能",
+        "html": "<p>Aippy 的文档用一张能力表概括了它的产品功能，逐条对应如下：</p><ul><li>提示词生成应用：根据自然语言输入生成可运行的前端项目；</li><li>实时预览与历史追踪：边改边看渲染结果，并支持一键回滚到之前的版本；</li><li>即时部署：用较少的配置把项目发布出去，跨越不同运行环境；</li><li>全栈支持：可以处理后端逻辑与数据库接入；</li><li>界面即时编辑：直接对页面上的文字与样式做修改；</li><li>文档体系：官方提供 Quickstart、Features、Instant Edit、Ultimate Design Guide、Use Cases 等指引，并配有 Changelog 与 Roadmap。</li></ul>"
       },
       {
-        "title": "如何使用Aippy",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>访问官网</strong>：访问 Aippy 官网 https://aippy.ai/ ，点击创作按钮进入游戏制作界面，准备开始生成互动作品。</li>\n<li class=\"paragraph\"><strong class=\"\">输入需求</strong>：在输入框中用语音或文字描述你想要的游戏内容，例如”做一个打僵尸的小游戏”或”设计一个坦克闯关游戏”。</li>\n<li class=\"paragraph\"><strong>生成预览</strong>：等待 AI 根据描述自动生成可玩的互动小游戏，生成完成后系统会在 Preview 栏展示预览效果。</li>\n<li class=\"paragraph\"><strong>调整优化</strong>：在 Preview 栏实时试玩游戏体验，同时在 Chat 栏用自然语言提出修改需求，如”增加连击功能”或”加入血量条显示”。</li>\n<li class=\"paragraph\"><strong class=\"\">获取灵感</strong>：如需灵感辅助，可点击 Idea 按钮选择系统推荐的创意模板或功能模块，快速完善游戏设定并提升作品完整度。</li>\n<li class=\"paragraph\"><strong>发布作品</strong>：完成创作后点击右上角的 Post 按钮，将作品一键发布到社区 Feed 流供其他用户游玩和互动。</li>\n</ul>"
+        "title": "如何使用 Aippy",
+        "html": "<p>官方 Quickstart 给出的流程很直接，按顺序操作即可：</p><ol><li>打开 Aippy 并描述你想要的页面或应用；</li><li>等待 Aippy 生成第一版可运行的项目；</li><li>在实时预览中检查效果，用自然语言或即时编辑功能继续修改；</li><li>如果改坏了，用历史记录回滚到之前的版本；</li><li>确认无误后一键部署，把项目推上线并分享给别人。</li></ol>"
       },
       {
-        "title": "Aippy的关键信息和使用要求",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>产品定位：</strong>&nbsp;Aippy 是赤子城科技推出的”游戏版 TikTok”，一款主打 AI 生成游戏的纯出海 UGC 平台，致力于将游戏创作门槛降为零。</li>\n<li class=\"paragraph\"><strong class=\"\">团队背景：</strong>&nbsp;由国内第一批出海创业者打造，母公司为深耕海外多年的上市公司赤子城科技。</li>\n<li class=\"paragraph\"><strong>核心机制：</strong>&nbsp;采用”AI 生成 + 竖屏 Feed 流 + Remix 二创”三位一体模式，用户说一句话即可生成可玩的小游戏，支持一键改编他人作品形成内容生长飞轮。</li>\n<li class=\"paragraph\"><strong>上线时间：</strong>&nbsp;2025 年初上线 Web 端，同年 6 月推出 iOS 和 Android Beta 版，是该品类中启动最早的产品之一。</li>\n<li class=\"paragraph\"><strong class=\"\">下载方式：</strong>&nbsp;目前需在海外 App Store 或 Google Play 下载应用，也可通过官网访问 Web 端。</li>\n</ul>"
-      },
-      {
-        "title": "Aippy的核心优势",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>先发经验优势</strong>：作为 2025 年初就上线的早期入局者，Aippy 在 AI 游戏生成领域积累了丰富的产品迭代经验和用户数据沉淀。</li>\n<li class=\"paragraph\"><strong>出海团队优势</strong>：背靠赤子城科技这家深耕海外多年的上市公司，团队拥有丰富的国际化运营经验和本土资源，专注服务全球用户。</li>\n<li class=\"paragraph\"><strong>极致体验优势</strong>：采用”说一句话即可生成游戏”的极低门槛设计，配合竖屏 Feed 流即刷即玩的无缝体验，彻底砍掉传统游戏的下载安装路径。</li>\n<li class=\"paragraph\"><strong>内容生态优势</strong>：独特的 Remix 二创机制让好创意在社区中自然生长裂变，配合 Idea 灵感模板降低创作门槛，形成”创作-消费-再创作”的良性循环飞轮。</li>\n<li class=\"paragraph\"><strong>实时编辑优势</strong>：Chat 和 Preview 双栏实时交互设计，支持用自然语言即时修改游戏功能并同步预览效果，让创作迭代过程直观高效。</li>\n</ul>"
-      },
-      {
-        "title": "Aippy的同类竞品对比",
-        "html": "<table data-v-efc3611b=\"\">\n<thead data-v-efc3611b=\"\">\n<tr data-v-efc3611b=\"\">\n<th align=\"left\" data-v-efc3611b=\"\">对比维度</th>\n<th align=\"left\" data-v-efc3611b=\"\">Aippy</th>\n<th align=\"left\" data-v-efc3611b=\"\">Gizmo</th>\n<th align=\"left\" data-v-efc3611b=\"\"><a href=\"https://ai-bot.cn/sekai/\" target=\"_blank\" rel=\"noopener\">Sekai</a></th>\n</tr>\n</thead>\n<tbody data-v-efc3611b=\"\">\n<tr data-v-efc3611b=\"\">\n<td align=\"left\" data-v-efc3611b=\"\"><strong class=\"\" data-v-efc3611b=\"\">团队背景</strong></td>\n<td class=\"\" align=\"left\" data-v-efc3611b=\"\">赤子城科技<br data-v-efc3611b=\"\">（华人团队，第一批出海创业者）</td>\n<td class=\"\" align=\"left\" data-v-efc3611b=\"\">海外创业团队</td>\n<td align=\"left\" data-v-efc3611b=\"\">海外创业团队</td>\n</tr>\n<tr data-v-efc3611b=\"\">\n<td class=\"\" align=\"left\" data-v-efc3611b=\"\"><strong data-v-efc3611b=\"\">上线时间</strong></td>\n<td class=\"\" align=\"left\" data-v-efc3611b=\"\">2025年初 Web 端<br data-v-efc3611b=\"\">2025年6月移动端 Beta</td>\n<td class=\"\" align=\"left\" data-v-efc3611b=\"\">2025年中后段</td>\n<td class=\"\" align=\"left\" data-v-efc3611b=\"\">2025年中后段</td>\n</tr>\n<tr data-v-efc3611b=\"\">\n<td class=\"\" align=\"left\" data-v-efc3611b=\"\"><strong data-v-efc3611b=\"\">融资/背景</strong></td>\n<td class=\"\" align=\"left\" data-v-efc3611b=\"\">上市公司资源支撑<br data-v-efc3611b=\"\">未公开独立融资</td>\n<td align=\"left\" data-v-efc3611b=\"\">First Round Capital<br data-v-efc3611b=\"\">种子轮投资</td>\n<td class=\"\" align=\"left\" data-v-efc3611b=\"\">a16z 投资背书</td>\n</tr>\n<tr data-v-efc3611b=\"\">\n<td align=\"left\" data-v-efc3611b=\"\"><strong data-v-efc3611b=\"\">产品特点</strong></td>\n<td class=\"\" align=\"left\" data-v-efc3611b=\"\">语音生成、Idea灵感模板<br data-v-efc3611b=\"\">Chat/Preview 双栏实时编辑</td>\n<td align=\"left\" data-v-efc3611b=\"\">AI生成+竖屏 Feed 流<br data-v-efc3611b=\"\">强调社区互动体验</td>\n<td class=\"\" align=\"left\" data-v-efc3611b=\"\">AI生成+社区 Remix<br data-v-efc3611b=\"\">侧重海外创作者生态</td>\n</tr>\n<tr data-v-efc3611b=\"\">\n<td align=\"left\" data-v-efc3611b=\"\"><strong data-v-efc3611b=\"\">当前状态</strong></td>\n<td class=\"\" align=\"left\" data-v-efc3611b=\"\">已上线<br data-v-efc3611b=\"\">iOS/Android/Web</td>\n<td class=\"\" align=\"left\" data-v-efc3611b=\"\">已上线<br data-v-efc3611b=\"\">市场声量较高</td>\n<td class=\"\" align=\"left\" data-v-efc3611b=\"\">已上线<br data-v-efc3611b=\"\">VC 关注度高</td>\n</tr>\n</tbody>\n</table>"
-      },
-      {
-        "title": "Aippy的应用场景",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>碎片化娱乐</strong>：用户在通勤或休息时间通过竖屏 Feed 流即刷即玩各类轻量级小游戏和互动测试，无需下载安装可获得即时娱乐体验。</li>\n<li class=\"paragraph\"><strong>零门槛创作</strong>：普通用户无需编程基础或美术资源，仅通过语音或文字描述就能在几分钟内生成属于自己的个性化小游戏或数字玩具。</li>\n<li class=\"paragraph\"><strong>创意二创</strong>：创作者可基于社区内的热门游戏模板进行 Remix 改编，快速添加新功能或调整玩法，形成创意迭代和内容演化。</li>\n<li class=\"paragraph\"><strong>灵感验证</strong>：游戏爱好者或独立开发者可快速将脑海中的创意点子转化为可玩原型，低成本验证游戏机制的可行性和趣味性。</li>\n<li class=\"paragraph\"><strong>社交分享</strong>：用户创作完成的互动作品可一键发布到社区，通过游戏内容与其他玩家建立连接，形成基于游戏创作的社交互动。</li>\n</ul>"
+        "title": "Aippy 的应用场景",
+        "html": "<p>官方文档把使用场景单独列了一节，结合它的能力边界，比较常见的用法有：</p><ul><li>快速做落地页：给产品、活动或想法临时搭一个可访问的页面；</li><li>验证想法：在动手写代码之前，先用 Aippy 做出原型确认方向；</li><li>内部小工具：把重复性的表单、清单类需求做成网页工具；</li><li>全栈练习：借助后端逻辑与数据库接入，试着把项目从演示推进到可用；</li><li>教学演示：在浏览器里直接展示从描述到成品的过程。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "tool67000",
@@ -34683,23 +34745,23 @@
     "domain": "openai.com",
     "detailed_content": [
       {
-        "title": "GPT-4介绍",
-        "html": "<p>GPT-4（Generative Pre-trained Transformer）是 OpenAI 开发的<a href=\"https://ai-bot.cn/what-is-nlp-natural-language-processing/\">自然语言处理</a>模型 GPT 家族中的第四个版本，该模型依靠强大的<a href=\"https://ai-bot.cn/what-is-neural-network/\">神经网络</a>来理解和生成类似人类的语言。</p>\n<div class=\"io-edit-post-card-content\"><div class=\"url-card shortcode-url site_0 mx-auto \" style=\"max-width:420px\">        <div class=\"card flex-fill mb-3\">\n            <div class=\"row no-gutters\">\n                <div class=\"col-4\">\n                <div class=\"media media-4x3 rounded-left\">\n                                        <a class=\"media-content\" href=\"https://ai-bot.cn/how-to-use-gpt-4-for-free/\" target=\"_blank\" src=\"https://ai-bot.cn/wp-content/uploads/2023/06/how-to-use-gpt-4-free.png\"></a>\n                                    </div>\n                </div>\n                <div class=\"col-8\">\n                    <div class=\"card-body list-content p-2\" style=\"height: 100%;\"> \n                        <div class=\"list-body\"> \n                            <a href=\"https://ai-bot.cn/how-to-use-gpt-4-for-free/\" title=\"如何免费使用GPT-4？不开会员的6种方法\" class=\"list-title no-c overflowClip_1\" target=\"_blank\">如何免费使用GPT-4？不开会员的6种方法</a>\n                            <div class=\"list-desc d-none d-md-block text-sm text-secondary my-3\">\n                        <div class=\"overflowClip_2 \">目前官方版的GPT-4仅能通过ChatGPT Plus付费会员才能使用，免费版的ChatGPT无法使用最新的GPT-4，而Plus版本需要每个月花费20美元来订阅，并且国内付款非常困...</div>\n                    </div>\n                        </div>\n                        <div>\n                            <div class=\"d-flex flex-fill align-items-center text-muted text-xs\">\n                                                                <span><i class=\"iconfont icon-classification\"></i>\n                                    <a href=\"https://ai-bot.cn/ai-tutorials/\" class=\"no-c\" target=\"_blank\">AI教程</a>\n                                </span>\n                                                                <div class=\"flex-fill\"></div>\n                                <div>\n                                    <time class=\"mx-1\">3年前 (2023)</time>\n                                </div>\n                            </div>      \n                        </div>  \n                    </div>\n                </div>\n            </div>\n        </div>\n</div></div>\n<p>GPT-4 通过使用被称为「转换器（Transformer）」的特殊架构来帮助软件理解单词的含义以及它们在句子中的组合方式。通俗来讲，Transformer帮助计算机找出如何将所有的词以正确的顺序放在一起，使之有意义。</p>\n<p>之所以采用这样的方法，是因为该模型已经在一个巨大的数据集上进行了训练，其中包括来自不同来源的文本，如书籍、文章和网站。这种训练使 GPT-4 模型能够进行类似人类的对话，并产生看似有意义的回应。不过虽然 GPT-4 创造的文本和回应读起来像人，但它远远不是有意识的智能，离<a href=\"https://ai-bot.cn/what-is-agi-artificial-general-intelligence/\">通用人工智能</a>还有距离。</p>"
+        "title": "GPT-4 是什么",
+        "html": "<p>GPT-4 是 OpenAI 于 2023 年 3 月 14 日发布的大语言模型，官方在发布说明中称它是当时公司最先进的系统，能够给出更安全也更有用的回答。按照官方对能力边界的描述，GPT-4 可以和用户一起在创作类与技术类写作任务上反复生成、编辑和迭代，例如编曲填词、撰写剧本，或者学习并沿用某位用户的写作风格。这份发布说明还回顾了从 GPT 到 GPT-2、GPT-3 的技术路径，说明模型能力来自更多数据与更多算力的训练思路。</p>"
       },
       {
-        "title": "GPT-4的工作原理",
-        "html": "<p>GPT-4通过与其前身（GPT-3.5）相同的基本流程工作，但规模更大，以下是其主要的工作原理：</p>\n<ul>\n<li>Transformer架构： GPT-4是使用一种叫做「Transformer」的设计来构建的，这些转换器就像超级智能机器，能够理解一句话中哪些词是重要的，以及它们之间的关系。</li>\n<li>大规模的预训练： GPT-4从大量的文本中学习，如书籍、网站和文章，这样一来，它就能更好地理解语言模式、语法和事实。</li>\n<li>微调（Fine-tuning）： 在从大量文本中学习后，GPT-4会在特定的任务中接受训练，如回答问题或理解文本中的情感，这有助于它在处理这些任务时变得更加出色。</li>\n<li>分词（Tokenization）： GPT-4将文本分解成更小的部分，称为「tokens」，这些token可以是单词或单词的一部分，这有助于它处理不同的语言并理解词语的含义。</li>\n<li>上下文窗口（Context window）： GPT-4有一个限制，即它可以一次查看多少个token。这个限制有助于它理解语境和单词之间的关系，但这也意味着它不一定能理解很长的句子或段落。</li>\n<li>概率分布和抽样： 当GPT-4生成文本时，它根据模型认为每个词的可能性的大小来猜测下一个词。然后，它从这些猜测中挑选出一个词，使其够创造出多样化和有趣的句子。</li>\n<li>细粒度控制（Fine-grained control）： GPT-4可以通过使用特殊提示或调整其设置等技巧，引导它给出特定类型的答案或文本，以帮助从该模型中获得我们想要的结果。</li>\n</ul>"
+        "title": "GPT-4 的主要功能",
+        "html": "<p>OpenAI 在这份发布说明里重点讲了 GPT-4 的安全与对齐工作，也从侧面交代了它的能力：</p><ul><li>创作与技术写作：可以在歌曲、剧本等文本上生成、编辑与多轮迭代；</li><li>风格适配：官方提到模型能够学习某位用户的写作风格并延续使用；</li><li>人类反馈训练：训练过程引入了更多人类反馈，包括 ChatGPT 用户提交的反馈；</li><li>外部专家参与：官方与 50 多位来自 AI 安全与安全等领域的专家合作收集早期意见；</li><li>持续改进：把此前模型在真实使用中积累的经验用到 GPT-4 的安全研究与监控体系中；</li><li>评测表现：据发布说明引用的 OpenAI 内部评测，GPT-4 相比 GPT-3.5 更少回应被禁止的内容，也更能给出有事实依据的回答。</li></ul>"
       },
       {
-        "title": "ChatGPT和GPT-4的区别",
-        "html": "<p><a href=\"https://ai-bot.cn/sites/30.html\">ChatGPT</a> 和 GPT-4 并不是同一回事，ChatGPT 是基于 GPT-3.5 和 GPT-4 模型的，专门为对话式人工智能应用而设计的，比如根据用户输入生成类似人类的文本回复。</p>\n<p>而GPT-4指的是GPT系列<a href=\"https://ai-bot.cn/what-is-large-language-model/\">大语言模型</a>的当前版本——驱动ChatGPT的引擎。</p>\n<p>ChatGPT提供的输出读起来更自然，GPT-4更强大，在输入/输出方面可以处理更多文本。</p>"
+        "title": "如何使用 GPT-4",
+        "html": "<p>这份发布说明本身是介绍性质的页面，实际操作入口指向 OpenAI 的对话产品，路径大致如下：</p><ol><li>打开 OpenAI 的对话产品并登录账号；</li><li>在模型列表中确认当前可用的模型版本；</li><li>用自然语言描述任务，需要特定文风时把样文一并提供给它；</li><li>对输出结果提出具体修改意见，让 GPT-4 逐轮调整；</li><li>需要了解模型细节或横向比较时，回到 OpenAI 的模型说明与研究页面查看。</li></ol>"
       },
       {
-        "title": "GPT-4可以免费访问吗？",
-        "html": "<p>这个问题的答案：是也不是。</p>\n<p>用户可以通过ChatGPT、New Bing等软件访问GPT-4，这些平台使用GPT-4来生成内容并与用户互动。然而，GPT-4只有在ChatGPT Plus付费计划下才能使用，或者作为开发者建立应用程序和服务的API。New Bing（新必应）可以每天免费有限次数使用GPT-4驱动的AI聊天，而独立用户在这些人工智能聊天机器人平台之外没有机会使用GPT-4。</p>"
+        "title": "GPT-4 的应用场景",
+        "html": "<p>官方在说明中举的例子本身就指向了几类用法，结合它的写作能力可以归成：</p><ul><li>创意写作：用 GPT-4 起草歌词、剧本一类内容再反复打磨；</li><li>技术写作：协助整理文档、说明与结构化文本；</li><li>风格仿写：投喂自己的旧稿，让 GPT-4 沿用同一套表达习惯；</li><li>模型能力评估：把官方发布说明当作了解该模型定位与安全策略的入口；</li><li>选型参考：与其他版本的对比信息放在一起，判断是否需要更强或更轻的模型。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-29"
+    "updatedAt": "2026-10-01"
   },
   {
     "slug": "tool50",
