@@ -229,6 +229,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/xunfei-article</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/xunfei-article.png</image:loc>
+      <image:title>讯飞绘文 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tool22626</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -328,6 +337,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/loomi-live</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/loomi-live.png</image:loc>
+      <image:title>Loomi logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/xiaoyuxiezuo-com</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -373,12 +391,30 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool67827</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool67827.png</image:loc>
+      <image:title>讯飞文书 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tool63152</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <image:image>
       <image:loc>/logos/tool63152.png</image:loc>
       <image:title>华文笔杆 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/gongwenbao666-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/gongwenbao666-com.png</image:loc>
+      <image:title>公文宝 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -424,6 +460,15 @@
     <image:image>
       <image:loc>/logos/tool59730.png</image:loc>
       <image:title>掌桥科研AI论文 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool59700</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool59700.jpg</image:loc>
+      <image:title>灵犀速写 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -496,6 +541,15 @@
     <image:image>
       <image:loc>/logos/wordvice-ai.png</image:loc>
       <image:title>Wordvice AI logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/write-youdao-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/write-youdao-com.png</image:loc>
+      <image:title>有道写作 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -769,6 +823,24 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/fengniaoai-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/fengniaoai-com.png</image:loc>
+      <image:title>蜂鸟AI logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/jiaodianai-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/jiaodianai-com.png</image:loc>
+      <image:title>蕉点AI logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/marketing-k-fashionshop-com</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -865,6 +937,15 @@
     <image:image>
       <image:loc>/logos/omma-build.png</image:loc>
       <image:title>Omma logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/zaohaowu-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/zaohaowu-com.png</image:loc>
+      <image:title>造好物 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -1363,6 +1444,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/soundviewai-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/soundviewai-com.jpg</image:loc>
+      <image:title>SoundView logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/chanjing-cc</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1426,12 +1516,30 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/lingya-qq-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/lingya-qq-com.png</image:loc>
+      <image:title>灵芽社区 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/makefun-ai</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <image:image>
       <image:loc>/logos/makefun-ai.png</image:loc>
       <image:title>Makefun logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/lumen-flow</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/lumen-flow.png</image:loc>
+      <image:title>Lumen Flow logo</image:title>
     </image:image>
   </url>
   <url>
@@ -1597,6 +1705,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/anishort-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/anishort-ai.png</image:loc>
+      <image:title>AniShort logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/xianchou-com</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1723,6 +1840,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/moki-cn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/moki-cn.png</image:loc>
+      <image:title>MOKI logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tool987</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1828,6 +1954,15 @@
     <image:image>
       <image:loc>/logos/picdoc-cn.png</image:loc>
       <image:title>PicDoc logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/narraland-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/narraland-com.png</image:loc>
+      <image:title>NarraLand logo</image:title>
     </image:image>
   </url>
   <url>
@@ -2044,6 +2179,15 @@
     <image:image>
       <image:loc>/logos/qiuzhifangzhou-com.png</image:loc>
       <image:title>求职方舟AI logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/niumianoffer-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/niumianoffer-com.png</image:loc>
+      <image:title>牛面 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -2281,6 +2425,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/winclaw-winicssec-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/winclaw-winicssec-com.png</image:loc>
+      <image:title>WinClaw logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/skillhub-tencent-com</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2413,6 +2566,15 @@
     <image:image>
       <image:loc>/logos/ciyuan-ideaflow-pro.png</image:loc>
       <image:title>造梦次元 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/taichu-web-ia-ac-cn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/taichu-web-ia-ac-cn.png</image:loc>
+      <image:title>紫东太初 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -2713,6 +2875,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool75064</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool75064.jpg</image:loc>
+      <image:title>逗哥配音神器 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tunee-ai</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2890,6 +3061,15 @@
     <image:image>
       <image:loc>/logos/openrouter-ai.png</image:loc>
       <image:title>OpenRouter logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tokendance-space</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tokendance-space.png</image:loc>
+      <image:title>TokenDance logo</image:title>
     </image:image>
   </url>
   <url>
