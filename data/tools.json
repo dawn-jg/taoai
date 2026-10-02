@@ -556,8 +556,25 @@
     "subcategory": "ai-search-engine",
     "logo": "/logos/perplexity.png",
     "domain": "perplexity.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Perplexity 是什么",
+        "html": "<p>Perplexity 提供的是检索与问答能力，官方文档用一句话概括它的定位——「用实时、覆盖全网的检索与问答为你的产品供能」。它给出的回答建立在实时读取网页内容的基础上，并在结果里附带引用来源，方便回溯信息从哪里来。</p><p>除面向个人的问答产品之外，Perplexity 还有一整套开发者接口。文档中心把能力拆成多条 API：Router API、Agent API、Search API、Embeddings API 与 Decisions API，另外配有 Perplexity SDK、命令行工具与 MCP，让这套能力可以被接进第三方应用。</p>"
+      },
+      {
+        "title": "Perplexity 的主要功能",
+        "html": "<p>翻一遍 Perplexity 的文档目录，能整理出下面这些能力模块：</p><ul><li><strong>Search API</strong>：提供搜索能力，文档单独给出快速搜索与最佳实践两份指引。</li><li><strong>Agent API</strong>：一次调用即返回带引用的网络问答结果，也可以在其中调用第三方模型。</li><li><strong>Router API</strong>：用一个兼容 OpenAI 的端点，统一访问由 Perplexity 托管的开放权重模型。</li><li><strong>Embeddings API</strong>：区分标准嵌入与上下文化嵌入两种方案。</li><li><strong>Decisions API</strong>：面向需要作出判断的任务提供接口。</li><li><strong>SDK 与工具链</strong>：包含 Perplexity SDK、命令行工具与 MCP 接入方式。</li><li><strong>管理与计量</strong>：涉及登录、项目与账单、API Key 管理、分析 API，以及速率限制与用量层级。</li><li><strong>辅助资源</strong>：集成清单、路线图、隐私与安全说明、常见问题、系统状态与更新日志。</li></ul>"
+      },
+      {
+        "title": "如何使用 Perplexity",
+        "html": "<p>Perplexity 把开发者的接入路径写成了文档里的 Getting Started 一章，按它给出的顺序推进会比较稳：</p><ol><li>进入 Perplexity 文档中心，先读 Getting Started 下的 Overview，弄清各条 API 的边界。</li><li>接着看 Quickstart 与 Pricing，确认调用方式与计费口径。</li><li>在管理后台完成登录，建立项目并生成 API Key，把密钥保存在服务端。</li><li>按业务场景挑一条 API 起步，例如先用 Search API 做检索，再用 Agent API 拿到带引用的回答。</li><li>如果你的代码原本调用 OpenAI 接口，可参考文档里的兼容说明做迁移。</li><li>上线后通过分析 API、用量层级与速率限制页面盯住调用量与成本。</li></ol>"
+      },
+      {
+        "title": "Perplexity 的应用场景",
+        "html": "<p>从 Perplexity 文档展示的能力组合看，它更容易被用在「需要实时信息、且答案要有出处」的环节：</p><ul><li><strong>站内问答入口</strong>：为产品内置一个能读网页、带引用的回答模块。</li><li><strong>资料检索整理</strong>：面向研究或情报类任务，先拿到一段带来源的综述再人工核验。</li><li><strong>检索增强的二次开发</strong>：把 Search API 与 Embeddings API 组合进自有知识流程。</li><li><strong>多模型统一调用</strong>：通过 Router API 在同一个兼容端点下切换不同的开放权重模型。</li><li><strong>合规与安全评估</strong>：借助文档里的爬虫说明、隐私与安全章节评估接入风险。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-02"
   },
   {
     "slug": "gamma-app",
@@ -3745,8 +3762,25 @@
     "subcategory": "ai-writing-novel",
     "logo": "/logos/tool575.png",
     "domain": "write.bigan.net",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Spell.tools 是什么",
+        "html": "<p>Spell.tools 是一个面向营销内容的 AI 写作站点，产品本身叫 Spell。官方首页把它的用途写得很直白：让 AI 帮你写内容，省时间也省力气，在几分钟内产出一连串想法，并给出经过打磨、贴合品牌的文案。</p><p>它的落点不在「写小说」或「写论文」，而是围绕转化率展开的营销文字。首页用商品描述作为演示场景，说明这类内容正是它最典型的输出对象。</p>"
+      },
+      {
+        "title": "Spell.tools 的主要功能",
+        "html": "<p>从官方首页的演示与说明里，可以整理出 Spell.tools 的这些能力要点：</p><ul><li><strong>商品描述生成</strong>：输入产品名称、标签与目标受众等信息，直接得到对应的商品文案。</li><li><strong>创意批量产出</strong>：官方强调能在很短时间内给出源源不断的想法，用于化解选题枯竭。</li><li><strong>文案风格可控</strong>：输出被描述为经过润色、带个性化、且与主题相关的成稿，而不是生硬模板。</li><li><strong>模型训练口径</strong>：官方说明其模型基于表现靠前的品牌内容训练，目标是写出容易被看见的文案。</li><li><strong>从少量信息成稿</strong>：把几个关键细节填进去，几秒钟即可扩展成完整营销内容。</li><li><strong>免费起步</strong>：首页提供登录与注册入口，可先试用再决定是否购买方案。</li></ul>"
+      },
+      {
+        "title": "如何使用 Spell.tools",
+        "html": "<p>官方首页的演示把 Spell.tools 的操作压缩成了几个字段加一次生成，路径大致如下：</p><ol><li>打开 Spell.tools 首页，注册账号并登录。</li><li>进入写作界面，确认这次要生成的内容类型，首页示例是商品描述。</li><li>填写产品名称，再补充标签与目标受众这类限定信息。</li><li>点击生成，让工具按你给出的信息写出成稿。</li><li>检查语气与卖点是否准确，不满意的部分重新调整字段再生成一次。</li><li>确定要长期使用时，到定价页选择合适的方案。</li></ol>"
+      },
+      {
+        "title": "Spell.tools 的应用场景",
+        "html": "<p>Spell.tools 把营销文案当作核心产出，因此更贴合需要大量、反复出稿的内容岗位：</p><ul><li><strong>电商运营</strong>：为一批商品快速补齐标题与详情描述，保持叙述风格一致。</li><li><strong>广告与落地页</strong>：一次生成多个版本的卖点表述，用于小范围投放测试。</li><li><strong>社交媒体</strong>：围绕同一活动写出不同角度的短文案，支撑多平台发布节奏。</li><li><strong>品牌内容初稿</strong>：由 AI 先出一版结构完整的稿子，再交由人工打磨定稿。</li><li><strong>小团队节省外包成本</strong>：在预算有限时先把基础文案补齐，把人工精力留给关键稿件。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-02"
   },
   {
     "slug": "tool577",
@@ -4546,23 +4580,23 @@
     "domain": "tongyi.aliyun.com",
     "detailed_content": [
       {
-        "title": "通义万相是什么",
-        "html": "<p>通义万相是阿里云推出的AI创意内容生成平台，基于先进的人工智能技术，帮助用户将创意转化为艺术作品。用户可以通过简单的操作，实现个性化的绘画和视频创作。平台支持多种风格和元素，适用于个人艺术创作、设计辅助等领域，为艺术家和设计师提供强大的创意支持。平台已上线万相2.1模型，推出17种创意模板新风格，为设计师和创意爱好者提供全新的视觉表达自由度。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-58078\" src=\"https://ai-bot.cn/wp-content/uploads/2025/07/tongyiwanxiang-website-1.png\"   alt=\"通义万相\" width=\"741\" height=\"417\" />"
+        "title": "通义万相 是什么",
+        "html": "<p>通义万相是阿里云大模型服务平台百炼上的一组图像生成与编辑模型。官方文档以万相 2.5 的通用图像编辑为例说明它的核心能力：只需要文本指令，就能基于单张或多张参考图像，完成主体一致的图像编辑、多图融合等任务。</p><p>从产品形态看，通义万相既可以在阿里云的控制台里直接体验，也以 API 的形式对外开放，走的是「平台 + 模型 + 接口」的路线，适合被集成进已有的图像处理流程。</p>"
       },
       {
-        "title": "通义万相的主要功能",
-        "html": "<ul>\n<li><strong>智能创作</strong>：基于AI算法，根据用户输入的关键词或描述自动生成艺术画作。</li>\n<li><strong>风格定制</strong>：提供多种艺术风格选项，用户可以根据个人喜好选择不同的风格进行创作。</li>\n<li><strong>图像编辑</strong>：支持用户对生成的图像进行进一步的编辑和调整，满足更精细的创作需求。</li>\n<li><strong>多媒介支持</strong>：支持多种图像格式的输入和输出，方便用户在不同平台上使用和分享。</li>\n<li><strong>AI视频生成</strong>：通义万相推出了自研的AI视频生成大模型，能根据提示词生成具有影视级画面质感的视频。可通过官网预约体验。</li>\n<li><strong>概念理解与组合生成</strong>：模型擅长理解复杂的提示词并组合生成视频内容，支持多种艺术风格。</li>\n<li><strong>优化中式元素</strong>：特别优化了中式元素的表现，使生成的视频能够更好地展现中国风。</li>\n<li><strong>多语言支持</strong>：支持多语言输入，用户可以使用不同语言的提示词来生成视频。</li>\n<li><strong>可变分辨率生成</strong>：用户可以根据需要选择不同的视频分辨率，适应不同的播放需求。</li>\n<li><strong>物理世界运动重现</strong>：具备强大的运动生成能力，能模拟真实世界的物理规律，生成复杂和大幅度的运动场景。</li>\n<li><strong>语义理解</strong>：原生支持中文长文本提示词，能精准地将文字创意转化为视频内容。</li>\n</ul>"
+        "title": "通义万相 的主要功能",
+        "html": "<p>官方 API 文档把通义万相 2.5 通用图像编辑的能力与调用约束写得很细，可以整理如下：</p><ul><li><strong>单图编辑</strong>：给一张参考图加一句文本指令，就能完成指定修改。</li><li><strong>多图融合</strong>：把多张参考图像按指令合成到同一个画面里。</li><li><strong>输出规格可控</strong>：输出为 PNG，分辨率通过 parameters.size 参数按「宽*高」指定；不指定时默认生成总像素 1280×1280 的图，并保持宽高比。</li><li><strong>宽高比规则</strong>：单图输入时与输入图的宽高比一致，多图输入时与最后一张输入图一致。</li><li><strong>异步任务模式</strong>：图像编辑耗时较长，接口以创建任务再查询结果的方式运行。</li><li><strong>多语言 SDK</strong>：提供 DashScope 的 Python 与 Java SDK，也支持 HTTP 直接调用。</li><li><strong>地域隔离</strong>：华北 2（北京）与新加坡地域的 API Key 与请求地址相互独立，不可混用。</li></ul>"
       },
       {
-        "title": "如何使用通义万相",
-        "html": "<ul>\n<li><strong>访问平台</strong>：<span style=\"font-size: 0.875rem;\">访问通义万相的官网 https://tongyi.aliyun.com/wan/ 。</span></li>\n<li><strong>注册/登录</strong>：<span style=\"font-size: 0.875rem;\">新用户需要注册账号。</span><span style=\"font-size: 0.875rem;\">如果已有账号，直接登录即可。</span></li>\n<li><strong>了解功能</strong>：<span style=\"font-size: 0.875rem;\">浏览网站提供的教程和指南，了解平台的主要功能和操作方法。</span></li>\n<li><strong>选择功能</strong>：<span style=\"font-size: 0.875rem;\">根据想要创作的类型，选择“创意作画”或“视频生成”功能。</span></li>\n<li><strong>输入提示词</strong>：<span style=\"font-size: 0.875rem;\">在相应的输入框中输入想要生成内容的提示词或描述。对于视频生成，可能包括场景、动作、风格等描述。</span></li>\n<li><strong>选择风格和参数</strong>：<span style=\"font-size: 0.875rem;\">根据需要，选择艺术风格、分辨率、语言等参数。</span></li>\n<li><strong>生成内容</strong>：<span style=\"font-size: 0.875rem;\">点击生成按钮，AI模型将根据您提供的提示词和选择的参数进行创作。</span></li>\n</ul>"
+        "title": "如何使用 通义万相",
+        "html": "<p>按官方文档的步骤说明，调用通义万相完成一次图像编辑大致是下面的流程：</p><ol><li>在阿里云百炼控制台获取 API Key，并把它配置到环境变量中。</li><li>如果选择 SDK 方式，先安装 DashScope SDK；用 HTTP 调用则无需安装。</li><li>准备好待处理的参考图像，单张或多张都可以。</li><li>向图像编辑接口提交任务，拿到返回的 task_id。</li><li>根据 task_id 轮询查询任务状态与结果，图像编辑通常需要一段等待时间。</li><li>取回生成结果后，按 parameters.size 的设定核对分辨率，需要时再发起下一次编辑任务。</li></ol>"
       },
       {
-        "title": "通义万相的应用场景",
-        "html": "<ul>\n<li><strong>艺术创作</strong>：艺术家和设计师可以用AI技术来探索新的艺术风格和创作方法，生成独特的艺术作品。</li>\n<li><strong>广告制作</strong>：广告公司可以用AI生成的视频和图像来创造吸引人的广告内容，提高广告的吸引力和效果。</li>\n<li><strong>游戏开发</strong>：游戏开发者可以用AI生成的图像和动画来设计游戏角色、场景和特效，加快游戏开发进程。</li>\n<li><strong>影视制作</strong>：电影和视频制作团队可以用AI技术来生成特效、背景或者预览动画，提高制作效率。</li>\n<li><strong>教育和培训</strong>：教育机构可以用AI生成的图像和视频来辅助教学，使学习内容更加生动和直观。</li>\n<li><strong>社交媒体内容</strong>：内容创作者和社交媒体影响者可以用AI生成的内容来吸引粉丝和提高互动。</li>\n</ul>"
+        "title": "通义万相 的应用场景",
+        "html": "<p>通义万相以文本指令驱动图像编辑，这让它更适合处理「已经有素材、只需要按规则改写」的批量任务：</p><ul><li><strong>电商商品图处理</strong>：按统一指令替换背景、调整款式细节，让一批主图保持视觉一致。</li><li><strong>多图合成</strong>：把产品、场景与人物素材融合到同一张图中，省去手工抠图与拼版。</li><li><strong>风格与局部修改</strong>：用一句指令完成风格迁移或局部重绘，适合快速出多个版本比稿。</li><li><strong>图像修复类需求</strong>：对构图基本可用但细节有瑕疵的素材做定向修补。</li><li><strong>批量流水线</strong>：借助任务化的接口，把图像编辑编进自动化的内容生产流程。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-02"
   },
   {
     "slug": "miaohua-sensetime-com",
@@ -6101,31 +6135,23 @@
     "domain": "marble.worldlabs.ai",
     "detailed_content": [
       {
-        "title": "Marble是什么",
-        "html": "<p>Marble 是 World Labs推出的3D世界生成平台，能通过简单的文本描述、图片、视频或3D结构生成高保真、持久的3D世界。Marble支持多种输入方式，包括文本提示、单张或多张图片、全景图、视频和基础3D布局。Marble 提供强大的编辑功能，如全景编辑、点击扩展和生成世界变体，帮助用户精细调整创作。Marble支持用户将生成的世界导出为多种格式，用于网页分享、VR体验或开发资产。Marble 适合艺术家、设计师和任何对3D世界创作感兴趣的人。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-66548\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/Marble-website-2.png\"   alt=\"Marble\" width=\"740\" height=\"416\" />"
+        "title": "Marble 是什么",
+        "html": "<p>Marble 是 World Labs 推出的第一款产品。World Labs 自述是一家空间智能公司，正在构建能够感知、生成、推理并与虚拟和物理世界交互的世界模型；而 Marble 就是这条路线的产品化形态。</p><p>官方对 Marble 的描述是：它生成在空间上保持一致、高保真且可持久保存的 3D 世界，用户可以在其中移动、编辑并停留。官网用一句「From pixels to worlds（从像素到世界）」来概括它想解决的问题——把平面的素材推进到可以走进去的三维空间。</p>"
       },
       {
-        "title": "Marble的主要功能",
-        "html": "<ul>\n<li class=\"paragraph\"><strong class=\"\">多模态输入</strong>： 支持多种输入方式，包括文本描述、单张图片、多张图片、视频、全景图和基础3D布局。用户根据需求选择最适合的输入方式，快速生成3D世界。</li>\n<li class=\"paragraph\"><strong>AI 原生编辑</strong>：提供强大的AI编辑功能，用户能通过自然语言描述对生成的3D世界进行局部修改、对象替换、风格调整或大规模结构调整，实现精准的创意表达。</li>\n<li class=\"paragraph\"><strong>世界扩展与组合</strong>：支持一键扩展世界边界，自动填充更多内容，优化边缘区域的细节。用户能通过组合模式将多个世界无缝拼接，构建更大规模的环境。</li>\n<li class=\"paragraph\"><strong class=\"\">Chisel 工具</strong>： Chisel 工具支持用户使用基础几何体（如立方体、平面）搭建3D框架，AI会根据用户提供的风格描述自动填充细节。同一框架能生成多种不同风格的世界，极大地提升创作的灵活性。</li>\n<li class=\"paragraph\"><strong class=\"\">全格式导出</strong>：支持多种格式导出，包括高斯溅射（Gaussian Splats）、三角网格（Triangle Meshes）和视频。导出的模型能直接用于游戏引擎、VR设备或其他专业工具，满足不同应用场景的需求。</li>\n<li class=\"paragraph\"><strong class=\"\">动态效果增强</strong>：支持在导出视频时自动添加动态效果（如烟雾、火焰、水流等），增强场景的真实感和视觉吸引力。</li>\n<li class=\"paragraph\"><strong>实时渲染与预览</strong>：Marble 提供高斯溅射格式，支持在浏览器中实时渲染和预览3D世界，用户能快速查看和调整生成的世界。</li>\n</ul>"
+        "title": "Marble 的主要功能",
+        "html": "<p>Marble 官方首页把产品能力列成几条，逐条看都比较具体：</p><ul><li><strong>多模态输入</strong>：可以用文本、图片、视频或 360 度全景图来创建细节丰富的 3D 世界。</li><li><strong>按 3D 布局创建</strong>：能够精确控制所生成世界的三维布局。</li><li><strong>交互式编辑</strong>：可以微调其中的具体元素，也能重塑整个 3D 世界。</li><li><strong>扩展与组合</strong>：支持扩展、编辑并组合已生成的世界，拼出更大的环境。</li><li><strong>多格式输出</strong>：可以下载并导出多种 2D 与 3D 格式，方便接入既有的工作流与管线。</li><li><strong>Marble Labs</strong>：官方设有案例研究和上手内容，用来展示 Marble 在实际工作流里的用法。</li></ul>"
       },
       {
-        "title": "如何使用Marble",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>注册登录</strong>：访问 Marble 官网 https://marble.worldlabs.ai/ ，注册账号并登录，开始创作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">选择创建方式</strong>：通过文本、图片、视频、全景图或3D结构等多种输入方式生成3D世界。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>生成世界</strong>：根据输入，Marble快速生成初步3D环境。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>编辑世界</strong>：使用全景编辑、点击扩展或生成变体等功能，精细调整和优化你的3D世界。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>工作室工具</strong>：组合多个世界或录制动态视频，打造更复杂的环境和展示效果。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>导出世界</strong>：选择网页分享、VR体验、开发资产或3D打印等多种导出格式，满足不同需求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>探索和学习</strong>：浏览社区作品获取灵感，提升创作技巧。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>分享你的世界</strong>：将创作成果分享给他人或用于专业项目展示创意。</div>\n</li>\n</ul>"
+        "title": "如何使用 Marble",
+        "html": "<p>按 Marble 官网列出的能力顺序，一次完整的尝试大致会经过下面这些环节：</p><ol><li>打开 Marble 官网，了解它能从哪些素材生成 3D 世界。</li><li>准备输入素材，文本、图片、视频或 360 度全景图都可以作为起点。</li><li>用 3D 布局能力确定空间结构，让自己对世界的形态有更精确的控制。</li><li>进入交互式编辑，微调具体元素，或直接重塑整体布局。</li><li>需要更大环境时，把若干世界扩展或组合起来。</li><li>完成后导出为合适的 2D 或 3D 格式，接进自己的生产流程。</li></ol>"
       },
       {
-        "title": "Marble的使用示例",
-        "html": "<p><strong>单图提示</strong></p>\n<ul>\n<li><strong>原图</strong></li>\n</ul>\n<img decoding=\"async\" class=\"wp-image-66549 alignnone\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/Marble-website4.png\"   alt=\"Marble\" width=\"740\" height=\"491\" />\n<ul>\n<li><strong>生成效果</strong>：</li>\n</ul>\n<img decoding=\"async\" class=\"wp-image-66550 alignnone\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/Marble-website3.png\"   alt=\"Marble\" width=\"740\" height=\"416\" />\n<p><strong>文本提示</strong></p>\n<ul>\n<li><strong>Text Prompt</strong>：A detailed, lived-in hobbit kitchen filled with woven baskets and copper kettles, awash in calm pale-blue daylight and soft ambient shadow.一间布置得精致而充满生活气息的霍比特人厨房，摆满了编织篮和铜壶，沐浴在柔和的浅蓝色日光和淡淡的阴影中。</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-66551\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/Marble-website5-1-1.png\"   alt=\"Marble\" width=\"740\" height=\"410\" />"
-      },
-      {
-        "title": "Marble的产品定价",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>免费计划</strong>：每月提供7,000积分，最多生成4个世界，包括文本输入、图像输入和360度全景输入。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>标准计划</strong>：每月20美元，提供20,000积分，最多生成12个世界，包括免费计划的所有功能，加上多图像输入、视频输入、高级创作流程编辑和“Chisel”模式3D布局控制。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>专业计划</strong>：首月1美元的限时优惠，之后每月35美元，提供40,000积分，最多生成25个世界，包括标准计划的所有功能，加上扩展世界到更大空间、增强渲染视频输出和导出高分辨率纹理网格。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>高级计划</strong>：每月95美元，提供120,000积分，最多生成75个世界，包括专业计划的所有功能，并附带商业使用权。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "Marble的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>游戏开发</strong>：快速生成游戏背景和场景，为游戏设计师提供丰富的3D环境资源，加速游戏开发流程。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>影视制作</strong>：用于搭建场景预览和镜头规划，帮助影视团队快速实现创意，节省时间和成本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>建筑设计</strong>：通过生成建筑内外部环境，帮助建筑师快速展示设计方案，提升设计效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>VR和AR体验</strong>：创建沉浸式虚拟环境，直接用于VR设备或AR应用，增强用户体验。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教育和培训</strong>：构建虚拟教学场景，如历史场景重现或科学实验环境，提升教学互动性和趣味性。</div>\n</li>\n</ul>"
+        "title": "Marble 的应用场景",
+        "html": "<p>Marble 官网把真实使用案例收在 Community Showcase 与 Case Studies 两个板块里，结合它公开的能力，常见方向可以归纳为：</p><ul><li><strong>可交互环境搭建</strong>：需要能「走进去」的空间，而不是一张静态渲染图。</li><li><strong>素材管线衔接</strong>：用 Marble 产出的多种 2D、3D 格式喂给下游工具。</li><li><strong>概念可视化</strong>：把一段文字或一张参考图变成可以环视的三维场景，用于沟通与评审。</li><li><strong>全景内容再创作</strong>：以 360 素材为基础重建、扩展出新的空间。</li><li><strong>研究与实验</strong>：依托 World Labs 的空间智能方向，做世界模型相关的能力探索。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-02"
   },
   {
     "slug": "fast3d-io",
@@ -6875,8 +6901,25 @@
     "subcategory": "ai-image-illustration",
     "logo": "/logos/tool274.png",
     "domain": "magicstudio.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Background Eraser 是什么",
+        "html": "<p>Background Eraser 出自 Magic Studio 旗下，是一件用来在线去掉图片背景的工具。官网给它的介绍语是「几秒钟内移除背景」：用户上传图片后，系统自动识别主体并抹去背景，也可以带上彩色背景保存，或直接下载透明底图片。</p><p>按官网说明，Background Eraser 免费使用且不需要注册即可开始。Magic Studio 把这项能力做成网页应用的同时，也提供了移动端应用，方便在电脑和手机上处理同一类需求。</p>"
+      },
+      {
+        "title": "Background Eraser 的主要功能",
+        "html": "<p>官网在 Background Eraser 的功能介绍里列出了几个可核对的要点：</p><ul><li><strong>自动背景移除</strong>：上传图片后由 AI 自动选出主体并删除背景，无需手动画选区。</li><li><strong>AI 辅助修正</strong>：如果自动选区不理想，可以在想要保留的主体上点选来完善选择结果。</li><li><strong>背景替换</strong>：可为主体加上白色、黑色或其他颜色的背景，并用取色器精确指定颜色。</li><li><strong>批量处理</strong>：官网提到可以一次性编辑多张图片，用于成组素材的抠图。</li><li><strong>多格式支持</strong>：支持 JPG、JPEG、PNG、HEIC、WEBP 与 TIFF 等常用格式，上传图片没有分辨率限制。</li><li><strong>结果可转格式</strong>：下载时可转换为 JPG、JPEG、PNG、HEIC、WEBP 等格式。</li><li><strong>免费档可用</strong>：免费方案带广告与 Magic Studio 标志、提供低分辨率下载且一次处理一张，付费可解锁更高规格。</li></ul>"
+      },
+      {
+        "title": "如何使用 Background Eraser",
+        "html": "<p>Background Eraser 的流程在官网被拆成四步，按顺序操作即可拿到一张去背图：</p><ol><li>上传图片：通过拖放或点击上传，支持常见图片格式。</li><li>查看自动选择结果：Background Eraser 会给出已经去掉背景的主体选区，不满意时用 AI 辅助选择继续点选修正。</li><li>添加背景：选择白色、黑色或彩色背景，用取色器确认颜色后预览效果。</li><li>下载图片：满意后点击下载，保存到电脑或手机相册，并按需要转换输出格式。</li></ol><p>整段操作不需要图像处理经验，这也是官网反复强调的一点。</p>"
+      },
+      {
+        "title": "Background Eraser 的应用场景",
+        "html": "<p>官网为 Background Eraser 列举了一批典型用途，基本都围绕「把主体从杂乱背景里干净地分离出来」展开：</p><ul><li><strong>电子商务</strong>：去除商品图里的其他产品、标签、贴纸与干扰元素，让主图更聚焦。</li><li><strong>摄影与时尚</strong>：为人物或服装照片制作统一底色的成片。</li><li><strong>汽车与家具等垂类</strong>：官网把汽车列表、家具、动物、珠宝与图形设计一并列为适用方向。</li><li><strong>社交与个人形象</strong>：把自拍或人像抠成透明底，再换上更适合平台的背景。</li><li><strong>设计素材准备</strong>：批量产出可复用的主体素材，供海报与详情页二次排版。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-02"
   },
   {
     "slug": "tool311",
@@ -12430,23 +12473,23 @@
     "domain": "skyreels.ai",
     "detailed_content": [
       {
-        "title": "SkyReels是什么",
-        "html": "<p>SkyReels是昆仑万维推出的全球首个<a href=\"https://ai-bot.cn/ai-skit-generation-tools/\" target=\"_blank\" rel=\"noopener\">AI短剧创作平台</a>，集成AI视频生成和3D大模型技术，提供剧本生成、角色定制、分镜设计到视频合成的全流程服务。SkyReels支持Web端和移动端APP，为全球用户提供一站式、多模态的AI创作体验。SkyReels集成全球顶尖的AI模型，如<a href=\"https://ai-bot.cn/veo-3-1/\" target=\"_blank\" rel=\"noopener\">Google Veo 3.1</a>、<a href=\"https://ai-bot.cn/sora-2/\" target=\"_blank\" rel=\"noopener\">Sora 2</a>等，提供<a href=\"https://ai-bot.cn/best-ai-image-generators/\" target=\"_blank\" rel=\"noopener\">图片生成</a>、<a href=\"https://ai-bot.cn/ai-video-generation-tools/\" target=\"_blank\" rel=\"noopener\">视频生成</a>、<a href=\"https://ai-bot.cn/best-ai-digital-human-tools/\" target=\"_blank\" rel=\"noopener\">数字人</a>、<a href=\"https://ai-bot.cn/best-ai-music-generators/\" target=\"_blank\" rel=\"noopener\">音乐生成</a>等多种功能。核心优势为强大的Agent功能、无限画布创作空间及视频延长和风格化等创新特性。SkyReels通过降低创作门槛、提升创作效率，助力用户轻松实现专业级创作，推动AI视频创作迈向“零门槛创意生成时代”。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/11/SkyReels-website.png\" data-fancybox=\"fancybox\" data-caption=\"SkyReels\"><img decoding=\"async\" class=\"alignnone wp-image-65684\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/SkyReels-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"SkyReels\" width=\"740\" height=\"416\"></a>"
+        "title": "SkyReels 是什么",
+        "html": "<p>SkyReels 是 Skywork AI 开源的一套视频生成模型系列，官方仓库以 SkyReels V2 为主线，把它称为「无限长度电影生成模型」。仓库里放出了模型权重与推理代码，属于可以直接下载、自行部署的那一类模型项目，而不是只有网页入口的闭源服务。</p><p>官方给出的定位里有一条技术判断：SkyReels 是首个采用 AutoRegressive Diffusion-Forcing 架构的开源视频生成模型，官方称其在公开可用的模型中达到了 SOTA 表现。这类表述来自项目自己的说明，实际效果仍以使用者自己的测试为准。</p>"
       },
       {
-        "title": "SkyReels的主要功能",
-        "html": "<ul>\n<li><strong>剧本生成与优化</strong>：根据输入的概念或故事创意自动生成剧本，也可上传现成剧本进行AI润色。</li>\n<li><strong>角色设计与配音</strong>：输入角色要求，一键生成角色形象及配音，提升制作效率。</li>\n<li><strong>分镜设计</strong>：AI根据剧本一键生成分镜图片和文字脚本，保持角色和场景的一致性。</li>\n<li><strong>视频拍摄与合成</strong>：使用AI 3D引擎与视频生成大模型，将分镜自动转换为连续视频，支持高清输出。</li>\n<li><strong>背景音乐和音效添加</strong>：根据剧本题材和场景自动推荐背景音乐和音效，一键添加。</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">图片生成</strong>：通过AI技术快速生成高质量图片。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>视频生成</strong>：支持基于图片、音频或视频参考的多模态视频创作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">数字人功能</strong>：业内首个支持单镜头多人多轮对话的数字人模型，可用在影视、电商等多种场景。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>音乐生成</strong>：为视频创作提供定制化的音乐。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>无限画布</strong>：集成所有AI功能，支持图片、视频、音乐等多模态内容无缝融合。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Agent功能</strong>：提供全能创意助手（Super Agent）和28位行业专家（Expert Agents），满足从创意到专业任务的需求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>视频模板</strong>：提供近10个大类、150余种模板，支持一键生成海报、商品演示视频等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>视频延长和风格化</strong>：智能预测镜头延续，支持多种风格迁移，提升视频的吸引力和竞争力。</div>\n</li>\n</ul>"
+        "title": "SkyReels 的主要功能",
+        "html": "<p>官方仓库的更新记录与说明文档，把 SkyReels 的能力按版本和时间线摊开得比较清楚：</p><ul><li><strong>无限长度视频生成</strong>：借助自回归的方式持续生成画面，官方专门发布了面向这一用途的 SkyReels-V2-DF-14B-720P 权重。</li><li><strong>图生视频</strong>：SkyReels-V2-I2V-14B-720P 面向 Image2Video 合成，由一张图生成视频。</li><li><strong>视频延长</strong>：2025 年 5 月放出了 video extension 的推理代码。</li><li><strong>首尾帧控制</strong>：同一批更新里还包含 start/end frame control 的推理代码。</li><li><strong>音频驱动人像</strong>：SkyReels-Audio 的技术报告主题是音频条件驱动的说话人像视频。</li><li><strong>版本持续推进</strong>：官方在 2026 年 1 月发布了 SkyReels-V3 的推理代码与权重，并同步开放了 V3 模型的调用接口。</li><li><strong>多平台分发</strong>：权重同时发布在 Hugging Face 与 ModelScope，仓库还提供技术报告、Playground 与 Discord 入口。</li></ul>"
       },
       {
-        "title": "如何使用SkyReels",
-        "html": "<ul>\n<li><strong>访问平台</strong>：访问SkyReels官网 https://www.skyreels.ai/在线体验或下载SkyReels APP，完成账号注册和登录。</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">无限画布</strong>：进入“无限画布”功能，上传图片、视频或输入文字，通过AI编辑、Agent Chat或拖拽组合素材进行创作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Agent功能</strong>：选择“Super Agent”或“Expert Agents”，输入需求或上传素材，Agent根据需求生成创意内容，用户能实时查看调整，最终导出结果。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">视频模板</strong>：选择模板类型，进行图片或视频素材上传，调整模板中的文字、颜色、风格等参数，能一键生成视频并导出。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>数字人功能</strong>：上传包含人物的图片，输入对话台词并选择角色音色和说话节奏，系统自动生成多人多轮对话的数字人视频并导出。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>视频延长和风格化</strong>：上传视频，选择切镜方式或风格类型，系统能智能预测、生成视频的延续片段或风格化效果。</div>\n</li>\n<li><strong class=\"\">保存与分享</strong>：完成创作后，点击“保存”按钮将作品保存到云端或分享给他人，“导出”支持选择MP4、PNG等格式下载作品。</li>\n</ul>"
+        "title": "如何使用 SkyReels",
+        "html": "<p>作为开源模型项目，SkyReels 的使用路径围绕「取权重、跑推理」展开，官方入口也按这个顺序排列：</p><ol><li>打开 SkyReels 的官方仓库，先看概览与更新记录，确认要用 V2 还是 V3。</li><li>按对应版本从 Hugging Face 或 ModelScope 下载模型权重。</li><li>准备符合官方说明的运行环境，把仓库里的推理代码跑通。</li><li>根据任务挑选生成模式，例如无限长度生成、图生视频、视频延长或首尾帧控制。</li><li>调整提示与帧控制参数，观察输出视频是否符合预期。</li><li>如果不打算自己部署，可以改用官方提供的在线 Playground，或调用 V3 模型在第三方平台上开放的接口。</li></ol>"
       },
       {
-        "title": "SkyReels的应用场景",
-        "html": "<ul>\n<li><strong>个人创作</strong>：独立创作者可以用SkyReels快速制作个性化的短剧，无需专业的视频制作技能。</li>\n<li><strong>教育和培训</strong>：教师和培训师可以制作教育短剧，用生动的故事形式讲解复杂的概念或技能。</li>\n<li><strong>广告宣传</strong>：企业可以用SkyReels创作吸引人的广告短剧，用较低的成本和快速的制作周期推广产品服务。</li>\n<li><strong>社交媒体内容</strong>：社交媒体影响者和内容创作者可以制作短剧，增加粉丝互动和提高内容的吸引力。</li>\n<li><strong>游戏开发</strong>：游戏开发者可以用SkyReels快速生成游戏剧情动画或角色介绍视频，增强游戏体验。</li>\n</ul>"
+        "title": "SkyReels 的应用场景",
+        "html": "<p>官方为 SkyReels 选的关键词是「电影生成」，配套能力也都指向成片而不是单帧图片，因此适用方向集中在这些地方：</p><ul><li><strong>短片与叙事视频制作</strong>：用无限长度生成把一段故事连续做下去，而不必逐段拼接。</li><li><strong>静图动态化</strong>：把一张图交给图生视频模型，产出带运动的镜头。</li><li><strong>已有素材续拍</strong>：用视频延长能力把拍短的片段补长，或用首尾帧控制接住固定的起止画面。</li><li><strong>数字人口播</strong>：借助音频驱动的方向，让人像视频对上说话内容。</li><li><strong>模型研究与二次开发</strong>：拿到权重与推理代码后，在自回归扩散架构上做实验或改造成自家流程。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-02"
   },
   {
     "slug": "moki-cn",
@@ -15622,31 +15665,23 @@
     "domain": "pdf.ai",
     "detailed_content": [
       {
-        "title": "PDF.ai是什么",
-        "html": "<p>PDF.ai是一个人工智能PDF文档阅读工具，支持上传PDF文件与文档内容进行聊天交流，用户可就PDF文件提出问题、获取摘要、查找信息等。PDF.ai利用GPT技术从PDF文档中提取和解释数据，使处理长篇文档内容变得更容易、更高效。无论是电子书籍、研究论文，还是法律协议、财务报告，PDF.ai都能轻松智能阅读，并会高亮定位你提问回复的文件段落来源。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2023/12/pdf-ai-summarizer.png\" data-fancybox=\"fancybox\" data-caption=\"PDF.ai\"><img decoding=\"async\" class=\"alignnone size-full wp-image-6262 rounded shadow-sm\" src=\"https://ai-bot.cn/wp-content/uploads/2023/12/pdf-ai-summarizer.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"PDF.ai\" width=\"794\" height=\"450\"></a>"
+        "title": "PDF.ai 是什么",
+        "html": "<p>PDF.ai 是一套围绕 PDF 文档的 AI 处理服务，一头连着面向普通用户的对话式读文档产品，另一头向开发者开放接口。官方 API 文档中心说明，v2 版本已于 2025 年 11 月 28 日发布，这一版把能力集中在解析、抽取、拆分与问答四个方向上。</p><p>文档把 PDF.ai 的核心端点分为四类，并各自配有可直接试跑的 Playground。对开发者而言，它的价值在于不必自己搭建文档解析与检索链路，直接调用接口就能把 PDF 变成程序可用的数据。</p>"
       },
       {
-        "title": "PDF.ai的主要功能",
-        "html": "<ol class=\"text-md\">\n<li>PDF文件提问总结：用户可上传PDF文件就文件内容进行提问，获取文件信息</li>\n<li>AI简历扫描：获取简历概览和问题以评估面试候选人</li>\n<li>AI发票扫描：识别发票文件和数据转换成JSON格式的数据</li>\n<li>AI测验生成：将上传的PDF文档生成教学测验问题</li>\n</ol>"
+        "title": "PDF.ai 的主要功能",
+        "html": "<p>按照官方 API 文档的目录结构，PDF.ai 的 v2 版可以整理出下面这些能力：</p><ul><li><strong>Parse</strong>：把 PDF 解析成 Markdown、JSON 两种格式，官方说明支持 OCR 与 VLM。</li><li><strong>Extract</strong>：基于给定的 JSON schema，从 PDF 文档中抽取结构化数据。</li><li><strong>Split</strong>：把体积较大的 PDF 切成更聚焦的小文档。</li><li><strong>Ask</strong>：就文档内容直接提问，取回所需信息。</li><li><strong>Playground</strong>：上传文档、套用 schema 并即时查看结果，用于验证接口效果。</li><li><strong>旧版 v1 接口</strong>：保留上传 PDF、获取单个或全部文档、与 PDF 对话、对话历史、生成摘要、删除文档等操作。</li><li><strong>用量与限制说明</strong>：文档中列出 credit usage 与 API limits，便于估算调用成本。</li></ul>"
       },
       {
-        "title": "PDF.ai的应用场景",
-        "html": "<ol class=\"text-md\">\n<li>书籍阅览：沉浸式阅读体验，与你喜欢的书籍聊天</li>\n<li>论文快读：快速获取研究论文重点和主要内容</li>\n<li>财务报告：像专业人士一样快速了解财报研报</li>\n<li>产品手册：直接与产品手册对话，解决使用疑问</li>\n<li>法律文件：解释令人头痛的法律术语</li>\n<li>培训文档：互动式轻松搞定员工培训文档</li>\n</ol>"
+        "title": "如何使用 PDF.ai",
+        "html": "<p>官方文档给出的上手路径是先试再集成，按下面的顺序推进比较省事：</p><ol><li>打开 PDF.ai API 文档，先确认是使用当前 v2 版本还是仍需兼容旧版 v1。</li><li>进入对应的 Playground，上传一份真实文档，跑一次解析或抽取看看效果。</li><li>查看 credit usage 与 API limits 两页，估算调用额度与成本上限。</li><li>按文档指引发起请求，从 parse、extract、split、ask 里挑最贴合任务的端点。</li><li>使用 extract 时准备好 JSON schema，让 PDF.ai 直接返回结构化字段而不是整段文本。</li><li>确认结果稳定后，把接口接进自己的文档处理与入库流程。</li></ol>"
       },
       {
-        "title": "PDF.ai的产品价格",
-        "html": "<ol class=\"text-md\">\n<li>免费版，支持上传1个文件，每月可提问500次，单个支持10MB最大文件</li>\n<li>专业版10美元每月，支持上传100个文件，每月可提问5000次，单个支持50MB最大文件</li>\n<li>旗舰版20美元每月，支持上传无限个文件和无限次提问，单个支持50MB最大文件</li>\n<li>企业版30美元每月，支持上传无限个文件和无限次提问，单个支持100MB最大文件</li>\n</ol>"
-      },
-      {
-        "title": "如何使用PDF.ai",
-        "html": "<ol class=\"text-md\">\n<li>访问PDF.ai的官网，点击Get started for free登录注册，或着你也可以点击Try the demo查看示例文件</li>\n<li>登录后，点击Upload按钮上传你的PDF文件（支持从URL导入和OCR）</li>\n<li>上传文件后，左侧是文档预览区，右侧可以对PDF.ai发起提问</li>\n<li>在输入框中输入你感兴趣的问题，如果不知道问什么，也可以点击PDF.ai根据文档内容整理的一些问题</li>\n<li>PDF.ai回答问题后，还会在左侧高亮和定位其回复的段落来源</li>\n</ol>"
-      },
-      {
-        "title": "常见问题",
-        "html": "<div id=\"accordion\" style=\"max-width: 700px;\">\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>PDF.ai是免费的吗？</strong></div>\n<div class=\"card-body text-sm\">PDF.ai提供免费试用的版本，用户可免费上传1个PDF文件进行提问。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>PDF.ai基于什么大模型？</strong></div>\n<div class=\"card-body text-sm\">PDF.ai的智能阅读能力基于OpenAI的GPT大模型，免费版基于GPT-3.5，付费版支持GPT-4。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>PDF.ai支持哪些语言？</strong></div>\n<div class=\"card-body text-sm\">理论上PDF.ai支持所有语言，只要GPT能识别的，PDF.ai都可以阅读，并且支持以一种语言提问另一种语言的文件，比如使用中文对英语文件内容进行提问。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>PDF.ai支持哪些格式的文件？</strong></div>\n<div class=\"card-body text-sm\">目前PDF.ai只支持上传.pdf格式的文件，后续会支持更多格式的文件。</div>\n</div>\n</div>"
+        "title": "PDF.ai 的应用场景",
+        "html": "<p>从 PDF.ai 公开的四类端点出发，它更适合处理「文档量大、又需要把内容转成可用数据」的场合：</p><ul><li><strong>合同与票据处理</strong>：用 extract 按预设字段把关键条目抽出来，减少人工录入。</li><li><strong>长报告问答</strong>：通过 ask 端点直接向文档提问，快速定位具体数据。</li><li><strong>资料归档</strong>：用 split 把整本 PDF 拆成按主题划分的小文件，方便检索与复用。</li><li><strong>知识库入库</strong>：先由 parse 把 PDF 转成结构化文本，再喂给下游系统。</li><li><strong>产品能力嵌入</strong>：开发者把 PDF.ai 的解析与问答能力封装进自己的应用，省去自建文档链路。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-02"
   },
   {
     "slug": "tool3674",
@@ -16226,8 +16261,25 @@
     "subcategory": "ai-office-doc",
     "logo": "/logos/tool464.png",
     "domain": "whimsical.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI Mind Map 是什么",
+        "html": "<p>AI Mind Map 是 Whimsical 提供的在线思维导图生成能力，官网页面标题把它称为「Free AI mind map generator」。它的做法是让用户先给出一个想法，系统再自动把这个想法展开成带有多层分支的完整思维导图，而不需要从空白画布开始逐个节点地拖拽。</p><p>Whimsical 本身是一个面向产品与设计协作的在线工具集，AI Mind Map 是其中面向脑图与结构梳理的一环。官网把这项能力和 AI Flowcharts、AI Wireframes 放在同一组「AI Tools」里，说明它希望用一句提示词就完成从想法到结构化图表的转换。</p>"
+      },
+      {
+        "title": "AI Mind Map 的主要功能",
+        "html": "<p>根据官网对 AI Mind Map 及相关能力的说明，可以整理出以下功能要点：</p><ul><li><strong>一句话生成脑图</strong>：输入起始想法后，AI Mind Map 会自动扩展成分支完整的思维导图。</li><li><strong>无限画布承载内容</strong>：官网描述其画布为「infinite canvas」，可以持续向外延伸节点与层级。</li><li><strong>多种图表类型并存</strong>：同一空间内还提供 Diagrams、Flowcharts 与 Wireframes，便于把脑图与流程图放在一起看。</li><li><strong>与流程图联动</strong>：AI Flowcharts 可以把一段流程描述转成结构化流程图。</li><li><strong>线框稿生成</strong>：AI Wireframes 能把文本提示变成网页与移动端可编辑的线框与线框流。</li><li><strong>集成与桌面端</strong>：官网提供 Integrations 与桌面应用下载，支持在已用工具之间衔接。</li></ul>"
+      },
+      {
+        "title": "如何使用 AI Mind Map",
+        "html": "<p>AI Mind Map 在浏览器与桌面端都可以使用，官网页面对操作路径的描述比较接近这几个步骤：</p><ol><li>打开 Whimsical 的 AI Mind Maps 页面，注册或登录账号。</li><li>在提示框里写下你要梳理的核心想法，可以是产品规划、文章结构或一次头脑风暴的主题。</li><li>提交给 AI Mind Map，等待系统给出自动展开的分支结构。</li><li>在无限画布上检查各层节点，补充遗漏的方向，删掉不相关的分枝。</li><li>按需要切换或叠加 Diagrams、Flowcharts 等视图，把结构关系表达得更清楚。</li><li>完成后的导图可以留在 Whimsical 里继续协作，也可以下载桌面端在本地打开。</li></ol>"
+      },
+      {
+        "title": "AI Mind Map 的应用场景",
+        "html": "<p>Whimsical 把 AI Mind Map 放在产品与设计协作的语境里，官网也强调它适合用来「快速捕捉想法并形成共识」，常见的用法有：</p><ul><li><strong>产品需求梳理</strong>：把一个功能方向展开成用户、场景、边界条件等多个分支，方便团队评审。</li><li><strong>内容与选题规划</strong>：先定一个主题，再用 AI Mind Map 铺开若干子话题，形成可执行的写作清单。</li><li><strong>会议与头脑风暴</strong>：现场记录讨论要点，让发散出来的想法立刻有结构可循。</li><li><strong>学习笔记整理</strong>：把一章知识的核心概念放进去，逐层补齐定义、例子与关联。</li><li><strong>流程前置设计</strong>：先用 AI Mind Map 理清环节，再转到流程图视图把顺序与分支画出来。</li><li><strong>项目启动对齐</strong>：把目标、里程碑与负责范围放在同一张图上，降低沟通成本。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-02"
   },
   {
     "slug": "tool952",
@@ -18608,11 +18660,23 @@
     "domain": "translate.alibaba.com",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<p>阿里翻译是由阿里巴巴提供的多语种在线实时<a href=\"https://ai-bot.cn/best-ai-translation-tools/\">AI翻译网站</a>，由阿里巴巴达摩院机器智能技术实验室提供技术支持，提供多种领域、覆盖200+语言的智能机器翻译服务。阿里翻译还支持文档翻译、图片翻译、视频翻译、语音翻译等多模态翻译能力。</p>"
+        "title": "阿里翻译 是什么",
+        "html": "<p>阿里翻译是阿里巴巴基于多年积累的翻译技术与语料资源，开发的一项面向电子商务用户的免费在线翻译服务。官方介绍里把它的服务对象写得很明确——主要服务于电商场景下的跨语言沟通，用户只需输入想要翻译的文本，就能得到相应的翻译结果。</p><p>从语言覆盖看，阿里翻译目前支持英语与中文之间的相互翻译，也支持英文与其他多个语种的文本翻译，官方说明可支持的语种会持续增长。它没有把重点放在文档排版或复杂格式处理上，而是聚焦于把一段文字准确转换成另一种语言这件基础工作，因此上手成本很低。</p>"
+      },
+      {
+        "title": "阿里翻译 的主要功能",
+        "html": "<p>官方在帮助页里列出了阿里翻译当前提供的功能项，数量不多但都围绕「译得出来、拿得走、改得动」展开：</p><ul><li><strong>自动翻译</strong>：系统根据用户输入的文字自动给出对应语言的翻译结果，无需额外设置流程。</li><li><strong>一键复制</strong>：点击一次即可复制全部翻译结果，方便粘贴到聊天窗口、商品描述或邮件正文里。</li><li><strong>结果可编辑</strong>：翻译结果支持直接修改，官方说明这类修改有助于改善后续的翻译效果。</li><li><strong>中英互译</strong>：英语与中文之间可以双向转换，这是它最核心的语言能力。</li><li><strong>多语种扩展</strong>：英文可译往其他多个语种，覆盖范围随官方更新而扩充。</li><li><strong>面向电商的免费服务</strong>：不设付费门槛，定位是给跨境买卖双方做日常沟通辅助。</li></ul>"
+      },
+      {
+        "title": "如何使用 阿里翻译",
+        "html": "<p>阿里翻译的入口是一个网页，使用过程基本不需要学习成本，可以按下面的顺序来完成一次翻译：</p><ol><li>打开阿里翻译的官方页面，进入翻译平台首页。</li><li>在输入区域粘贴或输入待翻译的文本，可以是一小段话，也可以是商品标题、询盘内容这类片段。</li><li>确认翻译方向，在英语与中文之间做选择，或者选择把英文译成其他目标语种。</li><li>提交后阅读系统给出的翻译结果，对照原文检查关键信息是否准确。</li><li>如果个别词句不符合业务语境，直接在结果上编辑修改。</li><li>确认无误后使用一键复制，把阿里翻译的结果带到你需要发送的地方。</li></ol>"
+      },
+      {
+        "title": "阿里翻译 的应用场景",
+        "html": "<p>从官方对阿里翻译的定位来看，它的使用场景集中在需要快速读懂或回复外文内容的电商业务环节，典型的有这几类：</p><ul><li><strong>跨境卖家沟通</strong>：处理海外买家的询盘、站内信与售后对话，先把对方的问题译成中文，再把回复译回英文。</li><li><strong>外贸采购</strong>：阅读海外供应商的产品资料与报价说明，快速判断规格是否符合需求。</li><li><strong>商品信息本地化</strong>：把中文的商品标题、卖点短句转成英文表达，用于刊登到面向海外的渠道。</li><li><strong>日常中外沟通</strong>：在没有专业译员可用时，用阿里翻译做临时的中英互译辅助。</li><li><strong>语料积累参考</strong>：借助电商语料背景下的译文，观察行业惯用表达，减少直译带来的歧义。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-02"
   },
   {
     "slug": "tool1369",
@@ -19437,8 +19501,25 @@
     "subcategory": "ai-agent-framework",
     "logo": "/logos/tool73229.png",
     "domain": "autoglm.zhipuai.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AutoClaw（澳龙） 是什么",
+        "html": "<p>AutoClaw（澳龙）是智谱推出的桌面端 AI 助手，官方把它描述成「替你干活的 AI 搭档」。它把 AI 助手、办公自动化、浏览器自动化和 IM 协作这几类能力收进同一个桌面应用里，而不是分散成多个工具。</p><p>按官网的说明，使用 AutoClaw（澳龙）并不需要先学习工作流配置、脚本语言或复杂 API——只要把目标说清楚，它就能调用本地工具、浏览器、文件和预置技能，把任务拆成步骤并持续执行。官网同时提供 Windows、Mac（M 芯片与 Intel 芯片）、移动端以及银河麒麟系统的下载入口，个人版与团队版均可使用。</p>"
+      },
+      {
+        "title": "AutoClaw（澳龙） 的主要功能",
+        "html": "<p>官网把 AutoClaw（澳龙） 的能力拆成六块，并强调它不是聊天框而是一条 Agent 执行通道：</p><ul><li><strong>办公自动化</strong>：内置 50 余项预置技能，能产出演示文稿、数据报表与会议纪要，也覆盖文档编写、表格清洗、图表生成和格式整理。</li><li><strong>自媒体运营</strong>：围绕小红书笔记、公众号文章、微博推文和短视频脚本，从选题、标题、正文到多平台改写连续推进。</li><li><strong>金融投资</strong>：可接入行情数据、整理财报信息、运行量化策略回测并生成投资分析报告，支持 A 股、港股、美股等市场组合分析。</li><li><strong>Web 产品搭建</strong>：把业务需求拆解为页面结构、交互逻辑与可运行代码，并在浏览器中实时预览，用于快速验证想法。</li><li><strong>浏览器自动化</strong>：支持自动填表、批量截图、网页数据抓取、后台巡检与定时任务。</li><li><strong>IM 全平台接入</strong>：支持飞书、企业微信、微信与 Lark，团队成员可在对话框内 @AI 下达任务，结果、文件与进度回流到会话中。</li></ul>"
+      },
+      {
+        "title": "如何使用 AutoClaw（澳龙）",
+        "html": "<p>AutoClaw（澳龙）以桌面应用形态使用，官方给出的上手路径大致是下载、登录、下达任务三步：</p><ol><li>从官网获取对应系统的安装包，Windows、Mac、移动端与银河麒麟版本按需选择。</li><li>安装后注册登录，官网说明新用户可以领取额度，个人版与团队版都支持。</li><li>在对话界面里用自然语言描述目标，例如要处理哪份表格、要抓取哪些网页字段、要产出什么文档。</li><li>交给 AutoClaw（澳龙） 拆解步骤，它会调用本地工具、浏览器与预置技能逐步执行。</li><li>在执行过程中查看中间结果，必要时补充说明或调整要求。</li><li>任务结束后取回生成的文档、数据表或分析报告，并把常用流程沉淀为可复用的执行路径。</li></ol>"
+      },
+      {
+        "title": "AutoClaw（澳龙） 的应用场景",
+        "html": "<p>官网专门用一个板块说明不同角色可以怎样使用 AutoClaw（澳龙），并把它定位为能连续执行任务的「AI 数字员工」，以下是最典型的几类：</p><ul><li><strong>电商运营</strong>：定时打开竞品页面，抓取价格、活动、库存与评价变化，整理成表格并输出每日日报。</li><li><strong>内容创作者</strong>：由一个选题展开多个平台的改写，把策划、素材整理与发布排期串成一条线。</li><li><strong>投研与财务</strong>：把行情与财报数据汇总成结构化表格，减少重复查数与手工汇总。</li><li><strong>产品与运营团队</strong>：不懂代码也能搭出网页、小程序原型与内部数据看板，先验证需求再投入开发。</li><li><strong>行政与项目管理</strong>：把每周重复的文档整理、格式统一和纪要输出交给 AutoClaw（澳龙） 处理。</li><li><strong>团队协作</strong>：在飞书或企业微信群里直接 @AI 下达任务，让执行结果回到原来的沟通场景。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-02"
   },
   {
     "slug": "minimax-agent",
@@ -21988,31 +22069,23 @@
     "domain": "xinghuo.xfyun.cn",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<style><span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\">﻿</span><span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\">﻿</span><span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\">﻿</span>div.apd-bg {display: none;}</style>"
+        "title": "讯飞星火 是什么",
+        "html": "<p>讯飞星火是科大讯飞推出的大模型系列，在官方文档中心里以「星火认知大模型」的名义提供接口说明。它的主要使用方式是开发者调用 API：文档给出的是 websocket 接口规范，开发者完成申请并拿到密钥后即可在自己的应用里接入。</p><p>官方文档明确了一点——这套接口可以正式使用。需要先到产品页面领取免费额度，再前往控制台获取 API 密钥，之后才能调用，属于面向开发者而非纯网页体验的产品形态。</p>"
       },
       {
-        "title": "讯飞星火是什么",
-        "html": "<p>讯飞星火是科大讯飞推出的免费<a href=\"https://ai-bot.cn/best-free-ai-chatbots/\" target=\"_blank\" rel=\"noopener\">AI智能助手</a>，集成了文本生成、语言理解、知识问答等多个功能。最新V4.0版本在多个国际测试中超越GPT-4 Turbo，排名第一。新升级的智能深度研究工具，通过多轮思考和搜索迭代，深度理解用户意图，不仅能生成高质量的文字和表格内容，还能输出图片，并支持HTML网页导出及一键转PPT功能。支持多语言对话，涵盖中文、英语等37种语言，能进行语音识别、合成，支持多风格表达。星火模型还具备深度搜索、复杂问题拆解等能力，可提供准确、全面的回答。讯飞星火在多个领域有广泛应用。在教育领域，可辅助学习，提供个性化辅导；在医疗领域，结合医院知识库，为患者提供智能问答服务。支持文档问答、PPT生成等办公应用，提升工作效率。2025年1月，讯飞星火X1发布，是国内首个基于全国产算力平台训练的深度推理模型，大幅提升了数学和逻辑推理能力。</p>\n<p>目前由讯飞星火驱动的产品：</p>\n<ul>\n<li><a href=\"https://ai-bot.cn/sites/6242.html\" target=\"_blank\" rel=\"noopener\">讯飞绘文</a></li>\n<li><a href=\"https://ai-bot.cn/sites/6024.html\" target=\"_blank\" rel=\"noopener\">讯飞智文</a></li>\n<li><a href=\"https://ai-bot.cn/iflydocs-gw/\" target=\"_blank\" rel=\"noopener\">讯飞文书</a></li>\n<li><a href=\"https://ai-bot.cn/sites/246.html\" target=\"_blank\" rel=\"noopener\">讯飞智作</a></li>\n<li><a href=\"https://ai-bot.cn/sites/15170.html\" target=\"_blank\" rel=\"noopener\">讯飞写作</a></li>\n<li><a href=\"https://ai-bot.cn/sites/5564.html\" target=\"_blank\" rel=\"noopener\">星火文档问答</a></li>\n<li><a href=\"https://ai-bot.cn/iflytek-paper/\" target=\"_blank\" rel=\"noopener\">星火科研助手</a></li>\n<li><a href=\"https://ai-bot.cn/sites/6235.html\" target=\"_blank\" rel=\"noopener\">ProcessOn AI流程图</a></li>\n<li><a href=\"https://ai-bot.cn/sites/4055.html\" target=\"_blank\" rel=\"noopener\">iFlyCode</a></li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/03/xinghuo.xfyun-website.png\" data-fancybox=\"fancybox\" data-caption=\"讯飞星火\"><img decoding=\"async\" class=\"alignnone wp-image-44962\" src=\"https://ai-bot.cn/wp-content/uploads/2025/03/xinghuo.xfyun-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"讯飞星火\" width=\"739\" height=\"416\"></a>"
+        "title": "讯飞星火 的主要功能",
+        "html": "<p>官方接口文档把讯飞星火的能力参数列得非常具体，可以归纳成下面这些：</p><ul><li><strong>多版本模型</strong>：通用星火大模型 API 提供 Lite、Pro、Pro-128K、Max、Max-32K 与 4.0 Ultra 六个版本，各版本独立计量 tokens。</li><li><strong>不同上下文规格</strong>：Pro-128K 与 Max-32K 面向长文本场景，Ultra 属于当前的推荐版本。</li><li><strong>计量口径明确</strong>：官方说明 1 token 约等于 1.5 个中文汉字或 0.8 个英文单词，计费包含输入与输出内容。</li><li><strong>搜索插件</strong>：仅 Pro、Max 与 Ultra 支持，天气、日期这类问题依赖搜索能力。</li><li><strong>信源可回溯</strong>：当前仅 Ultra 与 Max 版本支持返回联网检索的信源标题及地址。</li><li><strong>FunctionCall</strong>：官方另提供 http 协议用于函数调用场景。</li><li><strong>传输协议</strong>：接口基于 ws(s)，官方强烈推荐使用 wss 以保证安全性。</li><li><strong>更广的平台能力</strong>：同一平台还提供语音识别、语音合成、虚拟数字人、文字识别等接口。</li></ul>"
       },
       {
-        "title": "讯飞星火的主要功能",
-        "html": "<ul>\n<li><strong>深度研究</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>理解进化</strong>：通过多轮思考、搜索与内容迭代，深度理解用户意图，大幅提升内容质量。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>内容进化</strong>：不仅支持文字和表格，还能输出高质量图片，新增HTML网页导出与一键转PPT功能。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>知识进化</strong>：支持用户上传自有文档，结合外部搜索信源和本地文档，实现个性化思考。</div>\n</li>\n</ul>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">文本生成</strong>：能根据不同的主题和任务要求，生成风格各异、富有创意且实用性强的长文本，如撰写发言稿、商务邮件、营销方案等，满足用户多样化的创作需求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">语言理解</strong>：具备多层次跨语种的深度语言理解能力，可以快速准确地纠错，识别语法错误和词汇使用不当等问题，还能在复杂语言情境中精准理解语义和语境。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">多语言支持</strong>：支持多种语言的输入和输出，包括中文、英文、日文、韩文等37种语言，打破语言障碍，促进跨语言交流。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">知识问答</strong>：拥有强大的泛领域开放式知识问答能力，广泛涉猎医疗、科技、商业等多个领域的知识，针对用户提出的问题迅速提供准确、详细且有价值的答案。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">深度搜索与知识速达</strong>：可以对复杂问题进行分步拆解，分析深入全面，参考信源丰富优质，快速获取时事新闻、行业资讯等各类知识。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>逻辑推理</strong>：配备情景式思维链逻辑推理能力，能运用严密的逻辑思维对复杂问题进行合理推断与解答，例如判断历史人物与现代事件的合理性等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">数学能力</strong>：具备强大的数学计算和分析能力，能处理各种数学问题，包括代数、几何、概率统计等，提供准确无误的计算结果和详细的解题步骤。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">多模理解与生成</strong>：支持多模态输入和表达，能对图片、音频、视频等多种媒体进行识别和理解，结合文本信息进行综合分析与处理。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">虚拟人视频生成</strong>：用户可以描述期望的视频内容，整合AI虚拟人，快速生成匹配的视频。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">办公应用</strong>：提供会议纪要整理、文档问答、PPT生成等功能，能依据手写要点自动生成会议纪要，能根据用户输入的主题生成PPT大纲。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>学习辅助</strong>：在教育领域，可帮助学生更好地理解数学问题，提供个性化的学习建议，还能对作文进行深度理解和评语自动生成。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">智能体平台</strong>：内置“一站式”星火智能体平台，支持用户面向场景需求，基于深度思考，一句话快速构建专属智能体。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">个性化定制</strong>：提供丰富的参数设置，可以实现个性化的模型体验，针对企业级的定制化需求，可以提供专属的模型解决方案。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>语音交互</strong>：支持语音输入和语音合成输出，用户可以通过语音指令与模型交流，模型能以语音形式反馈给用户。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">情绪感知</strong>：能感知数十种音频事件、语音情绪和面部表情，用合适的语音情绪和表情动作进行表达。</div>\n</li>\n</ul>"
+        "title": "如何使用 讯飞星火",
+        "html": "<p>官方文档给出的接入顺序比较固定，从拿额度到发出第一条请求大致是这样：</p><ol><li>前往讯飞星火的产品页面领取免费额度。</li><li>在控制台获取调用所需的 AppID、APIKey 与 APISecret 三项信息。</li><li>按任务难度挑选版本，并记下该版本对应的请求地址与 domain 参数。</li><li>用 wss 与讯飞星火建立 websocket 连接，避免使用不加密的通道。</li><li>按文档构造请求，发送对话内容并接收流式返回的结果。</li><li>如果问题需要实时信息，确认所用版本是否支持搜索插件与信源返回，再决定是否开启。</li></ol>"
       },
       {
-        "title": "如何使用讯飞星火和星火智能体",
-        "html": "<ul>\n<li><strong>使用讯飞星火</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">访问官网</strong>：访问讯飞星火官网。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>注册与登录</strong>：<span style=\"font-size: 0.875rem;\">在官网首页，点击登录使用手机号或讯飞星火APP扫码登录</span><span style=\"font-size: 0.875rem;\">。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>使用功能</strong>：点击开始对话，与讯飞星火进行交流。</div>\n</li>\n</ul>\n</li>\n<li><strong>使用星火智能体</strong>：讯飞星火智能体广泛应用于多个领域，如医疗、教育、商业、政务、法律等，“一站式”星火智能体平台，支持用户面向场景需求，基于深度思考，一句话快速构建专属智能体。\n<ul>\n<li><strong>选择智能体</strong>：点击开始对话，选择更多智能体，讯飞星火内置了16000+智能体。</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">使用内置智能体</strong>：选择如讯飞晓医、讯飞智作、绘画大师等，覆盖工作、学习、生活、娱乐、创作等全方位场景，用户可以直接使用这些智能体来满足不同需求。</div>\n</li>\n<li><strong>创建智能体</strong>：点击创建智能体，选择指令创建或创建高阶智能体，指令创建为创建文字指令智能体，高阶智能体是为创建复杂任务，稳定性更高的智能体设计。</li>\n<li><strong>输入智能体描述</strong>：输入对智能体的描述，包含智能体的功能特色等，快速创建。</li>\n<li>\n<div class=\"paragraph\"><strong>调试与预览</strong>：在右侧进行调试与预览，确认助手效果无误后，点击“创建”。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">选择发布方式</strong>：如果希望助手上架到助手中心，点击“创建并申请上架”；如果仅自己使用，点击“创建”。</div>\n</li>\n</ul>\n</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/03/xinghuo.xfyun-agent-website.png\" data-fancybox=\"fancybox\" data-caption=\"星火智能体\"><img decoding=\"async\" class=\"alignnone wp-image-45027\" src=\"https://ai-bot.cn/wp-content/uploads/2025/03/xinghuo.xfyun-agent-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"星火智能体\" width=\"723\" height=\"407\"></a>"
-      },
-      {
-        "title": "讯飞星火的应用场景",
-        "html": "<ul>\n<li><strong class=\"\">智能教学助手</strong>：讯飞星火能提供个性化的学习建议，帮助学生更好地理解数学问题，提升学习效果。</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">医疗辅助</strong>：讯飞星火X1能辅助医生进行疾病诊断、制定治疗方案等，为医疗行业的发展注入新的活力。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">智能办公助手</strong>：讯飞星火与智能办公本紧密结合，能依据手写要点自动生成会议纪要，将会议中的关键信息、讨论要点以及决策结果等进行精准提炼与整合，节省了人工整理会议纪要的时间与精力。</div>\n</li>\n<li><strong>智能硬件领域</strong>：讯飞星火打破了传统的基于规则的人机交互方式，让手机、电视、VR眼镜等传统的智能硬件，能更好地满足人们日常生活需求。</li>\n<li><strong>智慧政务领域</strong>：讯飞星火大模型与政务结合，通过整合政务知识库，协助政府工作人员在公文写作、会议纪要优化、知识问答等场景，提升办公效率。</li>\n</ul>"
-      },
-      {
-        "title": "讯飞星火的适用人群",
-        "html": "<ul>\n<li><strong>IT互联网工作者</strong>：利用星火大模型进行编程辅助、代码生成和项目级代码理解。</li>\n<li><strong>科研教育工作者</strong>：使用星火大模型进行学术研究、知识学习和教育内容的智能生成。</li>\n<li><strong>市场营销与媒体人士</strong>：运用星火大模型进行内容创作、策划和提升工作效率。</li>\n<li><strong>法律、金融专业人士</strong>：在专业领域内使用星火大模型进行数据分析、知识问答和专业文档的理解。</li>\n<li><strong>企业服务提供者</strong>：企业服务行业通过星火大模型提升服务效率和质量，如智能客服系统的开发。</li>\n</ul>"
+        "title": "讯飞星火 的应用场景",
+        "html": "<p>从讯飞星火公开的接口能力看，它覆盖的任务类型比较宽，常见的方向有：</p><ul><li><strong>对话与问答应用</strong>：把星火接入客服机器人、内部助手或学习工具。</li><li><strong>长文本处理</strong>：借助 128K 或 32K 上下文版本，处理报告、合同与论文集这类长材料。</li><li><strong>需要联网的问题</strong>：启用搜索插件回答时效性强的提问，并核对返回的信源。</li><li><strong>内容与代码生成</strong>：用不同版本在质量与成本之间取舍，批量产出文案或代码草稿。</li><li><strong>多能力组合</strong>：把语言模型与语音识别、语音合成等接口拼成完整的语音交互产品。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-02"
   },
   {
     "slug": "lorka-ai",
@@ -33574,23 +33647,23 @@
     "domain": "chatdev.modelbest.cn",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<p>ChatDev是人工智能公司面壁智能最新推出的基于“大模型+Agent”的智能软件开发平台，用户只需输入自然语言，便能生成和创建可运行的软件。通过该平台，软件开发者和没有编程经验的普通用户可以以极低的成本和门槛高效完成软件开发和创建的工作。开源版本的ChatDev已在GitHub上斩获17K Star。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2023/11/chatdev-settings.png\" data-fancybox=\"fancybox\" data-caption=\"ChatDev\"><img decoding=\"async\" class=\"alignnone size-full wp-image-5598 rounded shadow-sm\" src=\"https://ai-bot.cn/wp-content/uploads/2023/11/chatdev-settings.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"ChatDev\" width=\"800\" height=\"500\"></a>"
+        "title": "ChatDev 是什么",
+        "html": "<p>ChatDev 是 OpenBMB 开源的多智能体开发平台。官方仓库把当前版本称作 ChatDev 2.0（DevAll），定位为「开发一切」的零代码多智能体平台：它已经从过去专做软件开发的智能体系统，扩展成一套通用的多智能体编排平台。</p><p>按官方说明，使用 ChatDev 2.0 不需要写代码——用户通过简单配置就能定义智能体、工作流与任务，把它们组合起来跑数据可视化、3D 生成、深度研究这类复杂场景。仓库同时保留了 ChatDev 1.0（Legacy）的说明，那一代以「虚拟软件公司」的形态运作。</p>"
       },
       {
-        "title": "ChatDev的功能特色",
-        "html": "<ol>\n<li>虚拟软件公司模拟现实世界运行，通过担任不同角色的各种智能体进行运营，包括首席执行官、首席产品官、首席技术官、程序员、代码评审员、测试员、美术设计师等模仿现实世界进行软件开发</li>\n<li>赋能软件开发的全流程，从需求分析、界面设计，到代码编写、软件测试和应用发布</li>\n<li>基于大型语言模型（LLM）的易于使用、高度可定制和可扩展的框架，是研究群体智能的理想场景</li>\n<li>可进行任意类型的软件的编写和开发，如红包雨、计时器、贪吃蛇、吃豆人、单位转换器等各种类型的软件</li>\n</ol>"
+        "title": "ChatDev 的主要功能",
+        "html": "<p>官方仓库的概览部分把 ChatDev 的能力分成两代来描述，要点如下：</p><ul><li><strong>零代码搭建</strong>：通过配置定义智能体、工作流与任务，无需编写代码。</li><li><strong>多智能体编排</strong>：把复杂场景拆解给多个智能体协作完成，而不是单模型一次回答。</li><li><strong>场景覆盖广</strong>：官方举例包括数据可视化、3D 生成与深度研究。</li><li><strong>虚拟软件公司（1.0）</strong>：由 CEO、CTO、程序员等角色智能体参加职能会议，构成协作范式的基础形态。</li><li><strong>开发流程自动化</strong>：1.0 覆盖设计、编码、测试与文档等软件开发生命周期环节。</li><li><strong>开源与文档齐备</strong>：仓库提供概览、动态、快速开始、环境准备、安装与配置等章节，README 有英文与简体中文两个版本。</li></ul>"
       },
       {
-        "title": "如何使用ChatDev",
-        "html": "<ol>\n<li>访问ChatDev的官网（chatdev.modelbest.cn），登录或注册账号申请试用</li>\n<li>申请成功后回到软件创建界面，填写项目名称和软件描述等项目设置</li>\n<li>等待服务器响应项目生成，ChatDev的智能体会按照需求指令模拟现实世界软件公司的运行</li>\n<li>软件生成后可直接下载和分享，若对结果不满意，也可以调整和修改</li>\n</ol>\n<p>以上是SaaS版的使用步骤，若要自己部署和运行，请访问ChatDev的GitHub库查看<a href=\"https://github.com/OpenBMB/ChatDev/blob/main/readme/README-Chinese.md#%EF%B8%8F-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">快速开始的说明</a>。</p>"
+        "title": "如何使用 ChatDev",
+        "html": "<p>ChatDev 官方仓库的目录结构本身就是一条上手路线，可按章节顺序推进：</p><ol><li>打开 ChatDev 仓库，先读 Overview，确认自己要用 2.0 还是 1.0。</li><li>对照 Prerequisites 准备运行环境所需的依赖。</li><li>按 Installation 章节完成安装。</li><li>按 Configuration 章节填入模型与运行参数。</li><li>用配置方式定义智能体、工作流与任务，组织成一次完整的协作过程。</li><li>运行后查看多智能体产出的结果，再按需要调整分工与流程。</li></ol>"
       },
       {
-        "title": "常见问题",
-        "html": "<div id=\"accordion\" style=\"max-width: 700px;\">\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>ChatDev基于什么大模型？</strong></div>\n<div class=\"card-body text-sm\">开源版的ChatDev调用的是OpenAI的GPT大模型的能力，开发者需要自己设置API Key，可以使用GPT-3.5，也可以使用GPT-4。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>ChatDev支持Git版本控制吗？</strong></div>\n<div class=\"card-body text-sm\">支持，ChatDev已推出Git模式，扮演程序员的智能体可以利用Git进行版本控制。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>ChatDev是免费的吗？</strong></div>\n<div class=\"card-body text-sm\">ChatDev是免费开源的，开发者可以克隆GitHub库进行设置和本地运行，也可以访问面壁智能的网站申请使用SaaS版本。</div>\n</div>\n</div>"
+        "title": "ChatDev 的应用场景",
+        "html": "<p>结合官方对 ChatDev 2.0「开发一切」的定位与 1.0 的软件公司范式，可以对应到这些使用方向：</p><ul><li><strong>软件原型与功能开发</strong>：让角色化智能体分工完成设计、编码、测试与文档。</li><li><strong>数据可视化</strong>：把分析需求交给配置好的智能体组合输出图表与结论。</li><li><strong>3D 内容生成</strong>：在零代码配置下把建模相关任务编成工作流。</li><li><strong>深度研究</strong>：由多个智能体分头检索、汇总并复核资料。</li><li><strong>教学与研究</strong>：用于观察多智能体协作机制与提示组织方式。</li><li><strong>流程自动化探索</strong>：把团队里重复出现的开发流程，用配置的方式沉淀成可复用的执行链。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-02"
   },
   {
     "slug": "anakin-ai",
@@ -34004,23 +34077,23 @@
     "domain": "microsoft.github.io",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<p>Generative AI for Beginners 是微软 Cloud Advocates 团队推出的十二章生成式AI入门的系列课程，介绍了构建生成式 AI 应用程序的基础知识。每章都涵盖了生成式人工智能原理和应用程序开发的一个关键知识点，提供导学视频、书面材料、代码示例和进阶的学习资源推荐。通过整个课程的学习，你将拥有建立自己的生成式人工智能产品和工具的能力，实现应用AIGC技术的想法。</p>\n<p>Generative AI for Beginners新增了9集生成式AI的专题视频教程，深入探讨包括大型语言模型（LLM）的原理、高效的提示工程技术、及图像生成等关键实战技能，旨在全面提升学习者在生成式AI领域的专业技能和实际操作能力。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2023/11/generative-ai-for-beginners-website.jpeg\" data-fancybox=\"fancybox\" data-caption=\"Generative AI for Beginners\"><img decoding=\"async\" class=\"alignnone wp-image-6041\" src=\"https://ai-bot.cn/wp-content/uploads/2023/11/generative-ai-for-beginners-website.jpeg\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Generative AI for Beginners\" width=\"740\" height=\"453\"></a>"
+        "title": "Generative AI for Beginners 是什么",
+        "html": "<p>Generative AI for Beginners 是微软开源的一门生成式 AI 入门课程，仓库里标注的版本是 Version 3。整套内容由 21 节课组成，官方给出的目标是：把开始构建生成式 AI 应用所需要知道的东西讲完。</p><p>课程不是概念堆砌，而是围绕可运行的示例展开。每节课除了讲解文字，还会配上代码与练习，学完就能自己动手搭出一个小应用，这也是它被大量自学者当作第一门课的原因。</p>"
       },
       {
-        "title": "Generative AI for Beginners的课程目录",
-        "html": "<table data-v-1afa3a17=\"\">\n<thead data-v-1afa3a17=\"\">\n<tr data-v-1afa3a17=\"\">\n<th align=\"left\" data-v-1afa3a17=\"\"></th>\n<th align=\"left\" data-v-1afa3a17=\"\">课程章节</th>\n<th align=\"left\" data-v-1afa3a17=\"\">相关教学内容</th>\n<th class=\"\" align=\"left\" data-v-1afa3a17=\"\">学习目标</th>\n</tr>\n</thead>\n<tbody data-v-1afa3a17=\"\">\n<tr data-v-1afa3a17=\"\">\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">00</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">课程介绍和学习环境设置</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">学习环境配置和课程结构</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">在学习本课程的同时帮助您取得成功</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">01</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">生成式人工智能和 LLMs 介绍</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\"><strong>知识点</strong>: 生成式人工智能以及我们如何适应当前的技术格局</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">了解什么是生成式人工智能以及LLMs的工作原理</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">02</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">探索和比较不同的 LLMs</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\"><strong>知识点</strong>: 测试、迭代和比较不同的LLMs模型</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">为您的应用场景选择正确的模型</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">03</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">负责任地使用生成式人工智能</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\"><strong>知识点</strong>: 了解基础模型的局限性和人工智能背后的风险</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">了解如何负责任地构建生成式人工智能应用程序</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">04</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">提示工程基础</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\"><strong>代码/知识点</strong>: 提示工程最佳实践</td>\n<td align=\"left\" data-v-1afa3a17=\"\">了解提示结构和用法</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">05</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">创建高级的提示工程技巧</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\"><strong>代码/知识点</strong>: 通过在提示中应用不同的技术来扩展您的提示工程知识</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">应用提示工程技术来改善提示结果</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">06</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">创建文本生成应用</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\"><strong>代码</strong>: 使用Azure OpenAI构建文本生成应用程序</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">了解如何有效地使用令牌和温度来改变模型的输出</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">07</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">创建聊天应用</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\"><strong>代码</strong>: 有效构建和集成聊天应用程序的技术</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">确定关键指标和注意事项，以有效监控和维护人工智能聊天应用程序的质量</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">08</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">创建搜索应用</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\"><strong>代码</strong>: 语义搜索与关键字搜索。什么是文本嵌入以及它们如何应用于搜索</td>\n<td align=\"left\" data-v-1afa3a17=\"\">创建一个使用嵌入来搜索数据的应用程序</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">09</td>\n<td align=\"left\" data-v-1afa3a17=\"\">创建图像生成应用</td>\n<td align=\"left\" data-v-1afa3a17=\"\"><strong>代码</strong>: 图像生成及其在构建应用程序中的作用</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">构建图像生成应用程序</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">10</td>\n<td align=\"left\" data-v-1afa3a17=\"\">创建低代码的人工智能应用</td>\n<td align=\"left\" data-v-1afa3a17=\"\"><strong>低代码</strong>: Power Platform中的生成式AI简介</td>\n<td align=\"left\" data-v-1afa3a17=\"\">使用低代码为我们的教育初创公司构建学生作业跟踪应用程序</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">11</td>\n<td align=\"left\" data-v-1afa3a17=\"\">为生成式AI添加function calling</td>\n<td align=\"left\" data-v-1afa3a17=\"\"><strong>代码:</strong> 什么是Function Calling及其在应用程序中的使用示例</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">设置Function Calling以从外部API检索数据</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">12</td>\n<td align=\"left\" data-v-1afa3a17=\"\">为人工智能应用程序添加用户体验</td>\n<td align=\"left\" data-v-1afa3a17=\"\"><strong>知识点</strong>: 设计人工智能应用程序以实现信任和透明度</td>\n<td align=\"left\" data-v-1afa3a17=\"\">开发生成式人工智能应用时用户体验设计的相关原则</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">13</td>\n<td align=\"left\" data-v-1afa3a17=\"\">保护您的生成式AI应用</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\"><strong>知识点</strong>: 了解AI系统面临的威胁和风险，以及如何保护这些系统</td>\n<td align=\"left\" data-v-1afa3a17=\"\">掌握保护生成式AI应用的安全措施，确保应用的可靠性和安全性</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">14</td>\n<td align=\"left\" data-v-1afa3a17=\"\">生成式AI应用生命周期</td>\n<td align=\"left\" data-v-1afa3a17=\"\"><strong>知识点</strong>：管理LLM生命周期和LLMOps的工具和指标</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">了解如何管理生成式AI应用的整个生命周期，包括部署、监控和优化</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">15</td>\n<td align=\"left\" data-v-1afa3a17=\"\">检索增强生成(RAG)和向量数据库</td>\n<td align=\"left\" data-v-1afa3a17=\"\"><strong>代码</strong>：使用RAG框架从向量数据库中检索嵌入的应用</td>\n<td align=\"left\" data-v-1afa3a17=\"\">学习如何结合检索增强生成技术，提升生成式AI应用的性能和准确性</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">16</td>\n<td align=\"left\" data-v-1afa3a17=\"\">开源模型与Hugging Face</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\"><strong>代码</strong>：使用Hugging Face上的开源模型创建应用</td>\n<td align=\"left\" data-v-1afa3a17=\"\">掌握如何利用Hugging Face等开源平台的模型资源，快速构建生成式AI应用</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">17</td>\n<td align=\"left\" data-v-1afa3a17=\"\">AI代理</td>\n<td align=\"left\" data-v-1afa3a17=\"\"><strong>代码</strong>：使用AI代理框架创建应用</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">了解AI代理的概念，并学习如何通过AI代理框架构建智能应用</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">18</td>\n<td align=\"left\" data-v-1afa3a17=\"\">微调LLM</td>\n<td align=\"left\" data-v-1afa3a17=\"\"><strong>知识点</strong>：微调LLM的内容、原因和方法</td>\n<td align=\"left\" data-v-1afa3a17=\"\">掌握如何对大型语言模型进行微调，以适应特定的业务需求</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">19</td>\n<td align=\"left\" data-v-1afa3a17=\"\">使用SLM构建</td>\n<td align=\"left\" data-v-1afa3a17=\"\"><strong>知识点</strong>：使用小型语言模型构建的优势</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\">了解小型语言模型的特点和应用场景，以及如何利用它们构建高效的应用</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">20</td>\n<td align=\"left\" data-v-1afa3a17=\"\">使用Mistral模型构建</td>\n<td align=\"left\" data-v-1afa3a17=\"\"><strong>知识点</strong>：Mistral系列模型的特点和差异</td>\n<td align=\"left\" data-v-1afa3a17=\"\">掌握Mistral模型的特点，以及如何在实际应用中选择合适的模型</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">21</td>\n<td align=\"left\" data-v-1afa3a17=\"\">使用Meta模型构建</td>\n<td class=\"\" align=\"left\" data-v-1afa3a17=\"\"><strong>知识点</strong>：Meta系列模型的特点和差异</td>\n<td align=\"left\" data-v-1afa3a17=\"\">了解Meta模型的优势和应用场景，学习如何利用它们构建高级应用</td>\n</tr>\n<tr data-v-1afa3a17=\"\">\n<td align=\"left\" data-v-1afa3a17=\"\">xx</td>\n<td align=\"left\" data-v-1afa3a17=\"\">拓展学习</td>\n<td align=\"left\" data-v-1afa3a17=\"\">包含每章内容的拓展链接！</td>\n<td align=\"left\" data-v-1afa3a17=\"\">掌握生成式人工智能相关技能</td>\n</tr>\n</tbody>\n</table>"
+        "title": "Generative AI for Beginners 的主要内容",
+        "html": "<p>Generative AI for Beginners 由哪些部分构成，官方仓库写得比较清楚：</p><ul><li><strong>21 节课的完整目录</strong>：从基础概念一路排到应用构建。</li><li><strong>每节课的标准配置</strong>：一段主题短视频介绍、README 中的书面课程、支持 Azure OpenAI 与 OpenAI API 的 Python 与 TypeScript 代码示例，以及延伸资源链接。</li><li><strong>四种运行方式</strong>：Azure OpenAI Service、Microsoft Foundry Models、OpenAI API，以及可完全离线跑在本机、无需云订阅的 Foundry Local。</li><li><strong>进阶示例集</strong>：官方另有一批可直接部署的生成式 AI 代码示例，提供 Python 与 TypeScript 两种版本。</li><li><strong>多语言支持</strong>：仓库提供了 50 多种语言的翻译版本。</li><li><strong>社区支持</strong>：可通过微软官方的 Foundry Discord 与其他学习者交流。</li></ul>"
       },
       {
-        "title": "Generative AI for Beginners的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">基础教学</strong>：提供生成式人工智能（Generative AI）的基础知识，使初学者能理解基础原理和工作机制。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>模型介绍</strong>：介绍不同的生成式AI模型，包括大型语言模型（LLMs），解释模型的应用和限制。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>技术应用</strong>：展示如何在实际项目中应用生成式AI技术，包括文本生成、图像创作和聊天机器人开发等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>实践练习</strong>：通过动手实验和项目练习，让学习者亲自操作生成式AI工具和平台，增强实践能力。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">创新指导</strong>：鼓励学习者探索生成式AI的创新用途，激发创造性思维和解决问题的能力。</div>\n</li>\n</ul>"
+        "title": "如何使用 Generative AI for Beginners",
+        "html": "<p>Generative AI for Beginners 的使用方式基本就是「照章节走」，官方也在仓库的起步章节里给了顺序建议：</p><ol><li>打开课程仓库，先看起步章节，了解整体安排。</li><li>按 What You Need 章节选定运行方式，本地练习可以用 Foundry Local，接云端则选 Azure OpenAI 或其他模型服务。</li><li>进入第一节，先看主题短视频，再读 README 里的书面课程。</li><li>把随课附带的 Python 或 TypeScript 示例跑起来，对照结果理解代码在做什么。</li><li>完成课后的练习与挑战，再把延伸资源当作补充阅读。</li><li>遇到问题时到官方 Discord 提问，或顺着链接继续学仓库里推荐的其他课程系列。</li></ol>"
       },
       {
-        "title": "Generative AI for Beginners的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>内容创作</strong>：生成式能帮助作家、设计师和艺术家快速生成创意内容，如文本、图像和音乐。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>客户服务</strong>：在客户服务领域，生成式AI能创建聊天机器人，自动回答常见问题，提供个性化服务。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教育和培训</strong>：生成式AI用在开发个性化学习材料和模拟训练环境，适应不同学习者的需求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>游戏开发</strong>：在游戏行业，生成式AI能自动生成游戏关卡、故事线和非玩家角色（NPC）的行为模式。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>医疗健康</strong>：生成式AI能帮助医生分析医疗图像，预测疾病发展，个性化治疗方案。</div>\n</li>\n</ul>"
+        "title": "Generative AI for Beginners 的应用场景",
+        "html": "<p>作为一门公开课，Generative AI for Beginners 的使用者不止是想转行的个人，官方也把它开放给教学与团队场景：</p><ul><li><strong>个人自学</strong>：从零建立生成式 AI 的概念框架，并留下可运行的代码基础。</li><li><strong>高校与培训机构授课</strong>：直接取用 21 节课的目录与示例组织教学。</li><li><strong>企业内部培训</strong>：让工程师与产品同事用同一套材料对齐基础认知。</li><li><strong>开发前的能力验证</strong>：在正式立项前，用课里的示例快速确认某类应用是否可行。</li><li><strong>教学者备课</strong>：把仓库中的视频、练习与代码示例拆出来，拼成自己的课件。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-02"
   },
   {
     "slug": "machine-learning-for-beginners",
@@ -34042,23 +34115,23 @@
     "domain": "microsoft.github.io",
     "detailed_content": [
       {
-        "title": "ML for Beginners是什么",
-        "html": "<p>ML for Beginners（Machine Learning for Beginners）是微软推出的面向初学者的12周机器学习课程。ML for Beginners包含26课，涵盖经典机器学习技术，主要使用<a href=\"https://ai-bot.cn/sites/60.html\" target=\"_blank\" rel=\"noopener\">Scikit-learn</a>库。课程结合全球文化数据，采用项目驱动教学法，每课包括预习测验、书面指导、解决方案、作业等。课程内容从基础概念到回归、分类、聚类、自然语言处理等主题，逐步深入。ML for Beginners提供视频教程、项目指南和测验应用，帮助学习者在实践中掌握知识。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/07/ml-for-beginners-website.png\" data-fancybox=\"fancybox\" data-caption=\"Machine Learning for Beginners\"><img decoding=\"async\" class=\"alignnone wp-image-56860\" src=\"https://ai-bot.cn/wp-content/uploads/2025/07/ml-for-beginners-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Machine Learning for Beginners\" width=\"740\" height=\"416\"></a>"
+        "title": "Machine Learning for Beginners 是什么",
+        "html": "<p>Machine Learning for Beginners 由微软 Cloud Advocates 团队提供，是一套 12 周、26 节课的机器学习课程。它讲的主要是通常所说的「经典机器学习」，以 Scikit-learn 作为核心工具库来组织练习。</p><p>这套课程还设了一个统一主题：顺着世界各地的文化展开机器学习的学习。官方认为共同的主题能让内容更连贯，也更容易记住每个知识点对应的场景。</p>"
       },
       {
-        "title": "ML for Beginners的主要功能",
-        "html": "<ul>\n<li><strong>系统学习路径</strong>：提供12周、26课的完整学习计划，涵盖机器学习基础到高级主题，适合初学者逐步深入。</li>\n<li><strong>实践驱动</strong>：每课包含实际项目和代码示例，通过动手实践帮助学生巩固知识。</li>\n<li><strong>互动学习</strong>：包含预习测验、后测验和知识检查，用互动方式增强学习效果。</li>\n<li><strong>多媒体支持</strong>：提供视频教程、插图和示意图，辅助理解复杂概念，提升学习体验。</li>\n<li><strong>社区支持</strong>：设有讨论板和进度评估工具，促进学生交流和自我反思。</li>\n<li><strong>灵活学习</strong>：支持本地运行文档和代码，提供Python和R语言版本，满足不同学习需求。</li>\n<li><strong>扩展学习</strong>：链接Microsoft Learn模块，探讨现实世界应用，为学生提供更深入的学习资源。</li>\n</ul>"
+        "title": "Machine Learning for Beginners 的教学设计",
+        "html": "<p>Machine Learning for Beginners 在仓库里专门写了 Pedagogy 一节，说明这门课的两条教学原则，也是它区别于普通教材的地方：</p><ul><li><strong>项目驱动</strong>：内容与项目对齐，项目从简单逐步变复杂，学到的概念立刻有地方用。</li><li><strong>高频测验</strong>：课前有一道低压力的小测验帮助定位，课后还有一轮测验巩固记忆。</li><li><strong>统一主题增加连贯性</strong>：用世界文化作为线索串起 26 节课。</li><li><strong>每节课的固定组成</strong>：可选草图笔记、可选补充视频、部分课节的视频讲解、课前热身测验、书面课程、项目式分步指南、知识检查、挑战题、补充阅读、作业与课后测验。</li><li><strong>语言安排</strong>：课程以 Python 为主，不少课节也提供 R 版本，放在仓库的 solution 目录下。</li><li><strong>离线可用</strong>：借助 Docsify 可以把整套文档在本地跑起来。</li></ul>"
       },
       {
-        "title": "ML for Beginners的课程",
-        "html": "<ul>\n<li><strong>机器学习简介</strong>：了解机器学习的基本概念、定义和应用场景。</li>\n<li><strong>机器学习的历史</strong>：学习机器学习的发展历程，了解其历史背景和重要里程碑。</li>\n<li><strong>机器学习中的公平性</strong>：探讨在构建和应用机器学习模型时需要考虑的公平性哲学问题。</li>\n<li><strong>机器学习技术</strong>：了解机器学习研究者用于构建模型的技术和方法。</li>\n<li><strong>回归分析入门</strong>：学习使用Python和Scikit-learn进行回归模型的基础知识。</li>\n<li><strong>北美南瓜价格</strong>：学习数据可视化和清理，为机器学习做准备。</li>\n<li><strong>北美南瓜价格</strong>：构建线性和多项式回归模型。</li>\n<li><strong>北美南瓜价格</strong>：构建逻辑回归模型。</li>\n<li><strong>Web应用</strong>：学习如何构建一个Web应用来使用训练好的模型。</li>\n<li><strong>分类入门</strong>：学习数据清理、可视化以及分类的基础知识。</li>\n<li><strong>亚洲和印度美食</strong>：学习分类器的基础知识。</li>\n<li><strong>亚洲和印度美食</strong>：学习更多分类器的使用。</li>\n<li><strong>亚洲和印度美食</strong>：使用模型构建推荐系统Web应用。</li>\n<li><strong>聚类入门</strong>：学习数据清理、可视化以及聚类的基础知识。</li>\n<li><strong>探索尼日利亚音乐品味</strong>：探索K-Means聚类方法。</li>\n<li><strong>自然语言处理入门</strong>：通过构建简单聊天机器人学习自然语言处理的基础知识。</li>\n<li><strong>常见NLP任务</strong>：深入学习处理语言结构时所需的常见任务。</li>\n<li><strong>翻译和情感分析</strong>：学习翻译和情感分析，以简·奥斯汀的作品为例。</li>\n<li><strong>欧洲浪漫酒店</strong>：使用酒店评论进行情感分析。</li>\n<li><strong>欧洲浪漫酒店</strong>：深入学习情感分析，继续使用酒店评论数据。</li>\n<li><strong>时间序列预测入门</strong>：学习时间序列预测的基础知识。</li>\n<li><strong>全球电力使用</strong>：使用ARIMA进行时间序列预测。</li>\n<li><strong>全球电力使用</strong>：使用支持向量回归器（SVR）进行时间序列预测。</li>\n<li><strong>强化学习入门</strong>：学习使用Q-Learning进行强化学习。</li>\n<li><strong>帮助彼得避开狼</strong>：通过强化学习Gym环境，实践强化学习。</li>\n<li><strong>后记</strong>：探讨机器学习在现实世界中的应用，了解模型调试工具。</li>\n</ul>"
+        "title": "如何使用 Machine Learning for Beginners",
+        "html": "<p>Machine Learning for Beginners 为 12 周 26 课，官方给出的节奏是按课节推进，每一步都有配套材料：</p><ol><li>打开课程仓库，先读开篇说明，确认总体安排与所需环境。</li><li>对照课程表了解 12 周里 26 节课的先后关系。</li><li>每节课开始前先做课前热身测验，给自己定一个学习意图。</li><li>阅读书面课程，并按项目式课节的分步指南把项目搭出来。</li><li>用知识检查与挑战题检验理解，做完课后测验加深记忆。</li><li>如果习惯 R，就到 solution 目录里找对应的 R 版课节；需要离线环境时用 Docsify 在本地启动文档。</li></ol>"
       },
       {
-        "title": "ML for Beginners的应用场景",
-        "html": "<ul>\n<li><strong>用户兴趣聚类</strong>：借助聚类算法分析用户兴趣，助力企业精准营销和产品推荐。</li>\n<li><strong>情感分析</strong>：运用自然语言处理技术分析酒店评论等文本数据的情感倾向，为商家优化服务提供参考。</li>\n<li><strong>电力需求预测</strong>：凭借时间序列预测模型预估电力需求，助力电力部门合理规划资源分配。</li>\n<li><strong>智能体决策</strong>：借助强化学习训练智能体，使其能够在复杂环境中自主决策，如机器人导航和游戏AI。</li>\n<li><strong>医疗诊断辅助</strong>：应用在医疗领域，辅助医生进行疾病诊断，提高诊断的准确性和效率。</li>\n</ul>"
+        "title": "Machine Learning for Beginners 的应用场景",
+        "html": "<p>官方把 Machine Learning for Beginners 定位成可整体使用、也可只取片段的灵活课程，因此适用面比较宽：</p><ul><li><strong>零基础自学</strong>：用 12 周的节奏把经典机器学习的常见算法过一遍。</li><li><strong>课堂与训练营</strong>：教师可以按 26 节课排一学期的进度。</li><li><strong>团队补基础</strong>：工程师在转向数据相关岗位前，用它把 Scikit-learn 的用法补齐。</li><li><strong>双语教学</strong>：仓库提供的多语言翻译能覆盖不同语言背景的学习者。</li><li><strong>备课取材</strong>：把测验、挑战题与分步项目拆出来，复用为课堂练习。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-02"
   },
   {
     "slug": "tool21",
@@ -34444,8 +34517,25 @@
     "subcategory": "ai-models-llm",
     "logo": "/logos/tool1487.png",
     "domain": "modelscope.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "ModelScope 魔搭社区 是什么",
+        "html": "<p>ModelScope 魔搭社区建立在「模型即服务」（Model-as-a-Service，MaaS）这一理念之上。它想做的事情是两件：一边把 AI 社区里较先进的机器学习模型汇集起来，另一边把模型在实际应用中落地的流程变顺畅。</p><p>官方开源的核心库提供了一整套接口与实现，让开发者能够对模型做推理、训练和评估。也就是说，ModelScope 魔搭社区既是一个模型集市，也是一层把模型用起来的技术底座。</p>"
+      },
+      {
+        "title": "ModelScope 魔搭社区 的主要功能",
+        "html": "<p>官方仓库对 ModelScope 魔搭社区 这套库的描述集中在「统一」与「可插拔」两点上，具体能列出这些：</p><ul><li><strong>分层 API 抽象</strong>：用统一的体验去探索前沿模型，覆盖计算机视觉、自然语言处理、语音、多模态与科学计算等方向。</li><li><strong>模型接入机制</strong>：不同领域的模型贡献者可以通过分层 API 把模型集成进生态。</li><li><strong>少量代码完成主要任务</strong>：模型接入之后，推理、微调与评估都能用几行代码跑通。</li><li><strong>组件可定制</strong>：在需要时，模型应用里的不同组件可以被替换或改写。</li><li><strong>与后端服务打通</strong>：库能同 Model-Hub 与 Dataset-Hub 交互，把模型和数据集实体的查找、版本控制与缓存管理放到后台自动完成。</li><li><strong>模型规模</strong>：官方说明平台上有 700 多个公开模型，并持续增加。</li><li><strong>在线体验与 Notebook</strong>：网页上可以点击试用模型，也能直接进入预置好 CPU 或 GPU 环境的 ModelScope Notebook。</li></ul>"
+      },
+      {
+        "title": "如何使用 ModelScope 魔搭社区",
+        "html": "<p>ModelScope 魔搭社区的常规使用路径，官方文档里给得比较直接：</p><ol><li>访问 modelscope.cn，按领域浏览或搜索需要的模型。</li><li>在本地环境中安装 modelscope 库，准备好运行依赖。</li><li>选定模型后，参照该模型的页面说明加载并使用它。</li><li>先用几行代码完成一次推理，确认输出符合预期。</li><li>如果有自己的数据，再按文档做微调与效果评估。</li><li>不想配置本地环境时，直接使用 ModelScope Notebook，在云端的 CPU 或 GPU 环境里跑同一套代码。</li></ol>"
+      },
+      {
+        "title": "ModelScope 魔搭社区 的应用场景",
+        "html": "<p>由于 ModelScope 魔搭社区同时提供了模型库与在线环境，它覆盖的使用场景比较分散：</p><ul><li><strong>模型选型对比</strong>：在几百个公开模型之间快速试用，找出适合自己任务的方案。</li><li><strong>私有数据微调</strong>：在已有模型基础上按业务数据继续训练，再评估效果。</li><li><strong>跨领域试验</strong>：同一套分层 API 可以在视觉、语音、多模态等方向之间切换。</li><li><strong>教学与科研</strong>：借助在线 Notebook 让学生或研究者跳过环境配置。</li><li><strong>应用集成</strong>：把库接进自己的产品流程，让模型加载与版本管理交给后端服务处理。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-02"
   },
   {
     "slug": "tool22232",
