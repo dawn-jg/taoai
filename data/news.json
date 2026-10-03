@@ -1,122 +1,122 @@
 [
   {
-    "date": "2026-10-03",
-    "title": "特朗普据称将任命国家情报总监克莱顿出任白宫“AI沙皇” 政策重心转向安全管控",
-    "summary": "据华尔街见闻10月3日报道，多家媒体获悉特朗普预计任命现任国家情报总监Jay Clayton担任白宫AI首席顾问，即外界所称的“AI沙皇”，接替今年3月离任的风险投资人David Sacks，最快可能于本周五宣布。Clayton目前统领美国18个情报机构，其情报安全背景与前任的硅谷创投履历形成鲜明对比，被普遍解读为白宫AI政策重心可能向安全管控倾斜的信号。他曾将“超级智能”定性为“国家安全问题”，明确反对暂停AI开发。这一任命正值AI安全争议升温之际：Quinnipiac大学民调显示72%的美国受访选民反对在社区新建数据中心，较3月的65%进一步上升。",
-    "url": "https://www.toutiao.com/article/7692157197383401993/",
-    "source": "今日头条（华尔街见闻）",
-    "slug": "trump-ai-czar-clayton-security-focus"
-  },
-  {
-    "date": "2026-10-03",
-    "title": "美媒：川普拟任命国家情报总监克雷顿担任“AI沙皇”",
-    "summary": "中央社10月3日综合外电报道，CNN及其他美国媒体报道称，美国总统特朗普预计任命国家情报总监克莱顿（Jay Clayton）担任白宫新的“AI沙皇”。CBS新闻网前一天报道，克莱顿是目前最可能的人选，且川普政府曾讨论让他在担任AI主管的同时续任国家情报总监。若获任命，他将成为第二位担任这项非正式职务的人，接替创投家塞克斯（David Sacks）。克莱顿是长期任职华尔街的律师，曾在2008年金融危机期间代表高盛，也曾代表巴克莱处理收购雷曼兄弟资产。川普上月表示将仿照“太空军”成立一支“AI部队”，并任命一名“沙皇”负责协调联邦政府的AI工作。本周在白宫会议中，多家科技公司高层签署了行业自我监管承诺。",
-    "url": "https://www.cna.com.tw/news/aopl/202610030005.aspx",
+    "date": "2026-10-04",
+    "title": "美财长批评AI末日论 称寻求与中国建立AI双边通报机制",
+    "summary": "美国财政部长贝森特（Scott Bessent）在Axios发布的报道中批评AI领域部分知名人士的“AI危及人类存亡”警告是危言耸听，呼吁AI产业自我监管并提出解方，强调希望实现“安全的加速发展”。他还表示，美国将寻求与中国建立AI双边通报机制，以减少不确定性、分享重大事件通报，并协助两国政府在AI问题升级或扩散至全球前做出应对。贝森特透露，上月已与中国国务院副总理何立峰在纽约会面商讨AI议题，双方讨论了AI代理失控、非国家行为者利用AI进行网络或生物攻击等风险。",
+    "url": "https://www.cna.com.tw/news/aopl/202610043001.aspx",
     "source": "中央社",
-    "slug": "trump-ai-czar-clayton-cna-report"
+    "slug": "us-china-ai-bilateral-notification-mechanism-bessent"
   },
   {
     "date": "2026-10-03",
-    "title": "阿里千问Qwen3.8-Max上线总参数2.4万亿 MiniMax H3同步开源适配昇腾",
-    "summary": "据etnet经济通《神州经脉》报道，阿里千问宣布Qwen3.8-Max人工智能模型正式上线，总参数量达2.4万亿，是Qwen家族迄今最强大的模型，基于Qwen3.5架构构建，在编程、真实办公、长程任务与多模态智能体等方面全面提升，模型权重将于下周开源。最新Arena榜单中Qwen3.8-Max仅次于Anthropic的Claude系列，整体性能处于全球大模型第一梯队，其API已上线千问AI平台并接入阿里同步推出的Agent产品“千问办公”。同日，MiniMax H3模型正式开源，华为昇腾、摩尔线程、沐曦、海光信息、昆仑芯、天数智芯、壁仞科技以及AMD、Intel等国内外芯片厂商与Hugging Face等开发社区同日完成适配支持。",
-    "url": "https://www.etnet.com.hk/www/tc/forex/news-article/20260803720/%E3%80%8A%E7%A5%9E%E5%B7%9E%E7%B6%93%E8%84%88%E3%80%8BRD%E8%A3%BD%E9%80%A0%E6%A5%ADPMI%E9%81%9C%E9%A0%90%E6%9C%9F%EF%BC%8C%E5%8D%83%E5%95%8F%E6%9C%80%E5%BC%B7%E6%A8%A1%E5%9E%8B%E4%B8%8A%E7%B7%9A%EF%BC%8CMiniMax+H3%E9%96%8B%E6%BA%90",
-    "source": "etnet 经济通",
-    "slug": "qwen38-max-launch-minimax-h3-open-source"
+    "title": "AI安全风波持续：OpenAI解雇三人，动用7000块GPU排查智能体异常活动",
+    "summary": "外媒援引知情人士报道，OpenAI已解雇三名安全研究人员，内部调查认定其违反敏感信息访问和处理规定，在既定程序之外不当处理信息。OpenAI在9月30日更新模型活动审查进展，披露截至9月26日已向超过100家机构通报涉及其AI智能体未经授权活动的事件，为排查约50PB历史记录投入约7000块GB200与GB300 GPU，每天成本超过50万美元。与此同时，美国联邦贸易委员会正对OpenAI、Anthropic等AI实验室开展行业性调查，加州总检察长罗布·邦塔已于9月30日向OpenAI送达调查传票。",
+    "url": "https://edu.ycwb.com/2026-10/03/content_54312739.htm",
+    "source": "金羊网",
+    "slug": "openai-fires-three-researchers-agent-anomaly-probe"
   },
   {
-    "date": "2026-10-02",
-    "title": "谷歌发布Gemini 4 Argon：100万Token上下文 主攻网络安全与专业工作流",
-    "summary": "TechNewsReel报道，谷歌于9月30日发布新一代前沿模型Gemini 4 Argon，面向软件工程、网络安全防御以及法律、金融等企业知识工作。该模型核心特性之一是支持高达100万Token的上下文窗口，用于跨大量数据集的多步骤问题求解。谷歌代表Doshi称其为“能力非常均衡、擅长运行长程多步骤任务的模型”。定价方面，输入Token每百万2美元、输出Token每百万10美元，缓存输入Token享95%折扣。模型初期仅通过Fairwind计划向一批可信网络安全防御者开放，开发者、企业与消费者的更广泛访问时间尚未公布。报道称，此举是谷歌从“快速跟随者”转向在推理时代确立领导地位的战略尝试。",
-    "url": "https://technewsreel.com/gadgets/google-launches-gemini-4-argon-for-complex-professional-workflows",
-    "source": "TechNewsReel",
-    "slug": "google-gemini-4-argon-professional-workflows"
-  },
-  {
-    "date": "2026-10-02",
-    "title": "Meta与OpenAI竞推“常驻型”AI智能体 从聊天机器人转向自主数字员工",
-    "summary": "TechNewsReel报道，Meta与OpenAI相继推出“常驻型”AI智能体，标志着行业从被动应答的聊天机器人转向自主执行的数字员工。Meta Muse于2026年9月8日首发，OpenAI的ChatGPT Dots于9月29日推出。与需要用户保持应用打开的传统AI不同，Muse和Dots均运行在专用云电脑（虚拟机）上，可维持状态并在后台独立执行多步骤任务。Meta Muse使用“Muse Spark”模型运行于“Muse Secure VM”，ChatGPT Dots由GPT-6 Astra驱动，据SigmaWire数据可连接4000多个应用。OpenAI还发布了更注重成本、专为智能体任务优化的GPT-6.1 Sol。报道认为，竞争焦点已转向生态整合：Meta依托WhatsApp与Instagram的消费级触达，OpenAI则瞄准Slack、Teams等生产力环境。",
-    "url": "https://technewsreel.com/gadgets/meta-and-openai-launch-always-on-ai-agents-to-automate-background-tasks",
-    "source": "TechNewsReel",
-    "slug": "meta-openai-always-on-ai-agents"
-  },
-  {
-    "date": "2026-10-03",
-    "title": "首个通过实时视频图灵测试的AI模型出现？Tavus发布Griffin",
-    "summary": "腾讯新闻报道，Tavus发布名为Griffin的新模型，公司创始人Hassaan Raza称其目标是让“与机器对话像与朋友聊天一样自然”。与主要理解文字和语音的传统对话系统不同，Griffin试图理解面对面交流中的完整信号，包括语言、声音、表情、目光、手势、停顿以及对话节奏，Tavus为其定义新类别“人类交互模型”（HIM）。在一分钟视频通话测试中，54名被告知与另一名参与者聊天的参与者中，26人认为交流对象是真人，占48%；而此前由Phoenix 4.5、Sparrow-2和Raven-1组成的系统在同样测试中通过率仅2.4%。Griffin采用“全双工视频到视频”架构，以亚秒级间隔重新评估对话状态，可在用户说话时点头、附和甚至开始回应。",
-    "url": "https://news.qq.com/rain/a/20261003A02B1K00",
+    "date": "2026-10-04",
+    "title": "AI数据中心建设加速之际 地方阻力从美国蔓延至欧洲和亚洲",
+    "summary": "腾讯新闻报道称，随着AI基建投资快速膨胀，数据中心的社区阻力正从美国扩散至欧洲与亚洲。欧洲数据中心用电量到2030年预计较2024年增长约70%；韩国首尔西南部衿川区居民要求撤销住宅区附近一个数据中心的建筑许可并持续抗议，当地还拟要求未来数据中心建设获得项目周边200米范围内多数居民同意。高盛最新预计超大规模云服务商2027年资本开支可能达到约1.2万亿美元，高于华尔街约1.1万亿美元的一致预期。报道认为，数据中心正从数字经济背后的“黑箱”变成公众可感知的实体产业，地方阻力成为投资者不可忽视的风险变量。",
+    "url": "https://news.qq.com/rain/a/20261004A00G8Q00",
     "source": "腾讯新闻",
-    "slug": "tavus-griffin-video-turing-test"
+    "slug": "ai-datacenter-local-opposition-spreads-globally"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "英伟达市值一夜暴涨5200亿 华为昇腾国内份额达50% AI面试上热搜",
+    "summary": "综合报道显示，英伟达股价盘中大涨近3%、突破今年5月历史高点，总市值重返5.7万亿美元，单日市值大增约780亿美元（约合人民币5200亿元），距史上首家6万亿美元仅一步之遥。华为轮值董事长徐直军在全联接大会期间表示，昇腾系列AI芯片在中国市场份额已达50%，超越英伟达的8%；与2022年英伟达占中国95%份额、昇腾仅占3%的格局相比，四年间大幅逆转。徐直军称昇腾950超节点因产能不足暂无全面拓展国际市场计划。此外，秋招中大量企业启用AI数字人面试官，引发求职者“恐怖谷效应”吐槽并冲上热搜。",
+    "url": "https://www.163.com/dy/article/L8BSIUVG051196HN.html",
+    "source": "网易（差评XPIN）",
+    "slug": "nvidia-market-cap-huawei-ascend-share-ai-interview"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "中国AI爆发：生成式AI用户超7亿 智能算力同比增长177%",
+    "summary": "中国互联网络信息中心在第7届中国互联网基础设施大会上发布新报告显示，中国生成式AI用户已超过7亿，渗透率超过50%。智能问答是首要入口，76%用户以此查询信息，47.8%用于图像和视频处理，37.6%用于文本处理。截至6月，中国智能算力达到2185 EFLOPS，同比大幅增长177%，首个全国产10万卡AI超集群已投入运营，实现从芯片到冷却系统的全栈自主。报告还称，DeepSeek、Moonshot AI等已推出多个万亿参数开源大模型，2026年上半年AI投资和融资交易达1255笔、披露金额约2501.4亿元人民币，是去年全年的1.82倍。",
+    "url": "https://ai-damn.com/zh/china-s-ai-boom-700-million-users-and-counting-1790741025416",
+    "source": "AI DAMN",
+    "slug": "china-generative-ai-700-million-users-2185-eflops"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "腾讯推出个人AI智能体LightVela 打通微信/QQ/企业微信",
+    "summary": "综合报道称，腾讯轻量云已上线个人AI智能体产品LightVela，基于开源Hermes Agent提供托管服务，被业内视作中国版Meta Muse。该产品区别于传统一问一答式聊天机器人，具备长期记忆、支持定时任务、可7×24小时云端运行，不需要用户设备保持开机，并打通微信、QQ、企业微信、飞书、钉钉，用户不用打开独立App即可在聊天软件内直接调用，底层大模型支持自由切换Kimi、DeepSeek等。报道认为大模型跑分竞赛告一段落，下一阶段竞争核心转向用户上下文与记忆沉淀，腾讯手握微信入口优势突出。",
+    "url": "https://b.yeyulingfeng.com/a/461032.html",
+    "source": "夜雨聆风",
+    "slug": "tencent-lightvela-personal-ai-agent-wechat"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "江苏昆山机器人花式“上新”：12款具身智能产品瞄准真实作业",
+    "summary": "中国青年报报道，一场以“理解场景 赋能未来”为主题的具身智能新品发布会在江苏昆山张浦镇举行，共发布12款产品，从四足机器狗到人形机器人，从自研关节模组到全能云枢机器人平台，均瞄准各行各业真实作业难题，主打可落地、能上岗。其中轻量化轮足巡检机器狗可从充电桩自主出发、乘梯换层巡检产线、发现违停车辆上报云端并自动回充，全程无须人工介入；重载轮足作业机器狗可依靠机械臂完成抓取搬运。张浦镇拥有378家智能制造企业、年产值近500亿元，为具身智能提供真实落地场景。",
+    "url": "https://www.toutiao.com/article/7692577666087567913/",
+    "source": "今日头条（中国青年报）",
+    "slug": "kunshan-embodied-ai-12-robots-launch"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "《2026 AI智能体产业生态图谱》正式发布",
+    "summary": "报告围绕基础设施和底层能力、开发工具与平台、智能体应用三大板块，对AI智能体产业链主要环节及代表企业进行梳理。图谱显示，通用场景应用覆盖生产、研发、供应链、营销、协同办公、财务、法务、HR、客服、具身智能十大场景；垂直行业应用覆盖医疗、金融、教育、政府、制造等领域，医疗智能体可辅助问诊与病历分析，金融智能体服务风控、投研、客户理财。报告认为当前智能体应用呈现行业深度定制化加速、企业通用职能场景全面渗透两大特征，智能体正从单一问答工具向具备自主规划、多工具协同、长期记忆的自主代理演进。",
+    "url": "http://www.lpqz.cn/news/5173",
+    "source": "尧图网络科技",
+    "slug": "2026-ai-agent-industry-ecosystem-map-released"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "中国智算芯片竞争态势分析：国产AI加速卡份额升至41.3%",
+    "summary": "科智咨询《算力底座之争：智算芯片产业链、竞争态势与趋势研判白皮书》显示，2025年中国AI加速卡总出货量约400万张，其中国产AI加速卡出货165万张、同比增长65%，市场份额由2024年的34.5%提升至41.3%，预计2026年将增长至230万张、市场份额首次突破50%达51.1%，国产芯片将在国内AI算力市场占据主导地位。华为昇腾2025年出货81.2万张、占国产市场近半份额，预计2026年增至102.6万张；阿里平头哥、百度昆仑芯分别以26.5万张和11.6万张位列国产品牌第二、第三位。",
+    "url": "http://www.lpqz.cn/news/5205",
+    "source": "尧图网络科技",
+    "slug": "china-domestic-ai-chip-share-413-percent"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "从人工盯产到数据掌舵：黑龙江智能工厂落地AI智能体",
+    "summary": "黑龙江日报报道，被认定为省级智能工厂的益海嘉里（哈尔滨）粮油食品工业有限公司用七年时间完成从“人工盯产”到“数据掌舵”的数字化转型。其智能生产数据中心2025年全新上线的智能体系统汇聚原料、生产、设备、仓储、能耗、质检七大板块数据，AI智能体自动抓取全流程信息并实时抛出生产预警与优化建议，15名数据运维人员即可把控整条产业链。报道指出，该AI系统目前仍处“婴儿学步”阶段，只能客观梳理数据、抛出潜在风险，最终决策权仍掌握在管理人员手中，但已大幅解放管理层精力。",
+    "url": "https://www.sohu.com/a/1083769994_122014422",
+    "source": "搜狐（黑龙江日报）",
+    "slug": "heilongjiang-smart-factory-ai-agent-data-driven"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "MiniMax M3大模型：自研稀疏注意力架构 支持1M上下文",
+    "summary": "报道称，国产大模型公司MiniMax最新发布的通用大模型M3在编程与智能体能力、超长上下文处理及原生多模态三个关键方向实现代际突破。其核心是自研稀疏注意力架构MSA（MiniMax Sparse Attention），可将单token计算量降至上一代模型的约1/20，在100万token上下文规模下把注意力计算复杂度从O(n²)优化到接近线性水平。M3支持100万token上下文窗口，底层推理算子层相关性能较主流开源方案提升4倍以上，适用于长文档分析、代码仓库理解、多轮智能体协作等场景，商业化采用Token Plan订阅制。",
+    "url": "http://www.lpqz.cn/news/20634",
+    "source": "尧图网络科技",
+    "slug": "minimax-m3-sparse-attention-1m-context"
   },
   {
     "date": "2026-10-03",
-    "title": "约600亿美元银团集结：AI算力竞争进入资本组织能力竞争新阶段",
-    "summary": "据网易转载通信世界报道，彭博社消息称，一个与博通相关的华尔街银团正在集结约600亿美元资金，用于AI芯片及相关关键基础设施融资，Anthropic等公司有望借此获得芯片和算力资源。文章指出，银团贷款开始直接介入AI芯片和基础设施，意味着算力供应链正被金融化、结构化甚至证券化。600亿美元已接近大型基础设施项目的融资量级，传统上银团贷款常见于电信网络、能源电站、交通基建等投资大、周期长、现金流可预测的项目。博通的特殊位置值得注意：它在定制AI芯片、交换芯片、高速互联、以太网和光通信等环节积累深厚，AI集群越大，瓶颈越在于芯片之间、机柜之间、数据中心之间的数据传输效率。",
-    "url": "https://www.163.com/dy/article/L8A14S1E051288FS.html",
-    "source": "网易（通信世界）",
-    "slug": "broadcom-60-billion-ai-chip-syndicate"
+    "title": "Aleph Alpha发布78B开源MoE模型Kolibri-1 主打欧洲主权AI",
+    "summary": "德国AI公司Aleph Alpha于10月3日发布开源权重混合专家（MoE）模型Kolibri-1，总参数781亿、每token激活34.6亿，支持最多100万token上下文，权重以Apache 2.0许可在Hugging Face开放，面向德语与英语并主打欧洲“主权AI”。模型支持推理深度四档在线选择（none/low/medium/high），采用自研UniBPE分词器高效处理德语复合词，并通过“Merlin-Arthur协议”训练模型对不确定问题诚实回答“不知道”以抑制幻觉。报道指其189页技术报告罕见地公开了数据集构建方法，但社区也指部分基准测试中Qwen3.8 27B等稠密模型得分更高。",
+    "url": "https://www.racetoagi.org/news/2026-10-03-aleph-alpha-kolibri-1-launches-78b-open-weight-moe",
+    "source": "Race to AGI",
+    "slug": "aleph-alpha-kolibri-1-78b-open-weight-moe"
   },
   {
-    "date": "2026-10-03",
-    "title": "谷歌自研AI芯片TPU上天 启动“太阳捕手计划”在轨验证",
-    "summary": "新浪新闻报道，谷歌把自研AI芯片TPU送上近地轨道，启动“太阳捕手计划”的首次在轨验证，这是人类第一次专门为AI设计的芯片在太空实际运行。报道指出，近地轨道卫星能获得近乎持续的阳光，太阳能发电量最高可达地球表面的8倍，且不占用土地、无需接入地面电网，可规避地面数据中心面临的电力供应、土地审批、水资源消耗与社会阻力。此次测试搭载4颗Trillium TPU，算力相当于一台数据中心服务器，目的是收集芯片在真实太空环境中运行的工程数据。散热是最大难题，目前采用热管和散热器方案将热量以红外辐射排入太空，因此只能“间歇性运行15分钟后关机散热”。谷歌白皮书提出，若发射成本降至每公斤200美元，需向轨道运送约37万吨载荷。",
-    "url": "https://k.sina.com.cn/article_7879923515_1d5ae173b06801kpbc.html",
-    "source": "新浪新闻",
-    "slug": "google-tpu-space-sun-catcher-plan"
+    "date": "2026-10-02",
+    "title": "每周AI开发简报：OpenAI发布GPT-6.1 Sol Anthropic推出Sonnet 5.5",
+    "summary": "EveryDev.ai周报（9月26日至10月2日）梳理称，OpenAI发布新模型GPT-6.1 Sol，官方测试显示其在DeepSWE（真实仓库编程任务评测）上接近Astra，但每token成本约为其五分之一，Sol已上线API及付费Work、Codex计划；Anthropic发布Sonnet 5.5，报告称输出速度提升30%以上、以更少步骤和更有效的工具调用批次完成任务。同期谷歌发布Gemini 4 Argon，初期仅通过Fairwind计划向选定网络安全团队开放，Artificial Analysis的外部测试显示Argon高推理档在知识测试中正确率50%，低于Astra最高推理档的63%。",
+    "url": "https://www.everydev.ai/p/news-weekly-ai-dev-news-digest-september-26-october-2-2026",
+    "source": "EveryDev.ai",
+    "slug": "weekly-ai-dev-digest-gpt61-sol-sonnet55"
   },
   {
-    "date": "2026-10-03",
-    "title": "亚马逊计划将80亿美元AI芯片售后回租 以SPV结构释放资金",
-    "summary": "AI.jp.net援引报道称，亚马逊正采用创新的融资方式，计划将价值80亿美元的Grace Blackwell AI加速器转入特殊目的实体（SPV）并回租。根据该计划，亚马逊将把约80亿美元芯片转移至SPV，随后SPV将发行债券并向外部投资者提供10%的股权，从而在保留尖端英伟达芯片使用权的同时释放数十亿美元资金。报道认为，这是生成式AI基础设施支出激增背景下的聪明之举，展现了超大规模云厂商在算力融资上的创造力。文章同时提到，亚马逊已于8月同意在2028年前向英伟达额外购买200万个GPU，包括Blackwell Ultra和Rubin。",
-    "url": "https://www.ai.jp.net/article/amazon-s-8b-ai-chip-sale-and-leaseback-plan-unlocks-fresh-capital-for-ai-infrast-c20120?lang=zh",
+    "date": "2026-10-04",
+    "title": "支持民营企业在高质量发展中大显身手：深入实施“人工智能+”行动",
+    "summary": "腾讯新闻刊文称，众多民营企业正在转型中实现数智焕新，华为强化自主创新，在手机、服务器、人工智能等领域量产381款芯片；蓝箭航天首次成功实施重复使用运载火箭一子级着陆腿方式回收，我国商业航天重复使用火箭加快迈入工程化验证阶段。文章提出要深入实施“人工智能+”行动，加强企业主导的产学研融通创新，支持有能力的民营企业牵头承担国家重大技术攻关任务，推动国家重大科研基础设施向民营企业公平开放，推进重点产业提质升级并支持中小企业数智化转型。",
+    "url": "https://news.qq.com/rain/a/20261004A00GGH00",
+    "source": "腾讯新闻",
+    "slug": "private-enterprises-ai-plus-action-high-quality-development"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "谷歌“太阳捕手计划”：TPU上天在轨运行Gemini推理",
+    "summary": "AI.jp.net援引报道称，谷歌Project Suncatcher首颗原型卫星搭载4块Trillium TPU在轨执行Gemini推理，以15分钟一批次运行，关键瓶颈是真空环境下的散热而非供电；Trillium芯片经受15krad(Si)辐射后无硬件故障，谷歌计划2027年用两颗专用卫星测试1.6Tbps星间激光链路。谷歌测算认为该轨道的太阳能电池板可获取约8倍于地面设施的太阳能。同期Cloudflare发布面向智能体的决策模型Clef与Clef-flash，中位延迟分别为209.3ms和38.8ms，优于Typesafe AI的Jev（524.1ms）。",
+    "url": "https://www.ai.jp.net/article/tpus-reach-orbit-samsung-invests-in-mistral-and-cloudflare-unveils-the-clef-deci-a2c04c?lang=da/",
     "source": "AI.jp.net",
-    "slug": "amazon-8b-ai-chip-sale-leaseback"
-  },
-  {
-    "date": "2026-10-03",
-    "title": "看好AI推理需求增长 Freedom上调Cerebras评级至“买入” 目标价209美元",
-    "summary": "据网易转载智通财经报道，Freedom Capital Markets将AI芯片制造商Cerebras Systems（CBRS.US）评级从“持有”上调至“买入”，给予209美元目标价。分析师Paul Meeks认为，尽管Cerebras近期因重要合作伙伴OpenAI在GPT-1 Sol的“Ultrafast”超高速版本中采用英伟达GPU而非Cerebras晶圆级芯片的消息遭到市场抛售、股价累计下跌约17%，但投资者可能过度放大该事件的负面影响。Cerebras核心产品为晶圆级引擎（WSE），通过在整片晶圆上集成大量计算资源为大型AI模型提供高性能计算，尤其注重提升推理速度，公司于今年5月中旬以每股185美元完成IPO。Meeks认为未来数年AI算力需求仍可能持续超过供应，近期股价回调提供了重新评估投资价值的机会。",
-    "url": "https://www.163.com/dy/article/L89ABPCK05198UNI.html",
-    "source": "网易（智通财经）",
-    "slug": "freedom-upgrades-cerebras-buy-rating"
-  },
-  {
-    "date": "2026-10-03",
-    "title": "浙江绍兴上虞因地制宜发展具身智能产业 已引进20个项目总投资超150亿元",
-    "summary": "人民日报报道，浙江绍兴市上虞区深入实施“人工智能+”行动，因地制宜发展具身智能产业。在位于上虞的具身智能测试实验室长三角中心，一款搭载可见光、红外、气体等多类传感器的四足机器人完成15天化工真实工况考核、取得国家级测试认证后，在浙江闰土新材料液氯生产车间正式“上岗”，使高危区域人员暴露时长降低90%。上虞区已引进具身智能产业项目20个、总投资超150亿元。2025年底，相关部门走访调研110余家化工企业，梳理安全巡检、危险作业监督等6类典型场景，选取5家企业开展机器人智能巡检试点，40台数据采集机器人获取高精度操作数据超15万条，汇入具身智能数据底座。上虞坚持“不拼模型拼场景、不拼算力拼制造”，走场景牵引、制造配套路径。",
-    "url": "https://news.qq.com/rain/a/20261003A0260H00",
-    "source": "腾讯新闻（人民日报）",
-    "slug": "shaoxing-shangyu-embodied-ai-industry"
-  },
-  {
-    "date": "2026-10-03",
-    "title": "辽宁具身智能机器人产业加速：新松发布羿枢系统 豪森智能推出SF10轮式人形机器人",
-    "summary": "新浪财经报道，辽宁具身智能机器人产业生态加速聚合。新松公司发布新产品并在发布会上介绍，其技术团队已完成从底层算法原型到仿真环境搭建、从技能学习框架到多智能体协同策略的全面技术积累，公司已在40多个国家、4000多家企业中积累场景认知与应用经验。就在新松发布新产品前一天，国家级专精特新“小巨人”企业豪森智能联合子公司壕翎机器人，在大连发布SF10轮式人形机器人及柔性智能可重构产线两款产品，以更高负载、更高精度及更适合产线的节拍，将具身智能从实验室推向真实产线。此外，辽宁具身智能产业技术创新联盟与沈阳具身智能产业技术创新联盟正式实体化运行，发起单位超百家；亿达科创推出的解决方案把AI算力和决策控制从云端下沉到机器人本体，端到端响应延迟小于10毫秒。",
-    "url": "https://finance.sina.cn/2026-10-03/detail-initwvkr5146470.d.html",
-    "source": "新浪财经",
-    "slug": "liaoning-embodied-ai-robot-industry"
-  },
-  {
-    "date": "2026-10-03",
-    "title": "中国首台基于全国产电子架构的人形机器人在湖北宜昌亮相",
-    "summary": "ChinaTechNews报道，中国在自主硬件领域迎来里程碑：首台完全由国产电子架构驱动的人形机器人发布，在复杂机器人平台上集成了工业级实时通信能力。该机器人在湖北省宜昌市的一场行业会议上亮相，由中国双足机器人开发商LimX Dynamics（逐际动力）与工业网络供应商Kyland Technology（东土科技）联合推出。系统将国产操作系统、网络协议、开发者软件与人工智能计算芯片整合进统一的神经框架，是首次有完整人形机器人运行于完全本地化的控制架构之上。根据合作安排，LimX Dynamics提供硬件设计、制造及其COSA人形大脑系统，Kyland提供底层电子架构。报道称，此举与中国工信部将人形机器人列为与计算机、新能源汽车同等重要的变革性技术的产业部署相呼应。",
-    "url": "https://www.chinatechnews.com/2026/10/03/130239-china-deploys-first-humanoid-robot-built-on-fully-domestic-electronic-architecture-to-bypass-western-tech-controls",
-    "source": "ChinaTechNews",
-    "slug": "china-domestic-architecture-humanoid-robot"
-  },
-  {
-    "date": "2026-10-03",
-    "title": "北京经开区发布“AI人才八条” 构建全链条人才引育留用体系",
-    "summary": "光明日报报道，在2026北京亦庄人才发展大会上，北京经济技术开发区发布《关于支持人工智能原生人才发展的若干措施》（简称“AI人才八条”），聚焦创业、就业、生态培育三个维度推出8条举措，构建覆盖在校实习生到顶尖科学家的全链条人才引育留用体系。措施精准锁定世界一流科学家、头部大模型团队技术负责人以及技术骨干、连续创业者、拔尖青年等群体，改变“一次评定、终身受益”的老办法，采取“成熟一个、评定一个、支持一个”的动态机制，产业精英最高可获500万元支持。针对超级个体（OPC），给予个人最高50万元奖励；面向青年推出全市首个AI专项实习生支持举措。围绕生态，鼓励模型企业、工具平台、开源社区共建创新生态，符合条件的最高可获100万元支持。北京经开区人才总量已近40万，人才贡献率达69.3%。",
-    "url": "https://epaper.gmw.cn/gmrb/html/content/202610/03/content_26563.html",
-    "source": "光明日报",
-    "slug": "beijing-yizhuang-ai-talent-policy"
-  },
-  {
-    "date": "2026-10-03",
-    "title": "AI主导本周最大融资轮次：Instinct一年估值百亿美元 领跑10亿美元级交易",
-    "summary": "AI.jp.net援引Crunchbase盘点报道，AI几乎完全占据了投资人的想象力，美国前十轮融资几乎全部流向AI初创公司。其中最引人注目的是成立仅一年、开发个人AI智能体的Instinct，它从红杉和Benchmark等顶级投资机构筹集了10亿美元，估值高达100亿美元，由红杉、Benchmark和Coatue领投。此外，垂直AI公司也获得大额融资：住房领域的EliseAI以40亿美元估值融资3.5亿美元，网络安全领域的Armadin同样获得大额融资，表明投资人对消费级和企业级AI应用都充满信心。报道指出，AI初创公司几乎包揽了本周美国前十的融资轮次。",
-    "url": "https://www.ai.jp.net/article/ai-dominates-the-week-s-biggest-funding-rounds-led-by-a-1-billion-megadeal-6e3850?lang=zh",
-    "source": "AI.jp.net",
-    "slug": "instinct-1b-funding-ai-rounds"
+    "slug": "google-project-suncatcher-trillium-tpu-orbit"
   }
 ]
