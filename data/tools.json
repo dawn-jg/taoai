@@ -14248,8 +14248,25 @@
     "subcategory": "ai-office-ppt",
     "logo": "/logos/tool69127.png",
     "domain": "classppt.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI免费生成PPT课件 是什么",
+        "html": "<p>AI免费生成PPT课件 是课灵PPT 的主打能力。官网把产品定位为面向教育科技的 AI 工具，首页的口号是“让教学更高效，让学习更有趣”。站内的功能列成一组入口，包括小灵备课智能体、生成 PPT、生成教学图、生成教案与学术搜索等。</p><p>与通用的演示文稿工具不同，AI免费生成PPT课件 更强调教学场景：官网按教师、家长、大学生、培训机构、职场与创作者等群体分别列出用法，并准备了覆盖各学科的课件模板库，让首次使用的人也能较快拿到成型的结果。</p>"
+      },
+      {
+        "title": "AI免费生成PPT课件 的主要功能",
+        "html": "<p>AI免费生成PPT课件 的生成入口在课灵PPT 官网按“素材来源”拆开，写到的包括：</p><ul><li><strong>一句话生成</strong>：只描述想要的主题，就自动产出一套含标题、大纲与设计的课件。</li><li><strong>大纲生成</strong>：给出一份课程大纲，按章节补齐详细内容与版式。</li><li><strong>教材章节生成</strong>：上传教材章节，提取关键知识点后重组为课件。</li><li><strong>教案与目标生成</strong>：把已有教案或教学目标转成课件，保持原有教学逻辑。</li><li><strong>多源整合</strong>：支持从网页链接、图片、文档等来源抓取内容后再成稿。</li><li><strong>模板库</strong>：官网按学科与场景提供大量课件模板。</li><li><strong>配套能力</strong>：另有生成教学图、生成教案与学术搜索等入口，以及桌面客户端与 MCP 服务。</li></ul>"
+      },
+      {
+        "title": "如何使用 AI免费生成PPT课件",
+        "html": "<ol><li>打开课灵PPT 官网注册登录，进入自己的教学工作台。</li><li>按手上已有的材料选择入口：只有主题就用一句话生成，有讲义就上传文档。</li><li>补充学段、学科与页数等要求，让系统先产出一版完整课件。</li><li>在编辑器里检查知识点是否准确，替换不满意的配图与版式。</li><li>需要统一风格时套用站内模板，或在生成后再调整配色与字号。</li><li>定稿后导出演示文件；AI免费生成PPT课件 的成果也可留在工作台里，下次按同一模板继续做。</li></ol>"
+      },
+      {
+        "title": "AI免费生成PPT课件 的应用场景",
+        "html": "<p>官网按群体列出 AI免费生成PPT课件 的适用范围，常见的有：</p><ul><li>教师准备公开课与日常课堂教学内容，减少排版时间。</li><li>家长为孩子做预习与自学材料，把知识点做得更直观。</li><li>大学生制作课程作业与答辩演示，快速搭出完整结构。</li><li>培训机构批量生成标准化课程，保持不同讲师之间的口径一致。</li><li>职场人士把工作总结与项目方案做成汇报课件。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "zhiyan-wondershare-cn",
@@ -15569,27 +15586,23 @@
     "domain": "noedgeai.com",
     "detailed_content": [
       {
-        "title": "Doc2X是什么",
-        "html": "<p>Doc2X是武汉智识无垠推出的AI文档识别、转换与翻译工具。能高精度识别各种文档，包括论文、财报等，支持将PDF转换为Word、HTML等多种格式。Doc2X提供大模型加持的双语对照翻译功能，帮助用户快速理解文档内容。支持批量处理和API接入，方便个人和企业用户使用。用户可以通过官网在线使用，或通过API进行集成。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-29785\" src=\"https://ai-bot.cn/wp-content/uploads/2024/11/Doc2X-website.png\"   alt=\"\" width=\"743\" height=\"418\" />"
+        "title": "AI文档识别、转换与翻译工具 是什么",
+        "html": "<p>AI文档识别、转换与翻译工具 指 Doc2X 提供的文档处理服务。官网把它概括为一套面向文档与图片的全方位解析方案：用自研的解析技术识别 PDF 里的表格与公式，再一键转换为 Word、LaTeX、HTML、Markdown 等格式。官网列出的适用材料覆盖学术论文、教辅书籍、企业文档、国家标准与财报研报等。</p><p>作为一款 AI文档识别、转换与翻译工具，Doc2X 还把翻译并入同一条流水线，支持多语言 PDF 翻译与双语对照阅读。官网的定位语是“成为一切 AI 文档服务的基础设施”，并开放了接口供第三方系统调用。</p>"
       },
       {
-        "title": "Doc2X的主要功能",
-        "html": "<ul>\n<li><strong>高精度识别</strong>：适配论文、财报、教育、书籍等场景，识别准确率高于市面上绝大部分识别方法，包括多栏识别、公式识别、表格识别和代码识别。</li>\n<li><strong>齐全转换格式</strong>：用户可以轻松将PDF转换为Word、HTML、LaTeX、Markdown等多种格式。在转换前，还可以与原PDF进行对照跳转编辑，确保准确性。</li>\n<li><strong>大模型加持的双语对照翻译</strong>：支持GPT、Deepseek、GLM等模型，提供精确翻译和双语对照的沉浸式翻译体验，帮助用户快速理解内容。</li>\n<li><strong>高效批量处理</strong>：Doc2X提供批量识别转换功能，并且可以接入API来批量快速识别PDF。Doc2X已累计处理数亿页+文档，日吞吐量千万页+。</li>\n<li><strong>在线使用与集成</strong>：用户可以直接在网页上使用Doc2X，或者通过API集成到自己的系统中。</li>\n</ul>"
+        "title": "AI文档识别、转换与翻译工具 的主要功能",
+        "html": "<p>AI文档识别、转换与翻译工具 的功能按“识别”“转换”“翻译”三条主线组织，Doc2X 官网列出的重点有：</p><ul><li><strong>公式与表格识别</strong>：面向复杂矩阵、线性代数公式与合并单元格表格做高精度提取。</li><li><strong>多格式转换</strong>：PDF 可转 Word、Docx、LaTeX、HTML 与 Markdown 等。</li><li><strong>对照编辑</strong>：转换结果可与原 PDF 对照跳转，便于逐处核对。</li><li><strong>文档翻译</strong>：官网称接入多种大模型引擎，提供双语对照的翻译体验。</li><li><strong>图片识别</strong>：对图片中的公式做 OCR，并支持与其它识别引擎结果对照。</li><li><strong>批量处理</strong>：通过开放接口批量提交文档，适合量大且格式统一的场景。</li></ul>"
       },
       {
-        "title": "如何使用Doc2X",
-        "html": "<ul>\n<li><strong>个人用户使用</strong>：\n<ul>\n<li>访问Doc2X的<a href=\"https://noedgeai.com/?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >官网地址</a>。</li>\n<li>直接在线使用，无需下载或安装任何软件。</li>\n<li>注册并登录账户，享受每天提供的免费文档转换和翻译服务额度。</li>\n</ul>\n</li>\n<li><strong>文档识别与转换</strong>：\n<ul>\n<li>选择需要转换的PDF文件，上传至Doc2X平台。</li>\n<li>选择输出格式，如Word、LaTeX、HTML、Markdown等。</li>\n<li>在转换前，可以与原PDF进行对照跳转编辑，确保转换后的准确性。</li>\n</ul>\n</li>\n<li><strong>多语言翻译</strong>：\n<ul>\n<li>基于Doc2X提供的多语言翻译功能，选择目标语言进行翻译。</li>\n<li>支持GPT、Deepseek、GLM等大模型，提供双语对照翻译。</li>\n</ul>\n</li>\n<li><strong>批量处理与API服务</strong>：\n<ul>\n<li>对于需要处理大量文档的用户，Doc2X支持批量识别转换功能。</li>\n<li>开发者可以通过访问官方网站使用API服务，集成Doc2X的功能到自己的应用中。</li>\n</ul>\n</li>\n</ul>"
+        "title": "如何使用 AI文档识别、转换与翻译工具",
+        "html": "<ol><li>打开 Doc2X 官网，注册登录后进入工作台。</li><li>上传要处理的 PDF 或图片，先让系统完成版面与公式的识别。</li><li>在结果页对照原文检查公式与表格，必要时手动修正个别识别错误。</li><li>按用途选择导出格式：投稿或排版用 LaTeX，二次编辑用 Word，入知识库用 Markdown。</li><li>需要外语版本时，勾选翻译并选择对比阅读，逐段确认译文是否贴合原意。</li><li>文档量大时改用开放平台的接口提交，把 AI文档识别、转换与翻译工具 接进自有系统。</li></ol>"
       },
       {
-        "title": "Doc2X的产品定价",
-        "html": "<ul>\n<li><strong>尝鲜会员</strong>：限时优惠4.9元，原价9.9元；30天内 500页PDF解析额度；30天内 100张图片识别额度；允许批量上传/导出文件；免费优先体验新模型；在线导出WORD/PDF。</li>\n<li><strong> 月费Pro会员</strong>：限时优惠9.9元，原价19.9元；30天内 1000页PDF解析额度；30天内 250张图片识别额度；允许批量上传/导出文件；免费优先体验新模型；在线导出WORD/PDF。</li>\n<li><strong>年费Pro会员</strong>：限时优惠98.9元，原价239元；30天内 12000页PDF解析额度；30天内 4000张图片识别额度；允许批量上传/导出文件；免费优先体验新模型；在线导出WORD/PDF。</li>\n</ul>"
-      },
-      {
-        "title": "Doc2X的应用场景",
-        "html": "<ul>\n<li><strong>学术研究</strong>：学者和研究人员可以用Doc2X将PDF格式的学术论文转换为Word、LaTeX或Markdown格式，便于编辑和引用。</li>\n<li><strong>教育培训</strong>：教师可以用Doc2X将教材、课件和试卷等PDF或图片格式的教学材料转换为可编辑的Word文档，便于修改和补充，提高教学准备工作的效率。</li>\n<li><strong>商务办公</strong>：在商务办公环境中，Doc2X可以将合同、报告、会议纪要等PDF或图片格式的商务文档转换为Word文档，编辑和修改变得更加容易。</li>\n<li><strong>自助出版与博客写作</strong>：自助出版者和博客作者可以将PDF格式的书籍章节或文章转换为Markdown格式，在博客或网站上发布。</li>\n<li><strong>数据分析与报告制作</strong>：在数据分析领域，Doc2X的表格识别功能可以将PDF或图片中的表格内容转换为可编辑的Excel或Word表格，方便数据分析师进行数据分析和报告制作。</li>\n</ul>"
+        "title": "AI文档识别、转换与翻译工具 的应用场景",
+        "html": "<p>官网按工作流整理了 AI文档识别、转换与翻译工具 的用例，常见的几类有：</p><ul><li>科研人员整理带大量公式的论文，把 PDF 转成可继续编辑的稿源。</li><li>金融研报里把年报中的表格批量提取出来，供后续建模使用。</li><li>教师从教材与题库中抽取题目和公式，重组为讲义或试卷。</li><li>出版社与媒体把纸质或扫描件转成结构化文本，减少人工录入。</li><li>跨语言阅读时借助双语对照，先看译文再回原文核对细节。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "acrobat-ai-assistant",
@@ -16756,8 +16769,25 @@
     "subcategory": "ai-office-doc",
     "logo": "/logos/tool56807.png",
     "domain": "upcv.tech",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI聊天搞定简历 是什么",
+        "html": "<p>AI聊天搞定简历 是 UPCV 对自身服务的概括。官网把它定位成一位陪跑式的求职顾问：从写简历、找职位到面试，用对话的方式走完整个流程。用户在对话框里交代求职目标，系统再按背景去匹配岗位并逐项推进。</p><p>这套设计把找工作拆成可以逐步完成的任务。官网把流程描述为六步：输入任务、分析背景、匹配职位、定制投递、模拟面试、拿到录用；AI聊天搞定简历 的作用是把其中每一步都交给 AI 先做草稿，用户只需在结果上修改确认。</p>"
+      },
+      {
+        "title": "AI聊天搞定简历 的主要功能",
+        "html": "<p>AI聊天搞定简历 的能力围绕求职全流程铺开，UPCV 官网写到的要点有：</p><ul><li><strong>简历生成</strong>：把实习与项目经历重写为结构化、可量化的专业表述。</li><li><strong>岗位对齐</strong>：解析目标岗位的描述后，逐句比对关键词，为每个岗位生成一份专属简历。</li><li><strong>模板与范文</strong>：站内提供简历模板与范文，可作起步参照。</li><li><strong>职位匹配</strong>：按用户背景筛选在招岗位，减少无效投递。</li><li><strong>模拟面试</strong>：在投递前后做面试演练，提前准备常见问题。</li><li><strong>求职攻略</strong>：另有校招与求职方法类内容可供查阅。</li></ul>"
+      },
+      {
+        "title": "如何使用 AI聊天搞定简历",
+        "html": "<ol><li>打开 UPCV 官网注册账号，先填写基本的求职意向与背景信息。</li><li>在对话框里用一句话说明目标，例如想找的岗位方向与城市。</li><li>等待系统分析背景并给出岗位清单，从中挑选值得投递的目标。</li><li>让它根据岗位描述改稿，AI聊天搞定简历 会输出与关键词对齐的版本，再人工核对事实。</li><li>投递前用模拟面试功能演练一轮，把答不上来的问题记下来补课。</li><li>收到面试后继续用同一份档案迭代简历与话术，形成个人可复用的求职材料。</li></ol>"
+      },
+      {
+        "title": "AI聊天搞定简历 的应用场景",
+        "html": "<p>官网把 AI聊天搞定简历 的适用人群描述得比较明确，常见场景有：</p><ul><li>应届生第一次系统整理实习与项目经历，搭出可用简历。</li><li>跨行求职者把过往经验改写成目标岗位能读懂的表达。</li><li>海投效率低的人，用岗位匹配先缩范围再逐岗定制。</li><li>面试经验不足的求职者，用模拟环节提前熟悉提问节奏。</li><li>在职看机会的人，用同一套材料应对不同公司的评估侧重。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "tool56512",
@@ -17566,8 +17596,25 @@
     "subcategory": "ai-office-meeting",
     "logo": "/logos/tool720.png",
     "domain": "otter.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI会议内容生成和实时转录 是什么",
+        "html": "<p>AI会议内容生成和实时转录 是 Otter.ai 的核心定位。官网把它称为会记录每一场会议的“AI 记事本”，并进一步升级为对话式知识引擎：会议里的内容被转写下来，变成可搜索的知识，再反过来驱动后续工作。</p><p>作为一款 AI会议内容生成和实时转录 工具，Otter 并不只服务会议本身。官网按职能列出销售、教育、媒体、招聘等方向，说明不同岗位都能从自动记录里各取所需；除网页端外，还提供桌面端、iOS、Android 与浏览器扩展。</p>"
+      },
+      {
+        "title": "AI会议内容生成和实时转录 的主要功能",
+        "html": "<p>AI会议内容生成和实时转录 的功能按“记录—整理—跟进”三段展开，Otter 官网写到的包括：</p><ul><li><strong>自动转录</strong>：会议进行时同步转写文字，会后无需另做记录。</li><li><strong>笔记与摘要</strong>：自动整理要点、行动项与结论。</li><li><strong>可搜索知识</strong>：历史会议内容可以被检索与引用。</li><li><strong>职能助手</strong>：官网按销售、教育、媒体、招聘等场景提供预置能力，例如自动跟进与录像洞见提取。</li><li><strong>多端使用</strong>：桌面客户端、手机应用与浏览器扩展齐备。</li><li><strong>工具集成</strong>：可与团队日常使用的协作工具打通，把会议结论推到下游流程。</li></ul>"
+      },
+      {
+        "title": "如何使用 AI会议内容生成和实时转录",
+        "html": "<ol><li>打开 Otter.ai 官网注册账号，常用电脑或手机时先装好对应客户端。</li><li>开会前把 Otter 加入会议，或直接用浏览器扩展从当前标签页开始记录。</li><li>会议过程中让它自动转写，需要强调的点可手动加注标记。</li><li>散会后查看自动生成的小结与行动项，核对发言人归属是否准确。</li><li>把结论同步到协作工具或分派给相关同事。</li><li>后续要回查时用关键词检索，AI会议内容生成和实时转录 沉淀下来的记录可直接定位。</li></ol>"
+      },
+      {
+        "title": "AI会议内容生成和实时转录 的应用场景",
+        "html": "<p>官网按岗位整理了 AI会议内容生成和实时转录 的用法，常见的包括：</p><ul><li>销售团队把客户会议自动归档，会后跟进不再依赖个人记忆。</li><li>教育场景记录课程内容，便于学生复习要点。</li><li>媒体访谈中同步转写，采访整理的时间大幅压缩。</li><li>招聘环节记录面试要点，与招聘系统里的候选人信息对照。</li><li>团队例会沉淀决议，新成员加入时可直接检索历史讨论。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "aihaoji-com",
@@ -17589,27 +17636,23 @@
     "domain": "aihaoji.com",
     "detailed_content": [
       {
-        "title": "Ai好记是什么",
-        "html": "<p>Ai好记是AI音视频转录与总结工具，能轻松解决你的信息处理难题：支持在线音视频链接解析、本地、网盘文件导入，快速转化为结构化图文笔记，甚至能一键生成播客，让内容复用更便捷；同时内置22种语言翻译、要点总结、思维导图生成等实用功能，还能实现视频AI对话与知识库管理，满足多样化信息处理需求。</p>\n<p>目前已支持本地导出、同步至Obsidian，未来还将上线文档与网页格式解析功能，持续提升信息处理效率。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/09/aihaoji-logo.png\" data-fancybox=\"fancybox\" data-caption=\"Ai好记\"><img decoding=\"async\" class=\"alignnone wp-image-63430 loaded\" src=\"https://ai-bot.cn/wp-content/uploads/2025/09/aihaoji-logo.png\" src=\"https://ai-bot.cn/wp-content/uploads/2025/09/aihaoji-logo.png\" alt=\"Ai好记\" width=\"741\" height=\"417\" data-was-processed=\"true\"></a>"
+        "title": "AI音视频转录与总结 是什么",
+        "html": "<p>AI音视频转录与总结 是 Ai好记 的核心能力。官网把这款产品描述成面向学习者的 AI 知识库：把课程视频、播客、会议录音等音视频内容转成结构化笔记，并支持多端同步。首页列出的入口包括录音转文字、总结视频、整理会议纪要、翻译外语视频与生成思维导图。</p><p>Ai好记 并不止于转写。官网强调 AI音视频转录与总结 会连同画面一起处理，把 PPT、课件与图表的关键画面提取出来，与对应文字排在一起，形成“图文并茂”的笔记，便于回看时定位到具体讲解位置。</p>"
       },
       {
-        "title": "Ai好记的主要功能",
-        "html": "<ul>\n<li><strong>全场景输入</strong>：支持主流平台链接、本地音视频及录音导入，AI快速处理。</li>\n<li><strong>沉浸式阅读</strong>：图文音同步排版，视频变 “书页”，理解更高效。</li>\n<li><strong>AI智能总结</strong>：一键生成要点、问答、术语解析等，挖掘内容价值。</li>\n<li><strong>AI思维导图</strong>：秒出大纲与导图，复杂内容结构化呈现。</li>\n<li><strong>AI播客生成</strong>：内容转双人逼真对话播客，碎片时间听学知识。</li>\n<li><strong>AI对话问答</strong>：直接向内容提问，AI实时解答，模板辅助深入学习。</li>\n<li><strong>AI语言翻译</strong>：精准互译外语资料，支持22种语言，阅读无国界。</li>\n<li><strong>发言人识别</strong>：区分多人对话，快速定位关键观点。</li>\n<li><strong>多格式导出</strong>：支持 Word、PDF、Markdown等，适配各类工作场景。</li>\n<li><strong>批量化解析</strong>：一次批量上传多条任务，高效获取结构化信息与核心要点。</li>\n<li><strong>思维导图与内容联动</strong>：导图与笔记互联，点击节点即可跳转对应位置，学习与复盘更便捷。</li>\n<li><strong>Web/APP多端支持</strong>：数据与功能跨端同步，电脑、手机、平板无缝衔接。</li>\n</ul>"
+        "title": "AI音视频转录与总结 的主要功能",
+        "html": "<p>AI音视频转录与总结 的能力按“内容整理到知识复用”的思路组织，Ai好记 官网写到的重点包括：</p><ul><li><strong>图文转录与翻译</strong>：完成音视频转文字与多语言翻译，并同步提取课件与图表画面。</li><li><strong>精华速览</strong>：对长视频、网课、会议与播客生成摘要，先看重点再决定是否回原文。</li><li><strong>思维导图与大纲</strong>：依据完整内容生成多级导图，点击节点可跳到笔记中对应位置。</li><li><strong>跨笔记问答</strong>：支持对多篇课程、会议与播客笔记一起检索、比较与总结。</li><li><strong>多端同步</strong>：官网说明笔记可在不同设备间实时同步。</li><li><strong>硬件配合</strong>：官方另有配套耳机，可边通话边录制并区分说话人。</li></ul>"
       },
       {
-        "title": "如何使用Ai好记",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">注册登录</strong>：访问Ai好记官网 aihaoji.com ，注册账号登录。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">上传素材</strong>：登录后，选择“上传文件”或“粘贴链接”，将本地音视频文件或在线音视频链接导入。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">选择模式</strong>：根据需求选择“转录”“总结”“翻译”等模式，系统会自动处理素材。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">查看结果</strong>：处理完成后，可在页面查看转录文字、总结内容、思维导图等结果。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>导出资料</strong>：点击“导出”按钮，选择Markdown、HTML等格式，将结果保存到本地，或一键同步至 Obsidian。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>管理笔记</strong>：所有笔记会自动汇总到知识库，可在知识库中查看、搜索和整理笔记。</div>\n</li>\n</ul>"
+        "title": "如何使用 AI音视频转录与总结",
+        "html": "<ol><li>打开 Ai好记 官网注册账号，按需要下载手机端或桌面端。</li><li>把本地音视频文件导入，或从支持的平台粘贴视频链接。</li><li>选择原语言与目标语言，让 AI音视频转录与总结 先完成转写与翻译。</li><li>在结果页核对转写准确性，修正人名、术语等易错处。</li><li>查看自动生成的摘要与思维导图，需要深入时点回原文相应段落。</li><li>把整理好的笔记留在知识库里，后续用问答方式跨笔记检索。</li></ol>"
       },
       {
-        "title": "Ai好记的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">内容创作</strong>：将播客、访谈视频等音视频素材转录为文字，提取关键信息，辅助创作博客、文章等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">知识管理</strong>：把音视频内容转为文字，生成思维导图和大纲，构建个人知识体系，方便整理和复习。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">语言学习</strong>：支持多语言翻译，将外语音视频转换为母语或目标语言，助力外语学习。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>学术研究</strong>：提取学术会议、讲座等音视频的核心观点和关键词，生成笔记和总结，提升研究效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>企业办公</strong>：转录会议记录，整理培训视频内容，生成文档，提高工作效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教育学习</strong>：将课程视频、学术讲座等内容转为文字资料，生成学习笔记，帮助学生快速掌握知识要点。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "Ai好记的适用人群",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>学生群体</strong>：用于整理课程笔记、学习资料，提升学习效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">内容创作者</strong>：辅助创作，快速提取素材中的关键信息。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>职场人士</strong>：转录会议记录、整理培训资料，提高工作效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>语言学习者</strong>：通过多语言翻译功能，辅助外语学习。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>研究人员</strong>：整理学术讲座、会议内容，快速提取关键信息。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>知识工作者</strong>：管理个人知识库，构建知识体系，便于复习和整理。</div>\n</li>\n</ul>"
+        "title": "AI音视频转录与总结 的应用场景",
+        "html": "<p>官网把 AI音视频转录与总结 的适用场景按内容来源分类，常见的有：</p><ul><li>在线课程学习：把冗长的网课压缩成可复习的图文笔记。</li><li>会议与通话：自动转录并区分说话人，会后整理结论与待办。</li><li>外语播客与访谈：生成双语内容，降低听力门槛。</li><li>讲座与培训：把讲义画面与讲解文字对应起来，形成可追溯的记录。</li><li>个人知识管理：长期积累音频笔记，用问答方式回查过往内容。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "tool8649",
@@ -17869,8 +17912,25 @@
     "subcategory": "ai-office-doc",
     "logo": "/logos/tool58413.png",
     "domain": "ponder.ing",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI知识管理和思维导图工具 是什么",
+        "html": "<p>AI知识管理和思维导图工具 是 Ponder 给自己的定义。官网把它称为“第一个一体化的知识工作空间”，出发点不是把操作做得更快，而是让思考更深、结论更耐得住推敲。用户可以从一个问题、一份文件或已有的知识库出发，立刻建立属于自己的思考空间。</p><p>与常见的笔记软件相比，AI知识管理和思维导图工具 更强调结构。官网说明想法可以在无限画布上自由分支与连接，形成贴近个人思维习惯的知识地图；同一个空间里既能放 PDF、视频、文本与网页，也能直接对着这些材料提问。</p>"
+      },
+      {
+        "title": "AI知识管理和思维导图工具 的主要功能",
+        "html": "<p>AI知识管理和思维导图工具 的能力按“起步—结构化—与 AI 协作”展开，Ponder 官网写到的包括：</p><ul><li><strong>任意起点</strong>：提问、拖入文件或浏览既有知识库，都能生成新的思考空间。</li><li><strong>画布式结构</strong>：想法在无限画布上分支连接，形成可视化的知识地图。</li><li><strong>与 AI 对话</strong>：可以追问、反驳已有结论，也可以就设想做推演。</li><li><strong>思考智能体</strong>：官网称它会跟随问题、洞见与方向一路同行。</li><li><strong>材料直读</strong>：支持导入 PDF、视频、文本与网页，直接对着来源思考而不是只做检索。</li><li><strong>跨源比较</strong>：对多份材料做对比分析，提示其中的关联。</li><li><strong>一处完成</strong>：从发现到形成结论都在同一个空间里进行，不必中途切换工具。</li></ul>"
+      },
+      {
+        "title": "如何使用 AI知识管理和思维导图工具",
+        "html": "<ol><li>打开 Ponder 官网注册账号，进入自己的工作空间。</li><li>用提问、拖入文件或浏览知识库任一种方式开场。</li><li>把要研究的材料导入当前空间，让 AI知识管理和思维导图工具 先读一遍。</li><li>在画布上把想法拆成分支，用连线标出彼此的关系。</li><li>围绕某个节点向 AI 追问，逐步补全论据或修正判断。</li><li>需要横向比较多份材料时开启对比分析，最后把结论整理回画布。</li></ol>"
+      },
+      {
+        "title": "AI知识管理和思维导图工具 的应用场景",
+        "html": "<p>官网把 AI知识管理和思维导图工具 的使用者描述为研究者、分析师、创作者与习惯深度思考的人，典型用法是：</p><ul><li>做课题研究时把文献与笔记放进同一张图，理清论证路径。</li><li>分析行业材料时横向对比多份来源，找出共性规律。</li><li>创作前梳理素材与立意，把零散灵感收拢成结构。</li><li>复盘个人学习内容，把知识点连接成可复用的体系。</li><li>团队讨论后把要点落回画布，作为后续推进的共同底稿。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "tool59463",
@@ -22013,23 +22073,23 @@
     "domain": "crepal.ai",
     "detailed_content": [
       {
-        "title": "CrePal是什么",
-        "html": "<p>CrePal 是强大的 <a href=\"https://ai-bot.cn/ai-video-generation-tools/\" target=\"_blank\" rel=\"noopener\">AI 视频创作</a>智能体，能自动化完成视频制作流程。CrePal 可以帮助用户将长访谈视频（如 25 分钟的科技访谈）自动拆分成多个适合社交媒体传播的短视频片段，轻松实现内容的高效传播。CrePal 可以根据用户提供的故事创意生成动画视频，从图像、视频到音频，一站式完成创作。能基于用户上传的电影或电视剧内容，自动创建 1 分钟的亮点视频，优化用于短视频平台的宣传。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/07/CrePal-website.png\" data-fancybox=\"fancybox\" data-caption=\"CrePal\"><img decoding=\"async\" class=\"alignnone wp-image-57194\" src=\"https://ai-bot.cn/wp-content/uploads/2025/07/CrePal-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"CrePal\" width=\"741\" height=\"417\"></a>"
+        "title": "AI 视频创作智能体 是什么",
+        "html": "<p>AI 视频创作智能体 是 CrePal 对自身产品的描述。官网把它称为“视频创作伙伴”，主张用户只需给出想法，剩下的脚本撰写、配图与成片交给智能体完成。与只做单点生成的工具不同，CrePal 把计划、图像与视频三类模型串在一起，由系统自行判断该调用哪一类能力。</p><p>官网称 CrePal 会先由“AI 导演”把脚本写出来、把画面生成出来，再合成为视频，过程中用户可以随时插话修改。这一定位让 AI 视频创作智能体 更接近一个可对话的制作流程，而不是一次性的素材生成器。</p>"
       },
       {
-        "title": "CrePal的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>自动剪辑</strong>：可自动将长访谈视频（如长达25分钟的科技访谈）编辑成多个热门短视频，适用于提升内容传播效率 。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>动画故事生成</strong>：只需输入一句话创意，CrePal可生成完整动画短片，包含脚本、分镜、配音与音效。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>影视亮点提取</strong>：上传整部电影或剧集，AI 自动识别高光情节，生成 1 分钟宣传片，可直接用于短视频平台。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>案例库与模板</strong>：内置多行业成品示例，支持一键复用风格；同时提供 Google 账号快捷登录与云端素材管理。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>智能视频脚本生成</strong>：根据用户输入的主题和关键词，自动生成结构完整、语言流畅的视频旁白脚本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>一键式视频渲染</strong>：将文字脚本、图片素材和音乐自动组合成完整的视频作品，支持多种输出格式。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自动字幕生成</strong>：为视频内容智能添加多语言字幕，并支持样式和位置的个性化调整。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>社交媒体优化</strong>：针对不同平台（如 YouTube、TikTok 等）自动优化视频尺寸、格式和元数据标签。</div>\n</li>\n</ul>"
+        "title": "AI 视频创作智能体 的主要功能",
+        "html": "<p>AI 视频创作智能体 的能力被官网分成智能体协作与小应用两块，CrePal 写到的要点包括：</p><ul><li><strong>AI 导演</strong>：自动完成脚本、图像与视频的编排，用户只提供主题与要求。</li><li><strong>对话式修改</strong>：用自然语言描述改动，CrePal 在同一条时间线上调整画面与节奏。</li><li><strong>实时预览</strong>：脚本、图片与视频的生成过程可见，可即时给反馈。</li><li><strong>成片导出</strong>：支持导出高清视频文件，并带字幕、配音与背景音乐。</li><li><strong>小应用集合</strong>：内置 AI 故事、音乐视频、广告翻拍等预设流程。</li><li><strong>多模型调度</strong>：站内汇集多家图像与视频模型，由系统按任务挑选。</li></ul>"
       },
       {
-        "title": "如何使用CrePal",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">访问官网</strong>：打开 CrePal 官网 https://crepal.ai/ 。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">注册并登录</strong>：点击“Get Started”按钮，选择使用 Google 账号或邮箱进行注册和登录。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择创作任务</strong>：在首页选择需要的创作任务，例如：</div>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>长访谈视频拆分</strong>：自动将长视频（如 25 分钟的访谈）拆分成多个适合社交媒体传播的短视频。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>动画视频创作</strong>：输入一个故事创意，CrePal 将生成包含图像、视频和音频的动画视频。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>影视亮点视频</strong>：上传电影或电视剧内容，CrePal 自动创建 1 分钟的亮点视频，适合短视频平台宣传。</div>\n</li>\n</ul>\n</li>\n<li>\n<div class=\"paragraph\"><strong>上传素材或输入创意</strong></div>\n<ul>\n<li>\n<div class=\"paragraph\">如果选择长访谈视频拆分或影视亮点视频，上传相关的视频文件。</div>\n</li>\n<li>\n<div class=\"paragraph\">如果选择动画视频创作，输入你的故事创意或脚本。</div>\n</li>\n</ul>\n</li>\n<li>\n<div class=\"paragraph\"><strong>设置视频参数</strong>：根据需要选择视频的风格、时长、音乐类型等参数。CrePal 提供多种模板和风格供用户选择。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>生成视频</strong>：点击“Create”按钮，CrePal 将自动完成视频的生成。生成过程中，CrePal 会自动处理视频剪辑、添加字幕、配乐等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>预览与调整</strong>：视频生成后，预览效果。如果需要，可以对视频进行进一步的调整，如修改字幕、调整剪辑节奏等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>下载与分享</strong>：确认无误后，下载生成的视频，分享到社交媒体平台或用于其他用途。</div>\n</li>\n<li><strong>注意事项</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>素材版权</strong>：确保上传的素材（如视频、音频）拥有合法版权，以避免侵权问题。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>创意输入</strong>：在动画创作中，尽量提供清晰的故事创意，以便 CrePal 更好地理解并生成高质量的视频。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>优化参数</strong>：根据视频用途（如社交媒体、广告等），选择合适的视频参数，以达到最佳效果。</div>\n</li>\n</ul>\n</li>\n</ul>"
+        "title": "如何使用 AI 视频创作智能体",
+        "html": "<ol><li>打开 CrePal 官网并用邮箱注册，进入工作台。</li><li>在新建入口选择任务类型，例如故事短片、音乐视频或广告翻拍。</li><li>把主题、时长与画面风格写清楚，也可上传产品图作为参考。</li><li>等待 AI 视频创作智能体 生成脚本与画面，在预览里逐段确认是否符合预期。</li><li>用对话方式提出修改，例如调整镜头顺序、替换配乐或改写旁白。</li><li>满意后导出高清文件，字幕与配音会随片一起输出。</li></ol>"
       },
       {
-        "title": "CrePal的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>个人创作者</strong>：把 30 分钟 vlog或直播回放一键拆成 10 条 15 秒高光，自动加字幕、花字和 BGM，3 分钟完成日更。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>品牌电商</strong>：上传产品图+卖点文案，CrePal 自动生成 9:16 竖版广告，统一品牌视觉，直接投放抖音、快手。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教育培训</strong>：输入课程大纲，AI 生成 30 秒动画预告，展示师资与成果。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>影视与 MCN</strong>：电影预告、剧集高光批量生产，自动识别爆点台词与动作，支持横竖双画幅。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>企业市场</strong>：内部培训视频自动加字幕、降噪、分段，一键归档企业知识库。</div>\n</li>\n</ul>"
+        "title": "AI 视频创作智能体 的应用场景",
+        "html": "<p>官网把 AI 视频创作智能体 的适用范围写在首页，常见的用法有：</p><ul><li>社交平台运营者批量产出短视频，维持账号更新节奏。</li><li>电商团队用广告翻拍流程，把产品图套进已有视频的模板。</li><li>品牌方制作介绍片与概念解释片，快速看到成片效果。</li><li>教师把讲义或文档转成讲解视频，方便学生反复观看。</li><li>个人创作者把一段文字想法扩展成完整的视觉故事。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "tool60767",
@@ -22466,39 +22526,23 @@
     "domain": "lorka.ai",
     "detailed_content": [
       {
-        "title": "Lorka AI是什么",
-        "html": "<p>Lorka AI 是<a href=\"https://ai-bot.cn/ai-llm-api-aggregation-platform/\" target=\"_blank\" rel=\"noopener\">多模型 AI 聚合对话平台</a>（AI Aggregator），将 <a href=\"https://ai-bot.cn/sites/30.html\" target=\"_blank\" rel=\"noopener\">ChatGPT</a>、<a href=\"https://ai-bot.cn/sites/460.html\" target=\"_blank\" rel=\"noopener\">Claude</a>、Gemini、Grok、DeepSeek、Qwen、Kimi、Mistral、Llama、Perplexity 等主流大语言模型整合到一个统一界面中。用户无需在多个 AI 应用间反复切换或管理多份订阅，只需一个账号即可根据任务需求灵活选择最合适的模型，在同一对话线程中切换模型且不丢失上下文，大幅提升写作、研究、编程、设计等场景的工作效率。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/04/Lorka-AI-website.png\" data-fancybox=\"fancybox\" data-caption=\"Lorka AI\"><img decoding=\"async\" class=\"alignnone wp-image-76163\" src=\"https://ai-bot.cn/wp-content/uploads/2026/04/Lorka-AI-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Lorka AI\" width=\"741\" height=\"417\"></a>"
+        "title": "多模型 AI 聚合对话平台 是什么",
+        "html": "<p>多模型 AI 聚合对话平台 是 Lorka AI 给自己的定位：把来自不同厂商的大语言模型收进同一个对话窗口，用户不用在多个订阅之间来回切换。官网首页的表述是，在 Lorka 的聚合平台上可以用同一段输入调用 ChatGPT 与 Claude 等模型，处理写作、研究、绘图等不同类型的任务。</p><p>与只提供单一模型的产品相比，多模型 AI 聚合对话平台 强调“一个入口、多种选择”。官网把模型列表、AI 工具集与知识库并列为三条主线，并说明页面提供多语言版本，方便不同地区的访客直接上手。</p>"
       },
       {
-        "title": "Lorka AI的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>多模型 AI 聊天中心</strong>：在一个界面中访问多个顶级模型，支持同一对话内即时切换并对比不同模型的回答。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI 联网搜索</strong>：内置实时网络搜索，快速获取最新信息并生成摘要，辅助研究和事实核查。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI 图像编辑与生成</strong>：支持文生图、背景移除、图像修改、风格调整等，满足日常视觉创作需求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>PDF 智能对话</strong>：上传 PDF 文档后直接提问，提取关键信息、总结内容或进行深度分析。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>语音模式（Voice Mode）</strong>：支持语音输入，实现免手操作的头脑风暴和内容生成。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>文本润色与翻译</strong>：内置 AI Humanizer、语法检查、翻译等工具，优化内容表达。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>代码助手</strong>：提供编程辅助、代码调试、重构建议，支持多种编程语言。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>跨设备同步</strong>：支持浏览器、iPhone/iPad 及 Android 端使用，聊天记录实时同步。</div>\n</li>\n</ul>"
+        "title": "多模型 AI 聚合对话平台 的主要功能",
+        "html": "<p>多模型 AI 聚合对话平台 的能力围绕“模型”“工具”“知识库”三块铺开，Lorka AI 官网写到的功能点包括：</p><ul><li><strong>多模型同框</strong>：同一个对话里可以切换不同厂商的模型，官网对每个模型都标注了它适合的任务侧重。</li><li><strong>统一账号</strong>：注册一次即可使用站内汇集的全部语言模型，省掉重复订阅。</li><li><strong>AI 工具集</strong>：针对写邮件、推进项目等具体任务提供预置入口，不必自己拟提示词。</li><li><strong>知识库</strong>：单独设有知识库栏目，用来沉淀提问与生成结果。</li><li><strong>多语言界面</strong>：页面内容有英语、日语等版本可选。</li></ul>"
       },
       {
-        "title": "如何使用Lorka AI",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>访问官网注册</strong>：打开 Lorka AI 官网 https://www.lorka.ai/ ，使用邮箱或社交账号快速注册免费账户。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择AI模型</strong>：进入聊天界面，从顶部模型列表中选择适合当前任务的AI引擎（如GPT、Claude、Gemini等）。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>开始对话交互</strong>：输入问题或需求，获取AI回答；如需切换模型，点击模型名称即可在同一对话中更换。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>使用AI工具</strong>：点击侧边栏工具入口，使用图像生成、PDF分析、联网搜索、代码辅助等功能。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>升级订阅</strong>：如需解锁全部高级模型，点击定价页面选择月付$19.99、季付$39.99或年付$59.99方案。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多端同步使用</strong>：下载iOS或Android App，或在浏览器中登录，聊天记录自动同步。</div>\n</li>\n</ul>"
+        "title": "如何使用 多模型 AI 聚合对话平台",
+        "html": "<ol><li>打开 Lorka AI 官网，先完成注册与登录。</li><li>在对话区从模型列表里挑选本次要用的模型，拿不准就多试几个再比较。</li><li>把问题或任务描述清楚，需要参考资料时直接贴进对话。</li><li>若目标是写邮件、做演示稿这类具体产出，改从多模型 AI 聚合对话平台 站内的 AI 工具集入口进入。</li><li>把常用的提问与结果集中收进知识库，下次接着改。</li><li>多轮对话中发现另一个模型更合适，随时在同一个窗口里换掉。</li></ol>"
       },
       {
-        "title": "Lorka AI的关键信息和使用要求",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>产品定位</strong>：All-in-One AI聚合平台（AI Aggregator）。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>支持模型</strong>：GPT系列、Claude、Gemini、Grok、DeepSeek、Kimi、Llama、Mistral、Perplexity等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>订阅价格</strong>：月付$19.99/月、季付$39.99/3个月、年付$59.99/年；免费版有限访问部分模型。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>支持平台</strong>：Web浏览器、iOS、Android。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>退款政策</strong>：30天内可申请退款。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>隐私政策</strong>：不使用用户数据训练模型。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>网络要求</strong>：需联网使用，部分功能依赖云端计算。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>账号要求</strong>：注册邮箱即可，无需配置API密钥。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "Lorka AI的核心优势",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>单一订阅替代多份付费</strong>：月费 $19.99 即可解锁所有模型和工具，官方称单独订阅各平台总价超过 $140，性价比突出。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>模型切换零中断</strong>：在同一聊天中从 GPT 切换到 Claude 或 DeepSeek，上下文保持连续，方便对比和协作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>隐私优先设计</strong>：承诺不使用用户数据进行模型训练，不将对话内容用于商业变现。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>界面简洁无广告</strong>：专注于工作流，无弹窗和杂乱干扰，提供预设的提示词模板和优化模式。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>30 天退款保障</strong>：购买后 30 天内可申请退款，降低尝试成本。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "Lorka AI的同类竞品对比",
-        "html": "<table data-v-e7c0e5f5=\"\">\n<thead data-v-e7c0e5f5=\"\">\n<tr data-v-e7c0e5f5=\"\">\n<th align=\"left\" data-v-e7c0e5f5=\"\">对比维度</th>\n<th align=\"left\" data-v-e7c0e5f5=\"\">Lorka AI</th>\n<th align=\"left\" data-v-e7c0e5f5=\"\">Poe by Quora</th>\n<th align=\"left\" data-v-e7c0e5f5=\"\">Anakin.ai</th>\n</tr>\n</thead>\n<tbody data-v-e7c0e5f5=\"\">\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">产品定位</strong></td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">All-in-One AI聚合平台，主打”一个订阅解锁所有模型”</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">Bot平台 + 多模型聚合，强调社区生态与自定义机器人</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">无代码AI应用构建平台，侧重可视化工作流与批量自动化</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">支持模型</strong></td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">GPT、Claude、Gemini、Grok、DeepSeek、Kimi、Llama、Mistral、Perplexity等主流模型</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">GPT-4.5、Claude 3.7、Gemini 2.0、Llama等100+官方模型，外加数百万社区Bot<p></p>\n<div class=\"rag-tag text\" data-v-dd7b2b5f=\"\" data-site-name=\"Quantumrun\"></div>\n</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">GPT-3.5/4、Claude 2/3、Stable Diffusion等，支持多模型切换<p></p>\n<div class=\"rag-tag text\" data-v-dd7b2b5f=\"\" data-site-name=\"revoyant.com\"></div>\n</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">核心功能</strong></td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">多模型聊天、同一对话内即时切换模型、AI联网搜索、图像生成/编辑、PDF智能对话、语音模式、代码助手</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">自定义Bot创建、多Bot并排聊天对比、模型切换、图像生成（DALL-E 3/FLUX）、视频生成（Veo 2/Runway）、Quora知识库连接、自动化<p></p>\n<div class=\"rag-tag text\" data-v-dd7b2b5f=\"\" data-site-name=\"Quantumrun\"></div>\n</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">可视化拖拽工作流构建器、1000+预建模板、批量处理、Prompt版本控制、多平台部署（Web/Slack/WhatsApp/API）<p></p>\n<div class=\"rag-tag text\" data-v-dd7b2b5f=\"\" data-site-name=\"revoyant.com\"></div>\n</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">自定义能力</strong></td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">中等（提供预设提示词模板和优化模式）</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">强（可创建带系统提示词的自定义Bot，支持分享和 monetize）</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">极强（可无代码构建复杂AI应用、逻辑流、多步骤工作流）<p></p>\n<div class=\"rag-tag text\" data-v-dd7b2b5f=\"\" data-site-name=\"revoyant.com\"></div>\n</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">图像/视频生成</strong></td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">支持文生图、背景移除、图像编辑</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">支持DALL-E 3、FLUX、Stable Diffusion、Ideogram图像生成及Veo 2、Runway视频生成<p></p>\n<div class=\"rag-tag text\" data-v-dd7b2b5f=\"\" data-site-name=\"Quantumrun\"></div>\n</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">支持Stable Diffusion图像生成</td>\n</tr>\n</tbody>\n</table>"
-      },
-      {
-        "title": "Lorka AI的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>学术研究与论文写作</strong>：使用PDF对话功能分析文献，通过多模型对比验证研究结论的准确性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>内容营销与文案创作</strong>：用不同模型的写作风格生成多样化内容，配合AI图像工具制作配图。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>编程开发与代码审查</strong>：切换至擅长代码的模型进行Debug，再切回通用模型撰写技术文档。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>商务沟通与方案策划</strong>：快速生成邮件、提案、会议纪要，通过联网搜索获取最新行业数据。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多语言翻译与本地化</strong>：对比多个模型的翻译结果，选择最自然流畅的表达进行内容本地化。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>视觉设计与图像处理</strong>：使用文生图和背景移除功能快速制作海报、产品图和社交媒体素材。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "Lorka AI的常见问题",
-        "html": "<div class=\"paragraph\"><strong>Q：Lorka 包含哪些 AI 模型？</strong><br>\nA：涵盖 ChatGPT/GPT 系列、Claude、Gemini、Grok、DeepSeek、Qwen、Kimi、Llama、Mistral、Perplexity 等主流大语言模型。<p></p>\n<hr>\n</div>\n<div class=\"paragraph\"><strong>Q：有免费试用或免费版吗？</strong><br>\nA：有。免费版提供对部分低阶模型的有限访问，可体验基础功能后再决定是否付费升级。<p></p>\n<hr>\n</div>\n<div class=\"paragraph\"><strong>Q：支持中文界面和中文对话吗？</strong><br>\nA：支持。平台本身提供多语言界面，且所有接入的模型均支持中文交互。<p></p>\n<hr>\n</div>\n<div class=\"paragraph\"><strong>Q：如何退款？</strong><br>\nA：购买后 30 天内可申请退款，平台承诺在 72 小时内响应，审批通过后 10 天内到账。<p></p>\n<hr>\n</div>\n<div class=\"paragraph\"><strong>Q：Lorka 与 Poe、TypingMind 有什么区别？</strong><br>\nA：Poe 更偏向 Bot 市场，TypingMind 侧重 API 级别的自定义控制；而 Lorka 专注于以固定订阅费打包主流模型和内置工具，更适合希望”开箱即用”的通用型用户。<p></p>\n<hr>\n</div>\n<div class=\"paragraph\"><strong>Q：可以在手机和电脑上同时使用吗？</strong><br>\nA：可以。Lorka 支持 Web 浏览器、iOS 和 Android 设备，聊天记录实时同步。<p></p>\n<hr>\n</div>\n<div class=\"paragraph\"><strong>Q：需要我自己准备 API Key 吗？</strong><br>\nA：不需要。Lorka 采用平台统一订阅模式，用户无需配置任何 API 密钥即可直接使用所有模型。<p></p>\n<hr>\n</div>\n<div class=\"paragraph\"><strong>Q：同一对话中切换模型会丢失上下文吗？</strong><br>\nA：不会。Lorka 支持在同一聊天线程中切换模型且保持上下文连续，方便对比不同模型的回答。</div>"
+        "title": "多模型 AI 聚合对话平台 的应用场景",
+        "html": "<p>官网把多模型 AI 聚合对话平台 的适用面描述得比较宽，最常见的几类用法是：</p><ul><li>学生用它将课业材料讲得更浅显，把技术概念拆开理解。</li><li>写作者借它起草大纲、打磨稿件的措辞。</li><li>想快速了解某个话题时，用同一窗口切换模型做交叉核对。</li><li>开发者在排查代码或了解新框架时，借模型给出的解释辅助判断。</li><li>跨语言协作中，借多语言界面与模型能力处理不同语种的文本。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "wenxiaobai-com",
@@ -23982,31 +24026,23 @@
     "domain": "kilo.ai",
     "detailed_content": [
       {
-        "title": "Kilo Code是什么",
-        "html": "<p>Kilo Code 是开源的<a href=\"https://ai-bot.cn/best-ai-coding-assistant-tools/\" target=\"_blank\" rel=\"noopener\"> AI 编程</a>扩展插件，集成于 VS Code 等IDE，通过自然语言交互加速开发流程。Kilo Code将先进的 AI 模型与IDE深度融合，开发者能用简单的文字描述来完成复杂的编程任务，从代码生成到项目管理都能轻松实现。Kilo Code 灵活的模式切换和强大的工具集成，开发工作更加高效、智能。Kilo Code 能提升效率、激发创新的得力助手，让编程变得更加简单和高效。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-69906\" src=\"https://ai-bot.cn/wp-content/uploads/2026/01/Kilo-Code-website.png\"   alt=\"Kilo Code\" width=\"740\" height=\"416\" />"
+        "title": "开源的 AI 编程扩展插件 是什么",
+        "html": "<p>开源的 AI 编程扩展插件 指 Kilo 这个开源编程智能体。官网首页说明它被 Anaconda 收购，并强调“一个智能体覆盖开发者的每一种工作流”：既能在编辑器里用，也能在命令行与云端跑。Kilo 把模型选择权交回开发者，允许接入自带密钥或本地部署的模型。</p><p>作为开源的 AI 编程扩展插件，Kilo 的源码以 MIT 许可公开，提示词、上下文窗口与决策过程都可以自行查看和修改，官方把它描述为“没有黑盒”。同时它提供统一的模型网关，宣称在推理费用上不加价。</p>"
       },
       {
-        "title": "Kilo Code的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>代码生成</strong>：根据自然语言描述快速生成代码，支持多种编程语言，帮助开发者高效实现功能。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">代码重构与调试</strong>：支持优化现有代码结构，快速定位并修复问题，提升代码质量和稳定性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">文档编写与更新</strong>：工具能自动生成和更新代码注释、技术文档，确保文档与代码同步，降低维护成本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>问题解答</strong>：提供关于代码库的技术支持，解答开发过程中的疑问，助力知识分享。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>任务自动化</strong>：支持自动化重复性任务，如文件操作、命令执行等，节省时间和精力。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">多模式切换</strong>：提供 Code 模式、Architect 模式、Debug 模式等多种工作模式，满足不同开发场景需求。</div>\n</li>\n<li class=\"paragraph\"><strong class=\"\">扩展与集成</strong>：工具通过 MCP 协议扩展功能，集成外部工具和 API，满足个性化需求。</li>\n<li class=\"paragraph\"><strong class=\"\">代码审查</strong>：工具提供自动化代码审查功能，分析 Pull Request，提出改进建议，确保代码质量。</li>\n<li class=\"paragraph\"><strong>多设备同步</strong>：支持跨设备同步，开发者能在不同设备上无缝继续任务。</li>\n<li class=\"paragraph\"><strong>语音交互</strong>：支持语音命令，开发者能通过语音与 AI 助手交互，提高效率。</li>\n<li class=\"paragraph\"><strong>智能补全</strong>：工具提供智能代码补全功能，支持多行建议，理解代码上下文。</li>\n<li class=\"paragraph\"><strong class=\"\">模型选择</strong>：支持 500+ AI 模型，用户能根据任务需求选择最适合的模型。</li>\n</ul>"
+        "title": "开源的 AI 编程扩展插件 的主要功能",
+        "html": "<p>开源的 AI 编程扩展插件 的能力按“接入位置”和“模型策略”两条线展开，Kilo 官网列出的重点有：</p><ul><li><strong>多形态运行</strong>：提供 VS Code 扩展、JetBrains 插件、命令行工具与云端版本。</li><li><strong>智能体指挥台</strong>：在一个门户里统一管理本地与云端的智能体，可在多个隔离工作区并行。</li><li><strong>模型自由切换</strong>：官网称可选用数百个模型，支持接入自有密钥与本地模型。</li><li><strong>成本透明</strong>：官方强调模型按成本计价、不加价，也不绑定特定供应方。</li><li><strong>源码可见</strong>：MIT 许可开放，可自行审计提示词与上下文。</li></ul>"
       },
       {
-        "title": "如何使用Kilo Code",
-        "html": "<div class=\"paragraph\">\n<ul>\n<li><strong class=\"\">安装 Kilo Code</strong>：通过 VS Code 应用商店、Cursor 应用商店、Open VSX 注册表或手动下载 <code class=\"segment-code-inline\" data-v-7caec4f8=\"\" data-v-a0d09da1=\"\">.vsix</code> 文件安装 Kilo Code 扩展。</li>\n<li><strong>打开 VS Code</strong>：启动 VS Code 或兼容编辑器，进入扩展面板（快捷键 <code class=\"segment-code-inline\" data-v-7caec4f8=\"\" data-v-a0d09da1=\"\">Ctrl+Shift+X</code> 或 <code class=\"segment-code-inline\" data-v-7caec4f8=\"\" data-v-a0d09da1=\"\">Cmd+Shift+X</code>）。</li>\n<li><strong>搜索并安装</strong>：在扩展面板中搜索“Kilo Code”，选择点击安装按钮，完成后按提示重新加载 VS Code。</li>\n<li><strong>打开 Kilo Code 面板</strong>：在 VS Code 侧边栏找到 Kilo Code 图标并点击，打开 Kilo Code 面板。</li>\n<li><strong>注册账户</strong>：打开 Kilo Code 面板，完成账号登录和注册。</li>\n<li><strong>输入任务</strong>：在 Kilo Code 面板的聊天框中，用自然语言描述开发需求，例如“创建一个 Python 脚本，打印 ‘Hello, world!’”。</li>\n<li><strong>发送任务</strong>：输入任务后，按 Enter 键或点击发送图标，提交任务。</li>\n<li><strong>审核操作建议</strong>：Kilo Code 能分析任务、提出具体操作建议，如读写文件或执行命令，用户能查看、批准执行。</li>\n<li><strong>迭代完成任务</strong>：Kilo Code 能根据反馈逐步执行任务，等待用户进一步指示，直至任务完成。</li>\n<li><strong>使用不同模式</strong>：在面板中切换模式，如 Code 模式用于编写代码，Debug 模式用于调试，Architect 模式用于设计。</li>\n<li><strong>配置和扩展</strong>：在设置中调整自动批准、模型选择等配置，或通过 MCP 协议添加自定义工具和集成外部 API。</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-69909\" src=\"https://ai-bot.cn/wp-content/uploads/2026/01/Kilo-Code-website-2.png\"   alt=\"Kilo Code\" width=\"740\" height=\"416\" />"
+        "title": "如何使用 开源的 AI 编程扩展插件",
+        "html": "<ol><li>先看 Kilo 官网的安装入口，按自己常用的编辑器选择 VS Code 或 JetBrains 版本安装。</li><li>如果习惯终端作业，改装它的命令行工具；需要团队协同则另外开通云端版本。</li><li>在设置里确定模型来源：用官方网关、填入自有密钥，或指向本地模型。</li><li>回到项目里发起任务，让开源的 AI 编程扩展插件 读取上下文后再给出改动。</li><li>对生成结果不满意时，在同一面板里追问或补充约束条件，直到改动可用。</li><li>团队使用时把常用模型与规则固定下来，减少不同成员配置不一致带来的差异。</li></ol>"
       },
       {
-        "title": "Kilo Code官网与开源项目地址",
-        "html": "<ul>\n<li><strong>官网地址</strong>：https://kilo.ai/</li>\n<li><strong>GitHub仓库</strong>：https://github.com/Kilo-Org/kilocode</li>\n</ul>"
-      },
-      {
-        "title": "Kilo Code的产品定价",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>个人计划</strong>：按需付费，适用个人开发者，提供对VS Code、JetBrains和命令行界面的支持，GitHub开源，访问500多个AI模型，自动完成，管理索引，部署，云代理，代码审查，平行代理，应用构建器。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">团队计划</strong>：每位用户每月15美元，包含个人计划的所有功能，加上使用分析与报告，AI采纳评分，共享代理模式，集中化账单，共享BYOK，团队管理，数据隐私控制，优先支持。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>企业计划</strong>：价格定制，包含团队计划的所有功能，加上限制模型和/或提供者，共享私有网关BYOK，审计日志，SSO、OIDC和SCIM支持，SLA承诺，专用支持渠道。</div>\n</li>\n</ul>\n</div>"
-      },
-      {
-        "title": "Kilo Code的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">快速开发原型</strong>：开发者能用 Kilo Code 快速生成代码框架，加速原型开发和迭代。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>编程学习</strong>：对于编程初学者，工具能生成示例代码，帮助理解算法和逻辑。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">代码维护</strong>：在维护旧项目时，Kilo Code 的自动化重构功能清理代码，提升代码的可读性和可维护性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">团队开发</strong>：在团队协作中，Kilo Code 能帮助统一代码风格，提高代码的可读性和可维护性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">系统设计</strong>：架构师用 Kilo Code 的 Architect 模式快速规划系统架构，生成技术文档。</div>\n</li>\n</ul>"
+        "title": "开源的 AI 编程扩展插件 的应用场景",
+        "html": "<p>官网把开源的 AI 编程扩展插件 的使用者描述为希望自己掌控模型与成本的开发团队，典型场景有：</p><ul><li>日常在编辑器里做代码补全、改 bug 与写测试。</li><li>在命令行里批量处理脚本、日志与仓库维护任务。</li><li>把耗时的重构拆给云端智能体，本地只负责评审结果。</li><li>对数据合规敏感的团队改用本地模型，代码不出内网。</li><li>希望规避供应方锁定的团队，通过自有密钥自由更换模型。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "antigravity-google",
@@ -24859,8 +24895,25 @@
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool9382.jpg",
     "domain": "tabby.tabbyml.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "免费开源的自托管AI编程助手 是什么",
+        "html": "<p>免费开源的自托管AI编程助手 指 Tabby 这一套可以放在自己服务器上跑的代码助手。官网的说法是：它是一个开源 AI 编码助手，把 AI 能力接进开发流程的同时，把控制权留在使用者手里。无论代码在云端还是内网，都能以开源方案替代闭源的同类产品。</p><p>Tabby 的自托管属性最被强调。由于整套服务由自己部署，代码与索引不必离开内部环境；官网也把软件供应链安全列为选择它的理由之一，并称其配置灵活、过程透明。</p>"
+      },
+      {
+        "title": "免费开源的自托管AI编程助手 的主要功能",
+        "html": "<p>免费开源的自托管AI编程助手 围绕写代码的几个环节提供能力，Tabby 官网列出的要点有：</p><ul><li><strong>代码补全</strong>：在编辑过程中预测接下来要写的代码。</li><li><strong>问答引擎</strong>：不离开编辑器就能查编码问题。</li><li><strong>行内对话</strong>：在代码里直接开对话，让改动落在当前文件。</li><li><strong>数据连接</strong>：接入自有数据源，让提示更贴合项目上下文。</li><li><strong>智能体</strong>：官网新推出的全栈助手可以承接任务，做规划、执行与回报。</li><li><strong>两种部署</strong>：既可自托管换取私密性，也可用云端版本降低运维成本。</li><li><strong>配置自定义</strong>：模型、补全策略与索引范围都可由管理员调整。</li></ul>"
+      },
+      {
+        "title": "如何使用 免费开源的自托管AI编程助手",
+        "html": "<ol><li>打开 Tabby 官网，先看文档里对自托管部署的硬件与依赖要求。</li><li>按官方步骤把服务部署到自己的服务器，并配置模型与访问凭证。</li><li>在常用编辑器里安装 Tabby 插件，指向刚部署好的地址。</li><li>按提示接入项目数据源，让免费开源的自托管AI编程助手 读到相关上下文。</li><li>日常编写代码时接受补全建议，遇到问题直接在行内发起对话。</li><li>需要更重的任务时改用智能体，让它先给出计划再逐项执行。</li></ol>"
+      },
+      {
+        "title": "免费开源的自托管AI编程助手 的应用场景",
+        "html": "<p>官网把 免费开源的自托管AI编程助手 的适用方分成几类，常见的场景有：</p><ul><li>对代码外流零容忍的团队，把助手放在内网服务器上运行。</li><li>希望自行更换模型、按需调参的技术团队。</li><li>需要审计供应链来源的组织，借开源代码确认实现细节。</li><li>个人开发者用云端版本起步，先试再决定是否自建。</li><li>把补全与问答接进既有开发流程，减少在编辑器与浏览器之间来回切换。</li><li>多项目并行时按仓库分别建索引，让提示更贴近各自的技术栈。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "tool11812",
@@ -25451,11 +25504,23 @@
     "domain": "codiga.io",
     "detailed_content": [
       {
-        "title": "",
-        "html": "AI代码实时分析"
+        "title": "AI代码实时分析 是什么",
+        "html": "<p>AI代码实时分析 指 Codiga 提供的静态代码分析服务。官网在显眼位置说明 Codiga 已并入 Datadog，原有能力继续提供。它的做法是在编辑器里即时扫描代码，指出问题并给出修复建议，让检查发生在提交之前而不是之后。</p><p>Codiga 的门槛设得比较低：官网称可以在五分钟内用浏览器配置出一套自定义的分析规则，并把规则公开分享到 Codiga Hub。除在 IDE 内运行，AI代码实时分析 也能接进持续集成流水线，在合并前统一把关。</p>"
+      },
+      {
+        "title": "AI代码实时分析 的主要功能",
+        "html": "<p>AI代码实时分析 的能力围绕静态分析展开，Codiga 官网列出的要点有：</p><ul><li><strong>实时检查</strong>：在编辑器内即时标注问题，并给出可直接套用的修复。</li><li><strong>自定义规则</strong>：在浏览器里创建、测试并分享自己的分析规则。</li><li><strong>规则库</strong>：可从 Codiga Hub 取用现成规则，覆盖常见编码规范。</li><li><strong>安全检查</strong>：官网称规则集对标 OWASP 十大、MITRE CWE 与 SANS 常见风险清单。</li><li><strong>自动化评审</strong>：把分析接进 CI/CD，在合并前输出检查结论。</li><li><strong>代码片段</strong>：另提供代码片段管理，便于在团队内复用。</li></ul>"
+      },
+      {
+        "title": "如何使用 AI代码实时分析",
+        "html": "<ol><li>访问 Codiga 官网，用账号登录后进入平台页。</li><li>按团队技术栈从规则库挑选规则集，或自行新建一套分析规则。</li><li>为常用编辑器安装官方插件，让 AI代码实时分析 在编写过程中同步提示。</li><li>在仓库侧接入持续集成，指定在提交或合并请求时自动执行检查。</li><li>对报出的问题逐条确认，能自动修复的套用建议，其余手工处理。</li><li>把沉淀下来的规则在团队内共享，保持不同项目的检查口径一致。</li></ol>"
+      },
+      {
+        "title": "AI代码实时分析 的应用场景",
+        "html": "<p>官网把 AI代码实时分析 的用法落在编码与交付两端，典型场景包括：</p><ul><li>个人开发者在写代码时随手接收提示，减少低级失误。</li><li>团队统一编码规范，让不同成员的风格趋于一致。</li><li>合并请求阶段自动检查，把安全类问题挡在主干之外。</li><li>维护老项目时批量排查已知风险模式。</li><li>把检查嵌进流水线，让发布前的质量把关固定下来。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "tool933",
@@ -28250,8 +28315,25 @@
     "subcategory": "ai-design-graphic",
     "logo": "/logos/tool107.png",
     "domain": "iconifyai.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI App图标生成器 是什么",
+        "html": "<p>AI App图标生成器 指 IconifyAI 提供的一项在线服务：用一句话描述想要的对象，由 AI 生成一套应用图标。官网把它的价值概括为替代传统的图标外包流程，不必再等设计师排期，也不必支付高昂的设计费用。</p><p>作为一款 AI App图标生成器，IconifyAI 强调生成结果由 AI 独立完成，并以高清尺寸交付。官网说明用户可以完整拥有生成图标的所有权，包括转售与版权；页面同时提供多种风格预设，供在上线前快速比较。</p>"
+      },
+      {
+        "title": "AI App图标生成器 的主要功能",
+        "html": "<p>AI App图标生成器 的能力集中在“描述—挑风格—出图”这条链路上，IconifyAI 官网列出的有：</p><ul><li><strong>文字描述生成</strong>：输入想呈现的对象名称即可出图，提示尽量简短直接。</li><li><strong>风格预设</strong>：提供金属、纹理、像素、黏土、渐变、扁平、吉祥物、复古、素描与写实等选项。</li><li><strong>配色提取</strong>：根据所选图形或品牌色自动生成配套色板。</li><li><strong>高清下载</strong>：支持下载 1024×1024 的图片，也可直接复制到剪贴板分享。</li><li><strong>一次多图</strong>：可在同一订单里指定所需图标数量。</li><li><strong>权利归属</strong>：官网说明生成结果归用户所有，可用于转售与商用。</li></ul>"
+      },
+      {
+        "title": "如何使用 AI App图标生成器",
+        "html": "<ol><li>进入 IconifyAI 官网，登录后按提示开通额度。</li><li>在生成面板写下希望图标里出现的对象，描述要尽量具体而简短。</li><li>选择最贴合应用气质的风格与颜色。</li><li>指定本次需要的图标数量，然后提交生成。</li><li>在结果里挑出满意的版本，下载高清图或直接复制到剪贴板。</li><li>若风格不符，换一组描述词或改用别的预设，让 AI App图标生成器 再出一批。</li></ol>"
+      },
+      {
+        "title": "AI App图标生成器 的应用场景",
+        "html": "<p>官网把 AI App图标生成器 的使用者描述为独立开发者与小团队，常见用法是：</p><ul><li>应用上架前准备一套统一的图标，覆盖不同尺寸需求。</li><li>为同一产品试做多种风格，选出最契合定位的一版。</li><li>做小游戏或工具类应用时低成本起步，省掉设计环节。</li><li>把图标里的配色提取出来，继续用于启动页与宣传图。</li><li>需要快速出原型演示时先出图占位，之后再细化视觉方案。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "tool106",
@@ -28874,8 +28956,25 @@
     "subcategory": "ai-audio-tts",
     "logo": "/logos/tool74132.png",
     "domain": "qx.utiliverse.site",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "视频音频转文字提取 是什么",
+        "html": "<p>视频音频转文字提取 是轻析（LiteSight）主打的能力。官网把它描述为一款面向中文创作者的 AI 视频内容提取工具：粘贴短视频链接或上传本地音频，即可拿到纯净文案、知识笔记与思维导图。官网列出的支持平台包括抖音、哔哩哔哩、快手、小红书、微博与梨视频。</p><p>除转写本身，轻析还把结果接进创作流程。视频音频转文字提取 得到的文案可以直接送进站内的创作工坊改写成口播稿或种草笔记，另有官方 Obsidian 插件，把解析结果写成当前知识库里的 Markdown 文件。</p>"
+      },
+      {
+        "title": "视频音频转文字提取 的主要功能",
+        "html": "<p>轻析的能力覆盖从链接解析到二次创作的全链路，官网写到的重点有：</p><ul><li><strong>多平台链接解析</strong>：支持主流短视频平台链接，也接受音视频直链与本地音频上传。</li><li><strong>文案提取</strong>：官网称识别支持多种语种与方言，在嘈杂环境下也能保持较高准确度。</li><li><strong>思维导图</strong>：解析视频结构后生成可缩放、可导出的交互式导图。</li><li><strong>知识笔记</strong>：自动产出结构化学习笔记，提炼核心观点与逻辑脉络。</li><li><strong>创作工坊</strong>：把文案改写为口播、种草笔记等不同风格的稿件。</li><li><strong>知识库插件</strong>：通过 Obsidian 插件把视频音频转文字提取 的结果写入本地库。</li></ul>"
+      },
+      {
+        "title": "如何使用 视频音频转文字提取",
+        "html": "<ol><li>打开轻析官网，注册后进入工作台。</li><li>从短视频应用复制分享链接粘贴进来，或直接上传 MP3、M4A、WAV 等音频文件。</li><li>提交后等待视频音频转文字提取 处理，页面会显示解析进度。</li><li>在结果页查看纯净文案与自动生成的笔记、脑图，核对关键信息。</li><li>需要改写时切换到创作工坊，选定场景与改写强度后生成新稿。</li><li>想把结果沉淀到本地，就在 Obsidian 里安装官方插件并导入已完成的任务。</li></ol>"
+      },
+      {
+        "title": "视频音频转文字提取 的应用场景",
+        "html": "<p>官网把视频音频转文字提取 的使用者定位在内容与学习两类人群，常见用法有：</p><ul><li>把长视频的讲解整理成文字，作为写作与脚本的素材库。</li><li>从同行视频里提取文案结构，辅助自己的选题与表达设计。</li><li>把网课与讲座转成笔记，复习时不必重看全部画面。</li><li>把播客内容转写后归档，方便检索与引用。</li><li>借 Obsidian 插件把零散的视频笔记并入个人知识体系。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "tool69917",
@@ -29325,8 +29424,25 @@
     "subcategory": "ai-audio-tts",
     "logo": "/logos/tool14885.png",
     "domain": "ttsmaker.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "在线免费文字转语音 是什么",
+        "html": "<p>在线免费文字转语音 指 TTSMaker（马克配音）提供的网页端语音合成服务。官网把它的定位写得很直白：一款免费的文本转语音工具，覆盖中文、英文、日文、韩文、法文、德文、西班牙文与阿拉伯文等五十多种语言，并提供三百多种语音风格。</p><p>作为一款在线免费文字转语音 工具，TTSMaker 的产物可直接下载为音频文件。官网说明生成的音频归用户所有，可用于视频配音、有声书朗读等用途，也可用于商业场景；同时提示因接入备案要求，需登录后才能使用转换功能，并会依法记录相关信息。</p>"
+      },
+      {
+        "title": "在线免费文字转语音 的主要功能",
+        "html": "<p>在线免费文字转语音 的功能围绕“输入文本—挑声音—出音频”组织，TTSMaker 官网写到的要点有：</p><ul><li><strong>多语言与多音色</strong>：覆盖五十余种语言与三百余种语音风格，另有带标记的不限量音色。</li><li><strong>多人对话模式</strong>：可在同一段文本里为不同说话人指定不同声音。</li><li><strong>停顿控制</strong>：支持插入停顿标签，并可设置每一段的停顿时长。</li><li><strong>音频参数调节</strong>：提供语速、音量与音高调节，音高调整可起到变声效果。</li><li><strong>背景音乐</strong>：允许上传 BGM 与合成语音一起输出。</li><li><strong>多格式下载</strong>：可导出 mp3、ogg、aac、opus、wav 等格式，并提供 MP3 质量档位。</li><li><strong>桌面版本</strong>：官网另提供 Windows 与 Mac 的客户端下载。</li></ul>"
+      },
+      {
+        "title": "如何使用 在线免费文字转语音",
+        "html": "<ol><li>打开 TTSMaker 官网并登录账号。</li><li>把要合成的文字粘贴进输入框，注意单次可用额度。</li><li>选择文本语言与喜欢的音色，需要对话效果时改用多人对话模式并为各角色分配声音。</li><li>按需插入停顿标签，或在高级设置里调语速、音量与音高。</li><li>要加配乐就上传背景音乐，再选定下载格式与音频质量。</li><li>点击开始转换，排队完成后下载文件；在线免费文字转语音 生成的音频会保存在转换记录里。</li></ol>"
+      },
+      {
+        "title": "在线免费文字转语音 的应用场景",
+        "html": "<p>官网把 在线免费文字转语音 的用法举在首页，常见的有：</p><ul><li>为短视频与教程配上旁白，不必自己录音。</li><li>把文章或讲义转成音频，做成有声读物方便通勤时收听。</li><li>给课程材料加上多语言配音，覆盖不同语种的学员。</li><li>为演示与宣传片快速试听不同音色，挑选贴合品牌的语调。</li><li>把长文本分段合成，配合停顿设置做出自然的朗读节奏。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "lovo-ai",
@@ -30303,8 +30419,25 @@
     "subcategory": "ai-audio-tts",
     "logo": "/logos/tool251.png",
     "domain": "murf.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI文本转语音生成工具 是什么",
+        "html": "<p>AI文本转语音生成工具 指 Murf 提供的配音与语音服务。官网把它分成面向创作者和面向开发者两条线：创作者在工作室里把文字转成旁白，开发者则通过接口把语音能力嵌进自己的产品。官网称其语音库提供两百多种 AI 声音，可用于片头、课件与广告等场景。</p><p>除合成语音之外，Murf 还提供变声与声音克隆，以及视频与音频的翻译配音。官网把 AI文本转语音生成工具 的用途总结得很直接：用更少时间做出可用的配音，并把内容延伸到更多语种。</p>"
+      },
+      {
+        "title": "AI文本转语音生成工具 的主要功能",
+        "html": "<p>AI文本转语音生成工具 的功能分布在工作室与接口两端，Murf 官网写到的有：</p><ul><li><strong>文本转语音</strong>：从文字生成旁白，可选不同声音与语气。</li><li><strong>声音克隆与变声</strong>：用自有录音建立个人音色，或把已有录音改造成旁白质感。</li><li><strong>翻译配音</strong>：官网称可把视频与音频本地化成二十多种语言的版本。</li><li><strong>语音智能体</strong>：提供面向客服、招聘与销售等场景的对话语音能力。</li><li><strong>开放接口</strong>：把语音合成接进自有应用，另有文档与性能对比资料可查。</li><li><strong>办公集成</strong>：可接入演示工具与课件软件，在工作流里直接生成配音。</li></ul>"
+      },
+      {
+        "title": "如何使用 AI文本转语音生成工具",
+        "html": "<ol><li>打开 Murf 官网注册账号，先进入工作室界面。</li><li>把脚本粘贴进编辑区，按段落拆分，便于逐句调整。</li><li>从声音库里挑选音色，试听后确定语速与停顿。</li><li>需要统一品牌音色时改用声音克隆，用一段自己的录音做样本。</li><li>成片要出多语版本时启用翻译配音，再逐段核对译文语气。</li><li>若要把 AI文本转语音生成工具 接进产品，则改走接口方案，先用文档里的示例跑通再上线。</li></ol>"
+      },
+      {
+        "title": "AI文本转语音生成工具 的应用场景",
+        "html": "<p>官网按内容类型列出 AI文本转语音生成工具 的用法，常见的包括：</p><ul><li>为在线课程与培训视频配旁白，保持不同章节的音色一致。</li><li>制作产品演示与广告片的解说，省去约录音棚的时间。</li><li>把文章与电子书转成有声版本，拓展到收听场景。</li><li>为多语市场做本地化配音，先出试听再决定投放。</li><li>开发团队把语音合成接进应用，做语音播报或对话式客服。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "lemonaide-ai",
@@ -31007,23 +31140,23 @@
     "domain": "exa.ai",
     "detailed_content": [
       {
-        "title": "Exa AI是什么",
-        "html": "<p>Exa AI是专门为AI模型设计的搜索引擎平台。为 AI 构建的一个搜索引擎，而非为人类构建一个新的搜索引擎，也就是 Google for AI。采用先进的向量数据库和嵌入模型技术，实现深度语搜索，超越关键词匹配，直接预测并提供相关链接。Exa AI的搜索引擎通过端到端Transformer架构优化，过滤SEO干扰，为AI代理提供准确、实时的互联网信息访问，支持大规模数据检索，助力AI的决策支持和深度学习。该公司已完成2200万美元融资，投资者包括英伟达等，致力于整合世界知识，服务于AI的未来。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/07/Exa-AI-website.png\" data-fancybox=\"fancybox\" data-caption=\"Exa AI\"><img decoding=\"async\" class=\"alignnone size-full wp-image-14413\" src=\"https://ai-bot.cn/wp-content/uploads/2024/07/Exa-AI-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Exa AI\" width=\"800\" height=\"450\"></a>"
+        "title": "专门为AI模型设计的搜索引擎平台 是什么",
+        "html": "<p>专门为AI模型设计的搜索引擎平台 指 Exa 提供的搜索接口服务。官网首页把它定位成“给 AI 智能体用的世界数据入口”，并说明检索范围既包括公开网页，也包括用户自己的私有信息。与面向人的搜索框不同，Exa 的输出是结构化结果，可以直接喂给大模型继续处理。</p><p>Exa 官网给出多项检索类别，覆盖全网、新闻、公司、研究、人物与金融等方向，并按响应时间把检索模式分成快速、自动与深度几档，供不同时延要求的场景选用。官方页面同时强调，这是一套面向开发者的接口产品。</p>"
       },
       {
-        "title": "Exa AI的主要功能",
-        "html": "<ul>\n<li><strong>语义搜索</strong>：Exa AI能够理解查询的深层语义，而不仅仅是表面关键词，提供更准确的搜索结果。</li>\n<li><strong>向量数据库和嵌入模型</strong>：使用这些技术来预测和推荐下一个相关链接，而不是下一个词，有助于处理和理解链接数据集。</li>\n<li><strong>内容抓取</strong>：能从任何网页抓取完整、经过清理的内容，为AI提供高质量的数据输入。</li>\n<li><strong>相似性搜索</strong>：通过URL或长文本片段找到相似的结果，增强搜索的精准度。</li>\n<li><strong>大规模数据处理</strong>：Exa AI能够处理大量的搜索结果，高达100万条，满足AI对大数据量处理的需求。</li>\n<li><strong>实时更新</strong>：通过持续爬取新的URL，确保搜索引擎的数据保持最新。</li>\n<li><strong>强大的过滤功能</strong>：提供高度定制化的搜索体验，允许用户根据域名、日期范围或数据类别进行搜索。</li>\n<li><strong>简单的API集成</strong>：Exa AI提供简单易用的API，使得开发者可以轻松集成和使用其搜索功能。</li>\n<li><strong>为AI服务</strong>：Exa AI的搜索引擎专为AI设计，通过API接口嵌入到各类AI服务中，如AI聊天机器人、大型数据集搜索等。</li>\n</ul>"
+        "title": "专门为AI模型设计的搜索引擎平台 的主要功能",
+        "html": "<p>专门为AI模型设计的搜索引擎平台 的能力围绕搜索接口与其周边服务展开，Exa 官网写到的包括：</p><ul><li><strong>搜索接口</strong>：把自然语言查询转成结构化检索结果，返回标题、链接与正文片段。</li><li><strong>内容接口</strong>：按需取回页面正文，供模型继续阅读。</li><li><strong>智能体接口</strong>：把检索与回答串成一步，直接产出结论。</li><li><strong>监控接口</strong>：对指定主题做持续跟踪，出现新结果时给出提醒。</li><li><strong>分档响应</strong>：官网按快、自动、深度三档区分检索时延，按任务需要取舍。</li><li><strong>多类别索引</strong>：可限定在全网、新闻、公司、研究、人物与金融等范围里检索。</li></ul>"
       },
       {
-        "title": "如何使用Exa AI",
-        "html": "<ul>\n<li><strong>获取API密钥</strong>：首先，需要注册并获取一个API密钥，在Exa AI的官方网站上获取。</li>\n<li><strong>阅读文档</strong>：了解Exa AI的API文档，包括支持的搜索类型、请求参数、响应格式等。</li>\n<li><strong>安装客户端库</strong>（如果可用）：Exa AI 会提供客户端库，例如 Python 的 <code class=\"inlineCode___uUrJ9\">exa_py</code>，可以通过包管理工具（如 <code class=\"inlineCode___uUrJ9\">pip</code>）安装。\n<div class=\"codeBlock___D3KDO\">\n<div>\n<pre class=\"io-enlighter-pre\"><div class=\"enlighter-default enlighter-v-standard enlighter-t-enlighter enlighter-hover enlighter-linenumbers enlighter-overflow-scroll\"><div class=\"enlighter-toolbar\"><div class=\"enlighter-btn enlighter-btn-copy\"></div></div><div class=\"enlighter\" style=\"\"><div class=\"\"><div><span class=\"enlighter-text\">pip install exa_py</span></div></div></div><div class=\"enlighter-footer\" data-language=\"undefined\"><div class=\"pre-language\"><span class=\"enlighter-ico enlighter-code\"></span>generic</div><div class=\"pre-size\"><span class=\"enlighter-ico enlighter-size\"></span>18 Bytes</div><div class=\"copyright\">© AI工具集</div></div></div><code class=\"code enlighter-origin\" data-enlighter-language=\"generic\" data-enlighter-linenumbers=\"true\" data-enlighter-lineoffset=\"\" data-enlighter-highlight=\"\">pip install exa_py</code></pre>\n</div>\n</div>\n<p><strong>编写代码</strong>：使用提供的API密钥和客户端库，编写代码来发起搜索请求。</p>\n<div class=\"codeBlock___D3KDO\">\n<pre class=\"io-enlighter-pre\"><div class=\"enlighter-default enlighter-v-standard enlighter-t-enlighter enlighter-hover enlighter-linenumbers enlighter-overflow-scroll\"><div class=\"enlighter-toolbar\"><div class=\"enlighter-btn enlighter-btn-copy\"></div></div><div class=\"enlighter\" style=\"\"><div class=\"\"><div><span class=\"enlighter-k0\">from</span><span class=\"enlighter-text\"> exa_py </span><span class=\"enlighter-k0\">import</span><span class=\"enlighter-text\"> Exa</span></div></div><div class=\"\"><div><span class=\"enlighter-text\"></span><span class=\"enlighter-c0\"></span></div></div><div class=\"\"><div><span class=\"enlighter-c0\"># 初始化Exa对象</span><span class=\"enlighter-text\"></span></div></div><div class=\"\"><div><span class=\"enlighter-text\">exa = </span><span class=\"enlighter-m0\">Exa</span><span class=\"enlighter-g1\">(</span><span class=\"enlighter-s0\">\"YOUR_EXA_API_KEY\"</span><span class=\"enlighter-g1\">)</span><span class=\"enlighter-text\"></span></div></div><div class=\"\"><div><span class=\"enlighter-text\"></span><span class=\"enlighter-c0\"></span></div></div><div class=\"\"><div><span class=\"enlighter-c0\"># 发起搜索请求</span><span class=\"enlighter-text\"></span></div></div><div class=\"\"><div><span class=\"enlighter-text\">results = exa.</span><span class=\"enlighter-m1\">search</span><span class=\"enlighter-g1\">(</span><span class=\"enlighter-s0\">\"your search query\"</span><span class=\"enlighter-g1\">)</span></div></div></div><div class=\"enlighter-footer\" data-language=\"undefined\"><div class=\"pre-language\"><span class=\"enlighter-ico enlighter-code\"></span>python</div><div class=\"pre-size\"><span class=\"enlighter-ico enlighter-size\"></span>116 Bytes</div><div class=\"copyright\">© AI工具集</div></div></div><code class=\"code enlighter-origin\" data-enlighter-language=\"python\" data-enlighter-linenumbers=\"true\" data-enlighter-lineoffset=\"\" data-enlighter-highlight=\"\">from exa_py import Exa\n# 初始化Exa对象\nexa = Exa(\"YOUR_EXA_API_KEY\")\n# 发起搜索请求\nresults = exa.search(\"your search query\")</code></pre>\n</div>\n</li>\n<li><strong>发起搜索请求</strong>：通过API发送搜索请求，可以指定搜索查询、过滤条件等。</li>\n<li><strong>处理响应</strong>：Exa AI 将返回搜索结果，需要处理这些结果以满足您的需求，例如解析JSON响应数据。</li>\n<li><strong>定制化搜索</strong>：使用 Exa AI 提供的过滤功能，定制化您的搜索请求，比如指定搜索结果的日期范围、数据类别等。</li>\n<li><strong>集成到应用</strong>：将Exa AI的搜索功能集成到您的应用程序或服务中，开始使用Exa AI的搜索能力。</li>\n</ul>"
+        "title": "如何使用 专门为AI模型设计的搜索引擎平台",
+        "html": "<ol><li>在 Exa 官网注册账号并进入控制台，先领取接口凭证。</li><li>阅读官方的接口文档，确定要调用的搜索、内容或智能体接口。</li><li>在 Playground 里用示例查询跑一次，把返回结构看清楚。</li><li>把专门为AI模型设计的搜索引擎平台 接进自己的应用，写好查询改写与结果拼装的逻辑。</li><li>按时延要求挑选响应档位，对时效性强的任务改用新闻类索引。</li><li>上线后通过监控接口订阅关注的主题，把新结果接进既有流程。</li></ol>"
       },
       {
-        "title": "Exa AI的适用人群",
-        "html": "<ul>\n<li><strong>AI开发者和工程师</strong>：为他们的AI应用程序集成高级搜索功能，以提高信息检索的准确性和效率。</li>\n<li><strong>数据科学家</strong>：在寻找和处理大型数据集时，Exa AI 能帮助他们快速找到所需的数据资源。</li>\n<li><strong>企业用户</strong>：企业使用Exa AI来增强其业务流程，例如市场研究、客户洞察或竞争分析。</li>\n<li><strong>研究机构和学术界</strong>：研究人员和学者会使用Exa AI来获取特定领域的深入信息和学术资源。</li>\n<li><strong>AI平台和聊天机器人开发者</strong>：使用Exa AI的搜索API来提升聊天机器人的信息检索能力和对话的准确性。</li>\n</ul>"
+        "title": "专门为AI模型设计的搜索引擎平台 的应用场景",
+        "html": "<p>官网把专门为AI模型设计的搜索引擎平台 的典型使用者写得很明确，常见的落地方式有：</p><ul><li>做检索增强的问答应用，让模型先查再答，减少凭空生成。</li><li>给企业智能体提供实时网页数据，用于市场与竞品跟踪。</li><li>金融方向整理上市公司信息与研究材料的检索入口。</li><li>研究场景下按论文与人物维度做资料发现。</li><li>内容系统用监控接口跟踪某主题的最新动态，自动汇总成简报。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "bochaai-com",
@@ -34508,8 +34641,25 @@
     "subcategory": "ai-learning-course",
     "logo": "/logos/tool19.png",
     "domain": "elementsofai.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "免费在线AI通识学习课程 是什么",
+        "html": "<p>免费在线AI通识学习课程 指 Elements of AI 这套公开课。官网说明它由 MinnaLearn 与赫尔辛基大学共同制作，目标是“把 AI 讲得不神秘”：让尽可能多的人了解 AI 是什么、能做什么与不能做什么，以及如何开始动手做。课程把理论与练习结合，可以按自己的节奏完成。</p><p>作为一套免费在线AI通识学习课程，它不要求编程或数学背景，官网称已有两百多万人参与学习。站内按国家与语言提供多个入口，除英语外还覆盖多门欧洲语言，方便不同地区的学员就近选择版本。</p>"
+      },
+      {
+        "title": "免费在线AI通识学习课程 的主要功能",
+        "html": "<p>官网把 免费在线AI通识学习课程 拆成几门课与配套入口，写到的包括：</p><ul><li><strong>入门课程</strong>：从 AI 的基本概念讲起，不预设技术基础。</li><li><strong>进阶课程</strong>：在入门之上继续讲更具体的方法与实践。</li><li><strong>练习环节</strong>：每章配练习，边学边动手，而不是只读文字。</li><li><strong>自定进度</strong>：官网说明课程可自行安排时间完成，没有固定开课日期。</li><li><strong>多语言版本</strong>：按国别提供当地语言入口，降低阅读门槛。</li><li><strong>企业版内容</strong>：官网另有面向员工的 AI 素养材料入口。</li></ul>"
+      },
+      {
+        "title": "如何使用 免费在线AI通识学习课程",
+        "html": "<ol><li>打开 Elements of AI 官网，先在页面顶部选出所在地区与语言。</li><li>从课程列表里选择入门或进阶课程，阅读章节说明后再开始。</li><li>按顺序完成每一章，遇到练习按提示动手操作。</li><li>对没弄懂的概念回到前文重读，免费在线AI通识学习课程 不限制重看次数。</li><li>学完后做课程内的总结练习，检验对关键概念的理解。</li><li>需要向同事或同学普及基础时，把官网链接直接发给他们即可。</li></ol>"
+      },
+      {
+        "title": "免费在线AI通识学习课程 的应用场景",
+        "html": "<p>官网把 免费在线AI通识学习课程 的目标人群说得很宽，常见的使用方式是：</p><ul><li>职场人士想弄清 AI 会怎样影响自己的工作，先建立基本认知。</li><li>非技术专业的学生补齐 AI 常识，为后续跨学科学习打底。</li><li>教师把课程材料作为课堂补充，帮助学生理解概念。</li><li>企业人力资源部门引入素养内容，为员工做基础培训。</li><li>对 AI 好奇但完全零基础的普通人，按自己的节奏入门。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "tool18",
@@ -34702,8 +34852,25 @@
     "subcategory": "ai-learning-tutor",
     "logo": "/logos/tool21.png",
     "domain": "kaggle.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "机器学习和数据科学社区 是什么",
+        "html": "<p>机器学习和数据科学社区 指 Kaggle 这一平台。官网把它称为“AI 的检验场”：通过众包评测、竞赛与黑客松，让参与者检验智能体、模型与前沿技术到底行不行得通。平台面向开发者、研究者与企业实验室三类人群同时开放。</p><p>作为机器学习和数据科学社区，Kaggle 的底子是可复现。官网把可复现的笔记本、竞赛与课程并列为平台的核心特征，参与者不只提交结果，还要把过程留在平台上，方便他人复核与借鉴。</p>"
+      },
+      {
+        "title": "机器学习和数据科学社区 的主要功能",
+        "html": "<p>机器学习和数据科学社区 的功能按“竞赛—评测—学习—协作”四条线组织，Kaggle 官网列出的有：</p><ul><li><strong>竞赛与黑客松</strong>：由企业或机构出题，参与者按榜单比拼结果。</li><li><strong>可复现笔记本</strong>：在平台上直接写代码、跑实验，结果可被他人复现。</li><li><strong>评测基准</strong>：用开源工具包对模型做标准化评测，形成可比对的结论。</li><li><strong>学习课程</strong>：提供从入门到进阶的短课程，配套练习。</li><li><strong>团队与私有竞赛</strong>：企业可发起仅限内部参与的比赛。</li><li><strong>人才与机会</strong>：官网把竞赛成绩作为展示能力的公开凭证。</li><li><strong>算力支持</strong>：官网另设研究资助入口，为新颖的评测研究提供计算资源。</li></ul>"
+      },
+      {
+        "title": "如何使用 机器学习和数据科学社区",
+        "html": "<ol><li>打开 Kaggle 官网注册账号，完善个人资料。</li><li>从感兴趣的方向入手：想练手就直接进竞赛榜，想补基础就先去课程区。</li><li>在平台上新建笔记本，把数据处理与建模过程写在里面。</li><li>提交结果前先看讨论区里的公开思路，避免重复踩坑。</li><li>用评测工具包对模型做一轮横向比较，找出差距所在。</li><li>把最终方案连同笔记一并公开，机器学习和数据科学社区 里的反馈会让你更快发现盲点。</li></ol>"
+      },
+      {
+        "title": "机器学习和数据科学社区 的应用场景",
+        "html": "<p>官网按参与者的身份列出 机器学习和数据科学社区 的不同用法，常见的有：</p><ul><li>初学者靠课程与入门赛建立实战经验，积累可展示的作品。</li><li>从业者用真实赛题打磨建模与特征工程能力。</li><li>研究者借助公开评测工具包检验方法的效果。</li><li>企业通过出题引人关注，同时在结果里发现可用方案与人才。</li><li>团队发起内部黑客松，集中验证某个技术方向是否可行。</li><li>需要横向了解各家模型表现时，直接查阅公开榜单作为参考。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "tool434",
@@ -35981,11 +36148,23 @@
     "domain": "replicate.com",
     "detailed_content": [
       {
-        "title": "",
-        "html": "在线运行开源机器学习模型"
+        "title": "在线运行开源机器学习模型 是什么",
+        "html": "<p>在线运行开源机器学习模型 指 Replicate 提供的托管服务。官网的口号是“用一行代码跑 AI”：运行模型、微调模型、部署自定义模型，都可以通过接口完成，不必自己搭机器、配环境。平台上的模型由官方或社区发布，按需调用即可。</p><p>作为在线运行开源机器学习模型 的平台，Replicate 把可做的事列得很清楚：生成图片、生成语音、生成音乐、修复图像、由图片生成视频、为图片写说明，以及调用各类大语言模型。官网另设了 Playground，用来横向比较不同模型的效果。</p>"
+      },
+      {
+        "title": "在线运行开源机器学习模型 的主要功能",
+        "html": "<p>在线运行开源机器学习模型 的能力围绕“选模型—调用—部署”这条链路展开，Replicate 官网写到的包括：</p><ul><li><strong>模型库</strong>：汇集图像、语音、音乐、视频与语言等多类别模型，标注调用量供参考。</li><li><strong>接口调用</strong>：提供多语言示例代码，接入成本低。</li><li><strong>微调能力</strong>：可基于自有数据继续训练，让输出更贴合需求。</li><li><strong>自定义部署</strong>：把自己打包好的模型放上去对外提供调用。</li><li><strong>模型比对</strong>：在 Playground 里用同一提示跑多个模型，直接看差异。</li><li><strong>企业与文档支持</strong>：官网另设企业方案与文档入口，方便团队接入。</li></ul>"
+      },
+      {
+        "title": "如何使用 在线运行开源机器学习模型",
+        "html": "<ol><li>打开 Replicate 官网注册账号，获取接口凭证。</li><li>在模型库里按任务类型挑选候选，先看说明与调用示例。</li><li>到 Playground 用同一段提示词试跑几个模型，比较输出质量与速度。</li><li>把选中的模型接进代码，参照官方示例完成第一次调用。</li><li>如果通用模型效果不够，就用自有数据做一轮微调。</li><li>需要长期对外服务时，把自定义版本部署上去，在线运行开源机器学习模型 的工作交给平台托管。</li></ol>"
+      },
+      {
+        "title": "在线运行开源机器学习模型 的应用场景",
+        "html": "<p>官网把 在线运行开源机器学习模型 的用途写在首页示例里，常见的几类有：</p><ul><li>做原型时快速验证某个模型是否适合当前需求。</li><li>内容团队批量生成插图、配乐与配音，接入既有生产流程。</li><li>工程团队把图像修复、说明生成等能力做成内部工具。</li><li>研究场景下对比不同开源模型的真实表现，作为选型依据。</li><li>小团队把自有模型部署上去，省掉自建推理服务的运维成本。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "tool778",
@@ -36418,8 +36597,25 @@
     "subcategory": "ai-detection-content",
     "logo": "/logos/tool180.png",
     "domain": "originality.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "原创度和AI内容检测 是什么",
+        "html": "<p>原创度和AI内容检测 是 Originality.ai 的主打方向。官网把这套工具按“检测”和“写作质量”两条线铺开：一边判断文本里有多少由 AI 生成、有多少属于抄袭，一边评估内容质量、可读性与事实可靠性。官方称其 AI 检测器在第三方评测中准确率居前。</p><p>除检测本身，Originality.ai 还提供批量扫描与浏览器扩展，让原创度和AI内容检测 能嵌入既有工作流。官网列出的检测对象覆盖多个主流大模型，并支持在 Google Docs 与 Moodle 等环境里直接调用。</p>"
+      },
+      {
+        "title": "原创度和AI内容检测 的主要功能",
+        "html": "<p>原创度和AI内容检测 的工具集围绕内容审核展开，Originality.ai 官网上写到的有：</p><ul><li><strong>AI 检测</strong>：判断文本由 AI 生成的比例。</li><li><strong>抄袭检测</strong>：比对公开文本，识别直接搬运的部分。</li><li><strong>批量扫描</strong>：一次提交多篇文本，适合站群与内容库审核。</li><li><strong>质量评分</strong>：对写作质量给出量化评分，便于横向比较。</li><li><strong>事实与幻觉检查</strong>：核查文中陈述是否可靠。</li><li><strong>语法与可读性检查</strong>：找出拼写、语法问题并给出改进方向。</li><li><strong>多端接入</strong>：提供浏览器扩展、Moodle 插件与接口，便于接进自有系统。</li></ul>"
+      },
+      {
+        "title": "如何使用 原创度和AI内容检测",
+        "html": "<ol><li>访问 Originality.ai 官网注册账号，按检测量选择合适方案。</li><li>把待检文本粘贴到检测框，或改用浏览器扩展在编辑页面里直接提交。</li><li>查看 AI 检测结果，重点看被标为高风险的具体句子。</li><li>同时运行抄袭与事实检查，交叉确认问题来源。</li><li>按质量与可读性评分修改稿件，再跑一次原创度和AI内容检测 复核。</li><li>稿件量大时改用批量扫描或接口，把检测嵌进发布前的审核环节。</li></ol>"
+      },
+      {
+        "title": "原创度和AI内容检测 的应用场景",
+        "html": "<p>官网把 原创度和AI内容检测 的适用方分成几类，典型场景包括：</p><ul><li>内容团队在发布前统一审核稿件来源，降低低质内容的占比。</li><li>教育机构检查作业与论文的原创性，兼顾 AI 生成比例。</li><li>媒体与出版方核对投稿是否符合原创要求。</li><li>营销与代理公司审核代写稿件，避免事实性错误。</li><li>网站运营方批量抽检存量内容，为改版或下线提供依据。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-04"
   },
   {
     "slug": "tool169",
