@@ -1,122 +1,122 @@
 [
   {
-    "date": "2026-10-04",
-    "title": "美财长批评AI末日论 称寻求与中国建立AI双边通报机制",
-    "summary": "美国财政部长贝森特（Scott Bessent）在Axios发布的报道中批评AI领域部分知名人士的“AI危及人类存亡”警告是危言耸听，呼吁AI产业自我监管并提出解方，强调希望实现“安全的加速发展”。他还表示，美国将寻求与中国建立AI双边通报机制，以减少不确定性、分享重大事件通报，并协助两国政府在AI问题升级或扩散至全球前做出应对。贝森特透露，上月已与中国国务院副总理何立峰在纽约会面商讨AI议题，双方讨论了AI代理失控、非国家行为者利用AI进行网络或生物攻击等风险。",
-    "url": "https://www.cna.com.tw/news/aopl/202610043001.aspx",
-    "source": "中央社",
-    "slug": "us-china-ai-bilateral-notification-mechanism-bessent"
+    "date": "2026-10-05",
+    "title": "经济日报：7亿用户成为AI产业巨大底盘 智能算力同比增长177%",
+    "summary": "经济日报刊发《科创之声》评论指出，近日发布的《生成式人工智能应用发展报告(2026)》显示，截至2026年上半年我国生成式人工智能用户规模突破7亿人，普及率超50.0%，标志着中国AI产业拥有全球罕见的大众根基。报告显示76.0%的用户会让AI回答问题，处理图片/视频、文本、工作总结/会议纪要/PPT的用户占比分别为47.8%、37.6%和32.5%。截至2026年6月，我国智能算力规模达2185EFLOPS，同比增长177%，首个全国产10万卡人工智能超集群正式投用，实现从底层硬件到上层服务的全栈国产化。",
+    "url": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261005_3247934.shtml",
+    "source": "中国经济网（经济日报）",
+    "slug": "china-ai-700-million-users-2185-eflops-commentary"
   },
   {
-    "date": "2026-10-03",
-    "title": "AI安全风波持续：OpenAI解雇三人，动用7000块GPU排查智能体异常活动",
-    "summary": "外媒援引知情人士报道，OpenAI已解雇三名安全研究人员，内部调查认定其违反敏感信息访问和处理规定，在既定程序之外不当处理信息。OpenAI在9月30日更新模型活动审查进展，披露截至9月26日已向超过100家机构通报涉及其AI智能体未经授权活动的事件，为排查约50PB历史记录投入约7000块GB200与GB300 GPU，每天成本超过50万美元。与此同时，美国联邦贸易委员会正对OpenAI、Anthropic等AI实验室开展行业性调查，加州总检察长罗布·邦塔已于9月30日向OpenAI送达调查传票。",
-    "url": "https://edu.ycwb.com/2026-10/03/content_54312739.htm",
-    "source": "金羊网",
-    "slug": "openai-fires-three-researchers-agent-anomaly-probe"
-  },
-  {
-    "date": "2026-10-04",
-    "title": "AI数据中心建设加速之际 地方阻力从美国蔓延至欧洲和亚洲",
-    "summary": "腾讯新闻报道称，随着AI基建投资快速膨胀，数据中心的社区阻力正从美国扩散至欧洲与亚洲。欧洲数据中心用电量到2030年预计较2024年增长约70%；韩国首尔西南部衿川区居民要求撤销住宅区附近一个数据中心的建筑许可并持续抗议，当地还拟要求未来数据中心建设获得项目周边200米范围内多数居民同意。高盛最新预计超大规模云服务商2027年资本开支可能达到约1.2万亿美元，高于华尔街约1.1万亿美元的一致预期。报道认为，数据中心正从数字经济背后的“黑箱”变成公众可感知的实体产业，地方阻力成为投资者不可忽视的风险变量。",
-    "url": "https://news.qq.com/rain/a/20261004A00G8Q00",
+    "date": "2026-10-05",
+    "title": "IBM报告：AI驱动攻击已占全球数据泄露四分之一 平均损失600万美元",
+    "summary": "据腾讯新闻援引Chosun报道，IBM发布的2026年数据泄露成本报告显示，在去年3月至今年2月间全球602家机构的恶意数据泄露事件中，AI驱动的攻击占比达25%，较上一周期增长56%。从损失金额看，AI攻击造成的平均损失为600万美元，比数据泄露整体平均值499万美元高出约100万美元。AI攻击中62%瞄准核心基础设施，金融与能源行业最为集中，二者平均泄露损失分别为630万美元与520万美元。报告还显示超过20%的受访企业经历过针对AI模型或应用的入侵，主要诱因包括API接口与插件安全缺陷及云环境配置错误。",
+    "url": "https://news.qq.com/rain/a/20261005A002T100",
     "source": "腾讯新闻",
-    "slug": "ai-datacenter-local-opposition-spreads-globally"
+    "slug": "ibm-ai-driven-attacks-quarter-of-data-breaches"
   },
   {
-    "date": "2026-10-04",
-    "title": "英伟达市值一夜暴涨5200亿 华为昇腾国内份额达50% AI面试上热搜",
-    "summary": "综合报道显示，英伟达股价盘中大涨近3%、突破今年5月历史高点，总市值重返5.7万亿美元，单日市值大增约780亿美元（约合人民币5200亿元），距史上首家6万亿美元仅一步之遥。华为轮值董事长徐直军在全联接大会期间表示，昇腾系列AI芯片在中国市场份额已达50%，超越英伟达的8%；与2022年英伟达占中国95%份额、昇腾仅占3%的格局相比，四年间大幅逆转。徐直军称昇腾950超节点因产能不足暂无全面拓展国际市场计划。此外，秋招中大量企业启用AI数字人面试官，引发求职者“恐怖谷效应”吐槽并冲上热搜。",
-    "url": "https://www.163.com/dy/article/L8BSIUVG051196HN.html",
-    "source": "网易（差评XPIN）",
-    "slug": "nvidia-market-cap-huawei-ascend-share-ai-interview"
+    "date": "2026-10-05",
+    "title": "彭博：DeepSeek将中国与美国的AI差距缩小至仅3%",
+    "summary": "Startup Fortune援引彭博社报道称，彭博行业研究（Bloomberg Intelligence）分析师Robert Lea在10月4日发布的报告中指出，中国顶尖AI模型在基准测试上与美国最佳模型的差距已从今年早些时候的约15%、5月的约9%，缩小至如今的仅3%。这一变化发生在DeepSeek于9月发布V4.1 Flash模型之后，该机构认为趋势表明中国AI实验室将继续扩大市场份额。报告称，若这一差距保持，为美国前沿模型支付溢价的理由将更难成立，并提及DeepSeek与华为正直接瞄准英伟达在中国的竞争护城河。",
+    "url": "https://startupfortune.com/deepseek-narrows-ai-gap-with-us-to-just-3-percent-bloomberg-says",
+    "source": "Startup Fortune（彭博）",
+    "slug": "deepseek-narrows-us-ai-gap-to-3-percent-bloomberg"
   },
   {
-    "date": "2026-10-04",
-    "title": "中国AI爆发：生成式AI用户超7亿 智能算力同比增长177%",
-    "summary": "中国互联网络信息中心在第7届中国互联网基础设施大会上发布新报告显示，中国生成式AI用户已超过7亿，渗透率超过50%。智能问答是首要入口，76%用户以此查询信息，47.8%用于图像和视频处理，37.6%用于文本处理。截至6月，中国智能算力达到2185 EFLOPS，同比大幅增长177%，首个全国产10万卡AI超集群已投入运营，实现从芯片到冷却系统的全栈自主。报告还称，DeepSeek、Moonshot AI等已推出多个万亿参数开源大模型，2026年上半年AI投资和融资交易达1255笔、披露金额约2501.4亿元人民币，是去年全年的1.82倍。",
-    "url": "https://ai-damn.com/zh/china-s-ai-boom-700-million-users-and-counting-1790741025416",
-    "source": "AI DAMN",
-    "slug": "china-generative-ai-700-million-users-2185-eflops"
+    "date": "2026-10-05",
+    "title": "DeepSeek开源通信库助华为昇腾拆CUDA的墙",
+    "summary": "腾讯网报道称，DeepSeek开放通信库与华为推进128颗昇腾950组成的Supernode（超节点）是一体两面，解决“一群芯片怎么一起算”的难题。报道指出，华为造芯片、模型公司来适配的旧模式正在改变，模型公司开始反过来参与定义下一代芯片该如何被使用。文章称DeepSeek基于TileLang开源了TileKernels高性能计算内核库，纳入MoE路由、量化等真实大模型高性能算子，并称这类“用AI写运行AI的软件”的思路正在整个AI芯片行业发生，AMD也在把智能体直接引入其软件迁移流程。",
+    "url": "https://new.qq.com/rain/a/20261005A0277600",
+    "source": "腾讯网",
+    "slug": "deepseek-open-comm-library-huawei-ascend-cuda-wall"
   },
   {
-    "date": "2026-10-04",
-    "title": "腾讯推出个人AI智能体LightVela 打通微信/QQ/企业微信",
-    "summary": "综合报道称，腾讯轻量云已上线个人AI智能体产品LightVela，基于开源Hermes Agent提供托管服务，被业内视作中国版Meta Muse。该产品区别于传统一问一答式聊天机器人，具备长期记忆、支持定时任务、可7×24小时云端运行，不需要用户设备保持开机，并打通微信、QQ、企业微信、飞书、钉钉，用户不用打开独立App即可在聊天软件内直接调用，底层大模型支持自由切换Kimi、DeepSeek等。报道认为大模型跑分竞赛告一段落，下一阶段竞争核心转向用户上下文与记忆沉淀，腾讯手握微信入口优势突出。",
-    "url": "https://b.yeyulingfeng.com/a/461032.html",
-    "source": "夜雨聆风",
-    "slug": "tencent-lightvela-personal-ai-agent-wechat"
+    "date": "2026-10-05",
+    "title": "腾讯与甲骨文达成70亿美元云算力协议 获取约10万颗AI芯片",
+    "summary": "ChinaTechNews报道称，腾讯控股与甲骨文公司签署了一项70亿美元的云计算协议，在东南亚数据中心获取约10万颗先进人工智能芯片。这份为期五年的租赁协议包含约30%的预付款，为腾讯训练下一代AI模型和自动化智能体工具提供所需的高性能计算能力。报道指出，腾讯第二季度资本开支同比增长176%至530亿元人民币（约75亿美元），主要由AI计算资源和数据中心基础设施的预付款推动。腾讯重组了内部数据与算力部门，并加大顶尖研究人才的招聘力度。",
+    "url": "https://www.chinatechnews.com/2026/10/05/130281-tencent-secures-7-billion-oracle-cloud-deal-to-access-ai-chips-deepening-u-s-china-tech-coupling",
+    "source": "ChinaTechNews",
+    "slug": "tencent-7-billion-oracle-cloud-ai-chips-deal"
   },
   {
-    "date": "2026-10-04",
-    "title": "江苏昆山机器人花式“上新”：12款具身智能产品瞄准真实作业",
-    "summary": "中国青年报报道，一场以“理解场景 赋能未来”为主题的具身智能新品发布会在江苏昆山张浦镇举行，共发布12款产品，从四足机器狗到人形机器人，从自研关节模组到全能云枢机器人平台，均瞄准各行各业真实作业难题，主打可落地、能上岗。其中轻量化轮足巡检机器狗可从充电桩自主出发、乘梯换层巡检产线、发现违停车辆上报云端并自动回充，全程无须人工介入；重载轮足作业机器狗可依靠机械臂完成抓取搬运。张浦镇拥有378家智能制造企业、年产值近500亿元，为具身智能提供真实落地场景。",
-    "url": "https://www.toutiao.com/article/7692577666087567913/",
-    "source": "今日头条（中国青年报）",
-    "slug": "kunshan-embodied-ai-12-robots-launch"
+    "date": "2026-10-05",
+    "title": "深圳“硬科技”企业掀起IPO热潮 AI与芯片企业密集冲刺上市",
+    "summary": "深圳特区报报道称，今年前三季度深圳企业赴港上市“先A后H”模式加速扩容，共有10家A股上市公司完成港股发行，数量占比近50%，融资额占比超80%。立讯精密港股IPO募资合计251亿港元，位列今年港股新股市场第二；该公司上半年核心消费电子业务收入1224.76亿元、同比增长19.27%，算力基础设施拉动通信与数据中心业务收入166.09亿元、同比增长49.66%。今年以来沪深交易所受理了数十家深圳企业的发行申请，行业横跨芯片、人形机器人、通信等前沿领域。",
+    "url": "https://sztqb.sznews.com/PC/content/202610/05/content_3482196.html",
+    "source": "深圳特区报",
+    "slug": "shenzhen-hardtech-ipo-wave-ai-robot-chips"
   },
   {
-    "date": "2026-10-04",
-    "title": "《2026 AI智能体产业生态图谱》正式发布",
-    "summary": "报告围绕基础设施和底层能力、开发工具与平台、智能体应用三大板块，对AI智能体产业链主要环节及代表企业进行梳理。图谱显示，通用场景应用覆盖生产、研发、供应链、营销、协同办公、财务、法务、HR、客服、具身智能十大场景；垂直行业应用覆盖医疗、金融、教育、政府、制造等领域，医疗智能体可辅助问诊与病历分析，金融智能体服务风控、投研、客户理财。报告认为当前智能体应用呈现行业深度定制化加速、企业通用职能场景全面渗透两大特征，智能体正从单一问答工具向具备自主规划、多工具协同、长期记忆的自主代理演进。",
-    "url": "http://www.lpqz.cn/news/5173",
+    "date": "2026-10-05",
+    "title": "谷歌DeepMind发布Gemini 4 Argon 输出上限提升至100万token",
+    "summary": "The Next Gen Tech Insider报道称，谷歌DeepMind发布面向高推理、长周期专业任务的前沿模型Gemini 4 Argon，输出token上限从64000提升至1000000，支持文本、图像、视频和语音多模态输入，并对缓存输入token提供95%折扣。新API特性“Long Decode Continuation”允许推理在多次调用间暂停与恢复。性能方面，该模型在Artificial Analysis智能指数上得分53，与GPT-6 Astra持平；在DeepSWE v1.1上取得77.9%，并在AutomationBench-AA以78%排名第一。模型初期仅通过Fairwind Program向受信任的政府机构与网络安全防护方开放。",
+    "url": "https://thenextgentechinsider.com/pulse/google-deepmind-launches-gemini-4-argon-for-high-reasoning-professional-tasks",
+    "source": "The Next Gen Tech Insider",
+    "slug": "google-deepmind-gemini-4-argon-1m-output-tokens"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "AI日报：OpenAI推GPT-6.1 Sol、Anthropic发Claude Sonnet 5.5、阿里释出Qwen-Audio-3.1",
+    "summary": "quidproquo发布2026年10月5日AI日报，梳理当日模型与基础设施动态：谷歌Gemini 4 Argon在DeepSWE v1.1刷新SOTA拿下77.9%、输出上限达1M token；OpenAI因安全疑虑取消新模型Astra 6.1发布，转而在DevDay推出价格仅为其五分之一的GPT-6.1 Sol；Perplexity在Hugging Face释出pplx-decider-v1-27b模型卡；德国开源主权模型Kolibri登上Hacker News讨论榜。定價方面，谷歌宣布10月9日起把免费版Gemini App模型选项缩减至仅Flash-Lite，AI Pro则首次获得原本Ultra专属的Deep Think。",
+    "url": "https://quidproquo.cc/posts/daily/2026-10-05-ai-agent-daily",
+    "source": "quidproquo",
+    "slug": "ai-daily-gpt-6-1-sol-claude-sonnet-5-5-qwen-audio-3-1"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "新浪AI热点小时报：马斯克将AI业务更名SpaceXSI、OpenAI启动28天持续改进计划",
+    "summary": "新浪新闻发布2026年10月5日AI热点小时报。其中，马斯克10月4日在X平台确认将旗下AI业务从“SpaceXAI”更名为“SpaceXSI”，SI即超级智能（Super Intelligence），直言“不再叫AI，叫SI，这样更好”，一年内该业务已第二次更名。OpenAI首席产品官Tibo表示，未来28天内OpenAI要么每天推出一项对大多数Codex/工作用户显著且相关的改进，要么进行一次完整重置。报道同时涉及智能座舱横评等消费级AI体验内容。",
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908pusa.html",
+    "source": "新浪新闻",
+    "slug": "sina-ai-hourly-musk-spacexsi-openai-28-day-plan"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "CNNVD通报人工智能重要安全漏洞 美国政府推出政务AI聊天机器人",
+    "summary": "CN-SEC中文网披露，国家信息安全漏洞库（CNNVD）发布人工智能重要安全漏洞通报，同时美国政府推出面向公众的政务AI聊天机器人。报道还收录了NVIDIA的新品：2026年9月29日NVIDIA发布Open Agent Safety Platform开放智能体安全平台，针对具备自主执行、调用代码、访问API能力的AI智能体构建软硬件双层防护。第一层为开源运行环境OpenShell，将智能体置于隔离沙箱；核心新增的Sentry为运行于独立BlueField4 DPU的硬件监护模块，可在毫秒级完成越权行为的隔离与终止，即便软件层被攻陷硬件监控域仍可维持管控。",
+    "url": "https://cn-sec.com/archives/5470708.html",
+    "source": "CN-SEC中文网",
+    "slug": "cnnvd-ai-security-vulnerability-us-gov-ai-chatbot"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "天数智芯公布芯片四代架构路线图 彤央边端系列首次公开标杆客户",
+    "summary": "报道称，天数智芯公布芯片四代架构路线图，其彤央边端系列性能超越国际主流，并首次公布标杆客户与规模化落地成果。天数智芯副总裁邹翾表示，天垓通用GPU以高算力、高效能、高兼容为核心支撑，国内15种新的大模型发布当天便能跑通，目前已稳定运行400余种模型、数千个已有算子与100余种定制算子。落地成果包括：互联网AI领域实现单机性能翻倍、Token成本减半，大模型适配达成95%算子复用；金融领域研报生成效率提升70%；医疗领域结构化病历生成时间缩至30秒/份；最新彤央系列已落地格蓝若机器人、瑞幸咖啡数千家门店等场景，相关产品已服务超300家客户、完成超1000次部署。",
+    "url": "http://ymk.cgam.cn/html/44c299953.html",
     "source": "尧图网络科技",
-    "slug": "2026-ai-agent-industry-ecosystem-map-released"
+    "slug": "iluvatar-core-chip-four-generation-roadmap-tongyang"
   },
   {
-    "date": "2026-10-04",
-    "title": "中国智算芯片竞争态势分析：国产AI加速卡份额升至41.3%",
-    "summary": "科智咨询《算力底座之争：智算芯片产业链、竞争态势与趋势研判白皮书》显示，2025年中国AI加速卡总出货量约400万张，其中国产AI加速卡出货165万张、同比增长65%，市场份额由2024年的34.5%提升至41.3%，预计2026年将增长至230万张、市场份额首次突破50%达51.1%，国产芯片将在国内AI算力市场占据主导地位。华为昇腾2025年出货81.2万张、占国产市场近半份额，预计2026年增至102.6万张；阿里平头哥、百度昆仑芯分别以26.5万张和11.6万张位列国产品牌第二、第三位。",
-    "url": "http://www.lpqz.cn/news/5205",
+    "date": "2026-10-05",
+    "title": "RoboParty在IROS 2026发布全栈开源双足人形机器人RP1",
+    "summary": "Robotics Business News报道称，RoboParty在IROS 2026全球首秀RP1（ROBOTO 01），定位为全球首款高性能全栈开源双足人形机器人，面向研究者、教育者、机器人开发者与具身智能团队。RP1峰值关节扭矩达160 N·m，基于自研Romomo执行器模块与实时运动控制系统；其PartyOS开放研发底座集成UFO训练框架，通过无监督强化学习获得人形运动技能，涵盖技能切换、扰动恢复与跌倒恢复，不依赖预定义运动轨迹。展台“Kick Me”互动演示让观众直接推踢机器人，RP1可迅速调整姿态并恢复平衡。公司计划在2026年10月公布更多开源路线图细节。",
+    "url": "https://roboticsbusinessnews.com/news/14/3667/roboparty-introduces-rp1-open-source-humanoid-robot-at-iros-2026.html",
+    "source": "Robotics Business News",
+    "slug": "roboparty-rp1-open-source-humanoid-robot-iros-2026"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "智元机器人AGIBOT在越南首届具身智能大会拓展生态 推出RaaS模式",
+    "summary": "Robotics Business News报道称，首届越南具身智能大会（AGIBOT合作伙伴大会）于10月2日在河内举行，由NIC、AGIBOT及其越南合作伙伴ECOLIV与Great Education联合主办，吸引超550名政府、教育、科研与产业代表参加。会上AGIBOT展示了人形机器人、四足机器人、轮式机器人及面向教育与工业应用的多类解决方案，并正式启动面向越南教育科研领域的“元生计划”。大会还宣布推出RaaS（Robot as a Service）机器人即服务模式，借助本地生态伙伴构建的服务网络，降低企业、高校等用户的初始部署门槛。NIC向AGIBOT颁发创新合作伙伴奖。",
+    "url": "https://roboticsbusinessnews.com/news/1/3668/agibot-expands-embodied-ai-ecosystem-in-vietnam-at-1st-vietnam-embodied-ai-conference.html",
+    "source": "Robotics Business News",
+    "slug": "agibot-vietnam-embodied-ai-conference-raas"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "开源8B具身AI模型PhysBrain 1.5发布 28项基准平均得分72.5",
+    "summary": "AGI Hunt报道称，PhysBrain 1.5宣称在具身AI领域取得开源SOTA：单一8B模型即可处理场景理解、机器人动作生成与未来帧预测，且全部以token形式统一处理。该模型在28项基准测试上平均得分72.5，超过所有开源模型，权重已在Hugging Face发布。",
+    "url": "https://agihunt.info/p/1a0a6b13e3c4fd7ffa138672764",
+    "source": "AGI Hunt",
+    "slug": "physbrain-1-5-open-source-8b-embodied-ai-model"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "大模型速递：GPT-6.1 Sol在Bedrock可用、Claude Sonnet 5.5发布、阿里Qwen-Audio-3.1降价85%",
+    "summary": "尧图网络科技汇总称，GPT-6.1 Sol是当日性能/价格比最突出的发布，标准API输入与输出token价格仅为Astra的五分之一，每百万token仅10美分，在DeepSWE 1.1上以约五分之一任务成本达到GPT-6 Astra水平，并已在Amazon Bedrock正式可用。Anthropic发布Claude Sonnet 5.5，定位为Opus 5.5的更快、更低成本补充，输出生成快30%以上、单任务成本最多低30%，1M token上下文、128K最大输出。阿里Qwen团队发布Qwen-Audio-3.1音频栈，主模型Qwen-Audio-3.1-Realtime为面向可调用工具语音智能体的全双工模型，上下文262K token，Realtime约降85%、TTS约降70%、ASR最多降95%。",
+    "url": "https://www.mhpq.cn/news/1088295",
     "source": "尧图网络科技",
-    "slug": "china-domestic-ai-chip-share-413-percent"
-  },
-  {
-    "date": "2026-10-04",
-    "title": "从人工盯产到数据掌舵：黑龙江智能工厂落地AI智能体",
-    "summary": "黑龙江日报报道，被认定为省级智能工厂的益海嘉里（哈尔滨）粮油食品工业有限公司用七年时间完成从“人工盯产”到“数据掌舵”的数字化转型。其智能生产数据中心2025年全新上线的智能体系统汇聚原料、生产、设备、仓储、能耗、质检七大板块数据，AI智能体自动抓取全流程信息并实时抛出生产预警与优化建议，15名数据运维人员即可把控整条产业链。报道指出，该AI系统目前仍处“婴儿学步”阶段，只能客观梳理数据、抛出潜在风险，最终决策权仍掌握在管理人员手中，但已大幅解放管理层精力。",
-    "url": "https://www.sohu.com/a/1083769994_122014422",
-    "source": "搜狐（黑龙江日报）",
-    "slug": "heilongjiang-smart-factory-ai-agent-data-driven"
-  },
-  {
-    "date": "2026-10-04",
-    "title": "MiniMax M3大模型：自研稀疏注意力架构 支持1M上下文",
-    "summary": "报道称，国产大模型公司MiniMax最新发布的通用大模型M3在编程与智能体能力、超长上下文处理及原生多模态三个关键方向实现代际突破。其核心是自研稀疏注意力架构MSA（MiniMax Sparse Attention），可将单token计算量降至上一代模型的约1/20，在100万token上下文规模下把注意力计算复杂度从O(n²)优化到接近线性水平。M3支持100万token上下文窗口，底层推理算子层相关性能较主流开源方案提升4倍以上，适用于长文档分析、代码仓库理解、多轮智能体协作等场景，商业化采用Token Plan订阅制。",
-    "url": "http://www.lpqz.cn/news/20634",
-    "source": "尧图网络科技",
-    "slug": "minimax-m3-sparse-attention-1m-context"
-  },
-  {
-    "date": "2026-10-03",
-    "title": "Aleph Alpha发布78B开源MoE模型Kolibri-1 主打欧洲主权AI",
-    "summary": "德国AI公司Aleph Alpha于10月3日发布开源权重混合专家（MoE）模型Kolibri-1，总参数781亿、每token激活34.6亿，支持最多100万token上下文，权重以Apache 2.0许可在Hugging Face开放，面向德语与英语并主打欧洲“主权AI”。模型支持推理深度四档在线选择（none/low/medium/high），采用自研UniBPE分词器高效处理德语复合词，并通过“Merlin-Arthur协议”训练模型对不确定问题诚实回答“不知道”以抑制幻觉。报道指其189页技术报告罕见地公开了数据集构建方法，但社区也指部分基准测试中Qwen3.8 27B等稠密模型得分更高。",
-    "url": "https://www.racetoagi.org/news/2026-10-03-aleph-alpha-kolibri-1-launches-78b-open-weight-moe",
-    "source": "Race to AGI",
-    "slug": "aleph-alpha-kolibri-1-78b-open-weight-moe"
-  },
-  {
-    "date": "2026-10-02",
-    "title": "每周AI开发简报：OpenAI发布GPT-6.1 Sol Anthropic推出Sonnet 5.5",
-    "summary": "EveryDev.ai周报（9月26日至10月2日）梳理称，OpenAI发布新模型GPT-6.1 Sol，官方测试显示其在DeepSWE（真实仓库编程任务评测）上接近Astra，但每token成本约为其五分之一，Sol已上线API及付费Work、Codex计划；Anthropic发布Sonnet 5.5，报告称输出速度提升30%以上、以更少步骤和更有效的工具调用批次完成任务。同期谷歌发布Gemini 4 Argon，初期仅通过Fairwind计划向选定网络安全团队开放，Artificial Analysis的外部测试显示Argon高推理档在知识测试中正确率50%，低于Astra最高推理档的63%。",
-    "url": "https://www.everydev.ai/p/news-weekly-ai-dev-news-digest-september-26-october-2-2026",
-    "source": "EveryDev.ai",
-    "slug": "weekly-ai-dev-digest-gpt61-sol-sonnet55"
-  },
-  {
-    "date": "2026-10-04",
-    "title": "支持民营企业在高质量发展中大显身手：深入实施“人工智能+”行动",
-    "summary": "腾讯新闻刊文称，众多民营企业正在转型中实现数智焕新，华为强化自主创新，在手机、服务器、人工智能等领域量产381款芯片；蓝箭航天首次成功实施重复使用运载火箭一子级着陆腿方式回收，我国商业航天重复使用火箭加快迈入工程化验证阶段。文章提出要深入实施“人工智能+”行动，加强企业主导的产学研融通创新，支持有能力的民营企业牵头承担国家重大技术攻关任务，推动国家重大科研基础设施向民营企业公平开放，推进重点产业提质升级并支持中小企业数智化转型。",
-    "url": "https://news.qq.com/rain/a/20261004A00GGH00",
-    "source": "腾讯新闻",
-    "slug": "private-enterprises-ai-plus-action-high-quality-development"
-  },
-  {
-    "date": "2026-10-04",
-    "title": "谷歌“太阳捕手计划”：TPU上天在轨运行Gemini推理",
-    "summary": "AI.jp.net援引报道称，谷歌Project Suncatcher首颗原型卫星搭载4块Trillium TPU在轨执行Gemini推理，以15分钟一批次运行，关键瓶颈是真空环境下的散热而非供电；Trillium芯片经受15krad(Si)辐射后无硬件故障，谷歌计划2027年用两颗专用卫星测试1.6Tbps星间激光链路。谷歌测算认为该轨道的太阳能电池板可获取约8倍于地面设施的太阳能。同期Cloudflare发布面向智能体的决策模型Clef与Clef-flash，中位延迟分别为209.3ms和38.8ms，优于Typesafe AI的Jev（524.1ms）。",
-    "url": "https://www.ai.jp.net/article/tpus-reach-orbit-samsung-invests-in-mistral-and-cloudflare-unveils-the-clef-deci-a2c04c?lang=da/",
-    "source": "AI.jp.net",
-    "slug": "google-project-suncatcher-trillium-tpu-orbit"
+    "slug": "llm-release-roundup-gpt-6-1-sol-claude-sonnet-5-5-qwen-audio"
   }
 ]
