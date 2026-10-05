@@ -2371,6 +2371,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool12586</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool12586.png</image:loc>
+      <image:title>免费的AI视频生成和图像创作平台 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tool987</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2467,6 +2476,15 @@
     <image:image>
       <image:loc>/logos/tool8840.png</image:loc>
       <image:title>iSlide AIPPT logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool7012</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool7012.png</image:loc>
+      <image:title>高效的AI PPT生成工具 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -2776,6 +2794,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool6509</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool6509.png</image:loc>
+      <image:title>面向产品经理的AI助手 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/pdf-ai</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2989,6 +3016,15 @@
     <image:image>
       <image:loc>/logos/meeting-iflyrec-com.png</image:loc>
       <image:title>讯飞会议 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool724</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool724.png</image:loc>
+      <image:title>飞书智能会议纪要和快捷语音识别转文字 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -3367,6 +3403,15 @@
     <image:image>
       <image:loc>/logos/gaoding-art.png</image:loc>
       <image:title>稿定AI logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool61891</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool61891.png</image:loc>
+      <image:title>深度适配中文场景的AI修图智能体 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -3820,6 +3865,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool10754</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool10754.png</image:loc>
+      <image:title>公众号AI图文排版和智能文案生成工具 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/holopix-ai</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -3946,12 +4000,30 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool12673</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool12673.png</image:loc>
+      <image:title>AI插图资源库和生成平台 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tool9977</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <image:image>
       <image:loc>/logos/tool9977.png</image:loc>
       <image:title>AI室内家居设计生成平台 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/yiketu-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/yiketu-com.png</image:loc>
+      <image:title>免费的AI图片编辑和海报设计平台 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -4060,6 +4132,15 @@
     <image:image>
       <image:loc>/logos/tool172.png</image:loc>
       <image:title>AI SVG矢量插画生成工具 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool168</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool168.png</image:loc>
+      <image:title>基于深度学习的色彩生成工具 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -4213,6 +4294,15 @@
     <image:image>
       <image:loc>/logos/stable-audio.png</image:loc>
       <image:title>Stable Audio logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/texttospeech-im</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/texttospeech-im.png</image:loc>
+      <image:title>完全免费的AI文字转语音工具 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -4423,6 +4513,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool81</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool81.png</image:loc>
+      <image:title>AI快速生成原创音乐的平台 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tool250</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4486,6 +4585,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool58169</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool58169.png</image:loc>
+      <image:title>新一代科研知识库与AI学术搜索平台 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/felo-ai</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4501,6 +4609,15 @@
     <image:image>
       <image:loc>/logos/exa-ai.png</image:loc>
       <image:title>专门为AI模型设计的搜索引擎平台 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/bochaai-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/bochaai-com.png</image:loc>
+      <image:title>支持多模型的AI搜索引擎 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -4564,6 +4681,15 @@
     <image:image>
       <image:loc>/logos/tool11848.png</image:loc>
       <image:title>AI科研学术搜索引擎 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool11850</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool11850.png</image:loc>
+      <image:title>简洁直观的AI搜索引擎 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -4918,6 +5044,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool1430</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool1430.png</image:loc>
+      <image:title>开发由语言模型驱动的应用程序的框架 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/chatdev-modelbest-cn</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -5071,12 +5206,30 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool6279</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool6279.png</image:loc>
+      <image:title>美图AI开放平台 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tool2147</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <image:image>
       <image:loc>/logos/tool2147.png</image:loc>
       <image:title>Gradio logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool55</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool55.png</image:loc>
+      <image:title>Google AI文字到图像生成模型 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -5188,6 +5341,24 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool67598</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool67598.png</image:loc>
+      <image:title>茅茅虫AI论文写作助手 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool68164</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool68164.png</image:loc>
+      <image:title>PaperFake AI写作指导平台 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tool73605</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -5275,6 +5446,15 @@
     <image:image>
       <image:loc>/logos/tool760.png</image:loc>
       <image:title>AI提示词生成和管理工具 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool748</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool748.png</image:loc>
+      <image:title>AI提示词库创建和管理工具 logo</image:title>
     </image:image>
   </url>
   <url>

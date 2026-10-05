@@ -12998,8 +12998,25 @@
     "subcategory": "ai-video-generation",
     "logo": "/logos/tool12586.png",
     "domain": "vivago.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "免费的AI视频生成和图像创作平台 是什么",
+        "html": "<p>免费的AI视频生成和图像创作平台 指的是 vivago。官网首页的口号是「Create AI Videos &amp; Images」，界面顶部排着 New Project、Assets、SkillHub、Gallery、Connectors 等入口。它的交互方式偏对话式：中间一行写着「Hi, what story do you want to tell today?」，提示用户可以先把想法说出来，再用 / 唤起对应的技能。vivago 还提供免费额度，新用户注册后可以先试再做决定。</p>"
+      },
+      {
+        "title": "免费的AI视频生成和图像创作平台 的主要功能",
+        "html": "<p>免费的AI视频生成和图像创作平台 把能力做成了一批可点选的技能，官网 SkillHub 里展示的包括：</p><ul><li>电影感叙事：Cinematic Story Director 把故事想法转成叙事连贯、有辨识度的长视频。</li><li>知识讲解：Knowledge Explainer 把主题或素材变成便于理解的讲解视频。</li><li>分镜生成：Storyboard 把故事、脚本或参考素材排成分镜网格，服务短视频制作。</li><li>社媒改版：Social Image Adapter 把成品图适配成不同平台与比例的高清版本。</li><li>穿搭预览：OOTD Advisor 生成个性化穿搭建议与虚拟试穿。</li><li>合影合成：Snap Together 把多张单图拼成一张自然的多人群像。</li><li>表情包：Emoji Studio 制作风格统一的透明自定义表情。</li><li>素材管理：Assets 存放项目素材，并支持上传文件与添加资源。</li></ul>"
+      },
+      {
+        "title": "如何使用 免费的AI视频生成和图像创作平台",
+        "html": "<p>免费的AI视频生成和图像创作平台 走的是「说需求、挑技能」的路子：</p><ol><li>打开 vivago 首页，在输入框里描述想做的故事或画面。</li><li>输入 / 唤起技能列表，从电影感叙事、知识讲解、分镜等技能里挑一个。</li><li>需要参考素材时，用上传文件或添加资源把图片放进来。</li><li>也可以直接进 SkillHub 浏览全部技能，选中后再补描述。</li><li>生成结果会落到项目里，在 Assets 中管理，完成后到 Gallery 查看。</li></ol>"
+      },
+      {
+        "title": "免费的AI视频生成和图像创作平台 的应用场景",
+        "html": "<p>从列举的技能看，免费的AI视频生成和图像创作平台 覆盖了这些实际用途：</p><ul><li>短视频创作：用分镜与电影感叙事把脚本推进到成片。</li><li>知识科普：把复杂主题做成通俗讲解视频。</li><li>社媒排版：一张图适配多个平台的尺寸与比例。</li><li>穿搭内容：为服饰类账号生成搭配建议与试穿效果。</li><li>合影与表情：活动合影、聊天表情这类轻量素材的自助制作。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "humva-ai",
@@ -13744,8 +13761,25 @@
     "subcategory": "ai-office-ppt",
     "logo": "/logos/tool7012.png",
     "domain": "bigppt.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "高效的AI PPT生成工具 是什么",
+        "html": "<p>高效的AI PPT生成工具 指的就是笔格 PPT。官网把核心能力概括成一句话：输入任意主题，AI 帮你写 PPT。它同时保留了传统做法——你可以自己挑模板新建，也可以把已有的本地文档导进来转成 PPT，或者导入一份做了一半的 PPT 让它帮忙美化。笔格 PPT 的页面里还有模板开放平台与私有化部署两个入口，说明它除了面向个人，也在承接团队与企业的批量需求。</p>"
+      },
+      {
+        "title": "高效的AI PPT生成工具 的主要功能",
+        "html": "<p>高效的AI PPT生成工具 的功能可以按「从零生成」和「拿现成材料加工」两条路来理解，官网写到的能力有：</p><ul><li>主题生成：输入任意主题，先由 AI 产出内容大纲，再据此生成 PPT。</li><li>大纲规划：自动完成要点规划，给出相对清晰的逻辑思路。</li><li>一键排版：选好模板后由 AI 完成排版设计，省掉逐页调整的时间。</li><li>文档转 PPT：导入多种格式的本地文档，自动识别内容生成大纲并成稿。</li><li>成品改造：把已有 PPT 导进来编辑美化，支持整体换模板、整体换配色与字体替换。</li><li>模板库：提供覆盖多行业的 PPT 模板，另有图片工具与 AI 工具若干。</li><li>生成参数：创建时可切换深度思考与联网等选项，并设有高级设置。</li></ul>"
+      },
+      {
+        "title": "如何使用 高效的AI PPT生成工具",
+        "html": "<p>高效的AI PPT生成工具 把入口做成了几块并排的按钮，按官网首页的提示可以这样走：</p><ol><li>打开 bigppt.cn，在「AI 一键生成 PPT」输入框里写下主题或内容要求。</li><li>按需要勾选深度思考、联网等选项，或者展开高级设置调整细节。</li><li>点生成，等 AI 先出大纲，确认结构没有跑偏。</li><li>挑选模板，让工具完成一键智能排版。</li><li>如果手上已有材料，也可以改用「导入内容生成 PPT」或「导入 PPT 编辑美化」这两条路径。</li><li>成稿后替换模板、配色或字体，再导出使用。</li></ol>"
+      },
+      {
+        "title": "高效的AI PPT生成工具 的应用场景",
+        "html": "<p>从官网列出的模板分类与用户群体看，高效的AI PPT生成工具 比较常见的用途有这么几类：</p><ul><li>课堂与答辩：教师做教学课件、学生准备毕业答辩，都能先让 AI 铺好框架。</li><li>工作汇报：把周报、月报或工作总结快速整理成演示稿。</li><li>培训与宣讲：企业内训、招聘宣讲这类需要多次复用的材料，用模板统一风格。</li><li>产品与营销：产品介绍、品牌营销场景下快速产出初版，再人工精修。</li><li>旧稿翻新：把历史 PPT 导入后整体换模板与配色，节省重做成本。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "tool14213",
@@ -16034,19 +16068,23 @@
     "domain": "pm-ai.cn",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<p>PMAI是一个面向产品经理的AI助手，提供帮助产品经理一键生成PRD文档、业务问题的解决方案、业务流程图、生成SQL代码等实用功能，让产品经理节省写各种产品文档的时间，将更多的精力放在构思上，提升工作效率，让工作更轻松。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2023/12/pmai-prd-generating.png\" data-fancybox=\"fancybox\" data-caption=\"PMAI\"><img decoding=\"async\" class=\"alignnone size-full wp-image-6511 rounded-lg\" src=\"https://ai-bot.cn/wp-content/uploads/2023/12/pmai-prd-generating.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"PMAI\" width=\"800\" height=\"422\"></a>"
+        "title": "面向产品经理的AI助手 是什么",
+        "html": "<p>面向产品经理的AI助手 指的是 PMAI，官网首页给它的定位句是「AI 时代的 产品原型工具」。它面向的是产品工作里最花时间的那一段：把想法说清楚，再变成能看的页面和能签的需求文档。PMAI 的做法是让用户先用语言描述界面或功能，再由 AI 生成高保真原型；生成出来的东西可以继续用对话修改，也能导出到 Figma 或 Axure 接着做。官网上还挂着一个原型图案例库，收录用户分享的作品，供后来者参考。</p>"
       },
       {
-        "title": "PMAI的主要功能",
-        "html": "<ol>\n<li>产品需求文档生成：输入产品名、原型图、功能名，一键生成PRD文档，支持PRD文档检查</li>\n<li>多种图示生成：只需粘贴文档，即可生成流程图、时序图、页面结构图</li>\n<li>测试用例生成：只需粘贴PRD，AI帮你生成测试用例，完成功能上线前验收</li>\n<li>更多生成功能：提供数据字段、SQL代码、周报生成功能</li>\n</ol>"
+        "title": "面向产品经理的AI助手 的主要功能",
+        "html": "<p>面向产品经理的AI助手 把产品经理的日常工作拆成几条并行的能力线，官网写到的主要功能包括：</p><ul><li>原型图生成：分单页面与多页面两种模式，前者适合快速试效果，后者用来生成由多个页面构成的完整系统或 App。</li><li>PRD 生成：输入想法直接出需求文档，也支持基于已经做好的原型图反向生成 PRD。</li><li>PRD 增强：把已有 PRD 粘进去，一键生成流程图、时序图、数据字段、测试用例，并给出 PRD 分析。</li><li>图表与材料：覆盖页面结构图、时序图、类图、操作手册等配套产出。</li><li>辅助分析：提供价值分析、SQL 建议、产品周报生成、责任边界梳理与分析汇报等小工具。</li><li>导出与分享：生成结果可导入 Figma 或 Axure，也能在线分享或导出为 HTML。</li></ul>"
       },
       {
-        "title": "PMAI的产品价格",
-        "html": "<ol>\n<li>免费版普通用户：每天最多可免费使用5次，每月可免费使用30次</li>\n<li>付费VIP会员：新客月卡19元，半年卡59.9元，年卡118.8元，每天最多可免费使用500次，每月可免费使用500次，支持文档导出</li>\n</ol>"
+        "title": "如何使用 面向产品经理的AI助手",
+        "html": "<p>面向产品经理的AI助手 把流程压成了四步，官网在首页用「简单四步」的形式讲清楚了：</p><ol><li>描述想法：用语言写出界面或功能，官网举的例子是「设计一个登录页面」。</li><li>选择形态：决定要网站还是 App 界面，并设置参考图是公开还是私有。</li><li>生成原型：交给 AI 出高保真原型，随后通过对话调整细节，比如「把按钮改成蓝色」。</li><li>导出使用：把结果导入 Figma 或 Axure 继续编辑，或者在线分享、导出 HTML。</li></ol>"
+      },
+      {
+        "title": "面向产品经理的AI助手 的应用场景",
+        "html": "<p>从官网列出的模块看，面向产品经理的AI助手 适合嵌进产品工作的几个环节：</p><ul><li>需求沟通：在评审前先出一版原型，让讨论有具体的对象。</li><li>方案比选：同一想法生成多个页面方案，快速比较取舍。</li><li>文档撰写：先用原型反推 PRD，再人工补齐细节。</li><li>老 PRD 补救：把写了一半的 PRD 放进去，补出流程图、类图与测试用例。</li><li>汇报支撑：用周报生成与分析汇报模块整理阶段性材料。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "pdf-ai",
@@ -17708,11 +17746,23 @@
     "domain": "feishu.cn",
     "detailed_content": [
       {
-        "title": "",
-        "html": "飞书智能会议纪要和快捷语音识别转文字"
+        "title": "飞书智能会议纪要和快捷语音识别转文字 是什么",
+        "html": "<p>飞书智能会议纪要和快捷语音识别转文字 对应的是飞书里的「妙记」产品。官网对它的定位说得比较直白：会议信息无损记录、要点全掌握，同时支持音频与视频精准转文字。也就是说，它一边把语音内容留存下来，一边用 AI 把内容整理成可读的纪要。飞书官网还把它放在协作语境里描述——用文字再次加入讨论，即使错过会议，也能在妙记里发表评论、@ 同事继续聊。</p>"
+      },
+      {
+        "title": "飞书智能会议纪要和快捷语音识别转文字 的主要功能",
+        "html": "<p>围绕「记录 + 整理 + 协作」三段，飞书智能会议纪要和快捷语音识别转文字 在官网列出的能力大致是这些：</p><ul><li>语音转文字：把音频、视频精准转成文字稿，用来提升事后回顾效率。</li><li>智能会议纪要：AI 总结会议内容，官方给的表述是「让 1 小时会议，1 分钟掌握」。</li><li>结构化章节纪要：结合场景生成最适配的纪要形态，按章节把内容排开。</li><li>待办识别：自动识别会议里提到的待办任务。</li><li>协作与分享：用文字参与讨论、发表评论，并可以把妙记素材分享出去。</li><li>会后成文：会后自动生成纪要文档，让每场会议沉淀成可查的资料。</li></ul>"
+      },
+      {
+        "title": "如何使用 飞书智能会议纪要和快捷语音识别转文字",
+        "html": "<p>飞书智能会议纪要和快捷语音识别转文字 的使用方式跟着飞书的会议流程走，官网的说明可以整理成下面几步：</p><ol><li>先准备音频或视频：可以是会议录制，也可以是已经拿到的媒体文件。</li><li>交给妙记做语音转文字，得到一份带时间信息的文字稿。</li><li>等 AI 总结生成会议纪要，并按场景把要点排成章节。</li><li>翻看识别出的待办任务，确认责任人是否准确。</li><li>需要补充观点时，直接在妙记里用文字评论、@ 相关同事发起讨论。</li><li>把整理好的妙记素材分享给团队，作为后续跟踪的依据。</li></ol>"
+      },
+      {
+        "title": "飞书智能会议纪要和快捷语音识别转文字 的应用场景",
+        "html": "<p>把官网给出的能力落到日常工作里，飞书智能会议纪要和快捷语音识别转文字 的典型用法有这么几类：</p><ul><li>团队例会留档：会议结束即拿到纪要，避免口头传达走样。</li><li>访谈与调研整理：把录到的音频转成文字稿，再从中提炼要点。</li><li>培训与分享归档：把讲过的内容沉淀成可检索的文档。</li><li>跨时区协作：缺席的人靠妙记回看要点，并用评论补齐问题。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "tool720",
@@ -21603,8 +21653,25 @@
     "subcategory": "ai-agent-framework",
     "logo": "/logos/tool61891.png",
     "domain": "jiaotuai.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "深度适配中文场景的AI修图智能体 是什么",
+        "html": "<p>深度适配中文场景的AI修图智能体 指的是椒图 AI。它把自己的定位写成「让每个人都能轻松创作出专业级图片和视频」，并在首页给出对话、快速、电商套图 Agent 三个入口。跟只做单一功能的修图站不同，椒图 AI 把修图、设计与视频相关的能力打包成智能体，用户可以先用中文描述需求，再让智能体去选择对应的处理方式。页面底部显示它由枫潮科技运营，并公示了相关资质编号。</p>"
+      },
+      {
+        "title": "深度适配中文场景的AI修图智能体 的主要功能",
+        "html": "<p>深度适配中文场景的AI修图智能体 的首页用「灵感发现」把能力做成了可套用的案例墙，官方展示的方向包括：</p><ul><li>电商图：覆盖电商主图、电商详情图、商品宣传图、商品海报与产品精修白底图。</li><li>海报制作：商业海报、影视海报、印刷海报、小红书海报、社媒配图与卖点海报。</li><li>人物相关：虚拟试衣、美式证件照、照片修复上色。</li><li>创意方向：超现实产品海报、创意产品图、影视分镜、科普百科图。</li><li>产品视觉：产品效果图、产品精修、手持商品图。</li><li>套图能力：以电商套图 Agent 的形式批量产出成体系的图片。</li></ul>"
+      },
+      {
+        "title": "如何使用 深度适配中文场景的AI修图智能体",
+        "html": "<p>深度适配中文场景的AI修图智能体 把上手动作压得很短，首页的按钮本身就说明了顺序：</p><ol><li>打开官网后先挑入口：想直接用自然语言提需求就选对话，想快点出结果就选快速。</li><li>在灵感发现里翻案例，找到接近自己需求的那一张。</li><li>点该案例上的「做同款」，把示例转换成自己的任务。</li><li>换成自己的商品或人物素材，用中文描述希望改动的部分。</li><li>需要成套产出时，改走电商套图 Agent 这条入口。</li></ol>"
+      },
+      {
+        "title": "深度适配中文场景的AI修图智能体 的应用场景",
+        "html": "<p>从案例墙的覆盖范围看，深度适配中文场景的AI修图智能体 常用于这些工作：</p><ul><li>电商上架：主图、详情图与白底精修一起准备。</li><li>营销物料：活动海报、社媒配图按平台版式批量产出。</li><li>产品发布：用超现实海报或效果图做新品预热的视觉。</li><li>人像与试穿：虚拟试衣、证件照这类与人相关的图片处理。</li><li>内容运营：为图文或直播准备成套的商品视觉素材。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "alphashop-cn",
@@ -26266,8 +26333,25 @@
     "subcategory": "ai-design-graphic",
     "logo": "/logos/tool10754.png",
     "domain": "135editor.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "公众号AI图文排版和智能文案生成工具 是什么",
+        "html": "<p>公众号AI图文排版和智能文案生成工具 是 135 编辑器推出的 AI 排版产品。官网给它贴的标签是「行业首创 AI 排版」，工作台里同时摆着排版、我的文章、我的图片、多平台发文等入口，说明它并不是一个孤立的排版页，而是接在 135 编辑器的内容生产链上。除了公众号图文，这一侧还挂着 AI 笔记、可赞 AI 等同类 AI 产品，形成一组围绕内容生产的工具带。</p>"
+      },
+      {
+        "title": "公众号AI图文排版和智能文案生成工具 的主要功能",
+        "html": "<p>公众号AI图文排版和智能文案生成工具 把「写」和「排」两件事放在了一起，官网列出的能力包括：</p><ul><li>AI 排版：输入主题即可生成完整文章，官方称最快 30 秒完成排版，并自动匹配模板。</li><li>智能配图：可选图库配图，也能用 AI 智能配图。</li><li>三种版式：模板排版一键套用、简约排版聚焦内容、长图排版适配需要一图到底的场景。</li><li>导入成稿：支持导入已有文章再排版，省去从零写起。</li><li>可商用模板：页面标注 5000+ 模板，覆盖教育、政务、科技、商务等二十多个行业，支持一键替换。</li><li>细节可改：文字、图片与配色都能自由调整。</li><li>生成参数：可设定生成段落数，并提供联网搜索与高级模式。</li><li>周边工具：同一工作台内还有 AI 笔记、可赞 AI、笔格 AI PPT 等入口。</li></ul>"
+      },
+      {
+        "title": "如何使用 公众号AI图文排版和智能文案生成工具",
+        "html": "<p>公众号AI图文排版和智能文案生成工具 的入口都摆在首页，操作顺序大致如下：</p><ol><li>进入工作台，在「输入主题生成」和「导入文章排版」之间选一条路。</li><li>选输入主题时，填入要写的主题，并按需要打开联网搜索或高级模式。</li><li>设定生成段落数，再点自动生成，等 AI 把文章与版式一起产出。</li><li>如果手上已有稿子，改用导入文章排版，直接进入版式环节。</li><li>从模板库里挑一套风格，需要时一键替换整篇模板。</li><li>逐处微调文字、配图与配色，确认后同步到多平台发文。</li></ol>"
+      },
+      {
+        "title": "公众号AI图文排版和智能文案生成工具 的应用场景",
+        "html": "<p>从模板行业覆盖与工作台结构看，公众号AI图文排版和智能文案生成工具 比较适合这些日常场景：</p><ul><li>公众号日更：把写稿和排版压成一步，缩短从选题到发布的时间。</li><li>政务与教育宣传：需要规范版式、又缺少设计人手的单位内容发布。</li><li>企业品牌稿：市场与品牌团队统一视觉风格后批量出稿。</li><li>多平台分发：同一篇内容按不同平台重新排版后分发。</li><li>笔记类内容：借助同工作台的 AI 笔记模块批量准备种草类图文。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "holopix-ai",
@@ -27411,8 +27495,25 @@
     "subcategory": "ai-design-graphic",
     "logo": "/logos/tool12673.png",
     "domain": "pictographic.io",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI插图资源库和生成平台 是什么",
+        "html": "<p>AI插图资源库和生成平台 指的是 Pictographic。官网的主打句是「Generate &amp; Combine Icons in seconds」，并自称是第一个文字转 SVG 的图标生成器。它的产品逻辑是「生成 + 现成」并行：你可以用一句话描述需要的图标，让 AI 现做一个描边风格的 SVG；也可以直接从图标库与插画集里挑现成的。官方把面向的使用者写得很宽——不需要设计能力，输出的是可直接进入设计系统的矢量资源。</p>"
+      },
+      {
+        "title": "AI插图资源库和生成平台 的主要功能",
+        "html": "<p>AI插图资源库和生成平台 的能力可以分成生成、库与衔接三部分，官网上写到的有：</p><ul><li>文字转 SVG：用自然语言描述图标，得到一笔成型的描边 SVG。</li><li>线宽可调：生成与库里的图标都能调整线条粗细，以匹配品牌规范。</li><li>图标组合：把图标与子图标拼在一起，做出更贴合具体产品的图形。</li><li>图标库：提供规模较大的描边型 SVG 图标集，找不到合适的时候可以直接生成。</li><li>插画集：另有多套风格的插画，供网站、应用与营销内容使用。</li><li>一键换色：图标与插画都能即时改成品牌配色。</li><li>Figma 插件：通过插件在 Figma 内直接调用素材，不必先下载。</li><li>多语言界面：提供英文、中文与越南语等版本。</li></ul>"
+      },
+      {
+        "title": "如何使用 AI插图资源库和生成平台",
+        "html": "<p>按官网的交互，AI插图资源库和生成平台 有生成与取材两条路径：</p><ol><li>先想清楚要的图形是什么，比如某个具体的操作或物件。</li><li>在生成框里用一句英文或中文描述它，让 Pictographic 产出描边 SVG。</li><li>如果不想现做，就去图标库里按关键词搜，从现成资源中挑。</li><li>拿到图标后调线宽、换配色，需要时把多个图标组合起来。</li><li>在 Figma 里工作时，改用官方插件直接把素材放进文档。</li></ol>"
+      },
+      {
+        "title": "AI插图资源库和生成平台 的应用场景",
+        "html": "<p>结合官方对「直接可用矢量」的强调，AI插图资源库和生成平台 常见于这些场合：</p><ul><li>界面设计：为应用与网站补齐风格统一的图标。</li><li>设计系统搭建：按品牌线宽与配色批量准备图标资产。</li><li>营销页面：给落地页配一组插画，统一整站视觉。</li><li>快速原型：在没有设计师参与时先凑齐一版可用图形。</li><li>跨工具协作：团队以 Figma 为主力工具时，用插件省去来回导入导出。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "tool10172",
@@ -27565,23 +27666,23 @@
     "domain": "yiketu.com",
     "detailed_content": [
       {
-        "title": "易可图是什么",
-        "html": "<p>易可图是免费的AI图片编辑和海报设计平台，主要服务于电商领域，提供简单易用的图片编辑和设计功能。提供了大量的海报设计模板，涵盖了主图水印、商品主图、商品活动详情、横版海报、竖版海报和优惠券等多种类型，适用于多种电商节庆场景。用户可以通过简单的拖拽操作，轻松地在易可图中选择并编辑设计素材，自定义添加其他素材图片，一键生成自己想要的图片效果或海报设计。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/10/yiketu-website1.png\" data-fancybox=\"fancybox\" data-caption=\"易可图\"><img decoding=\"async\" class=\"alignnone wp-image-25222\" src=\"https://ai-bot.cn/wp-content/uploads/2024/10/yiketu-website1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"易可图\" width=\"741\" height=\"417\"></a>"
+        "title": "免费的AI图片编辑和海报设计平台 是什么",
+        "html": "<p>免费的AI图片编辑和海报设计平台 是易可图。官网首页把它称作「电商人都在用的设计平台」，产品简介里则说它是「极简易用的免费图片及海报在线设计平台」。从页面结构看，它把设计能力拆成 AI 工具、跨境工具、图片工具三组，再往下是模板与素材库。易可图还提供 APP 与小程序入口，并单独开了创作者中心与开放平台，说明除了自助做图，它也在做素材供给与对外接入。</p>"
       },
       {
-        "title": "易可图的主要功能",
-        "html": "<ul>\n<li><strong>图片编辑</strong>：提供基本的图片编辑功能，如裁剪、调整尺寸、色彩调整、添加文字、打LOGO、消除笔、马赛克、加边框、加表格、打水印、加贴纸等。</li>\n<li><strong>智能抠图</strong>：基于AI技术，一键去除图片背景，快速提取图片主体，适用于电商产品展示。</li>\n<li><strong>多图拼接</strong>：支持多张图片的自由拼接，可以设置间距、边框等属性，或选择系统内置的拼接模板。</li>\n<li><strong>图片压缩</strong>：一键压缩图片，减少文件大小，便于网络传输和存储。</li>\n<li><strong>滤镜应用</strong>：提供多种滤镜风格，一键美化图片。</li>\n<li><strong>智能设计</strong>：自动生成海报设计，用户可以根据需要选择模板并进行个性化编辑。</li>\n<li><strong>AI商品图</strong>：专为电商设计，可以自动为商品图片生成专业的背景，提升商品图的质感。</li>\n<li><strong>AI模特试衣/试鞋</strong>：使用虚拟模特展示服装或鞋子，方便电商用户进行产品展示。</li>\n<li><strong>AI模特换脸</strong>：在模特图片上更换面部图像，用于广告或营销材料的制作。</li>\n<li><strong>AI人台模特</strong>：提供AI人台模特功能，用于展示服装或时尚产品。</li>\n<li><strong>AI相似图</strong>：智能生成与原图风格相似的图片，用于设计灵感的扩展。</li>\n<li><strong>AI扩图</strong>：AI技术放大图片，同时保持细节清晰。</li>\n</ul>"
+        "title": "免费的AI图片编辑和海报设计平台 的主要功能",
+        "html": "<p>免费的AI图片编辑和海报设计平台 的能力按电商设计与通用做图两条线铺开，首页和产品简介写到的功能有：</p><ul><li>AI 商拍与套图：服饰套图可直出棚拍与场景模特图，商品套图能一键生成整套图。</li><li>商品换背景：给商品图替换新的拍摄背景。</li><li>一句话改图：用自然语言描述修改需求，直接对图片动手。</li><li>爆款复刻：一键复刻爆款主图，也能生成带货类短视频。</li><li>详情页模板：提供套图详情页与 A+ 详情页这类成套版式。</li><li>基础图片处理：涵盖在线图片编辑、海报制作、智能抠图、多图拼接与批量裁剪。</li><li>素材库：模板与素材持续更新，页面还设了「做同款」入口方便直接套用。</li></ul>"
       },
       {
-        "title": "如何使用易可图",
-        "html": "<ul>\n<li><strong>访问官网</strong>： 打开浏览器，访问易可图的<a href=\"https://www.yiketu.com/?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">官方网址</a>进入官网。</li>\n<li><strong>注册/登录</strong>： 没有易可图的账号，需要先注册一个账号。如果已有账号，直接登录即可。</li>\n<li><strong>选择功能</strong>： 登录后，可以看到易可图提供的各种功能和工具，如图片编辑、智能抠图、海报设计等。根据需求选择相应的功能。</li>\n<li><strong>上传图片</strong>： 选择功能后，根据提示上传想要编辑的图片。易可图支持多张图片同时上传，也可以直接拖拽或粘贴图片到指定区域。</li>\n<li><strong>编辑图片</strong>： 上传图片后，可以用易可图提供的各种编辑工具进行操作，如裁剪、调整色彩、添加文字、打水印等。</li>\n<li><strong>使用智能工具</strong>： 如果需要使用智能抠图、AI商品图等智能工具，选择相应的功能，按照提示上传图片，系统会自动处理并生成结果。</li>\n<li><strong>选择模板</strong>： 如果要设计海报，可以在模板中心选择一个合适的模板，然后根据自己的需求进行个性化编辑。</li>\n<li><strong>保存和下载</strong>： 编辑完成后，预览设计效果。保存设计下载到设备上。易可图支持多种文件格式的导出。</li>\n<li><strong>素材和模板库</strong>： 在设计过程中，可以用易可图的素材库和模板库，资源会定期更新，提供新鲜有趣的设计元素。</li>\n<li><strong>批量处理</strong>： 如果需要批量处理多张图片，可以使用易可图的批量工具，如批量裁剪、批量添加水印等。</li>\n<li><strong>视频编辑</strong>： 如果需要进行视频编辑，易可图提供了视频剪辑和主图视频生成的功能。</li>\n</ul>"
+        "title": "如何使用 免费的AI图片编辑和海报设计平台",
+        "html": "<p>免费的AI图片编辑和海报设计平台 把起点分成了「套模板」和「从零画」两类，按官网首页可以这样上手：</p><ol><li>打开 yiketu.com 后先选方向：想要成图就去套图详情页，想自己排版就直接创建设计。</li><li>挑一套模板或一张空白画布，进入编辑界面。</li><li>需要换背景或改文案时，用商品换背景、一句话改图这类 AI 入口处理。</li><li>参考「做同款」里的示例，把别人的版式换成自己的商品素材。</li><li>做完的图存进空间，需要投放时再按目标平台的尺寸调整。</li></ol>"
       },
       {
-        "title": "易可图的应用场景",
-        "html": "<ul>\n<li><strong>图片编辑</strong>：用户可以上传图片进行色彩调节、裁切、消除干扰等操作，修改图片文字和尺寸，自定义添加其他素材图片，以生成所需的图片效果。</li>\n<li><strong>智能抠图</strong>：基于人工智能算法，易可图可以一键清除图片背景，适用于不同电商活动素材图，生成白底图或透明图，提升电商商家的图片处理效率。</li>\n<li><strong>多图拼接</strong>：用户可以无缝衔接多张图片，设置间距、边框等属性，或选择系统内置的拼接模板，以更省时省力地完成图片合成。</li>\n<li><strong>创建设计</strong>：易可图提供海量模板，包括产品主图、广告banner、微信公众号封面、手机开屏、京东长图、天猫长图等尺寸，用户可以快速进行海报设计。</li>\n<li><strong>AI图文</strong>：主要有AI商品图、AI智能设计、AI生成素材、AI文案等，利用人工智能技术，可以快速消除图片背景。无需下载，就可以实现在线一键自动智能抠图。用户上传图片之后，便能一键进行素材生成和商品图的合成。</li>\n<li><strong>AI模特</strong>：主要有AI模特试衣、AI模特试鞋、AI模特换脸、AI人台模特等，易可图AI结合跨境电商行业数据，制作出风格更明显、细节更丰富的特色外模面孔和热门场景设定，用户可灵活选择制定模特面孔类型和图片场景。</li>\n</ul>"
+        "title": "免费的AI图片编辑和海报设计平台 的应用场景",
+        "html": "<p>从官方强调的电商属性看，免费的AI图片编辑和海报设计平台 主要服务这些场合：</p><ul><li>商品上架：为主图、详情页准备成体系的图片素材。</li><li>店铺视觉更新：换背景、换版式，快速刷新店铺形象。</li><li>跨境卖家：页面单列了跨境工具这一组，适配出海场景的图片需求。</li><li>社媒物料：做活动海报、种草配图这类需要频繁出图的活儿。</li><li>小团队自助设计：没有专职设计师时，运营自己就能完成常规做图。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "tool33149",
@@ -28459,8 +28560,25 @@
     "subcategory": "ai-design-graphic",
     "logo": "/logos/tool168.png",
     "domain": "colors.eva.design",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "基于深度学习的色彩生成工具 是什么",
+        "html": "<p>基于深度学习的色彩生成工具 是 Eva Design System 提供的一个在线配色页面，标题写得很直接：Deep learning color generator。它的用法只有一个起点——输入品牌主色。页面下方会提示「Start by entering your Primary Color to generate the rest of the Semantic colors」，也就是由这一支主色推导出整套语义色。页面上还挂着 Nebular 与 UI Kitten 两个设计系统的入口，说明这套配色是和 Eva 的设计体系配套发布的。</p>"
+      },
+      {
+        "title": "基于深度学习的色彩生成工具 的主要功能",
+        "html": "<p>基于深度学习的色彩生成工具 的产出结构比较规整，页面上一眼能看到的内容有：</p><ul><li>主色阶：输入品牌色后生成 Primary 序列，从 100 逐级排到 900。</li><li>语义色阶：分别给出 Success、Info、Warning、Danger 四组语义色，同样各带 100 到 900 的层级。</li><li>数值标注：每一档色块都标出对应的十六进制色值，方便直接抄进设计稿。</li><li>导出：页面右上角提供 Export 入口，用于把生成结果带出去。</li><li>设计系统衔接：与 Eva Design System 下的 Nebular、UI Kitten 组件库配套，配色可直接落到这两个体系里。</li></ul>"
+      },
+      {
+        "title": "如何使用 基于深度学习的色彩生成工具",
+        "html": "<p>基于深度学习的色彩生成工具 的操作非常集中，页面把流程压在了两个区块里：</p><ol><li>先确定品牌主色：找到 1 Brand Color 区域，填入或选定你的 Primary 颜色。</li><li>查看主色阶：确认 Primary 从 100 到 900 的九档过渡是否自然。</li><li>检查语义色：在 2 Semantic Colors 里分别核对 Success、Info、Warning、Danger 四组色阶。</li><li>记下色值：把需要的十六进制数值抄进设计稿或代码变量。</li><li>需要带走整套颜色时，用页面上的 Export 导出。</li></ol>"
+      },
+      {
+        "title": "基于深度学习的色彩生成工具 的应用场景",
+        "html": "<p>从页面提供的色阶结构看，基于深度学习的色彩生成工具 适合这几类配色工作：</p><ul><li>品牌色延展：只有一个主色时，快速补出一套可用于界面深浅层次的色阶。</li><li>组件库配色：为按钮、提示、告警等状态色准备统一的一组语义色。</li><li>设计系统落地：在 Nebular 或 UI Kitten 体系里建主题时，用它确定色板基础。</li><li>前端变量：把导出的色值直接写进样式变量，减少手工调色带来的偏差。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "tool165",
@@ -29718,23 +29836,23 @@
     "domain": "texttospeech.im",
     "detailed_content": [
       {
-        "title": "TextToSpeech是什么",
-        "html": "<p>TextToSpeech是完全免费的<a href=\"https://ai-bot.cn/ai-text-to-speech-tools/\" target=\"_blank\" rel=\"noopener\">AI文字转语音工具</a>，支持50多个国家的语言和8000多种音色。用户可以轻松输入文本，选择语言和语音风格，调整语速和音量，然后生成听起来自然的高质量语音。TextToSpeech无需登录，支持跨设备使用，包括PC端和手机端浏览器。生成的语音可以用于社交平台等任何地方，且目前完全免费，没有使用次数限制。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/08/TextToSpeech-website02.png\" data-fancybox=\"fancybox\" data-caption=\"TextToSpeech\"><img decoding=\"async\" class=\"alignnone size-full wp-image-14852\" src=\"https://ai-bot.cn/wp-content/uploads/2024/08/TextToSpeech-website02.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"TextToSpeech\" width=\"800\" height=\"450\"></a>"
+        "title": "完全免费的AI文字转语音工具 是什么",
+        "html": "<p>完全免费的AI文字转语音工具 是 texttospeech.im 提供的在线朗读服务，页面标题直接写着「在线免费文本转语音」。它不需要安装软件，打开网页就能把一段文字转成音频：页面给出一块文本输入区，下方是语言与发音人选择列表，选好之后即可生成并下载。官方把「生成逼真音频」和「轻松生成和下载高质量音频」作为主要卖点，中文界面下也有完整的操作提示。</p>"
       },
       {
-        "title": "TextToSpeech的主要功能",
-        "html": "<div data-page-id=\"NxC4dL58PoYnloxn5tkcVtssnWh\" data-docx-has-block-data=\"false\">\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-LHqxdUOj0oK9VOxI5GacILxInG6\" data-list=\"bullet\">\n<div><strong>文本转语音</strong>：将用户输入的文本转换为自然流畅的语音输出。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-G1bcdr1WwoXmrPxZl2ycifttnye\" data-list=\"bullet\">\n<div><strong>多语言支持</strong>：提供50多个国家的语言选项，满足不同地区用户的需求。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-A7zHdP32ZoIQjbxNfPNcDjonnyh\" data-list=\"bullet\">\n<div><strong>音色选择</strong>：拥有8000多种不同的音色，用户可以根据个人喜好或特定场景选择。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-TZ2cdcCnBoQLWSxLJ7GcRKCBnq8\" data-list=\"bullet\">\n<div><strong>自定义设置</strong>：允许用户根据需要调整语速、音量等语音参数。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-XUm0d5WYboDIIGxBKTvcssXLnbf\" data-list=\"bullet\">\n<div><strong>在线试听</strong>：生成语音后，用户可以在线试听效果，确保满意后再下载。</div>\n</li>\n</ul>\n</div>"
+        "title": "完全免费的AI文字转语音工具 的主要功能",
+        "html": "<p>完全免费的AI文字转语音工具 把常见的朗读需求拆成了几个入口，页面上能直接看到的能力包括：</p><ul><li>文本转语音：在输入框粘贴文字，选择语言与音色后生成音频。</li><li>多语种音色：发音人按美式、英式、澳式等分组罗列，覆盖不同地区口音。</li><li>情绪版本：部分发音人另外提供 v2 多情绪版本，适合需要语气变化的内容。</li><li>长文本支持：不同发音人的单次字数上限不一样，从两千字到四万字都有标注。</li><li>试听示例：每位发音人右侧都配了示例按钮，可以先听再决定用哪一个。</li><li>音频下载：生成完成后可以直接把音频文件保存到本地。</li></ul>"
       },
       {
-        "title": "如何使用TextToSpeech",
-        "html": "<div data-page-id=\"NxC4dL58PoYnloxn5tkcVtssnWh\" data-docx-has-block-data=\"false\">\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-ELLfdRZVYohDERxebE4ctblXnFd\" data-list=\"bullet\">\n<div><strong>访问网站</strong>：打开浏览器并访问TextToSpeech的官方网站（<a href=\"https://texttospeech.im/zh-CN?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">texttospeech.im</a>）。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-RQMhdm3KsoR0UVx9xMeciG9FnBf\" data-list=\"bullet\">\n<div><strong>输入文本</strong>：在提供的文本框中输入您想要转换成语音的文字。注意，避免使用emoji表情，因为会被转换为相应的文本。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-TBQhdIgOtoxPkrxSFTzc9258nje\" data-list=\"bullet\">\n<div><strong>选择语言和音色</strong>：从下拉菜单中选择您需要的语言和音色。TextToSpeech提供了多种语言和音色供您选择。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-RsrNdYHVqo30Vrxf6UFcv1cTn4b\" data-list=\"bullet\">\n<div><strong>调整设置</strong>：根据需要调整语音的语速、音量等设置，以获得最佳的听感效果。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-L3lid9FhTopLHQxsWHbcLeL3nKd\" data-list=\"bullet\">\n<div><strong>生成语音</strong>：点击“生成”或类似的按钮来启动文本到语音的转换过程。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-K62kdTArGovzUdxu5MLcRtSxnWe\" data-list=\"bullet\">\n<div><strong>在线试听</strong>：生成完成后，您可以使用在线播放器试听生成的语音，确保符合您的期望。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-S5S3dUrK6oosYnxg6L6c0wnInab\" data-list=\"bullet\">\n<div><strong>下载语音</strong>：如果满意，您可以下载生成的语音文件到您的设备上，以便进一步使用。</div>\n</li>\n</ul>\n</div>"
+        "title": "如何使用 完全免费的AI文字转语音工具",
+        "html": "<p>完全免费的AI文字转语音工具 的上手路径很短，页面本身就把步骤摆在了明面上：</p><ol><li>打开网站，在首页找到文本输入区。</li><li>把要朗读的文字粘贴进去，注意顶部会显示最大字符数与剩余可用字数。</li><li>在语言下拉框里挑语种，再从声音列表里选一个发音人。</li><li>点开发音人右侧的「示例」先试听，确认音色合适再继续。</li><li>生成音频，满意后点击下载保存。</li></ol>"
       },
       {
-        "title": "TextToSpeech的应用场景",
-        "html": "<div data-page-id=\"NxC4dL58PoYnloxn5tkcVtssnWh\" data-docx-has-block-data=\"false\">\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-T45JdUXKsoraWRxtpY6ciaQlngh\" data-list=\"bullet\">\n<div><strong>自媒体内容制作</strong>：为视频、播客或社交媒体帖子创建旁白或解说词。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-REKYdRFZCoOm1SxNKKycNodCntd\" data-list=\"bullet\">\n<div><strong>有声书和电子书</strong>：将电子书或文档转换为有声书，方便视力障碍者或喜欢听书的人群。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-WtRNddUCHowqr2xKf5KcBCVWnKd\" data-list=\"bullet\">\n<div><strong>教育和学习</strong>：帮助学生学习语言或朗读教材，提高学习效率。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-StkAdl6Jzodf1VxLq1Gcx8gZnne\" data-list=\"bullet\">\n<div><strong>企业宣传</strong>：制作产品介绍、广告宣传或公司新闻的语音版本。</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-VDPDdkKFaojC0mxtTIIcAlr3nlh\" data-list=\"bullet\">\n<div><strong>辅助技术</strong>：为视力受限或阅读困难的人士提供文本信息的语音输出。</div>\n</li>\n</ul>\n</div>"
+        "title": "完全免费的AI文字转语音工具 的应用场景",
+        "html": "<p>从官方列出的音色与字数档位看，完全免费的AI文字转语音工具 常见的使用方向有这些：</p><ul><li>短视频配音：为口播或解说快速生成一版试听音轨。</li><li>课件与讲稿朗读：把讲稿转成音频，通勤时也能过一遍内容。</li><li>有声内容试听：在正式录制前，先用它判断文本读起来是否顺口。</li><li>多口音测试：同一段内容换不同地区发音人，比较哪种更贴合受众。</li><li>播客与有声书试听：正式录制前先让它朗读片段，判断文本是否上口。</li><li>无障碍朗读：为不便阅读长文的人提供语音版本。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "tool14885",
@@ -31028,8 +31146,25 @@
     "subcategory": "ai-audio-music",
     "logo": "/logos/tool81.png",
     "domain": "boomy.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI快速生成原创音乐的平台 是什么",
+        "html": "<p>AI快速生成原创音乐的平台 指的是 Boomy，官网顶部那句口号是「Unleash your creativity / Make music with Boomy AI」。它的目标人群定得很清楚：即使你从来没有做过音乐，也能用它做出原创歌曲。Boomy 把这件事和权利用途绑在一起——官网写明可以把自己的歌分享出去，并且带完整商用权；同时它也在经营一个作者社区，鼓励大家用生成式音乐表达自己。</p>"
+      },
+      {
+        "title": "AI快速生成原创音乐的平台 的主要功能",
+        "html": "<p>AI快速生成原创音乐的平台 的功能围绕「生成、发布、变现」三件事铺开，官网写到的要点如下：</p><ul><li>歌曲生成：在 Create 入口创建原创歌曲，不需要乐理基础。</li><li>完整商用权：官网强调作品可带 full commercial rights 使用。</li><li>发布与分享：把做好的歌发布出去，并分享给其他人听。</li><li>社区：加入一个由生成式音乐创作者组成的全球社区。</li><li>免费档位：提供免费方案，页面上会显示每月可用的功能、下载数与发布数余量。</li><li>订阅选项：另有付费方案可解锁更多额度，具体档位以官网为准。</li></ul>"
+      },
+      {
+        "title": "如何使用 AI快速生成原创音乐的平台",
+        "html": "<p>AI快速生成原创音乐的平台 的上手顺序基本就是官网导航给出的那几项：</p><ol><li>打开 boomy.com，先看右上角的额度信息，了解免费方案还剩多少下载与发布次数。</li><li>进入 Create 页面，点「Create your song」开始创作。</li><li>按自己的偏好确定歌曲风格，交给 Boomy 生成一版音乐。</li><li>试听结果，不满意就重新生成或调整方向。</li><li>把满意的作品在 Releases 里发布出去，需要时再下载音频。</li></ol>"
+      },
+      {
+        "title": "AI快速生成原创音乐的平台 的应用场景",
+        "html": "<p>结合官网对商用权与社区的强调，AI快速生成原创音乐的平台 常见的用法包括：</p><ul><li>短视频与动画配乐：像官网提到的那样，为动画短片或社媒内容配一段原创音乐。</li><li>零基础试水：把「做音乐」的门槛降到动动手指就能开始。</li><li>灵感热身：用生成的片段给创作找感觉，再展开自己的编曲。</li><li>个人发布：把自己的作品放到平台上，接受社区的反馈。</li><li>商用素材：需要一段可商用背景音乐时，用完整商用权省去授权确认。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "tool250",
@@ -31430,8 +31565,25 @@
     "subcategory": "ai-search-academic",
     "logo": "/logos/tool58169.png",
     "domain": "bohrium.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "新一代科研知识库与AI学术搜索平台 是什么",
+        "html": "<p>新一代科研知识库与AI学术搜索平台 指的是 Bohrium，官网首页的英文主张是「Evidence-backed AI for Scientific Research」，也就是做有证据支撑的科研 AI。它把聊天、检索与阅读放在同一个界面里：左侧导航能看到 New Chat、Discover、Knowledge Base、Academic Writing、Agents、Chat with Paper 等入口。页面标题同样写着「Explore further. Understand more」，整体定位偏向帮研究者把查文献、读论文、写综述这几件事串起来。</p>"
+      },
+      {
+        "title": "新一代科研知识库与AI学术搜索平台 的主要功能",
+        "html": "<p>新一代科研知识库与AI学术搜索平台 的界面把科研流程切成了若干模块，首页列出的功能点包括：</p><ul><li>学术对话：在 New Chat 里发起提问，回答带来源标注（Source）。</li><li>文献发现：Discover 与 Feeds 用来浏览和筛选最新的研究动态。</li><li>知识库：Knowledge Base 用来沉淀自己的文献与资料。</li><li>学术写作：Literature Review Writer 支持更快地写文献综述，并强调内容有真实论文支撑。</li><li>论文伴读：Chat with Paper 面向单篇论文的问答。</li><li>智能体：Agents 区域里有面向科研的智能体，其中 BioMaster 专注生物研究与可复现工作流。</li><li>语种切换：右上角提供 English（EN）等语言入口。</li></ul>"
+      },
+      {
+        "title": "如何使用 新一代科研知识库与AI学术搜索平台",
+        "html": "<p>按官网导航的排布，新一代科研知识库与AI学术搜索平台 的常规用法可以这样组织：</p><ol><li>先从首页的快捷动作入手，页面给了「Write a literature review」「Read a paper」「Conduct in-depth research」三个常见起点。</li><li>需要泛读时进 Discover，用 Feeds 与筛选把感兴趣的研究方向缩小。</li><li>遇到想细读的论文，交给 Chat with Paper 逐篇提问。</li><li>把常用的文献与资料归到 Knowledge Base，形成自己的资料库。</li><li>写综述时切到 Literature Review Writer，让产出对齐真实文献。</li><li>生物方向的课题可以去 Agents 里试 BioMaster。</li></ol>"
+      },
+      {
+        "title": "新一代科研知识库与AI学术搜索平台 的应用场景",
+        "html": "<p>结合官方对「有证据支撑」的强调，新一代科研知识库与AI学术搜索平台 适合下面这些场景：</p><ul><li>选题调研：先摸清某个方向的近期进展，再决定切口。</li><li>综述撰写：用带来源引用的写作助手加快文献综述的初稿。</li><li>论文精读：围绕单篇论文连续追问，把方法细节问清楚。</li><li>资料管理：把散落的文献集中到知识库，减少重复查找。</li><li>交叉方向探索：生物等垂直领域可以直接调用对应的科研智能体。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "dexa-ai",
@@ -31736,23 +31888,23 @@
     "domain": "bochaai.com",
     "detailed_content": [
       {
-        "title": "博查AI搜索是什么",
-        "html": "<p>博查AI搜索是国内首个支持多模型的<a href=\"https://ai-bot.cn/top-ai-search-engines/\" target=\"_blank\" rel=\"noopener\">AI搜索引擎</a>，基于通义千问、字节云雀、月之暗面Kimi等顶尖AI大模型，提供全新的搜索体验。与传统搜索引擎不同，博查AI搜索引擎直接提供问题的答案而非链接，通过可信的参考来源，由大模型推理、总结出容易阅读的结论。它支持多模型切换，实时信息获取，并优化了搜索速度，减少了等待时间。此外，博查还处于内测阶段的AI智能体深度回答功能，旨在提供更加丰富和深入的答案。目前，博查已于4月20日开启公测，所有VIP模型免费使用。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/04/bocha-ai-search.png\" data-fancybox=\"fancybox\" data-caption=\"博查AI搜索\"><img decoding=\"async\" class=\"alignnone size-full wp-image-11403 rounded-lg border\" src=\"https://ai-bot.cn/wp-content/uploads/2024/04/bocha-ai-search.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"博查AI搜索\" width=\"700\"></a>"
+        "title": "支持多模型的AI搜索引擎 是什么",
+        "html": "<p>支持多模型的AI搜索引擎 说的是博查 AI 搜索。官网首页的口号是「多模态 AI 搜索，答案丰富多彩」，顶部导航分成 AI 搜索、AI 智能体、AI 开放平台与 API 开发文档四块，说明它同时面向普通用户和开发者。它的一条明显特征是模型可选：页面上直接列出 DeepSeek、豆包、通义等模型供切换。除了通用搜索，博查还把一批垂直搜索做成了智能体，覆盖出行、文档与学术等具体需求。</p>"
       },
       {
-        "title": "博查AI搜索的主要功能",
-        "html": "<ul class=\"text-md\">\n<li><strong>多模型AI搜索能力</strong>：博查通过整合多个AI大模型（如<a href=\"https://ai-bot.cn/sites/5355.html\" target=\"_blank\" rel=\"noopener\">Kimi</a>、字节云雀、通义千问等），不仅丰富了搜索结果的多样性，也提高了答案的质量和准确性。用户可以根据自己的需求选择不同的模型进行搜索，如果对某个模型的搜索结果不满意，还可以轻松切换到其他模型，以获得更满意的答案。</li>\n<li><strong>实时信息与可靠参考源</strong>：博查结合了实时搜索技术，能够引入最新的信息，有效解决了传统AI模型知识库更新滞后的问题。此外，每个搜索结果都配有明确的参考来源，确保了信息的可靠性和透明性，帮助用户避免信息误导。</li>\n<li><strong>快速响应机制</strong>：博查对搜索技术架构进行了优化，特别是在处理Function Call（插件调用）时，大幅提升了搜索速度。这使得用户在进行搜索时，不再需要忍受长时间的等待，能够迅速获得所需的信息。</li>\n<li><strong>AI智能体深度回答</strong>（内测中）：博查正在开发一项新功能，即AI智能体深度回答，旨在通过更高级的人工智能技术，为用户提供更丰富、更深入的搜索结果。</li>\n<li><strong>无广告干扰的搜索体验</strong>：博查承诺提供一个无广告、无追踪的搜索环境，让用户能够专注于获取信息，而不是被广告和营销内容所干扰。</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/04/bocha-ai-search-engine.png\" data-fancybox=\"fancybox\" data-caption=\"博查AI搜索\"><img decoding=\"async\" class=\"alignnone size-full wp-image-11404 rounded-lg border\" src=\"https://ai-bot.cn/wp-content/uploads/2024/04/bocha-ai-search-engine.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"博查AI搜索\" width=\"700\"></a>"
+        "title": "支持多模型的AI搜索引擎 的主要功能",
+        "html": "<p>支持多模型的AI搜索引擎 把通用搜索与垂直智能体并排放，首页写到的能力有：</p><ul><li>多模型切换：可在 DeepSeek、豆包、通义等模型之间选择，也能进入全部智能体列表。</li><li>多模态搜索：支持以多种信息形态发起检索，返回内容较丰富。</li><li>餐厅搜索：借自然语言查餐厅，官方示例是「杭州龙湖西溪天街附近的拉面馆」。</li><li>酒店与景点搜索：同样用一句话描述位置与偏好。</li><li>机票搜索：输入行程起点终点与日期即可查询。</li><li>文档与学术搜索：可检索腾讯文库的办公文档，也能在学术文档库里找论文。</li><li>开放能力：提供 AI 开放平台与搜索 API，配 API 开发文档供接入。</li></ul>"
       },
       {
-        "title": "博查AI搜索的产品价格",
-        "html": "<p>博查AI搜索引擎提供了不同等级的会员服务，以满足不同用户的需求，公测期间，所有VIP大模型对所有用户免费开放，其产品价格如下：</p>\n<ol class=\"text-md\">\n<li><strong>普通用户</strong>：永久免费，可以永久免费使用一部分大模型和AI智能体，同时，剩余的模型和功能会不定期向普通用户提供免费体验的机会。</li>\n<li><strong>VIP用户</strong>：定价为19.9元/月，VIP用户可以访问并使用大部分的大模型和AI智能体。此外，VIP用户还能享受高速通道，这意味着在搜索响应上会有更好的速度体验。除了这些固定服务外，VIP用户同样有机会通过不定期的免费体验活动，尝试使用其他模型和功能。</li>\n<li><strong>SVIP用户</strong>：定价为59.9元/月，SVIP用户除了可以享受VIP用户的所有服务外，还有权与最多5个好友共享账户，实现家庭或团队内的资源共享。SVIP用户还能抢先体验博查推出的新型大模型和新功能，并且享有极速通道，这是最高级别的服务，保证了最快速的搜索响应。</li>\n</ol>"
+        "title": "如何使用 支持多模型的AI搜索引擎",
+        "html": "<p>支持多模型的AI搜索引擎 有面向使用者和面向开发者两条路径，官网导航已经把两条都摆出来了：</p><ol><li>普通用户先看顶部的 AI 搜索入口，进入首页的检索框。</li><li>按任务挑模型，在 DeepSeek、豆包、通义这几个选项里选一个。</li><li>想查生活服务类信息时，改从推荐智能体入手，比如餐厅、酒店、景点或机票搜索。</li><li>用自然语言把条件说全，例如带上位置、时间或主题。</li><li>开发者则走 AI 开放平台，用搜索 API 把检索能力接进自己的产品，具体参数参照 API 开发文档。</li></ol>"
       },
       {
-        "title": "博查AI搜索的适用人群",
-        "html": "<ul class=\"text-md\">\n<li><strong>学生和研究人员</strong>：他们需要快速获取准确的学术信息和数据，博查能够提供基于实时信息和可靠参考源的深入答案。</li>\n<li><strong>专业人士</strong>：包括律师、医生、工程师等，他们需要获取特定领域的最新信息和知识，以确保他们的决策和操作是最新的。</li>\n<li><strong>企业决策者</strong>：需要基于实时数据和深入分析来做出快速决策的管理者和企业家。</li>\n<li><strong>技术开发者</strong>：对AI技术和大模型感兴趣的开发者，他们可以利用博查的多模型搜索能力进行技术研究和开发。</li>\n<li><strong>内容创作者</strong>：需要灵感和信息来创作文章、视频或其他类型内容的作者和艺术家。</li>\n<li><strong>普通互联网用户</strong>：希望避免广告干扰，快速找到所需信息的普通用户。</li>\n</ul>"
+        "title": "支持多模型的AI搜索引擎 的应用场景",
+        "html": "<p>从多模型与智能体的组合看，支持多模型的AI搜索引擎 适合这些需求：</p><ul><li>日常信息检索：用一句话问答代替在多个网页之间来回跳。</li><li>出行规划：把餐厅、酒店、景点、机票分开检索，快速拼出行程。</li><li>办公资料查找：需要合同、模板、真题这类文档时，直接检索文档库。</li><li>学术检索：按论文标题或主题在学术库里定位文献。</li><li>产品集成：开发者把搜索 API 嵌入自家应用，补上检索这一环。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "wispaper-ai",
@@ -32321,8 +32473,25 @@
     "subcategory": "ai-search-engine",
     "logo": "/logos/tool11850.png",
     "domain": "komo.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "简洁直观的AI搜索引擎 是什么",
+        "html": "<p>简洁直观的AI搜索引擎 是 Komo。官网首页几乎没有多余的装饰，中间只留一句「What do you want to know?」，下面跟着一排模式标签。搜索结果页脚标注的定位是「Answers with sources」，也就是回答会带出处。左侧还排着 New search、History、Firsthand、Earn、Recent 这几个入口，其中 Firsthand 单独做成一个标签页，主打找真人拿答案。整体给人一种「把搜索框留给问题本身」的感觉。</p>"
+      },
+      {
+        "title": "简洁直观的AI搜索引擎 的主要功能",
+        "html": "<p>简洁直观的AI搜索引擎 的界面把检索拆成了几种模式，首页上能直接看到的选项有：</p><ul><li>Web 模式：面向常规网页信息检索。</li><li>People 模式：从人的角度切入查询。</li><li>Deep research：深度研究模式，页面注明需要付费方案才能使用。</li><li>Komo Fast：快速版检索，用于需要立刻拿到答案的场合。</li><li>Firsthand：官方给它的说明是「找对的人，拿到 AI 答不了的答案」，先定位人再取答案。</li><li>来源标注：搜索结果以「Answers with sources」的方式呈现。</li><li>历史记录：History 与 Recent 用来回看此前的检索。</li></ul>"
+      },
+      {
+        "title": "如何使用 简洁直观的AI搜索引擎",
+        "html": "<p>简洁直观的AI搜索引擎 没有复杂设置，操作就是「选模式、提问、看来源」：</p><ol><li>打开 komo.ai，先看清首页中间那句提问提示。</li><li>按需求在 Web、People、Deep research、Komo Fast 中选一个模式。</li><li>把问题直接写进搜索框，例如官网示例里的「Postgres 与 SQLite 该怎么选」这类具体问题。</li><li>阅读回答时留意引用的来源，需要深挖就点进去看原文。</li><li>想找真人经验时切到 Firsthand，按它的思路先找人再要答案。</li><li>之前的检索可以在 History 或 Recent 里翻回来。</li></ol>"
+      },
+      {
+        "title": "简洁直观的AI搜索引擎 的应用场景",
+        "html": "<p>从模式与界面取向看，简洁直观的AI搜索引擎 适合这些使用时机：</p><ul><li>快速求证：遇到需要即时判断的问题时，用 Fast 模式先拿结论。</li><li>话题追踪：像官网示例那样，查某个领域近期发生了什么。</li><li>技术选型：对方案做横向比较，靠来源确认依据。</li><li>真人经验：需要别人的实际经历而不是模型总结时，走 Firsthand。</li><li>深度研究：愿意付费换取更完整的调研时，用 Deep research。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "tool11853",
@@ -34998,8 +35167,25 @@
     "subcategory": "ai-platform-deploy",
     "logo": "/logos/tool1430.png",
     "domain": "docs.langchain.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "开发由语言模型驱动的应用程序的框架 是什么",
+        "html": "<p>开发由语言模型驱动的应用程序的框架 指的是 LangChain。官方文档首页把它所在的整体称作「the open agent engineering ecosystem」，其中 LangChain 这一层提供开源、与模型无关的脚手架，用来搭建智能体；配套的 LangSmith 则是框架无关的平台，负责测试、部署、监控与持续改进这些智能体。官方特别强调一点：智能体系统的每一层都由开发者掌控，同时可以拿生产环境里学到的经验反哺迭代。</p>"
+      },
+      {
+        "title": "开发由语言模型驱动的应用程序的框架 的主要功能",
+        "html": "<p>官方文档按智能体的开发生命周期来组织能力，开发由语言模型驱动的应用程序的框架 覆盖的环节有：</p><ul><li>构建：用 LangChain、LangGraph 与 Deep Agents 以写代码的方式搭建智能体。</li><li>测试：借助数据集、评估方法与提示词工程来验证智能体表现。</li><li>部署：把智能体按规模部署出去并提供服务。</li><li>监控：在生产环境里跟踪、调试与观察智能体运行情况。</li><li>网关：LLM Gateway 用于在多个模型供应商之间做流量路由、控制与观测。</li><li>无代码路径：LangSmith Fleet 支持不写代码就搭建并运行智能体。</li><li>自动排障：LangSmith Engine 用于自动发现并修复反复出现的智能体问题。</li><li>终端形态：开源的 dcode 命令行工具，让开发者在终端里与编码智能体协作。</li><li>部署选项：支持云端、BYOC 与自托管等多种托管方式。</li></ul>"
+      },
+      {
+        "title": "如何使用 开发由语言模型驱动的应用程序的框架",
+        "html": "<p>官方文档把入口按生命周期摆开，开发由语言模型驱动的应用程序的框架 的推进方式大致是：</p><ol><li>从 Build 起步，选定 LangChain、LangGraph 或 Deep Agents 之一开始写第一个智能体。</li><li>按文档指引完成初始搭建，先让流程能跑通。</li><li>进入 Test 环节，准备评估数据集与评判标准。</li><li>用 Deploy 把智能体部署成可调用的服务。</li><li>接上 Monitor，观察线上表现并记录问题。</li><li>需要团队协作时，再考虑网关与托管方式，把治理纳入进来。</li></ol>"
+      },
+      {
+        "title": "开发由语言模型驱动的应用程序的框架 的应用场景",
+        "html": "<p>从官方对生命周期与治理的强调看，开发由语言模型驱动的应用程序的框架 适合这些场景：</p><ul><li>智能体应用开发：需要把模型能力组织成可执行的流程时，用它搭骨架。</li><li>效果评估：为智能体建立可重复的评测流程，而不是凭感觉判断。</li><li>多模型接入：通过网关在不同供应商之间切换与观察流量。</li><li>线上运维：把跟踪与调试能力接进生产，方便定位问题。</li><li>非工程角色：产品等岗位可以走无代码路径先把智能体跑起来。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "tool1848",
@@ -36449,8 +36635,25 @@
     "subcategory": "ai-models-video",
     "logo": "/logos/tool6279.png",
     "domain": "miraclevision.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "美图AI开放平台 是什么",
+        "html": "<p>美图AI开放平台 是美图对外提供视觉模型能力的那一层，页面上展示的模型品牌叫「美图奇想大模型」（MiracleVision V6），主张是「专业视觉决策，极致视觉表达」。页面开头有一段浏览器提示，说明完整体验需要在电脑端打开。它的定位是影像领域的垂直专家：官方称模型在图像、视频、设计各个场景都要求达到一线品质，并且强调与美图已有产品生态深度打通，让新功能能较快落地到具体应用里。</p>"
+      },
+      {
+        "title": "美图AI开放平台 的主要功能",
+        "html": "<p>美图AI开放平台 把能力按人像与创意两块展开，官网上能直接看到的功能有：</p><ul><li>发型编辑：自由切换发型与发色，用来探索不同造型。</li><li>服饰穿搭：预览服饰上身效果，尝试不同风格搭配。</li><li>人像美容：针对人物细节做优化，官方强调还原自然质感。</li><li>人像写真：生成专业级写真效果。</li><li>人像氛围：模拟专业布光，增强画面的层次与氛围。</li><li>创意编辑：在传统修图之外提供更多视觉创意玩法。</li><li>基础玩法：页面另列出图像修复、图像打光、图像玩法等能力入口。</li></ul>"
+      },
+      {
+        "title": "如何使用 美图AI开放平台",
+        "html": "<p>美图AI开放平台 的使用门槛不高，页面把入口做成了「上传图片 + 选功能」的形式：</p><ol><li>用电脑浏览器打开官网，避开页面提示的移动端体验限制。</li><li>在页面顶部找到上传图片入口，先放入一张待处理的照片。</li><li>自上而下浏览能力清单，从发型编辑、服饰穿搭、人像美容等项目里挑一个。</li><li>点对应的「立即体验」，查看生成效果。</li><li>需要接入自家产品时，走页面上的「模型接入」入口了解开放方式。</li></ol>"
+      },
+      {
+        "title": "美图AI开放平台 的应用场景",
+        "html": "<p>从模型侧重与关联产品看，美图AI开放平台 常见的落地方向包括：</p><ul><li>影像类应用开发：需要人像美化、发型或穿搭试穿能力的产品，可以走模型接入。</li><li>内容创作：运营与创作者用写真、氛围类功能产出配图素材。</li><li>电商与营销：围绕人像的商品展示、试穿效果预览。</li><li>生态内产品：官方页面把美图秀秀、美颜相机、美图云修、Picchi、美图宜肤列为落地产品，说明能力会持续回灌到这些应用里。</li><li>影像技术研究：需要了解美图在 MoE 架构与审美对齐上的做法时，可参考官方页面说明。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "tool2147",
@@ -36780,8 +36983,25 @@
     "subcategory": "ai-models-image",
     "logo": "/logos/tool55.png",
     "domain": "imagen.research.google",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Google AI文字到图像生成模型 是什么",
+        "html": "<p>Google AI文字到图像生成模型 说的是 Google Research 团队公开的 Imagen。官方把它定义为一种文本到图像扩散模型，重点落在两件事上：画面的写实程度，以及对语言的理解深度。它的技术路线是把擅长读文本的大型 transformer 语言模型（官方点名 T5）与擅长产出高保真图像的扩散模型拼在一起，先让语言模型把描述编码成条件，再交给扩散模型出图。官方页面提到的一个关键结论是：把语言模型这一侧做大，对样本保真度与图文对齐的提升，比单纯放大图像扩散模型更明显。</p>"
+      },
+      {
+        "title": "Google AI文字到图像生成模型 的主要功能",
+        "html": "<p>Google AI文字到图像生成模型 的能力集中在「用一段文字描述生成一张图」这一件事上，官方页面归纳的要点有：</p><ul><li>文本理解：借助在纯文本语料上预训练的大语言模型编码提示词，让它听得懂较长、较具体的描述。</li><li>写实生成：以扩散模型输出细节丰富的画面，官方拿「巧克力粉、芒果与鲜奶油拼成的白头海雕」这类示例展示写实度。</li><li>基准评测：配套发布了 DrawBench，用来横向比较不同文本到图像方案的样本质量与图文一致性。</li><li>家族延伸：同系列还有面向视频的 Imagen Video，以及支持图像编辑的 Imagen Editor。</li></ul>"
+      },
+      {
+        "title": "如何使用 Google AI文字到图像生成模型",
+        "html": "<p>Google AI文字到图像生成模型 的用法以提示词为中心，官方页面用一连串示例说明了这一点，例如「骑着火箭飞向月球的脑袋」「戴空手道腰带、站在雪地里的火龙果」「撒哈拉沙漠里戴草帽与霓虹墨镜的仙人掌」。照着这些示例可以整理出下面几步：</p><ol><li>先定主体：想清楚画面里最重要的那个对象是什么。</li><li>再补材质与细节：像官方示例那样加上材质、颜色或随身物件，比如「巧克力粉」「草帽」。</li><li>交代场景：把地点、天气或环境写进描述，比如「雪地里」「撒哈拉沙漠」。</li><li>照示例改措辞：先借用页面上的示例句式，再逐步替换成自己的内容。</li></ol>"
+      },
+      {
+        "title": "Google AI文字到图像生成模型 的应用场景",
+        "html": "<p>结合官方示例与模型定位，Google AI文字到图像生成模型 比较适合下面这类用途：</p><ul><li>概念可视化：在立项或汇报前，用文字快速得到风格化的画面参照。</li><li>素材打样：为海报、插画或分镜准备初始视觉方案，再交给设计同学细化。</li><li>写实场景模拟：需要高写实度画面时，用更长、更具体的描述去逼近目标。</li><li>模型对比研究：借助 DrawBench 这类基准，观察不同文本到图像方案的表现差异。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "tool2113",
@@ -37699,8 +37919,25 @@
     "subcategory": "ai-detection-plagiarism",
     "logo": "/logos/tool67598.png",
     "domain": "mmc.cc",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "茅茅虫AI论文写作助手 是什么",
+        "html": "<p>茅茅虫AI论文写作助手 是 mmc.cc 上的一套论文工具，导航栏从首页一路排到论文写作、论文开题、查重与 AIGC、降重与 AIGC、AI 审稿，最后是格式精修与我的订单。也就是说，它把一个学生从开题到定稿要碰的环节尽量收在同一个账号下。降重与降 AIGC 这一侧又按中英文分成两栏，配合查重入口使用。页面还专门写了一段保密说明，承诺不收录、不泄露用户提交的内容，并支持随时删除。</p>"
+      },
+      {
+        "title": "茅茅虫AI论文写作助手 的主要功能",
+        "html": "<p>茅茅虫AI论文写作助手 的能力按写作阶段排开，官网导航与页面内容列出的功能有：</p><ul><li>论文写作与开题：覆盖正文撰写与开题材料这两类前置任务。</li><li>智能降重：针对重复率偏高的内容做改写。</li><li>降 AIGC：分中文与英文两栏，分别处理不同语种的 AI 痕迹。</li><li>查重与 AIGC 检测：提供自查入口，检测报告可在页面内上传。</li><li>AI 审稿：对稿件做一轮自动审阅。</li><li>格式精修：统一处理论文排版格式。</li><li>多格式支持：上传区写明可接收 .docx、.doc、.txt、.zip、.pdf、.html 等格式，单个文件不超过 50MB。</li><li>报告来源：AIGC 检测报告一栏标注了知网、万方、维普、格子等来源。</li></ul>"
+      },
+      {
+        "title": "如何使用 茅茅虫AI论文写作助手",
+        "html": "<p>茅茅虫AI论文写作助手 把入口分成了上传文档与粘贴文本两种，按页面提示可以这样操作：</p><ol><li>登录后从左侧导航进入需要的那一站，比如降重与 AIGC 大栏目。</li><li>在上传区投入论文原稿，或直接把文字粘进粘贴框；文档需符合页面上标注的格式与体积要求。</li><li>如果有 AIGC 检测报告，一并上传，便于平台对齐检测口径。</li><li>提交后等处理完成，回来看结果并核对指标。</li><li>定稿阶段再走一次格式精修，把排版问题一次处理干净。</li></ol>"
+      },
+      {
+        "title": "茅茅虫AI论文写作助手 的应用场景",
+        "html": "<p>按官方导航覆盖的环节看，茅茅虫AI论文写作助手 常见的使用时机有这么几处：</p><ul><li>开题阶段：先准备开题报告与任务书这类材料。</li><li>初稿之后：正文写完先做一轮查重与 AIGC 检测。</li><li>降重降痕：按中英文分别处理重复率或 AI 痕迹。</li><li>送审之前：用 AI 审稿功能做一次问题排查。</li><li>提交在即：集中做格式精修，避免因排版细节返工。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "tool68164",
@@ -37720,8 +37957,25 @@
     "subcategory": "ai-detection-plagiarism",
     "logo": "/logos/tool68164.png",
     "domain": "paperfake.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "PaperFake AI写作指导平台 是什么",
+        "html": "<p>PaperFake AI写作指导平台 面向的是论文写作里的重复率与 AI 率问题。官网首页把功能拆成几个并列入口：一键论文生成、降重复率、降 AIGC 率（中文）、降 AIGC 率（英文）、查重与 AIGC 检测，以及格式精修。它明确标注了适配的检测口径，中文降 AIGC 一栏写着适配知网、维普与格子达 5.4 最新版。平台同时提供 AI 与人工两种降痕方式，交付时间与是否附报告各不相同，用户可按自己的进度选择。</p>"
+      },
+      {
+        "title": "PaperFake AI写作指导平台 的主要功能",
+        "html": "<p>PaperFake AI写作指导平台 的功能围绕「先查后降」展开，官网列出的能力有：</p><ul><li>论文生成：从零生成一篇论文初稿。</li><li>降重复率：针对重复率偏高的段落做处理。</li><li>降 AIGC 率：分中文与英文两条线，中文侧适配知网、维普与格子达的新版检测。</li><li>查重与 AIGC 检测：在提交前先自行核对两类指标。</li><li>格式精修：处理排版格式，官方强调降痕过程支持保持文件原有排版。</li><li>多平台适配：可选知网、维普、万方、格子达、PaperPass、PaperYY 等检测平台。</li><li>两种交付：AI 降痕交付快，人工降痕交付慢但附检测报告。</li><li>知识专栏：页面另设专栏，用来解答上传报告等常见问题。</li></ul>"
+      },
+      {
+        "title": "如何使用 PaperFake AI写作指导平台",
+        "html": "<p>PaperFake AI写作指导平台 的流程在页面上写得很清楚，按顺序操作即可：</p><ol><li>先在「选择需要适配的检测平台」里挑定目标口径。</li><li>用上传文档或粘贴文本两种方式提交内容，文档支持 docx 与 txt，大小不超过 50M，且限中文。</li><li>选择降痕方式：AI 降痕交付较快、不含检测报告；普通人工降痕与加急人工降痕交付时间更长，但附检测报告。</li><li>点一键降痕，等平台处理并回传结果。</li><li>拿到结果后再自行核对检测指标，必要时重复处理。</li></ol>"
+      },
+      {
+        "title": "PaperFake AI写作指导平台 的应用场景",
+        "html": "<p>从官方列出的适配平台与交付方式看，PaperFake AI写作指导平台 主要用在这些环节：</p><ul><li>毕业季赶稿：初稿完成后先做一轮降重与降 AIGC。</li><li>投稿前自检：投期刊之前按目标口径核对两项指标。</li><li>英文材料处理：英文降 AIGC 一栏对应外文写作场景。</li><li>格式整理：内容过关后统一修排版，随稿提交。</li><li>进度紧张时：需要快交付选 AI 降痕，需要报告选人工降痕。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "tool68088",
@@ -38398,8 +38652,25 @@
     "subcategory": "ai-prompt-library",
     "logo": "/logos/tool748.png",
     "domain": "aipromptgenius.app",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI提示词库创建和管理工具 是什么",
+        "html": "<p>AI提示词库创建和管理工具 指的是 AI Prompt Genius（官网域名 aipromptgenius.app）。官方对它的描述是：用浏览器扩展来整理一份属于自己的 AI 提示词库，可以访问、导入并使用经过筛选的提示词，而且能在多台设备之间同步，全部免费。它的形态很轻——装在浏览器里，随时调用，不占独立窗口。页面上还放了教程、社区与功能三个入口，方便新用户先看别人是怎么用的。</p>"
+      },
+      {
+        "title": "AI提示词库创建和管理工具 的主要功能",
+        "html": "<p>从官网给出的说明看，AI提示词库创建和管理工具 的能力集中在「管得住、找得到、带得走」三点上：</p><ul><li>自建提示词库：把常用的提示词收进一个只有自己看得到的库里。</li><li>导入与使用：可以直接导入现成提示词，也可以边聊边调用。</li><li>多端同步：登录后在多台设备之间同步同一份提示词库。</li><li>标签管理：官方提到用标签和文件夹把规模变大的库整理清楚。</li><li>浏览器扩展形态：以扩展方式运行，不需要额外打开一个网页应用。</li><li>免费使用：官网明确写着 all for free。</li></ul>"
+      },
+      {
+        "title": "如何使用 AI提示词库创建和管理工具",
+        "html": "<p>AI提示词库创建和管理工具 的上手路径是「先装扩展，再理词库」：</p><ol><li>打开官网，点「Get the Extension Free」把扩展装进浏览器。</li><li>在扩展里建立自己的提示词库，把平时顺手好用的提示词先存进去。</li><li>用标签和文件夹给词条归类，避免条目变多之后翻不到。</li><li>需要扩充时，直接导入其他来源的提示词，或参考官网教程里的做法。</li><li>在常用设备上分别登录，保持词库同步。</li></ol>"
+      },
+      {
+        "title": "AI提示词库创建和管理工具 的应用场景",
+        "html": "<p>结合官方对「整理、导入、同步」的强调，AI提示词库创建和管理工具 适合下面几种用法：</p><ul><li>写作固定流程：把反复用到的写作提示词存成一组，随时调取。</li><li>团队共用模板：成员各自维护词库，再互相导入对方的常用条目。</li><li>多设备办公：在公司电脑与个人电脑之间保持同一套提示词。</li><li>学习积累：把零散收集到的好提示词集中归档，逐步形成自己的方法库。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-05"
   },
   {
     "slug": "tool747",
