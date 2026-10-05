@@ -138,7 +138,7 @@ export default async function NewsDetailPage({ params }: Props) {
             本页由{' '}
             <Link href="/about#editorial-team" className="text-blue-600 hover:underline">TaoAI 编辑部</Link>{' '}
             整理并撰写解读 · 快讯日期 {item.date}
-            {detail ? ' · 解读最后更新 2026-09-27' : ''}
+            {detail ? ` · 解读最后更新 ${detail.updated || '2026-10-05'}` : ''}
           </p>
           <p className="mt-1">
             快讯摘要基于公开报道整理，事实以原始来源为准；「为什么值得关注」等段落为本站分析性观点，

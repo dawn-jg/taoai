@@ -45,6 +45,8 @@ _batch_status.md
 data/raw_sources/
 data/content_queue.json
 .tmp_raw/
+# 脚本/采集过程的临时中间文件（勿入库）
+.tmp_*
 
 # WorkBuddy 项目数据
 .workbuddy/

@@ -62,7 +62,7 @@ export function getNews(): NewsItem[] {
 }
 
 // ─── 快讯详情（长文内容与 news.json 分离，避免被每日定时任务覆盖）──
-type NewsDetail = { content: string; related: string[] };
+type NewsDetail = { content: string; related: string[]; updated?: string };
 const newsDetails = (newsDetailsData as { items: Record<string, NewsDetail> }).items || {};
 
 export function getNewsDetail(slug: string): NewsDetail | undefined {
