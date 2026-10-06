@@ -14220,8 +14220,25 @@
     "subcategory": "ai-office-ppt",
     "logo": "/logos/tool76405.png",
     "domain": "2dogppt.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "去 AI 味中式职场 PPT 生成工具 是什么",
+        "html": "<p>去 AI 味中式职场 PPT 生成工具指的是二狗 PPT。官网把它定义为用 DeepSeek 系列模型加上自研 AI Agent，生成一份还能继续编辑的中式职场 PPT 初稿——“中式职场”与“初稿”这两个词是关键，落点是可以拿去汇报的正式材料。</p>"
+      },
+      {
+        "title": "去 AI 味中式职场 PPT 生成工具 的主要功能",
+        "html": "<p>去 AI 味中式职场 PPT 生成工具把能力分成生成、图表与素材三层，官网公开的功能与说明包括：</p>\n<ul>\n<li>材料转稿：可以从文档、会议纪要这类现成材料里梳理结构、生成内容，并保留后续编辑空间。</li>\n<li>格式转换：支持把 Word 与 PDF 文件转成 PPT。</li>\n<li>智能架构图：官方把它拆成 AI 架构图生成器、AI 流程图生成器，以及面向 SaaS 与微服务场景的架构图。</li>\n<li>智能图表：把汇报里常见的数据呈现单独做成一类能力。</li>\n<li>模板与适配：提供 PPT 模板库，也有面向公司模板的适配说明。</li>\n<li>产物兼容：官网单独说明了与 PPTX 格式的兼容性。</li>\n<li>去 AI 味方法：官方把它作为一项独立说明写出来，回应“生成结果一眼就看得出是 AI 做的”这个问题。</li>\n<li>套餐规则：价格与额度规则另页说明。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用 去 AI 味中式职场 PPT 生成工具",
+        "html": "<p>按二狗 PPT 官网的说明，用去 AI 味中式职场 PPT 生成工具做一份汇报材料，路径并不长：</p>\n<ol>\n<li>把手里的原始材料准备出来——文档、纪要，或者已有的 Word、PDF 文件都可以。</li>\n<li>把材料交给它，让 AI Agent 先梳理出结构骨架。</li>\n<li>在此基础上生成内容，逐页检查它给出的判断与数据是否需要修正。</li>\n<li>汇报里必要的数据部分用智能图表能力补齐；需要结构示意时用架构图或流程图生成器。</li>\n<li>套用模板，或按公司模板适配说明调整版式。</li>\n<li>涉密与敏感材料先脱敏，生成结果再人工复核一遍，确认口径与结论都站得住。</li>\n</ol>"
+      },
+      {
+        "title": "去 AI 味中式职场 PPT 生成工具 的应用场景",
+        "html": "<p>去 AI 味中式职场 PPT 生成工具瞄准的是几类具体的汇报场合：国企与体制内常见的工作总结、项目汇报、绩效汇报，是官网主要页面的落点；乙方要交付方案与验收材料时，可以把已有文档快速转成汇报稿；需要把 PDF、Word 材料统一成演示稿的人，能省掉重复排版的时间；对配色与数据呈现没把握的人，还可以先看它博客里关于汇报结构与数据表达的方法说明再动手。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-06"
   },
   {
     "slug": "1dppt-com",
@@ -14596,8 +14613,25 @@
     "subcategory": "ai-office-doc",
     "logo": "/logos/tool70602.png",
     "domain": "meta.law",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI法律类案检索与分析助手 是什么",
+        "html": "<p>AI法律类案检索与分析助手指的是 MetaLaw。它的首页把主功能放在最显眼的位置——类案检索，一键直达，并在同一屏里给出 AI 分析助理与合同审查两个入口。</p>"
+      },
+      {
+        "title": "AI法律类案检索与分析助手 的主要功能",
+        "html": "<p>AI法律类案检索与分析助手围绕“找类案、出分析、看合同”组织功能，官网页面上能看到的包括：</p>\n<ul>\n<li>类案检索：输入检索点后直接返回相关案例，减少在多个数据库之间来回检索。</li>\n<li>检索示例：官方在首页给出可以直接试跑的常见检索点，方便第一次使用时找感觉。</li>\n<li>深度报告：在检索案例的基础上生成深度类案分析报告，页面会在报告生成过程中显示进度，中途关闭窗口它也会继续生成，之后能在最近使用里找回。</li>\n<li>合同审查：首页把它作为独立入口，与类案检索并列。</li>\n<li>AI 分析助理：对检索结果做进一步分析，给出结构化的整理结果。</li>\n<li>历史记录：最近使用页面保存检索与报告记录，便于接着往下做。</li>\n<li>法规数据能力：同一体系下的法规检索产品提供法律法规库、裁判文书、法规自动摘要与中英文互译等能力。</li>\n<li>账号与合规：提供注册登录，用户协议与隐私政策单独列示。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用 AI法律类案检索与分析助手",
+        "html": "<p>用 AI法律类案检索与分析助手的流程可以概括成“检索、生成、复核”三步，具体操作按首页入口走：</p>\n<ol>\n<li>注册登录后进入类案检索，把要查的法律问题写成检索点；没有思路时先跑一遍官方给的示例检索点。</li>\n<li>在检索结果里挑出与本案最接近的案例，判断事实与争议焦点是否对应。</li>\n<li>选中案例后生成深度类案分析报告；等待过程中可以切走，报告会继续生成。</li>\n<li>回到最近使用页面打开报告，重点核对它引用的法条与裁判要点。</li>\n<li>合同类工作切到合同审查入口，按提示提交材料。</li>\n<li>把报告结论与自己的判断对照，最终意见仍由使用者自己给出。</li>\n</ol>"
+      },
+      {
+        "title": "AI法律类案检索与分析助手 的应用场景",
+        "html": "<p>AI法律类案检索与分析助手适合的工作节奏是这样：律师在做类案检索与庭前准备时，先让它把同类案例和相关裁判要点拉齐，再决定重点研读哪几个判决；企业法务处理常规合同时，可以先用合同审查入口把明显风险挑出来；需要向客户或内部汇报检索结论的人，可以拿深度报告当底稿，省下整理时间；刚入行的法律从业者，用官方给的示例检索点练习提问方式，也能更快掌握类案检索的表达习惯。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-06"
   },
   {
     "slug": "tool11444",
@@ -14657,11 +14691,23 @@
     "domain": "delilegal.com",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<h2 id=\"得理法搜是什么\">得理法搜是什么</h2>\n<p>得理法搜是一款由深圳得理科技有限公司联合中科院研发的<a href=\"https://ai-bot.cn/ai-legal-assistant-tools/\" target=\"_blank\" rel=\"noopener\">AI法律</a>智能检索系统，集成了1.3亿篇裁判文书、300万条法律法规等海量法律数据，运用自然语言处理技术，提供精准的语义检索、关键词检索和长文本检索。得理法搜支持多轮对话，能够智能生成法律文书，匹配专业律师，并提供知识产权等专业库的智能检索服务，旨在提升法律从业者的工作效率和质量。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/04/deli-legal-search.png\" data-fancybox=\"fancybox\" data-caption=\"得理法搜\"><img decoding=\"async\" class=\"alignnone size-full wp-image-11451 rounded-lg border\" src=\"https://ai-bot.cn/wp-content/uploads/2024/04/deli-legal-search.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"得理法搜\" width=\"700\"></a>\n<h2 id=\"得理法搜的主要功能\">得理法搜的主要功能</h2>\n<ul class=\"text-md\">\n<li><strong>全域法律数据库</strong>：集成了1.3亿+裁判文书、300万+法律法规等，提供全面的法律信息资源。</li>\n<li><strong>智能检索技术</strong>：利用自然语言处理(NLP)技术，支持语义检索、关键词检索、长文本检索，提高检索精准度。</li>\n<li><strong>多轮对话交流</strong>：支持与用户进行多轮对话，深入探讨法律问题，提供专业解答。</li>\n<li><strong>法律文本生成</strong>：根据案情描述，自动撰写起诉状、答辩状等法律文书。</li>\n<li><strong>律师智能匹配</strong>：根据用户问题，智能推荐相应领域的专业律师，提供咨询。</li>\n<li><strong>知识产权检索</strong>：提供专利、商标、域名等知识产权的专业检索，帮助规避侵权风险。</li>\n<li><strong>地产工程专业库</strong>：免费提供地产工程相关的案例、法规、观点等专业内容。</li>\n<li><strong>多平台支持</strong>：提供网页版、手机App、微信小程序，方便用户随时随地使用。</li>\n<li><strong>专业回答与案例参考</strong>：准确捕捉问题核心，提供专业回答和实务建议。</li>\n<li><strong>大数据分析</strong>：通过大数据可视化技术，帮助用户理解复杂的法律数据。</li>\n</ul>\n<h2 id=\"得理法搜的适用人群\">得理法搜的适用人群</h2>\n<ul class=\"text-md\">\n<li><strong>法律专业人士</strong>：包括律师、律所、法务人员等，可以利用得理法搜进行法律研究、案例分析、法律检索等专业工作。</li>\n<li><strong>公检法机构工作人员</strong>：法院、检察院、公安机关等执法人员可以借助系统进行案件审理、法律文书撰写等。</li>\n<li><strong>法学生</strong>：法学院的学生可以通过得理法搜获取法律知识，进行案例学习和法律研究。</li>\n<li><strong>企业主和个人</strong>：需要法律咨询或处理法律事务的企业主和个人，可以快速获取法律意见。</li>\n<li><strong>法律研究者</strong>：法学教授、学者、专家或研究人员可以利用得理法搜获取全面的法律数据，进行深入的法律研究。</li>\n<li><strong>知识产权专业人士</strong>：专利代理人、商标律师等，可以利用得理法搜的知识产权专业库进行专利、商标的检索和分析。</li>\n<li><strong>地产工程专业人士</strong>：地产开发商、工程承包商等可以利用得理法搜的地产工程专业库获取相关的法律信息。</li>\n</ul>"
+        "title": "AI法律智能检索系统 是什么",
+        "html": "<p>AI法律智能检索系统指的是得理科技的产品线。官网对公司的定位是“以 AI 赋能法律”，并说明其系统基于法律大模型开发，对外提供“AI 加律师”的解决方案。</p>"
+      },
+      {
+        "title": "AI法律智能检索系统 的主要功能",
+        "html": "<p>AI法律智能检索系统由几个互相配合的产品组成，官网把它们的能力列得很细：</p>\n<ul>\n<li>小理AI：一个对话入口，按问题调度法律专家与技能智能体。</li>\n<li>法律研究与检索：先拆解法律问题，再联动全库检索并自动生成结构化报告；检索侧读取 5 亿以上的全域法律数据，可以像聊天一样查法规与类案，并输出检索报告。</li>\n<li>得理法搜：法律数据库产品，覆盖案例、法规、观点、专利、商标、域名等数据，提供语义检索、关键词检索与长文本检索，另有类案检索总结、智能摘要、裁判要点与时间轴，可一键生成类案检索报告。</li>\n<li>合同与文书：合同生成走“输入、确定大纲、生成、修改”的可控步骤；合同审查做总体审查与条款逐条审查，支持自定义审查规则并选择审查主体立场；法律文书覆盖诉讼与非诉讼文书，官方说明支持 67 类要素文书与传统文书的自由生成转换。</li>\n<li>文本分析：一次上传多份文档，做案件分析、证据分析与合同分析。</li>\n<li>找律师：按执业领域、案例经验、执业年限与所在律所等数据推荐律师。</li>\n<li>开放平台：对外提供 AI 大模型与智能法律检索两类 API。</li>\n<li>面向群体：官网明确写了法律从业者、企业、政府与个人四类用户。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用 AI法律智能检索系统",
+        "html": "<p>按官网给出的四类用户画像，使用 AI法律智能检索系统的过程大致是这样：</p>\n<ol>\n<li>先把问题写清楚——无论是查条文、找类案还是看裁判要点，都从描述问题开始。</li>\n<li>让系统拆解问题并联动全库检索，拿到结构化报告后再逐条核对引用到的法规与案例。</li>\n<li>需要在范围上收窄时切换检索方式：语义检索适合描述性提问，关键词与长文本检索适合定位具体条文或整篇材料。</li>\n<li>研究阶段性收尾时生成类案检索报告，报告自带导航大纲与模板，可直接用于庭前准备。</li>\n<li>涉及合同的工作按“输入、定大纲、生成、修改”推进，审查环节先选好立场再跑逐条审查。</li>\n<li>材料较多时改用文档上传做批量分析；确实需要律师介入时，用推荐功能按执业背景找合适的人。</li>\n</ol>"
+      },
+      {
+        "title": "AI法律智能检索系统 的应用场景",
+        "html": "<p>AI法律智能检索系统的适用者被官网分成四类：律所与律师可以把它当作检索、研究、文书与合同工作的日常工具，配合案件与知识管理把材料沉淀下来；企业法务与政府部门更常落在合同审查、合规检索与文档分析上；法律研究者需要的是全库检索与类案报告带来的效率；个人用户则多用于查询法条、理解规则，以及判断是否需要进一步咨询律师。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-06"
   },
   {
     "slug": "fazhi-law",
@@ -15285,8 +15331,25 @@
     "subcategory": "ai-office-excel",
     "logo": "/logos/tool372.png",
     "domain": "excelformulabot.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI将指令转换成Excel的函数公式 是什么",
+        "html": "<p>AI将指令转换成Excel的函数公式说的这个产品，官网现在叫 Better Analyst，页面上明确写着它原来的名字是 Formula Bot，账号与工作流延续不变。也就是说，它从把自然语言变成表格公式起家，现在扩展成了一整套数据分析工作台。</p>"
+      },
+      {
+        "title": "AI将指令转换成Excel的函数公式 的主要功能",
+        "html": "<p>在 AI将指令转换成Excel的函数公式这条起点之外，官网列出的功能已经覆盖了数据处理的上下游：</p>\n<ul>\n<li>公式与脚本类：Excel Formulas、Google Sheets Formulas、VBA Code Generator、表格脚本（Apps Script）生成器与正则表达式生成器等入口，延续了最初的公式生成定位。</li>\n<li>表格与转换：AI Spreadsheet Generator、PDF to Excel Converter、Bank Statement to Excel 等入口，负责把材料变成可计算的数据。</li>\n<li>数据准备与分析：官方把数据准备与富化、分析、仪表盘、报表与数据自动化归到同一个工作台里。</li>\n<li>对话式分析：Chat with Data 让人用对话的方式提问并拿到分析结果。</li>\n<li>图表与仪表盘：AI Chart Maker 与 AI Dashboard Generator，把结果直接落成看得懂的图。</li>\n<li>连接器：把搜索与网页分析数据（Analytics 与 Search Console）以及 Tableau 这类 BI 工具接进来。</li>\n<li>代理式入口：Data Flows 与 Slack Agent，让流程与问答能在聊天工具里触发。</li>\n<li>文档支持：有独立文档站，供使用者按功能查阅。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用 AI将指令转换成Excel的函数公式",
+        "html": "<p>用 AI将指令转换成Excel的函数公式类功能时，官网给出的路径比较轻：</p>\n<ol>\n<li>打开 Better Analyst 网站注册或登录，原来的 Formula Bot 账号可以继续使用。</li>\n<li>如果只是要一条公式，直接把需求用自然语言描述出来，让它给出对应的表格公式写法。</li>\n<li>需要更复杂的处理时，用电子表格生成或 PDF 转 Excel 先把数据搬进来。</li>\n<li>数据到位后切到对话式分析，用自然语言追问，让它给结果或生成图表。</li>\n<li>要给团队看结果，就用仪表盘生成器把关键指标固化成可复用的看板。</li>\n<li>外部数据源较多时配置连接器，或把流程接到 Data Flows 与聊天工具里的代理入口上。</li>\n</ol>"
+      },
+      {
+        "title": "AI将指令转换成Excel的函数公式 的应用场景",
+        "html": "<p>AI将指令转换成Excel的函数公式面向的人群其实很宽：财务与运营人员经常要处理对账单、报表这类表格材料，可以先转格式再让 AI 生成公式与图表；不熟悉函数写法的学生与职场新人，用一个问题换一条可用公式，学习成本最低；需要按期做部门报表的人，可以把重复的整理步骤固化成仪表盘与数据流程；做增长与营销分析的人，能接上分析类连接器把站点数据拉进同一个工作台；已经习惯在聊天工具里协作的团队，则可以从 Slack 里的代理入口直接用自然语言取数。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-06"
   },
   {
     "slug": "formx-ai",
@@ -17300,23 +17363,23 @@
     "domain": "lovtalent.com",
     "detailed_content": [
       {
-        "title": "LovTalent是什么",
-        "html": "<p>LovTalent（小麦招聘）是True Talents Connect（TTC）推出的 AI 原生求职智能体平台，是 AI 人才的“靠谱职业伙伴”。LovTalent基于多年的招聘行业经验，结合 Multi-Agent 架构和用户长期记忆机制，为候选人提供从岗位推荐、简历优化、面试辅导到反馈跟进的一站式体验。LovTalent 基于 AI 技术为求职者提供个性化服务，如岗位精准匹配和简历优化建议。从求职初期的岗位推荐到面试辅导，再到后续的反馈跟进，覆盖求职全过程。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/09/LovTalent-website.png\" data-fancybox=\"fancybox\" data-caption=\"LovTalent\"><img decoding=\"async\" class=\"alignnone wp-image-62790\" src=\"https://ai-bot.cn/wp-content/uploads/2025/09/LovTalent-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"LovTalent\" width=\"739\" height=\"416\"></a>"
+        "title": "AI 原生求职智能体平台 是什么",
+        "html": "<p>AI原生求职智能体平台指的是小麦招聘。它的首页把目标写得很清楚——AI 行业的下一份好机会，从这里开始，服务对象就是希望在 AI 行业找机会的人。</p>"
       },
       {
-        "title": "LovTalent的主要功能",
-        "html": "<ul>\n<li class=\"paragraph\"><strong class=\"\">推荐职位</strong>：精准锁定 3 – 5 个高价值机会，每个推荐都配有“四维解析”，包括推荐理由、岗位核心、匹配点 / 风险点、投递建议，让你清楚知道该投哪里以及如何投才能赢。</li>\n<li class=\"paragraph\"><strong>行业洞察</strong>：基于行业知识和公开数据，自动生成赛道趋势、代表公司、岗位画像等内容，为你的职业转型或高薪冲刺提供深度参考。</li>\n<li class=\"paragraph\"><strong>简历优化</strong>：根据目标职位描述（JD），运用 STAR 法则、关键词补充和成果量化等方法，为你生成一份能打动 HR 的高分简历。</li>\n<li class=\"paragraph\"><strong>成长规划</strong>：根据你的经历评估可争取的岗位梯度，指出短板并生成行动清单，帮助你清晰规划未来的职业成长路径。</li>\n<li class=\"paragraph\"><strong>面试辅导</strong>：生成高频面试问题、答题框架并预测追问，让你带着定制化的“剧本”进入面试，提前做好充分准备。</li>\n</ul>"
+        "title": "AI 原生求职智能体平台 的主要功能",
+        "html": "<p>AI原生求职智能体平台把求职流程里最前面的几步做成了入口，首页可用的功能包括：</p>\n<ul>\n<li>简历上传：注册后可以直接把简历传上来，作为后续匹配的基础。</li>\n<li>岗位分类直达：首页按方向排布了多个热招入口，覆盖 AI 产品经理、全栈工程师、前端工程师、后端工程师、Infra 岗位、算法岗位、具身智能岗位与 AI 硬件工程师。</li>\n<li>集中招聘信息：把不同公司的 AI 相关岗位聚到一处，减少在多个招聘站之间来回比对。</li>\n<li>账号体系：提供注册与登录，服务条款与隐私政策单独成页。</li>\n<li>移动端：提供 App 下载入口，官方标注由小麦人才助手提供技术支持。</li>\n<li>联系与反馈：页面底部给出联系方式，方便沟通。</li>\n<li>方向覆盖：除工程类岗位外，首页也列出 AI 产品经理这类偏业务的方向。</li>\n<li>合规信息：页脚公示了备案信息，服务条款与隐私政策可以单独查看。</li>\n</ul>"
       },
       {
-        "title": "如何使用LovTalent",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>访问官网</strong>：访问 LovTalent 官网 https://lovtalent.com/ ，公测期免费体验不限量。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>输入信息</strong>：输入目标岗位、城市、偏好，或上传简历，获取职位推荐。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>获取职位推荐</strong>：平台会推荐 3 – 5 个高契合度的职位，提供推荐理由、岗位描述、匹配点 / 风险点及投递建议。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>行业洞察</strong>：利用平台的行业信息洞察功能，获取赛道要点、代表公司、岗位趋势和常见用人画像，辅助决策。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>简历优化</strong>：上传简历后，平台将根据目标职位描述，运用 STAR 法则、关键词补充和成果量化等方法，生成优化后的简历版本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>求职规划</strong>：平台会根据你的经历评估可争取的岗位梯度，指出短板并生成行动清单，帮助你规划职业成长路径。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>面试辅导</strong>：依据岗位和履历，平台生成高频面试问题、答题框架及可能追问，帮助你提前演练面试。</div>\n</li>\n</ul>"
+        "title": "如何使用 AI 原生求职智能体平台",
+        "html": "<p>要用 AI原生求职智能体平台找工作，首页给出的操作顺序是：</p>\n<ol>\n<li>先完成注册或登录，建立自己的账号。</li>\n<li>上传简历，让平台拿到你的经历与技能信息。</li>\n<li>按自己的方向点进对应岗位分类，比如算法、Infra、具身智能或 AI 硬件。</li>\n<li>浏览集中展示的岗位，按公司与方向筛出想投的目标。</li>\n<li>移动端用户下载 App，方便随时查看与跟进。</li>\n<li>有疑问时通过页面底部的联系方式与平台沟通。</li>\n</ol>"
       },
       {
-        "title": "LovTalent的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>求职者寻找高价值职位</strong>：为求职者提供精准的职位推荐，帮助他们快速锁定与自身匹配度高的机会，节省求职时间，提高求职效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>行业信息决策参考</strong>：为求职者提供行业趋势、代表公司、岗位画像等信息，帮助他们了解行业动态，做出更明智的职业决策，无论是跨行业转型还是冲刺高薪岗位。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>简历优化与提升</strong>：帮助求职者润色简历，根据目标职位要求，运用专业方法优化简历内容，更具竞争力，更容易获得 HR 的青睐。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>职业成长规划</strong>：根据求职者的经历和目标，评估其职业发展路径，指出短板并提供行动清单，助力求职者规划清晰的职业成长路线，实现自我提升。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>面试准备与辅导</strong>：为求职者提供面试难题辅导，生成高频问题及答题框架，预测可能的追问，帮助求职者提前演练，增强面试信心，提高面试成功率。</div>\n</li>\n</ul>"
+        "title": "AI 原生求职智能体平台 的应用场景",
+        "html": "<p>AI原生求职智能体平台适合几类求职者：刚从学校出来、想切入 AI 方向的人，可以按岗位分类先看清市场上有哪些坑位；有经验但要转方向的人，比如从后端转到 Infra、从工程转到具身智能，可以在同一个入口里比较不同方向的要求；在职观望、只看不投的人，也可以先上传简历留个档，等合适机会出现再跟进；还在犹豫方向的求职者，也能通过分类入口快速判断哪一类岗位与自己现有的技能更接近。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-06"
   },
   {
     "slug": "telehire-ai",
@@ -18154,8 +18217,25 @@
     "subcategory": "ai-office-meeting",
     "logo": "/logos/tool59463.png",
     "domain": "wolai.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI云端协作平台与个人笔记工具 是什么",
+        "html": "<p>AI云端协作平台与个人笔记工具指的是 wolai。它的官方更新日志把产品形态写得很直白：以块为单位的页面编辑器，往上叠视图、权限与协作，AI 能力则嵌进编辑与问答的各个环节。</p>"
+      },
+      {
+        "title": "AI云端协作平台与个人笔记工具 的主要功能",
+        "html": "<p>从官方更新日志里能看到 AI云端协作平台与个人笔记工具持续迭代的功能面，主要包括：</p>\n<ul>\n<li>编辑器与块：图片块、可自动识别语言的代码块、标题行吸附的简单表格，以及支持分组、隐藏空分组的数据表格。</li>\n<li>多种视图：画廊视图、日历视图、脑图、看板与表单视图，表单视图还可以套用模板。</li>\n<li>AI 能力：智能问答支持思考链输出，移动端也带 AI，另有面向脑图的 AI 与 AI 建议；模型侧已接入 DeepSeek。</li>\n<li>模板中心：独立入口并支持收藏，官方多次对它做重构与页面优化。</li>\n<li>权限与协作：空间层面的复制与下载逻辑分离，访客浏览、列权限与导出限制都有对应调整。</li>\n<li>媒体与文件：音视频块可以保存当前配置，只读模式下也允许下载，图片支持加水印。</li>\n<li>导入导出：支持导出 PDF、Excel 与图片。</li>\n<li>多端与第三方：移动端升级到 2.0，适配鸿蒙系统，接入钉钉容器、腾讯会议授权与钉钉脑图。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用 AI云端协作平台与个人笔记工具",
+        "html": "<p>要用 AI云端协作平台与个人笔记工具搭一套自己的资料体系，可以从官网列出的这些能力出发：</p>\n<ol>\n<li>先建一个空间，把要沉淀的内容按主题分成页面。</li>\n<li>用块编辑器组织正文，代码、表格、图片这类素材直接作为块插入。</li>\n<li>同一批数据换角度查看时新建视图，在画廊、日历、看板、表单之间切换。</li>\n<li>需要向团队开放时按角色配置权限：列权限控制可编辑范围，访客模式适合只读浏览。</li>\n<li>把常用结构存成模板，之后新建页面直接套用。</li>\n<li>资料整理完后用 AI 智能问答做检索与问答，需要带走时导出为 PDF 或 Excel。</li>\n</ol>"
+      },
+      {
+        "title": "AI云端协作平台与个人笔记工具 的应用场景",
+        "html": "<p>AI云端协作平台与个人笔记工具对两类人最有用。一类是把资料当资产经营的个人，块式编辑配合脑图与表格视图，可以一边写作一边重组结构，最后靠智能问答把散落的内容找回来。另一类是需要在同一空间里协作的团队，空间权限与列权限能控制到具体字段，模板中心保证页面结构一致，导出功能让交付物能脱离平台使用；移动端 2.0 与鸿蒙适配则照顾了不在电脑前的场景。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-06"
   },
   {
     "slug": "typeless-com",
@@ -18215,23 +18295,23 @@
     "domain": "chattoc.aichris.cc",
     "detailed_content": [
       {
-        "title": "ChatTOC是什么",
-        "html": "<p>ChatTOC 是将 AI 对话内容转成导航目录的浏览器插件，支持<a href=\"https://ai-bot.cn/sites/30.html\" target=\"_blank\" rel=\"noopener\"> ChatGPT</a>、<a href=\"https://ai-bot.cn/sites/460.html\" target=\"_blank\" rel=\"noopener\">Claude</a>、<a href=\"https://ai-bot.cn/sites/736.html\" target=\"_blank\" rel=\"noopener\">Gemini</a>、<a href=\"https://ai-bot.cn/sites/54501.html\" target=\"_blank\" rel=\"noopener\">DeepSeek</a> 等主流平台。ChatTOC 能在对话页面右侧自动生成消息目录，实现一键定位高亮原文、实时搜索、消息筛选、收藏标记等功能，让用户像翻阅书籍一样快速定位关键信息。ChatTOC 大幅提升了信息检索与知识沉淀效率，是高效管理聊天记录的实用工具。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/02/ChatTOC-website-2.png\" data-fancybox=\"fancybox\" data-caption=\"ChatTOC\"><img decoding=\"async\" class=\"alignnone wp-image-71385\" src=\"https://ai-bot.cn/wp-content/uploads/2026/02/ChatTOC-website-2.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"ChatTOC\" width=\"740\" height=\"416\"></a>"
+        "title": "将 AI 对话内容转成导航目录的浏览器插件 是什么",
+        "html": "<p>将 AI 对话内容转成导航目录的浏览器插件指的是 ChatTOC。官网把它描述为 AI 聊天之上的一层导航：给对话生成消息大纲、页面时间线与提示词文件夹，专门解决长对话越翻越乱的问题。</p>"
       },
       {
-        "title": "ChatTOC的主要功能",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>目录导航</strong>：自动为 AI 对话生成结构化目录，点击任意条目可一键定位到原文高亮显示，无需手动滚动查找。</li>\n<li class=\"paragraph\"><strong>搜索定位</strong>：支持实时搜索对话内容，输入关键词后自动筛选高亮匹配的消息，点击搜索结果可跳转到对应位置。</li>\n<li class=\"paragraph\"><strong>消息筛选</strong>：提供快速筛选功能，可选择仅查看用户提问、仅查看 AI 回答，或只显示已收藏的重点消息。</li>\n<li class=\"paragraph\"><strong>收藏标记</strong>：支持用户将关键消息加入收藏，随时通过收藏列表一键定位到原文，方便后续复盘与引用。</li>\n<li class=\"paragraph\"><strong>阅读进度</strong>：自动记录用户上次阅读的位置，下次打开对话时可一键回到中断处，无需从头翻阅。</li>\n<li class=\"paragraph\"><strong>导出复盘</strong>：支持将对话内容导出为 JSON 或 Markdown 格式，便于整理笔记、撰写文章或进行知识沉淀。</li>\n<li class=\"paragraph\"><strong>跨站适配</strong>：原生支持 ChatGPT、Claude、Gemini、DeepSeek、Kimi 等主流 AI 平台，同时支持用户自定义添加其他站点规则。</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/02/ChatTOC-website3.png\" data-fancybox=\"fancybox\" data-caption=\"ChatTOC\"><img decoding=\"async\" class=\"alignnone wp-image-71389\" src=\"https://ai-bot.cn/wp-content/uploads/2026/02/ChatTOC-website3.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"ChatTOC\" width=\"740\" height=\"340\"></a>"
+        "title": "将 AI 对话内容转成导航目录的浏览器插件 的主要功能",
+        "html": "<p>将 AI 对话内容转成导航目录的浏览器插件把功能集中在“找得到、存得住、带得走”三件事上，官网列出的能力包括：</p>\n<ul>\n<li>消息大纲：给整段对话生成可折叠的目录，点击标题直接跳到对应消息。</li>\n<li>页面时间线：在聊天页面上挂一条竖向轨道，悬停能预览，点一下跳转。</li>\n<li>提示词文件夹：把反复用到的提示词分组存放，需要时随时取。</li>\n<li>收藏要点：把有用的回答单独存下来，不跟着对话一起沉底。</li>\n<li>关键词检索：输入关键词，直接跳到出现答案的位置。</li>\n<li>一键导出：把整理好的对话内容导出带走。</li>\n<li>多平台支持：官方列出二十多个平台，覆盖主流对话产品、国内大模型产品、代码助手与笔记类工具，并允许添加自定义平台。</li>\n<li>本地优先：官方强调数据以本地为主。</li>\n</ul>"
       },
       {
-        "title": "如何使用ChatTOC",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>安装扩展</strong>：访问 ChatTOC 官网 https://chattoc.aichris.cc/ 下载安装扩展程序，安装完成后将插件图标固定显示在浏览器工具栏。</li>\n<li class=\"paragraph\"><strong>打开对话</strong>：进入 ChatGPT、Claude、Gemini、DeepSeek 等支持的 AI 平台对话页面，ChatTOC 侧边栏会自动出现在页面右侧。</li>\n<li class=\"paragraph\"><strong>浏览目录</strong>：查看自动生成的对话目录结构，点击任意消息条目，页面会自动滚动到原文位置并高亮显示该消息。</li>\n<li class=\"paragraph\"><strong>搜索内容</strong>：在侧边栏顶部的搜索框输入关键词，系统会实时筛选并高亮所有匹配的消息内容，点击搜索结果即可跳转到对应位置。</li>\n<li class=\"paragraph\"><strong>筛选消息</strong>：使用筛选按钮切换查看全部消息、仅用户提问、仅 AI 回答，或只显示已收藏的重点消息。</li>\n<li class=\"paragraph\"><strong>收藏重点</strong>：点击消息旁的收藏按钮将关键内容加入收藏夹，可通过收藏列表随时一键定位到原文。</li>\n<li class=\"paragraph\"><strong>记录进度</strong>：ChatTOC 会自动记录上次阅读位置，下次打开同一对话时可一键回到中断处继续浏览。</li>\n<li class=\"paragraph\"><strong>导出复盘</strong>：点击导出按钮，选择将对话内容保存为 Markdown 或 JSON 格式，便于后续整理笔记或知识沉淀。</li>\n<li class=\"paragraph\"><strong>自定义设置</strong>：如需支持未内置的 AI 平台，可在设置页面中添加自定义站点规则，配置后可正常使用 ChatTOC 功能。</li>\n</ul>"
+        "title": "如何使用 将 AI 对话内容转成导航目录的浏览器插件",
+        "html": "<p>使用将 AI 对话内容转成导航目录的浏览器插件不需要改工作习惯，官网给出的路径是：</p>\n<ol>\n<li>在浏览器里安装 ChatTOC 扩展。</li>\n<li>照常打开自己常用的 AI 对话平台，插件会在对话页面上接管导航区域。</li>\n<li>长对话里先看消息大纲，把无关段落折叠起来，点标题定位到要看的那一条。</li>\n<li>想快速回到某个答案时，用关键词检索直接跳转，或沿着页面时间线上下移动。</li>\n<li>反复使用的提示词放进提示词文件夹，下次直接调用，不再重复手打。</li>\n<li>值得留存的回答先收藏，需要交付或归档时用一键导出取走。</li>\n</ol>"
       },
       {
-        "title": "ChatTOC的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">长对话管理</strong>：技术咨询、学术研究或复杂问题讨论时，ChatTOC 可帮助快速定位关键信息，避免手动翻页查找。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>知识整理与复盘</strong>：在与 AI 的对话中积累大量信息后，用 ChatTOC 的导出功能将对话记录整理为笔记或文章，方便后续复习和总结。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多平台统一管理</strong>：对于同时使用多个 AI 平台（如 ChatGPT、Claude、Gemini 等）的用户，ChatTOC 提供一致的目录管理体验，方便跨平台管理对话记录。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">教学与学习</strong>：在教育场景中，教师和学生可用 ChatTOC 快速回顾课程内容、查找关键知识点，提升学习效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">写作与创作</strong>：写作者可用 ChatTOC 收集灵感、整理思路，快速定位与写作主题相关的 AI 回答，辅助创作过程。</div>\n</li>\n</ul>"
+        "title": "将 AI 对话内容转成导航目录的浏览器插件 的应用场景",
+        "html": "<p>将 AI 对话内容转成导航目录的浏览器插件对几类人特别有用：把 AI 当工作台、一天里开十几个长对话的人，靠大纲和时间线能随时回到上下文；需要反复调同一套提示词的创作者与运营，用提示词文件夹能把方法论固定下来；做调研或写长文的人，可以把关键回答收藏起来再统一导出；同时在多个平台之间切换的用户，一份插件覆盖二十多个站点，不用为每个产品单独适应；注重数据留在本机的用户，也能接受它本地优先的设定。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-06"
   },
   {
     "slug": "loom-com",
@@ -26048,8 +26128,25 @@
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool480.png",
     "domain": "httpie.io",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI API开发工具 是什么",
+        "html": "<p>AI API开发工具说的是 HTTPie。官网把 HTTPie AI 的一句话定位放在首页——与 API 交互的新方式，站点导航里也把终端版、桌面版与 AI 三条线并排列出。</p>"
+      },
+      {
+        "title": "AI API开发工具 的主要功能",
+        "html": "<p>AI API开发工具 HTTPie 的能力分成 AI 入口、图形界面与命令行三块，官网写明的部分有：</p>\n<ul>\n<li>AI 辅助：桌面端与网页版都把 AI 辅助工作写进产品页，官方另有 HTTPie AI 1.0 的公告页。</li>\n<li>桌面与网页应用：目前处于公开测试阶段，官网称它保留了终端版的易用性，同时给出图形界面。</li>\n<li>工作组织：用空间、集合与标签页把请求分门别类。</li>\n<li>参数化：用变量与环境来参数化请求，同一套请求可以在不同环境间复用。</li>\n<li>跨设备：自动保存并实时同步，多设备之间接着用。</li>\n<li>预览与离线：可以先把请求搭好、预览但不发送；也可以在没有账号、没有网络的情况下使用。</li>\n<li>命令行版本：终端版覆盖请求方法、URL 与查询参数、JSON 与表单、文件上传、请求头、Cookie、多种认证方式、重定向、代理、SSL 校验、输出控制、下载与断点续传、会话与配置等一整套请求调试所需的能力。</li>\n<li>插件与脚本：命令行版带插件管理器，可安装、列出、升级与卸载插件，也支持写脚本调用。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用 AI API开发工具",
+        "html": "<p>AI API开发工具的上手路径按官网分成两条：</p>\n<ol>\n<li>图形界面这条线，先到官网下载桌面端或直接打开网页版；目前是公开测试阶段，可以先用离线、免账号的方式试用。</li>\n<li>用空间、集合与标签页把要调试的接口组织起来，接口地址与密钥用变量和环境存，避免写死在请求里。</li>\n<li>请求可以先搭好并预览，确认无误再发出去；对 API 还不熟的部分交给 AI 辅助来补。</li>\n<li>命令行这条线按官网文档安装，用一条命令写清请求方法与地址即可发出请求。</li>\n<li>需要复用登录态时开一个命名会话，需要批量下载时用下载模式并在中断后续传。</li>\n<li>常用配置写进配置文件，减少每次敲参数；要扩展能力就通过插件管理器装插件。</li>\n</ol>"
+      },
+      {
+        "title": "AI API开发工具 的应用场景",
+        "html": "<p>AI API开发工具覆盖的人群比较广：后端与前端工程师日常调试接口、核对响应结构，图形界面比记命令省事；测试人员可以把同一组请求用变量与环境切到测试和生产；习惯终端的运维与脚本用户，命令行版的会话、代理与输出控制更顺手；刚开始接触 API 的开发者，可以靠 AI 辅助把不熟的请求补齐；团队协作场景下，空间与集合也让多人共享一套请求更整齐。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-06"
   },
   {
     "slug": "tool479",
@@ -26133,8 +26230,25 @@
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool115.png",
     "domain": "heycli.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "自然语言转义为CLI命令 是什么",
+        "html": "<p>自然语言转义为CLI命令说的是 heyCLI。官网页面上的一句话是命令行里的自然语言入口，官方仓库把用法说得更直接：先敲一个 hey，再把想做的事情说出来。</p>"
+      },
+      {
+        "title": "自然语言转义为CLI命令 的主要功能",
+        "html": "<p>在自然语言转义为CLI命令这个定位下，heyCLI 的官方仓库写明的能力有这些：</p>\n<ul>\n<li>命令翻译：把自然语言描述翻译成命令行指令，省掉为回忆参数去搜索的时间。</li>\n<li>终端内排错：遇到 python、nodejs、kubectl、gcloud、aws 等命令的报错时，可以让它直接解释上一条错误。</li>\n<li>命令执行确认：它给部分命令加了直接执行的入口，确认时输入 yes 即可。</li>\n<li>上下文配置：可以通过 setup 命令把当前终端环境信息交给它，让建议更贴合实际环境。</li>\n<li>安装方式：仓库提供客户端脚本，下载后加载一下即可启用。</li>\n<li>密钥管理：需要先在官网注册获取 API 令牌，再把它写进环境变量。</li>\n<li>平台范围：官方说明目前只支持 Linux 与 macOS。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用 自然语言转义为CLI命令",
+        "html": "<p>安装和使用自然语言转义为CLI命令的步骤在官方仓库里写得比较完整：</p>\n<ol>\n<li>在终端里下载 heyCLI 的客户端脚本，并按说明放到用户目录下。</li>\n<li>用加载命令让脚本在当前会话里生效，hey 这个入口就可以用了。</li>\n<li>到官网注册页面领取 API 令牌。</li>\n<li>把令牌写进环境变量，之后就能直接调用。</li>\n<li>需要更贴合的建议时执行一次 setup，让它读取终端环境作为上下文。</li>\n<li>日常用法是敲 hey 加一句自然语言描述；遇到报错时让它解释上一条错误，确认要执行时输入 yes。</li>\n</ol>"
+      },
+      {
+        "title": "自然语言转义为CLI命令 的应用场景",
+        "html": "<p>自然语言转义为CLI命令适合几类场景：不常写命令、需要临时查参数的人，可以少开一个搜索页面；需要在云平台与容器命令行之间来回切换的人，能靠它回忆对应命令；排错时最花时间的往往不是改代码而是读懂报错，终端内解释上一条错误的用法正对上这个环节；给新同事搭环境或写内部教程时，用自然语言描述生成命令也比背参数更直观；不过如果日常以 Windows 为主，官方已说明暂不支持。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-06"
   },
   {
     "slug": "tool111",
@@ -28318,8 +28432,25 @@
     "subcategory": "ai-design-poster",
     "logo": "/logos/tool9943.png",
     "domain": "hihaibao.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "免费批量生成在线可编辑的AI海报工具 是什么",
+        "html": "<p>免费批量生成在线可编辑的AI海报工具指的是千图设计室推出的嗨 AI 海报。首页给它的描述很短：一句话，30 秒批量生成带货海报，并且生成结果支持在线编辑。</p>"
+      },
+      {
+        "title": "免费批量生成在线可编辑的AI海报工具 的主要功能",
+        "html": "<p>免费批量生成在线可编辑的AI海报工具把输入方式与出图场景分成了两组模式，官网首页写明的有：</p>\n<ul>\n<li>一句话模式：用一句描述说明需求，交给它出图。</li>\n<li>精准带货模式：先把带货商品、卖点、节日这些信息写清楚，再生成海报。</li>\n<li>批量生成：一次处理多张海报，适合有多个商品或多组卖点的情况。</li>\n<li>在线编辑：生成后不用下载再改，直接在浏览器里调整。</li>\n<li>免费生成入口：首页提供免费生成按钮，可以先试再决定。</li>\n<li>需求描述指引：页面给了示例写法，比如把满减规则与活动主题一起写进描述。</li>\n<li>合规信息：页脚公示用户协议与隐私政策入口，以及运营主体的备案信息。</li>\n<li>场景化产出：产出围绕电商与促销场景，便于直接拿去上架使用。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用 免费批量生成在线可编辑的AI海报工具",
+        "html": "<p>用免费批量生成在线可编辑的AI海报工具做一批带货海报，按官网首页的提示走即可：</p>\n<ol>\n<li>打开页面后先选模式：单张快速出图用一句话模式，要求准确就切到精准带货模式。</li>\n<li>把带货商品、核心卖点与活动时间写进描述，满减或折扣规则一并说明。</li>\n<li>提交生成，等它按描述出图；需要多张时一次提交多组需求。</li>\n<li>在页面上直接查看结果，挑出可用的稿子。</li>\n<li>对文案与版式做在线编辑，改完保存。</li>\n<li>导出后用于商品详情页、活动横幅或社群推广。</li>\n</ol>"
+      },
+      {
+        "title": "免费批量生成在线可编辑的AI海报工具 的应用场景",
+        "html": "<p>免费批量生成在线可编辑的AI海报工具解决的是电商日常出图的量的问题：做店铺运营的人每周都要上新，用一句话描述就能一次拿到多张素材；做社群与短视频投放的人，常常需要同一活动在多渠道铺不同尺寸的图，在线编辑省去反复下载；小团队没有专职设计，活动前临时要一张促销海报时，免费生成入口能先顶上；需要严格对齐品牌规范的人，也可以把生成结果当作初稿，再做统一调整。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-06"
   },
   {
     "slug": "tool176",
@@ -28670,8 +28801,25 @@
     "subcategory": "ai-design-graphic",
     "logo": "/logos/tool164.png",
     "domain": "huemint.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI调色生成工具 是什么",
+        "html": "<p>AI调色生成工具 Huemint 想解决的是配色怎么落地的问题。官网在关于页里写得很清楚：它用机器学习为平面设计生成颜色，而且不是丢给你一套扁平色板再自己想怎么用，而是按照每个颜色在最终稿里的用途来生成——哪些是背景、哪些是前景、哪些是强调色，模型心里有数。</p>"
+      },
+      {
+        "title": "AI调色生成工具 的主要功能",
+        "html": "<p>AI调色生成工具的功能项都围绕“按用途生成配色”设计，官网列出的选项与操作包括：</p>\n<ul>\n<li>设计模板：按品牌、网站、杂志、插画、Bootstrap 等不同场景进入，模板里已经规定好颜色数量与各自的角色。</li>\n<li>两种生成模型：Transformer 与 Diffusion 两种 AI 方式，另有随机模式。</li>\n<li>创造力滑杆：相当于采样温度，调高结果更随机也更有创造性，调到零则给出统计上最可能的配色。</li>\n<li>锁定色块：看中某个颜色可以锁住，再次生成时会把它当作前提。</li>\n<li>风格预设：默认、高对比、明亮轻快、粉彩、鲜艳、暗色与超色等预设，也可以直接限定某一色相。</li>\n<li>目标对比度矩阵：用 0 到 100 的数值定义任意两个颜色之间的对比要求，0 表示不限，1 表示不要对比，100 表示最大对比。</li>\n<li>上传自己的设计：可以上传只有纯色块的图片，让工具按现有稿件的结构生成配色。</li>\n<li>取用方式：生成结果可以直接复制颜色代码，或进入编辑继续调整。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用 AI调色生成工具",
+        "html": "<p>使用 AI调色生成工具的过程基本是“选模板、生成、锁定、再生成”，官网写出来的步骤如下：</p>\n<ol>\n<li>打开 Huemint，在顶部分类里选择要做的设计类型，再挑一个具体模板。</li>\n<li>点页面右上角的生成按钮拿到第一版配色。</li>\n<li>想保留的颜色点圆形色块锁定，之后再点生成，新结果会把锁定色算进去。</li>\n<li>想要更大胆的方案就把创造力滑杆往右推；想稳一点就往左收，直到归零取概率最高的组合。</li>\n<li>对颜色之间的明暗关系有硬性要求时，在对比度矩阵里逐格填数值。</li>\n<li>手头已经有设计稿的，切到上传图片标签页把纯色块图放进去；最后复制代码或进入编辑微调。</li>\n</ol>"
+      },
+      {
+        "title": "AI调色生成工具 的应用场景",
+        "html": "<p>AI调色生成工具对几类具体的活儿比较合用：做品牌或网站视觉的人需要同时满足观感与可读性，可以用对比度矩阵把文字与背景的关系先框住；做插画与杂志版式的人，可以从对应模板出发快速试几套色彩方向；写前端或做 Bootstrap 项目的人，能直接按框架配套的模板取色；已经有一张平面稿的人，可以上传纯色块图让AI调色生成工具反推配色；而配色经验还在积累阶段的初学者，也能靠预设与锁定功能一步步收敛出方案。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-06"
   },
   {
     "slug": "tool162",
@@ -29093,8 +29241,25 @@
     "subcategory": "ai-audio-music",
     "logo": "/logos/tool6968.png",
     "domain": "suno.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "高质量的AI音乐创作平台 是什么",
+        "html": "<p>高质量的AI音乐创作平台说的是 Suno。官网的定位很直接：给一句提示词，或者进入它的专业编辑工具，把自己想象中的歌做出来，页面同时强调它让高质量音乐创作对所有人都变得可及。</p>"
+      },
+      {
+        "title": "高质量的AI音乐创作平台 的主要功能",
+        "html": "<p>高质量的AI音乐创作平台 Suno 的功能清单围绕“生成、后期、分发”三段展开，官网写到的内容包括：</p>\n<ul>\n<li>最新一代生成模型：官方称这一版在人声细节与编曲紧密度上比此前版本更强，是当前能力最强的一版。</li>\n<li>Suno Studio：浏览器里就能用的数字音频工作站，用来编排、编辑、混音一首歌的各个部分。</li>\n<li>Voices：录几秒自己的声音，之后让它去演唱你写的内容。</li>\n<li>分轨提取：把一首歌拆成彼此对齐的干净分轨，再导入自己常用的 DAW 继续处理。</li>\n<li>Remix：改风格、重写歌词，或者围绕自己的录音把整首歌重建一遍。</li>\n<li>自定义模型：用自己的录音训练一个模型，让后续生成的歌从自己的音色出发。</li>\n<li>音乐库：按风格、情绪、场合浏览站内作品，找参考也找灵感。</li>\n<li>细化控制：可用 Voices、Inspo、排除项与人声性别定方向，也可以继续调怪诞度与风格滑杆。</li>\n<li>分享与权利：作品可以对外分享；官方说明付费订阅者拥有商业使用权，付费方案同时给出每月可生成曲目的上限。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用 高质量的AI音乐创作平台",
+        "html": "<p>上手高质量的AI音乐创作平台时，官网建议从最简单的入口开始：</p>\n<ol>\n<li>打开 Suno 的网页应用，或在 iOS、Android 应用上注册登录。</li>\n<li>先想清楚要做的歌：可以只给一句提示词，也可以直接进入更细的编辑入口。</li>\n<li>把脑子里的旋律、写好的歌词，或者只是一种想听到的情绪交给它，生成初版。</li>\n<li>想固定某些部分，就用声音录制、Inspo、排除项与人声性别等控制项收紧方向，再调怪诞度与风格滑杆细修。</li>\n<li>要精修就进 Studio 编排、编辑与混音；需要拆开素材时提取分轨，想换个方向时用 Remix 重做。</li>\n<li>成曲可以留在站内音乐库，也可以分享出去；付费订阅的作品官方说明可保留商业权利。</li>\n</ol>"
+      },
+      {
+        "title": "高质量的AI音乐创作平台 的应用场景",
+        "html": "<p>高质量的AI音乐创作平台解决的问题集中在几类人身上：只想快速把灵感变成完整小样的人，可以从一句提示词起步；有自己音色或录音素材的人，可以用声音录制与自定义模型让作品带上个人特征；要给视频配背景乐、需要可商用素材的人，可以按官方说明选择带商业使用权的付费方案；习惯在专业工具里继续加工的人，能把分轨导进自己熟悉的 DAW；以浏览和发现为主的人，则可以直接在音乐库里按风格与场合挑歌。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-06"
   },
   {
     "slug": "yinshu-me",
@@ -32676,8 +32841,25 @@
     "subcategory": "ai-search-engine",
     "logo": "/logos/tool11855.png",
     "domain": "thinkany.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "新时代的AI搜索引擎 是什么",
+        "html": "<p>新时代的AI搜索引擎指的是 ThinkAny。打开官网能看到它把检索与对话放在同一个界面里，登录后左侧是搜索与资料库入口，服务按免费与 Pro 两档提供，站内也提供中文界面。</p>"
+      },
+      {
+        "title": "新时代的AI搜索引擎 的主要功能",
+        "html": "<p>新时代的AI搜索引擎 ThinkAny 的能力按官网方案说明可以分成几组：</p>\n<ul>\n<li>多种使用模式：搜索、对话与总结在同一产品里打通，按手头任务切换。</li>\n<li>多模型对话：付费档位可用十余个对话模型，官方在说明里举了不同厂商的主力模型作为例子。</li>\n<li>多种检索模式：结果可以按网页链接、图片、视频等不同类型来取。</li>\n<li>多种输出形式：除了普通回答，还能把内容整理成大纲、思维导图或时间线。</li>\n<li>多个检索来源：可以从搜索引擎、百科与代码托管平台等来源取信息。</li>\n<li>资料库：搜索与对话内容会进到 Library 里，方便回头翻找。</li>\n<li>登录方式：支持用常见第三方账号直接登录。</li>\n<li>免费档位：官方给出的免费方案包含基础使用量、基础对话模型与基础检索来源。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用 新时代的AI搜索引擎",
+        "html": "<p>要用新时代的AI搜索引擎，官网的入口做得很简洁：</p>\n<ol>\n<li>打开 ThinkAny 网站，用支持的第三方账号完成登录。</li>\n<li>在搜索框里直接描述问题，或者把问题写成一段对话，让它用对话方式展开。</li>\n<li>按需要切换模式：找现成答案走搜索，要追问与整理走对话或总结。</li>\n<li>结果不满意时换检索模式，从链接切到图片或视频；也可以换一个检索来源再试一次。</li>\n<li>需要把结果带走时，选择大纲、思维导图或时间线这几种输出形式。</li>\n<li>之前的检索与对话会留在资料库里，后续可以随时回看。</li>\n</ol>"
+      },
+      {
+        "title": "新时代的AI搜索引擎 的应用场景",
+        "html": "<p>新时代的AI搜索引擎适合的场景大致有这些：写材料前做资料摸底，用总结模式先把一个问题快速铺开；需要把分散信息整理成结构化骨架时，直接用大纲或思维导图输出；做竞品或技术调研的人，可以切换检索来源，从百科与代码托管平台等地方取不同角度的材料；习惯边搜边问的人，能在对话里连续追问而不用重新组织问题；查询量不大、只偶尔用一下的人，用免费档位的基础模型与基础来源就够了。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-06"
   },
   {
     "slug": "tool11851",
@@ -36203,23 +36385,23 @@
     "domain": "cherry-ai.com",
     "detailed_content": [
       {
-        "title": "Cherry Studio是什么",
-        "html": "<p>Cherry Studio 是集多模型对话、知识库管理、AI 绘画、翻译等功能于一体的开源全能 AI 客户端助手。Cherry Studio支持 Windows、macOS 和 Linux 系统，降低技术门槛，让零基础用户也能快速上手，同时为开发者提供强大的扩展能力。Cherry Studio 核心功能包括一问多答、自动分组、对话导出、<a href=\"https://ai-bot.cn/best-ai-painting-tools/\" target=\"_blank\" rel=\"noopener\">AI 绘画</a>、<a href=\"https://ai-bot.cn/best-ai-translation-tools/\" target=\"_blank\" rel=\"noopener\">翻译</a>功能等。Cherry Studio支持多服务商统一管理、高度自定义界面和布局，及本地知识库系统，确保数据安全。Cherry Studio 致力于提升用户的工作效率和创造力。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/08/Cherry-Studio-website.png\" data-fancybox=\"fancybox\" data-caption=\"Cherry Studio\"><img decoding=\"async\" class=\"alignnone wp-image-60109\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/Cherry-Studio-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Cherry Studio\" width=\"740\" height=\"416\"></a>"
+        "title": "开源全能 AI 客户端助手 是什么",
+        "html": "<p>开源全能 AI 客户端助手指的是 Cherry Studio。按官网文档的说法，它把多模型对话、智能体 Agent、知识库管理、AI 绘画与翻译等功能装进同一个界面，官方强调它高度可自定义、扩展能力强，零基础用户和开发者都能在里面找到合适的用法。</p>"
       },
       {
-        "title": "Cherry Studio的主要功能",
-        "html": "<ul>\n<li><strong>基础对话功能</strong>：\n<ul>\n<li><strong>一问多答</strong>：支持同一问题通过多个模型同时生成回复，方便用户对比不同模型的表现。</li>\n<li><strong>自动分组</strong>：每个助手的对话记录会自动分组管理，便于用户快速查找历史对话。</li>\n<li><strong>对话导出</strong>：支持将完整对话或部分对话导出为多种格式（如 Markdown、Word 等），方便储存与分享。</li>\n<li><strong>高度自定义参数</strong>：支持用户填写自定义参数，满足个性化需求。</li>\n<li><strong>助手市场</strong>：内置千余个行业专用助手，涵盖翻译、编程、写作等领域，同时支持用户自定义助手。</li>\n<li><strong>多种格式渲染</strong>：支持 Markdown 渲染、公式渲染、HTML 实时预览等功能，提升内容展示效果。</li>\n</ul>\n</li>\n<li><strong>多种特色功能集成</strong>：\n<ul>\n<li><strong>AI 绘画</strong>：提供专用绘画面板，支持用户用自然语言描述生成高质量图像。</li>\n<li><strong>AI 小程序</strong>：集成多种免费 Web 端 AI 工具，无需切换浏览器即可直接使用。</li>\n<li><strong>翻译功能</strong>：支持专用翻译面板、对话翻译、提示词翻译等多种翻译场景。</li>\n<li><strong>文件管理</strong>：对话、绘画和知识库中的文件统一分类管理，避免繁琐查找。</li>\n<li><strong>全局搜索</strong>：支持快速定位历史记录和知识库内容，提升工作效率。</li>\n</ul>\n</li>\n<li><strong>多服务商统一管理机制</strong>：\n<ul>\n<li><strong>服务商模型聚合</strong>：支持 OpenAI、<a href=\"https://ai-bot.cn/sites/736.html\" target=\"_blank\" rel=\"noopener\">Gemini</a>、Anthropic、Azure 等主流服务商的模型统一调用。</li>\n<li><strong>模型自动获取</strong>：一键获取完整模型列表，无需手动配置。</li>\n<li><strong>多秘钥轮询</strong>：支持多个 API 秘钥轮换使用，避免速率限制问题。</li>\n<li><strong>精准头像匹配</strong>：为每个模型自动匹配专属头像，提升辨识度。</li>\n<li><strong>自定义服务商</strong>：支持符合 OpenAI、Gemini、Anthropic 等规范的三方服务商接入。</li>\n</ul>\n</li>\n<li><strong>高度自定义界面和布局</strong>：\n<ul>\n<li><strong>自定义 CSS</strong>：支持全局样式自定义，打造专属界面风格。</li>\n<li><strong>自定义对话布局</strong>：支持列表或气泡样式布局，能自定义消息样式（如代码片段样式）。</li>\n<li><strong>自定义头像</strong>：支持为软件和助手设置个性化头像。</li>\n<li><strong>自定义侧边栏菜单</strong>：用户根据需求隐藏或排序侧边栏功能，优化使用体验。</li>\n</ul>\n</li>\n<li><strong>本地知识库系统</strong>：\n<ul>\n<li><strong>多种格式支持</strong>：支持 PDF、DOCX、PPTX、XLSX、TXT、MD 等多种文件格式导入。</li>\n<li><strong>多种数据源支持</strong>：支持本地文件、网址、站点地图甚至手动输入内容作为知识库源。</li>\n<li><strong>知识库导出</strong>：支持将处理好的知识库导出并分享给他人使用。</li>\n<li><strong>支持搜索检查</strong>：知识库导入后，用户能实时检索测试，查看处理结果和分段效果。</li>\n</ul>\n</li>\n<li><strong>特色聚焦功能</strong>：\n<ul>\n<li><strong>快捷问答</strong>：在任何场景（如微信、浏览器）中呼出快捷助手，快速获取答案。</li>\n<li><strong>快捷翻译</strong>：支持快速翻译其他场景中的词汇或文本。</li>\n<li><strong>内容总结</strong>：对长文本内容进行快速总结，提升信息提取效率。</li>\n<li><strong>解释说明</strong>：无需复杂提示词，一键解释说明不懂的问题。</li>\n</ul>\n</li>\n<li><strong>数据保障</strong>：\n<ul>\n<li><strong>多种备份方案</strong>：支持本地备份、WebDAV 备份和定时备份，确保数据安全。</li>\n<li><strong>数据安全</strong>：支持全本地场景使用，结合本地大模型，避免数据泄漏风险。</li>\n</ul>\n</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/08/Cherry-Studio-website2.png\" data-fancybox=\"fancybox\" data-caption=\"Cherry Studio\"><img decoding=\"async\" class=\"alignnone wp-image-60111\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/Cherry-Studio-website2.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Cherry Studio\" width=\"740\" height=\"544\"></a>"
+        "title": "开源全能 AI 客户端助手 的主要功能",
+        "html": "<p>开源全能 AI 客户端助手 Cherry Studio 的能力按官网文档分成几个板块，从日常对话一路覆盖到本地知识管理。</p>\n<ul>\n<li>多模型对话：同一个问题可以让多个模型同时作答，方便对照不同模型的表现；对话记录自动分组管理，整段或部分对话可以导出成 Markdown、Word 等格式。</li>\n<li>助手与参数：内置翻译、编程、写作等预设助手，也支持自定义助手；除常规参数外还能填写自定义参数，并支持 Markdown、公式与 HTML 实时预览。</li>\n<li>智能体与自动化：智能体可以读取文件、运行命令、完成多步任务；技能相当于给助手加装的能力包；通过 MCP 接入数据库、Notion、GitHub 一类外部工具；频道能把智能体派驻到飞书、微信、Telegram、Discord 当群机器人；定时任务让智能体按计划自动执行。</li>\n<li>本地知识库：可导入 PDF、Word、表格、演示、纯文本与 Markdown 等常见文档格式，数据源支持本地文件、网址、站点地图或手动录入，入库后可以先检索测试再使用，处理好的知识库还能导出分享。</li>\n<li>多服务商管理：OpenAI、Gemini、Anthropic、Azure 等主流服务商的模型可以统一调用，模型列表一键获取，多个 API 密钥可轮换使用，也支持接入符合这些规范的三方服务商。</li>\n<li>界面与数据：可以替换 CSS、切换列表或气泡式对话布局、自定义头像与侧边栏菜单；数据侧提供本地备份、WebDAV 备份与定时备份，并支持结合本地模型全本地运行。</li>\n<li>效率类小功能：快捷问答、划词助手、快捷翻译、长文总结与一键解释。</li>\n</ul>"
       },
       {
-        "title": "如何使用Cherry Studio",
-        "html": "<ul>\n<li><strong>下载客户端</strong>：访问 Cherry Studio 官网（https://www.cherry-ai.com/）。根据操作系统（Windows、macOS、Linux）选择合适的客户端版本进行下载。</li>\n<li><strong>安装客户端</strong>：\n<ul>\n<li><strong>Windows</strong>：下载安装包后，双击运行安装程序，按照提示完成安装。</li>\n<li><strong>macOS</strong>：\n<ul>\n<li>下载安装包后，双击打开 .dmg 文件。</li>\n<li>将 Cherry Studio 拖动到“应用程序”文件夹中。</li>\n<li>打开“应用程序”文件夹，启动 Cherry Studio。</li>\n</ul>\n</li>\n<li><strong>Linux</strong>：下载 .deb 或 .rpm 安装包，根据 Linux 发行版选择合适的安装包类型，通过终端运行安装命令。</li>\n</ul>\n</li>\n<li><strong>配置 API 密钥</strong>：启动 Cherry Studio 后，配置 API 密钥使用功能。在 Cherry Studio 的设置中，输入 API 密钥。</li>\n<li><strong>使用核心功能</strong>：\n<ul>\n<li><strong>多模型对话</strong>：在对话界面中输入问题，选择不同的模型进行回答。</li>\n<li><strong>知识库管理</strong>：通过导入文件或网址创建本地知识库，使用搜索功能快速查找内容。</li>\n<li><strong>AI 绘画</strong>：在绘画面板中输入描述，生成高质量图像。</li>\n<li><strong>翻译功能</strong>：在翻译面板中输入文本，进行翻译。</li>\n</ul>\n</li>\n<li><strong>更多功能</strong>：\n<ul>\n<li><strong>GitHub</strong>：访问 Cherry Studio GitHub 仓库（https://github.com/CherryHQ/cherry-studio）获取最新代码和参与贡献。</li>\n<li><strong>GitCode</strong>：访问 Cherry Studio GitCode 仓库（https://gitcode.com/CherryHQ/cherry-studio）获取国内镜像和社区支持。</li>\n</ul>\n</li>\n</ul>"
+        "title": "如何使用 开源全能 AI 客户端助手",
+        "html": "<p>在终端设备上使用开源全能 AI 客户端助手时，官网给出的路径是先装客户端，再配模型。</p>\n<ol>\n<li>从 Cherry Studio 官网下载桌面版或移动版客户端并完成安装。</li>\n<li>在服务商设置里填入已有厂商的 API 密钥，一键拉取模型列表；如果用的是兼容 OpenAI、Gemini、Anthropic 规范的三方服务，选择对应类型后手动填写地址与密钥。</li>\n<li>按用途配置助手：常用场景直接调用预设助手，特殊需求可以新建助手并写清它的角色与要求。</li>\n<li>要沉淀资料时新建知识库，把本地文档、网页地址或站点地图导入，先检索测试确认分段效果。</li>\n<li>想让流程自动跑起来，就到工作页面配置智能体、技能、MCP 与定时任务，也可以把智能体派到 IM 平台当机器人。</li>\n</ol>"
       },
       {
-        "title": "Cherry Studio的应用场景",
-        "html": "<ul>\n<li><strong>知识管理与学习</strong>：学生和研究人员快速整理和检索文献资料，提升学习和研究效率。</li>\n<li><strong>创意设计与绘画</strong>：设计师和艺术家用自然语言描述生成高质量图像，激发创意，快速完成设计概念图和艺术作品。</li>\n<li><strong>跨语言交流与办公</strong>：用户在国际交流、阅读外文文献或处理多语言文档时快速获取准确翻译，提升办公效率。</li>\n<li><strong>内容创作与写作</strong>：内容创作者快速生成文案、故事、代码片段等，对比不同模型的输出，选择最适合的内容。</li>\n<li><strong>个人效率提升</strong>：在日常生活中，用户快速获取信息、翻译文本、总结长文，提升个人效率和生活质量。</li>\n</ul>"
+        "title": "开源全能 AI 客户端助手 的应用场景",
+        "html": "<p>官网把开源全能 AI 客户端助手的适用人群分得比较清楚：需要长期整理资料的研究与教育用户，可以用本地知识库沉淀专属文档并随时检索；同时要比较多个模型输出的人，可以靠一问多答把答案摆在一起看；日常处理跨语言材料或文档的人，可以用内置翻译面板与文件管理减少切换；做设计或插画的人可以直接按描述出图；在意数据不出本机的用户，则能搭配本地模型在离线环境里使用。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-06"
   },
   {
     "slug": "tool5973",
@@ -36239,8 +36421,25 @@
     "subcategory": "ai-models-llm",
     "logo": "/logos/tool5973.png",
     "domain": "ollama.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "本地运行Llama和其他大语言模型 是什么",
+        "html": "<p>本地运行Llama和其他大语言模型描述的是 Ollama。官方仓库首页给出一句话定位——从开源模型开始构建，紧接着列出各平台的下载与安装入口。</p>"
+      },
+      {
+        "title": "本地运行Llama和其他大语言模型 的主要功能",
+        "html": "<p>从官方仓库的说明看，本地运行Llama和其他大语言模型所依赖的 Ollama 提供这些能力：</p>\n<ul>\n<li>多平台安装：macOS 与 Linux 用一条安装脚本，Windows 用对应的安装脚本或安装包，另提供官方 Docker 镜像。</li>\n<li>官方客户端库：Python 与 JavaScript 两个语言包，方便在自己的程序里调用。</li>\n<li>命令行入口：直接运行 ollama 就会引导你选择要跑的模型，或者把 Ollama 接到已有的智能体与应用上。</li>\n<li>编码类集成：官方给出 Codex、Claude Code，以及 Copilot CLI、Droid、OpenCode 等入口，一条启动命令即可接上。</li>\n<li>助手化用法：可配合 OpenClaw 把这套本地能力变成常驻个人助手，覆盖 WhatsApp 与 Telegram，也支持 Slack、Discord。</li>\n<li>模型库与对话：用 run 加模型名直接开聊，完整模型清单在官方模型库页面按名称列出。</li>\n<li>本地接口：内置 REST API，默认在本地端口提供对话与模型管理接口，官方给出 API 文档。</li>\n<li>生态集成：官方仓库还整理了终端工具、生产力应用、可观测性、数据库与向量检索、云端与包管理器等多个方向的第三方集成。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用 本地运行Llama和其他大语言模型",
+        "html": "<p>按官方仓库的说明，跑起本地运行Llama和其他大语言模型只要几步：</p>\n<ol>\n<li>按自己的系统选安装方式：macOS、Linux、Windows 各有脚本或安装包，也可以用官方 Docker 镜像。</li>\n<li>装完后在终端执行 ollama，按提示决定是直接跑一个模型，还是先接上已有的智能体和应用。</li>\n<li>要写代码就按集成文档把 Ollama 接到对应编辑器或命令行助手，官方提供一条启动命令。</li>\n<li>想聊天时用 run 命令带上模型名，模型会从官方模型库按名称拉取。</li>\n<li>要在自己的程序里调用，就用 REST 接口指向本地端口；Python 与 JavaScript 项目可以装官方客户端库。</li>\n<li>需要扩展场景时，从官方整理的集成清单里挑工具接上。</li>\n</ol>"
+      },
+      {
+        "title": "本地运行Llama和其他大语言模型 的应用场景",
+        "html": "<p>本地运行Llama和其他大语言模型适合几类实际需求：在意数据不上云的人，可以在自己机器上跑模型，把请求留在本地；想给编辑器装一个可换底座的编程助手的人，可以用官方给出的编码类集成；要把模型接进自己的应用做二次开发的团队，可以直接调本地接口或使用官方语言包；需要跨聊天软件做提醒与问答的人，可以配合助手类集成把它变成常驻入口；而只是想先试几个开源模型效果的人，一条命令就能跑起来，试错成本很低。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-06"
   },
   {
     "slug": "tool1487",
@@ -37689,8 +37888,25 @@
     "subcategory": "ai-detection-optimize",
     "logo": "/logos/tool16912.jpg",
     "domain": "xueshu.tuanxiang.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI内容检测与优化平台 是什么",
+        "html": "<p>AI内容检测与优化平台指的是团象学术。它的首页把服务边界写得很窄：AIGC 查重、AIGC 降重、降低 AI 痕迹，以及免费的论文 AI 检测，主要面向需要提交论文的在校用户。</p>"
+      },
+      {
+        "title": "AI内容检测与优化平台 的主要功能",
+        "html": "<p>AI内容检测与优化平台对外提供的入口按官网首页的导航可以列出这些：</p>\n<ul>\n<li>论文 AIGC 查重：判断文稿里有多少比例会被识别为 AI 生成。</li>\n<li>论文 AIGC 降重：对已经判定含有 AI 痕迹的段落做处理。</li>\n<li>降 AIGC：针对检测结果给出整体优化流程。</li>\n<li>免费论文 AI 检测：开放一个免费检测入口，先看结果再决定怎么改。</li>\n<li>资讯栏目：把写作方法、检测口径与合规要求整理成文章，内容覆盖选题、文献综述、开题报告到格式排版。</li>\n<li>合规提醒：站内多篇文章强调用 AI 辅助写作要合规，提醒不要用模型编造参考文献。</li>\n<li>标签体系：站内按论文 AI 率、AIGC 检测、参考文献等主题做了标签聚合。</li>\n</ul>"
+      },
+      {
+        "title": "如何使用 AI内容检测与优化平台",
+        "html": "<p>用 AI内容检测与优化平台处理一篇论文，官网给出的功能顺序大致是：</p>\n<ol>\n<li>先走免费论文 AI 检测入口，把已完成的文稿上传或粘贴进去，拿到 AI 率的初步结果。</li>\n<li>根据结果判断问题范围：是整体偏高，还是集中在个别段落。</li>\n<li>对超标的段落使用降 AI 与 AIGC 降重功能，逐段处理而不是整篇重来。</li>\n<li>处理完再检测一次，确认指标回到可接受区间。</li>\n<li>同时对照站内关于合规写作的说明，检查参考文献是否真实可查、数据与结论是否有出处。</li>\n<li>格式与排版问题可以在资讯栏目里按对应主题查找操作方法。</li>\n</ol>"
+      },
+      {
+        "title": "AI内容检测与优化平台 的应用场景",
+        "html": "<p>AI内容检测与优化平台最适合的时机是论文送审与答辩之前：定稿前先检测一遍，能把风险集中在少数段落里处理，而不是整篇返工；文献综述、开题报告这类本来就大量依赖资料整理的部分容易带上 AI 痕迹，可以优先处理；导师明确要求说明 AI 使用情况时，站内关于合规处理的说明能帮作者分清哪些环节可以交给工具、哪些必须自己写清楚；对格式与引用规范不熟的新手，也可以把它当作一把索引，先定位问题再逐项解决。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-06"
   },
   {
     "slug": "tool393",
