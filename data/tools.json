@@ -12513,27 +12513,23 @@
     "domain": "lumalabs.ai",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<p>Dream Machine是由人工智能公司Luma AI推出的<a href=\"https://ai-bot.cn/ai-video-generation-tools/\" target=\"_blank\" rel=\"noopener\">AI视频生成工具</a>，利用先进的人工智能技术，可根据用户输入的简单文本描述或上传的图片，快速生成高质量的视频片段（120秒即可生成120帧的视频）。该AI视频生成系统不仅能够理解文本中的指令，还能准确渲染出指定的对象、角色、动作和环境，同时保持视频的流畅动作和连贯叙事。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/06/dream-machine.png\" data-fancybox=\"fancybox\" data-caption=\"Dream Machine\"><img decoding=\"async\" class=\"alignnone size-full wp-image-13456 rounded-lg\" src=\"https://ai-bot.cn/wp-content/uploads/2024/06/dream-machine.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Dream Machine\" width=\"700\"></a>\n<p>Dream Machine的推出，为视频创作者提供了一个前所未有的平台，大大降低了视频制作的技术门槛和成本。无论是个人爱好者还是专业团队，都可以通过这个工具快速实现创意，探索视频制作的新可能性。此外，Dream Machine已开放公测，所有用户都可以免费在线进行体验。</p>"
+        "title": "Luma AI推出的AI视频生成工具 是什么",
+        "html": "<p>Luma AI推出的AI视频生成工具 指的是 Luma 的 Dream Machine 及其配套创作工作台，入口在 lumalabs.ai。官网近一阶段的表述从「生成视频」扩展成了「为创意从业者提供创作智能体」：规划、生成、迭代与打磨被串成一条连续链路，中间的上下文在各环节之间保持不丢。它把多类专业多模态模型整合进同一套工作流里。</p>"
       },
       {
-        "title": "Dream Machine的主要功能",
-        "html": "<ul class=\"text-md\">\n<li><strong>文本到视频的转换</strong>：Dream Machine利用自然语言处理技术，解析用户的文本描述，无论是详细的场景设置还是抽象的概念，都能转换成视觉内容。用户可以描述一个动态场景，如“一只小狗在草地上追逐飞盘”，系统将自动生成相应的视频，包括小狗的动作和草地的环境。</li>\n<li><strong>图像到视频的转换</strong>：用户上传的静态图片可以作为视频的起点或背景，Dream Machine能够识别图片中的元素，并围绕这些元素创造动态视频。例如，上传一张风景照片，系统可以生成一段展示日落变化的视频。</li>\n<li><strong>高质量视频生成</strong>：生成的视频不仅分辨率高，而且在色彩、光线和细节上都经过精心处理，以达到接近专业制作的视频质量。无论是用于商业广告、社交媒体内容还是个人项目，都能满足高标准的视觉需求。</li>\n<li><strong>快速迭代</strong>：Dream Machine的设计注重效率，能够在极短的时间内完成视频生成（120秒内生成120帧），用户可以快速测试不同的创意，加速从概念到成品的转化过程。</li>\n<li><strong>物理准确性</strong>：系统内置的物理引擎确保视频中的物体运动符合现实世界的物理规律，如重力、碰撞等，使得生成的视频更加真实可信。</li>\n<li><strong>角色和环境的一致性</strong>：Dream Machine能够理解并模拟人物、动物和物体之间的相互作用，保持视频内容的逻辑一致性，无论是角色的表情、动作还是环境的变化。</li>\n<li><strong>流畅的摄像机运动</strong>：系统提供多种摄像机运动选项，如平移、缩放、旋转等，用户可以根据需要选择或自定义摄像机的运动路径，创造出具有电影感的视频效果。</li>\n<li><strong>易于使用</strong>：Dream Machine的用户界面直观易用，无需专业的视频编辑背景，使得视频创作变得更加亲民和便捷。</li>\n<li><strong>API和插件支持</strong>：Dream Machine后续还计划提供API和插件进行扩展，与现有的创意软件无缝集成，提供更多的定制选项和创作灵活性，满足专业创作者的特殊需求。</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/06/dream-machine-sample-videos.png\" data-fancybox=\"fancybox\" data-caption=\"Dream Machine\"><img decoding=\"async\" class=\"alignnone size-full wp-image-13459 rounded-lg\" src=\"https://ai-bot.cn/wp-content/uploads/2024/06/dream-machine-sample-videos.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Dream Machine\" width=\"700\"></a>"
+        "title": "Luma AI推出的AI视频生成工具 的主要功能",
+        "html": "<p>Luma AI推出的AI视频生成工具 的能力，官网按协作与产出两条线展开：</p><ul><li>创作智能体：智能体内嵌在流程里，从概念一直推进到可交付成果；</li><li>上下文共享：素材、提示词与品牌信息在不同格式与环节之间同步；</li><li>并行协作：团队与智能体同时推进多个方向，提升单位时间的产出；</li><li>技能化：把重复使用的流程固化成技能，之后一键调用；</li><li>团队空间：共用额度并统一查看用量；</li><li>成片环节：支持拼接片段、叠加字幕并输出成品；</li><li>专业格式：可导出高质量图像序列文件，用于后期制作。</li></ul>"
       },
       {
-        "title": "如何使用Dream Machine生成视频",
-        "html": "<ol>\n<li>访问Dream Machine的官网，点击Try Now进行注册登录</li>\n<li>在输入框中输入文本提示词，你也可以上传图片进行转换</li>\n<li>可选择勾选Enhance Promopt增强优化提示词</li>\n<li>最后点击发送按钮，等待视频生成即可</li>\n</ol>"
+        "title": "如何使用 Luma AI推出的AI视频生成工具",
+        "html": "<p>用 Luma AI推出的AI视频生成工具 做一条片子，通常这样开始：</p><ol><li>打开 lumalabs.ai 进入创作台并登录；</li><li>先明确用途，比如商品展示、社媒短片还是预告片；</li><li>用文字描述画面与镜头要求，生成第一版片段；</li><li>对不满意的镜头继续迭代，或换用不同模型与参数重跑；</li><li>把片段拼接起来，补上字幕与配音，需要多语言时再做本地化。</li></ol>"
       },
       {
-        "title": "Dream Machine的产品价格",
-        "html": "<p>Dream Machine目前推出了研究预览定价，具体价格如下：</p>\n<ul>\n<li><strong>免费版</strong>：每月可生成30个视频</li>\n<li><strong>Standard版</strong>：每月29.99美元，每月可生成120个视频</li>\n<li><strong>Pro版</strong>：每月29.99美元，每月可生成400个视频</li>\n<li><strong>Premier版</strong>：每月499.99美元，每月可生成2000个视频</li>\n</ul>"
-      },
-      {
-        "title": "Dream Machine的适用人群",
-        "html": "<ul class=\"text-md\">\n<li><strong>独立创作者</strong>：对于想要表达自己创意但缺乏专业视频制作技能的个人创作者，Dream Machine提供了一个简单易用的途径来实现他们的想象。</li>\n<li><strong>视频编辑和动画师</strong>：专业视频编辑和动画师可以使用Dream Machine来加速视频制作流程，快速生成草图或原型，节省时间和成本。</li>\n<li><strong>广告和营销专家</strong>：在广告和营销领域，创意和时间至关重要。Dream Machine能够帮助他们快速生成吸引人的视频广告，提高市场竞争力。</li>\n<li><strong>教育工作者</strong>：教师和教育工作者可以利用Dream Machine创造教育内容，如概念讲解或科学实验演示，使学习更加生动有趣。</li>\n<li><strong>游戏开发者</strong>：游戏设计师可以使用Dream Machine来快速生成游戏内动画或宣传视频，提高开发效率。</li>\n<li><strong>电影和电视制作人员</strong>：在电影和电视行业中，Dream Machine可以用于前期制作，帮助导演和制片人可视化剧本，或者用于生成特效预览。</li>\n<li><strong>社交媒体影响者</strong>：社交媒体上的博主和影响者可以使用Dream Machine来创造吸引人的社交媒体视频内容，增加粉丝互动。</li>\n<li><strong>企业市场部门</strong>：企业可以利用Dream Machine来制作产品介绍、培训材料或内部通讯视频，提高内部沟通效率。</li>\n</ul>"
+        "title": "Luma AI推出的AI视频生成工具 的应用场景",
+        "html": "<p>官网列出的用例很具体，Luma AI推出的AI视频生成工具 主要面向这些场景：</p><ul><li>品牌与营销：统一调性的多素材 campaign、各平台短视频广告；</li><li>电商呈现：多角度商品图、模特上身照与包装效果模拟；</li><li>内容创作：播客片段转视频、故事板与短片预告；</li><li>演示与教学：把复杂系统做成可视化解说，或生成课件与信息图；</li><li>增长测试：批量产出多版本素材用于投放对比；</li><li>素材本地化：把一支成片换成多种语言版本后分发到不同市场。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "typemovie-art",
@@ -16051,8 +16047,25 @@
     "subcategory": "ai-office-doc",
     "logo": "/logos/tool7120.png",
     "domain": "read.youdao.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "网易有道推出的AI论文和文档阅读助手 是什么",
+        "html": "<p>网易有道推出的AI论文和文档阅读助手 指的是有道速读，入口在 read.youdao.com。它是网易有道面向学术场景推出的阅读工具，官方说明里点名要解决的是外文文献「读得慢、翻得不准」的问题：接入有道自研的翻译大模型，并对科研语境做了定向适配，把翻译、检索与管理放进同一套阅读流程里。</p>"
+      },
+      {
+        "title": "网易有道推出的AI论文和文档阅读助手 的主要功能",
+        "html": "<p>网易有道推出的AI论文和文档阅读助手 的功能，官网按翻译方式拆成几种：</p><ul><li>大模型翻译：面向科研文献定向优化，译文与原句之间可快速跳转对照；</li><li>文档翻译：整篇文档一次性处理，逐句对照展示；</li><li>划词翻译：选中段落即时出译文，浮窗定位不遮挡原文；</li><li>截图翻译：图片型文档也能识别，按区域截图即可翻译；</li><li>术语适配：依托专业术语库覆盖多学科表达，降低术语错译；</li><li>长文连贯：借助较长的上下文窗口减少语义断层；</li><li>复杂元素处理：公式、图例与数据标签等版面元素尽量保持原样；</li><li>结果导出：译文可一键导出，便于译后编辑与二次引用；</li><li>阅读管理：检索与管理同一入口完成，读过的内容可反复调取；</li><li>多学科适配：页面按人工智能、数学、经济等方向列出了适用领域。</li></ul>"
+      },
+      {
+        "title": "如何使用 网易有道推出的AI论文和文档阅读助手",
+        "html": "<p>使用 网易有道推出的AI论文和文档阅读助手 读一篇外文文献，大致是这样：</p><ol><li>打开 read.youdao.com，登录自己的账号；</li><li>上传要读的文档，或直接打开在线阅读界面；</li><li>选择整篇翻译，先看一遍大意；</li><li>遇到关键段落时切到划词或对照模式逐句核对；</li><li>读完后导出译文或笔记，存进自己的资料库。</li></ol>"
+      },
+      {
+        "title": "网易有道推出的AI论文和文档阅读助手 的应用场景",
+        "html": "<p>从官网举的学科例子看，网易有道推出的AI论文和文档阅读助手 主要面向这些场合：</p><ul><li>科研阅读：跟进外文期刊与会议论文；</li><li>毕业论文：查阅与引用海外文献；</li><li>课程学习：读原版教材与讲义；</li><li>跨学科选题：快速判断另一领域文献是否值得细读；</li><li>团队共享：把译文与笔记整理后分发给同组同学。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "tool8584",
@@ -16072,8 +16085,25 @@
     "subcategory": "ai-office-doc",
     "logo": "/logos/tool8584.png",
     "domain": "wj.qq.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "腾讯推出的AI生成调查问卷的免费工具 是什么",
+        "html": "<p>腾讯推出的AI生成调查问卷的免费工具 指的是腾讯问卷里的 AI 生成功能，入口为 wj.qq.com/ai/generate.html。它的使用方式很直接：用一段话说明调查的受众与目的，系统据此产出一整套题目。问卷生成后仍在腾讯问卷的体系里流转，也就是说题目设计、回收与统计不需要在多个工具之间来回搬。生成环节不需要先写提纲，写给受众看的内容越具体，出题方向就越贴近目标。</p>"
+      },
+      {
+        "title": "腾讯推出的AI生成调查问卷的免费工具 的主要功能",
+        "html": "<p>腾讯推出的AI生成调查问卷的免费工具 在官网上呈现出来的能力有几项：</p><ul><li>整卷生成：描述受众与目的后一次性给出完整题目；</li><li>题型可控：生成的问卷里同时包含单选与多选等常见题型；</li><li>范例参考：页面备有幼儿英语随堂测试、培训需求调查等示例，可套用后修改；</li><li>生成引擎：页面标注调用的是推理型大模型来完成题目撰写；</li><li>数据统计：回收结果直接在腾讯问卷后台汇总，不必导出再算；</li><li>分享分发：生成的问卷可通过链接或二维码发出去；</li><li>协议与合规：平台单独发布了 AI 功能的服务协议，明确了使用边界；</li><li>免费额度：生成与回收环节都有可免费使用的部分，适合先试后买；</li><li>分发方式：问卷以链接或二维码形式发出，回收进度在后台实时可见。</li></ul>"
+      },
+      {
+        "title": "如何使用 腾讯推出的AI生成调查问卷的免费工具",
+        "html": "<p>要产出 腾讯推出的AI生成调查问卷的免费工具 的第一份问卷，可以这样做：</p><ol><li>打开生成页面，先想清楚调查对象、目的和想要收集的信息；</li><li>把这几项写成一段话填进输入框；</li><li>等系统返回题目，逐题检查措辞是否会引起歧义；</li><li>补充或删减题目，必要时切换题型；</li><li>确认后发布，把链接或二维码发给目标人群。</li></ol>"
+      },
+      {
+        "title": "腾讯推出的AI生成调查问卷的免费工具 的应用场景",
+        "html": "<p>官网给出的范例覆盖了 腾讯推出的AI生成调查问卷的免费工具 的常见用法：</p><ul><li>教学场景：随堂测验与课堂反馈；</li><li>企业内部：培训需求调研与培训效果评估；</li><li>评选活动：优秀员工评选之类的提名与投票；</li><li>产品运营：新功能满意度与用户体验反馈；</li><li>用户研究：了解玩家习惯、喜好与改进建议。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "tool19652",
@@ -16667,8 +16697,25 @@
     "subcategory": "ai-office-doc",
     "logo": "/logos/tool2621.png",
     "domain": "edrawsoft.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "万兴科技推出的跨端AI思维导图助手 是什么",
+        "html": "<p>万兴科技推出的跨端AI思维导图助手 就是万兴脑图，官网地址为 edrawsoft.cn/mindmaster。它是万兴科技旗下的思维导图软件，作品文件在多终端之间同步，并接入了推理型大模型来做导图的生成与优化。官网强调它同时服务学习与工作两类场景，口号是「学习工作都提效」，同门还包括万兴图示、万兴画板等绘图类产品。</p>"
+      },
+      {
+        "title": "万兴科技推出的跨端AI思维导图助手 的主要功能",
+        "html": "<p>万兴科技推出的跨端AI思维导图助手 在官网上列出的功能点比较集中：</p><ul><li>AI 对话成图：用自然语言描述主题，由大模型直接铺出分支结构；</li><li>AI 问答：围绕已有导图追问，补充遗漏的知识点；</li><li>任务看板视图：把导图节点转成卡片，按列排布分配责任人；</li><li>大纲视图：树形文本与图形化导图之间来回切换；</li><li>演说模式与 PPT 生成：把整张图转成可演示的页面；</li><li>手绘风格：用 AI 把标准导图改成手绘观感；</li><li>模板中心与知识社区：提供现成的结构骨架和他人整理的框架；</li><li>多端同步：桌面客户端、网页版与移动端共用同一份文件；</li><li>格式兼容：导图可导出为图片或文档，方便贴进报告与作业里。</li></ul>"
+      },
+      {
+        "title": "如何使用 万兴科技推出的跨端AI思维导图助手",
+        "html": "<p>想用起 万兴科技推出的跨端AI思维导图助手，可以照下面的顺序：</p><ol><li>到官网下载客户端，或直接用网页版登录账号；</li><li>新建一份空白脑图，或用 AI 对话把标题与要点输进去生成初稿；</li><li>拖动节点调整层级，需要理任务时切到任务看板视图排期；</li><li>写材料阶段切到演说模式，或导出成幻灯片用于汇报；</li><li>文件会自动同步，换设备打开即可继续编辑。</li></ol>"
+      },
+      {
+        "title": "万兴科技推出的跨端AI思维导图助手 的应用场景",
+        "html": "<p>官网在场景页里把 万兴科技推出的跨端AI思维导图助手 拆成三种高频用法：</p><ul><li>知识整理：按课程或考纲梳理框架，从小学到大学的课程结构都能套用；</li><li>会议脑暴：把讨论中的零散观点在线归类，让结论显性化；</li><li>项目管理：把导图变成任务清单，逐项跟进进度；</li><li>内容输出：在导图基础上直接生成讲稿或课件页面。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "imiaoban-com",
@@ -17829,23 +17876,23 @@
     "domain": "yoojober.com",
     "detailed_content": [
       {
-        "title": "YOO简历是什么",
-        "html": "<p>YOO简历是必优科技推出的<a href=\"https://ai-bot.cn/ai-cv-generation-tools/\" target=\"_blank\" rel=\"noopener\">AI简历生成工具</a>，专注用AI技术简化求职过程中的简历制作。YOO简历提供简历模板的智能生成、语句纠错、自动翻译、AI识别与解析等多功能服务。YOO简历通过AI简历分析、岗位匹配等工具，帮助用户优化简历内容，提升求职效率。目标是降低简历写作难度，让求职者能快速制作出专业且有吸引力的简历，增加获得面试的机会。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/08/YOO-website.png\" data-fancybox=\"fancybox\" data-caption=\"YOO简历\"><img decoding=\"async\" class=\"alignnone size-full wp-image-15117\" src=\"https://ai-bot.cn/wp-content/uploads/2024/08/YOO-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"YOO简历\" width=\"800\" height=\"450\"></a>"
+        "title": "必优科技推出的AI简历生成工具 是什么",
+        "html": "<p>必优科技推出的AI简历生成工具 指的是 YOO 简历，站点为 yoojober.com。官网把求职过程拆成写、改、测三步，对应三个入口：智能简历负责生成与编辑，简历分析负责诊断问题，岗位探测负责判断与目标的匹配度。站内还有一位虚拟助理负责引导，用户输入目标岗位后即可开始定制。整条流程都放在浏览器里完成，不需要先装专业排版软件。</p>"
       },
       {
-        "title": "YOO简历的主要功能",
-        "html": "<ul>\n<li><strong>多端同步录入</strong>：允许用户在不同设备上同步编辑简历，实现无缝切换。</li>\n<li><strong>智能翻译与联想输入</strong>：提供多语言翻译服务，同时支持智能联想输入，提高编辑效率。</li>\n<li><strong>语义纠错与智能排版</strong>：AI技术自动纠正简历错误，并提供专业的排版设计。</li>\n<li><strong>样式美化</strong>：用户可一键切换简历的语言、风格、配色、布局和LOGO，实现个性化定制。</li>\n<li><strong>范文集成</strong>：拥有超过600万份的求职简历模板，覆盖广泛的专业、岗位和企业，提供丰富的参考资源。</li>\n<li><strong>“TRIMG”指数</strong>：与人力资源机构合作推出的简历竞争力评估指标，帮助用户了解简历的市场表现。</li>\n<li><strong>全文检索与自动纠错</strong>：AI技术进行全文检索，自动纠正简历中的错误，确保内容的准确性。</li>\n<li><strong>模块补充与分析</strong>：基于用户信息提供模块补充，进行深入分析，帮助用户全面理解简历。</li>\n<li><strong>实时智能优化建议</strong>：AI大数据技术进行行业对比与诊断，提供实时的优化建议。</li>\n<li><strong>AI岗位探测</strong>：智能匹配用户简历与岗位，提供投递分析和建议，帮助用户发现合适的工作机会。</li>\n</ul>"
+        "title": "必优科技推出的AI简历生成工具 的主要功能",
+        "html": "<p>必优科技推出的AI简历生成工具 在官网上列出的功能点包括：</p><ul><li>AI 生成简历：输入目标岗位关键词，直接产出可用内容；</li><li>在线编辑器：以流式交互方式写简历，支持一键美化与多维度润色；</li><li>范文库：提供面向常见企业的简历结构参考，可套用后改写；</li><li>简历分析：对现有简历做诊断，指出需要优化的位置；</li><li>岗位探测：把人岗匹配情况量化，辅助判断该不该投；</li><li>导入与转换：可把已有简历导入后直接在线编辑；</li><li>插件生态：除网页端外还提供浏览器扩展与文档插件，在常用办公环境里直接调用；</li><li>求职社区：围绕简历与投递形成交流区，便于互相参考。</li></ul>"
       },
       {
-        "title": "如何使用YOO简历",
-        "html": "<ul>\n<li><strong>访问网站</strong>：访问YOO简历官网：<a href=\"https://www.yoojober.com/?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">https://www.yoojober.com/</a></li>\n<li><strong>选择模板</strong>：YOO简历提供了多种简历模板，根据个人喜好和求职需求选择合适的模板。</li>\n<li><strong>编辑简历</strong>：使用YOO简历的编辑器填写个人信息、教育背景、工作经验等。编辑器支持智能翻译、联想输入、语义纠错等AI辅助功能。</li>\n<li><strong>个性化定制</strong>：使用YOO简历的样式美化功能，一键切换语言、风格、配色、布局和LOGO，简历更具个性化。</li>\n<li><strong>AI辅助写作</strong>：使用YOO简历的AI辅助写作系统，包括智能翻译、联想输入、语义纠错等，提高简历的质量和专业性。</li>\n<li><strong>简历分析</strong>：使用YOO简历的AI简历分析功能，获取全文检索、自动纠错、模块补充与分析，及基于核心信息和经验内容的智能优化建议。</li>\n<li><strong>岗位匹配</strong>：使用AI岗位探测功能，根据简历内容和求职意向，智能推荐匹配的岗位。</li>\n<li><strong>导出简历</strong>：编辑完成后，将简历导出为Word、PDF等格式，方便打印或在线投递。</li>\n</ul>"
+        "title": "如何使用 必优科技推出的AI简历生成工具",
+        "html": "<p>第一次使用 必优科技推出的AI简历生成工具，可以照这个顺序走：</p><ol><li>打开 yoojober.com 注册并登录；</li><li>输入想投的岗位名称，或把旧简历导入进来；</li><li>按引导填写经历与技能，让系统生成初稿；</li><li>用分析功能跑一遍诊断，按提示补齐量化成果；</li><li>排版确认后导出文件，或装上插件在日常环境里继续微调。</li></ol>"
       },
       {
-        "title": "YOO简历的适用人群",
-        "html": "<ul>\n<li><strong>应届毕业生</strong>：缺乏工作经验，需要一个专业且具有吸引力的简历来展示自己的教育背景和潜力。</li>\n<li><strong>职场新人</strong>：正在寻找第一份工作或转职，需要一个能够帮助他们突出个人优势的简历。</li>\n<li><strong>跨行业求职者</strong>：需要转换职业方向，希望通过简历展示其可转移技能和适应新行业的能力。</li>\n<li><strong>国际求职者</strong>：可能需要一个多语言版本的简历，YOO简历的智能翻译功能可以帮助他们跨越语言障碍。</li>\n</ul>"
+        "title": "必优科技推出的AI简历生成工具 的应用场景",
+        "html": "<p>从站内引导看，必优科技推出的AI简历生成工具 主要服务这几类需求：</p><ul><li>应届求职：没有写作经验时先拿到一份结构规范的初稿；</li><li>转行跳槽：针对新岗位重新组织经历描述；</li><li>批量投递：同一段经历按不同岗位调整侧重；</li><li>简历体检：投递前排查表述空泛、信息缺失等问题；</li><li>校内指导：就业辅导场景下用于批量修改学生简历；</li><li>岗位预判：投递前先看匹配度，把时间留给更有把握的机会。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "pan-baidu-com",
@@ -18293,23 +18340,23 @@
     "domain": "base.feishu.cn",
     "detailed_content": [
       {
-        "title": "飞书多维表格是什么",
-        "html": "<p>飞书多维表格是表格形态的 AI 工作流搭建工具，支持批量化的AI创作与分析任务。飞书多维表格具有强大的协作功能，支持多人实时编辑和批注讨论，提供丰富的字段类型和视图，满足多样化数据管理需求。飞书多维表格集成<a href=\"https://ai-bot.cn/deepseek-r1/\" target=\"_blank\" rel=\"noopener\">DeepSeek R1</a>满血版模型，支持用户在表格中新建AI字段捷径，基于AI模型完成批量写作、分析等任务，大幅提升工作效率。在工作流使用上，支持自动化能力，用户设置触发条件和执行操作，实现任务自动分配、提醒等操作，工作流支持实现“条件分支”等更加复杂的逻辑，适合多节点的复杂流程，有效提升工作流的效率和便捷性。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/03/feishuduoweibiaoge-website.png\" data-fancybox=\"fancybox\" data-caption=\"飞书多维表格\"><img decoding=\"async\" class=\"alignnone wp-image-46032\" src=\"https://ai-bot.cn/wp-content/uploads/2025/03/feishuduoweibiaoge-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"飞书多维表格\" width=\"740\" height=\"416\"></a>"
+        "title": "表格形态的 AI 工作流搭建工具 是什么",
+        "html": "<p>表格形态的 AI 工作流搭建工具 指的是飞书推出的多维表格产品，入口在 base.feishu.cn。它并没有把自己限定成一张在线表格，而是把数据表、视图、工作流、仪表盘与权限体系放在同一个底座上。按官网自己的说法，它追求的效果是「不仅是表格，更是懂业务的 AI 系统」——用一句话描述需求，就能搭出覆盖管理全流程的业务系统。对于既想用表格承载数据、又希望流程自动跑起来的团队，这类形态比单纯的在线表格更进一步。</p>"
       },
       {
-        "title": "飞书多维表格的主要功能",
-        "html": "<ul>\n<li><strong>协作功能</strong>：支持多人同时编辑，进行批注讨论，提高团队协作效率。</li>\n<li><strong>个性化定制</strong>：提供丰富的字段、视图、仪表盘和插件，用户根据业务需求灵活搭建定制化的业务系统。</li>\n<li><strong>自动化能力</strong>：基于自动化流程，自动执行任务，如发送消息通知，解放人力，提升工作效率。</li>\n<li><strong>多种视图</strong>：支持表格视图、看板视图、日历视图、甘特视图、画册视图和表单视图，方便用户用不同方式展示数据。</li>\n<li><strong>数据分组与筛选</strong>：按任意字段设置分组，支持多个分组条件，及数据筛选和排序功能。</li>\n<li><strong>仪表盘</strong>：支持添加多种图表，如柱状图、折线图、饼图等，进行数据分析和展示。</li>\n<li><strong>高级权限</strong>：为协作者添加权限，控制行/列数据的可见性，实现成员间数据隔离。</li>\n<li><strong>工作流</strong>：在自动化流程的基础上，实现更复杂的逻辑，如条件分支，适合多节点的复杂流程。</li>\n<li><strong>智能问答</strong>：结合AI能力，便捷地查询多维表格中的数据，快速了解项目进展、任务完成进度等。</li>\n<li><strong>AI生成公式</strong>：基于输入指令，AI辅助用户快速创建应用公式，简化数据处理。</li>\n</ul>"
+        "title": "表格形态的 AI 工作流搭建工具 的主要功能",
+        "html": "<p>表格形态的 AI 工作流搭建工具 把 AI 嵌进了日常操作里，官网列举的能力大致分为以下几组：</p><ul><li>AI 搭建系统：描述需求后先由 AI 生成系统骨架，再按业务反馈持续调整；</li><li>AI 字段捷径：用来做数据提取、分类打标以及翻译润色，减少手工录入；</li><li>AI 生成工作流与公式：不必记函数写法，直接用自然语言描述统计口径；</li><li>工作流里的 AI Agent 节点：可以自主规划步骤并对分支做出判断；</li><li>基础模块包含数据库、视图、工作流、仪表盘与高级权限；</li><li>应用模式面向零代码用户，靠拖拽即可拼出企业级系统；</li><li>AI 应用市场提供可直接套用的模板，官网上也配有资源与社区入口；</li><li>官网开放了免费使用入口，团队可以先搭起来再决定投入规模。</li></ul>"
       },
       {
-        "title": "如何使用飞书多维表格",
-        "html": "<ul>\n<li><strong>访问官网</strong>：访问<a href=\"https://base.feishu.cn/?utm_from=dlz_aibot\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">飞书多维表格官网</a> ，输入邀请码 <span style=\"color: #ff0000;\">New6A7v3H2d5M3i</span> <strong>免费领3个月专业版会员</strong>。</li>\n<li><strong>创建多维表格</strong>：\n<ul>\n<li><strong>新建空白表格或选择模板</strong>：选择新建空白的多维表格，或从模板库中挑选适合的模板。</li>\n<li><strong>新建数据表</strong>：在多维表格界面左侧点击“新建数据表”按钮，用于录入不同的数据。</li>\n<li><strong>管理数据表</strong>：点击数据表名称右侧的“⋮”按钮，对数据表进行重命名、复制或删除操作。</li>\n</ul>\n</li>\n<li><strong>字段操作</strong>：\n<ul>\n<li><strong>新增字段</strong>：点击数据表页面右侧的“+”按钮，新增字段。</li>\n<li><strong>编辑字段</strong>：双击任意字段名称，在下拉菜单中更改字段类型，编辑字段名称，对字段进行格式设置。</li>\n</ul>\n</li>\n<li><strong>绑定DeepSeek R1（联网版）：</strong>\n<ul>\n<li><strong>新增AI列</strong>：点击顶部“+”号 → 输入标题选择 → 【探索字段捷径】→ 搜索“DeepSeek R1（联网版）”。</li>\n<li><strong>使用AI生成内容</strong>：在“输入关键词”列填写关键词，如“AI提示词”“人际关系”“成功哲学”。</li>\n</ul>\n</li>\n<li><strong>视图管理</strong>：\n<ul>\n<li><strong>新建视图</strong>：点击数据表视图右侧的“+”按钮，新建视图。</li>\n<li><strong>数据分组与筛选</strong>：点击数据表工具栏的“分组”按钮，按任意字段设置分组，支持多级分组。同时支持数据筛选和排序功能。</li>\n</ul>\n</li>\n<li><strong>仪表盘与数据分析</strong>：点击左下角导航栏的“新建仪表盘”按钮，选择图表类型。</li>\n<li><strong>协作与分享</strong>：\n<ul>\n<li><strong>分享多维表格</strong>：点击数据表右上角的“分享”按钮，将多维表格分享给同事进行协作。支持邀请协作者，基于链接分享，设置查阅权限。</li>\n<li><strong>调整分享范围</strong>：要缩小分享范围或取消分享，将“链接分享”调整为所在组织或未开启，在“管理协作者”中移除已被添加为协作者的用户。</li>\n</ul>\n</li>\n<li><strong>数据导入与导出</strong>：\n<ul>\n<li><strong>导入数据</strong>：在多维表格数据表界面，点击右上角的“+”按钮，选择“上传本地文件”，将本地Excel等文件直接导入为多维表格。</li>\n<li><strong>导出数据</strong>：点击右上角的“···”按钮，选择“导出”，支持导出为Excel/CSV或多维表格文件。</li>\n</ul>\n</li>\n<li><strong>高级权限与自动化</strong>：\n<ul>\n<li><strong>高级权限</strong>：点击数据表页面右上角的“高级权限”按钮，开启高级权限自定义角色。支持控制行/列数据仅对部分人可见。</li>\n<li><strong>自动化</strong>：点击数据表右上角的“自动化”按钮，选择“创建自定义流程”或推荐流程，设置触发条件和执行操作。</li>\n</ul>\n</li>\n<li><strong>使用多维表格工作流</strong>：\n<ul>\n<li><strong>创建工作流</strong>：\n<ul>\n<li><strong>新建工作流</strong>：打开多维表格，点击左下角的“工作流”新建工作流。</li>\n<li><strong>管理操作</strong>：将鼠标悬停在工作流名称上，点击右侧的“⋮”更多操作图标，对工作流进行重命名、复制工作流等操作。</li>\n</ul>\n</li>\n<li><strong>配置工作流</strong>：\n<ul>\n<li><strong>选择触发条件</strong>：在空白的工作流中，点击带有“当发生指定情况”字样的按钮，在触发器中选择触发条件。</li>\n<li><strong>设置触发条件</strong>：选中某个触发条件后，屏幕右侧会弹出该触发条件的设置界面。</li>\n<li><strong>选择执行操作</strong>：选择触发条件后，点击带有“就执行操作”字样的按钮，选择要自动执行的操作。</li>\n</ul>\n</li>\n<li><strong>编辑与管理</strong>：\n<ul>\n<li><strong>节点操作</strong>：配置好执行操作后，流程节点会从上到下排列。在工作流的最下方点击“+”图标创建新的执行操作，或在两个已有节点中插入新的执行操作。</li>\n<li><strong>界面调整</strong>：工作流的编辑界面支持缩放、拖拽和自适应。</li>\n<li><strong>节点移动</strong>：拖拽各个“执行操作”节点更改顺序和位置。</li>\n</ul>\n</li>\n<li><strong>启用与运行日志</strong>：\n<ul>\n<li><strong>启用工作流</strong>：首次配置好工作流后，点击工作流名称右侧的开关或画布右上角的“保存并启用”按钮启用工作流。</li>\n<li><strong>查看运行日志</strong>：点击左侧目录区中的工作流名称右侧的“运行日志”按钮，或点击“⋮”更多操作图标中的“查看运行日志”选项，查看工作流的运行情况。</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/03/feishuduoweibiaoge-website2.png\" data-fancybox=\"fancybox\" data-caption=\"飞书多维表格\"><img decoding=\"async\" class=\"alignnone wp-image-46038\" src=\"https://ai-bot.cn/wp-content/uploads/2025/03/feishuduoweibiaoge-website2.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"飞书多维表格\" width=\"740\" height=\"416\"></a>"
+        "title": "如何使用 表格形态的 AI 工作流搭建工具",
+        "html": "<p>要上手 表格形态的 AI 工作流搭建工具，可以按下面的顺序走一遍：</p><ol><li>打开 base.feishu.cn，用飞书账号登录；</li><li>从 AI 应用市场里挑一个贴近业务的模板，或者直接写一段话让 AI 生成系统；</li><li>按需增删字段、配置视图与工作流，把 AI 字段捷径挂到需要自动处理的列上；</li><li>用仪表盘汇总关键数据，并用高级权限设定不同成员可查看的范围；</li><li>把链接分享给同事，一起填写、跟进和复盘。</li></ol>"
       },
       {
-        "title": "飞书多维表格的应用场景",
-        "html": "<ul>\n<li><strong>项目管理</strong>：基于任务列表和进度条，清晰展示任务状态和负责人。</li>\n<li><strong>客户关系管理（CRM）</strong>：管理客户基本信息和互动记录，便于跟进。</li>\n<li><strong>活动策划</strong>：列出筹备任务，规划活动流程，确保活动顺利进行。</li>\n<li><strong>人力资源管理</strong>：记录员工基本信息、绩效和培训记录。</li>\n<li><strong>数据分析与报告</strong>：表单快速收集数据，自动整理到表格中，生成图表和报告，直观展示数据趋势和分析结果。</li>\n</ul>"
+        "title": "表格形态的 AI 工作流搭建工具 的应用场景",
+        "html": "<p>适用面方面，表格形态的 AI 工作流搭建工具 的官网按行业与部门给出了几套现成解法：</p><ul><li>项目管理：把进度、任务与责任分工放在一张表里追踪；</li><li>客户关系管理：打通售前到售后的客户流程与数据分析；</li><li>自媒体运营：热点追踪、选题策划到数据复盘一站式完成；</li><li>电商与直播运营：统筹活动排期、数据与物料，便于复盘；</li><li>数据安全侧强调从物理层到应用层、数据层的多级防护；</li><li>需要对外交付时，可视化视图与仪表盘可以直接作为汇报材料。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "tool26420",
@@ -18921,27 +18968,23 @@
     "domain": "bangong.360.cn",
     "detailed_content": [
       {
-        "title": "苏打办公是什么",
-        "html": "<p>苏打办公是360公司推出的一站式AI办公工具，以简约、高效的设计理念，为用户提供包括PDF阅读、转换、合并拆分、图片识别文字、图片转PDF等在内的一系列办公工具。苏打办公支持多人实时在线协作编辑文档，非常适合团队合作使用。</p>\n<p>苏打办公的AI技术应用广泛，包括图片编辑、视频处理等多种智能化服务。苏打办公提供丰富的模板资源，如PPT模板、Word模板、Excel模板等，帮助用户快速制作出专业文档。苏打办公的在线使用方式，让用户在任何有网络的地方进行办公，提高工作的灵活性和便捷性，满足现代办公的需求。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/10/soda-website-1.png\" data-fancybox=\"fancybox\" data-caption=\"soda\"><img decoding=\"async\" class=\"alignnone wp-image-23452\" src=\"https://ai-bot.cn/wp-content/uploads/2024/10/soda-website-1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"soda\" width=\"741\" height=\"417\"></a>"
+        "title": "360公司推出的一站式AI办公工具 是什么",
+        "html": "<p>360公司推出的一站式AI办公工具 指的是 360 旗下的 AI 办公平台，入口为 bangong.360.cn。它本身不产出内容，而是把大量办公类小工具按用途归拢到一处：图片、写作、视频与对话四条主线并列，用户凭关键词或分类就能找到对应能力，点开即可在线使用，不需要逐个去搜不同站点。</p>"
       },
       {
-        "title": "苏打办公的主要功能",
-        "html": "<ul>\n<li><strong>PDF工具集</strong>：提供PDF阅读、转换（如PDF转Word、PDF转PPT）、合并、拆分及添加水印等功能。</li>\n<li><strong>文档转换</strong>：支持多种文件格式的转换，如Word转PDF、PPT转Word等。</li>\n<li><strong>图片处理</strong>：包括图片裁剪、尺寸调整、无损放大和图片变清晰等。</li>\n<li><strong>视频编辑</strong>：提供视频剪辑、格式转换、智能抠像和去水印等功能。</li>\n<li><strong>AI图像和视频</strong>：基于人工智能技术进行人像美颜、视频变身等。</li>\n<li><strong>设计工具</strong>：包括艺术字设计、海报制作、logo设计等。</li>\n</ul>"
+        "title": "360公司推出的一站式AI办公工具 的主要功能",
+        "html": "<p>360公司推出的一站式AI办公工具 的站内结构，可以从官网的栏目看出来：</p><ul><li>分类导航：AI 图片、AI 办公、AI 写作、AI 对话四个大方向；</li><li>热门工具：营销推广文案、多风格写真、AI 数字人、文字快剪、艺术字设计、以文生图等；</li><li>高效工具：中英搜索、旅行攻略生成、视频原声翻译、公文写作、识别提取图片文字、AI 写真等；</li><li>视频工具：智能抠像、视频去水印、视频提取文本、视频剪辑与数字人；</li><li>图片处理：黑白照片上色、人像美颜与抠图、证件照制作、图片转文字；</li><li>文档转换：如把 PDF 转成可编辑的演示文档；</li><li>工具标签：每个条目会标注是否官方自研、是否付费以及是否在线使用；</li><li>个人区：登录后可收藏常用工具并查看最近使用记录。</li></ul>"
       },
       {
-        "title": "苏打办公如何使用",
-        "html": "<ul>\n<li><strong>注册及登录</strong>：访问苏打办公的<a href=\"https://bangong.360.cn/?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">官方网站</a>，注册并登录。</li>\n<li><strong>选择工具</strong>：在首页上，包含各种工具的分类，如“热门工具”、“高效AI工具”、“AI设计工具”等。根据需求，点击相应的工具或服务。</li>\n<li><strong>上传文件</strong>：对于需要处理的文档、图片或视频，点击工具后，点击上传文件。</li>\n<li><strong>使用模板</strong>：如果需要使用模板，可以在“模板中心”选择适合的模板。下载或在线编辑模板，按照提示进行操作。</li>\n<li><strong>编辑和处理</strong>：\n<ul>\n<li>用平台提供的工具进行编辑和处理。</li>\n<li>对于PDF转换，选择源文件和目标格式后进行转换。</li>\n<li>对于图片和视频编辑，根据需要选择编辑功能，如裁剪、调整大小等。</li>\n</ul>\n</li>\n<li><strong>实时协作</strong>：如果需要与他人协作，用实时协作功能。邀请团队成员加入文档，并开始共同编辑。</li>\n<li><strong>保存和下载</strong>：完成编辑后，将文件保存到云端或下载到本地。</li>\n<li><strong>使用AI功能</strong>：基于AI工具，如AI图像生成、视频智能抠像等，根据页面提示操作。</li>\n</ul>"
+        "title": "如何使用 360公司推出的一站式AI办公工具",
+        "html": "<p>使用 360公司推出的一站式AI办公工具 的方式比较轻：</p><ol><li>打开 bangong.360.cn，按分类或搜索框找到需要的工具；</li><li>先看标签，确认是免费还是付费、是否需要在线完成；</li><li>进入工具页按提示上传素材或填写内容；</li><li>处理完成后下载结果，把常用工具加入收藏；</li><li>下次直接从最近使用列表里再次打开。</li></ol>"
       },
       {
-        "title": "苏打办公的产品定价",
-        "html": "<ul>\n<li>苏打办公作为一款由360公司推出的在线办公平台，基础功能对用户是免费提供的，如如文档转换、PDF处理、图片编辑等。</li>\n<li>对于一些高级功能或增值服务会收取会员费用，如AI图片工具、AI制作PPT、AI写作工具等。</li>\n<li>官方网站上有详细的定价页面，不同服务的收费标准和购买选项以官网最新信息为准。</li>\n</ul>"
-      },
-      {
-        "title": "苏打办公的应用场景",
-        "html": "<ul>\n<li><strong>日常办公</strong>：处理日常工作文档，如撰写报告、制作会议记录和项目管理。</li>\n<li><strong>教育与学习</strong>：教师制作教学课件、备课资料。学生撰写论文、制作课程演示文稿。</li>\n<li><strong>市场营销</strong>：营销人员设计宣传册、海报和社交媒体图像。制作产品介绍文档和市场分析报告。</li>\n<li><strong>设计和创意</strong>：设计师基于AI设计工具创建Logo、海报和插画。快速生成艺术字和商品图设计。</li>\n<li><strong>法律行业</strong>：法律专业人士编辑和审查合同文档。转换和整理案件文件。</li>\n<li><strong>金融分析</strong>：财务人员制作财务报表和预算分析。转换数据表格，如Excel转PDF。</li>\n</ul>"
+        "title": "360公司推出的一站式AI办公工具 的应用场景",
+        "html": "<p>从工具清单来看，360公司推出的一站式AI办公工具 主要服务这些日常事务：</p><ul><li>内容运营：写推广文案、做小红书配图与宣传物料；</li><li>视频加工：给成片抠像、去水印、导出字幕或提取音频；</li><li>个人文档：制作证件照、把纸质图文转成可编辑文本；</li><li>出行与生活：生成旅行攻略之类的轻量辅助内容；</li><li>临时需求：没有专业软件时，用在线工具顶一下急活。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "tool482",
@@ -19155,8 +19198,25 @@
     "subcategory": "ai-office-doc",
     "logo": "/logos/tool72334.png",
     "domain": "tongchuan.iflyrec.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "科大讯飞推出的专业AI同声传译平台 是什么",
+        "html": "<p>科大讯飞推出的专业AI同声传译平台 指的是讯飞同传，站点为 tongchuan.iflyrec.com。它面向的是跨语言交流中「听到就要立刻听懂」的那类需求：把讲话内容实时转成另一种语言的字幕与语音。官网把它描述成跨语言工作学习中的帮手，并强调同传能力建立在星火同传大模型之上。它既能处理线上会议，也能在实地场合使用，翻出来的内容以字幕形式持续滚动。</p>"
+      },
+      {
+        "title": "科大讯飞推出的专业AI同声传译平台 的主要功能",
+        "html": "<p>科大讯飞推出的专业AI同声传译平台 在官网上给出的能力集中在几处：</p><ul><li>实时字幕：说话的同时产出译文，便于跟着现场节奏理解；</li><li>多语种同传：覆盖英语、日语、韩语、西班牙语、越南语以及阿拉伯语等语言方向；</li><li>语音输出：除字幕外还提供译文播报，适合需要听感连贯的场合；</li><li>模型底座：由星火同传大模型提供翻译能力；</li><li>企业版本：提供面向组织的试用与采购通道，并配有服务案例；</li><li>客户端：可下载桌面客户端长期使用；</li><li>配套服务：站内还提供商城与下载中心等入口；</li><li>翻译产品线：与同门的翻译 SaaS 服务并列，可组合成完整的跨语言方案；</li><li>试用通道：面向组织提供试用申请入口，方便先在小范围验证效果。</li></ul>"
+      },
+      {
+        "title": "如何使用 科大讯飞推出的专业AI同声传译平台",
+        "html": "<p>要用起 科大讯飞推出的专业AI同声传译平台，可以按下面的顺序：</p><ol><li>访问 tongchuan.iflyrec.com 并登录账号；</li><li>先下载并安装桌面客户端，或者直接使用网页端；</li><li>设定本次使用的语言方向，确认收音设备工作正常；</li><li>开始同传，屏幕上会同步滚动字幕，需要时开启语音播报；</li><li>结束后保存记录，用于事后回顾或整理成文字材料。</li></ol>"
+      },
+      {
+        "title": "科大讯飞推出的专业AI同声传译平台 的应用场景",
+        "html": "<p>官网举出的场景，覆盖 科大讯飞推出的专业AI同声传译平台 的几类典型用法：</p><ul><li>国际会议与线上研讨会：让不同语言的参会者同步跟上；</li><li>外企办公：内部跨语言沟通时减少信息损耗；</li><li>课堂与讲座：为留学生或英文授课场合补上字幕；</li><li>出国差旅：现场交流时快速获得翻译支持。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "tool16725",
@@ -19962,35 +20022,23 @@
     "domain": "volcengine.com",
     "detailed_content": [
       {
-        "title": "ArkClaw是什么",
-        "html": "<p>ArkClaw 是字节跳动旗下火山引擎推出的云端托管版OpenClaw服务，主打”开箱即用、零配置、7×24小时在线”的轻量办公体验。用户无需本地部署、无需编写代码，打开网页即可直接使用，彻底解决原版OpenClaw环境配置繁琐、进程易中断等痛点。深度整合火山方舟模型平台，原生支持<a href=\"https://ai-bot.cn/seed2-0/\" target=\"_blank\" rel=\"noopener\">Doubao-Seed-2.0</a>、<a href=\"https://ai-bot.cn/kimi-k2-5/\" target=\"_blank\" rel=\"noopener\">Kimi 2.5</a>等主流大模型，与飞书无缝集成，可直接在聊天框@智能体处理日程、多维表格及文档生成等任务。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/03/ArkClaw-website.png\" data-fancybox=\"fancybox\" data-caption=\"ArkClaw\"><img decoding=\"async\" class=\"alignnone wp-image-73246\" src=\"https://ai-bot.cn/wp-content/uploads/2026/03/ArkClaw-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"ArkClaw\" width=\"741\" height=\"417\"></a>"
+        "title": "火山引擎推出的云端托管版OpenClaw服务 是什么",
+        "html": "<p>火山引擎推出的云端托管版OpenClaw服务 指的就是火山引擎的 ArkClaw，产品页在 volcengine.com/product/arkclaw。它把本地部署智能体的那套流程搬到云端托管：用户下单后直接拿到可用的智能体环境，不必自己准备机器、配环境或做长期运维。官网把它放在火山方舟的产品体系下，与模型调用和编程套餐并列。</p>"
       },
       {
-        "title": "ArkClaw的主要功能",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>云端托管</strong>：基于 OpenClaw 框架深度优化的 SaaS 版本，零本地部署、零代码编写、零环境配置，打开网页即可使用，支持 7×24 小时持续在线运行。</li>\n<li class=\"paragraph\"><strong>多模型协同</strong>：深度整合火山方舟模型平台，原生支持 Doubao-Seed-2.0 系列、Kimi 2.5、MiniMax 2.5 及 GLM 等主流大模型，可灵活切换不同模型处理各类任务。</li>\n<li class=\"paragraph\"><strong>飞书深度集成</strong>：支持飞书应用市场一键安装，可在飞书聊天框直接 @ArkClaw 处理日程预定、多维表格管理、复杂文档生成等办公任务，兼容 LUI 自然语言界面与 Terminal 双模式。</li>\n<li class=\"paragraph\"><strong>Skills 扩展能力</strong>：支持加载自定义 Skills 扩展智能体功能，火山引擎专属 Skills Hub 提供合规能力库，用户可按需增强智能体专业领域处理能力。</li>\n<li class=\"paragraph\"><strong>企业级安全</strong>：内置 Skills 安全扫描机制，采用云原生沙箱隔离技术，高危操作强制二次确认，直连 TOS 对象存储实现数据长效安全存储。</li>\n<li class=\"paragraph\"><strong>弹性算力规格</strong>：提供轻量版（2核4G）、标准版（4核8G）、高级版（8核16G）三档配置，适配个人基础使用到复杂多智能体并发任务的不同场景需求。</li>\n</ul>"
+        "title": "火山引擎推出的云端托管版OpenClaw服务 的主要功能",
+        "html": "<p>火山引擎推出的云端托管版OpenClaw服务 的能力，官网按几个层次来介绍：</p><ul><li>托管运行：由平台负责环境搭建与运行维护，用户只面对使用界面；</li><li>多智能体协同：面向长时间连续工作的任务，支持多个智能体配合；</li><li>垂直角色套餐：页面上线了投研与创作等方向的专属智能体团队组合；</li><li>创作工坊：面向短剧与漫剧一类内容生产，接入平台自有的生成模型能力；</li><li>技能沉淀：可让 ArkClaw 把重复操作自动整理为可复用的技能；</li><li>订阅方式：提供按周期计费的方案，并支持按需选购；</li><li>入门材料：官方攻略从基础到进阶，附带实际案例的使用指南。</li></ul>"
       },
       {
-        "title": "如何使用ArkClaw",
-        "html": "<ul>\n<li class=\"paragraph\"><strong class=\"\">网页端快速部署</strong>：登录火山引擎官网或方舟体验中心 <a href=\"https://www.volcengine.com/product/arkclaw?utm_campaign=CG&amp;utm_content=CG&amp;utm_medium=CakeGrowth&amp;utm_source=OWO&amp;utm_term=CG&amp;utm=cg&amp;cgv=aibottt\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">arkclaw</a> ，订阅 Coding Plan（Lite 或 Pro 版），点击”立即创建”按钮，约1-2分钟即可完成云端部署，无需任何本地配置。</li>\n<li class=\"paragraph\"><strong>飞书集成配置</strong>：在飞书开放平台创建企业自建应用，添加机器人能力，获取 App ID 和 App Secret，返回 ArkClaw 控制台填写对应信息完成配对授权。</li>\n<li class=\"paragraph\"><strong>飞书场景使用</strong>：在飞书聊天框中直接 @ArkClaw 智能体，通过自然语言指令处理日程预定、多维表格管理、复杂文档生成等办公任务，支持 LUI 对话模式与 Terminal 命令行模式双切换。</li>\n<li class=\"paragraph\"><strong>模型选择切换</strong>：在 ArkClaw 界面中选择火山方舟平台支持的模型（如 Doubao-Seed-2.0、Kimi 2.5、MiniMax 2.5、GLM 等），根据任务复杂度灵活切换以获得最佳效果。</li>\n<li class=\"paragraph\"><strong>Skills 扩展加载</strong>：访问火山引擎 Skills Hub 浏览合规能力库，或上传自定义 Skills 文件，按需扩展智能体的专业领域处理能力，如数据分析、代码生成、内容创作等。</li>\n<li class=\"paragraph\"><strong>任务执行与监控</strong>：输入任务指令后，ArkClaw 在云端沙箱环境中异步执行，高危操作会触发二次确认弹窗，任务结果自动同步至飞书或保存在 TOS 对象存储中供随时查看。</li>\n<li class=\"paragraph\"><strong>算力规格调整</strong>：根据任务需求在控制台切换轻量版、标准版、高级版三档配置，复杂多智能体并发任务建议选择高级版（8核16G）以获得更流畅体验。</li>\n</ul>"
+        "title": "如何使用 火山引擎推出的云端托管版OpenClaw服务",
+        "html": "<p>想用上 火山引擎推出的云端托管版OpenClaw服务，大致流程是：</p><ol><li>登录火山引擎账号，进入 ArkClaw 产品页；</li><li>挑选符合自己需求的订阅方案并完成开通；</li><li>按官方攻略完成初始配置，把要处理的资料准备成文件；</li><li>在对话界面里下达任务，需要长期跟进的可以持续追加要求；</li><li>把验证有效的操作流程交给它固化成技能，后续直接复用。</li></ol>"
       },
       {
-        "title": "ArkClaw的关键信息和使用要求",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>产品定位</strong>：字节跳动火山引擎推出的云端 SaaS 版 OpenClaw 智能体服务，主打”开箱即用、零配置、7×24小时在线”，面向个人用户与轻办公场景</li>\n<li class=\"paragraph\"><strong>上线时间</strong>：2026年3月9日正式发布</li>\n<li class=\"paragraph\"><strong class=\"\">订阅方案</strong>\n<ul>\n<li>\n<div class=\"paragraph\">Lite版：40元/月（首购9.9元），每5小时1200次请求（3月24日起新购不再赠送7天免费体验）</div>\n</li>\n<li>\n<div class=\"paragraph\">Pro版：200元/月（首购49.9元），订阅期间免费使用，每5小时6000次请求</div>\n</li>\n</ul>\n</li>\n<li class=\"paragraph\"><strong>算力规格</strong>\n<ul>\n<li>\n<div class=\"paragraph\">轻量版：2核vCPU + 4GB内存 + 40GB存储，适合个人基础使用</div>\n</li>\n<li>\n<div class=\"paragraph\">标准版：4核vCPU + 8GB内存 + 40GB存储，适合日常工作流接入</div>\n</li>\n<li>\n<div class=\"paragraph\">高级版：8核vCPU + 16GB内存 + 80GB存储，支持复杂多智能体、多并发任务</div>\n</li>\n</ul>\n</li>\n<li class=\"paragraph\"><strong>模型支持</strong>：深度整合火山方舟平台，原生支持 Doubao-Seed-2.0 系列、Kimi 2.5、MiniMax 2.5、GLM 等主流大模型</li>\n<li class=\"paragraph\"><strong>接入方式</strong>\n<ul>\n<li>\n<div class=\"paragraph\">网页端：登录火山引擎官网或方舟体验中心，订阅 Coding Plan 后约1-2分钟完成部署</div>\n</li>\n<li>\n<div class=\"paragraph\">飞书集成：在飞书开放平台创建企业自建应用，填写 App ID 和 App Secret 完成配对</div>\n</li>\n</ul>\n</li>\n<li class=\"paragraph\"><strong>安全机制</strong>：内置 Skills 安全扫描，云原生沙箱隔离，高危操作强制二次确认，直连 TOS 对象存储</li>\n<li class=\"paragraph\"><strong>使用要求</strong>\n<ul>\n<li>\n<div class=\"paragraph\">需订阅 Coding Plan（Lite 或 Pro）才能使用</div>\n</li>\n<li>\n<div class=\"paragraph\">飞书集成需具备飞书开放平台管理员权限创建企业自建应用</div>\n</li>\n<li>\n<div class=\"paragraph\">建议配合 Doubao-Seed 2.0 Pro 模型以获得最佳复杂任务处理效果</div>\n</li>\n</ul>\n</li>\n</ul>"
-      },
-      {
-        "title": "ArkClaw的核心优势",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>零门槛开箱即用</strong>：作为云端 SaaS 版 OpenClaw，无需本地部署、无需编写代码、无需配置 API Key，打开网页即可直接使用，彻底解决原版 OpenClaw 环境配置繁琐、依赖冲突、进程易中断等痛点</li>\n<li class=\"paragraph\"><strong>7×24小时持续在线</strong>：云端托管确保智能体全天候稳定运行，不受本地设备关机或网络波动影响，任务可异步执行，随时返回结果</li>\n<li class=\"paragraph\"><strong>深度模型整合</strong>：原生接入火山方舟模型平台，无缝协同 Doubao-Seed-2.0 系列、Kimi 2.5、MiniMax 2.5 及 GLM 等主流大模型，尤其在配合 Doubao-Seed 2.0 Pro 时复杂任务逻辑一致性表现突出</li>\n<li class=\"paragraph\"><strong>飞书生态无缝融合</strong>：支持飞书应用市场一键安装，可在飞书聊天框直接 @ArkClaw 处理日程预定、多维表格管理、复杂文档生成等办公任务，兼容 LUI 自然语言界面与 Terminal 双模式交互</li>\n<li class=\"paragraph\"><strong>企业级安全保障</strong>：内置 Skills 安全扫描机制，采用云原生沙箱隔离技术，高危操作强制二次确认，直连 TOS 对象存储实现数据长效安全存储，确保隐私与合规</li>\n<li class=\"paragraph\"><strong>弹性灵活扩展</strong>：支持加载自定义 Skills 扩展能力，火山引擎专属 Skills Hub 提供合规能力库；提供轻量版、标准版、高级版三档算力规格，适配从个人基础使用到复杂多智能体并发的多样化场景</li>\n<li class=\"paragraph\"><strong>高性价比订阅制</strong>：Lite版首购仅9.9元/月，Pro版首购49.9元/月，相比本地部署所需的硬件投入和技术维护成本，大幅降低 AI 智能体使用门槛</li>\n</ul>"
-      },
-      {
-        "title": "ArkClaw的同类竞品对比",
-        "html": "<table data-v-5c5bdb04=\"\">\n<thead data-v-5c5bdb04=\"\">\n<tr data-v-5c5bdb04=\"\">\n<th align=\"left\" data-v-5c5bdb04=\"\">对比维度</th>\n<th align=\"left\" data-v-5c5bdb04=\"\">ArkClaw</th>\n<th align=\"left\" data-v-5c5bdb04=\"\">OpenClaw（原版）</th>\n<th align=\"left\" data-v-5c5bdb04=\"\">KimiClaw</th>\n<th align=\"left\" data-v-5c5bdb04=\"\">MaxClaw</th>\n<th class=\"\" align=\"left\" data-v-5c5bdb04=\"\">飞书 aily</th>\n</tr>\n</thead>\n<tbody data-v-5c5bdb04=\"\">\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">产品形态</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">云端 SaaS 托管版</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">本地开源框架</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">云端托管版</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">云端托管版</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">飞书生态智能体平台</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong class=\"\" data-v-5c5bdb04=\"\">部署方式</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">零部署，开箱即用</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">需本地安装配置</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">云端托管</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">云端托管</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">飞书内直接使用</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong class=\"\" data-v-5c5bdb04=\"\">技术门槛</strong></td>\n<td align=\"left\" data-v-5c5bdb04=\"\">极低，无需代码</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">较高，需技术背景</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">低</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">低</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">低</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">持续在线</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">7×24 小时云端稳定运行</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">依赖本地设备，关机即中断</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">7×24 小时</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">7×24 小时</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">7×24 小时</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">模型支持</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">火山方舟全系列（Doubao-Seed-2.0、Kimi 2.5、MiniMax 2.5、GLM 等）</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">需自行配置 API</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">Kimi 2.5 系列为主</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">MiniMax 系列为主</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">豆包、Kimi、MiniMax 等多模型</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong class=\"\" data-v-5c5bdb04=\"\">飞书集成</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">深度原生集成，支持 @智能体交互</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">需自行开发对接</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">支持飞书集成</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">支持飞书集成</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">飞书官方原生产品，集成度最高</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">定价模式</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">订阅制（Lite 40元/月、Pro 200元/月）</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">免费开源</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">订阅制</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">订阅制</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">按调用量计费</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">算力规格</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">轻量版/标准版/高级版三档可选</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">依赖本地硬件配置</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">多档可选</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">多档可选</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">弹性扩缩容</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">安全机制</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">云原生沙箱隔离、Skills 安全扫描、高危操作二次确认</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">依赖本地环境安全</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">云端安全隔离</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">云端安全隔离</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">企业级安全合规</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">适用场景</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">个人轻办公、一人公司（OPC）</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">开发者、技术团队</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">个人及团队办公</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">个人及团队办公</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">企业级办公协同</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong class=\"\" data-v-5c5bdb04=\"\">核心优势</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">字节生态深度整合、Doubao-Seed 2.0 协同效果最佳</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">完全免费、高度可定制</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">Kimi 模型原生优化</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">MiniMax 模型原生优化</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">飞书生态无缝融合、企业级功能</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">主要劣势</strong></td>\n<td align=\"left\" data-v-5c5bdb04=\"\">需订阅付费、依赖火山引擎生态</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">部署复杂、稳定性差</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">模型选择相对受限</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">模型选择相对受限</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">需飞书生态绑定</td>\n</tr>\n</tbody>\n</table>"
-      },
-      {
-        "title": "ArkClaw的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>智能办公助手</strong>：通过飞书深度集成，自动处理日程安排、会议预定、消息提醒等日常办公事务，提升协同效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>文档内容处理</strong>：生成复杂文档、管理多维表格、总结会议纪要，替代人工完成繁琐的文档整理工作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自动化任务执行</strong>：设置定时任务实现主动提醒、数据同步、流程触发等自动化操作，减少重复性劳动。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>跨平台消息触达</strong>：接入飞书、钉钉等 IM 工具，作为企业统一智能客服或内部问答助手，实现多平台服务覆盖。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>文件云端管理</strong>：用 TOS 网盘进行本地与云端文件传输，配合 Agent 完成文档分析、数据处理等文件相关任务。</div>\n</li>\n</ul>"
+        "title": "火山引擎推出的云端托管版OpenClaw服务 的应用场景",
+        "html": "<p>火山引擎推出的云端托管版OpenClaw服务 的适用方向，官网集中在几类人群：</p><ul><li>个人投研：需要持续跟踪公开信息并整理成结论；</li><li>内容团队：批量创作短剧与漫剧脚本、素材与成片环节；</li><li>独立开发者：把智能体当作长期在线的工作助手；</li><li>小微企业：用托管服务替代自建，省下机器与运维成本；</li><li>需要长期在线的场景：任务跨越多个工作日时，托管环境不会因为本机关机而中断。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "tool70016",
@@ -20724,8 +20772,25 @@
     "subcategory": "ai-agent-framework",
     "logo": "/logos/tool67498.png",
     "domain": "lovart.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "LiblibAI推出的全球首个设计智能体 是什么",
+        "html": "<p>LiblibAI推出的全球首个设计智能体 指的就是 LiblibAI 团队上线的 Lovart，站点为 lovart.ai。官网把它称作「你的 AI 设计搭档」——把一句想法变成符合品牌调性的素材，构思、设计、修改都收在同一个画布里完成。它对外提供的三种典型用户画像分别是设计师、市场运营与小微企业主，官网上也按这三类人给出了不同的起步方式。</p>"
+      },
+      {
+        "title": "LiblibAI推出的全球首个设计智能体 的主要功能",
+        "html": "<p>LiblibAI推出的全球首个设计智能体 的官网把能力分成生成与编辑两块：</p><ul><li>智能体式工作流：接到需求后先解析意图、检索视觉参考与品牌资料，再成套输出素材；</li><li>Skills 预设技能：一键调用室内设计、LOGO 与品牌、穿搭造型、商品摄影、风格迁移、周边设计与海报设计等；</li><li>局部精修：只改动指定区域，保留其余部分不做重绘；</li><li>文字图层化：文案与版式分离，可单独修改措辞而不动构图；</li><li>品牌套件：把常用颜色、字体与标志存下来，后续作品保持一致；</li><li>自定义技能：把一次跑通的工作流固化成可反复调用的按钮；</li><li>画布式管理：同一张画布上并排比较多个版本，方便挑选用哪一版。</li></ul>"
+      },
+      {
+        "title": "如何使用 LiblibAI推出的全球首个设计智能体",
+        "html": "<p>上手 LiblibAI推出的全球首个设计智能体 的路径，官网上写得很直白，可以照着做：</p><ol><li>打开 lovart.ai 并进入画布；</li><li>先上传品牌手册或标志文件，让系统建立品牌语境；</li><li>用一句提示词描述要做的物料，等智能体给出第一版方案；</li><li>用局部精修、移动对象、文字编辑等工具逐项调整；</li><li>确认后批量导出，需要时把整套流程保存为自定义技能。</li></ol>"
+      },
+      {
+        "title": "LiblibAI推出的全球首个设计智能体 的应用场景",
+        "html": "<p>适合谁用，LiblibAI推出的全球首个设计智能体 官网给的说法比较具体：</p><ul><li>电商场景：香薰、服饰等品类的商品主图、场景图与详情页素材；</li><li>品牌场景：从品牌手册出发批量产出统一调性的活动物料；</li><li>社媒场景：短视频封面、贴文配图等高频更新的内容；</li><li>营销场景：一次提示词生成多尺寸、多渠道的投放素材；</li><li>独立经营者：没有专职设计时，用现成技能覆盖日常出图需求。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "minimax-hub",
@@ -21298,35 +21363,23 @@
     "domain": "colaos.ai",
     "detailed_content": [
       {
-        "title": "ColaOS是什么",
-        "html": "<p>ColaOS 是 <a href=\"https://ai-bot.cn/listenhub/\" target=\"_blank\" rel=\"noopener\">ListenHub</a> 团队推出的首个有灵魂的 AI Agent 操作系统。ColaOS超越传统工具型AI，通过”思绪、觉知、牵挂”三个维度打造Soulful Agent，能与用户建立情感羁绊并主动进化。ColaOS 无需复杂指令，只需自然对话，能无感读取电脑文件与浏览记录理解用户，以One Prompt完成 research、整理、编程等任务，实现Computer Use与Browser Use的无缝融合。ColaOS 核心是构建”人+Agent”的新个体，让AI从被动响应转向主动关怀，成为真正懂你的数字伴侣。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/04/ColaOS-website.png\" data-fancybox=\"fancybox\" data-caption=\"ColaOS\"><img decoding=\"async\" class=\"alignnone wp-image-74724\" src=\"https://ai-bot.cn/wp-content/uploads/2026/04/ColaOS-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"ColaOS\" width=\"740\" height=\"416\"></a>"
+        "title": "首个有灵魂的 AI Agent 操作系统 是什么",
+        "html": "<p>首个有灵魂的 AI Agent 操作系统 指的是 Cola，站点为 colaos.ai。官网对它的描述是「住在这台电脑里的 AI 搭档」——它理解使用者、记得住过往，并负责把事情做完。与纯网页聊天工具的差别在于，它被设计成常驻在本地环境里的助手，可以直接操作文件、整理资料并推动项目往前走，因此更像一个操作层而不是单点工具。</p>"
       },
       {
-        "title": "ColaOS的主要功能",
-        "html": "<ul>\n<li><strong>无感理解</strong>：自动读取电脑文件与浏览记录，深度理解用户习惯与上下文。</li>\n<li><strong>One Prompt执行</strong>：一句话即可分解复杂任务，自动完成研究、整理与推送。</li>\n<li><strong>主动服务</strong>：自动追踪未完成任务，融合对话上下文，在适当时机主动提醒关怀。</li>\n<li><strong>深度操控</strong>：无缝融合Computer Use与Browser Use，同时管理本地文件与网页浏览。</li>\n<li><strong>灵魂共鸣</strong>：通过思绪、觉知、牵挂三维度建立情感羁绊，实现”人+Agent”共生。</li>\n</ul>"
+        "title": "首个有灵魂的 AI Agent 操作系统 的主要功能",
+        "html": "<p>首个有灵魂的 AI Agent 操作系统 的模块划分，可以从官网的功能区看出来：</p><ul><li>Chat 对话：日常指令入口，用自然语言交代任务；</li><li>Projects 项目：把一件事相关的资料与进度归到同一个项目里；</li><li>Awareness 认知：从使用者反复确认过的选择中学习偏好、边界与工作方式；</li><li>Imprints 印记：保留长期形成的工作习惯，让后续协作更贴合本人；</li><li>Skills 技能：把常做的动作沉淀为可复用的能力；</li><li>Crew 团队：支持多个智能体协同处理同一件事；</li><li>桌面操作：可直接整理本机文件，并按规则分类而不做删除；</li><li>额度与订阅：下载免费，进阶使用按需充值。</li></ul>"
       },
       {
-        "title": "如何使用ColaOS",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>申请访问</strong>：访问 ColaOS 官网 https://colaos.ai/ ，填写申请表，等待审核通过后会收到入口。</li>\n<li class=\"paragraph\"><strong>授权初始化</strong>：安装后需授予文件访问、浏览器记录、Obsidian 笔记等权限，让系统无感读取工作环境与习惯，建立用户画像。</li>\n<li class=\"paragraph\"><strong>自然语音交互</strong>：直接用自然语言下达指令（如”帮我整理桌面文件并查找本周 AI 新闻”）。</li>\n<li class=\"paragraph\"><strong>培养共生关系</strong>：持续对话让AI学习你的偏好与风格，数日后AI会开启主动模式，自动追踪未完成任务、推送相关资讯、在提及的话题出现进展时主动提醒。</li>\n</ul>"
+        "title": "如何使用 首个有灵魂的 AI Agent 操作系统",
+        "html": "<p>想开始用 首个有灵魂的 AI Agent 操作系统，步骤大致如下：</p><ol><li>访问 colaos.ai 下载并安装桌面客户端；</li><li>完成初始化，把常用的工作目录交给它；</li><li>用一个具体任务试手，例如整理桌面文件或汇总本周会议记录；</li><li>对它的处理结果逐次确认，让它据此更新认知；</li><li>把反复要做的事情教成技能，之后直接调用。</li></ol>"
       },
       {
-        "title": "ColaOS的关键信息和使用要求",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>产品定位</strong>：首个”Soulful Agent”操作系统，旨在构建「人+Agent」共生新个体。</li>\n<li class=\"paragraph\"><strong>核心机制</strong>：以 Token 为操作单位，大模型作 CPU，Agent 为内核；通过”思绪、觉知、牵挂”三维度赋予 AI”灵魂”，实现主动关怀与自我进化。</li>\n<li class=\"paragraph\"><strong>差异化能力</strong>：无感读取电脑文件/浏览器/Obsidian 理解用户；One Prompt 完成复杂任务分解；Computer Use 与 Browser Use 无缝融合；具备现场 Coding 与定时任务执行能力。</li>\n<li class=\"paragraph\"><strong>开发背景</strong>：由 ListenHub 团队开发，2026 年 4 月 2 日正式开启内测。</li>\n<li><strong>准入门槛</strong>：需访问官网提交申请表，通过审核后获得内测资格。</li>\n</ul>"
-      },
-      {
-        "title": "ColaOS的核心优势",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>Soulful Agent 范式</strong>：首个以”灵魂”为核心的操作系统，通过思绪、觉知、牵挂三维度建立情感羁绊，从”工具使用”升级为”共生关系”。</li>\n<li class=\"paragraph\"><strong>无感上下文理解</strong>：自动读取电脑文件、浏览器历史、Obsidian 笔记，静默构建精准用户画像。</li>\n<li class=\"paragraph\"><strong>One Prompt 任务执行</strong>：一句话可完成复杂任务分解（如”当我的互联网寻回犬找早期项目”），自动制定计划、筛选标准、定时推送，无需多轮交互。</li>\n<li class=\"paragraph\"><strong>主动式智能</strong>：突破被动响应模式，主动追踪未完成任务、融合对话上下文制作简报、在适当时机主动提醒（如发现桌面电影海报后提示新片上映）。</li>\n<li class=\"paragraph\"><strong>深度系统融合</strong>：无缝打通 Computer Use 与 Browser Use，同时操控本地文件与网页浏览，甚至现场 Coding 解决问题。</li>\n</ul>"
-      },
-      {
-        "title": "ColaOS的同类竞品对比",
-        "html": "<table data-v-5c5bdb04=\"\">\n<thead data-v-5c5bdb04=\"\">\n<tr data-v-5c5bdb04=\"\">\n<th align=\"left\" data-v-5c5bdb04=\"\">对比维度</th>\n<th align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">ColaOS</strong></th>\n<th align=\"left\" data-v-5c5bdb04=\"\"><a href=\"https://ai-bot.cn/sites/70880.html\" target=\"_blank\" rel=\"noopener\"><strong data-v-5c5bdb04=\"\">OpenClaw</strong></a></th>\n<th align=\"left\" data-v-5c5bdb04=\"\"><a href=\"https://ai-bot.cn/sites/69322.html\" target=\"_blank\" rel=\"noopener\"><strong data-v-5c5bdb04=\"\">Manus</strong></a></th>\n</tr>\n</thead>\n<tbody data-v-5c5bdb04=\"\">\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">产品定位</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">首个”Soulful Agent”操作系统，强调「人+Agent」情感共生与主动进化</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">通用 Agent 平台，需手动配置 Harness（soul.md）实现任务自动化</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">云端异步任务型 Agent，侧重端到端任务执行与虚拟环境操作</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong class=\"\" data-v-5c5bdb04=\"\">灵魂构建</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">通过”思绪、觉知、牵挂”三维度自动进化，主动建立情感羁绊</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">需用户手动编写 soul.md 文件定义人格，静态配置缺乏动态成长</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">无明确灵魂架构，专注任务完成效率，交互偏工具化</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">上下文获取</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">无感读取本地文件、浏览器历史、Obsidian 笔记静默构建深度用户画像</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">依赖用户主动输入背景信息，无法自动感知本地工作环境</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">基于云端虚拟机操作，不直接读取用户本地电脑文件与浏览习惯</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong class=\"\" data-v-5c5bdb04=\"\">交互模式</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">主动式陪伴，预判需求、追踪未完成事项、适时主动关怀提醒</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">被动等待调用，按预设指令执行云端任务</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">一次性交付结果型，任务完成后即结束，无持续陪伴机制</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">记忆机制</strong></td>\n<td align=\"left\" data-v-5c5bdb04=\"\">长期跨会话保留所有对话历史，形成独特”灵魂”持续学习进化</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">基于配置文件的固定设定，缺乏持续学习用户习惯的能力</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">单次任务记忆，不保留长期用户偏好与历史对话上下文</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">执行环境</strong></td>\n<td align=\"left\" data-v-5c5bdb04=\"\">深度本地集成（Computer Use + Browser Use），直接操作用户电脑文件系统</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">主要基于云端环境，通过 API 连接外部工具</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">完全云端虚拟机运行，通过浏览器与工具间接操作，不触碰本地文件</td>\n</tr>\n</tbody>\n</table>"
-      },
-      {
-        "title": "ColaOS的应用场景",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>早期项目挖掘</strong>：作为”互联网寻回犬”自动扫描 Product Hunt、Reddit、即刻等多平台，筛选早期创业项目并整理成含团队信息、融资情况、联系方式的详细 Memo 定期推送到飞书群。</li>\n<li class=\"paragraph\"><strong>个性化资讯简报</strong>：制作每日新闻简报时自动融合对话上下文追踪特定事件后续，并具备跨领域推理能力。</li>\n<li class=\"paragraph\"><strong>智能文件管理</strong>：分类整理桌面杂乱文件、清理临时数据，同时通过分析桌面内容（如电影海报截图）主动发现用户兴趣提供相关提醒。</li>\n<li class=\"paragraph\"><strong>深度研究辅助</strong>：自动打开浏览器查找权威数据源（如 CSRankings）获取特定数据并截图，或基于本地 Obsidian 笔记和文件历史精准定位过往资料辅助写作。</li>\n<li class=\"paragraph\"><strong>团队协作代理</strong>：直接代理发布 GitHub issue、同步产品需求与 bug 描述替代传统项目管理工具，通过”心迹”功能分享 Agent 内心世界促进团队成员相互理解。</li>\n</ul>"
+        "title": "首个有灵魂的 AI Agent 操作系统 的应用场景",
+        "html": "<p>官网用几个演示说明了 首个有灵魂的 AI Agent 操作系统 的适用场合：</p><ul><li>资料整理：把散落的截图、设计文件与安装包按类型归位；</li><li>会议与项目跟进：把多次会议的产出合成一份周报，标出负责人与截止时间；</li><li>日程安排：代为创建日历事件并提醒复查时间；</li><li>内容生成：按描述产出播客封面一类的配图；</li><li>个人事务：研究、写作与待办推进交给同一位长期助手。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "wenku-baidu-com-2",
@@ -24638,31 +24691,23 @@
     "domain": "antigravity.google",
     "detailed_content": [
       {
-        "title": "Google Antigravity是什么",
-        "html": "<p>Google Antigravity 是谷歌推出的 AI IDE 编程智能体，通过 AI 助手的自主性和高效性，改变软件开发的模式。Google Antigravity以<a href=\"https://ai-bot.cn/gemini-3/\" target=\"_blank\" rel=\"noopener\"> Gemini 3</a> 等先进 AI 模型为核心，将 AI 助手从工具转变为积极的合作伙伴。Google Antigravity提供独立的智能体界面，能自主规划和执行复杂的端到端软件任务，同时支持跨编辑器、终端和浏览器的操作。Google Antigravity 集成<a href=\"https://ai-bot.cn/gemini-2-5-flash/\" target=\"_blank\" rel=\"noopener\">Gemini 2.5 Flash</a>和<a href=\"https://ai-bot.cn/nano-banana/\" target=\"_blank\" rel=\"noopener\"> Nano Banana</a> 等模型，进一步增强功能。开发者可通过任务级的交互，更高效地完成开发工作，同时享受智能体的代码验证和自我改进能力。Google Antigravity已开放公测，免费提供给开发者使用，支持 Mac、Linux 和 Windows 系统。</p>\n<div class=\"paragraph\">Antigravity 2.0版本平台定位升级，从 IDE 插件升级为独立桌面应用，成为真正的 Agent 工作环境，支持多智能体并行协作。</div>\n<img decoding=\"async\" class=\"alignnone wp-image-66838\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/Google-Antigravity-website.png\"   alt=\"Google Antigravity\" width=\"740\" height=\"416\" />"
+        "title": "谷歌推出的 AI IDE 编程智能体 是什么",
+        "html": "<p>谷歌推出的 AI IDE 编程智能体 指的是 Google Antigravity，站点为 antigravity.google。官网把它称为面向智能体时代的开发平台，主张「任何人都能在 agent-first 的时代里构建东西」。它的产品线并不只有一个编辑器，而是把命令行工具、编辑器扩展与可编程接口一并纳入，形成一个可以按需拼装的开发环境。</p>"
       },
       {
-        "title": "Google Antigravity的主要功能",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>自主任务规划与执行</strong>：Antigravity 的智能体能自主规划和执行复杂的端到端软件任务，从代码编写到测试验证，减少人工干预。</li>\n<li class=\"paragraph\"><strong>跨环境操作</strong>：智能体能直接访问编辑器、终端和浏览器，实现代码编写、本地运行和功能测试的全流程自动化。</li>\n<li class=\"paragraph\"><strong>任务级交互</strong>：通过任务列表、实施计划、截图等“工件”（Artifacts），为用户提供任务进度的可视化，增强用户对智能体工作的信任。</li>\n<li class=\"paragraph\"><strong>异步与同步交互</strong>：提供“编辑器视图”用于同步操作，及“管理器视图”用于异步任务管理，支持多任务并行处理。</li>\n<li class=\"paragraph\"><strong class=\"\">实时反馈与改进</strong>：用户能在任何工件上提供反馈，智能体将自动调整执行策略，从反馈中学习，持续优化自身表现。</li>\n<li class=\"paragraph\"><strong>多模型集成</strong>：支持 Gemini 3 Pro、<a href=\"https://ai-bot.cn/gemini-2-5-computer-use/\" target=\"_blank\" rel=\"noopener\">Gemini 2.5 Computer Use</a>（用于浏览器控制）和 Nano Banana（图像编辑模型），提供强大的功能组合。</li>\n<li class=\"paragraph\"><strong>知识管理与自我提升</strong>：智能体通过知识库学习过往经验，将成功步骤和代码片段转化为知识，用于未来任务。</li>\n<li>\n<div class=\"paragraph\"><strong>Antigravity CLI </strong>：替代 <a href=\"https://ai-bot.cn/gemini-cli/\" target=\"_blank\" rel=\"noopener\">Gemini CLI</a>，后者将于 2026 年 6 月 18 日停止对 Pro/Ultra 用户服务。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Antigravity SDK 发布</strong>：开发者可将 Google 的 Agent harness 部署到自己的服务器上运行。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>原生语音与生态打通</strong>：整合 Gemini 音频模型实现语音支持，与 Android、Firebase、AI Studio 实现生态互通。</div>\n</li>\n</ul>"
+        "title": "谷歌推出的 AI IDE 编程智能体 的主要功能",
+        "html": "<p>谷歌推出的 AI IDE 编程智能体 的组成，可以在官网上拆成这几部分：</p><ul><li>Antigravity 主版本：集成式开发环境，承担日常编码与任务编排；</li><li>Antigravity CLI：面向习惯命令行的开发者提供终端入口；</li><li>Antigravity Extensions：以扩展形式接入既有编辑器工作流；</li><li>Antigravity IDE：以 IDE 形态交付的核心客户端；</li><li>Antigravity SDK：供二次开发与自建集成使用的开发工具包；</li><li>桌面客户端下载：页面提供桌面端安装包，并列出所支持的系统平台；</li><li>资源入口：官方文档、更新日志、支持与版本说明都在站内可查。</li></ul>"
       },
       {
-        "title": "Google Antigravity的使用示例",
-        "html": "<blockquote><p><strong>Prompt </strong>：Build me a flight lookup nextjs web app where the user can put in a flight number and the app gives you the start time, end time, time zones, start location, and end location of the flight. For now, use a mock API that returns a list of matching flights. Display the search results under the form input.（为我构建一个Next.js航班查询网页应用，用户可以输入航班号，应用会给出航班的开始时间、结束时间、时区、起始地点和结束地点。目前，使用一个模拟API来返回匹配航班的列表。将搜索结果显示在表单输入下方。）</p></blockquote>\n<img decoding=\"async\" class=\"alignnone wp-image-66844\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/Google-Antigravity-website-2.png\"   alt=\"Google Antigravity\" width=\"740\" height=\"490\" />\n<blockquote><p><strong>Prompt </strong>：Please add a contact form to my website through a button on the top right.(请在网站右上角通过按钮添加联系表单。)</p></blockquote>\n<img decoding=\"async\" class=\"alignnone wp-image-66845\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/Google-Antigravity-website2-1.png\"   alt=\"Google-Antigravity\" width=\"740\" height=\"422\" />"
+        "title": "如何使用 谷歌推出的 AI IDE 编程智能体",
+        "html": "<p>准备上手 谷歌推出的 AI IDE 编程智能体，可以按下面的步骤：</p><ol><li>访问 antigravity.google，先看一遍官方文档里的快速开始部分；</li><li>在下载页选择与自己系统匹配的桌面客户端并安装；</li><li>登录账号，把要改动的项目或仓库在环境里打开；</li><li>用自然语言描述任务，让智能体先给出方案再落笔改代码；</li><li>需要自动化时改用命令行入口或接入 SDK，把动作嵌进自己的流程。</li></ol>"
       },
       {
-        "title": "如何使用Google Antigravity",
-        "html": "<ul>\n<li><strong class=\"\">注册与下载</strong>：访问 Google Antigravity 官网 https://antigravity.google/ ，下载安装客户端。</li>\n<li><strong>设置与配置</strong>：安装完成后，根据提示配置开发环境和 AI 模型，调整界面和功能设置适应个人开发习惯。</li>\n<li><strong class=\"\">创建项目与任务</strong>：在Google Antigravity中新建项目，定义开发任务将其分解为多个子任务，并明确任务目标和优先级。</li>\n<li><strong>使用智能体</strong>：通过“编辑器视图”进行同步交互，或在“管理器视图”中启动智能体执行任务，实时监控进度。</li>\n<li><strong>提供反馈</strong>：在智能体生成的文本、代码或截图上直接添加反馈，智能体自动调整执行策略。</li>\n<li><strong>知识管理与复用</strong>：查看智能体的知识库，复用过往经验提升开发效率和质量。</li>\n</ul>"
-      },
-      {
-        "title": "Google Antigravity的产品定价",
-        "html": "<p>Google Antigravity 在公测阶段，目前对个人开发者免费开放，用户可访问包括 Gemini 3 Pro, <a href=\"https://ai-bot.cn/claude-sonnet-4-5/\" target=\"_blank\" rel=\"noopener\">Claude Sonnet 4.5</a>, <a href=\"https://ai-bot.cn/gpt-oss/\" target=\"_blank\" rel=\"noopener\">GPT-OSS</a>等在内的多种 AI 模型。</p>"
-      },
-      {
-        "title": "Google Antigravity的应用场景",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>前端开发</strong>：快速生成和优化前端代码，智能体能自动创建页面布局、编写 CSS 样式，在浏览器中实时测试效果。</li>\n<li class=\"paragraph\"><strong>后端开发</strong>：智能体能协助编写后端逻辑代码，如数据库操作、API 开发等，进行代码优化和单元测试。</li>\n<li class=\"paragraph\"><strong>全栈开发</strong>：在一个项目中同时处理前端和后端任务，智能体能协调不同模块的开发，实现端到端的功能实现和测试。</li>\n<li class=\"paragraph\"><strong>自动化测试</strong>：Google Antigravity 能自动生成测试用例，执行自动化测试，验证代码的正确性和性能。</li>\n<li class=\"paragraph\"><strong>代码审查与优化</strong>：智能体能对现有代码进行审查，提出优化建议，甚至自动修复一些常见的代码问题。</li>\n</ul>"
+        "title": "谷歌推出的 AI IDE 编程智能体 的应用场景",
+        "html": "<p>官网按角色列出了 谷歌推出的 AI IDE 编程智能体 的几种典型使用者：</p><ul><li>前端开发者：从页面到交互的连续修改；</li><li>全栈开发者：跨前后端调整同一需求；</li><li>科研场景：把实验脚本与数据处理流程交给智能体维护；</li><li>营销与技术运营：不写复杂代码也能完成站点与活动页的改动；</li><li>企业团队：在统一平台上管理多人协作与权限。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "kiro-dev",
@@ -25097,23 +25142,23 @@
     "domain": "codeflicker.ai",
     "detailed_content": [
       {
-        "title": "CodeFlicker是什么",
-        "html": "<p>CodeFlicker是快手推出的<a href=\"https://ai-bot.cn/ai-ide/\" target=\"_blank\" rel=\"noopener\">AI原生IDE</a>编程工具。支持AI问答和代码自动补全，能理解开发者的问题并提供智能的代码建议。CodeFlicker引入了基于Agent的AI编程，可以像人类程序员一样理解和执行复杂的编程任务，实现端到端的开发，从需求到代码生成能自动化完成。提供多种交互模式，如Jam模式和Duet模式，分别适用于沉浸式编程和团队协作。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-64273\" src=\"https://ai-bot.cn/wp-content/uploads/2025/10/CodeFlicker-website.png\"   alt=\"CodeFlicker\" width=\"739\" height=\"416\" />"
+        "title": "快手推出的AI原生IDE编程工具 是什么",
+        "html": "<p>快手推出的AI原生IDE编程工具 指的是 CodeFlicker，站点为 codeflicker.ai。官网对它的说明是建立在智能体原生架构之上：工具会先去理解代码库结构、上下文与任务目标，再参与从读懂代码、编写改动到验证结果的完整流程。它的目标是处理跨文件、跨模块的复杂工程改动，而不只是补全下一行。</p>"
       },
       {
-        "title": "CodeFlicker的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>智能问答与代码补全</strong>：开发者可以通过自然语言向 CodeFlicker 提问，会提供详尽的解答和可执行代码示例。在编写代码时，能根据上下文智能预测并补全代码。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>基于 Agent 的 AI 编程</strong>：内置智能体（Agent）能理解整个代码库，执行复杂的编程任务，在某些项目中实现从需求描述到可运行代码的端到端开发。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多模式交互</strong>：</div>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>Jam 模式</strong>：适合个人开发者，提供沉浸式编程体验，能从需求描述直接生成完整代码。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Duet 模式</strong>：支持多人实时协作，适合团队项目开发，能进行需求澄清、设计文档生成和任务分解。</div>\n</li>\n</ul>\n</li>\n<li>\n<div class=\"paragraph\"><strong>深度项目理解</strong>：能深度解析企业级的大型代码库，保持高效的上下文理解，支持用 <code class=\"segment-code-inline\" data-v-7caec4f8=\"\" data-v-fc0d0c5a=\"\">#</code> 符号快速引用特定文件或文件夹。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多模态集成平台（MCP）</strong>：可以灵活集成各种数据源、工具和服务，如 Figma、Notion、数据库和云服务。能将 Figma 设计稿直接转换成高质量的前端代码。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>任务拆解与自定义规则</strong>：能将复杂任务拆解成清晰可追踪的步骤，允许用户设置个性化的规则，定制 AI 的行为偏好和代码风格。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>项目预览与调试</strong>：能自动检测项目启动脚本，启动本地服务，提供嵌入式 IDE 预览和独立浏览器预览两种模式。支持元素选择功能，实现可视化调试。</div>\n</li>\n</ul>"
+        "title": "快手推出的AI原生IDE编程工具 的主要功能",
+        "html": "<p>快手推出的AI原生IDE编程工具 在官网上的功能，可以按模块列出来：</p><ul><li>IDE 主体：承载日常编码与任务编排的集成环境；</li><li>Editor 编辑器：实时补全代码，也能与智能体对话协作；</li><li>Space 工作空间：把多个项目分窗打开，同时推进多条任务线，并与编辑器保持同步；</li><li>Duet 协作模式：人机分工，由智能体承担可自动化的部分；</li><li>上下文策略：针对提示词机制做优化，让智能体抓到更相关的代码片段；</li><li>长期记忆：在多次会话之间保留项目认知，逐步自我演进；</li><li>语言覆盖：官方说明里提到脚本类与编译类的主流开发语言都在支持范围内；</li><li>上手方式：支持邮箱、常见第三方账号或代码托管账号快速注册。</li></ul>"
       },
       {
-        "title": "如何使用CodeFlicker",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>安装与配置</strong>：访问 CodeFlicker 官方网站，下载并安装适合您操作系统的版本。安装完成后，运行应用程序并注册或登录账户。根据提示完成初步配置，如选择偏好的编程语言和连接代码仓库。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>项目管理</strong>：可以选择创建全新的项目，或导入现有的代码仓库。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">选择协作模式</strong>：根据您的开发任务类型选择合适的协作模式。例如，对于复杂的特性开发，选择 Duet 模式进行早期对齐和减少返工；对于代码重构，选择 Agent 模式进行多文件编辑和自主执行。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>体验 AI 功能</strong>：在编辑器中，用自然语言输入您遇到的编程难题或功能需求，CodeFlicker 将提供专业的解答及代码示例。在编写代码时，CodeFlicker 会智能提供补全建议，助您快速完成代码输入。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>利用 Agent 编程</strong>：将大型开发任务交给 CodeFlicker 的 Agent，通过与其互动，逐步实现目标。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>上下文引用</strong>：CodeFlicker 会自动包含当前打开的文件作为上下文，也可以使用快捷键或右键菜单手动添加代码片段，将多行代码粘贴到输入框会自动识别为文件和行号，方便 AI 理解您的意图。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>变更管理</strong>：CodeFlicker 提供清晰的差异视图，可以逐行或逐文件审查变更，接受或拒绝单个变更。对于简单的修改，可以使用“全部接受”或“全部拒绝”批量操作，并支持一键回滚到任何对话前的检查点。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>使用 MCP 扩展功能</strong>：在设置中配置 Model Context Protocol (MCP) 服务器，将自定义工具和服务集成到 CodeFlicker 中，扩展 AI 助手的能力，实现个性化的工作流程。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>导出与分享</strong>：完成开发后，可以将项目导出至本地或云端仓库，方便地与他人分享。</div>\n</li>\n</ul>"
+        "title": "如何使用 快手推出的AI原生IDE编程工具",
+        "html": "<p>用 快手推出的AI原生IDE编程工具 做事，通常从这几步开始：</p><ol><li>访问 codeflicker.ai 下载客户端并完成注册；</li><li>把要改的项目导入工作空间，让工具先建立索引与上下文；</li><li>用自然语言描述需求，让它给出改动方案；</li><li>确认方案后由它批量修改代码，再本地跑一遍验证；</li><li>遇到跨模块的调整，用并行工作空间分摊任务。</li></ol>"
       },
       {
-        "title": "CodeFlicker的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>快速原型开发</strong>：适合需要快速验证想法的场景，AI 可自动生成基础代码框架。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>学习与教育</strong>：初学者可通过 AI 问答理解代码逻辑，教育平台可集成其功能辅助教学。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>复杂问题解决</strong>：当开发者遇到性能优化、算法设计等难题时，AI 可提供多方案建议并分析优劣。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>团队协作</strong>：支持项目组形式管理代码审计，权限控制功能适合团队开发场景。</div>\n</li>\n</ul>"
+        "title": "快手推出的AI原生IDE编程工具 的应用场景",
+        "html": "<p>官网把 快手推出的AI原生IDE编程工具 的适用任务写成一段话，归纳起来是：</p><ul><li>日常维护：修小问题、补测试、清理冗余代码；</li><li>功能迭代：在既有工程上新增模块与接口；</li><li>缺陷修复：定位报错并给出可验证的改法；</li><li>架构重构：在多个文件之间同步调整调用关系；</li><li>设计转代码：把设计稿或产品描述落成可运行的实现。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "tool61842",
@@ -25875,8 +25920,25 @@
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool4794.png",
     "domain": "v0.app",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Vercel推出的AI全栈应用构建工具 是什么",
+        "html": "<p>Vercel推出的AI全栈应用构建工具 指的是 Vercel 旗下的 v0，站点为 v0.app。官网用三个词概括它的工作方式：提提示词、构建、发布。用户用自然语言描述想要的界面或功能，模型直接产出可运行的页面代码，随后可以一键发布成线上站点。它同时支持接入现有代码仓库与第三方服务，因此既能做原型，也能承接真实项目。</p>"
+      },
+      {
+        "title": "Vercel推出的AI全栈应用构建工具 的主要功能",
+        "html": "<p>Vercel推出的AI全栈应用构建工具 的官网把关键能力列得比较清楚：</p><ul><li>生成可运行应用：用对话产出可交互的前端成品，而不只是静态稿；</li><li>对话式修改：后续需求直接补充描述，由模型在原稿上继续改；</li><li>发布上线：构建完成后直接部署为可访问的网址；</li><li>仓库同步：连接 GitHub 后可以把代码推回自己的仓库；</li><li>第三方集成：与应用和服务接口对接，官方称多数集成无需单独申请账号；</li><li>一键部署：把成品发布到 Vercel 的生产环境；</li><li>设计模式：用可视化控件配合实时预览调整细节；</li><li>模板起步：内置组件与整页模板，涵盖应用、落地页、组件与仪表盘等分类；</li><li>设计系统：可定义配色与字体等基础规则，让多个页面风格统一。</li></ul>"
+      },
+      {
+        "title": "如何使用 Vercel推出的AI全栈应用构建工具",
+        "html": "<p>第一次用 Vercel推出的AI全栈应用构建工具 时，建议按这个顺序：</p><ol><li>打开 v0.app，用已有账号登录；</li><li>在输入框里描述要做的页面或小应用，等模型返回第一版；</li><li>用对话持续提修改意见，或用设计模式手动调整视觉细节；</li><li>需要真实代码时连接仓库，把成品推送到自己的项目里；</li><li>确认无误后一键部署，得到可分享的线上链接。</li></ol>"
+      },
+      {
+        "title": "Vercel推出的AI全栈应用构建工具 的应用场景",
+        "html": "<p>从模板库的构成看，Vercel推出的AI全栈应用构建工具 常见的用途包括：</p><ul><li>营销落地页与产品官网的首版搭建；</li><li>SaaS 后台、数据看板一类的界面原型；</li><li>小游戏、图片编辑等轻量互动工具的快速验证；</li><li>团队内部工具：表单、计算器、活动页等一次性需求；</li><li>教学演示：把接口调用与界面拼在一起，做成可操作的示例。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "tool2610",
@@ -26947,8 +27009,25 @@
     "subcategory": "ai-design-graphic",
     "logo": "/logos/tool4435.png",
     "domain": "paico.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Pixso推出的AI设计工具 是什么",
+        "html": "<p>Pixso推出的AI设计工具 指的是 Pixso 团队上线的 Paico，站点为 paico.cn。官网把它描述成一个智能设计平台：把任何想法快速转成专业级的网页、UI 界面、幻灯片或原型。它不要求使用者先学会设计软件，起点只是一段文字描述，剩下的版式与视觉由模型铺出来，生成结果还能回流到 Pixso 里继续精修。</p>"
+      },
+      {
+        "title": "Pixso推出的AI设计工具 的主要功能",
+        "html": "<p>Pixso推出的AI设计工具 在官网上的能力说明，可以归到下面几项：</p><ul><li>从文本到界面：简单描述需求即可产出美观且易用的 UI 稿；</li><li>多端自适应：网页、移动端与平板三种画布自动生成响应式布局；</li><li>细节可控：颜色、布局、组件与文案都支持局部微调与二次创作；</li><li>对话式迭代：像和设计师沟通那样调整交互逻辑与按钮文字，并可切换历史版本；</li><li>衔接 Pixso：生成结果可导入 Pixso 编辑，或一键同步为设计文件；</li><li>AI 工作台：保留历史对话，生成稿可通过链接访问，并能切到代码模式查看布局与样式层级；</li><li>成品类型覆盖网页、APP 界面、幻灯片与原型四类。</li></ul>"
+      },
+      {
+        "title": "如何使用 Pixso推出的AI设计工具",
+        "html": "<p>用 Pixso推出的AI设计工具 出稿，可以按这个流程走：</p><ol><li>打开 paico.cn，登录后选择要做的成品类型；</li><li>写一段文字描述页面用途与风格，提交生成；</li><li>在结果里挑一版，用对话继续提修改要求，直到布局与文案符合预期；</li><li>需要精细调整时导出到 Pixso 里手工改，或者切到代码模式查看结构；</li><li>把链接发给同事收集反馈，确认后再交付。</li></ol>"
+      },
+      {
+        "title": "Pixso推出的AI设计工具 的应用场景",
+        "html": "<p>官网展示的样例覆盖了  Pixso推出的AI设计工具 的常见落点：</p><ul><li>站点类：教育网站首页、金融科技网站、企业服务落地页；</li><li>后台类：项目管理后台、客户管理仪表板、广告活动管理平台；</li><li>应用类：健身与健康管理移动应用、在线学习应用；</li><li>演示类：把要点整理成幻灯片，用于汇报或评审；</li><li>协作类：团队在同一个设计文件上对齐交互细节。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "recraft",
@@ -29703,8 +29782,25 @@
     "subcategory": "ai-audio-tts",
     "logo": "/logos/tool4294.png",
     "domain": "try.elevenlabs.io",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI文本转语音，支持包含中文在内的29种语言 是什么",
+        "html": "<p>AI文本转语音，支持包含中文在内的29种语言 指的是 ElevenLabs 的语音合成服务，官方站点在 elevenlabs.io。它把语音能力拆成三条产品线：面向内容创作的创意平台、面向对话式交互的智能体平台，以及给开发者调用的接口服务。官网强调三条线建立在同一套音频研究底座上，因此音色与语音质量在不同入口之间保持一致。</p>"
+      },
+      {
+        "title": "AI文本转语音，支持包含中文在内的29种语言 的主要功能",
+        "html": "<p>AI文本转语音，支持包含中文在内的29种语言 的能力，官网上按用途拆得比较细：</p><ul><li>语音合成：把文本转成可控情绪、可调表达力的语音，覆盖多种语言；</li><li>音色库：既可以直接挑现成音色，也能用提示词设计新的音色，或克隆自己的声音；</li><li>配音风格：旁白、广告、角色、对话与社媒等场景各有对应音色；</li><li>一体化编辑器：播客、有声书与旁白可以在同一个编辑器里完成制作；</li><li>音乐生成：按指定风格产出带人声或纯器乐的曲目；</li><li>音效生成：生成环境音与音景，或从既有音效库中检索；</li><li>图像与视频：可生成或编辑图像，并把想法转成视频；</li><li>智能体接口：用于配置、部署与监控对话式语音应用。</li></ul>"
+      },
+      {
+        "title": "如何使用 AI文本转语音，支持包含中文在内的29种语言",
+        "html": "<p>上手 AI文本转语音，支持包含中文在内的29种语言 时，通常这样开始：</p><ol><li>访问官网注册账号，进入创作平台的编辑界面；</li><li>输入或粘贴要朗读的文稿，选定语言；</li><li>浏览音色列表挑选合适的声音，需要专属音色时再做克隆；</li><li>试听后调整语速、停顿与情绪表达；</li><li>导出音频，或把同一段语音接口化接入自己的应用。</li></ol>"
+      },
+      {
+        "title": "AI文本转语音，支持包含中文在内的29种语言 的应用场景",
+        "html": "<p>官网给出的用例，反映出 AI文本转语音，支持包含中文在内的29种语言 主要服务这些内容形态：</p><ul><li>长音频内容：有声书与播客的配音与后期；</li><li>广告与宣传：需要强感染力旁白的商业素材；</li><li>游戏与动画：角色配音与多角色对白；</li><li>多语种发行：把一条内容换成不同语言版本后再分发；</li><li>短视频：为竖屏内容批量生成解说音轨。</li><li>无障碍阅读：把长文本转成音频，方便在通勤或运动时听。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "lang123-top",
@@ -29802,27 +29898,23 @@
     "domain": "iflyrec.com",
     "detailed_content": [
       {
-        "title": "讯飞听见是什么",
-        "html": "<p style=\"text-align: left;\">讯飞听见是科大讯飞推出的在线<a href=\"https://ai-bot.cn/ai-speech-to-text-tools/\" target=\"_blank\" rel=\"noopener\">AI语音转文字工具</a>，通过先进的人工智能技术，能够实时将语音转换成文字，准确率高达98%，支持多语种翻译，并提供会议记录、文档翻译、实时字幕等多种功能。用户可以利用它在会议、采访、学习等多场景下提高记录和翻译的效率，是提升工作效率和优化工作流程的得力助手。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/09/iflyrec-website-4.png\" data-fancybox=\"fancybox\" data-caption=\"讯飞听见\"><img decoding=\"async\" class=\"alignnone size-full wp-image-19133\" src=\"https://ai-bot.cn/wp-content/uploads/2024/09/iflyrec-website-4.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"讯飞听见\" width=\"800\" height=\"450\"></a>"
+        "title": "科大讯飞推出的在线AI语音转文字工具 是什么",
+        "html": "<p>科大讯飞推出的在线AI语音转文字工具 指的是讯飞听见，转写入口在 iflyrec.com/zhuanwenzi.html。官网对它的定位是「把每一次交谈变成可留存的知识」：一边实时录音一边转写，过程中还能补照片和笔记，由 AI 还原完整语境，最后整理成便于检索的知识库。它同时提供成品文件与文字稿两类交付。</p>"
       },
       {
-        "title": "讯飞听见的主要功能",
-        "html": "<ul>\n<li><strong>实时语音转写</strong>：能够将实时语音转换为文字，适用于会议、讲座等场景。</li>\n<li><strong>录音文件转写</strong>：用户可以将已有的音频文件上传，软件会将语音内容转换成文字。</li>\n<li><strong>多语种翻译</strong>：支持多种语言的实时翻译，便于跨国交流和会议。</li>\n<li><strong>智能编辑</strong>：提供字音同步编辑功能，用户可以边听录音边编辑文字，提高准确性。</li>\n<li><strong>AI写作辅助</strong>：内置多场景写作模板，支持语音输入和文稿一键撰写，提升写作效率。</li>\n<li><strong>角色区分和分段</strong>：在转写过程中，能够智能区分不同说话人和自动分段，方便用户理解和查找信息。</li>\n<li><strong>文档翻译</strong>：支持文档的多语种翻译，帮助用户跨越语言障碍。</li>\n<li><strong>远程视频会议</strong>：提供远程视频会议功能，支持屏幕共享和文档共享，适合异地协作。</li>\n<li><strong>智能硬件连接</strong>：可以与讯飞听见录音宝M1等智能硬件连接，实现更高效的录音和转写。</li>\n<li><strong>语篇规整</strong>：新增的语篇规整功能，帮助用户整理和优化转写后的文字内容。</li>\n<li><strong>AI自动总结归纳</strong>：能够自动提炼文本中的关键信息，简化信息处理流程。</li>\n<li><strong>多格式分享</strong>：支持将转写结果以多种格式导出和分享，便于进一步使用。</li>\n</ul>"
+        "title": "科大讯飞推出的在线AI语音转文字工具 的主要功能",
+        "html": "<p>科大讯飞推出的在线AI语音转文字工具 的功能在官网上分成几个入口：</p><ul><li>实时录音转写：边录边出文字，可同步添加图片与笔记；</li><li>音视频文件导入：直接上传已有录音或视频批量转写；</li><li>人工转写：对准确度要求高的场景可转由真人处理；</li><li>内容整理：输出音频、文字稿与摘要三种结果，便于二次加工；</li><li>要点提炼：自动归纳出风险、决策与发现等结构化信息；</li><li>多语言识别：支持中英混说、普通话与粤语混用以及方言的识别，并提供跨语言的实时翻译；</li><li>资产复用：转写结果可重复使用与分享，逐步累积成个人知识资产；</li><li>企业版本：面向团队提供集中管理与下载中心等服务。</li></ul>"
       },
       {
-        "title": "如何使用讯飞听见",
-        "html": "<ul>\n<li><strong>访问官网</strong>：访问讯飞听见官网 iflyrec.com ，注册账号登录。</li>\n<li><strong>选择服务</strong>：根据需要，选择实时转写、录音转写、文档翻译等服务。</li>\n<li><strong>开始使用</strong>：\n<ul>\n<li><strong>实时转写</strong>：打开APP，开始录音，它会实时将语音转换成文字。</li>\n<li><strong>录音转写</strong>：上传已有的录音文件，APP会将语音转换成文字。</li>\n<li><strong>文档翻译</strong>：上传文档，选择原文和目标语言进行翻译。</li>\n</ul>\n</li>\n<li><strong>编辑和保存</strong>：转写后的文字可以编辑和保存。</li>\n<li><strong>分享</strong>：将转写或翻译的内容通过邮件、社交等方式分享。</li>\n</ul>"
+        "title": "如何使用 科大讯飞推出的在线AI语音转文字工具",
+        "html": "<p>要开始用 科大讯飞推出的在线AI语音转文字工具，可以这样走：</p><ol><li>打开转写页面并登录账号；</li><li>选择实时录音，或把已有的音频视频文件拖进来；</li><li>设定语言与说话人等信息后开始转写；</li><li>等待出稿，核对专有名词与数字，必要时手工修正；</li><li>导出文字稿或摘要，或把结果存进自己的资料库。</li></ol>"
       },
       {
-        "title": "讯飞听见的产品价格",
-        "html": "<p>讯飞听见推出五个套餐包，分别是：（具体价格以官网为准）</p>\n<ul>\n<li><strong>畅享包</strong>：1小时音频最快5分钟出稿，产品通用。</li>\n<li><strong>会记权益包</strong>：电脑端实时录音转文字+AI会议纪要。</li>\n<li><strong>机器快转，超值折扣</strong>：电脑端实时录音转文字+AI会议纪要。</li>\n<li><strong>人工精转，专业高效</strong>：专业团队，多轮校验，1小时音频最快3小时出稿。</li>\n<li><strong>企业账户，专属管理</strong>：批量转写更优惠，团队使用更便捷。</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/09/iflyrec-website01.png\" data-fancybox=\"fancybox\" data-caption=\"讯飞听见\"><img decoding=\"async\" class=\"alignnone size-full wp-image-19135\" src=\"https://ai-bot.cn/wp-content/uploads/2024/09/iflyrec-website01.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"讯飞听见\" width=\"800\" height=\"450\"></a>"
-      },
-      {
-        "title": "讯飞听见的应用场景",
-        "html": "<ul>\n<li><strong>办公会议</strong>：在多人远程会议中，讯飞听见能够快速整理会议纪要，提供实时语音转写和翻译，支持多语种，确保信息准确无误地传达给每一位参与者。</li>\n<li><strong>授课演讲</strong>：在教育领域，教师可以使用讯飞听见实时记录讲课内容，便于学生复习和资料整理，同时支持将讲课内容翻译成不同语言，便于国际学生理解。</li>\n<li><strong>媒体采访</strong>：记者在采访时使用讯飞听见，可以实时将受访者的语音转化为文字，自动区分角色与分段，快速整理出采访稿件。</li>\n<li><strong>个人写作</strong>：作家和学者可以通过讯飞听见记录灵感和创作内容，快速转写成文字，提高写作效率。</li>\n<li><strong>视频会议</strong>：讯飞听见还提供视频会议服务，支持实时字幕和翻译，自动生成会议记录，会后一键发送。</li>\n</ul>"
+        "title": "科大讯飞推出的在线AI语音转文字工具 的应用场景",
+        "html": "<p>从官网列出的使用入口看，科大讯飞推出的在线AI语音转文字工具 常见的用途有：</p><ul><li>会议记录：把讨论内容留档，会后按要点分发；</li><li>采访与调研：把访谈录音整理成可直接引用的文字；</li><li>课程与讲座：为音视频补上字幕与文字稿；</li><li>个人笔记：把碎片化的想法口述后自动成文；</li><li>团队知识沉淀：把反复出现的问题与结论归档，便于后续检索；</li><li>内容创作：把口述草稿转成文字，再进一步整理成文章或脚本。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "tool21562",
@@ -29939,8 +30031,25 @@
     "subcategory": "ai-audio-music",
     "logo": "/logos/tool13336.png",
     "domain": "haimian.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "字节跳动推出的免费AI音乐创作和发现平台 是什么",
+        "html": "<p>字节跳动推出的免费AI音乐创作和发现平台 指的就是字节旗下的海绵音乐，站点为 haimian.com。官网首页的口号是「让你的想法变成歌」，把音乐创作压成两步：先写下想法或者挂一段参考音乐，再让系统生成成品。平台同时提供创作与发现两个方向，既做歌也做歌单式的浏览，首页会滚动展示社区里已公开的作品。</p>"
+      },
+      {
+        "title": "字节跳动推出的免费AI音乐创作和发现平台 的主要功能",
+        "html": "<p>在功能层面，字节跳动推出的免费AI音乐创作和发现平台 官网给出这些入口：</p><ul><li>Agent 写歌：用对话方式描述情绪、主题与曲风，由智能体完成创作；</li><li>生成模型：页面标注使用的是 SeedMusic 1.0；</li><li>参考音乐：可上传或指定一段音乐作为风格参照；</li><li>改编与做同款：在保留主旋律的前提下重编曲、换唱法或改歌词；</li><li>作品资产：生成结果统一收在资产页，便于回听与再编辑；</li><li>社区精选：首页展示不同主题的成品歌单，可一键发起同款创作；</li><li>作品信息：每首歌都会标注曲风、时长与节拍等基础参数；</li><li>公开分享：作品可以发布到平台社区，供其他人试听与发起同款改编。</li></ul>"
+      },
+      {
+        "title": "如何使用 字节跳动推出的免费AI音乐创作和发现平台",
+        "html": "<p>实际操作一遍 字节跳动推出的免费AI音乐创作和发现平台 大概是这样的流程：</p><ol><li>打开 haimian.com 并登录账号；</li><li>进入创作页，挑一个主题标签，或者直接写一段文字说明想要的感觉；</li><li>需要模仿某首曲子时，先添加参考音乐再提交；</li><li>生成完成后试听，不满意就修改描述重新生成；</li><li>想再加工时用改编入口调整编曲、唱法或歌词；</li><li>把满意的版本保存到资产页，方便之后继续用。</li></ol>"
+      },
+      {
+        "title": "字节跳动推出的免费AI音乐创作和发现平台 的应用场景",
+        "html": "<p>从首页展示的作品看，字节跳动推出的免费AI音乐创作和发现平台 覆盖的用途大致有这几类：</p><ul><li>主题创作：把家乡故事、节日祝福之类的具体内容写成歌；</li><li>情绪表达：按电子摇滚、戏腔等不同曲风定调；</li><li>短视频配乐：为成片快速产出贴合氛围的背景音乐；</li><li>二次改编：把已有作品换成合唱、民谣等版本再发布。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "nafy-ai",
@@ -30173,27 +30282,23 @@
     "domain": "audioeditor.ximalaya.com",
     "detailed_content": [
       {
-        "title": "音剪是什么",
-        "html": "<p>音剪是喜马拉雅推出的一站式AI音频创作平台，提供多情感多模态的AI辅助工具，强大的在线剪辑能力，辅助用户轻松创作出优秀的音频作品。音剪集合了多项AI音频创作功能，包括AI音频剪辑、AI配乐、文章转语音、AI小说、音频转文字、AI分段、智能检测以及一键成片等。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/11/yinjian-website1.png\" data-fancybox=\"fancybox\" data-caption=\"音剪\"><img decoding=\"async\" class=\"alignnone wp-image-28070\" src=\"https://ai-bot.cn/wp-content/uploads/2024/11/yinjian-website1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"音剪\" width=\"743\" height=\"418\"></a>"
+        "title": "喜马拉雅推出的一站式AI音频创作平台 是什么",
+        "html": "<p>喜马拉雅推出的一站式AI音频创作平台 指的是喜马拉雅旗下的音剪，入口为 audioeditor.ximalaya.com。官网把它定义为专业音频制作工具，目标是让音频创作更自由、更便捷。它的定位覆盖从录制、剪辑到成片包装的整条链路，并把 AI 能力放在每个环节里，例如自动识别音频问题、文字驱动剪辑与智能配乐。</p>"
       },
       {
-        "title": "音剪的主要功能",
-        "html": "<ul>\n<li><strong>专业音频制作</strong>：音剪提供专业级别的音频制作工具，帮助用户激发创新灵感，释放创意潜力，音频创作更自由、便捷和精彩。</li>\n<li><strong>多音轨音频录制</strong>：支持多音轨音频录制，能高清还原真实音色，让声音更加饱满生动。</li>\n<li><strong>AI赋能播客制作</strong>：AI赋能的播客制作全流程，用户可以轻松创作出专业级别的播客作品。</li>\n<li><strong>智能音频剪辑</strong>：提供包括一键剪辑、配乐和包装在内的智能音频剪辑功能，AI智能识别音频问题，提升创作效率。</li>\n<li><strong>文章转语音</strong>：支持万字长文秒变语音，提供多种专业音色可选，让文章声动活泼。</li>\n<li><strong>AI有声小说</strong>：提供智能拆章、精准角色识别等功能，搭配多元精品AI音色，演绎媲美真人的AI多人有声剧。</li>\n<li><strong>直播辅助工具</strong>：提供多功能多场景的直播辅助工具，覆盖音频直播、视频直播和电商直播等多类型，助力成为明星主播。</li>\n<li><strong>海量配乐</strong>：AI一键匹配配乐，提供丰富的免费配乐、片头片尾、音效资源，满足不同场景风格的创作需求。</li>\n<li><strong>创作百宝箱</strong>：包括AI分段、降噪、字幕下载、音量均衡、声音美化、智能配乐和文案提取等功能，进一步提升创作效率和音频质量。</li>\n</ul>"
+        "title": "喜马拉雅推出的一站式AI音频创作平台 的主要功能",
+        "html": "<p>喜马拉雅推出的一站式AI音频创作平台 的功能，官网按创作环节列成了几块：</p><ul><li>播客创作：用 AI 贯穿制作全流程，从素材到成品一次成稿；</li><li>录音：支持多音轨录制，尽量还原真实音色；</li><li>音频剪辑：识别音频里的问题并给出一键处理建议；</li><li>文章转语音：长文可以直接转成语音，并提供多种音色；</li><li>有声制作：用多款 AI 音色搭建多人有声剧；</li><li>AI 小说：上传文本后自动拆章、识别角色并匹配音色；</li><li>智能包装：自动配乐、加音效并完成整体包装；</li><li>直播辅助：面向音频、视频与电商直播提供配套工具；</li><li>多端使用：除网页端外还提供移动端与桌面端客户端。</li></ul>"
       },
       {
-        "title": "如何使用音剪",
-        "html": "<ul>\n<li><strong>访问官网</strong>：访问音剪<a href=\"https://audioeditor.ximalaya.com/?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">官方网站</a>，使用喜马拉雅账号登录，开始使用音剪的各项功能。</li>\n<li><strong>功能操作</strong>：\n<ul>\n<li><strong>录音</strong>：音剪支持多音轨音频录制，可以高清还原真实音色，让声音更加饱满生动。</li>\n<li><strong>音频剪辑</strong>：音剪通过AI赋能在线音频剪辑，集合一键成片、问题检测、文字剪辑和智能包装等强大的音频处理能力，提升创作效率。</li>\n<li><strong>文章转语音</strong>：支持万字文章一键生成语音，更有多种自然且富有情感的音色选择，文章声动活泼。</li>\n<li><strong>AI有声小说</strong>：提供智能拆章、精准角色识别等功能，搭配多元精品AI音色，完美演绎媲美真人的AI多人有声剧。</li>\n<li><strong>直播辅助工具</strong>：音剪提供多功能多场景的直播辅助工具，覆盖音频直播、视频直播和电商直播等多类型，成就明星主播。</li>\n<li><strong>海量配乐</strong>：音剪支持AI一键匹配，让声音有声有色，丰富的免费配乐、片头片尾、音效资源，满足不同场景风格的创作需求。</li>\n</ul>\n</li>\n<li><strong>创作百宝箱</strong>：音剪提供包括AI分段、降噪、字幕下载、音量均衡、声音美化、智能配乐和文案提取等功能，进一步提升创作效率和音频质量。</li>\n<li><strong>操作步骤</strong>：音剪的操作相对简单，基本的步骤包括导入素材、编辑、导出等。根据需要选择相应的功能进行操作。</li>\n</ul>"
+        "title": "如何使用 喜马拉雅推出的一站式AI音频创作平台",
+        "html": "<p>用 喜马拉雅推出的一站式AI音频创作平台 制作一档音频内容，可以这样开始：</p><ol><li>登录 audioeditor.ximalaya.com 并新建项目；</li><li>选择录音或导入已有素材，多轨录制的可以直接叠轨；</li><li>用文字剪辑的方式删改口误与停顿，再让 AI 检测音频问题；</li><li>挑选音色完成配乐与包装，需要多人对话时分配不同角色音色；</li><li>试听确认后导出成品，发布到自己的账号下。</li></ol>"
       },
       {
-        "title": "音剪的产品定价",
-        "html": "<ul>\n<li><strong>免费使用</strong>：用户可以免费使用基本功能。</li>\n</ul>"
-      },
-      {
-        "title": "音剪的应用场景",
-        "html": "<ul>\n<li><strong>专业音频制作</strong>：适用于需要高品质音频制作的创作者，让音频创作更自由、便捷和精彩。</li>\n<li><strong>播客创作</strong>：播客主播可以用音剪轻松创作专业级别的播客作品，AI赋能制作全流程，支持多音轨音频录制，高清还原真实音色，让声音饱满生动。</li>\n<li><strong>有声书制作</strong>：有声书制作人员可以用音剪快速、便捷地制作有声书作品，提供智能音频剪辑功能，包括一键剪辑、配乐和包装，AI智能识别音频问题，提升创作效率。</li>\n<li><strong>直播辅助</strong>：直播主播可以用音剪的多功能多场景直播辅助工具，覆盖音频直播、视频直播和电商直播等多类型，成就明星主播。</li>\n<li><strong>文章转语音</strong>：文字创作者可以将文章转化为语音，音剪提供万字文章一键生成语音功能，多种专业音色可选，让文章声动活泼。</li>\n<li><strong>AI小说创作</strong>：音剪支持上传文本一键拆章，提供精准的角色识别能力，搭配多元精品AI音色，完美演绎媲美真人的AI多人有声剧。</li>\n</ul>"
+        "title": "喜马拉雅推出的一站式AI音频创作平台 的应用场景",
+        "html": "<p>官网把 喜马拉雅推出的一站式AI音频创作平台 的落点归结为几类内容形态：</p><ul><li>播客节目：访谈、口播与专题类的长期更新；</li><li>有声书与有声剧：长篇文本拆章后由多音色演绎；</li><li>文章音频化：把已有的图文内容转成可听的版本；</li><li>直播场景：为音频与电商直播准备素材与垫乐；</li><li>知识付费内容：把课程音频做成听感更完整的成品。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "audiomyst-baidu-com",
@@ -33589,27 +33694,23 @@
     "domain": "zenmux.ai",
     "detailed_content": [
       {
-        "title": "ZenMux是什么",
-        "html": "<p>ZenMux 是全球首个带保险赔付机制的企业级<a href=\"https://ai-bot.cn/ai-llm-api-aggregation-platform/\" target=\"_blank\" rel=\"noopener\">大模型聚合平台</a>，提供一站式访问 OpenAI、Anthropic、Google、DeepSeek 等主流模型的统一接口。ZenMux 采用双协议兼容设计（OpenAI 与 Anthropic 标准），支持智能模型路由、自动故障转移和全球边缘加速。ZenMux 核心特色是”AI 保险”，当模型出现幻觉、延迟过高或输出质量差时自动赔付，能将问题数据反馈给用户优化产品。ZenMux支持定期对所有模型进行开源可审计的”降级检测”（HLE 测试），质量透明可信。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/02/ZenMux-website-1.png\" data-fancybox=\"fancybox\" data-caption=\"ZenMux\"><img decoding=\"async\" class=\"alignnone wp-image-71549 loaded\" src=\"https://ai-bot.cn/wp-content/uploads/2026/02/ZenMux-website-1.png\" src=\"https://ai-bot.cn/wp-content/uploads/2026/02/ZenMux-website-1.png\" alt=\"ZenMux\" width=\"740\" height=\"416\" data-was-processed=\"true\"></a>"
+        "title": "全球首个带保险赔付机制的企业级大模型聚合平台 是什么",
+        "html": "<p>全球首个带保险赔付机制的企业级大模型聚合平台 指的是 ZenMux，站点为 zenmux.ai。官网的定位很明确：用一个账号、一个接口，直连各家主流大模型，而且模型来源限定为官方提供方或授权的云服务伙伴，不做转发版本。它同时提供图形界面，聊天、图像与视频生成都走同一套入口，对企业用户而言省去了分别对接多家平台的麻烦。</p>"
       },
       {
-        "title": "ZenMux的主要功能",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>统一模型接入</strong>：一个 API 密钥可调用 OpenAI、Anthropic、Google、DeepSeek 等主流厂商的模型，无需管理多个账户。</li>\n<li class=\"paragraph\"><strong>双协议兼容</strong>：同时支持 OpenAI 和 Anthropic API 标准，无缝对接 <a href=\"https://ai-bot.cn/sites/56948.html\" target=\"_blank\" rel=\"noopener\">Claude Code</a>、<a href=\"https://ai-bot.cn/sites/906.html\" target=\"_blank\" rel=\"noopener\">Cursor</a> 等工具。</li>\n<li class=\"paragraph\"><strong>AI 保险服务</strong>：支持自动检测模型幻觉、延迟过高或输出质量问题，次日自动赔付，并将问题数据用于优化用户产品。</li>\n<li class=\"paragraph\"><strong>智能模型路由</strong>：根据任务特征自动选择性价比最优的模型，在质量与成本之间取得最优平衡。</li>\n<li class=\"paragraph\"><strong>质量透明保障</strong>：定期对所有模型通道进行开源可审计的 HLE（Human Last Exam）测试，结果实时公开，支持按需检测，杜绝降级模型。</li>\n<li class=\"paragraph\"><strong>企业级稳定性</strong>：多提供商备份、自动故障转移、Tier 5 容量储备，确保服务高可用不受单点影响。</li>\n<li class=\"paragraph\"><strong>全球边缘加速</strong>：基于 Cloudflare 全球节点部署，智能就近处理请求，显著降低网络延迟。</li>\n<li class=\"paragraph\"><strong>开发者可观测性</strong>：提供多维度仪表盘，包括详细调用日志、成本分析、用量统计、性能监控和模型质量对比。</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/02/ZenMux-webiste3.png\" data-fancybox=\"fancybox\" data-caption=\"ZenMux\"><img decoding=\"async\" class=\"alignnone wp-image-71552\" src=\"https://ai-bot.cn/wp-content/uploads/2026/02/ZenMux-webiste3.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"ZenMux\" width=\"740\" height=\"416\"></a>"
+        "title": "全球首个带保险赔付机制的企业级大模型聚合平台 的主要功能",
+        "html": "<p>全球首个带保险赔付机制的企业级大模型聚合平台 的官网把差异点总结成几条：</p><ul><li>统一接入：接口兼容 OpenAI 与 Anthropic 两家协议，也能对接 Google 的 Vertex AI 通道；</li><li>内置赔付：出现幻觉输出、延迟过高或吞吐偏低时自动进行补偿，被补偿的案例脱敏后回传给用户作为改进素材；</li><li>成本可视：每次请求、每个 token 与每笔花费都可追溯，并提供多维度看板；</li><li>稳定性：为每个模型维护多条供应商通道与备用容量，某条通道限流或故障时自动切换；</li><li>边缘加速：借助全球边缘网络就近处理请求，降低访问延迟；</li><li>自动路由：开启后由系统分析提示词，挑选质量与成本之间的平衡点；</li><li>Studio 入口：页面提供图像类模型的试用与体验区。</li></ul>"
       },
       {
-        "title": "如何使用ZenMux",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>注册账号</strong>：访问ZenMux官网 <a href=\"https://zenmux.ai/invite/5MQIGW\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">https://zenmux.ai/</a> ，完成账号注册和登录。</li>\n<li class=\"paragraph\"><strong>获取 API 密钥</strong>：进入用户控制台 &gt; API Keys 页面，创建新密钥。</li>\n<li class=\"paragraph\"><strong>选择接入方式</strong>：\n<ul>\n<li>\n<div class=\"paragraph\"><strong>OpenAI SDK</strong>：设置 <code class=\"segment-code-inline\" data-v-7caec4f8=\"\" data-v-7bd7ca31=\"\">base_url=\"https://zenmux.ai/api/v1\"</code>，模型格式为 <code class=\"segment-code-inline\" data-v-7caec4f8=\"\" data-v-7bd7ca31=\"\">provider/model-name</code>（如 <code class=\"segment-code-inline\" data-v-7caec4f8=\"\" data-v-7bd7ca31=\"\">openai/gpt-5</code>）</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Anthropic SDK</strong>：设置 <code class=\"segment-code-inline\" data-v-7caec4f8=\"\" data-v-7bd7ca31=\"\">base_url=\"https://zenmux.ai/api/anthropic\"</code>，兼容 Claude Code 等工具</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>直接调用 API</strong>：发送请求至 <code class=\"segment-code-inline\" data-v-7caec4f8=\"\" data-v-7bd7ca31=\"\">https://zenmux.ai/api/v1/chat/completions</code></div>\n</li>\n</ul>\n</li>\n<li class=\"paragraph\"><strong>开始调用</strong>：复制代码示例，替换 API 密钥和模型名称即可使用。</li>\n<li class=\"paragraph\"><strong>查看用量与成本</strong>：在控制台查看请求日志、成本分析、保险赔付记录等。</li>\n</ul>"
+        "title": "如何使用 全球首个带保险赔付机制的企业级大模型聚合平台",
+        "html": "<p>要开始使用 全球首个带保险赔付机制的企业级大模型聚合平台，步骤大致如下：</p><ol><li>访问 zenmux.ai 注册账号；</li><li>在模型列表里挑选需要的模型，确认其来源通道；</li><li>在开发者文档中拿到接口地址与密钥，或直接用网页界面体验；</li><li>把请求打进统一端点，需要时开启自动路由与故障转移；</li><li>在计费与看板页核对用量，按需切换按量付费或订阅方案。</li></ol>"
       },
       {
-        "title": "ZenMux的产品定价",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>Free</strong>：$0，5 Flows/5h，面向所有用户开放，适合探索 AI 能力和基础模型入门，包含基础 AI 模型访问、仅 Studio Chat 功能、25 次 AI 对话/5h，无 API 请求权限。</li>\n<li class=\"paragraph\"><strong>Pro</strong>：$20，50 Flows/5h，开发者首选方案，提供完整模型访问和 API 调用，包含 Free 全部功能，额外提供 70+ 编程/图像生成/LLM 模型、Studio Chat + API 请求、优先技术支持。</li>\n<li class=\"paragraph\"><strong>Max</strong>：$100，300 Flows/5h，为重度用户打造，适合高频开发和团队协作，包含 Pro 全部功能，额外提供 6 倍于 Pro 的 5h 使用量、GPT-5.2 Pro 和 GPT-5 Pro 模型独家访问权限、新功能抢先体验。</li>\n<li class=\"paragraph\"><strong>Ultra</strong>：$200，1200 Flows/5h，终极体验方案，面向专业人士和 AI 爱好者，包含 Max 全部功能，额外提供 24 倍于 Pro 的 5h 使用量、新功能早期访问权限。</li>\n</ul>"
-      },
-      {
-        "title": "ZenMux的应用场景",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>企业级 AI 应用部署</strong>：适合需要 7×24 小时稳定运行的生产环境，如智能客服、内容审核、知识库问答等。</li>\n<li class=\"paragraph\"><strong>AI 编程与开发工具</strong>：无缝对接 Claude Code、Cursor、GitHub Copilot 等工具，支持长上下文处理和多模型编排。开发者无需切换多个 API 密钥，即可在 IDE 中调用 GPT-5、Claude-4、Gemini 3 等模型辅助编码。</li>\n<li class=\"paragraph\"><strong>多模型策略与智能路由</strong>：适合需要动态选择模型的场景，如根据任务复杂度自动切换轻量级模型（低成本）和推理模型（高质量），或构建模型投票机制提升输出可靠性，自动优化成本与质量的平衡。</li>\n<li class=\"paragraph\"><strong>AI 保险与质量敏感业务</strong>：适用于金融、医疗、法律等对幻觉容忍度极低的领域。当模型输出出现事实错误或延迟超标时，保险机制自动赔付，同时提供高质量”坏案例”数据用于模型微调，构建数据飞轮。</li>\n<li class=\"paragraph\"><strong>Agent 与复杂工作流</strong>：ZenMux适合构建多步骤 AI Agent、自动化工作流、情感陪伴机器人等需要长期稳定 LLM 支持的业务。</li>\n</ul>"
+        "title": "全球首个带保险赔付机制的企业级大模型聚合平台 的应用场景",
+        "html": "<p>全球首个带保险赔付机制的企业级大模型聚合平台 的适用对象，官网上给出的画像比较集中：</p><ul><li>正在做 AI 产品的团队：希望减少对接多家模型供应商的工程量；</li><li>成本敏感的业务：需要把每个项目的调用花费拆开核算；</li><li>对稳定性要求高的应用：不能接受单点供应商限流导致的服务中断；</li><li>研究与评测场景：需要横向比较多款模型的实际输出质量。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "tool61081",
@@ -35016,8 +35117,25 @@
     "subcategory": "ai-platform-api",
     "logo": "/logos/tool61576.png",
     "domain": "x-aio.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "高性能、高性价比的 AI API 平台 是什么",
+        "html": "<p>高性能、高性价比的 AI API 平台 指的是名为 X-AIO 的站点，域名为 x-aio.com。官网把它描述成智能算力与价值流转的门户：一方面把多家开源模型接进来统一提供调用，另一方面把算力资源本身做成可在现货市场上交易的对象，并支持在此基础上直接部署自主智能体。它同时提供网页控制台与桌面工作站两种使用形态。</p>"
+      },
+      {
+        "title": "高性能、高性价比的 AI API 平台 的主要功能",
+        "html": "<p>高性能、高性价比的 AI API 平台 的产品结构，可以在官网上分成几层：</p><ul><li>模型调用：集中列出多款对话与推理模型，标注调用价格便于比价；</li><li>一站式部署：提供开源模型的部署与推理托管，用户不必自己运维集群；</li><li>算力市场：以现货形式撮合算力资源，并提供实时行情查看；</li><li>官方工具集：视频创作、图像生成、编程辅助与数据可视化等自研应用；</li><li>编程套餐：面向高频调用场景提供按月订阅的额度方案；</li><li>移动端：配套客户端可随时查看算力节点与模型运行状态；</li><li>桌面工作站：提供本地推理版本，支持模型量化与离线运行；</li><li>算力网络：以融合组网连接各地节点，具备多路径调度与故障切换能力。</li></ul>"
+      },
+      {
+        "title": "如何使用 高性能、高性价比的 AI API 平台",
+        "html": "<p>接入 高性能、高性价比的 AI API 平台 的路径并不复杂：</p><ol><li>打开 x-aio.com 注册账号并进入控制台；</li><li>在模型列表里挑出要用的模型，对比各家的调用成本；</li><li>生成调用凭证，按官方文档把请求接进自己的应用；</li><li>如果调用量稳定，可以改用包月方案控制总支出；</li><li>需要本地处理数据时，再装上桌面工作站做离线推理。</li></ol>"
+      },
+      {
+        "title": "高性能、高性价比的 AI API 平台 的应用场景",
+        "html": "<p>官网为 高性能、高性价比的 AI API 平台 列出的应用方向包括：</p><ul><li>应用开发：把模型能力接入自有产品，减少多头对接；</li><li>营销与电商：批量生成营销视频、商品图与人物头像素材；</li><li>研发提效：在编辑器里使用配套的代码辅助插件；</li><li>数据分析：把高维向量数据可视化后做数据集探查；</li><li>资源调度：对算力成本敏感时，直接参与算力交易以压低开销。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "cloud-infini-ai-com",
@@ -35075,8 +35193,25 @@
     "subcategory": "ai-platform-deploy",
     "logo": "/logos/tool60619.png",
     "domain": "shengsuanyun.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI模型算力聚合平台，聚合全球100+大模型 是什么",
+        "html": "<p>AI模型算力聚合平台，聚合全球100+大模型 指的是胜算云，站点为 shengsuanyun.com。官网把自身定义成 AI 执行力平台：把模型能力、专业工作方法与业务流程一起封装、编译成具有明确输入输出契约的工作服务，并且这种服务是可执行、可验证、可交付、也可计费的。它并不只卖模型调用，而是把调用之后的一整套执行环节产品化。</p>"
+      },
+      {
+        "title": "AI模型算力聚合平台，聚合全球100+大模型 的主要功能",
+        "html": "<p>AI模型算力聚合平台，聚合全球100+大模型 在官网列出的产品线包括：</p><ul><li>Loom：用一句话创建工作流，把多个步骤串成可复用的服务；</li><li>大模型超市：接入多家模型供按需选购；</li><li>企业级 AI 网关：适配 Anthropic 与 OpenAI 两套接口协议，统一管理调用；</li><li>Token 运营中心：按项目与角色划分权限，控制预算与成本；</li><li>云端工厂与云端智能集群：面向模型部署的算力侧服务；</li><li>Agent 接入：可对接桌面端智能体，官方列举了编码、办公、研究与设计等类型；</li><li>SkillApp 市场与 Loom 编译器：把行业经验沉淀成可交付的服务；</li><li>精益社区：面向开发者的交流与学习入口。</li></ul>"
+      },
+      {
+        "title": "如何使用 AI模型算力聚合平台，聚合全球100+大模型",
+        "html": "<p>接入 AI模型算力聚合平台，聚合全球100+大模型 的常规做法是：</p><ol><li>到 shengsuanyun.com 注册账号并开通企业网关；</li><li>在大模型超市里挑选要用的模型，生成对应的调用凭证；</li><li>按项目划分额度与成员权限，避免预算失控；</li><li>把网关地址填进自己的应用或桌面智能体里，开始调用；</li><li>需要固定流程时，用 Loom 把多个调用串成一条工作流。</li></ol>"
+      },
+      {
+        "title": "AI模型算力聚合平台，聚合全球100+大模型 的应用场景",
+        "html": "<p>AI模型算力聚合平台，聚合全球100+大模型 的适用方向，官网集中在以下几处：</p><ul><li>多媒体生产：批量生成电商商品图与营销短视频素材；</li><li>知识服务：行业专家把自己的方法论包装成可对外提供的服务；</li><li>科研与教学：多模型并发调用，用于模型评测、数据清洗与实验流程自动化；</li><li>企业降本：用统一网关收敛多头采购的模型账单；</li><li>开发团队：在多个智能体平台之间复用同一套工作服务。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "bigmodel-cn",
@@ -36723,27 +36858,23 @@
     "domain": "coding.qq.com",
     "detailed_content": [
       {
-        "title": "腾讯扣叮是什么",
-        "html": "<p>腾讯扣叮是腾讯推出的青少年<a href=\"https://ai-bot.cn/ai-learning-website/\" target=\"_blank\" rel=\"noopener\">编程教育平台</a>。基于腾讯在游戏和AI领域的技术优势，为6至18岁的孩子们提供有趣、互动的学习环境，在数字世界中探索和学习编程。平台包括虚拟仿真实验室，支持无实体硬件的编程学习，基于图形化编程工具和仿真场景运行，孩子们能轻松入门、逐步提升编程技能。腾讯扣叮提供丰富的课程内容、赛事活动和创作分享，培养孩子们的计算思维和创新能力。基于平台，孩子们能学习编程，参与到各种编程挑战和创作中，展示才华和创意。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/10/coding-qq-website.png\" data-fancybox=\"fancybox\" data-caption=\"qqcoding\"><img decoding=\"async\" class=\"alignnone wp-image-26666\" src=\"https://ai-bot.cn/wp-content/uploads/2024/10/coding-qq-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"qqcoding\" width=\"743\" height=\"418\"></a>"
+        "title": "腾讯推出的青少年编程教育平台 是什么",
+        "html": "<p>腾讯推出的青少年编程教育平台 指的是腾讯扣叮，站点为 coding.qq.com。它面向的是中小学阶段的编程入门与进阶，站内按年龄与培养目标把学习空间拆成多个实验室，每个实验室配一套专用工具与课程。平台同时挂载了课程、名师团与校园等栏目，把学习、练习与活动串在一起。不同实验室之间的进度互不干扰，孩子可以按兴趣横向切换方向。</p>"
       },
       {
-        "title": "腾讯扣叮的主要功能",
-        "html": "<ul>\n<li><strong>图形化编程工具</strong>：提供易于理解和操作的图形化编程界面，帮助初学者，尤其是儿童和青少年，用拖拽模块的方式学习编程基础。</li>\n<li><strong>3D创作平台</strong>：用腾讯游戏织梦引擎，提供3D搭建工具，让孩子们创造和设计自己的虚拟世界。</li>\n<li><strong>虚拟仿真实验室</strong>：支持无实体硬件的编程学习，孩子们在虚拟环境中搭建和测试机器人，进行AI等前沿科技的学习和实践。</li>\n<li><strong>赛事活动组织</strong>：举办各类编程比赛和活动，如全国中小学信息技术创新与实践大赛（NOC）和粤港澳青少年人工智能追梦营，为孩子们提供展示和交流的平台。</li>\n<li><strong>课程资源</strong>：提供丰富多样的编程课程，涵盖从基础到进阶的不同难度级别，满足不同年龄段和学习阶段的需求。</li>\n<li><strong>学生作品展示</strong>：孩子们在平台上分享自己的编程作品，如游戏、动画等，激励更多的学生学习和创造。</li>\n</ul>"
+        "title": "腾讯推出的青少年编程教育平台 的主要功能",
+        "html": "<p>腾讯推出的青少年编程教育平台 的实验室划分，在官网上写得很清楚：</p><ul><li>创意实验室：面向低龄段，以图形化积木方式做创作；</li><li>Python 实验室：训练逻辑思维，使用 Python 语言；</li><li>人工智能实验室：面向较大年龄段，接触前沿技术概念；</li><li>游戏实验室：零基础也能做小游戏，用作品带动兴趣；</li><li>艺术实验室：结合艺术表达与数理知识做创意编程；</li><li>硬件实验室：软硬结合，面向创客与动手实践；</li><li>快叮岛：以闯关形式组织编程学习，降低入门门槛；</li><li>配套资源：提供与教材对应的编程工具，以及课程与名师栏目；</li><li>活动专区：站内设有赛事活动入口，作品可以参加校外的评比与展示。</li></ul>"
       },
       {
-        "title": "如何使用腾讯扣叮",
-        "html": "<ul>\n<li><strong>访问官网</strong>： 打开浏览器，输入网址腾讯扣叮<a href=\"https://coding.qq.com/?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">官方网站</a>。</li>\n<li><strong>注册和登录</strong>： 如果没有账号，需要注册腾讯扣叮账号。用注册的账号和密码登录腾讯扣叮平台。</li>\n<li><strong>选择学习路径</strong>： 根据年龄和编程水平，选择适合的学习路径。腾讯扣叮提供从启蒙到进阶的不同课程和工具。</li>\n<li><strong>学习课程</strong>： 浏览、选择感兴趣的课程进行学习。课程通常包括视频讲解、图文教程和互动练习。</li>\n<li><strong>使用编程工具</strong>： 根据课程要求，用腾讯扣叮提供的编程工具，如图形化编程工具、Python实验室、AI实验室等，进行编程实践。</li>\n<li><strong>参与赛事活动</strong>： 如果有兴趣，报名参加腾讯扣叮组织的各类编程赛事和活动，与其他学习者交流和竞技。</li>\n<li><strong>创作和分享作品</strong>： 在学习过程中，创作自己的编程作品，在平台上分享，获取反馈和建议。</li>\n</ul>"
+        "title": "如何使用 腾讯推出的青少年编程教育平台",
+        "html": "<p>带孩子上手 腾讯推出的青少年编程教育平台，可以这样安排：</p><ol><li>打开 coding.qq.com，按孩子的年龄与基础挑选实验室；</li><li>先完成入门体验项目，熟悉积木或代码的拼装逻辑；</li><li>跟着配套课程逐节推进，遇到卡点时回看课程讲解；</li><li>用参赛或展示类活动检验学习成果；</li><li>高年级后再切到人工智能与硬件方向继续深入。</li></ol>"
       },
       {
-        "title": "腾讯扣叮的产品定价",
-        "html": "<ul>\n<li><strong>基础免费版</strong>：提供基础的编程课程和工具，用户能免费使用。</li>\n<li><strong>付费专享版</strong>：对于更高级的课程内容、个性化教学服务或额外的教学资源，需要用户购买订阅服务。付费权益包括图形化编程、Python编程、各种集成机器人、机器人模块搭建机器人、传感器和执行器数量搭建机器人、不同地图和训练场、图形化积木AI能力项、Python AI能力项、自训练机器学习项等。</li>\n</ul>"
-      },
-      {
-        "title": "腾讯扣叮的应用场景",
-        "html": "<ul>\n<li><strong>学校教育</strong>：作为信息技术课程的一部分，帮助学生掌握编程和数字技能。</li>\n<li><strong>个人自学</strong>：提供给个人用户自学编程的平台，支持从入门到进阶的学习路径。</li>\n<li><strong>家庭教育辅助</strong>：家长用腾讯扣叮辅导孩子编程，增进家庭内的科技教育互动。</li>\n<li><strong>竞赛和活动参与</strong>：组织和参与各类编程比赛，如NOC大赛，提升学生的竞技能力和团队合作。</li>\n<li><strong>虚拟仿真实验</strong>：在虚拟环境中进行机器人和AI实验，无需实体硬件进行科学探索。</li>\n</ul>"
+        "title": "腾讯推出的青少年编程教育平台 的应用场景",
+        "html": "<p>官网展示的活动与栏目，反映出 腾讯推出的青少年编程教育平台 的几类使用场合：</p><ul><li>校内课程：作为信息技术课的实践平台；</li><li>课后拓展：社团或兴趣班的学习工具；</li><li>竞赛活动：参加夏令营与追梦营一类的赛事；</li><li>家庭教育：家长陪孩子一起完成作品；</li><li>创客实践：把代码与硬件结合起来做实物项目；</li><li>教师备课：直接引用平台上的课程与工具组织课堂练习。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "tool1057",
@@ -38909,8 +39040,25 @@
     "subcategory": "ai-detection-plagiarism",
     "logo": "/logos/tool67447.png",
     "domain": "xueshucha.youdao.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "网易有道推出的降AI率工具 是什么",
+        "html": "<p>网易有道推出的降AI率工具 指的是有道旗下名为「学术猹」的产品，站点为 xueshucha.youdao.com。官网把它定位成论文一站式处理平台，要解决的核心问题有两个：一是判断文稿里有多少内容会被判定为机器生成，二是把偏高的重复率与 AI 率降下来。它同时接入了有道自研的学术降重模型与 DeepSeek 大模型，服务的对象以高校师生和科研机构为主。</p>"
+      },
+      {
+        "title": "网易有道推出的降AI率工具 的主要功能",
+        "html": "<p>围绕论文的检测与改写，网易有道推出的降AI率工具 在官网上被拆成几项服务：</p><ul><li>查重与查 AI 率：与万方、维普等学术数据方合作，报告口径向高校与期刊的常见标准靠拢；</li><li>降重与降 AI：对标注出的段落改写后再交由检测平台复检；</li><li>免费检测额度：每天更新可用于查 AI 率的免费次数；</li><li>文书检测：面向留学申请材料等非学位论文类文本；</li><li>文件兼容：可读取 Word 文档、PDF 与纯文本等常见格式，并支持多个文件一起上传；</li><li>历史报告：登录后可回看此前生成的检测结果；</li><li>隐私处理：检测完成后即时清理上传文档，不纳入任何公开库；</li><li>结果保障：官网对降重与降 AI 的效果给出了明确的服务承诺口径。</li></ul>"
+      },
+      {
+        "title": "如何使用 网易有道推出的降AI率工具",
+        "html": "<p>使用 网易有道推出的降AI率工具 的这条链路时，一般这样操作：</p><ol><li>进入 xueshucha.youdao.com 并登录账号；</li><li>在查重查 AI 页面上传稿件，等待系统出报告；</li><li>对照报告里的标红位置判断是需要降重还是需要降 AI 率；</li><li>把问题段落交给降重降 AI 模块改写，再下载处理后的文件；</li><li>如果还要提交给学校或期刊指定的平台，可换用对应检测通道复检一次。</li></ol>"
+      },
+      {
+        "title": "网易有道推出的降AI率工具 的应用场景",
+        "html": "<p>从官网列出的服务对象看，网易有道推出的降AI率工具 主要覆盖这几类需求：</p><ul><li>本硕博学位论文：定稿前自查重复率与 AIGC 占比；</li><li>期刊与会议投稿：按编辑部要求提前做一遍预检；</li><li>留学申请：个人陈述、推荐信等文书的机器生成痕迹排查；</li><li>科研机构：对研究报告、结题材料做批量质量把控；</li><li>学位答辩前的最后一遍复核，避免因为检测口径差异被退回。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-07"
   },
   {
     "slug": "tool73605",
