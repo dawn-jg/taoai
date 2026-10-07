@@ -16427,8 +16427,25 @@
     "subcategory": "ai-office-meeting",
     "logo": "/logos/tool1734.png",
     "domain": "yinxiang.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "印象笔记推出的AI知识和信息管理功能 是什么",
+        "html": "<p>印象笔记推出的AI知识和信息管理功能 指的是印象笔记里的「印象AI」。官网给它的定位是「会创作的第二大脑」，也就是在原有的记录与整理能力之上，加一层 AI 辅助。它绑定在印象笔记客户端里，不是独立产品——官网特别提示要下载最新版的桌面端与移动端才能看到相关入口，因此可以理解成印象笔记账号内嵌的一套 AI 服务。</p>"
+      },
+      {
+        "title": "印象笔记推出的AI知识和信息管理功能 的主要功能",
+        "html": "<p>按官网的说明页，印象笔记推出的AI知识和信息管理功能 包含这些能力：</p><ul><li>笔记内创作：点「AI帮我写」就能唤醒，可用于头脑风暴、写提纲、写会议议程；</li><li>文本生成：支持撰写创意故事、现代诗、翻译等；</li><li>快捷唤起：在笔记里键入斜杠，再输入功能拼音首字母即可调起对应能力；</li><li>选中即处理：选中已有文字可以直接做智能修改或翻译；</li><li>续写与摘要：写到一半可以继续补写，也能对长文做总结摘要；</li><li>思维导图：新建思维导图笔记后，输入主题由 AI 生成导图，节点内容还能继续扩写；</li><li>移动端任务与清单：一键创建待办任务与清单；</li><li>文档分析：移动端支持智能分析 PDF 与 Word 文档，以对话形式给出结论并提炼三条要点；</li><li>场景覆盖：官网标注共涵盖 20 多个使用场景。</li></ul>"
+      },
+      {
+        "title": "如何使用 印象笔记推出的AI知识和信息管理功能",
+        "html": "<p>官网把桌面端与移动端分开写了入口，印象笔记推出的AI知识和信息管理功能 实际操作这样走：</p><ol><li>先把印象笔记客户端升到最新版本，否则看不到印象AI的入口；</li><li>桌面端里可以直接点「AI帮我写」，或者在笔记中键入斜杠加拼音首字母唤起；</li><li>把要处理的内容选中，让它改写、翻译或续写；</li><li>需要梳理结构时新建思维导图笔记，输入主题生成后再逐节点扩写；</li><li>移动端上点开印象AI，可以让它一键建任务或清单，也能上传文档让它分析；</li><li>文档分析结果不满意时，直接在对话里继续追问。</li></ol>"
+      },
+      {
+        "title": "印象笔记推出的AI知识和信息管理功能 的应用场景",
+        "html": "<p>结合官网列出的用法，印象笔记推出的AI知识和信息管理功能 适合这些场合：</p><ul><li>会议与协作：快速产出议程与要点提纲；</li><li>写作辅助：从构思、续写到润色在同一条笔记里完成；</li><li>知识整理：把零散记录做成思维导图；</li><li>文献阅读：上传 PDF 或 Word 后先看三条核心结论，再按需追问；</li><li>时间管理：用 AI 直接生成任务与清单；</li><li>跨端记录：桌面端写、移动端接着用，依托印象笔记本身的多端同步。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool3488",
@@ -20285,27 +20302,23 @@
     "domain": "qoder.com",
     "detailed_content": [
       {
-        "title": "QoderWork是什么",
-        "html": "<p>QoderWork是阿里巴巴旗下<a href=\"https://ai-bot.cn/sites/60584.html\" target=\"_blank\" rel=\"noopener\">Qoder</a>团队推出的桌面级<a href=\"https://ai-bot.cn/favorites/ai-agent/\" target=\"_blank\" rel=\"noopener\">AI智能体</a>，支持Mac和Windows。QoderWork能直接操作本地文件、生成专业文档（<a href=\"https://ai-bot.cn/ai-ppt-presentation-makers/\" target=\"_blank\" rel=\"noopener\">PPT</a>/Excel/Word）、自动化浏览器任务，并通过MCP协议连接各类工具。不同于传统聊天机器人，QoderWork采用”本地沙盒”隔离运行，数据安全可控，用户只需自然语言描述需求，AI可自主规划执行、交付结果，真正实现从”对话”到”协作”的跨越。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/03/QoderWork-website2.png\" data-fancybox=\"fancybox\" data-caption=\"QoderWork\"><img decoding=\"async\" class=\"alignnone wp-image-72785\" src=\"https://ai-bot.cn/wp-content/uploads/2026/03/QoderWork-website2.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"QoderWork\" width=\"740\" height=\"416\"></a>"
+        "title": "QoderWork 是什么",
+        "html": "<p>QoderWork 是 Qoder 官网上面向 agentic 编程的产品入口。Qoder 对自己的定位是「给所有人的 agentic 编程平台」，页面的主标语写得很直白：你把想法带来，剩下的事交给我。和只做补全的编程插件相比，QoderWork 强调的是「把一件事做完」——从理解任务、选模型、动手执行到自检，形成一条闭环，而不是停在给出代码片段。</p>"
       },
       {
-        "title": "QoderWork的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>本地文件操作</strong>：QoderWork能直接读写授权文件夹，无需上传云端即完成批量整理、信息提取与格式转换。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>专业文档生成</strong>：支持一键输出带排版样式的 Word、含公式图表的 Excel、结构完整的 PPT 及可编辑的 PDF。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>工具链连接</strong>：通过 MCP 协议跨平台调用任务管理、设计协作等工具，实现工作流自动化。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>浏览器自动化</strong>：支持自动访问网页、填写表单、抓取数据，完成网络调研与重复性在线操作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><a href=\"https://ai-bot.cn/best-ai-painting-tools/\" target=\"_blank\" rel=\"noopener\"><strong>图像生成</strong></a>：根据描述直接生成高质量配图并保存至本地项目目录。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>安全透明机制</strong>：沙盒隔离运行、权限边界管控、高危操作弹窗确认、任务进度实时可见。</div>\n</li>\n<li class=\"ds-markdown-paragraph\"><strong>Skills无限扩展</strong>：通过技能广场一键安装或自定义开发，让AI能力随工作流进化。</li>\n<li class=\"ds-markdown-paragraph\"><strong>模型智能分级</strong>：标准模式处理日常任务节省资源，旗舰模式应对复杂深度推理。</li>\n<li><strong>专家套件</strong>：将法律、金融、营销等六大领域的专业知识、工作流程与数据连接器预封装为 AI 工具包的功能，用户无需编写 Skill 可一键安装、开箱即用。</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/03/QoderWork-website-2.png\" data-fancybox=\"fancybox\" data-caption=\"QoderWork\"><img decoding=\"async\" class=\"alignnone wp-image-72786\" src=\"https://ai-bot.cn/wp-content/uploads/2026/03/QoderWork-website-2.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"QoderWork\" width=\"740\" height=\"464\"></a>"
+        "title": "QoderWork 的主要功能",
+        "html": "<p>官网把 QoderWork 的能力拆成了几块：</p><ul><li>模型自选：可以自己指定前沿模型，也可以交给智能路由判断，官网列出的可选模型包括官方自动选择、通义千问的旗舰与主力型号、DeepSeek 官方发布版本、Kimi 与智谱的旗舰型号；</li><li>Agent Harness：为 agent 配好上下文、工具与约束，用「执行—验证」循环推进到任务完成；</li><li>浏览器与桌面操作：官网明确支持 Browser Use 与 Computer Use，让 agent 直接在浏览器和桌面应用里取信息、做操作；</li><li>上下文感知：会读取项目环境与上下文，并按使用者的工作方式做适配；</li><li>工作区组织：提供 Projects、Discussions、Knowledge Center、Sites、Automations、Extensions 等模块；</li><li>审批模式：可以要求每次操作先申请批准，也可以切到自动执行；</li><li>对话延续：Recent 与 Active Conversations 用来回看和接续进行中的任务。</li></ul>"
       },
       {
-        "title": "如何使用QoderWork",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>下载安装</strong>：访问QoderWork官网 https://qoder.com/qoderwork ，下载 Mac 或 Windows 版本客户端并完成安装。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>注册登录</strong>：打开应用，完成账户注册和登录。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>授权文件夹</strong>：在设置中选择并授权需要 AI 访问的本地文件夹，建立安全边界。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择模型档位</strong>：根据任务复杂度切换”标准”或”旗舰”模式，平衡成本与性能。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自然语言输入需求</strong>：在对话框中描述想要完成的目标，如”整理文件夹并生成 PPT”。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>确认执行计划</strong>：查看 AI 拆解的任务步骤，在关键节点确认或调整方向。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>实时跟踪进度</strong>：通过进度面板监控执行状态，随时了解当前完成项与待办项。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>查收交付成果</strong>：任务完成后直接在授权文件夹中获取生成的文档或处理结果。</div>\n</li>\n</ul>"
+        "title": "如何用 QoderWork 做事",
+        "html": "<p>用 QoderWork 做事，通常从这几步开始：</p><ol><li>打开 qoder.com/qoderwork 并登录，进入工作台；</li><li>把项目或代码库接进来，让 agent 先读懂环境；</li><li>用自然语言描述目标，比如「加一个界面可见的深色模式开关并记住选择」，不需要写操作指令；</li><li>按风险高低选择审批模式，改核心代码时用「申请批准」，重复性任务切自动；</li><li>任务跑完后看它给出的改动与自检结果，再决定是否继续下一步。</li></ol>"
       },
       {
-        "title": "QoderWork的产品定价",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>免费</strong>：$0/月，含2周Pro试用及300 Credits，有限次代码补全、编码预测、对话与智能体请求数，适合初学者轻度体验。</li>\n<li class=\"paragraph\"><strong>Pro</strong>：$10/月，含2,000 Credits，更多对话与智能体请求数，支持Quest模式和Repo Wiki功能，适合个人开发者日常使用。</li>\n<li class=\"paragraph\"><strong>Pro+</strong>：$30/月，含6,000 Credits，优先体验新功能，适合需要更高额度的进阶用户。</li>\n<li class=\"paragraph\"><strong>Ultra</strong>：$100/月，含20,000 Credits，优先体验新功能，适合高频专业开发者。</li>\n<li class=\"paragraph\"><strong>Teams</strong>：$30/席位/月，每席位2,000 Credits，支持集中计费、管理员控制台和SSO，适合小型团队协作。</li>\n<li class=\"paragraph\"><strong>企业</strong>：价格待定，包含Teams全部功能，支持SCIM席位管理、企业级知识管理和更好的支持服务，适合大型组织定制需求。</li>\n</ul>"
-      },
-      {
-        "title": "QoderWork的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>办公文档处理</strong>：工具能批量整理杂乱文件、生成专业级 PPT 和报告，替代人工排版与格式调整。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>数据分析与可视化</strong>：支持自动清洗 Excel 数据、计算趋势、生成图表，输出商业洞察报告。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>信息调研与汇总</strong>：工具能联网搜索资料、阅读学术论文，快速整理成结构化的调研文档。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>会议纪要管理</strong>：提取会议录音或文档要点，自动生成待办事项并标注优先级。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>跨平台工作流</strong>：工具能连接任务管理、设计协作等工具，一站式完成从素材收集到成品交付。</div>\n</li>\n</ul>"
+        "title": "QoderWork 的应用场景",
+        "html": "<p>从官网展示的用法看，QoderWork 覆盖这些方向：</p><ul><li>需求直接落地：把产品想法转成可运行的功能改动；</li><li>网页信息收集：让 agent 用浏览器取回资料并整理成结论；</li><li>桌面应用自动化：在本地软件里完成重复性点击与录入；</li><li>资料整理：把资料归到 Knowledge Center 里供后续复用；</li><li>定时任务：用 Automations 把周期性工作挂起来；</li><li>人机接力：人负责判断方向，agent 负责推进执行，官网把这种关系描述为人与 AI 一起工作。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool11395",
@@ -22274,23 +22287,23 @@
     "domain": "seko.sensetime.com",
     "detailed_content": [
       {
-        "title": "Seko是什么",
-        "html": "<p>Seko是商汤科技推出的全球首个创编一体的AI短视频创作Agent。可以根据用户输入的创意灵感，通过大模型智能代理，完成从剧本创作、美术风格定位、配音配乐到分镜图绘制的成片全流程。用户只需用自然语言描述需求，无需复杂操作技巧，即可实现角色一致性控制和高质量视频生成。Seko适用于短视频创作、短剧制作、产品宣传和角色二创等多种场景，大幅降低创作门槛，让零基础用户也能轻松产出专业级短片。</p>\n<p>全新升级的Seko 2.0，突破单集限制，支持一键创建100集以内短剧作品，实现超长上下文管理和跨集人物、场景的高度连贯性。新增角色与场景编辑功能，精准控制创作细节，同时通过SekoIDX和SekoTalk等技术，解决多剧集角色一致性和多人对口型难题，大幅提升创作效率和质量。全新UI升级带来沉浸式创意体验，让创作更高效、更便捷。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/07/Seko-website.png\" data-fancybox=\"fancybox\" data-caption=\"Seko\"><img decoding=\"async\" class=\"alignnone wp-image-58259 loaded\" src=\"https://ai-bot.cn/wp-content/uploads/2025/07/Seko-website.png\" src=\"https://ai-bot.cn/wp-content/uploads/2025/07/Seko-website.png\" alt=\"Seko\" width=\"740\" height=\"416\" data-was-processed=\"true\"></a>"
+        "title": "首个创编一体的AI短视频创作Agent 是什么",
+        "html": "<p>首个创编一体的AI短视频创作Agent 指的是商汤科技旗下的 Seko。它的形态是「创作 Agent + 无限画布」的组合：你在画布上给出灵感，agent 负责把内容策划成可拍的脚本与分镜，再往下走生成环节。官网把「创编一体」落成了三块并列入口——短片工作室、创作 Agent 与无限画布，说明这条链路不是单点工具，而是覆盖从构思到成片的连续流程。</p>"
       },
       {
-        "title": "Seko的主要功能",
-        "html": "<ul>\n<li><strong>视频策划与剧本创作</strong>：根据用户输入的创意灵感，自动生成完整的视频剧本。用户无需具备编剧知识，只需简单描述想法，Seko能构思出结构完整、逻辑清晰的剧本。</li>\n<li><strong>自然语言编辑</strong>：支持用户用自然语言与Seko进行交互，轻松进行各种编辑操作。</li>\n<li><strong>角色一致性控制</strong>：用户轻松导入或创建角色，Seko能确保角色在所有分镜和场景中的形象始终保持一致。</li>\n<li><strong>多模态内容生成</strong>：Seko整合多种AI模型，根据用户的需求和视频风格，智能选择最适合的模型生成高质量的视频内容，包括画面、配音和配乐等。</li>\n<li><strong>全流程智能Agent</strong>：从剧本创作到最终成片，Seko能实现全流程的智能代理，用户只需输入创意灵感，能一键生成结构完整、风格统一的短片，无需用户进行复杂的后期剪辑和拼接。</li>\n<li>&nbsp;<strong class=\"\">推荐主体与灵感广场：</strong>Seko提供推荐主体和灵感广场的内容，帮助用户获取更多创意灵感。</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">多剧集创作</strong>：支持一键创建多集短剧作品，突破单集限制，满足创作者对长篇内容的需求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>剧本智能处理</strong>：可导入剧本、智能拆分集数和分镜，简化创作流程，提高效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">连贯性保障</strong>：跨集人物形象和场景风格高度连贯，确保作品整体性和一致性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>精准编辑功能</strong>：新增角色和场景编辑工具，创作者能精准控制角色形象与场景风格。</div>\n</li>\n</ul>"
+        "title": "首个创编一体的AI短视频创作Agent 的主要功能",
+        "html": "<p>按官网的栏目与功能介绍，首个创编一体的AI短视频创作Agent 提供这些能力：</p><ul><li>灵感转策划：输入一段灵感后，由 AI 自动完成内容策划并生成视频；</li><li>创作画布：可以新建空白画布自行搭建，也可以从精选画布直接改；</li><li>批量处理：支持批量上传提示词，适合成组生产；</li><li>视频生成：接入视频生成模型完成画面产出，官方教程里点名了所用的生成能力；</li><li>转绘能力：为出海内容提供转绘处理；</li><li>作品与技能社区：站内可以发布作品、浏览技能社区与教程案例；</li><li>作品归类：按精选画布、连载剧集、剧情短片、音乐 MV、动画二次元、广告 TVC 等分类陈列。</li></ul>"
       },
       {
-        "title": "如何使用Seko",
-        "html": "<ul>\n<li><strong>访问平台</strong>：访问Seko官网 https://seko.sensetime.com ，注册和登录。</li>\n<li><strong>输入创意</strong>：用自然语言描述视频创意，比如“一个科幻短片，主角是机器人，场景在太空”。</li>\n<li><strong>生成内容</strong>：点击生成按钮，Seko自动创作剧本、分镜图，并生成视频。</li>\n<li><strong>编辑调整</strong>：如果需要修改，直接用自然语言指令，如“把背景音乐换成轻快的”。</li>\n<li><strong>导出成片</strong>：生成满意的内容后，导出视频并分享。</li>\n</ul>"
+        "title": "如何使用 首个创编一体的AI短视频创作Agent",
+        "html": "<p>官网给出的上手路径是这样的，首个创编一体的AI短视频创作Agent 从选题到成片一气走完：</p><ol><li>进入 seko.sensetime.com，先看作品区找一类对标内容；</li><li>在短片工作室或创作 Agent 里输入自己的灵感，等它给出策划与初步结构；</li><li>到无限画布上调整分镜与画面，需要成组生产时批量贴入提示词；</li><li>调用视频生成能力出片，出海内容另做一遍转绘处理；</li><li>成片发布到站内作品区，或者参考技能社区里的教程继续优化。</li></ol>"
       },
       {
-        "title": "Seko的应用场景",
-        "html": "<ul>\n<li><strong>短视频创作</strong>：通过自然语言输入创意，快速生成个性化短视频，适合零基础用户和自媒体创作者。</li>\n<li><strong>短剧制作</strong>：AI自动生成剧本和分镜图，快速修改角色和场景，降低短剧制作门槛，适合独立创作者和影视团队。</li>\n<li><strong>产品宣传</strong>：上传商品图，生成多版本产品介绍视频，提升产品吸引力，助力电商营销。</li>\n<li><strong>角色二创</strong>：保持IP角色形象一致性，通过简单对话创作二创内容，激发粉丝创意，扩大IP影响力。</li>\n<li><strong>知识科普</strong>：生成结构清晰、逻辑严谨的知识科普视频，快速制作高质量内容，提升知识传播效率。</li>\n</ul>"
+        "title": "首个创编一体的AI短视频创作Agent 的应用场景",
+        "html": "<p>从官网陈列的作品分类看，首个创编一体的AI短视频创作Agent 主要服务这些内容形态：</p><ul><li>短剧与漫剧：连续剧集形式的剧情内容生产；</li><li>出海短剧：面向海外观众的题材与转绘处理；</li><li>知识分享：把知识类内容做成短片；</li><li>音乐 MV：为歌曲生成配套画面；</li><li>广告片：官网单独设有广告 TVC 分类；</li><li>动画二次元：动画风格的短片创作；</li><li>个人创作者试水：从内置画布改起，先在平台上跑通一条完整链路。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tabtabai-com",
@@ -22569,31 +22582,23 @@
     "domain": "fingenius.cn",
     "detailed_content": [
       {
-        "title": "FinGenius 是什么",
-        "html": "<p>FinGenius 是全球首个A股AI金融博弈智能体应用。FinGenius基于多Agent博弈架构，模拟市场参与者行为，用16个超级智能体（如舆情、游资、风控等）分工协作，快速生成精准的金融分析报告。FinGenius 引入博弈论优化决策，结合“年轮记忆规则算法”记录用户投资习惯，提供个性化分析。FinGenius 支持用AI重塑金融分析，提升决策效率，为投资者和金融机构提供创新解决方案。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/07/FinGenius-website.png\" data-fancybox=\"fancybox\" data-caption=\"FinGenius\"><img decoding=\"async\" class=\"alignnone wp-image-57413\" src=\"https://ai-bot.cn/wp-content/uploads/2025/07/FinGenius-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"FinGenius\" width=\"740\" height=\"416\"></a>"
+        "title": "全球首个A股AI金融博弈智能体应用 是什么",
+        "html": "<p>全球首个A股AI金融博弈智能体应用 指的是华遥AI 推出的 FinGenius（站点 fingenius.cn）。官网对它的技术路线描述得很明确：不是单一模型给结论，而是用多个专职 AI agent 协同工作，模拟市场参与者的行为逻辑，用博弈论模型推演市场走势与风险点。官网把它定位成给金融机构使用的数据智能方案，而不是面向散户的荐股工具。</p>"
       },
       {
-        "title": "FinGenius 的主要功能",
-        "html": "<ul>\n<li><strong>多Agent博弈系统</strong>：多个专业智能体（如舆情、游资、风控等）分工协作，从不同角度分析市场数据，生成综合报告。模拟市场参与者互动，优化决策过程，预测市场走势。</li>\n<li><strong>深度数据整合与报告生成</strong>：整合多种数据源，快速生成结构化多模态报告，提炼关键信息和风险点。</li>\n<li><strong>实时数据处理</strong>：毫秒级处理海量金融数据，实时监控市场异常，提前识别潜在风险。</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">风险预警系统：</strong>实时监控市场异常，提前识别潜在风险，为金融分析提供安全保障。</div>\n</li>\n<li><strong>MCP智能调用与工具集成</strong>：基于 Model Context Protocol (MCP)，实现模型间无缝协作，支持即插即用的金融工具生态。</li>\n</ul>"
+        "title": "全球首个A股AI金融博弈智能体应用 的主要功能",
+        "html": "<p>按官网列出的产品特性，全球首个A股AI金融博弈智能体应用 包含这几块：</p><ul><li>多 Agent 博弈系统：多个专职 agent 各司其职，共同处理市场数据，并仿真市场参与者之间的互动；</li><li>博弈推理：用博弈论模型做市场场景推演，并识别风险场景；</li><li>MCP 智能调用：借助模型上下文协议实现模型之间的协作，用于金融数据处理与内部研究支撑；</li><li>风险预警：实时监控市场异常信号，为内部风险研究提供参考；</li><li>实时数据处理：官网称可达到毫秒级处理海量金融数据，支撑即时研判；</li><li>动态记忆：agent 之间保留对话记忆，后一轮分析能引用前一轮的结论；</li><li>自然语言交互：用户可以用日常语言向系统提问，并观看智能体之间的辩论过程。</li></ul>"
       },
       {
-        "title": "FinGenius的核心特性",
-        "html": "<ul>\n<li><strong>双环境架构</strong>：集成Research环境进行多智能体协作分析与Battle环境的结构化辩论，模拟真实市场研究和决策过程。</li>\n<li><strong>无缝信息流转</strong>：实现从Research环境到Battle环境的完整分析结果传递，确保信息在不同阶段间的连贯性。</li>\n<li><strong>累积式辩论</strong>：在Battle环境中，通过累积之前所有专家的讨论内容，促进更深入和全面的分析讨论。</li>\n<li><strong>持续性状态管理</strong>：维护分析过程的持续性和上下文的一致性，以保障决策的精确度和分析的可靠性。</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/07/FinGenius-website3.png\" data-fancybox=\"fancybox\" data-caption=\"FinGenius\"><img decoding=\"async\" class=\"alignnone wp-image-57414\" src=\"https://ai-bot.cn/wp-content/uploads/2025/07/FinGenius-website3.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"FinGenius\" width=\"740\" height=\"416\"></a>"
+        "title": "如何使用 全球首个A股AI金融博弈智能体应用",
+        "html": "<p>官网把整套流程展示成一条链，全球首个A股AI金融博弈智能体应用 实际使用时按这个顺序推进：</p><ol><li>先从数据收集开始，让系统接入需要分析的标的与市场数据；</li><li>由多个 agent 分别做不同维度的分析，例如舆情、风控、市场与战略；</li><li>进入博弈辩论环节，agent 之间会就分歧点互相追问；</li><li>最后汇总形成结论，用户可以在对话中继续追问细节；</li><li>官网同时提供产品特性、AI 能力、应用场景、定价方案与下载几个入口，可先看能力说明再申请试用。</li></ol>"
       },
       {
-        "title": "如何使用FinGenius",
-        "html": "<ul>\n<li><strong>注册和登录</strong>：访问 FinGenius 的官方网站或下载移动应用（目前已上架荣耀、小米、Vivo应用市场）。创建账户并登录。</li>\n<li><strong>开始使用</strong>：通过多智能体分析模拟市场行为以获取趋势和风险点，用MCP实现模型协作进行金融数据分析，依靠风险预警系统监控异常并识别风险。</li>\n<li><strong>定制化设置</strong>：根据个人投资习惯和偏好，设置定制化的分析参数和预警条件。</li>\n<li><strong>监控和分析</strong>：监控 FinGenius 提供的分析报告和预警信息，进行投资决策。</li>\n<li><strong>具体操作步骤</strong>（以 GitHub 项目为例）：</li>\n<li><strong>安装指南</strong>：根据 FinGenius GitHub 仓库提供的指南，选择使用 conda 或 uv 进行安装。</li>\n<li><strong>配置说明</strong>：创建并编辑配置文件，添加 API 密钥和自定义设置。</li>\n<li><strong>使用方法</strong>：运行 FinGenius，通过命令行参数指定输出格式、保存结果到文件、启用文本转语音等。</li>\n<li><strong>可选参数</strong>：根据需要设置输出格式、保存结果、启用文本转语音、设置智能体步数和辩论轮数等。</li>\n<li><strong>项目结构</strong>：了解 FinGenius 的系统架构，包括核心特性、类图和流程图。</li>\n</ul>"
-      },
-      {
-        "title": "FinGenius的官网地址",
-        "html": "<ul>\n<li><strong>官网地址</strong>：http://fingenius.cn/</li>\n<li><strong>GitHub仓库</strong>：https://github.com/HuaYaoAI/FinGenius</li>\n</ul>"
-      },
-      {
-        "title": "FinGenius的应用场景",
-        "html": "<ul>\n<li><strong>投资决策支持</strong>：为投资者提供全面的股票分析和投资组合优化建议，帮助用户做出更明智的投资决策。</li>\n<li><strong>风险管理</strong>：实时监控市场异常，提前识别潜在风险点，为金融机构提供风险预警和评估，帮助其有效规避风险。</li>\n<li><strong>市场趋势分析</strong>：实时掌握市场动态和行业趋势，帮助投资者和机构把握市场走向。</li>\n<li><strong>投资研究</strong>：为投资研究人员提供深度数据分析和研究支持，助力投资决策。</li>\n<li><strong>量化交易</strong>：提供量化交易信号和策略优化建议，帮助量化交易者捕捉交易机会，提高交易效率和收益。</li>\n</ul>"
+        "title": "全球首个A股AI金融博弈智能体应用 的应用场景",
+        "html": "<p>官网列出的适用对象集中在机构侧，全球首个A股AI金融博弈智能体应用 主要服务这几类需求：</p><ul><li>银行与金融机构：用于内部研究与风险场景识别；</li><li>机构资产研究：对个股做多角度信息汇总与观点分布梳理；</li><li>企业财务管理：把市场数据纳入企业侧的分析流程；</li><li>风险研究：用实时监控与异常信号识别辅助风控判断；</li><li>需要留痕的机构流程：多 agent 的对话记录便于回看分析依据。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "x-hundun-cn",
@@ -24023,8 +24028,25 @@
     "subcategory": "ai-chat-general",
     "logo": "/logos/tool5678.png",
     "domain": "chat.xverse.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "元象XVERSE大模型驱动的AI聊天助手 是什么",
+        "html": "<p>元象XVERSE大模型驱动的AI聊天助手 是元象 XVERSE 这家公司旗下大模型能力的对话式入口。元象 2021 年初在深圳成立，官网把自己定义为 AI 与 3D 技术服务公司，主线是搭建 AI 驱动的 3D 内容生产与消费一站式平台，对外提的口号是「定义你的世界」。该助手背后跑的是元象自研的 XVERSE-LLM，属于从零训练、全链条自研的路线，官网把它归类在「认知智能」一侧，与另一条「3D 与感知智能」业务线并列。</p>"
+      },
+      {
+        "title": "元象XVERSE大模型驱动的AI聊天助手 的主要功能",
+        "html": "<p>按官网给出的模型清单，元象XVERSE大模型驱动的AI聊天助手 的能力底座包括以下几条：</p><ul><li>对话与问答：作为通用聊天入口承接写作、检索、问答类需求；</li><li>长文本处理：XVERSE-Long 系列把上下文窗口推到 256K，官网称可一次输入 25 万汉字或约 60 万英文单词，属于国内较早开源长上下文窗口的模型；</li><li>多语言支持：官方标注支持 40 种以上语言；</li><li>模型规格：公开了 XVERSE-65B、XVERSE-Long、XVERSE-MoE 三个方向，其中 65B 版本标注参数量 65B、语料量 2.6T、上下文长度 16K；</li><li>训练侧配套：官网提到千卡集群峰值算力利用率 58.5%、有效训练率 98.6%，以及 FlashAttention2 加速、3D 并行与虚拟流水线等工程手段。</li></ul>"
+      },
+      {
+        "title": "如何使用 元象XVERSE大模型驱动的AI聊天助手",
+        "html": "<p>想用 元象XVERSE大模型驱动的AI聊天助手，官网提到的路径大致如下：</p><ol><li>打开 chat.xverse.cn 这个对话入口，进入元象的大模型产品页；</li><li>在模型或产品详情里确认要用的规格，长文任务优先考虑 XVERSE-Long 系列；</li><li>把需要处理的文本直接贴进对话框，长文档按 256K 窗口分批发；</li><li>需要做二次开发的话，再回到开源模型仓库取权重自行部署。</li></ol>"
+      },
+      {
+        "title": "元象XVERSE大模型驱动的AI聊天助手 的应用场景",
+        "html": "<p>从元象官网的产品布局看，元象XVERSE大模型驱动的AI聊天助手 面向的场合主要有：</p><ul><li>超长文档理解：论文、报告、长篇稿件的一次性输入与要点提取；</li><li>多语言内容处理：面向 40 多种语言的翻译与改写；</li><li>与 3D 业务联动：官网把 AI 应用与 3D 内容平台、端云协同引擎放在同一套产品线里，聊天能力可服务虚拟场景中的文本交互；</li><li>内容创作辅助：同门产品 Saylo 做沉浸式 AI 互动故事，文本生成是其中的基础能力；</li><li>开发者侧：需要长上下文能力又要自行部署的团队，可直接取用其开源权重。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool6101",
@@ -24592,8 +24614,25 @@
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool56948.png",
     "domain": "anthropic.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Anthropic 推出的AI编程工具 是什么",
+        "html": "<p>Anthropic 推出的AI编程工具 指的是 Claude Code。按官方页面描述，它是给开发者用的 agentic coding 工具，能读懂代码库、编辑文件、运行命令，目标是把交付速度提上去。它的形态不止一种：可以在终端里跑，也可以接进编辑器，还能在 Slack 或网页端下达与审查任务。官方明确标注支持 macOS、Linux 与 Windows 三套系统。</p>"
+      },
+      {
+        "title": "Anthropic 推出的AI编程工具 的主要功能",
+        "html": "<p>官方把 Anthropic 推出的AI编程工具 能承接的工作拆成了若干典型任务：</p><ul><li>代码上手：面对陌生代码库时先做 Code onboarding，弄清结构再动手；</li><li>问题转补丁：把 issue 直接推进成 pull request；</li><li>长周期改造：跑跨小时的重构与迁移任务，途中可以随时介入与审查；</li><li>多入口操作：终端起步，随后接进编辑器；</li><li>随处可用：官方列出 Web、iOS、Android 与 GitHub 等使用方式；</li><li>企业形态：除个人档位外，官方另有一条面向组织的企业版线；</li><li>学习资源：官方提供开发者文档与 Claude Academy 课程。</li></ul>"
+      },
+      {
+        "title": "如何使用 Anthropic 推出的AI编程工具",
+        "html": "<p>Anthropic 推出的AI编程工具 官方给出的入手顺序是这样的：</p><ol><li>先在 anthropic.com/claude-code 页面下载对应系统的安装包；</li><li>进入自己的项目目录，从终端发起任务，让它先读代码库；</li><li>把待办描述清楚，例如修一个 bug、补一组测试，或执行一段迁移；</li><li>任务执行过程中在终端或编辑器里审查改动，不合适就打断调整；</li><li>团队协作时把同一套流程接到 Slack 或网页端统一审阅。</li></ol>"
+      },
+      {
+        "title": "Anthropic 推出的AI编程工具 的应用场景",
+        "html": "<p>官网列出的用例指向这几类开发场景：</p><ul><li>老项目接手：先让 Anthropic 推出的AI编程工具 通读代码再提改动建议；</li><li>缺陷修复：从 issue 到 PR 的短链路交付；</li><li>大规模重构与框架迁移：需要连续多小时推进的机械性改造；</li><li>测试补齐：为新写的模块生成用例并跑通；</li><li>多端协作团队：命令行、编辑器、聊天工具混用，各自在顺手的入口提交与审查。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "opencode-ai",
@@ -25199,8 +25238,25 @@
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool1616.png",
     "domain": "aws.amazon.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "亚马逊推出的免费AI编程助手 是什么",
+        "html": "<p>亚马逊推出的免费AI编程助手 指向的是 AWS 的 AI 编码助手，该地址现在统一落到 Amazon Q Developer 的产品页。官网对它的定义是「在你的 IDE 里原生地写、调试与重构代码」，用来加速软件交付。需要说明的是，官网在页面上给出了 End of support notice 的通知，下载与文档入口都已并到 Amazon Q Developer 这条主线，所以看这款产品应以现在的主页信息为准。</p>"
+      },
+      {
+        "title": "亚马逊推出的免费AI编程助手 的主要功能",
+        "html": "<p>按官网列出的内容，亚马逊推出的免费AI编程助手 包含这些能力与配套：</p><ul><li>IDE 内编码：在编辑器里完成写码、调试与重构；</li><li>插件覆盖：提供 JetBrains、VS Code、Visual Studio、命令行与 Eclipse 几种接入方式；</li><li>生命周期提速：官网称它让整个开发生命周期都更省力；</li><li>云上运维：支持直接对 AWS 资源做操作；</li><li>应用改造：内置改造类任务，官网举的例子是把 Java 8 项目升级到 Java 17；</li><li>免费起步：官网提供免费开始使用的入口；</li><li>Agent 配套：AWS 另有 Agent Toolkit，为 AI 编码 agent 提供最新文档与 AWS 资源访问，并配了 Quick Answers 之类的业务数据问答能力。</li></ul>"
+      },
+      {
+        "title": "如何使用 亚马逊推出的免费AI编程助手",
+        "html": "<p>要装起 亚马逊推出的免费AI编程助手，按官网顺序即可：</p><ol><li>在页面上确认自己用的 IDE 或命令行，下载对应插件；</li><li>安装完成后用 AWS 账号登录完成授权；</li><li>在编辑器内直接提问或让它改写选中代码；</li><li>需要动云上资源时，用它的 AWS 操作能力执行，不必来回切控制台；</li><li>做版本升级这类批量改造时，走内置的改造任务入口；</li><li>注意关注页面上的支持状态通知，避免继续依赖已进入支持末期的入口。</li></ol>"
+      },
+      {
+        "title": "亚马逊推出的免费AI编程助手 的应用场景",
+        "html": "<p>从官网列出的用途看，亚马逊推出的免费AI编程助手 适合这些场合：</p><ul><li>日常编码提效：在熟悉的编辑器里完成补全、调试与重构；</li><li>云上开发：需要频繁操作 AWS 资源的团队；</li><li>历史项目升级：Java 版本这类机械但工作量大的迁移任务；</li><li>多 IDE 团队：成员分别用 JetBrains 与 VS Code 也能共用同一套助手；</li><li>命令行为主的工程师：不依赖图形界面同样可以使用；</li><li>预算有限的个人开发者：官网提供免费起步入口。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "zread-ai",
@@ -25658,8 +25714,25 @@
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool11414.png",
     "domain": "about.gitlab.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "GitLab推出的AI编程助手 是什么",
+        "html": "<p>GitLab推出的AI编程助手 指的是 GitLab Duo Agent Platform。官方对该产品的定义是：跨软件生命周期定制的 AI 工作流自动化，用专职 agent 覆盖规划、编码、安全与部署几个环节，并且带上企业级治理能力。它和「一个会写代码的插件」不是一回事，官方强调的重点是编排——让 AI 在既有的协作与交付路径上自动被触发。</p>"
+      },
+      {
+        "title": "GitLab推出的AI编程助手 的主要功能",
+        "html": "<p>按官方页面的能力分组，GitLab推出的AI编程助手 包含这些要点：</p><ul><li>全生命周期编排：AI 编排贯穿整个软件生命周期，而不是只做单点补全；</li><li>专职助手：规划、编码、安全、部署各自有对应的能力单元；</li><li>能力目录：官方强调「一个目录装下所有能力」，便于统一查找与启用；</li><li>按组织定制：可以按团队实际情况做定制；</li><li>就地触发：在团队本来就在用的位置被触发，不需要另开工作台；</li><li>治理与合规：以策略驱动 AI 控制，保留完整可追溯记录；</li><li>模型选择：支持自托管模型；</li><li>集成扩展：提供双向 MCP 集成。</li></ul>"
+      },
+      {
+        "title": "如何使用 GitLab推出的AI编程助手",
+        "html": "<p>落地 GitLab推出的AI编程助手 一般按这个顺序推进：</p><ol><li>先在 about.gitlab.com/gitlab-duo 页面确认所需的形态与档位；</li><li>在 GitLab 组织中开启能力目录里需要的那几项；</li><li>按团队规范配置策略与权限，需要自托管模型的在此处接入；</li><li>把触发点接到既有的合并请求、流水线或议题流程上；</li><li>上线后通过可追溯记录回看每次 AI 动作，再调整规则。</li></ol>"
+      },
+      {
+        "title": "GitLab推出的AI编程助手 的应用场景",
+        "html": "<p>结合官方项目上下文，GitLab推出的AI编程助手 适合这些场合：</p><ul><li>研发流程现代化：把 AI 接进从规划到部署的既有链路；</li><li>安全左移：在应用安全测试与密钥、供应链管理等环节提前介入；</li><li>交付衔接：连接 CI/CD、源代码管理、敏捷交付与制品管理；</li><li>受监管行业：金融、公共部门、电信、汽车、教育等需要留痕与策略管控的组织；</li><li>需要自建模型的企业：用自托管模型满足数据不出域的要求。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "coderabbit-ai",
@@ -25878,8 +25951,25 @@
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool6557.png",
     "domain": "jetbrains.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "JetBrains推出的AI编程开发助手 是什么",
+        "html": "<p>JetBrains推出的AI编程开发助手 指的是 JetBrains Air。官方对它的描述是「用 agent 构建软件的一套系统」——注意是一套系统而不是单个助手。它最显著的特点是开放：官方写明可以配合你已经在用的 agent 使用，包括 Claude Agent、Codex、Junie、Copilot、OpenCode，以及任何兼容 ACP 协议的 agent。JetBrains 把 Air 做成了 agent 的统一操作台，而不是再造一个专属模型。</p>"
+      },
+      {
+        "title": "JetBrains推出的AI编程开发助手 的主要功能",
+        "html": "<p>按官网列出的功能分组，JetBrains推出的AI编程开发助手 包括这些：</p><ul><li>多入口工作：可以在 JetBrains 旗下的各款 IDE、网页、命令行与移动端之间切换，不用反复思考换屏；</li><li>任务与自动化：内置 Tasks 与 Automations 两块，自动化由事件触发，例如并入主分支、分支落后主分支、创建合并请求、创建议题、推送提交；</li><li>项目与环境：以 Project 为单位组织，带 Environments 管理项目运行环境；</li><li>并行推进：可以同时跟踪多条并行进行的工作；</li><li>逐处审查：每个改动都能在上下文里被查看确认；</li><li>团队协作：Air Teams 支持共享项目、集中管理配置；</li><li>规模化治理：Air Governance 用于统一设定规则与权限；</li><li>成本可视：自动化列表里会显示每次运行消耗的 AI 额度。</li></ul>"
+      },
+      {
+        "title": "如何使用 JetBrains推出的AI编程开发助手",
+        "html": "<p>要用起 JetBrains推出的AI编程开发助手，可以按官网演示的顺序走：</p><ol><li>先选定在哪里工作，IDE、网页、命令行或移动端任选其一；</li><li>把现有项目接进来，用 Environments 配好运行环境；</li><li>把手上在用的 agent 接上，兼容 ACP 的都能接入；</li><li>配置 Automations，把重复性工作交给事件触发，例如合并请求一创建就跑一次代码审查；</li><li>在改动审查界面里逐条确认 agent 的输出，再决定是否合入；</li><li>团队使用时启用到 Air Teams，统一规则与权限。</li></ol>"
+      },
+      {
+        "title": "JetBrains推出的AI编程开发助手 的应用场景",
+        "html": "<p>结合官网列出的自动化示例，JetBrains推出的AI编程开发助手 适合这些场合：</p><ul><li>代码评审：合并请求创建后自动生成一轮审查意见；</li><li>分支维护：检测到分支落后主分支时触发自动变基；</li><li>文档同步：合入主分支后自动更新项目内的 Agents.md 类说明文件；</li><li>议题分诊：新议题进来先自动归类打标；</li><li>静态检查：提交推送后自动跑一遍 lint；</li><li>多 agent 并行的团队：不同成员各用惯用的 agent，统一在同一套系统里被调度与留痕。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool980",
@@ -26836,8 +26926,25 @@
     "subcategory": "ai-design-graphic",
     "logo": "/logos/tool13896.png",
     "domain": "figma.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Figma推出的原生AI设计工具 是什么",
+        "html": "<p>Figma推出的原生AI设计工具 指的是 Figma 把 AI 能力嵌进自家产品体系后的整体方案，官方入口是 figma.com/ai。它的思路和「外挂一个 AI 助手」不同：AI 不是独立工具，而是分散在设计、出码、动效、协作、发布这些原生模块里，让团队在原有工作流里少来回切软件。官网对该页的定位是帮助你更快起步、更快找到需要的东西，并保持在心流状态里。</p>"
+      },
+      {
+        "title": "Figma推出的原生AI设计工具 的主要功能",
+        "html": "<p>按官网的产品清单，Figma推出的原生AI设计工具 由这些模块共同构成：</p><ul><li>Figma Design：设计与原型在同一处完成；</li><li>Figma Make：用提示词生成可以想象出来的任何东西的代码；</li><li>Figma Weave：面向图像、视频、音频的 AI 工作流；</li><li>Dev Mode：把设计稿转成代码，官网提到从代码库到拉取请求这条链路；</li><li>Figma Motion：为设计稿添加动画；</li><li>FigJam：数字化白板协作；</li><li>Figma Slides：多人共同创作演示稿；</li><li>Figma Draw：矢量插画工具；</li><li>Figma Sites（Beta）：发布响应式网站；</li><li>Figma Buzz（Beta）：按品牌规范规模化生产物料。</li></ul>"
+      },
+      {
+        "title": "如何使用 Figma推出的原生AI设计工具",
+        "html": "<p>官网把 Figma推出的原生AI设计工具 的使用过程归纳成探索、打磨、交付三段，实操时通常这样走：</p><ol><li>先确定任务类型，选对模块——出图走 Design，出代码走 Make 或 Dev Mode；</li><li>把已有的设计稿或提示词交给对应模块，先拿到初稿；</li><li>用 Figma Draw、Motion 等工具打磨细节；</li><li>用 FigJam 或 Slides 拉团队评审；</li><li>需要上线就用 Sites 发布，或者经 Dev Mode 把稿子交给工程侧。</li></ol>"
+      },
+      {
+        "title": "Figma推出的原生AI设计工具 的应用场景",
+        "html": "<p>从官网列出的角色与用途看，Figma推出的原生AI设计工具 适合这些场合：</p><ul><li>设计系统维护：把规范固化后由 AI 批量套用；</li><li>原型与线框：Wireframing、Prototyping 阶段快速出多个版本；</li><li>设计交付：设计转代码，减少标注与沟通损耗；</li><li>敏捷与头脑风暴：用白板模块承接 Diagramming 与战略讨论；</li><li>品牌物料规模化：市场团队按品牌规范批量出图；</li><li>面向产品经理与工程师的协作场景，官网单独列出了这两类角色。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool10754",
@@ -27784,8 +27891,25 @@
     "subcategory": "ai-design-graphic",
     "logo": "/logos/tool4487.png",
     "domain": "figma.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Figma推出的AI白板协作设计工具 是什么",
+        "html": "<p>Figma推出的AI白板协作设计工具 指的是 FigJam AI，即 Figma 旗下数字白板 FigJam 里内嵌的那一套 AI 能力。官网对它的定位是「重新设计一起 Jam 的方式」：把团队在白板上最费时的整理、归类与总结动作交给 AI，让协作者把注意力留在讨论本身。它依附在 FigJam 这个在线白板之上，所以天然是多人在同一块画布上同时操作。</p>"
+      },
+      {
+        "title": "Figma推出的AI白板协作设计工具 的主要功能",
+        "html": "<p>官网在页面上逐条列出了 Figma推出的AI白板协作设计工具 能做的事：</p><ul><li>生成模板：一句话或一个主题就让白板自动铺出可用的框架；</li><li>提示方式灵活：既可以用预置提示词，也可以自己写；</li><li>整理便利贴：把散落的便利贴按主题归类排序；</li><li>汇总便利贴：把满屏的便利贴压成一段结论，省去人工通读；</li><li>接入 ChatGPT：官网明确写了把 ChatGPT 的能力带进 FigJam；</li><li>白板本身的基础能力：画布无限延伸，支持多人光标同步协作；</li><li>衔接设计流程：与 Figma Design、Slides 等模块同属一套体系，白板产出可以直接流向后续环节。</li></ul>"
+      },
+      {
+        "title": "如何使用 Figma推出的AI白板协作设计工具",
+        "html": "<p>要上手 Figma推出的AI白板协作设计工具，可以按这个顺序：</p><ol><li>打开 figma.com/figjam/ai 了解现有能力，或直接进入白板文件；</li><li>需要从零开始时，先让它生成一份模板，再往里填内容；</li><li>讨论过程中把想法随手写成便利贴，先不急着归类；</li><li>讨论到一段落，让它整理并汇总便利贴，得到阶段性结论；</li><li>需要开放式问答时，用接进来的 ChatGPT 能力补信息。</li></ol>"
+      },
+      {
+        "title": "Figma推出的AI白板协作设计工具 的应用场景",
+        "html": "<p>结合 FigJam 的用途分类，Figma推出的AI白板协作设计工具 适合这些场合：</p><ul><li>头脑风暴：先出模板再收集想法，结束后让 AI 归纳；</li><li>敏捷与回顾：把会议产出直接整理成可执行条目；</li><li>流程与架构梳理：Diagramming 场景下先搭骨架再补细节；</li><li>设计系统讨论：设计规范评审时用白板对齐认知；</li><li>战略规划：多角色在同一画布上收敛结论；</li><li>线框讨论：早期结构探讨阶段快速出草图与备选方案。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool1986",
@@ -31957,11 +32081,23 @@
     "domain": "veed.io",
     "detailed_content": [
       {
-        "title": "",
-        "html": "Veed推出的AI语音生成器"
+        "title": "Veed推出的AI语音生成器 是什么",
+        "html": "<p>Veed推出的AI语音生成器 指的是 VEED 官网上的那款在线配音工具。按页面描述，它把文字变成自然的配音，覆盖 50 多种语言，可以挑多种预设音色，也可以克隆自己的声音；产出既可以直接下载，也能直接加进视频里。用法上它属于浏览器内的在线工具，打开网页就能用，不需要另外安装客户端。</p>"
+      },
+      {
+        "title": "Veed推出的AI语音生成器 的主要功能",
+        "html": "<p>把官网列出的能力归拢，Veed推出的AI语音生成器 提供这些功能：</p><ul><li>文字转语音：把稿件转成配音，可挑音色与语言；</li><li>声音克隆：录一段自己的声音后用于后续生成；</li><li>多语言覆盖：官方标注支持 50 种以上语言；</li><li>与视频打通：生成的音轨可直接挂到同平台的视频项目上；</li><li>数字人配套：同站还有 AI 虚拟形象与口型同步、眼神接触等能力，可让说话的头像对上口型；</li><li>音频清理：提供人声净化、去除音频或视频背景噪声；</li><li>配乐生成：站内的音乐生成能力可为成片配乐；</li><li>成片环节：配套在线视频编辑器、压缩、裁剪、拼接与增强工具，以及字幕与转录能力。</li></ul>"
+      },
+      {
+        "title": "如何使用 Veed推出的AI语音生成器",
+        "html": "<p>官网给出的操作步骤很短，Veed推出的AI语音生成器 大致这样用：</p><ol><li>先新建一个项目，进入工作区；</li><li>把需要朗读的文字粘进输入框，选定语言与音色，需要时上传自己的声音样本做克隆；</li><li>让它生成音轨，先试听确认语速与停顿；</li><li>把音轨与视频画面合成，需要的话再补字幕；</li><li>导出成片，或者继续留在平台上做下一版。</li></ol>"
+      },
+      {
+        "title": "Veed推出的AI语音生成器 的应用场景",
+        "html": "<p>综合官网的模板与用途分类，Veed推出的AI语音生成器 常被用在：</p><ul><li>短视频配音：为口播、带货与信息流广告快速配上旁白；</li><li>播客与有声内容：把文字稿转成可听版本；</li><li>多语出海：同一份文案换成不同语言的音轨；</li><li>广告素材量产：配合视频模板批量产出多版本；</li><li>教学与演示：为课程视频、产品说明配讲解；</li><li>团队协作：借助 VEED for Teams 与 Fabric API 把配音环节并入既有生产流程。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool247",
@@ -32045,8 +32181,25 @@
     "subcategory": "ai-audio-tts",
     "logo": "/logos/tool248.png",
     "domain": "speechify.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "超5000万人都在用的文字转语音朗读器 是什么",
+        "html": "<p>超5000万人都在用的文字转语音朗读器 指的是 Speechify。按官网中文页的说明，它要做的事就一句话：把任何内容读出来，读的对象包括书籍、PDF 与网页。它的形态是「一套账号 + 全平台客户端」，网页、浏览器扩展和各家系统的客户端共用同一份内容，所以市面上把它归到文本转语音这一类工具里。除了朗读，官网近两年把语音输入听写也纳入了同一条产品线。</p>"
+      },
+      {
+        "title": "超5000万人都在用的文字转语音朗读器 的主要功能",
+        "html": "<p>官网给 超5000万人都在用的文字转语音朗读器 列出的功能可以分成朗读、输入与创作三组：</p><ul><li>文本转语音：把文字稿读出来，官网强调音色自然并支持语速调节；</li><li>文本高亮：朗读时同步高亮当前句子，便于跟读；</li><li>扫描朗读：把纸质材料拍下来也能读；</li><li>输入侧能力：语音输入听写，官网称可把写作速度提上去；</li><li>问答与对话：可以就正在听的内容随时提问；</li><li>格式覆盖：可直接上传 PDF，让工具朗读、生成内容摘要，或一键转成播客；</li><li>配音与后期：提供 AI 配音生成器、配音翻译、Studio 与字幕功能；</li><li>平台覆盖：iPhone 与 iPad、安卓、Mac 桌面端与 Windows 桌面端都有客户端，另有 Chrome 与 Edge 扩展以及网页应用；</li><li>面向组织：另有企业版、教育版、工作辅助版与开发者版，并开放 API。</li></ul>"
+      },
+      {
+        "title": "如何使用 超5000万人都在用的文字转语音朗读器",
+        "html": "<p>用起 超5000万人都在用的文字转语音朗读器，一般是这样几步：</p><ol><li>按自己常用的设备挑入口——手机装客户端，电脑上装扩展或桌面应用；</li><li>把材料导进去，可以直接上传 PDF，也可以在页面里选中文字让它读；</li><li>挑一个顺耳的音色并调整语速；</li><li>听的过程中标记重点，需要回头复习时再定位到原句；</li><li>想顺手出内容的话，再用 AI 播客或配音生成器做二次产出。</li></ol>"
+      },
+      {
+        "title": "超5000万人都在用的文字转语音朗读器 的应用场景",
+        "html": "<p>官网按使用场景给出的分类，指向这些实际用途，也都是 超5000万人都在用的文字转语音朗读器 常被用到的场合：</p><ul><li>通勤与碎片时间：把 PDF、网页文档变成可听内容，眼睛可以歇一歇；</li><li>学习与复习：教材、论文用听的方式过一遍；</li><li>写作提速：用语音输入替代键盘录入；</li><li>内容再创作：把长文转成播客或配音；</li><li>阅读障碍与注意力困难人群：用朗读加高亮降低阅读负担；</li><li>企业培训与教育机构：以组织版本统一部署给学生或员工。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool403",
@@ -32429,8 +32582,25 @@
     "subcategory": "ai-search-engine",
     "logo": "/logos/tool14200.png",
     "domain": "iflow.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "阿里旗下推出的AI搜索助手 是什么",
+        "html": "<p>阿里旗下推出的AI搜索助手 指的是心流 AI 助手（站点 iflow.cn）。按官网首页的说明，它的目标是帮用户高效获取知识，覆盖的范围从日常娱乐生活百科一直延伸到专业学术论文；官网用的说法是「让知识随心流动」，也就是让提问、检索、阅读这几件事在同一个对话框里完成，不用在搜索引擎和阅读器之间来回跳。</p>"
+      },
+      {
+        "title": "阿里旗下推出的AI搜索助手 的主要功能",
+        "html": "<p>官网首页把 阿里旗下推出的AI搜索助手 的能力归纳成三条主线：</p><ul><li>解答问题：遇到问题时直接提问，它会实时联网调取信息回答，不必反复切换页面去查；</li><li>总结网页：文章太长时把长文压缩成摘要，减少阅读时间；</li><li>撰写文档：写东西没头绪时，让它先梳理大纲并提供创作灵感；</li><li>知识范围：官网明确列出日常娱乐、生活百科与专业学术论文知识都在覆盖范围内，问答场景不限于某个垂直领域；</li><li>产品归类：官网在页面标签里把它同时归入大语言模型、AI 聊天机器人与 AI 搜索几类，说明它并非单一形态的产品；</li><li>终端形态：除网页版外，官网提供 App 下载入口，扫描页面二维码即可获取；</li><li>反馈通道：官网公布了联系邮箱，用于收集问题与建议。</li></ul>"
+      },
+      {
+        "title": "如何使用 阿里旗下推出的AI搜索助手",
+        "html": "<p>用起 阿里旗下推出的AI搜索助手 很简单，按官网提示走即可：</p><ol><li>打开 iflow.cn，或者按页面提示扫码下载 App；</li><li>在对话框里直接提出要查的问题，它会联网取回信息再作答；</li><li>碰到长文章时，把链接或正文交给它做摘要；</li><li>准备写作时，先让它给出一份大纲，再按大纲往下填内容；</li><li>遇到官网提示浏览器版本过低时，换用较新的浏览器再访问。</li></ol>"
+      },
+      {
+        "title": "阿里旗下推出的AI搜索助手 的应用场景",
+        "html": "<p>官网在页面关键词里点明了 阿里旗下推出的AI搜索助手 的几类用途：</p><ul><li>日常问答：生活百科类即问即答；</li><li>论文检索与阅读：学术资料的查找与快速消化；</li><li>长文速读：把网页或报告压缩后先看要点；</li><li>写作辅助：从大纲到成文的创作灵感支持；</li><li>沉浸式阅读：围绕阅读场景做信息组织，减少多窗口切换。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool7108",
@@ -33664,15 +33834,23 @@
     "domain": "volcengine.com",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<h2 class=\"title_5e5c9\"><span class=\"\" data-monitor-click-id=\"d562002\">方舟 Agent Plan是什么</span></h2>\n<p>方舟 Agent Plan 是火山引擎推出的业界首个 Agent 套餐，将多模态大模型与 Harness 工具深度整合。发布方舟 Agent Plan 集成 Doubao-Seed、Seedance、Seedream 等字节自研 SOTA 模型，以及 <a href=\"https://ai-bot.cn/glm-5-1/\" target=\"_blank\" rel=\"noopener\">GLM-5.1</a>、<a href=\"https://ai-bot.cn/kimi-k2-6/\" target=\"_blank\" rel=\"noopener\">Kimi-K2.6</a> 等主流三方模型，内置联网搜索、Embedding 等 Harness 工具。通过 AFP（Agent 燃料值）统一计量，适配从入门开发者到 AI 工作室的全场景 Agent 需求。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/05/agentplan-website1.png\" data-fancybox=\"fancybox\" data-caption=\"方舟 Agent Plan\"><img decoding=\"async\" class=\"alignnone wp-image-77340\" src=\"https://ai-bot.cn/wp-content/uploads/2026/05/agentplan-website1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"方舟 Agent Plan\" width=\"740\" height=\"416\"></a>\n<h2 class=\"title_5e5c9\"><span class=\"\" data-monitor-click-id=\"d562002\">方舟 Agent Plan的主要功能</span></h2>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>超全模态模型聚合</strong>：原生支持文本、代码、图像、视频等多模态任务，覆盖 Doubao-Seed 系列、GLM-5.1、Kimi-K2.6、<a href=\"https://ai-bot.cn/deepseek-v3-2/\" target=\"_blank\" rel=\"noopener\">DeepSeek-V3.2</a>、<a href=\"https://ai-bot.cn/minimax-m2-7/\" target=\"_blank\" rel=\"noopener\">MiniMax-M2.7</a> 等主流模型。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Auto 智能调度</strong>：根据任务场景自动选择性价比最高的模型，提升长尾 Agent 任务表现。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Harness 工具开箱即用</strong>：内置与豆包同源的联网搜索额度，以及 Doubao-embedding-vision 模型，增强 Agent 实时信息获取与长程记忆能力。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AFP 透明计费</strong>：引入 Agent Fuel Points 统一计量模型调用与工具消耗，用量可视、成本可控。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多平台深度适配</strong>：完成配置后，<a href=\"https://ai-bot.cn/sites/56948.html\" target=\"_blank\" rel=\"noopener\">Claude Code</a>、<a href=\"https://ai-bot.cn/sites/70880.html\" target=\"_blank\" rel=\"noopener\">OpenClaw</a>、<a href=\"https://ai-bot.cn/sites/65814.html\" target=\"_blank\" rel=\"noopener\">TRAE</a>、<a href=\"https://ai-bot.cn/sites/69806.html\" target=\"_blank\" rel=\"noopener\">OpenCode</a>、Hermes Agent 等工具可自动调用套餐资源。</div>\n</li>\n</ul>\n<h2 class=\"title_5e5c9\"><span class=\"\" data-monitor-click-id=\"d562002\">如何使用方舟 Agent Plan</span></h2>\n<ul>\n<li class=\"paragraph\"><strong>获取专属凭证</strong>：访问方舟 Agent Plan官网 <a href=\"https://www.volcengine.com/activity/agentplan?utm_campaign=CG&amp;utm_content=CG&amp;utm_medium=CakeGrowth&amp;utm_source=OWO&amp;utm_term=CG&amp;utm=cg&amp;cgv=aibott\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">https://www.volcengine.com/activity/agentplan</a> ，复制专属 Base URL 与 API Key。</li>\n<li class=\"paragraph\"><strong>安装 Ark Helper</strong>：在终端执行 <code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-b3358103=\"\">curl -fsSL https://lf3-static.bytednsdoc.com/.../install.sh | sh</code> 安装配置助手。</li>\n<li class=\"paragraph\"><strong>一键配置套餐</strong>：运行 <code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-b3358103=\"\">ark-helper</code>，选择 <code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-b3358103=\"\">[Volcano] Agent Plan</code> 套餐，通过 SSO 登录自动获取 API Key 与联网密钥。</li>\n<li class=\"paragraph\"><strong>选择模型与工具</strong>：选择默认文本生成模型（如 doubao-seed-2.0-code），选择编码工具 Claude Code 完成一键配置。</li>\n<li class=\"paragraph\"><strong>启动验证</strong>：在项目目录执行 <code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-b3358103=\"\">claude</code> 启动，输入 <code class=\"segment-code-inline\" data-v-782faaad=\"\" data-v-b3358103=\"\">/model</code> 确认模型指向正确，可开始对话与多模态任务。</li>\n</ul>\n<h2 class=\"title_5e5c9\"><span class=\"\" data-monitor-click-id=\"d562002\">方舟 Agent Plan的核心优势</span></h2>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>业界首个 Agent 套餐包</strong>：区别于单一模型订阅或算力套餐，首次将 Model + Harness 打包，降低多工具接入的碎片化成本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多模态生产力闭环</strong>：一个套餐可支撑从文本编程到视频/图像生成的完整 Agent 工作流，无需独立支付不同资源。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>高性价比入门门槛</strong>：Small 版月费仅 40 元，基础额度数倍于 Claude Pro Plan，降低 Agent 尝鲜成本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>ArkClaw 原生协同</strong>：Medium 及以上订阅用户可免费体验基于 OpenClaw 优化的云上”龙虾”，支持”虾马同养”与长期工作习惯学习。</div>\n</li>\n</ul>\n<h2 class=\"title_5e5c9\"><span class=\"\" data-monitor-click-id=\"d562002\">方舟 Agent Plan的同类竞品对比</span></h2>\n<table data-v-e7c0e5f5=\"\">\n<thead data-v-e7c0e5f5=\"\">\n<tr data-v-e7c0e5f5=\"\">\n<th align=\"left\" data-v-e7c0e5f5=\"\">对比维度</th>\n<th align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">火山引擎 方舟 Agent Plan</strong></th>\n<th align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">优云智算（CompShare）Agent Plan</strong></th>\n<th align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">Neon Agent Plan</strong></th>\n</tr>\n</thead>\n<tbody data-v-e7c0e5f5=\"\">\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong class=\"\" data-v-e7c0e5f5=\"\">产品性质</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">字节跳动官方云产品</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">UCloud 旗下第三方 API 聚合平台</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">数据库基础设施厂商</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong class=\"\" data-v-e7c0e5f5=\"\">核心定位</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">业界首个 Model + Harness 全模态 Agent 套餐包</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">便宜、简单、稳定的模型 API 套餐服务</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">为 AI Agent 提供 Serverless Postgres 数据库资源</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">模型覆盖</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">字节 Seed 系列 + GLM + Kimi + DeepSeek + MiniMax</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">MiniMax、GLM、Kimi、DeepSeek 等主流模型</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">不涉及大模型，提供数据库存储与计算</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong class=\"\" data-v-e7c0e5f5=\"\">Harness 工具</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">内置联网搜索、Embedding 开箱即用</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">无 Harness 工具</strong>，仅提供模型 API</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">提供数据库 Compute/Storage/API 配额</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong class=\"\" data-v-e7c0e5f5=\"\">订阅价格</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">¥40/月 起（Small）</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">未公开具体月费，定位远低于官方 API 价格</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">按量计费 + 初始 $25,000 Credits</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">目标用户</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">个人开发者、AI 工作室、企业团队</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">追求低价 API 的个人开发者</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">需要为 Agent 提供持久化存储的开发者</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong class=\"\" data-v-e7c0e5f5=\"\">平台适配</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">Claude Code、OpenClaw、TRAE、Hermes 等</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">Claude Code、OpenCode、OpenClaw 等</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">面向自研 Agent 的数据层集成</td>\n</tr>\n</tbody>\n</table>"
+        "title": "火山引擎推出的业界首个 Agent 套餐 是什么",
+        "html": "<p>火山引擎推出的业界首个 Agent 套餐 指的是方舟 Agent Plan。官网给它的定位是把「超全模态模型」和 Harness 能力打包成订阅制的用量包，页面上的说法是「你定义场景，Agent Plan 提供燃料」。它服务的核心场景是 Agent 与编程任务，思路是不再按单个模型 API 计费，而是按一段时间的可用额度供给使用。</p>"
       },
       {
-        "title": "<span style=\"font-size: 1.25rem;\">方舟 Agent Plan的应用场景</span>",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>AI 编程与代码辅助</strong>：开发者通过自然语言描述需求即可完成代码编写、调试与项目搭建，实现 Vibe Coding 的高效开发体验。</li>\n<li class=\"paragraph\"><strong>多模态营销内容创作</strong>：内容团队结合联网搜索自动调研热点，实现”热点搜集→素材生成→自动发布”的全自动社媒运营。</li>\n<li class=\"paragraph\"><strong>智能体自动化办公</strong>：职场职员完成文档分析、案例研究、PPT 生成与数据处理等专业领域的长程自动化任务。</li>\n<li class=\"paragraph\"><strong>AI 工作室规模化变现</strong>：Max 版提供 25 倍 Small 用量与极致多模态 Harness，助力自媒体、电商运营与 AI 服务商实现规模化产能与高 ROI 商业化。</li>\n</ul>\n<h2 class=\"title_5e5c9\"><span class=\"\" data-monitor-click-id=\"d562002\">方舟 Agent Plan的常见问题</span></h2>\n<h4><strong>Q1：可以同时在多套工具中使用 Agent Plan 吗？</strong></h4>\n<ul>\n<li>可以。同一套餐支持在所有兼容工具中复用，但额度为全局共享，所有工具的调用均消耗同一套餐额度。</li>\n</ul>\n<h4><strong>Q2：套餐额度耗尽后会自动扣费其他资源包或余额吗？</strong></h4>\n<ul>\n<li>不会。额度在周期内耗尽后需等待下一周期自动重置，不会触发其他资源包扣费或账户余额扣款。</li>\n</ul>\n<h4><strong>Q3：购买后是否需要单独开通模型或创建接入点？</strong></h4>\n<ul>\n<li>不需要。Agent Plan 为”购买即开通”，无需额外开通模型或创建接入点，直接按快速开始文档配置工具即可使用。</li>\n</ul>\n<h4><strong>Q4：如何续费套餐？</strong></h4>\n<ul>\n<li>建议订阅时开启自动续费；若未开启，可前往方舟控制台 → 开通管理，点击对应套餐的续费按钮完成操作。</li>\n</ul>\n<h4><strong>Q5：具体支持哪些模型与 Harness？</strong></h4>\n<ul>\n<li>覆盖语言模型、视觉模型、向量化模型等多模态模型，以及联网搜索等 Harness 工具。</li>\n</ul>\n<h4><strong>Q6：各套餐额度限制与模型抵扣系数是多少？</strong></h4>\n<ul>\n<li>按模型类别分为极速、标准、进阶、生图/生视频等，每类抵扣系数不同，详见官方积分计费机制文档。</li>\n</ul>"
+        "title": "火山引擎推出的业界首个 Agent 套餐 的主要功能",
+        "html": "<p>按官网说明，火山引擎推出的业界首个 Agent 套餐 包含这些内容：</p><ul><li>多模态模型供给：支持 Doubao-Seed-Evolving、GLM-5.3 系列、Kimi-K3、Kimi-K2.8-Preview、DeepSeek-V4.1-Flash 等模型；</li><li>模态扩展：官网提到扩展了视频生成、图像生成、向量化、语音合成、语音识别与联网搜索等能力；</li><li>Harness 升级：官方把 Agent 场景所需的 Harness 一并纳入，开箱即可用，不需要自己拼装；</li><li>编程工具兼容：可接入 Codex CLI、Claude Code、TRAE、OpenCode 等主流编程工具，也支持 OpenClaw、Hermes Agent 这类 Agent 框架；</li><li>档位划分：分为 Small、Medium、Large、Max 四档，可用量逐级放大，官网标注了各档之间的倍数关系；</li><li>用量可视：额度使用情况在控制台里可以查；</li><li>计费周期：支持连续包月、连续包季与连续包年；</li><li>开发者社群：官网设有方舟开发者社群入口，用于交流与答疑。</li></ul>"
+      },
+      {
+        "title": "如何使用 火山引擎推出的业界首个 Agent 套餐",
+        "html": "<p>上手 火山引擎推出的业界首个 Agent 套餐 大致按这个顺序：</p><ol><li>打开活动页了解四个档位的差异，按任务量与频次挑一档；</li><li>选定计费周期后订阅，拿到账号内的可用额度；</li><li>把常用的编程工具或 Agent 框架接上，按官方文档配置模型入口；</li><li>在控制台里查看额度消耗，判断当前档位够不够用；</li><li>用量增长后再升档，无需重新配置工具链。</li></ol>"
+      },
+      {
+        "title": "火山引擎推出的业界首个 Agent 套餐 的应用场景",
+        "html": "<p>官网把这套方案对应到这些使用场合，都是 火山引擎推出的业界首个 Agent 套餐 的典型落点：</p><ul><li>日常编码：把订阅额度作为编程助手的固定供给；</li><li>多工具混用：团队里有人用一款 CLI，有人用另一款 IDE 插件，可以共用同一份额度；</li><li>Agent 应用探索：需要长时间跑自动化流程时，用套餐额度替代按次调用；</li><li>重度开发：Large 与 Max 档面向多模态与 Harness 深度应用的复杂项目；</li><li>创意与多模态任务：需要视频、图像生成或联网检索的组合场景；</li><li>成本可控的中小团队：以档位而非单次调用来规划预算。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "zenmux-ai",
@@ -33810,8 +33988,25 @@
     "subcategory": "ai-platform-deploy",
     "logo": "/logos/tool77621.png",
     "domain": "qianwenai.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "阿里云推出的全新MaaS模型服务平台 是什么",
+        "html": "<p>阿里云推出的全新MaaS模型服务平台 指的是千问AI平台。官网对它的定义是「千问官方 MaaS 平台」，一头提供全模态大模型与接口，另一头给出 Skills、CLI 工具链和 AI 原生应用开发能力，服务的对象既包括企业也包括独立开发者。它把模型、工具链与应用入口收在同一个站点里，目标是把 AI 基础设施这件事做得更省事、更稳定也更便宜。</p>"
+      },
+      {
+        "title": "阿里云推出的全新MaaS模型服务平台 的主要功能",
+        "html": "<p>按官网的板块划分，阿里云推出的全新MaaS模型服务平台 主要提供：</p><ul><li>全栈模型矩阵：语言理解、图片生成、视频生成、语音合成与识别分类陈列，代表型号包括 Qwen3.8-Max，官网称它是通义千问迄今能力最强的旗舰模型，参数量 2.4 万亿、采用 MoE 架构；</li><li>多模态与长上下文：Qwen3.8-Flash 定位为多模态模型，原生支持百万级上下文窗口，可一次处理超长文档、代码仓库与复杂对话；</li><li>接口协议兼容：官网说明该模型对 OpenAI 和 Anthropic 两家协议都能适配，可接入 Claude Code 和 Codex 等开发者工具；</li><li>视频与其他模态：模型矩阵中另有视频生成模型与语音合成识别能力；</li><li>Skills 与 MCP：可以探索并安装 agent skills，并通过 MCP 一键接入商业数据服务；</li><li>计费方式：提供预付订阅的 Token Plan 与按量计费的 API 价格两条线，官网强调价格可查；</li><li>配套应用：站点内并列了千问 AI 对话助手、千问办公与 Qoder 智能体编程平台等入口；</li><li>评测与预览：设有实战竞技场与预览模型抢先体验的栏目。</li></ul>"
+      },
+      {
+        "title": "如何使用 阿里云推出的全新MaaS模型服务平台",
+        "html": "<p>使用 阿里云推出的全新MaaS模型服务平台 的常规路径是：</p><ol><li>进入 qianwenai.com，先看模型矩阵，按任务类型挑文本、图片、视频或语音模型；</li><li>注册账号并获取调用凭据，小规模试用可以先走按量计费；</li><li>在文档里按接口说明发起请求，已有 OpenAI 或 Anthropic 协议栈的代码改动量很小；</li><li>需要省事的话，从 Skills 里装现成的 agent 能力，或通过 MCP 接入外部数据服务；</li><li>规模稳定后改用预付订阅方案控制成本；</li><li>新模型上线前可以在预览栏目里先试效果再决定是否切换。</li></ol>"
+      },
+      {
+        "title": "阿里云推出的全新MaaS模型服务平台 的应用场景",
+        "html": "<p>官网列出的用途集中在这些方向，都属于 阿里云推出的全新MaaS模型服务平台 能承接的活：</p><ul><li>长文档与代码库处理：借助百万级上下文一次读完整份材料；</li><li>编程辅助与桌面操作：官方把自动修复代码、操作桌面应用、分析图表与长视频写进了模型说明；</li><li>多模态内容生产：图文理解、图片与视频生成、语音合成在同一平台内完成；</li><li>智能体协作：以 agent 形式串联多步任务，官网给出的例子是「一句话让 Agent 全程完成项目上云部署」；</li><li>企业应用开发：用 AI 原生应用开发能力搭建面客或内部工具；</li><li>需要兼容现有工具链的团队：继续沿用 Claude Code 与 Codex 这类既有开发工具。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool75263",
@@ -34712,8 +34907,25 @@
     "subcategory": "ai-platform-deploy",
     "logo": "/logos/tool65534.png",
     "domain": "dmxapi.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "一个Key用全球大模型 是什么",
+        "html": "<p>一个Key用全球大模型 指的是 DMXAPI 这个平台。按官网自述，DMX 取自「大模型」的拼音首字母，而 DMXAPI 由 LangChain 中文网提供，定位是智能 API 聚合服务，目标是让不熟悉多厂商接入的开发者用一个账号、一个密钥就能调用多种大模型。它的计价说明用人民币结算，官网强调「聚合 300+ 多模态大模型」，覆盖文生文、文生图、文生视频与文生音频几类模态。使用对象上，官网反复强调面向企业客户，注册流程被概括为「注册 > 充值 > 使用」。</p>"
+      },
+      {
+        "title": "一个Key用全球大模型 的主要功能",
+        "html": "<p>把官网列出的能力项归拢，一个Key用全球大模型 提供的功能主要有：</p><ul><li>统一接入：只改 Key 与 Base URL 就能切换模型，省掉逐家对接的工作；</li><li>模型聚合：官网称平台汇聚国内外 300 多款多模态模型，文本、生图、生视频、音乐与语音合成均在列；</li><li>并发说明：官网写明注册即为满级账号，不设 RPM 与 TPM 上限，企业客户使用集群服务器承载并发；</li><li>结算与票据：支持公对公付款，可开具发票；</li><li>采购方式：官网称采用与原厂集中采购、去除中间环节的模式；</li><li>数据策略：官网声明只做中转聚合服务，不存储客户数据；</li><li>协议兼容：官方 FAQ 专门说明对 OpenAI 接口协议与 Claude 官方接口格式的兼容情况。</li></ul>"
+      },
+      {
+        "title": "如何使用 一个Key用全球大模型",
+        "html": "<p>官网给出的上手方式比较直接，一个Key用全球大模型 的接入顺序是：</p><ol><li>注册账号并完成充值，拿到平台分配的 API Key；</li><li>在代码里把原模型的 Base URL 换成 DMXAPI 的地址，Key 一并替换；</li><li>按目标模型名发起请求，文生图、文生视频等模态更换对应的模型标识；</li><li>企业客户如需合同与发票，走官网的企业注册通道；</li><li>高并发场景可先看官方 FAQ 里关于并发与协议兼容的说明再压测。</li></ol>"
+      },
+      {
+        "title": "一个Key用全球大模型 的应用场景",
+        "html": "<p>官网把适用场景列得比较具体，一个Key用全球大模型 主要覆盖这些方向：</p><ul><li>电商与外贸：多语言文案与商品图批量生成；</li><li>AIGC 内容生产：文生图、文生视频、文生音乐的内容流水线；</li><li>AI 客服：把对话模型接到现有客服系统中；</li><li>RAG 文档问答：搭配向量化模型处理企业文档；</li><li>数据标注与图片理解：用多模态模型做图片描述与标注预处理；</li><li>自动驾驶与数据分析：把模型调用嵌进既有的数据处理流程。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool64827",
@@ -37869,11 +38081,23 @@
     "domain": "research.runwayml.com",
     "detailed_content": [
       {
-        "title": "",
-        "html": "Runway最新推出的AI视频生成模型"
+        "title": "Runway最新推出的AI视频生成模型 是什么",
+        "html": "<p>Runway最新推出的AI视频生成模型 指的是 Runway 研究团队发布的 Gen-2。官方对它的描述是「多模态 AI 系统」：既可以用文字生成新视频，也可以用一张图或一段已有视频当作起点，官网用「不用打灯、不用摄影机，全是动作」来形容这条路线。Gen-2 的发布说明署名为 Anastasis Germanidis，公示时间为 2023 年 2 月，属于把扩散类方法用到视频合成上的早期代表产品之一。</p>"
+      },
+      {
+        "title": "Runway最新推出的AI视频生成模型 的主要功能",
+        "html": "<p>官网把 Runway最新推出的AI视频生成模型 的生成方式拆成了多种模式，逐条对应不同的输入：</p><ul><li>文生视频（Text to Video）：只给一段文字提示，据词生成画面；</li><li>图文生视频（Text + Image to Video）：以一张驱动图定构图，用文字提示控制变化；</li><li>图生视频（Image to Video）：只用一张驱动图生成视频，并支持生成变体；</li><li>视频生视频（Video to Video）：把参考图或文字提示的构图与风格套用到源视频的结构上；</li><li>风格化与定制：官方在介绍中单独列出了 Stylization 与 Customization 两类用途；</li><li>一致性合成：官方强调能在保持写实与连贯的前提下反复合成新片段。</li></ul>"
+      },
+      {
+        "title": "如何使用 Runway最新推出的AI视频生成模型",
+        "html": "<p>官网给出的 Runway最新推出的AI视频生成模型 使用方式是这样的：</p><ol><li>打开 research.runwayml.com/gen2 了解各模式的能力边界；</li><li>按手里已有的素材选模式：只有文字就用文生视频，有参考图就用图文生视频或图生视频；</li><li>需要改动已有素材结构时选视频生视频；</li><li>把提示词写得具体一些，官网示例里连机位与色调都会点明；</li><li>生成后如需在移动端继续处理，可搭配 Runway 的 iOS 端与安卓端应用。</li></ol>"
+      },
+      {
+        "title": "Runway最新推出的AI视频生成模型 的应用场景",
+        "html": "<p>官网给 Runway最新推出的AI视频生成模型 举出的示例，指向这些实际用途：</p><ul><li>概念预演：在正式开拍前先把镜头效果做出来看；</li><li>镜头补拍：用已有素材的结构复刻出新的画面；</li><li>风格迁移：把参考画面的色调与质感套到自有素材上；</li><li>低成本短片：没有实拍条件时，仅靠文字完成画面生产；</li><li>创意探索：同一段提示词反复生成变体，挑出可用的一版。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool1520",
@@ -38355,23 +38579,23 @@
     "domain": "aiseo.ai",
     "detailed_content": [
       {
-        "title": "AISEO AI Content Detector是什么",
-        "html": "<p>AISEO AI Content Detector 是由人工智能 SEO 文章工具 AISEO 推出的 AI 内容检测器，通过先进的算法来分析文本中的模式和结构并识别是由机器还是人类生成内容。可以快速检测人工智能生成的内容，帮助文章创作者保持内容的质量和真实性。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/10/AISEO-AI-Content-Detector-website.png\" data-fancybox=\"fancybox\" data-caption=\"\"><img decoding=\"async\" class=\"alignnone size-full wp-image-27111\" src=\"https://ai-bot.cn/wp-content/uploads/2024/10/AISEO-AI-Content-Detector-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"\" width=\"1200\" height=\"675\"></a>"
+        "title": "AISEO推出的AI内容检测器 是什么",
+        "html": "<p>AISEO推出的AI内容检测器 是 AISEO 官网提供的一款在线内容检测工具。页面上的说明是：把草稿贴进去，就能看到检测器大致会给什么分，而且是逐句给出判断结果。官网对结论的边界交代得很清楚：输出的是一个相似度或可能性，不是「谁写的」的裁决，同一段文字在不同检测器上也可能拿到不一样的分数。这款工具本身免费，也不需要注册。</p>"
       },
       {
-        "title": "AISEO AI Content Detector的主要功能",
-        "html": "<ul>\n<li><strong>AI内容检测</strong>：分析文本内容，判断其是否为AI生成。</li>\n<li><strong>人类内容指示器</strong>：显示内容被视为人类生成的概率。</li>\n<li><strong>提高可读性</strong>：优化文本以提高其自然度和可读性。</li>\n<li><strong>AI对抗AI</strong>：使用先进的AI模型来识别和过滤AI生成的文本，确保内容的真实性。</li>\n<li><strong>无缝绕过AI检测</strong>：确保AI生成的内容可以绕过检测系统，无法被检测且安全。</li>\n<li><strong>多种人性化模式</strong>：提供标准、缩短、扩展、简化或改进写作等多种模式，定制文本。</li>\n<li><strong>可定制内容目标</strong>：支持用户指定内容目标，如提高清晰度、调整语气或针对特定受众优化。</li>\n</ul>"
+        "title": "AISEO推出的AI内容检测器 的主要功能",
+        "html": "<p>AISEO推出的AI内容检测器 在官网上列出的能力包括：</p><ul><li>文本与文件双入口：可以直接粘贴文字，也可以上传文件；</li><li>逐句评分：不是只给一个整篇分数，而是按句展示判断；</li><li>结果解读指引：官网专门写了一段如何理解检测分数的说明，提醒不要单凭一个分数下结论；</li><li>横向参照：页面上列出多款主流检测器，方便对照不同口径；</li><li>免登录使用：官网写明免费且无需注册；</li><li>主题解释：页面讨论了 AI 文本能否带水印这个问题，说明官方认为检测器识别的是其他信号，而不是水印；</li><li>误判提示：官网提醒技术类文本与非母语写作者的文稿也可能被标为机器生成；</li><li>改进方向：检测结果页会给出内容原创性方面的分析，供后续改写参考。</li></ul>"
       },
       {
-        "title": "AISEO AI Content Detector的产品官网",
-        "html": "<ul>\n<li><strong>产品官网</strong>：<a href=\"https://aiseo.ai/tools/ai-content-detector.html\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">haiseo.ai/tools/ai-content-detector</a></li>\n</ul>"
+        "title": "如何使用 AISEO推出的AI内容检测器",
+        "html": "<p>官网把 AISEO推出的AI内容检测器 的流程写成三步，照着做就行：</p><ol><li>输入内容：把待测文字粘进文本框，或者上传文件；</li><li>执行分析：发起检测，等待结果返回；</li><li>查看结果：逐句看判定，并结合官网的解读说明判断哪些段落需要改写；</li><li>提交给学校或编辑前，注意官网的提醒——不要把单一分数当作定论，要连同上下文一起看。</li></ol>"
       },
       {
-        "title": "AISEO AI Content Detector的应用场景",
-        "html": "<ul>\n<li><strong>内容创作者</strong>：对于内容创作者来说，AISEO AI Content Detector可以帮助他们快速检测自己的文章是否含有过多的AI生成内容，确保作品的独特性和原创性。</li>\n<li><strong>新闻编辑</strong>：在新闻行业，AI Content Detector可以帮助新闻编辑快速识别剔除可能由AI生成的虚假信息，保护读者免受误导。</li>\n<li><strong>社交媒体管理员</strong>：社交媒体平台上有大量的内容被发布和分享，用AISEO AI Content Detector，管理员可以更有效地监控和过滤可能由AI生成的垃圾信息和虚假广告，维护平台的健康生态。</li>\n<li><strong>市场营销和广告</strong>：AI生成的内容可以个性化营销活动、优化广告文案，分析消费者行为改善定位和参与度。</li>\n</ul>"
+        "title": "AISEO推出的AI内容检测器 的应用场景",
+        "html": "<p>按官网的描述与提示，AISEO推出的AI内容检测器 适用于：</p><ul><li>投稿前自查：作者在交稿或交作业前先过一遍；</li><li>内容团队质检：批量文稿的机器味排查；</li><li>多检测器对照：同一段文字在几家检测器上的分数差异评估；</li><li>教学场景：老师向学生解释检测结果的含义与局限；</li><li>技术写作与非母语写作：这类文本本身容易被误判，更需要人工复核。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool7189",
