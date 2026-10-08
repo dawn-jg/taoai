@@ -2632,6 +2632,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/wenku-baidu-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/wenku-baidu-com.png</image:loc>
+      <image:title>百度文库AI助手 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/napkin-ai</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2749,6 +2758,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tongyi-aliyun-com-2</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tongyi-aliyun-com-2.png</image:loc>
+      <image:title>阿里推出的免费AI法律顾问助手 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/ailegal-baidu-com</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2782,6 +2800,15 @@
     <image:image>
       <image:loc>/logos/delilegal-com.png</image:loc>
       <image:title>AI法律智能检索系统 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/fazhi-law</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/fazhi-law.png</image:loc>
+      <image:title>同花顺推出的AI法律助手 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -3412,6 +3439,15 @@
     <image:image>
       <image:loc>/logos/yoojober-com.png</image:loc>
       <image:title>必优科技推出的AI简历生成工具 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/pan-baidu-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/pan-baidu-com.png</image:loc>
+      <image:title>百度网盘推出的AI语音转文字工具 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -5464,6 +5500,15 @@
     <image:image>
       <image:loc>/logos/google-flow-music.png</image:loc>
       <image:title>Google Flow Music logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/y-qq-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/y-qq-com.png</image:loc>
+      <image:title>腾讯音乐旗下首款一站式AI音乐创作工具 logo</image:title>
     </image:image>
   </url>
   <url>
