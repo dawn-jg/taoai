@@ -16579,8 +16579,25 @@
     "subcategory": "ai-office-doc",
     "logo": "/logos/tool57154.png",
     "domain": "fluig.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI图表生成工具，一键生成思维导图、流程图 是什么",
+        "html": "<p>AI图表生成工具，一键生成思维导图、流程图 指的是畅图。官网把它明确定义为一款 AI 原生图表工具：不需要绘图经验，上传文档或直接与 AI 对话，就能生成思维导图、流程图、表格与看板等图形。这句话里最关键的词是 AI 原生——图不是画出来的，是描述出来的。</p><p>它同时提供了 SDK、MCP Server 与三方集成入口，说明除了个人使用，也考虑被集成进别人的系统里。</p>"
+      },
+      {
+        "title": "AI图表生成工具，一键生成思维导图、流程图 的主要功能",
+        "html": "<p>AI图表生成工具，一键生成思维导图、流程图 的功能围绕解析、生成与转换三条线，官网列出的要点如下：</p><ul><li>多模态解析：支持文本、PDF、PPT、网页、图片、Word、TXT 与表格内容。</li><li>一键生成：上传文件并输入需求，由 AI 整理信息并生成图表。</li><li>图形类型丰富：思维导图、流程图、卡片与看板、表格、时间线、类图等。</li><li>图表间智能转换：一句话就能把思维导图变成流程图、卡片或表格，不必重画。</li><li>多轮对话编辑：支持持续对话，按上下文不断调整图表内容。</li><li>团队协作：支持实时在线编辑，可用便利贴表达想法、画笔圈画、实时评论。</li><li>多格式导出：结果可导出为 PDF、PNG、JPG 与 PPT。</li><li>兼容既有格式：支持导入 Xmind 文件，便于把旧内容接过来。</li><li>点数机制：注册账号后赠送一定数量的 AI 点数用于体验。</li></ul>"
+      },
+      {
+        "title": "如何使用 AI图表生成工具，一键生成思维导图、流程图",
+        "html": "<p>要用 AI图表生成工具，一键生成思维导图、流程图 把一堆材料变成结构图，操作顺序大致是：</p><ol><li>建立工作区：先注册账号并登录，新账号会获得可用的 AI 点数。</li><li>准备素材：把 PDF、PPT、Word、TXT、图片或网页链接准备好。</li><li>上传并提需求：把文件传上去，同时用一句话说明想得到什么图。</li><li>挑选图型：思维导图、流程图、表格、看板或时间线按需选择。</li><li>对话微调：对结果不满意时继续用自然语言补充，让它迭代。</li><li>转换与导出：需要换个形态时一键转换，确认后导出 PDF、图片或 PPT。</li></ol><p>如果团队要长期用，还可以让协作成员进同一张画布，边讨论边改图。</p>"
+      },
+      {
+        "title": "AI图表生成工具，一键生成思维导图、流程图 的应用场景",
+        "html": "<p>AI图表生成工具，一键生成思维导图、流程图 官网按场景给了不少示例，常见用法包括：</p><ul><li>高效学习：把笔记整理成知识框架与读书卡片。</li><li>项目管理：用流程图与看板梳理任务与进度。</li><li>头脑风暴：用便利贴快速收集想法再收敛。</li><li>市场分析：把调研材料整理成结构化的对比图。</li><li>业务梳理：把流程类文档转成流程图，便于对齐理解。</li><li>个人生活：做计划、理清思路这类轻量用途。</li></ul><p>需要部署到内网或做信创适配的团队，可以走官网的企业定制入口咨询。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "kezign-cn",
@@ -16828,8 +16845,25 @@
     "subcategory": "ai-office-doc",
     "logo": "/logos/tool6811.png",
     "domain": "xiaohuazhuo.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "在线协作白板工具，内置AIGC功能 是什么",
+        "html": "<p>在线协作白板工具，内置AIGC功能 指的是小画桌。官网把它概括为轻量、便捷、支持在线协同、覆盖全终端的可视化工具，并提供了知识库、学院与客户端下载入口。它还支持安装到腾讯会议里，让白板直接出现在会议场景中。</p><p>它的场景描述写得很具体：讲师用、产品经理用、团队用各有侧重，说明这是一块围绕「一起把东西画清楚」来设计的白板，而不是单纯的绘图板。</p>"
+      },
+      {
+        "title": "在线协作白板工具，内置AIGC功能 的主要功能",
+        "html": "<p>在线协作白板工具，内置AIGC功能 的能力围绕协作与创作两方面，官网列出的重点包括：</p><ul><li>沉浸式实时协作：多人可以同时在白板上编辑，改动即时同步。</li><li>全终端覆盖：网页端与客户端都能用，切换设备不中断。</li><li>会议集成：可安装到腾讯会议，边开会边画。</li><li>音视频通话：配合可视化组件，把在线沟通与画面放在一起。</li><li>全格式课件支持：教学场景下可直接呈现各类课件。</li><li>需求设计评审：在产品讨论里承载评审与方案对比。</li><li>敏捷工作管理：把任务与进度放到同一块白板上跟踪。</li><li>流程追溯还原：保留操作过程，方便回看思路是怎么演进的。</li><li>场景化模板：提供成套模板，新建白板时不用从零画起。</li></ul>"
+      },
+      {
+        "title": "如何使用 在线协作白板工具，内置AIGC功能",
+        "html": "<p>要用在线协作白板工具，内置AIGC功能 开始一次协作，可以按下面的顺序来：</p><ol><li>注册并登入：从官网免费注册，或用客户端登录。</li><li>新建白板：挑一个场景化模板，或直接创建空白白板。</li><li>邀请协作者：把链接发给同伴，多人可同时进入同一块白板。</li><li>边聊边画：需要时打开音视频通话与可视化组件配合讨论。</li><li>接入会议：把白板安装到腾讯会议，会议中直接调用。</li><li>沉淀结果：把讨论定稿的白板留在项目里，供后续追溯。</li></ol><p>官网提供了知识库与学院两块内容，新用户可以先看几篇教程再开始正式协作。</p>"
+      },
+      {
+        "title": "在线协作白板工具，内置AIGC功能 的应用场景",
+        "html": "<p>在线协作白板工具，内置AIGC功能 官网用三类角色说明了它的适用场合：</p><ul><li>讲师授课：用可视化互动教学配合全格式课件，丰富在线课堂。</li><li>产品经理：在同一块白板上完成需求评审与进度管理。</li><li>团队共创：多端协作、流程可追溯，适合远程团队的讨论与复盘。</li><li>会议场景：装进腾讯会议后，讨论与记录可以在同一个界面完成。</li><li>知识沉淀：把白板内容归入知识库，长期积累团队素材。</li></ul><p>如果需要多人同时编辑，建议先约定好各自的区域与命名习惯，避免画面混乱。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool2179",
@@ -18237,8 +18271,25 @@
     "subcategory": "ai-office-meeting",
     "logo": "/logos/tool1185.png",
     "domain": "work.duiopen.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "思必驰推出的AI会议助手，语音转文字、字幕同传、AI摘要 是什么",
+        "html": "<p>思必驰推出的AI会议助手，语音转文字、字幕同传、AI摘要 指的是麦耳会记。按官网介绍，它是思必驰科技旗下的产品，依托公司在全链路智能语音语言技术上的积累，形成了以语音文字、字幕同传与智能硬件为核心的智慧办公系列产品和服务平台。</p><p>它的思路是把软件与硬件配在一起用：会议录音交给软件转写与摘要，拾音环节则交给配套的麦克风音箱，从而在开放空间里也能拿到更干净的音频。</p>"
+      },
+      {
+        "title": "思必驰推出的AI会议助手，语音转文字、字幕同传、AI摘要 的主要功能",
+        "html": "<p>思必驰推出的AI会议助手，语音转文字、字幕同传、AI摘要 的功能围绕记录与整理展开，官网列出的能力包括：</p><ul><li>实时录音转写：边说边记边译，要点信息实时落成文字。</li><li>录音文件转写：把手头的录音批量转成文稿。</li><li>AI 全文摘要：对整场内容做摘要，快速回看重点。</li><li>AI 辅助写作：在转写结果的基础上继续加工。</li><li>远程会议记录：支持在线会议的记录场景。</li><li>实时字幕同传：会议进行中同步显示字幕。</li><li>多语言与方言识别：转写支持普通话、粤语、四川话与英文。</li><li>配套硬件：可搭配思必驰 AI 麦克风音箱，实现定向拾音与智能降噪。</li></ul>"
+      },
+      {
+        "title": "如何使用 思必驰推出的AI会议助手，语音转文字、字幕同传、AI摘要",
+        "html": "<p>要用思必驰推出的AI会议助手，语音转文字、字幕同传、AI摘要 开一场会议并留下完整记录，可以这样操作：</p><ol><li>下载并登录：从官网下载客户端，进入工作台。</li><li>准备拾音：必要时搭配思必驰的 AI 麦克风音箱，让拾音更清晰。</li><li>开始录音：选择实时录音转写，会议过程中持续记录。</li><li>开字幕同传：需要现场跟读时打开实时字幕。</li><li>会后整理：用 AI 全文摘要生成要点，再按需做辅助写作。</li><li>归档留存：把转写稿与摘要一起存放，便于后续检索。</li></ol><p>官网提示 AI 摘要、要点挖掘与待办等增值服务需要购买相应的会员服务，具体权益以官网当期说明为准。</p>"
+      },
+      {
+        "title": "思必驰推出的AI会议助手，语音转文字、字幕同传、AI摘要 的应用场景",
+        "html": "<p>思必驰推出的AI会议助手，语音转文字、字幕同传、AI摘要 在不同场景下的用法略有差别，官网给出的方向有：</p><ul><li>工作会议实时记录：个人办公、居家会议、开放空间与企业会议都能覆盖。</li><li>学习记录整理：在线课程实时录播，课后一键整理知识要点。</li><li>咨询与访谈：客户沟通或访谈过程即时记录，要点一键提取。</li><li>字幕需求场景：需要现场字幕时用同传功能跟读。</li><li>个人内容沉淀：把日常开会与听课的记录统一归档。</li></ul><p>涉及录音的场合，建议提前告知在场人员并取得同意。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool718",
@@ -18962,8 +19013,25 @@
     "subcategory": "ai-office-doc",
     "logo": "/logos/tool3921.png",
     "domain": "pan.baidu.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "百度网盘最新推出的智能助理 是什么",
+        "html": "<p>百度网盘最新推出的智能助理 指的是百度网盘里的云一朵。官网给它的定义是「可以和你对话的智能助理」，目标是把网盘的使用体验变简单，提高生活、学习和办公的效率。页面标注它为测试版，需要先预约、通过后才会收到通知。</p><p>和一般的对话助手不同，它的能力是围绕网盘内的文件展开的：你可以就盘里的某份文档提问，也可以让它对某个文件做摘要，能力边界与存储内容绑定在一起。</p>"
+      },
+      {
+        "title": "百度网盘最新推出的智能助理 的主要功能",
+        "html": "<p>百度网盘最新推出的智能助理 的能力按官网的问答拆开，可以分成这几类：</p><ul><li>问答：基于网盘内的文档回答问题，答疑解惑。</li><li>总结：选中一篇文档后生成摘要，省去通读时间。</li><li>创作：可以帮你写文章、写故事，也能写诗。</li><li>翻译：在学英语等场景里充当翻译小助手。</li><li>视频处理：视频智能配字幕、视频转课件、视频笔记。</li><li>音视频转文稿：把录音与视频内容转成文字材料。</li><li>智能扫描：文档与证件拍照后扫描上传，支持格式转换。</li><li>图片检索：按描述的特征去搜索网盘里的图片。</li></ul>"
+      },
+      {
+        "title": "如何使用 百度网盘最新推出的智能助理",
+        "html": "<p>要用百度网盘最新推出的智能助理，先完成预约再进入体验，上手动作比想象中简单：</p><ol><li>预约测试：在页面阅读并同意测试规则与隐私政策后提交预约，等 App 消息通知。</li><li>打开入口：通过后在网盘里唤起对话入口。</li><li>用 @ 指定文件：输入 @ 符号选择一份文件，再输入问题，它就会围绕这份文件回答。</li><li>用 / 调用功能：输入 / 符号挑具体功能，让它准确执行你要的操作。</li><li>不满意就反馈：对回答不满意时点击反馈按钮，帮助它继续改进。</li></ol><p>官网还特别说明，它遵循与网盘一致的隐私政策，数据与隐私保护按同一套规则执行。</p>"
+      },
+      {
+        "title": "百度网盘最新推出的智能助理 的应用场景",
+        "html": "<p>百度网盘最新推出的智能助理 的场景基本围绕「盘里存了什么」来展开，官网给出的方向有：</p><ul><li>学习更轻松：靠视频智能字幕、视频课件与视频笔记快速抓住内容重点。</li><li>工作更高效：把工作材料与证件拍照扫描后存进网盘，顺手做格式转换。</li><li>文档答疑：手边有资料但没时间通读时，直接就着文档提问。</li><li>内容再加工：把长文档压缩成摘要，或在此基础上续写。</li><li>资料整理：用图片检索按特征找图，减少人工翻找。</li></ul><p>需要提醒的是，涉及个人隐私与证件类的材料，上传前建议先确认自己的使用习惯与合规要求。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "bangong-360-cn",
@@ -19082,23 +19150,23 @@
     "domain": "tongyi.aliyun.com",
     "detailed_content": [
       {
-        "title": "通义晓蜜是什么",
-        "html": "<p>通义晓蜜是阿里推出的企业智能服务解决方案，基于大模型技术提供全渠道联络中心与AI应用的深度整合方案。产品具备对话机器人、智能坐席助理和多模态智能联络中心等功能，旨在助力企业服务向信息化、智能化、多模态转型。通过自然语言处理和机器学习，通义晓蜜能理解用户问题并提供相应的答案和解决方案，支持多轮对话和情感分析，提升客户服务体验和效率。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/09/tongyixiaomi-website1.png\" data-fancybox=\"fancybox\" data-caption=\"\"><img decoding=\"async\" class=\"alignnone size-full wp-image-19656\" src=\"https://ai-bot.cn/wp-content/uploads/2024/09/tongyixiaomi-website1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"\" width=\"800\" height=\"450\"></a>"
+        "title": "阿里推出的企业智能服务解决方案 是什么",
+        "html": "<p>阿里推出的企业智能服务解决方案 指的是伶鹊这套企业级对话智能体平台。官网把它概括为「用对话创造商业价值」：底层依托千问对话大模型和全双工实时交互引擎，目标是做出拟人度高、延迟低、准确率稳定的企业对话智能体。</p><p>它服务的对象很明确，是有大量对话业务的企业。官网上并列了行业方案与产品能力两条主线，前者解决不同领域的落地问题，后者提供从在线客服到语音外呼的现成模块。</p>"
       },
       {
-        "title": "通义晓蜜的主要功能",
-        "html": "<ul>\n<li><strong>对话机器人</strong>：提供基于自然语言处理的智能对话体验，能连接知识库并进行多轮对话，支持多种形态的知识，如文档网页、高频问题、复杂多轮对话、表格、数据库等，提供更接近人的对话体验并降低运营成本。</li>\n<li><strong>智能坐席助理</strong>：全方位辅助人工坐席，包括实时辅助、销售分析、岗前模拟客户对练、岗中实时业务指引、岗后智能通话分析等，旨在提升客服和销售业绩。</li>\n<li><strong>多模态智能联络中心</strong>：提供一站式全渠道多模态的企业智能服务平台，支持电话、IM、视频等多种渠道的统一接入和调度，实现服务数据和客户体验的完整一致性。</li>\n<li><strong>实时辅助与销售分析</strong>：在客服和销售人员的岗前、岗中和岗后提供实时业务指引和通话分析，以及通话过程剖析和优秀案例沉淀，帮助提升通话技巧。</li>\n<li><strong>自定义指令模板</strong>：允许企业根据实际业务需求编辑官方预置模板或创建自定义指令模板，以实现更个性化的服务。</li>\n</ul>"
+        "title": "阿里推出的企业智能服务解决方案 的主要功能",
+        "html": "<p>阿里推出的企业智能服务解决方案 的能力可以分成三类来看，官网列出的项目如下：</p><ul><li>智能在线客服：基于企业专属服务大模型，接入企业知识后提供低延迟的对话服务。</li><li>智能语音外呼：提供从配置到交付的一站式外呼方案，并支持音色定制。</li><li>智能对话分析：对海量对话做质检与挖掘，用于服务质量监控与舆情观察。</li><li>云联络中心：覆盖电话、即时通讯、音视频与 5G 新通话等渠道。</li><li>行业方案：金融、医疗、出行、汽车、游戏、政法以及通用场景都有对应方案。</li><li>开发平台组件：MaaS API 负责能力供给，Voice Studio 负责音色克隆与设计，Agent Builder 支持自然语言与代码双模式开发。</li><li>自动化评估：官网提到覆盖多维度指标与真实场景数据集的评估诊断能力。</li></ul>"
       },
       {
-        "title": "如何使用通义晓蜜",
-        "html": "<ul>\n<li><strong>开通产品</strong>：<span style=\"font-size: 0.875rem;\">访问阿里云百炼平台，在应用广场中找到通义晓蜜CCAI-对话分析AIO。</span><span style=\"font-size: 0.875rem;\">点击“免费开通”按钮，阅读并同意服务协议后，完成开通。</span></li>\n<li><strong>创建应用</strong>：<span style=\"font-size: 0.875rem;\">在通义晓蜜CCAI-对话分析AIO页面，点击“创建应用”。</span><span style=\"font-size: 0.875rem;\">设置应用名称，并选择模型配置，如通义晓蜜-Turbo或通义晓蜜-Plus。</span><span style=\"font-size: 0.875rem;\">选择指令模板，可以使用官方预置模板或根据业务需求自定义模板。</span></li>\n<li><strong>配置应用</strong>：<span style=\"font-size: 0.875rem;\">在调试窗口中，根据业务需求编辑指令模板。</span><span style=\"font-size: 0.875rem;\">保存指令模板，以便在模型调用时使用。</span></li>\n<li><strong>应用API</strong>：<span style=\"font-size: 0.875rem;\">通过API服务输出，方便集成和使用官方预置模板或自定义模板。</span><span style=\"font-size: 0.875rem;\">支持Python SDK、Java SDK、Curl等多种方式调用。</span></li>\n</ul>"
+        "title": "如何使用 阿里推出的企业智能服务解决方案",
+        "html": "<p>要落地阿里推出的企业智能服务解决方案，可以按这个顺序推进：</p><ol><li>明确业务场景：先判断要解决的是客服、外呼，还是对话分析。</li><li>对照行业方案：按金融、医疗等对应行业查看既有方案，减少从零设计。</li><li>接入企业知识：把企业的资料与服务规则接入服务大模型。</li><li>选择交付方式：走 API 接入，或先用 Voice Studio 定制音色，也可以用 Agent Builder 自行搭建流程。</li><li>小范围试用：从官网的免费体验入口先验证一轮效果。</li><li>看评估结果再铺开：结合对话分析给出的指标，决定是否扩大覆盖范围。</li></ol><p>涉及客户数据的场景，建议先在内部环境完成验证，再考虑上线对外服务。</p>"
       },
       {
-        "title": "通义晓蜜的应用场景",
-        "html": "<ul>\n<li><strong>客服服务</strong>：通义晓蜜可以作为企业客服的智能助手，提供7×24小时的在线服务，处理常见的咨询和问题解答，减轻人工客服的工作负担，提高响应速度。能提供实时辅助、智能通话分析等功能，帮助提升客服人员的工作效率和服务质量。</li>\n<li><strong>销售业务</strong>：在销售领域，通义晓蜜可以为销售人员提供岗前模拟客户对练、岗中实时业务指引等服务，帮助销售人员更好地理解客户需求，提升销售业绩。</li>\n<li><strong>企业服务</strong>：通义晓蜜可以作为企业的智能服务平台，通过多模态智能联络中心，为客户提供电话、IM、视频等多种渠道的服务，实现全渠道客户服务，提高客户满意度。</li>\n<li><strong>业务定制化</strong>：企业可以根据自身业务的特点和需求，定制通义晓蜜的功能和服务流程，更好地满足客户需求。</li>\n</ul>"
+        "title": "阿里推出的企业智能服务解决方案 的应用场景",
+        "html": "<p>阿里推出的企业智能服务解决方案 的适用方向，官网按行业做了划分，常见的落地场合包括：</p><ul><li>客服热线：把高频问题交给对话智能体先应答。</li><li>外呼触达：用于邀约、随访这类需要主动联系的业务。</li><li>服务质量监控：对通话与在线对话做质检，挖掘风险点。</li><li>多行业接入：金融、医疗、出行、汽车、游戏、政法等场景都有对应说明。</li><li>自建智能体团队：用开发平台做深度定制，而不是只使用成品功能。</li></ul><p>官网上提及的服务规模数据属于其自身披露口径，选型时应结合自己的业务量做验证。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool11524",
@@ -21949,11 +22017,23 @@
     "domain": "anygen.io",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<h2 class=\"paragraph\">AnyGen是什么</h2>\n<p>AnyGen是字节跳动推出的AI办公<a href=\"https://ai-bot.cn/favorites/ai-agent/\" target=\"_blank\" rel=\"noopener\">智能体</a>，通过语音输入和AI技术提升办公效率。用户长按录音按钮即可将语音快速转为文字，支持添加照片、截图和链接，避免了传统记录后的繁琐整理。AnyGen可将语音笔记转化为结构化的文档、报告或演示文稿，上传数据后能生成图表和见解。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/01/AnyGen-website1.png\" data-fancybox=\"fancybox\" data-caption=\"AnyGen\"><img decoding=\"async\" class=\"alignnone wp-image-69425\" src=\"https://ai-bot.cn/wp-content/uploads/2026/01/AnyGen-website1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"AnyGen\" width=\"741\" height=\"417\"></a>\n<div>\n<h2 class=\"paragraph\">AnyGen的主要功能</h2>\n<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">语音驱动的工作方式</strong>：通过语音输入快速记录想法和会议内容，支持<a href=\"https://ai-bot.cn/ai-speech-to-text-tools/\" target=\"_blank\" rel=\"noopener\">语音转文字</a>，无需手动输入，提升记录效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>智能内容生成</strong>：能将语音笔记转化为结构化的文档、报告或演示文稿，支持从文档到幻灯片的无缝转换，无需担心格式问题。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>实时编辑与优化</strong>：在同一个页面上进行所有编辑操作，如调整语气、扩展观点、突出关键点等，无需切换页面，保持工作流的连贯性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>准确性验证</strong>：采用双AI系统，一个AI负责生成内容，另一个AI负责验证准确性，保障输出内容无误。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>结构化引导</strong>：通过结构化问题逐步引导用户的想法，确保输出结果符合用户的意图。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>团队协作支持</strong>：适合个人到团队使用，提供不同级别的定价计划，满足不同规模团队的需求。</div>\n</li>\n</ul>\n<h2 class=\"paragraph\">如何使用AnyGen</h2>\n<ul>\n<li><strong>访问官网</strong>：AnyGen官网 https://www.anygen.io/ ，或下载<a href=\"https://ai-bot.cn/app/69011.html\" target=\"_blank\" rel=\"noopener\">AnyGen APP</a>。</li>\n<li>\n<div class=\"paragraph\"><strong>语音记录</strong>：进入备忘录页面，长按语音录制按钮即可持续发言，语音会快速转为文字，还能添加照片、截图和链接。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>内容生成</strong>：将语音笔记转化为结构化的文档、报告或幻灯片，上传数据后可生成图表和见解。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>协作编辑</strong>：支持多人实时协作编辑，共同打磨内容，精简审核周期。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>引导生成</strong>：通过结构化问题逐步引导用户完善想法，确保输出内容贴合意图。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>智能体任务</strong>：内置AI智能体，可执行自动化任务，如邮件写作、会议纪要等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>数据分析</strong>：上传数据后，AI帮助提取洞察并生成报告。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>人机协同</strong>：AI生成多个优化选项，用户可实时补充信息、修正方向，实现内容渐进式完善。</div>\n</li>\n</ul>\n<blockquote>\n<p data-pm-slice=\"1 1 []\"><strong>创建绘本示例</strong>：我想讲解光合作用，帮我做一本有趣又科普的故事书。</p>\n</blockquote>\n<p data-pm-slice=\"1 1 []\"><a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/01/AnyGen-website3.png\" data-fancybox=\"fancybox\" data-caption=\"\"><img decoding=\"async\" class=\"alignnone wp-image-69428\" src=\"https://ai-bot.cn/wp-content/uploads/2026/01/AnyGen-website3.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"\" width=\"722\" height=\"406\"></a></p>\n<h2 class=\"paragraph\">AnyGen的核心优势</h2>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>语音驱动高效记录</strong>：通过语音输入快速记录想法和会议内容，支持语音转文字，无需手动输入，大幅提升记录效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>智能内容生成与优化</strong>：能将语音笔记转化为结构化的文档、报告或幻灯片，支持从文档到幻灯片的无缝转换，同时提供内容优化建议。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>实时编辑与协作</strong>：在一个页面上完成所有编辑操作，支持多人实时协作，精简审核周期，保持工作流连贯。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>准确性验证</strong>：采用双AI系统，一个AI生成内容，另一个AI验证准确性，确保输出内容无误。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>结构化引导</strong>：通过结构化问题逐步引导用户完善想法，确保输出内容贴合用户意图。</div>\n</li>\n</ul>\n<h2 class=\"paragraph\">AnyGen的产品定价</h2>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>免费版</strong>：<span style=\"font-size: 0.875rem;\">每天200个信用点，每天00:00重置。</span><span style=\"font-size: 0.875rem;\">支持1个并发任务和1个计划任务。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>限时优惠版</strong>：<span style=\"font-size: 0.875rem;\">每月23美元，每年276美元。</span><span style=\"font-size: 0.875rem;\">每月5000个信用点（2000基础 + 3000限时奖励）。</span><span style=\"font-size: 0.875rem;\">每天200个信用点。</span><span style=\"font-size: 0.875rem;\">支持5个并发任务和3个计划任务。</span><span style=\"font-size: 0.875rem;\">支持无限导出。</span></div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Max版</strong>：<span style=\"font-size: 0.875rem;\">每月159美元，每年1908美元。</span><span style=\"font-size: 0.875rem;\">每月50000个信用点（20000基础 + 30000限时奖励）。</span><span style=\"font-size: 0.875rem;\">每天200个信用点。</span><span style=\"font-size: 0.875rem;\">支持10个并发任务和10个计划任务。</span><span style=\"font-size: 0.875rem;\">支持无限导出。</span></div>\n</li>\n</ul>\n<h2 class=\"paragraph\">AnyGen的适用人群</h2>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>个人创作者</strong>：适合需要快速记录灵感、生成内容的个人创作者，如作家、博主、设计师等，帮助他们高效整理思路和产出作品。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>职场人士</strong>：适用于需要高效记录会议、整理报告和撰写邮件的职场人士，提升日常工作和沟通效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>团队协作成员</strong>：适合团队成员之间需要实时协作、共同编辑文档和幻灯片的场景，尤其适合中小团队。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>数据分析师</strong>：对于需要快速从数据中提取洞察并生成报告的分析师，AnyGen能提供智能辅助。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教育工作者</strong>：教师可以用AnyGen快速整理课程大纲、制作教学幻灯片，提升备课效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>学生群体</strong>：学生可以用AnyGen记录课堂笔记、整理学习资料，提高学习效率。</div>\n</li>\n</ul>\n</div>"
+        "title": "字节跳动推出的AI办公智能体 是什么",
+        "html": "<p>字节跳动推出的AI办公智能体 指的是 AnyGen 这个在线工作台。它首页的标语是「用 AnyGen 创造任何东西」，输入框上方还给了三个示例任务：收集并分析某款产品的线上讨论、翻译 PDF 同时保留原格式并总结要点、把一期播客整理成结构清晰的博客。</p><p>从这些示例能看出它瞄准的是把一项具体交付物做出来，而不是陪你聊天。它同时区分了团队智能体与个人智能体，并把任务、智能体、连接器、技能等模块分开管理，思路更接近一个可长期使用的生产工具。</p>"
+      },
+      {
+        "title": "字节跳动推出的AI办公智能体 的主要功能",
+        "html": "<p>字节跳动推出的AI办公智能体 首页把可产出的东西摊开成了一张菜单，按官网列出的类型包括：</p><ul><li>多类型产出：幻灯片、文档、设计稿、视频、绘本等都在可选范围内。</li><li>批量研究：针对需要多轮检索与汇总的调研任务。</li><li>数据分析：处理数据并给出结论，另有表格构建的入口。</li><li>图表绘制：内置把内容画成图表的能力。</li><li>网页生成：支持直接生成网页。</li><li>音视频处理：可以总结视频、转写音频。</li><li>翻译类任务：例如翻译 PDF 并保留原有排版。</li><li>模板起点：自带大量演示稿模板，也能上传自己的 PPTX 当模板，或从空白文档开始。</li><li>任务与智能体管理：任务、智能体、连接器、技能分开组织，便于管理长期项目。</li></ul>"
+      },
+      {
+        "title": "如何使用 字节跳动推出的AI办公智能体",
+        "html": "<p>要用字节跳动推出的AI办公智能体 做事，通常从这几步开始：</p><ol><li>登录后新建任务：在任务列表里起一个新任务作为起点。</li><li>选产出类型：从幻灯片、文档、设计、视频、绘本、批量研究、数据分析、图表里挑一个。</li><li>挑模板：可以直接套用内置模板，也可以上传 PPTX 当模板，或从空白文档写起。</li><li>补充材料：把 PDF、播客、网页链接等素材交给它，让产出有据可依。</li><li>拿结果并迭代：先看第一版，再追加修改要求逐步逼近你要的成品。</li><li>归档复用：满意的模板与智能体可以留下来，下次直接调用。</li></ol><p>如果团队共用一套产出规范，建议先把模板和团队智能体配好，再让成员各自发起任务。</p>"
+      },
+      {
+        "title": "字节跳动推出的AI办公智能体 的应用场景",
+        "html": "<p>字节跳动推出的AI办公智能体 的适用方向，官网用模板分类做了很好的概括，常见用法集中在以下几处：</p><ul><li>做汇报材料：套用商务评审、学术报告这类模板快速成稿。</li><li>求职与简历：内置简历类模板，可改成自己的版本。</li><li>市场与产品调研：用批量研究汇总公开讨论与竞品信息。</li><li>内容再加工：把长音频或视频转成文章与摘要。</li><li>数据整理：处理数据并生成图表，配合表格一起交付。</li><li>团队协作：为团队维护一套可复用的智能体与模板。</li></ul><p>需要注意的是，涉及对外发布的材料仍需人工复核，尤其是引用与数据部分。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tbox-cn",
@@ -22089,31 +22169,23 @@
     "domain": "alphashop.cn",
     "detailed_content": [
       {
-        "title": "遨虾是什么",
-        "html": "<p>遨虾是1688推出的跨境电商生意Agent，专为解决跨境经营中的效率和成本问题而设计。遨虾将选品、找商、询盘、素材制作以及政策咨询等关键环节实现自动化和智能化处理。通过海量数据和智能算法，遨虾能快速分析市场趋势，精准匹配优质供应商，高效生成适配多平台的素材，实时提供跨境全场景的知识解答。遨虾降低了商家的试错成本，显著提升运营效率，让跨境电商经营变得更加简单高效。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/11/alphashop-website3.png\" data-fancybox=\"fancybox\" data-caption=\"遨虾\"><img decoding=\"async\" class=\"alignnone wp-image-67286\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/alphashop-website3.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"遨虾\" width=\"740\" height=\"416\"></a>"
+        "title": "1688推出的跨境电商生意Agent 是什么",
+        "html": "<p>1688推出的跨境电商生意Agent 指的是遨虾这个站点。页面标题写明它是阿里巴巴 1688 的官方智能体，定位非常窄：电商生意运营。官网把入口分成选品、找商、询盘、咨询四块，并让你先选定关注的市场，例如亚马逊美国站，之后的榜单与机会分析都围绕这个市场展开。</p><p>和给出泛泛建议的聊天助手不同，它更像是把跨境选品这件事拆成了可执行的几步：先看榜单发现机会，再针对单个商品做机会分析，最后才进入找商与询盘。</p>"
       },
       {
-        "title": "遨虾的主要功能",
-        "html": "<ul>\n<li><strong class=\"\">选品Agent</strong>：\n<ul>\n<li class=\"paragraph\"><strong>机会新品判断</strong>：基于海量数据和趋势分析，快速识别有潜力的新品。</li>\n<li class=\"paragraph\"><strong>商品差异对比</strong>：分析不同商品之间的差异，帮助筛选出更具竞争力的产品。</li>\n<li class=\"paragraph\"><strong>市场迁移潜力</strong>：预测品类的市场迁移趋势，为选品提供前瞻性参考。</li>\n<li class=\"paragraph\"><strong class=\"\">实时数据反馈</strong>：上传商品图或输入描述，即时获取选品建议。</li>\n</ul>\n</li>\n<li><strong class=\"\">找商Agent</strong>：\n<ul>\n<li><strong>多模态搜索</strong>：支持上传图片和输入文本，AI精准召回供应商。</li>\n<li><strong class=\"\">需求字段对比</strong>：自动对比供应商信息，确保匹配度高。</li>\n<li><strong class=\"\">跨境标签挖掘</strong>：自动识别供应商的跨境能力（如贴箱唛、无痕发货、定制能力等）。</li>\n<li><strong>源头工厂推荐</strong>：优先推荐实力强的源头工厂，确保供应稳定。</li>\n</ul>\n</li>\n<li><strong>询盘Agent</strong>：\n<ul>\n<li class=\"paragraph\"><strong>一键触达供应商</strong>：支持一键向多家供应商发送询盘，无需逐个手动联系。</li>\n<li class=\"paragraph\"><strong>7×24小时自动跟进</strong>：AI模拟采购员，自动推进询盘谈判。</li>\n<li class=\"paragraph\"><strong>智能沟通</strong>：自动处理议价、MOQ、交期等关键信息。</li>\n<li class=\"paragraph\"><strong>实时监控与同步</strong>：自动监控询盘记录，实时同步进展。</li>\n<li class=\"paragraph\"><strong>分析报告生成</strong>：智能解析询盘对话，生成供应商全维度对比报告。</li>\n</ul>\n</li>\n<li><strong>素材Agent</strong>：\n<ul>\n<li class=\"paragraph\"><strong>对话生成素材</strong>：通过简单对话生成多样化素材（图片、文字、视频）。</li>\n<li class=\"paragraph\"><strong class=\"\">无限画布操作</strong>：支持对整套商品素材进行整体操作，自由度高。</li>\n<li class=\"paragraph\"><strong>多模型协同</strong>：根据任务自动匹配适合的文本、图片、视频模型。</li>\n<li class=\"paragraph\"><strong>智能改图与优化</strong>：支持批量改图、AI高清、<a href=\"https://ai-bot.cn/ai-image-background-removers/\" target=\"_blank\" rel=\"noopener\">换背景</a>、生成商品卡组等操作。</li>\n<li class=\"paragraph\"><strong class=\"\">平台适配</strong>：一键优化为亚马逊、Temu等下游平台的展示标准。</li>\n<li class=\"paragraph\"><strong>铺货模式</strong>：制作完成后可一键同步到ERP系统，实现批量上架。</li>\n</ul>\n</li>\n<li><strong>咨询Agent</strong>：\n<ul>\n<li class=\"paragraph\"><strong>知识库检索</strong>：融合百科级知识库，覆盖物流、关税、支付、清关、税务等跨境全场景。</li>\n<li class=\"paragraph\"><strong>实时响应</strong>：快速提供准确、结构化的解答，支持实时查询。</li>\n<li class=\"paragraph\"><strong>政策解读</strong>：帮助用户了解最新的跨境政策、法规和合规要求。</li>\n<li class=\"paragraph\"><strong>操作指导</strong>：提供详细的跨境业务操作流程和注意事项。</li>\n</ul>\n</li>\n</ul>"
+        "title": "1688推出的跨境电商生意Agent 的主要功能",
+        "html": "<p>1688推出的跨境电商生意Agent 的功能与跨境选品的实际动作一一对应，官网列出的能力包括：</p><ul><li>选品：从公开榜单与机会赛道里挑出值得做的商品方向。</li><li>图搜商机：上传一张图片，分析全球十余个国家里的相似款商品机会。</li><li>新品机会分析：基于公开电商平台的商品数据，把多款新品放在一起横向对比。</li><li>爆品改进：对海量用户评价做分析，给出改良方向的建议。</li><li>平台迁移机会：识别同款商品在不同平台之间的流向差异。</li><li>国家迁移机会：观察商品在不同国家市场之间的流动趋势。</li><li>榜单入口：提供全网商品榜与机会赛道榜，主题热搜榜标注为待上线。</li><li>案例库：给出若干个可对照阅读的机会报告。</li></ul>"
       },
       {
-        "title": "如何使用遨虾",
-        "html": "<ul>\n<li class=\"paragraph\"><strong class=\"\">访问官网</strong>：访问遨虾官网 https://www.alphashop.cn/ ，用邮箱或手机号注册账号。</li>\n<li class=\"paragraph\"><strong>选品Agent</strong>：上传商品图片或输入商品描述，遨虾系统根据实时数据生成选品建议。</li>\n<li class=\"paragraph\"><strong class=\"\">找商Agent</strong>：上传商品图片或输入需求文本，遨虾系统推荐符合需求的供应商并展示其跨境能力标签。</li>\n<li class=\"paragraph\"><strong>询盘Agent</strong>：输入询盘需求，选择目标供应商，遨虾系统自动发起、跟进询盘，生成分析报告。</li>\n<li class=\"paragraph\"><strong class=\"\">素材Agent</strong>：输入素材需求或上传基础素材，选择目标平台，遨虾系统生成适配的素材并且支持一键优化和同步。</li>\n<li class=\"paragraph\"><strong class=\"\">咨询Agent</strong>：输入相关问题，系统自动提供实时、结构化的解答。</li>\n<li class=\"paragraph\"><strong>查看分析报告</strong>：如选品建议、供应商对比、询盘进展等。</li>\n<li class=\"paragraph\"><strong>应用结果</strong>：将生成的素材、选品建议或供应商信息应用到实际业务中。</li>\n</ul>"
+        "title": "如何使用 1688推出的跨境电商生意Agent",
+        "html": "<p>要用 1688推出的跨境电商生意Agent 判断一个品类值不值得做，可以按下面的顺序推进：</p><ol><li>选定目标市场：先在页面上确定要关注的国家与平台。</li><li>从榜单切入：用全网商品榜或机会赛道榜找候选品类。</li><li>深入单个机会：对具体商品做新品机会或改进机会分析。</li><li>用图搜补充：趋势不明确时上传图片，找全球相似款做参照。</li><li>读案例学路径：对照官网的精选案例，理解报告结论该怎么读。</li><li>确认后再走下一步：机会成立，再进入找商与询盘环节。</li></ol><p>平台展示的价格与销量属于其数据口径，做决策前建议结合自己的供应链条件再判断。</p>"
       },
       {
-        "title": "遨虾的使用示例",
-        "html": "<p><strong>选品Agent</strong></p>\n<blockquote><p>我关注的是美国亚马逊。在厨房小工具里，月销量&gt;100，评分值&lt;4.2的商品里有没有可以改进的方向？</p></blockquote>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/11/alphashop-website2.png\" data-fancybox=\"fancybox\" data-caption=\"遨虾\"><img decoding=\"async\" class=\"alignnone wp-image-67285\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/alphashop-website2.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"遨虾\" width=\"740\" height=\"416\"></a>\n<p><strong>找商Agent</strong></p>\n<blockquote><p>帮我找四色眼影，同时支持出口到东南亚、且单价在5元以内。</p></blockquote>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/11/alphashop-website1.png\" data-fancybox=\"fancybox\" data-caption=\"遨虾\"><img decoding=\"async\" class=\"alignnone wp-image-67284\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/alphashop-website1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"遨虾\" width=\"740\" height=\"416\"></a>\n<p><strong>素材Agent</strong></p>\n<blockquote><p>摄影图，高级摄影图，产品摄影，画面右侧有一块小木块长出一枝蜿蜒的桂花枝子，背景和桌面同色调，背景采用饱和度低的暖黄色调渐变。突出产品的天然质感。整体画面打造出高端、自然且富有质感的视觉效果，凸显精华油源自天然、品质优越的特质；可以使用即梦模型。</p>\n<p>可以生成宽比高 1:1、 4:3、 16：9、3：4各一张</p></blockquote>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/11/alphashop-website.png\" data-fancybox=\"fancybox\" data-caption=\"遨虾\"><img decoding=\"async\" class=\"alignnone wp-image-67283\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/alphashop-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"遨虾\" width=\"740\" height=\"414\"></a>"
-      },
-      {
-        "title": "遨虾的产品定价",
-        "html": "<p>遨虾目前为公测阶段，面向用户开放限时免费体验，可直接使用五大 Agent能力。</p>"
-      },
-      {
-        "title": "遨虾的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>选品决策</strong>：帮助跨境电商商家在海量市场数据中快速判断新品趋势，降低选品试错成本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>供应商筛选</strong>：助力商家精准匹配优质供应商，提升找商效率和可靠性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>询盘与沟通</strong>：帮助商家实现自动询盘和智能沟通，提升询盘效率和决策准确性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>素材制作</strong>：高效生成适配多平台的素材，降低制作成本和时间。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>政策咨询</strong>：实时解答跨境物流、关税、清关等政策问题，降低合规风险。</div>\n</li>\n</ul>"
+        "title": "1688推出的跨境电商生意Agent 的应用场景",
+        "html": "<p>1688推出的跨境电商生意Agent 的适用场合，官网用一个个机会报告给出了示例，常见用法有：</p><ul><li>开品前筛查：在投入打样之前先做一轮机会判断。</li><li>老品迭代：用评价分析找出差评集中的改进点。</li><li>新手入门：借榜单与案例建立对目标市场的基本判断。</li><li>寻找新市场：用国家迁移视角判断商品该往哪里走。</li><li>团队讨论：把机会报告作为内部选品会的讨论材料。</li></ul><p>它提供的是资料整理与机会提示，最终是否上架仍需结合成本、物流与合规条件综合判断。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool69201",
@@ -23223,8 +23295,25 @@
     "subcategory": "ai-chat-general",
     "logo": "/logos/tool64622.png",
     "domain": "ling.tbox.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "蚂蚁集团推出的 Ling-1T 大模型对话体验平台 是什么",
+        "html": "<p>蚂蚁集团推出的 Ling-1T 大模型对话体验平台 指的是 Ant Ling 这个线上体验站。它把对话、智能体与探索三块内容并列在导航里，并提供历史会话、帮助文档和 API 接入入口，更像是 Ling 系列模型的官方试用地。</p><p>页面同时支持中文与英文界面，并列出当前可用的模型与参数设置面板。对于想先试用再决定是否接入的开发者来说，这个站点承担的是「先摸清能力边界」的角色。</p>"
+      },
+      {
+        "title": "蚂蚁集团推出的 Ling-1T 大模型对话体验平台 的主要功能",
+        "html": "<p>蚂蚁集团推出的 Ling-1T 大模型对话体验平台 的能力分对话、智能体与配置三部分，官网体现出来的项目包括：</p><ul><li>对话入口：直接在聊天框提问，并保留历史会话便于回看。</li><li>智能体模块：单独的 Agent 入口，用于体验更具任务性的用法。</li><li>探索页：提供模板与示例，帮助快速理解模型能做什么。</li><li>模型选择：可以在设置里切换模型，官网标注的默认模型擅长大模型智能体、搜索、日常办公与软件开发等真实任务。</li><li>内置模板：提供热点侦察、交互设计、产品助理等可直接套用的模板。</li><li>联网类工具：可开启网页搜索、时间查询、天气查询等能力。</li><li>生成参数：支持调整采样与长度相关参数，并控制是否展开思考过程。</li><li>API 接入：提供通过 API 调用的入口，方便迁到自己的应用里。</li></ul>"
+      },
+      {
+        "title": "如何使用 蚂蚁集团推出的 Ling-1T 大模型对话体验平台",
+        "html": "<p>要用蚂蚁集团推出的 Ling-1T 大模型对话体验平台，可以按这个顺序体验：</p><ol><li>登录账号：进入站点后先完成登录，历史会话才能保存。</li><li>先试模板：从探索页里挑一个模板，例如热点侦察或产品助理，理解交互方式。</li><li>选模型与参数：在设置面板里确认模型，并按需要调整长度与采样参数。</li><li>接入工具：需要实时信息时打开网页搜索、时间或天气查询。</li><li>开始对话：在输入框里提问，观察回答质量是否符合你的场景。</li><li>决定是否接 API：验证满意后，再走 API 入口接入自己的系统。</li></ol><p>页面提示生成内容由 AI 产出、仅供参考，正式使用前需要自行复核关键信息。</p>"
+      },
+      {
+        "title": "蚂蚁集团推出的 Ling-1T 大模型对话体验平台 的应用场景",
+        "html": "<p>蚂蚁集团推出的 Ling-1T 大模型对话体验平台 的适用方向，从官网列出的能力与模板就能看出来：</p><ul><li>模型选型：在接入之前先实际对比回答质量与响应表现。</li><li>热点与资讯整理：用热点侦察类模板快速提取要点。</li><li>快速搭页面：用交互设计类模板生成可操作的网页原型。</li><li>产品工作辅助：用产品助理模板协助梳理需求与方案。</li><li>日常办公：借助搜索与问答处理资料查询类任务。</li><li>开发联调：通过 API 把模型能力接进自己的应用做验证。</li></ul><p>输出内容属于模型生成，涉及事实与数据的部分建议回到权威来源核对。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "ibm-com",
@@ -24958,31 +25047,23 @@
     "domain": "catpaw.meituan.com",
     "detailed_content": [
       {
-        "title": "CatPaw是什么",
-        "html": "<p>CatPaw 是美团推出的 <a href=\"https://ai-bot.cn/ai-ide/\" target=\"_blank\" rel=\"noopener\">AI IDE</a> 编程工具，让开发者专注于创意实现，提升项目交付效率。CatPaw 具备代码补全、快速问答生码、内置预览调试和项目维度分析等核心功能，支持主流编程语言如 Python、Java、JavaScript 等。CatPaw兼容 macOS 10.15 及以上版本，Windows 版本正在开发中。CatPaw让开发者专注于创意实现，加速项目交付，是开发者的智能编程伙伴。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-65838\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/Meituan-CatPaw-website2.png\"   alt=\"Meituan CatPaw\" width=\"740\" height=\"416\" />"
+        "title": "美团推出的 AI IDE 编程工具 是什么",
+        "html": "<p>美团推出的 AI IDE 编程工具 对应的是 CatPaw。按官网在「更多产品」里的介绍，它是一款由美团推出的 AI IDE，核心思路是用 Agent 驱动编程体验的革新。同一页面还并列了美团自研的 LongCat 大模型，以及一个零代码应用生成平台。</p><p>从这个产品组合能看出它的路线：一方面用自研模型支撑代码能力，另一方面把工作台做得足够宽——不止写代码，还包括任务托管与技能沉淀，让智能体能持续推进一件工作。</p>"
       },
       {
-        "title": "CatPaw的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">代码补全（Tab）</strong>：在编码过程中实时提供代码建议，帮助开发者快速完成代码编写。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">快速问答生码（Agent）</strong>：作为强大的 AI 助手，支持直接在 IDE 中解答代码疑问、生成代码片段，无需切换工具。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>内置预览调试（Browser）</strong>：支持前端代码的即时预览和调试，可将需要优化的元素直接发送到 AI 对话中进行智能修改。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">项目维度分析（Codebase）</strong>：通过代码库索引技术，AI 助手能理解整个项目的上下文，提供更精准的智能建议。</div>\n</li>\n</ul>"
+        "title": "美团推出的 AI IDE 编程工具 的主要功能",
+        "html": "<p>美团推出的 AI IDE 编程工具 的能力分成编程与工作台两条线，官网列出的重点如下：</p><ul><li>Agent 驱动开发：以智能体为主线组织写代码与改代码的过程。</li><li>自研模型支撑：LongCat 被描述为 Agent 原生、代码能力较强，并深度适配主流编程工具。</li><li>多端工作台：妙手 AI 工作台覆盖个人电脑、移动端与云端。</li><li>云端托管：官网称云端可全天候托管，设备离线时任务也不会中断。</li><li>多 Agent 协同：多个智能体可以并行推进同一批工作。</li><li>自主执行交付：强调把任务做到交付，而不是停在给出建议。</li><li>录制即技能：把一次操作录下来，沉淀成可复用的技能。</li><li>任务驱动调度：按任务自动匹配并调用相应技能。</li><li>零代码入口：另有 NoCode 平台，供不写代码的人生成应用。</li></ul>"
       },
       {
-        "title": "如何使用CatPaw",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>下载和安装</strong>：</div>\n<ul>\n<li>\n<div class=\"paragraph\">访问CatPaw 官网 https://catpaw.meituan.com/ ，下载适用操作系统的安装包。</div>\n</li>\n<li>\n<div class=\"paragraph\">双击下载的<code class=\"segment-code-inline\" data-v-7caec4f8=\"\" data-v-8f962163=\"\">.dmg</code>文件（对于macOS）按照安装向导的指示进行操作，将应用程序拖拽到“应用程序”文件夹中完成安装。</div>\n</li>\n</ul>\n</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-65858\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/CatPaw-website.png\"   alt=\"CatPaw\" width=\"740\" height=\"385\" />\n<ul>\n<li class=\"paragraph\"><strong>首次启动配置</strong>：\n<ul>\n<li class=\"paragraph\"><strong>开始设置</strong>：首次启动 CatPaw 时，点击“开始使用”按钮，启动初始化配置流程。</li>\n</ul>\n</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-65859\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/CatPaw-website-2.png\"   alt=\"CatPaw\" width=\"740\" height=\"517\" />\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li class=\"paragraph\"><strong>选择界面主题</strong>：根据使用习惯选择合适的界面主题。</li>\n</ul>\n</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-65861\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/CatPaw-website2.png\"   alt=\"CatPaw-\" width=\"740\" height=\"492\" />\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li class=\"paragraph\"><strong>导入现有配置（可选）</strong>：如果之前使用过其他 IDE（如 VS Code，<a href=\"https://ai-bot.cn/sites/906.html\" target=\"_blank\" rel=\"noopener\">Cursor</a>，<a href=\"https://ai-bot.cn/windsurf/\" target=\"_blank\" rel=\"noopener\">Windsurf</a> 等），选择导入相关配置信息，能无缝迁移到CatPaw。</li>\n</ul>\n</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone wp-image-65862\" src=\"https://ai-bot.cn/wp-content/uploads/2025/11/CatPaw-website21.png\"   alt=\"CatPaw-\" width=\"740\" height=\"492\" />\n<ul>\n<li>\n<div class=\"paragraph\"><strong>注册与登录</strong>：用手机号或邮箱注册账号，登录后能获得初始500次对话免费额度。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>代码补全（Tab）</strong>：输入代码时，按 Tab 键选择补全建议，快速完成代码。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>快速问答生码（Agent）</strong>：在对话框中输入问题，AI 生成代码片段或解答。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>内置预览调试（Browser）</strong>：点击预览按钮查看前端代码效果，直接修改元素。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>项目维度分析（Codebase）</strong>：打开项目后，AI 自动分析上下文，提供精准建议。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>管理额度</strong>：在设置页查看额度，额度不足时提交续充申请。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>其他功能</strong>：用侧边栏对话、快捷键等提升效率，自定义 Agent 满足个性化需求。</div>\n</li>\n</ul>"
+        "title": "如何使用 美团推出的 AI IDE 编程工具",
+        "html": "<p>要用美团推出的 AI IDE 编程工具 推进一项开发任务，可以按下面几步来：</p><ol><li>下载并登录：从官网下载桌面端或移动端，用账号进入工作台。</li><li>交代任务：用自然语言把要做什么说清楚，任务随即在云端开始运行。</li><li>让 Agent 分工：工作量大时拆成几块，交给多个智能体并行处理。</li><li>在任意端接手：电脑、手机或网页端都能随时查看与接管进度。</li><li>把流程录成技能：重复性操作录一次，之后直接复用。</li><li>检查并交付：确认产物符合要求后再进入下一个环节。</li></ol><p>如果是首次使用，建议先拿一个边界清晰的小任务试一遍，熟悉它的执行节奏。</p>"
       },
       {
-        "title": "CatPaw的系统要求与支持语言",
-        "html": "<ul>\n<li class=\"paragraph\"><strong class=\"\">系统兼容性</strong>：\n<ul>\n<li class=\"paragraph\"><strong>macOS</strong>：支持10.15及以上版本，包括x64和arm64架构。</li>\n<li class=\"paragraph\"><strong>Windows</strong>：x64版本正在开发中，即将发布。</li>\n</ul>\n</li>\n<li class=\"paragraph\"><strong>支持的编程语言</strong>：Meituan CatPaw 全面支持主流编程语言生态，包括但不限于Python、C++、Java、JavaScript、TypeScript、Go、Rust等，能满足各种开发场景的需求。</li>\n</ul>"
-      },
-      {
-        "title": "CatPaw的产品定价",
-        "html": "<p>CatPaw 在当前阶段是完全免费的。每位新用户注册后会获得500次对话额度，每次与AI的交互对话消耗1次额度。</p>\n<p>如果额度用完，用户在设置页提交续充申请，填写申请理由后提交审核。审核通过后，用户能继续使用。</p>"
-      },
-      {
-        "title": "CatPaw的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>代码编写与调试</strong>：快速生成代码片段、自动补全代码，提升开发效率，适合快速开发和解决复杂编程问题。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>前端开发</strong>：通过内置预览功能即时查看前端代码效果，能直接修改页面元素，优化前端开发流程。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>项目优化</strong>：基于项目维度分析，提供精准的代码建议，帮助开发者优化现有代码或重构项目。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>新手学习</strong>：为初学者提供代码解释和示例，帮助理解编程概念和语言特性，加速学习过程。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>团队协作</strong>：在团队开发中，快速生成代码模板或解决共性问题，提升团队整体开发效率。</div>\n</li>\n</ul>"
+        "title": "美团推出的 AI IDE 编程工具 的应用场景",
+        "html": "<p>从官网的组织方式看，美团推出的 AI IDE 编程工具 更偏向已经有明确任务的团队使用：</p><ul><li>日常业务开发：把需求交给智能体推进，人把精力放在评审与关键决策上。</li><li>需要长时间运行的任务：靠云端托管避免本地设备关机导致中断。</li><li>重复流程固化：把经常做的操作录成技能，减少重复交代。</li><li>非技术同事：借助零代码入口生成简单应用。</li><li>团队协同：多个智能体分工处理同一批任务，缩短整体等待时间。</li></ul><p>官网未公开具体定价，实际落地成本与开通方式以企业合作页面为准。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "augment-code",
@@ -25120,8 +25201,25 @@
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool45.png",
     "domain": "github.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "GitHub推出的AI编程工具 是什么",
+        "html": "<p>GitHub推出的AI编程工具 对应的是 GitHub 官方的 Copilot。按 GitHub 官网的介绍，它是一个 AI 编程智能体（coding agent），而不是单纯的代码补全插件：从打开一条 issue 开始，到对代码变更做评审、最终合并 pull request，整个链路都可以让它参与。</p><p>它的可用范围也不局限于编辑器。在同一个账号与仓库权限下，你既能在编辑器里使用补全与生成，也能在终端、桌面应用以及 GitHub 网页端调用它。官网把它描述为与你并肩工作的 AI，重点在于让团队把重复性的编码与协作动作交出去，把时间留在更需要判断的地方。</p>"
+      },
+      {
+        "title": "GitHub推出的AI编程工具 的主要功能",
+        "html": "<p>GitHub推出的AI编程工具 把能力铺在 GitHub 既有的协作流程上，官网列出的重点方向大致有以下几类：</p><ul><li>编辑器加速：为代码补全、生成与解释提供支持，减少查文档与写样板代码的时间。</li><li>终端与桌面：除网页端外，还可在终端命令行和桌面客户端里调度同一套智能体能力。</li><li>智能体流水线：从一条 issue 出发，交给它推进到提交代码变更、走完合并流程。</li><li>评审辅助：与 GitHub 的 Code Review 配合，对每个 pull request 做第一轮检查。</li><li>合并前质量把关：结合 Code Quality，在并入主分支之前校验代码质量。</li><li>外部工具接入：通过 MCP Registry 把外部工具与服务接进来，扩展它能调用的能力范围。</li><li>组织级定制：企业按自身规范与安全策略配置，让它贴合团队已有的开发规约。</li><li>多入口协同：网页、编辑器插件、终端、桌面端共用同一账号体系与仓库权限。</li></ul>"
+      },
+      {
+        "title": "如何使用 GitHub推出的AI编程工具",
+        "html": "<p>要上手 GitHub推出的AI编程工具，可以先按下面这条路径走一遍：</p><ol><li>准备账号与仓库：用 GitHub 账号登录，并确认你要它动手的仓库已经授权可访问。</li><li>挑选入口：在编辑器插件、终端、桌面应用或 GitHub 网页端里任选一个，它们调用的是同一套能力。</li><li>下达任务：把需求写清楚再交给它；任务既可以来自一条 issue，也可以是一句自然语言描述。</li><li>审阅改动：拿到代码变更后逐条检查，不满意就让它继续调整，直到符合预期。</li><li>合并收尾：确认无误后合入目标分支，并等相关的检查项跑完。</li></ol><p>刚上手时建议先拿文档修改、补测试这类小任务试探它的风格，熟悉之后再逐步交给它更长的链路。</p>"
+      },
+      {
+        "title": "GitHub推出的AI编程工具 的应用场景",
+        "html": "<p>从官网的功能划分看，GitHub推出的AI编程工具 在下面这些场合最常见：</p><ul><li>日常开发：在编辑器里补全、改写与解释代码，边写边校对。</li><li>接手陌生仓库：让它先读一遍上下文，再回答某段逻辑是做什么的。</li><li>从 issue 到合并的整条链路：把排期里的小需求交给它推进，人只负责评审。</li><li>代码评审提效：对每个 pull request 先跑一轮自动检查，人再看关键差异。</li><li>升级与迁移：让它在多个文件之间做一致的改动，减少手工漏改。</li><li>企业团队协作：在统一规范与权限下，让不同角色共用同一套智能体能力。</li></ul><p>需要注意的是，它给出的是建议与草稿，最终是否符合项目规范仍需开发者把关。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tokfinity-com",
@@ -25217,8 +25315,25 @@
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool61842.png",
     "domain": "warp.dev",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Warp推出的AI编程工具 是什么",
+        "html": "<p>Warp推出的AI编程工具 指的是 Warp 面向智能体开发推出的整套产品线。Warp 原本以现代化终端为人所知，而这条产品线把终端扩展成了能跑编码智能体的工作台，官网目前把它拆成三块：Warp Factories 用来在软件开发生命周期里批量调度智能体，Warp Terminal 是面向智能体编码的现代终端，Warp Agent CLI 则是可以放进任意终端里运行的编码智能体。</p><p>按官网的描述，它默认就是多模型驱动的，并且针对一次改动横跨多个仓库的情况做了优化。换句话说，它要解决的不是单点补全，而是让智能体真正参与从写代码到交付的流程。</p>"
+      },
+      {
+        "title": "Warp推出的AI编程工具 的主要功能",
+        "html": "<p>Warp推出的AI编程工具 的能力按官网的划分，主要集中在以下几个方面：</p><ul><li>批量调度智能体：Warp Factories 支持在整个软件开发生命周期里同时跑多个编码智能体。</li><li>多模型默认：不绑定单一厂商的模型，按任务在多个模型之间做选择。</li><li>跨仓库改动：为一次修改涉及多个代码仓库的场景做了专门优化。</li><li>终端全程可用：官网称其具备 Full Terminal Use 和 Computer Use 两类操作能力，智能体能直接在终端环境里动手。</li><li>代码库索引：对代码库建立索引，让检索与理解更贴近真实工程结构。</li><li>外部能力接入：通过 MCP 访问外部内容与服务，扩展可调用的工具面。</li><li>提示词编辑：提供更强的提示词编辑器，方便把任务描述得更精确。</li><li>可控与可追溯：官网强调整个过程保持透明度与控制权。</li></ul>"
+      },
+      {
+        "title": "如何使用 Warp推出的AI编程工具",
+        "html": "<p>要上手 Warp推出的AI编程工具，可以按下面几步来：</p><ol><li>安装入口：先装 Warp Terminal，或者单独使用 Warp Agent CLI，两者并不互斥。</li><li>接入代码：打开项目目录并建立索引，让智能体先熟悉你的代码库结构。</li><li>描述任务：用提示词编辑器把目标、范围和验收标准写清楚，再交给智能体。</li><li>检查产物：看它给出的改动与命令执行记录，确认符合预期后再落盘。</li><li>批量复用：需要同时推进多项工作时，用 Warp Factories 把任务分散给多个智能体。</li></ol><p>如果团队对安全有要求，可以先在隔离环境里把流程验证一遍，再推广到日常开发。</p>"
+      },
+      {
+        "title": "Warp推出的AI编程工具 的应用场景",
+        "html": "<p>官网把 Warp推出的AI编程工具 的适用方向写成了几类工程任务，也代表了它常被用到的场合：</p><ul><li>代码评审：每个合并请求先过一遍初筛，人再决定是否深入看。</li><li>缺陷排查：复现 bug 并给出修复路径的建议。</li><li>重构与迁移：先划定范围，再逐步迁移并把改动验证完整。</li><li>线上事件响应：调查告警并汇总出下一步动作。</li><li>多仓库同步修改：一次需求同时改动多个仓库时保持一致。</li><li>受监管行业：金融、保险、电信等对合规有要求的团队，可在受控流程里使用。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool1616",
@@ -25449,8 +25564,25 @@
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool4099.png",
     "domain": "comate.baidu.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "百度推出的AI编程助手，基于文心大模型 是什么",
+        "html": "<p>百度推出的AI编程助手，基于文心大模型 指的是文心快码，也就是 Baidu Comate。官网把它称作专属 AI 研发搭档，并同时提供客户端与 IDE 插件两种形态，插件覆盖 VS Code、JetBrains、Visual Studio 与 Xcode，另设企业版与企业试用入口。</p><p>从首页的演示看，它想做的不是补全几行代码，而是把一个应用从零搭起来：演示里用一句话描述需求后，它自主规划技术方案、拆分任务清单、逐步执行并最终构建成功。这条链路正是它区别于传统补全插件的关键。</p>"
+      },
+      {
+        "title": "百度推出的AI编程助手，基于文心大模型 的主要功能",
+        "html": "<p>百度推出的AI编程助手，基于文心大模型 的能力按官网划分有两套模式，功能点集中在下面几处：</p><ul><li>编程智能体：内置智能体，支持多智能体自主调度，具备工具自主调用与多文件编辑能力。</li><li>全流程覆盖：从规划、编码、单元测试、调试、审查到问答开发都有对应环节。</li><li>错误日志捕捉：运行报错后能读取日志辅助定位问题。</li><li>任务模式：描述目标后由智能体自主推进，任务进度可查看，最终端到端交付结果。</li><li>办公延伸：除编码外还能处理文件整理、数据处理与文档生成等重复性工作。</li><li>多编辑器支持：插件覆盖主流 IDE，个人与企业都可以按现有工具链接入。</li><li>企业版本：面向团队提供企业版能力与试用入口。</li></ul>"
+      },
+      {
+        "title": "如何使用 百度推出的AI编程助手，基于文心大模型",
+        "html": "<p>要用百度推出的AI编程助手，基于文心大模型 推进一个项目，可以按下面的顺序来：</p><ol><li>安装入口：按自己的习惯下载客户端，或在 VS Code、JetBrains、Visual Studio 和 Xcode 里装插件。</li><li>选择模式：写代码阶段用编程模式，需要完成一件完整事情时切到任务模式。</li><li>描述目标：用自然语言把要实现的功能说清楚，不必先写技术方案。</li><li>看它推进：观察它探索项目结构、生成设计文档与任务清单的过程。</li><li>逐步验收：按任务编号核对产物，发现偏差就补充说明让它继续调整。</li><li>跑构建：全部任务完成后执行一次构建，确认可以正常跑起来。</li></ol><p>官网的演示中，完整流程包含 16 个任务并最终构建成功，如果项目规模更大，建议先切分目标再分批交给它。</p>"
+      },
+      {
+        "title": "百度推出的AI编程助手，基于文心大模型 的应用场景",
+        "html": "<p>百度推出的AI编程助手，基于文心大模型 的适用方向，官网用模式划分给出了说明：</p><ul><li>从零搭应用：把想法说清楚，由它规划并落地一个可运行的项目。</li><li>日常编码提效：在已有工程里做补全、重构与单测补齐。</li><li>调试定位：借错误日志捕捉与代码审查环节缩短排查时间。</li><li>数据处理与文档：把重复性的整理工作交给它，人专注在设计上。</li><li>企业团队协作：通过企业版统一接入，配合现有研发流程。</li></ul><p>智能体自动生成的代码仍需要开发者审核，尤其是涉及安全与权限的部分。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool4055",
@@ -25866,8 +25998,25 @@
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool7587.png",
     "domain": "code.fittentech.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "非十科技推出的免费AI代码助手 是什么",
+        "html": "<p>非十科技推出的免费AI代码助手 指的是 Fitten Code。官网把它定位为轻快、准确、高效的 AI 编程助手，并提供了 Web Demo、IDE 插件与使用说明等入口。它的核心能力从名字就能看出方向：把写代码过程中重复、琐碎的部分交给模型处理。</p><p>官网强调它在编程的各个阶段都能提供支持——补全、建议、测试用例生成都在范围内，也就是说它想覆盖的是完整编码过程，而不只是单点补全。</p>"
+      },
+      {
+        "title": "非十科技推出的免费AI代码助手 的主要功能",
+        "html": "<p>非十科技推出的免费AI代码助手 的能力按官网的功能清单逐项列出，大致有以下几类：</p><ul><li>代码自动补全：根据当前上下文预测并给出补全建议，减少手敲与笔误。</li><li>智能对话：可以直接提问或提要求，它给出解答或直接生成所需代码。</li><li>单元测试生成：为选中的代码自动生成单元测试用例，支持多种测试框架。</li><li>代码优化：自动发现潜在问题并调整结构，提升可读性与可维护性。</li><li>注释生成：分析代码结构与功能后补上清晰简洁的注释。</li><li>在线搜索：需要外部信息时可联网检索，再基于检索结果作答。</li><li>编码智能体：按任务需要调用修改文件、执行命令、搜索文件、读取文件等工具。</li><li>多端入口：除 IDE 插件外还提供网页版演示，方便先试后用。</li></ul>"
+      },
+      {
+        "title": "如何使用 非十科技推出的免费AI代码助手",
+        "html": "<p>要用非十科技推出的免费AI代码助手，从试用到上手可以按下面几步：</p><ol><li>先看演示：在官网的 Web Demo 里试几个问题，感受回答风格。</li><li>装插件：按使用说明在自己的 IDE 里安装插件并完成配置。</li><li>用补全写代码：正常敲代码，遇到合适位置它会给出补全建议。</li><li>用对话解问题：卡住时把报错或需求贴进对话，让它给出方案或代码。</li><li>补测试与注释：对关键函数调用测试生成与注释生成，减少后续维护成本。</li><li>交给智能体：需要跨文件改动时，让编码智能体按任务自行调用工具执行。</li></ol><p>官网的说明与功能清单会随版本更新，具体支持范围以站内当期内容为准。</p>"
+      },
+      {
+        "title": "非十科技推出的免费AI代码助手 的应用场景",
+        "html": "<p>非十科技推出的免费AI代码助手 在不同开发环节的用法不太一样，常见场合有：</p><ul><li>日常编码：靠补全减少重复输入，把注意力留给逻辑本身。</li><li>读陌生代码：用对话让模型解释某段实现的意图。</li><li>补测试：给已有函数批量生成单元测试。</li><li>重构与优化：让它指出结构问题并给出调整建议。</li><li>补文档：对缺少注释的代码生成说明文字。</li><li>跨文件改造：交给编码智能体按任务完成多文件修改与命令执行。</li></ul><p>自动生成的代码与测试建议仍需要人工确认，特别是涉及边界条件与安全性的部分。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool1908",
@@ -29790,27 +29939,23 @@
     "domain": "yizhi.iflyrec.com",
     "detailed_content": [
       {
-        "title": "讯飞译制是什么",
-        "html": "<p>讯飞译制是科大讯飞推出的AI音视频本地化平台，专注于视频字幕制作、多语种翻译与智能配音服务。基于科大讯飞在语音识别、机器翻译和语音合成领域的核心技术，可将传统”周级”的译制周期压缩至”小时级”，语音转写准确率达97.5%，1小时音视频最快5-10分钟即可生成字幕。支持中文与英、日、韩、德、法等17种语言互译，提供AI声纹克隆、多情绪配音、口型同步等高级功能。用户可通过”机器字幕”快速出稿，或选择”人工字幕”获得专业译制团队服务，输出支持SRT、ASS、XML等多种格式，无缝对接Premiere、Final Cut Pro等剪辑软件。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/02/yizhi.iflyrec-website.png\" data-fancybox=\"fancybox\" data-caption=\"讯飞译制\"><img decoding=\"async\" class=\"alignnone wp-image-72333\" src=\"https://ai-bot.cn/wp-content/uploads/2026/02/yizhi.iflyrec-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"讯飞译制\" width=\"741\" height=\"417\"></a>"
+        "title": "科大讯飞推出的AI音视频本地化平台 是什么",
+        "html": "<p>科大讯飞推出的AI音视频本地化平台 对应的是讯飞译制这条产品线。官网把这套能力概括为专业 AI 字幕翻译与多语言配音，用来助力内容出海。换句话说，它处理的是视频与音频里的语言层：字幕、翻译与配音，而不是去改画面本身。</p><p>从首页的口号看，它服务的是那些需要让同一条内容跨语言传播的团队——自媒体、课程制作方、影视短剧以及营销团队，都能在里面找到对应的入口。</p>"
       },
       {
-        "title": "讯飞译制的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>AI智能字幕生成</strong>：语音转写准确率达97.5%，1小时音视频最快5-10分钟出稿，自动切分时间轴并生成时间码。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多语种翻译</strong>：支持中文与英、日、韩、德、法、西、俄、意、阿拉伯语等17种语言互译。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI智能配音</strong>：支持多情绪、多声线智能配音，一句话即可完成声纹克隆，实现原声复刻。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>口型同步技术</strong>：智能匹配配音与人物口型，让译制视频更自然真实。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>字幕时间码匹配</strong>：导入字幕文本+视频可一键匹配时间码，智能诊断时间准确性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多格式导出</strong>：支持SRT、ASS、XML、TXT等格式，无缝对接Premiere、Final Cut Pro等剪辑软件。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>说话人区分</strong>：自动识别并区分视频中不同发言人，方便后期编辑。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>背景音乐分离</strong>：智能分离人声与背景音乐，保留原声效果。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>人工精校服务</strong>：提供专业译制团队人工校对，1小时音频最快24小时交付，确保数据安全保密。</div>\n</li>\n</ul>"
+        "title": "科大讯飞推出的AI音视频本地化平台 的主要功能",
+        "html": "<p>科大讯飞推出的AI音视频本地化平台 的能力围绕字幕与声音两条线展开，官网列出的重点包括：</p><ul><li>视频加字幕：支持 17 种源语言识别，并提供自动、快速、准确三种模式。</li><li>多语言字幕翻译：可把字幕一次性翻成英语、日语、韩语、俄语等官网列出的 16 种语言。</li><li>AI 配音：提供上百种音色，覆盖从主播腔到日常口播的多种风格。</li><li>声纹复刻：可以用你本人、任意音频或原视频里的声音做专属音色。</li><li>字幕在线编辑：识别与翻译结果都能在网页端继续修改。</li><li>企业版本：首页单独给了企业版入口，面向规模化团队。</li></ul>"
       },
       {
-        "title": "如何使用讯飞译制",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>注册登录</strong>：访问讯飞译制官网 <a href=\"https://yizhi.iflyrec.com/?regFrom=XFTJ932&amp;id=XFTJ932\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">yizhi.iflyrec.com</a>&nbsp;，完成账号注册并登录。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>进入工作台</strong>：点击导航栏”工作台”进入操作界面。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>上传音视频</strong>：点击上传按钮，导入需要处理的视频或音频文件。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择服务类型</strong>：根据需求选择”机器字幕”（AI自动处理）或”人工字幕”（专业团队译制）。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>设置语言参数</strong>：选择源语言和目标翻译语言，支持17种语种互译。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI自动处理</strong>：系统自动进行语音转写、翻译、时间轴切分，等待处理完成。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>在线编辑校对</strong>：在编辑器中查看生成的字幕，进行文字修改、时间轴调整。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI配音（可选）</strong>：选择智能配音功能，挑选声音风格或克隆特定声纹。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>导出字幕文件</strong>：支持导出SRT、ASS、XML等格式，或直接压制带字幕视频。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>下载成品</strong>：将处理完成的视频或字幕文件下载到本地，导入剪辑软件进一步编辑。</div>\n</li>\n</ul>"
+        "title": "如何使用 科大讯飞推出的AI音视频本地化平台",
+        "html": "<p>要上手科大讯飞推出的AI音视频本地化平台，可以按这个顺序走一遍：</p><ol><li>进入工作台：登录后从首页或工作台开始一个新任务。</li><li>上传素材：把视频或音频传入，先做源语言识别。</li><li>校对手误：在在线编辑器里核对识别结果，把专有名词和口音造成的误差改回来。</li><li>挑目标语言并翻译：按要发布的市场选择语种，再一键生成译文。</li><li>配置配音：选一个合适的音色，或上传样本做声纹复刻。</li><li>导出成品：确认字幕与配音对齐后导出使用。</li></ol><p>素材较长时建议分段处理，先确认一段的效果，再批量推进。</p>"
       },
       {
-        "title": "讯飞译制的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>自媒体出海</strong>：短视频创作者快速添加多语种字幕，实现内容全球化分发，降低出海门槛。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>在线教育</strong>：课程视频多语种译制，满足海外学员学习需求，助力教育机构拓展国际市场。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>影视综艺后期</strong>：专业字幕制作与时间轴匹配，无缝对接非编软件，提升后期制作效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>企业宣传片</strong>：产品广告、品牌视频多语种配音与字幕本地化，支持跨境电商与海外营销。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>会议记录转写</strong>：录音文件自动转写为文字，生成会议纪要，支持重点内容标注与检索。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Vlog与纪录片</strong>：个人创作者为旅行、生活类视频添加双语字幕，提升内容专业度与传播力。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "讯飞译制的适用人群",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>短视频创作者</strong>：抖音、B站、YouTube等平台UP主，需要快速生成字幕、实现内容多语种出海</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自媒体运营者</strong>：公众号、视频号运营人员，追求高效产出与专业化视频制作</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>在线教育从业者</strong>：网课讲师、教育机构内容团队，需要将课程本地化以覆盖全球学员</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>影视后期制作人员</strong>：剪辑师、字幕组、综艺制作团队，需要精准时间轴与多格式字幕导出</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>跨境电商卖家</strong>：亚马逊、TikTok Shop等平台的商家，需要产品视频多语种本地化营销</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>企业市场部门</strong>：负责品牌宣传、产品发布的营销人员，需要高效制作多语种宣传素材</div>\n</li>\n</ul>"
+        "title": "科大讯飞推出的AI音视频本地化平台 的应用场景",
+        "html": "<p>官网为科大讯飞推出的AI音视频本地化平台 单列了几类典型场景，从自媒体到影视都有覆盖：</p><ul><li>自媒体出海：为短视频自动生成多语字幕与本地化配音。</li><li>多语言课程：给课程素材做译制，让不同国家的学生都能跟上。</li><li>影视短剧：用多角色声纹复刻，尽量保留原声的表演质感。</li><li>营销视频：把品牌叙事与产品卖点按目标市场做本地化处理。</li></ul><p>需要提醒的是，涉及他人版权或授权范围的内容，使用前要自行确认合规性。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool6968",
@@ -30444,27 +30589,23 @@
     "domain": "audiomyst.baidu.com",
     "detailed_content": [
       {
-        "title": "音秘是什么",
-        "html": "<p>音秘是百度推出的<a href=\"https://ai-bot.cn/ai-podcast-generator-tools/\" target=\"_blank\" rel=\"noopener\">AI播客创作工具</a>，让用户轻松创作个性化播客内容。音秘以“让创作更聪明，让声音更动人”为理念，结合UGC和PGC模式，降低播客制作门槛，赋能创作者。用户无需专业设备或技术背景，能快速生成有温度的播客节目，满足从自媒体创作到企业传播等多场景需求，打造全场景音频内容生态。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/10/audiomyst-website.png\" data-fancybox=\"fancybox\" data-caption=\"音秘AudioMyst\"><img decoding=\"async\" class=\"alignnone wp-image-65355\" src=\"https://ai-bot.cn/wp-content/uploads/2025/10/audiomyst-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"音秘AudioMyst\" width=\"740\" height=\"416\"></a>"
+        "title": "百度推出的AI播客创作工具 是什么",
+        "html": "<p>百度推出的AI播客创作工具 就是音秘 AudioMyst。它把「把一段文字变成能听的节目」这件事做成了标准流程：你可以直接贴长文，也可以上传文件或给一个网页链接，系统再把素材整理成播客脚本并生成音频。</p><p>首页除了创作入口，还放了一个播客广场，不想创作的人可以直接点「随便听听」。这个设计说明它既想做生产工具，也想做一个轻量的消费入口。</p>"
       },
       {
-        "title": "音秘的主要功能",
-        "html": "<ul>\n<li><strong class=\"\">自动创作播客脚本</strong>：根据用户输入的一句话、各类格式文件（如PDF、TXT、Word等）或网页链接，通过AI大模型整理信息、梳理逻辑，创作出不同风格的播客对话脚本。</li>\n<li><strong>文字转对话音频</strong>：支持用户将创作好的脚本一键生成高度拟人化的对话音频，音频具有自然的情绪和节奏，适合聊天、访谈等多种播客形式。</li>\n<li><strong>音色克隆与自定义</strong>：平台提供多种预设的音色供用户选择，同时支持用户录制10秒音频进行音色克隆。</li>\n<li><strong class=\"\">背景音乐添加</strong>：在生成的播客音频中添加背景音乐，丰富音频的层次感，提升听觉体验。</li>\n<li><strong class=\"\">精简模式与深度模式切换</strong>：根据需要选择精简模式或深度模式，灵活控制生成的播客时长，满足不同场景的需求。</li>\n<li><strong>边生成边试听</strong>：在播客生成过程中，用户能实时试听，无需等待生成完成，减少等待焦虑。</li>\n<li><strong class=\"\">脚本编辑与重新生成</strong>：如果用户对生成的播客脚本不满意，支持手动修改编辑，重新生成音频，确保最终内容符合期望。</li>\n<li><strong>播客广场与互动</strong>：支持用户将自己创作的播客公开分享到播客广场，其他用户能收听、评价，创作者能在广场中发现更多优质内容，增强互动体验。</li>\n<li><strong>下载与分享</strong>：支持用户下载自己创建的音频文件、脚本文件和封面图，通过复制链接或图片二维码的形式分享给他人。</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/10/AudioMyst-website3.png\" data-fancybox=\"fancybox\" data-caption=\"音秘AudioMyst\"><img decoding=\"async\" class=\"alignnone wp-image-65358\" src=\"https://ai-bot.cn/wp-content/uploads/2025/10/AudioMyst-website3.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"音秘AudioMyst\" width=\"740\" height=\"624\"></a>"
+        "title": "百度推出的AI播客创作工具 的主要功能",
+        "html": "<p>百度推出的AI播客创作工具 的功能围绕输入、生成与包装三件事展开，官网给出的要点包括：</p><ul><li>多来源输入：长文本、上传文件、网页链接三种入口，另设一个 AI 灵感入口。</li><li>生成与试听同步：内容生成与语音输出可以并行推进，边出边听。</li><li>音色定制：录制约十秒音频即可定制主播音色。</li><li>字幕与摘要：生成节目时同时给出播客字幕与节目摘要。</li><li>播客广场：首页提供可直接收听的内容流。</li><li>题材覆盖：学术论文、行业研报、新闻播报、儿童故事、法律案件、竞品调研、电影评论、小说解读、体育赛事都有对应示例。</li></ul>"
       },
       {
-        "title": "如何使用音秘",
-        "html": "<ul>\n<li><strong class=\"\">访问官网</strong>：访问音秘官网 https://audiomyst.baidu.com ，点击右上角“登录”按钮，通过微信扫码或手机号注册登录（试听和浏览无需登录）。</li>\n<li><strong class=\"\">创作播客</strong>：点击“AI播客”进入创作工作台，输入文本、上传文件或粘贴网页链接。</li>\n<li><strong class=\"\">设置参数</strong>：选择主播音色、添加背景音乐、选择生成模式（精简或深度）。</li>\n<li><strong class=\"\">生成播客</strong>：点击“生成播客”按钮，系统自动创作，边生成边试听。</li>\n<li><strong class=\"\">音色克隆</strong>：在“音色定制”中录制10秒音频，克隆专属音色并命名，用于播客生成。</li>\n<li><strong class=\"\">收听播客</strong>：点击“播客广场”进入列表，选择播客卡片即可收听。</li>\n<li><strong class=\"\">修改脚本</strong>：在收听页面点击字幕“编辑”按钮，修改脚本重新生成音频。</li>\n<li><strong>下载与分享</strong>：下载音频、脚本和封面图，或通过链接或二维码分享播客。</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/10/AudioMyst-website-3.png\" data-fancybox=\"fancybox\" data-caption=\"音秘AudioMyst\"><img decoding=\"async\" class=\"alignnone wp-image-65359\" src=\"https://ai-bot.cn/wp-content/uploads/2025/10/AudioMyst-website-3.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"音秘AudioMyst\" width=\"740\" height=\"416\"></a>"
+        "title": "如何使用 百度推出的AI播客创作工具",
+        "html": "<p>要用百度推出的AI播客创作工具 做一期节目，可以按这个顺序来：</p><ol><li>登录后进入 AI 播客入口，从创作按钮开始。</li><li>选择输入方式：贴长文、上传文件或直接给一个网页链接。</li><li>生成脚本：让系统先把素材整理成适合口播的播客脚本。</li><li>选音色：用默认主播音色，或录一小段音频定制自己的声音。</li><li>试听并调整：边生成边试听，不满意就回去改文本或换音色。</li><li>导出成品：确认后连同字幕与摘要一起取走。</li></ol><p>文稿偏长时建议先切成几段分别生成，试听确认节奏后再合并。</p>"
       },
       {
-        "title": "音秘的产品定价",
-        "html": "<p>音秘AudioMyst目前处于推广阶段，所有功能均免费开放给用户使用。</p>"
-      },
-      {
-        "title": "音秘的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>自媒体创作</strong>：助力创作者高效生成播客脚本，通过语音合成提升内容表现力，快速产出优质节目。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>视频配音</strong>：为各类视频内容（如短视频、纪录片、广告等）生成匹配对白，增强视觉内容的吸引力。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">游戏互动</strong>：为游戏内的剧情、角色对话提供自然流畅的语音，提升玩家的沉浸感和游戏体验。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">有声内容制作</strong>：适用于有声书、广播剧、知识付费课程等，生成高质量音频，丰富听觉享受。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>企业传播</strong>：满足企业品牌宣传、产品介绍、培训等需求，打造统一且专业的语音形象。</div>\n</li>\n</ul>"
+        "title": "百度推出的AI播客创作工具 的应用场景",
+        "html": "<p>百度推出的AI播客创作工具 官网用题材卡片展示了它的常见用法，集中在下面几类：</p><ul><li>把论文与研报转成音频，通勤或做家务时听。</li><li>把新闻快讯做成播报，快速了解当天进展。</li><li>给儿童生成故事音频，用于陪伴场景。</li><li>把法律案件讲成通俗解说，降低理解门槛。</li><li>把影评、小说解读做成个人电台内容。</li><li>把竞品调研材料做成内部播报，方便团队同步。</li></ul><p>另外，发布前请确认所用素材是否已获得授权，尤其是引用他人的文字或音频时。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "memo-ac",
@@ -32688,8 +32829,25 @@
     "subcategory": "ai-search-engine",
     "logo": "/logos/tool62941.png",
     "domain": "n.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "360推出的新一代超级AI搜索工具 是什么",
+        "html": "<p>360推出的新一代超级AI搜索工具 指的是纳米AI。它的首页是一个对话式入口，正中间写着「输入任何问题」，下面并列了智能体、深度思考、AI写作等快捷通道，左侧导航则把大模型、智能体、知识库、AI 写作与 AI 修图分成独立板块。</p><p>它的做法是把搜索与生成放在同一个界面里：既可以当作问答框用，也能顺着快捷入口直接进入某个具体任务。登录后还能同步历史任务，方便接着上次的进度继续。</p>"
+      },
+      {
+        "title": "360推出的新一代超级AI搜索工具 的主要功能",
+        "html": "<p>360推出的新一代超级AI搜索工具 把能力拆成若干独立入口，官网首页呈现出来的包括：</p><ul><li>对话式提问：直接输入任何问题，由模型给出回答。</li><li>深度思考：面向需要多步推理的问题提供更完整的解题过程。</li><li>智能体大全：聚合各类可调用的智能体，按需挑选。</li><li>大模型聊天：独立的模型对话板块，可与搜索风格区分开。</li><li>AI 写作：面向文稿生成的入口。</li><li>AI 修图：图片处理方向的独立功能。</li><li>知识库：把资料沉淀起来，便于在后续任务里调用。</li><li>创作类快捷入口：研究报告、PPT 制作、SWOT 分析、P 图与 P 视频等一键进入。</li><li>作品展示区：首页给出优秀作品示例，方便判断它能产出什么。</li></ul>"
+      },
+      {
+        "title": "如何使用 360推出的新一代超级AI搜索工具",
+        "html": "<p>要用 360推出的新一代超级AI搜索工具 完成一件事，可以按这个顺序走：</p><ol><li>先登录：登录后历史任务会自动同步，换设备也能接着用。</li><li>选择入口：简单问题直接对话，需要产出成品时走对应快捷入口。</li><li>新建任务：在任务区起一个任务，把目标写清楚。</li><li>按需深化：遇到复杂问题打开深度思考，让它把推理过程展开。</li><li>调用智能体：需要专门能力时从智能体大全里挑一个。</li><li>沉淀与复用：把有用的资料存进知识库，下次直接引用。</li></ol><p>如果只是想快速找答案，直接在首页提问最快；要做报告或演示稿，从对应快捷入口进去路径更短。</p>"
+      },
+      {
+        "title": "360推出的新一代超级AI搜索工具 的应用场景",
+        "html": "<p>360推出的新一代超级AI搜索工具 的应用方式，从官网的快捷入口与作品展示就能看出主要方向：</p><ul><li>日常问答：把零散问题丢进去快速拿到答案。</li><li>做研究报告：需要成体系的材料时用研究类入口。</li><li>准备演示稿：用 PPT 制作入口直接生成框架与内容。</li><li>商业分析：用 SWOT 分析类模板梳理竞争格局。</li><li>内容创作：写作入口负责文稿，修图与视频入口负责视觉素材。</li><li>资料沉淀：把查到的内容存进知识库，形成可复用的资料层。</li></ul><p>生成内容中的事实与数据建议再回到原始来源核对一遍，尤其是用于对外发布时。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "think-baidu-com",
@@ -32863,27 +33021,23 @@
     "domain": "wispaper.ai",
     "detailed_content": [
       {
-        "title": "WisPaper是什么",
-        "html": "<p>WisPaper 是复旦团队推出的 AI 学术搜索工具，提升科研效率。通过AI搜索技术，帮助学者快速找到相关文献。海外文献库搜索功能对接主流学术数据库，如 Google Scholar，能智能拆解问题，通过二次验证和深度搜索，快速锁定高质量文献。WisPaper 检索结果旁的“prefect”标识表示文献与关键词100%相关，帮助用户避免在低相关性期刊上浪费时间。WisPaper 支持本地文件搜索，用户可以建立个人本地知识库，基于已下载的文献，检索关键词强相关内容。标题中没有提到关键词，AI 也能通过分析文献具体内容，确认是否和关键词匹配。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/09/WisPaper-website-1.png\" data-fancybox=\"fancybox\" data-caption=\"WisPaper\"><img decoding=\"async\" class=\"alignnone wp-image-62397\" src=\"https://ai-bot.cn/wp-content/uploads/2025/09/WisPaper-website-1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"WisPaper\" width=\"741\" height=\"417\"></a>"
+        "title": "复旦团队推出的 AI 学术搜索工具 是什么",
+        "html": "<p>复旦团队推出的 AI 学术搜索工具 指的是 WisPaper 这个学术文献站点。它的首页几乎没有多余的介绍，只有一句提问：今天你想读哪篇论文？下面还给了一个示例问法——帮我找近三年做 AI4Science 的论文。也就是说，它不要求你先想好关键词再去翻列表，而是让你先用一句自然语言把检索意图说清楚。</p><p>它的界面支持中英文切换，中文用户可以直接用中文提问。对做研究的人来说，这个入口设计和传统学术库的区别在于：先表达问题，再收敛文献，而不是先拆词再组合布尔查询。</p>"
       },
       {
-        "title": "WisPaper的主要功能",
-        "html": "<ul>\n<li><strong>AI智能搜索</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">海外文献库搜索</strong>：对接主流学术数据库如 Google Scholar，能智能拆解问题，通过二次验证和深度搜索，快速锁定最符合要求的高质量文献。当检索结果旁出现“prefect”标识时，表示文献与关键词 100% 相关。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">本地文件搜索</strong>：可以建立个人的本地知识库，基于本地已下载的文献，检索关键词强相关内容，即使标题中没有提到关键词，也可以通过 AI 分析文献具体内容，确认是否和关键词匹配。</div>\n</li>\n<li><strong>一键分享</strong>：可以把搜索结果分享给导师或者小组，非常适合同一个研究方向的科研人。</li>\n</ul>\n</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/09/WisPaper-website2.png\" data-fancybox=\"fancybox\" data-caption=\"\"><img decoding=\"async\" class=\"alignnone wp-image-62398\" src=\"https://ai-bot.cn/wp-content/uploads/2025/09/WisPaper-website2.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"\" width=\"739\" height=\"453\"></a>\n<ul>\n<li><strong>AI文献阅读</strong>\n<ul>\n<li>\n<div class=\"paragraph\"><strong>精准翻译</strong>：支持英文文献的精准段落翻译，帮助用户突破语言障碍，直达核心内容。学术术语准确，上下文理解到位。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>深度对话</strong>：针对文献内容，选中任意段落，即可向 AI 发起提问，深入挖掘细节。AI 基于文献本身提供解释、澄清概念、对比观点。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>核心总结</strong>：一键提炼复杂文献，AI 帮你提取核心论点、研究方法、关键结论，生成清晰、结构化的摘要。</div>\n</li>\n</ul>\n</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/09/WisPaper-website3.png\" data-fancybox=\"fancybox\" data-caption=\"\"><img decoding=\"async\" class=\"alignnone wp-image-62399\" src=\"https://ai-bot.cn/wp-content/uploads/2025/09/WisPaper-website3.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"\" width=\"740\" height=\"419\"></a>"
+        "title": "复旦团队推出的 AI 学术搜索工具 的主要功能",
+        "html": "<p>从复旦团队推出的 AI 学术搜索工具 官网的导航看，它的能力被拆成了几块，彼此分工比较清楚：</p><ul><li>快速检索：用一句描述性的话发起检索，适合目标明确的问题。</li><li>深度检索：由智能体分步推进的检索方式，面向综述型或需要多轮比对的提问。</li><li>文献库：把读过的论文收进自己的列表，便于之后回看与整理。</li><li>研究项目：按课题把文献分组，同一方向的材料放在一起。</li><li>研究助理：在检索之外提供对话式的辅助入口。</li><li>引用核查：针对引用真实性提供专门的核查工具。</li><li>灵感发现：趋势、最新与个性化订阅三个入口，分别对应领域动向、当期新发表和按兴趣推送。</li><li>结果卡片：每条文献带摘要与引用量，可据此先判断值不值得细读。</li></ul>"
       },
       {
-        "title": "如何使用WisPaper",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>访问网站</strong>：打开电脑浏览器，访问 WisPaper 官网 https://www.wispaper.ai/ ，查看主页和功能概述。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>注册账号</strong>：点击注册按钮，使用邮箱或社交登录创建免费账户。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>下载应用</strong>：从下载页面获取应用程序，安装到设备上以启用完整功能。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>输入查询</strong>：在 Scholar Search 界面输入研究主题或关键词，开始 AI 搜索。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>筛选论文</strong>：使用 AI 工具筛选结果，查看摘要和相关性评分。</div>\n</li>\n</ul>"
+        "title": "如何使用 复旦团队推出的 AI 学术搜索工具",
+        "html": "<p>要上手复旦团队推出的 AI 学术搜索工具，可以按下面这个顺序来：</p><ol><li>注册并登录：先建账号，收藏与项目分组才能长期保留。</li><li>直接提问：在首页输入框写下你的问题，例如某个方向近三年的进展。</li><li>选择检索方式：目标清楚就用快速检索，需要综述或多轮筛选时改用深度检索。</li><li>看结果卡片：先读摘要与引用量，再决定哪些值得打开原文。</li><li>沉淀到库里：把选中的论文放进文献库，或按课题归入对应的研究项目。</li><li>核查关键引用：对支撑结论的重要来源，用引用核查工具再确认一遍。</li></ol><p>如果研究方向较固定，建议顺手把个性化订阅配好，后续新发表会自动出现在你的信息流里。</p>"
       },
       {
-        "title": "WisPaper的核心优势",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>精准搜索</strong>：对接主流学术数据库，通过智能拆解问题和深度搜索，快速锁定与关键词高度相关的文献，显著提升文献检索效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>本地知识库</strong>：WisPaper支持建立个人本地知识库，基于已下载文献进行关键词搜索，即使标题未提及关键词，AI 也能精准匹配相关内容。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>高效翻译</strong>：WisPaper提供英文文献的精准段落翻译，学术术语翻译更准确性，帮助用户突破语言障碍。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>深度对话</strong>：WisPaper支持用户针对文献内容提问，AI 基于文献本身提供详细解答，帮助用户深入理解文献细节。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>核心总结</strong>：一键生成文献核心摘要，提取关键论点、研究方法和结论，帮助用户快速把握文献精髓。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "WisPaper的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>学术研究</strong>：帮助学者快速查找和筛选相关学术文献，节省文献检索时间，提高研究效率。精准的搜索功能和文献筛选能力，能帮助研究人员快速定位到高质量的研究资料，为学术研究提供有力支持。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>文献翻译</strong>：为非英语母语的学者提供文献翻译服务，让他们更好地理解英文文献内容，突破语言障碍。精准的翻译功能让学术术语翻译的更准确，具备上下文连贯性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>文献总结</strong>：一键生成文献的核心摘要，帮助学者快速把握文献的关键论点和结论。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>学术讨论</strong>：支持用户与 AI 进行深度对话，针对文献内容提问并获得详细解答。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>个人知识管理</strong>：用户可以建立个人本地知识库，对已下载的文献进行管理。通过本地文件搜索功能，用户可以快速找到特定领域的文献。</div>\n</li>\n</ul>"
+        "title": "复旦团队推出的 AI 学术搜索工具 的应用场景",
+        "html": "<p>复旦团队推出的 AI 学术搜索工具 更适合下面这几类使用方式：</p><ul><li>开题前的文献摸底：先用一句话把研究问题说清楚，快速看一遍整体版图。</li><li>追踪某个方向：靠趋势与最新入口跟进该领域的新发表。</li><li>写综述：用深度检索做多轮筛选，再用文献库沉淀候选材料。</li><li>投稿或答辩前核对引用：用引用核查工具排查可疑来源。</li><li>跨语种阅读：界面可切换英文，方便检索国际期刊。</li></ul><p>需要提醒的是，摘要与引用量只是筛选依据，结论是否成立仍要回到原文核实。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "cusp-ai",
@@ -36427,8 +36581,25 @@
     "subcategory": "ai-learning-tutor",
     "logo": "/logos/tool1450.png",
     "domain": "aidaxue.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "科大讯飞推出的在线AI学习平台 是什么",
+        "html": "<p>科大讯飞推出的在线AI学习平台 指的是 AI 大学堂。官网把它定位成一个围绕人工智能与大模型的学习社区，导航上并列了 AI Learning、AI Vault、知识库、AI 学习计划、AI 课程、训练营、工程师认证与企业服务等入口，学习与认证两条线是并行推进的。</p><p>它强调的不只是看课，还包括认证与实战：官网提到围绕大模型打造体系化的认证矩阵，并把讯飞自身的行业项目实例放进课程素材里，让学习内容更贴近真实业务。</p>"
+      },
+      {
+        "title": "科大讯飞推出的在线AI学习平台 的主要功能",
+        "html": "<p>科大讯飞推出的在线AI学习平台 的功能围绕学、练、证三件事组织，官网列出的重点包括：</p><ul><li>体系化课程：从入门到进阶分层次排布，覆盖 AI 与 AIGC 的应用方向。</li><li>认证矩阵：设有 Prompt 工程师、智能体工程师、RAG 应用工程师与微调工程师等认证方向。</li><li>训练营：以集中式的形式带学员完成一个完整目标。</li><li>学习计划：可以为自己安排阶段性的学习路径。</li><li>知识库与 AI Vault：把资料与工具资源集中沉淀，便于查阅。</li><li>行业实例：课程中引入讯飞 1+N 行业项目实例。</li><li>导师资源：汇聚产学研用各界的讲者与导师。</li><li>线上线下结合：除了线上课，也有线下的开发者活动。</li></ul>"
+      },
+      {
+        "title": "如何使用 科大讯飞推出的在线AI学习平台",
+        "html": "<p>要用科大讯飞推出的在线AI学习平台，建议按下面的路径推进：</p><ol><li>注册并登录：先建账号，学习记录与课程进度才能留存。</li><li>先看入门课：从 SQL 基础交互课、AI³ 公开课这类面向零基础的内容起步。</li><li>选一个方向：确定自己是要学应用、学开发，还是冲认证。</li><li>进训练营：用训练营把零散知识串成一条完整实践线索。</li><li>报一个认证：按 Prompt、智能体、RAG 或微调方向准备并参加认证。</li><li>跟进新内容：关注公开课与线下活动，掌握新的落地案例。</li></ol><p>官网的推荐课程里有不少可直接免费学习的内容，适合先试听再决定深入哪条线。</p>"
+      },
+      {
+        "title": "科大讯飞推出的在线AI学习平台 的应用场景",
+        "html": "<p>科大讯飞推出的在线AI学习平台 的适用方向，官网用课程与活动做了说明，常见用法集中在以下几处：</p><ul><li>零基础入门：从公开课开始了解 AIGC 与前沿应用。</li><li>职场提效：跟着职场实战类课程练数据分析与求职面试等具体任务。</li><li>科研辅助：用科研实践类课程处理选题、数据处理与分析等环节。</li><li>内容创作：学习如何用工具做短视频与图文内容。</li><li>职业认证：通过认证体系为自己的能力留下凭证。</li><li>企业培训：企业可对接相关服务，为员工安排体系化学习。</li></ul><p>课程内容更新较快，具体开班时间与认证规则以平台当期说明为准。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "d-design-6",
@@ -38636,8 +38807,25 @@
     "subcategory": "ai-detection-content",
     "logo": "/logos/tool407.svg",
     "domain": "writecream.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Writecream推出的AI内容检测工具 是什么",
+        "html": "<p>Writecream推出的AI内容检测工具 是 Writecream 官网免费提供的一个文本检测页面，用来判断一段内容更像由 AI 生成还是由人写成。官网对它的描述很直接：百分百免费、无需登录，粘贴文本后就能拿到结果。</p><p>它给出的关键信息有两条：一是这段文字里被判定为 AI 生成的部分占多大比例，二是内容原创度评分。这样的组合适合在发布前做一次快速自查——它不替你改写，也不做润色，只是先把这段字到底像不像 AI 写的这件事量化出来。</p>"
+      },
+      {
+        "title": "Writecream推出的AI内容检测工具 的主要功能",
+        "html": "<p>Writecream推出的AI内容检测工具 本身是一个聚焦检测的页面，官网围绕它列出的能力与配套信息包括：</p><ul><li>免费检测：明确标注 100% 免费，且不需要注册或登录就能使用。</li><li>AI 占比判定：输入文本后，输出其中被判定为 AI 生成内容的比例。</li><li>原创度评分：同时给出内容原创程度的分数，方便横向比较。</li><li>人工与 AI 判别：回答这段内容是人写的还是 AI 写的这个核心问题。</li><li>按行业给出的使用建议：官网把 SEO、学术、出版、评论四类场景单独说明。</li><li>同站工具联动：Writecream 还提供数十个免费写作类小工具，检测结果可以接续后续处理。</li><li>人化改写入口：站内另有把 AI 文本改得更像人写的处理工具，供需要时使用。</li></ul>"
+      },
+      {
+        "title": "如何使用 Writecream推出的AI内容检测工具",
+        "html": "<p>要用 Writecream推出的AI内容检测工具，流程比多数同类工具都短：</p><ol><li>打开检测页面：从 Writecream 官网进入 AI Content Detector 与 Checker 页面。</li><li>粘贴文本：把需要核对的段落放进输入框，页面会同步显示字符数。</li><li>发起检测：点击检测后，页面给出该文本的 AI 内容占比。</li><li>读取结果：把占比与原创度评分放在一起看，判断这段内容是否需要进一步处理。</li><li>按需跟进：如果判定结果偏高，可以在站内继续寻找改写类工具做后续处理。</li></ol><p>因为不需要登录，它很适合在写作中途反复抽查，而不必等到整篇成稿才检查。</p>"
+      },
+      {
+        "title": "Writecream推出的AI内容检测工具 的应用场景",
+        "html": "<p>官网为 Writecream推出的AI内容检测工具 单独列了几类使用场景，基本覆盖了它最常见的用法：</p><ul><li>SEO：在内容上线前先自查，避免因疑似 AI 生成而影响搜索表现。</li><li>学术场景：学生在提交之前检查文本的生成来源倾向。</li><li>出版流程：编辑在收稿阶段做一轮来源筛查。</li><li>评论与评测：对来源不明确的长文做快速核对。</li><li>内容团队日常质检：批量稿件发布前统一过一遍。</li></ul><p>需要提醒的是，检测结果属于概率性判断，不应被当作唯一依据，更不适合用来给创作者下结论。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "tool406",
@@ -38735,27 +38923,23 @@
     "domain": "rx.ruijianai.com",
     "detailed_content": [
       {
-        "title": "睿信论文AI检测是什么",
-        "html": "<p>睿信论文AI检测是中科睿鉴推出的一站式学术诚信检测系统，专注于AIGC（AI生成内容）检测与学术不端识别。平台融合文本与学术图片双维度检测能力，可精准识别ChatGPT、文心一言、豆包等主流大模型生成的论文内容，同时支持实验图像、数据图表等学术图片的AI生成痕迹识别与篡改检测。睿信论文检测提供深度可解释报告，包括AI率加权结果、风险分级、段落级定位及修改建议，帮助高校师生提前”自检避雷”。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/02/ruixin-website1.png\" data-fancybox=\"fancybox\" data-caption=\"睿信论文检测\"><img decoding=\"async\" class=\"alignnone wp-image-71580\" src=\"https://ai-bot.cn/wp-content/uploads/2026/02/ruixin-website1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"睿信论文检测\" width=\"741\" height=\"417\"></a>"
+        "title": "中科睿鉴推出的一站式学术诚信检测系统 是什么",
+        "html": "<p>中科睿鉴推出的一站式学术诚信检测系统 指的是睿信学术诚信平台。它把学术写作里的检测需求集中到一个站点：从本科论文到硕博学位论文，再到期刊投稿前的预审，都有各自独立的入口。站内还并列展示了一套账号与积分体系，并说明与之互通的小程序可以覆盖更多场景。</p><p>和只做一次查重的工具相比，它更像一个按身份与用途分流的检测台——你先进对应入口，再按规定格式上传文档，系统会先做一轮合规审查，通过后才开始任务。</p>"
       },
       {
-        "title": "睿信论文AI检测的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>AI文本检测</strong>：精准识别ChatGPT、文心一言、豆包、DeepSeek等主流大模型生成的论文内容，高亮标记高风险段落。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>学术图片鉴真</strong>：独家支持实验图像、数据图表、统计图形等学术图片的AI生成痕迹识别与篡改检测。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>批量检测处理</strong>：教师端支持对本科、硕士、博士学位论文及课程作业进行批量上传和批量检测。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多格式兼容</strong>：支持DOCX、PDF、JPG等主流格式，可处理图文混合的复杂文档。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>智能风险报告</strong>：提供整体”原创性/AI风险”指数，按A-D四级风险分级，定位风险片段并给出具体修改建议。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>管理后台系统</strong>：院校管理者可通过后台获取多维度数据统计分析报告，宏观把握学术诚信状况。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多端互通使用</strong>：PC端官网与”睿鉴AI”微信小程序账号互通，无需重复注册，随时随地检测。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>数据安全保障</strong>：检测数据加密传输存储，支持私有化部署，原始论文可设置定时自动销毁。</div>\n</li>\n</ul>"
+        "title": "中科睿鉴推出的一站式学术诚信检测系统 的主要功能",
+        "html": "<p>中科睿鉴推出的一站式学术诚信检测系统 的功能按用途铺开，官网列出的主要项目如下：</p><ul><li>本科论文检测：对标高校审查口径，适合毕业前摸底。</li><li>硕博论文检测：采用双视角模型，面向学位论文通审。</li><li>期刊投稿预审：按编辑部初审的尺度做前置筛查。</li><li>英文专项：面向留学生与国际期刊投稿场景。</li><li>硕博分片段：可以改一章测一章，比全文检测更灵活。</li><li>开题报告与课程作业：覆盖开题框架与日常作业。</li><li>课程实验报告：理工科场景，支持数据表检测。</li><li>图片真实性检测：识别 AI 生成、PS 与篡改，对医学影像与实验图同样适用。</li><li>文献溯源取证：核查幽灵文献、引用错配与来源真实性。</li><li>发表合规筛查：面向隐私与伦理等方向的合规检查。</li><li>格式支持：可上传 DOC、DOCX、TXT、PDF，并按场景限制单文件大小。</li></ul>"
       },
       {
-        "title": "如何使用睿信论文AI检测",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>注册登录</strong>：访问睿信论文AI检测官网 <a href=\"https://rx.ruijianai.com/login?inviteCode=C6br36ylOBph\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">ruijianai.com</a> ，使用手机号+验证码注册，或微信扫码一键登录。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>身份认证</strong>：完成机构认证（选择所在院校）和角色认证（教师/学生），教师端支持账密登录，学校可统一配置账号。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>提交检测</strong>：上传论文文件（支持DOCX、PDF格式），选择检测类型（文本检测/图片检测/综合检测）。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>查看报告</strong>：系统自动生成检测报告，在线查看AI率加权结果、风险分级（A-D）、风险段落高亮及修改建议。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>导出报告</strong>：支持将检测报告导出为PDF格式，便于存档或提交给导师审核。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>批量操作（教师端）</strong>：教师可批量上传学生论文，一键完成多份文档的AI检测，大幅提升审阅效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>小程序使用</strong>：微信搜索”睿鉴AI”小程序，与PC端账号互通，随时随地查看检测进度和报告结果。</div>\n</li>\n</ul>"
+        "title": "如何使用 中科睿鉴推出的一站式学术诚信检测系统",
+        "html": "<p>要用中科睿鉴推出的一站式学术诚信检测系统，流程大致如下：</p><ol><li>注册并登录平台，进入自己的账号空间。</li><li>选择检测类型：按身份选本科、硕博，或按用途选投稿预审。</li><li>上传文件：按提示上传 DOC、DOCX、TXT 或 PDF，注意单文件大小限制。</li><li>等待初步合规审查：系统会先做一轮合规筛查，通过后才开始正式任务。</li><li>查看记录：结果会沉淀在检测记录里，便于前后比较。</li><li>按需追加：需要核对图片或参考文献时，再单独跑对应的进阶工具。</li></ol><p>上传前请确认材料可正常读取，避免模糊或被水印覆盖的扫描件影响比对。</p>"
       },
       {
-        "title": "睿信论文AI检测核心优势",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>技术权威领先</strong>：依托中科院计算所20余年技术积累，拥有53项发明专利、34项软件著作权，获2项国家自然科学二等奖、1项北京市科技进步一等奖。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>检测维度全面</strong>：国内唯一同时支持AI文本检测+学术图片鉴真的平台，覆盖论文文字内容与实验图像、数据图表等多模态内容。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>检测精准度高</strong>：关键场景检测准确率超90%，支持DeepSeek、ChatGPT、文心一言、豆包等200+种主流生成模型识别。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>极速检测体验</strong>：依托异构软硬协同加速技术，实现万字长文毫秒级出结果，无需漫长等待。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>报告深度可解释</strong>：提供AI率加权结果、A-D四级风险分级、段落级风险定位及具体修改建议，而非简单”通过/不通过”。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>数据安全可控</strong>：检测数据全程加密传输存储，支持私有化部署，原始论文可设置定时自动销毁，承诺绝不外泄或另作他用。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>多端无缝互通</strong>：PC端官网与”睿鉴AI”微信小程序账号互通，无需重复注册，随时随地完成检测。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>灵活部署模式</strong>：支持API对接、私有化部署、白牌定制等多种合作方式，满足不同院校个性化需求。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "睿信论文AI检测的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>毕业论文自查</strong>：本科生、硕士生、博士生在提交学位论文前进行自主检测，提前发现AI生成风险，避免学术不端认定。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>开题报告审核</strong>：研究生提交开题报告前进行AI检测，确保研究计划原创性，符合学术规范要求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>课程作业检测</strong>：学生提交课程论文、期末作业前自检，教师批量审阅学生作业，快速定位AI生成痕迹。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教师论文审阅</strong>：导师指导多份学生论文时，批量检测并获取风险分级报告，精准定位问题段落，提升指导效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>学术期刊投稿</strong>：科研人员投稿前检测论文原创性，确保符合期刊对AI生成内容的披露要求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>院校学术管理</strong>：教务处、研究生院通过管理后台获取多维度数据统计分析报告，宏观把握全校学术诚信状况。</div>\n</li>\n</ul>"
+        "title": "中科睿鉴推出的一站式学术诚信检测系统 的应用场景",
+        "html": "<p>中科睿鉴推出的一站式学术诚信检测系统 在下面这些场合最常被用到：</p><ul><li>毕业前自查：用本科或硕博入口先摸一遍底。</li><li>投稿前预审：在送审之前降低初审退稿的概率。</li><li>长篇幅学位论文：按章节分段检测，逐章确认。</li><li>留学生与英文稿件：用英文专项做对标检测。</li><li>图表与引用核查：对实验图、数据图与参考文献做额外核验。</li></ul><p>官方在上传说明里明确禁止提交涉密或侵犯他人版权的内容，使用前需要自行判断材料来源是否合规。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-08"
   },
   {
     "slug": "wacuowang-com",
