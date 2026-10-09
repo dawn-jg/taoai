@@ -8878,8 +8878,25 @@
     "subcategory": "ai-image-illustration",
     "logo": "/logos/tool212.png",
     "domain": "vanceai.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "VanceAI Image Resizer 是什么",
+        "html": "<p>VanceAI Image Resizer 是 VanceAI 图片工具箱中的尺寸调整入口，属于一套以 AI 增强为核心的在线图片与视频处理服务。VanceAI 官网把它描述为一站式流程：图片与视频的增强、放大、修复、压缩等动作都能在同一处完成，既可以在线处理，也提供桌面客户端离线使用。VanceAI Image Resizer 所在的整套模型由官网称为自研的 DCNN（深度卷积神经网络）驱动，训练数据来自大量照片与电影级视频。</p>"
+      },
+      {
+        "title": "VanceAI Image Resizer 的主要功能",
+        "html": "<p>VanceAI 官网把能力按动作拆开，VanceAI Image Resizer 是其中面向尺寸与放大的那一类：</p><ul><li>尺寸调整与放大：官网提到提供最高 8 倍的图像放大方案。</li><li>画质增强：放大同时做增强、锐化与去噪。</li><li>像素级处理：官网称模型会逐像素判断内容类型（皮肤、织物、植被、金属等）再分别修正。</li><li>多格式支持：处理环节覆盖常见的图片与视频格式。</li><li>隐私默认保护：官网标注上传内容默认受到保护。</li><li>在线与离线：既可在网页端使用，也有桌面客户端。</li><li>开发者接口：面向集成需求提供 API。</li></ul>"
+      },
+      {
+        "title": "如何使用 VanceAI Image Resizer",
+        "html": "<p>按 VanceAI 官网的通用流程，使用 VanceAI Image Resizer 大致如下：</p><ol><li>打开 VanceAI 官网，登录或注册账号。</li><li>在图片工具列表中进入尺寸调整/放大这一项。</li><li>上传要处理的图片，或改用桌面客户端离线操作。</li><li>选择放大倍数等参数，倍数最高到官网标注的 8 倍。</li><li>提交后等待模型处理完成，再下载结果。</li><li>需要批量或系统集成时改走 API 通道。</li></ol>"
+      },
+      {
+        "title": "VanceAI Image Resizer 的应用场景",
+        "html": "<p>VanceAI Image Resizer 适合把低分辨率素材放大到可用尺寸的场景：</p><ul><li>素材补救：把尺寸偏小的老图放大后用于排版。</li><li>电商与设计：商品图与设计稿需要更高分辨率输出。</li><li>照片改善：与增强、锐化一起提升画面观感。</li><li>视频画面：同属一套模型，视频相关处理可一并完成。</li><li>批量处理：借助 API 或客户端处理成批文件。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "tool211",
@@ -12446,23 +12463,23 @@
     "domain": "jurilu.paluai.com",
     "detailed_content": [
       {
-        "title": "巨日禄是什么",
-        "html": "<p>巨日禄是一站式<a href=\"https://ai-bot.cn/ai-comic-generator-tools/\" target=\"_blank\" rel=\"noopener\">AI动漫视频创作平台</a>，基于自然语言处理技术和图像生成技术，支持用户将文本转化为情节连贯的漫画视频和短视频。巨日禄支持从文案到视频的一站式制作，提供多种画风选择和配音配乐服务，适合各类创作者使用。不要求高电脑配置，小白也能轻松上手，快速实现从文案到视频的制作。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/08/巨日禄.png\" data-fancybox=\"fancybox\" data-caption=\"巨日禄AI\"><img decoding=\"async\" class=\"alignnone size-full wp-image-16048\" src=\"https://ai-bot.cn/wp-content/uploads/2024/08/巨日禄.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"巨日禄AI\" width=\"800\" height=\"450\"></a>"
+        "title": "巨日禄 是什么",
+        "html": "<p>巨日禄 是一套面向短剧、漫剧行业的 AI 创作工具，官网把它称作「AI 短剧漫剧行业必备的生产力工具」。它在 jurilu.paluai.com 提供工作台入口，并另设动漫创作站点 video.jurilu.com。从官网标题与导航可以看到，巨日禄 覆盖 AI 漫画、AI 漫画推文、小说推文授权、AI 绘画、AI 视频与文生视频等方向，并区分出面向机构的「动画机构版」。登录环节同时给出账号密码与微信两种方式，页脚附有用户协议与隐私政策说明，首页还挂着「创作指引」入口，方便新手先看说明再动手。</p>"
       },
       {
-        "title": "巨日禄的主要功能",
-        "html": "<ul>\n<li><strong>文本解析与分镜生成</strong>：巨日禄支持AI解析输入的文本，自动形成分镜，提供多种画风选择适应不同题材的需求。</li>\n<li><strong>AI绘图与视频合成</strong>：支持从静态图片到动态视频的连续创作生成，AI自动绘图，支持用户根据需要进行图片重绘。</li>\n<li><strong>配音配乐服务</strong>：提供一站式配音配乐方案，拥有多种配音演员选择，内置众多热门配乐，增强视频的听觉体验。</li>\n<li><strong>角色固定与画风统一</strong>：确保视频中角色形象的一致性，提供20余种画风选择，满足不同类型故事的创作需求。</li>\n<li><strong>便捷分镜与提示词补全</strong>：AI辅助分镜制作和提示词补全，简化创作流程，操作更加省心省力。</li>\n</ul>"
+        "title": "巨日禄 的主要功能",
+        "html": "<p>巨日禄 的工作台围绕「从故事到成片」组织入口：</p><ul><li>AI 故事：先产出故事脚本，作为后续画面创作的依据。</li><li>AI 工具：集中放置漫画与视频生成等创作工具。</li><li>封面制作：为作品生成封面素材。</li><li>我的作品：统一管理已经产出的内容。</li><li>教程：提供工具使用教程、AI 漫画小说推文教程与儿童绘本教程等。</li><li>推文授权：页面标题提到小说推文授权，面向需要合规素材的创作者。</li></ul>"
       },
       {
-        "title": "如何使用巨日禄",
-        "html": "<ul>\n<li><strong>产品官网</strong>：访问巨日禄官网 <a href=\"https://jurilu.paluai.com\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">ai.jurilu.com</a> ，注册登录开始创作。</li>\n<li><strong>选择创作模式</strong>：巨日禄提供了「AI故事+AI视频+表情包推文+AI绘画」等不同的创作模式。</li>\n<li><strong>添加剧本</strong>：选择一个剧本主题的画风，平台提供了20种画风选择，适应不同题材的需求。</li>\n<li><strong>自动分镜</strong>：输入文本后，巨日禄会根据文本内容自动形成分镜，可以手动调整分镜优化效果。</li>\n<li><strong>角色与场景匹配</strong>：AI将解析并提取角色和场景，可以使用AI补全提示词或自行撰写，确保人物和场景的一致性。</li>\n<li><strong>AI绘图</strong>：开始自动绘图，巨日禄可根据需要对生成的图片进行重绘。</li>\n<li><strong>配音与配乐</strong>：为视频选择配音演员和配乐，巨日禄内置多种配音选项和热门配乐。</li>\n<li><strong>视频合成</strong>：完成上述步骤后，在巨日禄网站内进行合成视频或导出剪映草稿文件进行进一步编辑。</li>\n</ul>"
+        "title": "如何使用 巨日禄",
+        "html": "<p>巨日禄 采用登录后在线创作的形态，官网给出的流程大致是：</p><ol><li>打开巨日禄 工作台，用账号密码或微信登录。</li><li>先进入 AI 故事，把要改编的小说或选题整理成故事脚本。</li><li>在 AI 工具里选择图像或视频生成，把脚本转成分镜画面。</li><li>按需进入封面制作，为作品配上封面。</li><li>生成结果统一收在「我的作品」里查看与导出。</li><li>不熟悉流程时先看教程，其中包含专门的漫画推文与绘本教程。</li></ol>"
       },
       {
-        "title": "巨日禄的应用场景",
-        "html": "<ul>\n<li><strong>小说与漫画推文</strong>：巨日禄能帮助小说作家和漫画家将文字内容快速转化为动态视频，提高创作和传播效率。</li>\n<li><strong>社交媒体营销</strong>：营销人员可以用巨日禄生成吸引眼球的视频内容，用于品牌推广和产品营销。</li>\n<li><strong>教学视频制作</strong>：教师可以用巨日禄快速生成具有教育意义的教学视频，增强课堂的互动性和趣味性。</li>\n<li><strong>企业宣传片</strong>：企业可以用巨日禄制作高质量的企业宣传片，提升品牌形象和市场影响力。</li>\n<li><strong>民间故事与文化传承</strong>：文化机构可以用巨日禄将民间故事和传统文化转化为生动的视频，助力文化传播与传承。</li>\n</ul>"
+        "title": "巨日禄 的应用场景",
+        "html": "<p>巨日禄 的定位决定了它主要服务内容生产团队：</p><ul><li>短剧创作：从故事脚本到画面的短周期产出。</li><li>漫剧与漫画：把文字故事改编成漫画形态。</li><li>小说推文：为小说推广生成配图与视频素材。</li><li>儿童绘本：官网单独列出绘本教程，对应绘本类创作。</li><li>机构生产：动画机构版面向有批量制作需求的团队。</li><li>绘画技巧：首页列有「必看绘图技巧」一类内容，供创作者参考。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "boba-video",
@@ -19068,27 +19085,23 @@
     "domain": "monica.cn",
     "detailed_content": [
       {
-        "title": "Monica是什么",
-        "html": "<p>Monica是集成了多种先进AI模型的全能AI助手，支持多平台使用，包括网页插件和移动应用。集成了先进的AI技术，如GPT-4，提供<a href=\"https://ai-bot.cn/best-free-ai-chatbots/\" target=\"_blank\" rel=\"noopener\">聊天</a>、<a href=\"https://ai-bot.cn/top-ai-search-engines/\" target=\"_blank\" rel=\"noopener\">搜索</a>、写作、<a href=\"https://ai-bot.cn/top-ai-search-engines/\" target=\"_blank\" rel=\"noopener\">翻译</a>等多功能服务。Monica通过其网页插件，用户可以在浏览器中直接享受AI带来的便利，如自动生成文章、翻译文档等。能处理图像和视频，支持多种语言，是办公和写作的得力助手。Monica以其跨平台、多功能的特点，为用户提供了便捷的智能服务体验。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/01/Monica-website.png\" data-fancybox=\"fancybox\" data-caption=\"\"><img decoding=\"async\" class=\"alignnone wp-image-36884\" src=\"https://ai-bot.cn/wp-content/uploads/2025/01/Monica-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"\" width=\"741\" height=\"417\"></a>"
+        "title": "Monica 是什么",
+        "html": "<p>Monica 是一款「万能的助手」式的通用 AI 助手，官网的自我描述是「懂你的伙伴」。它的中文站点 monica.cn 提供网页版与客户端两条路径：网页版可以直接免费对话，页面标注其后端可调用 DeepSeek V3 与 R1 等模型；移动端提供手机 App，官网给出扫码下载入口，并强调可以随时随地和 Monica 聊天；浏览器端则提供插件。Monica 由北京蝴蝶效应科技有限公司运营，官网同时给出公众号入口，方便接收产品动态。</p>"
       },
       {
-        "title": "Monica的主要功能",
-        "html": "<ul>\n<li><strong>AI聊天</strong>：Monica可以与用户进行深入的对话交流，支持包括GPT-4、Claude 3等多个AI模型。</li>\n<li><strong>AI搜索</strong>：用户可以提出问题，Monica会通过筛选多个关键词和结果来寻找答案。</li>\n<li><strong>网页/PDF/图片摘要</strong>：Monica能够从网页、URL、图像、PDF和屏幕截图中扫描和消化文本，将关键细节精炼为简洁的摘要。</li>\n<li><strong>YouTube视频摘要</strong>：快速获取YouTube视频关键信息，Monica会提炼视频的核心内容，指出关键时刻并标注时间戳。</li>\n<li><strong>AI写作</strong>：用户可以指定内容细节、期望长度、格式、语气，Monica迅速创作高质量文档。</li>\n<li><strong>网页翻译</strong>：Monica可以将整个页面翻译成用户所需的语言，而不会替换原始文本。</li>\n<li><strong>AI翻译器</strong>：Monica AI文本翻译工具，可以将文本翻译成120多种语言。</li>\n<li><strong>AI艺术生成器</strong>：Monica集成了AI绘画功能，支持中文描述，可以将用户的描述转化为图像。</li>\n<li><strong>图像处理能力</strong>：Monica提供图片工具，如去除背景、移除物体、替换背景等操作。</li>\n<li><strong>网页与视频内容处理</strong>：Monica可以在任何网页上进行翻译、改写和解释文本，用户可以通过快捷键快速调用Monica进行这些操作。</li>\n</ul>"
+        "title": "Monica 的主要功能",
+        "html": "<p>Monica 的能力按使用场景铺开，官网列出的重点包括：</p><ul><li>AI 对话：在网页、App 与插件里与大模型聊天。</li><li>翻译与总结：浏览网页时进行翻译、总结，并支持对照式阅读。</li><li>写作：辅助撰写与润色内容，从一段话到整篇文章。</li><li>搜索：结合实时的网页信息给出带来源的回答。</li><li>AI 绘图：在对话中把描述转成图像。</li><li>插件端：把翻译、总结与聊天嵌进浏览器侧边栏，随网页调用。</li><li>扩展能力：官网介绍可把网页内容与特定技能组合起来的 PowerUP，以及可探索、创建和分享的 Bot。</li></ul>"
       },
       {
-        "title": "如何使用Monica",
-        "html": "<ul>\n<li><strong>安装插件</strong>：访问Monica<a href=\"https://monica.cn/?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">官方网站</a>，或可以直接在Chrome网上应用店或其他浏览器的插件商店搜索“Monica”，然后按照提示安装Monica浏览器插件。</li>\n<li><strong>注册和登录</strong>：安装完成后，打开Monica插件或应用，需要注册账户并登录。</li>\n<li><strong>开始使用</strong>：\n<ul>\n<li><strong>聊天功能</strong>：在Monica的界面中，你可以直接输入你的问题或需求，Monica会以聊天的形式回复你。</li>\n<li><strong>搜索功能</strong>：输入你想要搜索的关键词，Monica会展示相关的搜索结果。</li>\n<li><strong>写作辅助</strong>：你可以告诉Monica你想要写的文章类型和主题，它会自动生成草稿或帮助你润色文本。</li>\n<li><strong>翻译</strong>：将需要翻译的文本或网址提供给Monica，它将为你提供翻译结果。</li>\n<li><strong>摘要生成</strong>：提供网页链接、PDF文件或图片，Monica会生成内容的摘要。</li>\n<li><strong>视频摘要</strong>：提供YouTube视频链接，Monica会提炼视频的核心内容。</li>\n</ul>\n</li>\n<li><strong>高级功能</strong>：Monica提供一些高级功能，如AI艺术生成器、图像处理等，你可以根据需要选择使用这些功能。</li>\n<li><strong>设置和偏好</strong>：你可以根据个人喜好设置Monica的偏好，比如语言选择、界面主题等。</li>\n</ul>"
+        "title": "如何使用 Monica",
+        "html": "<p>Monica 提供多种接入方式，官网给出的常见用法是：</p><ol><li>先打开 Monica 网页版，注册或登录账号。</li><li>在对话框里直接用自然语言提问，便开始一次会话。</li><li>需要在外使用时下载手机 App，用同一账号登录。</li><li>常在浏览器里读外文网页时安装插件端，此后可对当前页做翻译与总结。</li><li>写东西时把草稿交给 Monica，让它补全或调整措辞。</li><li>需要图像时在对话里提出绘图需求。</li></ol>"
       },
       {
-        "title": "Monica的产品定价",
-        "html": "<ul>\n<li><strong>Free（免费计划）</strong>：\n<ul>\n<li>每日40次访问普通模型，包括GPT-40 mini和Claude 3 Haiku。</li>\n<li>有限试用的图像生成/视频生成。</li>\n<li>基础模型驱动的AI写作、翻译、总结。</li>\n<li>有限试用的ChatPDF。</li>\n<li>多平台功能扩展和跨平台AI助手。</li>\n</ul>\n</li>\n<li><strong>Pro（专业计划）</strong> – 每年99.0美元（8.3美元/月，年度订阅节省17%）：\n<ul>\n<li>每月5000次访问普通模型，包括GPT-40 mini和Claude 3 Haiku。</li>\n<li>每月200次访问高级模型，包括01-preview &amp; GPT-40、Claude 3.5 Sonnet、Gemini 1.5 Pro和Llama 3.1 405B。</li>\n<li>生成图像与视频的功能，包括Dall-E 3、SDXL &amp; SD3、Flux Pro &amp; Dev、Kling和Stable Video Diffusion。</li>\n<li>高级模型驱动的智能写作、翻译、总结和ChatPDF。</li>\n<li>提供1500高级积分。</li>\n<li>多平台功能扩展和跨平台AI助手。</li>\n</ul>\n</li>\n<li><strong>Unlimited（无限计划）</strong> – 每年149.0美元（原价299.0美元，年度订阅节省50%）：\n<ul>\n<li>无限访问普通模型，包括GPT-40 mini和Claude 3 Haiku。</li>\n<li>无限访问高级模型，包括01-preview &amp; GPT-40、Claude 3.5 Sonnet、Gemini 1.5 Pro和Llama 3.1 405B。</li>\n<li>生成图像与视频的功能，包括Dall-E 3、SDXL &amp; SD3、Flux Pro &amp; Dev、Kling和Stable Video Diffusion。</li>\n<li>高级模型驱动的智能写作、翻译、总结和ChatPDF。</li>\n<li>提供4500高级积分。</li>\n<li>多平台功能扩展和跨平台AI助手。</li>\n</ul>\n</li>\n</ul>"
-      },
-      {
-        "title": "Monica的应用场景",
-        "html": "<ul>\n<li><strong>多语言支持与语音交互</strong>：Monica AI支持多种语言，能理解和处理多语言文本，将语音转化为文字进行处理，完成对应语言的翻译工作，适用于国际商务沟通或跨国团队协作场景。</li>\n<li><strong>图像处理能力</strong>：Monica AI集成了图像相关的功能，如AI绘图、去除背景、移除物体、替换背景等，适用于网页设计或自媒体内容创作中需要对图片进行快速处理的场景。</li>\n<li><strong>网页与视频内容处理</strong>：Monica AI可以在任何网页上进行翻译、改写和解释文本，快速提取长文稿或网页内容的主要内容，适用于学术研究或新闻资讯浏览场景。</li>\n<li><strong>办公与写作相关领域</strong>：Monica AI在办公写作场景中有广泛应用，如商业写作、论文写作、邮件管理等，提供多种模板和格式、语气的选择功能，满足不同类型文案的需求。</li>\n<li><strong>数据与文档处理工具</strong>：Monica AI能够自动分析数据文件，生成SQL语句、Python脚本和可视化图表，适用于数据分析师。在文档处理方面，它能够精确捕捉文件中的关键细节，提高文档处理的效率和准确性。</li>\n</ul>"
+        "title": "Monica 的应用场景",
+        "html": "<p>把入口分散到网页、手机与浏览器之后，Monica 常被用在这些场合：</p><ul><li>网页阅读：外文页面即时翻译与要点总结。</li><li>日常问答：把问题交给 Monica 快速得到答复。</li><li>写作辅助：撰写、改写与润色零散文字。</li><li>资料检索：需要联网信息时用带来源的搜索。</li><li>随手配图：在对话里生成配图素材。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "tool17620",
@@ -19667,23 +19680,23 @@
     "domain": "doclingo.cn",
     "detailed_content": [
       {
-        "title": "Doclingo是什么",
-        "html": "<p>Doclingo 是功能强大的AI文档翻译工具，支持多种文档格式（如 PDF、Word、Excel、PPT、TXT、Epub 等）的直接上传和翻译，能精准高效地处理图文内容，同时保留原始排版。Doclingo 提供多 AI 引擎选择，用户可以根据需求选择最适合的翻译引擎，部分高级引擎需付费使用。Doclingo 具备丰富的辅助工具，如术语库管理、文档在线编辑、AI 校对、双语合并下载等，帮助用户提升翻译的准确性和效率。提供了多种文档小工具，包括文档格式转换、PDF 合并/分割、加/解密、添加水印、图片提取等，满足用户在文档处理方面的多样化需求。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/09/Doclingo-website.png\" data-fancybox=\"fancybox\" data-caption=\"Doclingo\"><img decoding=\"async\" class=\"alignnone  wp-image-63263\" src=\"https://ai-bot.cn/wp-content/uploads/2025/09/Doclingo-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Doclingo\" width=\"741\" height=\"417\"></a>"
+        "title": "Doclingo 是什么",
+        "html": "<p>Doclingo 是一个在线的 AI 文档翻译与图片翻译平台，主打「整篇翻译保留版式」：把 PDF、Word、PPT 这类文档整篇提交后，排版与图文位置尽量维持原样，图片里的文字会被识别、翻译再回填到原图对应位置。据其官网说明，Doclingo 目前覆盖 90 多种语言，并同时运营多个官方站点——doclingo.vip 与 doclingo.cn 面向中国大陆用户，doclingo.ai 面向国际用户，另有 biz 前缀的企业版站点分别服务两地。它自己的界面也做了多语言切换，页头可切到简体中文、英文、日文、繁体中文、韩文、印地文、法文、德文、阿拉伯文、意大利文、印尼文与乌克兰文。官网在页脚给出了支持邮箱与版本更新入口，便于使用者反馈问题或查看功能变化。</p>"
       },
       {
-        "title": "Doclingo的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">多格式文档AI翻译</strong>：支持PDF、TXT、Epub、Png、Office系列等多种文档格式的直接上传和翻译，保留原始排版，提供多AI引擎选择，精准高效处理图文内容，无需转换格式，一键完成跨语言文档处理。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">arXiv论文翻译</strong>：用户可通过上传arXiv上的论文URL，对指定文章进行跨语言处理，帮助用户更高效、更准确地阅读专业文档。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>文本AI翻译</strong>：基于深度学习技术，提供多语种高准确度即时翻译，保持原文语义与风格，适用于各类日常内容的跨语言转换。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>术语库</strong>：支持自定义术语文档导入/导出，统一管理专业词汇，确保翻译内容在实际应用场景中的高度一致性，提升专业领域文献翻译的准确性。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>文档在线编辑</strong>：翻译完成的文档支持在线进行文本、图片的实时编辑，方便用户对文档进行二次校对和内容再排版。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>文档AI对话</strong>：为翻译完成的文档提供对话功能，用户可以通过消息对话的形式让AI引擎针对当前文档进行概括总结、生成内容脑图等操作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>文档AI校对</strong>：在文档翻译完成后，用户可以通过AI校对功能对当前翻译文档的正确性进行再验证，校对结果会将翻译中的语法、标点、数据等指定内容的错误翻译和位置进行标注，帮助用户对文档进行方便快捷的内容优化和调整。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>双语合并下载</strong>：支持PDF及Office系列文档的双语（原/译文）合并的文档下载，并提供横向、纵向两种合并排版格式。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>文档格式转换</strong>：帮助用户将PDF文档转换为其他格式文档，目前支持PDF格式向Word、TXT两种格式的转换。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">PDF文档合并/分割</strong>：解析用户上传的PDF文档，将文档以特定方式（如单双页等）进行分割，并以新格式分别生成文档。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>PDF文档加/解密</strong>：为未加密的文档设置访问密码，为已加密的文档移除访问密码。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">PDF文档添加水印</strong>：在源文档页面上添加指定样式、指定内容、指定密度的水印内容，并生成附带水印效果的新文档。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>PDF文档图片提取</strong>：将源文档内容中用到的图片内容进行提取分离，并将分离后的图片内容打包，供用户下载。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>其他PDF文档小工具</strong>：目前还支持PDF压缩、PDF叠加、PDF页面重列、PDF页面旋转等实用小工具，以满足用户多种多样的PDF文档处理需求。</div>\n</li>\n</ul>"
+        "title": "Doclingo 的主要功能",
+        "html": "<p>官网把 Doclingo 的能力分成几条清晰的产品线：</p><ul><li>文档翻译：整篇上传后保留原有版式进行翻译，是 Doclingo 的主入口。</li><li>图片翻译：识别图片中的文字，把译文回填到原位，海报与截图尤其适用。</li><li>更多工具：除核心翻译之外的其它辅助入口集中在一处。</li><li>API：面向需要批量处理或把翻译接入自有系统的团队开放接口。</li><li>企业版：单独的企业站点，面向公司级用量与协作需求。</li><li>会员与 App：提供会员档位与配套客户端下载。</li><li>版本更新：官网设有更新日志，记录历次功能调整。</li></ul>"
       },
       {
-        "title": "如何使用Doclingo",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">访问官网</strong>：登录 Doclingo 官网 https://doclingo.cn/ ，注册登录账号。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">上传文档</strong>：点击官网页面指定区域，选择需要翻译的文档并打开，自动完成上传操作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">选择语言</strong>：在文档上传完毕后，在语言栏中点选需要翻译的原语言和译文语言，如需全文翻译，原语言可保持默认“自动检测”选项。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择翻译引擎</strong>：在翻译引擎栏中选择需要使用的翻译引擎，部分引擎需付费使用。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择术语库</strong>：选中更多设置，在弹窗中的术语表栏中选择已添加的术语表文档，若未添加过则该栏目为空。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>设置图片翻译</strong>：确定是否翻译文档中的图片内容，默认为选中状态，若无需翻译图片内容可取消选中。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>开始翻译</strong>：在文档上传完毕且所有必选项均确认填充后，点击开始翻译按钮，使用选中项对文档进行翻译。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>AI 校对</strong>：点击文档对比页面的底部菜单中的 AI 校对按钮，根据提示完成弹窗中的选择操作，对当前文档执行校对操作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>下载译文文档</strong>：文档翻译完成后，在对比页面、翻译记录页面均可对文档进行下载操作，如需变更双语文档合并排版样式，可进入账户信息页面重新设置，变更设置后再翻译的文档才会生效。</div>\n</li>\n</ul>"
+        "title": "如何使用 Doclingo",
+        "html": "<p>按官网给出的入口，使用 Doclingo 可以从下面几步走：</p><ol><li>打开 Doclingo 官网，按所在地区选择对应站点（中国大陆版或国际版）。</li><li>在文档翻译与图片翻译之间选一个入口。</li><li>把待处理的 PDF、Word、PPT 等文件上传。</li><li>按需设定源语言与目标语言——Doclingo 支持 90 多种语言。</li><li>提交后等待整篇译文生成，版式会被尽量保留。</li><li>需要嵌入自有系统的团队改走 API 或企业版通道。</li></ol>"
       },
       {
-        "title": "Doclingo的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>学术研究</strong>：可翻译外文论文、学术报告、电子书等，帮助研究人员快速获取国际前沿知识，助力学术交流与合作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>商务办公</strong>：适用于企业翻译合同、报价单、商务邮件等文件，商务沟通无语言障碍，提升工作效率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>个人学习</strong>：方便学生翻译学习资料、教材、课外读物等，拓宽知识面，提高语言学习能力。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>技术开发</strong>：工程师可翻译技术文档、产品手册、设计图等，易于理解和应用国外先进技术，促进技术交流。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>文化交流</strong>：用于翻译文学作品、文化报道、旅游指南等，促进不同文化之间的相互了解和交流。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教育培训</strong>：教师可翻译教学资源、课件等，丰富教学内容；学生可翻译作业、研究报告等，提升学习效果。</div>\n</li>\n</ul>"
+        "title": "Doclingo 的应用场景",
+        "html": "<p>Doclingo 的入口设计决定了它服务的是整篇材料的翻译需求：</p><ul><li>科研与论文：阅读外文文献时整篇翻译，尽量减少公式与图表错位。</li><li>商务与设计：翻译带排版的图纸、产品手册与提案文档。</li><li>图片海报：把海报、界面截图里的文字直接译好并回填原位。</li><li>跨境资料：需要多语种版本时按目标语言分批输出。</li><li>团队集成：把翻译能力通过 API 接进内部流程。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "belindoc-com",
@@ -20329,19 +20342,23 @@
     "domain": "workspace.dingtalk.com",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<p>钉钉·个人版正式启动内测，所有用户皆可在钉钉官网申请加入测试，实测申请速度只需几分钟，其个人空间是基于钉钉收购的「wolai我来」在线协同文档并结合阿里的AI大模型打造而来。据介绍，钉钉个人版以AI为核心，提供“贾维斯”文生文AI和“缪斯”文生图AI。用户可通过自然语言对话，解答各种问题、制定策划方案或者绘画。</p>"
+        "title": "钉钉·个人版 是什么",
+        "html": "<p>钉钉·个人版 是钉钉面向个人工作与学习场景推出的版本，官网的口号是「探索未来的工作方式」。它与企业使用的标准版并存，页面提示可以用快捷键在标准版与个人版之间切换。钉钉·个人版 把空间按使用对象分成个人、团队与教育三类，围绕「钉钉斜杠 + 空间」展开，由钉钉科技有限公司开发运营。官网首页还保留了注册钉钉体验的入口，方便用户先申请再进入个人版。</p>"
       },
       {
-        "title": "钉钉·个人版的AI功能",
-        "html": "<ol>\n<li>AI文档创作助手：在个人文档空间中，输入/ai即可召唤出AI助手，进行AI写作、文章大纲撰写、内容简介创作、小红书种草笔记、短视频脚本、电子邮件、广告文案、短篇故事、周会汇报、职位描述、待办清单等。</li>\n<li>贾维斯AI对话助手：基于<a href=\"https://ai-bot.cn/sites/1338.html\">通义千问</a>大模型，贾维斯智能助手可以随时为你解答各种问题，并内置了常用指令，支持创建自定义指令。</li>\n<li>缪斯AI绘图：基于<a href=\"https://ai-bot.cn/sites/3400.html\">通义万相</a>图像生成大模型，缪斯AI可以进行人像、摄影、游戏、插画、科幻、建筑、中国风等风格的<a href=\"https://ai-bot.cn/best-ai-image-generators/\">AI图片生成</a>，同样支持创建自定义指令</li>\n</ol>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2023/08/dingtalk-personal-ai-features.png\" data-fancybox=\"fancybox\" data-caption=\"钉钉个人版AI功能\"><img decoding=\"async\" class=\"alignnone size-full wp-image-4083\" src=\"https://ai-bot.cn/wp-content/uploads/2023/08/dingtalk-personal-ai-features.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"钉钉个人版AI功能\" width=\"801\" height=\"501\"></a>"
+        "title": "钉钉·个人版 的主要功能",
+        "html": "<p>官网围绕「空间」来介绍 钉钉·个人版 的能力：</p><ul><li>空间分区：分为个人、团队与教育三种空间，对应不同使用对象。</li><li>专属空间：官网称个人空间用于让信息创造价值，团队空间用于有序协作与沉淀。</li><li>AI 小二：接入阿里 AI 模型，由「AI 小二」在聊天中提供灵感。</li><li>AI 绘图：在个人版内直接生成图像。</li><li>资料管理：官网提到备份无忧、整理有序。</li><li>视频会议：个人版提供清晰流畅的视频会议能力。</li><li>斜杠命令：通过「钉钉斜杠」调用空间内的功能。</li><li>版本切换：用快捷键在标准版与个人版之间来回切换。</li><li>邀测与注册：官网保留注册钉钉体验的入口，并附有个人版邀测承诺函说明。</li></ul>"
       },
       {
-        "title": "如何使用钉钉·个人版",
-        "html": "<ol>\n<li>访问钉钉·个人版的官网，点击申请体验按钮</li>\n<li>使用手机版钉钉扫描二维码即可申请，等待几分钟，刷新网站，若右上角显示已获取资格便说明可以使用</li>\n<li>申请通过后可以在官网下载Mac/Windows桌面端软件，或直接访问<a href=\"https://workspace.dingtalk.com/\" rel=\"noopener nofollow\" target=\"_blank\" class=\"external\">workspace.dingtalk.com</a>在线使用AI文档功能</li>\n<li>若要使用贾维斯和缪斯，则需要在桌面端软件使用，点击左侧的AI按钮，然后选择对应功能即可</li>\n</ol>"
+        "title": "如何使用 钉钉·个人版",
+        "html": "<p>钉钉·个人版 通过钉钉账号使用，官网给出的入门路径是：</p><ol><li>打开钉钉·个人版 官网，用钉钉账号登录或注册体验。</li><li>登录后进入属于自己的个人空间。</li><li>按需要切换到团队或教育空间。</li><li>在对话框里用「钉钉斜杠」唤起功能，或直接向 AI 小二提问。</li><li>需要沟通时调用个人版的视频会议。</li><li>把常用资料放进空间，享受备份与整理。</li><li>在标准版与个人版之间用快捷键随时切换。</li></ol>"
+      },
+      {
+        "title": "钉钉·个人版 的应用场景",
+        "html": "<p>从空间划分可以看出 钉钉·个人版 面向三类人：</p><ul><li>个人：整理个人资料与日常事务，把备份交给空间管理。</li><li>团队：小范围协作与内容沉淀。</li><li>教育：面向学习场景的空间，可把课程与资料集中管理。</li><li>灵感获取：把 AI 小二当作随时可问的助手。</li><li>会议沟通：需要远程讨论时开一场视频会议。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "dumate",
@@ -21942,35 +21959,23 @@
     "domain": "operator.gc.com.cn",
     "detailed_content": [
       {
-        "title": "RedClaw是什么",
-        "html": "<p>RedClaw 是百度推出的全球首款手机端<a href=\"https://ai-bot.cn/sites/70880.html\" target=\"_blank\" rel=\"noopener\"> OpenClaw</a> 应用，原名”红手指Operator”。RedClaw 支持无需部署配置，可在手机上体验原生 AI Agent 能力，支持跨 App 自动化操作。用户只需自然语言描述任务，RedClaw 能自动执行。应用界面清爽简洁，主打”一键响应、操作不繁琐”，让 AI 助理随时待命，成为用户的随身智能助手。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/03/RedClaw-website.png\" data-fancybox=\"fancybox\" data-caption=\"RedClaw\"><img decoding=\"async\" class=\"alignnone wp-image-73723\" src=\"https://ai-bot.cn/wp-content/uploads/2026/03/RedClaw-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"RedClaw\" width=\"740\" height=\"416\"></a>"
+        "title": "RedClaw 是什么",
+        "html": "<p>RedClaw 是一款面向日常操作的「万能 AI 助手」，官网的口号是「让想法直接发生」。它把自己定位成能替用户跑腿办事的智能体，而不只是做问答的聊天机器人——官网示例里，RedClaw 可以理解订票、抢红包这类意图并直接执行操作。RedClaw 由湖南微算互联信息技术有限公司开发运营，官网页脚标注了湘ICP备15006053号-1 等备案信息与增值电信业务经营许可证编号（湘B2-20200027），并注明年龄分级为 18+。</p>"
       },
       {
-        "title": "RedClaw的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>AI 对话交互</strong>：用户可通过自然语言与 RedClaw 对话，直接描述任务需求，无需复杂操作可让 AI 理解和执行指令。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>智能票务预订</strong>：RedClaw 能自动完成机票、火车票、电影票的查询、筛选与购买流程，生成订单卡片展示结果。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>行程规划管理</strong>：根据用户提出的目的地和时间要求，RedClaw 可自动生成完整的旅游行程安排。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>跨 App 自动化</strong>：RedClaw 支持在手机内不同应用之间无缝跳转，实现跨应用的复杂任务自动执行。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>资讯检索总结</strong>：RedClaw 能自动搜索全网信息，梳理内容并生成结构化的资讯报告供用户查阅。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>系统优化整理</strong>：RedClaw 具备智能清理和优化功能，可提升手机运行速度，让设备使用更流畅。</div>\n</li>\n</ul>"
+        "title": "RedClaw 的主要功能",
+        "html": "<p>官网把 RedClaw 的能力归纳为三组，并配了对应的场景截图：</p><ul><li>深度语义理解：官网称它理解用户的真实意图而非关键词，示例是智能规划旅游行程。</li><li>精准方案产出：官网称其不止听懂用户说什么，更知道用户想做什么，示例是 AI 资讯总结。</li><li>高效快速执行：官网强调减少等待、直达结果，示例是自动购票出行。</li><li>生活与总结：官网把「全能 AI 生活搭子」与「智能总结好帮手」列为核心场景。</li><li>多端客户端：页面提供安卓版 APK 与 iOS 端的扫码下载入口。</li></ul>"
       },
       {
-        "title": "RedClaw的关键信息和使用要求",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>产品定位</strong>：全球首款手机端 OpenClaw 应用，让用户在移动端零门槛体验 AI Agent 能力。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>原名背景</strong>：由”红手指Operator”更名而来。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>核心特点</strong>：0部署0配置，原生移动端体验，支持跨 App 自动化操作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>开发公司</strong>：百度出品，与小度虾、DuMate、DuClaw 等共同构成百度 OpenClaw 产品矩阵。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>设备要求</strong>：需使用安卓智能手机，暂不支持 iOS 、电脑或网页端使用。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>网络环境</strong>：需要联网使用，依赖云端 AI 能力处理任务。</div>\n</li>\n</ul>"
+        "title": "如何使用 RedClaw",
+        "html": "<p>RedClaw 目前主要以移动端 App 的形态提供，官网给出的获取路径如下：</p><ol><li>在 RedClaw 官网按自己的手机系统选择安卓版或 iOS 版。</li><li>安卓用户直接下载 APK 安装；iOS 用户扫码跳转到对应入口。</li><li>安装完成后登录账号，进入对话界面。</li><li>用自然语言把需求说清楚，例如出行、订票或需要整理的资料。</li><li>由 RedClaw 规划步骤并执行操作，用户按提示确认关键动作。</li><li>需要时查看执行结果，再继续追加新的指令。</li></ol>"
       },
       {
-        "title": "RedClaw的核心优势",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>零门槛上手</strong>：无需部署配置，下载即用，让普通用户能轻松体验 AI Agent 能力。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>原生移动体验</strong>：专为手机场景设计，打破传统 AI 工具局限于网页或桌面的束缚。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>跨 App 无缝协作</strong>：应用能打通手机内不同应用，自动完成需要多应用配合的复杂任务。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自然语言交互</strong>：用户只需像聊天一样描述需求，无需学习复杂指令或操作流程。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>场景覆盖全面</strong>：应用集成票务预订、行程规划、资讯查询、系统优化等日常高频功能于一体。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>响应快速稳定</strong>：界面清爽无广告，任务执行流畅不卡顿，提供高效的智能服务体验。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "如何使用RedClaw",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>下载安装</strong>：下载 <a href=\"https://ai-bot.cn/app/73377.html\" target=\"_blank\" rel=\"noopener\">RedClaw APP</a> ，无需额外配置或部署环境。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>打开应用</strong>：进入首页后，点击输入框或语音按钮，直接用自然语言描述想完成的任务。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>发出指令</strong>：例如输入”帮我订一张2月13日从北京到上海的机票，时间最好在早上”，RedClaw 会自动理解需求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>确认执行</strong>：RedClaw 会展示执行计划和步骤，用户确认后自动调用相关应用完成任务。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>查看结果</strong>：任务完成后，RedClaw 会用卡片形式展示结果，如机票订单、电影票信息或行程规划等。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>持续对话</strong>：用户可随时追加指令，让 RedClaw 继续优化或执行后续任务，实现多轮交互。</div>\n</li>\n</ul>\n<div class=\"paragraph\">"
-      },
-      {
-        "title": "RedClaw的同类竞品对比",
-        "html": "<table data-v-5c5bdb04=\"\">\n<thead data-v-5c5bdb04=\"\">\n<tr data-v-5c5bdb04=\"\">\n<th align=\"left\" data-v-5c5bdb04=\"\">对比维度</th>\n<th align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">RedClaw</strong></th>\n<th align=\"left\" data-v-5c5bdb04=\"\"><a href=\"https://ai-bot.cn/app/11821.html\" target=\"_blank\" rel=\"noopener\"><strong data-v-5c5bdb04=\"\">Claude App</strong></a></th>\n<th align=\"left\" data-v-5c5bdb04=\"\"><a href=\"https://ai-bot.cn/app/10282.html\" target=\"_blank\" rel=\"noopener\"><strong class=\"\" data-v-5c5bdb04=\"\">智谱清言</strong></a></th>\n</tr>\n</thead>\n<tbody data-v-5c5bdb04=\"\">\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong class=\"\" data-v-5c5bdb04=\"\">产品定位</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">手机端 AI Agent，专注跨 App 自动化操作</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">AI 对话助手，侧重深度推理与内容生成</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">国产大模型助手，支持多轮对话与工具调用</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">核心能力</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">原生移动端 OpenClaw，可操控手机内其他应用完成任务</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">强大的文本理解与生成能力，支持多模态交互</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">中文优化较好，支持联网搜索与插件扩展</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong class=\"\" data-v-5c5bdb04=\"\">自动化程度</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">高，可自动跨 App 执行订票、购物等复杂任务</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">低，主要提供建议与内容，不直接操作第三方应用</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">中，支持调用部分工具但跨 App 能力有限</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">部署门槛</strong></td>\n<td align=\"left\" data-v-5c5bdb04=\"\">0 部署 0 配置，下载即用</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">需下载 App 并注册账号</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">需下载 App 并注册账号</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">生态整合</strong></td>\n<td align=\"left\" data-v-5c5bdb04=\"\">深度整合百度生态（搜索、地图、票务等）</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">依托 Anthropic 技术生态</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">整合智谱 AI 自研能力与部分国产服务</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">适用场景</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">手机端任务自动化、生活服务、出行预订</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">深度内容创作、代码编写、学术分析</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">中文对话、办公辅助、知识查询</td>\n</tr>\n</tbody>\n</table>\n</div>"
-      },
-      {
-        "title": "RedClaw的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>差旅出行</strong>：用户说出出发地、目的地和时间，RedClaw 自动查询并预订机票或火车票，生成完整订单信息。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>娱乐消费</strong>：通过语音或文字指令，RedClaw 可自动搜索影院、选座并购买电影票，省去手动操作步骤。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>旅游规划</strong>：输入目的地和天数，RedClaw 自动生成详细行程安排，包括景点推荐和交通建议。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>信息获取</strong>：需要了解某领域动态时，RedClaw 自动检索全网资讯并整理成结构化报告供用户阅读。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>日常办公</strong>：通勤或出差途中，通过手机随时让 RedClaw 处理文档整理、邮件发送等工作事务。</div>\n</li>\n</ul>"
+        "title": "RedClaw 的应用场景",
+        "html": "<p>从官网列出的示例看，RedClaw 更适合交给它「动手办」的日常事务：</p><ul><li>出行安排：规划行程与购票这类需要多步操作的流程。</li><li>信息整理：把零散资讯汇总成一份简要总结。</li><li>生活琐事：官网提到的抢红包等轻量互动操作。</li><li>随身助手：把手机当作随时可调用的办事入口。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "winclaw-winicssec-com",
@@ -23977,19 +23982,23 @@
     "domain": "character.ai",
     "detailed_content": [
       {
-        "title": "Character.AI是什么",
-        "html": "<p>Character.AI 是个性化角色<a href=\"https://ai-bot.cn/best-free-ai-chatbots/\" target=\"_blank\" rel=\"noopener\">AI对话机器人</a>平台，能够设计和互动个性化的对话角色。这些角色不仅支持多种语言，还能根据用户设定的个性、背景和知识库进行交流，展现出高度的语境理解和语言生成能力。由前谷歌AI专家Noam Shazeer和Daniel De Freitas创立，Character.AI 致力于将先进的AI技术普及化，让每个人都能享受定制化的智能对话体验。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/07/character-ai-website.png\" data-fancybox=\"fancybox\" data-caption=\"character.ai\"><img decoding=\"async\" class=\"alignnone size-full wp-image-14605\" src=\"https://ai-bot.cn/wp-content/uploads/2024/07/character-ai-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"character.ai\" width=\"800\" height=\"450\"></a>"
+        "title": "Character.AI 是什么",
+        "html": "<p>Character.AI 是一个以「角色对话」为核心的互动娱乐平台，官网把自己的使命描述为「让人们通过互动娱乐去连接、学习与讲故事」。它把叙事、游戏、社交与创作表达放在同一个场所里，用户既可以和已有的角色聊天，也可以自己创建角色、设定与剧情。据官网介绍，Character.AI 每月有大量用户访问，平台上可发现的角色数量以百万计，并拥有一个由创作者构成的社区。平台由 Character Technologies Inc.（以 Character.ai 名义运营）提供，公司总部位于硅谷，并在西雅图与纽约设有办公室。</p>"
       },
       {
-        "title": "Character.AI的功能特色",
-        "html": "<ul>\n<li><strong>角色创建</strong>：用户可以创建具有独特个性和背景的AI角色。</li>\n<li><strong>语言支持</strong>：支持多种语言，让不同语言的用户都能创建和交流。</li>\n<li><strong>个性化对话</strong>：AI角色能够进行连贯、上下文相关的对话，提供个性化的交流体验。</li>\n<li><strong>语言理解与生成</strong>：平台具备先进的语言处理能力，角色能够理解和生成自然语言。</li>\n<li><strong>角色生态系统</strong>：拥有一个庞大且不断增长的用户创建角色的生态系统，用户可以发现和互动独特的角色。</li>\n<li><strong>AI角色生成器</strong>：允许用户创建和定制自己的AI角色，用于聊天或其他互动。</li>\n</ul>"
+        "title": "Character.AI 的主要功能",
+        "html": "<p>官网与官方博客呈现出的 Character.AI 能力包括：</p><ul><li>角色对话：与平台上的角色展开连续多轮聊天。</li><li>角色创建：从角色、场景到剧情都可以自行设定。</li><li>创作社区：与其他创作者互动、积累粉丝并共同扩写新的世界。</li><li>内容发现：官网称可在海量角色中持续探索，对话数量不设上限。</li><li>对话风格：博客提到提供多种 Chat Styles，分别面向角色扮演与轻松闲聊等不同节奏。</li><li>自研图像模型：博客说明其自研图像模型用于让同一个角色在多种风格与场景中保持可辨识。</li><li>安全措施：博客提到已对未成年用户收紧开放式聊天。</li></ul>"
       },
       {
-        "title": "Character.AI的适用人群",
-        "html": "<ul>\n<li><strong>创意工作者</strong>：需要灵感和创意支持的作家、艺术家和设计师，可通过与AI角色的互动获取新想法。</li>\n<li><strong>教育工作者</strong>：教师和教育开发者可以利用AI角色进行教学辅助，提供个性化的学习体验。</li>\n<li><strong>企业用户</strong>：企业可以通过定制AI角色来提供客户服务、市场调研或员工培训。</li>\n<li><strong>游戏开发者</strong>：游戏设计师可以用AI角色生成器来创造游戏中的NPC（非玩家角色），增强游戏的互动性和沉浸感。</li>\n<li><strong>心理咨询师</strong>：AI角色可以作为辅助治疗工具，提供情感支持和心理辅导。</li>\n</ul>"
+        "title": "如何使用 Character.AI",
+        "html": "<p>Character.AI 以网页与 App 的形式提供，官网给出的入门路径是：</p><ol><li>打开 Character.AI 首页，用邮箱或第三方账号注册登录。</li><li>进入后可先浏览推荐或搜索感兴趣的角色。</li><li>选中角色进入对话窗口，直接开始聊天。</li><li>想自己创作时新建一个角色，填写设定与开场白。</li><li>把作品公开后，其他用户也可以基于它继续创作。</li><li>按需在设置里调整对话风格等偏好。</li></ol>"
+      },
+      {
+        "title": "Character.AI 的应用场景",
+        "html": "<p>官网把它服务的人群描述得很宽：</p><ul><li>互动娱乐：把 Character.AI 当作与角色聊天解闷的入口。</li><li>故事创作：用角色与设定把脑中的故事写下去。</li><li>同好社交：在创作社区里结识其他创作者与粉丝。</li><li>想象练习：用多轮对话做表达与情境推演。</li><li>角色运营：创作者围绕自己的角色持续更新内容。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-29"
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "tool11358",
@@ -24872,11 +24881,23 @@
     "domain": "pi.ai",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<p>Pi 是由初创 AI 公司 Infelection AI 推出的一个<a href=\"https://ai-bot.cn/best-free-ai-chatbots/\" rel=\"noopener\" target=\"_blank\">AI聊天机器人</a>，该公司由 DeepMind 联合创始人 Mustafa Suleyman、LinkedIn 联合创始人 Reid Hoffman 和 前 DeepMind 研究员 Karén Simonyan 共同创立。Pi 则是 Inflection AI 推出的第一个产品，其用户可以直接通过一个应用程序，或通过文本、WhatsApp、Instagram和Facebook与聊天机器人进行个人对话。</p>\n<p>Pi 代表个人智能（personal intelligence），因为它可以根据个人的独特兴趣和需求提供无限的知识。Pi 可以是一位老师、教练、知己、创意伙伴。</p>"
+        "title": "Pi 是什么",
+        "html": "<p>Pi 是 Inflection AI 推出的个人 AI 助手，官网把自己的定位写成「你的个人智能伙伴」。与偏工具型的问答产品不同，Pi 强调以人为中心、能理解情绪与语境，主页上的自我介绍更偏向陪伴与梳理：它可以陪用户把事情想清楚、给出鼓励，也在用户只是想聊聊天时陪着说说话。Inflection AI 在官网把公司方向描述为「以人为本、具备情绪智能的 AI」，并把 Pi 作为这套理念的代表产品；首页则以「Greetings from Pi」开场，紧接着由 Pi 自报身份并询问用户希望被怎么称呼。</p>"
+      },
+      {
+        "title": "Pi 的主要功能",
+        "html": "<p>从官网的自我介绍与示例看，Pi 的能力集中在对话与陪伴：</p><ul><li>梳理思路：官网称 Pi 会陪用户一起把事情想清楚。</li><li>情绪支持：在用户需要时给出鼓励与回应。</li><li>日常陪伴：只是想说话时也能随时对话。</li><li>生活协助：官网举例提到应对一次棘手的谈话、安排一天的节奏、挑选合适的礼物。</li><li>好奇心引导：Inflection AI 用一个讲章鱼生理知识的小例子说明 Pi 会顺着兴趣继续聊下去。</li><li>回顾当天：官网列出「回顾今天」这类对话入口。</li><li>会话保存：登录后可以保存聊天记录。</li><li>研究方向：Inflection AI 官网表示公司通过研究与实验塑造个人智能的未来，并把过程中的发现对外分享。</li></ul>"
+      },
+      {
+        "title": "如何使用 Pi",
+        "html": "<p>Pi 以网页对话的形式提供，官网给出的用法很直接：</p><ol><li>打开 Pi 的官网，先给它一个称呼。</li><li>登录账号即可保存较长时间跨度的聊天记录。</li><li>在对话框里用自然语言说出你此刻想聊或想解决的事。</li><li>Pi 会顺着话题追问与回应，用户可以继续展开。</li><li>想换个话题时直接开启新的一轮对话。</li></ol>"
+      },
+      {
+        "title": "Pi 的应用场景",
+        "html": "<p>Pi 的对话形态决定了它偏向日常与情绪向：</p><ul><li>情绪梳理：把烦心事讲给 Pi 听，边聊边理清。</li><li>决策陪练：在难开口的谈话前先演练一遍。</li><li>日常提醒：让 Pi 帮忙安排当天的节奏。</li><li>好奇探索：随口问一个感兴趣的话题再往下聊。</li><li>送礼参谋：官网举例的选择礼物这类小事。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-29"
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "tool1710",
