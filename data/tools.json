@@ -7144,8 +7144,25 @@
     "subcategory": "ai-image-background-remove",
     "logo": "/logos/tool313.png",
     "domain": "adobe.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Free Image Background Remover 是什么",
+        "html": "<p>Free Image Background Remover 由 Adobe Firefly 提供，面向抠图场景，页面上标注可直接免费使用。按官网描述，它的主要任务是把图片里的背景去掉，让主体单独留下；处理完成后既可以下载结果，也可以继续在 Firefly 里编辑，例如替换背景或补充新的画面元素。这项能力被放在 Adobe 创意与设计产品线之内，界面顶部把 Firefly 的图像、视频、音频与移动端能力并列展示，说明抠图与同一套生成式 AI 服务放在一起，用户在同一账号体系内即可从一个入口切到另一个入口。</p>"
+      },
+      {
+        "title": "Free Image Background Remover 的主要功能",
+        "html": "<p>从页面给出的操作区与提示信息看，Free Image Background Remover 具备这些能力：</p><ul><li>上传与拖拽：支持点击选择文件，也可以把图片直接拖入处理区。</li><li>格式与体积限制：可处理的图片为 JPEG、PNG 或 WEBP，文件需小于 50MB。</li><li>单文件处理：一次只接受一张图片。</li><li>结果下载：抠图完成后可直接取得处理后的图片。</li><li>延伸编辑：可在 Firefly 内继续放大画面、再抠一次、生成新背景或加上影棚灯光效果。</li></ul><p>这些选项被集中放在结果区，说明 Free Image Background Remover 只负责把背景与主体分开，后续的创作仍然回到 Firefly 的编辑环境里完成。</p>"
+      },
+      {
+        "title": "如何使用 Free Image Background Remover",
+        "html": "<ol><li>在浏览器中打开 Free Image Background Remover，进入图片上传区。</li><li>把待处理的图片拖入，或点击上传；注意文件要控制在 50MB 以内，且为 JPEG、PNG、WEBP 之一。</li><li>等待页面自动完成背景剥离，处理过程中可看到进度提示。</li><li>满意后点下载保存结果。</li><li>若还要改背景或补元素，选择在 Firefly 中继续编辑，再挑选对应的后续动作。</li></ol>"
+      },
+      {
+        "title": "Free Image Background Remover 的应用场景",
+        "html": "<p>Free Image Background Remover 适合以下情形：</p><ul><li>商品图处理：把拍摄背景去掉，方便后续换上统一的纯色或场景底图。</li><li>证件照与头像：需要把人物单独取出再放到指定底色上时，可先做抠图。</li><li>素材准备：做海报或演示文稿前，先把主体切出来备用。</li><li>快速试用：只想处理一两张图、不打算安装软件的临时需求。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "tool274",
@@ -7705,8 +7722,25 @@
     "subcategory": "ai-image-illustration",
     "logo": "/logos/tool58.png",
     "domain": "canva.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-29"
+    "detailed_content": [
+      {
+        "title": "Canva AI图像生成 是什么",
+        "html": "<p>Canva AI图像生成 指的是 Canva 视觉套件里与图像生成相关的一组能力。按官网首页的导航，Canva 把设计、模板、AI、资源与订阅方案并列排布，其中 AI 部分被单独归入 Magic Studio，图像生成则位于这套 Magic Studio 之下。Canva AI图像生成 并不只输出一张图：同一入口下还挂着图片编辑、背景移除、画面扩展与艺术风格转换等动作，用户可以先生成再修改，也可以从已有照片出发做二次创作。Canva 本身是一个在线设计平台，因此 Canva AI图像生成 的产出会直接落在画布里，随后可继续叠加文字、图形与模板版式。</p>"
+      },
+      {
+        "title": "Canva AI图像生成 的主要功能",
+        "html": "<p>综合官网的导航与分类，Canva AI图像生成 覆盖的能力包括：</p><ul><li>文生图：通过文字描述生成图片，入口标注为图像生成器。</li><li>角色与风格：提供 AI 角色生成、AI 动漫生成、AI 人像生成与 AI 人脸生成等细分入口。</li><li>图像编辑：包含魔法橡皮擦、背景移除、AI 照片编辑与画面扩展。</li><li>艺术化处理：提供 AI 艺术生成器，用于把图像转成特定风格。</li><li>配套工具：Magic Write 负责文字，演示文稿与简历等场景另有对应模板。</li></ul><p>这些功能被统一收在 Magic Studio 里，Canva AI图像生成 因此更像是图像方向的入口集合，而不是彼此割裂的独立工具。</p>"
+      },
+      {
+        "title": "如何使用 Canva AI图像生成",
+        "html": "<ol><li>登录 Canva，进入 Magic Studio 的图像相关入口。</li><li>按需求选择生成方式：从文字生成新图，或上传已有照片再改。</li><li>写下描述或选定风格，等待生成结果返回画布。</li><li>用橡皮擦、背景移除、画面扩展等动作修正细节。</li><li>把结果放进具体作品：社交图、演示文稿、海报或电商图皆可。</li></ol>"
+      },
+      {
+        "title": "Canva AI图像生成 的应用场景",
+        "html": "<p>Canva AI图像生成 常用于这些场合：</p><ul><li>新媒体配图：为社交平台帖子快速产出贴合主题的图片。</li><li>电商视觉：生成商品氛围图或补充场景素材。</li><li>演示与教学：给课件配图，保持同一套视觉风格。</li><li>个人创作：把照片换成动漫或艺术风格版本。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "photo-baidu-com",
@@ -14266,8 +14300,25 @@
     "subcategory": "ai-office-ppt",
     "logo": "/logos/tool1744.png",
     "domain": "designkit.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Designkit 是什么",
+        "html": "<p>Designkit 是美图公司旗下的在线设计入口，其演示文稿能力以 LivePPT 的名义对外提供。按官网页面，Designkit 的这块功能围绕「把想法变成一份完整演示文稿」展开，用户在页面里输入主题或导入已有材料，系统输出包含文字与排版的成稿。Designkit 属于美图的产品体系，页面底部把美图秀秀、美图抠图与 Wink 等一并列出，说明它与同一公司的其他工具共享账号与素材资源。从页面结构看，Designkit 把生成、编辑与模板三条线并列，既提供从零生成，也允许在既有稿件上继续改。</p>"
+      },
+      {
+        "title": "Designkit 的主要功能",
+        "html": "<p>官网列出的 Designkit 能力集中在三块：</p><ul><li>三种生成方式：输入主题由 AI 起草；粘贴已有文本（大纲、笔记、摘要或草稿）后润色成稿；导入文件转换，支持 Word、PDF、PPT、XMind 与 TXT 等格式。</li><li>可调要素：内容大纲、页数、风格模板与单页布局样式均可修改。</li><li>内容加工：AI 生图负责配图；AI 文本润色提供重写、美化、扩写与缩写，并可挑选文字风格；智能设计提供图标、贴纸与花字等素材。</li></ul><p>此外 Designkit 还提供动态模式，为演示加入动画效果。页面按职场办公、人事行政、教师学生、营销策划与医疗医护等场景给出示例，方便对照选用。</p>"
+      },
+      {
+        "title": "如何使用 Designkit",
+        "html": "<ol><li>打开 Designkit 的 LivePPT 页面，选择生成方式：主题、粘贴文本或导入文件。</li><li>填写主题或上传材料，等待系统给出大纲与初稿。</li><li>调整大纲与页数，再挑选合适的风格模板。</li><li>用 AI 生图补配图，用文本润色统一措辞。</li><li>需要更生动的汇报效果时，切换到动态模式并选择动画。</li></ol>"
+      },
+      {
+        "title": "Designkit 的应用场景",
+        "html": "<p>Designkit 适合这些任务：</p><ul><li>述职与总结：把工作记录整理成结构清晰的汇报稿。</li><li>培训课件：为新员工培训或家长会快速搭建内容框架。</li><li>营销方案：把策划思路转成可演示的提案。</li><li>学习汇报：把课程笔记或读书摘要做成成套幻灯片。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "feixianglaoshi-com",
@@ -21717,8 +21768,25 @@
     "subcategory": "ai-agent-framework",
     "logo": "/logos/tool74636.png",
     "domain": "nexu.io",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "nexu — Open-Source OpenClaw 桌面应用 是什么",
+        "html": "<p>nexu — Open-Source OpenClaw 桌面应用 是 nexu 官网对自身的定位。按首页说明，nexu 把 OpenClaw 这类智能体能力装进桌面客户端，装好后能直接在自己的即时通讯工具里调用。nexu — Open-Source OpenClaw 桌面应用 强调三点：模型可自由更换、数据完全留在本地、软件本身开源且免费。官网给出的安装方式是下载后双击完成，不涉及命令行，也不需要额外配置；注册与订阅被明确排除在外，用户自行携带模型密钥即可使用。它与飞书做了较深的整合，并内置一批技能，让智能体开箱即可执行常见任务。</p>"
+      },
+      {
+        "title": "nexu — Open-Source OpenClaw 桌面应用 的主要功能",
+        "html": "<p>官网列出的能力包括：</p><ul><li>多模型切换：可接入 Claude、GPT 与 Gemini 等多种模型，随时更换，用自己的密钥即可。</li><li>本地数据：资料保存在本机，不经过第三方服务器。</li><li>快速安装：下载后双击运行，一分钟左右完成。</li><li>聊天工具集成：可在微信、飞书、Slack 与 Discord 等环境里直接使用。</li><li>飞书深度整合：与飞书文档、表格、日历与会议等对象打通。</li><li>内置技能：自带一批可直接调用的技能，无需从零搭建。</li></ul><p>从首页展示的集成清单看，nexu — Open-Source OpenClaw 桌面应用 覆盖了文档、表格、表单、日程与邮件等常见办公对象。</p>"
+      },
+      {
+        "title": "如何使用 nexu — Open-Source OpenClaw 桌面应用",
+        "html": "<ol><li>到 nexu 官网下载安装包，双击完成安装，跳过命令行步骤。</li><li>填入自己已申请的模型密钥，按需选择 Claude、GPT 或 Gemini。</li><li>把 nexu 与常用聊天工具关联，例如飞书、微信或 Slack。</li><li>在聊天窗口里直接下达任务，由内置技能响应。</li><li>需要换模型时随时在设置里切换，本地数据不受影响。</li></ol>"
+      },
+      {
+        "title": "nexu — Open-Source OpenClaw 桌面应用 的应用场景",
+        "html": "<p>nexu — Open-Source OpenClaw 桌面应用 常见于：</p><ul><li>团队协作：在飞书里直接调动智能体处理文档与表格。</li><li>隐私敏感场景：数据不出本机，适合处理内部材料。</li><li>成本控制：自行携带密钥，避免按席位重复付费。</li><li>技术尝鲜：想体验开源智能体又不想折腾环境的人。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "724claw-cn",
@@ -22757,27 +22825,23 @@
     "domain": "tabtabai.com",
     "detailed_content": [
       {
-        "title": "TabTab是什么",
-        "html": "<p>TabTab 是首个全链路 Data Agent，专注于<a href=\"https://ai-bot.cn/ai-data-analysis-tools/\" target=\"_blank\" rel=\"noopener\">AI数据分析</a>领域，通过自然语言对话实现从数据搜集到深度分析的全流程自动化。拥有强大的数据整合、多维度挖掘和专业指标分析能力，能精准处理各类场景下的数据分析任务，从复杂的行业数据解读到细致的指标波动追踪均能高效完成，助力用户快速获取数据洞察，显著提升决策效率。TabTab 支持更多日常办公工具，包括表格处理、AI 文档、网页生成、幻灯片制作。可以根据自己的需求，给 TabTab 下发对应的任务，让 TA 帮你完成！</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/08/tabtab-website-7.png\" data-fancybox=\"fancybox\" data-caption=\"\"><img decoding=\"async\" class=\"alignnone wp-image-60967 loaded\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/tabtab-website-7.png\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/tabtab-website-7.png\" alt=\"\" width=\"741\" height=\"417\" data-was-processed=\"true\"></a>"
+        "title": "首个全链路 Data Agent 是什么",
+        "html": "<p>首个全链路 Data Agent 指向的是 TabTab，官网把它称作新一代数据分析智能体，愿景是让人人成为分析师。按页面结构，用户用自然语言提出需求或把任务派给系统，随后由智能体依次完成取数、分析与出图，把过去要靠多个环节衔接的工作压进一次对话里。首个全链路 Data Agent 的「全链路」体现在它的功能分区上：数据分析、数据采集、深度研究与图表制作并列存在，数据库问答单独作为一项能力列出，另有资源与反馈入口承接使用中的问题。页面还提供一键部署 OpenClaw 的入口，说明它允许把部分能力放到自有环境运行。</p>"
       },
       {
-        "title": "TabTab的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">自然语言交互</strong>：用户通过自然语言描述需求，无需编写代码或掌握复杂工具，即可完成数据分析任务。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">多源数据整合</strong>：支持多种数据源，包括公域数据、私域数据（如飞书表格、MySQL等）和垂直领域数据（如天眼查、IT桔子等），自动完成多源异构数据的整合。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">自动化数据分析</strong>：自动完成数据清洗、基础建模和图表绘制，节省用户时间和精力，让用户专注于深度业务解读。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">模型解释性报告</strong>：自动生成详细的模型解释性报告，帮助用户理解分析结果，支持决策树等高级分析方法。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>可视化图表生成</strong>：提供多种可视化图表，如桑基图、柱状图等，直观展示数据关键信息，支持导出为 Excel、PPT 和网页格式。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">高效任务交付</strong>：采用智能多代理架构，高效调度任务，精准理解用户意图，快速交付分析结果。</div>\n</li>\n</ul>"
+        "title": "首个全链路 Data Agent 的主要功能",
+        "html": "<p>从官网的功能列表看，首个全链路 Data Agent 至少包含这些模块：</p><ul><li>数据分析：按需求对数据做整理与计算。</li><li>数据采集：获取分析所需的原始数据。</li><li>深度研究：针对主题做延伸调查。</li><li>图表制作：把结果转成可视化图表。</li><li>ChatDB：用对话方式查询数据库。</li><li>部署入口：提供一键部署 OpenClaw 的路径。</li><li>配套资料：设有产品手册、数据合作与建议反馈入口。</li></ul><p>这些模块被放在同一个工作台内，意味着首个全链路 Data Agent 试图减少工具之间来回切换的成本。</p>"
       },
       {
-        "title": "如何使用TabTab",
-        "html": "<ul>\n<li><strong>访问平台</strong>：访问 TabTab 官网 https://tabtabai.com/ ，点击开始使用，注册或直接登录，输入邀请码使用。</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">提出需求</strong>：用户通过自然语言描述自己的数据分析需求，无需编写代码或掌握复杂工具。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">数据整合</strong>：TabTab AI 自动连接并整合多种数据源，包括公域、私域和垂直领域数据。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">自动分析</strong>：系统自动完成数据清洗、基础建模和图表绘制，生成初步分析结果。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">生成报告</strong>：自动生成详细的模型解释性报告，包括可视化图表和关键信息标注。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">结果导出</strong>：用户可以将分析结果导出为 Excel、PPT 或网页格式，方便进一步编辑和汇报。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>调整优化</strong>：根据需要手动调整分析方法或进一步优化报告内容，确保分析结果符合业务需求。</div>\n</li>\n</ul>"
+        "title": "如何使用 首个全链路 Data Agent",
+        "html": "<ol><li>打开 TabTab 页面并登录，进入对话式工作台。</li><li>用中文描述需求，或直接指派任务，例如整理某类数据并出图。</li><li>根据提示判断任务落在哪个模块：需要取数走数据采集，需要查库走 ChatDB。</li><li>在结果区核对图表与结论，必要时补充说明要求重算。</li><li>需要私有部署时，改用一键部署 OpenClaw 的入口。</li></ol>"
       },
       {
-        "title": "TabTab使用示例",
-        "html": "<blockquote><p>示例一：</p>\n<p>我上传了一份抖音电商平台的用户特征数据，请你帮我完成如下数据分析，并生成总结报告:<br>\n1.用户整体画像<br>\n2.用户行为与消费能力分析<br>\n3.商品偏好与产品策略建议<br>\n4.营销触达分析<br>\n请将以上分析内容以图表+文字解读方式输出，并给出一页总结性结论，包括推荐的推广时间、目标人群画像、内容偏好建议。</p></blockquote>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/08/tabtab-website-8.png\" data-fancybox=\"fancybox\" data-caption=\"\"><img decoding=\"async\" class=\"alignnone wp-image-60968\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/tabtab-website-8.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"\" width=\"704\" height=\"396\"></a> <a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/08/tabtab-website-9.png\" data-fancybox=\"fancybox\" data-caption=\"\"><img decoding=\"async\" class=\"alignnone wp-image-60969\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/tabtab-website-9.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"\" width=\"705\" height=\"397\"></a>\n<blockquote><p>示例二：</p>\n<p>根据“社交内容运营数据表”中的数据，帮我做以下数据处理：<br>\n1、将所有内容类型为“短视频”的记录标记出来<br>\n2、帮我计算一下总互动量，并且绘制一个 Q1～ Q4 总互动量的趋势图<br>\n3、对比一下 Q3 每个内容类型分别有多少总互动量<br>\n4、帮我统计一下 Q3 每个类型的“内容生产成本类别” 占总成本多少百分比</p></blockquote>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/08/tabtab-website-15.png\" data-fancybox=\"fancybox\" data-caption=\"\"><img decoding=\"async\" class=\"alignnone wp-image-61052\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/tabtab-website-15.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"\" width=\"704\" height=\"463\"></a>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/08/tabtab-website-16-1.png\" data-fancybox=\"fancybox\" data-caption=\"\"><img decoding=\"async\" class=\"alignnone wp-image-61055\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/tabtab-website-16-1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"\" width=\"704\" height=\"463\"></a>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/08/tabtab-website-17.png\" data-fancybox=\"fancybox\" data-caption=\"\"><img decoding=\"async\" class=\"alignnone wp-image-61053\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/tabtab-website-17.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"\" width=\"704\" height=\"463\"></a> <a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/08/tabtab-website-18.png\" data-fancybox=\"fancybox\" data-caption=\"\"><img decoding=\"async\" class=\"alignnone wp-image-61054\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/tabtab-website-18.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"\" width=\"703\" height=\"462\"></a>"
-      },
-      {
-        "title": "TabTab的适用人群",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong class=\"\">电商运营人员</strong>：能快速分析用户行为数据，优化活动策略，提升转化率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">市场分析师</strong>：可以高效处理多源数据，生成专业报告，支持决策制定。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">知识工作者</strong>：无需掌握复杂的数据分析工具，即可完成日常数据任务。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">产品经理</strong>：通过数据分析推动产品改进，如优化按钮位置提升转化率。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>新手用户</strong>：对数据分析不太熟悉的人也能轻松上手，快速生成图表和报告。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>SMB 客户</strong>：中小型企业客户，需要高效、易用的数据分析工具来支持业务发展。</div>\n</li>\n</ul>"
+        "title": "首个全链路 Data Agent 的应用场景",
+        "html": "<p>首个全链路 Data Agent 适合：</p><ul><li>业务分析：把零散问题交给智能体跑通取数与出图。</li><li>运营复盘：快速整理周期性数据并生成图表。</li><li>市场调研：做主题性的深度研究并汇总发现。</li><li>数据团队：把重复性的查库与制图工作交出去。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "kuxuanai-com",
@@ -24771,11 +24835,23 @@
     "domain": "chat.colossalai.org",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<p>ColossalChat是由Colossal-AI推出的免费开源版ChatGPT<a href=\"https://ai-bot.cn/best-free-ai-chatbots/\" target=\"_blank\" rel=\"noopener\">聊天机器人</a>替代品，目前其GitHub项目已斩获26K星标。</p>\n<p>作为当今领先的开源大型人工智能模型解决方案，Colossal AI是第一个基于LLaMA预训练模型开源完整RLHF机制的公司，该机制包括监督数据收集、监督微调、奖励模型训练和强化学习微调，并共享ColossalChat——与最初的ChatGPT技术解决方案非常相似的开源项目。</p>\n<p>该开源项目包括以下内容：</p>\n<ul>\n<li>Demo演示：一个交互式演示，无需注册或加入等待名单即可在线试用</li>\n<li>训练代码：开源完整的RLHF训练代码，包括70亿和130亿的模型。</li>\n<li>数据集：开源104K中英文双语数据集。</li>\n<li>推理：仅需要4GB GPU内存便可进行70亿参数模型的4-bit量化推理。</li>\n<li>模型权重：在单个服务器上只需少量计算能力即可实现快速复制。</li>\n</ul>"
+        "title": "ColossalChat 是什么",
+        "html": "<p>ColossalChat 是 Colossal-AI 项目下的一个开源对话应用，官方仓库把它描述为「用完整 RLHF 流程复刻 ChatGPT」的开源方案。ColossalChat 的代码放在 Colossal-AI 仓库的 applications/Chat 目录下，因此它的训练与推理能力直接建立在 Colossal-AI 这套面向大模型的并行与加速框架之上。Colossal-AI 自身的定位是让大型 AI 模型更便宜、更快、更易获得，ColossalChat 则把这一底层能力落到具体的对话场景中。用户既可以在官方提供的在线演示页上试用，也可以取源码自行部署。</p>"
+      },
+      {
+        "title": "ColossalChat 的主要功能",
+        "html": "<p>按官方仓库的说明，ColossalChat 的特点集中在训练效率与部署弹性两方面：</p><ul><li>完整 RLHF 流程：把监督微调、奖励模型与基于人类反馈的强化学习串成一条链路。</li><li>训练加速：在 RLHF 的 PPO 第三阶段，官方给出的数据是最高可提升十倍速度。</li><li>扩展能力：提供随规模增长的扩展方案。</li><li>低资源部署：给出单张 GPU 上运行的路径。</li><li>LoRA 支持：可用低秩适配方式降低显存与训练成本。</li></ul><p>这些内容说明 ColossalChat 的重点不只是能否对话，而是把「复刻对话模型」这件事做成可复现、可调资源的工程流程。</p>"
+      },
+      {
+        "title": "如何使用 ColossalChat",
+        "html": "<ol><li>只想体验对话时，直接打开 ColossalChat 的在线演示页试用。</li><li>准备自行部署时，从官方仓库取得代码，进入 applications/Chat 目录。</li><li>按仓库文档准备环境与数据，选择走完整 RLHF 流程或只做某个阶段。</li><li>资源有限时启用 LoRA，或参考单张 GPU 的配置方案。</li><li>需要扩大规模时，按官方给出的扩展说明调整并行配置。</li></ol>"
+      },
+      {
+        "title": "ColossalChat 的应用场景",
+        "html": "<p>ColossalChat 主要面向：</p><ul><li>研究与教学：需要完整走一遍 RLHF 流程的实验环境。</li><li>自建对话服务：希望把对话模型部署在自有算力上。</li><li>成本敏感团队：借由 LoRA 与单卡方案压低试跑门槛。</li><li>框架选型：评估大模型训练加速方案时的参考实现。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-29"
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "tool140",
@@ -27060,8 +27136,25 @@
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool933.png",
     "domain": "locofy.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI无代码工具将Figma、Adobe 设计稿转代码 是什么",
+        "html": "<p>AI无代码工具将Figma、Adobe设计稿转代码 说的是 Locofy 的核心能力。按官网的产品导航，设计稿转代码是 Locofy 的主线：它从 Figma 稿件出发，也支持 Penpot 与 Adobe XD 两种来源，把界面直接生成可用的前端工程。AI无代码工具将Figma、Adobe设计稿转代码 的思路是把设计意图翻译成结构化组件，而不是逐像素描摹，因此生成结果会带上可维护的框架结构。官网另有一条名为 LDM 的线，指向其自研的 Large Design Models 方向与配套研究论文，说明 Locofy 在模型层面做了专门投入。</p>"
+      },
+      {
+        "title": "AI无代码工具将Figma、Adobe 设计稿转代码 的主要功能",
+        "html": "<p>官网列出的能力可归纳为四组：</p><ul><li>多来源输入：Figma、Penpot 与 Adobe XD，其中 Penpot 的移动端目标尚在开发中。</li><li>多目标框架：移动端覆盖 React Native 与 Flutter；Web 端覆盖 React、HTML/CSS、Next.js、Gatsby、Vue 与 Angular。</li><li>与开发环境衔接：提供 VS Code 扩展与 GitHub 集成。</li><li>与 AI 编程工具协作：通过 MCP 对接 Gemini CLI、Cursor、GitHub Copilot、Windsurf 与 Claude Desktop 等。</li></ul><p>此外官网把 Enterprise 单独作为一个入口，并配有 LDM tokens 的计费说明，说明 AI无代码工具将Figma、Adobe设计稿转代码 在实际使用中按用量计费。</p>"
+      },
+      {
+        "title": "如何使用 AI无代码工具将Figma、Adobe 设计稿转代码",
+        "html": "<ol><li>在 Locofy 官网注册并登录，准备好要转换的设计稿件。</li><li>选择来源类型：Figma、Penpot 或 Adobe XD。</li><li>选定输出目标，移动端可选 React Native 或 Flutter，Web 端按项目技术栈挑框架。</li><li>生成后把代码取回本地，用 VS Code 扩展或 GitHub 集成接入现有工程。</li><li>如果团队用 AI 编程助手，可通过 MCP 把它接到同一工作流里继续改。</li></ol>"
+      },
+      {
+        "title": "AI无代码工具将Figma、Adobe 设计稿转代码 的应用场景",
+        "html": "<p>AI无代码工具将Figma、Adobe设计稿转代码 适合：</p><ul><li>产品原型到前端：把已验证的稿件快速变成可运行页面。</li><li>外包与代理商：在紧工期里减少重复的切图与拼装工作。</li><li>设计系统落地：把既有组件库的设计规范转成代码实现。</li><li>创业团队：在人力有限时先跑通页面，再逐步重构。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "fronty-com",
@@ -28726,8 +28819,25 @@
     "subcategory": "ai-design-poster",
     "logo": "/logos/tool1986.png",
     "domain": "d.design",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "阿里推出的智能设计商品图和海报的平台 是什么",
+        "html": "<p>阿里推出的智能设计商品图和海报的平台 在页面上以「鹿班营销图」的面貌出现，挂在堆友的设计工具箱之下。按官网界面，它面向电商与营销物料场景，用户上传商品图后由系统生成营销图与海报，省去从零排版的过程。阿里推出的智能设计商品图和海报的平台 提供了按营销风格、类目与尺寸筛选的模板体系，并区分普通模板与 VIP 模板，说明它并不是只出一张固定版式，而是按投放位置给出多种尺寸方案。历史记录与批量处理入口也在同一页面，方便对同一批素材连续操作。</p>"
+      },
+      {
+        "title": "阿里推出的智能设计商品图和海报的平台 的主要功能",
+        "html": "<p>阿里推出的智能设计商品图和海报的平台 在页面上可看到这些能力：</p><ul><li>图片上传：可接受的扩展名是 PNG、JPG 与 JPEG；文件体积上限为 10MB，最长边须在 4000 像素以内。</li><li>模板筛选：模板可按营销风格、商品类目与输出尺寸三个维度过滤。</li><li>模板分层：普通模板与 VIP 模板分开，后者面向付费会员。</li><li>生成计费：每次生成会消耗平台积分，具体额度以页面提示与官网为准。</li><li>结果管理：带生成记录与下载入口，并提供分享与删除操作。</li><li>批量处理：面向多张素材的连续作业。</li><li>风格切换：同一张商品图可套用不同营销风格与版式，便于分渠道投放。</li></ul><p>这些设置把阿里推出的智能设计商品图和海报的平台 定位成电商运营日常批量出图的位置，而不是单次创作工具。</p>"
+      },
+      {
+        "title": "如何使用 阿里推出的智能设计商品图和海报的平台",
+        "html": "<ol><li>登录堆友，打开鹿班营销图入口。</li><li>把商品图拖入上传区，或点击选择本地文件，注意格式与体积限制。</li><li>用营销风格、类目与尺寸筛选合适的模板。</li><li>确认后点立即生成，等待系统产出营销图。</li><li>在生成记录里下载结果；如有多张素材，改走批量处理。</li></ol>"
+      },
+      {
+        "title": "阿里推出的智能设计商品图和海报的平台 的应用场景",
+        "html": "<p>阿里推出的智能设计商品图和海报的平台 常见于：</p><ul><li>电商主图：为同一商品批量产出不同尺寸的展示图。</li><li>活动海报：大促期间按统一风格快速铺量。</li><li>店铺装修：给详情页与店铺首页补充营销视觉。</li><li>渠道分发：把一套素材改编成各平台要求的尺寸。</li><li>日常上新：为新上架商品持续补充规格统一的展示图，减少重复排版。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "tool1087",
@@ -28747,8 +28857,25 @@
     "subcategory": "ai-design-graphic",
     "logo": "/logos/tool1087.png",
     "domain": "canva.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "在线设计工具Canva推出的AI设计工具 是什么",
+        "html": "<p>在线设计工具Canva推出的AI设计工具 指的是 Canva 的 Magic Design。按官方页面介绍，Magic Design 是一个由生成式 AI 驱动的设计生成器，用户给出想法后，它会产出可直接使用的设计稿，并按品牌规范与目标受众做适配。在线设计工具Canva推出的AI设计工具 的定位不同于单纯出图的模型：它输出的是一份完整的版式，包含排版与内容结构，用户随后在此基础上继续调整。官网把 Magic Design 与 Canva 的整套 AI 能力挂在同一层级，说明它既可以独立使用，也能在已有设计流程里作为起点。</p>"
+      },
+      {
+        "title": "在线设计工具Canva推出的AI设计工具 的主要功能",
+        "html": "<p>围绕 Magic Design，官网列出的相关 AI 能力包括：</p><ul><li>Magic Layers：把平面稿件拆分为可编辑图层。</li><li>Canva AI 助手：以对话方式协助完成设计任务。</li><li>Canva Code：用代码方式扩展作品。</li><li>Magic Resize：一次改动，批量适配不同尺寸。</li><li>Magic Animate：为静态设计加入动效。</li><li>Magic Write：生成与润色文案。</li><li>Translate 与 Magic Insights：分别负责翻译与内容分析。</li><li>Magic Formulas：在表格场景里处理公式。</li></ul><p>在线设计工具Canva推出的AI设计工具 把这些动作串成一条链路，让生成只是第一步，后续的改尺寸、加动效与配文案都能在同一处完成。</p>"
+      },
+      {
+        "title": "如何使用 在线设计工具Canva推出的AI设计工具",
+        "html": "<ol><li>进入 Magic Design 页面并登录 Canva 账号。</li><li>用一句话或一小段文字描述想做的东西，例如海报、社交图或演示文稿。</li><li>等待系统给出若干版式方案，挑选最接近需求的一份。</li><li>在画布里替换文字与图片，必要时用 Magic Resize 适配其他尺寸。</li><li>如需动态效果，再调用 Magic Animate 补充。</li></ol>"
+      },
+      {
+        "title": "在线设计工具Canva推出的AI设计工具 的应用场景",
+        "html": "<p>在线设计工具Canva推出的AI设计工具 适合：</p><ul><li>市场推广：在短时间内产出整套渠道物料并保持风格统一。</li><li>中小企业：缺少专职设计师时，先由 AI 出初稿再微调。</li><li>内容团队：为文章与视频快速生成配套封面。</li><li>个人使用：做活动海报、简历或社交图片的快速起稿。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "jiandan-link",
@@ -29852,8 +29979,25 @@
     "subcategory": "ai-design-logo",
     "logo": "/logos/tool176.png",
     "domain": "illostration.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "AI插画生成，low poly、3D、矢量插画 是什么",
+        "html": "<p>AI插画生成，low poly、3D、矢量插画 描述的是 illostration AI 的产品方向。按官网首页，它把自己定义为用 AI 生成插画的工具，并强调每次生成都会得到不同的作品，目标是让没有绘画基础的人也能在短时间内拿到可用配图。AI插画生成，low poly、3D、矢量插画 目前处于公开测试阶段，页面顶部标有 Beta 字样，注册即赠送一定的初始额度用于试用。它的流程被压缩成三步，从选择风格开始，到描述对象，再到用 AI 放大与去背等手段优化结果。</p>"
+      },
+      {
+        "title": "AI插画生成，low poly、3D、矢量插画 的主要功能",
+        "html": "<p>官网列出的功能可以分成生成与后期两部分：</p><ul><li>风格库：可选 3D 渲染、矢量、low poly、皮克斯风格、图标与像素画等多种画风。</li><li>描述式生成：输入角色名称，或用一句话描述想要的对象。</li><li>结果优化：提供 AI 放大以提升清晰度，并可去掉原有背景或替换为新背景。</li><li>局部编辑：擦掉不满意的部分，再由模型补全。</li><li>批量出图：上传包含多个对象的表格文件，一次得到一组插画。</li><li>设计工具衔接：提供 Figma 插件，并支持把矢量插画导出为 SVG。</li></ul><p>这些能力把 AI插画生成，low poly、3D、矢量插画 从单张出图扩展到成组出图与设计稿内直接用图。</p>"
+      },
+      {
+        "title": "如何使用 AI插画生成，low poly、3D、矢量插画",
+        "html": "<ol><li>注册 illostration AI 账号，领取免费额度。</li><li>进入生成界面，先挑风格，在 3D 渲染、矢量、low poly、像素画等之间选择。</li><li>输入角色名或一句描述，提交生成。</li><li>对结果做优化：放大提升清晰度，或替换背景。</li><li>需要成组素材时改用表格批量上传；在 Figma 里作业的可装插件，矢量稿再导出为 SVG。</li></ol>"
+      },
+      {
+        "title": "AI插画生成，low poly、3D、矢量插画 的应用场景",
+        "html": "<p>AI插画生成，low poly、3D、矢量插画 适合：</p><ul><li>产品界面：为空状态与引导页补充风格统一的插图。</li><li>内容排版：给文章与演示配上不重复的视觉元素。</li><li>品牌起步：在预算有限时先建立初级插画库。</li><li>教学材料：为课件批量生成同一画风的示意图。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "tool122",
@@ -36951,8 +37095,25 @@
     "subcategory": "ai-platform-deploy",
     "logo": "/logos/tool3013.png",
     "domain": "sdk.vercel.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Vercel开源的搭建AI聊天机器人的开源工具包 是什么",
+        "html": "<p>Vercel开源的搭建AI聊天机器人的开源工具包 指的是 AI SDK。按官方文档，它是一套 TypeScript 工具包，用来构建 AI 应用与智能体，可配合 React、Next.js、Vue、Svelte 与 Node.js 等使用。Vercel开源的搭建AI聊天机器人的开源工具包 解决的核心问题是模型接入的碎片化：不同供应商的接口各有差异，开发者往往要把大量精力花在适配而非业务上，AI SDK 则把这层差异统一起来。文档当前版本为 v7，页面同时给出「复制给 LLM」与「查看 Markdown」两种取用方式，方便把文档直接喂给编码助手。</p>"
+      },
+      {
+        "title": "Vercel开源的搭建AI聊天机器人的开源工具包 的主要功能",
+        "html": "<p>官方文档把能力划为几个面：</p><ul><li>AI SDK Core：用统一接口完成文本生成、结构化对象生成、工具调用与智能体构建。</li><li>AI SDK UI：一组与框架无关的钩子，用于快速搭建聊天与生成式界面。</li><li>AI SDK Harnesses：通过 HarnessAgent 统一调用既有的智能体运行时，例如 Codex 与 Claude Code 等。</li><li>Gateway 与 Providers：对接多家模型供应商。</li><li>配套资源：包含 Recipes、Tools Registry、Templates、Showcase 与 Playground。</li></ul><p>文档给出的示例展示了同一段代码换模型即可运行的做法，说明 Vercel开源的搭建AI聊天机器人的开源工具包 把「换供应商」变成了改一个标识符的事。</p>"
+      },
+      {
+        "title": "如何使用 Vercel开源的搭建AI聊天机器人的开源工具包",
+        "html": "<ol><li>阅读 AI SDK 的入门文档，按所选框架安装对应依赖。</li><li>从 Providers 里选一家模型供应商并配置密钥，或走 Gateway。</li><li>用 Core 的接口完成文本生成与工具调用，先把后端跑通。</li><li>引入 UI 层的钩子，搭起聊天界面。</li><li>需要复用已有智能体时，改用 Harnesses 的接口接入。</li></ol>"
+      },
+      {
+        "title": "Vercel开源的搭建AI聊天机器人的开源工具包 的应用场景",
+        "html": "<p>Vercel开源的搭建AI聊天机器人的开源工具包 适合：</p><ul><li>聊天产品：从零搭建带对话界面的应用。</li><li>多功能助手：需要模型生成结构化数据或调用工具的场景。</li><li>多供应商策略：希望随时更换模型而不重写业务的团队。</li><li>快速验证：借模板与 Playground 在短时间内跑通原型。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "keras-io",
@@ -37238,8 +37399,25 @@
     "subcategory": "ai-platform-training",
     "logo": "/logos/tool1848.jpg",
     "domain": "lightning.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "快速训练、部署和开发人工智能产品的深度学习平台 是什么",
+        "html": "<p>快速训练、部署和开发人工智能产品的深度学习平台 指的是 Lightning AI。按官网首页的表述，它面向需要自建模型的团队，把构建、训练与部署三件事放在同一环境里，并强调「停止租用 AI，改为拥有它」。快速训练、部署和开发人工智能产品的深度学习平台 与常见托管式 API 的差别在于资源归属：平台按需提供带保障的 GPU、集群与企业级基础设施，用户在其上训练并运行自己的专用模型。官网给出的规模数字是已服务超过四十五万名开发者与 AI 团队，说明它被相当数量的实际项目采用。平台把算力、开发环境与上线路径收在一处，目的是让团队不必在多家供应商之间来回拼接。</p>"
+      },
+      {
+        "title": "快速训练、部署和开发人工智能产品的深度学习平台 的主要功能",
+        "html": "<p>按官网导航，快速训练、部署和开发人工智能产品的深度学习平台 提供这些入口：</p><ul><li>模板：从现成的项目模板起步。</li><li>模型：管理与选用模型资产。</li><li>构建与训练：在同一处完成开发与训练。</li><li>推理：训练完成后直接对外提供推理服务。</li><li>GPU 资源：按需获取显卡算力，另提供集群方案。</li><li>AI 编码智能体：把编码助手纳入开发流程。</li><li>企业能力：面向团队的权限与基础设施支持。</li></ul><p>这些入口被并列放在同一层菜单，意味着从拿到算力到上线服务的过程不需要在多个平台之间搬运。</p>"
+      },
+      {
+        "title": "如何使用 快速训练、部署和开发人工智能产品的深度学习平台",
+        "html": "<ol><li>注册 Lightning AI 账号，按团队规模选择方案或申请演示。</li><li>从模板新建项目，或导入既有代码库。</li><li>申请所需 GPU，开始训练自己的专用模型。</li><li>训练完成后在平台内配置推理服务，对外提供调用。</li><li>需要更大规模时改用集群资源，并借助 AI 编码智能体加快迭代。</li></ol>"
+      },
+      {
+        "title": "快速训练、部署和开发人工智能产品的深度学习平台 的应用场景",
+        "html": "<p>快速训练、部署和开发人工智能产品的深度学习平台 适合：</p><ul><li>自建模型：需要摆脱通用接口限制、拥有专属模型的企业。</li><li>算力弹性：训练任务时紧时松，希望按需取用显卡。</li><li>研究项目：需要在同一环境里反复实验与验证。</li><li>产品上线：把训练结果直接发布为推理端点。</li><li>成本核算：把算力开销与模型资产握在自己手里，便于按项目核算。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "tool2625",
@@ -37413,23 +37591,23 @@
     "domain": "d.design",
     "detailed_content": [
       {
-        "title": "堆友AI学习是什么",
-        "html": "<p>堆友AI学习是<a href=\"https://ai-bot.cn/sites/61378.html\" target=\"_blank\" rel=\"noopener\">堆友AI</a>推出的AI设计知识学习网站，提供线上课程和线下实训营，课程内容覆盖从基础到进阶的各个阶段，包括AI应用通识、技能基础和实战案例等。通过视频教程、笔记分享和线下活动，堆友AI学习能帮助学习者掌握AI设计技能，提升实战能力。堆友AI学习提供与阿里国际AITIC认证合作的课程，让学习内容具备专业性和权威性。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/08/d.design-study-website2.png\" data-fancybox=\"fancybox\" data-caption=\"堆友AI学习\"><img decoding=\"async\" class=\"alignnone wp-image-61407\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/d.design-study-website2.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"堆友AI学习\" width=\"740\" height=\"416\"></a>"
+        "title": "堆友AI推出的AI设计知识学习网站 是什么",
+        "html": "<p>堆友AI推出的AI设计知识学习网站 是堆友平台内的学习板块，页面把它拆成技能学习、技能实训与实战应用三段。按官网界面，前一段提供课程与笔记，中段对应线下实训营与项目制工作坊，后一段强调学、练、用闭环并延伸到接单与找工作。堆友AI推出的AI设计知识学习网站 的课程按类目组织，既含技能类与实例类，也含设计通识、视频动画、知识框架、品牌设计与大厂案例等方向，说明它的内容并不局限于软件操作，而是把设计方法与行业案例一起纳入。</p>"
       },
       {
-        "title": "堆友AI学习的主要功能",
-        "html": "<ul>\n<li><strong>课程学习</strong>：提供从基础到进阶的AI设计课程，涵盖职业基础、实用方案、技能基础、实战案例等。</li>\n<li><strong>线下实训营</strong>：组织线下实训营，提供实战训练和交流机会，如AIGC设计专题和基础通识实训营。</li>\n<li><strong>笔记分享</strong>：用户能分享学习笔记和创作，促进知识交流和创意激发。</li>\n<li><strong>视频教程</strong>：提供视频教程，如“从零开始用堆友”系列，帮助新手快速上手。</li>\n<li><strong>课程推荐</strong>：根据用户需求推荐合适的课程，提升学习效率。</li>\n<li><strong>分类浏览</strong>：课程按技能类、实例类、设计通识等分类，方便用户查找所需课程。</li>\n</ul>"
+        "title": "堆友AI推出的AI设计知识学习网站 的主要功能",
+        "html": "<p>从页面上的课程组织方式看，堆友AI推出的AI设计知识学习网站 具备这些结构：</p><ul><li>三层学习路径：技能学习、技能实训、实战应用各自对应不同深度的内容。</li><li>课程分类：提供技能类、实例类、设计通识、视频动画、知识框架类、品牌设计、大厂案例类等标签。</li><li>能力坐标：用 C、T、G、B 四组编号细分课程层次，覆盖面从职业基础到 AI 应用通识与商业模式。</li><li>认证课程：以阿里国际 AITIC 为例，进阶版包含 14 章 91 节，基础版为 9 章 50 节，通过考核可获得证书。</li><li>学习管理：设有我的学习入口，便于跟踪已选课程。</li></ul><p>这些设计让堆友AI推出的AI设计知识学习网站 更像一份带进度管理的培养方案。</p>"
       },
       {
-        "title": "如何使用堆友AI学习",
-        "html": "<ul>\n<li><strong>访问官网</strong>：通过浏览器访问堆友官网&nbsp;<a href=\"https://d.design/study?from=ab13\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\"> https://d.design/study</a>&nbsp;，注册登录账号。</li>\n<li><strong>浏览课程</strong>：在“技能学习”页面，能看到各种课程分类，如技能类、实例类、设计通识等。或按C-TGB分类法筛选课程。</li>\n<li><strong>选择课程</strong>：根据自己的需求和兴趣选择合适的课程，包括线上课程或线下实训营。</li>\n<li><strong>学习课程</strong>：对于线上课程，直接在平台上学习视频教程和阅读相关资料。对于线下实训营，在指定时间内报名参加。</li>\n<li><strong>参与社区</strong>：在社区中分享学习笔记、作品和经验，与其他设计师交流互动。</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/08/d.design-study-website1.png\" data-fancybox=\"fancybox\" data-caption=\"堆友AI学习\"><img decoding=\"async\" class=\"alignnone wp-image-61406\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/d.design-study-website1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"堆友AI学习\" width=\"740\" height=\"416\"></a>"
+        "title": "如何使用 堆友AI推出的AI设计知识学习网站",
+        "html": "<ol><li>打开堆友学习页，先看清技能学习、技能实训与实战应用三段的分工。</li><li>按目标选类目：偏工具操作的看技能类，偏方法论的看设计通识与知识框架类。</li><li>用 C、T、G、B 编号判断课程所处层次，避免基础未牢就跳到高阶内容。</li><li>选定课程后加入我的学习，按章节推进。</li><li>需要认证的课程，完成全部章节后参加考核获取证书。</li></ol>"
       },
       {
-        "title": "堆友AI学习的应用场景",
-        "html": "<ul>\n<li><strong>技能提升</strong>：设计师通过堆友AI学习提供的课程提升自己的设计技能，包括AI应用通识和提效等。</li>\n<li><strong>创意激发</strong>：堆友AI学习提供的实战案例和设计通识课程帮助设计师获取新的创意灵感。</li>\n<li><strong>职业发展</strong>：对于希望在设计领域发展职业生涯的人士，堆友AI学习提供从基础到进阶的课程，有助于职业成长。</li>\n<li><strong>教育和培训</strong>：教育机构和企业用平台进行设计教育和员工培训，包括线下实训营。</li>\n<li><strong>个人兴趣</strong>：对设计感兴趣的个人通过自学发展个人爱好。</li>\n</ul>"
+        "title": "堆友AI推出的AI设计知识学习网站 的应用场景",
+        "html": "<p>堆友AI推出的AI设计知识学习网站 适合：</p><ul><li>设计新人：需要从通识到案例逐步建立方法体系。</li><li>电商从业者：想掌握 AI 在商品图与营销物料上的用法。</li><li>转岗人群：希望通过项目制实训补齐实操经验。</li><li>团队培训：用带认证的课程作为统一的学习标准。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "aisharenet-com",
@@ -37643,8 +37821,25 @@
     "subcategory": "ai-learning-course",
     "logo": "/logos/tool22.png",
     "domain": "coursera.org",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Best of Machine Learning & AI 是什么",
+        "html": "<p>Best of Machine Learning & AI 是 Coursera 官方为机器学习与人工智能方向整理的一份课程合集。按官网说明，策划这份合集的目的是让想了解这两个领域的读者不必自己逐门比较，而是从一份成体系的清单里找到匹配自身目标的课程。Best of Machine Learning & AI 同时覆盖入门与进阶两个层次，并点名了几项与之配套的工具方向，包括 Python、Google Cloud Platform 与 TensorFlow。在主题层面，这份合集列出文本挖掘、自然语言处理、深度学习、神经网络、聚类与分类等内容，并把它们对应到数据科学家、机器学习工程师、软件工程师以及正在转入该领域的学生等角色上。因此它更像一条按主题与难度铺开的学习路径索引，而不是单独的一门课。</p>"
+      },
+      {
+        "title": "Best of Machine Learning & AI 的主要功能",
+        "html": "<p>Best of Machine Learning & AI 的作用是把关联课程聚合到同一页，官网给出的代表性条目包括：</p><ul><li>Machine Learning：与 Stanford Online 和 DeepLearning.AI 联合推出，标注为入门层次。</li><li>Deep Learning：来自 DeepLearning.AI 的专项课程，标注为中级层次。</li><li>Prompt Engineering：由 Vanderbilt University 提供的专项课程。</li><li>IBM AI Developer：IBM 的证书类课程，偏向应用开发岗位。</li></ul><p>从这些条目的组织方式可以看出，Best of Machine Learning & AI 兼具算法基础与工程应用两条线：前者对应分类、聚类等经典内容，后者对应神经网络与模型部署所需的工程技能。</p>"
+      },
+      {
+        "title": "如何使用 Best of Machine Learning & AI",
+        "html": "<ol><li>打开 Coursera 上的 Best of Machine Learning & AI 合集页，先读开头说明，确认它覆盖的范围与自身目标是否一致。</li><li>按基础挑入口：没有相关背景时先选标注为入门级别的条目，再衔接进阶专项。</li><li>按岗位挑侧重：偏研发的可以优先看深度学习方向，偏产品与应用落地的可以看证书类课程。</li><li>把课程与工具方向绑定起来，用 Python、TensorFlow 等边学边做，避免只看视频不动手。</li><li>完成后回到合集页核对是否还有遗漏主题，再决定是否继续扩展。</li></ol>"
+      },
+      {
+        "title": "Best of Machine Learning & AI 的应用场景",
+        "html": "<p>Best of Machine Learning & AI 的适用对象比较明确：</p><ul><li>在校学生：需要一条从零到进阶、难度递进的学习顺序，用来规划自学节奏。</li><li>转岗人群：准备进入数据科学或机器学习工程岗位，希望系统补齐理论短板。</li><li>在职开发者：本职是软件工程，想补上模型相关能力以便承接新项目。</li><li>自学者：希望借由官方策划的清单减少筛选课程的时间。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "tool19",
@@ -38487,8 +38682,25 @@
     "subcategory": "ai-models-llm",
     "logo": "/logos/tool1626.png",
     "domain": "agpt.co",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "爆火的实现GPT-4完全自主的实验性开源项目 是什么",
+        "html": "<p>爆火的实现GPT-4完全自主的实验性开源项目 说的是 AutoGPT。官网现在把它呈现为一个「AI 团队」式的工作台：用户用日常语言交代任务，由一位名为 Otto 的总协调者分派给不同角色的智能体。爆火的实现GPT-4完全自主的实验性开源项目 保留着开源出身，首页专门用一段篇幅回顾它最早的开源历程，并列出文档、博客与 GitHub 入口，供用户自行取源码部署。官网同时提到它被多家媒体在 2023 年报道过，说明这一项目在自主智能体这一方向上曾引发广泛关注。</p>"
+      },
+      {
+        "title": "爆火的实现GPT-4完全自主的实验性开源项目 的主要功能",
+        "html": "<p>按官网展示的工作方式，它的能力围绕分工协作展开：</p><ul><li>协调者：由 Otto 负责统筹，把大目标拆给具体角色。</li><li>角色分工：示例中出现内容负责人 Maria、客户负责人 Max 与行政助理 Frankie 等岗位。</li><li>任务状态：首页用待办与已完成的状态展示每个角色推进到哪一步。</li><li>结果交付：以文章草稿、客户名单等可核对的形式给出产出。</li><li>可直接沿用：官网提供 32 个可自定义的 AI 专家角色。</li><li>自助部署：开源代码可自行获取与运行。</li></ul><p>这套设计把爆火的实现GPT-4完全自主的实验性开源项目 从单轮问答推进到按角色持续交付任务的状态。</p>"
+      },
+      {
+        "title": "如何使用 爆火的实现GPT-4完全自主的实验性开源项目",
+        "html": "<ol><li>打开 AutoGPT 官网，先看一段示例工作流，了解角色是怎么分工的。</li><li>用日常语言写下目标，交代给协调者 Otto。</li><li>按需挑选或自定义专家角色，例如内容、销售或行政方向。</li><li>在任务面板里跟踪进度，核对每个角色交付的结果。</li><li>想自建环境时，从 GitHub 取代码并按文档部署。</li></ol>"
+      },
+      {
+        "title": "爆火的实现GPT-4完全自主的实验性开源项目 的应用场景",
+        "html": "<p>爆火的实现GPT-4完全自主的实验性开源项目 常见用途包括：</p><ul><li>内容生产：让内容角色持续产出草稿并按反馈改稿。</li><li>线索整理：由客户角色筛出值得联系的名单。</li><li>日常杂务：把重复性事务交给助理角色跟进。</li><li>技术研究：在自有环境里研究多智能体协作机制。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "tool7412",
@@ -39126,8 +39338,25 @@
     "subcategory": "ai-models-llm",
     "logo": "/logos/tool1861.png",
     "domain": "github.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Stability AI推出的开源的类ChatGPT语言模型 是什么",
+        "html": "<p>Stability AI推出的开源的类ChatGPT语言模型 指的是 StableLM 系列。按官方仓库的开头说明，该仓库用于持续开发 StableLM 系列语言模型，并会随新检查点发布不断更新。Stability AI推出的开源的类ChatGPT语言模型 走的是开放权重路线：不同代际的模型分别以 CC BY-SA-4.0 等许可发布，部分与 LLaMA 相关的权重因为原始许可限制，只能以增量权重的形式提供。仓库按代际把模型分节排列，每一节都给出参数量、训练数据规模与协议信息，便于使用者按算力与用途挑选。</p>"
+      },
+      {
+        "title": "Stability AI推出的开源的类ChatGPT语言模型 的主要功能",
+        "html": "<p>仓库列出的模型族可以这样理解：</p><ul><li>StableLM-3B-4E1T：30 亿参数，在多轮训练机制下用一万亿词元训练四轮，用于研究重复数据对下游表现的影响。</li><li>StableLM-Alpha v2：提供 30 亿与 70 亿两种规模，上下文长度为 4096 词元，改用 SwiGLU 等结构调整，并更换了训练数据来源。</li><li>StableLM-Alpha：早期版本，训练数据在 The Pile 基础上扩充，上下文同为 4096 词元。</li><li>StableLM-Tuned-Alpha：按 Alpaca 流程，用多份对话数据微调出的版本。</li><li>StableVicuna-13B：对 Vicuna-13B 做 RLHF 微调后的模型。</li></ul><p>这些版本共同构成 Stability AI推出的开源的类ChatGPT语言模型 的开放谱系。</p>"
+      },
+      {
+        "title": "如何使用 Stability AI推出的开源的类ChatGPT语言模型",
+        "html": "<ol><li>先看仓库的模型分节，按参数量与许可证筛选合适的版本。</li><li>只想试聊的，直接进入官方提供的在线演示空间体验。</li><li>要自行部署的，按对应模型页的说明下载权重并配置环境。</li><li>注意许可差异：部分版本以增量权重发布，使用时需自行合并。</li><li>面向具体任务时，优先在基座模型上做自己的微调，而不是直接改指令模型。</li></ol>"
+      },
+      {
+        "title": "Stability AI推出的开源的类ChatGPT语言模型 的应用场景",
+        "html": "<p>Stability AI推出的开源的类ChatGPT语言模型 适合：</p><ul><li>本地部署：对数据流向有要求、希望模型跑在自有硬件的团队。</li><li>模型研究：需要开放权重做对照实验或复现工作。</li><li>二次开发：在基座模型上做领域微调。</li><li>教学演示：借小参数量版本在普通设备上演示训练与推理流程。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-10"
   },
   {
     "slug": "tool1076",
