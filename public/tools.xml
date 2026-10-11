@@ -1255,6 +1255,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/3d-hunyuan-tencent-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/3d-hunyuan-tencent-com.png</image:loc>
+      <image:title>腾讯混元3D logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/neural4d-com</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2182,6 +2191,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/video-hunyuan-tencent-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/video-hunyuan-tencent-com.png</image:loc>
+      <image:title>腾讯混元AI视频 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/makefun-ai</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2512,6 +2530,15 @@
     <image:image>
       <image:loc>/logos/sekotalk-com.png</image:loc>
       <image:title>SekoTalk logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/avatar-console-aliyun-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/avatar-console-aliyun-com.png</image:loc>
+      <image:title>通义灵眸 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -4114,6 +4141,15 @@
     <image:image>
       <image:loc>/logos/tool1369.png</image:loc>
       <image:title>你的贴身智能翻译专家 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool1372</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool1372.png</image:loc>
+      <image:title>你免费的随身翻译 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -6268,6 +6304,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool21562</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool21562.png</image:loc>
+      <image:title>谷歌推出的AI笔记应用，5分钟生成一段对话播客 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/google-flow-music</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -8353,6 +8398,15 @@
     <image:image>
       <image:loc>/logos/promptpilot-volcengine-com.png</image:loc>
       <image:title>火山方舟推出的AI提示词解决方案平台 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool68309</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool68309.png</image:loc>
+      <image:title>8200 +专业AI提示词模板｜灵活{变量}定制，免费试用 logo</image:title>
     </image:image>
   </url>
   <url>
