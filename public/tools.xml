@@ -1084,6 +1084,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/designkit-cn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/designkit-cn.png</image:loc>
+      <image:title>美图商拍 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/gaoding-com</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1615,6 +1624,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/designkit-cn-2</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/designkit-cn-2.png</image:loc>
+      <image:title>美图无损放大 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/upscayl-org</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1792,6 +1810,15 @@
     <image:image>
       <image:loc>/logos/ihuiwa-com-3.png</image:loc>
       <image:title>绘蛙AI消除 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/designkit-cn-3</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/designkit-cn-3.png</image:loc>
+      <image:title>美图AI消除 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -4585,6 +4612,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool58991</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool58991.png</image:loc>
+      <image:title>SciMaster ｜ Towards General logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/zeabur-com</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -6868,6 +6904,15 @@
     <image:image>
       <image:loc>/logos/zenmux-ai.svg</image:loc>
       <image:title>全球首个带保险赔付机制的企业级大模型聚合平台 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool61081</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool61081.jpg</image:loc>
+      <image:title>免费体验和测试 Google 最新的 AI 模型 logo</image:title>
     </image:image>
   </url>
   <url>
