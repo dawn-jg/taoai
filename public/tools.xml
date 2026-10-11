@@ -220,6 +220,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/reecho</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/reecho.png</image:loc>
+      <image:title>Reecho logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tongyi-lingma</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -370,6 +379,15 @@
     <image:image>
       <image:loc>/logos/xiaoin-com-cn.png</image:loc>
       <image:title>万能小in logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/miaobi-xinhuaskl-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/miaobi-xinhuaskl-com.png</image:loc>
+      <image:title>新华妙笔 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -595,6 +613,15 @@
     <image:image>
       <image:loc>/logos/if-caiyunai-com.jpg</image:loc>
       <image:title>彩云小梦 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool15321</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool15321.png</image:loc>
+      <image:title>墨狐AI logo</image:title>
     </image:image>
   </url>
   <url>
@@ -829,6 +856,15 @@
     <image:image>
       <image:loc>/logos/tool580.ico</image:loc>
       <image:title>Typeface AI logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool37</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool37.png</image:loc>
+      <image:title>文涌Effidit logo</image:title>
     </image:image>
   </url>
   <url>
@@ -2602,6 +2638,15 @@
     <image:image>
       <image:loc>/logos/admuse-qq-com-2.png</image:loc>
       <image:title>妙播 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/aigc-yizhentv-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/aigc-yizhentv-com.png</image:loc>
+      <image:title>秒创 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -6589,6 +6634,15 @@
     <image:image>
       <image:loc>/logos/tool255.png</image:loc>
       <image:title>Deep Fake文本转语音 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/bgmcat-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/bgmcat-com.png</image:loc>
+      <image:title>BGM猫 logo</image:title>
     </image:image>
   </url>
   <url>
