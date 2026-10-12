@@ -2420,8 +2420,25 @@
     "subcategory": "ai-writing-novel",
     "logo": "/logos/tool64875.png",
     "domain": "qianyeai.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "千页小说AI 是什么",
+        "html": "<p>千页小说AI 定位为面向小说创作全流程的写作平台，官网把自己的产品主张写成「超级小说家」：不仅仅是一个文本生成器，而是为理解长篇叙事细微差别而设计的综合创作套件。它的关注点放在长内容上——多层角色弧光、世界观设定、情节反转与文风统一，这些恰是通用写作工具容易忽略的部分。官网还强调把工具做成「激发灵感的工作区」：无干扰模式、干净的排版，工具只在需要时出现，并配有作者社区供交流与分享。</p>"
+      },
+      {
+        "title": "千页小说AI 的主要功能",
+        "html": "<p>按官网展示，千页小说AI 的能力分成几组：</p><ul><li>深度剧情生成：创建具有多层角色弧光和反转的复杂故事情节。</li><li>世界观图谱：把设定、地点与规则自动串起来，降低长篇前后矛盾的风险。</li><li>风格模仿引擎：可基于过往作品做训练，让续写尽量靠近作者本人的笔调。</li><li>智能编辑套件：就情节节奏、基调是否统一、画面感强弱给出实时建议。</li><li>长篇与短篇创作：从大纲到章节内容分层推进，覆盖小说与剧本等形态。</li><li>前期资料生成：封面、书名、简介、故事梗概、背景设定、题材与人物设定。</li><li>后期优化：拆书、审稿、缩写、扩写、文本润色、原稿续写与降 AI 值。</li><li>多端同步：灵感与修改可跨设备接续。</li></ul>"
+      },
+      {
+        "title": "如何使用 千页小说AI",
+        "html": "<ol><li>访问官网注册并登录，进入千页小说AI 的创作工作台。</li><li>先设定主要角色与背景，或直接输入想写的故事方向。</li><li>让千页小说AI 生成全书大纲，按需选择是否同时生成故事概述。</li><li>确认大纲后填充具体章节内容，可逐章续写也可整段生成。</li><li>拿智能编辑套件把情节节奏与基调过一遍，再对不满意的段落做润色、扩写或缩写。</li><li>结合世界观图谱核对设定是否冲突，需要时让千页小说AI 做原稿续写或降 AI 值处理。</li><li>定稿后保存或导出，并按需分享到社区获取反馈。</li></ol>"
+      },
+      {
+        "title": "千页小说AI 的应用场景",
+        "html": "<p>千页小说AI 面向的是需要持续输出长内容的创作者：</p><ul><li>网文连载：靠世界观图谱维持长线设定，用章节续写解决卡文。</li><li>短篇与剧本：先用大纲与人物设定搭骨架，再产出正文。</li><li>新手起步：不清楚从世界观、人物还是情节切入时，跟着千页小说AI 的流程一步步来。</li><li>文风统一：凭风格模仿引擎让续写部分尽量贴近既有稿件。</li><li>稿件打磨：用拆书、审稿与润色处理已有原稿，或降低明显的 AI 痕迹。</li><li>素材准备：批量生成书名、简介、封面与故事梗概，用于投稿或发布。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "tool13",
@@ -3975,23 +3992,23 @@
     "domain": "wen.mobvoi.com",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<p>奇妙文是由出门问问推出的一个<a href=\"https://ai-bot.cn/favorites/ai-writing-tools/\" target=\"_blank\" rel=\"noopener\">AI写作助手</a>，可以帮助用户快速进行市场营销、职场办公、新媒体、创意写作等类型的智能内容创作。奇妙文灵活简洁的编辑模式支持续写、改写、扩写、缩写、提炼要点、风格转换、纠错、翻译八大 AI 写作功能，用户可以在写作过程中一键唤醒 AI 帮助自己创作，并且还能在写作中让 AI 自动生成图片，真正做到图文并茂、文思泉涌。</p>"
+        "title": "奇妙文 是什么",
+        "html": "<p>奇妙文 是出门问问推出的 AI 写作应用，基于其自研大模型「序列猴子」构建。序列猴子以语言为核心的能力体系涵盖知识、对话、数学、逻辑、推理、规划六个维度，奇妙文 则把模型能力落到具体的写作流程上。据公开报道，序列猴子在 2023 年 11 月正式向全社会开放，用户可以直接登录基于该模型的 AI 写作助手奇妙文 进行体验。奇妙文 属于出门问问面向创作者的 CoPilot 产品矩阵，同矩阵还包括 AI 绘画平台言之画、AI 配音平台魔音工坊与数字人平台奇妙元，奇妙文 可调用言之画生成配图。</p>"
       },
       {
-        "title": "奇妙文的主要功能",
-        "html": "<ol>\n<li>AI内容编辑：支持AI续写、改写、风格转换、文本翻译、纠错等能力，让创作更加得心应手</li>\n<li>语言理解和生成：理解、分析输入文本及其情感色彩，基于上下文和相关知识生成自然语言文本</li>\n<li>对话交互：具备数据安全保护、应急响应、权限管理机制，迅速做出问题应对和措施防范</li>\n<li>支持多国语言：处理多语言文本输入并生成相应输出，包括但不限于中、英、德、法、日文等语种</li>\n</ol>"
+        "title": "奇妙文 的主要功能",
+        "html": "<p>官方公开说明中，奇妙文 的能力集中在编辑与生成两端：</p><ul><li>八大 AI 写作功能：续写、改写、扩写、缩写、提炼要点、风格转换、纠错与翻译。</li><li>一键唤醒 AI：在写作过程中随时唤起奇妙文 协助当前段落，而不必离开编辑页。</li><li>灵活简洁的编辑模式：以文档式界面承载生成与修改，便于边写边调。</li><li>自动配图：写作中可让 AI 生成图片，做到图文并茂。</li><li>多语言处理：可处理并生成中、英、德、法、日等多种语言的文本。</li><li>合规备案：奇妙文 已通过《生成式人工智能服务管理暂行办法》备案。</li></ul>"
       },
       {
-        "title": "奇妙文的产品价格",
-        "html": "<ol>\n<li>按会员制订阅：月会员68元（折扣价40.8元），半年会员408元（折扣价204元），年度会员816元（折扣价326.4元），每月可使用15万字的AI写作字数</li>\n<li>开通会员后，若字数消耗完可购买字数补给包，价格为：5万字29元、30万字89元、100万字199元</li>\n</ol>"
+        "title": "如何使用 奇妙文",
+        "html": "<ol><li>访问奇妙文 官网并登录账号，进入写作界面。</li><li>新建一篇文档，直接开始输入，或先给出主题让奇妙文 起草。</li><li>需要 AI 介入时在编辑区一键唤醒：说明想要续写、改写、扩写还是缩写。</li><li>用提炼要点功能压缩长文，或用风格转换把语气调整成目标读者习惯的样子。</li><li>用纠错检查用字与表达问题，再用翻译输出其他语言版本。</li><li>需要配图时让奇妙文 调用绘画能力生成图片，插进文档对应位置。</li><li>定稿后按官方说明以 Word 格式导出下载，便于二次编辑。</li></ol>"
       },
       {
-        "title": "常见问题",
-        "html": "<div id=\"accordion\" style=\"max-width: 700px;\">\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>奇妙文基于什么大模型？</strong></div>\n<div class=\"card-body text-sm\">奇妙文基于人工智能公司出门问问推出的「序列猴子」大模型，并已通过《生成式人工智能服务管理暂行办法》备案。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>奇妙文是免费的吗？</strong></div>\n<div class=\"card-body text-sm\">奇妙文提供免费体验版会员，过期后则需开通会员才可继续使用AI创作。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>奇妙文支持内容导出吗？</strong></div>\n<div class=\"card-body text-sm\">奇妙文支持将AI创作的内容以Word的格式导出和下载，方便二次编辑。</div>\n</div>\n</div>"
+        "title": "奇妙文 的应用场景",
+        "html": "<p>官方把适用面概括为四类内容创作场景，奇妙文 在各处都有具体落点：</p><ul><li>职场办公：撰写年终总结、周报与客服话术。</li><li>市场营销：生成广告脚本、商品亮点与推广文案。</li><li>新媒体：生产短视频文案与社交媒体内容。</li><li>创意写作：辅助剧本、小说与诗歌等创作。</li><li>学术辅助：优化论文等学术文本的语言细节，例如检查用字错误、提升表达的专业性。</li><li>图文并茂的稿件：让奇妙文 在成文的同时配图，直接可用于发布。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "tool575",
@@ -11014,35 +11031,23 @@
     "domain": "rhtv.runninghub.cn",
     "detailed_content": [
       {
-        "title": "RHTV是什么",
-        "html": "<p>RHTV 是<a href=\"https://ai-bot.cn/sites/56061.html\" target=\"_blank\" rel=\"noopener\"> RunningHub</a> 推出的原生 AI 无限画布创作工具，实现”真·人机协同”创作。RHTV 区别于传统”假画布 Agent”，将 <a href=\"https://ai-bot.cn/favorites/ai-agent/\" target=\"_blank\" rel=\"noopener\">AI 智能体</a>直接嵌入画布内，用户通过自然语言指令可驱动其完成从需求分析、脚本策划、分镜生成到成片输出的全流程，无需跳转窗口。RHTV 背靠 10 万+模型与 13681 个 ComfyUI 节点的满血生态，覆盖图像、视频、音频、3D、文本五大模态，支持创作-分享-变现闭环，让个人创作者能拥有专业团队的产能。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-76659\" src=\"https://ai-bot.cn/wp-content/uploads/2026/05/RHTV-website.png\"   alt=\"RHTV\" width=\"740\" height=\"416\" />"
+        "title": "RHTV 是什么",
+        "html": "<p>RHTV 是 RunningHub 平台上面向端到端 AI 创作的视频版块，官方把它描述为「端到端 AI 创作的无限画布」：文字、图像和视频三种输入都可以放进同一个无缝衔接的工作区里使用。RunningHub 本身是一个由原生 AI 智能体驱动的内容创作平台，围绕图像、视频与工作流搭建创作环境，把 ComfyUI 工作流、无限画布、AI 应用、快捷创作与模型 API 放在一起。RHTV 承担的是其中偏视频化、剧情化的那一部分，并在官网设有精选短片展示区。</p>"
       },
       {
-        "title": "RHTV的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>原生画布智能体</strong>：AI 智能体常驻无限画布内，24 小时待命，用户无需跳出画布即可完成全部创作交互。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>自然语言驱动</strong>：输入一句话需求，智能体自动拆解任务、分析风格调性、规划执行路径并搭建工作流。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>透明化工作流</strong>：全流程以可视化节点树呈现，每一步模型调用、参数设置、生成逻辑 100% 可见，支持单节点精准修改。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>Anchor First 锚点先行</strong>：优先锁定核心视觉锚点（如产品原型、角色三视图），确保后续所有生成内容形象一致。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>全模态工业流水线</strong>：覆盖剧本/分镜脚本、图像生成、图生视频、配音配乐、3D 渲染、剪辑包装的一站式产出。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>ComfyUI 生态一键调用</strong>：打通 ComfyUI 与画布最后一公里，海量专业级工作流无需本地部署，直接云端调用。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>创作变现闭环</strong>：画布作品与模板可发布至社区，获得曝光与持续收益，形成创作-分享-赚钱生态。</div>\n</li>\n</ul>"
+        "title": "RHTV 的主要功能",
+        "html": "<p>从官网展示的能力来看，RHTV 相关功能包括：</p><ul><li>无限画布：把文字、图像与视频素材放在同一工作区里编排。</li><li>深度捕捉：官方称可一键读懂画面背后的调度信息，复现动作与运镜。</li><li>视频编辑：官方公告上线了视频编辑能力，支持逐帧修改。</li><li>精选短片：官网设有 RHTV 短片展示与探索入口，可用于参考成片效果。</li><li>与平台能力打通：RHTV 所在的 RunningHub 平台同时提供快捷创作、模板专区与模型 API，偏商业与电商的场景可复用这些能力。</li><li>多模型支持：平台按用途区分图像与视频模型，并持续上新。</li></ul>"
       },
       {
-        "title": "如何使用RHTV",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>访问平台</strong>：访问RHTV官网 https://rhtv.ai/ 注册登录，直接进入浏览器端的无限画布，无需安装任何本地环境。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>下达指令</strong>：在画布底部输入框用自然语言描述需求，如”做一支科幻折叠屏手机 TVC 概念片”。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>配置模式</strong>：选择 Agent 执行策略、领域技能包和生成偏好（手动/自动），点击 GO 启动智能体。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>确认方案</strong>：审阅智能体生成的视觉风格、卖点挖掘、内容大纲与场景设计，确认后继续。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>锚点定稿</strong>：智能体在画布上创建产品定稿板或角色三视图，锁定后续所有片段必须保持一致的核心视觉锚点。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>节点执行</strong>：智能体以可视化节点树在画布上展开全流程，点击任意节点即可查看逻辑并单点修改，无需推翻重来。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>合成输出</strong>：确认所有节点后，智能体自动串联图像、视频、音频等模态，在画布内置剪辑器中完成最终成片。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>发布变现</strong>：将画布作品或工作流模板发布至社区，获得曝光并持续赚取收益。</div>\n</li>\n</ul>"
+        "title": "如何使用 RHTV",
+        "html": "<ol><li>打开 RunningHub 官网，进入 RHTV 所在的创作入口并登录账号。</li><li>在无限画布上确定创作目标：做短片、广告片还是电商视频。</li><li>用文字描述画面或分镜，也可以先上传图像或已有视频素材作为起点。</li><li>用 RHTV 的生成能力产出各段镜头，需要时用深度捕捉复现动作与运镜。</li><li>到视频编辑环节逐帧调整，把不满意的片段改到位。</li><li>参考官网的精选短片了解成片风格，再把作品导出或纳入后续创作流程。</li></ol>"
       },
       {
-        "title": "RHTV的关键信息和使用要求",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>产品名称</strong>：RHTV（RunningHub TV）</li>\n<li class=\"paragraph\"><strong>开发团队</strong>：RunningHub</li>\n<li class=\"paragraph\"><strong>产品定位</strong>：原生 AI 智能体全能内容创作平台</li>\n<li class=\"paragraph\"><strong>核心特色</strong>：无限画布 + 原生智能体 + ComfyUI 生态</li>\n<li class=\"paragraph\"><strong>支持模态</strong>：图像、视频、音频、3D、文本</li>\n<li class=\"paragraph\"><strong>模型/节点规模</strong>：10 万+ 模型，13681 个可用节点</li>\n<li class=\"paragraph\"><strong>社区规模</strong>：10 万+ 社区 AI 应用，15000+ 日活开发者</li>\n<li class=\"paragraph\"><strong>使用门槛</strong>：无需代码/部署，自然语言交互，浏览器即用</li>\n<li class=\"paragraph\"><strong>商业模式</strong>：平台使用 + 创作内容/模板发布变现</li>\n</ul>"
-      },
-      {
-        "title": "RHTV的核心优势",
-        "html": "<div class=\"chat-content-container\" data-v-34d0ce4f=\"\">\n<div class=\"chat-content-list\" data-v-34d0ce4f=\"\">\n<div class=\"chat-content-item chat-content-item-assistant\" data-v-34d0ce4f=\"\" data-archer-id=\"19e013bb-0982-8045-8000-0a0e6b278839\">\n<div class=\"segment segment-assistant\" data-v-7811be09=\"\" data-v-34d0ce4f=\"\">\n<div class=\"segment-container\" data-v-7811be09=\"\">\n<div class=\"segment-content\" data-v-7811be09=\"\">\n<div class=\"segment-content-box\" data-v-7811be09=\"\">\n<div class=\"markdown-container\" data-v-b3358103=\"\" data-v-67f46df3=\"\">\n<div class=\"markdown\" data-v-b3358103=\"\">\n<ul>\n<li>\n<div class=\"paragraph\"><strong>真原生智能体，零跳转体验</strong>：区别于”画布+对话窗口”割裂式交互，智能体真正住在画布内，创作流不被打断。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>全流程白盒可控</strong>：拒绝黑盒盲盒，每个生成步骤以节点形式可视化呈现，哪里不对改哪里，无需推翻重来。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>生态无上限</strong>：能力天花板由全球开源社区 15000+ 开发者共同定义，Day 0 级更新速度，永不落伍。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>ComfyUI 零门槛</strong>：将原本需要本地部署、高学习成本的专业工作流，变为云端一键调用。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>一人即团队</strong>：从品牌策略、导演、分镜师到后期剪辑，智能体承担全部执行角色，用户只需做决策导演。</div>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"okc-cards-container\" data-v-34d0ce4f=\"\">"
-      },
-      {
-        "title": "RHTV的同类竞品对比",
-        "html": "<table data-v-e7c0e5f5=\"\">\n<thead data-v-e7c0e5f5=\"\">\n<tr data-v-e7c0e5f5=\"\">\n<th align=\"left\" data-v-e7c0e5f5=\"\">对比维度</th>\n<th align=\"left\" data-v-e7c0e5f5=\"\">RHTV</th>\n<th align=\"left\" data-v-e7c0e5f5=\"\"><a href=\"https://ai-bot.cn/sites/73776.html\" target=\"_blank\" rel=\"noopener\">LibTV</a></th>\n<th align=\"left\" data-v-e7c0e5f5=\"\"><a href=\"https://ai-bot.cn/sites/66332.html\" target=\"_blank\" rel=\"noopener\">TapNow</a></th>\n</tr>\n</thead>\n<tbody data-v-e7c0e5f5=\"\">\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">开发团队</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">RunningHub</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">LiblibAI（哩布哩布AI）</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">TapNow（香港）</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong class=\"\" data-v-e7c0e5f5=\"\">产品形态</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">无限画布 + 原生常驻智能体</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">无限画布 + 节点式工作流（人类+Agent 双入口）</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">AI 原生创意画布（Tapflow 节点工作流）</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong class=\"\" data-v-e7c0e5f5=\"\">核心交互</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">自然语言驱动，智能体常驻画布内 24 小时待命，零跳转</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">拖拽节点精细创作 + OpenClaw 等 Agent 一句话自动执行</td>\n<td align=\"left\" data-v-e7c0e5f5=\"\">可视化节点拖拽编排 + 自然语言指令，导演级调度</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">工作流透明度</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">100% 节点可视化，单节点精准修改，全流程白盒可控</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">节点可视化，任意环节可修改复用，拒绝黑盒</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">节点式编辑，支持单点参数微调与模型替换</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong class=\"\" data-v-e7c0e5f5=\"\">模型生态</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">10 万+ 模型，13681 个 ComfyUI 节点，Day 0 级社区更新</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">30+ 顶级模型聚合（Seedance、可灵、HappyHorse、Midjourney、Wan 等）</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">多模型协同引擎（Veo、Kling、Midjourney、Runway、GPT 等）</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">专业控制</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">Anchor First 锚点先行，锁定角色/产品三视图确保全局一致</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">20+ 专业工具：角色三视图、9/25 宫格分镜、电影级灯光、三维打光、视频提帧</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">Cinema Lab 专业摄像机库、Spot to Edit 指哪改哪、角色一致性、虚拟模特</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">使用门槛</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">零代码，浏览器即用，无需本地部署</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">网页即开即用，人类入口零门槛；Agent 入口需配置 Skill</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">浏览器即用，内置模板库，新手友好兼顾专业控制</td>\n</tr>\n<tr data-v-e7c0e5f5=\"\">\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\"><strong data-v-e7c0e5f5=\"\">创作闭环</strong></td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">创作-分享-变现一体化，画布作品与模板可发布社区持续收益</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">支持作品发布与模板共享，背靠 2000 万创作者社区</td>\n<td class=\"\" align=\"left\" data-v-e7c0e5f5=\"\">TapTV 全球首个 AI 视觉开源社区，支持 Fork 复用完整工作流</td>\n</tr>\n</tbody>\n</table>"
-      },
-      {
-        "title": "RHTV的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>AI 漫剧 / 真人短剧</strong>：自动创作剧本、锁定角色三视图、铺九宫格分镜、调用 Seedance 2.0 出片并内置剪辑，一站式完成漫剧或短剧制作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>TVC / 广告片制作</strong>：输入产品卖点即可生成概念片，支持虚拟摄影机调用好莱坞级镜头，定点调光修材质，一人完成传统团队工作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>电商视觉资产</strong>：一句话生成整套品牌视觉物料，白棚/户外/复古场景一键切换，虚拟模特换装换姿势，直接产出可上架素材。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>室内设计渲染</strong>：自然语言描述户型与风格，直接输出多角度空间效果图、软装搭配及平面布局图，画布上定点改材质换灯光。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>品牌 VI 全案</strong>：从 Logo 创意到名片、包装、海报、社媒素材，自动延展统一调性的完整视觉方案，无需外包。</div>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+        "title": "RHTV 的应用场景",
+        "html": "<p>按 RunningHub 官网呈现的模板与案例，RHTV 适合这些场合：</p><ul><li>商业广告片：把产品图与品牌素材转成有视听冲击力的广告视频。</li><li>电商视频：围绕商品做展示、换装与场景化短片。</li><li>剧情短片：用无限画布组织连续镜头，产出偏叙事的内容。</li><li>社交平台短视频：制作符合平台节奏的短内容。</li><li>动作与运镜复现：用深度捕捉还原参考视频里的动作与镜头调度。</li><li>成片精修：对已有视频逐帧修改，做细节层面的调整。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "tapnow-ai",
@@ -12111,31 +12116,23 @@
     "domain": "aic.oceanengine.com",
     "detailed_content": [
       {
-        "title": "即创是什么",
-        "html": "<p>即创是抖音推出的一站式AI智能创作平台，专为电商领域的视频、图文和直播内容创作提供服务。即创支持智能成片（<a href=\"https://ai-bot.cn/best-ai-digital-human-tools/\" target=\"_blank\" rel=\"noopener\">AI一键生成数字人视频</a>）、AI视频脚本、商品卡工具、图文工具和AI直播脚本等功能，帮助用户提高创作效率和内容质量。即创提供免费公测，用户可以通过网页端访问和使用。即创的AI功能基于字节跳动自研的抖音云雀大模型，全方位满足短视频和抖音电商从业者的创作需求。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2023/11/aic-oceanengine-ai-avatar.png\" data-fancybox=\"fancybox\" data-caption=\"即创AI数字人\"><img decoding=\"async\" class=\"alignnone size-full wp-image-5563 rounded shadow-sm\" src=\"https://ai-bot.cn/wp-content/uploads/2023/11/aic-oceanengine-ai-avatar.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"即创AI数字人\" width=\"800\" height=\"450\"></a>"
+        "title": "即创 是什么",
+        "html": "<p>即创 是巨量引擎推出的一站式智能创意生产与管理平台，巨量引擎是抖音集团旗下的综合数字化营销服务平台。即创 把视频创作、图文生成、直播工具与创意管理放在同一个工作台里，覆盖从脚本、素材到成片与投放分析的链路，目标是让创意生产流程尽量自动化。从巨量引擎帮助中心可以看到，即创 的能力被拆成 AI 视频、数字人、图文、资产与创意分析等多个模块，且持续以产品手册的形式更新能力说明。使用即创 需要登录巨量引擎账号，并按提示绑定或创建组织。</p>"
       },
       {
-        "title": "即创的主要功能",
-        "html": "<ul>\n<li><strong>视频创作</strong>\n<ul>\n<li>智能成片：AI生成脚本、视频、数字人、配音，快速生成可用的视频短片</li>\n<li>AI视频脚本：选择行业类别，并输入商品ID、产品名称和卖点，即可输出短视频脚本</li>\n</ul>\n</li>\n<li><strong>图文创作</strong>\n<ul>\n<li>商品卡工具：输入商品ID，智能替换商品背景和智能设计营销边框</li>\n<li>图文工具：输入商品ID或上传图片，选择音乐风格及关键卖点，智能生成图文带货</li>\n</ul>\n</li>\n<li><strong>直播创作</strong>\n<ul>\n<li>AI直播背景：输入商品ID和直播主题，一键生成直播间背景样式</li>\n<li>AI直播脚本：输入商品ID、活动优惠、直播间玩法、营销节点，智能生成直播脚本</li>\n</ul>\n</li>\n</ul>"
+        "title": "即创 的主要功能",
+        "html": "<p>按巨量引擎帮助中心的即创帮助中心目录，功能主要分为：</p><ul><li>AI 视频创作：智能成片、AI 视频脚本、AI 视频生成等，支持从主题、时长与风格出发快速生成短视频素材。</li><li>AI 视频原料：配音生视频、首尾帧生视频、参考生视频与全能参考等生成方式。</li><li>视频编辑与人物处理：视频编辑、AI 换背景、AI 换装。</li><li>数字人：数字人口播、数字人成片，以及数字人形象定制与拍摄要求说明。</li><li>图文工具：根据需求生成电商主图、海报与宣传文案类内容。</li><li>创意分析：投前检测与投后诊断。</li><li>效率工具：爆款裂变与一键过审。</li><li>资产与配额：资产使用与原料库存储空间管理，平台还上线了积分制规则。</li></ul><p>这些模块在 即创 的工作台里按场景分组，便于电商、直播与本地生活等不同团队各取所需。</p>"
       },
       {
-        "title": "如何使用即创",
-        "html": "<ul>\n<li>访问即创的官网（aic.oceanengine.com），登录或注册巨量引擎的账号。</li>\n<li>绑定公司或组织，可以选择创建或加入组织，<strong>实测输入一个组织名称或自己新建一个新组织即可</strong>。</li>\n<li>然后回到即创的工作台（aic.oceanengine.com/workbench），选择你要使用的创作功能。</li>\n</ul>"
+        "title": "如何使用 即创",
+        "html": "<ol><li>访问 即创 官网，使用巨量引擎账号登录或注册。</li><li>按引导绑定公司或组织，可加入已有组织，也可新建一个。</li><li>进入 即创 工作台，按需要选择 AI 视频、数字人、图文或创意分析等模块。</li><li>按所选能力填写信息，例如商品或产品名称、卖点、主题、时长与风格。</li><li>点击生成等待结果，在结果页做替换素材、调整节奏等二次修改。</li><li>用投前检测排查内容风险，投后诊断复盘投放表现；确稿后导出或进入资产管理。</li></ol>"
       },
       {
-        "title": "即创怎么收费",
-        "html": "<ul>\n<li>即创平台目前处于免费公测阶段，用户可以免费注册使用其AI功能。</li>\n<li>即创平台的免费使用额度为每天每个账号有一百次的免费机会，对于初创企业、新兴创业公司、创意工作室和自媒体等需要大量创意内容的用户来说，基本可以满足日常使用。</li>\n</ul>"
-      },
-      {
-        "title": "即创的应用场景",
-        "html": "<ul>\n<li><strong>视频创作</strong>：即创通过智能成片功能，可以帮助用户快速生成视频脚本、视频、数字人和配音，节省视频制作的时间。这适用于需要快速产出高质量视频内容的场景，如社交媒体营销、产品宣传、教育视频制作等。</li>\n<li><strong>图文创作</strong>：商品卡工具和图文工具可以帮助用户智能生成商品展示卡片和图文带货内容，适用于电商领域，特别是需要制作商品详情页、广告海报和社交媒体图文推广的场合。</li>\n<li><strong>直播创作</strong>：AI直播背景和AI直播脚本功能，可以一键生成直播间背景和直播脚本，适用于直播带货、在线教育、活动直播等场景，帮助主播提升直播内容的吸引力和互动性。</li>\n</ul>"
-      },
-      {
-        "title": "常见问题",
-        "html": "<div id=\"accordion\" style=\"max-width: 700px;\">\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>即创是免费的吗？</strong></div>\n<div class=\"card-body text-sm\">目前即创处于免费公测的阶段，用户可以免费注册并使用其AI功能。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>即创可以通过APP使用吗？</strong></div>\n<div class=\"card-body text-sm\">目前即创还没有移动端APP，用户可以通过网页端使用该平台。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>即创基于什么大模型？</strong></div>\n<div class=\"card-body text-sm\">即创的AI功能基于字节跳动自研的抖音云雀大模型。</div>\n</div>\n</div>"
+        "title": "即创 的应用场景",
+        "html": "<p>即创 的模块划分本身就对应了几类工作：</p><ul><li>电商内容：围绕商品快速产出推广视频、主图与图文素材。</li><li>短视频制作：用智能成片与 AI 视频脚本缩短从选题到成片的周期。</li><li>直播带货：用数字人主播、AI 直播背景与直播脚本提升开播效率。</li><li>本地生活：选择门店与商品，制作面向本地客群的推广内容。</li><li>创意投放：靠爆款裂变与投前检测、投后诊断串起生产与复盘。</li><li>素材管理：把生成结果沉淀到 即创 的资产库统一复用。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "chatglm-cn",
@@ -20980,27 +20977,23 @@
     "domain": "agent.xfyun.cn",
     "detailed_content": [
       {
-        "title": "AstronClaw是什么",
-        "html": "<p>AstronClaw 是科大讯飞推出的云端部署 <a href=\"https://ai-bot.cn/sites/70880.html\" target=\"_blank\" rel=\"noopener\">OpenClaw</a> ，用户无需本地部署即可一键创建 7×24 小时在线的个人 AI 助手。相比本地运行需要配置环境、保持设备开机，AstronClaw 提供零代码云端部署，约 1 分钟即可完成搭建，支持浏览器直接访问技能库。AstronClaw 内置 131+ 官方技能，覆盖数据分析、内容生成、行业研报等场景，支持飞书、钉钉、企业微信多渠道接入。</p>"
+        "title": "AstronClaw 是什么",
+        "html": "<p>AstronClaw 是科大讯飞基于 OpenClaw 架构打造的 AI 助手，官方文档把它定位为「你的云端 AI 助手，全天候在线服务」。它把原本需要在本地折腾环境、配置密钥、保持设备开机的智能体，搬到云端一键部署，打开浏览器就能用技能库。官方说明中提到，AstronClaw 让部署不必再走终端命令，也省去服务器开销与安装烦恼：本地运行 OpenClaw 虽然灵活，但需要 Node、Docker 等依赖，电脑休眠助手就下线；AstronClaw 则改为平台托管，支持 7×24 小时在线运行。按公开报道，产品强调云端极速部署与沙箱隔离运行，任务在独立环境中执行，面向金融、政务与企业办公等高敏感场景。</p>"
       },
       {
-        "title": "AstronClaw的主要功能",
-        "html": "<ul>\n<li><strong>一键云端部署</strong>：零代码配置，约 1 分钟完成 AI Agent 搭建，无需本地环境依赖。</li>\n<li><strong>7×24 小时在线</strong>：云端托管运行，电脑关闭或休眠不影响助手服务。</li>\n<li><strong>技能市场</strong>：内置 131+ 官方技能，支持数据分析、内容生成、行业研报、资讯采集等场景。</li>\n<li><strong>自定义技能</strong>：支持上传文件创建个性化 Skill，AI 自动生成图标。</li>\n<li><strong>多渠道接入</strong>：可配置飞书、钉钉、企业微信等协作平台，实现消息互通。</li>\n<li><strong>多模型支持</strong>：集成 MiniMax-M2.5、Kimi-K2.5、GLM-5、星火 X2 等多种大模型。</li>\n<li><strong>文件处理</strong>：支持 PDF、DOC、TXT、JPG 等格式上传，单文件最大 20MB。</li>\n<li><strong>运维管理</strong>：支持重启、重置、删除等操作，AstronClaw 自动托管零运维。</li>\n<li><strong>Agent Team模式</strong>：用户一句指令可自动组建多专业Agent团队，通过流水线、映射归约、监督者三种协作模式并行完成复杂任务。</li>\n</ul>"
+        "title": "AstronClaw 的主要功能",
+        "html": "<p>官方文档把 AstronClaw 的能力归纳为几条主线：</p><ul><li>极速部署：一键开通，无需安装、无需配置、无需服务器。</li><li>端云随行：同一个任务可在本地与云端之间切换执行位置，本地运行时能在授权下读写本机文件、执行本机命令，碰文件改动与本机命令会弹出审批。</li><li>跨端接力：把上下文、文件与中间产物打包送到另一台设备，在那边重建一份能接着跑的副本；接收端离线时先暂存云端，开机后自动恢复。</li><li>多渠道协作：支持接入微信、企业微信、飞书、钉钉、QQ 与微博，扫码创建机器人后即可在聊天框里派活。</li><li>技能系统：个人中心—设置—我的技能里支持技能市场一键安装、对话式安装、上传自定义技能，以及用自然语言搭建复杂技能。</li><li>模型自由切换：内置 MiniMax、Kimi、DeepSeek、GLM 等主流旗舰模型，无需自行管理 API Key。</li><li>Agent 与 Team：单个 Agent 承担具体角色，多个 Agent 组成智囊团，先拆解任务再分派给 PM、Research、Code、Doc 等角色。</li></ul>"
       },
       {
-        "title": "如何使用AstronClaw",
-        "html": "<ul>\n<li><strong>访问平台</strong>：访问 AstronClaw 官网，注册登录账号。</li>\n<li><strong>立即部署</strong>：点击\"立即部署\"按钮，系统自动创建 AI Agent（约 1-2 分钟）。</li>\n<li><strong>开始对话</strong>：部署完成后进入对话首页，可直接输入问题或上传文件。</li>\n<li><strong>安装技能</strong>：进入「Skills 市场」，浏览或搜索官方技能，点击一键安装。</li>\n<li><strong>创建自定义技能</strong>：进入「我的技能」页面，上传 ZIP 文件，填写名称和描述。</li>\n<li><strong>配置消息渠道</strong>：进入「渠道配置」页面，接入飞书、钉钉或企业微信。</li>\n<li><strong>切换模型</strong>：进入「设置」页面，在模型选择区域切换可用模型。</li>\n<li><strong>管理积分</strong>：查看剩余积分、消耗明细和购买记录。</li>\n</ul>"
+        "title": "如何使用 AstronClaw",
+        "html": "<ol><li>进入 AstronClaw 页面点击「立即部署」，系统自动创建实例，官方称约 1 分钟完成。</li><li>进入对话首页直接提问，也可上传 pdf、doc、txt、jpg 等文件；文件与图片都有明确的体积与数量上限，超出会被拒收。</li><li>到 Skills 市场浏览官方预置技能并一键安装，或在对话里说明需求让 AstronClaw 自动匹配并安装。</li><li>进入「渠道配置」，按微信、飞书、企业微信、钉钉、QQ 或微博各自的指引扫码创建机器人，再用一条「你好」测试连通。</li><li>用输入框下方或主导航的运行位置选择器，在本机、云端或远端电脑之间切换执行位置；历史列表会跟着切到对应设备。</li><li>需要更换设备继续时，点击回复下方的「发送至」接力按钮，并选择接收设备。</li><li>在积分管理模块查看消耗明细，按需增购积分或调整套餐。</li></ol>"
       },
       {
-        "title": "AstronClaw的订阅套餐",
-        "html": "<ul>\n<li><strong>基础版</strong>：原价¥168/月，首购¥16.8/月（1折），每月35,000积分。含一键部署、标准任务处理、支持积分增购。</li>\n<li><strong>专业版</strong>：原价¥568/月，首购¥56.8/月（1折），每月120,000积分。含基础版全部权益 + 高峰优先处理 + 新功能抢先体验。</li>\n</ul>"
-      },
-      {
-        "title": "AstronClaw的适用人群",
-        "html": "<ul>\n<li><strong>个人开发者</strong>：无需折腾环境配置，一键部署即可拥有 7×24 小时在线的 AI 助手。</li>\n<li><strong>AI 爱好者</strong>：零代码门槛，开箱即用的技能市场让初学者也能轻松体验 AI Agent 能力。</li>\n<li><strong>企业办公人员</strong>：通过飞书、钉钉、企微接入，实现自动化日报生成、公文校对等。</li>\n<li><strong>内容创作者</strong>：利用行业研报生成、资讯采集、PPT 自动制作等技能快速产出内容。</li>\n<li><strong>金融投研从业者</strong>：使用金融投研日报、多 Agent 投研团队等模板辅助决策。</li>\n</ul>"
+        "title": "AstronClaw 的应用场景",
+        "html": "<p>官方文档给出的示例场景包括：</p><ul><li>行业研报：让 AstronClaw 整理核心观点、关键数据与未来趋势，并输出投资启示。</li><li>资讯播客：汇总每日热门 AI 资讯，生成播客脚本并定时推送。</li><li>PPT 生成：围绕指定主题收集数据、生成图表并输出 pptx 文件。</li><li>本地文件整理：把运行位置切到「本地运行」处理表格，数据不出这台机器。</li><li>换设备接续：在台式机上做一半的活，出门后用笔记本或手机接着推进。</li><li>重活外包：把又慢又重的任务切到云端跑，本机腾出来做别的事。</li><li>团队协作：接入企业 IM，让同事在聊天框里直接调用 AstronClaw 执行任务。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "tool77488",
@@ -24477,8 +24470,25 @@
     "subcategory": "ai-chat-general",
     "logo": "/logos/tool11358.png",
     "domain": "meta.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Meta推出的免费AI聊天助手 是什么",
+        "html": "<p>Meta推出的免费AI聊天助手 指的是 Meta AI，一款基于 Meta 自研 Llama 系列大语言模型打造的智能助手。按 Meta 官方新闻稿的说法，它被定位为当时最聪明的免费 AI 助手之一，并已扩展到更多国家与更多入口。与需要单独下载的聊天产品不同，Meta推出的免费AI聊天助手 直接住进用户本来就在用的应用里：Facebook、Instagram、Messenger 与 WhatsApp 的信息流、聊天和搜索里都能唤起它，同时也有独立的网页版 meta.ai，登录后可以保存对话以便后续查看。</p>"
+      },
+      {
+        "title": "Meta推出的免费AI聊天助手 的主要功能",
+        "html": "<p>官方发布说明中列出的能力包括：</p><ul><li>跨应用使用：在 Facebook、Instagram、Messenger 以及 WhatsApp 和网页版中随时调用。</li><li>实时信息检索：借助搜索能力回答需要最新信息的问题，无需跳出当前应用。</li><li>信息流内追问：在信息流里看到感兴趣的内容，可以直接就这条内容向 Meta推出的免费AI聊天助手 提问。</li><li>Imagine 图像生成：用文字生成图片，官方称在网页与部分应用上支持边打字边出图。</li><li>图像再加工：对生成结果做动画、换风格，或转成可分享的 GIF。</li><li>日常任务协助：规划出行、查找演出、解释知识点、润色工作邮件等。</li><li>硬件与场景延伸：扩展到 Meta Quest 以及 Ray-Ban Meta 智能眼镜系列。</li><li>对话保存：登录后可保留与助手的会话记录。</li></ul>"
+      },
+      {
+        "title": "如何使用 Meta推出的免费AI聊天助手",
+        "html": "<ol><li>在手机上打开 Facebook、Instagram、Messenger 或 WhatsApp，找到 Meta推出的免费AI聊天助手 的入口。</li><li>电脑上可以直接访问网页版并登录账号，以便保存对话。</li><li>用自然语言提问，问题可以很具体，例如按冰箱里的食材安排晚餐，或解释某个概念。</li><li>需要配图时用 Imagine 描述画面，让 Meta推出的免费AI聊天助手 生成图片，再按提示继续迭代。</li><li>在搜索框里直接输入问题，通过搜索能力拿实时信息。</li><li>在信息流中看到感兴趣的帖子时，就地唤出助手做延伸提问。</li></ol>"
+      },
+      {
+        "title": "Meta推出的免费AI聊天助手 的应用场景",
+        "html": "<p>官方举例的用法覆盖了不少日常场景：</p><ul><li>生活安排：让 Meta推出的免费AI聊天助手 推荐有日落景观、同时提供素食选项的餐厅，或找出周六晚上的演出。</li><li>学习备考：请它解释遗传特性这类知识点，用于复习。</li><li>居家布置：用 Imagine 生成装修灵感图，再据此挑选家具。</li><li>沟通润色：把工作邮件改得更专业。</li><li>群组协作：在聊天群里直接询问航班与出行时间，不必切到别的应用。</li><li>创作分享：生成专辑封面、婚礼指示牌或生日装饰类图片与动图。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "tool457",
@@ -26205,8 +26215,25 @@
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool64688.png",
     "domain": "cli.iflow.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "心流AI推出的免费终端 AI 智能体 是什么",
+        "html": "<p>心流AI推出的免费终端 AI 智能体 是一款在终端里运行的智能体式命令行工具，官方把它概括为「效率，从心流开始」。它把自然语言交互与多模态能力搬进开发者的日常工作流，既能在终端独立使用，也能作为插件嵌进主流 IDE。官方说明中强调的是免费的前沿模型：通过心流开放平台可以零成本调用 Kimi K2、Qwen3 Coder、GLM4.5 等业界模型，面向个人用户免费开放。除终端形态外，心流AI推出的免费终端 AI 智能体 也能以插件形式装进常用的编辑器与 JetBrains 家族的 IDE。</p>"
+      },
+      {
+        "title": "心流AI推出的免费终端 AI 智能体 的主要功能",
+        "html": "<p>官方文档与产品页给出的能力如下：</p><ul><li>自然语言交互：用日常对话驱动 AI，支持多行文本、图片与文件引用等多种输入方式。</li><li>多智能体协作：复杂任务先做分解，再由不同专业智能体并发处理，各自维持独立上下文。</li><li>开放智能体生态：内置经过认证的 MCP 市场与智能体商店，可按需扩展能力。</li><li>仓库上下文理解：用 /init 扫描并理解本地代码仓库，生成可供后续定制的说明文件。</li><li>四种运行模式：可用 Shift + Tab 在 Yolo、Accepting Edits、Plan、Default 之间切换，控制工具的操作权限。</li><li>斜杠命令与引用语法：/help 查帮助、@文件路径 引用文件、$ 前缀调用子智能体、! 前缀在会话内执行系统命令。</li><li>多模态处理：可粘贴截图或图片文件，系统自动识别内容类型并在必要时生成图像描述。</li><li>多端安装：macOS、Windows（含 WSL）与 Linux 都能跑。</li></ul>"
+      },
+      {
+        "title": "如何使用 心流AI推出的免费终端 AI 智能体",
+        "html": "<ol><li>准备 Node.js 22 及以上环境，在 macOS 或 Linux 上执行官方一键安装脚本，Windows 上则用 npm 全局安装命令行包。</li><li>运行命令启动心流AI推出的免费终端 AI 智能体，首次使用先选择登录方式：推荐 Login with iFlow，也可用心流 API Key，或接入兼容 OpenAI 协议的自有模型服务。</li><li>登录完成后选择要使用的模型。</li><li>在代码项目目录下执行 /init，让工具扫描并理解项目结构与主要功能。</li><li>直接用自然语言交代任务，例如让它新建脚本或分析现有代码；需要引用文件时用 @ 加上路径。</li><li>想装进编辑器时，在 VS Code 插件市场搜索安装后在会话里运行 /ide，JetBrains 系列则在插件市场安装并重启 IDE。</li></ol>"
+      },
+      {
+        "title": "心流AI推出的免费终端 AI 智能体 的应用场景",
+        "html": "<p>从官方文档与快速开始指南列举的用法来看，心流AI推出的免费终端 AI 智能体 适合这些场合：</p><ul><li>项目上手：在陌生仓库里跑 /init，快速摸清目录结构与主要功能。</li><li>日常编码：让它写小脚本、补函数、改配置，省去在不同窗口之间来回切换。</li><li>命令行辅助：用 ! 前缀在会话内执行系统命令，把排查与改动放在同一处完成。</li><li>多步骤任务：交给多个子智能体分工，例如一边查资料一边改代码。</li><li>编辑器内协作：以插件形式装进常用开发工具，在熟悉的环境里调用。</li><li>服务端与无浏览器环境：改用 API Key 登录方式在服务器上运行。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "tool5269",
@@ -27824,11 +27851,23 @@
     "domain": "tabnine.com",
     "detailed_content": [
       {
-        "title": "",
-        "html": "AI代码自动补全编程助手"
+        "title": "AI代码自动补全编程助手 是什么",
+        "html": "<p>AI代码自动补全编程助手 指的是 Tabnine，一款以 IDE 插件形式安装的 AI 编程助手。官方文档把它定义为「AI code assistant」：在加快开发速度的同时，保持代码私有、安全与合规。它由两部分组成——代码补全与编码助手对话，前者处理写下一行或下一段代码这类简单、重复的任务，后者用于更高层的需求，比如让 AI 生成测试、解释或重构代码。官方表示其用户覆盖各行各业、总量超过一百万开发者，并强调它是「你能控制的 AI」：部署位置可选，代码不会被存储或分享。</p>"
+      },
+      {
+        "title": "AI代码自动补全编程助手 的主要功能",
+        "html": "<p>官方文档与官网列出的能力包括：</p><ul><li>代码补全：针对代码片段、整行与完整函数给出补全建议。</li><li>IDE 内对话：用自然语言与聊天代理沟通，可生成新代码、写单元测试、解释代码、扩展功能、重构与补写文档。</li><li>引用工作区代码：在对话中提及并引用工作区里的文件与符号。</li><li>常见用例覆盖：规划、创建、测试、修复、写文档、解释与维护等环节。</li><li>企业上下文引擎：学习组织自身的架构、框架与编码标准，让建议贴合内部 API 与惯例。</li><li>部署可选：SaaS、VPC、本地自建，甚至完全隔离的气隙环境。</li><li>许可合规：官方称其模型只在宽松许可（MIT、Apache 2.0、BSD 等）的开源代码上训练。</li><li>IDE 覆盖：常见编辑器与 IDE 大多都提供插件，装上即可用。</li></ul>"
+      },
+      {
+        "title": "如何使用 AI代码自动补全编程助手",
+        "html": "<ol><li>在官网注册账号或加入团队，然后在对应 IDE 的插件市场安装 AI代码自动补全编程助手。</li><li>在编辑器里激活插件并完成登录授权。</li><li>写代码时等待补全建议，用 Tab 键接受单行或多行补全。</li><li>遇到更复杂的任务时打开对话面板，用自然语言说明要做什么，必要时用 @ 引用工作区里的文件。</li><li>让 AI代码自动补全编程助手 生成测试或用例，再用补全能力微调这些测试。</li><li>企业用户可按官方指南做团队管理、用量报表与私有化安装，并按需把代码库接入上下文引擎。</li></ol>"
+      },
+      {
+        "title": "AI代码自动补全编程助手 的应用场景",
+        "html": "<p>从官方文档归纳的使用方式看，AI代码自动补全编程助手 适合这些场合：</p><ul><li>重复性编码：把下一个代码片段这类小活交给补全，减少机械输入。</li><li>测试补全：让对话代理生成单元测试并扩展边界用例。</li><li>理解旧代码：请它解释不熟悉的函数或模块，加快接手速度。</li><li>重构与维护：在不大改结构的前提下扩展功能、抽取公共逻辑。</li><li>新人上手：借助官方提到的 Onboarding 能力，快速熟悉代码库惯例。</li><li>合规敏感团队：对代码外流有严格限制的组织，可选用私有化或气隙部署方案。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "tool1493",
@@ -28660,35 +28699,23 @@
     "domain": "d.qq.com",
     "detailed_content": [
       {
-        "title": "Ardot是什么",
-        "html": "<p>Ardot 是腾讯推出的 AI 智能设计工具，定位”<a href=\"https://ai-bot.cn/sites/13896.html\" target=\"_blank\" rel=\"noopener\">Figma</a> + <a href=\"https://ai-bot.cn/sites/67498.html\" target=\"_blank\" rel=\"noopener\">Lovart</a>“结合体。Ardot 通过文生 UI、图转设计、即时生成等功能，让用户用自然语言快速生成可编辑的界面原型，同时保留专业矢量编辑、组件库管理和开发交付能力。Ardot 核心优势在于用 AI 重塑设计工作流，实现”AI 灵感激发→人工精修”闭环，适合快速原型、高频改稿及中小团队敏捷开发。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-73836\" src=\"https://ai-bot.cn/wp-content/uploads/2026/03/Ardot-website.png\"   alt=\"Ardot\" width=\"740\" height=\"416\" />"
+        "title": "腾讯推出的 AI 智能设计工具 是什么",
+        "html": "<p>腾讯推出的 AI 智能设计工具，指的是腾讯自研的智能设计平台「腾讯设计 Ardot」。按官方介绍，Ardot 定位为 AI 驱动的下一代智能设计工具，面向产品、设计与研发团队提供一站式全流程解决方案，希望通过深度集成 AI 能力，实现从灵感到产品的衔接，让创意快速可视化。它支持浏览器网页端直接使用，也提供 macOS 客户端，官网标注免费使用。登录方式支持微信扫码、手机号、邮箱、QQ，以及供企业内部统一管理账号权限的 iOA 企业登录。</p>"
       },
       {
-        "title": "Ardot的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>文生 UI</strong>：支持输入自然语言描述即可自动生成包含排版、图片和文字的完整界面原型。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>图转 UI</strong>：上传任意图片可快速转换为可编辑的设计稿，方便二次创作。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>即时绘图</strong>：支持直接在画布内呼叫 AI 生成所需插图，无需切换其他工具。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>动态布局</strong>：工具采用 Grid 网格和百分比定位技术，实现界面在不同屏幕尺寸下的自适应调整。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>组件库管理</strong>：支持将颜色、字体、按钮等元素保存为本地样式，修改一处即可全局同步更新。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>矢量编辑</strong>：提供斜切、3D 旋转等 W3C 标准变形工具，满足专业图形绘制需求。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>开发标注</strong>：自动生成 CSS 代码片段并提供精准尺寸标注，消除设计与开发之间的沟通障碍。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>权限管理</strong>：支持管理者、编辑、查看者等多角色权限分离，配备操作日志追踪和离职自动回收功能保障项目安全。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>MCP 设计转代码</strong>：通过模型上下文协议，将设计稿的变量、组件、布局数据直接提取到 IDE，兼容 <a href=\"https://ai-bot.cn/codebuddy/\" target=\"_blank\" rel=\"noopener\">CodeBuddy</a>、<a href=\"https://ai-bot.cn/sites/906.html\" target=\"_blank\" rel=\"noopener\">Cursor</a>、<a href=\"https://ai-bot.cn/sites/56948.html\" target=\"_blank\" rel=\"noopener\">Claude Code</a> 等开发环境。</div>\n</li>\n</ul>"
+        "title": "腾讯推出的 AI 智能设计工具 的主要功能",
+        "html": "<p>官方文档把这款工具的能力分成 AI 协同与专业设计两块。AI 侧的入口集中在工作台 AI 页面与编辑器工具栏：<ul><li>文生 UI：用自然语言描述需求，AI 自动生成布局与组件。</li><li>图片转设计稿：上传截图或图片，智能分层后转成可编辑设计文件。</li><li>H2D：粘贴 HTML 代码或网址，直接转换成可编辑设计。</li><li>AI 助手：编辑器内置对话面板，可提交设计要求、粘贴 HTML 触发转换、询问设计建议与参数调整。</li></ul>专业设计侧，腾讯推出的 AI 智能设计工具 提供符合 W3C 标准的矢量编辑、布尔运算、3D 旋转与增强形状工具；动态布局系统支持 Grid 布局、百分比定位与真实比例锁定；设计系统让组件、颜色、文本样式全局同步、一键复用。企业侧另有智能权限中心、全方位行为追溯与人员资产交接。交付环节可查看尺寸、间距、样式等标注，并复制 CSS、iOS、Android 代码。</p>"
       },
       {
-        "title": "Ardot的关键信息和使用要求",
-        "html": "<ul>\n<li><strong>产品定位</strong>：腾讯推出的 AI 自动化设计平台，融合 Figma 的专业设计能力与 Lovart 的 AI 生成体验，主打”AI 驱动 + 人工精修”的设计工作流。</li>\n<li><strong>核心能力</strong>：文生 UI、图转设计、即时 AI 绘图、动态布局系统、组件库管理、矢量编辑、开发代码自动生成及团队协作权限管理。</li>\n<li><strong>技术底座</strong>：底层接入 DeepSeek 等大语言模型提供 AI 能力支持。</li>\n<li><strong>当前状态</strong>：填写腾讯设计Ardot体验资格预留表，可提前解锁高效设计新体验。</li>\n<li><strong>平台</strong>：基于 Web 端使用，支持主流浏览器访问。</li>\n</ul>"
+        "title": "如何使用 腾讯推出的 AI 智能设计工具",
+        "html": "<ol><li>用浏览器访问官网开始使用，或按安装指南装好桌面客户端；企业用户建议走 iOA 或邮箱登录。</li><li>按官方建议先跑通一个迷你项目，例如创建按钮并添加交互，走完「创建—编辑—分享」全流程。</li><li>想用 AI 起稿时，在工具栏唤起 AI 助手：描述需求走文生 UI，上传图片走图片转设计稿，粘贴 HTML 或网址走 H2D。</li><li>用矢量工具与动态布局细化画面，组件、颜色与文本样式在腾讯推出的 AI 智能设计工具 里统一维护。</li><li>把文件分享给协作者，在文件内评论与校对，多人实时协作。</li><li>交付前查看标注信息、复制目标平台代码，或下载素材。</li></ol>"
       },
       {
-        "title": "Ardot的核心优势",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>AI 原生设计工作流</strong>：不同于传统设计工具的 AI 插件化，Ardot 从底层重构”描述即生成”的创作模式，让 AI 成为设计起点而非辅助。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>生成即可编辑</strong>：文生 UI 和图转设计的结果直接进入专业编辑器，打破”AI 生成后需重新绘制”的断点，实现无缝迭代。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>专业级设计深度</strong>：保留 Figma 级别的矢量编辑、组件系统和布局能力，避免纯 AI 工具”生成惊艳、修改困难”的短板。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>开发交付闭环</strong>：自动生成 CSS 代码和精准标注，设计稿直接对接前端开发，减少跨角色沟通损耗。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>国产生态适配</strong>：针对中文设计场景优化，更贴合国内团队的协作习惯和交付标准。</div>\n</li>\n</ul>"
-      },
-      {
-        "title": "如何使用Ardot",
-        "html": "<ul>\n<li class=\"paragraph\"><strong class=\"\">访问官网</strong>：访问 Ardot 官网 https://d.qq.com/ ，完成账号登录和注册。</li>\n<li class=\"paragraph\"><strong>创建项目</strong>：点击「开始设计」新建项目。</li>\n<li class=\"paragraph\"><strong>AI 生成设计</strong>：在底部输入框描述需求（如”生成一个音乐播放器界面，深色模式”），选择 DeepSeek 等模型，点击发送后 AI 自动生成可编辑的 UI 框架。</li>\n<li class=\"paragraph\"><strong>人工精修</strong>：选中画布元素直接拖拽调整位置，在右侧面板修改颜色、字体、间距等属性，或使用矢量工具绘制自定义图形。</li>\n<li class=\"paragraph\"><strong>组件复用</strong>：将常用元素右键存为「本地样式」或「组件」，修改母版后所有实例自动同步，保持设计一致性。</li>\n<li class=\"paragraph\"><strong>开发交付</strong>：点击右上角「分享」生成协作链接，开发者进入后可查看标注信息、复制 CSS 代码，实现设计到开发的无缝对接。</li>\n</ul>"
-      },
-      {
-        "title": "Ardot的同类竞品对比",
-        "html": "<table data-v-5c5bdb04=\"\">\n<thead data-v-5c5bdb04=\"\">\n<tr data-v-5c5bdb04=\"\">\n<th align=\"left\" data-v-5c5bdb04=\"\">对比维度</th>\n<th align=\"left\" data-v-5c5bdb04=\"\">Ardot</th>\n<th align=\"left\" data-v-5c5bdb04=\"\">Figma</th>\n<th class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><a href=\"https://ai-bot.cn/sites/2733.html\" target=\"_blank\" rel=\"noopener\">MasterGo</a></th>\n</tr>\n</thead>\n<tbody data-v-5c5bdb04=\"\">\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong class=\"\" data-v-5c5bdb04=\"\">产品定位</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">AI 自动化设计平台</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">在线协同设计工具</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">国产设计协作平台</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">核心模式</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">AI 生成 + 专业编辑</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">多人实时协作</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">团队协作 + 原型设计</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">AI 能力</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">文生 UI、图转设计、即时绘图</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">无原生 AI，依赖插件</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">基础 AI 辅助功能</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong class=\"\" data-v-5c5bdb04=\"\">设计深度</strong></td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">完整矢量编辑、组件系统、动态布局</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">专业级设计功能最全</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">功能接近 Figma</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">协作特性</strong></td>\n<td align=\"left\" data-v-5c5bdb04=\"\">权限管理 + 开发代码交付</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">实时多人协作标杆</td>\n<td class=\"\" align=\"left\" data-v-5c5bdb04=\"\">适合国内团队流程</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">开发对接</strong></td>\n<td align=\"left\" data-v-5c5bdb04=\"\">自动生成 CSS、精准标注</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">需借助第三方插件</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">基础标注功能</td>\n</tr>\n<tr data-v-5c5bdb04=\"\">\n<td align=\"left\" data-v-5c5bdb04=\"\"><strong data-v-5c5bdb04=\"\">适用场景</strong></td>\n<td align=\"left\" data-v-5c5bdb04=\"\">快速原型、AI 辅助设计、敏捷开发</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">大型团队复杂项目</td>\n<td align=\"left\" data-v-5c5bdb04=\"\">国内企业常规设计</td>\n</tr>\n</tbody>\n</table>"
-      },
-      {
-        "title": "Ardot的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>快速原型设计</strong>：产品经理或设计师通过文字描述几分钟生成界面框架，用于需求评审和早期沟通，大幅缩短从想法到可视化的周期。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>电商高频改稿</strong>：运营人员上传商品图即可自动生成促销海报，应对大促期间大量、紧急的物料制作需求，降低对专业设计师的依赖。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>中小团队敏捷开发</strong>：初创团队借助 AI 生成基础界面，结合内置组件库快速搭建产品原型，实现设计开发一体化推进，节省人力成本。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>设计灵感探索</strong>：设计师用文生 UI 功能输入不同风格关键词，批量生成多种方案进行视觉发散，突破创意瓶颈后再人工精修定稿。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>跨角色协作交付</strong>：设计完成后直接生成 CSS 代码和开发标注，前端工程师无需反复确认尺寸细节，减少设计与开发之间的沟通摩擦。</div>\n</li>\n</ul>"
+        "title": "腾讯推出的 AI 智能设计工具 的应用场景",
+        "html": "<p>官方把价值按角色做了拆分。对设计师来说，腾讯推出的 AI 智能设计工具 用 AI 承接重复劳动，再配合设计系统管理规范，减少重复设计与验收；对产品经理来说，可以基于既有设计系统快速搭原型、绘制可交互演示，加快需求传达与迭代；对研发工程师来说，可以追踪设计文件状态、把设计稿转成清晰可用代码、在线查看标注并下载素材。综合来看，它适合界面与动效设计、原型制作、多人协同的设计评审，以及需要集中管理设计资产并安全流转的团队。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "tool13019",
@@ -28862,23 +28889,23 @@
     "domain": "canva.cn",
     "detailed_content": [
       {
-        "title": "魔力工作室是什么",
-        "html": "<p>魔力工作室是Canva可画推出的一站式AI创作套件，魔力工作室通过AI技术简化设计流程，让设计变得触手可及。用户只需输入文字描述，即可快速生成图片插画、花字特效和演示文稿等。魔力工作室支持文案生成、图片编辑和动画设计，旨在提升创意产出效率，适用于所有用户，无需具备专业设计背景。</p>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-15642\" src=\"https://ai-bot.cn/wp-content/uploads/2024/08/canva-magic-website.png\"   alt=\"魔力工作室\" width=\"800\" height=\"450\" />"
+        "title": "Canva可画推出的一站式AI创作套件 是什么",
+        "html": "<p>Canva可画推出的一站式AI创作套件，指的是 Canva可画把一系列生成式 AI 能力打包进编辑器后形成的创作工具组合。按官方介绍，Canva可画 是全球领先的视觉传播平台，2013 年诞生于澳大利亚，2018 年正式进入中国市场，隶属北京咖瓦信息技术有限公司。它的基础形态是拖拽式在线设计工具，配合数千个免费模板与海量素材；AI 能力则以「魔法」系列功能的形式嵌在编辑器侧边栏里，让不懂设计的人也能从一句话或一张图起步，直接产出可用于社交媒体、演示与营销的成品。</p>"
       },
       {
-        "title": "魔力工作室的主要功能",
-        "html": "<ul>\n<li><strong>AI文案生成</strong>：“魔力快写”，用户输入指令，AI快速生成符合品牌调性的流畅文案。</li>\n<li><strong>AI图片生成</strong>：“魔力素材生成器”，基于文字描述，AI生成风格多样的图片和插画。</li>\n<li><strong>AI图片编辑</strong>：包括”魔力橡皮擦”和”魔力抓取”，可去除图片中的不需要元素或提取、移动图片主体。</li>\n<li><strong>动画与转场设计</strong>：”魔力动效”功能一键生成演示文稿的动画和转场效果。</li>\n<li><strong>文档类型转换</strong>：”魔力转换”功能，轻松切换文档类型、语言和样式。</li>\n<li><strong>全流程创作支持</strong>：覆盖从创意文案撰写到图片生成、编辑和演示文稿制作的全创作流程。</li>\n</ul>"
+        "title": "Canva可画推出的一站式AI创作套件 的主要功能",
+        "html": "<p>官方帮助页与产品页列出的 AI 能力包括：</p><ul><li>Magic Media：用文字描述生成图片或图形，可选择风格与尺寸，不满意可再次生成。</li><li>Dream Lab 支持的「创建图片」：上传一张参考图片，沿用其中美学、物件或材质，重新诠释成新图。</li><li>魔法设计：依据描述自动生成整套设计，覆盖贺卡、可打印模板与社交贴文等。</li><li>魔法文案：AI 写作与文本生成工具，可生成、摘要、延伸与改写文字。</li><li>AI 照片编辑：用 AI 清除、新增、编辑或增强照片。</li><li>文字转视频：用文字提示描述画面，由 Canva可画推出的一站式AI创作套件 生成视频，并可再加滤镜与转场。</li><li>自动翻译：支持一百多种语言，快速转换现有设计。</li><li>一键 Magic Switch：一次设计自动适配成多种尺寸。</li><li>协作与导出：多人实时协作，导出为 JPG、PNG、PDF 或 PPTX。</li></ul>"
       },
       {
-        "title": "如何使用魔力工作室",
-        "html": "<ul>\n<li><strong>产品官网</strong>：<a href=\"https://www.canva.cn/magic/?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >canva.cn/magic</a> ，注册登录账号。</li>\n<li><strong>选择模板或创建新项目</strong>：在魔力工作室中，可以选择一个现有设计模板开始项目，或从头开始创建一个新的设计。</li>\n<li><strong>编辑和定制</strong>：使用魔力工作室的各种AI工具进行创作，还可以对AI生成的设计与内容进行进一步的编辑和定制，确保它们符合你的品牌和设计需求。</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-15643\" src=\"https://ai-bot.cn/wp-content/uploads/2024/08/canva-magic-website02.png\"   alt=\"魔力工作室\" width=\"800\" height=\"450\" />"
+        "title": "如何使用 Canva可画推出的一站式AI创作套件",
+        "html": "<ol><li>打开 Canva可画 网页端或客户端，新建一个设计。</li><li>在编辑器侧边栏点击 Magic Media；如果看不到，就到「应用」里搜索它。</li><li>选择「图片」或「图形」，用尽量具体的描述写出想要的内容，并挑选风格与版式。</li><li>点击生成，Canva可画推出的一站式AI创作套件 会给出一组备选，满意后点选即可放进画布。</li><li>对生成结果不满意时，调整措辞或更换风格再生成一次；也可以直接在设计里继续编辑。</li><li>需要更多素材时，改用 Dream Lab 支持的创建图片上传参考图，或用魔法设计直接生成整套版式。</li><li>定稿后导出为所需格式，或直接分享给团队协作。</li></ol>"
       },
       {
-        "title": "魔力工作室的适用人群",
-        "html": "<ul>\n<li><strong>个人创作者</strong>：希望快速生成个性化设计作品的艺术家、博主或自由职业者。</li>\n<li><strong>小型企业主</strong>：需要为品牌或产品制作市场营销材料的小型企业家。</li>\n<li><strong>市场营销人员</strong>：负责设计广告、社交媒体图像、宣传册等营销材料的专业人士。</li>\n<li><strong>商务办公人员</strong>：需要制作演示文稿、报告、名片等商务文档的办公室工作者。</li>\n<li><strong>教育工作者</strong>：教师或教育行政人员，需要设计课程材料、教学海报或学校宣传品。</li>\n</ul>"
+        "title": "Canva可画推出的一站式AI创作套件 的应用场景",
+        "html": "<p>官方把适用人群分成个人、教师与工作三类，并给出了具体方向：</p><ul><li>个人创作：把日常模板改成真正属于自己的作品，用于贺卡与可打印模板。</li><li>教学备课：用挑选好的设计快速开始项目或教案，兼顾速度与质量。</li><li>职场交付：为社交贴文、证书等产出精美设计。</li><li>营销物料：围绕活动主题生成配图、海报与宣传图文。</li><li>视觉概念探索：先用 Canva可画推出的一站式AI创作套件 快速试验多种风格，确定方向后再细化。</li><li>多语言传播：用自动翻译把同一份设计转成不同语言版本。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "tool28903",
@@ -37350,23 +37377,23 @@
     "domain": "model-platform-skyagents.tiangong.cn",
     "detailed_content": [
       {
-        "title": "SkyAgents是什么",
-        "html": "<p>SkyAgents 是昆仑万维推出的 <a href=\"https://ai-bot.cn/ai-agent-development-platform/\" target=\"_blank\" rel=\"noopener\">AI Agent 开发平台</a>，基于昆仑万维的「天工大模型」，具备自主学习和独立思考的能力。用户可以通过自然语言和简单的操作，无需编码，快速构建个性化的 AI Agents，完成包括行业研究、单据填写、商标设计等在内的多种私人定制需求。企业用户也可以将 SkyAgents 能力拼装成企业 IT、智能客服、企业培训等个性化应用，支持一键服务部署。SkyAgents 的特点包括模块化任务处理、个性化定制、第三方工具调用等，降低大模型技术的应用门槛，推动 AI 技术的广泛应用。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/10/skyagents-website1.png\" data-fancybox=\"fancybox\" data-caption=\"\"><img decoding=\"async\" class=\"alignnone  wp-image-24354\" src=\"https://ai-bot.cn/wp-content/uploads/2024/10/skyagents-website1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"\" width=\"746\" height=\"420\"></a>"
+        "title": "昆仑万维推出的 AI Agent 开发平台 是什么",
+        "html": "<p>昆仑万维推出的 AI Agent 开发平台 指的是天工 SkyAgents。据公开报道，昆仑万维在 2023 年 12 月 1 日正式发布该平台，它基于昆仑万维的天工大模型打造，具备从感知到决策、从决策到执行的自主学习和独立思考能力。平台的核心卖点是零代码：用户通过自然语言和简单操作，就能构建自己的单个或多个「私人助理」，并把不同任务模块化，以操作系统模块的方式完成执行，无需编程能力即可在几分钟之内部署属于自己的 AI Agents。</p>"
       },
       {
-        "title": "SkyAgents的主要功能",
-        "html": "<ul>\n<li><strong>零代码构建 AI Agents</strong>：SkyAgents 支持用户通过自然语言和简单的操作来构建 AI Agents，无需编程知识，非专业用户也能轻松上手。</li>\n<li><strong>模块化任务处理</strong>：平台将 AI 任务进行了高度模块化，用户可以将不同任务分解为多个模块，通过操作系统模块的方式实现执行。</li>\n<li><strong>个性化定制</strong>：用户可以根据自己的需求进行个性化定制，无论是个人用户还是企业用户，可以通过简单的自然语言操作快速部署属于自己的 AI 助手。</li>\n<li><strong>企业级应用与一键部署</strong>：企业用户可以将 SkyAgents 的能力按需拼装成企业 IT、智能客服、企业培训、HR、法律顾问等个性化的应用，支持一键服务部署。</li>\n<li><strong>知识库构建与大规模数据导入</strong>：SkyAgents 支持导入多种格式和来源的数据和知识，为 AI Agents 提供更全面、更准确的信息支持。</li>\n<li><strong>第三方工具调用</strong>：平台支持第三方工具的调用，使 AI Agents 可以轻松调用各类工具，如票务平台、电子支付等，为用户提供更加便捷的服务。</li>\n<li><strong>个性化 AI Agents 一键分享</strong>：用户可以轻松创建自己的 AI 伴侣、有缘机伴或暖心家园等个性化应用，通过链接的方式分享给其他人。</li>\n<li><strong>智能对话与信息处理</strong>：SkyAgents 提供智能对话模块，可以通过大语言模型进行处理并回复给用户指定内容。同时，包括信息加工、信息提取、信息分类等模块，实现复杂的信息处理任务。</li>\n<li><strong>高性能大模型支持</strong>：SkyAgents 基于昆仑万维的天工大模型，具备自主学习和独立思考能力，能理解用户指令，自主分析环境，做出合理的决策和行动。</li>\n</ul>"
+        "title": "昆仑万维推出的 AI Agent 开发平台 的主要功能",
+        "html": "<p>据公开发布信息，昆仑万维推出的 AI Agent 开发平台 的能力包括：</p><ul><li>模块化任务组件：集成智能对话、信息加工、信息提取、信息分类、第三方数据获取与向量检索等能力。</li><li>任务编排：把不同任务拆成模块串联，可执行问题预设、指定回复、知识库创建与检索、意图识别、文本提取、HTTP 请求等动作。</li><li>知识库构建：支持导入多种格式与来源的数据和知识，为智能体提供信息支撑。</li><li>第三方工具调用：让智能体调用票务、电子支付等外部服务。</li><li>企业级拼装：企业用户可把能力按需组合成企业 IT、智能客服、企业培训、HR、法律顾问等应用，并支持一键服务部署。</li><li>一键分享：用户创建的个人智能体可通过链接分享给其他人。</li></ul>"
       },
       {
-        "title": "如何使用SkyAgents",
-        "html": "<ul>\n<li><strong>访问平台</strong>：<span style=\"font-size: 0.875rem;\">打开浏览器，访问 SkyAgents 的官方网站：</span><a style=\"font-size: 0.875rem;\" href=\"https://model-platform-skyagents.tiangong.cn/home/agent\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">天工 AI 助手</a><span style=\"font-size: 0.875rem;\">。</span></li>\n<li><strong>注册/登录</strong>：<span style=\"font-size: 0.875rem;\">新用户，需要注册一个账户。点击“短信登录”或“账号登录”，按照提示完成注册流程。</span><span style=\"font-size: 0.875rem;\">已经注册，直接使用账号和密码登录。</span></li>\n<li><strong>创建新的 AI Agent</strong>：<span style=\"font-size: 0.875rem;\">登录后，看到创建新 Agent 的入口。点击创建新 Agent，进入构建页面。</span></li>\n<li><strong>选择模板或自定义</strong>：<span style=\"font-size: 0.875rem;\">SkyAgents 提供了多种示例模板，可以选择一个适合需求的模板快速开始。</span><span style=\"font-size: 0.875rem;\">如果有特定的需求，可以选择自定义模块来构建 Agent。</span></li>\n<li><strong>配置 Agent</strong>：<span style=\"font-size: 0.875rem;\">在构建页面，可以通过拖拽和配置模块来设计 Agent 的工作流程。</span><span style=\"font-size: 0.875rem;\">设置必要的参数，如对话模型选择、温度（控制回复的创意性）、回复字数上限等。</span></li>\n<li><strong>知识库配置</strong>：<span style=\"font-size: 0.875rem;\">如果Agent需要使用知识库，可配置知识库相似度和单次搜索上限，控制搜索结果的相关性和数量。</span></li>\n<li><strong>模块排布与设计</strong>：<span style=\"font-size: 0.875rem;\">按照信息流转的顺序进行模块排布，确保 Agents 顺利运行。</span><span style=\"font-size: 0.875rem;\">进行多次调试以满足需求，注意模块的必填信息与核心配置。</span></li>\n<li><strong>测试 Agent</strong>：<span style=\"font-size: 0.875rem;\">在构建完成后，测试 Agent 确保按照预期工作。</span><span style=\"font-size: 0.875rem;\">根据测试结果调整配置和参数，优化 Agent 性能。</span></li>\n<li><strong>发布和使用</strong>：<span style=\"font-size: 0.875rem;\">Agent 测试无误，立即发布，</span><span style=\"font-size: 0.875rem;\">可以将 Agent 一键分享给其他人。</span></li>\n</ul>"
+        "title": "如何使用 昆仑万维推出的 AI Agent 开发平台",
+        "html": "<ol><li>进入昆仑万维推出的 AI Agent 开发平台 的网站，注册并登录账号。</li><li>新建一个智能体，用自然语言描述它要解决的问题与期望的输出。</li><li>按需要给智能体挂上模块：需要资料就接知识库与向量检索，需要加工内容就加信息加工，需要联系外部系统就配第三方工具调用。</li><li>设定触发与回复规则，把问题预设、指定回复与意图识别串起来。</li><li>在平台内试跑昆仑万维推出的 AI Agent 开发平台 生成的智能体，检查每一步输出是否符合预期。</li><li>调整模块顺序与提示词后发布，个人可生成分享链接，企业用户则可部署到现有业务系统。</li></ol>"
       },
       {
-        "title": "SkyAgents的应用场景",
-        "html": "<ul>\n<li><strong>客户服务</strong>：用SkyAgents构建智能客服机器人，自动回答用户的常见问题，提高客户满意度和服务质量。</li>\n<li><strong>个人助理</strong>：创建个人助理 Agent，帮助用户管理日程、提醒重要事件、搜索信息等，提高个人效率。</li>\n<li><strong>企业自动化</strong>：在企业中，SkyAgents可以用来自动化各种工作流程，如订单处理、库存管理、数据分析等，减少人工干预，提高工作效率。</li>\n<li><strong>教育和培训</strong>：开发教育 Agent，提供个性化的学习建议、课程内容和学习资源，增强学习体验。</li>\n<li><strong>市场研究</strong>：用SkyAgents收集和分析市场数据，生成行业报告，帮助企业做出更明智的商业决策。</li>\n<li><strong>内容创作</strong>：用SkyAgents生成文章、设计草图、创作音乐等，辅助创意工作。</li>\n</ul>"
+        "title": "昆仑万维推出的 AI Agent 开发平台 的应用场景",
+        "html": "<p>公开发布资料中提到的适用方向分个人与企业两侧：</p><ul><li>个人助理：用昆仑万维推出的 AI Agent 开发平台 搭建管理日程、提醒事项、搜索信息的助手。</li><li>定制任务：完成行业研究报告、单据填写、商标设计、健身计划与旅行航班预定等多类需求。</li><li>企业客服：把常见问题与产品知识交给智能体自动应答。</li><li>企业自动化：用于订单处理、库存管理与数据分析等流程。</li><li>教育与培训：搭建提供学习建议、课程内容与学习资源的教学智能体。</li><li>市场研究：收集并分析市场数据，生成行业报告。</li><li>内部系统集成：按需拼装成企业 IT、HR 与法律顾问类工具，并接入现有业务系统。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "yanxi-jd-com",
@@ -39997,11 +40024,23 @@
     "domain": "deepfloyd.ai",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<p>DeepFloyd IF是由StabilityAI旗下的DeepFloyd研究团队推出的开源的文本到图像生成模型，IF是一个基于级联方法的模块化神经网络。</p>\n<ul>\n<li>IF是由多个神经模块（处理特定任务的独立神经网络）构建的，在一个架构内联合起来产生协同效应。</li>\n<li>IF以级联方式生成高分辨率图像：从产生低分辨率样本的基础模型开始，然后由一系列的升级模型提升，以创造令人惊叹的高分辨率图像。</li>\n<li>IF的基础和超分辨率模型采用扩散模型，利用马尔可夫链步骤将随机噪声引入数据中，然后再反转过程，从噪声中生成新的数据样本。</li>\n<li>IF在像素空间内操作，而不是依赖潜伏图像表征的潜伏扩散（如稳定扩散）。</li>\n</ul>"
+        "title": "StabilityAI旗下的DeepFl 是什么",
+        "html": "<p>StabilityAI旗下的DeepFl 指的是 DeepFloyd IF，一款由 Stability AI 与其多模态 AI 研究实验室 DeepFloyd 联合发布的研究型文生图模型。按 Stability AI 官方博客说明，它不是常见的潜空间扩散模型，而是在像素空间工作的模块化级联扩散模型：整套流程由若干个可独立完成任务的神经网络模块串联而成，先由基础模型生成低分辨率样本，再逐级放大到高分辨率。发布时采用允许研究用途的许可，官方表示未来计划推出完全开源的版本。该模型的一大特点是能较自然地把文字绘进图像里。</p>"
+      },
+      {
+        "title": "StabilityAI旗下的DeepFl 的主要功能",
+        "html": "<p>官方博客列出的能力与结构如下：</p><ul><li>深度提示词理解：生成管线使用 T5-XXL-1.1 作为文本编码器，并叠加多层图文交叉注意力。</li><li>文字渲染：能把描述中的文字连贯、清晰地绘进画面，并处理不同属性的对象与空间关系。</li><li>高真实度：在 COCO 数据集上的零样本 FID 为 6.66。</li><li>长宽比可变：除标准正方形外，还支持横向与纵向的非标准比例。</li><li>零样本图生图：把原图缩到 64 像素、加噪后用新提示词反向去噪，从而改变风格、纹理与细节，无需微调；修补模式则在局部区域进行。</li><li>三段式放大：第一阶段由基础模型生成 64×64 图像，第二阶段超分到 256×256，第三阶段再放大到 1024×1024。</li><li>多种规格：基础模型有 IF-I 400M、900M 与 4.3B，超分模型有 IF-II 400M 与 1.2B。</li></ul>"
+      },
+      {
+        "title": "如何使用 StabilityAI旗下的DeepFl",
+        "html": "<ol><li>先了解 StabilityAI旗下的DeepFl 的许可范围：发布时为研究许可，商用前须确认最新条款。</li><li>在 Hugging Face 上登录账号，并接受对应模型卡的使用条件。</li><li>本地安装依赖，包括 deepfloyd_if、xformers 以及用于文本编码的 CLIP。</li><li>也可以改用 Diffusers 集成方式，逐段加载第一、第二、第三阶段的模型。</li><li>按官方示例准备提示词，先跑第一阶段拿到 64×64 结果，再依次送进超分模块放大。</li><li>需要注意显存：官方给出的最低要求为 16GB 显存，若要同时跑基础模型、超分模块与 x4 放大，则需 24GB。</li><li>想快速试效果，可直接用官方仓库里的 Jupyter Notebook 或 Hugging Face 上的演示。</li></ol>"
+      },
+      {
+        "title": "StabilityAI旗下的DeepFl 的应用场景",
+        "html": "<p>官方把这款模型定位为研究用途的开放工具，并指出其研究可能延伸的方向：</p><ul><li>含文字的图像生成：需要画面里出现清晰可读文字的海报、招牌与插画类需求。</li><li>非标准画幅：为横幅、长图与竖版素材生成对应比例的图像。</li><li>风格与细节修改：在不改主体形态的前提下，用提示词替换风格、纹理与细节。</li><li>局部修补：对指定区域重绘，用于修复或替换画面局部。</li><li>研究与实验：让研究者检验级联扩散、注意力结构与文本编码器的取舍。</li><li>艺术、设计与叙事：官方提到研究可服务于艺术、设计、叙事、虚拟现实与无障碍等方向。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "tool2452",
