@@ -2110,6 +2110,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/remini-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/remini-ai.png</image:loc>
+      <image:title>Remini logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tool1680</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2767,6 +2776,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool16651</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool16651.png</image:loc>
+      <image:title>AI数字人克隆和AI视频实时对话工具 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/admuse-qq-com-2</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -3181,6 +3199,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool64973</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool64973.png</image:loc>
+      <image:title>法大大推出的AI法律工具 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tool70602</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -3304,6 +3331,15 @@
     <image:image>
       <image:loc>/logos/tool11865.png</image:loc>
       <image:title>智能多维表格和数据生产力平台 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/gbi-cloud-baidu-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/gbi-cloud-baidu-com.png</image:loc>
+      <image:title>百度推出的全球商业智能平台 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -5845,6 +5881,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/coderider-gitlab-cn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/coderider-gitlab-cn.png</image:loc>
+      <image:title>CodeRider logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tool11414</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -5860,6 +5905,15 @@
     <image:image>
       <image:loc>/logos/coderabbit-ai.png</image:loc>
       <image:title>AI驱动的代码审查平台 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/preview-devin-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/preview-devin-ai.png</image:loc>
+      <image:title>首个全自主的AI软件工程师智能体 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -6490,6 +6544,15 @@
     <image:image>
       <image:loc>/logos/tool2891.jpg</image:loc>
       <image:title>Framer AI logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool4004</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool4004.png</image:loc>
+      <image:title>猿辅导旗下推出的AI界面设计工具 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -7408,6 +7471,15 @@
     <image:image>
       <image:loc>/logos/tool62941.png</image:loc>
       <image:title>360推出的新一代超级AI搜索工具 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/think-baidu-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/think-baidu-com.png</image:loc>
+      <image:title>百度推出的深度AI搜索引擎 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -8695,6 +8767,15 @@
     <image:image>
       <image:loc>/logos/tool1933.png</image:loc>
       <image:title>出门问问推出的一款超大规模的语言模型 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool51</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool51.png</image:loc>
+      <image:title>HuggingFace推出的大型语言模型（LLM） logo</image:title>
     </image:image>
   </url>
   <url>

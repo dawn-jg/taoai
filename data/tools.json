@@ -9925,27 +9925,23 @@
     "domain": "remini.ai",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<p>Remini是一个借助AI技术将模糊照片变高清和老照片修复的工具，该AI修图工具在全球累计已超过数百万人使用。Remini利用先进的AI算法，分析照片中的现有元素并智能填补缺失的图像细节，如增强纹理、校正颜色和平滑边缘等，以使照片中的主体和对象更加清晰，从而提升图像的画质和清晰度。该工具支持移动端APP和网页版使用，适用于修复家庭旧照片、提高低分辨率相机拍摄的图像质量、从网络下载的模糊图片、修复因年久失修或保存不当而损坏的照片。</p>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-6594 rounded-lg\" src=\"https://ai-bot.cn/wp-content/uploads/2023/12/remini-web.jpeg\"   alt=\"Remini网页版\" width=\"650\" />"
+        "title": "Remini 是什么",
+        "html": "<p>Remini 是一款以人工智能为核心的照片与视频画质增强工具，官方把它定位为「你唯一需要的图像与视频增强器」：针对模糊、噪点、褪色或年代久远的影像做修复、放大与清晰化，也能把短视频的画面处理得更干净。Remini 同时提供网页端与移动端应用，处理方式是自动分析画面后重建细节，而不是只调整亮度与对比度。官网页面上说明，站内展示的前后对比效果都来自真实的处理结果。</p>"
       },
       {
-        "title": "Remini的主要功能",
-        "html": "<ol>\n<li><strong>模糊照片变高清</strong>：只需点击一下，即可把上传的模糊低质量照片变得清晰高质量</li>\n<li><strong>去除照片噪点</strong>：清除照片中的颗粒和噪点，让图像变得更加清晰、流畅、锐利</li>\n<li><strong>老照片修复</strong>：利用AI技术快速修复褪色、退化或损坏的老旧照片，让其看起来和新的一样</li>\n<li><strong>放大图片尺寸</strong>：支持将图片放大到原来的2倍，在放大尺寸的同时提高质量不丢失图像细节</li>\n<li><strong>智能色彩增强</strong>：自动色彩改进功能可增强、平衡图像的色调、色彩、曝光度、饱和度和鲜艳度</li>\n<li><strong>面部细节美化</strong>：智能优化人物面部细节，提供去除皮肤瑕疵、自动调整打光和颜色、提亮五官等</li>\n<li><strong>视频画质变高清</strong>：将视频的质量和尺寸放大2倍，让视频画面告别模糊、陈旧或低质量的镜头</li>\n</ol>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-6592 rounded-lg\" src=\"https://ai-bot.cn/wp-content/uploads/2023/12/remini-ai-photo-enhancer.png\"   alt=\"Remini AI照片修复\" width=\"650\" />"
+        "title": "Remini 的主要功能",
+        "html": "<p>Remini 的功能围绕画质修复展开，官网页面上列出的能力包括：</p><ul><li>人脸增强（Face Enhancer）：提升人像面部细节，让五官与肤质更清晰自然。</li><li>面部氛围优化（Face Glow）：为人物带来更新鲜的观感。</li><li>自动调色（Auto Color）：自动调整并改善画面的色彩与色调。</li><li>背景增强：提升画面中环境与背景的细节质量。</li><li>去模糊与锐化（Unblur &amp; Sharpener）：减轻运动模糊、相机抖动与失焦带来的模糊。</li><li>老照片修复（Old Photos Restorer）：让模糊、褪色、受损的老照片恢复清晰。</li><li>降噪（Denoiser）：清除颗粒与噪点，得到干净锐利的画面。</li><li>图像放大（Image Enlarger）：在不明显损失画质的前提下把照片放大。</li><li>视频增强：对视频画面做同样的清晰化处理。</li><li>接口集成：官方提供 API，用少量代码就能把增强能力接入自己的产品。</li></ul>"
       },
       {
-        "title": "Remini的产品价格",
-        "html": "<ol>\n<li>个人版：周付6.99美元、月付17.99美元、年付179.99美元，每周可提升20张照片的画质，下载照片无水印</li>\n<li>商业版：周付9.99美元、月付24.99美元、年付249.99美元，不限制照片处理张数，支持批量上传和商业使用</li>\n</ol>"
+        "title": "如何使用 Remini",
+        "html": "<p>Remini 的上手路径很简单：</p><ol><li>在浏览器打开 Remini 官网，或在 iOS、安卓设备上安装 Remini 应用。</li><li>上传一张需要处理的照片（常见格式如 JPG、PNG），或选择要做增强的视频。</li><li>根据素材类型选择模式：人像照片用 Face Enhancer，老照片用 Old Photos Restorer，模糊照片用去模糊与降噪。</li><li>等待 Remini 自动完成处理，查看前后对比效果。</li><li>确认满意后下载结果；如果需要更高清晰度或去除水印，可按官网说明选择相应的付费方案。</li><li>若要把能力嵌入自己的应用，可查阅 Remini 的接口方案做集成。</li></ol>"
       },
       {
-        "title": "Remini的应用场景",
-        "html": "<ol>\n<li>社交媒体：改善和提升社交媒体平台的个人资料和摄影照片</li>\n<li>家庭照片：恢复旧的、褪色的或损坏的家庭照片，帮助保留珍贵的记忆</li>\n<li>印刷服务：增强低分辨率图像质量，确保打印版本的清晰度</li>\n<li>电子商务：提高产品营销图的画质，进一步吸引用户注意力</li>\n<li>杂志文章：为文章添加更加高清的图片，增加读者兴趣</li>\n</ol>"
-      },
-      {
-        "title": "常见问题",
-        "html": "<div id=\"accordion\" style=\"max-width: 700px;\">\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Remini提供免费版本吗？</strong></div>\n<div class=\"card-body text-sm\">Remini提供免费试用体验的版本，用户可上传照片查看修复的效果，但只能预览且带有水印。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Remini支持哪些平台？</strong></div>\n<div class=\"card-body text-sm\">Remini支持Android和iOS移动端以及在线网页版使用，还提供Photoshop插件。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Remini APP版和网页版有什么区别？</strong></div>\n<div class=\"card-body text-sm\">Remini网页版相比移动端APP提供更多专业灵活的图像编辑功能。</div>\n</div>\n</div>"
+        "title": "Remini 的应用场景",
+        "html": "<p>Remini 适合处理以下几类需求：</p><ul><li>家庭影像：修复长辈的老照片，把模糊的旧照片还原到可保存、可打印的状态。</li><li>社交媒体创作：把低清素材处理得更清晰，用于内容发布与封面图制作。</li><li>印刷与大幅面输出：在打印前提升分辨率，避免放大后出现明显噪点与锯齿。</li><li>电商与商品图：改善商品图的清晰度与观感。</li><li>教育与资料配图：把扫描件、翻拍照片处理成更易阅读的清晰图。</li><li>视频素材：对短视频画面做增强，用于剪辑前的预处理。</li></ul><p>使用时要注意，Remini 的修复效果会受原图质量影响；免费方案与付费方案在导出清晰度、水印和处理速度上通常有差异，具体以官网当前说明为准。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "tool1680",
@@ -12784,7 +12780,7 @@
     "slug": "tool16651",
     "name": "AI数字人克隆和AI视频实时对话工具",
     "description": "AI数字人克隆和AI视频实时对话工具是一款AI视频工具领域的免费增值AI工具，AI数字人克隆和AI视频实时对话工具。支持AI视频工。",
-    "url": "https://ai-bot.cn/tavus",
+    "url": "https://www.tavus.io/",
     "categories": [
       "ai-video"
     ],
@@ -12797,9 +12793,26 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-video-digital-human",
     "logo": "/logos/tool16651.png",
-    "domain": "ai-bot.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "domain": "tavus.io",
+    "detailed_content": [
+      {
+        "title": "AI数字人克隆和AI视频实时对话工具 是什么",
+        "html": "<p>AI数字人克隆和AI视频实时对话工具，指的是 Tavus。官网把公司定位为「人类计算」方向的平台，核心产品是可以看、听并实时面对面回应的个性化应用层（官方称为 PAL）。作为一款 AI数字人克隆和AI视频实时对话工具，它把交互式数字人与对话式视频结合起来，既提供开发者 API，也提供无代码的 PAL Maker，以及面向企业的解决方案。</p>"
+      },
+      {
+        "title": "AI数字人克隆和AI视频实时对话工具 的主要功能",
+        "html": "<p>这款 AI数字人克隆和AI视频实时对话工具的功能覆盖数字人的创建、对话与内容呈现：</p><ul><li>交互式数字人：生成可以实时张口说话的数字人形象，用于对话场景。</li><li>多种接入方式：提供开发者 API、无代码 PAL Maker 与企业方案三条路径。</li><li>实时会议参与：数字人可加入主流视频会议并实时应答。</li><li>内容演示：在对话中展示幻灯片、选择题等组件。</li><li>联网与浏览：可实时检索信息、浏览网页后给出回应。</li><li>记忆与知识库：支持为数字人配置长期记忆与企业知识库。</li><li>模型选择：官方提供多代数字人模型，并支持接入自有模型。</li></ul>"
+      },
+      {
+        "title": "如何使用 AI数字人克隆和AI视频实时对话工具",
+        "html": "<p>使用这款 AI数字人克隆和AI视频实时对话工具，可以按需选择两条路径：</p><ol><li>先在官网注册账号，确定是用无代码方式还是走开发者 API。</li><li>若走无代码路线，用 PAL Maker 创建数字人，设置形象、声音与对话目标。</li><li>若走开发路线，查阅 API 文档完成接入，把数字人嵌入自己的产品或会议流程。</li><li>按业务需要挂载知识库与记忆，让数字人依据企业资料回答。</li><li>在真实场景中测试对话效果，按反馈调整话术与呈现方式。</li></ol><p>需要注意，涉及真人形象克隆时，应事先取得当事人的明确授权并遵守当地法律与平台规则。</p>"
+      },
+      {
+        "title": "AI数字人克隆和AI视频实时对话工具 的应用场景",
+        "html": "<p>这款 AI数字人克隆和AI视频实时对话工具适合以下场景：</p><ul><li>销售与获客：用数字人做初步沟通与线索筛选，减少人工重复应答。</li><li>面试与招聘：让数字人承担初面提问与记录。</li><li>培训与学习：用数字人录制讲解或做实时答疑。</li><li>医疗与健康咨询：在合规前提下做初步信息收集与引导。</li><li>会议与直播：让数字人参与会议或在直播中持续出镜。</li></ul><p>使用时需评估实时交互对网络与算力的要求，并明确 AI 生成内容的披露方式；具体能力与计费以官网为准。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "admuse-qq-com-2",
@@ -14812,7 +14825,7 @@
   },
   {
     "slug": "tool64973",
-    "name": "法大大推出的的AI法律工具",
+    "name": "法大大推出的AI法律工具",
     "description": "法大大推出的的AI法律工具是一款AI办公工具领域的免费增值AI工具，法大大推出的的AI法律工具。支持AI办公工。",
     "url": "https://ai.iterms.com/",
     "categories": [
@@ -14828,8 +14841,25 @@
     "subcategory": "ai-office-doc",
     "logo": "/logos/tool64973.png",
     "domain": "ai.iterms.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "法大大推出的AI法律工具 是什么",
+        "html": "<p>法大大推出的AI法律工具，指的是 iTerms 一站式法律 AI 工作台。官网把它定位为「值得信赖的 AI 法律顾问」：面向企业提供 AI 合同智审与法律咨询，帮助法务、律师和业务人员扫清合规障碍。这款法大大推出的AI法律工具覆盖合同起草、审查、签署、归档与履约监控的全周期，目标是把过去需要数天的合同审查与咨询工作压缩到更短的时间内完成。</p>"
+      },
+      {
+        "title": "法大大推出的AI法律工具 的主要功能",
+        "html": "<p>作为一款法大大推出的AI法律工具，iTerms 的能力清单包括：</p><ul><li>合同审查：智能识别条款风险，给出风险说明与修改建议，支持「边审边问边改」；还能比对不同版本的字符与语义，找出差异化条款的风险。</li><li>合同起草：结合企业自有合同模板或通用范本，自动匹配交易背景与结构，一键起草合同初稿。</li><li>法律助理：可做法律问答、联网搜索，并检索法律法规与司法案例，辅助拟定协议与合规策略。</li><li>AI 生成审查清单：解析合同内容后，结合审查立场与审查目的，动态生成针对性的审查清单与规则。</li><li>协作与留痕：支持文件在线编辑、多轮评审批注与版本追溯。</li><li>智能归档与检索：支持合同扫描件信息自动填充与合同全文检索。</li><li>多端与集成：提供企业账号与成员管理，支持微信小程序法律问答，并支持页面嵌套与 API 对接。</li></ul>"
+      },
+      {
+        "title": "如何使用 法大大推出的AI法律工具",
+        "html": "<p>使用这款法大大推出的AI法律工具，常规流程如下：</p><ol><li>访问 iTerms 官网，注册或登录账号，选择与团队规模匹配的版本。</li><li>进入合同审查板块，上传需要审查的 Word、PDF 等格式合同。</li><li>由 iTerms 自动解析合同内容并匹配审查清单；若是新型合同未匹配到清单，可选择让 AI 生成审查清单。</li><li>设定审查立场与审查目的，发起审查，查看分级的风险建议与修改意见。</li><li>对疑问条款就地追问或要求重写，修改后再做版本比对。</li><li>确认无误后归档，并在需要时通过全文检索找回历史合同。</li></ol>"
+      },
+      {
+        "title": "法大大推出的AI法律工具 的应用场景",
+        "html": "<p>这款法大大推出的AI法律工具适合这些场景：</p><ul><li>企业法务：把重复性的合同初审交给 AI，法务集中处理高风险的例外条款。</li><li>业务与销售：签单前快速核对合同条款，减少来回等待法务的时间。</li><li>中小团队：在没有专职法务的情况下，用 iTerms 做基础合规筛查。</li><li>物业、制造、汽车等行业：按行业场景做合同风险防控与多方协同评审。</li><li>合同管理：把合同数据沉淀为可检索的资产，便于追溯与复用。</li></ul><p>需要注意，AI 给出的审查意见属于辅助建议，最终判断仍应由具备资质的法律人员确认；具体功能与定价以官网为准。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "tool70602",
@@ -15404,11 +15434,23 @@
     "domain": "gbi.cloud.baidu.com",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<div>\n<h2 data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">百度GBI是什么</h2>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">百度GBI（Global Business Intelligence）是百度推出的全球商业智能平台。基于人工智能和大数据技术，为企业提供市场洞察、竞争分析、消费者行为研究等多维度的商业决策支持。通过GBI，企业可以更深入地了解市场趋势，优化产品和服务，制定更精准的营销策略，从而在激烈的商业竞争中获得优势。百度GBI平台以其强大的数据处理能力和先进的算法，帮助企业实现数据驱动的智能决策。</div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\"><a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/08/baidu-website.png\" data-fancybox=\"fancybox\" data-caption=\"百度GBI\"><img decoding=\"async\" class=\"alignnone size-full wp-image-16131\" src=\"https://ai-bot.cn/wp-content/uploads/2024/08/baidu-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"百度GBI\" width=\"800\" height=\"450\"></a></div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div>\n<h2 data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">百度GBI的主要功能</h2>\n</div>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<ul>\n<li><strong>市场洞察</strong>：分析市场趋势和消费者行为，提供行业动态和市场机会的深入分析。</li>\n<li><strong>竞争分析</strong>：监测竞争对手的业务活动，包括产品发布、市场策略和市场份额变化。</li>\n<li><strong>消费者研究</strong>：通过数据分析了解消费者的需求和偏好，帮助企业更好地定位产品和服务。</li>\n<li><strong>数据可视化</strong>：将复杂的数据转化为直观的图表和报告，便于用户快速理解信息。</li>\n<li><strong>风险管理</strong>：识别和评估业务风险，提供风险缓解策略。</li>\n</ul>\n</div>\n<h2 data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">如何使用百度GBI</h2>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<ul>\n<li><strong>注册和登录</strong>：在百度GBI平台上注册账户并登录（<a href=\"https://gbi.cloud.baidu.com/?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">gbi.cloud</a>）。</li>\n<li><strong>数据接入</strong>：根据需要分析的数据类型，将企业内部数据或外部数据导入平台。</li>\n<li><strong>选择分析工具</strong>：根据分析目的，选择合适的分析工具或模块，如市场趋势分析、消费者行为分析等。</li>\n<li><strong>配置分析参数</strong>：设置分析的具体参数，如时间范围、地区、行业等。</li>\n<li><strong>执行分析</strong>：启动分析过程，平台将根据配置的参数进行数据处理和分析。</li>\n<li><strong>查看结果</strong>：分析完成后，查看生成的报告和图表，了解分析结果。</li>\n</ul>\n</div>\n<div data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">\n<div>\n<h2 data-zone-id=\"0\" data-line-index=\"0\" data-line=\"true\">百度GBI的应用场景</h2>\n<ul>\n<li><strong>市场研究</strong>：企业可以使用GBI来分析市场趋势、消费者行为和偏好，确定新的市场机会或调整现有市场策略。</li>\n<li><strong>竞争对手分析</strong>：通过GBI监控竞争对手的市场份额、产品发布和营销活动，帮助企业制定有效的竞争策略。</li>\n<li><strong>产品开发</strong>：利用消费者洞察和市场数据，企业可以开发符合市场需求的新产品或改进现有产品。</li>\n<li><strong>营销策略制定</strong>：基于消费者行为分析和市场趋势，企业可以设计更有效的营销活动和广告投放计划。</li>\n<li><strong>风险评估与管理</strong>：通过分析宏观经济数据、行业动态和企业内部数据，评估潜在风险并制定应对策略。</li>\n</ul>\n</div>\n</div>"
+        "title": "百度推出的全球商业智能平台 是什么",
+        "html": "<p>百度推出的全球商业智能平台，指的是 百度GBI（Generative Business Intelligence）。按照百度智能云开发者社区的技术文章介绍，它是一款生成式商业智能产品，把数据集成与智能分析放在同一个工作台里，让不懂编程与 SQL 的业务人员也能直接向数据提问。这款百度推出的全球商业智能平台基于文心大模型构建，官方说明它的目标是让原本需要专业分析师耗费数天的数据分析工作缩短到分钟级。</p>"
+      },
+      {
+        "title": "百度推出的全球商业智能平台 的主要功能",
+        "html": "<p>作为一款百度推出的全球商业智能平台，GBI 的能力主要围绕自然语言问数展开：</p><ul><li>自然语言交互：用户直接把业务问题输入对话框，由大模型理解意图并执行相应的数据操作与分析。</li><li>跨数据库分析：可以对接不同来源的数据，减少以往跨库、跨表人工取数的环节。</li><li>专业知识学习：企业可以把行业与业务概念注入 GBI，让它按本行业的语境理解指标。</li><li>数据上传与识别：支持上传 Excel、CSV 等文件，系统会自动识别表名、列名与数据类型。</li><li>数据配置：可以设置索引列以加快查询，也可以新增自定义概念供后续提问引用。</li><li>应用设置：支持维护应用名称与描述、模型配置与对话管理等。</li></ul><p>官方说明 GBI 同时提供公有云、私有化与混合云等多种部署方式，以适配不同企业的数据合规要求。</p>"
+      },
+      {
+        "title": "如何使用 百度推出的全球商业智能平台",
+        "html": "<p>使用这款百度推出的全球商业智能平台，可以按下面的路径上手：</p><ol><li>进入 GBI 工作台，界面左侧用于上传待分析的数据文件，右侧是与大模型问答的交互区。</li><li>上传 Excel 或 CSV 文件。注意官方列出的文件规则：单次上传一个文件，列数、行数与文件大小均有上限，编码需为 UTF-8 且需包含中文表头；多 sheet 文件默认读取第一个 sheet。</li><li>上传后确认系统识别的表名、列名与数据类型是否正确，如有偏差先做调整。</li><li>在数据配置中把常用查询字段设为索引列，并按业务需要补充自定义概念。</li><li>用自然语言提出业务问题，查看 GBI 给出的结果；如需连续分析，可继续追问。</li><li>在应用设置中维护名称、描述与对话配置，便于团队协作使用。</li></ol>"
+      },
+      {
+        "title": "百度推出的全球商业智能平台 的应用场景",
+        "html": "<p>这款百度推出的全球商业智能平台适合以下场景：</p><ul><li>业务人员自助取数：市场、销售、财务等岗位可以直接提问，减少向数据团队提需求的往返。</li><li>经营分析：把日常报表与经营数据交给 GBI 做初步汇总与对比。</li><li>替代部分重复性报表工作：由 GBI 承担基础的指标查询与整理。</li><li>行业定制：把行业知识注入 GBI，用于特定领域的指标解读。</li></ul><p>需要注意的是，GBI 的回答依赖上传数据的质量与配置，复杂多步分析仍需人工核对结论；具体功能与配额以百度智能云官网为准。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "ajelix-com",
@@ -27015,27 +27057,23 @@
     "domain": "coderider.gitlab.cn",
     "detailed_content": [
       {
-        "title": "驭码CodeRider是什么",
-        "html": "<p>驭码CodeRider是极狐GitLab推出的<a href=\"https://ai-bot.cn/best-ai-coding-assistant-tools/\" target=\"_blank\" rel=\"noopener\">AI编程与软件智能研发助手</a>，专为提升程序员的编码效率和研发效能而设计。该AI编程工具基于AIGC技术，提供代码补全、生成、解释、单元测试生成以及智能问答等强大功能，支持PC原生端侧部署，允许用户在离线状态下使用，同时提供私有化部署选项，确保企业数据安全。驭码CodeRider与GitLab深度集成，支持智能DevOps工作流，帮助处理议题、合并请求，并与CI/CD流程结合，实现端到端的AI赋能。此外，它还覆盖了近百种编程语言，支持主流IDE集成，是企业级AI DevOps解决方案的优选。</p>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-12891 rounded-lg border\" src=\"https://ai-bot.cn/wp-content/uploads/2024/05/coderider-ai-coding-assistant.png\"   alt=\"驭码CodeRider\" width=\"700\" />"
+        "title": "CodeRider 是什么",
+        "html": "<p>CodeRider 是极狐GitLab 推出的软件全生命周期智能体开发与运维平台。它把 AI 能力嵌入日常编码与研发流程，官方将其定位为「AI Coding + AI DevOps」双轮驱动的智能平台：一端是编辑器内的智能体编程，另一端是打通 GitLab 原生能力的研发流程协同。CodeRider 强调在同一套体系里完成从代码生成、单元测试、合并请求评审到流水线排错的闭环，而不是把若干单点 AI 工具拼在一起。</p><p>在部署形态上，CodeRider 既提供云端 SaaS，也支持混合架构与完全私有化部署。官方说明私有化方案可以对代码与模型资产做物理层面的隔离，适合对数据主权与合规有较高要求的企业研发团队。</p>"
       },
       {
-        "title": "驭码CodeRider的主要功能",
-        "html": "<ul class=\"text-md\">\n<li><strong>智能编程辅助</strong>：CodeRider利用先进的AI算法，根据用户的实际研发需求，生成高质量的代码片段。这个功能可以大幅减少编码时间，提升编码效率，同时保证代码质量。</li>\n<li><strong>代码补全</strong>：在用户编写代码的过程中，CodeRider能够根据当前代码的上下文，智能地提供补全建议，减少手动编码的工作量，加快开发速度。</li>\n<li><strong>代码解释</strong>：CodeRider能够识别多种编程语言，并提供代码段的详细解释，帮助开发者理解复杂的代码逻辑，提高代码的可读性和可维护性。</li>\n<li><strong>代码注释</strong>：CodeRider自动生成代码注释，帮助开发者快速理解代码的功能和目的，特别是在团队协作中，注释可以大大提高代码的透明度。</li>\n<li><strong>代码修改</strong>：CodeRider可以根据用户的指令或需求，自动修改代码，减少手动修改的繁琐性，提高代码修改的效率和准确性。</li>\n<li><strong>单元测试</strong>：CodeRider能够为选定的代码段生成单元测试代码，帮助开发者快速验证代码的功能和性能，确保代码质量。</li>\n<li><strong>代码优化</strong>：CodeRider提供代码优化建议，帮助开发者改进代码结构，提升代码的可读性、可维护性和安全性。</li>\n<li><strong>智能问答</strong>：CodeRider支持自然语言处理技术，能够理解和回答技术相关问题，甚至生成代码示例，支持多轮对话，提高问题解决的效率。</li>\n<li><strong>GitLab文档问答</strong>：CodeRider集成了GitLab文档问答功能，用户可以通过提问来获取GitLab平台的使用帮助和最佳实践。</li>\n<li><strong>IDE集成</strong>：CodeRider支持与主流的集成开发环境（IDE）如Visual Studio Code等集成，使得开发者可以在熟悉的开发环境中直接使用CodeRider的功能。</li>\n<li><strong>覆盖多种编程语言</strong>：CodeRider支持近百种编程语言，无论是流行的Java、Python、JavaScript，还是特定的领域语言，都能得到CodeRider的支持，满足不同开发者的需求。</li>\n<li><strong>服务器私有化部署</strong>：企业可以选择将CodeRider部署在私有服务器上，这样可以更好地控制数据访问权限，保护企业的核心数据不被外泄，增强数据安全性。</li>\n<li><strong>端侧部署(AI PC)</strong>：用户可以在本地计算机上安装CodeRider，实现端侧智能研发。这种部署方式支持离线工作，即使在没有网络连接的情况下也能使用，增加了研发的灵活性。</li>\n<li><strong>企业代码文档安全</strong>：CodeRider提供了严格的安全措施，确保企业内部的代码和文档不会被未授权访问或泄露，保护了企业的知识产权和商业机密。</li>\n</ul>"
+        "title": "CodeRider 的主要功能",
+        "html": "<p>CodeRider 的能力分成两条主线，官网与官方文档列出的重点如下：</p><ul><li>代码补全与生成：基于当前文件及跨文件上下文，提供行级、函数级的实时代码推荐。</li><li>智能体编程：多角色智能体可自主规划并执行任务，包括任务拆解、跨文件工程检索、文件编辑、运行终端命令与自动化测试。</li><li>企业级智能问答：基于企业私有代码库与文档库做知识检索，协助修复代码问题、调试与排查运行错误。</li><li>智能需求分析：解析 GitLab Issue 的原始描述，评估需求的完整性与一致性，把业务语言整理成可执行的 PRD。</li><li>智能代码评审：分析合并请求中的变更逻辑，识别潜在风险并给出规范化评审建议。</li><li>流水线排错：针对 CI/CD 失败自动分析作业日志并定位根本原因，给出修复指导。</li></ul><p>CodeRider 可集成在主流 IDE 中，官方说明其覆盖近百种编程语言，并支持接入多种主流大模型方案或企业自行配置的模型。</p>"
       },
       {
-        "title": "如何使用驭码CodeRider",
-        "html": "<h3>对于Visual Studio Code用户：</h3>\n<ol>\n<li><strong>打开Visual Studio Code</strong>：确保你已经安装了Visual Studio Code编辑器。</li>\n<li><strong>访问扩展</strong>：在左侧导航栏中点击“扩展”图标。</li>\n<li><strong>搜索插件</strong>：在搜索框中输入“驭码 CodeRider”。</li>\n<li><strong>安装插件</strong>：找到插件后点击“安装”。</li>\n<li><strong>登录账号</strong>：插件安装完成后，需要登录极狐GitLab账号。</li>\n<li><strong>下载依赖项</strong>：登录后，手动下载依赖项。点击页面右下角弹出窗口下载端侧组件和模型，包括端侧组件、补全模型和对话模型。注意，因为模型文件较大，需要等待一段时间，右下角会显示下载进度。</li>\n</ol>\n<p>Visual Studio Code版插件：<a href=\"https://marketplace.visualstudio.com/items?itemName=Jihu-GitLab.coderider\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >https://marketplace.visualstudio.com/items?itemName=Jihu-GitLab.coderider</a></p>\n<h3>对于JetBrains IDEs用户（以IntelliJ IDEA为例）：</h3>\n<ol>\n<li><strong>打开IntelliJ IDEA</strong>：确保你已经安装了IntelliJ IDEA或其他JetBrains IDE。</li>\n<li><strong>访问插件市场</strong>：在左侧导航栏中点击“插件”。</li>\n<li><strong>搜索插件</strong>：在插件市场的搜索框中输入“CodeRider”。</li>\n<li><strong>安装插件</strong>：找到CodeRider后点击“安装”。</li>\n<li><strong>重启IDE</strong>：安装完成后，重启IntelliJ IDE。</li>\n<li><strong>登录账号</strong>：重启成功后，登录极狐GitLab账号。</li>\n<li><strong>下载依赖项</strong>：登录后，同样需要手动下载端侧组件和模型，步骤与Visual Studio Code用户相同。</li>\n</ol>\n<p>JetBrains版插件地址：<a href=\"https://plugins.jetbrains.com/plugin/24510-coderide-\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >https://plugins.jetbrains.com/plugin/24510-coderide-</a></p>"
+        "title": "如何使用 CodeRider",
+        "html": "<ol><li>先在官网了解方案与部署形态，按团队规模选择合适的版本与安装方式。</li><li>在支持的 IDE 中安装 CodeRider 插件，登录并连接企业代码仓库。</li><li>日常编码时由 CodeRider 提供补全建议；遇到较复杂的需求，切换到智能体编程模式，让它拆解任务、检索工程上下文、编辑文件并运行测试。</li><li>在合并请求环节启用智能代码评审，让 CodeRider 先给出评审意见，再由人工确认。</li><li>当 CI/CD 流水线失败时，用 CodeRider 分析作业日志，定位失败原因后再修复。</li></ol><p>CodeRider 提供代码模式、问答模式、架构师模式、调试模式、协调者模式与评审模式等内置模式，也可以按团队流程自定义模式；企业可按成本与性能在不同模型方案之间切换。</p>"
       },
       {
-        "title": "驭码CodeRider的产品价格",
-        "html": "<img decoding=\"async\" class=\"alignnone size-full wp-image-12894 rounded-lg border\" src=\"https://ai-bot.cn/wp-content/uploads/2024/05/coderider-pricing-plans.png\"   alt=\"驭码CodeRider的价格\" width=\"700\" />\n<ul class=\"text-md\">\n<li><strong>CodeRider Team驭码团队版</strong>：面向团队的版本，每年每人的价格是499元人民币。这个版本提供了一系列的特色功能，包括DevOps智能辅助、GitLab文档库、PC原生算力模型和私有化部署。此外，它还包括辅助编程、代码补全、技术问答、代码生成、代码注释、代码解释、单元测试、代码修改、代码优化和知识问答等辅助功能，以帮助团队成员提高开发效率。</li>\n<li><strong>CodeRider Enterprise驭码企业版</strong>：更高级的企业级版本，每年每人的价格是899元人民币。除了包含团队版所有功能外，企业版还增加了企业管理、数据看板、权限管理以及企业模型可配置等高级功能。</li>\n<li><strong>CodeRider Hybrid驭码混合算力版</strong>：结合了AI PC端推理和服务器端大模型的混合算力版本，具体价格需要联系极狐GitLab以获取详细信息。它包含了DevOps智能辅助、GitLab文档库、混合算力模型、私有化部署以及企业知识库等特色功能，并且也包括了辅助编程、代码补全、技术问答等一系列辅助功能。与企业版一样，混合算力版也提供了企业管理、数据看板、权限管理和企业模型可配置等高级功能。</li>\n</ul>\n<p>更多产品价格信息请查看<a href=\"https://coderider.gitlab.cn/pricing/?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >驭码CodeRider的产品定价页面</a>。</p>"
-      },
-      {
-        "title": "驭码CodeRider的适用人群",
-        "html": "<ul class=\"text-md\">\n<li><strong>软件开发者</strong>：无论是初级开发者还是资深程序员，CodeRider都能通过提供代码补全、代码解释、代码优化等功能，帮助他们提高编码效率和代码质量。</li>\n<li><strong>研发团队</strong>：在团队协作中，CodeRider的AI DevSecOps功能可以帮助团队成员更高效地进行开发、安全检查和运维工作，提升团队的整体研发效能。</li>\n<li><strong>企业IT部门</strong>：对于企业的IT部门来说，CodeRider的服务器私有化部署和企业代码文档安全功能，可以保障企业数据安全，同时提高研发流程的自动化水平。</li>\n<li><strong>自由职业者</strong>：自由职业者在进行软件开发项目时，CodeRider可以作为一个强大的助手，提供从编码到测试的一系列支持，帮助他们独立完成项目开发。</li>\n<li><strong>技术爱好者和初学者</strong>：对于编程爱好者和初学者，CodeRider的智能问答和代码解释功能可以帮助他们更快地学习和理解编程知识。</li>\n</ul>"
+        "title": "CodeRider 的应用场景",
+        "html": "<ul><li>企业研发团队：希望在不改动既有 GitLab 研发流程的前提下，让 CodeRider 接入编码、评审与流水线环节，减少工具之间的上下文切换。</li><li>数据敏感的行业：银行、保险与政企等组织对代码与模型资产外泄风险较为敏感，可选用 CodeRider 的私有化部署方案。</li><li>大型与分布式团队：需要统一评审标准、沉淀研发资产时，用 CodeRider 把需求分析、代码评审与流水线排错标准化。</li><li>个人开发者：借助 CodeRider 的补全与智能问答，加快对陌生代码库的上手速度。</li></ul><p>需要注意，CodeRider 面向的是有代码仓库与研发流程的组织场景，使用前应先明确模型接入方式与部署形态，再评估与现有工程规范的契合度。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "tool11414",
@@ -27133,23 +27171,23 @@
     "domain": "preview.devin.ai",
     "detailed_content": [
       {
-        "title": "Devin是什么",
-        "html": "<p>Devin是由人工智能初创公司Cognition推出的全球首个全自主的<a href=\"https://ai-bot.cn/best-ai-coding-assistant-tools/\" target=\"_blank\" rel=\"noopener\">AI软件工程师智能体</a>，具备强大的编程和软件开发能力，能够在多个方面协助或完全独立地完成软件开发任务。在SWE-bench基准测试中，Devin解决实际问题的表现远超如GPT-4和Claude 2等AI模型。</p>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-9536 rounded-lg border\" src=\"https://ai-bot.cn/wp-content/uploads/2024/03/devin-ai-software-developer.png\"   alt=\"Devin AI\" width=\"700\" />\n<p>Devin的开发公司Cognition正式成立虽然仅两个月，但团队成员拥有丰富的AI前沿工作经验，并且拥有多枚国际信息学奥林匹克竞赛（IOI）金牌，已获彼得·蒂尔的Founders Fund基金领投的2100万美元A轮融资。</p>"
+        "title": "首个全自主的AI软件工程师智能体 是什么",
+        "html": "<p>首个全自主的AI软件工程师智能体，指的是 Cognition 推出的 Devin。官网把 Devin 描述为「你团队的自主软件工程师」：它可以在云端或用户本机上运行，自带浏览器环境做验证，完成从理解需求到提交可合并 PR 的完整工程任务。与只做代码补全的助手不同，这款首个全自主的AI软件工程师智能体强调端到端的自主执行，并支持多个云智能体并行处理不同任务。</p>"
       },
       {
-        "title": "Devin的主要功能",
-        "html": "<ul class=\"text-md\">\n<li><strong>自主学习新技术</strong>：Devin能够通过阅读文档和代码来学习它不熟悉的技术，从而扩展其技能集。</li>\n<li><strong>端到端构建和部署程序</strong>：Devin 能够理解整个软件开发流程，从前端设计到后端部署，甚至包括将应用程序发布上线。这意味着它可以从零开始构建网站、游戏或其他软件项目，并处理相关的工作流程。</li>\n<li><strong>自主查找并修复Bug</strong>：Devin 具有出色的调试能力，能够发现并修复代码中的错误，即使开发者自己都没有注意到的问题也能被它找到并解决。</li>\n<li><strong>训练和微调AI模型</strong>：Devin 不仅能够处理常规的编程任务，还能帮助训练和微调其他AI模型，显示出在人工智能领域的深度应用能力。</li>\n<li><strong>修复开源库</strong>：对于开源社区中的问题，Devin 能够理解和解决，例如修复已知的bug或实现新的特性请求。</li>\n<li><strong>对成熟生产库做贡献</strong>：Devin 能够对已经成熟的生产库做出贡献，例如修复已知的错误或添加新功能。</li>\n</ul>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-9535 rounded-lg border\" src=\"https://ai-bot.cn/wp-content/uploads/2024/03/devin-ai-software-engineer.png\"   alt=\"Devin\" width=\"700\" />"
+        "title": "首个全自主的AI软件工程师智能体 的主要功能",
+        "html": "<p>作为一款首个全自主的AI软件工程师智能体，Devin 的能力覆盖工程任务的多个环节：</p><ul><li>理解与规划：阅读代码库与需求描述，形成实现计划。</li><li>编码与测试：在工作环境中编写代码并运行测试，自行排查失败原因。</li><li>评审：对变更代码做检查与评审。</li><li>自动化与维护：处理依赖升级、修复失败的测试等重复性工程任务。</li><li>并行执行：可同时运行多个 Devin 处理不同问题，加快复杂项目进度。</li><li>协作集成：加入团队的代码协作线程，被提及即可接单；也可主动监测 issue 并提交修复。</li><li>企业能力：支持企业级单点登录与多区域容灾等部署要求。</li></ul><p>官网同时说明 Devin 可以搭配不同的前沿模型使用，团队可按任务特点选择。</p>"
       },
       {
-        "title": "Devin的性能对比",
-        "html": "<p>在SWE-bench基准测试中（要求智能体解决在 Django 和 scikit-learn 等开源项目中发现的实际 GitHub 问题），Devin能够正确处理13.86%的问题。这一成绩显著高于之前技术水平的1.96%，显示出Devin在理解和解决实际编程问题方面的巨大优势。</p>\n<p>对比其他AI模型：Devin的表现远远超过了其他知名的AI模型，如GPT-4和Claude 2，这些模型在同样的测试中的正确率通常较低。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-9530 size-full rounded-lg border\" src=\"https://ai-bot.cn/wp-content/uploads/2024/03/devin-swe-benchmark.png\"   alt=\"Devin SWE-bench基准测试\" width=\"700\" />"
+        "title": "如何使用 首个全自主的AI软件工程师智能体",
+        "html": "<p>使用这款首个全自主的AI软件工程师智能体时，流程大致如下：</p><ol><li>在官网注册并创建团队空间，按需要配置代码仓库与技术栈。</li><li>用自然语言描述任务，或直接把 issue 交给 Devin 处理。</li><li>让 Devin 先给出实现计划，确认方向后再放开执行。</li><li>Devin 在自带环境中编码并运行测试，期间可在会话里查看进度与中间结果。</li><li>完成实现后由 Devin 提交变更，交由团队评审与合并。</li><li>对重复性维护任务，可配置自动化规则，让 Devin 定期检查并修复。</li></ol>"
       },
       {
-        "title": "如何使用Devin",
-        "html": "<p>目前Devin还在内测中，请访问<a href=\"https://www.cognition-labs.com/blog\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >Coginition的官网</a>查看更多信息，想要抢先体验的用户可填写<a href=\"https://forms.gle/PJPKaKYRZv9jfXP6A\" target=\"_blank\" rel=\"noopener nofollow\" rel=\"nofollow noopener\"  class=\"external\" >Devin的内测申请表</a>。</p>"
+        "title": "首个全自主的AI软件工程师智能体 的应用场景",
+        "html": "<p>这款首个全自主的AI软件工程师智能体适合以下场景：</p><ul><li>工程团队分流重复任务：把依赖升级、失败测试修复、样板代码等工作交给 Devin。</li><li>并行推进多个需求：用多个 Devin 同时处理互不冲突的任务。</li><li>遗留系统维护：在文档不足的代码库中，让 Devin 先做上下文梳理再动手修改。</li><li>评审前置：在人工评审前让 Devin 先做一轮检查，减少低级问题进入合并流程。</li></ul><p>需要注意的是，自主智能体仍需要人工把关关键决策与合并动作；团队应在流程中明确授权边界与验收标准，具体能力与计费方式以官网为准。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "tool10880",
@@ -30220,8 +30258,25 @@
     "subcategory": "ai-design-ui",
     "logo": "/logos/tool4004.png",
     "domain": "motiff.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "猿辅导旗下推出的AI界面设计工具 是什么",
+        "html": "<p>猿辅导旗下推出的AI界面设计工具，指的是 AI 驱动的用户界面设计产品妙多（Motiff）。它把专业界面编辑器、设计系统与原型工具整合在云端协作体系里，并在此基础上加入 AI 生成与修改能力。官网的定位是让 AI 成为设计师的伙伴：既可以用文字或图片直接生成界面，也可以对已有设计稿做局部迭代。除主站外，妙多还提供面向 UI 生成的 Motiff AI，主张产出的界面可以直接进入后续工作流，而不是停留在概念稿。</p>"
+      },
+      {
+        "title": "猿辅导旗下推出的AI界面设计工具 的主要功能",
+        "html": "<p>作为一款猿辅导旗下推出的AI界面设计工具，妙多（Motiff）的能力大致分为生成、编辑与交付三类：</p><ul><li>AI 生成界面：支持用文字、图片、PDF 或 markdown 描述需求，快速产出可编辑的界面。</li><li>预设风格：可选择极简、Material Design、Ant Design、shadcn/ui 等风格，并在此基础上调整，让多个页面保持一致。</li><li>局部精修：选中界面元素并描述想要的改动，即可按要求调整，无需重画整页。</li><li>智能生成模块：在设计语境下生成卡片、按钮与组件变体。</li><li>智能图像处理：原生支持生图、改图，以及文案改写与翻译。</li><li>交付研发：支持把设计导出到常用工具，或一键产出 HTML、React 代码与可下载的工程包。</li><li>协同与迁移：支持云端实时协作、设计系统与原型设计，并提供 Figma、Sketch 文件导入与批量迁移支持。</li></ul>"
+      },
+      {
+        "title": "如何使用 猿辅导旗下推出的AI界面设计工具",
+        "html": "<p>使用这款猿辅导旗下推出的AI界面设计工具时，可以按下面的步骤推进：</p><ol><li>访问妙多（Motiff）官网，注册并登录账号，按团队规模选择合适的版本。</li><li>新建项目后，先用文字、图片或文档描述需求，让妙多生成第一版界面。</li><li>选择一套预设风格，统一字体、色彩与组件规范，减少后续返工。</li><li>对不满意的区域，选中元素后描述修改意图，让妙多局部重做。</li><li>确认设计后，一键导出设计稿或生成前端代码，交给研发继续处理。</li><li>如果团队原本使用 Figma 或 Sketch，可先导入既有文件，再逐步迁移到妙多。</li></ol>"
+      },
+      {
+        "title": "猿辅导旗下推出的AI界面设计工具 的应用场景",
+        "html": "<p>这款猿辅导旗下推出的AI界面设计工具比较适合以下场景：</p><ul><li>产品团队快速出稿：需求方描述意图即可得到初版界面，缩短从想法到可视化的时间。</li><li>设计资源紧张的小团队：借助生成与局部精修，把重复性排版工作交给 AI。</li><li>设计系统统一：通过预设风格与设计系统，保证多页面、多成员产出的界面一致性。</li><li>设计与研发衔接：直接用生成的代码或工程包缩短交付链路。</li><li>工具迁移：从 Figma、Sketch 迁移既有设计资产，同时保留图层、变量与组件结构。</li></ul><p>需要注意，AI 生成的界面通常仍需人工按业务规范复核；涉及品牌与合规要求较高的项目，建议保留设计评审环节。</p>"
+      }
+    ],
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "tool6797",
@@ -34464,23 +34519,23 @@
     "domain": "think.baidu.com",
     "detailed_content": [
       {
-        "title": "百度AI探索版是什么",
-        "html": "<p>百度AI探索版是百度推出的深度<a href=\"https://ai-bot.cn/top-ai-search-engines/\" target=\"_blank\" rel=\"noopener\">AI搜索引擎</a>，基于AI技术提升问题解答的体验和效率。百度AI探索版提供多种功能，包括学习创作、决策辅助、知识答疑、主题研究、话题探索和问题解决等，帮助用户在不同领域获取信息和解决方案。基于输入问题，用户能获得AI共创的思路和建议，轻松化解难题。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/11/baiduaitansuo-website.png\" data-fancybox=\"fancybox\" data-caption=\"baiduaitansuo\"><img decoding=\"async\" class=\"alignnone wp-image-28908\" src=\"https://ai-bot.cn/wp-content/uploads/2024/11/baiduaitansuo-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"baiduaitansuo\" width=\"743\" height=\"418\"></a>"
+        "title": "百度推出的深度AI搜索引擎 是什么",
+        "html": "<p>百度推出的深度AI搜索引擎，指的是百度的文心助手（think.baidu.com）。按官网描述，这款百度推出的深度AI搜索引擎定位为一站式解决复杂问题的智能助手，面向办公与学习场景，主打「灵感探索」——先深入剖析问题核心，再给出回答。它把智能文字创作、图片创作、AI 阅读与智能体应用集中在一个入口里，并把资讯、图片、视频、网页与笔记等类型纳入检索。</p>"
       },
       {
-        "title": "百度AI探索版的主要功能",
-        "html": "<ul>\n<li><strong>学习创作</strong>：帮助用户在文学、艺术等领域进行创作和学习，提供赏析和创作指导。</li>\n<li><strong>决策辅助</strong>：为用户提供决策支持，比如旅游路线规划、职业选择等。</li>\n<li><strong>知识答疑</strong>：解答用户的各种知识性问题，提供准确的信息和解释。</li>\n<li><strong>主题研究</strong>：围绕特定主题进行深入研究，提供系统化的信息和分析。</li>\n<li><strong>话题探索</strong>：探索热门话题和趋势，为用户提供最新的讨论和信息。</li>\n<li><strong>问题解决</strong>：针对用户的具体问题提供解决方案，如教育、健康等领域的实用建议。</li>\n<li><strong>历史记录</strong>：记录用户的搜索历史，方便用户回顾和继续之前的探索。</li>\n</ul>"
+        "title": "百度推出的深度AI搜索引擎 的主要功能",
+        "html": "<p>作为一款百度推出的深度AI搜索引擎，它的功能可以分为检索、创作与任务三类：</p><ul><li>深度检索：支持网页、图片、资讯、视频、笔记等多种内容类型的搜索。</li><li>灵感探索：针对复杂问题先做拆解与剖析，再组织答案。</li><li>文字创作：提供帮我写作等入口，辅助生成与润色文案。</li><li>图片与音乐生成：内置图片生成与音乐生成工具。</li><li>AI 阅读：提供文献速读能力，用于快速理解长文。</li><li>演示文稿：提供 PPT 生成入口。</li><li>任务模式：支持复杂问题的讨论、查资料、做分析与写文案等完整任务。</li><li>知识与历史：提供知识库、收藏夹与对话历史，并可登录同步。</li></ul>"
       },
       {
-        "title": "如何使用百度AI探索版",
-        "html": "<ul>\n<li><strong>访问平台</strong>：访问百度AI探索版<a href=\"https://think.baidu.com/?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">官方网站</a> 。</li>\n<li><strong>登录账户</strong>：如果有百度账户选择登录，能同步历史记录和个性化设置。</li>\n<li><strong>输入问题</strong>：在搜索框中输入想要查询的问题或需要解决的问题。</li>\n<li><strong>选择功能</strong>：根据需求，选择相应的功能模块，如学习创作、决策辅助等。</li>\n<li><strong>获取结果</strong>：提交问题后，系统用AI技术提供相关的信息、建议或解决方案。</li>\n<li><strong>浏览历史</strong>：基于“我的历史”功能，查看之前的搜索记录和查询结果。</li>\n<li><strong>深入探索</strong>：如果对某个主题或问题感兴趣，用“主题研究”或“话题探索”功能进行更深入的了解。</li>\n</ul>"
+        "title": "如何使用 百度推出的深度AI搜索引擎",
+        "html": "<p>使用这款百度推出的深度AI搜索引擎，可以按下面的方式入手：</p><ol><li>在浏览器打开文心助手（think.baidu.com），用百度账号登录，以便同步对话历史与收藏。</li><li>在搜索框中直接输入问题；如果问题较复杂，选择任务模式，让它分步处理。</li><li>需要生成内容时，可从工具区调用写作、配图与演示文稿等生成入口。</li><li>把常用资料存入知识库，便于后续提问时引用。</li><li>移动端可下载文心 App，桌面端也可添加快捷方式或浏览器插件。</li></ol>"
       },
       {
-        "title": "百度AI探索版的应用场景",
-        "html": "<ul>\n<li><strong>学术研究</strong>：学者和研究人员查找学术论文、研究资料，进行主题研究。</li>\n<li><strong>教育学习</strong>：学生和教师辅助教学和学习，比如获取课程资料、学习创作等。</li>\n<li><strong>职业发展</strong>：职场人士获取行业动态、职业规划建议和决策辅助。</li>\n<li><strong>旅游规划</strong>：旅游爱好者规划旅游路线、获取旅游攻略和目的地信息。</li>\n<li><strong>健康咨询</strong>：用户获取健康知识、疾病信息和医疗建议。</li>\n</ul>"
+        "title": "百度推出的深度AI搜索引擎 的应用场景",
+        "html": "<p>这款百度推出的深度AI搜索引擎适合以下场景：</p><ul><li>学习与研究：梳理知识点、速读文献、整理资料。</li><li>办公写作：撰写文案、总结材料、准备演示文稿。</li><li>信息核实：做跨来源的资料查找与比对。</li><li>创意灵感：在做方案前先与助手讨论思路，获取启发。</li></ul><p>需要注意，AI 生成的回答与内容仅供参考，涉及事实性判断与对外发布的材料，仍应人工核实；具体功能与配额以官网为准。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "felo-ai",
@@ -40231,11 +40286,23 @@
     "domain": "huggingface.co",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<p>HuggingFace推出的大型语言模型（LLM）</p>"
+        "title": "HuggingFace推出的大型语言模型（LLM） 是什么",
+        "html": "<p>HuggingFace推出的大型语言模型（LLM），指的是 BLOOM。它由 BigScience 协作项目训练并托管在 Hugging Face 上，是一个开源自回归大语言模型，采用 decoder-only 架构。官方模型卡给出的参数量约为 1760 亿，并说明 BLOOM 能针对提示续写文本，可输出覆盖多种自然语言与编程语言的连贯内容。</p>"
+      },
+      {
+        "title": "HuggingFace推出的大型语言模型（LLM） 的主要功能",
+        "html": "<p>作为一款 HuggingFace推出的大型语言模型（LLM），BLOOM 的能力与使用方式包括：</p><ul><li>文本续写与生成：给定提示即可继续生成连贯文本。</li><li>多语言覆盖：官方列出 46 种自然语言，包含中文、英语、法语、西班牙语、阿拉伯语等。</li><li>代码相关能力：训练语料覆盖 13 种编程语言，涵盖常见的脚本语言与编译型语言。</li><li>零样本任务迁移：可以把未显式训练的任务改写成文本生成任务来处理。</li><li>开源可复现：官方提供训练日志与中间检查点，便于研究与复现。</li><li>框架可用：在 Hugging Face 上以 Transformers 模型形式提供，包含用于基座、因果语言建模与序列分类等用途的类。</li></ul>"
+      },
+      {
+        "title": "如何使用 HuggingFace推出的大型语言模型（LLM）",
+        "html": "<p>使用这款 HuggingFace推出的大型语言模型（LLM），常见路径如下：</p><ol><li>在 Hugging Face 上打开 BLOOM 的模型页，阅读模型卡与许可说明，确认使用范围。</li><li>借助 Transformers 加载模型，按其架构说明做推理或微调。</li><li>准备提示文本，把需要完成的任务改写成续写或生成的形式。</li><li>根据硬件条件选择推理方式；参数量较大时通常需要分布式或量化方案。</li><li>查看官方文档中的模型页，了解不同任务类别对应的调用方式。</li></ol><p>BLOOM 的调用不需要额外注册服务，重点是按官方许可条款合规使用，并为推理准备足够的显存或算力。</p>"
+      },
+      {
+        "title": "HuggingFace推出的大型语言模型（LLM） 的应用场景",
+        "html": "<p>这款 HuggingFace推出的大型语言模型（LLM）比较适合这些场景：</p><ul><li>研究与教学：作为开源大规模语言模型的研究对象，用于复现与实验。</li><li>多语言文本处理：需要覆盖多种语言时，可直接使用其多语言生成能力。</li><li>原型验证：在自有数据上做初步微调，验证想法是否可行。</li><li>私有化部署的基础模型：在合规允许的范围内，作为自建文本生成服务的底座。</li></ul><p>需要注意，大模型生成内容可能存在偏差或错误，用于正式业务前应做评估与人工复核；具体许可条款以官方模型卡为准。</p>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-13"
   },
   {
     "slug": "tool1079",
