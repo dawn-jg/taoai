@@ -1687,6 +1687,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool726</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool726.png</image:loc>
+      <image:title>Adobe Firefly logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/ai-sohu-com</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1747,6 +1756,15 @@
     <image:image>
       <image:loc>/logos/tool2762.png</image:loc>
       <image:title>AI Image Generator logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool151</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool151.png</image:loc>
+      <image:title>改图鸭 logo</image:title>
     </image:image>
   </url>
   <url>
@@ -5179,6 +5197,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool736</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool736.png</image:loc>
+      <image:title>Gemini logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/yuanbao-paluai-com</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -6022,6 +6049,15 @@
     <image:image>
       <image:loc>/logos/tool1774.png</image:loc>
       <image:title>aiXcoder logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool772</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool772.png</image:loc>
+      <image:title>AirOps logo</image:title>
     </image:image>
   </url>
   <url>
@@ -7174,6 +7210,15 @@
     <image:image>
       <image:loc>/logos/audiobox-metademolab-com.png</image:loc>
       <image:title>Meta推出的免费AI语音和声音生成模型 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool124</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool124.png</image:loc>
+      <image:title>Resemble AI logo</image:title>
     </image:image>
   </url>
   <url>
@@ -9046,6 +9091,15 @@
     <image:image>
       <image:loc>/logos/tool16912.jpg</image:loc>
       <image:title>AI内容检测与优化平台 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool393</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool393.png</image:loc>
+      <image:title>Writer logo</image:title>
     </image:image>
   </url>
   <url>

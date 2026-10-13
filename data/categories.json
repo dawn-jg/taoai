@@ -4,7 +4,7 @@
     "name": "AI写作工具",
     "slug": "ai-writing",
     "icon": "✍️",
-    "count": 103,
+    "count": 105,
     "description": "AI写作、文案创作、论文辅助",
     "subcategories": {
       "ai-writing-article": "AI文章写作",
@@ -87,7 +87,7 @@
     "name": "AI编程工具",
     "slug": "ai-coding",
     "icon": "💻",
-    "count": 80,
+    "count": 79,
     "description": "AI编程、代码生成与辅助",
     "subcategories": {
       "ai-coding-generator": "AI代码生成",
@@ -178,7 +178,7 @@
     "name": "AI内容检测",
     "slug": "ai-detection",
     "icon": "🔎",
-    "count": 33,
+    "count": 32,
     "description": "AI内容检测、去AI、查重",
     "subcategories": {
       "ai-detection-content": "AI内容检测",
