@@ -17760,14 +17760,16 @@
   },
   {
     "slug": "ai-mianshiya-com",
-    "name": "沉浸式AI模拟面试平台",
-    "description": "属于AI办公工具·AI文档处理分类。沉浸式AI模拟面试平台是一款AI办公工具领域的免费增值AI工具，沉浸式AI模拟面试平台。支持AI办公工。",
+    "name": "面多多",
+    "description": "面多多 是一个 AI 模拟面试练习平台，提供沉浸式综合面试、专项面试与简历押题，练习结束后给出多维度评估报告。属于 AI 办公工具·AI文档处理分类。",
     "url": "https://ai.mianshiya.com/",
     "categories": [
       "ai-office"
     ],
     "tags": [
-      "AI办公工"
+      "AI面试",
+      "模拟面试",
+      "求职"
     ],
     "featured": false,
     "rating": 4,
@@ -17778,23 +17780,23 @@
     "domain": "ai.mianshiya.com",
     "detailed_content": [
       {
-        "title": "面多多是什么",
-        "html": "<p>面多多是程序员鱼皮团队推出的沉浸式<a href=\"https://ai-bot.cn/ai-interview-assistant-tools/\" target=\"_blank\" rel=\"noopener\">AI模拟面试</a>平台，帮助求职者在面试中脱颖而出。拥有真实的数字人面试官，基于先进AI技术，能提供沉浸式的模拟面试体验，涵盖完整面试流程和真实视频对话界面。面多多提供实时智能反馈，AI会分析回答并给出专业建议和评分。能根据用户的能力和目标岗位定制个性化训练方案，涵盖技术面试、行为面试、案例分析等多维度技能提升。用户可获得1V1专业指导，基于顶级公司面试标准进行训练。面多多注重隐私安全保护，提供24*7随时练习服务。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/10/mianduoduo-website.png\" data-fancybox=\"fancybox\" data-caption=\"面多多\"><img decoding=\"async\" class=\"alignnone wp-image-65122\" src=\"https://ai-bot.cn/wp-content/uploads/2025/10/mianduoduo-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"面多多\" width=\"741\" height=\"417\"></a>"
+        "title": "面多多 是什么",
+        "html": "<p>面多多 是一个面向求职者的 AI 模拟面试练习平台，官网首页把它的主张概括成一句话：面一次，强一次。它的思路是把面试拆成可以反复练的环节——由 AI 担任面试官提问，用户现场作答，结束后拿到一份评估报告。官网用「沉浸式」来形容这种练习，并说明流程覆盖从自我介绍到项目深挖、从技术拷问到综合素质评估的完整链路，目的是尽量贴近目标岗位真实面试的节奏。</p><p>官网还列出了几项平台规模数据：1000+ 真实模拟面试、400+ 专项练习方向，以及 7×24 在线的面试官。对求职者来说，这些数字对应的实际含义是练习次数不受真人面试官档期限制，想练随时可以开一局。</p>"
       },
       {
-        "title": "面多多的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>沉浸式模拟面试</strong>：提供完整面试流程和真实视频对话界面，全方位模拟真实面试场景。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>专项面试练习</strong>：针对性短流程训练，同样真实的视频对话界面，快速提升特定环节。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>真实数字人面试官</strong>：基于先进AI技术，提供真实的面试体验，让您感受真正的面试氛围。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>实时智能反馈</strong>：AI实时分析您的回答，提供专业的改进建议和评分，助您快速提升。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong class=\"\">个性化训练方案</strong>：根据您的能力水平和目标岗位，定制专属的面试训练计划。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>全面技能提升</strong>：涵盖技术面试、行为面试、案例分析等多个维度的综合训练。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>1V1专业指导</strong>：专业面试导师一对一指导，针对性解决您的面试难题。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>行业顶尖标准</strong>：基于顶级大厂公司面试标准，让您的准备更加精准有效。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>隐私安全保障</strong>：企业级安全防护，您的面试数据和隐私得到全面保护。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>24*7随时练习</strong>：随时随地开始面试练习，不受时间地点限制，高效利用碎片时间。</div>\n</li>\n</ul>"
+        "title": "面多多 的主要功能",
+        "html": "<ul><li><strong>沉浸式综合面试：</strong>按目标岗位走完整流程，包含定制化匹配的题目、模拟真实场景的追问，以及一份个性化面试报告。</li><li><strong>专项面试：</strong>把面试拆成若干方向单独突破，官网列出的方向涵盖 Java 基础、Redis、Spring、MySQL、自我介绍、HR 面与项目经历等，哪一环薄弱就补哪一环。</li><li><strong>简历押题：</strong>上传简历后预测面试官可能问到的问题，给出解题思路与回答要点，并延伸出追问和相关题目，避免被动应答。</li><li><strong>岗位与年限匹配：</strong>开练前先选目标岗位和工作年限，题目难度与侧重点随之调整。</li><li><strong>能力报告：</strong>面试结束后输出多维度反馈，把表达能力、逻辑层次与知识盲区摆到台面上，方便安排下一轮练习。</li></ul>"
       },
       {
-        "title": "如何使用面多多",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>注册并获取兑换码</strong>：访问面多多官网 https://ai.mianshiya.com/ ，注册账号，获取免费体验兑换码。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>选择面试类型</strong>：根据目标岗位和个人需求，选择沉浸式模拟面试或专项面试练习。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>开始面试</strong>：点击所选面试模板，准备面试。AI面试官将提问，用户回答问题。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>查看反馈</strong>：面试结束后，查看面试记录及评估报告，了解优点和改进之处。</div>\n</li>\n</ul>"
+        "title": "如何使用 面多多",
+        "html": "<ol><li>打开 面多多 官网，先选择目标岗位，再选择工作年限。</li><li>在三类练习里挑一种：想整场走一遍就选沉浸式综合面试，想补短板就选专项面试，想围绕自己的简历准备就选简历押题。</li><li>综合面试与专项面试都以对话形式进行，按面试官的提问现场作答即可。</li><li>选用简历押题时先上传一份简历，面多多 会据此生成预测问题与回答要点。</li><li>结束后读一遍评估报告，把薄弱点记下来，再安排下一轮针对性的练习。</li></ol>"
       },
       {
-        "title": "面多多的应用场景",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>个人求职者面试准备</strong>：帮助求职者在面试前进行充分的模拟训练，熟悉面试流程，提升面试技巧，增强自信心。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>教育机构职业服务</strong>：可被教育机构整合到职业服务中，为学生提供面试练习机会，帮助他们更好地准备求职面试。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>企业内部培训</strong>：企业可以用平台培训新老员工，为了内部晋升或为外部职业机会做准备，能通过模拟面试提升员工的面试能力。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>特定岗位面试练习</strong>：针对不同岗位，如技术开发、产品运营、销售市场、金融财会等，提供针对性的面试问题和练习场景，满足求职者对特定岗位面试的准备需求。</div>\n</li>\n</ul>"
+        "title": "面多多 的应用场景",
+        "html": "<ul><li><strong>应届生初次求职：</strong>在正式面试前把流程走熟，减少因为不熟悉节奏而失分。</li><li><strong>在职跳槽：</strong>先用专项面试集中攻克某个方向，再用综合面试做整场演练。</li><li><strong>转行准备：</strong>通过简历押题摸清目标岗位习惯问什么，把精力用在真正会被问到的点上。</li><li><strong>面试前一周突击：</strong>短周期循环练几个专项，比漫无目的地刷题更容易看到变化。</li><li><strong>校园招聘与实习：</strong>把常见环节提前练一遍，把省下的时间留给知识与项目梳理。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-14"
   },
   {
     "slug": "niumianoffer-com",
@@ -25426,13 +25428,15 @@
   {
     "slug": "tool3973",
     "name": "Stable Chat",
-    "description": "属于AI聊天助手·通用对话AI分类。Stability AI 最新推出的免费聊天对话网站。支持AI聊天助，适合需要AI辅助对话与问答的用户。",
-    "url": "https://research.stability.ai/chat",
+    "description": "Stable Chat 是 Stability AI 对外开放的对话网站研究预览版，用于交互式评估其大语言模型的回答质量与安全性。属于 AI 聊天助手·通用对话AI分类。",
+    "url": "https://stability.ai/news-updates/stable-chat-research-defcon-ai-village",
     "categories": [
       "ai-chat"
     ],
     "tags": [
-      "AI聊天助"
+      "AI对话",
+      "大模型",
+      "模型评测"
     ],
     "featured": false,
     "rating": 4,
@@ -25440,9 +25444,26 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-chat-general",
     "logo": "/logos/tool3973.png",
-    "domain": "research.stability.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "domain": "stability.ai",
+    "detailed_content": [
+      {
+        "title": "Stable Chat 是什么",
+        "html": "<p>Stable Chat 是 Stability AI 对外开放的一个对话网站研究预览版。按官方公告的时间线，Stability AI 在 2023 年 7 月 21 日放出了当时它最强的开源大语言模型，官方称该模型在推理与语言细节上达到了同类开源模型里的领先水平；同年 8 月，Stability AI 开放了 Stable Chat，让 AI 安全研究者与技术爱好者直接与模型对话、评估回答质量，并把安全性与有用性方面的反馈交回官方。</p><p>官方把这套东西的定位讲得很清楚：它是一个研究用途的站点，用来测试与改进自家的模型，而不是面向生产环境的成品。Stable Chat 当时跑在 Stable Beluga 之上，官方表示会随着研究进展不断把新模型换上去。</p>"
+      },
+      {
+        "title": "Stable Chat 的主要功能",
+        "html": "<ul><li><strong>对话评估：</strong>在网页端直接向模型提问，观察它在推理与一般问答上的表现。</li><li><strong>反馈上报：</strong>遇到带有偏见或有害的回答，用页面上的标记按钮提交，帮助官方定位问题。</li><li><strong>账号登录：</strong>可以注册一个免费账号，也支持用 Gmail 登录。</li><li><strong>安全过滤：</strong>设置里提供安全过滤器开关，可按需要调整。</li><li><strong>模型跟进：</strong>官方会持续用最新的研究迭代更新 Stable Chat 背后的模型。</li></ul>"
+      },
+      {
+        "title": "如何使用 Stable Chat",
+        "html": "<ol><li>访问 Stable Chat 的站点，创建免费账号或用 Gmail 登录。</li><li>在对话界面输入问题，留意模型给出答案的过程与结论，而不是只看最终答案。</li><li>遇到明显不当、带有偏见或有害的输出，用页面上的标记功能提交，把它变成一次有效反馈。</li><li>按官方提醒，不要把它用于真实世界的关键任务或商业用途——Stable Chat 的定位是研究评估。</li><li>需要系统性地找漏洞时，可以参考官方在 DEF CON 31 上的做法：Stability AI 的最强模型曾参加 2023 年 8 月 10 日至 13 日在拉斯维加斯举行、由白宫支持的红队测试活动 AI Village，与会者集中检验模型的漏洞、偏见与安全风险。</li></ol>"
+      },
+      {
+        "title": "Stable Chat 的应用场景",
+        "html": "<ul><li><strong>AI 安全研究：</strong>把 Stable Chat 当作观察大模型输出边界的试验台，记录它在敏感话题上的反应。</li><li><strong>红队测试：</strong>按官方在 AI Village 活动中的思路，有组织地寻找模型的漏洞与偏见。</li><li><strong>教学演示：</strong>在课堂上用它展示对话模型能做什么、不能做什么。</li><li><strong>模型跟踪：</strong>把它当作 Stability AI 模型线的观察窗口，跟着官方迭代看能力变化。</li><li><strong>上手体验：</strong>想了解开源大模型的对话形态又不打算投入成本的人，可以先在这里试。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-14"
   },
   {
     "slug": "tool1220",
@@ -26989,24 +27010,43 @@
   },
   {
     "slug": "tool938",
-    "name": "微软AI Lab推出的将手绘草图转换成HTML代码工具",
-    "description": "微软AI Lab推出的将手绘草图转换成HTML代码工具。支持AI编程工，适合需要AI辅助编程与代码生成的用户。",
-    "url": "https://sketch2code.azurewebsites.net",
+    "name": "Sketch2Code",
+    "description": "Sketch2Code 是微软推出的实验性方案，用视觉识别与布局推断把照片里的手绘界面草图转换成 HTML 代码。属于 AI 编程工具·AI代码生成分类。",
+    "url": "https://github.com/Microsoft/ailab/tree/master/Sketch2Code",
     "categories": [
       "ai-coding"
     ],
     "tags": [
-      "AI编程工"
+      "AI编程",
+      "草图转代码",
+      "前端"
     ],
     "featured": false,
     "rating": 4,
-    "pricing": "freemium",
+    "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool938.png",
-    "domain": "sketch2code.azurewebsites.net",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "domain": "github.com",
+    "detailed_content": [
+      {
+        "title": "Sketch2Code 是什么",
+        "html": "<p>Sketch2Code 是微软推出的一个基于网页的实验性方案，任务很单一：把照片里手绘的界面草图变成可用的 HTML 标记代码。按微软官方博客的说法，出发点相当具体——界面设计往往从白板上的草图开始，草稿拍成照片之后，还要有人把它手工翻译成能在浏览器里跑的 HTML 线框，这道翻译工序既费时又拖慢迭代；如果白板一改、浏览器里就跟着变，一次评审下来就能得到设计与开发都认可的原型，Sketch2Code 想解决的正是这一步。</p><p>该项目由微软与 Kabel、Spike Techniques 合作开发，代码与方案开发过程在官方的开源仓库中公开。微软把它归类为「用 AI 增强人的创造力」的一个小例子。</p>"
+      },
+      {
+        "title": "Sketch2Code 的主要功能",
+        "html": "<ul><li><strong>草图元素识别：</strong>用户上传界面草图后，自定义视觉模型判断画面里出现了哪些常见 HTML 元素，并标出它们各自的位置。官方说明这个模型是用大量手绘稿图像训练出来的，标注对象包括文本框、按钮、图片等。</li><li><strong>手写文字识别：</strong>用计算机视觉服务读取被识别元素内部的文字内容。</li><li><strong>布局推断：</strong>布局算法依据各元素边框的空间信息，生成一个能容纳全部组件的网格结构。</li><li><strong>代码生成：</strong>HTML 生成引擎把上面的识别结果与布局信息合成 HTML 标记代码。</li><li><strong>过程留档：</strong>官方方案使用 Blob 存储保存原图、预测结果与布局分组信息，并用无服务器函数作为协调整个生成流程的后端入口。</li></ul>"
+      },
+      {
+        "title": "如何使用 Sketch2Code",
+        "html": "<ol><li>准备一张手绘界面草图的照片：官方强调输入就是照片，所以尽量拍正、拍清楚。</li><li>在 Sketch2Code 的网页入口上传这张图片，剩下的判断交给后台流程。</li><li>自定义视觉模型先圈出画面里的 HTML 元素并给出位置，手写识别服务接着读出元素内的文字。</li><li>布局算法把元素框转换成网格结构，最后由生成引擎输出 HTML 代码。</li><li>在页面上查看生成的 HTML 结果并按需取用。想了解内部实现或想自己搭一套的，可以按官方博客给出的组件说明去读公开的源码与方案文档。</li></ol>"
+      },
+      {
+        "title": "Sketch2Code 的应用场景",
+        "html": "<ul><li><strong>设计评审：</strong>把白板草图直接转成能打开的线框，让设计与开发在同一个原型上讨论，而不是靠口头描述。</li><li><strong>早期原型：</strong>在没写真实业务代码之前，先拿一份 HTML 骨架验证布局是否成立。</li><li><strong>技术教学：</strong>用它讲清楚「视觉识别 + 文字识别 + 布局推断 + 代码生成」如何串成一条完整流水线。</li><li><strong>方案借鉴：</strong>团队想自建草图转代码流程时，可以参考它对视觉模型、存储与函数计算的组合方式。</li><li><strong>素材数字化：</strong>把纸面上的旧稿快速转成可继续编辑的页面，省掉重画一遍的工夫。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-14"
   },
   {
     "slug": "tool5256",
@@ -27542,14 +27582,16 @@
   },
   {
     "slug": "tool2610",
-    "name": "CodeSandbox推出的AI编程助手",
-    "description": "属于AI编程工具·AI代码生成分类。CodeSandbox推出的AI编程助手。支持AI编程工，适合需要AI辅助编程与代码生成的用户。",
-    "url": "https://codesandbox.io/blog/meet-boxy-ai-coding-assistant",
+    "name": "Boxy",
+    "description": "Boxy 是 CodeSandbox 内置在云端开发环境里的 AI 编程助手，能结合整个代码库的上下文生成与重构代码，并自动撰写提交信息。属于 AI 编程工具·AI代码生成分类。",
+    "url": "https://codesandbox.io/",
     "categories": [
       "ai-coding"
     ],
     "tags": [
-      "AI编程工"
+      "AI编程",
+      "代码生成",
+      "代码重构"
     ],
     "featured": false,
     "rating": 4,
@@ -27558,8 +27600,25 @@
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool2610.png",
     "domain": "codesandbox.io",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Boxy 是什么",
+        "html": "<p>Boxy 是 CodeSandbox 内置在云端开发环境里的 AI 编程助手。按 CodeSandbox 官方博客的说法，它随当年的 beta 版本一并向 Pro 订阅用户开放，官方还顺手做了一个 AI playground 供人试用。Boxy 的特别之处在于它长在浏览器里的开发工作区中，官方强调它掌握整个代码库的上下文，因此能围绕当前项目作答，而不是像通用对话模型那样只看到被粘贴进去的那一段。</p><p>CodeSandbox 把 AI 能力设成需要用户主动开启，官方说明并非所有人都愿意把代码交给模型；同时官方另设了 AI Research Program，用免费使用权换取志愿者持续反馈。这些设定都写在那篇发布说明里，也解释了 Boxy 为什么一上来就走「绑定具体工作区」的路线。</p>"
+      },
+      {
+        "title": "Boxy 的主要功能",
+        "html": "<ul><li><strong>结合项目上下文作答：</strong>官方称 Boxy 能读取整个代码库，而不只看当前打开的文件，因此提问时不必把相关片段一段段贴给它。</li><li><strong>代码生成：</strong>用自然语言说明需求即可产出代码；回答里给出的文件路径可以直接点开，把生成结果插入编辑器。</li><li><strong>从预览处重构：</strong>官方把重构称作它的看家本领。在应用预览里选中某个元素，就能要求它改写与该元素关联的代码，连文件都不必自己找。</li><li><strong>提交信息：</strong>分析分支上的改动后主动建议提交信息，可一键重新生成；后续版本升级为同时产出标题与描述，新建 PR 时也会据此预填。</li><li><strong>代码解释：</strong>对某段代码或某个文件的疑问可以直接发问，官方把它当作降低学习门槛的一环。</li></ul>"
+      },
+      {
+        "title": "如何使用 Boxy",
+        "html": "<ol><li>准备一个 CodeSandbox 工作区，并按官方说明处于可用的订阅档位；AI 功能需要用户自己开启。</li><li>在开发环境里打开对话面板，用自然语言描述目标，或直接对某段代码发问。</li><li>需要新代码时让它生成，再从回答里点开文件路径，把结果写进编辑器。</li><li>要改造界面时，先在应用预览中选中目标元素，再让它重写与之关联的代码。</li><li>提交前可以点 AI 图标请求生成提交信息；也可以用命令面板里的 Ask Boxy 入口发起对话。</li><li>只想先摸清能力边界的话，可以先用官方提供的 AI playground 试手。</li></ol>"
+      },
+      {
+        "title": "Boxy 的应用场景",
+        "html": "<ul><li><strong>接手陌生仓库：</strong>让 Boxy 解释某段逻辑或某个文件的作用，比通读全部代码快得多。</li><li><strong>快速原型：</strong>用描述性的需求生成初版界面代码，先把可跑的东西立起来。</li><li><strong>界面改造：</strong>在预览里点选元素，把「这里要换个样式」直接变成代码改动。</li><li><strong>提交记录规范化：</strong>借自动生成的标题与描述，让分支历史更容易读懂。</li><li><strong>团队上手：</strong>新成员用问答方式熟悉项目结构，减少对老成员的打扰。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-14"
   },
   {
     "slug": "tool3051",
@@ -31403,14 +31462,16 @@
   },
   {
     "slug": "tool1825",
-    "name": "将生成式AI集成到Photoshop图像设计中",
-    "description": "属于AI设计工具·AI平面设计分类。将生成式AI集成到Photoshop图像设计中。支持AI设计工，适合需要AI辅助设计创作的用户。",
-    "url": "https://www.getalpaca.io/",
+    "name": "Alpaca",
+    "description": "Alpaca 是面向美术与设计从业者的生成式渲染插件，以 Photoshop 插件形态提供文字生图、局部重绘与草图转写实等能力。属于 AI 设计工具·AI平面设计分类。",
+    "url": "https://docs.alpacaml.com/",
     "categories": [
       "ai-design"
     ],
     "tags": [
-      "AI设计工"
+      "AI绘画",
+      "Photoshop插件",
+      "AI渲染"
     ],
     "featured": false,
     "rating": 4,
@@ -31418,14 +31479,26 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
     "logo": "/logos/tool1825.png",
-    "domain": "getalpaca.io",
+    "domain": "alpacaml.com",
     "detailed_content": [
       {
-        "title": "",
-        "html": "将生成式AI集成到Photoshop图像设计中"
+        "title": "Alpaca 是什么",
+        "html": "<p>Alpaca 是面向美术与设计从业者的生成式渲染插件，官方文档把它称作「个人化的 AI 渲染引擎」。按官方介绍，它的目标是让使用者在保留对自己作品控制权与所有权的前提下，把生成模型接进既有工作流，从而更快地铺草稿和改细节。Alpaca 以插件形态工作：装好后 Photoshop 里会多出一个名为 alpaca 的面板，登录之后即可在画布旁直接调用生成能力，不必在修图软件与网页出图工具之间来回搬运文件。</p><p>官方文档把能力按版本分册整理，其中 Classic 一册面向 Photoshop 插件本身，并配有安装指引、提示词指南与成例教程；此外还有面向渲染产品的独立手册。按官方 FAQ 的说法，用户对自己借助 Alpaca 产出的图像与素材享有权利，而免费档用户的数据可能被用于改进服务，付费档则不会。</p>"
+      },
+      {
+        "title": "Alpaca 的主要功能",
+        "html": "<ul><li><strong>Imagine：</strong>只给一段文字描述就能出图。可一次生成 1 到 5 张，张数越多消耗与等待越长；还能填写 Exclude 说明不想要的内容。</li><li><strong>参数调节：</strong>Seed 决定生成的可复现性，固定随机种子配合相同设置会得到同一结果，把它设为 0 则每次自动换种子；Steps 越高画质越好但更慢更贵；Prompt Strength 用来控制模型对描述的贴合程度，官方认为 7 是较平衡的取值；勾选 Tileable 可得到能无缝拼接的图案。</li><li><strong>参考图：</strong>Imagine 允许拿现成图片当模板引导生成，官方列出 Pose、Depth、Hard Edges 与 Soft Edges 四种参考类型，分别约束人物姿态、画面构图与边缘走势。</li><li><strong>Fill：</strong>用于改图与扩图，靠一次选区加一段描述完成。改局部时圈定区域直接重绘；往外扩画布时先把背景留成透明，再把 Region to fill 切成 Transparency，官方同时说明单次可填的区域不超过 2048×2048。</li><li><strong>Sketch：</strong>把随手画的涂鸦变成写实画面。在 Sketch Settings 里把 Sketch Type 选为 Scribble，可让 Alpaca 抓住草稿的意图而不是照抄线条；Sketch Strength 越大越忠实于原稿，官方建议用黑白或透明底作画效果更好。</li><li><strong>其他条目：</strong>官方文档目录中还有 depth、transfer、upscale 与渲染手册等分册，覆盖深度、迁移与放大等任务。</li></ul>"
+      },
+      {
+        "title": "如何使用 Alpaca",
+        "html": "<ol><li>确认本机已安装并更新 Photoshop。官方给出的最低要求是：2023 及之后的版本不限小版本，2022 需不低于 23.4.0，2021 需不低于 22.5.9。</li><li>安装插件。2023 及以上可直接从 Creative Cloud 市场获取；旧版本则下载插件包，把 alpaca 文件夹放进 Photoshop 的 Plug-ins 目录，重启后在「插件」菜单里启用。</li><li>打开 Alpaca 面板登录，按任务挑工具：从零出图用 Imagine，改局部或扩画布用 Fill，草图转写实用 Sketch。</li><li>填好描述与参数后点 Generate。用 Fill 时先用矩形选框圈出要动的范围；做扩图时先把画布拉到目标尺寸、保持新增区域透明，并把 Region to fill 设为 Transparency。</li><li>结果不理想时优先调 Prompt Strength 与 Sketch Strength，而不是反复改描述；也可以换随机种子重新生成一批再挑。</li></ol>"
+      },
+      {
+        "title": "Alpaca 的应用场景",
+        "html": "<ul><li><strong>概念铺量：</strong>先用 Imagine 快速铺出几张氛围稿，定下方向后再用 Fill 补细节。</li><li><strong>画面修补与扩边：</strong>把构图缺角的成图交给 Fill 往外补，或在画面里替换、移除某个元素。</li><li><strong>纹理与背景：</strong>打开 Tileable 生成可平铺图案，供材质或网页背景继续使用。</li><li><strong>线稿推进：</strong>把线稿或草涂交给 Sketch，先看写实方向是否成立，再决定要不要手工细化。</li><li><strong>成体系创作：</strong>官方成例教程按角色概念、场景概念与插画等方向给出完整演示，适合照着流程走一遍。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-14"
   },
   {
     "slug": "tool1924",
@@ -42201,24 +42274,43 @@
   },
   {
     "slug": "tool4963",
-    "name": "PromptPerfect 是一款专业好...",
-    "description": "属于AI提示指令·Prompt提示词库分类。PromptPerfect 是一款专业好...。支持AI提示指，适合需要优化Prompt与AI交互的用户。",
-    "url": "https://promptperfect.jinaai.cn/",
+    "name": "PromptPerfect",
+    "description": "PromptPerfect 是 Jina AI 推出的提示词生成与优化工具，支持多模型、批量优化与 API 调用；官方已公告服务将于 2026 年 9 月 1 日后停止提供。属于 AI 提示指令·Prompt提示词库分类。",
+    "url": "https://promptperfect.jina.ai/",
     "categories": [
       "ai-prompt"
     ],
     "tags": [
-      "AI提示指"
+      "提示词",
+      "Prompt优化",
+      "API"
     ],
     "featured": false,
     "rating": 4,
-    "pricing": "paid",
+    "pricing": "freemium",
     "createdAt": "2025-01-01",
     "subcategory": "ai-prompt-library",
     "logo": "/logos/tool4963.png",
-    "domain": "promptperfect.jinaai.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "domain": "promptperfect.jina.ai",
+    "detailed_content": [
+      {
+        "title": "PromptPerfect 是什么",
+        "html": "<p>PromptPerfect 是 Jina AI 推出的提示词生成与优化工具，官网把它称作 AI Prompt Optimizer，要解决的问题很直白：把一句粗糙的描述打磨成更适合目标模型执行的提示词。官网 FAQ 把用法写得很清楚——输入提示词，再按需要设置最大提示词长度、优化迭代次数与输出质量，工具会很快给出改写后的版本。官方列出的适配对象既有面向文本的大模型，也有面向图像的生成模型。</p><p>需要留意它的存续状态：官网 FAQ 明确说明，在 Jina AI 于 2025 年 10 月被 Elastic 收购之后，PromptPerfect 将于 2026 年 9 月 1 日之后不再提供服务。因此它更适合当成提示词优化的参考案例与历史工具来看，而不是新项目长期依赖的基础设施。</p>"
+      },
+      {
+        "title": "PromptPerfect 的主要功能",
+        "html": "<ul><li><strong>提示词优化：</strong>给一段原始提示词，返回改写后的版本；自动优化迭代次数越多，官方称优化越充分，等待时间也越长。</li><li><strong>自动补全与建议：</strong>官方提供自动的提示词补全能力，帮助写得不顺手的人也能得到结构更完整的指令。</li><li><strong>多结果对比：</strong>订阅用户可一次拿到最多四条优化结果做挑选，页面上还能在表格视图与卡片视图之间切换，对照优化前后的差别。</li><li><strong>批量处理：</strong>支持一次提交多条提示词，并集中管理优化结果。</li><li><strong>提示词即服务：</strong>可以把提示词部署成 API 服务，官方后续为它补上了流式输出。</li><li><strong>多语言支持：</strong>可以指定优化结果的语言，选择英语之外的语种会额外计费。</li><li><strong>开放接口：</strong>提供 optimize 与 optimizeBatch 两个端点，请求体中可指定 prompt、目标模型、迭代次数、目标语言与返回条数等字段。</li></ul>"
+      },
+      {
+        "title": "如何使用 PromptPerfect",
+        "html": "<ol><li>打开 PromptPerfect 的网页版，在输入框里填入想优化的提示词。</li><li>按需设定参数：打算用在哪个目标模型上、要迭代几轮、希望返回几条结果。</li><li>触发优化后查看改写结果，用前后对比决定采用哪一版；不满意就让 PromptPerfect 再跑一轮。</li><li>要生成图像时把目标模型指向对应的图像模型；有多条提示词时一并提交做批量优化。</li><li>需要把能力接进自家系统时，按官方接口文档调用优化端点；同时请把服务终止的时间点记在方案里，提前准备替代方案。</li></ol>"
+      },
+      {
+        "title": "PromptPerfect 的应用场景",
+        "html": "<ul><li><strong>提示词入门：</strong>把随手写的一句话交给 PromptPerfect，对照优化结果理解提示词该写到什么颗粒度。</li><li><strong>图像出图调优：</strong>为图像生成模型改写描述，减少靠反复试错碰运气的次数。</li><li><strong>内容生产：</strong>为写作、营销等需要稳定产出的场景准备更清晰的指令模板。</li><li><strong>工程集成：</strong>通过接口把提示词优化接进产品流程，让前端用户只输入意图。</li><li><strong>多语言任务：</strong>需要非英语提示词时，用语言选项统一处理，避免自己逐条翻译。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-14"
   },
   {
     "slug": "tool767",

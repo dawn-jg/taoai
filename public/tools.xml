@@ -3883,6 +3883,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/ai-mianshiya-com</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/ai-mianshiya-com.png</image:loc>
+      <image:title>面多多 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/niumianoffer-com</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -5548,6 +5557,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool3973</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool3973.png</image:loc>
+      <image:title>Stable Chat logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tool1220</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -5899,6 +5917,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool938</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool938.png</image:loc>
+      <image:title>Sketch2Code logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tool5256</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -6022,6 +6049,15 @@
     <image:image>
       <image:loc>/logos/tool4794.png</image:loc>
       <image:title>Vercel推出的AI全栈应用构建工具 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool2610</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool2610.png</image:loc>
+      <image:title>Boxy logo</image:title>
     </image:image>
   </url>
   <url>
@@ -6814,6 +6850,15 @@
     <image:image>
       <image:loc>/logos/tool1059.png</image:loc>
       <image:title>即时设计推出的由文本描述生成可编辑的原型设计稿 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool1825</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool1825.png</image:loc>
+      <image:title>Alpaca logo</image:title>
     </image:image>
   </url>
   <url>
@@ -9253,6 +9298,15 @@
     <image:image>
       <image:loc>/logos/tool61488.png</image:loc>
       <image:title>谷歌推出的AI提示词库 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool4963</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool4963.png</image:loc>
+      <image:title>PromptPerfect logo</image:title>
     </image:image>
   </url>
   <url>
