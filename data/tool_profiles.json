@@ -1,6 +1,6 @@
 {
   "_note": "P1 内容补强：为缺少实质正文的工具补写原创资料。内容依据产品官网/官方发布与公开报道整理，由编辑部撰写，非逐字搬运；仅用于补充 detailed_content。由 scripts/apply-tool-profiles.mjs 合并进 data/tools.json。",
-  "_updated": "2026-10-13",
+  "_updated": "2026-10-14",
   "items": {
     "1dppt-com": {
       "updated": "2026-10-02",
@@ -25729,6 +25729,79 @@
         {
           "title": "PromptPerfect 的应用场景",
           "html": "<ul><li><strong>提示词入门：</strong>把随手写的一句话交给 PromptPerfect，对照优化结果理解提示词该写到什么颗粒度。</li><li><strong>图像出图调优：</strong>为图像生成模型改写描述，减少靠反复试错碰运气的次数。</li><li><strong>内容生产：</strong>为写作、营销等需要稳定产出的场景准备更清晰的指令模板。</li><li><strong>工程集成：</strong>通过接口把提示词优化接进产品流程，让前端用户只输入意图。</li><li><strong>多语言任务：</strong>需要非英语提示词时，用语言选项统一处理，避免自己逐条翻译。</li></ul>"
+        }
+      ]
+    },
+    "tool747": {
+      "updated": "2026-10-14",
+      "sources": [
+        "https://moxby.com/",
+        "https://moxby.com/ai-prompt-library"
+      ],
+      "sections": [
+        {
+          "title": "Moxby 是什么",
+          "html": "<p>Moxby 是一款把常用浏览器改造成 AI 工作台的扩展工具，官网把它定位为 AI-powered workspace，主打「让智能体真正落到日常工作里」。安装扩展之后，Moxby 提供几条并行的能力线：Moxby Chat 让你在任意网页上直接调用 ChatGPT 等主流对话模型；Mods 用一句提示词改动正在访问的网站，或在浏览器内构建一个完整应用；Missions 把需要反复执行的任务交给智能体，并按你设定的 KPI 度量每一次结果；Marketplace 则是一个已经打包好、可即装即用的 Mods、Missions 与 Skills 目录。对经常和提示词打交道的人，它还提供 Prompt Refiner，把粗糙的想法整理成结构化、可直接执行的智能体提示词。</p>"
+        },
+        {
+          "title": "Moxby 的主要功能",
+          "html": "<ul><li><strong>浏览器内模型调用：</strong>Moxby Chat 支持在任意网页上使用 ChatGPT 等主流模型，也能切换到 Claude，省去在多个标签页之间来回切换的麻烦。</li><li><strong>Mods（改造）：</strong>用一句话修改正在浏览的网站界面，或者在浏览器里搭建一个能独立运行的小应用。</li><li><strong>Missions（自主工作流）：</strong>先设定一个 KPI，再让 Moxby 运行工作流、度量每次结果并持续改进，官网把这种能力称作可度量的自主性。</li><li><strong>Marketplace（资源目录）：</strong>收录现成的 Mods、Missions 与 Skills，可按类型与场景筛选，每个条目都标注所需方案、兼容性与发布者，方便先看清条件再决定是否安装。</li><li><strong>免费规划工具：</strong>提供 Token Savings Calculator、Prompt Refiner、Website Mod Planner、Mission Planner 与 Browser App Mod Planner，用来在动手之前把需求写清楚。</li><li><strong>安全与权限说明：</strong>官方单独说明了 Context Rasterization 与安全策略，并在安装前提示核对权限范围。</li></ul>"
+        },
+        {
+          "title": "如何使用 Moxby",
+          "html": "<ol><li>访问 Moxby 官网，安装浏览器扩展。</li><li>打开 Marketplace，按类型（Mod / Mission / Skill）或场景（编码、电商、教育、金融、HR、法务、营销、SEO、社媒、写作等）浏览，找到想要的产品。</li><li>安装前核对所需方案、兼容性、权限与支持信息，确认与环境匹配再添加。</li><li>如果从零开始，用 Prompt Refiner 或 Mission Planner 之类的规划工具，先写明体验目标、关键指标和验证方式，再把工作交给 Moxby Chat。</li><li>对需要长期优化的任务，改用 Missions 设定 KPI，并持续查看结果度量。</li><li>Moxby 官网区分免费与 Plus 两档方案，具体额度与价格以官网当时公示为准。</li></ol>"
+        },
+        {
+          "title": "Moxby 的应用场景",
+          "html": "<ul><li><strong>市场与增长团队：</strong>把重复的投放、内容与线索处理流程做成 Mission，用 KPI 判断是否真的有效。</li><li><strong>销售与营收运营：</strong>借助 Marketplace 里的现成产品，减少从零搭工作流的成本。</li><li><strong>开发者与产品经理：</strong>用 Mods 快速改造某个线上站点，或在浏览器里原型化一个小应用。</li><li><strong>运营与代理商：</strong>为不同客户复用同一套 Mod 与 Mission，降低交付中的重复劳动。</li><li><strong>提示词使用者：</strong>用 Prompt Refiner 打磨提示词，用 Token Savings Calculator 估算一次对话能省下多少 token。</li><li>需要说明的是，Moxby 更偏向浏览器内的个人与团队效率场景；如果需求是纯后端的批量任务调度，需要另行评估。</li></ul>"
+        }
+      ]
+    },
+    "tool68863": {
+      "updated": "2026-10-14",
+      "sources": [
+        "https://bimiantong.com/"
+      ],
+      "sections": [
+        {
+          "title": "笔面通 是什么",
+          "html": "<p>笔面通是一款面向求职者的 AI 面试与笔试辅助工具，官方把它称为 AI 面试笔试助手，核心能力是在面试或笔试过程中实时识别题目、生成结构化的回答，帮助使用者在紧张的场合里保持表达节奏。产品支持 PC、平板与手机多设备使用：电脑端安装客户端，手机或平板打开网页端查看答案，形成双端协同的工作方式。按官网所列，笔面通覆盖各类企业招聘面试、AI 视频面试、技术岗代码面试以及多种笔试场景，并针对外企面试提供多语言语音识别与实时翻译能力。</p>"
+        },
+        {
+          "title": "笔面通 的主要功能",
+          "html": "<ul><li><strong>实时识别与应答：</strong>面试中实时识别面试官问题并生成专业回答，官方称面试与笔试两用，并强调不受切屏检测影响。</li><li><strong>多平台兼容：</strong>支持腾讯会议、飞书、牛客网以及电话面试等常见面试软件。</li><li><strong>多设备协同：</strong>无需下载即可使用，PC、平板与手机均可访问；笔试场景下可由电脑客户端与移动端网页配合完成。</li><li><strong>眼神智能纠正：</strong>官方称可通过画面处理让面试官看到自然直视的效果，并在页面中用左右两种视角做对照演示。</li><li><strong>简历模式：</strong>内置简历库，可提取简历内容用于实时作答。</li><li><strong>定制题库：</strong>支持预设问题与答案，并针对面试官提问做智能匹配。</li><li><strong>多语言支持：</strong>覆盖英语、中文等多种语言，并提供不同岗位方向的题库范围。</li></ul>"
+        },
+        {
+          "title": "如何使用 笔面通",
+          "html": "<ol><li>访问笔面通官网，按需要选择网页版或下载客户端。</li><li>面试前在简历模式中录入个人简历，或在定制题库里预设常见问题与答案。</li><li>正式面试时打开笔面通，让它实时识别题目并给出作答参考；笔试场景下用电脑客户端与移动端网页配合使用。</li><li>如需要外企或外语面试支持，先在设置中确认目标语言，再开始会话。</li><li>官网提供使用教程与活动说明，具体开通方式与可用额度以官网公示为准。</li><li>使用前应确认所参加的招聘、考试平台与用人单位的规则，避免违规使用。</li></ol>"
+        },
+        {
+          "title": "笔面通 的应用场景",
+          "html": "<ul><li><strong>求职面试：</strong>各类企业招聘面试中辅助组织回答，官方强调可保持自然的表达状态。</li><li><strong>AI 视频面试：</strong>针对机器评估的视频面试，官方称可调整视线方向以配合评估。</li><li><strong>技术岗代码面试与笔试：</strong>面向算法题、编程题与系统设计题提供作答支持。</li><li><strong>校招笔试：</strong>覆盖技术类与非技术类岗位的笔试题识别与作答。</li><li><strong>英语笔试：</strong>支持阅读理解、完形填空与翻译等题型。</li><li><strong>留学面试：</strong>面向海外院校申请的跨文化面试场景。</li><li>需要留意，笔面通官方定位偏向考试场景的辅助工具，实际使用前应核对招聘与考试平台的规则要求。</li></ul>"
+        }
+      ]
+    },
+    "world-liberty-financ": {
+      "updated": "2026-10-14",
+      "sources": [
+        "https://worldclaw.ai/"
+      ],
+      "sections": [
+        {
+          "title": "WorldClaw 是什么",
+          "html": "<p>WorldClaw 是面向 AI 智能体的操作系统与模型统一网关，官网首页把它概括为 The Operating System for AI agents，主打在一套系统上运行大量智能体，并统一访问 300 多个 AI 模型。WorldClaw 的核心组件是 WorldRouter，一个统一的模型网关；官网把它称作「全球可达的 Token 市场」，目标是在保留模型可选范围的前提下，把每个 token 的调用成本压到更低。页面的计价单位使用 USD1，这是 World Liberty Financial 发行的稳定币，因此 WorldClaw 也被放在该团队 AI 基础设施方向的语境里讨论。</p>"
+        },
+        {
+          "title": "WorldClaw 的主要功能",
+          "html": "<ul><li><strong>统一模型接入：</strong>WorldRouter 用一个入口接入 300 多个模型，覆盖 OpenAI 以及 Anthropic、Google 等海外厂商，也包括 Moonshot 的 Kimi 系列、阿里巴巴的 Qwen 系列与 MiniMax 等。</li><li><strong>多智能体运行：</strong>官网称可在同一套操作系统上运行「数百个」智能体。</li><li><strong>价格对照表：</strong>页面用表格并列展示模型官方价、OpenRouter 价与 WorldRouter 价，方便直接比较不同渠道的成本。</li><li><strong>Token Plan：</strong>提供按 token 计费的方案入口，适合用量波动较大的团队。</li><li><strong>状态说明：</strong>官网明确标注对照价格为发布时点数据，可能包含促销或合作价，不构成对未来价格、折扣与可用性的保证。</li><li><strong>账户与产品入口：</strong>提供 Sign In 与 Products 导航，便于登录后进入 Token Plan 与相关服务。</li></ul>"
+        },
+        {
+          "title": "如何使用 WorldClaw",
+          "html": "<ol><li>访问 WorldClaw 官网，先看 Products 与 Token Plan 两处说明。</li><li>在 WorldRouter 的对照表中选择目标模型，比较官方价、OpenRouter 价与 WorldClaw 渠道价。</li><li>注册并登录账号。</li><li>开通 Token Plan，按官网说明获取调用凭证。</li><li>通过 WorldRouter 统一网关接入所需模型，在其上编排并运行智能体。</li><li>具体价格、额度与模型可用性会随时间调整，选型前应以 WorldClaw 官网当时公示为准。</li></ol>"
+        },
+        {
+          "title": "WorldClaw 的应用场景",
+          "html": "<ul><li>需要同时调用多家模型、又不希望维护多套 API 账号的开发团队。</li><li>运行大量智能体、对每个 token 成本敏感的 AI 应用。</li><li>已经在使用 OpenRouter 等聚合网关、希望多比较一个渠道的用户，但要注意不同渠道的可比性。</li><li>需要按用量灵活扩容、不想长期绑定单一模型供应商的团队。</li><li>选型提醒：WorldClaw 官网声明模型名称归各自厂商所有，收录并不代表背书或赞助；价格与可用性随时变化，决策前应回到官网核对。</li></ul>"
         }
       ]
     }
