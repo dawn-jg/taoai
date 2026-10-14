@@ -211,6 +211,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/jianying</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/jianying.ico</image:loc>
+      <image:title>剪映AI logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/chatpdf</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2929,6 +2938,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool14067</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool14067.png</image:loc>
+      <image:title>Vimi logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/artink-art</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4774,6 +4792,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool71899</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool71899.png</image:loc>
+      <image:title>Happycapy logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/genspark-ai</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -5536,6 +5563,15 @@
     <image:image>
       <image:loc>/logos/tool8874.png</image:loc>
       <image:title>Mistral推出的AI对话聊天助手 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool6290</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool6290.png</image:loc>
+      <image:title>百度超级助理 logo</image:title>
     </image:image>
   </url>
   <url>
