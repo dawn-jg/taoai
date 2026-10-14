@@ -4,7 +4,7 @@
     "name": "AI写作工具",
     "slug": "ai-writing",
     "icon": "✍️",
-    "count": 105,
+    "count": 104,
     "description": "AI写作、文案创作、论文辅助",
     "subcategories": {
       "ai-writing-article": "AI文章写作",
@@ -49,7 +49,7 @@
     "name": "AI办公工具",
     "slug": "ai-office",
     "icon": "📊",
-    "count": 211,
+    "count": 212,
     "description": "AI办公效率、PPT、文档",
     "subcategories": {
       "ai-office-ppt": "AI PPT生成",
@@ -75,7 +75,7 @@
     "name": "AI聊天助手",
     "slug": "ai-chat",
     "icon": "💬",
-    "count": 69,
+    "count": 68,
     "description": "智能对话、问答助手",
     "subcategories": {
       "ai-chat-general": "通用对话AI",
@@ -100,7 +100,7 @@
     "name": "AI设计工具",
     "slug": "ai-design",
     "icon": "🖌️",
-    "count": 93,
+    "count": 92,
     "description": "AI辅助设计与创意工具",
     "subcategories": {
       "ai-design-graphic": "AI平面设计",
@@ -128,7 +128,7 @@
     "name": "AI搜索引擎",
     "slug": "ai-search",
     "icon": "🔍",
-    "count": 45,
+    "count": 46,
     "description": "新一代AI搜索引擎",
     "subcategories": {
       "ai-search-engine": "AI搜索引擎",
@@ -140,7 +140,7 @@
     "name": "AI开发平台",
     "slug": "ai-platform",
     "icon": "⚙️",
-    "count": 86,
+    "count": 87,
     "description": "AI开发框架、模型平台",
     "subcategories": {
       "ai-platform-training": "模型训练平台",
