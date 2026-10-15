@@ -5638,6 +5638,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool2771</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool2771.png</image:loc>
+      <image:title>TigerBot logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tool3973</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -6265,6 +6274,15 @@
     <image:image>
       <image:loc>/logos/tool116.png</image:loc>
       <image:title>21世纪的终端工具（内置AI命令搜索） logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool114</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool114.png</image:loc>
+      <image:title>Kiro CLI logo</image:title>
     </image:image>
   </url>
   <url>
@@ -9103,6 +9121,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool439</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool439.png</image:loc>
+      <image:title>Lobe logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tool525</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -9541,6 +9568,15 @@
     <image:image>
       <image:loc>/logos/tool746.png</image:loc>
       <image:title>AI提示词收集和整理工具 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool744</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool744.png</image:loc>
+      <image:title>Learning Prompt logo</image:title>
     </image:image>
   </url>
   <url>
