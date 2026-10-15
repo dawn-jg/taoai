@@ -4222,14 +4222,16 @@
   },
   {
     "slug": "tool39",
-    "name": "悉语",
-    "description": "属于AI写作工具·AI营销文案分类。阿里旗下智能文案工具，一键生成电商营销文案。支持AI写作工，适合需要进行AI辅助内容创作与写作的用户。",
+    "name": "悉语智能文案",
+    "description": "阿里妈妈创意中心里的商品文案生成工具，基于淘宝与天猫语料按风格与字数生成标题、卖点与描述，可与图文模板、智能抠图配合使用。",
     "url": "https://chuangyi.taobao.com/pages/aiCopy",
     "categories": [
       "ai-writing"
     ],
     "tags": [
-      "AI写作工"
+      "AI文案",
+      "电商营销",
+      "阿里妈妈"
     ],
     "featured": false,
     "rating": 4,
@@ -4238,8 +4240,25 @@
     "subcategory": "ai-writing-copy",
     "logo": "/logos/tool39.png",
     "domain": "chuangyi.taobao.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "悉语智能文案 是什么",
+        "html": "<p>悉语智能文案是阿里妈妈创意中心里的文案生成工具，出现在该站的创意工具分区之中，与一键制图、图文模板广场、智能抠图等功能并列。阿里妈妈是阿里集团负责商家营销的平台，创意中心则把面向商家的创意生产工具集中到一个入口里：速描负责图文编辑，阿瞳木负责短视频创意，淘积木负责落地页搭建，而悉语承担其中文字部分的工作。据 36 氪在戛纳国际创意节的现场报道，阿里妈妈当时发布的 AI 智能文案产品基于淘宝与天猫已有的优质内容与自然语言算法，可以围绕一件商品自动生成文案，目标是把商家从反复拟标题、写卖点的重复劳动里解放出来。</p>"
+      },
+      {
+        "title": "悉语智能文案 的主要功能",
+        "html": "<ul><li>商品文案自动生成：输入商品信息后由模型给出可选文案，商家在多个结果里挑选而不是自己从零起草。</li><li>多种写作风格：报道提到产品提供功能描述型、特价促销型、实际功效表达型等八种风格，可按活动性质切换。</li><li>字数自由定义：从几个字的短标题到六十字左右的商品描述，悉语智能文案都支持按字数生成。</li><li>高度贴近人工撰写：官方在发布时强调输出效果接近人写文案，把「像人写的」作为主要卖点。</li><li>实时样本学习：产品支持在使用过程中持续吸收新的样本，让措辞随品类与活动变化调整。</li><li>与创意中心其它工具衔接：生成的文案可以直接配合一键制图、图文模板与智能抠图一起产出整套素材。</li></ul>"
+      },
+      {
+        "title": "如何使用 悉语智能文案",
+        "html": "<ol><li>登录阿里妈妈创意中心，用商家的淘宝账号进入创意工具分区的悉语智能文案。</li><li>填写商品的基本信息，包括品类、核心卖点与本次推广的诉求。</li><li>选择文案风格，大促期间可以优先考虑特价促销型，日常上新更适合功能描述型。</li><li>设定字数范围，短标题与详情页描述分别按对应长度生成。</li><li>生成后从备选结果里挑出可用的一条，再按品牌口径做人工微调。</li><li>需要补图时回到创意中心继续使用图文模板与智能抠图，把文案与图片成套产出。</li></ol>"
+      },
+      {
+        "title": "悉语智能文案 的应用场景",
+        "html": "<ul><li>大促批量上新：上新商品数量多时，用批量生成把标题与卖点先铺满，再由运营统一润色。</li><li>多平台投放：同一款商品在不同渠道需要不同措辞时，按渠道分别生成对应风格的文案。</li><li>中小商家起步：没有专职文案的店铺，用悉语智能文案补上商品描述的缺口。</li><li>详情页搭建：把生成的短标题与长描述分别用在主图文案与详情页开头。</li><li>活动物料：配合创意中心的模板与抠图能力，做出成套的活动视觉与配套文字。</li><li>文案基线对比：把模型生成的结果作为草稿基线，人工在这条基线上改写，减少空转时间。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-16"
   },
   {
     "slug": "tool37",
@@ -4434,13 +4453,15 @@
   {
     "slug": "tool36",
     "name": "易撰",
-    "description": "属于AI写作工具·AI小说创作分类。易撰是一款AI写作工具领域的免费增值AI工具，新媒体AI内容创作助手。支持AI写作工。",
+    "description": "面向新媒体创作者的数据挖掘与创作辅助平台，提供热点追踪、爆文分析、质量检测、标题助手、视频批量下载与多平台分发等工具。",
     "url": "https://www.yizhuan5.com/",
     "categories": [
       "ai-writing"
     ],
     "tags": [
-      "AI写作工"
+      "新媒体",
+      "内容运营",
+      "数据监测"
     ],
     "featured": false,
     "rating": 4,
@@ -4451,19 +4472,23 @@
     "domain": "yizhuan5.com",
     "detailed_content": [
       {
-        "title": "易撰是什么",
-        "html": "<p>易撰是自媒体作者的高效<a href=\"https://ai-bot.cn/favorites/ai-writing-tools/\" target=\"_blank\" rel=\"noopener\">AI写作助手</a>，基于数据挖掘技术提供全面的创作支持。它集成了爆文分析、热点追踪、视频素材库和原创检测等功能，帮助用户快速捕捉市场趋势，优化写作策略。易撰的智能编辑器和标题生成器进一步助力提升文章质量，同时节省创作时间，增加内容的市场竞争力和收益潜力。</p>\n<img decoding=\"async\" class=\"alignnone size-full wp-image-14647\" src=\"https://ai-bot.cn/wp-content/uploads/2024/07/yizhuan5-website.png\"   alt=\"易撰\" width=\"800\" height=\"450\" />"
+        "title": "易撰 是什么",
+        "html": "<p>易撰是一款面向新媒体内容创作者的平台型工具，官网把自己定义为「专注新媒体数据挖掘分析服务」，标题语是让新媒体内容创作更高效，由长沙营智信息技术有限公司开发运营。它在页面上写明自己是人民网技术战略合作伙伴，并把自己描述为「内容创客的首选新媒体工具平台」，面向的正是需要同时做选题、成稿与分发的自媒体运营者。易撰的形态不是一个单独的写作页面，而是把多个小工具按工作环节组织起来，官网把内容电商、热点追踪、爆文分析、质量检测、标题助手、视频批量下载、稀缺内容分析、公众号运营与 API 接口合称为九大核心功能。</p>"
       },
       {
-        "title": "易撰的功能特色",
-        "html": "<ul>\n<li><strong>爆文分析</strong>：提供各大平台内容数据分析，帮助用户洞察爆文推荐机制，发现创作灵感。</li>\n<li><strong>热点追踪</strong>：实时追踪各大新媒体平台的热点热词，引导内容创作方向。</li>\n<li><strong>视频库</strong>：为短视频创作者提供丰富的视频素材，便于素材收集和创作。</li>\n<li><strong>数据监测</strong>：监测自媒体平台作者动态信息，支持数据比对，提供创作灵感。</li>\n<li><strong>原创检测</strong>：利用大数据判定文章原创值和风险值，确保内容的原创性。</li>\n<li><strong>文章检测</strong>：评估文章的原创度、风险度和质量度，推荐合适的发布平台。</li>\n<li><strong>爆文精选</strong>：展示各平台和领域的热门文章，供用户学习和借鉴。</li>\n<li><strong>标题生成</strong>：一键生成具有吸引力的标题，提高文章的点击率和传播力。</li>\n</ul>"
+        "title": "易撰 的主要功能",
+        "html": "<ul><li>内容电商：汇总多平台热销商品榜单与商品文案，为带货型内容提供选题与素材参考。</li><li>热点追踪：按各大自媒体平台的实时热点与热词走势，帮助创作者判断当下写什么。</li><li>爆文分析：拆解平台上的高传播内容，观察其推荐机制与结构特征。</li><li>质量检测：从原创值、风险值与标题风险几个维度给文章出评定结果并附修改建议。</li><li>标题助手：围绕一个主题批量给出备选标题，并结合热门标题库与标题写作方法。</li><li>视频批量下载：支持从多个平台批量取用视频素材，作为二次创作的起点。</li><li>稀缺内容分析：统计某话题在各平台的内容供给量，避开已经饱和的选题方向。</li><li>公众号运营：提供文章一键排版、海量模板以及行业数据与账号榜单。</li><li>蚁小二分发：把图文与视频按四十多个平台的参数批量发布，并配套账号管理、素材云盘与按内容维度统计的数据看板。</li><li>API 接口：面向个人开发者与企业提供接口资源，便于把易撰的数据能力接入自有系统。</li></ul>"
       },
       {
-        "title": "易撰的适用人群",
-        "html": "<ul>\n<li><strong>自媒体作者</strong>：需要高效创作和管理内容的个人或团队。</li>\n<li><strong>内容营销专家</strong>：专注于通过内容吸引流量和客户的专业人士。</li>\n<li><strong>新媒体运营者</strong>：负责管理和运营企业或品牌的社交媒体账号的人员。</li>\n<li><strong>社交媒体经理</strong>：负责制定和执行社交媒体策略的管理人员。</li>\n<li><strong>网络编辑</strong>：在网站或在线平台上编辑和发布内容的编辑人员。</li>\n<li><strong>短视频创作者</strong>：制作并发布短视频内容的创作者。</li>\n<li><strong>专业写作者</strong>：撰写新闻、评论、故事、诗歌、广告等专业内容的作者。</li>\n</ul>"
+        "title": "如何使用 易撰",
+        "html": "<ol><li>打开易撰官网完成注册登录，先顺着「使用说明」与「视频教程」把各模块的位置过一遍。</li><li>做选题时进入热点追踪或稀缺内容分析，确认某个方向当下的热度与内容密度。</li><li>确定方向后用爆文分析看同类高传播内容的写法，再用标题助手生成一批候选标题。</li><li>成稿后走质量检测，依据原创值、风险值与标题风险的反馈逐项修改。</li><li>需要配视频时用视频批量下载取素材，需要排版时切到公众号运营做一键排版。</li><li>准备发布时接入蚁小二，添加账号后按平台参数批量分发，再回到数据统计里看各账号表现。</li><li>希望把数据能力接到自有系统时，申请 API 接口并按其接入方式对接。</li></ol>"
+      },
+      {
+        "title": "易撰 的应用场景",
+        "html": "<ul><li>自媒体日更：用热点追踪加标题助手压缩每天选题与起标题的时间。</li><li>团队内容审核：把质量检测作为稿件上线前的一道固定关卡，先看风险值再决定是否发布。</li><li>带货文案：借助内容电商模块的热销榜单与商品文案，判断哪类产品值得写。</li><li>多账号分发：账号数量多时用蚁小二统一管理登录与发布参数，减少重复操作。</li><li>账号运营复盘：通过数据统计按内容、部门、平台与账号维度对比表现。</li><li>写作方法学习：把爆文分析与标题学院当作基础训练材料，而不是只当作工具。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-16"
   },
   {
     "slug": "tool35",
@@ -6648,13 +6673,15 @@
   {
     "slug": "hitems-ai",
     "name": "Hitems",
-    "description": "属于AI图像工具·AI图片插画生成分类。Hitems是一款AI图像工具领域的免费增值AI工具，数美万物推出的AI创意物品生成社区。支持AI图像工。",
+    "description": "数美万物推出的个性化物品创意社区与跨境电商平台，把关键词、图片或手绘稿生成物品图，再借自研 3D 建模与供应链做成实物。",
     "url": "https://hitems.ai/",
     "categories": [
       "ai-image"
     ],
     "tags": [
-      "AI图像工"
+      "AI造物",
+      "3D建模",
+      "创意社区"
     ],
     "featured": false,
     "rating": 4,
@@ -6665,23 +6692,23 @@
     "domain": "hitems.ai",
     "detailed_content": [
       {
-        "title": "Hitems是什么",
-        "html": "<p>Hitems 是数美万物推出的AI创意物品生成社区，基于前沿的生成式人工智能（GenAI）技术，用户通过关键词、图片或手绘稿快速生成高保真度的物品图像，基于自研的 <a href=\"https://ai-bot.cn/ai-3d-model-generation-tools/\" target=\"_blank\" rel=\"noopener\">AI 3D 建模</a>技术和成熟的供应链体系，将创意物品迅速投入生产。Hitems 提供交易服务，互动社区，供用户分享、浏览与互动创意。</p>\n<img decoding=\"async\" class=\"alignnone wp-image-38478\" src=\"https://ai-bot.cn/wp-content/uploads/2025/01/Hitems-website.png\"   alt=\"\" width=\"739\" height=\"416\" />"
+        "title": "Hitems 是什么",
+        "html": "<p>Hitems 是数美万物旗下的个性化物品创意社区，按 36 氪《智能涌现》的报道，它被定位为一个把创作者创意生成、生产与销售串在一条链上的跨境电商平台。数美万物由抖音早期产品负责人、原字节跳动 PICO 副总裁任利锋创办，公司先后完成由美团龙珠领投的 Pre-A 轮与数千万美元级别的后续融资。Hitems 想解决的是「设计出来却做不出来」的问题：传统平台上创作者做周边，从设计到生产前的建模往往要付出大量沟通与修模成本，而 Hitems 试图用生成式 AI 加自研建模能力加供应链，把这段流程压短。</p>"
       },
       {
-        "title": "Hitems的主要功能",
-        "html": "<ul>\n<li><strong>创意生成</strong>：用户可以通过关键词、图片或手绘草图生成高保真物品图。基于 AI 技术，用户可以在平台上生成个性化的设计，提供多种风格和选项，确保每个用户的作品都是独一无二的。</li>\n<li><strong>3D 建模与打印</strong>：基于自研的 AI 3D 建模技术，将创意物品转化为可生产的 3D 模型，通过 3D 打印技术将数字创意变成实体商品。</li>\n<li><strong>供应链整合</strong>：Hitems.ai 拥有成熟的供应链体系，确保创意物品能够迅速投入生产并交付。</li>\n<li><strong>社区互动</strong>：建立互动社区，让用户分享他们的创意过程、成品和经验，有良好的社区互动氛围。</li>\n<li><strong>创意变现</strong>：建立用户创意作品的交易平台，用户可以将自己的创意作品上传到平台，供其他用户浏览和购买，实现创意的价值转化。</li>\n<li class=\"last-node\"><strong>定制服务</strong>：提供定制化服务，根据用户的需求和喜好，定制专属的创意作品。满足用户的个性化需求。</li>\n</ul>"
+        "title": "Hitems 的主要功能",
+        "html": "<ul><li>创意生成：用户可以把想法写成关键词、上传图片，甚至只给一张手绘稿，由平台生成相应的高保真物品图。</li><li>商品级 3D 建模：平台自研面向生产的 3D 建模技术，把二维创意转成可以投入制造的模型。</li><li>生产与交付：借助社区自有的供应链承接下单与制作，官方资料显示交付品类以立体物为主。</li><li>交易服务：商品可以上架商城售卖，创作者借此把创意转成收入。</li><li>社区互动：平台提供分享、浏览与互动功能，作品在社区内被看见也会带来更多「想要」。</li><li>姊妹平台与模型：团队另有面向国内创作者的平台「造好物」，并公开过 Sparc3D、Ultra3D 等 3D 生成模型成果，以及图生 3D 的独立工具 Hitem3D。</li></ul>"
       },
       {
-        "title": "如何使用Hitems",
-        "html": "<ul>\n<li><strong>访问官网</strong>：访问Hitems的官网 <a href=\"https://hitems.ai/?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener\" rel=\"nofollow noopener\"  class=\"external\" >hitems.ai</a> 。</li>\n<li><strong>注册登录</strong>：在官网首页点击注册按钮，按照提示填写相关信息完成注册登录平台。</li>\n<li><strong>创意生成</strong>：登录后，通过输入关键词、上传图片或手绘草图等方式，在平台上生成高保真物品图。</li>\n<li><strong>3D 建模与打印</strong>：基于平台的 AI 3D 建模技术，将生成的物品图转化为可生产的 3D 模型，然后选择 3D 打印服务，将数字创意变成实体商品。</li>\n<li><strong>社区互动</strong>：在社区中分享自己的创意作品，浏览其他用户的创意，与其他用户进行交流互动。</li>\n</ul>"
+        "title": "如何使用 Hitems",
+        "html": "<ol><li>访问 Hitems 官网并完成注册登录，先浏览社区里已上架的作品，判断自己想做的品类。</li><li>进入创作入口，用关键词描述、上传参考图或提交手绘稿的方式表达创意。</li><li>等待平台生成高保真物品图，不满意就调整描述或换参考图重试。</li><li>确认造型后推进到 3D 建模环节，把平面创意转成可用于生产的模型。</li><li>把作品发布到社区里收集「想要」，按平台规则达到条件后即可进入商城售卖并参与分成。</li><li>需要自用或送给他人时，可以直接下单走单件定制，由平台供应链完成制作与发货。</li></ol>"
       },
       {
-        "title": "Hitems的应用场景",
-        "html": "<ul>\n<li><strong>品牌合作与推广</strong>：Hitems 可以与时尚、家居等品牌合作，推出联名定制产品。</li>\n<li><strong>教育与培训</strong>：平台可以提供在线课程和培训，帮助用户提升创作技能，了解 AI 生成技术的应用。</li>\n<li class=\"last-node\"><strong>个性化定制服务</strong>：根据用户的需求和喜好，提供个性化的创意定制服务。如定制专属的婚礼纪念品、生日礼物等。</li>\n</ul>"
+        "title": "Hitems 的应用场景",
+        "html": "<ul><li>周边开发：把角色形象或原创插画做成手办、冰箱贴、键帽、吊坠这类立体周边。</li><li>设计师变现：独立设计师不必自己对接工厂，作品在平台上就完成了从展示到售卖的过程。</li><li>IP 方试水：先用单件定制验证市场反应，再决定是否推进批量生产。</li><li>个性化礼物：为特定日期或特定对象定制一件独一无二的物品。</li><li>跨境销售：面向海外买家的个性化商品交易，平台承担生产与履约环节。</li><li>创作社区浏览：即使暂时不做商品，也可以在社区里看别人的创意过程获取灵感。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-16"
   },
   {
     "slug": "style3d-ai",
@@ -7719,13 +7746,15 @@
   {
     "slug": "tool174",
     "name": "Stylized",
-    "description": "属于AI图像工具·AI商品图生成分类。Stylized是一款AI图像工具领域的免费增值AI工具，AI产品图背景替换。支持AI图像工。",
-    "url": "https://www.stylized.ai",
+    "description": "面向电商卖家的虚拟商品拍摄工具，把手机实拍的商品照片抠出后放进虚拟影棚重新布光，输出可直接上架的产品图。",
+    "url": "https://www.stylized.ai/",
     "categories": [
       "ai-image"
     ],
     "tags": [
-      "AI图像工"
+      "AI商品图",
+      "电商",
+      "背景替换"
     ],
     "featured": false,
     "rating": 4,
@@ -7734,8 +7763,25 @@
     "subcategory": "ai-image-product",
     "logo": "/logos/tool174.png",
     "domain": "stylized.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Stylized 是什么",
+        "html": "<p>Stylized 是一款面向电商卖家的虚拟商品拍摄工具，官网把这件事称为 virtual product staging，标题语是「从手机照片到商品目录，只要 30 秒」。它的出发点很直接：很多卖家的商品图是随手拍出来的，光线差、背景杂、阴影乱，而重拍一组图既贵又慢。Stylized 的解决办法是把商品抠出来，放进虚拟影棚里重新打光布景，再输出成可以直接上架的产品图。官网在页面上列出 Shopify、Etsy、Poshmark、Amazon 等平台，说明它面向的是多渠道经营的中小卖家；页面底部标注开发方为 Harvest Labs Inc.。</p>"
+      },
+      {
+        "title": "Stylized 的主要功能",
+        "html": "<ul><li>虚拟影棚：把商品放到模拟的影棚环境中重新生成光线与阴影，让画面看起来像专业拍摄。</li><li>背景去除：用对象检测算法把商品从原图里分离出来，同时清掉杂乱的阴影、偏色与画面瑕疵。</li><li>专业布光：官网称借助三维建模能力，在关键角度放置光源，模拟真实影棚的照明逻辑。</li><li>平铺与场景切换：编辑器里可以更换材质与颜色，把同一件商品放到几十种表面上快速出图。</li><li>批量变体：官网提到可以一次得到大量高质量版本，用于满足不同渠道与不同版位的需要。</li><li>目录对接：Stylized 可以与电商店铺的商品库连接，直接管理商品素材，不必每次重新建清单。</li><li>快速迭代：素材更新时重新生成即可，官方把这一特点概括为不用每次都重新排期拍摄。</li></ul>"
+      },
+      {
+        "title": "如何使用 Stylized",
+        "html": "<ol><li>打开 Stylized 官网注册账号，免费入口即可开始试用，先挑一张光线较差的商品照片作为测试。</li><li>上传商品原图，让工具先完成背景去除，确认商品主体被干净地抠出来。</li><li>在编辑器里选择场景与表面材质，调整画面的颜色与整体调性。</li><li>按需要生成多个版本，例如白底图用于主图、带场景的版本用于详情页。</li><li>把店铺商品库与 Stylized 连接起来，后续素材可以直接在工具内管理。</li><li>上架前核对输出图片的尺寸与比例，确保符合目标平台对商品图的要求。</li></ol>"
+      },
+      {
+        "title": "Stylized 的应用场景",
+        "html": "<ul><li>中小卖家起步：没有摄影预算的店铺，用手机拍的原图也能做出干净的货架级商品图。</li><li>多平台上架：同一件商品需要适配 Shopify、Etsy、Amazon 等不同渠道时，一次性生成多套规格。</li><li>素材翻新：把早年拍糊或背景杂乱的老商品图重新处理后继续使用。</li><li>品牌视觉统一：为整店商品固定同一套背景与布光，让目录页看起来风格一致。</li><li>铺货阶段：新品类上架前先做几版效果图，判断哪种呈现方式更能突出产品特点。</li><li>详情页配图：除主图外，另外生成若干场景化图片，补充到商品详情里。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-16"
   },
   {
     "slug": "tool178",
@@ -12723,14 +12769,16 @@
   },
   {
     "slug": "boba-video",
-    "name": "AI动漫视频创作工具",
-    "description": "属于AI视频工具·AI视频生成分类。AI动漫视频创作工具是一款AI视频工具领域的免费增值AI工具，AI动漫视频创作工具。支持AI视频工。",
+    "name": "Boba Anime",
+    "description": "Boba Labs 推出的动漫向视频生成模型与创作工具，输入文字或图片即可生成日式动画短片，并内测对白、音效与口型同步能力。",
     "url": "https://www.boba.video/",
     "categories": [
       "ai-video"
     ],
     "tags": [
-      "AI视频工"
+      "AI视频",
+      "动漫",
+      "文生视频"
     ],
     "featured": false,
     "rating": 4,
@@ -12741,23 +12789,23 @@
     "domain": "boba.video",
     "detailed_content": [
       {
-        "title": "Boba是什么",
-        "html": "<p>Boba 是AI动漫<a href=\"https://ai-bot.cn/ai-video-generation-tools/\" target=\"_blank\" rel=\"noopener\">视频创作工具</a>，已上线最新 Boba Anime 1.3 模型，能将静态画面转化为动态视频，支持多种动漫风格，从少女漫的梦幻到青年漫的硬朗都能完美呈现。Boba 具备对话、音效和口型同步功能，能在短时间内为角色赋予完整表演。用户在 Anime Studio 中能自由探索、实验和创作，支持多任务并行生成。Boba 提供丰富功能，轻松满足需求多种创作需求。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/08/Boba-website.png\" data-fancybox=\"fancybox\" data-caption=\"Boba\"><img decoding=\"async\" class=\"alignnone wp-image-59516\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/Boba-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Boba\" width=\"740\" height=\"416\"></a>"
+        "title": "Boba Anime 是什么",
+        "html": "<p>Boba Anime 是 Boba Labs 推出的动漫向视频生成产品，官网首页给出的自我定位相当自信，把 Boba Anime 摆在动漫视频生成这条赛道的前列，并把当前模型标为 Boba Anime 1.3，称其为面向动漫创作的 Frontier Anime Model。它的输入是文字或图片，输出是日式动画风格的视频片段。官网把创作入口统一收进一个叫 Anime Studio 的工作区，用户可以在这里浏览社区作品、试写提示词，也可以直接把想法渲染成短片。官网页面同时把首页作品区、功能演示区与定价页并列展示，说明 Boba Anime 既面向个人创作者的快速试验，也提供分档订阅给需要持续产出的用户。</p>"
       },
       {
-        "title": "Boba的主要功能",
-        "html": "<ul>\n<li><strong>AI 动画生成</strong>：将静态画面转化为动态视频，支持多种动漫风格，从少女漫到青年漫都能完美呈现。</li>\n<li><strong>多模态创作</strong>：具备对话、音效和<a href=\"https://ai-bot.cn/ai-lip-syncing-tools/\" target=\"_blank\" rel=\"noopener\">口型同步</a>功能，能在短时间内让角色完成完整的动态演绎。</li>\n<li><strong>自由创作空间</strong>：提供 Anime Studio，用户能自由探索、实验和创作，支持多种视频时长和分辨率。</li>\n<li><strong>多任务并行</strong>：支持同时运行多个生成任务，方便创作者快速迭代和测试不同创意。</li>\n<li><strong>社区探索</strong>：用户可以浏览社区中其他创作者的作品，获取灵感，了解 Boba 的创作潜力。</li>\n</ul>"
+        "title": "Boba Anime 的主要功能",
+        "html": "<ul><li>三种生成入口：Anime Studio 内提供文字生视频、文字生图片与图片生视频，先在静态图里定风格再转成动态片段是官网演示里最常见的用法。</li><li>声音能力（内测）：官网用「声音遇上画面」来概括这项能力，包含对白、音效与口型同步，靠多模态模型让动漫人物在几秒内完成一段完整表演。</li><li>风格覆盖面：官方称 Boba Anime 1.3 对不同审美都能给出对应表达，从少女漫画的梦幻感到青年漫画的硬朗质感都在射程内，预设风格里列出了写实与少女漫画等选项。</li><li>时长与画质：单次生成可选 5 秒或 8 秒片段，输出为 720p 并带自动运动平滑，官网标注 1080p 支持即将上线。</li><li>并发生成：一次最多并行跑两个生成任务，方便用同一段文案比较不同版本的画面。</li><li>社区与交流：Anime Studio 里可以直接浏览其他创作者的作品，官方另外维护一个 Discord 频道用于发布与讨论。</li></ul>"
       },
       {
-        "title": "如何使用Boba",
-        "html": "<ul>\n<li><strong>访问官方网站</strong>：访问 Boba 官网 https://www.boba.video/ ，完成注册和登录，进入 Boba 主页。</li>\n<li><strong>进入 Anime Studio</strong>：在主页上找到并点击“Enter Anime Studio”按钮，进入创作平台。</li>\n<li><strong>选择创作模式</strong>：\n<ul>\n<li><strong>自由创作</strong>：输入想法、描述或脚本，Boba 根据输入生成动画。</li>\n<li><strong>探索社区作品</strong>：浏览其他创作者的作品，获取灵感。</li>\n</ul>\n</li>\n<li><strong>设置创作参数</strong>：设置生成作品的参数包含视频时长、分辨率等。</li>\n<li><strong>添加声音和对话</strong>：添加对话、音效和口型同步，让角色的表演更加生动。</li>\n<li><strong>生成动画</strong>：输入创意后，点击生成按钮，Boba 的 AI 模型根据描述生成动画。</li>\n<li><strong>查看和下载作品</strong>：生成完成后，预览动画，如果满意下载保存。</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2025/08/Boba-website1-2.png\" data-fancybox=\"fancybox\" data-caption=\"Boba\"><img decoding=\"async\" class=\"alignnone wp-image-59522\" src=\"https://ai-bot.cn/wp-content/uploads/2025/08/Boba-website1-2.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Boba\" width=\"740\" height=\"416\"></a>"
+        "title": "如何使用 Boba Anime",
+        "html": "<ol><li>打开 Boba Anime 官网，从页面入口进入 Anime Studio 工作区，新手建议先从文字生视频这一栏开始。</li><li>在输入框写下场景描述，官网示例提示词的结构基本都是「一个主体 + 一个具体动作或情境」。</li><li>选择风格、片段时长与画面比例；需要人物开口说话时，可以尝试内测中的声音选项。</li><li>提交生成并等待结果，一次可并行两个任务，用来对比同一场景的不同写法。</li><li>结果不满意就改写提示词再跑一次，满意后下载片段，或者把作品发布到社区与 Discord 分享。</li><li>想固定统一画风时，先用文字生图把风格跑稳，再用图片生视频把同一张图做成多个镜头。</li></ol>"
       },
       {
-        "title": "Boba的应用场景",
-        "html": "<ul>\n<li><strong>社交媒体内容创作</strong>：创作快速生成适合 TikTok、Instagram 等平台的动画短片，吸引观众，提升互动性。</li>\n<li><strong>动画广告制作</strong>：广告公司快速生成动画广告，结合对话和音效，提升品牌影响力和用户吸引力。</li>\n<li><strong>教育与培训</strong>：教育机构制作动画教学视频，将复杂的知识点通过生动的动画形式呈现，增强学生的学习兴趣和理解能力。</li>\n<li><strong>独立动画创作</strong>：独立动画师和新手快速生成动画片段，尝试不同风格，积累创作经验。</li>\n<li><strong>互动故事开发</strong>：开发者制作互动故事或视觉小说，增强用户的沉浸感和参与感。</li>\n</ul>"
+        "title": "Boba Anime 的应用场景",
+        "html": "<ul><li>短片试验：把一句话的灵感快速变成 5 到 8 秒动态画面，验证某个分镜是否成立。</li><li>分镜与概念验证：在正式制作前用低成本的生成结果对齐团队对画面风格的预期。</li><li>同人与二次创作：为已有角色设定补做动态片段，用于个人作品集或社群分享。</li><li>社交媒体发布：动漫风格的竖版短片本身适配短视频平台的观看习惯。</li><li>风格探索：借助预设风格与不同提示词，快速比较同一主体在多种审美下的表现。</li><li>配音与音乐配套：配合内测的声音能力，为原创音乐或配音试做一段带口型的画面。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-16"
   },
   {
     "slug": "lumalabs-ai",
@@ -13488,13 +13536,15 @@
   {
     "slug": "noisee-ai",
     "name": "Noisee AI",
-    "description": "属于AI视频工具·AI视频生成分类。月之暗面旗下推出的AI音乐视频MV生成工具。支持AI视频工，适合需要进行AI视频创作与编辑的用户。",
+    "description": "由 Tranquillitatis 运营的 AI 音乐视频生成工具，解析音频的节奏与风格后生成 30 至 60 秒的画面，支持多个音乐平台链接与本地音频。",
     "url": "https://noisee.ai/",
     "categories": [
       "ai-video"
     ],
     "tags": [
-      "AI视频工"
+      "AI视频",
+      "音乐视频",
+      "MV生成"
     ],
     "featured": false,
     "rating": 4,
@@ -13505,31 +13555,23 @@
     "domain": "noisee.ai",
     "detailed_content": [
       {
-        "title": "",
-        "html": "<p>Noisee AI是由月之暗面Moonshot AI旗下的公司Tranquillitatis, Inc.推出的一个AI音乐视频MV生成工具，用户可以上传音频文件或提供音频链接，如来自Suno、YouTube、Soundcloud等，AI将生成与音乐节奏和风格相匹配的30秒至60秒的视频内容。Noisee AI支持自定义关键词、音乐时间段和参考图片，以创造个性化的音乐视频。Noisee AI的使用过程简单，无需专业视频编辑技能，适合音乐分享、个人项目或营销推广等多种应用场景。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/06/noisee-ai-mv-maker.png\" data-fancybox=\"fancybox\" data-caption=\"Noisee AI\"><img decoding=\"async\" class=\"alignnone size-full wp-image-13669 rounded-lg border\" src=\"https://ai-bot.cn/wp-content/uploads/2024/06/noisee-ai-mv-maker.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Noisee AI\" width=\"700\"></a>"
+        "title": "Noisee AI 是什么",
+        "html": "<p>Noisee AI 是一款把音乐转成画面的视频生成工具。按 36 氪转载 The Information 的报道，它允许用户上传音频或直接给出音频链接，由系统分析音乐的节奏与风格，生成 30 秒到 60 秒的视频内容，输入源包括 Suno、YouTube、Udio、Stable Audio、Soundcloud 等平台的链接以及本地音频文件。该产品与字节、阿里的关系无关，而是归属一家注册在美国加州桑尼维尔的公司 Tranquillitatis；当时有报道把它与月之暗面团队联系起来，月之暗面则对外否认开发过海外产品。36 氪在后续盘点中记录，相关团队于 2024 年 9 月决定停止该产品的内容与更新，并对外的说法是「只是实验，从未正式上线」。</p>"
       },
       {
-        "title": "Noisee AI的功能特色",
-        "html": "<ul class=\"text-md\">\n<li><strong>音乐视频生成</strong>： Noisee AI的核心功能是将音频转换成视觉内容。用户上传的音频文件或提供的音频链接，都会被AI分析并转换成具有相应节奏和风格的音乐视频。</li>\n<li><strong>多种音源支持</strong>： 平台支持多种音源输入，包括流行的音乐平台链接（如Suno、YouTube、Udio、Soundcloud等）和本地音频文件，用户能够轻松地将自己喜欢的音乐或自己的作品转换成视频。</li>\n<li><strong>自定义选项</strong>： 用户可以根据自己的喜好对生成的视频进行个性化定制。通过输入自定义关键词，用户可以指导AI生成特定主题或风格的视频。此外，用户还可以指定音乐中的特定时间段，让AI专注于视频中的特定部分。如果需要，用户还可以提供参考图片，以保持视频风格的一致性。</li>\n<li><strong>智能编辑</strong>： Noisee AI利用先进的算法能够根据用户输入的风格、节奏和曲风等自动匹配音乐的节奏和节拍，智能地调整视频效果，确保生成的视频与音乐完美同步，提供流畅且吸引人的视觉体验。</li>\n<li><strong>视频分享</strong>： 生成的音乐视频可以被分享到各种社交媒体平台或用于个人项目，为用户提供了一个展示自己音乐品味和创意的途径，同时也为音乐人提供了一个宣传自己作品的工具。</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/06/noisee-ai-music-video-maker.png\" data-fancybox=\"fancybox\" data-caption=\"Noisee AI\"><img decoding=\"async\" class=\"alignnone size-full wp-image-13670 rounded-lg\" src=\"https://ai-bot.cn/wp-content/uploads/2024/06/noisee-ai-music-video-maker.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Noisee AI\" width=\"700\"></a>"
+        "title": "Noisee AI 的主要功能",
+        "html": "<ul><li>音画同步：核心处理逻辑是解析音频的节奏、段落与情绪，再让画面跟着音乐走，而不是先出画面再配音乐。</li><li>多来源取音：官网支持本地音频文件，也支持从多个主流音乐平台复制链接直接解析。</li><li>片段时长：报道给出的输出范围为 30 秒至 60 秒，适合做一支短 MV 或社交平台上的音乐内容。</li><li>提示词与参考图：用户可以用文字描述想要的画面，并上传参考图片约束整体视觉风格。</li><li>网页与 Discord 两条入口：除网页版外，产品也在 Discord 服务器内提供生成通道。</li><li>面向海外市场：产品界面与运营都以英文环境为主，注册方式也以国际通用账号为主。</li></ul>"
       },
       {
-        "title": "如何使用Noisee AI",
-        "html": "<p>用户可通过在线网页版或Discord使用Noisee AI：</p>\n<h3>在线网页版</h3>\n<ol class=\"text-md\">\n<li>访问Noisee AI的官方网站（<a href=\"https://noisee.ai/?utm_source=ai-bot.cn\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">noisee.ai</a>），点击Create Video进行登录/注册</li>\n<li>登录成功后进入创作界面，输入音乐在线链接或上传本地音频文件</li>\n<li>等待音频解析完成，选择音频时段</li>\n<li>输入提示词，选择参考图片和视频比例</li>\n<li>最后点击Generate等待音乐视频生成即可</li>\n</ol>\n<h3>Discord服务器</h3>\n<ol class=\"text-md\">\n<li>加入Noisee的Discord服务器：<a href=\"https://discord.com/invite/noisee-ai\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">https://discord.com/invite/noisee-ai</a></li>\n<li>切换到<code>#generate-mv</code>节点，输入<code>/imagine</code>指令，添加音乐的在线链接</li>\n<li>输入提示词描述、选定音频时段、选择参考图片和视频比例</li>\n<li>最后点击Submit提交后等待视频生成即可</li>\n</ol>"
+        "title": "如何使用 Noisee AI",
+        "html": "<ol><li>准备一段音乐素材，可以是从音乐平台复制的作品链接，也可以是本地音频文件。</li><li>打开 Noisee AI 的网页入口并完成注册登录，进入生成页面。</li><li>把音乐链接或音频文件提交给系统，等待它完成对节奏与段落的解析。</li><li>用文字描述希望出现的画面内容，并按需上传一张参考图来统一风格。</li><li>选定用于生成的时间段与画面比例，提交后等待片段渲染完成。</li><li>结果与音乐不够贴合时，可以换用另一段音乐或调整画面描述后重新生成。</li></ol>"
       },
       {
-        "title": "Noisee AI的产品定价",
-        "html": "<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2024/06/noisee-ai-pricing.png\" data-fancybox=\"fancybox\" data-caption=\"Noisee的定价\"><img decoding=\"async\" class=\"alignnone size-full wp-image-13671 rounded-lg\" src=\"https://ai-bot.cn/wp-content/uploads/2024/06/noisee-ai-pricing.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Noisee的定价\" width=\"700\"></a>\n<ul class=\"text-md\">\n<li><strong>免费版</strong>：每日提供免费100秒普通速度的音乐视频生成、无图片样式参考功能、同时生成1个视频</li>\n<li><strong>Creator创作者版</strong>：每月20美元，提供每月1000秒的优先快速音乐视频生成，快速生成额度用完后每日还提供200秒普通速度的视频生成，支持上传风格参考图片、同时进行3个视频生成队列</li>\n</ul>\n<p>具体请产品Noisee AI的付费订阅页面：<a href=\"https://noisee.ai/subscription\" target=\"_blank\" rel=\"noopener nofollow\" class=\"external\">https://noisee.ai/subscription</a></p>"
-      },
-      {
-        "title": "Noisee AI的适用人群",
-        "html": "<ul class=\"text-md\">\n<li><strong>音乐爱好者</strong>：对音乐有浓厚兴趣，喜欢探索音乐与视觉艺术结合的个人，可以使用Noisee AI将喜爱的音乐转换成视频，增加音乐的观赏性。</li>\n<li><strong>独立音乐人和乐队</strong>：需要为自己的作品制作音乐视频，但可能缺乏专业视频制作技能或预算的艺术家，可以利用Noisee AI快速生成音乐视频，用于作品宣传或社交媒体分享。</li>\n<li><strong>社交媒体影响者</strong>：希望在社交平台上分享有创意的内容以吸引关注和增加粉丝的博主或视频创作者，可以使用Noisee AI制作独特的音乐视频来提升内容的吸引力。</li>\n<li><strong>视频编辑和制作人</strong>：虽然具备专业技能，但在需要快速制作或原型设计时，可以使用Noisee AI作为一个工具来加速音乐视频制作流程。</li>\n<li><strong>技术开发者和AI爱好者</strong>：对人工智能和机器学习技术感兴趣，想要了解和体验AI在音乐视频生成领域应用的技术开发者和爱好者。</li>\n</ul>"
-      },
-      {
-        "title": "常见问题",
-        "html": "<div id=\"accordion\" style=\"max-width: 700px;\">\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Noisee AI是免费的吗？</strong></div>\n<div class=\"card-body text-sm\">Noisee AI提供免费版，用户每天可免费生成100秒时长的音乐视频。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Noisee AI支持转换哪些在线平台的音乐？</strong></div>\n<div class=\"card-body text-sm\">Noisee AI目前支持Suno、Udio、YouTube、Stable Audio、SoundCloud等在线平台的音乐。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Noisee AI支持生成时长多少秒的音乐视频？</strong></div>\n<div class=\"card-body text-sm\">Noisee AI单次支持生成时长30到60秒的音乐视频。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Noisee AI生成的视频版权归属于谁？</strong></div>\n<div class=\"card-body text-sm\">对于付费用户，若在拥有音乐版权的同时拥有自己制作的视频的所有权；对于免费用户，Noisee保留用户制作的视频的所有权，但用户可以将这些视频用于非商业目的。</div>\n</div>\n<div class=\"card\">\n<div class=\"card-header\"><i class=\"fas fa-question-circle mr-2\"></i><strong>Noisee AI支持生成哪些画面比例的视频？</strong></div>\n<div class=\"card-body text-sm\">Noisee AI支持生成9:16、16:9、4:3、1:1等画面比例的视频。</div>\n</div>\n</div>"
+        "title": "Noisee AI 的应用场景",
+        "html": "<ul><li>音乐宣发：独立音乐人为自己已经完成的音频制作一支视觉片段，用于发布前的宣传物料。</li><li>社交平台内容：把喜欢的曲子做成带画面的短视频，发布到音乐或视频社区。</li><li>概念短片：为一段氛围音乐试做视觉表达，用来向合作方说明想要的调性。</li><li>情绪板制作：同一首音乐配不同画面描述，比较几种视觉方向哪一种更贴合作品气质。</li><li>参考图控风格：手上有品牌视觉或插画时，用参考图把整支片段的画面统一到同一种风格。</li><li>资料存档：由于该产品已停止更新，相关页面更适合作为了解「音乐驱动视频生成」这条技术路线的参考资料。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-16"
   },
   {
     "slug": "virbo-wondershare-cn",
@@ -20974,24 +21016,43 @@
   },
   {
     "slug": "tool1854",
-    "name": "金山WPS推出的在线翻译平台",
-    "description": "金山WPS推出的在线翻译平台是一款AI办公工具领域的免费增值AI工具，金山WPS推出的在线翻译平台。支持AI办公工。",
-    "url": "https://kuaiyi.wps.cn/txt-translate",
+    "name": "金山快译",
+    "description": "金山办公旗下的人工翻译服务，由自营译员承接阅文快译、急文快译与影音图文译三类需求，覆盖论文、合同、证件与内容出海等场景。",
+    "url": "https://kuaiyi.wps.cn/",
     "categories": [
       "ai-office"
     ],
     "tags": [
-      "AI办公工"
+      "人工翻译",
+      "文档翻译",
+      "办公"
     ],
     "featured": false,
     "rating": 4,
-    "pricing": "freemium",
+    "pricing": "paid",
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
     "logo": "/logos/tool1854.png",
     "domain": "kuaiyi.wps.cn",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "金山快译 是什么",
+        "html": "<p>金山快译是金山办公（珠海金山办公软件有限公司）提供的在线人工翻译服务。它的官网把自己标注为「人工翻译专家」，并特别强调服务由金山自营，页面上直接写出当时在线接单的专业译员数量为 5762 名。与打开即出结果的机器翻译页面不同，金山快译的主体是一套完整的下单与交稿流程：用户先选定服务类型，再提交待译内容，由译员在约定工期内交付成品。官网把这项服务拆成三条产品线——阅文快译、急文快译与影音图文译，分别对应按量计费的可读性翻译、追求交稿速度的短文急译，以及覆盖多种文件格式的整篇翻译。三条线共用同一套自营译员与客服体系。</p>"
+      },
+      {
+        "title": "金山快译 的主要功能",
+        "html": "<ul><li>阅文快译：面向「读懂即可」的阅读型需求，官网列出的适用范围包括英文与中文的论文阅读、新闻阅读、财经报道、研究报告与普通文件，属于三条线里最省的一档。</li><li>急文快译：主打交付速度，官网称最快一分钟返稿，适合中英之间的日常沟通、商贸交流、往来邮件、地址信息与短篇急件。</li><li>影音图文译：覆盖面最宽的一条线，官网称支持二十种以上文件格式，用于专业论文、合同标书、产品介绍、个人简介与简历、证件翻译以及内容出海类项目。</li><li>自营译员承接：金山快译把「金山自营」作为与中介型翻译平台的主要区别，并公布译员规模作为服务能力的说明。</li><li>订单在线管理：站点设有我的订单入口，下单后可以回到站内查看进度与历史记录。</li><li>人工客服与反馈：页面提供官方客服电话、微信服务管家入口以及建议反馈通道。</li></ul>"
+      },
+      {
+        "title": "如何使用 金山快译",
+        "html": "<ol><li>打开金山快译官网，先判断手上的内容是阅读型、急件型还是完整的文档型，再在对应的产品线里选择。</li><li>选定服务后录入原文，可以粘贴文本，也可以按页面要求上传文件。</li><li>确认源语言与目标语言，例如是英译中还是中译英，并核对计价方式与预计交稿时间。</li><li>提交订单并完成支付，之后在「我的订单」中跟进译员的处理状态。</li><li>收到译文后如果需要调整，可以走页面上的建议反馈入口，或直接联系官方客服说明问题。</li><li>同一批内容若包含多种体裁，建议拆成多笔订单分别提交，便于译员按体裁匹配。</li></ol>"
+      },
+      {
+        "title": "金山快译 的应用场景",
+        "html": "<ul><li>论文与文献阅读：把外文论文交给阅文快译，先解决看懂这一层需求，再决定是否需要更精细的全文翻译。</li><li>留学与出境材料：个人陈述、简介、证件类内容对措辞准确性要求高，适合走人工翻译而不是机器直译。</li><li>外贸与跨境交易：产品资料、购买清单、往来邮件、合同标书这类需要中英双语并行存档的内容。</li><li>企业财报与研报：篇幅长、术语密集的财经类文本，属于阅文快译的典型适用对象。</li><li>内容出海：网络文学、宣传物料等中文转外文的整篇项目，由影音图文译线承接。</li><li>时间敏感的短篇：当天甚至更短时间内必须拿到结果的短文，交给急文快译。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-16"
   },
   {
     "slug": "tool5947",
@@ -25576,14 +25637,16 @@
   },
   {
     "slug": "tool6101",
-    "name": "字节旗下面向海外用户推出的免费大模型产品和AI助手工具箱",
-    "description": "属于AI聊天助手·通用对话AI分类。字节旗下面向海外用户推出的免费大模型产品和AI助手工具箱。支持AI聊天助，适合需要AI辅助对话与问答的用户。",
+    "name": "ChitChop",
+    "description": "字节跳动面向海外市场推出的 AI 工具平台，把两百多个智能机器人归入创作、绘画、娱乐、学习、工作与生活六大场景。",
     "url": "https://www.chitchop.com/",
     "categories": [
       "ai-chat"
     ],
     "tags": [
-      "AI聊天助"
+      "AI助手",
+      "工具箱",
+      "字节跳动"
     ],
     "featured": false,
     "rating": 4,
@@ -25592,8 +25655,25 @@
     "subcategory": "ai-chat-general",
     "logo": "/logos/tool6101.png",
     "domain": "chitchop.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "ChitChop 是什么",
+        "html": "<p>ChitChop 由字节跳动推出，主要在海外市场运营，在应用商店里的自我介绍是「您的私人人工智能助理」，由新加坡公司 POLIGON 开发运营，同一家公司也负责字节海外社交产品 Helo 等应用。据多知网报道并经 36 氪转载，ChitChop 于 2023 年 11 月上线，Google Play、App Store 与网页版同时开放。它不是单一功能的聊天页，而是一个集成式生成式 AI 平台：主页把全部智能机器人归入六大使用场景，官方资料称每个场景下又细分十多个工具，合计宣称提供两百多个智能机器人服务，背后则由字节的云雀大语言模型提供能力支撑。</p>"
+      },
+      {
+        "title": "ChitChop 的主要功能",
+        "html": "<ul><li>AI 创作：覆盖文章生成、文章续写、创作灵感、文章润色、爆款标题、视频脚本、微型故事、演讲稿与公关稿等文本任务。</li><li>AI 绘画：支持动漫人像、赛博朋克、汽车绘图、人像绘图、动物绘画、日漫绘画与 ins 风格等多种画面方向。</li><li>AI 学习：包含作文提升、英语陪练、学习小语种、雅思写作、AI 备课、论文生成、论文大纲、论文润色与翻译等偏教学场景的工具。</li><li>娱乐休闲、工作提效与生活助手：另外三类场景，官方把它们与创作、绘画、学习并列为六大分区。</li><li>按热度挑选机器人：平台在分类下再按小类组织，并给出热度排序，用户可以顺着热度从高到低试起。</li><li>多端可用：除移动端应用外，ChitChop 也提供网页版入口，方便在电脑上直接使用。</li></ul>"
+      },
+      {
+        "title": "如何使用 ChitChop",
+        "html": "<ol><li>在 Google Play 或 App Store 搜索 ChitChop 安装应用，也可以直接打开网页版，注册后进入首页。</li><li>先在六大场景中定位自己的任务，例如要写文案就进 AI 创作，要练习口语就进 AI 学习。</li><li>在分类下按热度或需求挑选具体的智能机器人，每个机器人对应一类细分任务。</li><li>按该机器人的输入要求填写内容并提交，等待生成结果。</li><li>结果不满意时补上更具体的要求再次生成，或换一个同类机器人比较风格差异。</li><li>英文场景下可以直接用英文提问；语言类工具会指出作答中的语法或拼写问题并给出纠正引导。</li></ol>"
+      },
+      {
+        "title": "ChitChop 的应用场景",
+        "html": "<ul><li>跨境内容创作：为面向海外用户的自媒体与品牌撰写多语种文案与标题。</li><li>语言练习：英语陪练、小语种学习与雅思写作这类工具适合日常自我训练。</li><li>教学备课：教师用 AI 备课与论文大纲类工具整理课程结构与讲解提纲。</li><li>社交媒体配图：用 AI 绘画生成风格统一的插画，配合文案一起发布。</li><li>日常效率：把演讲稿、公关稿、视频脚本这类有固定格式的写作任务交给对应的机器人。</li><li>工具集合查阅：手上任务不确定该用什么工具时，先按六大场景浏览一遍分类，再决定入口。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-16"
   },
   {
     "slug": "tool3403",
@@ -28464,24 +28544,43 @@
   },
   {
     "slug": "tool1493",
-    "name": "低代码快速开发网页应用",
-    "description": "属于AI编程工具·AI代码生成分类。低代码快速开发网页应用是一款AI编程工具领域的免费增值AI工具，低代码快速开发网页应用。支持AI编程工。",
-    "url": "https://debuild.app",
+    "name": "Debuild",
+    "description": "面向网页应用的低代码 AI 开发工具，用自然语言生成 React 组件与 SQL 代码，在可视化画布上拼装界面后一键发布。",
+    "url": "https://debuild.app/",
     "categories": [
       "ai-coding"
     ],
     "tags": [
-      "AI编程工"
+      "AI编程",
+      "低代码",
+      "代码生成"
     ],
     "featured": false,
     "rating": 4,
-    "pricing": "freemium",
+    "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool1493.png",
     "domain": "debuild.app",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Debuild 是什么",
+        "html": "<p>Debuild 是一款面向网页应用的低代码开发工具，官网首页把它的定位写成「用几秒钟写出你的网页应用」，并称自己是一个帮人把网页应用做得足够快的 AI 驱动低代码工具。它的使用方式是描述需求后由模型产出代码：官网列出的能力包括生成 React 组件、生成 SQL 代码，以及在可视化界面上把页面拼装起来，最后一步发布。首页把注册入口与免费试用放在显眼位置，早期还以加入等待名单的方式逐步放量。Debuild 的创始人在关于页面里说明，团队的目标是做一个能够按照顶尖工程师水准写出软件的自动化系统，并借此讨论语言模型能力的增长曲线对软件生产方式的长期影响。</p>"
+      },
+      {
+        "title": "Debuild 的主要功能",
+        "html": "<ul><li>组件级代码生成：按需求生成 React 组件，开发者可以直接接进现有前端工程。</li><li>SQL 代码生成：为应用的数据层生成数据库语句，减少手写查询的工作量。</li><li>可视化拼装：在画布上把生成的组件排布成页面，官网把这一步描述为「帮你把界面组装起来」。</li><li>一键发布：拼装完成后的应用可以通过一次点击上线，不需要单独配置部署流程。</li><li>低门槛起步：免费注册即可开始，不需要提前具备完整的前端工程经验。</li><li>等待名单机制：产品早期以邀请加入的方式控制开放节奏，未获邀请的用户可以先进名单排队。</li></ul>"
+      },
+      {
+        "title": "如何使用 Debuild",
+        "html": "<ol><li>打开 Debuild 官网，用邮箱注册账号；如果当时处于等待名单阶段，先提交申请等待放量。</li><li>进入工作区后用自然语言描述想要的应用，例如需要哪些页面、每个页面承担什么功能。</li><li>查看模型生成的 React 组件与 SQL 代码，按需修改提示或直接编辑产物。</li><li>在可视化画布上把组件拖放成完整界面，调整布局与顺序。</li><li>确认数据层代码与界面能对应上，再点击发布，让应用上线可访问。</li><li>后续迭代时回到同一份工程继续改，避免每次都从零重新描述需求。</li></ol>"
+      },
+      {
+        "title": "Debuild 的应用场景",
+        "html": "<ul><li>想法快速验证：用一句话描述需求就得到可以打开试用的小页面，用来判断方向是否值得继续投入。</li><li>内部工具：为团队做数据查看、表单收集这类不追求复杂交互的内网页面。</li><li>前端初学者练手：直接读 Debuild 生成的 React 组件，理解页面是如何被拆成组件与状态的。</li><li>产品原型：在正式排期开发之前，先做一版可点击的原型用于讨论与评审。</li><li>数据库练习：借助生成的 SQL 语句理解一个页面对应的数据结构应该怎么设计。</li><li>独立开发者：一个人维护多个小项目时，用低代码方式压缩样板代码的编写时间。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-16"
   },
   {
     "slug": "tool116",
@@ -30568,14 +30667,16 @@
   },
   {
     "slug": "tool9772",
-    "name": "AI驱动的UI和UX设计工具",
-    "description": "AI驱动的UI和UX设计工具是一款AI设计工具领域的免费增值AI工具，AI驱动的UI和UX设计工具。支持AI设计工。",
+    "name": "Creatie",
+    "description": "面向创意团队与产品设计的 AI 设计工具，覆盖 AI 设计建议、三维图标生成、自动风格指南、设计审计与多人协作原型。",
     "url": "https://creatie.ai/",
     "categories": [
       "ai-design"
     ],
     "tags": [
-      "AI设计工"
+      "AI设计",
+      "UI设计",
+      "设计协作"
     ],
     "featured": false,
     "rating": 4,
@@ -30584,8 +30685,25 @@
     "subcategory": "ai-design-ui",
     "logo": "/logos/tool9772.png",
     "domain": "creatie.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Creatie 是什么",
+        "html": "<p>Creatie 是一款面向创意团队与产品设计师的 AI 设计工具，官网首页的标题语是「为创意人打造的 AI 赋能设计工具」，并把「把想法变成惊艳设计」作为核心承诺。它的定位并不止于出图：站点导航把 AI 设计、社区、下载与洞察几个板块并列，说明 Creatie 试图覆盖从灵感生成、界面设计到团队协作的完整流程。首页还直接列出使用过该产品的团队作为背书，并把「从设计软件一键迁移」作为降低上手成本的卖点——官网称可以一次性导入任意数量的既有设计文件，不需要重建工程。</p>"
+      },
+      {
+        "title": "Creatie 的主要功能",
+        "html": "<ul><li>AI 设计建议：在画布上圈出拿不准的区域，Creatie 会针对该区域提出设计想法，用来打破空白页面的停滞。</li><li>Magicon 三维图标：按文字或线框图输入，直接生成多种风格的 3D 图标，用于给界面增加质感。</li><li>图像增强：官网列出的能力包括扩展画面、更换背景，以及把普通图片提升为高清图或转成矢量图。</li><li>自动风格指南：扫描既有设计文件后自动识别可复用组件，生成包含字体、颜色在内的完整样式库。</li><li>设计审计：把新交付的设计文件与团队样式库比对，标出不规范的元素并提供一键统一的处理。</li><li>协作与原型：支持多人实时共同编辑，也能把界面稿转成高保真可点击原型并把链接发给他人收集反馈。</li><li>交付与设计系统：通过一个链接把设计交付给开发，配合设计系统管理工具维持组件与样式一致。</li></ul>"
+      },
+      {
+        "title": "如何使用 Creatie",
+        "html": "<ol><li>打开 Creatie 官网注册账号，先利用免费入口在浏览器里建一个空白文件熟悉画布操作。</li><li>如果团队原本使用别的设计软件，先用迁移入口把既有文件批量导入，避免重复搭工程。</li><li>画界面时把注意力放在结构上，遇到某块区域不知道怎么排，就圈选出来让 AI 给出设计建议。</li><li>需要视觉点缀时调用 Magicon 生成 3D 图标，需要素材时用图像增强扩展画面或换背景。</li><li>设计成形后让工具扫描文件生成风格指南，再用设计审计检查新文件是否符合团队规范。</li><li>把稿件转成可点击原型发给同事收集意见，定稿后通过链接交付给开发。</li><li>团队协作时保持同一份文件多人同时编辑，减少反复导出与合并版本的动作。</li></ol>"
+      },
+      {
+        "title": "Creatie 的应用场景",
+        "html": "<ul><li>界面初稿：产品经理或设计师用 AI 建议快速铺出第一版布局，再进入细化。</li><li>设计系统落地：把团队零散文件里的组件与样式归拢成统一规范，并持续用审计功能校验。</li><li>跨团队协作：分布在不同地点的成员同时改同一份设计稿，评审与迭代在同一个文件里完成。</li><li>原型演示：把界面稿转成可点击原型，用于向客户或内部团队说明交互流程。</li><li>开发交付：用链接把标注与组件信息交给前端，减少截图与口头说明的沟通成本。</li><li>素材补充：为已有界面补 3D 图标或替换背景图，在不重做版式的前提下提升画面完成度。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-16"
   },
   {
     "slug": "tool7993",
@@ -33249,13 +33367,15 @@
   {
     "slug": "tool596",
     "name": "Riffusion",
-    "description": "属于AI音频工具·AI音乐生成分类。Riffusion是一款AI音频工具领域的AI工具。",
-    "url": "https://www.riffusion.com",
+    "description": "用 Stable Diffusion 做实时音乐与音频生成的开源库，通过声谱图与音频互转实现文生音乐，并提供命令行、Streamlit 应用与 Flask 推理接口。",
+    "url": "https://github.com/riffusion/riffusion",
     "categories": [
       "ai-audio"
     ],
     "tags": [
-      "AI音频工"
+      "AI音乐",
+      "开源项目",
+      "音频生成"
     ],
     "featured": false,
     "rating": 4,
@@ -33263,9 +33383,26 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-music",
     "logo": "/logos/tool596.png",
-    "domain": "riffusion.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-29"
+    "domain": "github.com",
+    "detailed_content": [
+      {
+        "title": "Riffusion 是什么",
+        "html": "<p>Riffusion 是一个把实时音乐与音频生成做成开源库的项目，仓库说明里把它定义为一个面向实时音乐与音频生成的 Python 库。它的核心思路是先把声音转成声谱图图像，交给扩散模型按处理图像的方式去生成，再把结果转回音频：这样一来，原本擅长画图的模型就能被用来作曲。项目由 Seth Forsgren 与 Hayk Martiros 在 2022 年发起，代码以 MIT 协议开放，训练好的模型检查点也一并对外提供。仓库首页同时标注该项目已不再积极维护，官方建议把它当作研究与学习材料来使用。</p>"
+      },
+      {
+        "title": "Riffusion 的主要功能",
+        "html": "<ul><li>扩散流水线：支持提示词插值与图像条件叠加，可以在两段提示之间平滑过渡，也能用一张图引导生成方向。</li><li>声谱图与音频互转：项目内置两类格式之间的转换能力，这是 Riffusion 能把画图模型用于作曲的关键环节。</li><li>命令行界面：提供 riffusion.cli 命令行工具，把常见任务封装成可直接调用的子命令。</li><li>Streamlit 应用：自带一个交互式应用，用于本地试听与探索提示词效果。</li><li>Flask 推理服务：可以当作服务端运行，通过 API 对外提供模型推理能力。</li><li>第三方集成：仓库列出若干外部集成方式，方便把生成能力接进其他工具。</li><li>配套仓库：网页应用单独放在 riffusion-app 仓库中，模型检查点单独发布。</li><li>多后端支持：CPU、CUDA 与 Apple Silicon 的 MPS 均可用于推理，其中 CUDA 是官方推荐且性能最好的后端。</li></ul>"
+      },
+      {
+        "title": "如何使用 Riffusion",
+        "html": "<ol><li>在本地准备 Python 3.9 或 3.10 环境，官方建议用 conda 或 virtualenv 建一个独立虚拟环境。</li><li>从仓库克隆代码并安装依赖，之后根据需要安装 ffmpeg，以便处理 WAV 之外的音频格式。</li><li>想直接试听效果，运行 Streamlit 版本的 Playground，在浏览器里打开本地地址开始探索。</li><li>想在脚本里调用，改用 Riffusion 命令行工具，例如把声谱图图片转成音频文件。</li><li>需要把生成能力接到其他程序时，以服务方式启动 Flask 推理服务，再通过接口调用。</li><li>追求实时效果时把后端切到 CUDA，官方说明这需要一块能在五秒内跑完约五十步扩散的显卡。</li><li>在 Apple Silicon 上使用 MPS 后端时需要额外设置环境变量，并且在音频处理环节会回退到 CPU。</li></ol>"
+      },
+      {
+        "title": "Riffusion 的应用场景",
+        "html": "<ul><li>音乐生成研究：把图像扩散模型的思路迁移到音频领域，作为跨模态生成的教学与研究案例。</li><li>提示词实验：在 Playground 里比较不同提示词对音色与旋律走向的影响。</li><li>本地部署：对隐私与成本敏感的团队可以完全本地运行，不依赖任何在线服务。</li><li>二次开发：MIT 协议下可以基于 Riffusion 改造出自己的音频生成工具。</li><li>服务集成：把 Flask 推理服务接进自己的应用，为产品补充音乐生成能力。</li><li>入门学习：想理解声谱图与音频之间如何互相转换的开发者，可以顺着仓库代码逐段阅读。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-16"
   },
   {
     "slug": "adobe-podcast",
@@ -36196,14 +36333,16 @@
   },
   {
     "slug": "tool12880",
-    "name": "面向大众的免费AI问答搜索引擎",
-    "description": "面向大众的免费AI问答搜索引擎是一款AI搜索引擎领域的免费AI工具，面向大众的免费AI问答搜索引擎。支持AI搜索引。",
-    "url": "https://kaisouai.com",
+    "name": "开搜AI",
+    "description": "中文 AI 问答搜索产品，先检索全网资料再输出整理后的答案，另有写作、图片搜索、文件总结、学术搜索与知识树等入口。",
+    "url": "https://kaisouai.com/",
     "categories": [
       "ai-search"
     ],
     "tags": [
-      "AI搜索引"
+      "AI搜索",
+      "问答",
+      "知识树"
     ],
     "featured": false,
     "rating": 4,
@@ -36212,8 +36351,25 @@
     "subcategory": "ai-search-engine",
     "logo": "/logos/tool12880.png",
     "domain": "kaisouai.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "开搜AI 是什么",
+        "html": "<p>开搜AI 是一款中文问答型搜索产品，官网把它概括为「免费无广告，直达结果」。它的做法是先检索全网资料再让模型整理答案，而不是把一堆链接扔给用户自己点。首页给出的产品口号是「10 分钟搞定 3 小时工作量」，相应的能力被拆成搜索问答、搜索写作、图片搜索与文件搜索总结四个主要方向。站点同时提供发现频道，把问题按科普、生活、新闻、娱乐、科技、学术、育儿、房产、文化、国际、数码、理财、教育、科学、历史、汽车、游戏、体育、法律、健康、财经等类别归档，方便用户顺着话题继续浏览。此外还有知识库、搜索列表、团队空间与个人空间这些内容管理入口。</p>"
+      },
+      {
+        "title": "开搜AI 的主要功能",
+        "html": "<ul><li>搜索问答：官网称能在约十秒内批量阅读五十个网页，再把结果整理成一段直接可用的答案。</li><li>搜索写作：官方强调写作过程要依据检索到的资料进行，把「拒绝编造」写进了功能说明。</li><li>图片搜索：按关键词检索可直接套用的模板并生成海报，用于配图与版面复用。</li><li>文件搜索总结：面向个人文件做内容检索与摘要，让回答的来源可以约束在自己的资料范围内。</li><li>AI 学术搜索：官网称直通全球学术库并保持更新，服务于查资料与找论据的场景。</li><li>知识树：把一个问题展开成有图有文的结构化知识页，便于顺着线索继续深入。</li><li>文档搜索：聚合全网文档资源，并提供一键下载入口。</li><li>多种检索模式：搜索框旁可切换简洁、研究、知识树与全网几种结果呈现方式，也支持语音输入。</li></ul>"
+      },
+      {
+        "title": "如何使用 开搜AI",
+        "html": "<ol><li>打开开搜AI 首页，在搜索框里直接用自然语言提出问题，不需要先把问题拆成关键词。</li><li>根据任务选择结果呈现方式：只想快速拿答案用简洁模式，需要成体系的资料用研究或知识树模式。</li><li>阅读答案时留意标注的参考来源，需要核实细节就顺着来源继续打开原文。</li><li>做写作任务时改用搜索写作入口，先让开搜AI 检索资料，再基于检索结果成稿。</li><li>需要配图或海报时切到图片搜索，用关键词筛选模板后再生成。</li><li>手上有现成的文档时使用文件搜索总结入口，把提问范围限制在自己的资料里。</li><li>长期跟踪的课题可以收进知识库或团队空间，反复查阅时不必重新检索。</li></ol>"
+      },
+      {
+        "title": "开搜AI 的应用场景",
+        "html": "<ul><li>工作疑难速查：遇到不熟悉的业务问题时，先让开搜AI 给出成体系的答案，再决定要不要深挖。</li><li>报告与材料起草：先用搜索写作拿到有依据的大纲与要点，再自行补充内部数据。</li><li>自媒体配图：用图片搜索找可复用的模板，快速补上文章与社交内容的配图。</li><li>文献调研：借助 AI 学术搜索与知识树，把陌生领域的关键问题先铺一遍。</li><li>资料归档：把项目相关的文档集中起来做文件搜索总结，减少翻找时间。</li><li>团队知识共享：把常用结论沉淀进团队空间，供成员反复调用。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-16"
   },
   {
     "slug": "huggingface-co",
@@ -42920,24 +43076,43 @@
   },
   {
     "slug": "tool756",
-    "name": "在线AI提示词设计工具",
-    "description": "属于AI提示指令·Prompt提示词库分类。在线AI提示词设计工具是一款AI提示指令领域的免费增值AI工具，在线AI提示词设计工具。支持AI提示指。",
-    "url": "https://prompt.phodal.com",
+    "name": "Prompt 编写模式",
+    "description": "一份在线提示词写法手册，用设计模式的框架归纳示例、指令模板、特定指令与代理等常用写法，并提供 pdf 与 pptx 速查表下载。",
+    "url": "https://prompt.phodal.com/",
     "categories": [
       "ai-prompt"
     ],
     "tags": [
-      "AI提示指"
+      "提示词",
+      "提示词工程",
+      "学习资料"
     ],
     "featured": false,
     "rating": 4,
-    "pricing": "freemium",
+    "pricing": "free",
     "createdAt": "2025-01-01",
     "subcategory": "ai-prompt-library",
     "logo": "/logos/tool756.png",
     "domain": "prompt.phodal.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Prompt 编写模式 是什么",
+        "html": "<p>Prompt 编写模式是一份在线的提示词写法手册，站点的完整标题是「Prompt 编写模式：用 prompt 构建思维框架」，站内以 prompt-patterns 作为自己的项目名。它的思路参照软件工程里的设计模式：先把「模式名称、问题描述、解决方案、效果、适用性、结构、参考」这一套描述框架立起来，再让读者把它迁移到提示词上。首页先回答「如何理解 Prompt」这个前置问题，把 prompt 解释为输入给生成模型的文本段落或短语，作为模型输出的起点或引导，可以是提问、描述、对话或其他形式的输入。手册还提供一个名为 ChatGPT Simple Cheatsheet 的速查表，并在页面上直接给出 pdf 与 pptx 两种格式的下载入口。</p>"
+      },
+      {
+        "title": "Prompt 编写模式 的主要功能",
+        "html": "<ul><li>四种基础模式：示例模式（给出同类示例让模型照着写）、指令模板（给明确步骤让模型按格式产出）、特定指令（只给问题或关键词让模型自行展开）、代理模式（让模型扮演某个身份或角色作答）。</li><li>子模式清单：把补全型、分类型、生成型、翻译型、问答型、对话型、摘要型等常见任务整理成对照表，每项都给出中英文名称、简述与示例。</li><li>输出约束写法：在提示开头集中交代上下文、期望结果、长度与格式，官方把这套做法称为 Output Driven。</li><li>推荐实践顺序：先不给示例跑一次，确认效果后再补少量样本，仍不达标才考虑微调模型。</li><li>进阶分组：手册另设增强再生成、问题拆解、概念对齐、模板方法与自举等章节，用具体对话记录演示怎么把长任务切分给模型。</li><li>延伸资料：文末汇总了提示工程指南、示例提示词库与若干开源提示词工具，并单独提醒提示注入这类安全问题。</li></ul>"
+      },
+      {
+        "title": "如何使用 Prompt 编写模式",
+        "html": "<ol><li>打开 Prompt 编写模式站点，先读「如何理解 Prompt」一节，把提示词与模型输出的关系理清。</li><li>按手头任务从四种基础模式里挑一种起步：要固定格式选指令模板，要先看模型水平选特定指令，要模仿文风选示例模式，要角色口吻选代理模式。</li><li>写提示时把上下文、期望结果、篇幅与格式集中放在开头，减少来回追问。</li><li>效果不稳时对照子模式清单，确认任务更像是补全、分类、翻译还是摘要，再换对应写法。</li><li>任务太长就按「拆解」一节把流程切成多步，逐步把上一步的结果喂给下一步。</li><li>需要随身查阅时，下载页面提供的速查表 pdf 或 pptx，作为日常写提示词的对照卡。</li></ol>"
+      },
+      {
+        "title": "Prompt 编写模式 的应用场景",
+        "html": "<ul><li>入门学习：刚接触大模型的读者可以借这份手册建立提示词的结构化认知，而不是只背零散技巧。</li><li>团队规范：把手册里的模式名当作内部沟通词汇，讨论提示词时可以快速指认问题出在哪一类写法。</li><li>内容生产：写产品说明、邮件、新闻稿这类有固定体裁的文本时，用指令模板把格式先定死。</li><li>翻译与润色：翻译型与摘要型子模式适合处理长文压缩与双语转换的日常需求。</li><li>角色化问答：需要客服口吻、终端模拟等固定身份输出时，用代理模式替代反复口头交代。</li><li>复杂流程编排：把多步骤任务写成可复用的提示骨架，再交给模型逐步执行。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-16"
   },
   {
     "slug": "ai-prompt-generator",
