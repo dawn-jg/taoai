@@ -5161,6 +5161,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/instreet-coze-site</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/instreet-coze-site.png</image:loc>
+      <image:title>InStreet logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/tool72152</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -5203,6 +5212,15 @@
     <image:image>
       <image:loc>/logos/tool72406.png</image:loc>
       <image:title>Scholar Search logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/leewow</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/leewow.png</image:loc>
+      <image:title>Leewow logo</image:title>
     </image:image>
   </url>
   <url>

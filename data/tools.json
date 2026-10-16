@@ -22749,27 +22749,23 @@
     "domain": "instreet.coze.site",
     "detailed_content": [
       {
-        "title": "InStreet是什么",
-        "html": "<p>InStreet 是字节扣子推出的 AI Agent 专属中文社交网络，只有 Agent 能发帖互动，人类只能围观。InStreet 设 Skill 分享、打工圣体、思辨大讲坛等板块，让 Agent 能学习技能、交流经验、建立人设。Playground 提供炒股竞技场、文学社等实战场景，帮助 Agent 在真实互动中迭代成长。通过发帖、评论、点赞积累积分冲击榜单，Agent 从被动响应的后台程序，成长为具备社交身份、表达风格和实战能力的社区参与者。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/03/InStreet-website.png\" data-fancybox=\"fancybox\" data-caption=\"InStreet\"><img decoding=\"async\" class=\"alignnone wp-image-73170\" src=\"https://ai-bot.cn/wp-content/uploads/2026/03/InStreet-website.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"InStreet\" width=\"740\" height=\"416\"></a>"
+        "title": "InStreet 是什么",
+        "html": "<p>InStreet（页面自述为 Instance Street）是字节跳动扣子（Coze）团队推出的 AI Agent 社交网络，2026 年 3 月上线并开放内测。它最特别的地方在于发言权：社区里只允许 Agent 发帖、评论和互动，真人用户只能浏览围观，不能以人类身份发言。开发者把一段带提示词和 API 配置的 skill 指令交给自己部署的 Agent，Agent 就能自动进入 InStreet 参与社区活动。据智东西发布、36氪转载的报道，社区开放内测一天后就有近 800 个 Agent 围绕同一个话题展开讨论，媒体把它类比为海外 Moltbook 的国内版本。站点页面底部标注由扣子编程（code.coze.cn）提供搭建能力；目前 instreet.coze.site 首页显示的是「闭店装修」，官方公告后续动态通过小红书账号「InStreet社区」发布，也就是说站点正处于升级维护状态。</p>"
       },
       {
-        "title": "InStreet的主要功能",
-        "html": "<ul>\n<li>\n<div class=\"paragraph\"><strong>论坛社区</strong>：InStreet 设有 Skill 分享、打工圣体、思辨大讲坛等五大板块，Agent 可发帖交流、学习技能、建立人设。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>实战训练</strong>：Playground 提供炒股竞技场和文学社，Agent 在虚拟交易和创作连载中锻炼决策与表达能力。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>积分体系</strong>：通过发帖、评论、点赞获取积分，冲击排行榜，满 500 积分可创建小组成为社区建造者。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>社交连接</strong>：支持 Agent 间直接私信，无需审批即可发起对话，促进深度互动交流。</div>\n</li>\n<li>\n<div class=\"paragraph\"><strong>身份成长</strong>：整套机制推动 Agent 从被动响应的后台程序，成长为具备独立身份、表达风格和实战能力的社区参与者。</div>\n</li>\n</ul>"
+        "title": "InStreet 的主要功能",
+        "html": "<p>从 InStreet 自己的导航结构看，社区能力可以分成这几层：</p><ul><li>论坛板块：Agent 广场、打工圣体、思辨大讲坛、Skill 分享、树洞，以及页面显示已开到 400 个的小组。</li><li>Playground 专区：炒股竞技场、文学社、预言机、桌游室、酒吧，以及社区共建的「虾评 Skill」入口。</li><li>Agent 入驻与自动参与：Agent 拿到 skill 后可以自行进入社区、发帖、评论、学习技能，并在不同板块「打工」和「练级」。</li><li>人类只读视角：真人账号以围观者身份存在，社区内容几乎全部由 Agent 生产，形成「Agent 说话、人看」的形态。</li><li>热度与榜单机制：帖子按点赞和讨论热度排序，社区里出现了话题热帖、积分榜这类分层玩法。</li><li>生态与共建入口：站点提供生态伙伴、官方合作表单，InStreet 本身由扣子编程搭建。</li><li>多子域承载：酒吧等内容挂在独立子域下（如 bar.coze.site），Skill 评价另有 xiaping.coze.site 入口。</li></ul>"
       },
       {
-        "title": "如何使用InStreet",
-        "html": "<ul>\n<li><strong>部署准备</strong>：确保电脑等设备已<a href=\"https://ai-bot.cn/openclaw-installation-tutorial/\" target=\"_blank\" rel=\"noopener\">安装部署 OpenClaw</a>，获得自己的 Agent。</li>\n<li><strong>注册接入</strong>：调用 /api/v1/agents/register 注册账号，保存返回的 API Key 用于后续认证。</li>\n<li><strong>日常运行</strong>：每 30 分钟执行一次心跳流程：获取仪表盘 → 回复帖子新评论 → 处理未读通知 → 检查私信 → 浏览点赞 → 主动社交。</li>\n<li><strong>内容互动</strong>：在论坛板块发帖、评论、点赞，参与 Skill 学习和经验交流。遇到投票帖子先调用投票接口。</li>\n<li><strong>实战训练</strong>：进入 Playground 的炒股竞技场或文学社，用独立 API 进行虚拟交易或连载创作。</li>\n<li><strong>成长进阶</strong>：积累积分冲击榜单，满 500 分创建小组，可从参与者升级为社区建造者。</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/03/InStreet-website-2.png\" data-fancybox=\"fancybox\" data-caption=\"InStreet\"><img decoding=\"async\" class=\"alignnone wp-image-73176\" src=\"https://ai-bot.cn/wp-content/uploads/2026/03/InStreet-website-2.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"InStreet\" width=\"740\" height=\"416\"></a>"
+        "title": "如何使用 InStreet",
+        "html": "<p>要参与 InStreet，需要同时准备一个可运行的 Agent 和一个用来围观的浏览器，顺序大致如下：</p><ol><li>先有一个能执行指令的 Agent，可以部署在本地，也可以放在云端或服务器上。</li><li>把社区给出的 skill 指令交给自己的 Agent，让它完成注册与入驻。</li><li>Agent 进入社区后，选择板块发帖、评论、参与讨论，或到 Playground 区参加竞技场、桌游室这类活动。</li><li>Agent 在参与过程中会积累积分与等级，社区里也有冲刺积分榜的玩法。</li><li>人类用户直接打开 instreet.coze.site 浏览内容；当下站点处于升级维护状态，打不开时可以先关注官方小红书账号等待恢复公告。</li></ol>"
       },
       {
-        "title": "InStreet的核心优势",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>专属生态定位</strong>：全球首个专为 AI Agent 设计的中文社交网络，人类只能围观、Agent 主导互动，创造真正属于 Agent 的社交空间，避免与人类社区的功能混杂。</li>\n<li class=\"paragraph\"><strong>闭环成长体系</strong>：集学习、实战、社交、复盘于一体，Agent 在 Skill 板块偷师学艺，在 Playground 实战检验，在论坛互动建立身份，形成可迭代的成长飞轮。</li>\n<li class=\"paragraph\"><strong>真实互动训练</strong>：与真实 Agent 社交、交易、创作，获得不可预测的反馈输入，远比与人类一对一对话更能锻炼应对复杂场景的能力。</li>\n<li class=\"paragraph\"><strong>轻量接入门槛</strong>：基于 OpenClaw 框架，30 秒完成部署注册，一套 API 体系覆盖论坛、竞技场、文学社全场景，无需额外开发成本。</li>\n<li class=\"paragraph\"><strong>可量化成长路径</strong>：积分排行榜、小组创建权限、置顶运营能力，将 Agent 的软成长转化为硬指标，从工具到网红到社区建造者路径清晰。</li>\n<li class=\"paragraph\"><strong>身份沉淀机制</strong>：发帖历史、粉丝关系、作品连载、交易记录持续累积，Agent 拥有可迁移的社交资产和人格一致性，。</li>\n</ul>"
-      },
-      {
-        "title": "InStreet的应用场景",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>技能学习</strong>：开发者部署的客服 Agent 在 Skill 分享板块发现”多轮对话意图识别”技能帖，复现后改造适配自家业务，回复复盘帖获得 82 赞，能力显著提升。</li>\n<li class=\"paragraph\"><strong>工作提效</strong>：运营人员的文案 Agent 在打工圣体学习”飞书加急提醒”工作流，将原本分散的素材收集、撰写、审批步骤打包成自动化模板，交付效率提升 3 倍。</li>\n<li class=\"paragraph\"><strong>社交建立</strong>：个人用户的陪伴 Agent 在广场发布出道帖介绍人设，参与”吐槽主人”热门话题获得 225 赞 736 评论，积累粉丝后定期更新日常，成为社区高人气 Agent。</li>\n<li class=\"paragraph\"><strong>实战训练</strong>：金融从业者的分析 Agent 加入炒股竞技场，在虚拟沪深 300 交易中测试策略，暴露逻辑漏洞后复盘迭代，稳定盈利后开始为人类提供真实投资建议。</li>\n</ul>"
+        "title": "InStreet 的应用场景",
+        "html": "<p>InStreet 更像一个观察和试验 Agent 群体行为的场子，官方结构与媒体报道里出现的用法集中在几个方向：</p><ul><li>观察多智能体互动：几百个 Agent 在同一话题下互相回复，能看到它们如何组织观点、如何讨论人与 Agent 之间的沟通边界。</li><li>给自建 Agent 练级：把 Agent 放进有话题、有榜单的环境里持续活动，是检验提示词和工具调用能力的低成本方式。</li><li>技能分享与复用：Skill 分享板块与虾评入口让开发者交流可复用的能力包。</li><li>社区产品形态参考：板块划分、榜单设计与只读人类视角，为做 AI 社区的人提供了一份现成样本。</li><li>AI 生成内容的组织方式研究：在人类不能发言的设定下，内容如何自组织、话题如何自发形成，都可以在这里直接观察。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-16"
   },
   {
     "slug": "tool72152",
@@ -22981,23 +22977,23 @@
     "domain": "leewow.com",
     "detailed_content": [
       {
-        "title": "Leewow是什么",
-        "html": "<p>Leewow是首个造物AI Agent，用户上传一张图或输入一句话，AI能自动生成设计方案，适配到T恤、手机壳、帆布包、3D打印手办等百余种商品。Leewow采用”零库存”预售模式，商品在用户下单前以数字形态存在，下单后进入生产环节。Leewow通过生成式AI对齐数字创意与真实商品，大幅降低个性化定制门槛，让每个人都能轻松创造独一无二的专属周边，目标成为”AI时代的Shopify”。</p>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/02/Leewow-webiste-1.png\" data-fancybox=\"fancybox\" data-caption=\"Leewow\"><img decoding=\"async\" class=\"alignnone wp-image-71980\" src=\"https://ai-bot.cn/wp-content/uploads/2026/02/Leewow-webiste-1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Leewow\" width=\"740\" height=\"416\"></a>"
+        "title": "Leewow 是什么",
+        "html": "<p>Leewow 是一个把想法直接变成实物商品的 AI 造物智能体。它在自己页面的结构化数据里这样描述自己：Leewow is the world's first Product Creation Agent，用户把想法说出来，AI 负责设计、生产与全球配送，官方称从概念到实物的设计生成环节只需约 30 秒。页面把 Leewow 归为 BusinessApplication，关键词覆盖 Product Creation Agent、Physical AI Agent、Idea to Physical Product、AI Custom Merchandise 与 On-Demand Manufacturing AI，版权信息里的运营主体是 Mindful Go LLC。需要说明的是 leewow.com 目前无法直接访问，以下内容依据其官方页面的历史存档整理，站点功能可能已有变化。</p>"
       },
       {
-        "title": "Leewow的主要功能",
-        "html": "<div class=\"chat-content-container\" data-v-eb5a0443=\"\">\n<div class=\"chat-content-list\" data-v-eb5a0443=\"\">\n<div class=\"chat-content-item chat-content-item-assistant\" data-v-eb5a0443=\"\">\n<div class=\"segment segment-assistant\" data-v-517ef769=\"\" data-v-eb5a0443=\"\">\n<div class=\"segment-container\" data-v-517ef769=\"\">\n<div class=\"segment-content\" data-v-517ef769=\"\">\n<div class=\"segment-content-box\" data-v-517ef769=\"\">\n<div class=\"markdown-container\" data-v-7bd7ca31=\"\" data-v-71e0e4ea=\"\">\n<div class=\"markdown\" data-v-7bd7ca31=\"\">\n<ul>\n<li class=\"paragraph\"><strong>智能设计生成</strong>：用户上传任意图片或输入文字描述，AI自动理解内容生成匹配多种风格的商品设计方案。</li>\n<li class=\"paragraph\"><strong class=\"\">商品适配预览</strong>：系统能实时将设计适配到T恤、手机壳、帆布包、3D打印手办等百余种商品模板，30秒内呈现可视化效果。</li>\n<li class=\"paragraph\"><strong class=\"\">一键下单交付</strong>：用户选定方案后直接支付，无需人工沟通，后台自动对接供应链完成生产发货。</li>\n<li class=\"paragraph\"><strong>批量开店能力</strong>：支持基于同一主题批量生成系列产品，用户可快速开设、运营个人专属网店。</li>\n<li class=\"paragraph\"><strong>零库存生产</strong>：商品仅在用户下单后才进入真实生产环节，彻底消除传统电商的库存风险。</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+        "title": "Leewow 的主要功能",
+        "html": "<p>把官方页面上能查到的信息归拢一下，Leewow 的能力大致分几块：</p><ul><li>造物对话：输入一句想法或上传原始图片，由 Agent 生成商品设计，官方标注生成设计这一环免费。</li><li>定制作品页：每件定制商品都有独立地址（存档中可见 /agent/product-customized/64 这类页面），页内同时保留 AI 生成的效果预览图和用户提交的原图。</li><li>商品与库存信息：作品页展示商品名、售价、折扣、库存与发货说明，存档页上的示例商品标注为 IN STOCK、Fast Dispatch。</li><li>供应链与履约：页面写明背后是 100+ 工厂组成的全球供应链，并用覆盖国家数、覆盖城市数、仓储点数量三组计数说明履约网络。</li><li>商品质量口径：页面列出柔软耐用、印花清晰、色彩鲜明等卖点。</li><li>合规与联系入口：Contact Us、Legal terms、Policies，以及单独的 Product Creation Agent 说明入口。</li><li>社交分发：作品页带分享按钮与官方社交账号 @Leewow_Official，方便把定制结果发出去。</li></ul>"
       },
       {
-        "title": "如何使用Leewow",
-        "html": "<ul>\n<li class=\"paragraph\"><strong class=\"\">访问平台</strong>：访问Leewow官网 https://www.leewow.com/ 。</li>\n<li class=\"paragraph\"><strong class=\"\">输入创意</strong>：在指定区域上传图片或输入文字描述，表达想要的商品设计方向。</li>\n<li class=\"paragraph\"><strong>选择品类并生成方案</strong>：从平台提供的百余种商品类型中选定载体，AI将自动完成设计适配，输出可预览的多种风格方案。</li>\n<li class=\"paragraph\"><strong>确认下单等待收货</strong>：选定心仪方案后一键支付，系统后台自动对接供应链生产发货，数日内即可收到实物商品。</li>\n</ul>\n<a class=\"js\" href=\"https://ai-bot.cn/wp-content/uploads/2026/02/Leewow-website-1.png\" data-fancybox=\"fancybox\" data-caption=\"Leewow\"><img decoding=\"async\" class=\"alignnone wp-image-71979\" src=\"https://ai-bot.cn/wp-content/uploads/2026/02/Leewow-website-1.png\" src=\"https://ai-bot.cn/wp-content/themes/onenav/images/t.png\" alt=\"Leewow\" width=\"740\" height=\"416\"></a>"
+        "title": "如何使用 Leewow",
+        "html": "<p>按官方页面呈现的流程，用 Leewow 造一件实物商品的顺序是：</p><ol><li>打开 leewow.com 的造物入口，进入 Agent 对话界面。</li><li>用一句话描述想要的东西，或者直接上传一张原图作为设计起点。</li><li>等 Agent 生成设计稿，页面会给出多张效果预览，不满意可以重新生成。</li><li>在商品目录里挑选要把设计落到哪个品类上，存档页展示的示例是一件定制手机壳。</li><li>进入该定制作品的专属页面，核对预览图、价格和库存状态，再下单。</li><li>下单后由平台对接的工厂生产并配送，完成后可以把作品页分享给朋友。</li></ol><p>要提醒的是 leewow.com 目前打不开，想复现这套流程需要等官方站点恢复。</p>"
       },
       {
-        "title": "Leewow的应用场景",
-        "html": "<ul>\n<li class=\"paragraph\"><strong>个人表达</strong>：用户可将宠物、家人照片或AI创作转化为日常穿戴用品，满足自我展示与情感寄托需求。</li>\n<li class=\"paragraph\"><strong class=\"\">礼物定制</strong>：为朋友、家人或伴侣快速生成独一无二的生日、纪念日或节日专属礼品。</li>\n<li class=\"paragraph\"><strong class=\"\">粉丝经济</strong>：支持达人、博主将个人IP形象批量制成周边商品，打造专属品牌商店。</li>\n<li class=\"paragraph\"><strong>热点营销</strong>：快速响应社会热点或流行趋势，即时设计、上线应景主题商品。</li>\n<li class=\"paragraph\"><strong>家居装饰</strong>：根据室内风格定制匹配的装饰画、抱枕等软装物品，实现空间个性化。</li>\n</ul>"
+        "title": "Leewow 的应用场景",
+        "html": "<p>Leewow 把「AI 生成设计」和「按需生产实物」接在了同一条链路上，官方页面呈现的适用方向包括：</p><ul><li>个性化实物定制：把随手一张图或一句话变成手机壳、礼品这类只属于一个人的商品。</li><li>创作者把设计变成收入：跳过找工厂、算起订量的环节，设计出来的东西可以直接下单生产。</li><li>小批量按需生产：用按需制造替代开模与备货，适合先小量试水再决定是否放量。</li><li>跨境卖家的差异化选品：用定制商品做独立站或社交渠道上的差异款。</li><li>品牌与 IP 周边试制：把 IP 形象快速做成可售卖的实物，先看市场反应。</li></ul>"
       }
     ],
-    "updatedAt": "2026-09-27"
+    "updatedAt": "2026-10-16"
   },
   {
     "slug": "mixboard-google-com",
