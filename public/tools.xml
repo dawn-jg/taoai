@@ -3325,6 +3325,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/zhiyan-wondershare-cn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/zhiyan-wondershare-cn.png</image:loc>
+      <image:title>万兴智演 logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/mindshow-vip</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4663,6 +4672,15 @@
     <image:image>
       <image:loc>/logos/tool1387.png</image:loc>
       <image:title>微软必应推出的翻译工具 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool16079</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool16079.png</image:loc>
+      <image:title>Trytoby logo</image:title>
     </image:image>
   </url>
   <url>
@@ -7102,6 +7120,15 @@
     <image:image>
       <image:loc>/logos/nolibox-com.png</image:loc>
       <image:title>图宇宙 logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool1989</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool1989.ico</image:loc>
+      <image:title>阿里云智能logo设计 logo</image:title>
     </image:image>
   </url>
   <url>
