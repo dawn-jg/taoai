@@ -7465,6 +7465,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool8681</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool8681.png</image:loc>
+      <image:title>Vocu AI logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/udio</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

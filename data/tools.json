@@ -32952,9 +32952,9 @@
   },
   {
     "slug": "tool8681",
-    "name": "超拟真的中英文AI语音克隆/生成平台",
-    "description": "超拟真的中英文AI语音克隆/生成平台是一款AI音频工具领域的免费增值AI工具，超拟真的中英文AI语音克隆/生成平台。支持AI音频工。",
-    "url": "https://www.reecho.ai/",
+    "name": "Vocu AI",
+    "description": "Vocu AI（Vocarea Ltd）是一套 AI 语音合成与声音克隆平台，提供文本转语音、语音转换、成品音色市场与开发者 API，当前主推 Vocu V3.5 声音模型。",
+    "url": "https://www.vocu.ai/",
     "categories": [
       "ai-audio"
     ],
@@ -32967,9 +32967,26 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-clone",
     "logo": "/logos/tool8681.png",
-    "domain": "reecho.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "domain": "vocu.ai",
+    "detailed_content": [
+      {
+        "title": "Vocu AI 是什么",
+        "html": "<p>Vocu AI 是 Vocarea Ltd 推出的语音人工智能平台，官网把自己描述为「AI 声音克隆与配音合成」工具，主张让合成语音与真人录音之间的界线尽量模糊。平台当前主推的声学模型是 Vocu V3.5，官网以公告形式标注该版本已上线。从站点导航看，Vocu AI 的能力分成三条线：面向创作者的内容制作（文本转语音、语音转换、Vocu Studio）、面向挑音色的声音市场（Voice Market）与声音库（Voice Library），以及面向开发者的 API 平台。界面提供英语、简体中文、繁体中文、日语、法语五种语言，新注册账号会获得 1500 credits 的初始额度用于站内生成。</p>"
+      },
+      {
+        "title": "Vocu AI 的主要功能",
+        "html": "<p>Vocu AI 的功能围绕「找音色—生成—交付」组织，官网导航与页面文案列出的能力如下：</p><ul><li>文本转语音：输入文稿并选定音色，由 Vocu AI 直接合成配音，适合旁白、解说这类以文字为起点的内容。</li><li>语音转换：导航中设有 Voice Conversion 入口，用于把一段已有语音换成平台提供的另一种音色。</li><li>声音市场：Voice Market 按用途与音色特征陈列成品声线，Vocu AI 为每个音色配了文字描述，例如沉稳权威的纪录片旁白、清亮的动漫少女音、略带沙哑的中年男声等。</li><li>声音库与模板：Resources 下设有 Voice Library 与 Templates，用于集中管理可用音色和现成的声音方案。</li><li>Vocu Studio：创作栏目下的工作台入口，用来把多段配音组织进同一个项目。</li><li>API 平台：Developer 栏目提供接口入口，便于把 Vocu AI 的合成能力接入自有产品或内部系统。</li><li>多语言界面与新手额度：支持英、简中、繁中、日、法五种界面语言，注册赠送 1500 credits。</li></ul>"
+      },
+      {
+        "title": "如何使用 Vocu AI",
+        "html": "<ol><li>打开 Vocu AI 官网 vocu.ai，注册并登录；新账号会拿到 1500 credits 的新手额度，可先用它完成第一轮试合成。</li><li>在 Discover 下进入 Voice Market，按音色描述筛选需要的声线，官网对每种音色的气质、语速和适用内容都有说明，先试听再决定。</li><li>进入 Text to Speech，粘贴或输入文稿，选定音色后提交合成；Vocu AI 会按所选音色把文稿渲染成一段完整配音。</li><li>手上已有录音、只想换音色时，改用 Voice Conversion 入口，上传音频并指定目标音色。</li><li>需要多条音频时，在 Vocu Studio 里把素材组织成一个项目，统一调整后再导出。</li><li>要把合成能力嵌进自己的产品，则从 API Platform 申请接口权限，按官方文档完成对接。</li><li>留意 credits 的消耗节奏：Vocu AI 以 credits 计量生成，套餐与额度以官网当前页面为准，长期使用前先估算单条音频的开销。</li></ol>"
+      },
+      {
+        "title": "Vocu AI 的应用场景",
+        "html": "<ul><li>短视频口播与影视解说：把写好的脚本批量交给 Vocu AI 合成旁白，省去反复约录音的时间。</li><li>有声书与广播剧：官网音色库里有偏文学朗读、偏角色演绎的声线，可用不同音色区分叙述者与角色。</li><li>动漫与游戏配音：清亮少女音、带非人质感的低音等音色，适合角色台词与怪物音效的前期样音。</li><li>广告与品牌宣传片：需要权威、可信语气时，可选纪录片旁白型音色来承担整片解说。</li><li>课程与说明文档的听觉版本：把长文本转成语音，为不方便阅读的场景提供收听方式。</li><li>多语言素材的前期试音：Vocu AI 界面支持五种语言，可在正式录制前先用合成音确定语气与节奏方向。</li><li>使用提醒：克隆或模仿他人声音涉及肖像与声音权益，商用前应确认授权；Vocu AI 采用免费增值模式，付费档位与具体价格以官网为准。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-10-18"
   },
   {
     "slug": "udio",
