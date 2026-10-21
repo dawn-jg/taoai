@@ -1,0 +1,75 @@
+
+> ai-nav-site@0.1.0 build
+> node scripts/generate-sitemap.mjs && next build && node scripts/cleanup-out.mjs
+
+tools.xml: 收录 699/1177 个工具页（其余 478 个为 noindex，不提交）
+tutorials.xml: 收录 0/56 个教程页
+news.xml: 收录 15/15 条快讯详情页
+Generated tools.xml (190696 bytes)
+Generated categories.xml (2197 bytes)
+Generated static-pages.xml (1439 bytes)
+Generated news.xml (3063 bytes)
+Generated sitemap-index.xml (553 bytes)
+sitemap.xml updated (mirror of sitemap-index.xml)
+robots.txt Sitemap line updated
+▲ Next.js 16.2.6 (Turbopack)
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 8.5s
+  Running TypeScript ...
+  Finished TypeScript in 8.2s ...
+  Collecting page data using 3 workers ...
+  Generating static pages using 3 workers (0/2454) ...
+  Generating static pages using 3 workers (613/2454) 
+  Generating static pages using 3 workers (1226/2454) 
+  Generating static pages using 3 workers (1840/2454) 
+✓ Generating static pages using 3 workers (2454/2454) in 32.9s
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+├ ○ /_not-found
+├ ○ /about
+├ ○ /authors
+├ ● /categories/[category]
+│ ├ /categories/ai-writing
+│ ├ /categories/ai-image
+│ ├ /categories/ai-video
+│ └ [+12 more paths]
+├ ○ /contact
+├ ○ /content
+├ ● /content/[slug]
+│ ├ /content/deepseek
+│ ├ /content/chatgpt
+│ ├ /content/doubao
+│ └ [+1174 more paths]
+├ ○ /editorial-policy
+├ ○ /news
+├ ● /news/[slug]
+│ ├ /news/frontier-models-leap-ai-governance-test
+│ ├ /news/chinese-ai-models-international-adoption-surge
+│ ├ /news/hkgai-hongkong-ai-model-goes-global
+│ └ [+12 more paths]
+├ ○ /privacy
+├ ○ /search
+├ ○ /sources
+├ ● /tools/[slug]
+│ ├ /tools/deepseek
+│ ├ /tools/chatgpt
+│ ├ /tools/doubao
+│ └ [+1174 more paths]
+├ ○ /tutorials
+└ ● /tutorials/[slug]
+  ├ /tutorials/hands-on-cursor-10min
+  ├ /tutorials/vibe-coding-guide-intro
+  ├ /tutorials/ai-coding-6-models-review
+  └ [+53 more paths]
+
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses generateStaticParams)
+
+Before cleanup: 23274 files
+Deleted .txt files: 19603
+After cleanup: 3671 files
+Saved: 19603 files
