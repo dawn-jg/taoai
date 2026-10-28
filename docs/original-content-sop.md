@@ -131,3 +131,14 @@ npm run build
 18. **抓不到素材的三步兜底顺序，不要跳步也不要乱序。** 同一条目依次尝试：① 直连抓首页 → ② 代理 + curl 抓首页 → ③ 渲染读取服务读官网（必要时再试官方子页）。只有当三步都拿不到可写事实时才判定「素材缺失」并跳过；**禁止据空素材编造**。另外，任何来源抓回来都要再做一次「名称—页面」核对，页面主题与 DB 里的工具名不符（含渲染到登录页、错误页、别家产品页、同名撞页的情况）一律作废。
 19. **渲染读取服务的请求头有两处坑，都会让整批素材静默作废。** ① **不要带浏览器 User-Agent**：给 `r.jina.ai` 传 Chrome UA 会直接被 Cloudflare 挡回「Just a moment...」挑战页，而同一批请求去掉 `-A` 后立刻正常返回正文，因此批量抓取时保持 curl 默认 UA 即可。② **并发会触发限流**：4 路以上并发时同样会整批返回挑战页；压到 2 路、每次请求间隔 2–3 秒后恢复。建议的调用形态是 `curl -sL -H "X-Return-Format: markdown" -H "x-no-cache: true" -H "x-timeout: 25" --proxy http://127.0.0.1:7897 https://r.jina.ai/<官网 URL>`。另外该服务对纯前端站点只渲染首屏，中文 SPA 仍常常只回几十字，**渲染不是万能钥匙**，命中率需实测后再决定是否继续投入。
 20. **素材池正在变薄，单批产出要按实测素材量定，不要预设 20 条。** 第二十二批 758 条待写里，名称干净度预筛后仅 154 条，其中缓存有效 78 条（且大多是历史渲染失败留下的 JSON 错误缓存），把描述性名称与 ERROR 缓存剔除后，真正能写出 ≥700 字的只有 18 条；这一批用「直连 + 代理 curl + 渲染读取 + 官方子页」四轮合计抓取近百个 URL，只换来 2 条新增可用素材。结论：**当某一批四轮抓取后可用素材仍不足 20 条时，宁可少写、也不要用空素材凑数**，把条目数如实上报。
+21. **代理 + curl 抓不到时，先怀疑 Git Bash 的 schannel，加 `--tls-max 1.2`。** 典型症状：`CONNECT <host>:443` 拿到 `HTTP/1.1 200 Connection established`，上游也已经回了 `HTTP/1.1 200 OK`，随后出现
+    `schannel: remote party requests renegotiation` → `schannel: failed to decrypt data, need more data`，最终 `curl (35)` / HTTP 000。
+    **这是 Git Bash 自带 curl 的 schannel 后端处理 TLS 1.3 renegotiation 的缺陷，与目标站点是否存活无关。**
+    实测同一 URL（`https://lumalabs.ai`）不带该参数返回 000，加 `--tls-max 1.2` 后立刻 200 / 306 KB；
+    `--tlsv1.2 -k`、`--ssl-no-revoke --tls-max 1.2`、`-k --http1.1 --tls-max 1.2` 等效。
+    因此**所有经代理的 curl 抓取一律带上 `--tls-max 1.2`**，否则会把客户端故障误判成「域名已死」，
+    进而误删还活着的条目。→ 曾据此连续 5 批把 26 个域名全判 000/已死，其中 5 个实际可达（第 117 批纠正）。
+22. **判断域名是否真的消失，用「第三方独立网络」做解析，不要用本机超时。** 本机能连不上可能只是本地 DNS 污染、路由或代理问题；
+    让一个与你无关的渲染/抓取服务去访问，它返回的 `Domain 'x.com' could not be resolved` / `Failed to resolve domain (EAI_AGAIN)`（42203/42205）
+    才是「公共 DNS 已无此域名」的硬证据，可以直接作为下线条目的依据；返回 `ERR_CONNECTION_CLOSED` / `Timeout` 则只说明站点不响应，仍需其它旁证。
+
