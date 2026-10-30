@@ -1,6 +1,6 @@
 # 原创内容生产：待决事项（需人工授权）
 
-> 更新时间：2026-10-30（第 126 批）
+> 更新时间：2026-10-31（第 127 批）
 > 用途：把「为什么产能为 0」和「解开它需要批准什么」压缩到一页，供编辑部一次性决策。
 > 事实来源：`data/tools.json`、`data/tool_profiles.json`、`public/tools.xml`、抓取实测（见各批次记录 `_content_batch_2026-10-30_b*.md`）。
 
@@ -29,6 +29,16 @@
 | D. 产品已停运 / 主体变更 | 约 4 | `tool216`（Zyro 该工具停运）、`tool1890`（Neeva 关停）、`hotshot-co`（域名易主为数码博客）、`tool1079`（阿里云登录页，非工具） | 无在营产品，页面不该存在 |
 
 > 归组依据为实测抓取结果（`textSample` 长度、HTTP 状态、页面 title 与 DB 名称是否一致）。条数为近似值，逐条明细见各批次记录。
+
+### 第 127 批新增确证（可直接执行，无需再核）
+
+| slug | 实测结果 | 处置 |
+|---|---|---|
+| `tool150`（AI高保真原型设计） | `www.usegalileo.ai` 301 → `stitch.withgoogle.com`，而 `tool73947` 已收录该域名且已在原创池 | **重复项，合并/下线** |
+| `tool3006`（LogoliveryAI） | 官网首页为清算公告「Logolivery, Inc. has been officially liquidated」 | **确认注销，清理** |
+| `phind-com` | 首页与 `/about` 均返回 Vercel 404，无产品文案 | 维持不可写 |
+| `hotshot-co` | 实为科技博客「Your everyday tech guide」，无产品功能与定价 | 维持名实不符 |
+| `tool2676`（175FUN） | 仍取回失败，与此前 DoH `Status=3` NXDOMAIN 一致 | 维持域名注销 |
 
 ## 三、三件待批准的事（按投入产出排序）
 
