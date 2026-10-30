@@ -1,91 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://taoai365.com/news/marvell-lumentum-acquisition-optics-ai-datacenter</loc>
+    <loc>https://taoai365.com/news/waas-shanghai-ai-for-science-2026</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/news/claude-carplay-openai-pro-quota</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/news/google-suncatcher-datacenter-satellite</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/news/embodied-ai-delivery-stage-2026</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/news/physical-ai-slow-fast-brain-qiyuan</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/news/token-factory-2-ascend-950dt-xiamen</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/news/domestic-ai-chip-system-level-advantage</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/news/deepseek-105-5-billion-funding-state-27pct</loc>
     <lastmod>2026-10-30</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://taoai365.com/news/cohere-205-billion-valuation-nvidia-canada-funding</loc>
-    <lastmod>2026-10-30</lastmod>
+    <loc>https://taoai365.com/news/compute-chain-q3-earnings-2026</loc>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://taoai365.com/news/wabi-55-million-funding-personal-ai-agent</loc>
-    <lastmod>2026-10-30</lastmod>
+    <loc>https://taoai365.com/news/algorithm-law-ethics-boundary</loc>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://taoai365.com/news/fde-forward-deployed-engineer-manufacturing</loc>
-    <lastmod>2026-10-30</lastmod>
+    <loc>https://taoai365.com/news/ai-opc-zhejiang-ten-measures</loc>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://taoai365.com/news/tencent-ai-pressure-wechat-xiaowei-hy3</loc>
-    <lastmod>2026-10-30</lastmod>
+    <loc>https://taoai365.com/news/huaxi-huawei-medical-ai-haip</loc>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://taoai365.com/news/zhiyuan-2wan-robots-g2-max-deployment</loc>
-    <lastmod>2026-10-30</lastmod>
+    <loc>https://taoai365.com/news/global-data-commerce-conference-shanghai-2026</loc>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://taoai365.com/news/jd-qixian-robot-kitchen-beijing-store</loc>
-    <lastmod>2026-10-30</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://taoai365.com/news/albert-foxconn-futekang-humanoid-production</loc>
-    <lastmod>2026-10-30</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://taoai365.com/news/auto-ai-agent-shallow-water-2026</loc>
-    <lastmod>2026-10-30</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://taoai365.com/news/agent-security-cncc-2026-boundary</loc>
-    <lastmod>2026-10-30</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://taoai365.com/news/huawei-ai-accelerator-28-percent-share</loc>
-    <lastmod>2026-10-30</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://taoai365.com/news/china-ai-off-track-rebuttal-people-daily</loc>
-    <lastmod>2026-10-30</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://taoai365.com/news/green-power-compute-coordination-guiyang</loc>
-    <lastmod>2026-10-30</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://taoai365.com/news/rokid-color-ai-glasses-ring</loc>
-    <lastmod>2026-10-30</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://taoai365.com/news/tsinghua-ai-hospital-medical-forum</loc>
+    <loc>https://taoai365.com/news/wuxi-iot-expo-icpr-2026</loc>
     <lastmod>2026-10-30</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
