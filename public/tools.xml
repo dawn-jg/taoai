@@ -6574,6 +6574,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://taoai365.com/tools/tool111</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool111.png</image:loc>
+      <image:title>Devin logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://taoai365.com/tools/xingliu-ai</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -7129,6 +7138,15 @@
     <image:image>
       <image:loc>/logos/tool122.png</image:loc>
       <image:title>Uizard AI logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tools/tool923</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>/logos/tool923.png</image:loc>
+      <image:title>Luma logo</image:title>
     </image:image>
   </url>
   <url>

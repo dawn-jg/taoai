@@ -28893,7 +28893,7 @@
   },
   {
     "slug": "tool111",
-    "name": "Reply Logo",
+    "name": "Devin",
     "description": "Reply Logo是一款AI编程工具领域的免费AI工具，免费的AI编程工具，智能生成和补全代码。支持AI编程工。",
     "url": "https://www.codeium.com",
     "categories": [
@@ -28909,8 +28909,25 @@
     "subcategory": "ai-coding-generator",
     "logo": "/logos/tool111.png",
     "domain": "codeium.com",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Devin 是什么",
+        "html": "<p>Devin 是面向软件工程的 AI 智能体产品，官网当前以 Devin Desktop 作为主入口，把自己定义为「你运行的每一个 agent 的家」：无论在本地还是云端，都能从同一个指挥中心管理智能体，完成计划、审阅与交付。这一定位说明 Devin 不只是单个编码助手，而是一层调度界面，把多个代理、多个模型和代码仓库里的任务会话收拢在一个面板里。官网导航分为产品、解决方案、资源、客户、定价与博客，并提供注册、登录与 macOS 桌面端下载入口，企业客户另走 Cognition Platform 通道。</p>"
+      },
+      {
+        "title": "Devin 的主要功能",
+        "html": "<p>Devin Desktop 的界面按会话、代理、环境三层组织，官网演示的能力包括：</p><ul><li>统一指挥中心：借助 Agent Client Protocol，把常用的 agent 与多家前沿模型放在同一处调度，不必在多个工具之间来回切换。</li><li>会话看板：Sessions 提供列表与看板两种视图，按运行中、等待审阅、已完成等状态归类任务，并显示每个任务对应的 Pull request 与执行它的 agent。</li><li>多子代理并行：官网示例中一个计费系统迁移任务被拆给八个子代理，最终汇总成十六个 PR，主会话只负责协调与收口。</li><li>自动任务：侧栏设有 Automations，可把周期性工作如依赖升级、测试修复、文档同步配置成自动触发。</li><li>安全审阅与知识库：界面提供 Security Review 与 Wiki 两个模块，前者检查改动引入的风险，后者沉淀项目背景，减少每次重新解释的成本。</li><li>云端环境常驻：官网强调开发环境跟着账号走，合上笔记本换一台机器，环境仍在运行。</li><li>本地模式：Devin Local 让 agent 在本地执行，便于直接对接本地文件与调试环境。</li></ul>"
+      },
+      {
+        "title": "如何使用 Devin",
+        "html": "<ol><li>打开 codeium.com，注册或登录；需要桌面端时从 Download 获取 macOS 版本。</li><li>新建会话，用自然语言写清目标，例如从零实现一个标量自动微分引擎，或把计费模块迁到新版网关。</li><li>选定执行本次任务的 agent 与模型；协议层支持接入多家模型，可按任务难度切换。</li><li>在会话里跟踪 Devin 的推理与改动，它会边写边说明设计取舍，便于中途纠偏。</li><li>任务较大时让它派生多个子代理，按模块拆分并行推进，再回到看板统一收口。</li><li>在 Board 视图中逐个审阅状态与 Pull request，确认测试通过后再合并。</li><li>把重复性工作写成 Automations，交给 Devin 按条件自动开新会话。</li><li>团队可先用 Devin Local 在本地验证，再切到云端环境协作；企业版走 Cognition Platform 开通。</li></ol>"
+      },
+      {
+        "title": "Devin 的应用场景",
+        "html": "<ul><li>存量系统迁移：把一次大改造拆成多个可独立审阅的 PR，降低合并风险。</li><li>测试补齐与不稳定测试修复：让 agent 定位偶发失败的用例并补上断言。</li><li>文档与接口说明同步：代码改动之后同步更新 API reference。</li><li>小团队并行开发：一名工程师同时指挥多个 agent 推进不同模块。</li><li>跨设备续跑：环境在云端保留，通勤或换机器时不中断。</li><li>注意事项：Devin 属免费增值形态，具体套餐以官网 Pricing 为准；agent 产出的代码仍应经人工审阅与 CI 通过后再合并，安全审阅模块不能替代团队的代码审查制度。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-11-01"
   },
   {
     "slug": "duiyou-ai",
@@ -31449,7 +31466,7 @@
   },
   {
     "slug": "tool923",
-    "name": "AI 3D捕捉、建模和渲染",
+    "name": "Luma",
     "description": "AI 3D捕捉、建模和渲染是一款AI设计工具领域的免费增值AI工具，AI 3D捕捉、建模和渲染。支持AI设计工。",
     "url": "https://lumalabs.ai",
     "categories": [
@@ -31465,8 +31482,25 @@
     "subcategory": "ai-design-graphic",
     "logo": "/logos/tool923.png",
     "domain": "lumalabs.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
+    "detailed_content": [
+      {
+        "title": "Luma 是什么",
+        "html": "<p>Luma 是面向创意工作的 AI 平台，官网的自我定位写作「AI Agents for Creative Work」，也就是用创意代理把脑中的想法落成可交付的素材。它的使命声明更宏观：构建统一的通用智能，使其能够生成、理解并在物理世界中行动。与只提供一个生成接口的工具不同，Luma 把视频、图像、音频、文本四类能力放在同一个工作台里，再由代理按任务把它们串成流程。官网主导航分为产品、定价、API、企业版与新闻几栏，并把「AI 视频生成」与「图生视频」各做成独立入口，可见视频仍是它最核心的落地面。官网还提到团队常驻美国帕洛阿尔托，并设有 Learning Center 收录工作流与最佳实践。</p>"
+      },
+      {
+        "title": "Luma 的主要功能",
+        "html": "<p>Luma 把能力分成模型层与代理层两部分，官网对两者的说明如下：</p><ul><li>创意代理：Luma 的 Agents 会围绕视频、图像、音频与文本做调研、生成与反复迭代，并在多轮产出之间维持品牌调性。官网描述的使用节奏是「站会前拿出十个方向、下班前交付五十个变体」。</li><li>Ray 视频模型：官网称 Ray 系列为自研视频生成模型，当前版本 Ray 3.2 强调像导演拍摄那样控制画面，逐帧可调、跨剪辑保持连续性、成片达到电影级画质。</li><li>Uni-1 品牌智能：官网把 Uni-1 描述为模型层面的品牌智能，生成时会带入风格参考、角色参考与视觉依据，使同一批素材看起来出自同一套视觉系统。</li><li>任务模板：首页演示了三类常见创意任务，分别是产品主图、付费社交素材变体与预告片剪辑。</li><li>Luma Skills：官网新闻栏介绍，Skills 用于把一套创意流程搭建一次后长期复用，适合重复性高的周期性产出。</li><li>开放研究计划：官网列出 The Open Physical AI Lab，以开放科学的方式推进物理 AI 的泛化问题。</li><li>API 与企业版：导航提供 API 与 Enterprise 两个通道，供团队把 Luma 的视频生成能力接进自有系统或生产流程。</li></ul>"
+      },
+      {
+        "title": "如何使用 Luma",
+        "html": "<ol><li>打开 lumalabs.ai，用 Sign In 登录或先注册账号；首页的 Try for free 可以直接进入体验。</li><li>按目标选入口：从文字出发就走 AI Video Generator，拿现成图片当首帧就走 AI Video Generator from Image。</li><li>用一两句话描述镜头与主体；需要锁定风格或角色时附上参考图作为视觉依据，让 Luma 沿用同一套参考。</li><li>选择模型。在意镜头控制与剪辑衔接时选 Ray 3.2；更在意整批素材品牌一致时，让 Uni-1 承担风格与角色参考。</li><li>先生成少量方向做筛选，再对选中方向批量扩变体，避免一次性堆量后难以挑选。</li><li>周期性的产出（例如每周社媒素材）用 Luma Skills 固化成工作流，之后按周期重复运行。</li><li>团队接入可走 API 或 Enterprise；具体额度与套餐价格以官网 Pricing 页为准。</li><li>上手前建议先看 Learning Center 里的官方工作流示例，少走弯路。</li></ol>"
+      },
+      {
+        "title": "Luma 的应用场景",
+        "html": "<ul><li>品牌营销素材：产品主图、付费社交图文的多版本并行产出，在同一套视觉规范下快速试不同卖点。</li><li>短片与预告：从一段描述扩成分镜，再用 Ray 3.2 逐帧调镜头，剪出十几秒到三十秒的 teaser。</li><li>系列化内容：需要角色形象长期稳定的账号或 IP，靠 Uni-1 的角色参考维持一致性。</li><li>代理商提案：客户会议前先出多个方向，把讨论从「要不要做」推进到「选哪一个」。</li><li>开发者集成：把视频生成能力通过 API 嵌进自有产品或内部工具。</li><li>注意事项：Luma 属免费增值形态，具体价格与商用授权范围以官网 Pricing 与条款为准；生成内容涉及的人物肖像、商标与版权风险仍需在发布前人工复核。</li></ul>"
+      }
+    ],
+    "updatedAt": "2026-11-01"
   },
   {
     "slug": "nolibox-com",
