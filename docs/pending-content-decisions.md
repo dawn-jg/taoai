@@ -156,3 +156,15 @@
 
 → 五名待清理条目新增确认：`telehire-ai`、`xanswer-com`、`humva-ai`、`6pen-art`、`voxcraft-ai`。
 
+## 六、第 135 批补充（33 条重新实测，新增 1 条合并硬证据 + 1 条口径更正）
+
+- **新增硬证据（合并）**：`seelesai-go-link` 直连现为 189 KB 服务端渲染页，title「Best No-Code AI Game Maker for 2D/3D Games」，
+  页面出现 `seele*` 品牌词 81 次；`seelesai.go.link/kw8uW` 为 `www.seeles.ai` 分享短链 → 与 `tool14989` SeeleAgent **同一产品**，
+  处置为合并，不补第二份正文。（此前记为「SPA 正文 42 字，判不了」，本批已可定性。）
+- **新增硬证据（下线）**：`tool14278` MidReal 可见正文 1180 字全为停运告别信（meta description 仍宣传产品，**不可据 meta 取材**）；
+  `tool3006` LogoliveryAI 正文 214 字「Logolivery, Inc. has been officially liquidated」。
+- **口径更正**：b134 第九节「队列外 8 条名称门槛即失败」表述有误。按 `isCleanToolName()` 复算，**50/50 语法层全部通过**；
+  其中 8 条属**语义层不可用**（描述性长句），不是语法校验失败。后续引用勿混。
+- **提示词失效**：任务提示词写「1210 条 / 可索引 35 / 剩余 1175」，实况 1177 / 1127 / 50，差距 1.03× / 32× / 23.5×。
+
+
