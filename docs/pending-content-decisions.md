@@ -181,4 +181,26 @@
 - **任务提示词第三次判为失效**：1177 / 1127 / 50 对 1210 / 35 / 1175。**若任务目标不变，第 66 批仍会是 0**，
   建议本轮之后直接切 ① 或降频至每周巡检。
 
+## 八、第 137 批补充（渲染通道定向复验 13 条，新增 2 条「域名无解析」硬证据）
+
+上批（b136）只跑直连通道。本批改跑**渲染读取通道**（`r.jina.ai`，无浏览器 UA、串行 3 秒间隔、17 个 URL），
+专挑「名称是干净品牌名、理论上有机会通过含自身名校验」的条目，避免重复同一条通道：
+
+| slug | 实测 | 处置 |
+|---|---|---|
+| `etna-7volcanoes-com` | 42203 `Domain 'etna.7volcanoes.com' could not be resolved` | **下线硬证据（新增）** |
+| `tool2676`（175FUN） | 42203 `Domain '175.fun' could not be resolved` | **下线硬证据**（此前仅 DoH NXDOMAIN，现由第三方网络独立佐证） |
+| `tool67418`（GetDraft） | 200，可见正文「GetDraft has ceased operations」，导出通道开放至 2026-12-31、余额转「得到大脑」 | **确认停运 → 清理**（b135 记「8 字符空壳」，本批拿到真实文案） |
+| `moyin-com`（魔撰写作） | 200 / 75 KB，title「魔音工坊」 | 与 `tool1924` 重复 → **合并** |
+| `miaohui-jixueai-com`（秒绘AI） | 200，title「创大产控」 | 主体更换 → 清理（与 b128 一致） |
+| `tool66554`（造次） | 42206 `Unexpected empty file` | 无素材 |
+| `writingpal-ai` / `miantuan-knowfuture-com-cn` | 422 导航 Timeout | 站点不响应 |
+| `voxcraft-ai` / `tool7424`（XPaper） | 422 导航 AssertionFailure | 站点不响应 |
+| `tool1957`（AIDesign） | `ailogo.qq.com` → 40305「解析到非公开 IP 0.0.0.1」；`idesign.qq.com` → 422 | 解析被黑洞，无主体 |
+| `phind-com` | 首页 / `/docs` / `/about` 均为 Cloudflare「Just a moment...」 | 维持不可写 |
+| `humva-ai` | 200 / 163 B「Redirecting...」 | 停放域名 |
+
+→ 本批新增可执行清理 2 条（`etna-7volcanoes-com`、`tool2676` 域名已无公共解析）、升级 1 条（`tool67418` 由「空壳」升为「确认停运」）。
+**四条通道至此全部闭合，b77–b137 共 61 轮零翻转；工具页可写池 = 0 这一结论不再需要新取证。**
+
 
