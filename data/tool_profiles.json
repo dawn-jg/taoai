@@ -27117,6 +27117,84 @@
           "html": "<ul><li>存量系统迁移：把一次大改造拆成多个可独立审阅的 PR，降低合并风险。</li><li>测试补齐与不稳定测试修复：让 agent 定位偶发失败的用例并补上断言。</li><li>文档与接口说明同步：代码改动之后同步更新 API reference。</li><li>小团队并行开发：一名工程师同时指挥多个 agent 推进不同模块。</li><li>跨设备续跑：环境在云端保留，通勤或换机器时不中断。</li><li>注意事项：Devin 属免费增值形态，具体套餐以官网 Pricing 为准；agent 产出的代码仍应经人工审阅与 CI 通过后再合并，安全审阅模块不能替代团队的代码审查制度。</li></ul>"
         }
       ]
+    },
+    "deepseek": {
+      "updated": "2026-11-04",
+      "sources": [
+        "https://api-docs.deepseek.com/zh-cn/",
+        "https://api-docs.deepseek.com/zh-cn/quick_start/pricing",
+        "https://www.deepseek.com/news"
+      ],
+      "sections": [
+        {
+          "title": "DeepSeek 是什么",
+          "html": "<p>DeepSeek 是杭州深度求索人工智能基础技术研究有限公司（深度求索）推出的 AI 助手与模型服务。官网把入口分成三条线：网页版与手机 App 面向普通使用者，Harness 桌面端面向开发者，API 开放平台面向把模型接进自家系统的团队。研究与动态页按版本记录模型迭代，从 V3、R1 一路到 V3.1、V3.2，再到 2026 年的 V4 与 V4.1 Flash；官方对 V4.1 Flash 的说明是原生多模态视觉理解、非对称模型结构、能力更强而成本更低。对多数访客来说，DeepSeek 是打开网页就能对话的助手；对开发者来说，它是一个同时兼容 OpenAI 与 Anthropic 两种接口格式的模型后端。</p>"
+        },
+        {
+          "title": "DeepSeek 的主要功能",
+          "html": "<p>按官方文档与价格页的说明，DeepSeek 当前提供的能力包括：</p><ul><li>思考与非思考双模式：官方模型表标注默认进入思考模式，也可切换到非思考模式，按问题难度在推理深度与响应速度之间取舍。</li><li>长上下文与长输出：模型表给出的上下文长度为 1M，最大输出长度为 384K，适合整本文档与长日志的处理。</li><li>结构化与工具调用：支持 JSON Output、Tool Calls、Responses API，以及对话前缀续写（Beta）与 FIM 补全（Beta，仅非思考模式）。</li><li>图像理解：目前只在 deepseek-flash 上提供，deepseek-v4-pro 不支持该能力。</li><li>网页搜索与抓取接口：官方说明 Search 与 Fetch 是独立 API，使用自研搜索引擎，按成功请求次数计费。</li><li>两种接口格式：base_url 分别指向 api.deepseek.com 与 api.deepseek.com/anthropic，可以直接套用 OpenAI 或 Anthropic 的 SDK。</li><li>Agent 工具接入：文档列出 DeepSeek Harness、Claude Code、Codex、OpenCode、OpenClaw、Hermes、Reasonix、Qoder 等，可把 DeepSeek 当作这些编程与智能体工具的后端模型。</li><li>分时计费：按百万 tokens 结算，缓存命中价低于未命中价，空闲时段单价为高峰时段的一半；北京时间工作日 9:00–12:00 与 14:00–18:00 属高峰时段。</li></ul>"
+        },
+        {
+          "title": "如何使用 DeepSeek",
+          "html": "<ol><li>直接对话：打开 deepseek.com 使用网页版，或在「应用下载」获取手机 App；需要本地开发环境可了解 Harness 桌面端。</li><li>接入自有系统时，先在 API 开放平台申请 API key，并把密钥放进环境变量 DEEPSEEK_API_KEY。</li><li>选择模型名：日常与需要看图的任务用 deepseek-flash，复杂推理用 deepseek-v4-pro。官方提示旧模型名仍可调用，但请求会由 V4.1-Flash-1017 提供服务并按 Flash 价格计费。</li><li>按现有技术栈挑接口格式：原本用 OpenAI SDK 的把 base_url 指向 api.deepseek.com；用 Anthropic SDK 的指向 api.deepseek.com/anthropic，其余请求结构保持不变。</li><li>在请求体里通过 thinking 与 reasoning_effort 控制思考强度，需要边生成边返回时把 stream 设为 true。</li><li>估算成本时先算输入输出 token 量，再对照高峰与空闲时段的单价，以及缓存是否命中；Search 与 Fetch 单独按成功请求次数计费。</li><li>上线前核对并发上限，官方表格给出 flash 与 pro 两档不同的并发参考值，流量大的业务按限速与隔离文档做分桶。</li></ol>"
+        },
+        {
+          "title": "DeepSeek 的应用场景",
+          "html": "<ul><li>日常问答与资料整理：网页版直接对话，把分散的问题集中处理，适合非技术用户入门。</li><li>代码理解与生成：配合 Claude Code、Codex、OpenCode 等编程工具，把 DeepSeek 作为后端模型使用，无需改写工具本身。</li><li>需要实时信息的应用：调用 Search 与 Fetch 接口，补上模型训练数据之外的最新网页内容。</li><li>长文档处理：1M 上下文适合整本手册、完整日志的阅读、摘要与交叉比对。</li><li>图像类任务：用支持图像理解的 flash 模型做看图问答与截图解读。</li><li>注意事项：DeepSeek 属免费增值形态，网页与 App 可直接使用，API 按 token 计费，具体单价以官网价格页为准；模型迭代较快，接入方应固定模型名并定期确认是否已下线。</li></ul>"
+        }
+      ]
+    },
+    "chatgpt": {
+      "updated": "2026-11-04",
+      "sources": [
+        "https://openai.com/chatgpt/overview/",
+        "https://help.openai.com/en/articles/6783457-what-is-chatgpt",
+        "https://openai.com/index/chatgpt/"
+      ],
+      "sections": [
+        {
+          "title": "ChatGPT 是什么",
+          "html": "<p>ChatGPT 是 OpenAI 推出的 AI 助手，2022 年 11 月 30 日以《Introducing ChatGPT》一文对外发布；官方帮助中心把它的工作方式描述为在 GPT-3.5 基础上做微调、再用人类反馈强化学习（RLHF）优化对话的语言模型产品。OpenAI 现在把 ChatGPT 概括为一处完成聊天、工作与写代码：Chat 负责提问、学习与日常协助，Work 负责把任务做成文档、幻灯片、表格、图表、PDF 等交付物，Codex 负责编码与技术工作。官网提供网页版与桌面、移动客户端下载，个人可免费注册使用，团队与企业另有 Business 与 Enterprise 通道，教育场景单列 Higher Education 与 K–12 Teachers 方案。</p>"
+        },
+        {
+          "title": "ChatGPT 的主要功能",
+          "html": "<p>官网导航与功能页列出的能力可以分成几组：</p><ul><li>三种工作形态：Chat 面向问答与学习，可联网搜索、生成图像、比较选项；Work 直接产出可交付文件；Codex 覆盖从理解、计划到编写、测试、审阅、上线的完整编码流程。</li><li>深度研究：Deep Research 面向需要多来源检索与汇总的题目，输出带出处的中长报告。</li><li>图像能力：Images 支持生成与修改图片，可结合对话上下文逐步调整。</li><li>语音对话：Voice 提供口语交互，适合口述提问、听说练习与免手操作场景。</li><li>插件与外部应用：Plugins 体系可接入 Canva、Spotify、PowerPoint 等，也能直接与 PDF、表格对话。</li><li>学习模式：Study Mode 面向教学，按步骤讲解而不是直接抛出答案。</li><li>团队协作：Slack and Teams、Sites、Slides、Space 把使用面从个人扩展到团队协作与知识沉淀。</li><li>数据控制：帮助中心说明个人可在隐私门户选择不用自己的内容训练模型，并指出 Business 与 Enterprise 的内容默认不用于训练。</li></ul>"
+        },
+        {
+          "title": "如何使用 ChatGPT",
+          "html": "<ol><li>打开 chatgpt.com 注册账号，免费额度即可开始对话，需要客户端时从官网下载桌面或移动版。</li><li>在输入框写清任务、背景与期望格式；任务较长时先让 ChatGPT 复述理解，确认无误再让它动手。</li><li>需要外部资料时开启联网搜索或上传文件，直接对 PDF、表格提问，让它按文件里的内容作答。</li><li>要产出文档、幻灯片或表格时切到 Work，把已有素材与模板要求一并交代，让它生成可下载的交付物。</li><li>写代码或改仓库时用 Codex，先要一份计划，再逐步让它改文件、跑测试、提交审阅。</li><li>语音场景用 Voice，适合口述提问与语言练习；需要分步教学时切换 Study Mode。</li><li>在设置或隐私门户里决定是否允许内容用于训练；涉及敏感信息时不要直接粘贴到对话里。</li><li>团队使用走 Business 或 Enterprise 席位，由管理员配置成员权限与数据边界。</li></ol>"
+        },
+        {
+          "title": "ChatGPT 的应用场景",
+          "html": "<ul><li>写作与改稿：把粗略笔记、会议记录整理成结构清晰的文稿。</li><li>学习与讲解：让 ChatGPT 用例子拆解概念，或用 Study Mode 按步骤带练题目。</li><li>办公交付物：把零散材料转成幻灯片、把表格数据转成图表。</li><li>编码协作：用 Codex 做缺陷定位、测试补齐与重构，改动逐条审阅后合并。</li><li>信息检索：用 Deep Research 汇总多来源资料并核对出处。</li><li>注意事项：ChatGPT 可免费使用，Go、Plus、Pro、Business、Enterprise 属订阅分层，价格以官网 Pricing 页为准；帮助中心明确提示输出可能不准确或不完整，事实性结论需自行复核。</li></ul>"
+        }
+      ]
+    },
+    "qwen": {
+      "updated": "2026-11-04",
+      "sources": [
+        "https://tongyi.aliyun.com",
+        "https://help.aliyun.com/zh/model-studio/",
+        "https://help.aliyun.com/zh/model-studio/models"
+      ],
+      "sections": [
+        {
+          "title": "通义千问 是什么",
+          "html": "<p>通义千问是阿里云推出的 AI 助手，网页入口为 tongyi.aliyun.com，官网当前的品牌写法是「千问」。它背后的模型系列是 Qwen，同一套模型通过阿里云百炼（Model Studio）以 API 形式对外开放。百炼文档把模型服务概括为提供文本、视觉、语音、全模态及向量模型 API，支持在线调用、推理调度与模型训练，并按档位区分：qwen3.8-max 主打旗舰与最强效果，qwen3.7-plus 是性能、速度与成本的均衡选择，qwen3.8-flash 主打速度与高性价比。对普通用户，通义千问是打开网页就能提问的助手；对开发者，它是一组可按任务难度选型、按 token 计费的模型接口。</p>"
+        },
+        {
+          "title": "通义千问 的主要功能",
+          "html": "<p>按百炼模型文档的分类，通义千问背后的能力覆盖以下几块：</p><ul><li>文本与视觉理解：生成文本，理解图像与视频内容并返回文本描述或结构化结果，max 与 plus 档都覆盖视觉理解。</li><li>图像生成：从文字描述生成图像，文档列出 qwen-image-3.0-pro 等模型，支持编辑与参考图、高分辨率输出。</li><li>视频生成与编辑：覆盖文生视频、图生视频与参考生视频，另有视频编辑模型。</li><li>语音能力：语音识别分实时与非实时两类，语音合成适用于有声阅读与播报，端到端语音转语音模型不必分别调用识别与合成。</li><li>全模态：qwen3.8-omni-flash 等模型融合文本、图像、音频、视频的理解与生成，可通过 Chat Completions 或 Responses 调用。</li><li>向量与检索：文本向量、图文向量与重排序模型，用于提升检索与召回精度。</li><li>决策与 3D：结构化决策模型一次前向完成分类与评分并返回置信度；3D 生成支持文生 3D 与图生 3D。</li><li>兼容接口：百炼提供 OpenAI 兼容的调用方式，示例 base_url 指向 compatible-mode 路径，认证使用 DASHSCOPE_API_KEY。</li></ul>"
+        },
+        {
+          "title": "如何使用通义千问",
+          "html": "<ol><li>直接使用：打开 tongyi.aliyun.com，登录阿里云账号后即可对话，页面上另有「千问办公」等应用入口。</li><li>选档位：按任务难度在 max、plus、flash 之间取舍，复杂推理与编程用 max，日常批量任务用 flash 控制成本。</li><li>开通服务：在阿里云百炼控制台开通模型服务并创建 API Key，把密钥写入环境变量 DASHSCOPE_API_KEY。</li><li>发起调用：沿用 OpenAI SDK，把 base_url 换成百炼的兼容模式地址、model 换成对应模型名，即可用原有代码发起请求。</li><li>组合能力：需要看图时换视觉理解模型，需要配音时接语音合成，需要检索增强时配合向量与重排序模型。</li><li>核对计费：按输入输出 token 结算，单价与免费额度以百炼价格页为准，正式上线前先做一轮用量估算。</li><li>跟进迭代：同系列会以新版本替换旧版本，接入时固定模型名并关注产品动态，定期回归验证输出效果。</li></ol>"
+        },
+        {
+          "title": "通义千问 的应用场景",
+          "html": "<ul><li>日常问答与写作：用通义千问网页版处理文案、改写与总结类任务。</li><li>图文混合任务：上传图片或视频，让模型描述画面、抽取关键信息。</li><li>内容生产：用图像与视频生成模型制作配图、短视频素材。</li><li>语音交互产品：接入实时语音识别与语音合成，搭建客服、播报或口语练习应用。</li><li>企业知识库：配合向量与重排序模型做检索增强，把内部文档接进问答流程。</li><li>注意事项：通义千问个人使用免费，API 经百炼按量计费；模型清单更新频繁，写进产品的模型名要定期回归验证，涉及价格与配额时以阿里云官方页面为准。</li></ul>"
+        }
+      ]
     }
   }
 }
