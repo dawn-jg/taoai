@@ -507,3 +507,47 @@ LongCat / Gemini）而非错配：`tool62159`、`tool12491`、`tool21562`。→ 
 
 **四、新口径建议**：工具页批产模式（15–20 条/批）已无标的物，建议改为
 「教程页按官方文档可取证性筛选后补正文（约 20 条）」+「索引面体检」，工具页侧只做 50 条清理。
+
+## 二十一、第 150 批：工具页第 79 轮仍为 0，教程页再补 4 条（3 → 7）
+
+**一、50 条待写池复核（b140–b150 第 74 轮零翻转）**
+
+队列 24 条直连快照：200×8 / 403×1（Phind CF 挑战页）/ ERR×15。8 条 200 逐条定性后
+全部作废——通用名 1（`ai-bot`「AI工具集」）、名实不符 1（`duiyou-ai` → 美图设计室）、
+重复条目 2（`moyin-com` ↔ `tool1924`、`tool6840` ↔ `bangong-360-cn`）、
+域名易主 1（`hotshot-co`）、博彩站 1（`tool1333`）、URL 失效 1（`yanqueai-com`）、
+SPA 空壳 1（`seelesai-go-link`）。未再跑代理与渲染——22 条已有硬证据，余 2 条为 CF 与区域限制。
+
+结论不变：50 条只能清理、不能补写。本批工具页新增 0 条。
+
+**二、教程页补 4 条（`tutorials.xml` 3 → 7）**
+
+| slug | 字数 | 官方来源 |
+|---|---|---|
+| `deepseek-v4-api-cost-guide` | 1670 | `api-docs.deepseek.com/quick_start/pricing`、`/guides/thinking_mode` |
+| `kimi-k26-deep-review-2026` | 1620 | `platform.kimi.com/docs/guide/kimi-k2-6-quickstart`、`/docs/models` |
+| `openclaw-api-model-selection` | 2005 | `docs.openclaw.ai/providers/models`、`/concepts/model-providers/custom-providers` |
+| `ai-agent-im-integration-2026` | 1465 | `docs.openclaw.ai/channels/wecom`、`/channels/feishu`、`/channels/slack/setup` |
+
+四条同步把 `url` 换成官方地址。标题做了三处必要修正：去「实测」、去未证实的价格表述
+（「1元百万token」）、去「钉钉」（OpenClaw 官方无该通道，官方通道为飞书 / 企微 / Slack /
+Telegram / Discord / Teams 等）。
+
+**三、两条可复用的取材路径（新）**
+
+1. **文档站的 Markdown 直出**：`docs.openclaw.ai/<path>.md` 与 `llms.txt` 索引、
+   `platform.kimi.com/docs/<path>.md` 都直接返回干净 Markdown，正文密度远高于 HTML 页面。
+   后续教程优先试这种形态，能省掉正文抽取与噪声过滤。
+2. **`api-docs.deepseek.com` 的 Models & Pricing 页是少数把模型规格、上下文、并发、
+   峰谷时段、缓存计价全写在一页里的官方定价页**，适合做「成本结构」类内容的事实底稿；
+   但按 SOP 只写机制，不写具体数字。
+
+**四、仍然不可用的来源（记录以免重复尝试）**
+
+`www.volcengine.com/docs/*` 为 SPA 导航壳（1.2 MB / 正文 2040 字），Seedance 系列无法取证；
+`docs.midjourney.com` 经渲染读取返回未展开的 Zendesk 模板（`<%= article.title %>`）；
+`www.office-ai.cn/static/introductions/*` 为 325 B 跳转壳。
+
+**五、教程余量估计**：56 条已写 7 条，剩余 49 条中官方文档可取证约 10–15 条
+（OpenClaw 其它通道、DeepSeek/Kimi 文档章节、Microsoft Learn），其余为横评/实测/心得类，
+缺官方事实支撑，需换角度或下架。

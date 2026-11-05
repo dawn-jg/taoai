@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://taoai365.com/tutorials/kimi-k26-deep-review-2026</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://taoai365.com/tutorials/openclaw-feishu-config</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -11,7 +16,22 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://taoai365.com/tutorials/openclaw-api-model-selection</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tutorials/ai-agent-im-integration-2026</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://taoai365.com/tutorials/microsoft-365-copilot-create</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tutorials/deepseek-v4-api-cost-guide</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
