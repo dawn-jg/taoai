@@ -551,3 +551,57 @@ Telegram / Discord / Teams 等）。
 **五、教程余量估计**：56 条已写 7 条，剩余 49 条中官方文档可取证约 10–15 条
 （OpenClaw 其它通道、DeepSeek/Kimi 文档章节、Microsoft Learn），其余为横评/实测/心得类，
 缺官方事实支撑，需换角度或下架。
+
+## 二十二、第 151 批：工具页第 80 轮仍为 0，教程页补 8 条（7 → 15）
+
+**一、50 条待写池复核（第 80 轮零翻转）**
+
+`content-queue --top 24 --save` 与 b140–b150 逐字节一致（第 55 批零 diff）。直连 `--force`
+24 条：200×8 / 403×1（Phind CF 挑战页）/ ERR×15。8 条 200 逐条定性全部作废，原因与前几批
+完全重合：通用名（`ai-bot`）、名实不符（`duiyou-ai` → 美图设计室、`tool6840` → 360AI办公）、
+重复条目（`moyin-com` ↔ `tool1924`）、域名易主（`hotshot-co` → 数码评测站）、
+博彩站（`tool1333` → qy球友会）、SPA 空壳（`yanqueai-com`、`ask-xiaoyuzhoufm-com`）、
+描述性名称（`seelesai-go-link`）。未再跑代理与渲染——22 条已有硬证据。
+
+**二、教程页补 8 条（`tutorials.xml` 7 → 15），全部为官方文档改写**
+
+| slug | 字数 | 官方来源 |
+|---|---|---|
+| `hands-on-cursor-10min` | 917 | `cursor.com/docs/get-started/quickstart`、`/agent/overview` |
+| `cursor-agent-mode-deep-dive` | 793 | `cursor.com/docs/agent/overview`、`/agent/agents-window` |
+| `claude-code-vs-cursor-vs-codex` | 1276 | `docs.claude.com/.../claude-code/overview`、`cursor.com/docs/cli/overview`、`github.com/openai/codex` |
+| `ai-prompt-engineering-master` | 923 | `cursor.com/docs/agent/prompting`、`/rules`、Claude Code overview |
+| `clawdbot-to-openclaw-upgrade` | 1197 | `docs.openclaw.ai/cli/migrate`、`/install/migrating` |
+| `vibe-coding-complete-flow-guide` | 949 | `cursor.com/docs/cloud-agent/setup`、`/cloud-agent/best-practices` |
+| `midjourney-starter-guide` | 884 | `docs.midjourney.com/.../32023408776205-Prompt-Basics` |
+| `midjourney-usage-detailed` | 952 | `docs.midjourney.com/.../32859204029709-Parameter-List` |
+
+八条同步把 `url` 从 CSDN / 腾讯新闻 / 111cn 换成官方文档地址，`thumbnail` 改为对应官网 favicon。
+四条对照组标题重写：`clawdbot-to-openclaw-upgrade` 由「Clawdbot 无痛升级」改为 `openclaw migrate`
+的预演与换机流程、`vibe-coding-complete-flow-guide` 由「全流程指南」改为 Cloud Agent 环境配置。
+`midjourney-*` 保留原名，但正文改为官方提示词与参数文档的整理。
+
+**三、纠正 b150 的一条错误结论（方法论第 30 条）**
+
+b150 记录「`docs.midjourney.com` 经渲染读取返回未展开的 Zendesk 模板」，据此判定该来源不可用，
+本轮证伪：带 `-H "x-no-cache: true"` 与 `-H "x-return-format: markdown"` 请求
+`r.jina.ai/https://docs.midjourney.com/hc/en-us/articles/<id>`，返回的是完整渲染后的文章正文
+（19–23 KB），标题、小节、参数表都在。**缺 `x-no-cache` 时服务会命中上一次失败渲染的缓存**，
+这才是拿到模板占位符的原因。`docs.midjourney.com` 由此恢复为可用官方来源，6 条 Midjourney
+教程全部可写，是教程余量里最大的一块。
+
+**四、新可用来源（方法论第 29 条）**
+
+Cursor 文档已迁至 `cursor.com/docs/*`，**加 `.md` 后缀直接返回干净 Markdown**
+（`get-started/quickstart.md`、`agent/overview.md`、`cloud-agent/setup.md` 等），
+配合 `cursor.com/llms.txt` 可枚举全部路径；而旧的 `docs.cursor.com` 与 `docs.cursor.com/llms.txt`
+均为 585 KB 的 Next.js 空壳，JSON 里没有正文，不要再从旧域取材料。
+`docs.claude.com/en/docs/claude-code/*.md` 只在部分页面返回真 Markdown（overview、quickstart、
+common-workflows 等），提示词工程那几页仍返回 HTML，需按 HTML 处理。
+
+**五、口径（第 80 次重申）**
+
+工具页 1127/1177 = 95.8%，待写池 50 条已无补写可能（约 46 条有下线/易主硬证据）。
+提示词里的「1210 / 35 / 1175」相对实况偏差 1.03× / 32× / 23.5×，目标不改则后续批次工具页仍为 0。
+本批仍建议：① 50 条清理（合并 19 + 下线约 30）；② 教程按官方可取证性续写——Midjourney 6 条
+与 Cursor 系列是当前最确定的一块。

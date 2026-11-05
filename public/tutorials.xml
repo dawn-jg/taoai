@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://taoai365.com/tutorials/hands-on-cursor-10min</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tutorials/midjourney-starter-guide</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://taoai365.com/tutorials/kimi-k26-deep-review-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -26,13 +36,43 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://taoai365.com/tutorials/clawdbot-to-openclaw-upgrade</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://taoai365.com/tutorials/microsoft-365-copilot-create</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://taoai365.com/tutorials/midjourney-usage-detailed</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tutorials/cursor-agent-mode-deep-dive</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tutorials/vibe-coding-complete-flow-guide</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tutorials/claude-code-vs-cursor-vs-codex</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://taoai365.com/tutorials/deepseek-v4-api-cost-guide</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tutorials/ai-prompt-engineering-master</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
