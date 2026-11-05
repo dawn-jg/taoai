@@ -430,3 +430,40 @@
 2. **24 条 noindex 页的采集正文**：不进索引面，但对外可见且带对方外链图。建议随 50 条清理一并置空或删除，
    不要单独改写成新正文（其中 22 条站点已下线或易主，写了也是死链页）。
 3. **`moyin-com` 改名**（第 4 次提出）：素材 75 KB 充足，但站点是「魔音工坊」，现名「魔撰写作」，改名 + 改 url 后即可产出。
+
+## 十九、第 148 批：三条错链已修，另有 198 条「句子式名称」待决策
+
+**一、`moyin-com` 的处置结论修正（撤销第十七节第 3 条的「改名即可产出」建议）**
+
+`x.moyin.com` 实测 title 为「魔音工坊--达人热推的短视频/有声书AI配音平台」，而全库**已有** `www.moyin.com`
+的「魔音工坊」条目。因此 `moyin-com` 不是「改名即可写」，而是**重复项**：若按其真实主题补正文，
+会与既有条目构成跨页重复（违反 SOP 第二节）。处置应归入清理/合并，不再列为「改名可写」。
+
+**二、三条错误 URL 已修正（索引面内，已验证）**
+
+| slug | 原 url | 新 url | 依据 |
+|---|---|---|---|
+| `tool26420` | `ima-app.image.myqcloud.com/win_channel/ima.copilot_win_x64_…_3835.exe` | `https://ima.qq.com/` | 原值是安装包直链；新址 200，title「ima - 腾讯AI知识管家」，与正文/`sources[]` 一致 |
+| `tool3433` | `kebuxi.datasink.sensorsdata.cn/r/dF` | `https://fabrie.com/` | 原值是神策埋点短链；新址 200，title「Fabrie - Online collaboration platform for designers」 |
+| `tool9548` | `deepgram.partnerlinks.io/ai-bot` | `https://deepgram.com/` | 原值是带 `ai-bot` 后缀的联盟跳转域（疑搬运时带入）；新址 200，与 `sources[]` 一致 |
+
+**方法**：按 url 形态对 1177 条做正则扫描（`.exe/.dmg/.apk/msi/zip`、`/r/xxxx` 埋点短链、`partnerlinks`、`go.link`、
+`t.cn`、`bit.ly`、`#/` 类前端路由），共命中 46 条，逐条读正文与 `sources[]` 后只剩这 3 条属「指向错误目的地」。
+其余命中项（登录页、`paluai.com` 分发子域、`#/` 前端路由）经核为可用，不改。
+
+**三、核销一条误报**：`muse-meta` 的 url 是 `muse.ai`、`sources[]` 是 `ai.meta.com/muse/`，看似硬伤，
+实测两者是同一产品（`muse.ai` title「Muse — Your Personal AI Agent」），**url 正确，不必再查**。
+
+**四、待决策（新增，优先级高于继续跑待写池）：198 条句子式名称**
+
+`isToolIndexable` 只校验「名称 ≤30 字、无脏字符」，不校验「名称是不是产品名」。索引面内当前：
+
+- 含「推出的 / 一款 / 的AI / 免费…的」等描述性句式：**198 条**
+- 以「工具 / 平台 / 系统」结尾且长度 ≥9：**196 条**（与上组高度重叠）
+
+样本：`lumalabs-ai`=「Luma AI推出的AI视频生成工具」、`tool7012`=「高效的AI PPT生成工具」、
+`tool12586`=「免费的AI视频生成和图像创作平台」。占比约 17.6%，多页共用同一句式，正是
+「scaled content」判定会看的模式特征；四条件拦不住，因为正文当初就是按这个长名写的。
+
+**建议做法**：50 条/批，把 `name` 改为真实产品名 + 替换正文首段「「<长名>」指的是…」句式，不动 slug/url，
+改后用 `apply-tool-profiles` 试算复核「正文含新名」与字数。此项不增加索引条数，只降低模板化观感。

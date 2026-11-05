@@ -19113,7 +19113,7 @@
     "slug": "tool26420",
     "name": "腾讯推出的AI知识库工具",
     "description": "属于AI办公工具·AI文档处理分类。腾讯推出的AI知识库工具是一款AI办公工具领域的免费增值AI工具，腾讯推出的AI知识库工具。支持AI办公工。",
-    "url": "https://ima-app.image.myqcloud.com/win_channel/ima.copilot_win_x64_10000450_2.3.1_3835.exe",
+    "url": "https://ima.qq.com/",
     "categories": [
       "ai-office"
     ],
@@ -19126,7 +19126,7 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-office-doc",
     "logo": "/logos/tool26420.png",
-    "domain": "ima-app.image.myqcloud.com",
+    "domain": "ima.qq.com",
     "detailed_content": [
       {
         "title": "腾讯推出的AI知识库工具 是什么",
@@ -19145,7 +19145,7 @@
         "html": "<p>它适合需要边查边写的知识工作者：研究或咨询人员把行业资料放进知识库，围绕主题生成报告；市场与运营人员用生成 PPT 快速做出汇报材料；通勤或碎片时间想听内容的人，可以用生成播客把材料转成音频。学生与自学人群也能用知识库管理课程资料，再通过问答快速回顾。生成的报告、PPT 与播客属于初稿，涉及数据与结论时应自行核对来源。</p>"
       }
     ],
-    "updatedAt": "2026-10-11"
+    "updatedAt": "2026-11-05"
   },
   {
     "slug": "tool605",
@@ -31576,7 +31576,7 @@
     "slug": "tool3433",
     "name": "在线白板协作平台Fabrie推出的AI设",
     "description": "属于AI设计工具·AI平面设计分类。在线白板协作平台Fabrie推出的AI设计助手，支持多种渲染模式。支持AI设计工。",
-    "url": "https://kebuxi.datasink.sensorsdata.cn/r/dF",
+    "url": "https://fabrie.com/",
     "categories": [
       "ai-design"
     ],
@@ -31589,7 +31589,7 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-design-graphic",
     "logo": "/logos/tool3433.png",
-    "domain": "kebuxi.datasink.sensorsdata.cn",
+    "domain": "fabrie.com",
     "detailed_content": [
       {
         "title": "在线白板协作平台Fabrie推出的AI设 指的是什么",
@@ -31608,7 +31608,7 @@
         "html": "<ul><li>设计调研与竞品整理：把资料摊开比对，比在文件夹里翻找更容易看出差异。</li><li>方案评审：画布与结构化数据同屏，讨论时既能看整体也能落到条目。</li><li>跨专业协作：产品、设计、工程各自关注的点都能挂在同一张画布上。</li><li>远程与异步团队：评论与版本记录替代口头同步，减少时差带来的信息损耗。</li><li>教学场景：教师可以实时看到学生整理的过程并及时给反馈。</li><li>使用提醒：画布内容容易越堆越多，建议尽早约定命名与归档规则。</li></ul>"
       }
     ],
-    "updatedAt": "2026-10-12"
+    "updatedAt": "2026-11-05"
   },
   {
     "slug": "tool701",
@@ -33777,7 +33777,7 @@
     "slug": "tool9548",
     "name": "快速低成本的AI语音文本互转API平台",
     "description": "快速低成本的AI语音文本互转API平台是一款AI音频工具领域的免费增值AI工具，快速低成本的AI语音文本互转API平台。支持AI音频工。",
-    "url": "https://deepgram.partnerlinks.io/ai-bot",
+    "url": "https://deepgram.com/",
     "categories": [
       "ai-audio"
     ],
@@ -33790,7 +33790,7 @@
     "createdAt": "2025-01-01",
     "subcategory": "ai-audio-tts",
     "logo": "/logos/tool9548.png",
-    "domain": "deepgram.partnerlinks.io",
+    "domain": "deepgram.com",
     "detailed_content": [
       {
         "title": "快速低成本的AI语音文本互转API平台 是什么",
@@ -33809,7 +33809,7 @@
         "html": "<p>官网列出的模块组合，指向以下几类常见的集成需求：</p><ul><li>语音客服与呼叫中心：把通话实时转写并结合智能体做辅助应答，同时保留文字记录。</li><li>会议与协作应用：为线上会议提供实时字幕与会后纪要的原始文本。</li><li>内容生产工具：给音视频剪辑、播客平台提供批量转写与配音合成能力。</li><li>无障碍应用：为听障用户提供实时字幕，为视障用户提供语音朗读。</li><li>数据分析：对海量服务通话做语音转写后再做质检与洞察提取。</li><li>自研产品团队：把快速低成本的AI语音文本互转API平台 当作语音底座，专注上层业务逻辑。</li></ul>"
       }
     ],
-    "updatedAt": "2026-10-05"
+    "updatedAt": "2026-11-05"
   },
   {
     "slug": "audiobox-metademolab-com",
