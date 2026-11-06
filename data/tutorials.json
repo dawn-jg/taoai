@@ -485,14 +485,14 @@
   },
   {
     "slug": "openclaw-feishu-official-doc",
-    "title": "OpenClaw飞书机器人配置教程",
-    "summary": "飞书开放平台文档：WebSocket长连接模式接收消息，支持onboard向导添加和命令行添加两种方式。",
-    "content": "飞书机器人接入OpenClaw有两种方式：(1)推荐方式安装向导：openclaw-cn onboard，按引导完成飞书应用创建、凭证获取、网关启动；(2)命令行方式：openclaw-cn channels add，交互式提示选择Feishu输入App ID和App Secret。创建飞书应用的四步：打开飞书开放平台，创建企业自建应用（填写名称/描述/图标），获取App ID和App Secret（凭证与基础信息页面），配置权限并发布。完成后用openclaw-cn gateway status检查网关状态，openclaw-cn logs --follow查看实时日志。",
-    "url": "http://clawd.org.cn/channels/feishu.html",
+    "title": "OpenClaw 飞书机器人配置教程：私聊策略、群策略与 @ 提及",
+    "summary": "飞书渠道装好之后真正决定安全边界的是三个开关：dmPolicy、groupPolicy 与 requireMention。本文按官方文档拆开讲这三项取值，以及 chat_id、open_id 的查找与卡片回执的前提条件。",
+    "content": "<h2>飞书机器人装好之后，先定边界再谈功能</h2>\n<p>OpenClaw 对接飞书（含国际版 Lark）走官方插件 @openclaw/feishu，安装向导与 App ID / App Secret 的获取属于上一步；这一步真正决定「谁能用」的是三个配置项：私聊策略 dmPolicy、群策略 groupPolicy、以及 @ 提及要求 requireMention。三者的默认值都不是全开放：dmPolicy 默认 pairing，groupPolicy 默认 allowlist。也就是说，装完不配策略，陌生同事私聊机器人只会拿到一个配对码，而不是直接开始对话。</p>\n<h2>私聊：pairing、allowlist、open 的差别</h2>\n<p>channels.feishu.dmPolicy 只有三档。pairing 是默认档：未授权用户发来消息时，OpenClaw 回一个配对码，需要你在服务器上用 openclaw pairing list feishu 查看待批准列表，再执行 openclaw pairing approve feishu 加上那串码，才把这个 open_id 放进白名单。allowlist 档更严格，只有 allowFrom 里列出的用户能对话，新人不产生配对请求。open 档等于公开私聊，配置校验会要求 allowFrom 至少包含一个通配符 *，此时再写非通配的具体账号，作用反而变成缩小范围。</p>\n<h2>群聊：先选群，再定要不要 @</h2>\n<p>channels.feishu.groupPolicy 同样三档：open 表示群里的每条消息都进模型；allowlist（默认）只响应 groupAllowFrom 列出的群，或 groups.&lt;chat_id&gt; 下单独配置过的群；disabled 则彻底关闭群消息，此时即便你写了 groups.&lt;chat_id&gt; 的具体配置也不会生效，这一点和 allowlist 档不同，容易踩坑。</p>\n<p>requireMention 控制「是否必须 @ 机器人才处理」。默认行为是按群策略联动：群策略为 allowlist 或 disabled 时默认要求 @；群策略为 open 时默认改为不要求，理由是图片这类消息本身带不了提及，否则永远进不了模型。需要固定行为时显式写 true 或 false，也可以在 groups.&lt;chat_id&gt; 下按群覆盖。另外，广播用的 @all 与 @_all 不算对机器人的提及，但同一条消息里既 @all 又 @ 机器人时，仍然算提及。</p>\n<h2>机器人自己开的帖子，要不要继续 @</h2>\n<p>由机器人发起的话题或帖子下面，回复往往不方便每次都 @。requireMentionInBotThreads 就是为这种情况准备的：设为 false 时，这类帖子里的消息不带提及也会处理；设为 true 时即使 requireMention 为 false 也强制要求提及。它可以在 channels.feishu、accounts.&lt;id&gt;、groups.&lt;chat_id&gt; 三个层级配置，优先级是群条目高于账号、账号高于顶层，groups[\"*\"] 作为通配兜底。注意它只对当前机器人拥有的真实话题生效，普通引用回复和他人发起的帖子仍走常规提及策略；接收不带提及的群消息还需要应用本身具备 im:message.group_msg 权限并开启群消息事件推送。</p>\n<h2>ID 怎么找，卡片为什么会拒答</h2>\n<p>写白名单要用两种 ID：群的 chat_id 形如 oc_ 开头，人的 open_id 形如 ou_ 开头。群条目既可以写在 groupAllowFrom，也可以直接作为 groups 的键。另一个容易忽略的前提是卡片动作：带 chat_id 的卡片必须先能确定会话类型，才能执行命令或弹出确认卡；如果卡片没带类型、飞书侧也解析不出来，OpenClaw 会往同一个会话回一条拒绝，等类型查到了再点一次才恢复，而未解析的会话不走私聊策略。</p>\n<h2>顺手要调的三个发送参数</h2>\n<p>消息发得太长被截断，通常不是模型的问题。channels.feishu 下 textChunkLimit 控制单条文本切片长度，默认 4000 字符；streaming.chunkMode 决定切片方式，length 按长度硬切，newline 优先在换行处断开；mediaMaxMb 控制媒体上传下载上限，默认 30 MB。普通 Markdown 卡片与富文本同样受飞书 30 KB 单条序列化上限约束，表头、脚注、提及、JSON 转义和 UTF-8 文本都计入这个体积，所以实际切片可能比 textChunkLimit 更短，长图注会先作为文本或卡片发出，再发附件。</p>",
+    "url": "https://docs.openclaw.ai/channels/feishu/access-control",
     "category": "AI教程",
-    "date": "2026-06-15",
-    "thumbnail": "https://www.google.com/s2/favicons?domain=clawd.org.cn&sz=64",
-    "is_new": false
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
   },
   {
     "slug": "openclaw-dingtalk-segmentfault",
@@ -723,6 +723,94 @@
     "category": "AI教程",
     "date": "2026-11-06",
     "thumbnail": "https://www.google.com/s2/favicons?domain=api-docs.deepseek.com&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-matrix-setup",
+    "title": "OpenClaw 接 Matrix：homeserver 配置、autoJoin 与 E2EE 初始化",
+    "summary": "Matrix 通道要先装插件、再绑 homeserver 账号，autoJoin 默认关闭意味着新邀请一律不自动进房；加密房间还需要单独跑一次 encryption setup 建立交叉签名与密钥备份。",
+    "content": "<h2>Matrix 通道和别的渠道不一样的地方</h2>\n<p>OpenClaw 接 Matrix 需要先装独立插件：openclaw plugins install @openclaw/matrix，默认从 ClawHub 取包，想直接走 npm 就写 npm:@openclaw/matrix，本地调试可以指向插件目录。装完即注册并启用，不需要再单独 enable 一次。装好不等于能用——没有配置 homeserver 之前，这个通道什么都不做。</p>\n<h2>两条认证路线：token 与 password</h2>\n<p>配置项都在 channels.matrix 下。第一条路线是 homeserver 加 accessToken，token 由你的 Matrix 客户端或 homeserver 管理后台生成；第二条是 homeserver 加 userId 加 password，首次登录时插件会自己换取并缓存一个 token，顺便还能指定 deviceName，方便在设备列表里认出这台网关。两条路线都支持 SecretRef 引用，作用域规则与网关其它凭证一致；如果你指定了匹配的 env 提供方，它自己的白名单仍然生效，白名单为空则拒绝所有变量。</p>\n<p>不想手写配置可以走交互式向导：openclaw channels add 或 openclaw configure --section channels，会依次问 homeserver 地址、认证方式、用户 ID（仅密码认证需要）、设备名、是否启用端到端加密、房间访问与 autoJoin。建白名单之前，先用 openclaw channels resolve --channel matrix 加房间名把名字解析成房间 ID，别拿人读的名字直接填进去。</p>\n<h2>autoJoin 默认关闭，这是最容易误解的一项</h2>\n<p>channels.matrix.autoJoin 的默认值是 off。含义很直接：机器人不会因为你把它拉进新房间就自动出现，需要你先手动接受邀请。原因是 OpenClaw 在收到邀请的那一刻无法判断这是私聊还是群聊，所以每一次邀请都先过 autoJoin 这一关，dm.policy 是在机器人进房、房间被归类之后才起作用的。</p>\n<p>想自动化就把 autoJoin 设成 allowlist 并配 autoJoinAllowlist，或者设成 always 全部接受。白名单只认三类值：字面房间 ID（形如 !roomId:server，或房间版本 12 之后不带服务器后缀的 !roomId）、别名（#alias:server）、以及通配符 *。普通的房间名和用户 ID 不是合法的房间目标——向导会直接拒绝，运行时也会记一条警告并忽略这条记录。要限制谁能说话，请用 dm.allowFrom 或 groupAllowFrom，别指望在 autoJoinAllowlist 里写人。</p>\n<h2>启用端到端加密的完整动作</h2>\n<p>加密房间不是开关一开就行，要建立密钥存储、交叉签名与房间密钥备份，官方给的动作是一条命令：openclaw matrix encryption setup。如果恢复密钥不想出现在进程参数里（进程列表可见），用 --recovery-key-stdin 从标准输入读；--force-reset-cross-signing 会丢弃现有交叉签名身份重建一套，只在明确知道后果时用。新建账号可以在添加时一次带过：openclaw matrix account add 加 --enable-e2ee。</p>\n<p>加密状态下发送图片会自动改用 thumbnail_file，让缩略图和原图一起被加密；非加密房间则用普通的 thumbnail_url，这部分不需要配置，插件自己判断。</p>\n<h2>加密状态出问题时不要手删文件</h2>\n<p>账号的加密数据有排他锁。升级之后如果最后一次快照写失败或进程异常退出，OpenClaw 会拒绝新的加密所有者接管，并在磁盘上留下 .owner.poisoned 标记。看到这个标记先别删，正确的排查顺序是 openclaw matrix doctor inspect 列出被阻塞的账号，停掉所有占用该状态的网关与 CLI 进程，检查 SQLite 快照与备份，确认可以接受「最后快照之后的密钥丢失」之后，再执行 openclaw matrix doctor recover --account 加账号 ID 与 --accept-snapshot-rollback 恢复。快照本身损坏、或同一账号存在多个被阻塞的存储时，恢复会拒绝执行，此时只能从有效备份还原。</p>",
+    "url": "https://docs.openclaw.ai/channels/matrix/setup",
+    "category": "AI教程",
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-msteams-setup",
+    "title": "OpenClaw 接 Microsoft Teams：teams CLI 注册、devtunnel 与 RSC 权限",
+    "summary": "Teams 通道在打包版里已内置，但 Teams 访问不到 localhost，必须开隧道；应用清单只声明资源级许可（RSC），少一条就收不到频道里不带 @ 的消息。",
+    "content": "<h2>Teams 通道的特殊前提：它必须能从公网找到你</h2>\n<p>OpenClaw 的 Microsoft Teams 支持在当前打包版本里是内置插件，正常安装无需额外装包；只有在旧版本或裁剪过内置插件的自定义安装里，才需要 openclaw plugins install @openclaw/msteams 补上。真正的门槛在链路上：Teams 服务无法访问 localhost，网关跑在本机时必须有一条公网可达的隧道。</p>\n<h2>一条命令把机器人注册、清单、凭证都办掉</h2>\n<p>官方推荐用微软自家的 @microsoft/teams.cli 做注册。先全局安装并登录：npm install -g @microsoft/teams.cli@preview，然后 teams login，再用 teams status 确认已登录并看清租户信息。这个包发布在 preview 标签下，命令与参数会随版本变化，脚本里最好固定版本。</p>\n<h2>隧道怎么开，端点填什么</h2>\n<p>用 devtunnel 是最省事的一条：一次性执行 devtunnel create 加隧道名与 --allow-anonymous，再 devtunnel port create 加隧道名、-p 18789 与 --protocol auto，把网关端口暴露出去；每个开发会话执行 devtunnel host 加隧道名即可。端点形如 https://隧道ID.devtunnels.ms/api/messages，填到 Teams 侧的消息地址里。--allow-anonymous 是必须的，因为 Teams 无法用 devtunnels 做身份认证，每个进来的请求仍会由 Teams SDK 校验。也可以用 ngrok http 18789 或 tailscale funnel 18789，代价是地址可能每次变。网关端口不是 18789 时按实际端口写；用反向代理时只暴露这条 webhook 路径，别把整个网关挂出去。老版本安装升级后，doctor 会用 channels.msteams.legacyWebhook 把端口钉在 3978，新装只用网关端口。</p>\n<h2>清单里的 RSC 权限决定「能不能不 @ 就收到消息」</h2>\n<p>Teams 应用清单声明的是资源级许可（resourceSpecific），只在应用被安装的团队或会话内生效。频道作用域常用的几条是：ChannelMessage.Read.Group 用 Application 身份接收该团队全部频道消息（这是不带 @ 也能触发的前提）、ChannelMessage.Send.Group、Member.Read.Group、Owner.Read.Group、ChannelSettings.Read.Group、TeamMember.Read.Group、TeamSettings.Read.Group；群聊作用域对应的是 ChatMessage.Read.Chat。缺了 Reader 这一条，最常见的现象就是私聊正常、频道里怎么说话都不回。</p>\n<p>补权限不必手改 JSON，可以用 CLI：teams app rsc add 加 Teams 应用 ID、权限名与 --type Application。清单本身遵循 Teams 的 v1.23 schema，manifestVersion 与 version 要跟着改，id 与各项 URL 换成自己的。</p>\n<h2>先验什么，再排什么</h2>\n<p>顺序建议是：隧道端点先用浏览器之外的客户端确认可达，再确认清单已上传且 RSC 权限已授予，最后看 OpenClaw 侧通道状态。Teams 的失败大多发生在「端点对但权限缺」或「权限全但端点过期」这两类组合上，把两者分开验能省很多时间。另外，Teams 的频道消息与群聊消息在会话路由上是不同来源，如果发现回复跑到别的会话，先检查会话键而不是权限。</p>",
+    "url": "https://docs.openclaw.ai/channels/msteams/setup",
+    "category": "AI教程",
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-wechat-plugin",
+    "title": "OpenClaw 接入微信：腾讯官方 openclaw-weixin 插件的安装与扫码登录",
+    "summary": "微信通道由腾讯微信团队维护的外部插件提供，不在 OpenClaw 核心里；装完要在跑网关的同一台机器上扫码登录，且该插件只声明支持私聊。",
+    "content": "<h2>微信这条通道的代码不在 OpenClaw 核心里</h2>\n<p>OpenClaw 接入微信（文档里英文写作 WeChat，腾讯的包名用 Weixin）靠的是一个外部渠道插件：@tencent-weixin/openclaw-weixin，由腾讯微信团队维护。这个区分很重要，它决定了两件事：出问题时该看谁的文档，以及为什么微信相关的登录、媒体、上下文令牌都由插件自己管，而不是网关。OpenClaw 核心只提供通用的渠道插件契约，保持与具体平台无关。</p>\n<h2>名字有好几个，命令里用哪个</h2>\n<p>渠道 ID 是 openclaw-weixin，weixin 和 wechat 都是它的别名；npm 包名是 @tencent-weixin/openclaw-weixin，插件 ID 也是 openclaw-weixin。写命令和配置路径时统一用 openclaw-weixin，避免别名混用导致找不到配置。</p>\n<h2>安装：一条 npx，或者两步手动</h2>\n<p>快捷方式是 npx -y @tencent-weixin/openclaw-weixin-cli install。手动方式分两步：openclaw plugins install \"@tencent-weixin/openclaw-weixin\" 装包，再 openclaw plugins enable openclaw-weixin 启用。插件的命令会作用到正在运行的网关上，装完看一眼应用结果，网关没起就先起网关。</p>\n<h2>登录必须和网关在同一台机器上扫码</h2>\n<p>用 openclaw channels login --channel openclaw-weixin 启动扫码登录。这一步的关键约束是位置：扫码要在运行网关的那台机器上做。原因在凭证的落点——登录结果最终写入 OpenClaw 的状态目录（默认 ~/.openclaw），由插件在该目录维护账号，因此在别的机器上登录并不会作用于这台网关正在使用的账号。</p>\n<h2>它支持什么，不支持什么</h2>\n<p>插件的能力元数据里声明的是私聊与媒体，群聊没有被声明。也就是说，把 OpenClaw 拉进微信群当群助手并不在这个插件的支持范围内，别按群机器人的预期去配。</p>\n<h2>消息在内部是怎么走通的</h2>\n<p>弄清这条链路，排查会快很多：网关发现插件清单并加载入口，插件注册 openclaw-weixin 这个渠道 ID；网关启动时，插件为每个已配置账号启动微信侧监听；收到的消息经渠道契约归一化，路由到你选定的智能体，回复再走插件的出站路径发回。腾讯 iLink 接口调用、媒体上下行、上下文令牌都发生在插件里，所以「消息能进但发不出」这类问题优先看插件日志，而不是模型配置。</p>\n<h2>开机自启与多账号</h2>\n<p>插件按账号维度启动监听，因此同一网关配置多个微信账号是可行的，前提是每个账号都完成各自的扫码登录。若网关以服务方式常驻，注意状态目录要落在服务账号可写的位置，否则扫码结果无法持久化，重启后需要重新登录。</p>",
+    "url": "https://docs.openclaw.ai/channels/wechat",
+    "category": "AI教程",
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-whatsapp-setup",
+    "title": "OpenClaw 接 WhatsApp：插件安装、扫码配对与群策略",
+    "summary": "WhatsApp 通道走 WhatsApp Web（Baileys）协议，会话由网关持有，没有 Twilio 那条路；登录只有扫码一种方式，无头服务器要先解决二维码怎么送到手机上。",
+    "content": "<h2>先明确它不是企业 API 路线</h2>\n<p>OpenClaw 的 WhatsApp 通道基于 WhatsApp Web 协议实现（文档标注为 Baileys），已可用于生产。这意味着会话是被网关「持有」的：一个已链接的设备身份挂在网关侧，所有消息收发都经过它。官方明确说明没有单独的 Twilio WhatsApp 通道，因此也不存在申请企业模板消息、走 Meta 商务接口的那套流程。</p>\n<h2>插件安装的三种入口</h2>\n<p>第一次选这个渠道时，openclaw onboard 与 openclaw channels add --channel whatsapp 都会提示安装插件；如果插件缺失，openclaw channels login --channel whatsapp 也会给出同样的安装流程。手动安装是 openclaw plugins install @openclaw/whatsapp，默认从 ClawHub 取包，写 npm:@openclaw/whatsapp 可直接走 npm，需要可复现安装时再固定版本号。WhatsApp 的运行时不在 OpenClaw 核心包里，依赖跟着外部插件走，升级时两者要一起看。</p>\n<h2>登录只有扫码，且二维码有时效</h2>\n<p>openclaw channels login --channel whatsapp 启动登录，流程是手机端扫码确认，没有账号密码或 API Key 的替代路径。在远程或无头主机上部署时，真正麻烦的是二维码怎么及时送到手机：终端里渲染出来的字符二维码、截图、聊天附件都可能在传输途中过期，扫的时候已经失效。稳妥做法是让二维码能在一个稳定的通道里实时显示，而不是拍张照再转发。</p>\n<h2>访问策略建议先收紧再放开</h2>\n<p>配置在 channels.whatsapp 下。私聊策略 dmPolicy 默认是 pairing，陌生号码发消息会进入配对流程，而不是直接对话；已知联系人可以直接写进 allowFrom，按国际格式带国家码。群聊用 groupPolicy 与 groupAllowFrom 控制，默认只响应白名单里的群。先把 allowFrom 与 groupAllowFrom 收窄，再考虑放开，能避免手机号被当成公开客服入口。</p>\n<h2>换了手机或重装应用之后</h2>\n<p>因为身份是「已链接设备」，在手机上注销该设备、换机或清空应用数据之后，网关侧的链接会话通常会失效，表现就是消息不再进来。此时先重新执行登录扫码，而不是反复重启网关——扫码会在网关侧建立一份新的链接会话。多账号场景下，每个账号对应一套独立的链接会话，互不影响。</p>",
+    "url": "https://docs.openclaw.ai/channels/whatsapp",
+    "category": "AI教程",
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-security-audit",
+    "title": "OpenClaw 安全审计：openclaw security audit 会查什么、怎么修",
+    "summary": "一条命令跑完配置与状态体检，重点是共享会话、hooks 令牌复用、沙箱与权限、以及 Node 运行时补丁级别；--fix 只处理安全的部分，不会替你放开闸门。",
+    "content": "<h2>这条命令解决什么问题</h2>\n<p>openclaw security audit 是 OpenClaw 自带的配置与状态体检，目标是常见的安全踩坑：把不该共享的会话共享了、把网关的管理凭据复用到了钩子上、沙箱配了却没开、运行时版本落在已知补丁线以下。默认跑的是「冷路径」——只读配置与文件系统，不加载插件的运行时安全检查器，所以日常跑成本很低；加上 --deep 才会连正在运行的网关做实时探测，并调用插件自己注册的安全采集器。</p>\n<h2>输出形态与几个常用参数</h2>\n<p>--json 给出机器可读报告，方便接 CI；--fix 只应用「安全方向」的建议，比如收权限、收紧默认值，不会反向放宽；--auth password 配合 --password 用于网关密码认证只在启动时提供的情况，这样审计才能拿它去比对 hooks.token 是否复用了同一个值。如果审计本身跑在别的可执行文件下，报告里的 Node 补丁告警只反映本机这次运行用的运行时，不代表远程网关。</p>\n<h2>共享会话：最常被忽略的一类风险</h2>\n<p>当多个私聊发送者共用主会话时，报告会建议将 session.dmScope 收敛为 per-channel-peer（多账号渠道则用 per-account-channel-peer）。这个改动的性质要说清楚：它是共享收件箱场景下的加固，不是把互不信任的人隔离开——真要隔离得用独立网关，或者独立系统用户与主机。同理，全局 session.groupScope 设成 main 会让群房间并入主会话，房间内每个成员共享同一段上下文，只适合信任的群；配置看起来像多人共用入口时（开放私聊或群策略、配了群目标、通配发送者规则），报告会提示多用户启发式告警，而 OpenClaw 的默认信任模型是「单人助理」，不是多租户隔离。</p>\n<h2>钩子令牌：不要和网关凭据同源</h2>\n<p>hooks.token 如果与网关的共享密钥认证值相同（gateway.auth.token 或 OPENCLAW_GATEWAY_TOKEN，以及密码那一对），启动日志会给出非致命警告，审计也会单独标记。还会检查：令牌是否过短、hooks.path 是否被设成根路径、defaultSessionKey 是否没设、allowedAgentIds 是否无限制、是否允许请求覆盖 sessionKey、以及开了覆盖却没配 allowedSessionKeyPrefixes。修法是先 openclaw doctor --fix 轮换被复用的 hooks.token，再把外部调用方改成新令牌。</p>\n<h2>沙箱、工具与模型规模</h2>\n<p>配了沙箱的 Docker 参数但沙箱模式是关的，会被点名——这类配置最容易让人误以为已经隔离。gateway.nodes.commands.deny 里写「看起来像模式」的条目也会被提示，因为匹配是按节点命令名精确比对，不做 shell 文本过滤。另外，参数规模在 300B 以内的小模型如果在未沙箱的情况下又开了网页或浏览器工具，会额外告警。还有一条与运行环境有关：审计跑在低于推荐补丁线（24.22.1 与 26.12.1）的 Node 上时，会报 runtime.node_security_patch，这条不影响 OpenClaw 正常运行与升级，也不针对 Bun。</p>",
+    "url": "https://docs.openclaw.ai/cli/security",
+    "category": "AI教程",
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-memory-cli",
+    "title": "OpenClaw 记忆管理：status、index、search、forget、promote 五条命令",
+    "summary": "语义记忆由内置 memory-core 插件提供，索引排障看 status --deep，召回测试用 search，把短期记忆固化进 MEMORY.md 用 promote，按来源删除用 forget 先跑 dry-run。",
+    "content": "<h2>这套命令管的是哪一种记忆</h2>\n<p>openclaw memory 管理的是 OpenClaw 的语义记忆：哪些历史内容被索引、能不能被检索到、怎么把检索出来的短期记忆固化进工作区的 MEMORY.md、以及如何按来源把某些记忆删干净。它由内置的 memory-core 插件提供，plugins.slots.memory 默认就指向它；如果你换成了别的记忆插件，那家会有自己的命令命名空间，这套命令的含义会随之改变。</p>\n<h2>先分清哪些命令要在网关停着时跑</h2>\n<p>search 与 session-backfill 会在网关运行时通过本地网关执行，检索的结果上限、会话范围、召回记录都能保留。其余命令，以及带 --rem 或 --archive-files 的 session-backfill，要求本地网关先停下来：先按服务方式停网关，跑完命令再启动。原因是这些操作要独占状态目录的写权限，网关还在跑时命令会在打开存储之前就拒绝。诊断与预览类命令同样可能初始化可写存储，所以也别在网关运行时随手跑。</p>\n<h2>status：先看索引覆盖，再看嵌入</h2>\n<p>openclaw memory status 报告的是已存索引的覆盖情况。索引干净、完整或干脆是空的，都可能在这一步显示 ready——因为它还没初始化嵌入。真正需要警惕的是 dirty、incomplete、unverified 与已知降级这几种状态。想确认嵌入提供方是不是活着，用带 probe 的 doctor.memory.status，别拿记忆索引的状态当嵌入健康度。加上 --index 会顺带补建索引，--fix 修可自动修的问题，--deep 做更深检查；这三个参数都依赖 memory-core 自己的索引，所以当记忆槽位被别的插件占用、memory-core 只作为整理侧车运行时，它们会以退出码 1 拒绝执行。</p>\n<h2>index 与 reset：重建与清空</h2>\n<p>openclaw memory index 建立或补齐索引，--force 强制重建；openclaw memory reset 清空某个 agent 的记忆索引，需要 --yes 确认，通常的用法是先 reset 再 index 重建一遍。这两个命令都支持 --agent 指定智能体，多智能体部署时务必带上，否则作用在默认 agent 上。</p>\n<h2>search：验证「记得住」的唯一办法</h2>\n<p>openclaw memory search 加查询词，可选 --query 显式传参、--max-results 限制条数、--min-score 设定相似度下限。这条命令的价值在排障：检索不到内容时，先用它确认是索引没建、还是阈值定得太高，再去改配置。记忆被禁用时会返回 status 为 disabled 的结果并以成功码退出，看到这个不要误判成检索失败。</p>\n<h2>forget：按会话、来源、参与者删除</h2>\n<p>openclaw memory forget 支持三种定位方式：--session 按会话 ID 或键、--hook-source 按入口来源（比如某个邮件连接器）、--participant 按参与者 ID。执行前一律先加 --dry-run 看报告，确认要删的记忆条目范围，再正式执行。删除是按来源追踪的：只删掉由指定会话或参与者衍生的记忆，不会牵连其它来源。若删除失败，先看报告里的失败原因再重试，不要直接删状态目录。</p>\n<h2>promote：把召回过的短期记忆写进长期文件</h2>\n<p>openclaw memory promote 把被召回过的短期记忆提升进 MEMORY.md，--limit 控制单次条数、--min-score 控制门槛；openclaw memory promote-explain 加选择器可以解释某条记忆为什么被提升，排查「该记的没记住、不该记的记住了」时用得上，加 --include-promoted 连已提升的一起看。</p>",
+    "url": "https://docs.openclaw.ai/cli/memory",
+    "category": "AI教程",
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "cursor-bugbot-guide",
+    "title": "Cursor Bugbot 上手指南：PR 自动评审、检查状态与仓库接入",
+    "summary": "Bugbot 分析 PR diff 并在代码行上留下问题说明与修复建议，每次 PR 更新自动跑；它只审 diff、会跳过过大的 PR 与 linguist-generated 标注的文件，检查结论默认是 neutral。",
+    "content": "<h2>Bugbot 审的是 diff，不是整个仓库</h2>\n<p>Cursor 的 Bugbot 是一个跑在拉取请求上的评审代理：它分析 PR 的代码差异，把发现的问题、安全隐患与代码质量意见直接以评论形式落在对应的代码行上，并给出修改建议。它的输入范围是这次改动，因此不会去评价你没动过的历史代码；这也解释了它的两条限制——改动量超过默认评审上限的 PR 会被跳过并留一条「请拆分」的评论，被 .gitattributes 标记为 linguist-generated 的生成文件会被排除，而且不计入体积上限。</p>\n<h2>什么时候跑：自动与手动两条路</h2>\n<p>每次 PR 更新都会触发一次自动评审。除此之外，可以在任意 PR 里评论 cursor review 或 bugbot run 手动触发；如果评论来自机器人账号或 GitHub App，这两条指令会被忽略，避免自动化之间互相触发。它还会读取该 PR 上已有的评论（包括顶层评论与行内评论）作为上下文，用来避免重复提同一个建议，并在既有讨论上继续展开。</p>\n<h2>接入仓库：先连，再按仓库开</h2>\n<p>在 Cursor 面板里连接代码托管方后，到 Automations 里的 Bugbot 页面管理评审范围。支持的范围包括 Origin、GitHub（含 GitHub Enterprise Server）、GitLab（含自建）、Bitbucket（含 Data Center）与 Azure DevOps。开关行为因平台而异：在 GitHub 上，连接动作会直接给你授权的仓库打开 Bugbot；如果连接企业团队的人不是团队管理员，或该团队已经开着 Bugbot，仓库会保持关闭。GitLab、Bitbucket、Azure DevOps 与 Origin 则要按仓库单独打开。团队成员没有改安装设置的权限时，看到的是「申请访问」而不是开关，点击会给团队管理员发一封带一键开启链接的邮件，按钮变成「已申请」，在管理员操作之前仓库仍是关闭状态。</p>\n<h2>检查状态怎么看，为什么「有问题」却不挡合并</h2>\n<p>每次评审都会发布一个状态：GitHub 上是名为 Cursor Bugbot 的检查，Bitbucket 是键为 cursor-bugbot 的构建状态，Azure DevOps 是上下文为 cursor-bugbot/review 的状态。结论只有三种：success 表示没发现问题且没有历史遗留的未解决评论；neutral 表示发现了问题、被更新的提交取消、或遇到内部错误——发现问题时默认就是 neutral；failure 表示发现了问题且该检查被配置成「存在未解决问题即失败」。所以只把这项检查设为必需，并不能靠它拦住有问题的合并，要拦得开启 fail-on-unresolved-issues 这类行为。它不会输出 skipped 结论。启用自动修复后，GitHub 上可能额外出现一个 Cursor Bugbot Autofix 检查，那个只用 success 与 neutral。</p>\n<h2>典型使用顺序</h2>\n<p>先把仓库接进来并按仓库确认开关，再挑一个小 PR 观察评审评论的质量与噪声，然后决定是否把检查设为分支保护的必需项。对机器人账号开的 PR，评审次数有按团队的上限，重复评审同样计数，接入大量自动化提交时要留意这一点。</p>",
+    "url": "https://cursor.com/docs/bugbot",
+    "category": "AI教程",
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "cursor-cli-guide",
+    "title": "Cursor CLI 使用指南：交互模式、print 模式与会话续接",
+    "summary": "终端里用 agent 命令开交互会话，三种模式与编辑器一致；接 CI 用 -p print 模式；会话可 ls、resume、continue，加 & 前缀能把任务交给云端代理继续跑。",
+    "content": "<h2>终端里也能用同一套代理</h2>\n<p>Cursor CLI 把编辑器里的编码代理搬到命令行：既能开一个交互式会话边聊边改，也能用 print 模式把任务写成脚本或塞进 CI。安装分平台，macOS、Linux 与 WSL 用 curl 拉安装脚本执行，Windows 走 PowerShell 的 irm 管道安装，装完直接敲 agent 启动交互会话。</p>\n<h2>三种模式，和编辑器里是同一套</h2>\n<p>Agent 模式是默认档，拥有全部工具权限，适合复杂改动；Plan 模式先出方案再动手，会反问你澄清需求，切换方式是 Shift+Tab、斜杠命令 /plan，或命令行参数 --plan、--mode=plan；Ask 模式只读探索，不改文件，用 /ask 或 --mode=ask 进入。三种模式都能在交互中切换，不必退出重开。</p>\n<h2>print 模式：给脚本和 CI 用</h2>\n<p>非交互场景用 -p 传提示词，例如让它找出并修掉性能问题并指定模型。这个模式适合放进流水线：把改动交给它评审，用 --output-format text 拿到纯文本结果，再交给下游步骤判断。因为不涉及交互确认，命令白名单与沙箱设置要在跑之前定好，别指望它在流水线里停下来问你。</p>\n<h2>会话续接：别每次都从零讲背景</h2>\n<p>交互会话是可以接续的。agent ls 列出历史会话，agent resume 恢复最近一次，agent --continue 接着上一次继续，agent --resume 加会话 ID 精确恢复指定那条。长任务被中断、或需要分几次推进同一个改动时，用续接比重新描述上下文可靠得多。</p>\n<h2>把任务丢到云端继续跑</h2>\n<p>在任意一条消息前加 & 前缀，就能把这次任务交给 Cloud Agent，在本地关掉终端后继续执行，之后在网页或手机上到 cursor.com/agents 收结果。适合编译、跑测试这类等待时间长的活。</p>\n<h2>沙箱与权限提示</h2>\n<p>命令执行有沙箱控制，用 /sandbox 或 --sandbox 参数在 enabled 与 disabled 之间切换，网络访问也能在交互菜单里一并管，设置会跨会话保留。遇到需要提权的命令，CLI 会弹一个遮蔽输入的密码提示，密码通过安全的进程间通道直接交给 sudo，模型看不到它——这也是为什么它敢在代理会话里让你输入提权密码。把这些开关和模式搭配好，终端里的代理行为才和你在编辑器里预期的一致。</p>",
+    "url": "https://cursor.com/docs/cli/overview",
+    "category": "AI教程",
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
     "is_new": true
   }
 ]

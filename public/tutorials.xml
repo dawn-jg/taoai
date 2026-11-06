@@ -56,6 +56,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://taoai365.com/tutorials/openclaw-feishu-official-doc</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://taoai365.com/tutorials/vibe-coding-complete-flow-guide</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -122,6 +127,46 @@
   </url>
   <url>
     <loc>https://taoai365.com/tutorials/deepseek-json-output-guide</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tutorials/openclaw-matrix-setup</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tutorials/openclaw-msteams-setup</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tutorials/openclaw-wechat-plugin</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tutorials/openclaw-whatsapp-setup</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tutorials/openclaw-security-audit</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tutorials/openclaw-memory-cli</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tutorials/cursor-bugbot-guide</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taoai365.com/tutorials/cursor-cli-guide</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
