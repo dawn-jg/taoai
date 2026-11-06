@@ -977,5 +977,170 @@
     "date": "2026-11-06",
     "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
     "is_new": true
+  },
+  {
+    "slug": "openclaw-signal-setup",
+    "title": "OpenClaw 接入 Signal：机器人号码、signal-cli 两种连接方式与配对",
+    "summary": "Signal 是独立插件，网关通过 HTTP 连 signal-cli，原生守护进程走 JSON-RPC+SSE、容器走 REST+WebSocket；写内容前先想清楚用独立机器人号码，否则机器人会忽略你自己的消息。",
+    "content": "<h2>先弄清「谁在发消息」这件事</h2><p>OpenClaw 的 Signal 支持是一个可按需安装的渠道插件 @openclaw/signal，网关本身不内嵌 libsignal，而是通过 HTTP 去和 signal-cli 对话：一种接法是原生守护进程，走 JSON-RPC 加 SSE；另一种接 bbernhard/signal-cli-rest-api 容器，走 REST 加 WebSocket。两种接法对应同一套渠道配置，区别只在你把 signal-cli 跑成什么形态。</p><p>文档把「号码模型」放在最前面，是因为这里最容易踩坑。网关连上的是一个 Signal 设备，也就是 signal-cli 的账号。如果你把机器人跑在自己的私人 Signal 账号上，它会主动忽略你自己发出的消息，这是防回环设计；想让「我给机器人发消息、它回我」成立，就得给机器人一个独立号码。这一步没想清楚，后面所有配置都会白做。</p><h2>装插件与走引导</h2><p>安装命令是 openclaw plugins install @openclaw/signal，默认从 ClawHub 拉取，想直接从 npm 装就写 npm:@openclaw/signal。安装动作本身会注册并启用插件，不需要再单独 enable 一次。</p><p>之后跑 openclaw channels add 进引导流程。向导会先检查 signal-cli 是否在 PATH 上，缺了就提议帮你装：Linux x86-64 下载官方原生 GraalVM 构建，macOS 与其他架构走 Homebrew。接着它问机器人号码和 signal-cli 路径。不适合交互的场景可以直接带参数，例如 --channel signal 搭配 --signal-number 传 E.164 号码，再用 --http-host 和 --http-port 指定守护进程地址，端口默认是 127.0.0.1:8080。</p><h2>链接账号还是注册新号</h2><p>两条路。快的一条是扫码链接已有 Signal 账号：执行 signal-cli link -n \"OpenClaw\"，用手机 Signal 扫出来的二维码即可。稳的一条是给机器人注册专用号码，官方以 Ubuntu 24 为例写了完整流程：从 GitHub Releases 取 signal-cli 原生包解到 /opt 并软链到 /usr/local/bin，用 signal-cli -a 加号码执行 register，若被要求验证码就去 signalcaptchas.org 完成人机验证、复制 signalcaptcha:// 开头的链接目标，再带 --captcha 重新注册并立刻用 verify 提交短信码。文档特别提醒，验证码令牌过期很快，尽量让注册请求和浏览器走同一个出口 IP。</p><p>配好之后用 openclaw doctor 与 openclaw channels status --probe 两条命令验证，前者查环境与依赖，后者探渠道连通性。然后给机器人号码发第一条私聊，服务端会生成配对码，用 openclaw pairing approve signal 加配对码放行。顺手把机器人号码存进手机通讯录，否则会一直显示未知联系人。</p><h2>配置项与会话行为</h2><p>最小配置里，account 填 E.164 格式的机器人号码，transport 指定连接方式与 signal-cli 路径，dmPolicy 建议用 pairing，allowFrom 列出允许私聊的号码或 uuid: 形式的值。多账号写在 channels.signal.accounts 下，每个命名账号拥有自己的 transport，不继承顶层那份——顶层 transport 只属于隐式的 default 账号。</p><p>会话层面，私聊共用代理主会话；群组默认按 per-group 隔离，会话键形如 agent:&lt;agentId&gt;:signal:group:&lt;groupId&gt;，一个群不会串到另一个群。另外默认允许 Signal 侧触发的 /config set、/config unset 改写配置（前提是 commands.config 打开），不想让聊天窗口改配置就把 channels.signal.configWrites 设成 false。</p>",
+    "url": "https://docs.openclaw.ai/channels/signal",
+    "category": "AI教程",
+    "date": "2026-11-07",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-qqbot-setup",
+    "title": "OpenClaw 接入 QQ 机器人：AppID 与 AppSecret 配置、扫码绑定与审批人设置",
+    "summary": "QQ 机器人走官方 Bot API 的 WebSocket 网关，私聊与群 @ 是主力场景，频道消息只支持文本和远程图片；配置时注意 allowFrom 里的 approval-disabled 标记会关掉原生审批按钮。",
+    "content": "<h2>这条渠道能做什么、不能做什么</h2><p>OpenClaw 的 QQ 渠道通过官方 QQ 机器人 API 的 WebSocket 网关收发消息，形态是一个可下载的官方插件。实际能用的会话类型主要是 C2C 私聊和群里 @ 机器人，图片、语音、视频、文件这类富媒体都能走。频道（guild）消息的待遇差一些：只支持纯文本和远程 URL 图片，语音、视频、文件上传以及本地路径或 Base64 图片在频道里都用不了。表情回应和线程这两项能力，在 QQ 渠道的任何位置都不支持。把这条边界先记住，能省掉不少「为什么发了没反应」的排查。</p><h2>装插件与在开放平台建机器人</h2><p>安装命令是 openclaw plugins install @tencent-connect/openclaw-qqbot。如果你之前装的是旧包 @openclaw/qqbot（插件 id 为 qqbot），执行 openclaw plugins update qqbot 或 openclaw update 时会被自动改写为新包与新 id openclaw-qqbot，而渠道配置仍然留在 channels.qqbot 下面，不用改配置路径。</p><p>接着去 QQ 开放平台（q.qq.com）用手机 QQ 扫码注册或登录，点创建机器人，然后在机器人的设置页找 AppID 与 AppSecret。文档在这里加了一句提醒：离开页面之前先保存好 AppSecret，否则只能重新生成一份。拿到凭据后执行 openclaw channels add --channel qqbot --token \"AppID:AppSecret\" 把渠道加上，再用 openclaw channels status --probe 确认状态，网关没起来就先启动，改配置走热重载不必重启。</p><p>不想手敲 AppID 和 AppSecret 的话，直接跑 openclaw channels add 走交互向导，它也提供扫码绑定：用绑定了目标 QQ 机器人的手机端扫码即可完成绑定，返回的凭据会被写进该账号的配置作用域。</p><h2>入站消息为什么不怕重启</h2><p>QQ 网关的回合事件在推进保存的 resume 序列之前，会先把原始事件落盘。因此待处理或可重试的回合能扛住网关重启，同一会话内保持串行，并借助供应商事件 ID 在「活跃或保留的完成记录」还存在时压掉重复入队。如果持久化准入失败，OpenClaw 会直接终止当前网关 socket 且不推进序列，这样重连恢复时可以把那条未提交的事件再要一遍。文档也坦白了一个边界：队列到代理这一段至少投递一次，交接瞬间崩溃仍可能重放一个回合。</p><h2>最小配置与密钥存放</h2><p>最小配置里 dmPolicy 可以设成 open 让私聊全开，allowFrom 填 openclaw:approval-disabled 这个标记——它的含义是保留私聊开放、但关闭原生审批动作。想让机器人在 QQ 里弹出审批按钮，就把标记换成具体的审批人 QQ OpenID。</p><p>默认账号支持两个环境变量 QQBOT_APP_ID 与 QQBOT_CLIENT_SECRET。不想把 AppSecret 明文写在渠道配置里，可以用 SecretRef 指向环境变量，或者用 file 类型的 singleValue provider 指向一个只存密钥的文本文件，配置里只留 provider 名。这样备份配置、贴日志时都不会顺手把密钥带出去。</p>",
+    "url": "https://docs.openclaw.ai/channels/qqbot",
+    "category": "AI教程",
+    "date": "2026-11-07",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-googlechat-setup",
+    "title": "OpenClaw 接 Google Chat：服务账号、HTTP 端点与 Tailscale Funnel 公网暴露",
+    "summary": "Google Chat 只走 HTTP webhook，不用 Pub/Sub，需要公网 HTTPS 地址；用 Tailscale 的 serve 与 funnel 分工，只把 /googlechat 暴露出去，仪表盘留在内网。",
+    "content": "<h2>一条只认 webhook 的渠道</h2><p>OpenClaw 的 Google Chat 支持以官方插件 @openclaw/googlechat 的形式提供，私聊与空间两种场景都通过 Google Chat API 的 webhook 收发，只支持 HTTP 端点，不使用 Pub/Sub。这句话决定了后面所有配置的重心：你必须给网关准备一个公网可达的 HTTPS 地址。</p><p>安装用 openclaw plugins install @openclaw/googlechat；如果你是从源码仓库跑，也可以直接指向本地目录安装，例如 openclaw plugins install ./path/to/local/googlechat-plugin。</p><h2>在 Google Cloud 侧备齐四样东西</h2><p>第一步建项目并启用 Google Chat API。第二步建服务账号，命名随意，权限与主体都留空，直接继续到底即可。第三步给这个服务账号创建 JSON 密钥并下载，文件放到网关主机上，文档示例路径是 ~/.openclaw/googlechat-service-account.json。第四步在同一项目的 Chat 配置页创建 Chat 应用：填应用信息（名称、头像地址、描述），打开交互功能，在功能里勾选加入空间与群会话，连接设置选 HTTP 端点 URL，触发器选「所有触发器共用一个 HTTP 端点」并填公开网关地址加 /googlechat，可见性勾选仅对指定域名下的人员与群开放并填上自己的邮箱，然后保存。</p><p>保存后刷新页面，把应用状态改成对用户可用（Live）再存一次。这一步很容易漏，漏了的表现是搜不到机器人。</p><h2>把服务账号和 audience 交给 OpenClaw</h2><p>默认账号可以用环境变量 GOOGLE_CHAT_SERVICE_ACCOUNT_FILE 指向那份 JSON；也可以写进配置，webhook 的 audience 必须和 Chat 应用里填的一致。用命令行加渠道时，openclaw channels add --channel googlechat 支持 --audience-type、--audience、--webhook-path、--webhook-url 四个参数，可以一次把端点与校验信息带进去。启动网关后，Google Chat 会往 webhook 路径 POST，默认路径就是 /googlechat。</p><h2>把机器人拉进对话</h2><p>网关在跑、邮箱也在可见名单里之后，打开 chat.google.com，点私聊区域旁的加号，按你在 Cloud Console 里配的应用名搜索。文档提醒机器人不会出现在 Marketplace 浏览列表里，因为它不是公开应用，只能按名字搜。选中后添加并开始对话即可。</p><h2>公网地址怎么给才安全</h2><p>官方推荐用 Tailscale 把「公开」压缩到最小：先用 tailscale serve 把仪表盘只暴露给 tailnet（8443 端口指向本地 18789），再用 tailscale funnel 的 --set-path /googlechat 只把这一条路径公开。两条命令执行完，公网地址形如 https://节点名.tailnet名.ts.net/googlechat，仪表盘则留在带 8443 端口的内网地址上。配置在 Cloud Console 里填的是不带端口的公网地址。</p><p>配置前先确认网关绑在哪个地址上：Linux 用 ss -tlnp 过滤 18789，macOS 没有 ss 就用 lsof 查监听端口，看到 127.0.0.1、0.0.0.0 还是 100.x 开头的 Tailscale 地址，再决定 serve 与 funnel 里写哪个。这套设置重启后依然生效，想撤销就用 tailscale funnel reset 与 tailscale serve reset。文档也强调，除 /googlechat 之外的端点一律不要对外开放，webhook 路径本身已经做了 audience 校验，但仪表盘没有理由出现在公网上。</p>",
+    "url": "https://docs.openclaw.ai/channels/googlechat",
+    "category": "AI教程",
+    "date": "2026-11-07",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-twitch-chatbot",
+    "title": "OpenClaw 做 Twitch 聊天机器人：令牌、clientId 与「一账号一频道」的映射",
+    "summary": "Twitch 渠道走聊天 IRC 接口、用 Twurple 客户端，一个账号条目只加入一个频道；Token Generator 生成的令牌几小时就过期且无法自动刷新，长期挂机要自建应用。",
+    "content": "<h2>它接的是聊天室，不是直播流</h2><p>OpenClaw 的 Twitch 支持走 Twitch 的聊天（IRC）接口，底层用 Twurple 客户端。工作方式是：以某个 Twitch 机器人账号登录，加入到配置里指定的那个频道，然后只在该频道的聊天里回话。它不处理直播画面、不读流，也不涉及剪辑，定位就是一个守在聊天室里的助手。</p><p>这条渠道是官方插件，但不在核心安装包里，需要单独装：openclaw plugins install @openclaw/twitch。版本上要求 OpenClaw 2026.4.10 或更新。除了显式安装，在 openclaw onboard 或 openclaw channels add 里选中 Twitch 时也会按需装上。</p><h2>四步拿到可用凭据</h2><p>先建一个专用的 Twitch 机器人账号，用现成账号也行，但专用账号在权限与封禁风险上都更干净。然后用 Twitch Token Generator 生成令牌：选 Bot Token，确认 chat:read 与 chat:write 两个作用域都勾上，复制 Client ID 与 Access Token。接着把机器人用户名换成数字 user ID，文档给了转换工具的地址，因为后续白名单要用 ID 而不是昵称。</p><p>令牌可以放环境变量 OPENCLAW_TWITCH_ACCESS_TOKEN（只对默认账号生效），也可以写进 channels.twitch.accessToken。两者同时存在时以配置为准，环境变量只作为默认账号的兜底。最后用 openclaw gateway run 把网关跑起来。</p><h2>配置里的两个名字别搞混</h2><p>最小配置有五个关键字段：username 是机器人自己的账号，也就是负责认证的那个；accessToken 与 clientId 是上一步拿到的凭据；channel 是要加入的频道，必填；allowFrom 建议填你自己的 Twitch user ID，只放行可信的人。文档特别点明 username 与 channel 是两件事，一个账号条目只能加入一个频道——想同时守两个直播间，就得配两个账号条目。令牌带不带 oauth: 前缀都能识别，OpenClaw 会做归一化，但安装向导期望的是带前缀的形式。</p><p>安全上有一条醒目的警告：一定要加 allowFrom 或 allowedRoles，否则任何观众都能触发机器人。requireMention 默认为 true，也就是聊天里必须点到机器人才会响应，这层默认值本身就挡掉了大部分误触发。</p><h2>消息可靠性到哪一步</h2><p>每条被接收的聊天消息会先持久入队再进入正常派发，因此待处理或可重试的消息能跨网关重启存活，同一频道内保持串行，并用 Twitch 的消息 ID 去重。代价是 Twitch 侧不会在客户端已接受后重放 PRIVMSG，所以这套机制只能兜住「本地接受消息到派发之间」的崩溃窗口；如果入队本身失败，OpenClaw 只记日志，重连也不会让 Twitch 把那条消息再发一遍。</p><h2>令牌过期是常态，不是故障</h2><p>Token Generator 发出的令牌无法由 OpenClaw 自动刷新，有效期只有几小时，过期就得重新生成一份。想让它长期挂着不用人管，得去 Twitch 开发者控制台自建应用，把 client id、client secret 以及刷新令牌填进 channels.twitch 下对应的字段，由 OpenClaw 自己走刷新流程。这一点在排障时很有用：机器人突然不回话，先看令牌是不是到期了，而不是去翻网关日志。</p>",
+    "url": "https://docs.openclaw.ai/channels/twitch",
+    "category": "AI教程",
+    "date": "2026-11-07",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-config-cli",
+    "title": "openclaw config 命令详解：按路径读写、SecretRef 与只读模式",
+    "summary": "config 子命令把 openclaw.json 的读写变成可脚本化的操作：get/set/patch/unset 走点或括号路径，patch 支持 --dry-run；网关在跑时写入会被路由给网关，中途改过配置会被拒绝。",
+    "content": "<h2>不带子命令时它是一个向导</h2><p>openclaw config 在没有任何子命令时，打开的是和 openclaw configure 同一个引导式配置向导。加上 --section 可以只走其中几段，这个参数能重复，可选的段落包括工作区、模型、Web、网关、守护进程、渠道、插件、技能与健康检查。日常改一两个字段不值得走向导时，就用它的子命令：file 打印当前生效的配置文件路径，get、set、patch、unset 按路径读写，schema 打印配置结构，validate 做校验。除 file 外的输出都可以加 --json 交给脚本处理。</p><h2>路径怎么写、值怎么给</h2><p>路径用点号或括号记法，例如取工作区目录就写 get 加 agents.defaults.workspace。括号形式在 shell 里要加单引号，否则 zsh 会把方括号当通配符展开，这一点文档专门提醒过。set 默认把值当字符串，要写结构化内容就加 --strict-json，并视情况加 --merge 与已有对象合并，例如给某个浏览器配置档案补上调试端口与可执行文件路径，或者往 agents.defaults.models 里并入一个模型键。</p><p>密钥不建议直接落盘。set 支持直接生成 SecretRef 引用，用 --ref-provider、--ref-source、--ref-id 指向环境变量里的令牌；也可以用 --provider-source file 搭配 --provider-path 与 --provider-mode 定义一个文件型密钥提供者。批量改动走 patch，把改动写成一份 openclaw.patch.json5，配 --dry-run 先看合并结果再落地，比一串 set 更不容易漏项。</p><h2>网关在跑时，写操作被转交</h2><p>当本地网关占着状态目录，set、patch、unset 不会自己去写文件，而是把同样的改动与校验准备好，以一次 config.patch 发给网关，并用 config.get 拿到的 hash 做保护，让网关成为唯一的写入者。输出与退出码和离线写完全一致。若配置的重载策略是关闭的，写入会保存但不触发重启，并提示需要重启网关才生效；更老的网关版本则会直接重启。</p><p>这带来一个必须知道的失败模式：如果在你读与写之间有人改了配置，网关会拒绝这次写入，重跑命令即可。如果请求已经发出之后才失败，命令会报告结果不确定，并且不会在本地重试——先用 config get 看一眼目标路径的现状，再决定是否重发，否则容易把同一个改动叠两遍。</p><p>还有几类改动即使网关在跑也得先停服务：database 开头的设置（它决定网关打开哪个状态库）、合并补丁无法表达的变更（例如你要写入一个字面上的 null）、以及网关会以不同方式保存的变更——比如把转义的 $${VAR} 字面量激活成真正的 ${VAR} 引用。文档还给了一个具体例子：同一条命令里既改代理名册或会话存储，又设 authInheritance 或 sessionStore.agentId，这类要做成两条命令，先改名册再改归属。</p><h2>把配置交给外部系统管</h2><p>部署系统接管配置时，在网关进程与所有 CLI 进程的环境里都设 OPENCLAW_CONFIG_READONLY=1，openclaw.json 就被当作不可变文件：get、file、schema、validate 仍能用，所有写操作被拒，包括初始化、Doctor 的配置修复、插件安装更新与卸载、以及会改配置的更新流程。这个开关是宿主环境变量，写在配置的 env 或 env.vars 里无效，而且只有值恰好为 1 时才启用。启动期推导出的默认值只在运行时存在，不进文件。运行时状态目录仍然要可写，否则会话与插件状态没处落。Nix 安装会更严格，OPENCLAW_NIX_MODE=1 本身就隐含配置不可变，此时应当改 Nix 源。</p>",
+    "url": "https://docs.openclaw.ai/cli/config",
+    "category": "AI教程",
+    "date": "2026-11-07",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-channels-cli",
+    "title": "openclaw channels 排障手册：status 与 probe 的区别、死信重投、日志过滤",
+    "summary": "channels 命令负责渠道账号与运行时状态；status 只读网关记录，--probe 才会真的逐账号探活；耗尽了重试的入站事件留在死信队列里，可以看原因并重投。",
+    "content": "<h2>先分清「看记录」和「做探活」</h2><p>openclaw channels 管的是渠道账号与它们在网关上的运行时状态。最容易被混用的是两条命令：channels status 读的是网关记录的渠道生命周期、健康事实以及不含密钥的账号元数据，它不解析凭据，也不跑实时的状态钩子；channels status --probe 才是活路径，会对每个账号执行 probeAccount，必要时再跑 auditAccount，输出里因此会带传输状态与账号检查、审计的成败。文档说得很直白：供应商侧那些渠道没记录下来的细节，得靠显式 probe 才看得到。</p><p>探活是并发的，每个渠道有各自的截止时间。某个渠道超时只会带着警告返回它已记录的状态，不会拖住其他健康渠道。如果网关根本连不上，命令会退回只读配置的摘要，而不是假装探活成功；但如果网关回了一个错误（比如 --channel 写了不存在的名字），命令会如实报错并非零退出，不会伪装成不可达。网关还在启动时也有一档专门的结果：--json 返回 status 为 starting 并附上启动阶段，等启动完再跑一次才有渠道结果。</p><h2>渠道列不出来时看哪里</h2><p>插件加载或注册失败时，channels status 不会把渠道从列表里抹掉，而是让受影响账号显示 running 为 false、lifecycle 为 blocked，并带上插件报错，而不是保留上一次的成功状态。看到这个组合，处理顺序是跑 openclaw doctor、修复或更新插件，然后重启网关再看。</p><p>channels list 只列聊天渠道，默认显示已配置账号，每个账号带 installed、configured、enabled 三种状态标签；加 --all 会把尚未配置账号的内置渠道、以及还没下载到本地的可安装渠道一起列出来。加 --json 时它只做本地清点，从插件元数据生成，不联系网关、不执行渠道初始化代码。另一个容易误解的点：禁用插件不等于卸载，渠道在清单里仍然是 installed。</p><p>多代理部署下，工作区作用域的渠道插件来自 agents.defaults.systemAgent.agentId 指向的那个代理。没有这个归属时，list 会返回共享的内置、托管与全局清单，并附一条诊断，而不会替你猜某个工作区。add、login、logout、remove、resolve 以及 capabilities --channel 都支持 --agent 指定工作区，但它只影响插件发现，不会顺手创建账号路由绑定。</p><h2>账号参数不接受空值</h2><p>add、login、logout、remove 支持 --account 指定账号，省略就选默认账号。这里有个刻意的设计：空值会被拒绝，而不是回落到默认账号。理由是 shell 变量没设时展开成空串，如果静默回落，你可能会在完全没意识到的情况下操作了默认账号。同样的规则适用于死信命令，以及 capabilities 与 resolve 的账号参数。</p><h2>入站消息卡住时用死信队列</h2><p>入站事件耗尽重试策略后不会消失，而是留在共享状态库里，直到队列既有的失败条目保留期结束。用 dead-letters list 加渠道名与账号名就能看：文本视图给出事件 id、失败原因、尝试次数与失败至今的时长；加 --json 还会带保留的载荷、元数据、所属通道与各次尝试的时间戳，这些是做根因分析的原料。确认是下游临时故障后，可以用 resubmit 让这些事件重新进队，而不是让用户重发一遍消息。</p><h2>日志与能力查询</h2><p>channels logs 默认看全部渠道最近 200 行，--channel 只留一个渠道，--lines 必须是正整数。渠道名的匹配是按子系统路径前缀做的：写 discord 会匹配 discord、channels/discord、gateway/channels/discord 及其下层，而 discord-archive 这种相近名字不会被误抓进来。要看某个目标到底支持什么，用 channels capabilities 配 --channel 与 --target，例如指定某个服务器频道，它会返回该目标的能力集合；channels resolve 则把 #general 或 @某人 这样的写法解析成真实 ID，--kind 可以限定按用户、群组还是频道解析。此外还有一个常见误区：channels status 不支持 --deep，要更广的检查用顶层的 openclaw status --deep。</p>",
+    "url": "https://docs.openclaw.ai/cli/channels",
+    "category": "AI教程",
+    "date": "2026-11-07",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-devices-cli",
+    "title": "openclaw devices 用法：批准设备配对、识别权限升级与签发入网码",
+    "summary": "devices list 会并排显示请求访问与已批准访问，所以「权限升级」不会伪装成配对丢失；approve 省略 ID 只做预览，join-code 签发的是一次性入网地址而不是手机配对码。",
+    "content": "<h2>配对请求是运维决策，不是故障</h2><p>openclaw devices 管两件事：设备配对请求，以及设备作用域的令牌。文档开头先纠正一个常见误判：一个待处理的首次请求，或者一个要求更多权限的请求，都属于需要人来拍板的事，并不等于已有访问出了问题。正确动作是先跑 openclaw devices list，把请求的角色与作用域和已批准的访问并排比一比，认得出这个请求才批准，认不出就拒绝。</p><p>反过来，如果是一台已配对设备缺了作用域基线、缺角色令牌、身份变了，或者缓存的令牌过期，那才是真需要修的。此时按 Doctor 给出的具体命令处理：缺基线就检查该设备、让它重连并请求它本该有的访问，再在核对作用域之后批准当前请求。文档专门叮嘱了一句：不要为了让一条诊断消失就顺手给管理员权限。</p><h2>list 里能看到什么</h2><p>list 同时列出待处理的配对请求与已配对的设备。对已经配对过的设备再提请求，输出会把「请求的访问」放在「当前已批准的访问」旁边，这样你看到的是一次升级，而不是一条莫名其妙的重复记录。设备的显示名有优先顺序：运维标注（用 devices rename 设的标签）优先，其次是客户端自报的显示名，再次是客户端 ID，最后才是设备 ID。批准通知里打印的也是运维标注，方便对上人。</p><h2>approve 的两种模式</h2><p>approve 后面跟确切的 requestId 才是真批准。省略 ID 或者加 --latest，只是预览最新那条待处理请求然后以退出码 1 结束——这个设计防止你手滑把不该放的设备放进来。预览时打印的批准命令会保留你当前的配置文件或容器环境、显式的网关地址、非默认超时以及 JSON 输出模式，但令牌与密码的值会被抹掉，需要你自己再补上。</p><p>还有个细节值得记住：如果一台设备换了认证信息（角色、作用域或公钥）重新发起配对，OpenClaw 会用新的 requestId 顶掉旧的待处理项。所以批准之前最好再 list 一次拿当前 ID，别拿几分钟前的旧 ID 硬套。批准行为本身也分档：已配对设备来要更大范围时，原有批准会保留，另建一条升级请求；批准 node 角色或其他非运维角色需要 operator.admin 权限，而 operator.pairing 只够批准运维设备，且请求的运维作用域必须落在调用者自己的作用域之内。</p><p>另外有两处自动化开关会替你放行首次 node 请求：一是配置 gateway.nodes.pairing.autoApproveCidrs，来自匹配 IP 的首次 node 请求可以在出现在列表前就被自动批准，默认关闭，且不适用于运维或浏览器客户端，也不适用于升级请求；二是 gateway.nodes.pairing.sshVerify，默认开启，网关通过 SSH 到节点主机校验设备密钥后自动批准首次 node 请求，所以列表里的请求可能刚出现就变成已批准。要改成纯人工配对，两个都得关掉。</p><h2>拒绝与入网码</h2><p>reject 需要确切的 requestId。拒绝之后，正在等待的 Control UI 浏览器会显示访问请求被拒并停止自动重试，用户可以点「再次请求」或刷新页面重新发起；拒绝不会写入设备封禁，只是这一次不放行。</p><p>join-code 走的是另一条路：它签发一个一次性的节点入网地址，带着管理员权限。把它打印出来的 npx 命令粘到目标机器上执行，那台机器就会注册成后台服务，可以跑代理会话；如果只要命令型节点，就去掉命令里的 --session-host 参数。文档提醒这个地址只该用在可信的共享设施上。还有一个容易搞错的点：join-code 不是手机 App 的配对码，Android 与 iOS 的接入要用 openclaw qr。</p><h2>连接参数上的一个坑</h2><p>devices 系列命令的公共选项包括 --url、--token、--password、--timeout 与 --json。--url 不写时默认取配置里的 gateway.remote.url。这里有一条警告值得抄在便签上：一旦显式设了 --url，CLI 就不再回落到配置或环境里的凭据，必须同时显式给 --token 或 --password，否则命令直接报错。远程排障时「明明环境变量里有令牌却不认」多半就是这个原因。</p>",
+    "url": "https://docs.openclaw.ai/cli/devices",
+    "category": "AI教程",
+    "date": "2026-11-07",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-audit-cli",
+    "title": "openclaw audit：查清「谁在什么时候跑了什么」，以及执行身份为什么要单独开",
+    "summary": "审计账本只记身份、顺序、动作与结果码，不存正文；运行与工具记录默认开，执行身份与消息记录默认关，开了不重启即生效但不回溯历史。",
+    "content": "<h2>账本记什么，不记什么</h2><p>openclaw audit 查的是网关侧一份只含元数据的活动账本。它能回答三个问题：某次代理或工具是谁触发的、什么时候跑的、以什么状态结束。文档特意把边界写清楚：这份账本与对话记录是两回事，它只保存身份、顺序、来源、动作、状态以及归一化后的结果码，从不保存内容，消息标识也只以「安装本地」的键控假名形式出现。换句话说，你查得到「谁在 Telegram 上给 main 代理发了一条消息并触发了工具调用」，但查不到那句话说了什么。</p><p>默认开关也值得记：运行（agent_run）与工具（tool_action）记录默认开启；执行身份默认关闭，新装和升级都一样，要显式打开——用 openclaw config set 把 logging.audit.executionIdentity 设成 true，而且它依赖 logging.audit.enabled 保持开启。消息记录同样默认关闭，需要把 logging.audit.messages 设成 direct 或 all 才会记。这些审计开关改完不用重启网关，但只对之后发生的事件生效，不会回填此前的活动；已有记录可以继续查到过期为止，保留期是 30 天。</p><h2>三条查询路径</h2><p>第一种是活动列表：不带参数就跑一遍，或按条件过滤。可按代理 ID、会话键、运行 ID、事件类型（agent_run、tool_action、message）、状态（started、succeeded、failed、cancelled、timed_out、blocked、unknown）、消息方向与渠道、时间区间（--after 与 --before，接受 ISO 时间或 Unix 毫秒）逐层收窄。文本输出给出时间、类型、方向、渠道、状态、代理、运行与动作，工具动作还会带上工具名；没有来源信息的字段显示为短横线，OpenClaw 不会替你编造代理或运行 ID。</p><p>第二种是按运行 ID 看一次完整活动，也就是 --run 加 ID。这个参数在不配 --explain 时只是过滤条件。第三种是 --explain，用来查看不可变的执行身份与运行准入理由，它要求 --run 或 --execution 二者恰好给一个，并且只接受 --limit、--cursor 与 --json 三个附加参数。想弄清「这条消息为什么被路由到这个代理、用了哪个身份」时，走的就是这条路。</p><h2>分页与导出</h2><p>默认一页 100 条，活动页可设 1 到 500，决策页 1 到 100，带 --explain 的候选执行页 1 到 50。JSON 输出在有下一页时会带 nextCursor，把它传给 --cursor 就能继续翻，且不会因为翻页期间有新记录写入而错位。</p><p>文档对导出的定性很谨慎：即使没有消息正文和原始消息标识，这些仍属于敏感运维元数据。代理、会话、运行的 ID，加上时间、渠道、结果和稳定的 HMAC 引用，足以把活动串起来，所以导出文件应当按其它运维记录同等的访问控制与保留策略来管。另外，持有 operator.read 的客户端都能看到保留的执行身份诊断，文档明确这只是一个可信的只读边界，不是面向敌对多租户的隔离。</p><h2>一条容易踩空的路</h2><p>直接在本机跑的 openclaw agent exec 默认会删掉它的临时状态目录，所以那次隔离运行的审计证据会随目录一起消失。这是有意设计：一次性执行不留痕。要让证据留下来，得用 --state-dir 指定一个持久目录，并且用指向同一状态目录的网关去查，否则你会在空的账本里找很久。</p>",
+    "url": "https://docs.openclaw.ai/cli/audit",
+    "category": "AI教程",
+    "date": "2026-11-07",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-inbound-webhooks",
+    "title": "OpenClaw 入站 webhook：/hooks/agent 与 /hooks/wake 的区别、200 到底代表什么",
+    "summary": "HTTP 钩子让外部服务唤醒代理或提交一个回合，默认关闭；200 只代表拿到会话准入，不代表模型跑完或消息送达，要看最终结果得加 waitForCompletion。",
+    "content": "<h2>它和另外两种钩子不是一回事</h2><p>OpenClaw 的网关 HTTP 钩子解决的问题是「外部服务怎么叫醒代理」。它默认关闭，需要显式打开。文档先把三个容易混淆的东西分开：这里是外部服务调用 OpenClaw；内部事件钩子（HOOK.md 处理器）是 OpenClaw 内部事件触发脚本；而出站 webhook 投递是自动化任务往外发通知。三者方向不同，配置也各自独立。</p><h2>开启与冒烟测试</h2><p>在配置里合并这样一段：hooks 下打开 enabled，token 填一段足够长的随机值，path 设为 /hooks，allowedAgentIds 限定为你要放行的代理，allowRequestSessionKey 先关着。文档强调这个 token 必须是钩子专用，不要拿网关的认证令牌或密码来凑。改完先 openclaw config validate 校验，再 openclaw gateway restart 让已安装的服务加载新配置，然后 openclaw logs --follow 盯着日志。</p><p>接着在另一个终端打一发无副作用的测试：往 /hooks/agent POST 一段 JSON，带上 Authorization 的 Bearer 令牌、Content-Type 与一个 Idempotency-Key，请求体里给 message、name、agentId 并把 deliver 设为 false。预期返回 200 与一个 ok 为 true、带 runId 的对象。</p><h2>那个 200 的含义被误解得最多</h2><p>文档用了加粗的语气说明：200 表示这次运行拿到了会话与全局的准入位置，不代表模型已经跑完、工具调用成功、或者消息已经送达。单次代理请求最多可能等 15 秒来拿准入，响应回来时模型运行时可能还在准备。所以拿 200 当「任务完成」的信号，是这类集成里最常见的错误。</p><p>需要在同一个请求里拿到终态与投递事实的调用方，就在 /hooks/agent 的载荷里加 waitForCompletion 为 true。这样响应会在准入后继续保持打开，直到这次运行落定，再返回 200 并附上 completion 对象：status、replyDisposition（visible、silent 或 empty，只给分类不给正文）、delivered、deliveryAttempted，以及可能的 deliverySuppressionReason。投递失败时 deliveryError 是一个固定值 delivery-failed，供应商、运行时、模型、目标、会话这些细节一律不外泄，响应里也永远不会有模型输出或摘要。想让丢失的响应可以安全重放，就带上 Idempotency-Key，同一个键加同一份载荷不会二次派发。</p><h2>两个端点的分工</h2><p>/hooks/wake 是往指定代理的主会话里塞一条可信通知。mode 为 now 时立刻走普通会话执行，返回 200 并带 eventOutcome：队列接受就是 queued，同一条唤醒已经是队列里最新的待处理事件则是 coalesced。这条事件排在会话已有的工作之后，不受心跳节奏与活跃时段影响。会话队列满了会返回 503 而不是踢掉一条已接受的事件。另一个取值 next-heartbeat 属于旧行为，会把事件分配给该会话上符合条件的定时自动化，没有合适任务时直接报一个可操作的错误。</p><p>/hooks/agent 则要求必须给 message，可选带路由、模型、思考档位、超时与去重字段。会话模式默认 isolated，每次拿到全新的运行会话，逻辑键是自动生成的 hook 加 UUID；要复用上下文才设 persistent，那时必须显式给 sessionKey，并打开 allowRequestSessionKey 且配置允许的键前缀。想做渠道直投，channel 与 to 必须成对给，只给一半、用 last 这种写法、或者账号无效，都会在派发前直接 400。不给目标时默认 deliver 为 true，会在目标代理的主会话里留一条完成系统事件；设成 false 则不播报，只在日志里记完成。</p><h2>自定义路径与状态码排障</h2><p>想接第三方服务的固定回调地址，就用 /hooks/&lt;name&gt; 这类映射钩子：先在 hooks.mappings 里声明，第一个匹配到的映射生效，模板或可信的本地 JS/TS 转换函数把载荷变成 wake 或 agent 动作，转换函数返回 null 就只回 204 不产生运行。带 forEach 的映射会对顶层数组做扇出，每个元素看到的是只含自己的一元数组——这就是 Gmail 预设里用 messages[0] 表示当前这封邮件的原因。扇出的准入最多等八秒左右，剩下的项在后台继续，部分成功会返回非 2xx。</p><p>排障看状态码就够了：401 查钩子令牌（不是网关认证）以及代理有没有转发认证头；404 查 hooks.enabled、hooks.path 与自定义路径是否命中映射；400 读错误详情，通常是 JSON、代理选择、会话策略或投递坐标不合法；405、408、413 分别对应方法、发送太慢与超出体积上限；429 是重复认证失败被限流，改对令牌并遵守 Retry-After；409 要先解决目标会话冲突；502 与 503 去网关日志里找准备、容量或重启相关的原因。最后两个坑：返回 200 却没有消息，先看完成日志，deliver 为 false 本来就不播报，而直投必须同时给 channel 与 to；返回 204 则说明映射有意不产生动作。</p>",
+    "url": "https://docs.openclaw.ai/automation/cron-jobs/webhooks",
+    "category": "AI教程",
+    "date": "2026-11-07",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-imap-mail-trigger",
+    "title": "OpenClaw 接 IMAP 邮箱：用受限读取代理处理来信，以及发件人认证的四档强度",
+    "summary": "内置 IMAP 插件只监听已有邮箱、为每封放行的来信起一个隔离会话，不发信也不改标记；发件人先过白名单再过 DMARC 档位，默认只认本地校验出的 verified。",
+    "content": "<h2>它做的事比想象中窄</h2><p>OpenClaw 内置的 IMAP 插件只做一件事：盯着一个已经存在的邮箱，对每一封被放行的来信，起一个独立隔离的代理会话来处理。文档把「不做」的部分列得很清楚——不发邮件、不改消息标记、不暴露公网 webhook、也不回填开始监听之前就已经在邮箱里的信。这个边界很重要，它意味着接上之后不会把你邮箱里的历史邮件一次性喂给模型，也不会替你回信。</p><h2>先造一个专门读信的代理</h2><p>开启插件之前，要先把读取代理配好。示例里主代理保持原样，另建一个 mail_reader：给它独立工作区，指定模型，沙箱模式设为 all、作用域按会话、工作区访问设为 none，工具档位用 minimal，只允许 session_status，把文件系统、运行时、网络、浏览器、定时任务、网关与节点这些组全部拒掉。这样即便邮件正文里藏了指令，这个代理也没有可用的手脚。</p><p>同时要保留原有代理的渠道归属，为已启用的渠道各写一条绑定，指向主代理。验证顺序在文档里给成了一串命令：openclaw agents list 看代理在不在，openclaw agents bindings 看绑定对不对，openclaw config validate 校验配置，再用 openclaw models status 带 --agent、--check、--probe 与 --probe-provider 确认读取代理的模型真的可用，接着用 openclaw agent 给它发一句要求原样回显的话来验证链路，最后 openclaw sandbox explain 加代理名，确认沙箱真的按你写的生效。</p><h2>邮箱侧的关键字段</h2><p>插件配置里每个账号一组参数：IMAP 主机、端口 993、secure 打开、用户名，密码用密钥引用（示例指向 store 里的 IMAP_PASSWORD，别明文写），mailbox 设为 INBOX。watch 里 mode 用 auto、pollSeconds 给 60，表示轮询节奏。allowedSenders 是发件人白名单，可以写完整地址，也可以写 @域名 形式。senderAuth 决定认证强度：min 设为 verified，trustedAuthservIds 填你信任的认证结果服务器，acceptTrustedAuthservId 设为 false 表示不采信外部断言。再往下是这个账号用哪个代理（agentId）、deliver 设 false 表示不往聊天渠道播报、includeBody 与 maxBytes 决定是否带正文以及截断上限，示例给的是两万字节。</p><p>还有一点值得对照：这条路径不需要 hooks.enabled、不需要 Google Cloud 项目、不需要 Tailscale Funnel，也不需要任何公网 HTTP 端点。它直接调用网关里可信的插件邮件派发器，所以 HTTP 钩子那套代理与会话白名单不是它的配置边界，真正起约束作用的是这个账号的 agentId、发件人策略与受限读取代理本身。</p><h2>白名单只是第一道，认证强度才是第二道</h2><p>插件会先拿解析出来的 From 地址去比对 allowedSenders，通过之后消息才可能到达模型。规则上有几个硬点：显示名和 Reply-To 都不能换来访问权；一封信里出现多个 From 地址直接拒绝；白名单为空等于停用这个账号。</p><p>第二道是认证强度，官方给了四档阶梯：verified、asserted、unverified、mutable。本地 mailauth 校验得出对齐的 dmarc 通过，记为 verified，默认就接受。由你配置并信任的 Authentication-Results 服务器声明 dmarc 通过，记为 asserted，默认不接受，要把最小档位调到 asserted 并显式打开 acceptTrustedAuthservId 才行。只有 SPF 通过、或者结果来自不受信任的服务器，记为 unverified，需要把 min 降到 unverified 才放行。至于拿不出证据、或者 DMARC 查询本身出错的情况，同样落在 unverified，还得再降档。默认配置之所以只认 verified，是因为前两档之外都能被发信方单方面影响，收信方不该替它背书。</p>",
+    "url": "https://docs.openclaw.ai/automation/imap",
+    "category": "AI教程",
+    "date": "2026-11-07",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-acp-bridge",
+    "title": "openclaw acp 桥：让 IDE 通过 ACP 跟网关对话，以及它明确不支持的几件事",
+    "summary": "ACP 桥在 stdio 上说协议、把提示转给网关的 WebSocket，会话仍映射到网关会话键；它不做会话级 MCP、不碰客户端文件系统与终端，结构化提问也会退回普通文本。",
+    "content": "<h2>先把方向搞对</h2><p>openclaw acp 起的是一个 ACP 桥：它在标准输入输出上说 Agent Client Protocol，把提示通过 WebSocket 转给网关，并让 ACP 会话始终对应到网关的会话键。它不是一个完整的 ACP 原生编辑器运行时，官方对它的定位是聚焦于会话路由、提示投递与流式更新这三件事。</p><p>这里最容易搞混方向。用 openclaw acp 时，是 OpenClaw 充当 ACP 服务端：编辑器或别的 ACP 客户端连过来，OpenClaw 把活转进网关会话。而 ACP Agents 那条路是反过来的——OpenClaw 通过 acpx 去启动 Codex、Claude Code 这类外部 harness。记一条简单规则：编辑器想用 ACP 跟 OpenClaw 说话，用 openclaw acp；OpenClaw 想启动别人，用 /acp spawn。另外，如果目的只是让外部 MCP 客户端直接和渠道里的对话打交道，应该看 openclaw mcp serve，而不是架 ACP 桥。</p><h2>已经实现的部分</h2><p>核心流程都齐了：初始化、新建会话、提交提示、取消，都能走通。会话列表支持有界游标分页，在网关会话行带工作区元数据时还能按 cwd 过滤；斜杠命令通过 available_commands_update 通告给客户端。会话列表与会话信息快照会把 OpenClaw 的父子血缘写进 _meta，这样 ACP 客户端不用走私有旁路就能画出子代理关系图。恢复会话会把 ACP 会话重绑到已有的网关会话上而不重放历史，关闭会话则取消活跃的桥内工作、把待处理提示解析为已取消并释放桥的会话状态。思考内容以 agent_thought_chunk 的形式流式下发；可见的助手文本以只追加的 agent_message_chunk 下发，工具调用前后的叙述都会保留。</p><h2>部分支持与明确的空白</h2><p>loadSession 是部分支持：对桥自己创建的会话，它会重放事件账本里的历史；老会话或没有账本的会话退回存储的用户与助手文本。提示内容里的文本与内嵌资源会被摊平进聊天输入，图片变成网关附件。会话模式方面只支持 session/set_mode，桥暴露的是网关侧的思考档位、工具啰嗦度、推理、用量细节与提权动作这几个开关，更广的 ACP 原生模式面不在范围内。工具调用事件会带原始输入输出、文本内容以及尽力而为的文件位置，但不提供内嵌终端与结构化 diff。执行审批只在当前这轮提示内转发给客户端，别的网关会话发起的审批会被忽略。</p><p>不支持的三项要提前知道：桥模式会拒绝会话级 MCP 服务器请求，MCP 得在网关或代理侧配；它不调用 ACP 客户端的文件读写方法；也不创建客户端终端、不在工具调用里传终端 id。还有一个使用体验上的差异：桥不转发结构化的用户提问，它的回合省略 ask_user，所以助手会用普通文本反问。之后从 Control UI 这类支持的客户端继续同一会话时，结构化提问会恢复。</p><h2>失败长什么样</h2><p>网关侧的故障会以 [OpenClaw interruption] 的形式作为消息更新出现，排在提示落定之前，并进入会话重放。模型输出撞到 token 上限时，ACP 停止原因是 max_tokens；用户取消则是 cancelled。这些映射比原生 ACP 运行时粗一些，但足够让客户端区分「被打断」「被截断」与「被人停掉」。</p><h2>启动参数与已知限制</h2><p>直接跑 openclaw acp 就连本机网关；远程场景加 --url 指 wss 地址并配 --token，或者用 --token-file 从文件读令牌。想接进已有会话就加 --session 加上会话键，或用 --session-label 指一个已存在的标签，需要清空上下文再开就加 --reset-session。新建的桥会话会把绝对 cwd 通过网关的会话创建流程持久化，后续提示就在那个目录里执行——注意这个目录在网关主机上，并遵循网关的工作区与 operator.admin 策略。</p><p>限制清单里有两条值得抄进备注：ACP v1 无法撤回或替换已经显示出来的文本，同一项重复快照只会追加延伸的后缀，不兼容的重写会被直接忽略，所以别指望它像网页那样「改写上一句」；多个 ACP 客户端共用同一个网关会话键时，事件与取消的路由是尽力而为而非严格隔离，想要干净的编辑器本地轮次，就用默认的隔离会话（键形如 acp-bridge 加 UUID）。用量更新同样只是近似值，来自网关会话快照，且只有网关把 token 总数标记为新鲜时才发。</p>",
+    "url": "https://docs.openclaw.ai/cli/acp",
+    "category": "AI教程",
+    "date": "2026-11-07",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-connect-node",
+    "title": "openclaw connect：用一条粘贴命令把机器接成网关节点，短码只有十分钟",
+    "summary": "join-code 签发的一次性地址带 128 位熵、约十分钟过期且只能取一次；--service 装后台服务，--session-host 才是同意托管会话，两者默认不该一起无脑加。",
+    "content": "<h2>它解决的是一台空白机器的接入</h2><p>openclaw connect 把当前这台机器作为无头节点接到网关。它做的事有三步：兑换一份短期的引导凭据，把网关端点写进已有的节点宿主状态，然后跑起和 openclaw node run 相同的运行时。适合的场景是没有图形界面、不想手动抄配置的机器——比如一台只用来跑构建的服务器，或者一台专门挂浏览器的机器。</p><h2>先生成加入命令</h2><p>在网关所在机器上，用管理员账号执行 openclaw devices join-code。它会打印一个 URL，以及一条可以直接粘贴的命令，形如 npx -y openclaw 加网关版本号，再 connect 加那个短码地址，后面跟 --service 与 --session-host。这条命令装的是后台服务，并允许该节点跑代理会话。</p><p>关于 --session-host 有个容易被忽略的语义：只有在你能把整台机器当作共享网关基础设施来信任时，才该开会话托管。打印出来的命令之所以显式带上它，就是要把这份同意写在明面上，因为节点运行时本身的默认值是不托管。如果只需要一台执行命令的节点，去掉 --session-host、保留 --service 就好。还有一点：npx 前面的 -y 只跳过 npm 的安装确认，不代表你同意了 OpenClaw 的配对或会话托管。</p><p>版本上还有个细节：网关会选它自己发布的 npm 版本，即使你是在另一个版本的 CLI 上跑的 join-code。源码检出或未发布的构建，会尽量用可解析的匹配发布通道标签，实在没有就用不锁版本的 openclaw 并提示你换成与网关匹配的构建。注册表探测被限制在两秒内，网络不通时同样给出这条提示，而不是卡住。</p><p>机器上已经装过 OpenClaw 的话，直接 openclaw connect 加地址再跟 --service 与 --session-host 即可，走的是本地已装构建——前提是它和网关版本对得上。</p><h2>短码的寿命与一次性</h2><p>短码带 128 位熵，随 setup 凭据一起在大约十分钟后过期，而且只能被取一次。过期了或者已经被用掉，就回网关重新生成一个，不要试图复用旧的。这个设计把「命令泄漏」的窗口压得很短，代价是自动化流程里要留出重新签发的时间。</p><h2>不要服务、只跑前台</h2><p>想先试试而不装服务，就把 --service 与 --session-host 都去掉，用 npx openclaw connect 加地址，进程会一直停在前台直到你手动结束。注册时还能用 --display-name 给设备起个名字，比如叫构建节点，之后在设备列表里一眼能认出来。</p><h2>只暴露部分命令</h2><p>有些节点不该拥有全部能力，这时用 --commands 传一串精确的命令 ID，逗号分隔，参数可重复。文档给了一个会话共享节点的例子，只开列出会话与读取会话两条命令。这个允许列表是持久的节点状态，装了服务之后依然生效；省略该参数则保留之前保存的列表。它会同时过滤可用命令与这些命令所需的能力，并连带关掉计算机使用、技能、插件工具发布、MCP 服务器与 worker 托管。如果最后没有任何一条请求的命令可用，启动会直接失败——这是有意的失败，好过给你一台看起来正常但什么都干不了的节点。网关侧批准配对时，会显示这台节点最终申报了哪些命令。</p><p>想恢复完整的默认能力面，前台节点用 openclaw node run 配 --all-commands，已安装的服务用 openclaw node install 配 --force 与 --all-commands。</p>",
+    "url": "https://docs.openclaw.ai/cli/connect",
+    "category": "AI教程",
+    "date": "2026-11-07",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-discord-voice-transcripts",
+    "title": "OpenClaw 录 Discord 语音频道：autoJoin 不等于开录，批量转写才决定覆盖率",
+    "summary": "voice.autoJoin 只管在场与对话，持久录制要显式启动；全覆盖依赖每个说话者一条音频流加批量转写，只有实时连接时只能拿到被放行说话者的最终文本。",
+    "content": "<h2>第一个误解：进了频道就在录</h2><p>OpenClaw 的 Discord 语音渠道里，voice.autoJoin 控制的是在场与对话，它并不启动持久录音。想要留下可查的转写，必须显式启动捕获：一是让有权限的代理调用 transcripts 工具，二是配置一个已有的 transcripts.autoStart 来源。这两条路都不走自动，所以「机器人明明在频道里，为什么没有记录」这类问题的答案通常就在这里。</p><h2>启动捕获要指定到房间</h2><p>代理发起捕获时给的参数很具体：动作是 start，providerId 写 discord-voice，再给 accountId、guildId 与 channelId。捕获会一直订阅这个确切的账号、服务器与频道，直到被停止。它附着到已经存在的匹配语音连接上，不改变对话归属，也不改变占用归属；如果这个目标和该账号配置的 autoJoin 目标一致，正常语音对话照样可用，谁先启动都不影响。把 whenOccupied 设为 true 时，连续捕获会在空房间里等着，等到下一次正常加入再续上；它也会跟随同频道的连接恢复，以及同一账号语音管理器被替换的情况。有一条边界要记住：捕获永远不会把一个已有连接挪到别的频道去。</p><h2>录制权限与对话权限是两套</h2><p>文档把这件事说得很清楚：授权的捕获会记录所选房间里的参与者，而这个行为独立于命令权限。服务器与频道的用户、角色、commands.ownerAllowFrom，以及唤醒名门控，依然在管对话、代理工具与活跃运行的控制；录制本身不授予其中任何一项权限。换句话说，被录下来不等于能指挥机器人。另一个细节是受保护播放期间的说话会被录进去，但既不打断播放，也不触发回复。</p><p>还有个时序上的特殊性：如果 OpenClaw 订阅时房间里已经有人在说话，它会录下能拿到的语音，但不会把这部分当作对话输入或命令。要进入正常对话，需要等当前这条接收流结束、来一条新的流；短暂的停顿只要在 voice.captureSilenceGraceMs 之内，就仍然保持当前流与「只录不回」的状态。</p><h2>为什么覆盖率取决于批量转写</h2><p>完整录制需要批量音频理解。录制对每个说话者用一条音频流并做批量转写，结果里带接收者的用户 ID、独立解析出来的显示标签以及音频进入时间。被授权的说话者可以用同一份解码后的音频喂实时对话；即使所有实时说话者连接都忙，录制也会继续。代价是实时语音要多花一次批量转写，但换来的是持久录制不依赖实时供应商的投递与对话授权。连续说话会被切成连续且有界的音频上传，这些是同一次捕获会话里的分段，不是好几场会议。在 stt-tts 模式下，授权对话会共用这份批量转写，并等正常语音结束后再回复。</p><p>只有实时连接的旧配置也有退路：批量转写关闭或没有可用的批量后端时，可以记录活跃的每说话者连接的最终文本。但这条路限制很多——每个提交的音频包都必须属于同一次活跃捕获，要等所有批量工作落定，且不会重复已经成功或静默的批量结果；混合输入、失败或超大音频、供应商连续性重置都不会产出回退文本。最关键的一条：它只覆盖被放行进入实时对话的说话者，因此不构成独立的房间录制。用 /vc status 可以看到覆盖警告，它会提示你去配置音频转写。另外，如果把 tools.media.audio.enabled 设为 false 再启动捕获，就要求已经存在活跃的实时对话，否则直接返回失败。</p><h2>落地建议</h2><p>要把录音转成可用的会议纪要，顺序应该是先确认批量音频后端可用，再启动捕获，最后才谈纪要生成；反过来做，你会拿到一份只有部分说话者、部分时段的转写，而且很难判断缺的是哪一段。房间侧也要提前对齐：需要被记录的参与者是否都在允许进入对话的名单里，决定了实时路径能覆盖到谁。</p>",
+    "url": "https://docs.openclaw.ai/channels/discord/voice-transcripts",
+    "category": "AI教程",
+    "date": "2026-11-07",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-msteams-manifest-permissions",
+    "title": "OpenClaw 接 Teams 的权限账：RSC 只管实时，Graph 才补历史与附件",
+    "summary": "只给 RSC 时频道图片与文件只有一个 HTML 存根，历史也读不到；要拿 SharePoint 附件或补离线期间的消息，必须在 Entra ID 加 Graph 应用权限并让管理员同意。",
+    "content": "<h2>RSC 权限的范围只有安装处</h2><p>OpenClaw 的 Teams 应用在清单里声明了一组 resourceSpecific 权限，它们的作用范围被严格限定在应用被安装的那个团队或聊天里，不是整个租户。频道侧（团队作用域）包括：读全部频道消息而无需 @ 的 ChannelMessage.Read.Group、发消息的 ChannelMessage.Send.Group，以及成员、所有者、频道设置、团队成员、团队设置这几项读取权限。群聊侧只有一条 ChatMessage.Read.Chat，作用同样是无需 @ 就能收到全部群消息。这些都以应用身份声明。</p><p>要给已有应用补权限，不必手改压缩包，用 Teams CLI 一条命令即可，指定应用 ID、权限名与类型。清单本身也有最小可用的骨架：schema 指向 Teams 的 v1.23 定义，manifestVersion 写 1.23，再填版本号、应用 ID、短名称、开发者信息（含网站、隐私与使用条款地址）、描述、两个图标文件、主题色。机器人节点里写 botId、作用域列表（个人、团队、群聊）、是否只做通知、是否支持通话与视频、是否支持文件；webApplicationInfo 里的 id 与 botId 一致；授权段落下就是那一串 resourceSpecific 权限。</p><h2>只有 RSC 时会缺什么</h2><p>官方把边界列成两张清单，很值得对照。能用的：读频道消息的文本、发频道消息的文本、接收个人私聊里的文件附件。不能用的：频道与群里的图片或文件内容——载荷里只有一个 HTML 存根；下载存放在 SharePoint 或 OneDrive 里的附件；以及读取实时 webhook 事件之外的消息历史。最后这条最容易被低估：机器人离线期间的消息，RSC 一点都补不回来。</p><p>两种方式的分工可以一句话概括：RSC 负责实时监听，Graph 负责历史访问。RSC 只靠应用清单，Graph 需要管理员同意与令牌流程；RSC 必须机器人正在运行，Graph 可以随时离线查询。要对上错过的消息，就得给 Graph 的 ChannelMessage.Read.All，并且要租户管理员同意。</p><h2>补 Graph 权限的四步</h2><p>第一步在 Entra ID 的应用注册里加 Graph 的应用权限：频道附件与频道历史要 ChannelMessage.Read.All，群聊附件与群聊历史要 Chat.Read.All，只有确实需要从 SharePoint 或 OneDrive 下载附件字节时才加 Files.Read.All——只做历史的配置不需要它。第二步在租户上授予管理员同意。第三步递增 Teams 应用清单版本、重新上传，并在 Teams 里重装应用。第四步完全退出并重启 Teams 客户端，注意是退出进程而不是关窗口，否则缓存的应用元数据不会刷新。</p><p>清单更新有两条路：用 CLI 下载、本地改、再上传，内容变化时版本会自动加一；手工则要自己改 JSON、把版本号从类似 1.0.0 抬到 1.1.0、连同两个图标重新打成压缩包，再从 Teams 管理中心上传新版本，或者走侧载的自定义应用入口。无论哪条路，改完都要在每个团队里重装一次。</p><h2>一个专门为附件丢失准备的回退</h2><p>Teams 有时会把文件标记从发给机器人的 HTML 活动里摘掉。这时那条活动与普通 HTML 消息在机器人眼里完全没有区别，完整的附件引用只存在于 Graph 那份消息副本里。OpenClaw 为此提供了一个 graphMediaFallback 开关：先按上面的步骤授好权限，再在渠道配置里打开它，机器人就会在识别不出附件时回到 Graph 去取。这也是为什么权限这件事不能「先跑起来再说」——回退路径本身就依赖那些权限，没授就只是一个看起来生效、实际取不到东西的开关。</p>",
+    "url": "https://docs.openclaw.ai/channels/msteams/manifest-and-permissions",
+    "category": "AI教程",
+    "date": "2026-11-07",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-feishu-dynamic-agents",
+    "title": "OpenClaw 飞书按人分代理：dynamicAgentCreation 与 dmScope 该怎么配",
+    "summary": "打开动态创建后，每个私聊用户拿到独立工作区、各自的 SOUL/MEMORY 与私有历史；dmScope 是全局开关，选 main 能自动加载 bootstrap 文件，选 per-channel-peer 隔离更强但要自己管这些文件。",
+    "content": "<h2>它想解决的问题</h2><p>把飞书机器人开放给一群人用时，最常见的翻车方式是所有人共用同一个代理：A 的偏好被写进了记忆，B 一问就带出来；一个人上传的资料，另一个人能顺着上下文摸到。OpenClaw 的飞书渠道提供了按人隔离的方案，打开 dynamicAgentCreation 之后，每个私聊发送者都会得到一个独立的代理实例，拥有自己的工作区目录、各自的 USER.md、SOUL.md 与 MEMORY.md、私有的对话历史，以及隔离的技能与状态。对公开机器人来说，这基本是必备项。</p><p>动态绑定里带上了归一化后的飞书账号 ID，所以默认账号与命名账号都能把同一个发送者路由到正确的动态代理。这里有个历史包袱要注意：如果某个命名账号在旧版本上创建过没带作用域的动态代理，那个遗留代理仍然占着 maxAgents 的名额。删除之前要先确认默认账号没有在用它，或者临时把上限调高——OpenClaw 无法安全推断这种模糊的遗留状态归谁所有。</p><h2>最小可用配置</h2><p>渠道侧要放开私聊策略并把允许名单设为全部，再打开动态创建，给出两个模板：工作区模板写成家目录下的 workspace- 加代理 ID，代理目录模板写成 agents 下代理 ID 再进 agent 子目录。会话侧要把 dmScope 设成 main，这一步是关键——它让每个用户的私聊成为该代理的主会话，从而自动加载 USER.md、SOUL.md 与 MEMORY.md。文档也提示，要更强的隔离就换成 per-channel-peer。</p><p>首次私聊进来时的流程是固定的五步：渠道生成唯一代理 ID（默认账号是 feishu- 加飞书 open_id，命名账号则是一个有长度限制、带账号前缀的身份摘要）；按模板建工作区；注册代理并为这个用户建绑定；工作区助手在首次访问时补齐缺失的 bootstrap 文件，包括 AGENTS.md、SOUL.md、USER.md 等；此后该用户的所有消息都路由到他的专属代理。配置项里 enabled 默认关闭，两个模板的默认值就是上面那两条路径，maxAgents 默认不设上限，模板里可用 {agentId} 与 {userId} 两个变量，后者是发送者的飞书 open_id。</p><h2>dmScope 的四档与代价</h2><p>这个设置是全局的，影响所有渠道而不只是飞书。main 把每个用户的私聊映射到其代理的主会话，适合单人机器人，好处是 bootstrap 文件自动加载。per-peer 按对端身份分会话，不管来自哪个渠道。per-channel-peer 按渠道加用户的组合分会话，是公开多用户机器人要更强隔离时的选择。per-account-channel-peer 再叠加账号维度，适合命名账号之间也要隔离同一发送者的场景——动态绑定本身保留了账号作用域，配这一档正好对齐。</p><p>权衡写在文档里：用 main 能自动加载 USER.md、SOUL.md 与 MEMORY.md，但所有渠道的私聊共享同一套会话键模式；公开多用户场景如果更在意隔离，就该选 per-channel-peer，并自己管理 bootstrap 文件，因为自动加载不会再发生。</p><h2>一套典型的多用户部署</h2><p>把渠道凭据、开放的私聊与群策略、需要 @ 才响应、动态创建的两个模板一起配好，会话侧选好 dmScope，绑定列表留空——动态代理会自动绑定，不需要你手写。上线后验证方式是看网关日志里是否出现动态创建记录，以及新用户首条私聊之后工作区目录是否真的按模板生成。如果日志里没有动静，先回头检查 dmScope 与 allowFrom：动态创建解决的是「每个用户一个代理」，它并不会绕过私聊准入策略。</p>",
+    "url": "https://docs.openclaw.ai/channels/feishu/dynamic-agents",
+    "category": "AI教程",
+    "date": "2026-11-07",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
   }
 ]
