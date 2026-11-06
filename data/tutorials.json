@@ -614,5 +614,115 @@
     "date": "2026-06-15",
     "thumbnail": "https://www.google.com/s2/favicons?domain=office-ai.cn&sz=64",
     "is_new": false
+  },
+  {
+    "slug": "openclaw-discord-bot-setup",
+    "title": "OpenClaw 接入 Discord：建应用、开 intent 与配对放行",
+    "summary": "Discord 通道最容易卡在两步：特权 intent 没开、首条私信没配对。按官方文档把权限和配对一次配好。",
+    "content": "<h2>OpenClaw 的 Discord 通道在整条链路里的位置</h2>\n<p>OpenClaw 是一个自托管的网关进程，负责把 Discord、Slack、Telegram、iMessage 这类聊天平台接到你自己的 AI 智能体上。Discord 通道要做的事只有一件：让你在熟悉的服务器和私信里直接对智能体说话，不必再开一个网页控制台。官方文档把这条链路拆成五段——在开发者后台建应用、打开特权 intent、取 token、把机器人邀请进服务器、完成首次配对。这五段的顺序不能颠倒，因为「机器人显示在线却不回话」几乎都出在前两段。</p>\n<h2>建应用时就要把权限开对</h2>\n<ul>\n<li>在 Discord Developer Portal 新建 Application，再进 Bot 页把 Username 改成你希望智能体显示的昵称，这个名字会出现在每条回复旁边。</li>\n<li>在 Privileged Gateway Intents 里打开 Message Content Intent，它是读取普通频道消息的必需项；Server Members Intent 被官方标为推荐，因为角色白名单、名字到 ID 的匹配、频道受众访问组都依赖它；Presence Intent 只在需要感知在线状态时才开。</li>\n<li>Bot 页的 Reset Token 按钮名字容易误解，它实际是首次生成 token，并不是把旧 token 重置。复制后立刻存进密钥管理，不要贴进聊天窗口。</li>\n</ul>\n<p>接着去 OAuth2 的 URL Generator 生成邀请链接。Scopes 需要 bot 与 applications.commands；Bot Permissions 至少给 View Channels、Send Messages、Read Message History、Embed Links、Attach Files，想用表情回应再加 Add Reactions。如果智能体会在帖子串里发言，还要补上 Send Messages in Threads，否则它能在频道说话却在线程里静默失败。</p>\n<h2>把 token 交给 OpenClaw，再完成配对</h2>\n<ol>\n<li>在 Discord 客户端打开开发者模式，右键服务器图标复制 Server ID，右键自己的头像复制 User ID，这两个 ID 后面配对和建工作区都要用。</li>\n<li>右键服务器图标进 Privacy Settings，打开 Direct Messages，让服务器成员可以私信机器人。配对流程依赖这条私信通道，关掉就收不到配对码。</li>\n<li>在运行 OpenClaw 的机器上导出 DISCORD_BOT_TOKEN，写一份只含 channels.discord 的 JSON5 补丁，把 token 写成指向环境变量的 SecretRef，先用 openclaw config patch --file 加 --dry-run 预演，确认无误再去掉参数正式写入。</li>\n<li>启动 openclaw gateway。如果它已经作为后台服务运行，需要重启服务或改从 openclaw gateway run 进程重启，配置才会生效。</li>\n<li>在 Discord 里私信机器人，它会回一个配对码。用 openclaw pairing list discord 查看待批准记录，再 openclaw pairing approve discord 加配对码放行。配对码一小时过期，超时重新私信即可。</li>\n</ol>\n<h2>把服务器变成多会话工作区</h2>\n<p>私信跑通之后，官方建议进一步把整个服务器加成工作区：在 channels.discord 下把 groupPolicy 设为 allowlist，并把你的 Server ID 写进 guilds，配 requireMention 与允许的 users。默认情况下智能体只在被 @ 时回复频道消息，私人服务器可以把它改成 false 让它对每条消息都响应。每个频道是独立会话，可以按用途分 #coding、#research 这样的房间，上下文互不干扰。</p>\n<p>有一个细节常被忽略：长期记忆文件只在私信会话里自动加载，频道会话不会加载。如果你希望它在频道里也能用到长期笔记，需要在指令里让它主动调用记忆检索工具，或者把稳定不变的约定写进每次会话都会注入的项目说明文件。</p>\n<h2>两个已知的边界情况</h2>\n<p>如果服务器策略不允许授予 Message Content Intent，OpenClaw 仍可在私信和被明确 @ 的频道里工作，做法是把 intents.messageContent 设为 false 让网关不再请求这个特权 intent，同时保证每个频道都要求 @。代价是它看不到其它成员的自由发言。另一个情况是多机器人：每个账号的 token 与 applicationId 要写进各自的 accounts 条目，顶层的 applicationId 会被所有账号继承，只在所有账号共用同一个应用时才放在顶层。</p>",
+    "url": "https://docs.openclaw.ai/channels/discord/setup",
+    "category": "AI教程",
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-slack-app-setup",
+    "title": "OpenClaw 接入 Slack：Socket Mode 与 HTTP 两种走法怎么选",
+    "summary": "Slack 通道要先装插件、用 manifest 建应用，再在 Socket Mode 和 HTTP Request URL 之间选一条；身份还能选机器人或真人。",
+    "content": "<h2>Slack 通道不是装完插件就能用</h2>\n<p>OpenClaw 的 Slack 支持以插件形式提供，装完之后还有三件事要做：在 Slack 侧建应用、给 OpenClaw 一对 token、决定消息以谁的身份发出。官方文档把这三件事分开写，是因为它们各自会失败，混在一起排查会很痛苦。插件安装命令是 openclaw plugins install @openclaw/slack，它只负责注册并启用插件，不配置任何账号；在没填应用凭据之前，它什么都不会做。</p>\n<h2>两条传输路线，先选一条</h2>\n<ul>\n<li><strong>Socket Mode</strong> 是默认路线。它的好处是网关不需要公网地址，本机或内网机器都能跑。代价是要额外生成一个应用级 token，并给它 connections:write 权限。</li>\n<li><strong>HTTP Request URL</strong> 需要网关有一个 Slack 能访问到的公网地址，事件订阅与交互都指向同一个路径，默认是 /slack/events。它的好处是不用维护长连接，适合已经暴露在公网的部署。</li>\n<li>多账号同时走 HTTP 时，每个账号必须给不同的 webhookPath，否则注册会互相覆盖。</li>\n</ul>\n<p>建应用的方式两种路线通用：打开 api.slack.com/apps/new，选 From a manifest，挑一个工作区，把官方给的 manifest 粘进去。官方提供 Recommended 与 Minimal 两份：前者覆盖 App Home、斜杠命令、文件、表情回应、置顶、群组私信以及 emoji 与用户组读取；后者用于工作区策略限制较多的场景，保留私信、频道与群组历史、@ 提及和斜杠命令，但去掉文件、表情、置顶、群组私信等权限。选哪份取决于你们管理员愿意批多少 scope，不必一上来就要全套。</p>\n<h2>token 组合是对应的，缺一个就起不来</h2>\n<ol>\n<li>Socket Mode 下，在 Basic Information 里生成 App-Level Token 并加上 connections:write，再在 Install App 里装到工作区，拿到 Bot User OAuth Token。两个 token 分别对应 appToken 与 botToken。</li>\n<li>HTTP 模式下改成 botToken 加 signingSecret，签名密钥在 Basic Information 的 App Credentials 里，用于校验请求来源。</li>\n<li>把 token 写成都指向环境变量的 SecretRef，用 openclaw config patch 的 --dry-run 预演一次再正式写入，最后启动 openclaw gateway。</li>\n<li>如果状态查询显示某个凭据是 configured_unavailable，意思是配置指向了密钥源但当前进程解析不到实际值，通常是把变量导在了另一个 shell 里。</li>\n</ol>\n<h2>以真人身份发言这条支线</h2>\n<p>默认身份是机器人，消息显示为应用名。OpenClaw 还支持 postAs 设为 user，用你授权后的用户 token 发言，其他人看到的是你本人在说话。这条路线要求一个「陪跑应用」专门承载 Events API 流量，它不需要机器人用户也不需要 botToken，但必须在用户级事件订阅里勾上 message.channels、message.groups、message.im、message.mpim 这四类，并且用用户级 scope 授权。需要提醒的是：机器人无法加入人和人之间的一对一私信，也无法被塞进已有的群组私信，所以私信场景只能靠用户身份实现。用户 token 默认是只读语义，要让写入也走用户身份得显式关掉只读限制。</p>\n<h2>选型建议</h2>\n<p>如果你只是自己用、机器在家里或公司内网，Socket Mode 加机器人身份是最省事的组合，不需要公网入口也不需要处理签名。如果团队希望智能体以某个同事的身份在频道里回复，才值得引入用户身份，同时要接受它带来的一整套用户级 scope 审批。反过来，如果部署在已经有反向代理的公网环境，HTTP 模式少一条长连接，排查网络问题时也更直观。</p>",
+    "url": "https://docs.openclaw.ai/channels/slack/setup",
+    "category": "AI教程",
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-imessage-macos",
+    "title": "OpenClaw 接 iMessage：imsg 桥接与 macOS 权限清单",
+    "summary": "iMessage 通道必须有一台登录了信息的 Mac，权限按进程上下文授予；远程模式要写一个不缓冲的 SSH 包装。",
+    "content": "<h2>iMessage 通道的物理前提</h2>\n<p>OpenClaw 接 iMessage 不是调用某个云端接口，而是在一台登录了「信息」应用的 Mac 上，通过一个叫 imsg 的本地程序读写消息数据库。这意味着两件事：你必须有一台常开的 Mac 并且它已经登录 Apple ID；网关进程必须拿到足够的系统权限。官方把安装顺序写成「装插件、装并验证 imsg、配置通道、授予权限」，其中权限是最后一步却最容易被漏掉。</p>\n<h2>本机模式的四步</h2>\n<ol>\n<li>在网关主机上执行 openclaw plugins install @openclaw/imessage，然后先确认插件的应用结果，再往下走。</li>\n<li>用 Homebrew 安装 imsg，装完执行 imsg rpc --help 验证二进制可用，再用 imsg launch 启动桥接，最后用 openclaw channels status --probe 确认通道能被探测到。</li>\n<li>在配置里打开 channels.imessage，填两项关键值：cliPath 指向 imsg 的绝对路径，dbPath 指向 ~/Library/Messages/chat.db。本地向导检测到没装 imsg 时会提示通过 Homebrew 安装，检测到已有 Homebrew 版本时会提示升级，但你自己写的包装脚本它不会去改。</li>\n<li>启动网关后私信机器人，用 openclaw pairing list imessage 与 openclaw pairing approve imessage 加配对码放行，配对请求一小时过期。</li>\n</ol>\n<h2>权限是按进程上下文给的</h2>\n<ul>\n<li>完全磁盘访问权限是必须的，因为要读信息应用的数据库文件。</li>\n<li>自动化权限也是必须的，发消息最终要经过「信息」应用。</li>\n<li>表情回应、编辑、撤回、富文本效果、投票、群组管理这些进阶动作还需要关闭系统完整性保护；只收发文字与媒体不需要。</li>\n<li>权限绑定在发起请求的进程上下文上。如果网关以 LaunchAgent 或 SSH 方式无界面运行，弹窗永远不会出现，需要在同一个上下文里手动跑一次 imsg chats --limit 1 或 imsg send 来触发授权提示。</li>\n</ul>\n<h2>远程 Mac 模式的坑集中在包装脚本</h2>\n<p>大多数部署不需要远程模式，只有当网关跑不到那台登录了信息的 Mac 上时才用它。做法是把 cliPath 指向网关主机上的一个 stdio 包装脚本，脚本内部 SSH 到信息 Mac 执行 imsg，同时用 remoteHost 告诉 OpenClaw 那台机器的地址。官方对包装脚本的要求很具体：必须像透明管道一样，stdin 一有字节就转发、stdout 立刻回传、保留换行、不要做固定大小的阻塞读、stderr 与 JSON-RPC 的 stdout 分开。原因是这条通道走的是长连接的小帧 JSON-RPC，任何缓冲都会让帧卡住，表现出来的症状是 imsg rpc timeout 或通道反复重启，看着像 iMessage 挂了，实际是包装脚本在攒数据。ssh -T 主机名 imsg 这种直通写法是安全的，而 ssh 主机名 imsg 接管道再 grep 过滤就不安全，非要过滤得给每一段加行缓冲。</p>\n<p>另一个常见报错是发消息时报 AppleEvents -1743，即无权向「信息」发送 Apple 事件。查询系统的权限记录常会发现授权对象被记成了 SSH 服务的包装进程，而界面上根本没有对应的开关可点。官方给的出路是让网关或至少 imsg 桥接跑在登录用户的本地会话里，或者改用 LaunchAgent 启动，并在同一会话里先授予磁盘与自动化权限；如果两个用户的 SSH 结构改不动，至少要在开启通道前用真实的 imsg send 验证一次能发出去。</p>\n<h2>什么时候值得开这条通道</h2>\n<p>它的价值在于「不用装任何新客户端」——消息直接进 iPhone 和 Mac 的信息应用，回复也在同一个对话框里。代价是一台常开 Mac 和一组系统级权限，还要接受苹果那套 TCC 授权按进程绑定的规则。如果你的团队本来就用 Telegram 或 Slack，用那些通道的成本更低；只有当收消息的人坚持用 iMessage 时，这条路的取舍才划算。</p>",
+    "url": "https://docs.openclaw.ai/channels/imessage/setup",
+    "category": "AI教程",
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-automations-scheduler",
+    "title": "OpenClaw 定时任务：五种调度方式与隔离会话的取舍",
+    "summary": "automations 是网关内置的调度器：五种触发方式、时区与错峰规则、main 与 isolated 会话各自适合什么任务。",
+    "content": "<h2>automations 是网关自带的调度器</h2>\n<p>OpenClaw 的 automations 不是外挂的 cron，而是网关进程内的一部分：它把任务持久化，到点唤醒智能体，再把结果投递到某个聊天频道、一个 webhook，或者干脆不投递。管理入口是 openclaw automations 系列命令，openclaw cron 是同一组命令的别名，两个名字可以混用。理解它的关键是把「什么时候触发」和「在哪个会话里跑」当成两个独立维度，官方文档也是按这两条线拆的。</p>\n<h2>五种调度方式</h2>\n<ul>\n<li><strong>at</strong>：一次性时间点，接受 ISO 8601，也接受 20m 这类相对写法，适合一次性提醒。</li>\n<li><strong>every</strong>：固定间隔，如 10m、1h、1d，语义最直白，但不会对齐到自然时间边界。</li>\n<li><strong>cron</strong>：五段或六段表达式，可配时区，适合「每周一早上」这类日历语义。</li>\n<li><strong>on-exit</strong>：被监视的命令退出时触发一次，适合「构建结束后汇报」。</li>\n<li><strong>stream</strong>：由一个被托管的常驻命令持续输出，按批处理的行流触发，适合盯日志。</li>\n</ul>\n<p>时区规则容易踩坑：不带时区的时间戳按 UTC 解释，要按本地时间理解就加 --tz 加 IANA 时区名；cron 表达式不加 --tz 时用的是网关主机的时区。--tz 不能与 every 或 on-exit 一起用。整点类的重复表达式（分钟为 0、小时为通配）会被自动错峰最多五分钟以削峰，需要精确准点就加 --exact，或者用 --stagger 指定一个明确的窗口。</p>\n<h2>会话说选：main 还是 isolated</h2>\n<ol>\n<li>--session main 让任务在所属智能体的主会话里跑，跟你在聊天里说话是同一个上下文，适合提醒和系统事件。</li>\n<li>--session isolated 每次开一个全新会话，不带聊天历史，适合后台巡检、定时汇总这类不需要连续性、也不该污染主对话的任务。</li>\n<li>还有 current 与 custom 两种目标，用于沿用当前会话或指定一个自定义会话键。</li>\n<li>一次性任务配上 --delete-after-run，跑完自动删除，省得清理列表。</li>\n</ol>\n<p>隔离会话会额外做一层模型预检：启动前检查本机可达的本地模型端点，如果任务配置的主模型和后备链全都不可达，这次运行会被标记为 skipped 并给出明确错误，而不是硬发一次注定失败的请求。这个检查结果按端点缓存五分钟，所以多个同时到点的任务共用一次探测，不会把已经挂掉的本地服务打成请求风暴。被跳过的运行不计入错误退避，后续探测恢复后任务会自动继续。</p>\n<h2>表达式里那个不直观的「或」</h2>\n<p>cron 表达式由 croner 解析。当日和星期两个字段都不是通配符时，它按 Vixie cron 的老规矩取「或」而不是「且」——写 0 9 15 * 1 的意思是每月 15 号或者每周一，实际触发次数远多于直觉。确实要两个条件同时满足，得用 croner 的加号修饰写法，或者只在一个字段上排程、在任务指令里自己判断另一个条件。这个差异在写月度任务时最容易出错。</p>\n<h2>无人值守的安全边界</h2>\n<p>条件触发脚本和脚本型载荷默认是以所属智能体的完整工具策略运行的，包含执行命令的能力，也就是说这类任务本质上是无人值守的代码执行。官方给的硬开关是把 cron.triggers.enabled 设为 false，它会同时停用流式调度、条件触发脚本与脚本载荷。如果只是想让某个任务别再跑，用任务级的管理命令停用比关全局开关更合适。</p>",
+    "url": "https://docs.openclaw.ai/automation/cron-jobs",
+    "category": "AI教程",
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-internal-hooks",
+    "title": "OpenClaw 内部钩子：什么时候用 hook，什么时候该写插件",
+    "summary": "internal hooks 是跑在网关进程里的 JS/TS 处理器，用来在 /new、/reset 这类事件上做副作用；它和插件钩子、webhook 是三套东西。",
+    "content": "<h2>内部钩子到底是什么</h2>\n<p>OpenClaw 的内部钩子是一小段 JavaScript 或 TypeScript 处理器，运行在网关进程内部，当某个事件发生时被调用。典型用途是保存会话上下文、记录重置命令、在消息与会话生命周期里做一点短小的副作用。它不是插件，也不需要你发布任何东西——官方已经附带了一批常用钩子，装上就能用。把它理解成「网关的事件回调」比理解成「扩展框架」更贴近实际。</p>\n<h2>先分清四种扩展面，别拿错工具</h2>\n<ul>\n<li>想在 /new、/reset、/stop 或会话事件上做副作用、记日志，用内部钩子，形态是一个 HOOK.md 加一个处理器文件。</li>\n<li>想改提示词、拦截工具调用、控制回复内容，用插件钩子，走 api.on 那套带优先级与返回值的契约。</li>\n<li>想让外部服务通过 HTTP 请求唤起工作，用 webhook。</li>\n<li>只想导出遥测而不改变行为，用诊断事件。</li>\n</ul>\n<p>这四套系统的配置项名字长得很像但互不相干：hooks.internal 管的是本页的事件处理器，hooks.enabled 管的是 HTTP 入口。事件名也不同，内部钩子里的 message:received 和插件里的 message_received 不是同一个东西，抄错一个冒号就会静默不触发。</p>\n<h2>用一个不需要模型的钩子验证链路</h2>\n<ol>\n<li>在网关主机上、用与网关相同的配置档案执行 openclaw hooks list，看清单里有哪些钩子。</li>\n<li>用 openclaw hooks info command-logger 看它的说明，再用 openclaw hooks enable command-logger 启用。这个钩子不需要额外二进制也不需要调用模型，只往日志里写一行。</li>\n<li>在对话里发一次 /new 或 /reset，然后在网关主机上 tail 日志目录下的 commands.log，应该能看到一条新记录，带 action 为 new 或 reset、一个接近当前的时间戳，以及那次对话的会话键。</li>\n<li>不想保留这些记录就 openclaw hooks disable command-logger。日志里含会话与发送者标识，试用完记得关。</li>\n</ol>\n<p>这里有个判断上的陷阱：CLI 显示的 ready、eligible、loadable 三个字段只证明「依赖满足」「配置允许」「事件列表非空」，并不证明运行中的网关真的导入了这个处理器。要确认它生效，只能看实际副作用或钩子自己的日志。官方把这三个状态分成「依赖满足 / 配置启用 / 已加载」三层，就是为了让人别把前两层当成第三层。</p>\n<h2>改配置之后要不要重启</h2>\n<p>默认的 hybrid 重载模式会直接应用钩子配置变更，不需要重启。如果重载模式被设成 off，就得执行 openclaw gateway restart，或者自己重启前台运行的网关。配置重载时的行为是「先备好再整体替换」：如果新选中的某个处理器加载失败，旧的处理器会继续生效；正在跑的事件用它开始时的处理器跑完，后续事件才用新的选择。另外重载不会重放网关启动事件。</p>\n<h2>安全上必须知道的一条</h2>\n<p>内部钩子是受信任代码，不在沙箱里跑，它拥有网关进程的文件系统、网络与环境变量权限。启用任何第三方或从工作区里翻出来的钩子之前，先把代码读一遍。同样地，钩子应只做当下这个事件需要的最小副作用，需要长期定时器的东西应该写成带明确关闭生命周期的插件服务，而不是塞进事件处理器里——事件处理器活不了那么久。</p>",
+    "url": "https://docs.openclaw.ai/automation/hooks",
+    "category": "AI教程",
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "openclaw-session-routing",
+    "title": "OpenClaw 会话路由：为什么私信会跑到同一个对话里",
+    "summary": "回复永远回到消息来的那个频道，模型不选频道；私信默认收敛到主会话，群组与频道各自独立。搞懂会话键就搞懂了上下文为什么串。",
+    "content": "<h2>路由是配置决定的，不是模型决定的</h2>\n<p>很多人在接了第二个聊天平台之后会困惑：为什么 Telegram 里说的话，在 Discord 里问它还记得？答案在 OpenClaw 的路由规则里——回复永远回到消息进来的那个频道，但「用哪个会话存上下文」是另一套规则，由主机配置决定。模型本身没有选择频道的权力，它只是在一个被指定的会话里跑。理解这一点，很多「上下文串了」「记忆丢了」的问题就变成了配置问题。</p>\n<h2>四个名词要先立住</h2>\n<ul>\n<li><strong>频道</strong>：discord、slack、telegram、imessage、signal、whatsapp 这类通道插件。内置的网页聊天界面不算可配置的出站频道。</li>\n<li><strong>账号</strong>：同一频道下的账号实例，多开时靠它区分。多账号部署要给一个明确的默认账号，否则出站路径没指定账号时会落到「第一个规范化后的账号」上，结果不可预期。</li>\n<li><strong>智能体</strong>：一个隔离的工作区加会话存储，可以理解为一个独立的「大脑」。</li>\n<li><strong>会话键</strong>：真正用来存上下文、控制并发的桶名。</li>\n</ul>\n<h2>默认的会话键长什么样</h2>\n<p>私信默认收敛到智能体的主会话，键是 agent:加智能体名加:main，也就是所有平台的私信都共享同一段上下文。这正是「跨平台还记得」的来源。要让每个对话对象各自独立，把 session.dmScope 改成 per-peer、per-channel-peer 或 per-account-channel-peer，粒度依次变细；路由绑定还能对特定对象单独覆盖这个范围。</p>\n<p>群组与频道的默认范围是按群隔离，键形如 agent:智能体:频道:group:群 ID，频道房间则是 channel:房间 ID。把 session.groupScope 设成 main 可以让所有非私信对象都汇入主会话，也可以用 bindings 对某个房间单独覆盖。需要注意这个设置只改变共享的上下文，@ 提及的判断和回复的落点仍然按原来的群或频道走。</p>\n<p>帖子串会追加后缀：Slack 与 Discord 的线程在基础键后面接 thread:线程 ID，Telegram 的论坛话题把 topic:话题 ID 嵌进群键里。所以同一个群里不同话题天然是不同会话，这也是为什么在话题里问过的事，换个话题它就不记得了。</p>\n<h2>一个容易被覆盖的细节</h2>\n<p>当私信范围是 main 时，多个来源的私信共用一个主会话，会话的「最后路由」会被后来者改写。官方为此做了一个保护：如果允许名单里只有一个非通配条目、这个条目能规范化成具体的发送者 ID、而进来的私信发送者不是这个人，那么网关仍会记录这次会话的元数据，但不更新主会话的最后路由。换句话说，陌生人的私信不会把你的回复地址顶掉。这条推理只在三个条件同时成立时生效，允许名单写得很宽时它就不起作用。</p>\n<h2>出站目标的写法</h2>\n<p>显式出站目标可以带频道前缀，比如 telegram:123 或 tg:123。这个前缀只在「没指定频道」或频道被解析为 last 时才被当成选择提示，而且要求已加载的插件声明了这个前缀。如果调用方已经指定了频道，前缀就必须与之一致，像「往 WhatsApp 发到 telegram:123」这种跨频道组合会在插件做目标规范化之前就失败。channel:、user:、room:、thread: 这类前缀属于频道内部的语法，它们本身不负责选频道，这一点在写多频道脚本时特别容易混。</p>",
+    "url": "https://docs.openclaw.ai/channels/channel-routing",
+    "category": "AI教程",
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "cursor-rules-frontmatter-guide",
+    "title": "Cursor Rules 怎么写：四种规则与三个 frontmatter 字段",
+    "summary": "project rule 必须是 .mdc，靠 alwaysApply、description、globs 三个字段决定何时进入上下文；写错扩展名等于没写。",
+    "content": "<h2>规则解决的是「模型没有记忆」这件事</h2>\n<p>大模型在两次补全之间不保留任何记忆，所以每次对话它都是空着脑子进来的。Cursor 的 Rules 就是在提示词层面提供一段持久、可复用的上下文：规则命中时，内容会被放在模型上下文的开头，让它在写代码、改编辑、走流程时有稳定的约束。官方把它定位成系统级指令，可以同时打包提示词、脚本和引用文件，方便在团队里共享同一套工作方式。</p>\n<h2>四种规则，作用范围完全不同</h2>\n<ul>\n<li><strong>项目规则</strong>：放在仓库的 .cursor/rules 目录，随代码一起进版本库，只对这个代码库生效。</li>\n<li><strong>用户规则</strong>：全局的，跟着你的 Cursor 账号走，对所有项目生效。</li>\n<li><strong>团队规则</strong>：在后台统一管理，需要团队或企业版套餐。</li>\n<li><strong>AGENTS.md</strong>：一份 markdown 的智能体说明，是项目规则的轻量替代方案，不想写 frontmatter 时用它。</li>\n</ul>\n<h2>扩展名这个坑必须先说</h2>\n<p>项目规则文件必须用 .mdc 扩展名。在 .cursor/rules 里放一个普通的 .md 文件，规则系统会直接忽略它，因为它没有 frontmatter 可以声明 description、globs 和 alwaysApply。很多人第一次写规则就栽在这里：文件内容写得很好，但从来没生效过。目录里可以再用子文件夹分组，比如把前端组件的规则放在 frontend 子目录下，规则系统会递归读取。</p>\n<h2>三个字段怎么组合出四种生效方式</h2>\n<ol>\n<li>alwaysApply 为 true：每次都进上下文，description 与 globs 被忽略。适合「所有源文件都要带版权头」这类无条件约束。</li>\n<li>alwaysApply 为 false、只给 globs：当上下文里出现匹配该模式的文件时自动附加。适合按技术栈分层，比如只对 .tsx 文件生效的组件规范。</li>\n<li>alwaysApply 为 false、只给 description：智能体读这段描述，判断相关时才把规则拉进来。适合有明确领域的约定，比如后端 RPC 服务的写法。</li>\n<li>alwaysApply 为 false、两个都不给：只有你在对话里用 @ 提到这条规则时才生效。适合低频流程，比如数据库迁移的检查清单。</li>\n</ol>\n<p>glob 的写法跟常见通配一致：一个星号匹配单层文件名段，两个星号匹配任意层目录，多个模式用逗号分隔。想同时命中 docs 下的 md 与 mdx，就写成两条逗号分隔的模式。tailwind.config 这种带任意扩展名的目标，用 tailwind.config.* 就能覆盖。</p>\n<h2>引用文件不等于把文件塞进提示词</h2>\n<p>规则里写 @migration-template.sql 这样的文件提及，只是告诉智能体去哪里找，它需要时才会用自己的工具去读，文件内容不会被内联进提示词。这个行为在编辑器、命令行和云端智能体里是一致的。所以真正必须每次都在上下文里的内容，要直接写进规则正文，而不是靠引用。官方特别强调这一点，因为把模板内容复制进规则会让规则变长又很快过期，而只写引用又可能让模型根本不去读。</p>\n<h2>写得好的规则长什么样</h2>\n<p>官方给的原则是聚焦、可执行、有范围：单条规则控制在五百行以内，太长就拆成多条可组合的规则；给出具体例子或指向参考文件；别写含糊的口号，按内部文档的标准写清楚。要避免的几件事也很明确——不要把整份风格指南搬进来（该用 linter）、不要罗列所有常见命令（模型本来就知道 npm 和 git）、不要为极少出现的边界情况写规则、不要复制仓库里已经有的代码而应该指向规范示例。</p>\n<p>最后一条建议最实用：先别急着写规则，等看到智能体反复犯同一个错，再针对那个错写一条。规则入库、团队共享，看到新问题就更新它，比一次写三十条然后没人维护要有效得多。</p>",
+    "url": "https://cursor.com/docs/rules",
+    "category": "AI教程",
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "cursor-mcp-server-setup",
+    "title": "Cursor 接 MCP：三种传输、mcp.json 与静态 OAuth",
+    "summary": "MCP 让 Cursor 直接连外部工具与数据源。选 stdio 还是远程 HTTP、什么时候要填静态 OAuth 凭据，是配置时真正的分岔。",
+    "content": "<h2>MCP 补的是「模型看不到你的系统」这块短板</h2>\n<p>Model Context Protocol 是一套让编辑器连接外部工具和数据源的协议。没有它的时候，你得在提示词里反复解释项目结构和业务背景；接上之后，Cursor 可以直接向数据库、工单系统、接口文档提问。MCP 服务端可以用任何能往标准输出打印、或者能提供 HTTP 端点的语言来写，Python、JavaScript、Go 都行，这也是它落地快的原因。</p>\n<h2>三种传输，先按部署形态选</h2>\n<ul>\n<li><strong>stdio</strong>：本地进程，由 Cursor 负责拉起和回收，输入是一条 shell 命令，只服务单个用户，认证靠手工配置。</li>\n<li><strong>SSE</strong>：本地或远程都可，作为服务端部署，输入是一个 SSE 端点地址，支持多用户，认证走 OAuth。</li>\n<li><strong>Streamable HTTP</strong>：同样是服务端部署，输入是一个 HTTP 端点地址，支持多用户，认证同样走 OAuth。</li>\n</ul>\n<p>简单的判断标准是：这台机器上只有你自己用、服务端就是个本地小工具，用 stdio 最省事；要让团队共用、或者服务端本来就跑在别处，选后两种，并把认证交给 OAuth。三种传输在协议能力上没有差别，差别在进程归属和凭据怎么管。</p>\n<h2>mcp.json 的三种写法</h2>\n<ol>\n<li>本地命令行服务：写 command 与 args，比如 command 用 npx、args 用 -y 加包名，需要密钥的放进 env。</li>\n<li>本地 Python 服务：command 换成 python，args 指向脚本文件，env 里放同样风格的密钥。</li>\n<li>远程服务：不写 command，改写成 url 加 headers，url 指向 http 或 sse 端点，鉴权头放进 headers。</li>\n</ol>\n<p>除了手写文件，也可以在 Customize 页面里装：官方市场里的条目点一下就能装好并走 OAuth 授权，社区服务端可以去 cursor.directory 找。团队管理员还能通过团队市场统一下发，下发之后会和个人的、工作区的服务端并列显示在同一个列表里。两种方式写的是同一份配置，只是入口不同。</p>\n<h2>什么时候需要静态 OAuth 凭据</h2>\n<p>远程服务默认会走动态客户端注册，但有一部分服务商不支持这套流程。遇到这三种情况就要在条目里加 auth 对象，手填 CLIENT_ID、可选的 CLIENT_SECRET 和需要的 scopes：服务商给你的是固定客户端 ID；服务商要求先把回调地址加进白名单（Figma、Linear 这类就是）；服务商干脆不支持动态注册。填的时候注意 auth 只对使用 url 的远程条目有意义，本地命令行的条目没有这个概念。</p>\n<h2>协议能力里值得留意的两项</h2>\n<p>Cursor 支持 MCP 的 Tools、Prompts、Resources、Roots、Elicitation 五类能力，另外还支持一个 Apps 扩展：工具在返回普通结果的同时可以返回一块交互界面。这个扩展是按渐进增强设计的——宿主不会渲染界面时，同一个工具仍然按标准响应工作，不会因为缺了这个能力就失败。另一项是 Roots，服务端可以主动询问文件系统或 URI 的边界，这对需要限定读写范围的服务端很有用；Elicitation 则是服务端反过来向用户追问补充信息，适合需要二次确认的操作。</p>\n<h2>接之前先想清楚的两件事</h2>\n<p>第一是权限面：一个能读工单、能查库、能调接口的服务端，等于把这些系统的访问权交给了模型，接之前要确认它只暴露必要的能力，能用只读就别给写权限。第二是配置的归属：写在 mcp.json 里的服务端跟项目走，团队市场下发的跟组织走，两者混用时要清楚哪一层在生效，否则会出现「我明明改了配置但它行为没变」的情况。</p>",
+    "url": "https://cursor.com/docs/mcp",
+    "category": "AI教程",
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "deepseek-context-caching-rules",
+    "title": "DeepSeek 上下文缓存怎么命中：前缀单元与两个计数字段",
+    "summary": "缓存默认开启、无需改代码，但命中要求前缀被完整持久化成一个单元。搞懂三种持久化时机，才知道为什么有时候不命中。",
+    "content": "<h2>它是默认开启的磁盘缓存</h2>\n<p>DeepSeek API 的上下文缓存是一项磁盘级的默认能力，所有用户都开启，不需要改代码，也不需要额外申请。机制很朴素：每次请求都会触发构建缓存，如果后续请求的输入前缀与之前的请求有重叠，重叠部分直接从缓存里取，这部分就算作缓存命中。对调用方来说，唯一的动作是理解它什么时候命中、什么时候不命中，然后调整请求的排布。</p>\n<h2>命中的前提是「前缀已经成为一个完整单元」</h2>\n<p>官方的表述是：命中要求对应的前缀已经被持久化写进磁盘缓存。由于滑动窗口注意力的机制，缓存前缀的存储与匹配方式和过去不同——每一个缓存前缀都是一个独立、完整的单位，后续请求必须完整匹配某个单元才能命中，而不是「前缀的一部分对上了就算」。这解释了为什么把一段长文档改了一个字，后面全部不命中：单元被破坏了。</p>\n<h2>三种持久化时机</h2>\n<ul>\n<li><strong>请求边界</strong>：每次请求都会在用户输入的结束位置和模型输出的结束位置各产生一个缓存单元。所以把上一轮的完整输入输出原样带进下一轮，就能命中。</li>\n<li><strong>公共前缀检测</strong>：当系统发现多个请求共享同一段前缀时，会把这段公共前缀单独持久化成一个单元，后续请求只要完整复用它就能命中。</li>\n<li><strong>固定间隔切分</strong>：对很长的输入或输出，系统会按固定的 token 间隔切出缓存单元，避免因为长前缀始终等不到结束位置而完全无法缓存。</li>\n</ul>\n<h2>两个例子最能说明问题</h2>\n<p>第一个是多轮对话：第一轮请求是 A 加 B，第二轮是 A 加 B 加 C，第二轮能完整匹配第一轮留下的单元，于是 A 加 B 全部命中。这是最理想的情况，也是为什么对话式应用天然吃得到缓存。</p>\n<p>第二个是长文本问答：第一轮是 A 加 B，第二轮是 A 加 C。第二轮不命中，因为 A 加 C 并不完整等于 A 加 B 这个单元。但这时候系统会识别出两个请求共享前缀 A，把 A 单独持久化成单元，于是第三轮来一个 A 加 D 时就能命中 A 了。这个例子说明命中可能存在「延迟一轮」的现象，第一次换问法不命中不代表缓存没工作。</p>\n<p>把它翻译成工程做法就是：把稳定不变的内容放在请求的最前面，把每次都变的内容放在最后。系统提示词、长文档、代码库索引放前面，具体问题放后面。反过来，如果每次请求都在开头插入一个时间戳或者随机会话 ID，等于把公共前缀打碎，缓存永远不会命中。</p>\n<h2>怎么确认自己命中了</h2>\n<p>响应的 usage 里有两个字段专门用来看这件事：prompt_cache_hit_tokens 是本次输入里命中缓存的 token 数，prompt_cache_miss_tokens 是没命中的部分。把这两个数跟总输入对比，就能算出实际命中比例，不用猜。排查成本异常时，这是第一个该看的指标。</p>\n<h2>三个容易误解的点</h2>\n<p>其一，缓存只作用于输入的前缀部分，输出仍然要经过完整计算，并且受 temperature 这类参数影响，所以同样的输入不保证同样的输出。其二，官方明确说缓存是尽力而为，不保证百分之百命中率，所以在容量规划上不能把它当成确定的折扣。其三，缓存构建需要几秒，且一旦不再使用会自动清除，周期通常是数小时到数天——这意味着低频调用很难吃到缓存，而高频同前缀的批处理任务收益最明显。</p>",
+    "url": "https://api-docs.deepseek.com/guides/kv_cache",
+    "category": "AI教程",
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=api-docs.deepseek.com&sz=64",
+    "is_new": true
+  },
+  {
+    "slug": "deepseek-json-output-guide",
+    "title": "DeepSeek 结构化输出：三个必做设置与空内容兜底",
+    "summary": "JSON Output 不是打开开关就完事：prompt 里必须有 json 字样并给示例、max_tokens 要留够；解析失败时返回的可能是一串空格。",
+    "content": "<h2>为什么需要专门的 JSON 模式</h2>\n<p>把模型输出接进程序时，最麻烦的不是它答得对不对，而是它答得「不像 JSON」——多一句解释、少一个引号、包一层 markdown 代码块，解析器就崩了。DeepSeek 的 JSON Output 就是为这件事准备的：它保证返回的是合法 JSON 字符串，方便后续直接解析。注意它保证的是「合法」，不保证「符合你的 schema」，字段设计仍然要靠提示词约束。</p>\n<h2>三个必做设置，缺一个就可能踩坑</h2>\n<ol>\n<li>把 response_format 设为对象类型、type 为 json_object。这是模式的开关，不设它模型仍会自由发挥。</li>\n<li>在系统提示或用户提示里显式出现 json 这个词，并给出一段期望格式的示例。官方把这条写成硬要求，只开模式不给示例，模型容易输出一个结构不合预期的合法 JSON。</li>\n<li>把 max_tokens 设得合理。JSON 被截断是这类调用最常见的故障：字符串没闭合，前面全都白算。宁可留余量，也不要卡着平均值设。</li>\n</ol>\n<h2>那个很反直觉的失败形态</h2>\n<p>官方专门提示了一种情况：当模型输出无法被识别为 JSON 时，API 会把非 JSON 的内容替换成空格字符。结果是返回的 content 可能只剩一串空格，看起来像是空响应，而 finish_reason 仍然是正常结束。这一点必须写进代码里——不能假设「状态正常就一定有内容」，解析前先判断内容去掉空白后是否为空，为空就重试或者换一种提示写法。很多线上事故就是这里没做兜底，程序拿着空字符串去解析，报了一个跟真实原因毫无关系的异常。</p>\n<h2>一份可以直接改的调用骨架</h2>\n<p>官方的 Python 示例用的是 OpenAI 兼容 SDK，把 base_url 指向 DeepSeek 的接口地址，模型名用示例里的 flash 款。提示词分两段：系统提示负责定义任务和给出「输入示例到 JSON 输出」的对照，用户提示只放本次要处理的内容。请求里带上 response_format 为 json_object，拿到结果后直接交给 JSON 解析。</p>\n<p>把这段骨架用到生产时，建议做三处加固。一是把示例做得更贴近真实数据，字段名、嵌套层级、可空字段都在示例里体现一次，模型会照着抄结构。二是把解析包在异常处理里，解析失败时记录原始字符串再重试，不要直接抛给上层。三是加上内容非空的检查，专门对付上面说的空格响应。</p>\n<h2>什么时候别用它</h2>\n<p>如果下游只是要一段人类可读的说明，强行 JSON 化反而会让模型把注意力放在格式上，内容变薄。同样地，任务本身需要多步推理才能得出结论时，先让它把推理过程写出来、再单独做一次结构化转换，比一步到位要求「既推理又输出严格 JSON」更稳。JSON 模式的定位是「把已经想清楚的结果编码成机器可读」，而不是「替你想清楚」。</p>",
+    "url": "https://api-docs.deepseek.com/guides/json_mode",
+    "category": "AI教程",
+    "date": "2026-11-06",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=api-docs.deepseek.com&sz=64",
+    "is_new": true
   }
 ]
