@@ -1648,5 +1648,181 @@
     "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
     "is_new": true,
     "content": "<h2>它是很多功能的地基</h2><p>Cursor 的 GitHub 应用把仓库接进来，云代理与 Bugbot 都建立在它之上。安装需要两个权限：Cursor 的管理员权限与 GitHub 组织管理员权限。流程是进后台集成页点 GitHub 旁边的连接（已连过则是管理连接），选择全部仓库或指定仓库，然后回后台为仓库配置具体功能。不想要了就回集成页点断开账号。</p><p>如果是第一次用某个 Cursor 账号连 GitHub，连接这一步只是用 GitHub 登录把账号对上，并不会安装应用。这一点常被误解成「点了连接就等于装好了」，实际安装要另走。</p><h2>一个安装只能属于一个目标</h2><p>每个 GitHub App 安装只属于一个 Cursor 账号或团队。如果某个安装已经归别的账号或团队，你这边连接会失败并提示该安装已连接到另一个 Cursor 目标，安装仍留在原主人那里。唯一的例外是：团队管理员去连接本团队成员曾以个人身份连过的组织安装时，Cursor 会把这个安装移到团队名下。GitHub Enterprise Server 的安装不会出现这个报错。</p><p>实践含义是：别让多个团队各自去装同一个组织的应用，先确认这个安装归谁，再决定是共享还是移交。</p><h2>跨团队共享安装</h2><p>同一组织里的团队可以把自己的 GitHub 安装共享给别的团队，被共享方不需要重新安装应用就能用这些仓库跑云代理、自动化与 Bugbot。GitHub.com 与 GitHub Enterprise Server 都支持。</p><p>操作由持有安装的团队管理员发起：在集成页的 GitHub 行上选与另一个团队共享，在弹窗里选 GitHub 账号与目标团队，授权。被共享团队可以使用该安装上的全部仓库，用量记在它自己头上；它的集成页那一行会写明安装归哪个团队所有。</p><p>两条限制值得注意。第一，同一个仓库的 Bugbot 只能由一个团队开启，如果别的团队已经开了，得由那个团队的管理员先关掉。第二，收回权限也在这个弹窗里，选已共享列表里那个团队旁边的撤销即可；撤销会连带删掉该团队在这个安装所属仓库上的 Bugbot 设置，不是单纯地把门关上。</p><h2>组织开了 IP 白名单怎么办</h2><p>如果组织用 GitHub 的 IP 白名单限制仓库访问，Cursor 可以改走一组窄 IP 的托管出口代理。但要注意生效范围与前提：无论选哪种白名单方式，都要先由 Cursor 为你的团队开启出口代理（拿团队 ID 联系支持），而且只对团队可用，不对个人账号开放。</p><p>还有一处容易漏的地方：只有 git 流量走这个代理。云代理虚拟机里其它 GitHub 调用——例如 gh 命令或 GitHub API 请求——不走代理，所以如果代理会发这类请求，还要把云代理的出口 IP 段也加进白名单。</p><p>两种加法里官方推荐第一种：在组织的安全设置里勾选「为已安装的 GitHub Apps 启用 IP 白名单配置」，直接继承 Cursor GitHub 应用上预置好的 IP 列表，Cursor 后续更新列表时你的组织自动跟着更新。它继承的是登记在该应用上的列表，而不是放行所有碰巧用这些地址的客户端。如果你的组织用 IdP 定义白名单、无法用预配置列表，就把文档里出口代理的 IP 直接加进去。</p><h2>自托管实例的三条网络路径</h2><p>自托管 GitHub Enterprise Server 除了 IP 白名单还有别的走法。AWS PrivateLink 面向企业客户，适合 GHES 在 AWS 上、或者能放在 AWS 网络负载均衡器后面的情况；它既覆盖 Cursor 访问 GHES，也能在需要时让 GHES 把 webhook 回传给 Cursor 而不经公网出口。代价是要和 Cursor 以及 AWS 端点服务做配合配置。</p><p>Cloudflare Tunnel 同样面向企业客户，适合 PrivateLink 不实用、或者需要纯出网部署模式的场景：你的网络里跑 cloudflared，Cursor 提供隧道域名与令牌。代价是你要自己维护 cloudflared。</p><h2>它申请了哪些权限，为什么要</h2><p>仓库访问用于克隆代码与建工作分支；PR 权限用于开 PR 与留评审评论；Issues 用于记录评审中发现的缺陷与任务；检查与状态用于回报代码质量与测试结果；Actions 与工作流用于监控 CI 并从 PR 触发重跑；管理权限用于读分支保护与必需检查规则，判断 PR 能不能合；自定义仓库角色用于判断用户访问级别，好让正确的合并与评审选项出现；组织自定义属性用于在筛选时展示组织定义的仓库元数据。官方说明这些权限遵循最小权限原则。</p><p>此外还有 Protected Git Scopes：可以把 GitHub 组织锁到你的 Cursor 组织上，使只有你的团队能用它的仓库跑云代理、自动化与 Bugbot。设置它需要 GitHub 组织所有者或管理员权限。</p><h2>三个典型故障</h2><p>代理访问不到仓库：确认应用安装时给了仓库访问权、私有仓库的权限是否够、以及你的 GitHub 账号本身有没有权限。PR 操作被拒：给应用 PR 的写权限、检查分支保护规则、必要时重装（安装过期也会这样）。GitHub 设置里看不到这个应用：确认它是不是装在组织层级、从应用页重装，仍不行就联系支持。</p>"
+  },
+  {
+    "slug": "cursor-cli-acp-server",
+    "title": "Cursor CLI 当 ACP 服务端：agent acp 的握手顺序与权限阻塞",
+    "summary": "自建客户端通过 stdio 上的 JSON-RPC 2.0 跟 Cursor CLI 对话，会话要依次走 initialize、认证、session/new、session/prompt；权限请求不回，工具执行就卡在那里。",
+    "url": "https://cursor.com/docs/cli/acp",
+    "category": "AI教程",
+    "date": "2026-11-08",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true,
+    "content": "<h2>它是给谁准备的入口</h2><p>Cursor CLI 除了给人用的交互界面，还提供一条给程序用的入口：执行 agent acp 之后，CLI 变成一个 ACP（Agent Client Protocol）服务端，客户端通过标准输入输出与它通信。这条路径面向的是自建客户端与集成方，日常在终端里写代码仍然应该用 agent 的交互模式。判断标准很简单：如果你要写的是一个界面或一套自动化管线，用它；如果你只是想少点几次鼠标，用它反而绕远。</p><h2>传输层只有三句话</h2><p>协议约定很克制：传输走 stdio，报文是 JSON-RPC 2.0，分帧方式是每行一条 JSON。方向也固定——客户端把请求与通知写进标准输入，CLI 把响应与通知写回标准输出，日志另走标准错误。这意味着你的客户端只要能控制子进程的三根管道，就不需要处理 WebSocket 重连、心跳这类问题。</p><h2>一次会话要按顺序走完四步</h2><p>典型流程是 initialize 建连，然后认证，再 session/new 开一个新会话（要接着旧对话则用 session/load），最后 session/prompt 提交提示词。提示词提交后并不等于结束：模型在流式输出，客户端要持续处理 session/update 通知，把增量内容渲染出来，同时准备响应 session/request_permission——也就是工具需要授权时发来的请求。会话中途想停下，再发 session/cancel。</p><p>最容易踩的坑是权限请求。CLI 会等你回一个决定，可选值只有三种：allow-once、allow-always、reject-once。客户端的实现如果没有处理这个请求，表现不是报错，而是工具执行一直阻塞，看起来像「代理卡死了」。</p><h2>认证可以在启动前做掉</h2><p>CLI 对外宣告的 ACP 认证方法是 cursor_login。实操上更省事的是提前把凭证灌进去：用 agent login --api-key 或环境变量 CURSOR_API_KEY，也可以用 --auth-token 或 CURSOR_AUTH_TOKEN。启动时还能把根命令上的端点与 TLS 选项带过去，例如 agent --api-key $CURSOR_API_KEY acp、agent -e https://api2.cursor.sh acp、agent -k acp。把这三条记住，就不必在客户端里先实现一遍登录流程。</p><h2>会话模式与编辑器一致</h2><p>ACP 会话支持与 CLI 相同的三种模式：agent 有完整工具权限，plan 只做规划、行为偏只读，ask 只回答不改文件。客户端可以在会话里切换，这决定了同一条提示词会写出文件还是只给方案。</p><h2>两类扩展方法，回不回不一样</h2><p>除了标准 ACP，CLI 还会发 Cursor 自己的扩展方法，分阻塞与通知两类。阻塞的有 cursor/ask_question 与 cursor/create_plan：前者把多选题抛给用户，后者请求计划审批，代理会停下来等你的 JSON-RPC 响应，响应里要带 answered、skipped、cancelled 这类结果，或 accepted、rejected、cancelled。通知类的有 cursor/update_todos、cursor/task、cursor/generate_image，属于发完就不管的类型，客户端愿意展示就展示，不需要回复。</p><p>这套设计的含义是：问答与计划审批属于「必须有人拍板」的动作，不能用默认值糊过去；而待办更新、子任务完成、生成图片属于过程信息，丢掉不影响任务推进。</p><h2>MCP 在 ACP 模式下的边界</h2><p>ACP 支持项目级或用户级 .cursor/mcp.json 里定义的 MCP 服务器，前提是从项目目录启动 agent，并逐个确认要用哪些服务器。通过 Cursor 后台配置的团队级 MCP 服务器在 ACP 模式下不被支持——如果你依赖团队统一分发的工具，得先在配置层面对齐，否则换个入口就会发现工具少了几个。</p>"
+  },
+  {
+    "slug": "cursor-cli-worktree-handoff",
+    "title": "Cursor CLI 的 worktree 与云交接：-w、--workspace 与 Ctrl+R",
+    "summary": "加 -w 让代理在新的 git worktree 里动手，检出目录落在 ~/.cursor/worktrees/<仓库>/<名字>；--workspace 只决定仓库根；Ctrl+R 逐文件过改动，消息前面加符号可把活交给云代理。",
+    "url": "https://cursor.com/docs/cli/using",
+    "category": "AI教程",
+    "date": "2026-11-08",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true,
+    "content": "<h2>为什么要多开一个工作副本</h2><p>在 CLI 里让代理直接改当前检出，最怕两种场面：改到一半想回头比对，或者同一时间还想在编辑器里跑构建。worktree 参数就是为这件事准备的——带上 -w 或 --worktree 并可选给个名字，代理会在新的 git worktree 里做编辑，而不是动你手上的那份代码。Cursor 把这些检出放在 ~/.cursor/worktrees/ 下的「仓库名/名字」路径里，与编辑器里创建的 worktree 并列；不给名字时由 Cursor 自己生成一个。</p><p>清理规则不是另起一套：CLI 的 worktree 沿用编辑器 worktree 的保留策略。也就是说「它什么时候会被删」取决于你在编辑器侧的那套清理设置，而不是启动时随手定的策略，长期挂着不用的副本不会因为用了 CLI 就获得豁免。</p><h2>-w 与 --workspace 是两件事</h2><p>这两个参数常被混着用，但职责不同。--workspace 指定仓库根，也就是「在哪个项目里干活」；没有显式给定时，CLI 用当前工作目录。--worktree 只改变代理在该项目内部把文件写到哪里。因此从别的目录启动、又想把活落在某个仓库的新工作副本上，要同时给出这两个：先 --workspace ~/src/my-app 定位仓库，再 --worktree auth-fix 指定副本名。只给 -w 时，仓库根仍按当前目录算，很容易在错误的项目里建了副本。</p><h2>把上下文喂进去，再把它压回去</h2><p>输入框里用 @ 可以选择要纳入上下文的文件与文件夹，比在提示词里逐个写路径靠谱。上下文吃满了用 /summarize 收敛（/compress 仍是它的别名）。模式切换不用记命令：Shift+Tab 在 Agent、Plan、Ask 之间轮换，也可以直接打 /plan、/ask，或者在启动时用 --plan、--mode=plan、--mode=ask。提示词里明确写一句「不要写代码」，也是让代理停在方案阶段的实用手段。</p><h2>提交前先自己过一遍</h2><p>Ctrl+R 打开改动评审，方向键上下滚动、左右切换文件；按下 i 可以就地追加后续指令，而不是退出重开一轮对话。这一步的价值在于把「看一眼再改」变成默认动作——代理的改动通常是对的但成片，逐文件确认比事后从 git diff 里捞要省力。</p><h2>把会话交给云代理</h2><p>有些任务不适合卡在本机终端里等，比如跑测试要几分钟。在任意一条消息前面加符号，就能把它推给 Cloud Agent 继续跑，本机可以关掉；之后在网页或移动端的 cursor.com/agents 接回来。这适合「派出去、回头验收」的节奏，而不是需要你盯着每一步的探索性改动。</p><h2>续接旧会话与命令审批</h2><p>--resume 加线程 ID 可以载入之前的上下文，agent resume 或 --continue 直接接最近一次对话，/resume 是斜杠命令版本，agent ls 则列出历史让你挑。终端命令执行前 CLI 会要求 y 或 n 确认，这条默认拦的是破坏性命令，不建议为了顺手动关掉。</p><p>顺带一提两个少见但有用的输入习惯：Shift+Enter 在 iTerm2、Ghostty、Kitty、Warp、Zed 里插入换行，tmux 用户改用 Ctrl+J；在 / 菜单里选中某个技能按 Enter 只对这一条消息生效，按 Option+Enter 或 Alt+Enter 则把它当成常驻的自定义模式，直到你主动退出。</p>"
+  },
+  {
+    "slug": "cursor-sdk-typescript-guide",
+    "title": "@cursor/sdk 的两层抽象：Agent 与 Run，以及 local / cloud 怎么选",
+    "summary": "npm 包名带 @ 前缀，Node.js 22.13 起步；Agent 保存会话状态、Run 是一次提示词提交；同一个 Agent.create 里传 local 还是 cloud，决定代理循环跑在你机器上还是 Cursor 的隔离虚拟机里。",
+    "url": "https://cursor.com/docs/sdk/typescript",
+    "category": "AI教程",
+    "date": "2026-11-08",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true,
+    "content": "<h2>先解决装错包的问题</h2><p>TypeScript 侧的包名是 @cursor/sdk，前面的 @ 不能省；npm 上并不存在裸名 cursor/sdk。运行环境要求 Node.js 22.13 或更高，且它按平台分发 @cursor/sdk-<os>-<arch> 的二进制（用于沙箱与 ripgrep），所以这是个 Node 优先的包，不是纯 JS 的通用库。</p><p>设计上有个细节值得知道：import 它并不会立刻把本地执行栈全部拉起来，本地执行器要等第一次 acquire 才加载。也就是说只用云运行时、或者只引类型的消费方不会被本地依赖拖慢；同一进程里第一个本地代理付一次性的加载成本，之后模块常驻。</p><h2>Agent 与 Run 是两级生命周期</h2><p>Agent 是持久容器，装着会话状态、工作区配置与设置，能跨多次提示词存活；Run 是一次提示词提交，拥有自己的流、状态、结果与取消能力。把这两者分开的好处是：需要连续追问时复用同一个 Agent，需要并行做几件互不相干的事时开多个 Agent，而不是在一条越来越长的对话里硬塞。</p><p>流式事件被统一成 SDKMessage，本地与云两种运行时形状一致。这意味着渲染代码不用为「跑在哪」写两套分支，是这套 SDK 最实际的收益之一。</p><h2>运行时由 create 的参数决定</h2><p>local 表示代理循环就地在你的 Node 进程里跑，文件来自磁盘，适合开发脚本与针对工作副本的 CI 检查。cloud 表示在 Cursor 托管的隔离虚拟机里跑、仓库已被克隆进去，适合调用方手上根本没有仓库、需要同时开很多代理、或者跑起来之后调用方会断开的场景。</p><p>这里有个常见误解需要拆掉：local 说的是「代理循环与文件系统访问在哪」，不是「模型在哪」。两种模式下推理都走 Cursor 托管的模型。选 local 是为了让文件不出本机，不是因为本地有模型。</p><p>切换运行时只需要换 key：同一个 CURSOR_API_KEY，local 与 cloud 都能用。典型写法是给 Agent.create 传 apiKey、model（形如 composer-2.5）以及 local 的 cwd，或改为传 cloud 的仓库配置。</p><h2>凭证与账单口径</h2><p>凭证方面，SDK 接受用户 API key 与服务账号 API key，两种都同时适用于本地与云运行；团队管理员的 API key 目前不支持。没有预置密钥的交互式宿主，可以用 Cursor.auth.login() 走浏览器登录，由它生成并保存一个。想自己核对账单，Agent.getUsage() 能拿到计费用量与美元成本；每次运行的 token 数量在 Token usage 一节有专门写法。</p><p>计费规则与 IDE、云代理共用一套：同样的价格、同样的请求池、同样的隐私模式。花费在团队的用量面板里归到 SDK 标签下。服务账号的 key 记在服务账号所属团队头上，用户 key 记在该用户的套餐上——多人共用一把 key 时，这条区别会直接影响成本归因。</p><h2>打包成单文件时会踩的坑</h2><p>默认构建会在运行时惰性加载自身的一部分，单文件打包器跟不进这些加载，结果就是编译后的应用在第一次创建代理时报找不到某个模块。官方为此另发了一份扁平的整包构建，公共 API 相同，只是把所有内容放进一个文件，打包器就一定能带上。Bun 下它会自动解析到扁平构建；esbuild 这类需要显式引入 @cursor/sdk/bundled 系列入口。</p><p>扁平构建在 Bun 上可用（包括 bun build --compile 出的可执行文件），在 Node 上也能加载但没有 SQLite 存储，必须通过 local.store 配 JsonlLocalAgentStore，否则创建时会抛配置错误。反过来，不快照成单文件的 Node 应用继续用常规入口就好。另外 zod、@bufbuild/protobuf、@connectrpc/* 会从你自己的安装里解析，打包器内嵌一份共享副本，不会出现两套 schema 打架。</p><h2>什么时候它不该上场</h2><p>只需要通过 HTTP 调用云代理、不想要本地运行时的，应该用 Cloud Agents API 而不是这个包；写 Go、Rust、Java、C# 的，用 SDK Bridge 而不是硬啃 TS 包。判断标准是「代理循环要不要在你这儿跑」，而不是「你习惯哪种语言」。</p>"
+  },
+  {
+    "slug": "cursor-sdk-python-sync-async",
+    "title": "cursor-sdk 的 Python 两副面孔：同步客户端与 AsyncClient",
+    "summary": "pip install cursor-sdk，Python 3.10 起；Agent.create 传 local 或 cloud，agent.send(...).text() 取最终文本；服务端与机器人场景用 AsyncClient.launch_bridge，没有默认可用的全局异步客户端。",
+    "url": "https://cursor.com/docs/sdk/python",
+    "category": "AI教程",
+    "date": "2026-11-08",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true,
+    "content": "<h2>安装与运行环境下限</h2><p>Python 侧的包叫 cursor-sdk，pip 装完即可用，要求 Python 3.10 或更高。它的类型不是散落的字典，而是带类型的 dataclass；流与分页用普通的迭代写法消费，不需要记一套自定义的游标协议。这一点对熟悉 Python 生态的人很友好——流就是可迭代对象，分页就是迭代器，不用先读一篇「本 SDK 特色」的文档。</p><h2>Agent 与 Run 的分工</h2><p>Agent 是持久句柄，装着对话状态、工作区配置、模型选择与设置，能跨多次提示词存在；Run 对应其中一条提示词，自带流、状态、结果、对话与取消入口。SDKMessage 是运行期间产出的类型化消息，本地与云两种运行时形状一致，所以渲染与解析代码不必分叉。</p><h2>选 local 还是 cloud</h2><p>local 让代理直接对着磁盘上的文件干活，写开发脚本、或让 CI 拿工作副本来验证，都归这一类。cloud 则把活交给 Cursor 的隔离虚拟机，仓库在那边已经克隆好，适合调用方手上没仓库、需要并行开很多代理、或者跑起来之后调用方会断开的情况。选择方式是给 Agent.create 传 local 或 cloud 对象，两边的鉴权都是同一把 CURSOR_API_KEY，也可以直接传 api_key。</p><h2>最短的一段代码长什么样</h2><p>本地的最小写法是 with Agent.create(model=..., api_key=..., local=LocalAgentOptions(cwd=...)) as agent 拿到句柄，再用 agent.send(提示词).text() 取最终文本。用 with 的意义不只是省一行——它保证底层资源按顺序释放，长跑脚本里漏掉上下文管理是常见的句柄泄漏来源。一次性任务（创建、跑完、结束）可以直接用 Agent.prompt()，不必自己拼这三步。</p><h2>云代理的原生写法</h2><p>云侧不用自己拼 HTTP 请求：Agent.create 传 cloud=CloudAgentOptions(repos=[CloudRepository(url=..., starting_ref=...)], auto_create_pr=True)，然后照常 send。starting_ref 指的是从哪个分支起跑，auto_create_pr 决定跑完要不要直接开 PR。有个容易被当成 bug 的行为：由 SDK 启动的云代理默认不出现在代理列表里，要在 Cursor Web 或代理窗口里看到它们，得点筛选里的 SDK 来源。这不是丢任务，是列表默认做了过滤。</p><h2>异步不是可选项而是显式项</h2><p>官方立场很直接：服务端、机器人与并发编排应该用异步客户端。AsyncAgent、AsyncClient、AsyncRun、AsyncCursor 同时从 cursor_sdk 与 cursor_sdk.asyncio 导出，同步面有的能力异步面基本都有。但 SDK 不提供全局的异步默认客户端，必须显式实例化，或用 AsyncClient.launch_bridge(workspace=...) 起一个——后者在需要把工作区固定到某个目录时更省事。</p><p>这个设计避免了「隐式单例在事件循环里串味」的老问题：同一进程里要连两个不同工作区，开两个 Client 就行，不需要改全局状态。</p><h2>账单与合规口径</h2><p>费用口径与 IDE、云代理一致：同样的价格、请求池与隐私模式，花在团队用量面板里归到 SDK 标签。查单次运行的 token 数看 Token usage 一节，查计费金额用 agent.get_usage()。凭证接受用户 key 与服务账号 key，团队管理员 key 暂不支持；服务账号的花费记在所属团队，用户 key 记在个人套餐上。</p><p>需要 REST 而不想跑本地代理循环的，用 Cloud Agents API；语言不在 TS 与 Python 之列的，用 SDK Bridge，别在 Python 里自己拼一套 subprocess 调用。</p>"
+  },
+  {
+    "slug": "cursor-sdk-bridge-other-langs",
+    "title": "SDK Bridge：不用 TypeScript 也能脚本化 Cursor 代理的办法",
+    "summary": "桥是一个本地小服务，内嵌 TS SDK，用 Connect/protobuf 暴露同一套代理能力；监听回环地址、每次 RPC 带 bearer、两个密钥各管一段，经典 gRPC over HTTP/2 连不上。",
+    "url": "https://cursor.com/docs/sdk/bridge",
+    "category": "AI教程",
+    "date": "2026-11-08",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true,
+    "content": "<h2>它填的是哪块空白</h2><p>Cursor 只给 TypeScript 与 Python 发一方 SDK。想在 Go、Rust、Java、C# 里调同一个编码代理，官方路线不是再发一个包，而是提供一个本地小服务：SDK Bridge。它内嵌了 @cursor/sdk，把同一套代理能力以稳定的 Connect/protobuf 协议暴露出来，你在自己语言里写一层薄适配去连它。</p><p>选型上有个顺序值得遵守：写 TS 或 JS 就用 @cursor/sdk，写 Python 就用 cursor-sdk（Python 包内部本来就带着一份桥），只有语言不在这两个之列才考虑桥。另外如果只需要 HTTP 调云代理、不想要本地运行时，该用 Cloud Agents API。桥的目标用户是 SDK 作者与平台团队，应用代码应该依赖一方包而不是直接依赖桥。</p><h2>进程关系与端口</h2><p>适配层负责拉起 cursor-sdk-bridge，或连接到平台已经跑着的那一个。桥绑定一个回环地址上的 HTTP/1.1 端口（默认 127.0.0.1），对外提供 sdk.v1 服务。因为它内嵌的是一方 SDK，新能力只需在桥里实现一次，适配方升级二进制就能拿到，不必跟着改协议。</p><p>这里有一条硬性限制：经典 gRPC 走 HTTP/2，连不上。要么用 Connect 客户端，要么老老实实 POST，请求体用 protobuf 或 JSON。很多团队在这里先踩一次坑，再去翻文档确认「原来是协议不对」。</p><h2>两个密钥，各管一段</h2><p>认证是两套东西，别混。第一套是 Cursor API key：在 create、resume 以及 ListModels 这类目录调用上通过 options.api_key 传，同时在桥进程的环境变量里设 CURSOR_API_KEY——目录类调用要求每次带 key。第二套是桥自己的 bearer token：每个进程在 ready-line 握手时生成，之后每个 RPC（包括流）都要带 Authorization: Bearer。也就是说 API key 证明「你是谁」，bearer 证明「你有权跟这个本地桥说话」，缺一不可。</p><p>凭证类型上，桥接受用户 API key 与服务账号 key，团队管理员 API key 还不支持。</p><h2>上手三步</h2><p>第一步去面板拿 API key，或从团队设置里取服务账号 key。第二步按版本钉住一个桥发行版：每个 GitHub release 的 tag 与 TS、Python SDK 的版本对应，下载对应平台的独立包，解开后有 bin/cursor-sdk-bridge（Windows 上是 .exe）、proto/sdk/v1/ 与 manifest.json；平台用 darwin、linux、win32 配 x64 或 arm64，Windows 只有 x64。pip 装过 cursor-sdk 的话，桥已经在 PATH 上。</p><p>第三步是让代理替你写适配：把仓库地址和 README 里的 Agent: start here 指给 Cursor，让它照 proto 生成代码、管理桥进程生命周期、处理流与错误、搭回调服务。手写也能成，但这段活机械且容易漏边界情况。</p><h2>适配层该长成什么样</h2><p>官方给的一方 SDK 收敛出一个形状，值得照着做：桥管理器负责找到或拉起二进制、完成 ready-line 握手、退出时收干净，并允许连接已有端点；传输层走 HTTP/1.1，一元 POST 加流式响应，每次调用带 bearer；客户端层提供 agents、runs、models、repositories 的类型化 RPC；再上面是 Agent 与 Run 句柄，负责创建、发送、流事件、等待与取消；错误层把 Connect 状态码与 sdk.v1 的错误详情映射成你语言里的异常或结果类型；回调服务是可选的回环服务，让用户能用你的语言定义自定义工具与存储。</p><p>还有一条工程细节：必须提供 create、send、wait、close 的一行式便捷方法，以及 context manager 或 RAII 形态，否则桥进程会泄漏——这不是风格问题，是长跑进程里会累积出一堆孤儿进程的实际故障。</p><h2>排障与版本策略</h2><p>先验证二进制本身：cursor-sdk-bridge --help 能跑通再谈适配代码。RPC 失败又看不出原因时，用 --verbose 启动，或设 CURSOR_SDK_BRIDGE_LOG=1，桥会把每个 RPC 的名字、结果、耗时与完整错误打到标准错误，但请求与响应负载从不记录——这点对合规审查很关键。仓库里还有一份只用 curl 的冒烟测试，走 spawn、Ping、Me、CreateAgent、Send 全流程，不写适配代码也能确认链路通。</p><p>版本上，sdk.v1 只做增量变更：字段不重编号、不复用，破坏性变更会另发 sdk.v2 与 v1 并存。codegen 钉在 release tag 上，并尽量让桥的 manifest.json 里的 sdkVersion 与之一致。旧适配配新桥仍能工作，新 RPC 在你重新生成代码前不可见；运行时要按 bridge_version、protocol_version 或 capabilities 做门控，调 SdkBridgeControlService.GetVersion。</p><h2>责任划分要说清</h2><p>官方支持的是发布的 sdk.v1 proto、独立桥二进制，以及一方 TS / Python SDK。基于桥写的社区或内部适配由你自己负责版本、支持与安全评审。另外 SDK 运行遵守与 IDE、云代理相同的价格、请求池与隐私模式，花费在用量面板里归到 SDK 标签。</p>"
+  },
+  {
+    "slug": "origin-agents-automations",
+    "title": "Origin 仓库上的代理：自动化触发器与两种 PR 归属",
+    "summary": "Origin 目前是早期测试版；自动化可对着 Origin 仓库按 push、PR 事件或标签变化起云代理。在 Origin 上建的仓库开 Origin PR，从 GitHub 镜像来的仓库仍开 GitHub PR。",
+    "url": "https://cursor.com/docs/origin/agents",
+    "category": "AI教程",
+    "date": "2026-11-08",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true,
+    "content": "<h2>先把版本状态说在前面</h2><p>Origin 是 Cursor 自带的代码托管，官方标注为早期测试版。眼下它覆盖的是仓库、代码、评审这三件事：自己建仓、用标准 git 读写、把 GitHub 上的项目镜像过来、在网页里翻代码、开与合 PR，以及在 Cursor 团队内共享访问。它还没有成熟到可以无脑替换既有托管，评估时按这个定位来。</p><h2>代理接进来的两条路</h2><p>Origin 与 Cursor 的自动化、云代理是打通的，代理可以评审、修改并推送 Origin 仓库上的代码。接入分两种：一是自动化，按计划或源码管理事件触发云代理；二是云代理，直接对着 Origin 仓库克隆、建分支、提交与推送。</p><p>本机上的本地代理也能参与，但走的是另一条路：用 Origin CLI 登录后执行 origin repo create 建仓库，配好远端再推送。也就是说「让代理帮我建个仓库」在本地与云端是两种实现，不要指望同一条命令两边通用。</p><h2>自动化对着 Origin 仓怎么配</h2><p>配法与你熟悉的 GitHub、GitLab 连接一致：把自动化指向一个 Origin 仓库就行。对 Origin 仓常用的触发器有三类：推送到分支（比如推 main 或 master）、PR 打开与 PR 有新推送及相关 PR 事件、PR 上的标签增删。创建入口有三个：cursor.com/automations、Agents Window，或在对话里用 /automate 技能。流程是选仓库（或一个包含它的多仓环境）、设触发器与提示词、保存并启用。</p><p>这里有个容易忽略的差别：标签类触发器在 GitHub 上依赖的是 GitHub 的标签体系，在 Origin 上同样成立，但如果你的团队习惯用 PR 标题前缀而不是标签表达状态，这条触发器就等于没用——先看团队实际怎么标，再决定要不要开。</p><h2>PR 归属取决于仓库来源</h2><p>这是最容易出错的地方。在 Origin 上创建的仓库，云代理开的是 Origin PR；从 GitHub 镜像过来的仓库，云代理开的仍然是 GitHub PR。原因不难理解：镜像仓的 GitHub 是事实来源，代理的改动最终要回到 GitHub 去评审与合并。</p><p>因此把仓库迁到 Origin 并不等于把评审流程也迁过去。如果团队正在评估 Origin，务必分清哪些仓库是原生的、哪些是镜像的，否则会出现「PR 一半在 Origin 一半在 GitHub」的混乱，评审规则与必需检查也会跟着分裂。</p><h2>代理用的是谁的权限</h2><p>官方说法是代理使用你 Cursor 账号的 Origin 访问权限。这意味着权限边界不在代理身上，而在账号身上：给某个成员开了 Origin 代码存储的访问，他的代理就能读写对应仓库；没开，代理建仓库这一步会直接失败。团队做权限收敛时，要按「谁能让代理干活」而不是「代理能干什么」来梳理。</p><h2>什么时候该用镜像而不是新建</h2><p>代码已经在 GitHub 上、只是想试试 Origin 的，用镜像而不是新建再推一遍：镜像保留与 GitHub 的同步关系，不必手工搬运历史。只有在 Origin 上从头开始的新项目，或者明确要脱离 GitHub 的项目，才适合直接建原生仓库。这条判断能省掉大量「两边都改了一遍、然后冲突」的时间。</p>"
+  },
+  {
+    "slug": "origin-create-repository",
+    "title": "在 Origin 上建第一个仓库：可见性规则与首个提交",
+    "summary": "从 cursor.com/codebase 点 New 建空仓，团队仓要选 Internal 或 Private，个人仓一律私有且不显示可见性选项；建完用 Code 按钮取 clone 地址推首个提交，已有 GitHub 项目应走 Sync from GitHub。",
+    "url": "https://cursor.com/docs/origin/create-repository",
+    "category": "AI教程",
+    "date": "2026-11-08",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true,
+    "content": "<h2>入口与三个前提</h2><p>Origin 仍在早期测试阶段。建仓入口在 cursor.com/codebase，点 New 弹出新建仓库对话框，填仓库名即可。建完是个空仓库，需要你自己 clone 下来推首个提交。如果代码本来就在 GitHub 上，不要走这条路，用同一页的 Sync from GitHub 更省事——它会带着历史一起过来，而新建再推等于手工搬运。</p><h2>可见性由归属决定，不由你决定</h2><p>这里是 Origin 与常见托管差别最大的一处。团队代码库名下的仓库，在新建对话框里要选 Internal 或 Private：Internal 对团队内所有能访问该代码库的人可见，Private 只对直接授权或通过代码库权限获得访问的人可见。团队访问沿用你 Cursor 团队与代码库的访问关系。</p><p>个人账号名下的仓库则一律以 Private 创建，对话框里根本不出现可见性选择器。想分享个人仓库，得建完之后进仓库的 Settings → Collaborators 逐个邀请。这条设计减少了「误把私人项目建成公开」的风险，代价是个人项目没法一键转成团队可见，只能靠邀请或迁移。</p><p>建完之后，可见性与单仓库访问都能在仓库的 Settings 标签里调整。也就是说初始选择不是终局，但团队仓与个人仓的归属本身不在这个界面里改。</p><h2>推第一个提交的两种姿势</h2><p>新克隆：用 Code 按钮取 HTTPS 地址，git clone 下来，加文件、git add .、git commit，然后 git push -u origin main。已经有一个本地项目：进项目目录，git remote add origin 加上那个地址，再 git push -u origin main。两条路的区别只是要不要先 clone 一个空仓。</p><p>注意 -u 这一步不是可选的仪式：它把本地 main 与远端 main 建立跟踪关系，之后直接 git push 才有默认目标。漏掉它的人通常会在第二次推送时被要求写全 origin main。</p><h2>让代理替你建</h2><p>也可以直接让 Cursor 里的代理建仓库：它自己装 Origin CLI、登录、建仓、配远端、推送，权限沿用你的 Cursor 账号。前提是你的账号有 Origin 代码存储的访问权，否则创建会失败——失败原因往往显示得含糊，先确认权限再怀疑代理。</p><p>代理建仓之后，云代理就能对着它干活：克隆、建分支、提交、推送，在原生的 Origin 仓库上开的是 Origin PR。如果是镜像来的 GitHub 仓库，开的仍是 GitHub PR，这条差别在建仓选型时就该想清楚。</p><h2>空仓与镜像之后的分叉</h2><p>两条路的长期成本不同。新建的空仓没有上游，Origin 就是唯一事实来源，好处是没有同步问题，代价是与 GitHub 生态里的工具链（比如依赖 GitHub 检查状态的门禁）需要重新接线。镜像仓保留 GitHub 为事实来源，能继续用 GitHub 的评审与检查，但写路径受镜像规则约束。选哪条，取决于你要的是「新项目从零开始」还是「旧项目换个地方看」。</p>"
+  },
+  {
+    "slug": "origin-git-push-pull",
+    "title": "Origin 的 git 用法：克隆地址、主机指纹与 origin push local",
+    "summary": "HTTPS 地址形如 origin.cursor.com/{owner}/{repo}.git，SSH 用已注册公钥认证；镜像仓的 GitHub 才是事实来源，origin/* 分支只留在 Origin，靠 origin push local 推送。",
+    "url": "https://cursor.com/docs/origin/git",
+    "category": "AI教程",
+    "date": "2026-11-08",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true,
+    "content": "<h2>Origin 说的就是标准 git</h2><p>Origin 没有自创一套版本控制，用的就是 git。在 cursor.com/codebase 打开仓库，点绿色的 Code 下拉，能拿到两类克隆地址。HTTPS 形态是 https://origin.cursor.com/{owner}/{repo}.git；SSH 形态是 git@origin.cursor.com:{owner}/{repo}.git。前者在首次操作前要先 origin auth login，后者用登记在你 Origin 账号上的公钥认证，公钥通过 Origin CLI 添加，命令形如 origin ssh-key add ~/.ssh/id_ed25519.pub -t work-laptop。</p><p>Code 下拉里还有第三个标签给 CLI 用户：curl 一行装 Origin CLI，然后 origin auth login。</p><h2>第一次连 SSH 时的那串指纹</h2><p>第一次连 origin.cursor.com 会打印主机密钥指纹并问你是否继续。这一步不要习惯性敲 yes。Origin 只提供一把 ED25519 主机密钥，官方公布的两个等价指纹是 SHA256:EgIVKsf8fXGd7oj12nE0juHrGGPU8QLVfpGM3ymunGM 与 MD5:15:84:8d:05:5f:4f:cd:3b:37:19:3b:19:c5:02:30:6f；OpenSSH 默认显示 SHA256 形式，老客户端或 ssh -o FingerprintHash=md5 显示 MD5 形式。看到别的指纹就答 no，那说明连接没到 Origin。</p><p>想跳过这个提示，可以把 Origin 的公钥行写进 ~/.ssh/known_hosts，CI runner 的 known_hosts 也用同一行。反过来说，如果某天客户端报 REMOTE HOST IDENTIFICATION HAS CHANGED 而官方没有提前公告密钥轮换，正确动作是停下、不要更新 known_hosts——这通常意味着中间有人在拦你的连接。</p><h2>已有项目怎么接上去</h2><p>本地项目加一个远端就行：git remote add origin 加克隆地址，然后 git push -u origin main。想同时往 GitHub 与 Origin 推、以便并行评估，可以给同一个远端加两个 push 地址：先用 set-url --add --push 把 GitHub 加上，再加 Origin 的地址。这样一次 git push 会推到两处。</p><p>不过要分清用途：这套双推适合「小步试水」，需要完整历史搬迁时应该用镜像，而不是靠 push 一点点补。</p><h2>镜像仓的规则完全不一样</h2><p>从 GitHub 镜像来的仓库，HTTPS 克隆地址看起来一样，但 GitHub 仍是事实来源：往这个远端 git push 实际推向 GitHub，Origin 在 GitHub 接受之后才更新。这不是配置错误，是设计如此。</p><p>GitHub 不可用时怎么办？在 Origin 副本上用 origin/* 前缀的分支继续干活，再用 origin push local 推上去。这些 refs 只留在 Origin，既不会从 GitHub 同步过来，也不会同步回 GitHub。Origin 有意不同步任何名为 origin 或 origin/ 的 GitHub 分支，目的就是防止 GitHub 上同名分支覆盖你推上去的内容。</p><p>origin push local 做的事很具体：确认当前检出的 origin 远端属于入站镜像的 Origin 仓库，创建或更新一个名为 origin-local 的远端指向 .../{owner}/{repo}.git/local，把它的 fetch 与 push refspec 限定在 refs/heads/origin/*，然后把本地每个 origin/* 分支推过去。名字不会被改写，origin/my-state 存下来仍是 refs/heads/origin/my-state。</p><p>两条限制值得记：Git LFS 的批量下载不会跟着这个兜底路径走；要让改动最终变成 GitHub PR 的功能分支，仍然得用普通的 git push origin。</p><h2>什么时候该意识到自己在镜像仓上</h2><p>一个实用判据：如果你推了代码却在 GitHub 上看不到，先确认这是不是镜像仓、分支是不是 origin/ 开头。镜像仓上「推了没反应」几乎都出在这两点，而不是网络问题。</p>"
+  },
+  {
+    "slug": "origin-code-browse-history",
+    "title": "Origin 仓库的浏览与提交历史：T 跳文件、按作者筛提交",
+    "summary": "Code 标签页能浏览目录、切分支、看提交历史；按 T 直接跳到文件，用搜索框找内容；作者筛选只在分支历史里可用，看单个文件或目录的历史时不提供。",
+    "url": "https://cursor.com/docs/origin/browse",
+    "category": "AI教程",
+    "date": "2026-11-08",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true,
+    "content": "<h2>先把浏览面拆成三块</h2><p>Origin 仍处于早期测试阶段。打开 cursor.com/codebase 里的任意仓库，默认落在 Code 标签页，这一页承担三件事：浏览目录与文件、搜索代码、查看提交历史。仓库头部还有另一个标签 Pull requests 与 Settings——前者管开、评审、合并 PR，后者管同步状态、访问、规则与保护、以及应用。也就是说日常只需要在三个标签之间切换，不必记一堆路径。</p><h2>目录与分支</h2><p>左侧树状结构用来进目录、开文件。切换分支用头部那根分支控件，切完之后浏览的内容与历史都跟着变——这一点容易出错：很多人先看历史再想切分支，结果读完才发现看的是另一条线。正确的顺序是先定分支，再看内容与历史。</p><h2>两种找文件的方式</h2><p>找具体文件用 Go to file，快捷键是 T；找内容片段用仓库头部的搜索框。这两者的区别看似常识，但在代码托管里经常被混用：前者按路径匹配，后者按内容匹配。仓库大到几十万行时，先在搜索框里定位关键字、再用 T 跳到具体文件，比在目录树里一层层点要快得多。</p><h2>提交历史里的作者筛选</h2><p>在 Code 里可以打开当前分支的提交历史，点某一条提交能看到它的提交信息、元数据与变更文件。作者筛选的入口在分支控件旁边的 All authors，选一个人或者直接输邮箱，就能只看某个人的提交。</p><p>这里有一条明确限制：单文件或单目录的历史页不提供作者筛选。原因是那一层视图按文件路径聚合，作者维度与聚合口径冲突。想按人看改动，就回到分支历史筛选，再从提交里看文件；不要指望在文件历史里筛人，那里没有这个功能。</p><h2>克隆入口藏在哪</h2><p>绿色 Code 按钮除了给人复制地址，还会给出 Origin CLI 的接入方式。它同时是 HTTPS 与 CLI 的起点，如果团队里有人在配 CI 或写脚本，把这一处指给他比让他去翻文档更快。</p><h2>浏览页的定位其实很务实</h2><p>这套界面没有追求「代码托管全家桶」，而是把最常做的几件事做顺：看清某条分支上有什么、找到某段代码、弄明白谁改了什么。评估 Origin 时，用这三个动作去试比看功能清单更准——如果团队的日常主要是评审 PR 与追查改动，够用；如果重度依赖代码搜索的高级语法或跨仓库检索，就要提前确认能力边界。</p>"
+  },
+  {
+    "slug": "cursor-azure-devops-setup",
+    "title": "Cursor 接 Azure DevOps：一次租户同意与两层项目权限",
+    "summary": "只支持 dev.azure.com，Server 不支持；云代理与 Bugbot 可用，自动化与安全代理还没有；Bugbot 需要 Entra 管理员一次性同意、再把服务主体加进各项目的管理员组。",
+    "url": "https://cursor.com/docs/integrations/azure-devops",
+    "category": "AI教程",
+    "date": "2026-11-08",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true,
+    "content": "<h2>先确认它覆盖到哪一步</h2><p>Azure DevOps 集成目前是公开测试版，支持的是 dev.azure.com 上的 Azure DevOps Services，自建的 Azure DevOps Server 不在支持范围。已经打通的能力有两个：云代理能克隆代码、在分支上干活、开 PR；Bugbot 能评审 PR 并把发现以评论形式贴出来。</p><p>还没打通的有三类，官方明确列在路线图上：自动化、Bugbot 自动修复、安全代理（含安全评审与漏洞扫描）。这三样目前只在 GitHub 上可用。如果你的整改计划依赖「PR 一开就自动跑安全检查」，接 Azure DevOps 之前要先接受这个缺口。</p><h2>连接本身很简单</h2><p>进后台集成页，点 Azure DevOps 旁的连接，用平时登录 Azure DevOps 的微软账号登录，在 Microsoft Entra 的 OAuth 同意页上确认授权，回到 Cursor 选仓库，再为要用它的仓库配置云代理。断开就在同一页点断开账号。这部分与接 GitHub、GitLab 的体感一致，不需要特殊准备。</p><h2>Bugbot 才是麻烦的那一半</h2><p>Bugbot 在 Azure DevOps 上不是「连上就能用」，它需要 Microsoft Entra ID 管理员授予一次租户级管理员同意。原因是 Cursor 要在你的租户里创建一个服务主体，由它安装 Bugbot 监听的 service hooks、读取 PR 差异、发布评审评论与构建状态。同意需要的角色是全局管理员、应用管理员或云应用管理员；因为它作用于整个租户，仓库管理员一个人是完不成的。</p><p>流程按顺序是三段：项目集合管理员先在集成页连上 Azure DevOps，并在仓库的 Bugbot 开关处把它打开，这一步会识别组织的 Entra 租户并自动创建服务主体；Entra 管理员完成那一次同意；然后每个要被评审的项目里，项目管理员把 Cursor 的服务主体加进项目管理员组。第三段常被跳过——只给仓库读权限是不够的，服务主体需要项目管理权限才能管自己的 service hooks。</p><p>授权之后还要给服务主体一个 Basic 访问级别。正常情况下 Cursor 会用连接 Azure DevOps 的那个管理员账号自动把它加进组织并申请 Basic，但有两种情况会卡住：连接用的账号没有往组织里加人的权限；或者组织里没有空闲的 Basic 席位。前者重新以组织管理员身份连接，后者腾一个席位或在组织的用户设置里直接分配。</p><h2>同意链接可以自己拼</h2><p>如果启用时报错说缺同意，可以自己构造授权链接：login.microsoftonline.com/{你的租户 ID}/v2.0/adminconsent，带 client_id=29df4809-337a-4255-bd57-d4a1476b0e65、redirect_uri 指向 cursor.com/azure-devops-connected，scope 用 499b84ac-1321-427f-aa17-267ca6975798/.default 加 offline_access、openid、profile。其中那串 GUID 是微软给 Azure DevOps API 的标识，Cursor 不申请任何 Microsoft Graph 数据。授权完成后管理员会被带回确认页，服务主体留在你的租户里，随时可以在 Entra 里撤销。</p><p>一个坑要提前知道：早先的同意只覆盖当时申请的那些权限。如果 Cursor 后来加了新权限，配置会中途失败，而重新连接并不能修好——必须重开同意链接刷新一次授权。</p><h2>权限变更为什么会有延迟</h2><p>Azure DevOps 应用权限变更不是即时的，官方说会延迟几分钟。所以刚给完权限、开关仍然失败，先等几分钟再重试，不要立刻去改配置。启用失败时错误信息通常会点名缺哪一步，按提示补完再打开开关即可。</p><p>另外两点边界：Bugbot 只对团队仓库生效，个人作用域的仓库不支持；组织如果建在个人微软账号上，无法承载这个服务主体，得先把组织接到 Microsoft Entra ID。评审触发时机是 PR 打开与更新，也可以有人在评论里写 cursor review 或 bugbot run 手动要一次。</p>"
+  },
+  {
+    "slug": "cursor-gitlab-setup",
+    "title": "Cursor 接 GitLab：为什么免费版接不了，以及提交作者为什么会被拒",
+    "summary": "集成依赖项目访问令牌，而 GitLab 免费版不提供该令牌，所以需要 Premium 或 Ultimate；云代理以令牌的 bot 用户身份提交，令牌拿不到时会退回 cursoragent@cursor.com 并被推送规则挡住。",
+    "url": "https://cursor.com/docs/integrations/gitlab",
+    "category": "AI教程",
+    "date": "2026-11-08",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true,
+    "content": "<h2>一条容易被忽略的前置条件</h2><p>GitLab 集成的目的很明确：把仓库接进来，让云代理与 Bugbot 能用。但它在套餐上有硬门槛——GitLab 侧需要 Premium 或 Ultimate，因为集成依赖项目访问令牌（project access token），而免费版不提供这个能力。团队在评估时如果只看「支持 GitLab」就动手，往往会在配置阶段才发现卡在套餐上。</p><p>权限上还需要两样：Cursor 侧的管理员权限，以及 GitLab 侧的维护者（Maintainer）权限。两者缺一，后面的步骤会以不同形式失败。</p><h2>连接流程</h2><p>去后台的集成页，点 GitLab 旁的连接（已连过则显示管理连接），走完 GitLab 的安装流程，回到集成页点该连接上的管理并选择同步仓库，最后回后台为具体仓库配置功能。要断开就回集成页点断开账号。</p><h2>提交作者这件事最值得先弄明白</h2><p>云代理在 GitLab 上的提交，用的是 Cursor 为每个项目创建的项目访问令牌所对应的 bot 用户。这样做的目的很实际：很多团队的推送规则要求提交作者必须是 GitLab 用户，用 bot 身份就能通过这类规则。</p><p>创建这个令牌需要项目维护者权限。如果令牌不可用，或者 Cursor 无法解析出它的 bot 身份，代理会退回以 Cursor Agent（cursoragent@cursor.com）提交，而这些提交会被上述推送规则拒绝。表现就是「代理说改完了，但分支上没有提交」。遇到这种症状，先查令牌与维护者权限，不要先怀疑网络。</p><h2>自建实例的三条网络路径</h2><p>自托管 GitLab 除了 IP 白名单，还有两种企业级走法。AWS PrivateLink 适合实例本身就落在 AWS、或者能藏在一个 AWS 网络负载均衡器之后的团队，它既覆盖 Cursor 访问 GitLab，必要时也能让 GitLab 反过来把事件推给 Cursor，全程不出公网；代价是要和 Cursor 及 AWS 端点服务做配合。Cloudflare Tunnel 适合 PrivateLink 不实用、或需要纯出网模式的场景：隧道由 Cursor 创建并持有，提供主机名与令牌，你在自己网络里往外跑 cloudflared，不需要 Cloudflare 账号；代价是你要维护 cloudflared 这个进程。两者都面向企业客户。</p><h2>把范围锁死</h2><p>Protected Git Scopes 允许把一个 GitLab 组或命名空间绑死到你的 Cursor 组织，绑定之后只有你的团队能拿这些仓库跑云代理、自动化与 Bugbot。这个动作需要 GitLab 的 Owner 角色。对多团队共用一套 GitLab 的公司，这一步相当于给「谁能拿这些仓库跑代理」画一条边界，值得在接入初期就定下来，而不是出事后再补。</p><h2>接上之后还要配什么</h2><p>连接本身只是地基。真正要用起来，还得在仓库上开 Bugbot 做自动 PR 评审，以及配置云代理。这也是判断集成是否真的可用的标准：不是看集成页显示已连接，而是看某个仓库上代理能跑出一个 PR、Bugbot 能在 PR 上留评论。</p>"
+  },
+  {
+    "slug": "cursor-bitbucket-two-identities",
+    "title": "Cursor 接 Bitbucket：个人授权与工作区应用是两件事",
+    "summary": "云代理克隆、推分支、开 PR 用的是你本人连上的 Bitbucket 账号，Bugbot 的评论与状态用的是工作区里安装的 Cursor 应用；两者权限来源不同，缺一个就会有一半功能不工作。",
+    "url": "https://cursor.com/docs/integrations/bitbucket",
+    "category": "AI教程",
+    "date": "2026-11-08",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true,
+    "content": "<h2>支持面先划清</h2><p>Bitbucket Cloud（bitbucket.org 上的仓库）是公开测试版，能接云代理与 Bugbot，安全评审与漏洞扫描也支持 Cloud。Bitbucket Data Center 只能接 Bugbot，安全评审与漏洞扫描不支持。这个差别决定了自建实例的用户能拿到什么：能自动评审 PR，但拿不到安全扫描那一层。</p><h2>为什么装两遍</h2><p>Bitbucket Cloud 的接入分两部分，每部分要的角色不同。第一部分是每个开发者各自连自己的 Bitbucket 账号，让 Cursor 以这个人的身份克隆仓库、推分支、开 PR。第二部分是工作区管理员在 Bitbucket 里安装 Cursor 应用，让 Bugbot 与云代理的状态评论以 Cursor 的身份出现，而不是以某个人的身份。</p><p>把应用装到工作区并把它连到某个 Cursor 团队，这两步的角色还不一样：装应用需要 Bitbucket 工作区管理员，连接团队需要能访问该工作区的 Cursor 团队管理员。如果一个人要一次做完，他得同时具备两个角色。</p><h2>哪种动作走哪个身份</h2><p>官方把这层分工写得很细：Bugbot 的总结评论、行内评论与构建状态走 Cursor 应用；云代理在 PR 上的进度评论也走 Cursor 应用；而克隆、推分支、提交、创建 PR 走的是你连上的那个 Bitbucket 用户。因此云代理开的 PR 会记在发起这个代理的人名下，Bugbot 的输出则显示为 Cursor。</p><p>这条分工解释了一类常见困惑：PR 是「我」开的，但评论是「Cursor」写的。想改成别的方式，只能改发起人，改不了评论方——后者由工作区应用的身份决定。</p><h2>它申请了哪些权限</h2><p>账号权限用于识别连上的 Bitbucket 用户；仓库权限用于列出、克隆与读取内容；PR 读权限用于读差异与元数据；PR 写权限用于开 PR 与发评论；Webhook 权限用于接收仓库与 PR 事件。这几项对「自动评审 + 自动开 PR」是最小集合，多一项都没有。</p><h2>断开要断两处</h2><p>断开账号只移除你个人的 OAuth 连接；断开 Cursor 应用只解除工作区与 Cursor 团队的关联。应用本身可能还留在 Bitbucket 里，要从工作区的 Forge Apps 设置里卸载才会真正停止事件。如果只想换团队用另一个工作区，用集成页的管理菜单里的切换工作区：一个 Cursor 团队同时只用一个 Bitbucket 工作区，切换会先断开当前工作区的应用关联，之后再到新工作区里重新连一次。</p><h2>几个可自查的故障</h2><p>找不到工作区：Bitbucket 的应用安装事件同步要几分钟，等一下再点连接。装了应用却连不上团队：确认你是 Cursor 团队管理员，且你的 Bitbucket 用户对目标工作区有访问权。Bugbot 评论没以 Cursor 出现：只连了个人账号，没装工作区应用。云代理读不到仓库：个人账号没连、没有读写权限，或者仓库不在 bitbucket.org 上。Data Center 侧列不出仓库：先确认服务账号令牌有效且有对应仓库权限，再确认 Cursor 能通过 HTTPS 访问实例。</p><p>Data Center 的私有连接走 AWS PrivateLink 或 Cloudflare Tunnel，另有反向代理隧道可选，均面向企业客户；Google Private Service Connect 目前不支持。</p>"
+  },
+  {
+    "slug": "cursor-jetbrains-acp",
+    "title": "在 JetBrains IDE 里用 Cursor：从 ACP 注册表装一个代理",
+    "summary": "前提是付费 Cursor 套餐加 2025.1 以上、启用 AI Assistant 插件的 JetBrains IDE；在 AI Chat 面板的代理列表里从注册表添加 Cursor，IDE 当客户端、Cursor 当服务端，按用量计费。",
+    "url": "https://cursor.com/docs/integrations/jetbrains",
+    "category": "AI教程",
+    "date": "2026-11-08",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true,
+    "content": "<h2>它解决的问题</h2><p>不想为了用代理而换编辑器的人，可以在 IntelliJ IDEA、PyCharm、WebStorm 这些 JetBrains IDE 里直接使上 Cursor 的代理。机制不是插件里塞一套模型，而是走 ACP（Agent Client Protocol）：IDE 当客户端，Cursor 的代理当服务端，提示词经协议转过去，编辑与命令流回来。</p><h2>两个前置条件缺一不可</h2><p>一是付费的 Cursor 套餐；二是 JetBrains IDE 装了 AI Assistant 插件，且版本在 2025.1 以上。这两条都不满足时，界面上根本不会出现后面要点的入口，容易被误判成「功能还没上线」。</p><h2>四步接上</h2><p>打开 IDE 的 AI Chat 面板，它在右侧边栏，也可以从 View 菜单的 Tool Windows 进去。在面板里打开代理提供方列表，选从注册表添加代理，搜 Cursor 并安装。装完把 Cursor 选为当前的代理提供方，认证一次，然后在面板里发第一条提示词即可。</p><p>这一步的顺序不能颠倒：先装再选再认证。跳过认证直接发提示词，表现是没反应或报权限错误，而不是给出一个明确的登录提示。</p><h2>能拿到什么、拿不到什么</h2><p>官方列出的能力有三块：模型选择，可以按任务类型在前沿模型之间切换；文件编辑，代理读写项目里的文件，改动直接反映在 JetBrains 编辑器里；终端命令，代理在 IDE 的集成终端里执行 shell 命令。</p><p>值得注意的是这份清单里没有的东西：没有提到 MCP 配置的接入方式，也没有提到浏览器操作、图片生成这类代理能力。也就是说这是在 JetBrains 里用「会读会写会跑命令」的那部分代理，而不是把 Cursor 的全部功能搬过去。评估时按这个范围来，不要按 Cursor 桌面的能力清单对标。</p><h2>数据往哪走</h2><p>请求路径是：你在 AI Chat 面板发提示词，插件通过 ACP 把它转发给 Cursor 代理，代理读取项目文件、把编辑与终端命令流回 IDE。项目文件由代理按需读取，不是整库上传，但「哪些文件被读到」取决于代理判断，而不是你在面板里手动圈选——这一点与在 Cursor 里用 @ 指定上下文不完全一样。</p><h2>计费口径</h2><p>官方说法是 Cursor ACP 使用与你 Cursor 订阅相同的按用量计费。也就是说在 JetBrains 里用掉的量记在同一份额度上，不会因为换了编辑器而另开一套账单。团队做成本核算时，这一项要合进 Cursor 的总用量里看，而不是当成独立的 IDE 插件开销。</p><h2>适合谁</h2><p>适合那些主力工作流绑在 JetBrains 上的人：调试器、数据库工具、框架集成都在 IDE 里，为了用代理而切到别的编辑器，迁移成本大于收益。反过来，如果你的工作依赖 Cursor 特有的能力（比如多代理窗口、云代理编排、hooks），在 JetBrains 里是拿不到的，该继续用 Cursor 本体。</p>"
+  },
+  {
+    "slug": "cursor-teams-mention-agents",
+    "title": "在 Microsoft Teams 里 @Cursor 派活：选项优先级与卡片交接",
+    "summary": "频道里 @Cursor 加提示词即可起云代理，它按消息内容、近期活动与默认仓库判断目标；repo、env、branch、model 四个选项里 env 优先于 repo，线程里再 @ 一次是追加指令。",
+    "url": "https://cursor.com/docs/integrations/microsoft-teams",
+    "category": "AI教程",
+    "date": "2026-11-08",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true,
+    "content": "<h2>为什么要在聊天窗口里派活</h2><p>很多需求是在讨论里成形的：某人在频道里描述了一个 bug，上下文、复现步骤、影响范围都在那条线程里。把这段讨论复制到另一个界面再让代理干活，等于人为搬运一次上下文。Teams 集成的价值就在这——在频道里 @Cursor 加提示词，云代理直接读这条线程的上下文开工。</p><h2>安装顺序有讲究</h2><p>从 Cursor 的集成页点 Microsoft Teams 旁的连接，或者从微软市场列表进去，把 Cursor 应用装到 Teams 工作区。装完会被带回 Cursor 完成收尾。收尾清单里有三件必须做的事：连一个仓库提供方（GitHub、GitLab、Azure DevOps 或 Bitbucket，之前没连过的话）；启用按用量计费；确认隐私设置。这三步任何一步没做完，@Cursor 都不会真的跑起代理。</p><h2>它怎么猜你要动的仓库</h2><p>不给具体仓库时，Cursor 会自己判断：先看消息里有没有仓库名或关键词，再看你最近用过哪些仓库，最后退到默认仓库。想指定就在消息里写仓库名，例如让它去修某仓库的登录问题。指定模型、指定基分支同理，写进自然语言即可。</p><h2>四个选项与优先级</h2><p>能显式控制的选项是 repo、env、branch、model。写法有两种：自然语言，比如让它用某个模型、在某个仓库里改；行内写法，用 key=value 的形式塞在消息里。优先级规则有三条值得记：显式值覆盖默认值；行内选项覆盖从消息里推断出的模型与仓库；两者同时给出时 env 优先于 repo。</p><p>最后这条容易造成「明明写了仓库却没去那个仓库」的困惑。原因是命名环境本身就绑定了一组仓库与设置，环境优先意味着仓库由环境决定。要用环境又要换仓库，得先想清楚这是不是一个合法组合。</p><h2>线程里再 @ 一次是追加，不是新建</h2><p>在频道线程里，云代理已经跑起来之后，再 @Cursor 一次是在给它追加指令，而不是开一个新代理。这个默认行为在多数场景下是对的——你希望它在同一个任务上继续改。要开新的，就得换一种方式表达，或者干脆在另一个线程里发起。</p><p>个人聊天与群聊里的续接方式不一样：官方建议从 Cursor 里点「在网页打开」或「在桌面打开」继续，而不是在聊天窗口里硬接着聊。差别在于聊天窗口不保留代理的完整工作区上下文。</p><h2>从启动卡片到结果通知</h2><p>代理启动时 Teams 里会出现一张启动卡片，上面写着选中的仓库、模型与分支，并有在网页打开、在桌面打开、切换仓库三个操作。跑完会收到一条通知，如果开了 PR，卡片上能直接跳过去看。卡片上还能追加指令、切换仓库重跑、删除（停止并归档）、改设置、给反馈。</p><h2>它要的权限与隐私</h2><p>集成申请的权限包括识别发起人、发私信做账号关联与通知、读频道消息与回复（用于线程上下文）、读个人与群聊消息（用于对话上下文）、读频道与团队元数据（用于名称与描述匹配）。隐私上支持隐私模式，但旧版隐私模式不支持；云代理运行期间需要临时存储代码。还有一项可以关：代理摘要与 diff 图片的展示，因为它们可能包含文件路径或代码片段。</p>"
+  },
+  {
+    "slug": "cursor-slack-option-parsing",
+    "title": "Slack 里 @Cursor 的选项解析：代码块里的 key=value 不算数",
+    "summary": "Slack 集成把选项写在消息任意位置都能识别，但三反引号代码块里的 key=value 会被忽略并原样留在提示词里；autopr、channel、pool 这类只在行内写法才生效。",
+    "url": "https://cursor.com/docs/integrations/slack",
+    "category": "AI教程",
+    "date": "2026-11-08",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true,
+    "content": "<h2>先看一条真实的坑</h2><p>有人在 Slack 里贴了一段建连接池的代码，注释里带着 pool=None 这个参数，然后 @Cursor 问它为什么崩。结果代理没有按「指定池」去跑——因为那段 key=value 在三反引号代码块里。Slack 集成会忽略代码块内的 key=value，哪怕只有一行，并把代码原样留在提示词中。这个设计是对的：贴代码是最常见的沟通方式，如果代码里的参数被当成配置指令，几乎每次都会误触发。</p><h2>能被识别的选项有哪些</h2><p>官方列出的选项覆盖了跑在哪、怎么跑：repo 指定仓库，env 指定命名环境，branch 指定基分支，model 指定模型，autopr 控制是否自动开 PR，worker 或 machine 指定跑在某台自备机器上，pool 指定团队池，self_hosted 或 sh 表示跑在团队池里，channel 把代理更新发到另一个频道。</p><p>其中 autopr、worker 或 machine、pool、self_hosted、channel 这几项只支持行内写法，自然语言描述不会生效。这是实践中最容易「以为设了其实没设」的地方：想控制 PR 行为，就老实写 autopr=false，别指望一句「先别开 PR」。</p><h2>优先级与覆盖</h2><p>规则有四层：显式值覆盖默认值；同一选项重复出现时后写的覆盖先写的；行内选项优先于设置弹窗里的默认；env 与 repo 同时出现时 env 优先。另外 pool、worker、machine 以及 self_hosted=false 会覆盖频道默认池与团队默认池——想临时绕开池，用这几项比去改频道设置快。</p><p>环境名带空格要用引号包起来，否则解析会断在空格处。</p><h2>线程上下文与「谁能接着改」</h2><p>代理被唤起时会读整条线程作为上下文，这是 Slack 集成最实用的部分：讨论里已经说清了问题，代理按讨论去实现，不需要你再复述一遍。</p><p>但续接有权限：在线程里再 @Cursor 是追加指令，而「谁可以追加」由团队的 follow-up 设置控制，不是由「谁发起了这个代理」决定。如果团队把 follow-up 关掉，就只有发起人能续。这条规则在小团队里没什么感觉，在大频道里很关键——它决定了别人能不能往你正在跑的任务上继续加需求。</p><h2>要开新代理怎么办</h2><p>在一个已有代理的线程里，@Cursor 加提示词默认是追加。想另起一个，用 @Cursor agent 加提示词，或者说「开个新代理」「重新起一个代理」这类话，效果一样。同一线程里并行两个代理不算罕见用法：一个改实现、一个补测试，前提是你明确开了第二个。</p><h2>常用命令与解绑</h2><p>@Cursor help 给出最新命令清单；@Cursor settings 配默认值与频道默认仓库；@Cursor list my agents 看你正在跑的代理；@Cursor pool 系列查看与设置团队默认池、频道默认池，其中设置团队池需要团队管理员，设置频道池任何成员都能做。解绑要去 Dashboard 的云代理页点 Unlink Slack，之后要重新连才能再从 Slack 起代理。</p><h2>安装时别漏的三步</h2><p>装 Slack 应用之后回到 Cursor 完成收尾：连一个仓库提供方并选默认仓库、启用按用量计费、确认隐私设置。少了默认仓库，代理只能靠猜；少了计费开关，任务会直接起不来。</p>"
+  },
+  {
+    "slug": "cursor-xcode-mcp-bridge",
+    "title": "让 Cursor 用上 Xcode 的 MCP：xcrun mcpbridge 与 20 个工具",
+    "summary": "Xcode 26.3 起内置 MCP 服务，xcrun mcpbridge 把协议转成 Xcode 的 XPC 调用；在 Cursor 里注册一条 stdio 服务即可读写文件、构建、跑测试、截 SwiftUI 预览、搜苹果文档。",
+    "url": "https://cursor.com/docs/integrations/xcode",
+    "category": "AI教程",
+    "date": "2026-11-08",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64",
+    "is_new": true,
+    "content": "<h2>这件事的前提是版本</h2><p>Xcode 26.3 及以上内置了一个 MCP 服务，把项目能力以工具形式开放出来。Cursor 通过 xcrun mcpbridge 连上去——这是苹果随 Xcode 发的二进制，作用是把 MCP 协议消息翻译成 Xcode 内部的 XPC 调用。配置一次之后，Xcode 的 20 个工具在 Cursor 眼里就是一个普通 MCP 服务。</p><p>前置条件四项：macOS 加 Xcode 26.3 以上；付费 Cursor 套餐；Xcode 里打开着一个项目；Xcode 必须处于运行状态。最后一条最容易被忽略——桥进程需要活的 Xcode 会话才能通信，Xcode 关了，工具调用就会失败。</p><h2>先在 Xcode 侧打开开关</h2><p>Xcode 设置里进 Intelligence，在 Model Context Protocol 下把 Xcode Tools 打开。这一步不做，Cursor 侧怎么配都连不上。如果设置里根本没有这个开关，说明版本不够，去关于 Xcode 里确认版本再更新。</p><h2>Cursor 侧三种注册方式</h2><p>图形界面：进自定义 MCP，添加新服务，传输方式选 stdio，名字起 xcode-tools，命令填 xcrun mcpbridge。配置文件：在 ~/.cursor/mcp.json 里加一段，command 为 xcrun、args 为 mcpbridge。命令行：agent mcp add xcode-tools -- xcrun mcpbridge。命令行与编辑器共用同一份 MCP 配置，注册一次两边都能看到。</p><h2>20 个工具分成五类</h2><p>文件操作类有读、写、改、正则搜内容、按模式找文件、列目录、建目录、删、移动或重命名，其中读文件单次上限 600 行，更长的文件要用偏移与条数分段读。构建与测试类能构建当前 scheme、取构建日志（可按严重级别、正则或文件匹配过滤）、跑全部测试、跑指定测试类或方法、列出可用测试。诊断类能列出问题导航器里的警告与错误，以及重新检查某个文件的代码问题。智能类能截取 SwiftUI 预览的截图、在苹果文档与 WWDC 文稿里做语义搜索、执行一段 Swift 代码。工作区类能列出打开的 Xcode 窗口与标签页。</p><p>这份清单里真正改变工作方式的是构建与预览两项：以前代理改完代码只能靠读日志猜，现在它能自己构建、自己看错误、自己截图确认界面。测试也是同理，跑指定类或方法比跑全量快得多，适合小步验证。</p><h2>一次典型回合长什么样</h2><p>项目同时开在 Cursor 与 Xcode 里。让代理加一个功能或修一个 bug，它用读文件与正则搜索理解代码，用写或改落地修改，然后调构建工具检查错误、读构建日志定位问题，跑指定测试验证改动，最后截一张 SwiftUI 预览确认界面。整个过程你在 Cursor 里，编译、测试与预览由 Xcode 在后台完成。</p><p>这套分工的好处是各用所长：Cursor 负责理解与改代码，Xcode 负责它最擅长的编译与预览，不需要在 Cursor 里重建一套苹果工具链。</p><h2>四个高频故障</h2><p>找不到 xcode-tools：确认 Xcode 在运行且开着项目。工具报缺 tabIdentifier：说明需要工作区上下文，确认开的是项目或工作区而不是空窗口。构建或测试超时：大项目本来慢，桥会等 Xcode 的响应，超时通常意味着底层操作还在跑，去看 Xcode 的构建进度。xcrun 报找不到 mcpbridge：系统指向了命令行工具而不是完整的 Xcode，用 xcode-select -s 切到 Xcode.app 里的 Developer 目录，跑一次 xcodebuild -runFirstLaunch，再用 xcrun --find mcpbridge 确认返回的是路径而不是错误。</p><p>最后一种情况修完之后，还要回 Xcode 的 MCP 设置里允许外部代理，再在 Cursor 里把服务重新打开，Xcode 会弹一个授权对话框确认连接。</p><h2>命令行也能用</h2><p>Cursor CLI 同样吃这套工具，适合无头流程、CI 或终端优先的人：直接在终端里让代理加测试，它会从配置里读到 xcode-tools 并使用与编辑器相同的工具集。前提依旧是那台机器上跑着 Xcode 且有打开的项目——这条限制不会因为换了入口而消失。</p>"
   }
 ]
