@@ -5300,5 +5300,181 @@
     "thumbnail": "https://www.google.com/s2/favicons?domain=api-docs.deepseek.com&sz=64",
     "is_new": true,
     "content": "<h2>OpenClaw 是什么，为什么值得换模型</h2>\n<p>按官方文档的描述，OpenClaw 是一个开源的个人 AI 助手，能接入飞书、微信这类常用聊天工具，也能通过技能包扩展能力。它的价值在于「常驻」：装在本地或自己的机器上，长期在线接收消息。这类形态对模型的选择比较敏感——调用频次高、单次请求不长，价格与延迟的权重往往高于极限推理能力，所以换用别的供应商是很自然的诉求。</p>\n<h2>已经装过的：一条命令回到配置阶段</h2>\n<p>不需要重装。在终端执行带安装守护进程参数的配置命令，会重新进入配置流程，并把供应商切成 DeepSeek。这一步的关键是「重进配置」而不是「改配置文件」——向导会顺带处理守护进程的注册，手工改配置容易漏掉这一层，导致重启后配置没生效。</p>\n<h2>向导里的六个提问</h2>\n<p>流程是固定的：先确认「默认个人使用、多人共享需要额外加固」这一条，选是；然后选择安装模式，文档建议选快速开始；接着在模型与认证供应商里选 DeepSeek；再填入 API Key；随后是默认模型，这一步要手动输入模型名，文档里给的写法是 deepseek-v4-pro 或 deepseek-v4-flash；最后是消息渠道与技能等其余配置，新手可以全部选跳过，之后在界面里再加。</p>\n<p>这里有一个必须留意的细节：这一页列举的模型名与模型列表页上的写法并不完全相同，列表页给的是 deepseek-flash 这类名字。填之前先以模型列表页为准，或者直接把两个名字都试一遍看哪个被接受，比照抄文档里的示例更稳妥。名称写错通常不会在向导阶段报错，而是等第一次发消息时才失败。</p>\n<h2>从零安装的顺序</h2>\n<p>没装过的先装：Linux 与 macOS 走安装脚本，Windows 走 PowerShell 版本的一行命令。装完会自动进入配置阶段，之后的六步与上面一致。也就是说「装」和「配」是同一条流水线，不需要装完再单独找配置入口。</p>\n<h2>怎么确认真的接上了</h2>\n<p>配置完成后用仪表盘命令打开 Web 界面，在聊天页发一条消息。能收到回复说明密钥与模型名都对；如果报错，优先检查两件事：密钥是否填完整（向导里粘贴时容易带上多余空格），以及模型名是否与列表页一致。至于消息渠道，建议等聊天页跑通之后再配，否则一个失败会掩盖另一个失败。</p>"
+  },
+  {
+    "slug": "bailian-base-url-key-binding",
+    "title": "百炼的 401 多半不是 Key 写错：域名、地域与 Key 是一套三件套",
+    "summary": "Base URL 必须与同一计费方案的 API Key 配套，各地域的 Key 互不通用；三类域名的可见范围不同，同一域名下三种协议只差一段路径。",
+    "url": "https://help.aliyun.com/zh/model-studio/base-url",
+    "category": "AI教程",
+    "date": "2026-11-13",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>401 的三种来源</h2><p>在阿里云百炼上调用模型，返回 401 时先别急着重新生成 Key。官方文档把这一条写得很直白：Base URL 必须与同一计费方案的 API Key 配套使用，否则就会报 401；而各地域的 API Key 相互独立，不能跨地域使用。也就是说，一把北京的 Key 配一个新加坡的域名，字面上两样都是真的，组合起来却必然失败。</p><p>第三层才是域名本身。百炼为推理 API 准备了三类域名，它们的鉴权可见范围并不一样，选错域名同样会在鉴权阶段被拦下。</p><h2>三类域名各自的可见范围</h2><p>DashScope 域名是最早的中心化共享域名，形如 dashscope.aliyuncs.com，它支持跨业务空间的 API Key 调用，存量业务还能继续用，但官方建议迁移到业务空间专属域名，并且明确 DashScope 域名自 2026 年 9 月 30 日起不再支持新特性。</p><p>业务空间专属域名形如 {WorkspaceId}.{region}.maas.aliyuncs.com，只认该业务空间自己的 Key，换来的是更高吞吐、更低时延和业务空间级别的流量隔离，是官方推荐的生产环境选择。试用域名形如 trial.{region}.maas.aliyuncs.com，同样可以跨业务空间调用，但限流值更小，只适合临时验证。</p><h2>同一域名下三种协议只差一段路径</h2><p>百炼在同一个接入域名上同时提供三种协议入口：OpenAI 兼容接口走 /compatible-mode/v1，Anthropic 兼容接口走 /apps/anthropic，DashScope 原生接口走 /api/v1。想从 OpenAI 兼容切到原生 DashScope，只要把域名后的这段路径换掉，域名本身不动。这一点在多处文档里反复出现，也意味着改协议时最容易漏改的正是这段后缀。</p><p>地域覆盖也不完全对齐。以 DashScope 域名计，北京、新加坡、美国（弗吉尼亚）、中国香港四个地域有对应地址；业务空间专属域名则多出日本（东京）与德国（法兰克福），而这两个地域根本没有 DashScope 域名可选。</p><h2>两种套餐域名不能拿来跑服务</h2><p>除了按量付费，百炼还有 Token Plan 与 Coding Plan 两条产品线，它们各有专属域名与专属 Key。文档对这两条的限定是同一句话：仅限 Claude Code、Codex 这类 AI 工具交互式使用，不能用于后端服务。把这类域名塞进自己的服务端代码，短期可能跑得通，但属于明确越界的使用方式。</p><p>排查顺序因此可以固定下来：先确认 Key 属于哪个地域、哪种计费方案，再确认域名是否与该 Key 同源，最后才怀疑 Key 是否失效。按这个顺序走，绝大多数 401 在第一轮就能定位。</p>"
+  },
+  {
+    "slug": "bailian-region-vs-deployment-scope",
+    "title": "地域、服务部署范围、接入域名：百炼里这是三件不同的事",
+    "summary": "地域决定数据存放位置，服务部署范围决定推理在哪算，接入域名决定超时、协议与 SLA；三者混为一谈会在合规和容量规划上同时踩坑。",
+    "url": "https://help.aliyun.com/zh/model-studio/regions",
+    "category": "AI教程",
+    "date": "2026-11-13",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>三个概念各管一段</h2><p>在百炼上开一个模型调用，需要同时决定三件事。地域决定接入点和数据存储位置，就近选择可以降低延迟；服务部署范围决定推理实际在哪执行，有数据合规要求时选特定地理边界，没有合规要求时选全球范围，因为推理资源池更大；接入域名则影响并发上限、超时等服务保障，每个地域都有自己独立的域名。官方的原文把三者并列写出来，正是因为它们经常被当成同一个选项。</p><h2>一次调用里数据走哪条路</h2><p>文档给出的流程是四步：应用经接入域名把请求发到所选地域，请求数据存在该地域；接入地域再把请求转发到服务部署范围内的推理节点完成计算，传输全程加密；推理结果回到接入地域存储；最后才响应给应用。结论是用户静态数据始终存放在所选地域，跨出去的只是计算动作。理解这一点，才能解释为什么选了全球部署范围不等于数据出境。</p><p>需要留意的是，德国（法兰克福）、日本（东京）、中国香港、美国（弗吉尼亚）这四个地域要靠业务空间来区分服务部署范围，调用前必须先在业务空间管理页面建好空间并选定范围，否则连域名都拼不出来。</p><h2>三种域名的服务保障差在哪</h2><p>官方给了一张对比表，最值得记的是三行。请求超时：业务空间专属域名 3600 秒，DashScope 域名与试用域名都是 600 秒。协议支持：专属域名支持 HTTP、SSE、WebSocket、WebRTC 以及基于 QUIC 的 AOQ，DashScope 域名少了 AOQ，试用域名只支持 HTTP 与 SSE。SLA：前两者 99.9%，试用域名不提供。试用域名的 RPM 上限还固定为 1000，且是主账号维度合并计算。</p><p>换句话说，长期跑流式或实时语音这类长连接业务，用 600 秒超时的旧域名会不断撞墙，这类问题换 Key 是修不好的。</p><h2>各地域功能并不齐平</h2><p>批量推理只在北京与新加坡支持；高级模型监控同样只在这两个地域；模型告警只在北京与新加坡；模型调优与应用开发则只有北京。美国（弗吉尼亚）虽然支持实时推理与普通监控，但批量、告警、调优都缺。选地域时如果只按网络延迟挑，很容易在后期发现要用的一项能力恰好不在。</p><h2>迁移只需换域名</h2><p>从旧域名迁到业务空间专属域名的步骤只有两步：先从 Key 创建弹窗或业务空间管理页面复制 API Host，再把 Base URL 里的域名替换掉。三种协议入口各自的替换示例文档都给了，业务逻辑代码不需要改。这也是判断「域名」与「地域」确实是两件事的一个侧面证据。</p>"
+  },
+  {
+    "slug": "bailian-enable-thinking-placement",
+    "title": "enable_thinking 写在哪一层：三种 SDK 三种放法，写错不报错只是不生效",
+    "summary": "这个参数不是 OpenAI 标准字段，Python 要放 extra_body、Node.js 放顶层、Java 走 extraBody；只思考模式的模型则根本没有开关。",
+    "url": "https://help.aliyun.com/zh/model-studio/deep-thinking",
+    "category": "AI教程",
+    "date": "2026-11-13",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>先分清模型属于哪种模式</h2><p>百炼的深度思考模型分成两类。混合思考模式可以按请求开启或关闭，控制参数因模型而异，常见的就是 enable_thinking；仅思考模式的模型始终在回复前推理，无法关闭，除了不需要设置这个参数，请求格式与混合模式完全一致。</p><p>判断依据只能查文档的模型清单，不能靠名字猜。同样是 Qwen3.7 Max，qwen3.7-max 属于混合模式且默认开启，qwen3.7-max-preview 却是仅思考模式。GLM 这边反过来，glm-5.3 是仅思考模式，glm-5.2 与 glm-5.1 才可开关。如果对一个仅思考模型传 enable_thinking=false，得到的不是「省掉思考」，而是参数被无视。</p><h2>同一个参数，三种客户端三种放法</h2><p>文档在这处专门加了提示：enable_thinking 不是 OpenAI 标准参数。用 OpenAI Python SDK 时它必须通过 extra_body 传入，Node.js SDK 里作为顶层参数传入，Java SDK 的 ChatCompletionCreateParams 不原生支持该字段，要走 extraBody 方法。DashScope 协议的 Python、Java SDK 则把它当普通参数写在调用里。</p><p>这里最容易出的问题是静默失效：参数放错层级时请求通常照常返回，只是模型根本没进入思考模式。所以第一次接入后应当先验证一次，而不是等线上发现答案质量不对再回头查。</p><h2>用提示词切换只对一小部分模型有效</h2><p>文档提到一条容易忽略的捷径：Qwen3 开源版混合思考模型以及 qwen-plus-2025-04-28 支持通过提示词动态控制思考模式。enable_thinking 为 true 时，在提示词里加 /no_think 可以关闭思考；多轮对话中要重新打开，就在最新一轮提示词里加 /think。模型始终遵循最新的指令。</p><p>这条规则的边界很清楚：只有被点名的模型支持，且依赖 enable_thinking 已经是 true 这个前提。对绝大多数商业版模型，写了 /no_think 不会有任何效果。</p><h2>关掉思考省的是钱，也可能是质量</h2><p>官方对两种模式给出了取舍建议：简单任务如日常聊天、简单问答把 enable_thinking 设为 false；复杂任务如逻辑推理、代码生成、数学解答设为 true。原因是思考模式会增加响应延迟与 Token 消耗。</p><p>计费上还有一处细节：思考内容按输出 Token 计费，部分混合思考模型在两种模式下单价不同。只要模型输出了思考过程，所有输出 Token 都按思考模式的价格结算；反之如果开了思考模式但没产出思考过程，则按非思考模式计价。对 kimi-k3.1-pro 与 kimi-k3 这两个型号，文档还额外提醒：虽然可以用 false 关掉，但关闭会显著影响输出效果，强烈建议保持开启。</p>"
+  },
+  {
+    "slug": "bailian-thinking-budget-preserve",
+    "title": "thinking_budget 截断的是思考，不是报错；preserve_thinking 回传的是账单",
+    "summary": "思考长度上限到点即停、立刻转去写答复，只有越界才 400；把历史思考回传给模型会让它计入输入 Token，两件事常被混着配。",
+    "url": "https://help.aliyun.com/zh/model-studio/deep-thinking",
+    "category": "AI教程",
+    "date": "2026-11-13",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>到点就停，不是失败</h2><p>深度思考模型有时会写出很长的推理过程，等待时间和 Token 消耗都跟着上去。thinking_budget 的作用是给推理过程设一个最大 Token 数，一旦生成的思考内容超过这个值，模型立刻停止推理、开始输出正式回复。这个行为是截断而不是中止，请求仍然成功返回，只是推理被砍短了。</p><p>默认值不是一个小数字，而是模型的最大思维链长度。所以不设这个参数时，它等于没有限制，只在模型自己写不下去时才停。</p><h2>只有越界才会 400</h2><p>参数本身有取值范围，官方错误码文档给出的原文是必须为正整数且不大于上限，报错形如「The thinking_budget parameter must be a positive integer and not greater than xxx」。解决办法是对照模型列表里该模型的最大思维链长度取值，落在这个区间内即可。</p><p>另一条边界是型号支持度：kimi-k3.1-pro 与 kimi-k3 不支持这个参数，也就是说对这两个型号无法用参数限制思考长度。文档特意点出这一条，说明它属于产品差异而非配置问题，硬加参数不会生效。</p><h2>把历史思考传回去是另一回事</h2><p>默认情况下，多轮对话更新 messages 时只保留 content，reasoning_content 会被丢掉。preserve_thinking 改变的就是这个行为：设为 true 后，模型会读取历史 assistant 消息里的 reasoning_content，并把它拼接到下一轮输入里。前提是客户端确实在 messages 中提供了这些历史思考内容。</p><p>对 Kimi 的两个型号还有一层默认差异：kimi-k3.1-pro 与 kimi-k3（百炼部署）默认就保留客户端传入的历史 reasoning_content，不需要额外开参数。官方建议的做法是在多轮请求中完整回传历史 assistant 消息及其思考内容。</p><h2>回传的代价直接进账单</h2><p>文档写明：开启 preserve_thinking 后，历史对话中的 reasoning_content 会计入输入 Token 数量和计费。这条很容易被忽略，因为思考内容在界面上看不见，账单上却是实打实的输入量。长会话里每轮都回传全部历史思考，输入 Token 的增长会相当可观。</p><p>接入细节上还有两处坑。一是这个参数同样不是 OpenAI 标准字段，Python SDK 要通过 extra_body 传入。二是 Java SDK 暂不支持该参数；走 HTTP 调用时，preserve_thinking 必须放进 parameters 对象里，而不是和 model、input 平铺在同一层。放错位置的结果同样是静默无效，因为历史里本来就有思考内容时，不开这个参数也不会报错。</p>"
+  },
+  {
+    "slug": "bailian-verify-thinking-on",
+    "title": "怎么确认思考模式真的开了：两个字段、一个耗时倍数",
+    "summary": "看响应里有没有 reasoning_content、用量里 reasoning_tokens 是否大于 0；如果开关前后耗时几乎一样，那就是参数没送进去。",
+    "url": "https://help.aliyun.com/zh/model-studio/deep-thinking",
+    "category": "AI教程",
+    "date": "2026-11-13",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>先看两个字段</h2><p>百炼把一个判断标准写在了常见问题里：检查响应中是否包含 reasoning_content 字段，并确认用量里的 reasoning_tokens 大于 0。不包含该字段，或者 reasoning_tokens 为 0，就说明思考模式没启用。这两条是充分判据，比看答案像不像经过推理可靠得多。</p><p>之所以需要专门验证，是因为参数本身不标准。enable_thinking 放在错误的层级时，请求往往照常返回 200，只是模型在做普通补全。第一次接入任何新模型，都值得先跑一次这个检查。</p><h2>耗时是最好的旁证</h2><p>文档给了一个粗略但实用的量化参照：启用思考模式后，响应中会出现 reasoning_content，且总耗时显著增加，官方标注约为非思考模式的三倍。反过来讲，如果开与关的耗时差异极小，就应当怀疑参数没有真正送达。</p><p>这个倍数不是性能指标，而是排查线索。它同时解释了一类看起来像「服务变慢」的工单：模型没换、网络没变，只是默认开了思考。</p><h2>qwen3.7-plus 慢在哪</h2><p>文档专门拿 qwen3.7-plus 举过例。它属于混合思考模式且默认开启，思考过程会生成大量推理 Token，官方标注占总输出 Token 的六成以上，所以单次调用总耗时明显长于非思考模式。但 Token 生成速度本身并不异常，官方标注约每秒五十二到五十四个 Token，差异来自 Token 数量而非模型或网络。</p><p>按文档给的排查顺序：先确认是否默认开启了思考，看响应里有没有 reasoning_content；再看 completion_tokens 与 reasoning_tokens 的比例；确实不需要推理时把 enable_thinking 设为 false，官方称总耗时可降低六成到七成五；需要保留思考能力就改用流式，先拿到首包并实时看到推理过程，而不是干等完整响应。</p><p>一个容易误读的点：用量统计里展示的是单次调用的整体耗时，包含思考 Token 的生成时间，不是单个 Token 的生成延迟。拿这个数字去对比别的模型的单 Token 速度，结论一定是错的。</p><h2>长提示词下的三条出路</h2><p>官方还记录了一种组合故障：长提示词加上思考模式，容易出现生成失败或响应超时，因为思考拉长了处理时间。给出的三条处理方式是关闭思考、开启流式输出、把客户端超时设到 180 秒以上，并给出了关闭思考后处理时间从约五十秒降到约三十秒的量级参照。</p><p>还有一类现象不属于模型侧：使用第三方客户端时，模型输出思考标签后客户端断连。文档明确这是客户端侧问题，百炼通过 enable_thinking 控制开关，reasoning_content 会正常返回。排查方向是客户端网络、版本与日志，而不是去改服务端参数。</p>"
+  },
+  {
+    "slug": "bailian-stream-delta-and-partial",
+    "title": "流式响应里没有 message.content，只有 delta；超时也不是报错",
+    "summary": "流式与非流式的正文位置不同，结束符是 data: [DONE]；非流式超时后服务端会返回半截内容并加一个响应头，这类「成功但不完整」最难察觉。",
+    "url": "https://help.aliyun.com/zh/model-studio/stream",
+    "category": "AI教程",
+    "date": "2026-11-13",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>正文换了个位置</h2><p>百炼的流式输出基于 Server-Sent Events，建立持久连接后模型每生成一个文本块就立刻推送，全部写完后发结束信号。文档点明了两套结构的差异：非流式返回单个 JSON 对象，正文在 choices[0].message.content；流式逐块返回，正文在 choices[0].delta.content，需要客户端自己拼接，并以 data: [DONE] 结束。</p><p>把流式响应当成非流式解析，最常见的表现不是报错而是拿到空字符串——字段名对不上，取值自然是 undefined。这类问题在日志里看起来像「模型没返回内容」。</p><h2>超时不等于失败</h2><p>非流式调用的最大超时时间不少于 300 秒，实际时长因部署区域与模型而异。关键在于超时之后的行为：服务会中断请求，但把已生成的内容返回，并且不再报超时错误，此时响应头里带 x-dashscope-partialresponse: true。</p><p>这意味着调用方看到的是 200 和一段文本，内容却可能是半截的。通过 SDK 调用拿不到响应头时，文档给了替代判据：看 finish_reason，若为 null 就表示生成内容不完整，不过文档同时说明这不一定是超时导致的。要补全这段内容，对应的做法是前缀续写，而不是重发一遍请求。</p><h2>有些模型只认流式</h2><p>文档列了一份清单：Qwen3 开源版、QwQ 的商业版与开源版、QVQ，以及 Qwen3.5-Omni、Qwen3-Omni-Flash 只支持流式输出。对这类模型发起非流式请求会直接失败，错误码文档里对应的原文是仅支持流式、请开启 stream 参数。</p><p>思考模型还有一层：部分开源版思考模型同样只支持流式，非流式调用会报 enable_thinking 仅支持流式调用。所以「先用非流式跑通再改流式」这个习惯，在这批模型上走不通。</p><h2>反向代理会吃掉实时性</h2><p>文档在「应用于生产环境」一节提醒了三件事。后端为每个流式请求维持长连接会消耗资源，要配置合理的连接池与超时，并监控文件描述符使用情况；前端可以用 ReadableStream 配合 TextDecoderStream 处理 SSE；如果前面有 Nginx，其默认的输出缓冲 proxy_buffering 会破坏实时性，必须显式关闭。</p><p>监控指标上，文档把首 Token 延迟单独拎出来，作为衡量流式体验的核心指标，另外两个是请求错误率与平均响应时长。这和只看总耗时的做法有本质区别：流式体验的好坏，取决于第一个字什么时候出现。</p>"
+  },
+  {
+    "slug": "bailian-stream-usage-thinking-phase",
+    "title": "流式里没有用量，也没有阶段标签：两件事都得自己从包里读",
+    "summary": "OpenAI 协议默认不返回 usage，要显式打开 stream_options；思考阶段则靠 reasoning_content 与 content 谁为空来判断，空字符串和 null 是两套规则。",
+    "url": "https://help.aliyun.com/zh/model-studio/stream",
+    "category": "AI教程",
+    "date": "2026-11-13",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>用量默认是关着的</h2><p>一个很实际的落差：非流式调用习惯性带 usage，改成流式之后这个字段就不见了。原因在协议层，OpenAI 协议默认不返回 Token 消耗量，要设置 stream_options 里的 include_usage 为 true，服务端才会在最后一个数据块里带上用量。百炼的文档在正文和常见问题里各写了一遍，说明这个坑踩的人不少。</p><p>DashScope 协议的行为相反，每个数据块都包含实时的 Token 消耗信息。所以同一套业务逻辑换协议时，用量采集代码必须跟着改，否则统计会静默归零。</p><h2>思考阶段没有显式标记</h2><p>思考模型在流式下会先推 reasoning_content，再推 content，但数据包里并没有一个字段告诉你「现在是思考」还是「现在是回答」。文档给出的判断方式是按两者是否为空组合推断，而且两种协议的判空标准不同。</p><p>OpenAI 兼容接口下：reasoning_content 不为 None 且 content 为 None，处于思考阶段；reasoning_content 为 None 且 content 不为 None，处于回复阶段；两者都为 None，则阶段与前一包一致。DashScope 接口下把 None 换成空字符串：思考阶段是 reasoning_content 非空、content 为空，回复阶段反过来，两者都为空则沿用上一包。</p><p>第三条规则是最容易被忽略的：既然空包表示延续，客户端就不能在遇到空包时把状态重置，否则阶段性渲染会出现跳变。</p><h2>哪些模型压根不吃这个开关</h2><p>文档在同一页里补了一句限定：Qwen3 开源版模型需要把 enable_thinking 设为 true 才会开启思考，而 enable_thinking 对 QwQ 与 DeepSeek-R1 模型无效。这两个系列本身就是始终推理的形态，给它传开关没有意义。</p><p>多模态模型的流式还有额外差异：用户消息的构造方式不同，DashScope 侧要调用多模态接口，Python SDK 2.0 是 client.multimodal.chat.create，Java 是 MultiModalConversation 类。而 Qwen3.5-Omni、Qwen3-Omni-Flash 因为输出可能同时包含文本与音频，解析方式与普通文本模型完全不同。</p><h2>流式不影响结果，只影响等待</h2><p>常见问题里有一句可以直接拿来回复业务方：开启流式输出对模型回复效果没有影响，但部分模型仅支持流式，且非流式可能引发超时。文档的建议是优先使用流式。另一个常见追问是流式能不能配结构化输出，答案是能，同时设置 stream 为 true 与 response_format 为 json_object，模型会分片返回 JSON 片段，拼接后的完整输出是合法 JSON——注意是「拼接后」，中途某一包单独解析一定失败。</p>"
+  },
+  {
+    "slug": "bailian-incremental-output-required",
+    "title": "incremental_output 不只是省带宽：开思考时它必须是 true",
+    "summary": "增量输出每块只带新内容，非增量每块重复全部已生成内容；DashScope 的 Python SDK 2.0 已默认增量，而思考模式要求它必须为 true。",
+    "url": "https://help.aliyun.com/zh/model-studio/stream",
+    "category": "AI教程",
+    "date": "2026-11-13",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>两种拼法差在哪里</h2><p>DashScope 协议的流式输出有两种模式。增量模式下每个数据块只包含新生成的内容，文档给的示例是依次收到「我爱」「吃」「苹果」；非增量模式下每个数据块都包含此前已生成的全部内容，同一句话会变成「我爱」「我爱吃」「我爱吃苹果」。</p><p>从结果看两者最终都能拼出同一句话，但代价差得很远：非增量会造成网络带宽浪费和客户端处理压力，块越长重复越多，长文本场景下传输量接近平方级增长。文档的措辞是增量「推荐」。</p><h2>默认值随 SDK 版本变了</h2><p>这里有一个版本陷阱：DashScope Python SDK 2.0 默认就是增量输出，无需设置该参数。也就是说同一段代码在 1.x 与 2.0 下行为不同，从旧版本升级过来时，如果代码里本来就按非增量写的拼接逻辑（每次覆盖而不是追加），升级后可能一切正常；反过来从 2.0 降级或换成 Java SDK，就需要显式设置。</p><p>开启流式本身的方式也因客户端而异：Python SDK 设 stream 为 True，Java SDK 通过 streamCall 接口调用，直接发 HTTP 请求则要在 Header 里把 X-DashScope-SSE 设为 enable。三种方式没有统一参数，照抄示例时最容易漏的正是最后一层。</p><h2>开思考时它不是可选项</h2><p>错误码文档里有一条很硬的约束：模型开启思考模式时仅支持增量流式输出，若 incremental_output 不是 true，会返回「The incremental_output parameter must be \"true\" when enable_thinking is true」。另一条更宽的版本是某些模型根本不允许把它设为 false。</p><p>这解释了一类奇怪的组合故障：从普通模型迁到思考模型，只改了模型名，流式照旧，然后突然开始 400。根因是旧代码里显式写了 incremental_output=false。</p><h2>该在哪一层处理拼接</h2><p>既然增量是默认且被推荐的方向，客户端就应当按「追加」语义写渲染逻辑，而不是「替换」。这对前端尤其重要：逐字渲染依赖每块只含新增内容，如果服务端返回的是非增量而前端按增量处理，界面上会出现重复文字；反过来则会丢字。</p><p>一个实用的自检办法是在开发阶段打印每块的原文长度，观察它是稳定的小值还是持续增长。持续增长说明拿到的是非增量流，此时要么改参数，要么把渲染逻辑改成覆盖式。</p>"
+  },
+  {
+    "slug": "bailian-json-object-json-keyword",
+    "title": "用 json_object 之前，提示词里必须出现 JSON 这个词",
+    "summary": "这是硬条件不是建议，缺了直接报错；JSON Object 只保证是合法 JSON，不保证结构，键名和类型都可能随提示词漂移。",
+    "url": "https://help.aliyun.com/zh/model-studio/qwen-structured-output",
+    "category": "AI教程",
+    "date": "2026-11-13",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>两种模式承诺的东西不一样</h2><p>百炼的结构化输出分两档。JSON Object 模式只确保输出是标准格式的 JSON 字符串，不保证符合特定结构；JSON Schema 模式才确保内容符合指定结构。文档给了一张对比表，把「输出有效 JSON」和「严格遵循 Schema」分成两行，前者两种模式都是「是」，后者只有 Schema 模式是「是」。</p><p>这个区别决定了适用场景：灵活的 JSON 输出用 Object 模式，需要精确结构验证时用 Schema 模式。把两者当成同一件事，就会出现「字段有时在有时不在」的诡异 bug——那不是模型不稳定，而是模式选错了。</p><h2>关键词是硬条件</h2><p>JSON Object 模式有两步，第二步经常被漏掉：response_format 设为 json_object 之外，System Message 或 User Message 中还必须包含 JSON 关键词，不区分大小写。缺了会直接报错，错误原文是消息里必须以某种形式包含 json 这个词。</p><p>换句话说，光设参数不够，提示词本身也要提一句。这条规则在迁移时最容易丢：从别家平台搬过来，参数名一样，提示词里却没有写 JSON，于是第一次调用就失败。</p><h2>Responses 换了参数没换规则</h2><p>如果用的是 Responses API，参数位置从 response_format 变成 text.format，取值格式相同。但文档明确：JSON Object 模式下 Responses API 同样要求提示词包含 JSON 关键词，否则返回 400。也就是说换协议只是换了个字段名，这条约束跟着走。</p><p>JSON Schema 模式则不需要提示词包含关键词，但仍建议明确说明结构。文档的说法是「建议」而非「必须」，这个措辞差异本身就是两种模式严格程度的一个侧写。</p><h2>多模态会静默降级</h2><p>文档在一处不起眼的地方写了：图像、视频、音频等多模态输入不支持 json_schema，会自动降级为 json_object，schema 约束不生效。这属于最难排查的一类问题——请求没报错，返回也确实是 JSON，只是结构不受控。</p><p>所以做票据识别、表单抽取这类多模态结构化任务时，不能只依赖 schema 参数，提示词里仍要把字段名、类型、是否必填写清楚，并在下游做一次有效性校验。文档在「应用于生产环境」里也建议用 jsonschema、Ajv、Everit 这类工具校验输出，失败时通过重试或让模型改写来修复。另外文档还提示，JSON Object 模式不保证键名与字段类型稳定，不同提示词或不同次调用的结果可能存在差异——这句话足以说明为什么生产环境不该只停在 Object 模式。</p>"
+  },
+  {
+    "slug": "bailian-schema-keyword-limits",
+    "title": "JSON Schema 有一份黑名单：写进去不报错，校验时才 400",
+    "summary": "multipleOf、uniqueItems、patternProperties 这些关键字不被支持，提交即 400；另外开结构化输出时不要设 max_tokens，否则 JSON 会被截断。",
+    "url": "https://help.aliyun.com/zh/model-studio/qwen-structured-output",
+    "category": "AI教程",
+    "date": "2026-11-13",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>支持的是子集，不是全量规范</h2><p>百炼的 JSON Schema 模式（strict 模式）并没有实现完整的 JSON Schema 规范，文档专门列了一张关键字表，并明确标注为「不支持」的关键字提交后会返回 400 错误。这意味着 schema 写得越精细，越容易撞上黑名单。</p><p>按类型看，字符串类型支持度最高，minLength、maxLength、pattern、format（如 email、date）、contentMediaType、contentEncoding 都可以用。数字类型里 minimum、maximum、exclusiveMinimum、exclusiveMaximum 可用，但 multipleOf 不支持。数组类型有 items、prefixItems、minItems、maxItems、unevaluatedItems，而 uniqueItems、contains、minContains、maxContains、additionalItems 都不支持。对象类型支持 properties、required、additionalProperties、minProperties、maxProperties、dependentRequired、dependentSchemas、unevaluatedProperties，但 patternProperties 与 propertyNames 不行。</p><p>一个实际推论：想表达「这个数组元素不能重复」在当前实现下没有参数可用，只能靠提示词约束或下游去重。</p><h2>$ref 只认本地</h2><p>组合类关键字里，anyOf、oneOf、allOf、not 都支持，if/then/else 也支持，但文档补了一句：oneOf 不严格保证 exactly-one 语义。也就是说它不会真的替你排除「同时命中多个分支」的情况。</p><p>引用方面，$defs 配合 $ref 支持本地引用，外部 URL 引用不报错但也不生效。这条比 400 更危险：请求成功、结果看似正常，schema 的约束却根本没起作用。</p><h2>别在这时设 max_tokens</h2><p>文档用一个小标题单独写了这条：开启结构化输出时请勿设置 max_tokens。原因很直接，该参数限制输出 Token 数，设置后可能导致 JSON 字符串在输出过程中被截断，产生无效 JSON，下游解析随之失败。</p><p>这与很多人「设个上限省点钱」的直觉相反。结构化输出的正确做法是让它自然结束，把长度控制交给 schema 里的字段设计，而不是靠截断。</p><h2>可选字段有两种写法</h2><p>required 数组决定字段是否必填。只把必填字段列进去，可选字段在输入没有对应信息时就不会出现在输出里；如果希望字段始终存在，可以允许 null 类型，这样输出的对象里一定有这个键，值可能为 null。两种写法对应两种下游解析逻辑，选之前要先想清楚代码怎么读。</p><p>additionalProperties 则控制是否允许输出 schema 之外的字段。文档给的示例很直白：输入「我叫张三，25岁」，若允许额外字段，输出会带上未在 schema 中定义的 age。设为 false 只输出定义过的字段，适合需要精确控制结构的场景；设为 true 能捕获更多信息，但下游要能容忍意外字段。工程上更稳的做法是设 false 加白名单，新增字段时改 schema，而不是让模型自由发挥。</p>"
+  },
+  {
+    "slug": "bailian-partial-mode-prefix",
+    "title": "让模型接着你的半句话写：前缀放在 assistant 消息里，还要一个 partial 标记",
+    "summary": "最后一条消息的 role 设成 assistant、content 放前缀、再加 partial 为 true；它也是修补截断输出与超时半截结果的正确工具。",
+    "url": "https://help.aliyun.com/zh/model-studio/partial-mode",
+    "category": "AI教程",
+    "date": "2026-11-13",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>前缀不是塞进 user，而是占住 assistant 的位置</h2><p>Partial Mode 要解决的是「从已有文本继续写」这类需求，比如代码补全、文案续写。做法有点反直觉：在 messages 数组里，把最后一条消息的 role 设为 assistant，content 填你要的前缀，然后在这条消息上设置 partial 为 true。模型会把这串前缀当成自己已经写下的开头，从这里往下生成。</p><p>为什么不能放在 user 消息里？因为那样模型收到的是「用户给我一段文字」，它的任务是回应，而不是接续。role 决定了模型看待这段文本的角色，partial 标记则告诉服务端这段 assistant 内容还没写完。</p><h2>它也是修补半截输出的工具</h2><p>文档把「基于不完整输出进行续写」列为正式用法。模型返回不完整内容有两种常见情形：max_tokens 设得太小导致被截断；非流式输出触发超时，已生成的内容不完整。</p><p>判断依据是停止原因：finish_reason 为 length 表示触发了 max_tokens 限制，为 stop 表示自然结束或触发了 stop 参数。前者意味着内容被硬切，后者意味着模型认为写完了。只有前者才适合拿去做前缀续写，对后者强行续写会让文章重复一遍。</p><p>这条用法与非流式超时的行为正好扣上：超时后服务端返回半截内容而不报错，客户端拿到之后可以用 Partial Mode 补完，比整段重发更省也更连贯。</p><h2>支持范围的几个缺口</h2><p>模型支持面比想象中宽，文本侧覆盖千问 Max、Plus、Flash（多标注为非思考模式）、Coder、Turbo、Math 各系列与多个开源系列，还有硅基流动与快手万擎部署的 DeepSeek、蚂蚁数科的 Ling；多模态侧覆盖千问 VL 系列与月之暗面部署的 Kimi。文档同时说明暂不支持 DashScope Java SDK。</p><p>值得注意的是「非思考模式」这个限定反复出现：思考模式下的模型不在支持列表里。也就是说，想用前缀续写，得先把思考关掉，或者换一个非思考模型。</p><h2>多模态也能接续</h2><p>千问 VL 模型支持在传入图像、视频的同时做前缀续写，文档给的场景是产品介绍、社交媒体内容创作、新闻稿生成、创意文案。对图片类任务，这相当于「看着图把这段话写完」，比让模型从零生成一段再拼接更自然。</p><p>计费口径很清楚：按输入与输出 Token 计费，前缀部分算作输入 Token。这也意味着前缀越长，成本越高，把整篇已有文章当前缀喂进去不是免费操作。</p>"
+  },
+  {
+    "slug": "bailian-multiround-context-strategies",
+    "title": "百炼的对话是无状态的：历史得自己带，带多少要自己决定",
+    "summary": "每次请求都要把历史消息重新拼进 messages；官方给了截断、滚动摘要、向量召回三种上下文管理策略，各自丢的东西不一样。",
+    "url": "https://help.aliyun.com/zh/model-studio/multi-round-conversation",
+    "category": "AI教程",
+    "date": "2026-11-13",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>没有会话，只有数组</h2><p>通义千问 API 是无状态的，不会保存对话历史。要实现多轮对话，每次请求都得把历史消息显式传进去。核心操作只有一个：维护 messages 数组，把用户最新提问与模型回复依次追加，下一次请求整体带上。</p><p>这也解释了一个常见困惑——为什么同一个问题在网页端和 API 上得到的回答不一样。网页端在 API 之上做了额外工程优化，具备解析网页、联网搜索、画图等能力，这些并不属于模型 API 本身。</p><h2>三种上下文策略，丢的东西不同</h2><p>历史越长，Token 越多，最终会撞上模型的最大输入。文档给了三种处理方式，代价各不相同。</p><p>上下文截断最简单：只保留最近的 N 轮对话。实现容易，但会丢失较早的信息。滚动摘要更精细：当对话历史达到上下文长度最大值的七成左右时，把较早的那部分（比如前一半）单独发一次 API 调用，让模型生成一段「记忆摘要」，之后用摘要替换冗长的历史，再拼接最近几轮。代价是多一次调用，且摘要本身会丢细节。</p><p>向量化召回换了个思路，把「线性传递」变成「按需检索」：每轮对话结束后把该轮存入向量数据库，用户提问时按相似度检索相关记录，再把检索结果与最近输入拼接后送给模型。它适合超长会话，但需要额外维护一套检索链路。</p><h2>思考字段留不留</h2><p>思考模型返回两个字段：reasoning_content 是思考过程，content 是回复内容。文档在讲多轮对话时给了一条明确规则：更新 messages 数组时，仅保留 content 字段，忽略 reasoning_content。</p><p>这与深度思考文档里的 preserve_thinking 构成一个选择题。默认丢掉思考内容更省 Token；如果确实需要模型在下一轮沿用之前的推理脉络，再打开那个参数，并接受历史思考计入输入 Token 与计费。两处文档的口径并不矛盾，说的是同一件事的两个方向。</p><h2>缓存默认就是开着的</h2><p>多轮对话里 messages 部分会重复计算并计费，这是成本的主要来源。文档提到百炼对 qwen-max、qwen3.8-max 等模型提供上下文缓存，可以降低成本并提升响应速度，并且这项功能自动开启，无需修改代码。</p><p>所以选型时值得把「是否支持上下文缓存」当成一个技术指标，而不是等账单出来再优化。至于成本控制的两条主线，文档写得很直接：一是通过上下文管理减少输入 Token，二是优先用支持缓存的模型。</p>"
+  },
+  {
+    "slug": "bailian-responses-previous-id",
+    "title": "previous_response_id 要传 resp_ 开头那个 id，不是消息的 id",
+    "summary": "Responses 用上一轮响应自动串上下文，有效期七天；传错层级会变成「新会话」，模型表现成记不住上文。",
+    "url": "https://help.aliyun.com/zh/model-studio/compatibility-with-openai-responses-api",
+    "category": "AI教程",
+    "date": "2026-11-13",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>两种 id 长得就不一样</h2><p>Responses API 相对 Chat Completions 最大的便利是不用自己拼消息历史，通过 previous_response_id 把上一轮响应接上即可。但文档用一句加粗提醒了坑：要传上一轮响应中的顶层 id，形如 resp_xxx 的 UUID，而不是 output 数组内消息的 id，后者形如 msg_ 开头。</p><p>传错的后果不是报错，而是服务端找不到对应的上下文，于是把它当成一次全新对话。表现出来就是「模型记不住上一句」，很容易被误判成模型能力问题。</p><h2>上下文只有一个星期</h2><p>文档写明当前响应 id 的有效期为七天。这意味着靠 id 串联的会话不是永久存档，超过期限再拿旧 id 去续，同样会退化成新对话。</p><p>响应里还有一个可以自检的数字：文档在示例中提到，第二轮对话的 input_tokens 包含了第一轮的上下文。如果这个数字与第一轮相当，说明上下文没接上；明显偏大才说明接续生效。这比等着看模型回答对不对要快。</p><h2>旧路径已经停维护</h2><p>域名层面有两处需要跟着改。一是旧版路径 /api/v2/apps/protocols/compatible-mode/v1/responses 已停止维护，不再保证功能可用，要迁到 /compatible-mode/v1/responses。二是业务空间专属域名，北京与新加坡都建议从 dashscope 域名迁过去，地址形如 {WorkspaceId}.{region}.maas.aliyuncs.com。文档说明现有域名仍可正常使用，但迁移是明确方向。</p><h2>思考与缓存各有自己的开关</h2><p>Responses 里控制思考强度用的是 reasoning.effort，文档点明该参数优先级高于 enable_thinking，并且不支持用 thinking_budget 控制最大思考长度。从 Chat Completions 迁移过来的人如果照搬 thinking_budget，会发现它在这里不起作用。</p><p>缓存方面多了一个请求头：x-dashscope-session-cache，设为 enable 开启，disable 关闭，默认是 disable。开启后的行为分两种情况：模型支持显式缓存就走显式缓存，计费与约束按显式缓存规则；只支持隐式缓存则走隐式缓存。不开启时行为与普通调用一致，支持隐式缓存的模型仍然自动走隐式缓存，只是不享受 Session 缓存带来的增益。</p><p>迁移清单因此可以压成四步：换端点、改响应解析（用 output_text 或遍历 output 数组）、多轮改用 previous_response_id、需要的话加会话缓存头。文档还提到一个 SDK 侧的坑：OpenAI Python SDK 某些版本错误移除了 output_text 属性，遇到打印不出来先升级 SDK。</p>"
+  },
+  {
+    "slug": "bailian-mcp-sse-only-responses",
+    "title": "在百炼里接 MCP：只能走 Responses，协议只认 SSE，最多十个",
+    "summary": "MCP 工具在 tools 数组里配置，server_protocol 目前只有 sse 一个取值；调用涉及多次外部交互，文档建议一律开流式。",
+    "url": "https://help.aliyun.com/zh/model-studio/mcp",
+    "category": "AI教程",
+    "date": "2026-11-13",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>入口只有一个</h2><p>模型上下文协议（MCP）的用途是让模型使用外部工具与数据。在百炼上，接入方式被限定得很死：使用 Responses API，在 tools 参数里配置 MCP Server 信息，并且这些模型仅支持通过 Responses API 调用。想用 Chat Completions 拼一个 MCP 是行不通的。</p><p>协议层面同样只有一种选择：当前仅支持 SSE 协议的 MCP Server，参数 server_protocol 的取值也就只有 sse。数量上最多添加 10 个 MCP Server，这个上限需要在设计工具编排时就考虑进去，而不是等配置到第十一个才发现。</p><h2>六个参数里四个必填</h2><p>文档给了完整参数表。必填的是四项：type 固定为 mcp，server_protocol 填 sse，server_label 是服务的标签名称、用于标识该服务，server_url 是端点地址。可选的两项里，headers 用来携带 Authorization 这类认证信息，属于连接层配置。</p><p>另一个可选参数是 server_description，即 MCP 服务的功能描述，供模型理解该服务的能力与适用场景。文档明确建议填写，理由是能提升模型调用准确性。这一点和函数调用里的工具描述同理：模型靠描述决定调不调，描述含糊就会漏调或误调。</p><h2>为什么建议开流式</h2><p>文档单独列了一节流式输出，理由写得很实在：MCP 工具调用可能涉及多次外部服务交互，建议启用流式输出，实时获取工具调用过程与回复内容。</p><p>换句话说，MCP 调用的耗时不确定性远高于普通问答——一次请求可能串起若干个外部服务，每个都有自己的响应时间。不开流式，客户端只能干等最终结果，中途既看不到进度也没法判断卡在哪一步。</p><h2>两笔费用，一笔在别处</h2><p>计费说明把成本拆成两部分：模型推理费用按模型的 Token 用量计，MCP 服务费用以各 MCP 服务的计费为准。后一笔不在模型账单里，做预算时如果只估算 Token 成本，会漏掉外部服务那一块。</p><p>接入前的准备动作也分两步：先在平台上查找并开通所需的 MCP 服务，再把示例代码里的 server_url 与 headers 替换成实际服务信息。文档以网页解析（WebParser）服务为例，这也提示了一个常见误区——MCP 服务不是接上就能用，服务本身要先开通。</p>"
+  },
+  {
+    "slug": "bailian-error-triage-request-id",
+    "title": "报错先看状态码再看错误码：百炼的排障顺序是固定的",
+    "summary": "401 查 Key 与域名是否同源，404 查模型是否在该地域可用，429 分限流与额度两种；Request ID 不在手上时还能从监控日志里捞回来。",
+    "url": "https://help.aliyun.com/zh/model-studio/error-code",
+    "category": "AI教程",
+    "date": "2026-11-13",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>状态码先做粗分类</h2><p>百炼的错误码文档开头就是一张分诊表，按 HTTP 状态码给出排查方向。401 是鉴权失败，对应 InvalidApiKey，要检查 Key 是否有效，以及 Key、地域、Base URL 三者是否匹配。403 是访问被拒绝，要按消息判断是权限、服务开通状态还是接口支持的调用方式问题，消息里提到欠费就去查 Arrearage 那一条。</p><p>404 常被当成路径写错，其实更多是模型名不对：要检查模型名、部署名或资源 ID 是否正确，目标模型是否在该地域可用，请求路径与调用方式是否符合接口要求。429 有两条完全不同的原因——限流是 Throttling.RateQuota，额度是 Throttling.AllocationQuota 或 insufficient_quota，前者降频，后者要先处理额度。</p><p>400 是参数问题，按错误消息逐项改；5xx 是服务侧，需要修正输入的先改，建议重试的等一会再试；至于根本没有 HTTP 响应，那是连接失败或超时，要查网络、代理与超时配置，跟模型无关。</p><h2>Request ID 是排查的主键</h2><p>文档单独写了一节讲怎么拿 Request ID。它的格式是 UUID，包含在 API 响应的 Header 或 Body 中，建议调用失败时就记录下来，方便自助排查或提工单。</p><p>没记下来也不是没救：可以登录模型监控页面，在目标模型的日志页签查询调用记录，里面包含 Request ID、状态码、错误码以及请求和响应内容。但这条后路有前置条件——需要主账号或已授权的子账号先开通推理日志，且只支持华北2（北京）、新加坡、美国（弗吉尼亚）三个地域的部分模型，数据有分钟级延迟，开通前的历史记录不可追溯。</p><h2>恢复调用有先后</h2><p>文档把恢复动作分了三类。参数、鉴权、权限、额度这类问题，修正后先发一次请求确认正常。限流或可重试的临时错误，降低频率或并发，重试时逐步延长间隔，并且要设最大重试次数与总耗时，达到任一上限就停。第三类最容易被忽略：执行状态不明的请求，也就是创建资源、提交任务这类操作超时或连接中断时，如果接口支持查询，先查执行结果再决定是否重新提交，无法确认状态就联系技术支持，避免重复创建。</p><p>最后一步是逐步恢复调用量并观察是否再现同一错误，异步任务还要确认最终状态与输出结果。</p><h2>工单里该写什么</h2><p>文档列了四项：报错信息（状态码、错误码、错误消息、Request ID）、发生时间与时区以及地域、模型或部署名、端点路径、SDK 版本、是否流式或异步、无响应时的客户端异常类型与日志、以及已采取的措施。提交前要移除 API Key、访问令牌、Authorization 信息与 URL 中的签名参数，并对业务数据脱敏。</p><p>这套要求本身也值得当成自查清单用：如果连「发生时间与时区」都说不清，说明日志留存有问题，而这往往才是故障反复出现的根因。</p>"
+  },
+  {
+    "slug": "bailian-web-search-protocol-gaps",
+    "title": "同一个联网搜索，四种开关、三种缺口：OpenAI 兼容拿不到来源",
+    "summary": "enable_search 之外还有策略与来源返回等进阶能力，DashScope 全支持而 OpenAI 兼容少了来源返回与角标；多模态模型走错端点会直接 400。",
+    "url": "https://help.aliyun.com/zh/model-studio/web-search",
+    "category": "AI教程",
+    "date": "2026-11-13",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>四种调用方式，四个开关</h2><p>百炼的联网搜索不是一个参数走天下。Chat Completions 里设 enable_search 为 true 即可启用；Responses API 改为在 tools 里配置 web_search 工具，且只支持部分模型；Anthropic 兼容接口也有自己的一套。文档开头就把这四种方式并列写出，原因很实际——从一种协议迁到另一种，参数名跟着变，写错了不会报「参数不存在」，只会搜不出来。</p><h2>能力差异是协议带来的</h2><p>文档用一张表对比了基础搜索之外的进阶能力：强制搜索、搜索策略设置、限定搜索来源站点、返回搜索来源。结论是 DashScope 协议支持全部功能，而 OpenAI 兼容协议因协议限制，不支持搜索来源返回与角标标注这几项。</p><p>这条差异对产品形态影响很大。需要在前端给答案加角标、展示引用链接的，只能在 DashScope 协议上做；用 OpenAI 兼容接口就只能拿到一段答案文本，出处要靠自己另找。选协议时如果没考虑这一点，后期补角标会发现无路可走。</p><h2>多模态模型走错端点会直接失败</h2><p>文档里有一段很容易被跳过的警告：Qwen4-Max 系列、Qwen3.8 Max 与 Flash 及开源系列、Qwen3.7-Plus 与 Flash、Qwen3.6 与 Qwen3.5 系列等模型支持图片、视频输入，属于多模态模型，必须通过多模态接口调用。Python SDK 2.0 用 client.multimodal.chat.create，Java 用 MultiModalConversation，而不能用面向纯文本模型的端点。</p><p>走错的报错是 url error, please check url——名字看起来像地址写错，实际是接口类型选错。还有一条更隐蔽的限制：多模态模型开启联网搜索时必须使用流式调用，否则返回 Non-streaming mode does not support Web Search。</p><p>Java SDK 在这里还差一个方法：MultiModalConversationParam 提供了 enableSearch，但没有 searchOptions，要注入搜索策略得通过通用参数 parameter 手动塞进去。</p><h2>策略不是每个系列都有全套</h2><p>文档说明搜索策略因系列而异。qwen3.5-omni 系列仅支持 agent 策略；qwen4-max-preview 与 Qwen3.8 的几个型号在多模态接口下不支持 agent 策略，只能用默认的 turbo 或 max，若要对它们用 agent 检索，得改用 Responses API 的联网搜索；其余列出的模型三种策略都支持。</p><p>这条规则解释了为什么同一段代码换个模型就搜得不一样——不是搜索坏了，而是策略被降级了。文档里还有一条时间线提示：2025 年 7 月后发布的千问 Max、Plus、Flash 模型都自动支持联网搜索，这意味着老模型是否支持要逐个查，不能按系列推断。</p><h2>API 不会自己打开网页</h2><p>文档的常见问题里有一条容易误解的说明：千问 API 本身不具备直接访问网页链接的能力。想让模型读某个页面，要靠函数调用、MCP，或者先用抓取工具取出正文再传进去。这条与「联网搜索」不是一回事——搜索是平台侧的工具，不是模型天生会开浏览器。</p>"
   }
 ]
