@@ -6092,5 +6092,181 @@
     "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
     "is_new": true,
     "content": "<h2>两个端点，不是同一个入口</h2><p>DashScope 原生协议按模型类型分了两个请求地址：纯文本模型走 services/aigc/text-generation/generation，多模态模型走 services/aigc/multimodal-generation/generation。</p><p>注意多模态这个词在文档里的范围比日常理解更宽。它不只指图像输入，qwen3.7-plus 这类支持视觉理解的模型也归在这条路径下。所以选路径的依据是模型能力，不是有没有传图片。</p><h2>content 的形态随之改变</h2><p>纯文本路径下，user 消息的 content 就是一个 string。多模态路径下，content 是 array，数组里的元素用 text、image、video、audio 这些键来表达不同类型的输入。</p><p>这个结构差异会连带影响所有按 content 处理的代码。把纯文本的拼接逻辑直接搬到多模态路径上，拿到的不是报错，而是内容被当成一个整体忽略掉——这类静默失败比报错难查得多。</p><h2>多模态路径里图片有三种传法</h2><p>文档列了三种：公网 URL、Base64 编码（形如 data:image/format;base64,data）、本地文件绝对路径。适用模型是 Qwen-VL 与 QVQ。</p><p>三种传法各有代价：URL 要求公网可访问，内网图片用不了；Base64 会显著放大请求体，长图容易触发体积限制；本地路径只在使用对应 SDK 时可用，纯 HTTP 调用传路径没有意义。</p><h2>选路径其实是在选协议</h2><p>DashScope 原生协议的这套分法，和 OpenAI 兼容协议的做法不同——后者用同一个 chat/completions 端点，靠 content 类型自动区分。</p><p>所以迁移时的判断标准是：如果代码里已经按 content 类型做了分支，走兼容协议更省事；如果需要用到只有原生协议才暴露的参数，就必须接受这两条路径的分叉，并在调用层按模型类型选端点。</p>"
+  },
+  {
+    "slug": "bailian-tool-stream-complex-params",
+    "title": "复杂工具参数的流式开关 tool_stream：先看 schema 里有没有 array 和 object",
+    "summary": "它只对「复杂工具」生效，默认关闭以保住精度，开启后换的是超时风险；支持范围只有 Qwen 与 GLM 两系，且要按系列逐个核对。",
+    "url": "https://help.aliyun.com/zh/model-studio/qwen-api-via-dashscope",
+    "category": "AI教程",
+    "date": "2026-11-14",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>什么算「复杂工具」</h2><p>DashScope 把工具定义里参数类型全为 string 的工具叫普通工具，只要开了流式调用，参数自然就是边生成边吐出来；而参数里出现 array 或 object 的工具被归为复杂工具，它的参数默认是一整块给全的。tool_stream 这个开关只对后者起作用，普通工具就算设了它也不会有任何变化。</p><p>这一点很容易被误读成「开了 tool_stream 就能流式拿到参数」。实际要不要开，先看工具 schema 里有没有数组和嵌套对象，没有就不必碰它。</p><h2>默认关闭是为了精度</h2><p>文档给出的取舍很直白：设为 false 时复杂参数一次性输出，复杂格式会更准确；设为 true 时改成流式输出，好处是复杂格式没有超时风险。也就是说默认值在拿精度换稳定，开启则在拿结构化程度换「不会卡到超时」。</p><p>当一个工具要生成几十个字段的深层嵌套 JSON，网关或客户端读超时确实可能发生在参数还没吐完的时候，这时开了才有意义；反过来，参数规模小、格式又要求严格，保持默认更省事。</p><h2>支持范围要按系列逐个数</h2><p>Qwen 侧是分系列支持的：qwen-max 系看 qwen3.8-max 与 qwen3.7-max 的文本模态；qwen-plus 系看 qwen3.7-plus、qwen3.6-plus 的文本模态，以及 qwen3.5-plus 的全模态；qwen-flash 系则是 qwen3.8-flash、qwen3.7-flash、qwen3.6-flash 与 qwen3.5-flash 的全模态。GLM 侧目前只列了 glm-5 与 glm-5.1 的阿里云直供版本。</p><p>「文本模态」「全模态」这类限定词不是装饰。同一个模型名在多模态调用路径下未必落在支持列表里，核对时要连调用方式一起对。</p><h2>位置与验证</h2><p>直接发 HTTP 请求时，tool_stream 不是请求体顶层字段，而要放进 parameters 对象里，和它同一层的还有 reasoning_effort、enable_thinking 这一批参数。Java SDK 走的是另一套命名风格。</p><p>验证办法很简单：拿一个含数组字段的工具，在流式模式下逐块打印 delta 里的 tool_calls，看 arguments 是逐渐拼接还是一次性给全。逐渐拼接说明流式参数生效了，一次性给全说明这个模型没吃这个开关。</p>"
+  },
+  {
+    "slug": "bailian-tool-choice-three-values",
+    "title": "tool_choice 的四种写法，以及 Qwen 系列做不到的那两种",
+    "summary": "auto、none、required 与「钉死某个函数名」是四种不同写法，但 required 和强制指定在 Qwen 系列上并不总能生效，思考模式下更是一条都不通。",
+    "url": "https://help.aliyun.com/zh/model-studio/qwen-api-via-dashscope",
+    "category": "AI教程",
+    "date": "2026-11-14",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>四种写法不是一个枚举</h2><p>默认值是 auto，模型自己判断要不要调、调哪一个。想在某次请求里临时关掉工具，填 none。想逼它至少调一个工具，填 required。想钉死某个函数，则不能传字符串，而要传 {\"type\":\"function\",\"function\":{\"name\":\"...\"}} 这样的对象——这时它是「指定工具」而不是「策略」，格式写错会被当成非法枚举值拒掉。</p><h2>Qwen 系列不支持 required</h2><p>这条最容易被漏掉：Qwen 系列暂不支持 required。非思考模式下无法保证一定调用工具，思考模式下则根本不认这个取值。于是「我必须让它调工具」这种诉求在 Qwen 上只能退化成两种做法——把 tool_choice 钉到具体函数名，或者在提示词里把「必须调用」写成强约束并自己校验返回结果。</p><h2>思考模式还会挡掉强制指定</h2><p>文档另有一句：思考模式的模型不支持强制调用某个工具。合起来看，思考模式下 required 和指定函数名两条路都被堵住，只剩 auto 与 none 可用。这不是配置问题，而是能力边界，遇到之后不必再改参数反复试。</p><h2>工具集本身也有边界</h2><p>tools 里每个函数要有 name、description 和 parameters。parameters 为空表示该函数没有入参，比如时间查询这类工具，但文档建议仍然传 parameters，以提高调用的准确性。另外，qwen-vl 与 qwen-audio 系列暂时不支持 tools——把图片理解和工具调用塞进同一个请求，会直接在这一步失败。</p><h2>放在哪一层</h2><p>发 HTTP 请求时，tools 与 tool_choice 都要放进 parameters 对象，不是请求体顶层。Java SDK 里对应 toolChoice。这两处位置或命名写错时，报错通常只说参数非法，不会提示你是层级写错还是名字写错，排查时值得先怀疑层级。</p>"
+  },
+  {
+    "slug": "bailian-temperature-default-matrix",
+    "title": "temperature 的区间是 [0,2)，但默认值从 0 到 1.0 都有",
+    "summary": "同一个字段，qwen-math 默认 0、qwen-vl 默认 0.01、思考模式 0.6、非思考 0.7、qwen-long 1.0；照抄别人的 0.7 很可能把模型推出了它自己的默认区。",
+    "url": "https://help.aliyun.com/zh/model-studio/qwen-api-via-dashscope",
+    "category": "AI教程",
+    "date": "2026-11-14",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>左闭右开，2 取不到</h2><p>temperature 的取值区间是 [0, 2)。0 可以取，2 会被拒。多数示例习惯写 0.7 了事，但在这套参数体系里，0.7 对一部分模型恰好是默认值，对另一部分模型则意味着「已经被改动过」。判断依据不是习惯，而是它属于哪一档。</p><h2>默认值大致分三层</h2><p>把文档里的默认值摊开看，第一层是 0.7：非思考模式的 Qwen3.8、3.7、3.6、3.5、3，以及 Qwen3-Instruct 系、Qwen3-Coder 系、qwen-max 系、qwen-plus 系、qwen-flash 系（后三者均限非思考）、qwen 开源系、qwen-coder 系、qwen-doc-turbo、Qwen3-VL 非思考，都落在这一档。</p><p>第二层是 0.6：思考模式的 Qwen3.7、3.6、3.5、3，加上 Qwen3-Thinking 与 QwQ 系。第三层是 1.0：qwen-long 与多数直供的三方模型。Qwen3-VL 的思考模式则单独给了 0.8，qwen-plus-character 是 0.92。</p><h2>极端值不是笔误</h2><p>QVQ 系是 0.5，qwen-vl 系是 0.01，qwen-audio-turbo 系是 0.00001，qwen-math 系是 0。这几个数字看着像打错，其实是按任务性质定的：几何与音频这类任务要的是稳定复现，数学要的是唯一解。</p><p>文档还专门加了一句「不建议修改 QVQ 模型的默认 temperature 值」。反过来读就是——这几个模型的默认值本身就是调过的结论，不是随手填的占位。</p><h2>两处会静默生效的规则</h2><p>qwen3.8-max 与 qwen3.8-flash 在思考模式下，视觉理解默认 0.6、文本输入默认 1.0，而且低于 0.6 的值会被自动改成 0.6。传 0.2 不报错，但也不生效。</p><p>另一处是小米直供的 mimo-v2.6-pro-ultraspeed：默认 1.0，且不支持自定义，传别的值仍按 1.0 算。同系列的 mimo-v2.5-pro 允许 [0,1.5] 这个比主区间更窄的范围，默认同样是 1.0。</p><h2>换模型时要一起核对</h2><p>把 temperature 当成换模型时必须逐项核对的配置，而不是沿用上一份。做法是先查该模型这一档的默认值，只在业务确实需要更发散或更收敛时偏离它，并把偏离的理由写进代码注释——否则半年后没人知道这个 0.3 是为什么。</p>"
+  },
+  {
+    "slug": "bailian-top-p-two-tier-default",
+    "title": "核采样的 top_p 默认 0.8 还是 0.95，取决于模型在思考还是非思考",
+    "summary": "top_p 的区间是 (0,1.0]，默认值按「非思考 0.8 / 思考与三方直供 0.95」两档分布，QVQ 又是特殊的 0.5。",
+    "url": "https://help.aliyun.com/zh/model-studio/qwen-api-via-dashscope",
+    "category": "AI教程",
+    "date": "2026-11-14",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>它和 temperature 调的不是一件事</h2><p>temperature 调的是概率分布的陡峭程度，top_p 调的是候选集的累计概率边界：把 Token 按概率从高到低累加，累到设定阈值就截断，只在这个核里采样。两者都会影响多样性，但同时调会互相掩盖，通常固定一个再动另一个。</p><h2>默认值呈两档结构</h2><p>非思考模式的那一大群——Qwen3.8、3.7、3.6、3.5、3，Qwen3-Instruct 系、Qwen3-Coder 系、qwen-max 系、qwen-plus 系、qwen-flash 系（后三者限非思考）、Qwen2.5 开源系、qwen-coder、qwen-long、qwen-doc-turbo 与 Qwen3-VL 非思考——默认 0.8。</p><p>思考模式这一侧则是 0.95：Qwen3.8、3.7、3.6、3.5、3 的思考档，Qwen3-VL 思考档，Qwen3-Thinking、QwQ 系与 qwen-plus-character。差额只有 0.15，但意味着同一段代码切到思考模式后，采样面被放宽了一档，输出会更发散。</p><h2>三方直供基本都站在 0.95</h2><p>阿里云直供的 deepseek-v4-pro 与 deepseek-r1-distill-qwen 蒸馏版是 0.95；Kimi 的 k2.7-code、k2.6、k2.5 是 0.95；GLM 的阿里云直供与智谱直供都是 0.95；MiniMax 的 M2.5 与 M3 是 0.95，M2.7、M2.5、M2.1 是 0.9。</p><p>硅基流动直供的四款 DeepSeek 直接给 1.0，等于不截断。快手万擎直供里，v3.2-speciale 是 0.9、r1 是 0.8、v3 与 ocr 是 1.0、v3.2-think 与 v3.1-terminus 是 0.95。</p><h2>几个不该动的地方</h2><p>QVQ 系是 0.5，qwen-math 系是 1.0（配它 temperature 为 0 的设定看，等于不靠采样控制输出），qwen-audio-turbo 与 qwen-vl 各按自己的档位。文档对 QVQ 同样写了「不建议修改默认 top_p 值」，和 temperature、top_k 那两条是同一个意思。</p><p>小米的 mimo-v2.5-pro 可用范围是 [0.01,1.0]，mimo-v2.6-pro-ultraspeed 固定 0.95 且不接受自定义。</p><h2>一个命名上的坑</h2><p>HTTP 调用时字段名是带下划线的 top_p，放进 parameters 里；Java SDK 是驼峰 topP。迁移代码时这两个名字对不上，报错只会说参数无效，不会告诉你是命名风格的问题，所以排查顺序上先对齐命名再看取值。</p>"
+  },
+  {
+    "slug": "bailian-top-k-default-and-unsupported",
+    "title": "top_k 的默认值从 1 到 40 不等，还有三家模型根本没有这个参数",
+    "summary": "QVQ 10、QwQ 40、qwen-math 与 qwen-audio-turbo 1、其余 20；DeepSeek、Kimi、MiniMax 三系不支持它，传了也不会按你写的走。",
+    "url": "https://help.aliyun.com/zh/model-studio/qwen-api-via-dashscope",
+    "category": "AI教程",
+    "date": "2026-11-14",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>它决定池子有多宽</h2><p>取值 50 时，只在单次生成中得分最高的 50 个 Token 里抽样。取值越大随机性越高，越小越确定。它管的是候选池的宽度，top_p 管的是累计概率的边界；两者同时存在时，先按 top_k 截出池子，再在池子里做核采样。</p><h2>一个特殊的关闭方式</h2><p>取值需要大于或等于 0，但把 top_k 设为 None，或者设成大于 100 的值，都表示不启用 top_k 策略，此时只剩 top_p 起作用。注意这不是「放宽到一百个候选」，而是彻底退出这一层策略。写 128 和写 None 是同一个效果，这点与直觉相反，也常被误当成「调大一点」。</p><h2>默认值按模型分四档</h2><p>QVQ 系是 10，QwQ 系是 40，qwen-math 系与 qwen-audio-turbo 系是 1，其余模型（含 GLM 阿里云直供）都是 20。math 与 audio 给到 1，等于只在最高概率那个 Token 上取，配上它们 temperature 分别为 0 与 0.00001 的设定，是彻底往确定性上压的一条线。</p><h2>三家模型没有这个参数</h2><p>DeepSeek、Kimi、MiniMax 系列均不支持 top_k。把同一套采样配置套到这些模型上，最坏的情况是静默忽略——请求成功、输出正常，但你真正调到的只有 top_p 与 temperature 两项。</p><p>如果业务逻辑依赖「严格限制候选宽度」，换到这三家之后这个约束就消失了。要保住效果，只能改用收紧 top_p 来近似，并且重新做一轮对照组。</p><h2>QVQ 的那条提醒</h2><p>文档里「不建议修改 QVQ 模型的默认值」这句话出现了三次，分别挂在 temperature、top_p 与 top_k 上。三条都在说同一件事：这个模型的采样配置是被整体调过的，单独改其中一项会破坏原本的平衡。字段名在 HTTP 请求里是 top_k，Java SDK 里是 topK。</p>"
+  },
+  {
+    "slug": "bailian-repetition-penalty-three-tiers",
+    "title": "repetition_penalty 的默认值只有三档，而且 1.0 才代表不惩罚",
+    "summary": "qwen-max、qwen-math、qwen-audio-turbo、QVQ、QwQ、qwen-coder 是 1.1，其余 1.05，GLM 阿里云直供是 1.0；这个参数没有严格取值范围。",
+    "url": "https://help.aliyun.com/zh/model-studio/qwen-api-via-dashscope",
+    "category": "AI教程",
+    "date": "2026-11-14",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>1.0 是基准线</h2><p>这个参数压的是连续序列中的重复度。1.0 表示不做惩罚，大于 1.0 才有惩罚效果。所以看到默认值 1.05 时不要以为「默认已经在惩罚」是件小事——它意味着多数模型出厂就带着一点去重力度，而 GLM 阿里云直供的 1.0 是唯一完全不加惩罚的一档。</p><h2>按任务族分档，不是按模型逐个定制</h2><p>第一档 1.1，给的是 qwen-max、qwen-math 系、qwen-audio-turbo 系、QVQ 系、QwQ 系与 qwen-coder 系；第二档 1.05，其余模型；第三档 1.0，仅 GLM 系列（阿里云直供）。</p><p>这个划分有内在逻辑：数学与代码是最忌重复的两类输出，被统一归到惩罚更重的那一档；而通用对话给 1.05，是轻推一把的量级。</p><h2>没有严格取值范围</h2><p>文档明确写「没有严格的取值范围，只要大于 0 即可」。这与 temperature、top_p、top_k 都不同，那三个都有明确的上下界，这个没有。好处是可以往大了调去强行打断复读，代价是没有护栏——1.5、2.0 这类值不会被拦下，效果与副作用都由调用方自己承担。</p><h2>什么时候该动它</h2><p>典型场景是长文本生成、列表罗列、代码注释这类容易出现「一句话反复说」的输出。如果调 temperature 把多样性拉起来会连带影响内容风格，那只改这一个参数更精准，因为它不改变整体分布形状，只针对已出现过的序列。</p><p>但它惩罚的是连续序列，对「隔着几段重复」基本无效。那种情况要靠 presence_penalty——它作用于单个 Token，与出现次数无关，两者粒度不同，一起调时得分清是谁在起作用。</p><h2>落点</h2><p>HTTP 调用放在 parameters 里，名字是 repetition_penalty；Java SDK 里是 repetitionPenalty。这一项在文档参数表中位置靠后，示例代码未必带上，迁移时容易整条漏掉，表现是「换到新模型后开始复读」。</p>"
+  },
+  {
+    "slug": "bailian-presence-penalty-defaults",
+    "title": "presence_penalty 的默认值有人是 1.5，有人是 0，还有一批模型没有默认值",
+    "summary": "区间 [-2,2]，正值降重复、负值增重复；非思考的 Qwen3 系与 Qwen3-VL 给 1.5，qwen-plus 思考模式 0.5，其余 0.0，部分三方模型未声明默认值。",
+    "url": "https://help.aliyun.com/zh/model-studio/qwen-api-via-dashscope",
+    "category": "AI教程",
+    "date": "2026-11-14",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>正负两个方向都能用</h2><p>取值范围 [-2.0, 2.0]，正值降低重复度，负值增加重复度。负值这个方向不常用，但在需要刻意维持某种口播节奏、让品牌话术反复出现的场景里，是可以主动使用的。它不是一只单向旋钮。</p><h2>惩罚与出现次数无关</h2><p>原理是：参数为正时，模型对当前文本里已存在的 Token 施加一个惩罚值，而这个惩罚值与该 Token 已经出现的次数无关。这一点正是它与 repetition_penalty 的分界线——后者针对连续序列，它针对单个 Token，作用粒度不同。</p><p>文档也给了同一句话在两个极端下的对照：2.0 时表达会被推向不断换词，0.0 时同一意思会反复使用相近的表述。这组对照最实用的地方，是让人理解它改的是「用词新鲜度」而不是「句子结构」。</p><h2>默认值这一栏最不统一</h2><p>Qwen3.8、3.7、3.6、3.5、3 的非思考模式，Qwen3-Instruct 系与 Qwen3-VL 非思考，默认 1.5；qwen-plus、qwen-plus-latest 与 2025-04-28 的思考模式是 0.5；其余为 0.0。</p><p>三方模型里，deepseek-r1-distill-qwen 蒸馏版是 1，kimi-k2.7-code、kimi-k2.6、kimi-k2.5 是 0.0，MiniMax-M2.5 是 0.0。文档另有一句：其余 DeepSeek / Kimi / GLM / MiniMax 模型无默认值。</p><h2>「无默认值」不等于「默认 0」</h2><p>0.0 是明确的中性设置，而无默认值意味着平台未对该模型声明这一项，行为不由文档保证。做跨模型效果对比时如果把两者都当 0.0 处理，等于把两种状态混成一种，结论会偏。</p><h2>调法与两条限制</h2><p>创意写作、头脑风暴这类需要多样性的任务建议调高；技术文档、正式文本这类强调术语一致的场景建议调低。两条硬限制要记住：不建议修改 QVQ 模型的默认值；Java SDK 不支持设置该参数，只能走 HTTP 的 parameters 对象。</p>"
+  },
+  {
+    "slug": "bailian-seed-reproducibility",
+    "title": "seed 让输出「尽可能」可复现，默认值不是 0 而是 1234",
+    "summary": "取值 [0, 2^31-1]，其余模型默认 1234；文档用的是「尽可能返回相同结果」，也就是给倾向不给承诺。",
+    "url": "https://help.aliyun.com/zh/model-studio/qwen-api-via-dashscope",
+    "category": "AI教程",
+    "date": "2026-11-14",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>它保证的是倾向，不是承诺</h2><p>同一个 seed、同一组输入与参数，模型会「尽可能」返回相同结果。这个措辞很关键：它给的是可复现的倾向，不是逐字节一致的保证。做回归测试、提示词 A/B、故障复现时这已经够用，但把它当成幂等键就会出问题——同一请求发两次，理论上仍可能拿到措辞不同的答案。</p><p>换个角度理解：可复现性在这类系统里是「尽力而为」级别的一致性，不是数据库事务那种强一致。工程上应当按「大概率相同」来设计测试断言，比如比对语义等价而不是逐字比对。</p><h2>默认值有个容易踩的点</h2><p>文档写的是「seed 默认值其余模型均为 1234」，注意「其余」二字，说明有的模型另有默认。也就是说同一段不带 seed 的代码，跑在不同模型上，落到的其实是不同的「已固定」状态。</p><p>如果代码里靠「不传 seed」来求随机，那从一开始就不成立：默认值本身就是一个固定的数。真要随机，应当每次请求生成一个新的 seed。</p><h2>取值范围</h2><p>[0, 2^31−1]，即 0 到 2147483647。这是 32 位有符号整数的正半区，所以用 32 位随机数生成器取值天然安全；但如果用 64 位随机数、时间戳或 UUID 派生，就要先做一次取模，否则会直接被拒。</p><h2>复现的前提是别的都不动</h2><p>只要有一个参数变了，seed 相同也没有意义。这条在排查时最常被忽略：调过 temperature 再去看「为什么两次结果不同」，答案不在 seed 上。同理，模型版本、系统消息、工具定义、上下文长度都会影响结果——把它们一起冻住，seed 才有意义。</p><h2>怎么放进请求</h2><p>HTTP 调用放进 parameters 对象，与 temperature 同一层；Java SDK 里字段名就是小写的 seed。批量跑评测时建议把 seed 显式写进请求模板，而不是依赖默认值，这样换模型之后至少这一项是受控变量，能做同条件对照。</p>"
+  },
+  {
+    "slug": "bailian-result-format-text-vs-message",
+    "title": "result_format 默认是 text，但有五个模型默认给 message，还有一类设了 text 也不生效",
+    "summary": "Qwen3-Max、Qwen3-VL、QwQ、Qwen3 开源与 Qwen-Long 默认 message；千问 VL/QVQ/Audio 设 text 不生效；Java SDK 调 Qwen3 开源传 text 仍返回 message。",
+    "url": "https://help.aliyun.com/zh/model-studio/qwen-api-via-dashscope",
+    "category": "AI教程",
+    "date": "2026-11-14",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>两个形态的差别</h2><p>text 把回复内容放在 output.text 字段，适合一次性取结果的简单场景；message 返回结构化的 choices 数组，带 role、content 与 finish_reason，多轮对话要靠它把历史轮次原样接回去。文档的建议是优先用 message，并且平台后续会把默认值统一调整成 message。</p><h2>默认值不是一律 text</h2><p>文档先写默认 text，紧接着列出 Qwen3-Max、Qwen3-VL、QwQ 系、Qwen3 开源系与 Qwen-Long 的默认是 message。这意味着「不传这个参数」在不同模型上会拿到不同结构的响应体，同一段解析代码可能今天能跑、明天报错——而变的只是模型名。</p><h2>有一类模型设了也白设</h2><p>模型为千问 VL、QVQ、Audio 时，设置 text 不生效。这几类模型的输出天然带多模态结构，强行要纯文本拿不到。Qwen3-Max、Qwen3-VL 与思考模式下的 Qwen3 则只能设为 message。</p><p>而 Qwen3 商业版的默认值恰恰是 text，所以必须显式改成 message，否则一开始就注定失败。这是一处「默认值与能力互相矛盾」的设计，只能靠读文档记住。</p><h2>Java SDK 有个静默纠正</h2><p>如果用 Java SDK 调用 Qwen3 开源模型并且传了 text，依然会以 message 格式返回。它不报错，只是不接受这个设置。这类静默纠正比报错更难查——代码里写着 text，实际拿到的却是 choices，字段取不到值时容易怀疑到解析层去。</p><h2>SDK 版本决定了要不要管它</h2><p>Python SDK 2.0 固定返回 message 形态，无需设置这个参数；只有直接发 HTTP 请求时才需要关注它。所以同一份业务逻辑在 SDK 与 HTTP 两条路上要分别处理。字段名在 HTTP 里是 result_format，Java SDK 里是 resultFormat。</p>"
+  },
+  {
+    "slug": "bailian-clear-thinking-glm-multiturn",
+    "title": "多轮对话里的思考记录要不要带回去：clear_thinking 只在四款 GLM 上可用",
+    "summary": "仅 glm-5.3/5.2/5.1/5 支持，glm-5.3 默认 true 其余 false；开启后丢弃历史 reasoning_content 降成本，关闭则必须原样完整回传。",
+    "url": "https://help.aliyun.com/zh/model-studio/qwen-api-via-dashscope",
+    "category": "AI教程",
+    "date": "2026-11-14",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>它管的是历史轮次</h2><p>新一轮请求里，前面几轮的 reasoning_content 要不要作为上下文喂回模型，由这个开关决定。默认 false 表示保留并随上下文一起提供；设为 true 则忽略历史轮次的推理内容，只用可见文本、工具调用与结果这些非推理部分。差出来的是一段很长、对用户完全不可见的 Token。</p><h2>只有四款模型认它</h2><p>仅 GLM 系列的 glm-5.3、glm-5.2、glm-5.1、glm-5 支持。其中 glm-5.3 的默认值是 true，其余三款是 false。默认值反过来这件事值得注意：新款默认丢、老款默认留，所以从 5.2 迁到 5.3 时，上下文构成会悄悄变化，账单与效果都会跟着变。</p><h2>开与关各自换到什么</h2><p>开 true 换的是上下文长度与成本，代价是模型看不到自己上一轮怎么想的，连续推理任务的一致性会下降，尤其在需要延续同一套推导的多步任务上，可能重新走一遍已经走过的岔路。</p><p>留 false 则保住推理连续性，但每一轮都要把之前所有思考内容重新计费。文档对这一档没有给推荐值，等于把成本与效果的取舍交给业务自己判断，这也说明它没有普适答案。</p><h2>关掉时有个硬前提</h2><p>如果希望启用 Preserved Thinking，历史 reasoning_content 必须在 messages 里完整、原样回传。缺失、裁剪、改写或重排都会导致效果下降甚至完全无法生效。这解释了一类「明明没改配置，效果却变差」的故障：中间层做了消息合并、截断或重排序。</p><h2>与另一个参数的分工</h2><p>同页还有 preserve_thinking，它管的是当前轮要不要把思考内容回传，默认 false，qwen3.8-max 与 qwen3.8-flash 默认 true，且暂不支持 Java SDK。clear_thinking 管历史，preserve_thinking 管本轮，两者不是替代关系；配错其中一个，就会出现「明明保留着却读不到」的错觉。</p>"
+  },
+  {
+    "slug": "bailian-vl-high-resolution-pixel-budget",
+    "title": "打开高分辨率图像之后，max_pixels 会被直接忽略",
+    "summary": "它把像素上限抬到 16384 Token 对应的量，两套模型分别对应 16777216 与 12845056 像素；开启后 max_pixels 失效。",
+    "url": "https://help.aliyun.com/zh/model-studio/qwen-api-via-dashscope",
+    "category": "AI教程",
+    "date": "2026-11-14",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>它改的是上限，不是策略</h2><p>默认 false，此时输入图像的像素上限由 max_pixels 决定，超过就把图缩小到上限内。设为 true 后换成固定分辨率策略：像素上限抬到 16384 Token 对应的像素值，并且忽略 max_pixels 设置，超过这个上限的图会被缩到上限内。</p><p>「固定分辨率」这四个字是理解它行为的关键：它不再按原图的宽高比与总像素做自适应压缩，而是先给定一个 Token 预算，再把图往这个预算里塞。同一批图片在两种策略下拿到的实际输入尺寸可能差异很大。</p><h2>两套像素上限</h2><p>Qwen3.7、3.6、3.5 系与 Qwen3-VL 系是 16777216，算法是每 Token 对应 32×32 像素，即 16384×32×32。QVQ 系与其他 Qwen2.5-VL 系是 12845056，每 Token 对应 28×28。差的是每 Token 的像素密度，不是 Token 数——16384 这个数在两边完全一样。</p><h2>开启的代价是 Token</h2><p>上限抬高意味着同一张图会被切成更多 Token，输入计费随之上升。文档没有暗示这是免费的：它是一次用成本换细节的操作。</p><p>判断要不要开的办法是看任务是否依赖图里的细小文字、表格线、密集标注。如果只是判断「图里有没有猫」，默认档完全够用；反过来，读手写表格、辨认小字版式，不开基本拿不到可用结果。</p><h2>与 max_pixels 是覆盖关系</h2><p>两者不是叠加，而是覆盖。设了 true 之后 max_pixels 写多少都不影响结果，这一点在调参时最容易浪费时间——反复改 max_pixels 看不到任何变化，因为真正起作用的是另一个开关。遇到「改了没反应」，先回头确认这个布尔值的状态。</p><h2>版本门槛</h2><p>Java SDK 里是 vlHighResolutionImages，需要的最低版本为 2.20.8；HTTP 调用则把 vl_high_resolution_images 放进 parameters。低于这个版本时参数会被忽略，表现同样是「改了没反应」，所以排查顺序应当是先确认 SDK 版本，再确认取值。</p>"
+  },
+  {
+    "slug": "bailian-vl-image-hw-output",
+    "title": "让模型告诉你图片被缩放成了多大：vl_enable_image_hw_output 的用法",
+    "summary": "默认 false；开启后返回缩放后的高与宽，流式调用时这份信息在最后一个数据块里才出现。",
+    "url": "https://help.aliyun.com/zh/model-studio/qwen-api-via-dashscope",
+    "category": "AI教程",
+    "date": "2026-11-14",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>为什么需要它</h2><p>图像输入会先被缩放再送进模型，但缩放比例通常不可见。当任务对坐标、尺寸敏感——比如按位置裁剪、按比例估算物体大小——你需要知道模型实际看到的是多大的图，而不是你上传时那张图的像素数。这个开关就是把这层信息吐出来。</p><p>不做这一层核对，最容易出现的现象是「框的位置总是偏一点点」，而偏移量随图片尺寸变化，看起来毫无规律。等到把缩放比例算进去，偏差才对得齐。</p><h2>返回的是缩放后的尺寸</h2><p>配置为 true 时会返回图像缩放后的高度和宽度。注意是「缩放后」，对应模型实际处理的那一版，不是原图。做视觉定位类任务时，用原图尺寸去换算坐标会整体偏移，而偏差比例正是缩放比例。</p><h2>流式模式下在最后一个包</h2><p>开启流式输出时，这份尺寸信息在最后一个数据块（chunk）里返回。这意味着前端如果在第一个 chunk 就急着渲染，拿不到它，必须等到流结束或者专门缓存末包。非流式调用没有这个顺序问题，一次就能取全。</p><p>把它记在流式解析逻辑里更稳妥的做法，是给「末包」单独留一个处理分支，而不是在每个 chunk 的循环里顺手判断——后者的条件会越写越乱。</p><h2>支持范围与版本</h2><p>仅 Qwen-VL 模型支持。Java SDK 里是 vlEnableImageHwOutput，最低版本 2.20.8，与高分辨率开关同一条版本线；HTTP 调用放进 parameters 对象。两者版本号一致，升级一次能同时解决两个参数的可用性。</p><p>文本模型自然没有这一层，对它们传这个参数不会得到任何回报，只会让请求体多一个无意义的键。</p><h2>一个实用组合</h2><p>把它与 vl_high_resolution_images 一起开，就能量化「细节换成本」这件事：同一张图在默认档与高分辨率档下返回的宽高不同，输入 Token 也不同，直接对比就能判断某个业务的图片该走哪一档，而不必靠猜或反复试错。</p>"
+  },
+  {
+    "slug": "bailian-code-interpreter-switch",
+    "title": "代码解释器是个布尔开关，但它不支持 Java SDK",
+    "summary": "默认 false，开启后模型可在服务端执行代码；HTTP 要放进 parameters，Java SDK 没有对应设置项。",
+    "url": "https://help.aliyun.com/zh/model-studio/qwen-api-via-dashscope",
+    "category": "AI教程",
+    "date": "2026-11-14",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>它解决的问题</h2><p>有些问题不适合「一次生成就给答案」：数值计算、数据处理、需要试算再修正的推导。开启代码解释器后，模型可以写代码并在服务端执行，再把执行结果用于组织答案。相比让它纯靠语言模型算数，这条路在精度上可靠得多，也能处理需要遍历、聚合的任务。</p><p>差别在可验证性：语言模型给出的数字无从核对，而一段执行过的代码至少留下了可以复算的过程。</p><h2>开关的形态</h2><p>默认值为 false，可选 true 开启、false 不开启，没有第三种中间档。它不改变模型本身，只改变这次请求可用的能力集合。同一个模型开与不开是两条不同的能力路径，输出风格也会不同——开了之后答案更可能先给过程再给结论。</p><h2>明确的限制</h2><p>不支持 Java SDK。这不是版本问题，而是当前没有对应设置项。Java 侧要用只能直接发 HTTP 请求，或者改用 Python SDK。文档把这条写在参数说明里而不是注意事项里，很容易在选型阶段漏掉——等到 Java 项目开工才发现拼不出这个参数。</p><p>选了 Java 又要用它，就得在同一个服务里混用两种调用方式，鉴权与重试逻辑会被复制一份，维护成本要提前算进去。</p><h2>放在哪里</h2><p>通过 HTTP 调用时，enable_code_interpreter 要放进 parameters 对象，与 tools、tool_choice 同一层，不是请求体顶层。这与 DashScope 协议的通用约定一致：所有参数类字段都收在 parameters 里，顶层只放 model、input 这类结构字段。</p><h2>什么时候别开</h2><p>如果任务只是文本改写、摘要、分类，开它只会多一层不确定性——模型可能选择写代码而不是直接回答，输出变得冗长且与预期格式不符。</p><p>判断标准很朴素：这个问题需不需要算。需要精确数值、需要处理一批数据，就开；纯语言任务就别动。另外它还会拉长响应时间，交互式场景下要评估用户等待。</p>"
+  },
+  {
+    "slug": "bailian-max-tokens-semantics-glm",
+    "title": "max_tokens 的「最大」含不含思维链，取决于模型和有没有传 thinking_budget",
+    "summary": "glm-5.3 恒含思维链且忽略 thinking_budget；glm-5.2 看是否传了 thinking_budget；其他模型只算回答；GLM 默认 65536、上限 131072。",
+    "url": "https://help.aliyun.com/zh/model-studio/qwen-api-via-dashscope",
+    "category": "AI教程",
+    "date": "2026-11-14",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>一个字段三种含义</h2><p>在多数模型上，max_tokens 指「模型回答的最大 Token 数，不包含思维链」，超过就提前停，finish_reason 返回 length。但在 GLM 上是另一套：glm-5.3 把它算成回答与思维链之和，并且会忽略 thinking_budget 参数；glm-5.2 则取决于有没有传 thinking_budget——不传时算总和，传了之后就只算回答，思维链由 thinking_budget 单独控制。</p><h2>为什么这件事会咬人</h2><p>同一段代码，只因为多传了一个 thinking_budget，max_tokens 的含义就从「总预算」变成「回答预算」，实际可用输出变短。表现出来是「加了参数以后回答被截断」，而报错信息只会说 length，不会解释语义已经切换。这类故障最难查，因为每一步改动看起来都合理。</p><h2>默认值与上限</h2><p>GLM 模型（阿里云直供的 glm-5.3、5.2、5.2-fast-preview、5.1、5 与智谱直供的对应型号）默认 65536、最大 131072。其他模型的默认值与最大值均等于模型的最大输出长度，所以不传这个参数时，实际上限由模型自己决定。</p><p>deepseek-v4.1-flash、deepseek-v4-pro、deepseek-v4-pro-0813、deepseek-v4-flash-0731 这几款在这套语义下同样按「超过即停、返回 length」处理。</p><h2>它已经被标为即将废弃</h2><p>文档在参数名后直接写了「即将废弃」，新接入请用 max_completion_tokens。后者的语义不随模型漂移：始终限制完整输出，也就是思维链加回答，思考类模型推荐用它。这一条基本给出了迁移方向。</p><h2>迁移建议</h2><p>存量代码里如果同时存在 max_tokens 与 thinking_budget，先确认模型是不是 GLM——是的话含义可能已经是「回答预算」。换成 max_completion_tokens 后这层歧义消失，但它并非所有模型都支持，接入前要先查支持列表，别把整个项目一次性替换掉。</p>"
+  },
+  {
+    "slug": "bailian-workspace-dedicated-domain",
+    "title": "百炼的接入地址正在换成带业务空间 ID 的域名，六个地域并不整齐",
+    "summary": "华北2、新加坡、中国香港已推出业务空间专属域名，旧域名仍可用；各地域 API Key 不同，端点、region 与凭据要一起改。",
+    "url": "https://help.aliyun.com/zh/model-studio/qwen-api-via-dashscope",
+    "category": "AI教程",
+    "date": "2026-11-14",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>换的是什么</h2><p>原来的端点是 dashscope.aliyuncs.com，新加坡地域是 dashscope-intl.aliyuncs.com。现在华北2（北京）、新加坡、中国香港三个地域推出了业务空间专属域名，形态是把业务空间 ID 放在最前面：cn-beijing 与 ap-southeast-1 两个前缀后接 maas.aliyuncs.com。官方说的是更好的性能与更高的稳定性，同时声明现有域名仍可正常使用。</p><h2>六个地域的路径并不整齐</h2><p>纯文本与多模态是两条路径：纯文本走 /api/v1/services/aigc/text-generation/generation，多模态走 /api/v1/services/aigc/multimodal-generation/generation。前缀按地域换成 cn-beijing、ap-southeast-1、us-east-1、eu-central-1、ap-northeast-1、cn-hongkong。同一份业务代码跨地域部署时，这一整段都得参数化，硬编码在配置文件里迟早要改。</p><h2>API Key 是分地域的</h2><p>文档在示例注释里写得很清楚：各地域的 API Key 不同。把北京的 Key 用到新加坡端点上，得到的是鉴权失败，而不是「能用但慢一点」。所以迁地域不是改一个 base_url 的事，凭据必须一起换，环境变量也要按地域分开命名。</p><h2>SDK 怎么配</h2><p>Python SDK 用 dashscope.Client 的 region 参数指定地域。Java SDK 有两条路：一条是构造 MultiModalConversation 时传入地域端点，另一条是直接改 Constants.baseHttpApiUrl。第二条是全局静态量，改了会影响进程里所有客户端，多地域并行时不能这么写。</p><h2>迁移检查清单</h2><p>把占位符换成真实业务空间 ID 之后，先验证三件事：鉴权通过、返回结构符合预期、延迟符合预期。专属域名换的是接入层，不改模型行为，所以响应体不该有任何变化。一旦结构变了，多半是地域或路径配错了，而不是模型的问题。</p>"
+  },
+  {
+    "slug": "bailian-explicit-cache-ephemeral",
+    "title": "显式缓存要自己挂上去：cache_control 只认 ephemeral，账单看两处字段",
+    "summary": "在消息上标 cache_control 才开显式缓存，type 只有 ephemeral 一个值；用量里能看出命中量与五分钟档的创建量。",
+    "url": "https://help.aliyun.com/zh/model-studio/qwen-api-via-dashscope",
+    "category": "AI教程",
+    "date": "2026-11-14",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=help.aliyun.com&sz=64",
+    "is_new": true,
+    "content": "<h2>显式与隐式是两回事</h2><p>上下文缓存在这套协议里既有自动命中的部分，也有需要手动标记的部分。显式缓存要在消息上写 cache_control，它是一个对象，type 字段固定为 ephemeral，没有别的取值。也就是说显式缓存当前只有一种有效期类型，调用方选不了档。</p><h2>谁支持它</h2><p>文档写的是「仅支持显式缓存的模型支持」。这意味着一部分模型压根不看这个字段——传了不报错，但也不会产生任何缓存行为。判断办法不是看请求是否成功，而是看响应用量里有没有对应的创建记录。</p><h2>用量里怎么读</h2><p>输入 Token 的细粒度分类在 prompt_tokens_details 里，其中 cached_tokens 是命中缓存的 Token 数。另有 cache_creation 对象：ephemeral_5m_input_tokens 是用于创建五分钟有效期显式缓存的 Token 长度，cache_creation_input_tokens 是用于创建显式缓存的 Token 总长度，cache_type 在使用显式缓存时值为 ephemeral。</p><h2>字段缺失本身有信息量</h2><p>cache_type 不存在，就代表这次请求没有走显式缓存。如果代码里用默认值兜底成「没命中」，就会把「没启用」与「启用了但没命中」混成一件事，而这两者的处理方式完全相反——前者要改请求结构，后者要改内容布局。</p><h2>怎么设计缓存点</h2><p>缓存按前缀命中，所以要把稳定不变的部分放前面、易变的部分放后面，并在稳定段的末尾标上 cache_control。这要求提示词从一开始就按「稳定段加可变段」来组织；事后再想加缓存，往往要重排整段提示词，连带影响已经调好的效果。</p><h2>输出侧还有三个分项</h2><p>同层的 usage 里还有 text_tokens（输出文本的 Token 数）、reasoning_tokens（思考过程，仅推理模型返回）、audio_tokens（输出音频，仅音频输出模型返回）。把它与 cached_tokens 放在一起看，才能判断成本到底花在哪一段——是输入没缓存住，还是输出被思考过程吃掉了。</p>"
   }
 ]
