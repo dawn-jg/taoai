@@ -176,3 +176,18 @@ npm run build
     `include` 会变成什么都不覆盖、`exclude` 会变成覆盖全部。**做法：读参数表时专门抽一遍「omitted / null /
     empty array」三种输入，各自写一句后果，凑齐四五条就是一篇文章**，而且这类内容无法从界面截图里得到。
 
+30. **整批域名同时 000（连 baidu 都 000）是本地 TLS 栈故障，不是站点全死，必须换 node fetch 复核。**
+    第 190 批探活时 `curl` 对候选与 `www.baidu.com` 一并返回 000，若据此判定「50 条全部失效」会误伤；
+    同一时刻 `node -e "fetch(...)"` 对同一批 URL 返回 200/301 与完整 HTML。原因仍是 Git Bash 的 schannel 后端
+    （`SEC_E_CERT_EXPIRED` 等）与 TLS 1.3 处理，`--tls-max 1.2` 只解掉其中一部分。
+    **做法：探活先用 node fetch 跑一遍（并发少量、每条 10–12 秒超时），curl 只作为代理通道与取附件的补充手段；
+    两者结论不一致时以 node fetch 为准。** 反过来，若 node fetch 也 `fetch failed` 而 DNS 正常，
+    多半是目标证书过期（`SEC_E_CERT_EXPIRED`），属于站点自身故障，可作为素材缺失的依据。
+
+31. **压缩、技能、插件、部署四棵子树是「协议页 / 工具页 / 组织接口」之外的第五层素材，词汇体系几乎不重叠。**
+    第 190 批 20 篇全部出自 `build-with-claude/compaction-threshold`、`build-with-claude/skills-guide`、
+    `manage-claude/plugins-api`、`api/beta/deployments` 四页，与既有 700 篇 14 字滑窗（仅计 ≥8 汉字）重合 0、批内 0。
+    这四页写的是**生命周期与状态机**：两个指针谁跟谁、什么状态不给会员看、什么动作不可逆、哪个数字藏在
+    `usage.iterations` 里而不是顶层。**判据：一页里同时出现「两个 id 指针 / 一个不可逆动作 / 一组状态枚举」，
+    就能切 4 篇以上**；同一页切多篇时，把共用事实（如「每次上传产生不可变版本」）只放在最相关那篇详写，
+    其余篇一句带过。
