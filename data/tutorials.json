@@ -9678,5 +9678,205 @@
     "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
     "is_new": true,
     "content": "<h2>它是做什么的</h2><p><code>openclaw policy watch</code> 会重新运行检查，并在当前证据不再匹配 <code>expectedAttestationHash</code> 时报告出来。它比较的对象是那条稳定的证明值，而不是某次检查的时间戳——这也是为什么证明值要排除 <code>checkedAt</code>。加 <code>--agent ops</code> 可以把范围收窄到某个 agent。</p><h2>两种运行方式</h2><ul><li><code>--once</code>：只做一次漂移判定，适合 CI 与脚本。</li><li>不加参数：默认每两秒轮询一次，可以用 <code>--interval-ms</code> 改间隔。</li></ul><p>区间有一个很具体的天花板：大于 2,147,000,000 毫秒的间隔会被压到这个值，理由是避免定时器溢出。这个数字不是随便写的，它是 32 位有符号毫秒数的实用上限附近的取值，所以「设一个很大的间隔等于几乎不轮询」并不成立。</p><h2>被打断时的行为</h2><p><code>SIGINT</code> 与 <code>SIGTERM</code> 会立刻取消轮询等待。如果此时已经有一次评估在跑，watch 会等它结算，但不再打印另一份报告，然后分别以 130 或 143 退出。这两个码就是 128 加上信号编号。当输出管道被关闭，例如命令后面接了 <code>| head -n 1</code>，watch 也会以同样的方式停下，但退出码是 0。</p><h2>三条命令的退出码矩阵</h2><ul><li><code>policy check</code>：0 表示阈值内没有发现；1 表示有一条或多条发现达到阈值；2 表示参数或运行时失败。</li><li><code>policy compare</code>：0 表示策略文件至少和基线一样严；1 表示文件无效、缺失或比基线更弱；2 同上。</li><li><code>policy watch</code>：0 表示没有发现且已接受的哈希是当前的；1 表示有发现或已接受的证明过期；2 同上。</li></ul><h2>自动修复的边界</h2><p><code>doctor --lint</code> 与 <code>policy check</code> 都是只读的。<code>doctor --fix</code> 只有在显式开启 <code>workspaceRepairs</code> 时才编辑策略管理的工作区设置，否则它只报告「会修什么」并保持设置不变。开启之前要先评审策略文件，因为一条合法的规则可能真的改动工作区配置。</p><p>能被自动修的包括：把 <code>tools.elevated.enabled</code> 设为 false、补齐必须禁止的工具 id、关闭不安全的控制界面开关、把网关模式改成本地、关掉策略禁止的 HTTP 端点、把群组策略改成白名单、打开必须的提及门槛、以及关闭遥测内容抓取。反过来，网关绑定与节点命令这两类发现保持「需要复核」：<code>doctor --fix</code> 只会把建议的改动当作跳过的预览提示报出来，不应用修改，发现也不会算作已修复，直到操作者自己评审并更新配置或策略。</p>"
+  },
+  {
+    "slug": "openclaw-database-preflight-five-statuses",
+    "title": "换版本前先给数据库做一次体检：preflight 的五个状态",
+    "summary": "openclaw database preflight 拿一份拷贝出来的状态库与目标版本自己的 schema 契约比对，只给一个状态。exact 之外都不是放行信号，而带 -wal 兄弟文件的拷贝会让结果变成 indeterminate。",
+    "url": "https://docs.openclaw.ai/reference/database-schemas/storage-changes",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>它比的不是版本号，是目标版本自己的契约</h2><p>在激活或回滚一个版本之前，可以用目标版本自己的命令行对一份显式拷贝的状态库跑 <code>openclaw database preflight &lt;copied-state.sqlite&gt; --json</code>。这个命令不读默认状态目录，也不改你给的那份文件——它以不可变、只读的方式打开，然后拿目标版本运行时自己的 schema 契约去比对。所以「包版本号一样」并不等于「形状一样」，能证明形状的只有这条命令。</p><h2>五个状态分别意味着什么</h2><ul><li><code>exact</code>：拷贝库与目标版本的运行时 schema 一致。那些要等首次使用才建的功能局部表不算缺失，不需要修。</li><li><code>startup-repairable</code>：数字版本对得上，但还留着一处运行时拥有的加法差异，启动需要一次写入才能收敛形状。</li><li><code>migration-required</code>：库比目标版本旧。</li><li><code>incompatible</code>：库比目标版本新，或者同版本形状存在阻塞性漂移，例如多出一列。</li><li><code>indeterminate</code>：文件、完整性元数据或归属元数据无法核验。</li></ul><p>只有第一个状态是兼容性证明。其余四个都不该被当成「大概没问题」放过去，尤其 <code>indeterminate</code> 不是「未知所以要小心」，而是「输入本身不合格」。</p><h2>最容易踩的一处：拷了主文件却留下兄弟文件</h2><p>预检的输入必须是单个合并后的文件，不能有同级的 <code>-wal</code>、<code>-shm</code> 或 <code>-journal</code>。只要带上这些旁文件，结果就固定是 <code>indeterminate</code>。反过来说，从一个活动的 WAL 数据库里只复制主 <code>.sqlite</code> 文件是错的做法——那份拷贝缺了尚未检查点的内容，看起来文件齐全，实际不是同一个状态。正确姿势是用 SQLite 在线备份，或在源库被安全协调的情况下生成一个 WAL 感知的快照。</p><h2>agent 库要换另一条命令</h2><p>共享状态预检没法验证 agent 库。带 agent 读取器的运行时另外提供 <code>openclaw database preflight-agent &lt;copied-agent.sqlite&gt; --agent-id main --json</code>，要求用精确归一化后的 agent ID 和一个已解析的、非符号链接的常规文件路径。这条命令通过该版本的维护读取器校验完整性、两个 schema 版本标记、schema 形状与 agent 归属，全程不创建、不注册、不迁移、也不修复任何存储。同样要求合并文件、没有 WAL、SHM 或日志兄弟文件；返回里只有 <code>exact</code> 算兼容证明，其它结果非零退出且不需要任何写入。</p><h2>它没有授权你做任何事</h2><p>有一句边界值得单独记住：一次成功的只读预检并不授权重放检查点，也不授权替换正在活动的数据库。运行时与包的身份、以及服务是否健康，是另外两道独立的检查。反过来，把新版命令行装在别处，并不能让那些没有 <code>preflight-agent</code> 的旧保留负载变得兼容。</p><h2>什么时候该跑</h2><p>文档给的场景很窄：激活或回滚某个版本之前。日常运维不需要它，因为它专门用来回答一个只有换版本时才存在的问题——这份库交给那个版本，会不会签下它不认识的形状。<code>openclaw database preflight</code> 的 JSON 输出带自己的标识 <code>openclaw.state-schema-preflight.v1</code>，脚本里按这个字段判断结果比按退出码更稳。</p>"
+  },
+  {
+    "slug": "openclaw-trajectory-brotli-three-gates",
+    "title": "轨迹负载压缩的三道闸：1 KiB、10% 与 256 KiB",
+    "summary": "OpenClaw 的轨迹写入器在事务之前准备 Brotli quality 3 负载，但只有同时越过体积、节省比例与上限三道闸的值才真的被压缩，超过 256 KiB 的反而保持文本。",
+    "url": "https://docs.openclaw.ai/reference/database-schemas/storage-changes",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>压缩发生在事务之前</h2><p>轨迹写入器 worker 会在它既有的那个事务开始之前，先把负载压成 Brotli quality 3。这个顺序不是细节问题：事务回调是同步的，里面不能 await，所以任何异步准备工作都得提前做完。压缩属于典型的异步准备，放进事务里就等于把整个写路径卡住。</p><h2>三道闸，缺一不压</h2><ul><li>体积下限：小于 1 KiB 的值不进压缩流程。小值压完可能更大，还多一次解码开销。</li><li>节省门槛：只有至少省下 64 字节、并且至少省下 10% 时才算数。两个条件同时成立才压，所以「省了 70 字节但只省 3%」不会通过。</li><li>体量上限：大于 256 KiB 的值保持文本。这一档显然不是为了省空间，而是避免在读取侧引入一次沉重的解码。</li></ul><p>这三条一起看，能看出设计取向不是「尽量压小」，而是「压了确实划算才压」。容易被忽略的是中间那条的两个条件必须同时满足——只要有一个不满足，值就以原文落库。</p><h2>压缩行怎么知道自己被压过</h2><p>新写入的行会同时存一个 codec 标记，以及压缩前那份文本精确的 UTF-8 逻辑长度。有了这两个东西，读取侧不必对整行做 JSON 反序列化就能还原原始字符串：按标记选解码器，按逻辑长度校验结果。窄投影还会在 SQLite 内部就地解码，这样诊断类查询不需要把整个事件体搬出来再丢掉大半。</p><h2>迁移期间旧行一条都不动</h2><p>这次变更的迁移保留所有旧的文本行原样，只把保留索引的表达式换成 <code>COALESCE(event_utf8_bytes, octet_length(event_json))</code>。这个表达式的作用是让新旧两种形状都能被同一个索引覆盖：压缩行有逻辑字节数，未压缩行按 JSON 的字节长度算。于是保留逻辑上的历史上限一点没变，也没有急切的批量转换，更没有新增的 worker 请求。</p><h2>跨引擎时谁负责解码</h2><p>原生 PostgreSQL 用原始 JSON 文本加 TOAST，不参与这套编码；引擎移植在把 SQLite 的压缩行复制出去之前先解码。换句话说，压缩是 SQLite 侧的存储细节，不是上层协议的一部分。</p><h2>排障时可以顺手确认的一件事</h2><p>如果你看到某个事件的体积统计与它在界面上的内容长度对不上，先确认统计的是逻辑字节还是落盘字节。压缩行同时具备两个数字，而保留策略按逻辑字节计——拿落盘字节去对保留窗口，会得出「保留期比文档写的短」的错觉。</p>"
+  },
+  {
+    "slug": "openclaw-trajectory-retention-covering-index",
+    "title": "一条覆盖索引替掉临时聚合：31–40 毫秒与多出来的 1.06 MiB",
+    "summary": "轨迹保留读不再先做物化聚合，而是直接从 (session_id, run_id, created_at, octet_length(event_json)) 这条覆盖索引上汇总。代价是索引大了约 1.06 MiB，收益是同一批分组从四百多毫秒降到三四十毫秒。",
+    "url": "https://docs.openclaw.ai/reference/database-schemas/storage-changes",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>问题出在「先聚合再删」</h2><p>轨迹保留要按轮统计字节数，才能决定删哪些。原来的做法依赖一个派生索引 <code>idx_agent_trajectory_runtime_run</code>，读侧还得先做一次物化聚合。这次变更把它换成 <code>(session_id, run_id, created_at, octet_length(event_json))</code> 四列的组合，保留读 worker 直接从这条覆盖索引上汇总，而且整个过程发生在追加事务之外。</p><p>关键是「覆盖」二字：聚合需要的列全在索引里，查询不必回表读事件体。文档明确要求证明这一点——回归证明会捕获保留读的聚合计划，要求它是覆盖访问，既不能有临时分组，也不能读表体。</p><h2>没有引入任何新的持久化角色</h2><p>这次改动刻意避开了一长串常见做法：没有物化的事件体积暂存表，没有汇总表，没有触发器，没有计数器，没有第二条索引，也没有新的持久化 owner。只改索引，所以在 agent schema 24 上属于仅索引变更，不升 schema 版本号，也不转换任何事件行。</p><h2>重建怎么落地</h2><p>可写准入会通过必需的索引 owner 原子地修复同名索引，并带上它既有的完整性检查。一次性重建读取保留的轨迹行，在一个保存点内把替换索引建完；失败回滚就恢复旧索引。网关启动时把这次修复延后到 agent 准备 worker，等监听端口绑定之后再做，避免拖慢启动。</p><p>降级与二进制回滚是另一侧：旧的同版本可写 owner 能重建它们原先的部分索引，同样不动事件行。严格的只读校验可能要求先完成这次可写修复才能重新打开库。</p><h2>数字是怎么来的</h2><p>文档给了一组组件级测量，用的是合成夹具：241,697 个事件、3,836 个分组。走覆盖索引聚合是 31–40 毫秒，走原来的分阶段查询是 407–453 毫秒，两边的分组结果完全相同。索引体积从旧部分索引的 6,598,656 字节涨到 7,712,768 字节，多出约 1.06 MiB。另有一个热态 320 行的插入/回滚探针，两种形状都在 0.7 毫秒左右，不含提交、缓存驱逐与检查点放大。</p><p>文档自己标注了这组数字的边界：它们是组件测量，不是生产吞吐，也不构成端到端停顿保证。引用这些数的时候如果不带这句，就会把一次索引实验说成容量承诺。</p><h2>保留语义一条没动</h2><p>改的只是读取路径。14 天的年龄规则、整轮驱逐、当前会话豁免、512 MiB 的默认全局预算、JSONL 分隔符计账、以及既有的数据库编码语义全部保留，按会话修剪仍以 UTF-8 字节计。删除事务的批次上限是 16 轮与 10 MiB，并且允许一个超大的完整轮单独通过。删除前只在写准入下复核被选中的那一批：轮身份、最新时间戳、字节数、事件数与受保护的会话。</p>"
+  },
+  {
+    "slug": "openclaw-worker-thread-execution-owner",
+    "title": "把查询搬进 worker 还不够：主线程该保留什么",
+    "summary": "OpenClaw 规定运行时 SQL 一律在 worker 里跑，网关主线程只 await 结果并安装已发布事实。例外只有四类，而已经存在的主线程访问算遗留——不得新增，改到哪迁到哪。",
+    "url": "https://docs.openclaw.ai/reference/database-schemas/worker-access",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>一条硬规定与它的四个例外</h2><p>运行时 SQL 归 store 既有的 worker：只读 worker 范围与 SQLite 写者代理。它绝不在网关主线程上跑。主线程只做两件事——await 操作结果，以及安装已经发布的事实。</p><p>例外只有四类：启动准入、迁移、Doctor 与 CLI 的一次性操作、锁原语。这四类的共同点是「此刻还没有可以复用的 worker」，或者「必须独占」。除此之外，主线程碰数据库都算违例。</p><p>还有一句容易被读漏的话：已经存在的主线程访问被定义为遗留路径，规则是不得新增、迁到哪就迁到哪。它没有给存量开一个「保持原样」的口子。</p><h2>为什么「搬过去」不等于「搬对了」</h2><p>文档开篇就提醒：把一条查询挪进 worker 并不够。真正要做的是复用那些事实、把相关工作批量化，让普通请求不重复打数据库。换句话说，worker 化解决的是「谁执行」，而重复查询解决的是「执行几次」——后者不会因为换了线程而自动变好。</p><h2>完整性检查只做一次</h2><p>SQLite 的格式、schema、完整性、索引与表检查，是按每个物理库每进程加载一次来做的，跨 worker 与句柄共享。规则很直接：不得新增重复检查，改到就顺手删掉。干净关闭的封印会跳过启动校验，而 Doctor 与显式验证保留检查。</p><h2>缓存失效与未覆盖的读</h2><p>网关拥有每一个数据库与状态。写者回执负责让缓存失效，而没有被回执覆盖到的读保持直读。这里有一条明确的禁令：不要做外部提交探测，改到就删。证据不完整时，正确做法是向读 worker 要一份新的快照，而不是改成写者持有的扫描，也不是加一个探测去猜。</p><h2>完整性检查与缓存预热是两回事</h2><p>前者回答「这个库还能不能用」，后者回答「读起来快不快」。它们各有自己的预算与触发条件，也各自可能产生维护警告，但不能互相顶替。把一次失败的驻留采样当成库损坏，或者把一次通过的结构检查当成缓存已热，都是把两条线搅在一起。</p><h2>这条规定针对的是什么</h2><p>主线程一旦同步等数据库，整个网关的事件循环一起停——包括正在跑的对话、正在推的流式输出、正在处理的心跳。所以这条架构规则不是为了代码整洁，而是为了让「一个慢查询」最多拖慢一个请求，而不是拖慢所有人。</p>"
+  },
+  {
+    "slug": "openclaw-write-receipts-uncovered-reads",
+    "title": "写回执只覆盖它盖到的那部分读",
+    "summary": "写者回执让相关缓存失效，但没被覆盖的读仍走直读。覆盖不完整时唯一正确的动作是向读 worker 要新快照，而不是改成写者扫描，也不是加一个外部提交探测。",
+    "url": "https://docs.openclaw.ai/reference/database-schemas/worker-access",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>回执不是「全局失效开关」</h2><p>这套机制的名字容易造成误解。写者回执的作用是让它确实覆盖到的那部分缓存失效；没有被覆盖的读，按设计继续保持直读。所以出现「刚写完，某个读还是旧值」时，先要问的是那次读在不在覆盖范围内，而不是先怀疑回执坏了。</p><h2>覆盖不完整时的三条禁令</h2><ul><li>不要把它改成写者持有的扫描。写者持锁扫表会把写路径和读路径绑在一起，代价随表增长。</li><li>不要加外部提交探测。探测本身也要一次查询，还会引入跨进程的时序假设。</li><li>不要靠重试猜。重试只能掩盖没被覆盖这件事，不能让它变成被覆盖。</li></ul><p>唯一允许的动作是向读 worker 取一份新的快照。文档把这句写得很硬：覆盖不完整需要新快照，绝不需要写者扫描或外部提交探测。</p><h2>一次扫描只刷新一次</h2><p>每次扫描只允许刷新一次。如果刷新后仍然不完整，就把清理留到下一次追加时再做，而不是当场再刷。已提交的删除在刷新后依然存活——刷新不会把删掉的东西变回来，这也是这套设计敢用「保守刷新」的前提。</p><h2>取消与连接替换会让回执作废</h2><p>共享的租约围栏在取消或 owner 释放时让回执失效；原生连接被替换后也不能复用旧回执。这条规则解释了一类看起来矛盾的现象：同一进程、同一份数据，重启一次某个操作之后，之前拿到的结论突然不被承认了——因为承载那份结论的连接已经不是同一个。</p><h2>元数据补丁只推计数器</h2><p>会话元数据补丁在所有补丁自己的写完成之后，才推进回执里那个已提交变更计数器。它保留轨迹行，并复用本轮扫描已准备好的轮摘要，不再做一次聚合。接受这份「仅元数据」回执之前，owner 修订与租约检查照旧生效。</p><h2>重叠写入为什么不会被漏算或重算</h2><p>owner 用这些回执替换受影响的快照会话，所以与快照创建重叠的写入既不会丢，也不会被计两次。字节与过期事实按批结算，不必等一次无写的读。回滚之后不发布任何回执——这一点很关键，否则回滚过的操作会留下「已覆盖」的假象。</p><h2>嵌套追加的特殊处理</h2><p>嵌套的同步追加会把清理延后到一次独立的追加，而不是在当前嵌套层里就地清理。原因是清理本身要一批有界的删除与复核，把它塞进一个已经在事务里的调用栈，等于让最内层决定最外层的预算。</p>"
+  },
+  {
+    "slug": "openclaw-sync-transaction-reread-authority",
+    "title": "事务回调里不能 await：先备好输入，再重读权威行",
+    "summary": "OpenClaw 的写事务回调是同步的。个人账户变更、审批操作这类路径在 BEGIN IMMEDIATE 之前先拿初始授权，进事务后重读权威行，把异步准备全部提到事务外面。",
+    "url": "https://docs.openclaw.ai/reference/database-schemas/worker-access",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>一条不能商量的规则</h2><p>写事务的回调是同步的，里面不能有 Promise，也不能 await。这条规则在文档里出现了不止一次，措辞是「先规划异步工作，再重读权威行，然后写」。顺序不能倒：反过来先写再补异步准备，等于在一个已经持有写锁的事务里做网络或文件 I/O。</p><h2>初始授权放在 BEGIN IMMEDIATE 之前</h2><p>个人账户变更、审批操作、auth 授权登记与 auth 用量写入这几条路径，都是在 <code>BEGIN IMMEDIATE</code> 之前先取得初始的 host grant。这样安排的理由写得很清楚：一个忙碌的 host 因此不能在整个初始准入期间占住写者；而提交准入仍然保有事务托管。</p><p>进了事务之后要做的第一件事是重读权威行，并保留最终的提交授权。为什么重读？因为准入时读到的行，可能在拿到写锁之前已经被别人改过。重读是为了让「我基于什么做的决定」与「我现在要写的」处在同一个快照里。</p><h2>一条语句能表达的，就不要拆成读改写</h2><p>能用一条语句表达变更时，用条件更新或 upsert。拆成「先读、再判断、再写」不仅多一次往返，还多了一个判断与写入之间的窗口。相关读如果必须彼此一致，就显式保留一个快照，而不是靠两次独立查询碰运气。</p><h2>单语句路径与事务路径的分工</h2><p><code>runSqliteSingleStatementSync</code> 走 SQLite 的自动提交，并带上已提交事实的发布。PostgreSQL 的写入仍然用 <code>runTransaction</code> 来获得写者托管。两条路不是新旧关系，而是按语句数量与引擎能力分工——把单语句硬塞进事务，或者把多语句放进自动提交，都会丢东西。</p><h2>哪些查询该留在 SQL 里</h2><p>文档专门点了一类反模式：为了限长而把 JSON 投影搬到 TypeScript 里做。选出完整的转录正文或二进制块，再在应用层丢掉大部分字段，带来的是传输与解析两份开销。这类引擎相关的投影应该留在引擎自己的辅助函数后面。</p><h2>签名目录与未签名目录的差别</h2><p>未签名的外部插件目录只用一次 upsert，不重读当前快照。已签名的目录则必须把回滚与同义冲突检查留在写者事务里。同样是「更新目录」，一个有来源可信度需要核，一个不需要，所以两者的读量本来就不该一样。</p><h2>会话写入器不重读自己那行</h2><p>会话写入器校验它已经持有的那个序列化节点，并把最终有效性随条目一起落库。它不会把自己那行重新入队或重读一遍去做认证。这是同一原则的另一面：事实该由谁持有，就在谁那里校验，别为了「再确认一次」多开一次往返。</p>"
+  },
+  {
+    "slug": "openclaw-final-authority-four-publications",
+    "title": "提交之后再查一次：四种发布状态各自的拒绝方式",
+    "summary": "缓存的数据与权限是两份契约。凭据、审批、命令执行与跨用户披露必须在效果边界上持有当前权威，而这份权威由一个四态发布模型表达：pending、committed、unknown、settled。",
+    "url": "https://docs.openclaw.ai/reference/database-schemas/worker-access",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>两份契约，不能混着用</h2><p>缓存数据回答「这个值是什么」，权限回答「现在能不能做」。文档把这条分界写在最前面：凭据、审批、工具与命令执行、外部副作用、跨用户披露，都需要在效果边界上持有当前由 owner 掌握的权威，而且是在那些 await 过的准备完成之后。</p><p>有一个实现上的好消息：当写者覆盖是完整的，这道最终守卫是一次同步的内存读——既不查 SQL，也不做 worker 往返。所以「每次都重新校验」在这里并不意味着「每次都查库」。</p><h2>四种状态，四种处置</h2><ul><li><code>pending</code>：在派发这次变更之前就拒绝受影响的用法。</li><li><code>committed</code>：先把已提交的后像或删除装上去，再解除拒绝。</li><li><code>unknown</code>：让受影响的事实失效，并保持拒绝，直到 owner 恢复。</li><li><code>settled</code>：只移除本次操作自己的 pending 标记，不清除不确定性，也不清除别人的拒绝。</li></ul><p>第三与第四条最容易写错。unknown 不是「等一等就好」，它要求继续拒绝；settled 也不是「一切恢复正常」，它只收拾自己那一份标记。把 settled 写成「清空所有标记」，就等于让一次无关键的结束把别人的拒绝一起擦掉。</p><h2>回滚与回复丢失是两件事</h2><p>确认过的回滚保留上一份已提交事实。而回复丢失不是回滚的证据，不得据此盲目重放。这一条对任何「重试一次应该没事」的直觉都是一个反例：没收到回复说明你不知道结果，不说明结果是失败。</p><h2>什么时候不该发布 pending 拒绝</h2><p>执行白名单的 last-used 写入是一个刻意留出的例外：它保留回执与取代关系跟踪，但不发布 pending 拒绝。理由是记录「上次使用时间」这类元数据，不能撤销另一个命令的授权。相对地，策略编辑与持久的 allow-always 授权会发布 pending 拒绝；unknown 结果仍然让策略视图失效。</p><h2>准入时权威与当前权威</h2><p>Board 用的是准入时权威：在撤销之前已被准入的写可以完成，新写被拒绝。但目标生命周期与私有内容披露仍然要求当前权威。这两句话放在一起才是完整的规则——不是「写一旦准入就完全免疫撤销」，而是「写可以跑完，但它能碰的东西仍受当前权限约束」。</p><h2>这套设计承认自己有覆盖不到的地方</h2><p>原生写入器还没有发布完整权威事实的那些 owner，会保留各自文档里写明的最终守卫，直到切换完成为止。换句话说，同一套规则在迁移期是分层的：有覆盖的走同步内存读，没覆盖的走各域自己的守卫。判断某个行为对不对，得先看它落在哪一层。</p>"
+  },
+  {
+    "slug": "openclaw-agent-schema-number-gaps",
+    "title": "schema 版本号为什么会跳号，dry-run 又看不到什么",
+    "summary": "agent schema 从 1 走到 41，中间缺了 3，而 2、4、5–6、7 都只是开发期中间态。已装版本的 openclaw update --dry-run 不会揭示目标版本的迁移计划，回滚也不是重装旧包就能完成。",
+    "url": "https://docs.openclaw.ai/reference/database-schemas/agent-schema-history",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>版本号是发布事实，不是编码顺序</h2><p>agent schema 历史表里，每个版本都标了「首次发布于」哪个发布标签。看这张表最容易产生的两个误解，一个是「号是连续的」，另一个是「号大就更新所以可以随便升」。</p><p>号并不连续。版本 3 是一个没有发布的开发步骤，被并进了版本 4。版本 2、4、5–6、7 都是仅存在于开发期的中间态，它们的改动随 schema 8 一起首次出现在 <code>v2026.7.2-beta.1</code> 里。而 schema 1 最早出现在 <code>v2026.5.30-beta.1</code>，扩展稳定版 <code>v2026.7.35</code> 也写过它。所以「我装的是 7」这句话本身不能定位到任何发布版本。</p><h2>Unreleased 是一个精确的含义</h2><p>表里有一批版本标着 <code>Unreleased</code>，从 25 到 41 都有。这个词有明确定义：稳定标签与 beta 标签里都还没有这次改动。它不是「快发布了」，也不是「内部测试中」，而是「公开标签里查不到」。拿这张表规划升级时，把 Unreleased 当成「已经可用」是最常见的误读。</p><h2>dry-run 看不到目标版本的迁移计划</h2><p>文档有一句很值得抄下来的警告：已安装版本的 <code>openclaw update --dry-run</code> 并不揭示目标版本的迁移计划。原因是这条命令由当前的二进制执行，它能报告的只是自己知道的东西。要看目标版本会做什么，得读目标版本的历史。</p><h2>回滚不是重装旧包</h2><p>旧构建会拒绝比自己更新的 schema。所以回滚需要两样东西同时到位：一份验证过的升级前备份，以及与之配套的那个构建。只把旧包装回去，库还是新的，启动会被拒绝——这不是故障，是设计。</p><h2>哪些老库还能升，哪些已经不迁了</h2><p>已发布的 schema 1 库里装的是 cache、auth 与 memory 数据，没有 SQLite 会话表，这类升级仍在支持范围内。而更早的开发布局——带会话表且 schema 版本低于 8、还有 <code>session_transcript_files</code> 缓存和基于 session-key 的转录搜索索引——已经不再迁移。Doctor 会保留这些库并在修复前拒绝。schema 8 及之后的会话迁移仍在支持范围内。</p><h2>遇到不再迁移的库该怎么做</h2><p>文档给的流程是：保留状态目录与配置的完整拷贝，包括共享的 agent 注册；在这份拷贝上用 <code>2026.9.7</code> 的 OpenClaw 跑 <code>openclaw doctor --fix</code>；如果 Doctor 因为归属无法核验而持有某个 store，就按它报告的显式 agent 恢复说明处理，然后再跑一次 Doctor，之后才升这份拷贝。</p><h2>为什么值得看懂这张表</h2><p>因为它把「升级」从一个动作变成了一次判断：你要升到的那个版本，它的迁移计划写在它自己的历史里；你手上的库属于哪一代布局，决定了它是在支持范围内还是只能保留。<code>openclaw database preflight</code> 能回答「形状对不对」，这张表回答的是「为什么会变成这个形状」。</p>"
+  },
+  {
+    "slug": "openclaw-update-ledger-16kib-and-drivers",
+    "title": "更新账本的三条边界：16 KiB、8 个身份与一个不可撤销的标记",
+    "summary": "update_runs 每次更新存一行，每个 JSON 列硬上限 16 KiB，驱动身份最多记 8 个，而抓不到进程身份时留下的那个标记会永久把这条运行排除在自动对账之外。",
+    "url": "https://docs.openclaw.ai/reference/database-schemas/layout",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>这张表记什么，不记什么</h2><p><code>update_runs</code> 在共享的 <code>state/openclaw.sqlite</code> 里，每次更新一行。写入方包括准入的网关、编排命令行，以及重启后的网关。它在共享 schema 15 上是加法变更：当前 schema 声明了它，首次使用时在同一个写事务里创建，已有表与版本号都不动，旧的读取器直接忽略它。</p><p>行里保留的东西不少：创建与更新时间、触发方式、阶段、状态、原因、来源、目标、升级前后版本、步骤、验证事实、修复尝试次数、确认与完成时间、已知停机。但有一条明确的自我限制——它存的是有界的诊断摘要，不是原始日志，也不是凭据。</p><h2>16 KiB 是硬上限</h2><p>每个 JSON 列都有 16 KiB 的硬上限，配固定的截断规则与脱敏规则。这不是「建议别写太长」，而是超出就会被截断。排障时如果发现某个步骤的细节莫名其妙地少了一截，先量一下那一列的大小，再去怀疑记录逻辑。</p><p>另一条常被忽略：账本没有自动的历史删除。它不会自己变干净，清理是需要人做决定的事。</p><h2>驱动身份最多 8 个</h2><p>新的驱动会把 <code>host</code>、<code>pid</code> 与 <code>startIdentity</code> 写进既有的 <code>origin_json</code> 列。每个收养者成为当前驱动，并把之前那些不同的身份留在 <code>origin.previousDrivers</code> 里。总身份数上限是 8 个。</p><p>满了怎么办？只修剪确证已死的身份；如果到上限时仍然要收养一个新驱动，系统会拒绝这次收养，而不是丢掉一个活着或无法检查的驱动。这个取舍很直白：宁可少记一个，也不误删一个可能还在跑的进程。</p><h2>那个不可撤销的标记</h2><p>如果本机进程身份根本抓不到，收养会继续，但会留下一条警告和一个 <code>driver:identity-unavailable</code> 步骤。麻烦在这里：这个标记会永久把该次运行排除在自动对账之外，即使后来已知的父进程退出了也不行。已有的、记录下来的身份仍然受保护。</p><p>换句话说，「抓不到身份」不是一次可恢复的降级，而是一次降级后不可逆的定性。遇到它，正确做法是按不带身份的那条遗留的显式修复与取代规则走，而不是等下一次自动对账把它捡起来。</p><h2>候选准入的元数据不授予权限</h2><p>候选准入会在既有的 <code>origin_json</code> 里加可选的 <code>origin.admission</code>：<code>owner</code>（candidate 或 installed）、可选的 <code>protocol</code>、<code>candidateVersion</code>、<code>checks</code> 与 <code>fallbackReason</code>。读取时以 <code>run.admission</code> 暴露同样的字段。文档专门写了一句：这些观察不授予执行权限。它们只是记录「当时是怎么判的」，而不是「判过就可以做」。</p><h2>别把两个 pid 搞混</h2><p><code>verification.pid</code> 指的是网关服务，不是更新器。把这两个当成同一个，会导致「更新器明明退出了，账本还说它在跑」这类误判。</p>"
+  },
+  {
+    "slug": "openclaw-linux-page-cache-warming-budget",
+    "title": "页缓存预热的两本预算：16 MiB/s 与每库三分钟",
+    "summary": "网关在就绪后采样 Linux 文件缓存驻留，每 15 分钟复检一次。冷样本会触发一轮后台预热，它有字节速率、单轮总量与单库时长三重限制，而且计时结果不代表一次 chat.history 请求的全貌。",
+    "url": "https://docs.openclaw.ai/reference/database-schemas/layout",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>采样做的是估算，不是逐页盘点</h2><p>就绪之后，网关会采样 Linux 文件缓存的驻留情况，并且每 15 分钟再查一次。一次采样最多观察 256 个文件页，而且不读它们的内容。所以它给出的是整个文件的驻留估算，不是每个热查询的驻留情况。其它平台不跑这项维护。</p><p>采样需要对该文件的有效写权限。没有权限时，Linux 会把驻留报成全缓存，于是采样会产出一条维护警告，而不是一个驻留估计。看到「驻留 100% 但有警告」这种组合，原因就在这里。</p><h2>什么触发了预热</h2><p>两种情形：一次冷样本（低于 80%），或者一次慢的有界会话投影读。预热走一个独立的只读 SQLite worker，共享状态顺序读。</p><h2>agent 侧预热的具体挑选规则</h2><ul><li>最多预热 4,096 条七天内更新过的会话投影，以及它们历史元数据索引的有界区间。</li><li>投影值大于 256 KiB 的直接跳过。</li><li>元数据之后，预热 48 小时内更新过的会话里最新的 32 条活动消息，最新的会话优先。</li><li>负载读取每批 8 条，大于 64 KiB 的存储 JSON 或压缩值跳过；压缩消息不解码。</li><li>冷快照值与更旧的转录负载不扫描。</li></ul><p>这几条合起来说明预热的目标很窄：它要热的是「刚发生的对话」，不是「全部历史」。所以一次预热跑完之后，翻很旧的历史仍然可能读盘，这是预期行为。</p><h2>三重预算</h2><p>速率目标是 16 MiB/s；一轮的总量预算是 2 GiB，或者每个库 3 分钟，谁先到谁停。每完成一次有界读就再查一次字节预算，所以预算不会被一条大查询越过。最后一个块可以略微超出字节预算——这是分块投递的必然结果，不是漏洞。</p><p>每个有界查询在让出之前就跑完，因此这种节奏控制并不持有 SQLite 读事务。进度按约 1 MiB 一块上报，而不是每个会话或每批消息报一次，这样小读与它们的分配都留在 worker 里。</p><h2>关闭时会怎样</h2><p>关闭会取消并 join 那个 worker，一轮结束后不留下页映射或读快照。这意味着预热是可丢弃的：它只影响下一次读是命中缓存还是读盘，不影响任何已提交的数据。</p><h2>那组计时数字的边界</h2><p>启动诊断里会包含采样范围、进度、逻辑读字节、磁盘字节、预热的负载字节与消息数，以及预热前后的有界投影查询计时。文档特意提醒：这些计时不衡量完整的 <code>chat.history</code> 请求。把预热后的查询计时当成用户感知到的历史加载时间，会低估真实开销——更旧的历史、超大消息与冷快照仍然可能需要读盘。</p>"
+  },
+  {
+    "slug": "openclaw-composer-draft-two-budgets",
+    "title": "草稿的 40 MB 与 50 MB：超预算时先丢附件，永不丢文字",
+    "summary": "iOS 与 macOS 的输入框草稿存在同一个 client-state.sqlite 里。单条草稿的附件上限 40 MB，同一网关的所有草稿共享 50 MB，而超预算时的回收顺序是「先删别人的附件，不删任何文字」。",
+    "url": "https://docs.openclaw.ai/reference/database-schemas/personal-data",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>草稿为什么会落盘</h2><p>iOS 与 macOS 的聊天输入框把每个会话未发送的文字与附件放在同一个 <code>client-state.sqlite</code> 里，于是草稿能扛过应用重启、终止与崩溃。两张表由加法型的 GRDB 迁移 <code>client-state-composer-drafts-v11</code> 建立，而且都是 <code>STRICT</code> 表。</p><ul><li><code>composer_drafts</code>：每个 <code>(gateway_id, draft_key)</code> 一行，含文字、上次保存时的编辑器 <code>revision</code> 与 <code>updated_at</code>。</li><li><code>composer_draft_attachments</code>：按 <code>(gateway_id, draft_key, position)</code> 存类型、MIME、文件名、负载字节与可选的时长，随草稿一起删。</li></ul><h2>草稿键是「带 agent 的会话键」</h2><p>这一条决定了什么时候能写。草稿在 agent 已知之前不读也不写；对 <code>main</code> 与 <code>global</code>，还要等网关路由契约确定。在此之前用户敲的字留在内存里，包括跨会话切换。加载时，先敲的文字会追加到已存的草稿上——不是覆盖。</p><h2>两个预算，两条不同的回收规则</h2><p>单条草稿最多带 40 MB 附件，与一条排队消息的上限一致。同一个网关上的所有草稿共享 50 MB。超预算时的动作被写得很具体：先移除其他草稿的附件，而且挑最近最少更新的那条，文字一律不动。</p><p>这个顺序值得留意。换成「删最旧的那条草稿」也能把空间收回来，但那会让用户丢字；而附件通常是可以重新选的，文字不行。所以预算吃紧时牺牲的是可重获的东西。</p><h2>保存时机各平台不同</h2><p>文字保存要等一个短暂的输入停顿；附件在加入或移除时立刻写。iOS 在应用进入后台时立即保存，macOS 在退出前保存。保存失败时文字留在内存，包括跨会话切换；下一次保存会重试。附件保存失败会阻止切换会话，直到它被保存、发送或移除——因为切走之后那份附件就没地方放了。</p><h2>发送与清空</h2><p>发送会清掉草稿：排队发送在排队那条消息的同一个事务里清，直接发送则立即清。两个窗口编辑同一个会话的草稿时，后写的胜。</p><p>草稿没有定时过期。键变得不可达的草稿——例如它所属的 agent 被移除——也会留到网关 Forget 为止。Forget 在既有的不可逆移除事务里删除该网关的草稿；而如果用户跑的是不认识这两张表的旧构建，会由 <code>composer_drafts_forget</code> 触发器代劳。</p><h2>哪些客户端不用它</h2><p>分享扩展与手表不使用输入框草稿。手表有自己的消息日志，那是另一套存储与另一套截止时间。分清这两套东西很有用：手表那边的重放窗口是 48 小时，草稿这边则完全没有时间维度的清理。</p>"
+  },
+  {
+    "slug": "openclaw-watch-journal-48h-and-hash-receipts",
+    "title": "手表消息日志：48 小时的重放窗口与一份不会过期的哈希回执",
+    "summary": "新命令与它们的回复重放有一个不可变的 48 小时截止，而旧版导入留下的只有哈希的回执没有定时过期。同一张表里，两种记录的生命周期完全不同。",
+    "url": "https://docs.openclaw.ai/reference/database-schemas/personal-data",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>这张表归谁</h2><p>iPhone 上既有的 <code>client-state.sqlite</code> 拥有 <code>watch_message_journal</code>。具名迁移 <code>client-state-watch-message-journal-v9</code> 建了这张表，同时给 <code>gateway_routing_identity</code> 加了一个可空的 <code>watch_route_generation TEXT</code> 列。手表侧的聊天也有自己应用内的存储，它不改网关控制面或 agent 库的 schema，<code>openclaw doctor</code> 也不迁移它。</p><h2>路由代际：旧配对的迟到回调不能变成新工作</h2><p><code>watch_route_generation</code> 在 Forget 与重新配对之后变更。有了这一列，来自旧配对的迟到回调或排队命令就无法被当成新工作执行。这是「不可逆动作之后，旧世界的消息一律作废」这类设计的标准形状，只是它落在了一个字符串列上。</p><h2>哈希存在的意义</h2><p>表里有一个可空的 <code>command_fingerprint BLOB</code>，存每条已准入命令归一化序列化字节的 SHA-256。关键在 Dismiss 的行为：它保留这个哈希。于是「复用同一个 ID 但换了内容或提交时间」不会拿回原来的结果，即使命令文本已经被清掉了。哈希随行过期或被 Forget 移除；旧版导入的记录没有命令指纹。</p><h2>两种生命周期，别混着算</h2><ul><li>新命令与它们的回复重放：不可变的 48 小时截止。Dismiss 只是把已完成的卡片藏起来，不改回执、不改确认状态、也不改这个截止时间。活动中的投递不能丢弃也不能 Dismiss。</li><li>旧版导入的哈希回执：没有定时过期。它比导入的文本活得更久，所以同一份旧快照不可能把已删除的文本复活。这类存储按旧 ID 增长，只有完整的重新引导重置才会清掉——重置会先清旧 UserDefaults，再删客户端状态。</li></ul><p>过期副本在下一次使用投递状态时才修剪，包括打开手机的投递列表。所以一个挂着或没被打开的应用并不承诺到点就抹掉；它承诺的是「下次用的时候不再有」。</p><h2>无法证明的文本去哪</h2><p>旧手表 UserDefaults 在手机准备日志时被解码，并在一个 SQLite 事务里对账。导入的行与它们的哈希回执一起提交，之后才检查两个来源 blob 是否未变。这也顺带恢复了「降级后旧应用写下的消息」。无法证明的排队文本会变成 <strong>Needs review</strong>，绝不自动发送。ID 冲突、或者与一个此前被 Forget 的网关相关却从未见过的消息，会保留源数据并抛出一个恢复错误，而不是丢弃或改投。</p><h2>90 秒与两分钟不是一回事</h2><p>手表拥有自己出站命令与已收结果的那份 SQLite 日志。一个 90 秒的语音超时并不会移除这份投递状态，也不会取消远端运行。两个应用都在发出应用层准入或最终回执之前先提交。永久拒绝明确不构成准入，因此不在手机日志里产生行。如果派发在一次被接受运行被记录之前变得含混，恢复会报告不确定性，而不是自动再执行一遍消息。</p><h2>关于持久性的诚实说明</h2><p>手机保留当前的 WAL 策略。文档把这层保证说得很清楚：这是应用终止恢复，不是断电持久性承诺。最后一点也值得记住：不要为了降级去删迁移标记或重置 <code>client-state.sqlite</code>，那个文件里还装着其他属于用户的客户端状态。</p>"
+  },
+  {
+    "slug": "openclaw-sessionkey-vs-sessionid-reset",
+    "title": "sessionKey 与 sessionId：重置只是在旧会话里画一条线",
+    "summary": "sessionKey 是会话桶，sessionId 是当前那份转录的身份。/new 与 /reset 在已存在的会话里记录一条重置边界并保留原 sessionId，而默认情况下根本不会自动重置。",
+    "url": "https://docs.openclaw.ai/reference/session-management-compaction/schema",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>两个东西，两个层次</h2><p><code>sessionKey</code> 回答「你在哪个对话桶里」，它同时编码路由与隔离。常见的几种形状：主/私聊是 <code>agent:&lt;agentId&gt;:main</code>；群组是 <code>agent:&lt;agentId&gt;:&lt;channel&gt;:group:&lt;id&gt;</code>；Discord 或 Slack 的房间/频道是 <code>...:channel:&lt;id&gt;</code> 或 <code>...:room:&lt;id&gt;</code>；定时任务是 <code>cron:&lt;job.id&gt;</code>；webhook 是 <code>hook:&lt;uuid&gt;</code>（除非被覆盖）。</p><p>每个 key 指向一个当前的 <code>sessionId</code>，那才是 SQLite 转录的身份，也就是「对话从这里继续」的那条线。</p><h2>重置做的事，比你想的少</h2><p>网关的 <code>/new</code> 与 <code>/reset</code> 并不换 id。它在一个已存在的持久会话里记录一条重置边界，并保留 <code>sessionId</code>。只有本来还不存在的会话，才会拿到一个新 id。</p><p>这个区别在排障时很有用：如果你在库里看到 sessionId 没变就断定「重置没生效」，那是把「换 id」当成了重置的唯一表现。实际生效的证据是那条边界。</p><h2>默认是不重置</h2><p>默认配置下没有自动重置。当前 <code>sessionId</code> 一直延续，靠压缩把活动模型上下文维持在界内。所以一个长期存在的会话看起来「从不换 id」是正常的，不是配置错了。</p><h2>两种会真的换 id 的模式</h2><ul><li>每日重置：<code>session.reset.mode: \"daily\"</code>，在配置的本地小时边界之后的下一条消息上创建新 <code>sessionId</code>。<code>session.reset.atHour</code> 默认是 <code>4</code>。</li><li>空闲过期：<code>session.reset.mode: \"idle\"</code> 配 <code>session.reset.idleMinutes</code>（或遗留的 <code>session.idleMinutes</code>），在窗口过后到达的消息上创建新 id。</li></ul><p>两者都配时，谁先过期谁生效。</p><h2>一次性信号与系统事件</h2><p>控制界面的重连恢复是一个特例：当网关从操作者界面客户端收到匹配的 <code>sessionId</code> 时，它会为这一次重连发送保留当前可见的会话。这是明确的一次性信号——普通的过期发送仍然会创建新 <code>sessionId</code>。</p><p>系统事件（心跳、定时唤醒、执行通知、网关记账）可以改会话行，但绝不延长每日或空闲重置的新鲜度。有一个正向的例外：一个真正提交到目标对话的可见自动化结果会刷新那个对话的空闲时间戳，而静默运行与重放的结果不会。重置翻转时会丢弃上一个会话排队中的系统事件通知，然后才构造新提示。</p><h2>为什么这个区分重要</h2><p>因为它决定了一个对话「算不算同一段历史」。压缩、转录、记忆索引、以及上下文窗口的计算全都挂在 <code>sessionId</code> 上；而路由、隔离与权限门挂在 <code>sessionKey</code> 上。两个都叫「会话」，但改一个不会自动改另一个——这正是重置只画线不换 id 的原因，也是为什么有些设置看起来没生效：它作用在了另一个层次上。</p>"
+  },
+  {
+    "slug": "openclaw-four-session-timestamps",
+    "title": "四个时间戳各管一件事，其中一个不是活动信号",
+    "summary": "sessionStartedAt 管每日重置，lastInteractionAt 管空闲重置，updatedAt 只是行变更时间，lastActivityAt 标记未读活动。心跳能改 updatedAt，却不能让会话续命。",
+    "url": "https://docs.openclaw.ai/reference/session-management-compaction/schema",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>先看一张分工表</h2><ul><li><code>sessionStartedAt</code>：当前 <code>sessionId</code> 的开始时间，每日重置的新鲜度用它。遗留行可能从 JSONL 会话头推导。</li><li><code>lastInteractionAt</code>：最后一次用户或频道交互，或者一次新提交的可见自动化结果。空闲重置的新鲜度用它。</li><li><code>updatedAt</code>：行最后一次被改动的时间，用于列出、修剪与记账，不是新鲜度权威。</li><li><code>lastActivityAt</code>：最后一次算得上未读活动的已完成 agent 运行，涵盖用户、频道与定时任务。</li></ul><p>四个字段里有三个看起来都能回答「这个会话多久没动了」，但它们回答的是三个不同的问题。</p><h2>为什么心跳不能让会话活着</h2><p>空闲重置看 <code>lastInteractionAt</code>，而这个字段只被两类事情推进：用户或频道的交互，以及一个真正提交到该对话的可见自动化结果。心跳、定时唤醒、执行通知这类系统事件都不算。所以一个只有心跳在敲的会话，仍然会按空闲窗口过期——这是设计意图，不是漏写。</p><p>文档还有一句补充：静默运行与重放的结果也不会刷新空闲时间戳。区别在于「用户能不能看见它出现在这个对话里」。</p><h2>updatedAt 为什么不能当活动信号</h2><p>因为元数据补丁也会改它。一次改标题、一次标记、一次记账写入，都会让 <code>updatedAt</code> 前进，而这些都不代表有人在这个对话里说过话。拿它算空闲，会让会话因为无关的簿记而永不超时。</p><h2>lastActivityAt 的边界更窄</h2><p>它只记「算得上未读活动的已完成运行」。心跳与内部事件轮次不更新它，元数据补丁也不更新它。文档特意补了一句：<code>updatedAt</code> 不是活动信号。这句话在实现里对应的是两套完全不同的判定路径。</p><h2>归档与置顶</h2><p><code>archivedAt</code> 是可选的归档时间。归档的会话仍留在 store 里，转录完整，只是被排除在常规活动列表之外。<code>pinnedAt</code> 是可选的置顶时间，活动且置顶的会话排在未置顶之前；而归档一个会话会清掉它的置顶。这两个都是时间戳而非布尔值——与 Codex 线程互操作时，线上传输的 <code>archived</code>/<code>pinned</code> 布尔值始终由时间戳派生并在服务端盖戳，OpenClaw 用毫秒而 Codex 用秒，桥接在 <code>codex</code> 插件边界换算。</p><h2>遗留行的回退规则</h2><p>缺 <code>lastInteractionAt</code> 的旧行，会回退到恢复出来的会话开始时间。这个回退是保守的：它让老会话按开始时间算空闲，而不是被当成刚刚活跃过。升级之后如果发现某些老会话立刻过期，多半就是这个字段在起作用。</p>"
+  },
+  {
+    "slug": "openclaw-three-kinds-of-fork",
+    "title": "三种分叉：一种超限降级为隔离上下文，另一种直接拒绝",
+    "summary": "自动父分叉、操作者分叉、消息分叉走三条不同的路径。同样撞上容量上限，自动父分叉会改用隔离上下文继续，操作者分叉则被拒——差别在于谁在发起。",
+    "url": "https://docs.openclaw.ai/reference/session-management-compaction/schema",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>自动父分叉：撞上限就换隔离上下文</h2><p>创建线程或子 agent 分叉时，自动父分叉策略使用 OpenClaw 的当前活动分支。如果那个分支太大——超过一个固定的内部上限，目前是 100K token——OpenClaw 会以隔离上下文启动子会话，而不是失败，也不是把一段不可用的历史继承下去。尺寸判定是自动的、不可配置的；遗留的 <code>session.parentForkMaxTokens</code> 配置会被 <code>openclaw doctor --fix</code> 移除。</p><p>这个行为值得单独理解：失败会让整条自动化链路断掉，而继承一段放不进窗口的历史会让子会话一开始就不可用。隔离启动是唯一能让流程继续下去的选项，代价是子会话失去了父的上下文。</p><h2>操作者分叉：同样的上限，相反的处置</h2><p><code>sessions.create { parentSessionKey, fork: true }</code> 从父的当前状态分出来。准入按所选子模型的有效可用输入容量判定，取不到模型容量时回退到那个 100K 安全上限。父会话有活动运行期间，普通分叉会被拒绝。加 <code>forkFrom: \"last-completed\"</code> 则只复制到当前重置窗口内最后一条已完成的助手消息，或者在没有完成任何回复时复制到重置边界，从而排除正在进行的那一截尾巴。</p><p>关键差别在这里：操作者分叉超过容量上限是被拒绝的，不会像自动分叉那样改用隔离上下文继续。理由是操作者明确要求了继承父状态；悄悄给一个隔离上下文等于没做他要的事。</p><h2>消息分叉：把那条消息退回输入框</h2><p><code>sessions.fork { sessionKey, entryId }</code> 从选中用户消息之前的活动路径前缀创建子会话，并把那条消息退回输入框供编辑。父会话保持不变。</p><h2>隐身分叉与重启</h2><p>隐身分叉保留父的内存存储类别。这条规则有一个直接的后果：重启网关之后，父与子两个会话都没了。所以隐身分叉适合「这次试一下」，不适合任何需要留存的东西。</p><h2>子会话继承什么</h2><p>子会话继承父的模型选择，除非显式传入了一个。响应里会标记 <code>forkedFromParent</code>，token 计数从头开始。这一点在核对用量时容易踩：分叉不是把父的计数带过来，所以「父子加起来」不等于「这条链一共花了多少」。</p><h2>Codex 侧的验证差异</h2><p>Codex 分叉验证比较的是完整的、经证明的已提交提示，包括空白字符；那个有界的展示导入投影不能替代这份证据。也就是说，同一件事在两条实现里，一条按展示内容判，一条按提交字节判。</p>"
+  },
+  {
+    "slug": "openclaw-snooze-unread-are-timestamps",
+    "title": "暂停与未读都只是时间戳，没有派生的布尔",
+    "summary": "snoozedUntil 与 markedUnreadAt 都只以时间戳存在，服务端不提供 snoozed 布尔，也不跑定时器。客户端要自己拿唤醒时间去对表——这套设计把「什么时候算醒」交给了时钟。",
+    "url": "https://docs.openclaw.ai/reference/session-management-compaction/schema",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>暂停存两个时间戳，仅此而已</h2><p><code>snoozedUntil</code> 与 <code>snoozedAt</code> 是可选的毫秒时间戳，只存在 <code>session_nodes.entry_json</code> 里。<code>sessions.patch { snoozedUntil }</code> 接受一个未来的正整数，或 <code>null</code> 表示唤醒，且必须带 <code>expectedSessionId</code>。</p><p>文档明确写了两件「没有」：没有派生的 <code>snoozed</code> 布尔值，也没有服务端定时器。行只暴露时间戳，客户端自己把唤醒时间与本地时钟比较。暂时过期的字段可以留到后一次写才被清掉——所以读到「snoozedUntil 是过去时间」并不代表有人忘了清，而是代表它已经到期了。</p><h2>过期的与到期的要分开看</h2><p>这是这套设计最容易误判的地方。暂停的效果由「当前时间与 snoozedUntil 的关系」决定，而不是由字段是否被清除决定。任何依赖「字段还在所以仍在暂停」的判断都会出错；正确的判断是把时间戳与时钟比一次。</p><h2>什么会清掉暂停</h2><ul><li>用户或频道交互，以及那些更新了面向用户活动的已完成运行，会清掉两个字段。</li><li>系统事件与被保留状态的运行不清。</li><li>暂停会保留置顶；而置顶或归档会清掉暂停。</li></ul><p>最后一条是个非对称关系：暂停不动置顶，置顶却会取消暂停。归档同理。把这两条当成「谁覆盖谁」的优先级来记，比记具体字段更省事。</p><h2>未读也是时间戳</h2><p><code>sessions.patch { unread }</code> 在服务端盖两个时间戳之一：<code>unread: false</code> 记为已读，设置 <code>lastReadAt</code> 并清掉 <code>markedUnreadAt</code>；<code>unread: true</code> 记 <code>markedUnreadAt</code>，并保持未读直到下一次激活或显式已读。</p><p>行里同时暴露这个标记与一个派生的 <code>unread</code> 布尔值。为什么两个都要？为了让已经打开的客户端既能保留手动标记，又能确认新活动。这一点在只有单端时看不出差别，多端时就是全部差别。</p><h2>expectedMarkedUnreadAt 的作用</h2><p>支持未读确认契约的客户端发自动已读补丁时会带上 <code>expectedMarkedUnreadAt</code>，<code>null</code> 表示当时没有标记。如果实际标记更新，这次确认会变成一次成功的空操作，而不是抹掉更新的意图。</p><p>而一个裸的 <code>unread: false</code> 请求仍然保留遗留的清除行为。所以「多端之间互不擦除」这件事，要求每个活动客户端都支持这个契约——只升级一个客户端，另一端的裸请求照样会覆盖。</p><h2>升级不会让全站亮红点</h2><p>从未被标记已读的会话保持 <code>unread: false</code>，所以已有安装在升级后不会突然全部变成未读。这类「默认不制造变化」的选择在会话状态里出现得很频繁，识别出这个模式之后，很多「升级后应该变成 X 却没变」的疑问会自己消失。</p>"
+  },
+  {
+    "slug": "openclaw-bedrock-region-fallback-chain",
+    "title": "Bedrock 的区域是从哪来的：一条四段回退链",
+    "summary": "自定义的 Bedrock provider ID 会用同一个插件，但区域不再继承默认 provider 的设置。它按「provider 的运行时 URL、解析后的模型 URL、插件发现区域」依次回退，最后才用 AWS SDK 自己的环境与 profile。",
+    "url": "https://docs.openclaw.ai/providers/bedrock",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>先说认证：这里没有 API key</h2><p>OpenClaw 通过 Bedrock 的 Converse 流式接口使用 Amazon Bedrock 模型。provider 名是 <code>amazon-bedrock</code>，API 是 <code>bedrock-converse-stream</code>，认证方式是 <code>auth: \"aws-sdk\"</code>——也就是 AWS SDK 的默认凭据链，而不是一个 API key。凭据可以来自环境变量、共享配置，或实例角色。区域取自 <code>AWS_REGION</code> 或 <code>AWS_DEFAULT_REGION</code>，默认 <code>us-east-1</code>。</p><p>除了标准凭据，还可以选填 <code>AWS_SESSION_TOKEN</code>、<code>AWS_PROFILE</code>，以及 Bedrock 自己的 bearer token <code>AWS_BEARER_TOKEN_BEDROCK</code>。</p><h2>自定义 provider ID 会激活同一个插件</h2><p>像 <code>amazon-bedrock-east1</code> 这样的自定义 ID 可以写 <code>api: \"bedrock-converse-stream\"</code> 与 <code>auth: \"aws-sdk\"</code>，它们激活的是同一个 Bedrock 插件。所以「自定义」不等于「另一个实现」，只是多了一套解析顺序。</p><h2>四段回退，顺序不能换</h2><ul><li>所选 provider 的标准 <code>bedrock-runtime.&lt;region&gt;.amazonaws.com</code> URL。</li><li>然后是用解析后的模型 URL。</li><li>然后是插件的发现区域。</li><li>以上都没有，才让 AWS SDK 的区域环境与 profile 设置生效。</li></ul><p>这里最容易被忽略的一句是：自定义路由不继承默认 <code>amazon-bedrock</code> provider 的区域。也就是说，你不能靠「默认那个配了 us-east-1」来指望 <code>amazon-bedrock-east1</code> 也落在 us-east-1——它要么从自己的 baseUrl 推出来，要么从模型 URL 推出来，要么落到插件发现区域，最后才交给 SDK。</p><h2>为什么这个顺序会让人困惑</h2><p>因为前三段都是「从别处推」，只有第四段才是「读你自己的配置」。当 baseUrl 写的是一个区域、而 <code>AWS_REGION</code> 写的是另一个区域时，实际生效的是 baseUrl 那个，而不是环境变量那个。反过来说，如果 baseUrl 里没写区域，环境变量才会接管。排「打到了错误区域」这类问题时，按这条链的顺序逐段核对，比反复改环境变量快得多。</p><h2>这套配置适合谁</h2><p>适合已经在 AWS 上有账号、希望把模型调用并入现有账单与 IAM 边界的团队，也适合运行在 EC2 或 ECS 上、可以直接用实例角色的部署。如果手上只有一把 Google AI Studio 的 key，那属于另一条路径，不该往 Bedrock 这边套。</p><h2>一个配置样例的要点</h2><p>文档给出的样例里，provider 块写 <code>baseUrl</code>、<code>api</code>、<code>auth</code> 与模型列表，不写 <code>apiKey</code>。这个「不写」是有意义的——它让缺少凭据时的报错落在 AWS 凭据链上，而不是落在「没有 API key」上。报错指向哪里，决定了你下一步该查哪里。</p>"
+  },
+  {
+    "slug": "openclaw-vertex-adc-three-sources",
+    "title": "gcloud auth login 不会给你一个用户 ADC",
+    "summary": "Vertex AI 走的是应用默认凭据。要让 OpenClaw 发现用户 ADC，得跑 gcloud auth application-default login，而且要以网关的系统用户身份跑；单独一次 gcloud auth login 不产生这个文件。",
+    "url": "https://docs.openclaw.ai/providers/google-vertex",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>先分清楚两条路</h2><p>内置的 Google 插件把 <code>google-vertex/*</code> 的模型请求路由到 Google Cloud Vertex AI，用的是应用默认凭据（ADC）。如果手上是 Google AI Studio 的 API key，那是 <code>providers/google</code> 那条路，不是这条。两条路的凭据形态不同，混用会得到「鉴权失败但 key 没错」这类现象。</p><h2>前置三件事</h2><ul><li>一个启用了计费的 Google Cloud 项目。</li><li>一个被允许发起 Vertex AI 请求的身份，例如具备 <code>roles/aiplatform.user</code>。</li><li>为该项目启用 Vertex AI API：<code>gcloud services enable aiplatform.googleapis.com --project your-project-id</code>。</li></ul><p>文档还补了一句容易被跳过的话：没有专门的 Vertex AI 引导认证选项。也就是说，你不能靠一个「选 Vertex」的向导把这件事配完，得自己准备好凭据。</p><h2>最容易踩的那一步</h2><p>在工作站上运行 <code>gcloud auth application-default login</code>，它会写出一份 OpenClaw 能发现的 ADC 文件。两个条件必须同时成立：这条命令要以网关的操作系统用户身份运行；<code>GOOGLE_APPLICATION_CREDENTIALS</code> 要保持未设置，才会用这份文件。显式路径优先于 gcloud 的默认文件。</p><p>然后是最常见的误解：单独一次 <code>gcloud auth login</code> 并不创建用户 ADC。前者是给 gcloud 命令行自己用的登录态，后者才是写给库和 SDK 读的凭据文件。只跑了前者，插件找不到凭据，报错看起来却像是「没有权限」。</p><h2>服务账号的三条要求</h2><p>如果部署用 JSON 服务账号密钥：按 Google 的说明创建密钥；给这个服务账号授予在你的项目中使用 Vertex AI 的权限；并保证密钥文件对网关的操作系统用户可读。把 <code>GOOGLE_APPLICATION_CREDENTIALS</code> 设成它的绝对路径即可。</p><p>还有第三种来源：在 Google Cloud 上通过元数据服务器拿凭据。这在跑于 GCP 的网关上是首选，因为它不需要落一份密钥文件。</p><h2>为什么「跑成哪个用户」这么要紧</h2><p>ADC 是按用户、按路径发现的文件。你用自己账号跑一次登录，文件落在你的家目录；网关以服务账号身份运行，读不到它。这类问题的症状往往是「我在终端里能调通，服务里调不通」——差别不在网络，在于那是两个不同的用户与两份不同的家目录。</p><h2>配好之后该验证什么</h2><p>先确认项目与区域能通，再确认模型引用带了 <code>google-vertex/</code> 前缀。前缀决定请求走哪条路，凭据决定它能不能被授权；这两件事分开查，比一起猜要快。</p>"
+  },
+  {
+    "slug": "openclaw-talk-stt-tts-three-steps",
+    "title": "拆分式语音的三段路：转写、agent、朗读各走各的",
+    "summary": "把 talk.realtime.mode 设为 stt-tts 之后，浏览器 Talk 不再用实时语音到语音的提供方，而是每句话都过一遍当前聊天会话。两分钟的答复超时会停掉采样与播放，但不会取消已经接受的运行。",
+    "url": "https://docs.openclaw.ai/nodes/talk/realtime-sessions",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>模式一换，链路就从一段变成三段</h2><p>把 <code>talk.realtime.mode</code> 设成 <code>\"stt-tts\"</code> 之后，浏览器 Talk 使用分开的转写、agent 与语音三步，而不是一个实时的语音到语音提供方。每一句话都走当前聊天会话，所以该会话配置的模型与工具权限一并生效。</p><p>这句话的实际含义常被低估：拆分模式不是一个独立的语音助手，它是「把语音当成输入方式，把当前会话当成执行者」。因此会话里的工具策略、模型选择、甚至上下文都会影响语音回答。</p><h2>输出与转写各自的配置位</h2><p>语音输出走 <code>talk.provider</code> 与 <code>talk.providers.&lt;provider&gt;</code>；不设 provider 时用全局 <code>tts</code> 配置。本地转写则在 <code>tools.media.models</code> 里配一个音频条目，浏览器复用网关已有的转写会话，把完成的录音交给文件转写 owner。那个 owner 自己的提供方选择、输入上限、超时与回落策略同样适用。</p><p>还有一条优先级：显式的流式提供方选择，以及匹配的 <code>agents.defaults.voiceModel</code>，优先于上面这些。文件转写在这句话结束后才产出最终转录；目录只有在配置了提供方或命令行命令时，才把文件转写标为就绪。</p><h2>采样的暂停与恢复</h2><p>采样在 agent 响应与语音播放期间暂停，下一句话再恢复。这个细节决定了「打断」在这个模式下的含义：播放期间麦克风不开，所以不存在真正的插话；要打断只能按 Stop。</p><p>Stop 取消的是本次通话自己的聊天运行与播放。而一次 Talk 失败——包括那个两分钟的答复超时——会结束采样与播放，但把已接受的聊天运行留给会话去完成。超时提示会说明答案会出现在聊天里。</p><h2>三种「离开」都不取消工作</h2><p>离开聊天、断开连接、或者从 Talk 切走，都会脱离，但都不取消已接受的工作。这与 Stop 形成对照：一个是有意的取消，一个是注意力的转移。文档把它们分开写，正是因为很多人以为关掉话筒就等于停下任务。</p><h2>这个模式不提供什么</h2><p>拆分 Talk 不提供实时换声，也不提供摄像头输入。另外，把这个模式留空会保留实时 Talk——所以「想回到原来的行为」不需要额外配置，删掉这一行就行。</p><h2>什么时候该选它</h2><p>适合希望语音回答走自己配置的模型与工具权限、并且能接受「一句一回合」节奏的场景。反过来，需要边说边被纠正、或者需要边看边说的时候，实时模式才是对的选择。</p>"
+  },
+  {
+    "slug": "openclaw-discord-follow-users-residency",
+    "title": "followUsers 只管「人在哪」，不管「谁能说话」",
+    "summary": "Discord 的跟随模式让机器人在语音频道之间跟着指定用户走。它只控制语音驻留，不授予发言权限也不给 owner 权威；这两件事要分别用 commands.ownerAllowFrom 与公会、频道成员配置。",
+    "url": "https://docs.openclaw.ai/channels/discord/voice-follow",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
+    "content": "<h2>它解决的是「机器人该待在哪个频道」</h2><p>跟随模式让机器人跟踪选中的用户，随着他们在 Discord 语音频道之间移动。配置位是 <code>channels.discord.voice.followUsers</code>，配合 <code>followUsersEnabled</code> 与 <code>allowedChannels</code>。适合「我在语音里的时候机器人就该在」这类个人或操作者自用场景。</p><h2>ID 的两种写法都会被归一化</h2><p><code>followUsers</code> 接受原始 Discord 用户 ID 与 <code>discord:&lt;id&gt;</code> 两种写法，OpenClaw 在匹配语音状态事件之前会把两种都归一化。所以清单里混着写不会出问题。</p><p><code>followUsersEnabled</code> 在配置了 <code>followUsers</code> 时默认为 <code>true</code>。把它设成 <code>false</code> 的效果是「保留清单，但停止自动跟随」——不是清空清单。这个区分在临时关掉跟随又不想重填时很有用。</p><h2>最重要的一条边界</h2><p><code>followUsers</code> 只控制语音驻留。它不授予发言者权限，也不授予 owner 权威；要让它说话、或者让它执行受限操作，得另外配 <code>commands.ownerAllowFrom</code> 以及公会或频道的用户与角色配置。把这两件事混起来，会得到「人跟过去了但机器人不理我」这种看似矛盾的现象。</p><h2>移动规则里几个具体情形</h2><ul><li>被跟随的用户进入允许的语音频道时，OpenClaw 加入那个频道；用户移动时跟着移动；活动的被跟随用户断开时，OpenClaw 离开。</li><li>同一公会里有多个被跟随用户时，活动用户离开后，OpenClaw 会先移到另一个被跟踪用户的频道，然后才离开公会。</li><li>多个被跟随用户同时移动时，最后观察到的那条语音状态事件胜。</li><li><code>allowedChannels</code> 仍然生效：被跟随的用户待在禁止的频道里会被忽略，而一个由跟随建立的会话会转到另一个被跟随用户那里，或者离开。</li><li>如果 Discord 或管理员在跟随期间移动了机器人，OpenClaw 会重建语音会话，并在目标频道允许时保留跟随归属；被移到 <code>allowedChannels</code> 之外则离开，有配置目标时再重新加入。</li></ul><h2>漏掉的事件怎么补</h2><p>OpenClaw 在启动时以及一个有界的间隔上对漏掉的语音状态事件做对账。对账会采样配置里的公会，并限制每次运行的 REST 查询数，因此非常长的 <code>followUsers</code> 清单可能需要不止一个间隔才收敛。知道这一点，就不会把「清单太长所以慢」误判成「跟随坏了」。</p><h2>DAVE 恢复不丢归属</h2><p>DAVE 接收恢复在解密反复失败之后可能离开并重新加入同一个频道。跟随建立的会话在这条恢复路径里保留跟随归属，所以之后被跟随用户断开时，仍然会离开频道。这类「恢复路径不重置所有权」的设计在语音里尤其重要，因为一次重连很容易被当成一次新的加入。</p><h2>三种加入方式怎么选</h2><p><code>followUsers</code> 用于「人在机器人在」；<code>autoJoin</code> 用于固定房间，需要时加 <code>whenOccupied: true</code> 让它只在有人时在场；<code>/vc join</code> 用于一次性加入，或者那些自动在场会让人意外的房间。文档给的编解码细节也值得一提：接收方向的日志会显示 <code>discord voice: opus decoder: libopus-wasm</code>，实时播放把原始 48 kHz 立体声 PCM 用同一个内置 <code>libopus-wasm</code> 编成 Opus 再交给 <code>@discordjs/voice</code>。</p>"
   }
 ]
