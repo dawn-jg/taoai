@@ -667,3 +667,14 @@ security CLI、memory CLI，以及 Cursor 的 Bugbot、CLI。其中飞书那条�
 `guides/chat_prefix_completion` 之外的 news 若干与 `quick_start/agent_integrations/*`（7 条）。
 
 **口径**：工具页 1127/1177 = 95.8%，待写 50；可索引页面合计 1127 + 253 教程 + 15 快讯 = 1395。
+
+## 二十一、2026-11-18 人工授权执行记录
+
+用户已授权并执行（HEAD `bbe2692c`）：
+
+1. **博彩外链 3 条已下线**：`tool1333`（qy球友会）、`tool148`（BETWIN188）、`tool14961`（DegenCity Casino）。
+2. **教程 40 篇已下架**：正文 <600 字的 40 条（145–284 字，来源为二手转载）从 `data/tutorials.json` 移除；均为 noindex，索引面无损。
+3. **categories.json count 已按实际重算**（原滞后 30 条）。
+4. **现状**：工具 1174（池 1127）｜ 教程 860（全部 ≥600 字）｜ tools.xml 1127 / tutorials.xml 860 / news.xml 15。
+5. **剩余 47 条的清理清单已产出待人工确认**：见 `_tool_cleanup_review_2026-11-18.md`（合并 10 / 下线 35 / 暂缓 2）。
+   该清单执行前，本文件的 ①② 待授权项按清单口径理解。
