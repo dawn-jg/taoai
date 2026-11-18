@@ -688,3 +688,59 @@ security CLI、memory CLI，以及 Cursor 的 Bugbot、CLI。其中飞书那条�
 修复 18 条断链映射（12 条历史遗留）。全库 1129 条工具 slug 已全部语义化。
 
 后续可做：`moyin-com` 现为魔音工坊（tool1924）的语义 slug，其 75 KB 官网素材可考虑并入现有正文增补（非新增页）。
+
+## 二十三、第 200 批（2026-11-18 晚）：工具池已关闭，教程页首次开采插件体系层（860 → 880）
+
+**一、工具页第 124 轮 0，且此后再无标的物**
+
+清理清单执行后（HEAD `20bee447`），待写队列只剩 2 条，均为此前「暂缓」的 noindex 条目：
+
+| slug | 实测（本批复核） | 判定 |
+|---|---|---|
+| `phind-com` | `www.phind.com` 403，title 为 Cloudflare 的「Just a moment...」，可见正文 50 字 | 挑战页，不可写 |
+| `ask-xiaoyuzhoufm-com` | 200 但可见正文 23 字，纯 SPA 壳；名称「小宇宙推出的AI搜索产品」为描述式 | 名称硬约束排除 + 无素材 |
+
+→ 工具页 1129 中 1127 已在池内（覆盖率 99.8%）。**任务模板里「工具页 15–20 条/批」的口径至此正式失效**，
+可写池不是「变薄」而是「已空」，后续批次应直接跳过抓取与工具页撰写，把产能全部投向教程页。
+
+**二、本批产出：教程页 20 条（860 → 880）**
+
+素材首次系统开采 `docs.openclaw.ai/plugins/*`——这是 sitemap 里唯一完全未采过的大子树
+（英文根路径 1487 条，未采 1328 条，其中 `plugins` 组 384 条、`gateway` 145 条、`tools` 106 条）。
+40 个候选页用 `.md` 直取全部 200、正文 3.6k–74k，无一失败。
+
+二十条主线（按素材页分组）：
+
+- 加载管线三篇：入口越界 / world-writable / 归属不符三道门与内置包的就地 chmod 修复、被拒候选仍带 id；
+  缓存代际（缺失也是事实、失败的原生 ESM 由 Node 留到进程结束）；
+  激活规划四条收窄线与「all 推出空集就保持空」。
+- provider 钩子四篇：清单 / 配置期 / 运行时三层与 `setup.providers[].envVars`、`providerAuthAliases`、`providerAuthChoices` 的分工；
+  `normalizeModelId` 只派发一次而 `normalizeTransport` 有一条「未改动才试别家」的豁免；
+  `catalog.order` 四档与 `discovery` 别名已于 2026.4.26 移除（注册它不发任何行）；
+  `resolveUsageAuth` 的 token / `handled: true` / null 三态。
+- 工具策略三篇：`block: true` 终结、`block: false` 等于不表态、每个 handler 看原始事件副本、首次审批冻结参数快照；
+  `deviceId` 被转向即丢弃且缺失代表未证实；`resolve_exec_env` 的过滤名单（PATH 与 `LD_*` / 代理 / TLS 变量一律丢弃）。
+- 依赖解析三篇：运行时绝不跑包管理器且两个安装根是状态不是缓存；`--preserve-symlinks` 导致嵌套依赖找不到、
+  重装无效、诊断看 `gateway status` 与 Service file；`bundleRuntimeDependencies: false` 时补丁依赖必须点名否则打包停止。
+- 审批与清单四篇：五道闸的分工（发现期 vs 每次调用）；title 80 / description 512 / timeout 120s→600s 上限；
+  `scope` 纯展示且超界整段省略；`dangerousFlags` 的相对路径与通配。
+- 其余三篇：SecretRef 的 capability owner 冷失败 vs route owner 保留上次可用值；
+  清单管身份而 `activation` 块不替代 `register()`、注册表单向流；Slack 审批人三级名册与「换名单不撤回已发卡片」。
+
+**三、新方法论 126：插件体系层是第十二层素材，写的是「扩展点契约」**
+
+这一层不写功能也不写协议，写的是**哪句回答不需要加载代码、同一份返回里谁冻结谁、哪个别名已经不再发布**。
+判据：一页里同时出现「一个已移除或已弃用的字段 + 一条只派发一次的限制 + 一个缺失即未证实的语义」，就能切 2–3 篇。
+本批 3 页（`load-pipeline` / `provider-hooks` / `tool-policy`）切出 10 篇，与既有 207 篇 OpenClaw 教程词汇重合为 0。
+
+**四、自检与提交**
+
+1127 == `tools.xml` 1127（池内失败 0）；可索引教程 880 == `tutorials.xml` 880；20 个新 slug 全部在列；
+14 字滑窗（仅计 ≥8 汉字）跨文 0、批内 0（五轮修正后归零）；红线词 0、金额 0；标签闭合 20/20；字数 713–1107。
+提交 `0062deef`，push 成功（`ba3bbfd9..0062deef`），HEAD==origin/main，工作区干净。
+仅动 `data/tutorials.json`、`public/tutorials.xml`。
+
+**五、下一批建议**
+
+`plugins/*` 仍余 364 条未采（`sdk-*` 与 `codex-harness-*` 两组几乎未动），`gateway/config-*` 一组 30 余页也未采；
+这两处都不缺长度，缺的是切分角度。
