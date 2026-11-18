@@ -71,9 +71,6 @@
   "tool2940": {
     "new": "verse-app-yinxiang-com"
   },
-  "tool9744": {
-    "new": "writingpal-ai"
-  },
   "tool1062": {
     "new": "novelai-net"
   },
@@ -102,7 +99,7 @@
     "new": "civitai-com"
   },
   "tool63437": {
-    "new": "pexo-ai"
+    "new": "pexo-ai-2"
   },
   "tool56061": {
     "new": "runninghub-cn"
@@ -137,9 +134,6 @@
   "tool70659": {
     "new": "d-aijuh-com"
   },
-  "tool70073": {
-    "new": "miaohui-jixueai-com"
-  },
   "tool68984": {
     "new": "imiaohua-com"
   },
@@ -156,16 +150,13 @@
     "new": "d-design-2"
   },
   "tool68318": {
-    "new": "liblib-art"
+    "new": "liblibai"
   },
   "tool33694": {
     "new": "designkit-cn"
   },
   "tool49519": {
     "new": "gaoding-com"
-  },
-  "tool57727": {
-    "new": "photonaiclub-com"
   },
   "tool41196": {
     "new": "fengniaoai-com"
@@ -230,9 +221,6 @@
   "tool69990": {
     "new": "luxreal-ai"
   },
-  "tool11164": {
-    "new": "voxcraft-ai"
-  },
   "tool6080": {
     "new": "meshy-ai"
   },
@@ -240,7 +228,7 @@
     "new": "ihuiwa-com"
   },
   "tool68297": {
-    "new": "liblib-art-2"
+    "new": "liblibai"
   },
   "tool1991": {
     "new": "cutout-designkit-com"
@@ -250,9 +238,6 @@
   },
   "tool18104": {
     "new": "kt-94xy-com"
-  },
-  "tool61292": {
-    "new": "photonaiclub-com-2"
   },
   "tool7983": {
     "new": "pixian-ai"
@@ -291,7 +276,7 @@
     "new": "designkit-cn-2"
   },
   "tool68439": {
-    "new": "liblib-art-3"
+    "new": "liblibai"
   },
   "tool1531": {
     "new": "upscayl-org"
@@ -309,7 +294,7 @@
     "new": "designkit-cn-3"
   },
   "tool68305": {
-    "new": "liblib-art-4"
+    "new": "liblibai"
   },
   "tool49506": {
     "new": "gaoding-com-2"
@@ -524,17 +509,8 @@
   "tool14162": {
     "new": "xunguang-com"
   },
-  "tool16965": {
-    "new": "hotshot-co"
-  },
-  "tool18010": {
-    "new": "humva-ai"
-  },
   "tool1237": {
     "new": "virbo-wondershare-cn"
-  },
-  "tool24359": {
-    "new": "etna-7volcanoes-com"
   },
   "tool24161": {
     "new": "artink-art"
@@ -664,9 +640,6 @@
   },
   "tool66201": {
     "new": "ai-lipind-com"
-  },
-  "tool63291": {
-    "new": "telehire-ai"
   },
   "tool26884": {
     "new": "zdjianli-cn"
@@ -819,7 +792,7 @@
     "new": "fingenius-cn"
   },
   "tool460": {
-    "new": "claude-ai"
+    "new": "claude"
   },
   "tool12946": {
     "new": "yuanbao-paluai-com"
@@ -918,7 +891,7 @@
     "new": "xmyeditor-com-2"
   },
   "tool54633": {
-    "new": "meijian-com-2"
+    "new": "meijian-com"
   },
   "tool2733": {
     "new": "mastergo-com"
@@ -990,7 +963,7 @@
     "new": "memo-ac"
   },
   "tool702": {
-    "new": "tianyin-163-com"
+    "new": "cloudmusic-xiaowei"
   },
   "tool14849": {
     "new": "texttospeech-im"
@@ -1029,7 +1002,7 @@
     "new": "voice-ai"
   },
   "tool65226": {
-    "new": "perplexity-ai"
+    "new": "perplexity"
   },
   "tool14609": {
     "new": "dexa-ai"
@@ -1055,17 +1028,11 @@
   "tool72972": {
     "new": "sheepgeo-com"
   },
-  "tool61089": {
-    "new": "pagentia-com"
-  },
   "tool14818": {
     "new": "ask-xiaoyuzhoufm-com"
   },
   "tool15211": {
     "new": "dexa-ai-2"
-  },
-  "tool15156": {
-    "new": "xanswer-com"
   },
   "tool16367": {
     "new": "glean-com"
@@ -1226,7 +1193,7 @@
     "name": "Wordvice AI"
   },
   "tool123": {
-    "new": "stable-diffusion",
+    "new": "stability-ai",
     "name": "Stable Diffusion"
   },
   "tool6245": {
@@ -1240,10 +1207,6 @@
   "tool60471": {
     "new": "tripo-ai",
     "name": "Tripo AI"
-  },
-  "tool2342": {
-    "new": "6pen-art",
-    "name": "6pen Art"
   },
   "tool6463": {
     "new": "visual-electric",
@@ -1297,10 +1260,6 @@
     "new": "lumalabs-ai",
     "name": "Luma AI推出的AI视频生成工具"
   },
-  "tool20030": {
-    "new": "flow-studio",
-    "name": "Flow Studio"
-  },
   "tool8662": {
     "new": "stable-video",
     "name": "Stable Video"
@@ -1345,10 +1304,6 @@
     "new": "qiuzhifangzhou-com",
     "name": "求职方舟AI"
   },
-  "tool62337": {
-    "new": "miantuan-knowfuture-com-cn",
-    "name": "面团AI"
-  },
   "tool62789": {
     "new": "lovtalent-com",
     "name": "AI 原生求职智能体平台"
@@ -1390,7 +1345,7 @@
     "name": "MiniMax Hub"
   },
   "tool73695": {
-    "new": "loomy-xunfei-cn",
+    "new": "loomy",
     "name": "科大讯飞推出的桌面级 AI 个人助理"
   },
   "tool75258": {
@@ -1422,7 +1377,7 @@
     "name": "元气AI Bot"
   },
   "tool59644": {
-    "new": "seelesai-go-link",
+    "new": "seeleagent",
     "name": "全球首个端到端AI 3D游戏生成工具"
   },
   "tool62355": {
@@ -1512,10 +1467,6 @@
   "tool63488": {
     "new": "calicat",
     "name": "Calicat"
-  },
-  "tool54629": {
-    "new": "yanqueai-com",
-    "name": "AI LOGO设计工具"
   },
   "tool1414": {
     "new": "logosc-cn-2",
@@ -1758,7 +1709,7 @@
     "name": "Stable Diffusion"
   },
   "tool1608": {
-    "new": "tool13",
+    "new": "xiezuocat-com",
     "name": "秘塔写作猫"
   },
   "pexo-ai": {
@@ -1770,7 +1721,7 @@
     "name": "Removal.AI"
   },
   "tool67911": {
-    "new": "tool69212",
+    "new": "01agent",
     "name": "专注于 AI 图像视频的无限画布"
   },
   "tool4841": {
@@ -1786,7 +1737,7 @@
     "name": "商汤科技推出的免费AI编程助手"
   },
   "tool163": {
-    "new": "tool14769",
+    "new": "doudou-paluai-com",
     "name": "Whispr"
   },
   "tool7582": {
@@ -1794,11 +1745,11 @@
     "name": "开源的支持多款大模型的AI编程助手"
   },
   "tool12663": {
-    "new": "tool4453",
+    "new": "chat-baichuan-ai-com",
     "name": "百川智能推出的免费AI助手"
   },
   "tool141": {
-    "new": "tool14",
+    "new": "jasper",
     "name": "Jasper Chat"
   },
   "tool13002": {
@@ -1808,5 +1759,2317 @@
   "tongyi-xiangma": {
     "new": "tongyi-aliyun-com",
     "name": "通义万相"
+  },
+  "tool22626": {
+    "new": "ibiling-cn",
+    "name": "笔灵AI小说"
+  },
+  "tool49483": {
+    "new": "gaoding-com-5",
+    "name": "稿定AI文案"
+  },
+  "tool56573": {
+    "new": "app-qinyanai-com",
+    "name": "沁言学术"
+  },
+  "tool53972": {
+    "new": "bmysci-com",
+    "name": "笔目鱼"
+  },
+  "tool36409": {
+    "new": "gaoyiai-com",
+    "name": "稿易AI论文"
+  },
+  "tool7358": {
+    "new": "qianbixiezuo-com",
+    "name": "千笔AI论文"
+  },
+  "tool14679": {
+    "new": "66paper-cn",
+    "name": "66AI论文"
+  },
+  "tool60799": {
+    "new": "super-cqvip-com",
+    "name": "维普科创助手"
+  },
+  "tool7381": {
+    "new": "mymmc-cn",
+    "name": "茅茅虫"
+  },
+  "tool69212": {
+    "new": "01agent",
+    "name": "01Agent"
+  },
+  "tool74592": {
+    "new": "chuangfeiai-com",
+    "name": "创飞写作"
+  },
+  "tool72610": {
+    "new": "36ma-com",
+    "name": "超级小说家"
+  },
+  "tool70397": {
+    "new": "cailiaoxing-com",
+    "name": "材料星AI"
+  },
+  "tool65468": {
+    "new": "yfbudong-com",
+    "name": "量子探险"
+  },
+  "tool68892": {
+    "new": "sheyantong-cn",
+    "name": "社研通"
+  },
+  "tool65034": {
+    "new": "rubriq",
+    "name": "Rubriq"
+  },
+  "tool597": {
+    "new": "quillbot",
+    "name": "QuillBot"
+  },
+  "tool16669": {
+    "new": "kakaxing-com",
+    "name": "咔咔猩"
+  },
+  "tool67827": {
+    "new": "gw-iflydocs-com",
+    "name": "讯飞文书"
+  },
+  "tool62139": {
+    "new": "muset",
+    "name": "Muset"
+  },
+  "tool63152": {
+    "new": "docwrite-cn",
+    "name": "华文笔杆"
+  },
+  "tool64875": {
+    "new": "qianyeai-com",
+    "name": "千页小说AI"
+  },
+  "tool13": {
+    "new": "xiezuocat-com",
+    "name": "秘塔写作猫"
+  },
+  "tool15321": {
+    "new": "inkfox-ai-com",
+    "name": "墨狐AI"
+  },
+  "tool59730": {
+    "new": "zhangqiaokeyan-com",
+    "name": "掌桥科研AI论文"
+  },
+  "tool59700": {
+    "new": "lingxisuxie-com",
+    "name": "灵犀速写"
+  },
+  "tool31": {
+    "new": "copy-ai",
+    "name": "Copy.ai"
+  },
+  "tool14": {
+    "new": "jasper",
+    "name": "Jasper"
+  },
+  "tool14618": {
+    "new": "588tool-com",
+    "name": "库宝AI工作助手"
+  },
+  "tool199": {
+    "new": "grammarly",
+    "name": "Grammarly"
+  },
+  "tool26114": {
+    "new": "wenzhuangyuan-cn",
+    "name": "文状元"
+  },
+  "tool6316": {
+    "new": "xiaoyutai-com",
+    "name": "晓语台"
+  },
+  "tool32": {
+    "new": "writesonic",
+    "name": "Writesonic"
+  },
+  "tool608": {
+    "new": "deepl-write",
+    "name": "DeepL Write"
+  },
+  "tool2304": {
+    "new": "jenni",
+    "name": "Jenni"
+  },
+  "tool5572": {
+    "new": "88lingo-com",
+    "name": "灵构笔记"
+  },
+  "tool5001": {
+    "new": "littlefrog-ai",
+    "name": "写作蛙"
+  },
+  "tool16171": {
+    "new": "wensi-sodabot-cn",
+    "name": "文思助手"
+  },
+  "tool5577": {
+    "new": "writewise",
+    "name": "WriteWise"
+  },
+  "tool4430": {
+    "new": "zuojia-baidu-com",
+    "name": "百度作家平台"
+  },
+  "tool2404": {
+    "new": "ai-zaker-cn",
+    "name": "爱创作"
+  },
+  "tool1325": {
+    "new": "moonbeam",
+    "name": "Moonbeam"
+  },
+  "tool2195": {
+    "new": "cohesive",
+    "name": "Cohesive"
+  },
+  "tool2388": {
+    "new": "ai-kezhan365-com",
+    "name": "万彩AI"
+  },
+  "tool59": {
+    "new": "ibiling-cn-2",
+    "name": "笔灵AI写作"
+  },
+  "tool575": {
+    "new": "spell-tools",
+    "name": "Spell.tools"
+  },
+  "tool577": {
+    "new": "hyperwrite",
+    "name": "HyperWrite"
+  },
+  "tool580": {
+    "new": "typeface-ai",
+    "name": "Typeface AI"
+  },
+  "tool39": {
+    "new": "chuangyi-taobao-com",
+    "name": "悉语智能文案"
+  },
+  "tool37": {
+    "new": "effidit-qq-com",
+    "name": "文涌Effidit"
+  },
+  "tool12": {
+    "new": "mypitaya-com",
+    "name": "火龙果写作"
+  },
+  "tool592": {
+    "new": "aigaixie-com",
+    "name": "爱改写"
+  },
+  "tool711": {
+    "new": "heyfriday",
+    "name": "HeyFriday"
+  },
+  "tool36": {
+    "new": "yizhuan5-com",
+    "name": "易撰"
+  },
+  "tool35": {
+    "new": "giiso-com",
+    "name": "智搜"
+  },
+  "tool1515": {
+    "new": "zj-xfyun-cn",
+    "name": "讯飞智检"
+  },
+  "tool782": {
+    "new": "contentbot",
+    "name": "ContentBot"
+  },
+  "tool7050": {
+    "new": "krea-ai",
+    "name": "Krea AI"
+  },
+  "tool12165": {
+    "new": "photostudio-ai",
+    "name": "PhotoStudio AI"
+  },
+  "tool175": {
+    "new": "pebblely",
+    "name": "Pebblely"
+  },
+  "tool173": {
+    "new": "mokker-ai",
+    "name": "Mokker AI"
+  },
+  "tool61408": {
+    "new": "ihuiwa-com-2",
+    "name": "绘蛙AI转3D"
+  },
+  "tool88": {
+    "new": "icons8-background-remover",
+    "name": "Icons8 Background Remover"
+  },
+  "tool242": {
+    "new": "bgsub",
+    "name": "BgSub"
+  },
+  "tool221": {
+    "new": "clipdrop-remove-background",
+    "name": "ClipDrop Remove Background"
+  },
+  "tool285": {
+    "new": "erase-bg",
+    "name": "Erase.bg"
+  },
+  "tool9946": {
+    "new": "hisheai-com",
+    "name": "千图设计室AI助手"
+  },
+  "tool313": {
+    "new": "free-image-background-remover",
+    "name": "Free Image Background Remover"
+  },
+  "tool274": {
+    "new": "background-eraser",
+    "name": "Background Eraser"
+  },
+  "tool311": {
+    "new": "slazzer",
+    "name": "Slazzer"
+  },
+  "tool306": {
+    "new": "cutout-pro",
+    "name": "Cutout.Pro抠图"
+  },
+  "tool304": {
+    "new": "bgremover",
+    "name": "BGremover"
+  },
+  "tool312": {
+    "new": "quicktools-background-remover",
+    "name": "Quicktools Background Remover"
+  },
+  "tool302": {
+    "new": "zyro-ai-background-remover",
+    "name": "Zyro AI Background Remover"
+  },
+  "tool284": {
+    "new": "photoscissors",
+    "name": "PhotoScissors"
+  },
+  "tool310": {
+    "new": "clippingmagic",
+    "name": "ClippingMagic"
+  },
+  "tool303": {
+    "new": "hotpot-ai-background-remover",
+    "name": "Hotpot AI Background Remover"
+  },
+  "tool174": {
+    "new": "stylized",
+    "name": "Stylized"
+  },
+  "tool178": {
+    "new": "booth-ai",
+    "name": "Booth.ai"
+  },
+  "tool5198": {
+    "new": "acgnai-art",
+    "name": "触手AI绘画"
+  },
+  "tool58": {
+    "new": "canva-cn-2",
+    "name": "Canva AI图像生成"
+  },
+  "tool912": {
+    "new": "bing-image-creator",
+    "name": "Bing Image Creator"
+  },
+  "tool726": {
+    "new": "adobe-firefly",
+    "name": "Adobe Firefly"
+  },
+  "tool2505": {
+    "new": "creator-nolibox-com",
+    "name": "画宇宙"
+  },
+  "tool1818": {
+    "new": "aiart-chuangkit-com",
+    "name": "创客贴AI画匠"
+  },
+  "tool4212": {
+    "new": "ke-study-163-com",
+    "name": "网易AI创意工坊"
+  },
+  "tool2762": {
+    "new": "ai-image-generator",
+    "name": "AI Image Generator"
+  },
+  "tool151": {
+    "new": "gaituya-com",
+    "name": "改图鸭"
+  },
+  "tool3529": {
+    "new": "clipdrop-sketch-to-image",
+    "name": "Clipdrop Sketch to Image"
+  },
+  "tool2576": {
+    "new": "goprod",
+    "name": "GoProd"
+  },
+  "tool7402": {
+    "new": "magnific-ai",
+    "name": "Magnific AI"
+  },
+  "tool217": {
+    "new": "icons8-smart-upscaler",
+    "name": "Icons8 Smart Upscaler"
+  },
+  "tool220": {
+    "new": "clipdrop-image-upscaler",
+    "name": "ClipDrop Image Upscaler"
+  },
+  "tool219": {
+    "new": "img-upscaler",
+    "name": "Img.Upscaler"
+  },
+  "tool218": {
+    "new": "fotor-ai-image-upscaler",
+    "name": "Fotor AI Image Upscaler"
+  },
+  "tool222": {
+    "new": "media-io-ai-image-upscaler",
+    "name": "Media.io AI Image Upscaler"
+  },
+  "tool215": {
+    "new": "upscale-media",
+    "name": "Upscale.media"
+  },
+  "tool213": {
+    "new": "nero-image-upscaler",
+    "name": "Nero Image Upscaler"
+  },
+  "tool212": {
+    "new": "vanceai-image-resizer",
+    "name": "VanceAI Image Resizer"
+  },
+  "tool211": {
+    "new": "photoaid-image-upscaler",
+    "name": "PhotoAid Image Upscaler"
+  },
+  "tool223": {
+    "new": "upscalepics",
+    "name": "Upscalepics"
+  },
+  "tool275": {
+    "new": "image-enlarger",
+    "name": "Image Enlarger"
+  },
+  "tool214": {
+    "new": "pixelhunter",
+    "name": "Pixelhunter"
+  },
+  "tool268": {
+    "new": "hama",
+    "name": "Hama"
+  },
+  "tool691": {
+    "new": "bg-eraser",
+    "name": "Bg Eraser"
+  },
+  "tool688": {
+    "new": "snapedit",
+    "name": "SnapEdit"
+  },
+  "tool687": {
+    "new": "cleanup-pictures",
+    "name": "Cleanup.pictures"
+  },
+  "tool307": {
+    "new": "cutout-pro-retouch",
+    "name": "Cutout.Pro Retouch"
+  },
+  "tool976": {
+    "new": "facet",
+    "name": "Facet"
+  },
+  "tool299": {
+    "new": "relight",
+    "name": "Relight"
+  },
+  "tool1680": {
+    "new": "jpghd",
+    "name": "jpgHD"
+  },
+  "tool154": {
+    "new": "restorephotos-io",
+    "name": "restorePhotos.io"
+  },
+  "tool4246": {
+    "new": "transpic",
+    "name": "transpic"
+  },
+  "tool308": {
+    "new": "cutout-pro-2",
+    "name": "Cutout.Pro老照片上色"
+  },
+  "tool104": {
+    "new": "palette",
+    "name": "Palette"
+  },
+  "tool126": {
+    "new": "playground-ai",
+    "name": "Playground AI"
+  },
+  "tool16651": {
+    "new": "tavus-io",
+    "name": "AI数字人克隆和AI视频实时对话工具"
+  },
+  "tool15664": {
+    "new": "vizard-ai",
+    "name": "将长视频转为社交短视频的AI工具"
+  },
+  "tool12586": {
+    "new": "vivago-ai",
+    "name": "免费的AI视频生成和图像创作平台"
+  },
+  "tool987": {
+    "new": "d-id",
+    "name": "D-ID"
+  },
+  "tool15182": {
+    "new": "onestory-art",
+    "name": "专业的AI故事生成助手"
+  },
+  "tool14067": {
+    "new": "vimi",
+    "name": "Vimi"
+  },
+  "tool2670": {
+    "new": "aigc-baidu-com",
+    "name": "度加创作工具"
+  },
+  "tool8840": {
+    "new": "islide-aippt",
+    "name": "iSlide AIPPT"
+  },
+  "tool7012": {
+    "new": "bigppt-cn",
+    "name": "高效的AI PPT生成工具"
+  },
+  "tool14213": {
+    "new": "ibiling-cn-3",
+    "name": "一键生成PPT和千字演讲稿"
+  },
+  "tool995": {
+    "new": "try-gamma-app",
+    "name": "AI幻灯片演示生成工具"
+  },
+  "tool69545": {
+    "new": "chartgen-ai",
+    "name": "ChartGen AI"
+  },
+  "tool68868": {
+    "new": "tenorshare-ai",
+    "name": "免費線上 AI 圖表生成器"
+  },
+  "tool66082": {
+    "new": "ppt-quark-cn",
+    "name": "夸克团队推出的AI PPT生成工具"
+  },
+  "tool1744": {
+    "new": "designkit",
+    "name": "Designkit"
+  },
+  "tool76405": {
+    "new": "2dogppt-com",
+    "name": "去 AI 味中式职场 PPT 生成工具"
+  },
+  "tool69127": {
+    "new": "classppt-cn",
+    "name": "AI免费生成PPT课件"
+  },
+  "tool59512": {
+    "new": "voxdeck-ai",
+    "name": "创新的AI演示文稿生成工具"
+  },
+  "tool13593": {
+    "new": "chineselaw-com",
+    "name": "智能法律知识服务平台和搜索引擎"
+  },
+  "tool64973": {
+    "new": "ai-iterms-com",
+    "name": "法大大推出的AI法律工具"
+  },
+  "tool70602": {
+    "new": "meta-law",
+    "name": "AI法律类案检索与分析助手"
+  },
+  "tool11444": {
+    "new": "github-com",
+    "name": "北大开源的法律大模型和助手"
+  },
+  "tool11443": {
+    "new": "hairuilegal-com",
+    "name": "海瑞智法"
+  },
+  "tool11456": {
+    "new": "contract-yoo-ai-com",
+    "name": "专业的AI法律合同生成工具"
+  },
+  "tool65832": {
+    "new": "asktable-com",
+    "name": "察言观数AskTable"
+  },
+  "tool11865": {
+    "new": "vika-cn",
+    "name": "智能多维表格和数据生产力平台"
+  },
+  "tool373": {
+    "new": "sheet",
+    "name": "Sheet+"
+  },
+  "tool372": {
+    "new": "excelformulabot-com",
+    "name": "AI将指令转换成Excel的函数公式"
+  },
+  "tool1145": {
+    "new": "rows-com",
+    "name": "集成了AI功能的在线表格处理工具"
+  },
+  "tool1149": {
+    "new": "excelformularizer-com",
+    "name": "AI将文本输入转换为Excel公式处理"
+  },
+  "tool75337": {
+    "new": "lantay-modelbest-cn",
+    "name": "面壁智能推出的文档处理智能工作台"
+  },
+  "tool56588": {
+    "new": "wisfile-ai",
+    "name": "Wisfile: AI"
+  },
+  "tool64396": {
+    "new": "omnibox-pro",
+    "name": "解析全网内容 秒变文本生产力"
+  },
+  "tool8079": {
+    "new": "docs-qq-com",
+    "name": "腾讯推出的AI文档生成和辅助工具"
+  },
+  "tool8427": {
+    "new": "cubox-ai-read",
+    "name": "Cubox: AI Read"
+  },
+  "tool8353": {
+    "new": "quivr-app",
+    "name": "开源的知识库搭建工具，构建你的第二大脑"
+  },
+  "tool2957": {
+    "new": "coda-ai",
+    "name": "Coda AI"
+  },
+  "tool7120": {
+    "new": "read-youdao-com",
+    "name": "网易有道推出的AI论文和文档阅读助手"
+  },
+  "tool8584": {
+    "new": "wj-qq-com",
+    "name": "腾讯推出的AI生成调查问卷的免费工具"
+  },
+  "tool19652": {
+    "new": "ai-kyou-ltd",
+    "name": "AI出题工具，快速生成各类考试题目"
+  },
+  "tool5273": {
+    "new": "tongyi-aliyun-com-4",
+    "name": "通义智文_AI助手_文档阅读_人工智能"
+  },
+  "tool2106": {
+    "new": "getgetai-com",
+    "name": "字语智能"
+  },
+  "tool5564": {
+    "new": "chatdoc-xfyun-cn",
+    "name": "星火知识库"
+  },
+  "tool6509": {
+    "new": "pm-ai-cn",
+    "name": "面向产品经理的AI助手"
+  },
+  "tool3674": {
+    "new": "smartread-cc",
+    "name": "AI文档阅读分析工具"
+  },
+  "tool6765": {
+    "new": "iweaver",
+    "name": "iWeaver"
+  },
+  "tool6468": {
+    "new": "paper-iflytek-com",
+    "name": "星火科研助手"
+  },
+  "tool9794": {
+    "new": "wanzhi01-com",
+    "name": "万知 I 提问、搜索、想写什么通通问万知"
+  },
+  "tool1734": {
+    "new": "yinxiang-com",
+    "name": "印象笔记推出的AI知识和信息管理功能"
+  },
+  "tool3488": {
+    "new": "craft",
+    "name": "Craft"
+  },
+  "tool1534": {
+    "new": "boardmix-cn",
+    "name": "博思云创推出的AI多功能白板工具"
+  },
+  "tool57154": {
+    "new": "fluig-cn",
+    "name": "AI图表生成工具，一键生成思维导图、流程图"
+  },
+  "tool6235": {
+    "new": "processon-com",
+    "name": "在线AI流程图和思维导图制作工具"
+  },
+  "tool29570": {
+    "new": "wenku-baidu-com-3",
+    "name": "百度文库"
+  },
+  "tool2621": {
+    "new": "edrawsoft-cn",
+    "name": "万兴科技推出的跨端AI思维导图助手"
+  },
+  "tool13028": {
+    "new": "mapify-so",
+    "name": "Xmind推出的AI思维导图生成工具"
+  },
+  "tool6811": {
+    "new": "xiaohuazhuo-com",
+    "name": "在线协作白板工具，内置AIGC功能"
+  },
+  "tool2179": {
+    "new": "yinxiang-com-2",
+    "name": "印象AI加持的在线思维导图工具"
+  },
+  "tool6551": {
+    "new": "swdt-com",
+    "name": "知犀推出的AI思维导图生成工具"
+  },
+  "tool1869": {
+    "new": "xmind-ai",
+    "name": "Xmind AI思维导图助手"
+  },
+  "tool1155": {
+    "new": "gitmind-cn",
+    "name": "AI驱动的免费思维导图工具"
+  },
+  "tool23013": {
+    "new": "edrawsoft-cn-2",
+    "name": "万兴图示AI，你的超级办公助手，全面提升你的办公效率。"
+  },
+  "tool464": {
+    "new": "ai-mind-map",
+    "name": "AI Mind Map"
+  },
+  "tool952": {
+    "new": "amymind-com",
+    "name": "开箱即用的在线AI思维导图工具"
+  },
+  "tool709": {
+    "new": "taskade-com",
+    "name": "高颜值AI大纲和思维导图生成"
+  },
+  "tool1157": {
+    "new": "miro-com",
+    "name": "Miro 思维导图"
+  },
+  "tool56807": {
+    "new": "upcv-tech",
+    "name": "AI聊天搞定简历"
+  },
+  "tool56512": {
+    "new": "wondercv-com",
+    "name": "3分钟生成简历超千万人使用"
+  },
+  "tool73202": {
+    "new": "xmatrix-tech",
+    "name": "超矩AI协作力人才招聘平台"
+  },
+  "tool73092": {
+    "new": "aijianli-cn",
+    "name": "智简简历 - AI简历生成器"
+  },
+  "tool68863": {
+    "new": "bimiantong-com",
+    "name": "笔面通"
+  },
+  "tool66166": {
+    "new": "51mee-com",
+    "name": "浅度求索推出的AI招聘管理工具"
+  },
+  "tool57153": {
+    "new": "gank-ai",
+    "name": "Gank AI"
+  },
+  "tool1949": {
+    "new": "52cv-com",
+    "name": "职徒简历52cv"
+  },
+  "tool724": {
+    "new": "feishu-cn",
+    "name": "飞书智能会议纪要和快捷语音识别转文字"
+  },
+  "tool720": {
+    "new": "otter-ai",
+    "name": "AI会议内容生成和实时转录"
+  },
+  "tool8649": {
+    "new": "meeting-tencent-com",
+    "name": "腾讯会议推出的AI会议内容助理"
+  },
+  "tool1185": {
+    "new": "work-duiopen-com",
+    "name": "思必驰推出的AI会议助手，语音转文字、字幕同传、AI摘要"
+  },
+  "tool718": {
+    "new": "fireflies-ai",
+    "name": "AI会议转录和会议纪要生成工具"
+  },
+  "tool1807": {
+    "new": "airgram-io",
+    "name": "自动会议笔记和总结的AI助手"
+  },
+  "tool26420": {
+    "new": "ima-qq-com",
+    "name": "腾讯推出的AI知识库工具"
+  },
+  "tool605": {
+    "new": "tinywow-com",
+    "name": "免费在线AI工具箱"
+  },
+  "tool58413": {
+    "new": "ponder-ing",
+    "name": "AI知识管理和思维导图工具"
+  },
+  "tool59463": {
+    "new": "wolai-com",
+    "name": "AI云端协作平台与个人笔记工具"
+  },
+  "tool71587": {
+    "new": "easyclaw",
+    "name": "EasyClaw"
+  },
+  "tool68533": {
+    "new": "mtywatch-com",
+    "name": "猫头鹰智能网页订阅"
+  },
+  "tool68449": {
+    "new": "miaoyan-cn",
+    "name": "秒言官网"
+  },
+  "tool63755": {
+    "new": "findme-net-cn",
+    "name": "Knowly（找我呀AI知识助手）"
+  },
+  "tool17620": {
+    "new": "lingxi-wps-cn",
+    "name": "金山办公WPS推出的原生Office办公智能体"
+  },
+  "tool13394": {
+    "new": "qimi-com",
+    "name": "美图推出的游戏广告AI制作与投放平台"
+  },
+  "tool3921": {
+    "new": "pan-baidu-com-2",
+    "name": "百度网盘最新推出的智能助理"
+  },
+  "tool482": {
+    "new": "tome",
+    "name": "Tome"
+  },
+  "tool13103": {
+    "new": "karakeep",
+    "name": "Karakeep"
+  },
+  "tool11524": {
+    "new": "tongdaai-com",
+    "name": "企业AI数字员工生成平台"
+  },
+  "tool11300": {
+    "new": "yingdao-com",
+    "name": "面向企业的无代码AI开发和集成平台"
+  },
+  "tool13038": {
+    "new": "kaopuai-com",
+    "name": "无代码AI机器人创建平台"
+  },
+  "tool72334": {
+    "new": "tongchuan-iflyrec-com",
+    "name": "科大讯飞推出的专业AI同声传译平台"
+  },
+  "tool16725": {
+    "new": "immersivetranslate-com",
+    "name": "双语对照的网页翻译插件，完全免费 口碑炸裂！"
+  },
+  "tool1384": {
+    "new": "deepl-com",
+    "name": "准确的人工智能翻译工具"
+  },
+  "tool1381": {
+    "new": "translate-google-com",
+    "name": "Google免费提供的上百种语言智能翻译工具"
+  },
+  "tool61392": {
+    "new": "d-design-7",
+    "name": "AI图片翻译工具，自动翻译图片文字内容"
+  },
+  "tool64787": {
+    "new": "transorai",
+    "name": "TransorAI"
+  },
+  "tool25959": {
+    "new": "huiyiai-net",
+    "name": "沉浸对照式AI翻译，支持100+语言"
+  },
+  "tool26673": {
+    "new": "transmart-qq-com",
+    "name": "腾讯推出的多语言AI翻译工具"
+  },
+  "tool20226": {
+    "new": "deeptranslate",
+    "name": "Deeptranslate"
+  },
+  "tool1387": {
+    "new": "bing-com",
+    "name": "微软必应推出的翻译工具"
+  },
+  "tool16079": {
+    "new": "trytoby",
+    "name": "Trytoby"
+  },
+  "tool1363": {
+    "new": "fanyi-baidu-com",
+    "name": "200种语言互译、沟通全世界！"
+  },
+  "tool1851": {
+    "new": "translate-alibaba-com",
+    "name": "阿里翻译"
+  },
+  "tool1369": {
+    "new": "fanyi-sogou-com",
+    "name": "你的贴身智能翻译专家"
+  },
+  "tool1372": {
+    "new": "fanyi-qq-com",
+    "name": "你免费的随身翻译"
+  },
+  "tool2921": {
+    "new": "xiangjifanyi-com",
+    "name": "象寄翻译"
+  },
+  "tool1389": {
+    "new": "fanyi-xfyun-cn",
+    "name": "科大讯飞推出的人工智能翻译平台"
+  },
+  "tool1378": {
+    "new": "fanyi-caiyunapp-com",
+    "name": "彩云小译官网"
+  },
+  "tool1366": {
+    "new": "fanyi-baidu-com-2",
+    "name": "中英文音视频同传字幕工具"
+  },
+  "tool1854": {
+    "new": "kuaiyi-wps-cn",
+    "name": "金山快译"
+  },
+  "tool5947": {
+    "new": "feishu-cn-2",
+    "name": "字节旗下飞书平台推出的AI办公助手"
+  },
+  "tool1767": {
+    "new": "page-dingtalk-com",
+    "name": "钉钉AI助理"
+  },
+  "tool4080": {
+    "new": "workspace-dingtalk-com",
+    "name": "钉钉·个人版"
+  },
+  "tool70016": {
+    "new": "mgx-dev",
+    "name": "第一支自动构建真实业务的 AI 团队"
+  },
+  "tool63774": {
+    "new": "aipyaipy-com",
+    "name": "AiPy，超级AI牛马智能体工厂，爱派AiPy软件官网"
+  },
+  "tool72614": {
+    "new": "web-tabbit-ai-com",
+    "name": "美团光年之外推出的AI原生浏览器"
+  },
+  "tool77488": {
+    "new": "d-design-8",
+    "name": "堆友推出的 AI 设计智能体"
+  },
+  "tool65797": {
+    "new": "coze-cn",
+    "name": "免费全能的AI办公智能体"
+  },
+  "tool73160": {
+    "new": "codebuddy-cn",
+    "name": "腾讯云推出的AI原生桌面智能体工作台"
+  },
+  "tool73229": {
+    "new": "autoglm-zhipuai-cn",
+    "name": "AutoClaw（澳龙）"
+  },
+  "tool77977": {
+    "new": "marvis-qq-com",
+    "name": "Marvis马维斯"
+  },
+  "tool73661": {
+    "new": "dingtalk-com",
+    "name": "钉钉悟空"
+  },
+  "tool71899": {
+    "new": "happycapy",
+    "name": "Happycapy"
+  },
+  "tool67498": {
+    "new": "lovart-ai",
+    "name": "LiblibAI推出的全球首个设计智能体"
+  },
+  "tool77198": {
+    "new": "todesk-com",
+    "name": "ToDesk远程桌面软件"
+  },
+  "tool75154": {
+    "new": "singclaw-ai",
+    "name": "一款会记忆的 AI 数据桌面助手"
+  },
+  "tool74636": {
+    "new": "nexu-open",
+    "name": "nexu — Open"
+  },
+  "tool72152": {
+    "new": "xyq-jianying-com",
+    "name": "小云雀AI"
+  },
+  "tool72406": {
+    "new": "scholar-search",
+    "name": "Scholar Search"
+  },
+  "tool71465": {
+    "new": "memu-bot",
+    "name": "7*24小时全天候运行的AI个人助手"
+  },
+  "tool61891": {
+    "new": "jiaotuai-cn",
+    "name": "深度适配中文场景的AI修图智能体"
+  },
+  "tool69201": {
+    "new": "yh-bdbdigital-com",
+    "name": "数字人对话智能体创作平台"
+  },
+  "tool67818": {
+    "new": "agent-bitaihub-com",
+    "name": "专注电商领域的全能AI运营智能体"
+  },
+  "tool60115": {
+    "new": "ruciapp-com",
+    "name": "国内首个全链路营销获客AI Agent"
+  },
+  "tool58991": {
+    "new": "scimaster-towards-general",
+    "name": "SciMaster ｜ Towards General"
+  },
+  "tool58058": {
+    "new": "myshell-ai",
+    "name": "MyShell AI"
+  },
+  "tool60767": {
+    "new": "powerdrill-bloom",
+    "name": "Powerdrill Bloom"
+  },
+  "tool14769": {
+    "new": "doudou-paluai-com",
+    "name": "AI游戏陪玩，支持原神、黑神话、LOL！"
+  },
+  "tool736": {
+    "new": "gemini",
+    "name": "Gemini"
+  },
+  "tool5368": {
+    "new": "grok",
+    "name": "Grok"
+  },
+  "tool64622": {
+    "new": "ling-tbox-cn",
+    "name": "蚂蚁集团推出的 Ling-1T 大模型对话体验平台"
+  },
+  "tool9802": {
+    "new": "stepfun-com",
+    "name": "阶跃星辰推出的支持多模态的AI聊天机器人"
+  },
+  "tool11529": {
+    "new": "chat-sensetime-com",
+    "name": "商汤科技推出的免费AI聊天助手"
+  },
+  "tool21956": {
+    "new": "sayloai-com",
+    "name": "AI驱动的故事角色扮演游戏应用，沉浸式的剧本互动体验"
+  },
+  "tool459": {
+    "new": "poe",
+    "name": "Poe"
+  },
+  "tool6019": {
+    "new": "copilot-microsoft-com",
+    "name": "微软推出的网页版Copilot助手"
+  },
+  "tool137": {
+    "new": "character-ai",
+    "name": "Character.AI"
+  },
+  "tool11358": {
+    "new": "meta-ai",
+    "name": "Meta推出的免费AI聊天助手"
+  },
+  "tool457": {
+    "new": "bing-com-2",
+    "name": "Bing新必应"
+  },
+  "tool14989": {
+    "new": "seeleagent",
+    "name": "SeeleAgent"
+  },
+  "tool14310": {
+    "new": "tongyi-aliyun-com-5",
+    "name": "用AI定制属于你自己的IP角色"
+  },
+  "tool14574": {
+    "new": "dola-browser-ai-copilot",
+    "name": "Dola, browser AI copilot."
+  },
+  "tool4453": {
+    "new": "chat-baichuan-ai-com",
+    "name": "百小医"
+  },
+  "tool8874": {
+    "new": "chat-mistral-ai",
+    "name": "Mistral推出的AI对话聊天助手"
+  },
+  "tool6290": {
+    "new": "qianfanmarket-baidu-com",
+    "name": "百度超级助理"
+  },
+  "tool14297": {
+    "new": "wanderboat-ai",
+    "name": "硅谷初创公司UTA AI推出的AI旅行助手"
+  },
+  "tool5533": {
+    "new": "langboat-com",
+    "name": "孟子GPT"
+  },
+  "tool4362": {
+    "new": "luca-beta-modelbest-cn",
+    "name": "面壁智能推出的千亿多模态大模型免费智能对话助手"
+  },
+  "tool5678": {
+    "new": "chat-xverse-cn",
+    "name": "元象XVERSE大模型驱动的AI聊天助手"
+  },
+  "tool6101": {
+    "new": "chitchop",
+    "name": "ChitChop"
+  },
+  "tool3403": {
+    "new": "modelscopegpt",
+    "name": "ModelScopeGPT"
+  },
+  "tool2034": {
+    "new": "forefront",
+    "name": "Forefront"
+  },
+  "tool2771": {
+    "new": "tigerbot",
+    "name": "TigerBot"
+  },
+  "tool3973": {
+    "new": "stable-chat",
+    "name": "Stable Chat"
+  },
+  "tool1220": {
+    "new": "colossalchat",
+    "name": "ColossalChat"
+  },
+  "tool140": {
+    "new": "you-com",
+    "name": "You.com"
+  },
+  "tool139": {
+    "new": "flowith",
+    "name": "Flowith"
+  },
+  "tool138": {
+    "new": "replika",
+    "name": "Replika"
+  },
+  "tool1656": {
+    "new": "open-assistant",
+    "name": "Open Assistant"
+  },
+  "tool2122": {
+    "new": "pi-ai",
+    "name": "Pi"
+  },
+  "tool1710": {
+    "new": "inworld",
+    "name": "Inworld"
+  },
+  "tool1714": {
+    "new": "ai-360-com",
+    "name": "360搜索最新推出的AI对话聊天机器人"
+  },
+  "tool4655": {
+    "new": "hailuoai-com",
+    "name": "海螺视频：每个想法都是一部大片"
+  },
+  "tool56948": {
+    "new": "anthropic-com",
+    "name": "Anthropic 推出的AI编程工具"
+  },
+  "tool69134": {
+    "new": "zcode-ai-com",
+    "name": "智谱推出的轻量级AI IDE编程工具"
+  },
+  "tool60798": {
+    "new": "ai-app-builder",
+    "name": "AI App Builder"
+  },
+  "tool70526": {
+    "new": "monkeycode-ai-com",
+    "name": "MonkeyCode 智能开发平台"
+  },
+  "tool64688": {
+    "new": "cli-iflow-cn",
+    "name": "心流AI推出的免费终端 AI 智能体"
+  },
+  "tool5269": {
+    "new": "lingma-aliyun-com",
+    "name": "通义灵码_你的智能编码助手"
+  },
+  "tool45": {
+    "new": "github-com-2",
+    "name": "GitHub推出的AI编程工具"
+  },
+  "tool61842": {
+    "new": "warp-dev",
+    "name": "Warp推出的AI编程工具"
+  },
+  "tool1616": {
+    "new": "aws-amazon-com",
+    "name": "亚马逊推出的免费AI编程助手"
+  },
+  "tool789": {
+    "new": "codium-ai",
+    "name": "（原CodiumAI）AI开发平台"
+  },
+  "tool1131": {
+    "new": "codegeex-cn",
+    "name": "智谱AI推出的免费AI编程助手"
+  },
+  "tool4099": {
+    "new": "comate-baidu-com",
+    "name": "百度推出的AI编程助手，基于文心大模型"
+  },
+  "tool4055": {
+    "new": "iflycode-xfyun-cn",
+    "name": "科大讯飞推出的智能编程助手"
+  },
+  "tool12491": {
+    "new": "idx-dev",
+    "name": "谷歌推出的AI云端开发和代码编辑器"
+  },
+  "tool55229": {
+    "new": "huaweicloud-com",
+    "name": "华为推出的一站式AI编程助手"
+  },
+  "tool938": {
+    "new": "sketch2code",
+    "name": "Sketch2Code"
+  },
+  "tool5256": {
+    "new": "codefuse-alipay-com",
+    "name": "蚂蚁集团推出的AI代码编程助手"
+  },
+  "tool9382": {
+    "new": "tabby-tabbyml-com",
+    "name": "免费开源的自托管AI编程助手"
+  },
+  "tool11812": {
+    "new": "so-csdn-net",
+    "name": "CSDN推出的AI技术问答工具"
+  },
+  "tool11414": {
+    "new": "about-gitlab-com",
+    "name": "GitLab推出的AI编程助手"
+  },
+  "tool10880": {
+    "new": "plandex-ai",
+    "name": "免费开源的基于终端的AI编程引擎"
+  },
+  "tool7587": {
+    "new": "code-fittentech-com",
+    "name": "非十科技推出的免费AI代码助手"
+  },
+  "tool1908": {
+    "new": "useblackbox-io",
+    "name": "黑箱AI编程助理，快速代码生成"
+  },
+  "tool6557": {
+    "new": "jetbrains-com",
+    "name": "JetBrains推出的AI编程开发助手"
+  },
+  "tool980": {
+    "new": "askcodi-com",
+    "name": "你的个人AI编程助手"
+  },
+  "tool4794": {
+    "new": "v0-app",
+    "name": "Vercel推出的AI全栈应用构建工具"
+  },
+  "tool2610": {
+    "new": "boxy",
+    "name": "Boxy"
+  },
+  "tool3051": {
+    "new": "quest",
+    "name": "Quest"
+  },
+  "tool1801": {
+    "new": "sky-code-singularity-ai-com",
+    "name": "天工智码Skycode"
+  },
+  "tool2192": {
+    "new": "jam-dev",
+    "name": "AI Debug调试助手"
+  },
+  "tool1774": {
+    "new": "aixcoder",
+    "name": "aiXcoder"
+  },
+  "tool772": {
+    "new": "airops",
+    "name": "AirOps"
+  },
+  "tool2325": {
+    "new": "imgcook-com",
+    "name": "阿里推出的免费设计稿智能生成前端代码"
+  },
+  "tool2051": {
+    "new": "ling-deco-jd-com",
+    "name": "京东推出的设计稿一键生成多端代码工具"
+  },
+  "tool853": {
+    "new": "replit-ai",
+    "name": "Replit AI"
+  },
+  "tool791": {
+    "new": "codiga-io",
+    "name": "AI代码实时分析"
+  },
+  "tool933": {
+    "new": "locofy-ai",
+    "name": "AI无代码工具将Figma、Adobe "
+  },
+  "tool161": {
+    "new": "marsx-dev",
+    "name": "AI无代码软件开发"
+  },
+  "tool110": {
+    "new": "tabnine-com",
+    "name": "AI代码自动补全编程助手"
+  },
+  "tool1493": {
+    "new": "debuild",
+    "name": "Debuild"
+  },
+  "tool116": {
+    "new": "warp-dev-2",
+    "name": "21世纪的终端工具（内置AI命令搜索）"
+  },
+  "tool114": {
+    "new": "kiro-cli",
+    "name": "Kiro CLI"
+  },
+  "tool113": {
+    "new": "codesnippets-ai",
+    "name": "AI代码生成、补全、分析、重构和调试"
+  },
+  "tool2127": {
+    "new": "hocoos",
+    "name": "Hocoos"
+  },
+  "tool480": {
+    "new": "httpie-io",
+    "name": "AI API开发工具"
+  },
+  "tool112": {
+    "new": "visualstudio-microsoft-com",
+    "name": "Visual Studio AI辅助开发"
+  },
+  "tool115": {
+    "new": "heycli-com",
+    "name": "自然语言转义为CLI命令"
+  },
+  "tool111": {
+    "new": "devin",
+    "name": "Devin"
+  },
+  "tool2648": {
+    "new": "modao-cc",
+    "name": "AI秒生原型稿"
+  },
+  "tool13896": {
+    "new": "figma-com",
+    "name": "Figma推出的原生AI设计工具"
+  },
+  "tool10754": {
+    "new": "135editor-com",
+    "name": "公众号AI图文排版和智能文案生成工具"
+  },
+  "tool12503": {
+    "new": "try-wegic-ai",
+    "name": "AI网页设计和建站开发工具"
+  },
+  "tool4435": {
+    "new": "paico-cn",
+    "name": "Pixso推出的AI设计工具"
+  },
+  "tool73947": {
+    "new": "stitch-withgoogle-com",
+    "name": "Google Labs 推出的 AI 原生设计工具"
+  },
+  "tool13019": {
+    "new": "aiart-chuangkit-com-2",
+    "name": "AI辅助的智能在线设计工具"
+  },
+  "tool60993": {
+    "new": "design-gemcoder-com",
+    "name": "AI原生高保真原型设计工具"
+  },
+  "tool28903": {
+    "new": "idesign-alipay-com",
+    "name": "蚂上有创意"
+  },
+  "tool24811": {
+    "new": "isheji-com",
+    "name": "爱设计在线设计神器_平面设计网站_作图就用爱设计"
+  },
+  "tool72579": {
+    "new": "pagepop-cn",
+    "name": "一站式全能AI内容创作和设计平台"
+  },
+  "tool945": {
+    "new": "designer-microsoft-com",
+    "name": "微软推出的在线设计海报和宣传图工具"
+  },
+  "tool65752": {
+    "new": "uxbot",
+    "name": "UXBot"
+  },
+  "tool595": {
+    "new": "looka-com",
+    "name": "AI在线设计和生成logo"
+  },
+  "tool1954": {
+    "new": "taishan-qq-com",
+    "name": "腾讯推出的智能设计平台，让内容更精彩"
+  },
+  "tool4487": {
+    "new": "figma-com-2",
+    "name": "Figma推出的AI白板协作设计工具"
+  },
+  "tool1986": {
+    "new": "d-design-9",
+    "name": "阿里推出的智能设计商品图和海报的平台"
+  },
+  "tool1087": {
+    "new": "canva-com",
+    "name": "在线设计工具Canva推出的AI设计工具"
+  },
+  "tool12673": {
+    "new": "pictographic-io",
+    "name": "AI插图资源库和生成平台"
+  },
+  "tool10172": {
+    "new": "prism",
+    "name": "Prism"
+  },
+  "tool9977": {
+    "new": "collov-cn",
+    "name": "AI室内家居设计生成平台"
+  },
+  "tool14683": {
+    "new": "ibaotu-com",
+    "name": "包图网提供的特色图库服务"
+  },
+  "tool9772": {
+    "new": "creatie",
+    "name": "Creatie"
+  },
+  "tool7993": {
+    "new": "kittl-com",
+    "name": "AI驱动的平面图形设计工具"
+  },
+  "tool12132": {
+    "new": "dzine-ai",
+    "name": "一站式AI图像编辑和设计工具"
+  },
+  "tool12026": {
+    "new": "ilus-ai",
+    "name": "AI插画插图生成工具"
+  },
+  "tool2891": {
+    "new": "framer-ai",
+    "name": "Framer AI"
+  },
+  "tool4004": {
+    "new": "motiff-com",
+    "name": "猿辅导旗下推出的AI界面设计工具"
+  },
+  "tool6797": {
+    "new": "pimento-design",
+    "name": "人工智能驱动的设计创意和视觉参考平台"
+  },
+  "tool6622": {
+    "new": "logodiffusion-com",
+    "name": "AI驱动的Logo和标志生成工具"
+  },
+  "tool2780": {
+    "new": "realibox-com",
+    "name": "AI免费将草图/模型生成3D渲染图"
+  },
+  "tool3632": {
+    "new": "modaiyun-com",
+    "name": "模袋云AI"
+  },
+  "tool2235": {
+    "new": "vizcom-ai",
+    "name": "AI渲染转化手绘图为产品设计图"
+  },
+  "tool2462": {
+    "new": "dora-ai",
+    "name": "Dora AI"
+  },
+  "tool1202": {
+    "new": "spline-ai-3d-generation",
+    "name": "Spline AI 3D Generation"
+  },
+  "tool9943": {
+    "new": "hihaibao-com",
+    "name": "免费批量生成在线可编辑的AI海报工具"
+  },
+  "tool176": {
+    "new": "illostration-com",
+    "name": "AI插画生成，low poly、3D、矢"
+  },
+  "tool122": {
+    "new": "uizard-ai",
+    "name": "Uizard AI"
+  },
+  "tool923": {
+    "new": "luma",
+    "name": "Luma"
+  },
+  "tool1989": {
+    "new": "logo-aliyun-com",
+    "name": "阿里云智能logo设计"
+  },
+  "tool3433": {
+    "new": "fabrie-com",
+    "name": "在线白板协作平台Fabrie推出的AI设"
+  },
+  "tool172": {
+    "new": "illustroke-com",
+    "name": "AI SVG矢量插画生成工具"
+  },
+  "tool168": {
+    "new": "colors-eva-design",
+    "name": "基于深度学习的色彩生成工具"
+  },
+  "tool165": {
+    "new": "brandmark-io",
+    "name": "AI灰度logo或插画上色工具"
+  },
+  "tool164": {
+    "new": "huemint-com",
+    "name": "AI调色生成工具"
+  },
+  "tool162": {
+    "new": "obviously-ai",
+    "name": "Obviously AI"
+  },
+  "tool160": {
+    "new": "logomaster-ai",
+    "name": "AI Logo生成工具"
+  },
+  "tool108": {
+    "new": "appicons-ai",
+    "name": "AppIcons.AI"
+  },
+  "tool107": {
+    "new": "iconifyai-com",
+    "name": "AI App图标生成器"
+  },
+  "tool106": {
+    "new": "khroma",
+    "name": "Khroma"
+  },
+  "tool1059": {
+    "new": "jsai-cc",
+    "name": "即时设计推出的由文本描述生成可编辑的原型设计稿"
+  },
+  "tool1825": {
+    "new": "alpaca",
+    "name": "Alpaca"
+  },
+  "tool1924": {
+    "new": "moyin-com",
+    "name": "魔音工坊"
+  },
+  "tool246": {
+    "new": "peiyin-xunfei-cn",
+    "name": "讯飞配音"
+  },
+  "tool75064": {
+    "new": "douge-com",
+    "name": "逗哥配音神器"
+  },
+  "tool6968": {
+    "new": "suno-ai",
+    "name": "高质量的AI音乐创作平台"
+  },
+  "tool4294": {
+    "new": "try-elevenlabs-io",
+    "name": "AI文本转语音，支持包含中文在内的29种语言"
+  },
+  "tool21562": {
+    "new": "notebooklm-google",
+    "name": "谷歌推出的AI笔记应用，5分钟生成一段对话播客"
+  },
+  "tool13336": {
+    "new": "haimian-com",
+    "name": "字节跳动推出的免费AI音乐创作和发现平台"
+  },
+  "tool74132": {
+    "new": "qx-utiliverse-site",
+    "name": "视频音频转文字提取"
+  },
+  "tool69917": {
+    "new": "turboscribe-ai",
+    "name": "专业 AI 音视频转文字工具"
+  },
+  "tool18655": {
+    "new": "yinfeng-cn",
+    "name": "Mureka：AI音乐生成器，轻松创作旋律、歌曲与歌词"
+  },
+  "tool8681": {
+    "new": "vocu-ai",
+    "name": "Vocu AI"
+  },
+  "tool14885": {
+    "new": "ttsmaker-cn",
+    "name": "在线免费文字转语音"
+  },
+  "tool1903": {
+    "new": "ai-vocals-and-text-to-speech",
+    "name": "AI Vocals and Text To Speech"
+  },
+  "tool11193": {
+    "new": "sonauto-ai",
+    "name": "免费的AI音乐生成和歌曲创作工具"
+  },
+  "tool11251": {
+    "new": "tiangong-cn-2",
+    "name": "昆仑万维发布的国内首个AI音乐生成大模型"
+  },
+  "tool596": {
+    "new": "riffusion",
+    "name": "Riffusion"
+  },
+  "tool12763": {
+    "new": "voicenotes-com",
+    "name": "AI驱动的语音笔记工具"
+  },
+  "tool11254": {
+    "new": "optimizerai-xyz",
+    "name": "AI声音效果生成工具"
+  },
+  "tool2642": {
+    "new": "acestudio-cn",
+    "name": "AI歌声合成工具，输入歌词与旋律即可生成宛如真人的歌声"
+  },
+  "tool10145": {
+    "new": "aigc-unisound-com",
+    "name": "云知声旗下的AI配音和声音克隆平台"
+  },
+  "tool9548": {
+    "new": "deepgram-com",
+    "name": "快速低成本的AI语音文本互转API平台"
+  },
+  "tool124": {
+    "new": "resemble-ai",
+    "name": "Resemble AI"
+  },
+  "tool121": {
+    "new": "ibm-com-2",
+    "name": "IBM Watson文字转语音"
+  },
+  "tool255": {
+    "new": "fakeyou-com",
+    "name": "Deep Fake文本转语音"
+  },
+  "tool6544": {
+    "new": "kzzimu-com",
+    "name": "AI语音视频转文字和字幕的工具"
+  },
+  "tool10631": {
+    "new": "soundbug-com",
+    "name": "内置AI音乐编曲的音乐制作工具"
+  },
+  "tool397": {
+    "new": "mubert-com",
+    "name": "AI BGM背景音乐生成工具"
+  },
+  "tool2160": {
+    "new": "beatoven-ai",
+    "name": "免版税AI音乐创建平台"
+  },
+  "tool1965": {
+    "new": "splash",
+    "name": "Splash"
+  },
+  "tool119": {
+    "new": "audo-ai",
+    "name": "AI音频清洗工具（噪音消除、声音平衡、音量调节）"
+  },
+  "tool120": {
+    "new": "assemblyai-com",
+    "name": "转录和理解语音的AI模型"
+  },
+  "tool118": {
+    "new": "lalal-ai",
+    "name": "AI人声乐器分离和提取"
+  },
+  "tool47": {
+    "new": "krisp-ai",
+    "name": "AI噪音消除工具"
+  },
+  "tool253": {
+    "new": "play-ht",
+    "name": "超真实在线AI语音生成"
+  },
+  "tool251": {
+    "new": "murf-ai",
+    "name": "AI文本转语音生成工具"
+  },
+  "tool80": {
+    "new": "soundraw",
+    "name": "Soundraw"
+  },
+  "tool81": {
+    "new": "boomy-com",
+    "name": "AI快速生成原创音乐的平台"
+  },
+  "tool250": {
+    "new": "typecast-ai",
+    "name": "在线AI文字转语音生成工具"
+  },
+  "tool249": {
+    "new": "veed-io",
+    "name": "Veed推出的AI语音生成器"
+  },
+  "tool247": {
+    "new": "clipchamp-com",
+    "name": "Clipchamp的文字转语音生成器"
+  },
+  "tool404": {
+    "new": "metavoice",
+    "name": "MetaVoice"
+  },
+  "tool248": {
+    "new": "speechify-com",
+    "name": "超5000万人都在用的文字转语音朗读器"
+  },
+  "tool403": {
+    "new": "voicemaker-in",
+    "name": "AI文本到语音生成工具"
+  },
+  "tool401": {
+    "new": "listnr-tech",
+    "name": "AI文本到语音生成器"
+  },
+  "tool400": {
+    "new": "voicemod-net",
+    "name": "AI变声工具"
+  },
+  "tool398": {
+    "new": "wellsaid-labs",
+    "name": "WellSaid Labs"
+  },
+  "tool1301": {
+    "new": "notta-ai",
+    "name": "AI在线将语音转换成文字"
+  },
+  "tool15309": {
+    "new": "b-quark-cn",
+    "name": "集AI搜索、网盘、文档、创作等功能于一体的应用"
+  },
+  "tool58169": {
+    "new": "bohrium-com",
+    "name": "新一代科研知识库与AI学术搜索平台"
+  },
+  "tool14355": {
+    "new": "aminer-cn",
+    "name": "智谱AI推出的大模型学术平台"
+  },
+  "tool14200": {
+    "new": "iflow-cn",
+    "name": "阿里旗下推出的AI搜索助手"
+  },
+  "tool7108": {
+    "new": "devv-ai",
+    "name": "面向程序员的新一代AI搜索引擎"
+  },
+  "tool62941": {
+    "new": "n-cn",
+    "name": "360推出的新一代超级AI搜索工具"
+  },
+  "tool15865": {
+    "new": "lianqiai-cn",
+    "name": "链企AI ｜ 链企智能"
+  },
+  "tool11897": {
+    "new": "so-360-com",
+    "name": "360推出的新一代AI搜索引擎"
+  },
+  "tool9857": {
+    "new": "reportify-cc",
+    "name": "AI投资研究问答搜索引擎"
+  },
+  "tool11849": {
+    "new": "iask-ai",
+    "name": "快速准确的AI搜索引擎"
+  },
+  "tool11848": {
+    "new": "consensus-app",
+    "name": "AI科研学术搜索引擎"
+  },
+  "tool11850": {
+    "new": "komo-ai",
+    "name": "简洁直观的AI搜索引擎"
+  },
+  "tool11853": {
+    "new": "searcholic",
+    "name": "Searcholic"
+  },
+  "tool11855": {
+    "new": "thinkany-ai",
+    "name": "新时代的AI搜索引擎"
+  },
+  "tool11851": {
+    "new": "hellomiku-com",
+    "name": "快速精准的AI搜索引擎"
+  },
+  "tool12880": {
+    "new": "kaisouai-com",
+    "name": "开搜AI"
+  },
+  "tool15446": {
+    "new": "bigmodel-cn-2",
+    "name": "智谱AI开放平台"
+  },
+  "tool61081": {
+    "new": "aistudio-google-com",
+    "name": "免费体验和测试 Google 最新的 AI 模型"
+  },
+  "tool65189": {
+    "new": "cloud-fastgpt-cn",
+    "name": "免费AI工作流搭建工具 自动化提高效率"
+  },
+  "tool77621": {
+    "new": "qianwenai-com",
+    "name": "阿里云推出的全新MaaS模型服务平台"
+  },
+  "tool75263": {
+    "new": "meoo-com",
+    "name": "阿里推出的首个对话式AI开发工具"
+  },
+  "tool77243": {
+    "new": "wanxiaozhi-aliyun-com",
+    "name": "阿里云推出的企业级 AI 建站平台"
+  },
+  "tool77069": {
+    "new": "myaifast-com",
+    "name": "麦芽AI企业用户平台"
+  },
+  "tool77159": {
+    "new": "ecloud-10086-cn",
+    "name": "移动云官网"
+  },
+  "tool68455": {
+    "new": "lingguang-com",
+    "name": "蚂蚁推出的AI对话与应用生成平台"
+  },
+  "tool66477": {
+    "new": "ebcloud-com",
+    "name": "英博数科推出的GPU智算服务云平台"
+  },
+  "tool67000": {
+    "new": "inscode-net",
+    "name": "InsCode 快马"
+  },
+  "tool71707": {
+    "new": "shuyanai-com",
+    "name": "企业级AI数据与模型服务平台"
+  },
+  "tool65534": {
+    "new": "dmxapi-cn",
+    "name": "一个Key用全球大模型"
+  },
+  "tool64827": {
+    "new": "tokenpony-cn",
+    "name": "小马算力 Token Pony"
+  },
+  "tool58318": {
+    "new": "refly-ai",
+    "name": "Refly.ai"
+  },
+  "tool8536": {
+    "new": "tianrang-com",
+    "name": "一站式AI应用开发平台"
+  },
+  "tool52953": {
+    "new": "ppio-cn",
+    "name": "AI云端一体化解决方案服务平台"
+  },
+  "tool16414": {
+    "new": "tbox-alipay-com",
+    "name": "让AI应用的创作像呼吸一样简单"
+  },
+  "tool60829": {
+    "new": "wavespeed-ai",
+    "name": "AI图像和AI视频生成加速服务平台"
+  },
+  "tool62159": {
+    "new": "longcat-chat-2",
+    "name": "美团推出的大模型API服务平台"
+  },
+  "tool61576": {
+    "new": "x-aio-com",
+    "name": "高性能、高性价比的 AI API 平台"
+  },
+  "tool60619": {
+    "new": "shengsuanyun-com",
+    "name": "AI模型算力聚合平台，聚合全球100+大模型"
+  },
+  "tool11229": {
+    "new": "agents-baidu-com",
+    "name": "百度推出的智能体构建平台"
+  },
+  "tool11786": {
+    "new": "betteryeah-com",
+    "name": "企业AI应用和助手构建平台"
+  },
+  "tool63": {
+    "new": "paddlepaddle-org-cn",
+    "name": "开源深度学习平台"
+  },
+  "tool2022": {
+    "new": "mindspore-cn",
+    "name": "华为开源的自研AI深度学习框架"
+  },
+  "tool48": {
+    "new": "tensorflow-org",
+    "name": "Google推出的机器学习和人工智能开源库"
+  },
+  "tool62": {
+    "new": "mxnet-apache-org",
+    "name": "免费开源的深度学习框架"
+  },
+  "tool3013": {
+    "new": "sdk-vercel-ai",
+    "name": "Vercel开源的搭建AI聊天机器人的开"
+  },
+  "tool64": {
+    "new": "caffe-berkeleyvision-org",
+    "name": "UC伯克利研究推出的深度学习框架"
+  },
+  "tool780": {
+    "new": "numpy-org",
+    "name": "Python科学计算必备的包"
+  },
+  "tool1268": {
+    "new": "deeplearning4j-suite-overview",
+    "name": "Deeplearning4j Suite Overview"
+  },
+  "tool1273": {
+    "new": "nltk-org",
+    "name": "Python自然语言处理工具包"
+  },
+  "tool1430": {
+    "new": "docs-langchain-com",
+    "name": "开发由语言模型驱动的应用程序的框架"
+  },
+  "tool1848": {
+    "new": "lightning-ai",
+    "name": "快速训练、部署和开发人工智能产品的深度学"
+  },
+  "tool2625": {
+    "new": "tryleap-ai",
+    "name": "将AI快速集成到你自己的应用中"
+  },
+  "tool1450": {
+    "new": "aidaxue-com",
+    "name": "科大讯飞推出的在线AI学习平台"
+  },
+  "tool1356": {
+    "new": "fast-ai",
+    "name": "fast.ai"
+  },
+  "tool60386": {
+    "new": "xue8nav-com",
+    "name": "学习爱好者首选的学霸导航网站"
+  },
+  "tool72897": {
+    "new": "lynote-ai",
+    "name": "Lynote – 一站式 AI 学习助手"
+  },
+  "tool22": {
+    "new": "best-of-machine-learning-ai",
+    "name": "Best of Machine Learning & AI"
+  },
+  "tool19": {
+    "new": "elementsofai-com",
+    "name": "免费在线AI通识学习课程"
+  },
+  "tool18": {
+    "new": "deeplearning-ai",
+    "name": "深度学习和人工智能学习平台"
+  },
+  "tool21": {
+    "new": "kaggle-com",
+    "name": "机器学习和数据科学社区"
+  },
+  "tool434": {
+    "new": "brilliant-org",
+    "name": "Brilliant推出的Introduc"
+  },
+  "tool6807": {
+    "new": "trancy-org",
+    "name": "AI驱动的语言学习工具"
+  },
+  "tool7785": {
+    "new": "coach-microsoft-com",
+    "name": "微软推出的免费个性化AI阅读学习教练"
+  },
+  "tool23": {
+    "new": "aistudio-baidu-com",
+    "name": "百度推出的AI学习与实训社区"
+  },
+  "tool1057": {
+    "new": "developer-aliyun-com",
+    "name": "阿里云推出的人工智能学习路线（学+测）"
+  },
+  "tool1444": {
+    "new": "showmeai",
+    "name": "ShowMeAI"
+  },
+  "tool5973": {
+    "new": "ollama-ai",
+    "name": "本地运行Llama和其他大语言模型"
+  },
+  "tool1487": {
+    "new": "modelscope-cn",
+    "name": "ModelScope 魔搭社区"
+  },
+  "tool22232": {
+    "new": "ai-volcengine-com-2",
+    "name": "火山引擎"
+  },
+  "tool1626": {
+    "new": "agpt-co",
+    "name": "爆火的实现GPT-4完全自主的实验性开源"
+  },
+  "tool7412": {
+    "new": "jan-ai",
+    "name": "本地运行大模型并进行AI对话的工具，免费开源"
+  },
+  "tool1623": {
+    "new": "agentgpt-reworkd-ai",
+    "name": "在浏览器中组装、配置和部署自主人工智能的开源项目"
+  },
+  "tool1129": {
+    "new": "openbmb-org",
+    "name": "清华团队支持发起的大规模预训练语言模型库与相关工具"
+  },
+  "tool11341": {
+    "new": "llama-meta-com",
+    "name": "Meta最新开源推出的新一代大模型"
+  },
+  "tool8623": {
+    "new": "ai-google-dev",
+    "name": "谷歌推出的新一代轻量级开放模型"
+  },
+  "tool4558": {
+    "new": "tencent-hy-research",
+    "name": "Tencent Hy Research"
+  },
+  "tool50": {
+    "new": "dall-e-3",
+    "name": "DALL·E 3"
+  },
+  "tool1078": {
+    "new": "wenxin-baidu-com",
+    "name": "百度推出的产业级知识增强大模型"
+  },
+  "tool54": {
+    "new": "github-com-3",
+    "name": "Meta（Facebook）推出的AI大语言模型"
+  },
+  "tool1083": {
+    "new": "baai-ac-cn",
+    "name": "BAAI智源研究院"
+  },
+  "tool6279": {
+    "new": "miraclevision-com",
+    "name": "美图AI开放平台"
+  },
+  "tool2147": {
+    "new": "gradio",
+    "name": "Gradio"
+  },
+  "tool2141": {
+    "new": "deepfloyd-ai",
+    "name": "StabilityAI旗下的DeepFl"
+  },
+  "tool2452": {
+    "new": "cohere-com",
+    "name": "构建AI产品的大语言模型平台"
+  },
+  "tool1933": {
+    "new": "openapi-mobvoi-com",
+    "name": "出门问问推出的一款超大规模的语言模型"
+  },
+  "tool51": {
+    "new": "huggingface-co-2",
+    "name": "HuggingFace推出的大型语言模型（LLM）"
+  },
+  "tool2038": {
+    "new": "lamini-ai-2",
+    "name": "低门槛快速定制大语言模型的引擎"
+  },
+  "tool1861": {
+    "new": "github-com-4",
+    "name": "Stability AI推出的开源的类C"
+  },
+  "tool1076": {
+    "new": "research-runwayml-com",
+    "name": "Runway最新推出的AI视频生成模型"
+  },
+  "tool1520": {
+    "new": "deepspeed",
+    "name": "DeepSpeed"
+  },
+  "tool1077": {
+    "new": "ai-google-2",
+    "name": "Google的下一代大语言模型，超过3400亿参数"
+  },
+  "tool1351": {
+    "new": "segment-anything-com",
+    "name": "Meta最新推出的AI图像分割模型"
+  },
+  "tool52": {
+    "new": "huggingface-co-3",
+    "name": "AI模型开发社区"
+  },
+  "tool55": {
+    "new": "imagen-research-google",
+    "name": "Google AI文字到图像生成模型"
+  },
+  "tool2113": {
+    "new": "chat-lmsys-org",
+    "name": "第一个通过RLHF训练的大规模开源聊天机器人"
+  },
+  "tool2240": {
+    "new": "ibm-watsonx-ai",
+    "name": "IBM watsonx.ai"
+  },
+  "tool439": {
+    "new": "lobe",
+    "name": "Lobe"
+  },
+  "tool525": {
+    "new": "scale-com",
+    "name": "AI机器学习标注训练平台"
+  },
+  "tool155": {
+    "new": "replicate-com",
+    "name": "在线运行开源机器学习模型"
+  },
+  "tool778": {
+    "new": "evidentlyai-com",
+    "name": "开源的机器学习模型监测和测试工具"
+  },
+  "tool1539": {
+    "new": "chat-sensetime-com-2",
+    "name": "商汤科技推出的类ChatGPT的人工智能大语言模型"
+  },
+  "tool1858": {
+    "new": "moss-fastnlp-top",
+    "name": "复旦大学团队开发的对话式大型语言模型"
+  },
+  "tool68275": {
+    "new": "matrix-tencent-com",
+    "name": "腾讯推出的AI内容检测助手"
+  },
+  "tool395": {
+    "new": "gptzero-me",
+    "name": "超过百万人都在用的免费AI内容检测工具"
+  },
+  "tool411": {
+    "new": "studycorgi-com",
+    "name": "StudyCorgi ChatGPT 检测"
+  },
+  "tool7189": {
+    "new": "proofig-com",
+    "name": "AI检测科研图像是否造假抄袭"
+  },
+  "tool407": {
+    "new": "writecream-com",
+    "name": "Writecream推出的AI内容检测工具"
+  },
+  "tool406": {
+    "new": "smodin-io",
+    "name": "多语种AI内容检测工具"
+  },
+  "tool396": {
+    "new": "sapling-ai-detector",
+    "name": "Sapling AI Detector"
+  },
+  "tool16912": {
+    "new": "xueshu-tuanxiang-com",
+    "name": "AI内容检测与优化平台"
+  },
+  "tool393": {
+    "new": "writer",
+    "name": "Writer"
+  },
+  "tool180": {
+    "new": "originality-ai",
+    "name": "原创度和AI内容检测"
+  },
+  "tool169": {
+    "new": "copyleaks-com",
+    "name": "AI内容检测和分级"
+  },
+  "tool156": {
+    "new": "gowinston-ai",
+    "name": "强大的AI内容检测解决方案"
+  },
+  "tool67481": {
+    "new": "ibiling-cn-4",
+    "name": "笔灵AI 论文降重"
+  },
+  "tool67598": {
+    "new": "mmc-cc",
+    "name": "茅茅虫AI论文写作助手"
+  },
+  "tool68164": {
+    "new": "paperfake-cn",
+    "name": "PaperFake AI写作指导平台"
+  },
+  "tool68088": {
+    "new": "yanbiai-com",
+    "name": "言笔AI"
+  },
+  "tool67447": {
+    "new": "xueshucha-youdao-com",
+    "name": "网易有道推出的降AI率工具"
+  },
+  "tool73605": {
+    "new": "xyzscience-com",
+    "name": "学术论文AIGC检测与降AI工具"
+  },
+  "tool68309": {
+    "new": "prompts-explinks-com",
+    "name": "8200 +专业AI提示词模板｜灵活{变量}定制，免费试用"
+  },
+  "tool2818": {
+    "new": "promptingguide-ai",
+    "name": "提示工程指南（Prompt Engine..."
+  },
+  "tool61488": {
+    "new": "cloud-google-com",
+    "name": "谷歌推出的AI提示词库"
+  },
+  "tool4963": {
+    "new": "promptperfect",
+    "name": "PromptPerfect"
+  },
+  "tool767": {
+    "new": "openart-ai",
+    "name": "OpenArt平台推出的免费提示词指南手册"
+  },
+  "tool743": {
+    "new": "prompthero-com",
+    "name": "AI提示词优化与搜索平台"
+  },
+  "tool756": {
+    "new": "prompt-phodal-com",
+    "name": "Prompt 编写模式"
+  },
+  "tool23106": {
+    "new": "aishort",
+    "name": "AiShort"
+  },
+  "tool23101": {
+    "new": "github-com-5",
+    "name": "LangGPT是什么 LangGPT是一种..."
+  },
+  "tool1279": {
+    "new": "generrated-com",
+    "name": "AI提示词参考平台"
+  },
+  "tool749": {
+    "new": "aiprm-com",
+    "name": "AI 提示词库和提示词管理工具"
+  },
+  "tool760": {
+    "new": "prompt-noonshot-com",
+    "name": "AI提示词生成和管理工具"
+  },
+  "tool748": {
+    "new": "aipromptgenius-app",
+    "name": "AI提示词库创建和管理工具"
+  },
+  "tool747": {
+    "new": "moxby",
+    "name": "Moxby"
+  },
+  "tool746": {
+    "new": "prompts-chat",
+    "name": "AI提示词收集和整理工具"
+  },
+  "tool744": {
+    "new": "learning-prompt",
+    "name": "Learning Prompt"
   }
 }
