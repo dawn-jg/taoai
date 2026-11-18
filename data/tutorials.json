@@ -9438,5 +9438,205 @@
     "date": "2026-11-18",
     "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64",
     "content": "<h2>它解决的是「机器人该待在哪个频道」</h2><p>跟随模式让机器人跟踪选中的用户，随着他们在 Discord 语音频道之间移动。配置位是 <code>channels.discord.voice.followUsers</code>，配合 <code>followUsersEnabled</code> 与 <code>allowedChannels</code>。适合「我在语音里的时候机器人就该在」这类个人或操作者自用场景。</p><h2>ID 的两种写法都会被归一化</h2><p><code>followUsers</code> 接受原始 Discord 用户 ID 与 <code>discord:&lt;id&gt;</code> 两种写法，OpenClaw 在匹配语音状态事件之前会把两种都归一化。所以清单里混着写不会出问题。</p><p><code>followUsersEnabled</code> 在配置了 <code>followUsers</code> 时默认为 <code>true</code>。把它设成 <code>false</code> 的效果是「保留清单，但停止自动跟随」——不是清空清单。这个区分在临时关掉跟随又不想重填时很有用。</p><h2>最重要的一条边界</h2><p><code>followUsers</code> 只控制语音驻留。它不授予发言者权限，也不授予 owner 权威；要让它说话、或者让它执行受限操作，得另外配 <code>commands.ownerAllowFrom</code> 以及公会或频道的用户与角色配置。把这两件事混起来，会得到「人跟过去了但机器人不理我」这种看似矛盾的现象。</p><h2>移动规则里几个具体情形</h2><ul><li>被跟随的用户进入允许的语音频道时，OpenClaw 加入那个频道；用户移动时跟着移动；活动的被跟随用户断开时，OpenClaw 离开。</li><li>同一公会里有多个被跟随用户时，活动用户离开后，OpenClaw 会先移到另一个被跟踪用户的频道，然后才离开公会。</li><li>多个被跟随用户同时移动时，最后观察到的那条语音状态事件胜。</li><li><code>allowedChannels</code> 仍然生效：被跟随的用户待在禁止的频道里会被忽略，而一个由跟随建立的会话会转到另一个被跟随用户那里，或者离开。</li><li>如果 Discord 或管理员在跟随期间移动了机器人，OpenClaw 会重建语音会话，并在目标频道允许时保留跟随归属；被移到 <code>allowedChannels</code> 之外则离开，有配置目标时再重新加入。</li></ul><h2>漏掉的事件怎么补</h2><p>OpenClaw 在启动时以及一个有界的间隔上对漏掉的语音状态事件做对账。对账会采样配置里的公会，并限制每次运行的 REST 查询数，因此非常长的 <code>followUsers</code> 清单可能需要不止一个间隔才收敛。知道这一点，就不会把「清单太长所以慢」误判成「跟随坏了」。</p><h2>DAVE 恢复不丢归属</h2><p>DAVE 接收恢复在解密反复失败之后可能离开并重新加入同一个频道。跟随建立的会话在这条恢复路径里保留跟随归属，所以之后被跟随用户断开时，仍然会离开频道。这类「恢复路径不重置所有权」的设计在语音里尤其重要，因为一次重连很容易被当成一次新的加入。</p><h2>三种加入方式怎么选</h2><p><code>followUsers</code> 用于「人在机器人在」；<code>autoJoin</code> 用于固定房间，需要时加 <code>whenOccupied: true</code> 让它只在有人时在场；<code>/vc join</code> 用于一次性加入，或者那些自动在场会让人意外的房间。文档给的编解码细节也值得一提：接收方向的日志会显示 <code>discord voice: opus decoder: libopus-wasm</code>，实时播放把原始 48 kHz 立体声 PCM 用同一个内置 <code>libopus-wasm</code> 编成 Opus 再交给 <code>@discordjs/voice</code>。</p>"
+  },
+  {
+    "slug": "openclaw-plugin-path-safety-gates",
+    "title": "插件装好了却没加载：三道入口安全门与一次 chmod 修复机会",
+    "summary": "入口跑出插件根目录、路径 world-writable、归属与当前 uid 不符，这三条会在运行时之前就挡下候选。内置插件多一次就地 chmod 修复，第三方没有；被拒的候选仍会带着 id 出现在诊断里。",
+    "content": "<h2>三道门挡在运行时之前</h2>\n<p>OpenClaw 启动时的插件处理是一条固定管线：发现候选根目录、读清单与包元数据、拒绝不安全的候选、归一化插件配置、逐个决定是否启用、加载已启用的原生模块、调用 register(api) 收集注册，最后把注册表交给命令与运行时面。安全门排在运行时执行之前，所以被拦下的插件从未真正被执行过一行代码。</p>\n<p>会直接挡住一个候选的条件有三个：解析后的入口跑到了插件根目录之外；入口路径或根目录本身是 world-writable；非内置插件的路径归属与当前 uid（或 root）不一致。三条都属路径层判定，与插件代码写得好不好无关。</p>\n<h2>Windows 上先按目录身份核对</h2>\n<p>在 Windows 上，插件根目录可以位于目录联接之下，Node 版本管理器的前缀目录就是常见例子。OpenClaw 会先解析根别名、按目录身份完成核对，然后才打开入口文件；文件本身仍必须待在那个根目录里。也就是说联接不算绕道，但也不能让入口漂到别处。</p>\n<h2>内置插件多一次修复机会</h2>\n<p>内置插件目录如果是 world-writable，OpenClaw 会先做一次就地 chmod 修复，再让安全门复检——npm 全局安装确实可能把包目录装成 0777。归属检查对内置来源直接跳过。第三方插件没有这份宽容：归属不对就是拒绝，不会尝试修正。</p>\n<h2>报错里仍然带着插件 id</h2>\n<p>被拦下的候选只要 id 已知（包括从那个被拒目录内的清单里解析出来的 id），诊断信息就会带上它。于是配置里引用该 id 的地方看到的是「这个插件被路径安全警告挡住了」，而不是一句无关的「未知插件」。这个区别决定了排查方向：是去修权限，而不是去重新装一遍。</p>\n<p>当所有候选都被拒绝时，安装流程与能力检查会把发现阶段的警告连同那条不安全路径一起抛出来，让人能先改权限或归属再重试。反过来，如果只看到「插件不存在」，先翻发现警告往往比重新安装更快。</p>\n<p>还要注意这类失败与清单字段写错是两件事：清单能读出来、id 也解析得出来，只是路径不合格。把两者混在一起处理，容易在配置上白改一轮。</p>",
+    "url": "https://docs.openclaw.ai/plugins/architecture-internals/load-pipeline",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-plugin-cache-generations",
+    "title": "插件缓存按代际保存：缺失也是事实，失败的原生模块重启也修不好",
+    "summary": "一个 PluginCache 服务一代插件事实，运行时读取不会触发目录扫描或清单重读。缺失的文件在新代际之前一直是缺失；失败的原生 ESM 求值由 Node 留到进程结束，换账号重启也修不回那张模块图。",
+    "content": "<h2>一代缓存管一批事实</h2>\n<p>OpenClaw 用一个 PluginCache 持有某一代（generation）的插件事实。命令行预检与启动过程会逐步往同一份缓存里填，后来的访问只补还没拿到的部分。它的元数据快照是不可变的，合并了已安装索引、清单、owner 映射，以及每个已配置 agent 工作区里的发现事实。已禁用的插件仍留在清单里，这样以后启用不必重新发现一遍。</p>\n<p>运行时读取走的是这份快照、由它派生的查找表，或者一份显式清单注册表。普通查找、账号变更、运行工作区变更都不会触发文件系统扫描、stat/realpath 新鲜度轮询、清单重读或哈希计算。这一点很关键：插件数量一多，任何一次查找都去碰磁盘，延迟会立刻变得不可预测。</p>\n<h2>生命周期操作另开一代</h2>\n<p>插件的生命周期操作（安装、更新、刷新、doctor 修复）在它们自己的一代里准备新元数据。生命周期提交之后的网关运行时工作，包括配置重载监听器和由重载启动的 owner，读的是已经发布出去的那一代。账本与认证状态不属于这份不可变的包清单，所以改密码不会让插件事实失效。</p>\n<h2>缺失本身也是一条事实</h2>\n<p>共享缓存持有已校验的文件内容、解析后的包与清单数据、bundle 里的 MCP/LSP/设置文件、插件技能路径、发现路径、已安装索引投影、编译后的模型策略、SDK 别名、产物位置与惰性模块导出。文中特别点明：缺失的文件与产物同样是事实，在出现新代际之前它们一直是缺失的。发现、注册表装配、索引哈希复用同一份已校验字节，而不是每个阶段重新打开文件。</p>\n<h2>失败的原生模块重启也修不回来</h2>\n<p>插件缓存会释放加载失败的记录，但 Node 会把失败的原生 ESM 求值保留到进程结束。换句话说，一张加载失败的模块图不会因为你重启账号就变干净——只有结束整个进程才可能重新求值。成功的 import 则在多个消费者之间共享。</p>\n<p>实际影响是：改完插件代码后发现「怎么还是旧行为」，先确认是命中了已发布的代际还是被 Node 的模块缓存留住了。显式安装或刷新会清掉该命令的可变发现缓存，下一次元数据阶段就能看到新清单；但不可变的运行时代际仍然持有它捕获的那份。</p>",
+    "url": "https://docs.openclaw.ai/plugins/architecture-internals/load-pipeline",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-plugin-activation-narrowing",
+    "title": "要 all 也不会给你全部：插件激活规划的四条收窄线",
+    "summary": "清单里的 activation 与 setup 只是控制面描述，不替代 register()。CLI、渠道、provider、agent 运行时各按自己的 id 收窄候选；请求 all 作用域时若推导出的集合为空，OpenClaw 保持为空而不是放宽成全部插件。",
+    "content": "<h2>清单是控制面，代码才是数据面</h2>\n<p>原生插件里，清单负责身份与声明，运行时模块负责行为。可选的 activation 与 setup 块留在控制面上，它们只是给激活规划与 setup 发现用的元数据描述，不能替代运行时注册、register(...) 或者 setupEntry。把这两层当成可以互换的东西，是配置写不通的常见起点。</p>\n<h2>四条各自独立的收窄线</h2>\n<p>激活规划会按调用方的意图把候选缩小：CLI 加载只挑拥有所请求主命令的插件；渠道 setup 或插件解析只挑拥有所请求渠道 id 的插件；显式 provider setup 只挑拥有所请求 provider id 的插件；agent 运行时规划只挑在 activation.onAgentHarnesses 里声明了所选内嵌 harness id 的插件。</p>\n<p>另外两条补在启动侧：启动时的插件选择会把 activation.onConfigPaths 里那些路径在配置中存在且已启用的插件加进来；网关启动规划则用 activation.onStartup 做显式启动导入。没有启动元数据的插件，只能通过更窄的激活触发器被带起来。</p>\n<h2>要 all 的请求也不会退化成全库</h2>\n<p>请求时预加载如果要求宽泛的 all 作用域，OpenClaw 会从配置、启动规划、已配置渠道、slots 与自动启用规则里推导出一个显式的有效插件 id 集合。如果推导结果是空集，它保持为空，而不是放宽成「所有能发现的插件」。这条规则的实际意义是：作用域的边界由当前配置决定，不由调用方一句 all 决定。</p>\n<h2>两个插件抢同一个 id 时，直接拒绝</h2>\n<p>setup 发现优先用描述符自带的 id，例如 setup.providers 与 setup.cliBackends，借此在回落到 setup-api 之前收窄候选。如果两个已发现的插件声称拥有同一个归一化后的 setup provider 或 CLI backend id，查找会判定归属不明确并拒绝，而不是按发现顺序挑一个。setup.requiresRuntime 显式写成 false 是一种「只要描述符」的截断；字段省略则保留旧的 setup-api 回落路径，用于兼容。</p>\n<p>运行时真正执行时，注册表诊断会拒绝未声明的 provider 与 CLI backend 注册。CLI backend 描述符还会额外报告缺失的运行时注册；provider 描述符可以只停留在元数据层面，由 setup 模块提供其它 setup 钩子。</p>",
+    "url": "https://docs.openclaw.ai/plugins/architecture-internals/load-pipeline",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-provider-three-layers",
+    "title": "三类字段别写串：provider 插件的清单元数据与运行时代码怎么分工",
+    "summary": "provider 插件分清单元数据、配置期钩子、运行时钩子三层。envVars、providerAuthAliases、providerAuthChoices 各有各的用途，选错就会为了一个登录标签把整个 provider 运行时拉起来。",
+    "content": "<h2>先分清三层</h2>\n<p>写 provider 插件时，扩展面被分成三层。第一层是清单元数据，用于运行前的低成本查找，包括 setup.providers[].envVars、providerAuthAliases、providerAuthChoices 与 channelConfigs。第二层是配置期钩子，只有 catalog 与 applyConfigDefaults 两个。第三层是运行时钩子，四十多个可选钩子覆盖认证、模型解析、流包装、思考档位、重放策略与用量端点。</p>\n<p>通用 agent 循环、故障转移、轨迹处理与工具策略仍归 OpenClaw 所有。这些钩子只是给厂商特有行为的插入点，不需要为此另写一整套自定义推理传输。</p>\n<h2>三个清单字段的判据</h2>\n<p>当 provider 走环境变量凭据，而通用认证、状态、模型选择器这些路径应该在不加载插件运行时的情况下看到它，就用 setup.providers[].envVars。当一个 provider id 应当复用另一个 provider id 的环境变量、认证档案、配置型认证与 API key 引导选项时，用 providerAuthAliases。当引导与认证选择的命令行面需要知道该 provider 的选项 id、分组标签与单开关接线时，用 providerAuthChoices。这三种都是「不加载运行时代码就能答出来」的问题。</p>\n<p>运行时里的 envVars 则留给面向操作者的提示，比如引导标签、OAuth 的 client-id 与 client-secret 设置变量。把两者写反的后果是：本该省掉一次运行时加载的地方，反而把整个 provider 拉起来了。</p>\n<h2>渠道侧的同类分工</h2>\n<p>由环境变量驱动的渠道 setup 与认证，应该通过拥有该渠道的 channelConfigs.&lt;id&gt;.schema 与 setup 描述符来表达，而不是塞进 provider 的字段里。渠道 id 与 provider id 是两套命名空间，混写会让按 id 收窄的解析找不到归属。</p>\n<h2>只在通用循环上做行为时，别走自定义传输</h2>\n<p>如果一个 provider 需要完全自定义的线协议或者自定义请求执行器，那属于另一类扩展。这些钩子服务的是仍然跑在 OpenClaw 正常推理循环上的 provider 行为——把这一条记清楚，能省掉大量为了绕开钩子而重写传输的功夫。</p>",
+    "url": "https://docs.openclaw.ai/plugins/architecture-internals/provider-hooks",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-provider-normalize-single-dispatch",
+    "title": "归一化只派发一次：没改就是没改，不会挨个试别家钩子",
+    "summary": "模型 id 归一化只走匹配到的那个 provider，空结果就保持原样，不会回头重试别家或再套一遍清单规则。传输归一化多一条豁免：只有没改动 api/baseUrl 且没有 models.providers 条目时才试别的钩子。",
+    "content": "<h2>模型 id 只归一化一次</h2>\n<p>模型引用在进入 normalizeModelId 派发之前，会先应用一次清单声明的模型 id 归一化规则。匹配到的 provider 钩子可以在此基础上再细化，返回空结果则保持原样。关键限制是：OpenClaw 不会去试其它 provider 的归一化钩子，也不会在钩子返回之后再套一遍清单规则。</p>\n<p>这条限制解释了为什么两个 provider 共用一套别名体系时容易出错——别名不会「碰巧」被另一家修正。引用解析读的是选中的运行时注册表，但不激活插件；需要真正执行的归一化必须有已准备好的运行时 owner，没有 owner 的读取只用静态清单策略。</p>\n<p>另外，直接注册的 provider 拥有自己的 id；兼容性别名只有在不存在字面量 provider 时才会匹配，以此保留纯别名路由与显式的 API owner 资格。</p>\n<h2>传输归一化多一条豁免</h2>\n<p>normalizeTransport 先试匹配到的 provider。只有当它没有改动 api 或 baseUrl、并且该 provider 没有 models.providers.&lt;id&gt; 条目时，才会去试其它传输钩子，并且一有改动就停。这条豁免是为「同一个传输家族里自定义 provider id」准备的：家族规则可以兜底，但已显式配置的 provider 不该被别家的规则覆盖。</p>\n<h2>配置装配根本不会加载 provider 运行时</h2>\n<p>配置装配阶段通过拥有该 provider 的轻量策略面调用 normalizeConfig 与 resolveConfigApiKey。它从不加载 provider 运行时、不扫描别家 provider 的钩子，也不会在拥有者钩子返回「无改动」之后继续往下穿。</p>\n<p>Google 家族的配置清理就实现了 Google 插件自己的 normalizeConfig 钩子里，并与它的轻量策略面共用，而不是核心另留一份兼容兜底。这条对写插件的人有直接含义：家族清理逻辑只有一个所有者，重复兜底不会藏在核心里。</p>",
+    "url": "https://docs.openclaw.ai/plugins/architecture-internals/provider-hooks",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-provider-catalog-order",
+    "title": "catalog.order 的四档与一次已完成的移除：discovery 现在什么都不发布",
+    "summary": "catalog.order 决定 provider 目录相对内置隐式 provider 的合并次序，四档分别是 simple、profile、paired、late，同名键后者胜。discovery 这个旧别名已在 2026.4.26 连同弃用警告一起移除，仍注册它的插件不会发出任何目录行。",
+    "content": "<h2>目录行的形状与用途</h2>\n<p>provider 插件用 registerProvider({ catalog: { run(...) } }) 声明模型目录。catalog.run(...) 返回的形状与 OpenClaw 写进 models.providers 的一致：{ provider } 表示一个 provider 条目，{ providers } 表示多个条目。当插件拥有厂商特有的模型 id、base URL 默认值，或者需要按认证状态门控的模型元数据时，才应该用它。</p>\n<h2>order 的四档</h2>\n<p>catalog.order 控制合并次序：simple 对应纯 API key 或环境变量驱动的 provider；profile 对应有认证档案时才出现的 provider；paired 对应会合成多个相关条目的一组；late 排在最后一遍，在其他隐式 provider 之后。</p>\n<p>合并规则是后者在键冲突时胜出，所以插件可以有意覆盖同 id 的内置 provider 条目。这一点在使用时要谨慎：覆盖不是追加，写错 order 会让某个内置条目在界面上凭空消失。</p>\n<h2>只读目录行是另一条通路</h2>\n<p>插件还可以用 api.registerModelCatalogProvider({ provider, kinds, staticCatalog, liveCatalog }) 发布只读的模型行。这是列表、帮助与选择器面向前走的路径，支持 text、voice、image_generation、video_generation 与 music_generation 五类行。provider 插件仍然拥有实时端点调用、令牌交换与厂商响应映射；核心拥有通用行形状、来源标签与媒体工具帮助的格式化方式。</p>\n<p>媒体生成类的 provider 注册会自动从 defaultModel、models 与 capabilities 合成静态目录行，不必手写每一行。</p>\n<h2>两个已到期或已完成的兼容项</h2>\n<p>discovery 曾是 catalog 的旧别名。OpenClaw 在 2026.4.26 移除了该别名以及它的弃用警告，因此仍在注册 discovery 的 provider 插件不会发出任何目录行——不是警告，是静默地没有行。augmentModelCatalog 已被弃用，内置 provider 应改用 registerModelCatalogProvider 发布补充行，它的移除门槛是 2026-10-01。</p>\n<p>排查「模型选择器里少了一家」时，先确认插件注册的是 catalog 还是 discovery，比去翻模型配置快得多。</p>",
+    "url": "https://docs.openclaw.ai/plugins/architecture-internals/provider-hooks",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-provider-usage-auth-three-returns",
+    "title": "返回 handled 和返回 null 是两件事：用量鉴权的三态",
+    "summary": "resolveUsageAuth 的返回值决定 OpenClaw 是去调 fetchUsageSnapshot，还是回落到通用凭据解析。给 token、给 handled:true、给 null 三种回答对应三条不同分支，混用会让 /usage 要么查不到、要么查错凭据。",
+    "content": "<h2>它其实在回答一个问题</h2>\n<p>resolveUsageAuth 决定 OpenClaw 该不该调用 fetchUsageSnapshot，还是回落到通用的凭据解析去取用量与状态面的信息。它有三种合法回答，彼此不是「有值/没值」的关系。</p>\n<h2>三种回答</h2>\n<p>第一种，返回 { token, accountId?, subscriptionType?, rateLimitTier? }。这表示 provider 确实有一份用量凭据，可选的套餐元数据会继续流进 fetchUsageSnapshot，供解析响应时使用。</p>\n<p>第二种，返回 { handled: true }。这表示 provider 自己已经把用量鉴权处理掉了，必须抑制通用的 API key 与 OAuth 回落。少了这一句，OpenClaw 会拿一份推理凭据去查用量端点，结果通常是 401 或者一份与订阅无关的数据。</p>\n<p>第三种，返回 null 或 undefined。这表示 provider 没有处理用量鉴权，交给通用路径。它与 handled:true 的差别不在「有没有结果」，而在「要不要阻止回落」。</p>\n<h2>账单凭据要单独声明</h2>\n<p>组织级或计费凭据应该写进清单的 providerUsageAuthEnvVars。这样通用发现与密钥擦除面能认出这些变量，同时又不会把它们当成推理认证的候选。把账单 key 混进推理 key 的变量表里，最常见的后果是模型选择器里多出一个用不了的条目。</p>\n<h2>快照解析跟着鉴权走</h2>\n<p>fetchUsageSnapshot 在鉴权解析完成之后运行，负责抓取并归一化厂商特有的用量与配额快照。用量端点的载荷结构各家不同，这一层不归一化，状态面就只能显示原始字段。</p>\n<p>把这三态想清楚，排查顺序也就明确了：先看钩子返回了哪一种，再看快照端点是否被调用，最后才怀疑载荷解析。</p>",
+    "url": "https://docs.openclaw.ai/plugins/architecture-internals/provider-hooks",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-plugin-tool-call-block-semantics",
+    "title": "block:false 等于没表态：工具调用钩子的几种返回各管什么",
+    "summary": "block:true 是终结性的，会跳过后续低优先级处理器；block:false 视为没有决定。每个处理器看到的是原始事件的独立副本，最后一个 params 生效到有人要求审批为止，而首次 requireApproval 会冻结参数快照。",
+    "content": "<h2>先看两个布尔值的差别</h2>\n<p>before_tool_call 的返回里，block: true 是终结性的，会跳过优先级更低的处理器；block: false 被当作「没有决定」。写 false 想表达「我放行」的人常在这里踩坑——它不会覆盖别人后续的拦截，只是让这一层不表态。</p>\n<h2>参数改写不叠加</h2>\n<p>返回 params 可以改写由宿主拥有的工具参数。但每个处理器看到的是原始事件的一份独立副本，不是前一个处理器改写后的结果。最后一个返回的 params 生效，直到有人请求审批为止。这意味着两个插件都改写同一个字段时，赢的是最后一个，而不是层层叠加。</p>\n<h2>第一次审批冻结参数</h2>\n<p>第一个 requireApproval 生效，它的插件 id 由宿主盖章。它会冻结当时选中的参数快照：后续处理器仍然可以拦截，但不能再改动已被批准的那份参数。低优先级的 block:true 在高优先级钩子请求审批之后依然可以拦下这次调用。</p>\n<p>onResolution 会收到最终决定：allow-once、allow-always、deny、timeout 或 cancelled。要按决定做后续动作，就在这个回调里写，而不是在返回对象里猜。</p>\n<h2>原生工具中继的合同更窄</h2>\n<p>Codex 原生工具只对 shell 或 apply_patch 的 command，以及在大小、深度与数字精度限制内的 MCP 参数应用改写；其它任何改写都会直接拦下。这是有意为之的窄合同，不是缺陷。</p>\n<h2>可信策略跑在普通钩子之前</h2>\n<p>需要宿主级策略的插件可以用 registerTrustedToolPolicy 注册可信工具策略。内置插件的可信策略先跑，已安装插件按加载顺序随后，普通 before_tool_call 钩子最后。已安装插件必须显式启用，并在 contracts.trustedToolPolicies 里声明每一个策略 id，未声明的 id 在注册前就被拒绝；策略 id 的作用域是注册它的插件，所以不同插件可以复用同一个本地 id。</p>\n<p>可信审批内联完成之后，普通钩子拿到的是已批准参数的孤立副本。如果普通钩子又改写了这些参数，它必须返回带最终 params 的 requireApproval 去换一次单独审批；否则这次调用会以「参数在可信审批后被改动」为由被拦下。</p>",
+    "url": "https://docs.openclaw.ai/plugins/hooks/tool-policy",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-plugin-requester-deviceid-unproven",
+    "title": "deviceId 缺失不是「不是这台设备」，是无法证明",
+    "summary": "ctx.requester.deviceId 来自网关对该连接签名的校验，不是请求参数也不是客户端名字。一旦有另一台设备或无设备来源把输入转向这次运行，该字段就会被丢弃；缺失字段代表未证实，不等于否定。",
+    "content": "<h2>这个字段是怎么来的</h2>\n<p>before_tool_call 的上下文里有一个 ctx.requester，描述发起当前消息运行的请求方。它可能包含 channel、accountId、senderId、senderIsOwner、厂商原生的 roleIds，以及 deviceId。deviceId 指的是发出这一轮的网关连接的已配对设备，前提是网关已经校验过它的签名——它从来不是请求参数，也不是客户端自报的名字。</p>\n<h2>被转向就丢掉</h2>\n<p>一旦有另一台设备，或者一个没有设备的来源，把输入转向这次运行，deviceId 就会被丢弃。所以在一段多来源拼接的会话里，这个字段的价值不在「它填了什么」，而在「它还在不在」。</p>\n<h2>缺失等于未证实</h2>\n<p>文档把这条写得很直白：缺失的字段是未证实，而不是否定的保证。策略如果依赖这些字段，就应该在缺失时拒绝，而不是把它读成 false 然后放行。一个只允许特定已配对设备跑工具的策略，正确写法是先取 deviceId，命中允许清单才放行，其余情况——包括没有 deviceId 的系统运行与转向运行——一律拒绝。</p>\n<h2>trigger 只是元数据</h2>\n<p>ctx.trigger 表示这次运行的来源，生产方提供时才会出现，例如 user、cron、memory。它是元数据，不是授权：它永远不授予 owner 身份，也不覆盖请求方检查。生产方没有提供时该字段就不存在，而且其它工具钩子不会自动获得它。记忆冲刷会保留原始轮的请求方，这一点在排查「谁触发了这次调用」时很有用。</p>\n<p>把 trigger 当成权限来源是这类策略最常见的错误——把 cron 写成可信，等于给任何能写 cron 的路径开了一扇门。</p>\n<h2>写这类策略时容易忽略的两件事</h2>\n<p>第一，请求方字段里的 channel 与 accountId、senderId 与 roleIds 都是 provider 本地的命名空间。同样的用户 id 在两个渠道里可能指向不同的人，所以名单必须绑定到精确的渠道与账号组合上，而不是只按 id 匹配。第二，白名单要保守：只在你确实需要时才把写入或执行类工具加进去，并且那一刻要确认部署的沙箱与审批策略让这件事是安全的。</p>\n<p>还有一个判断要显式做出来：对于自动化运行或系统运行，缺席的 ctx.requester 到底算通过还是算拒绝。示例里对受限 agent 采取的是拒绝，因为「没有请求方」在这套模型里就是「无法证明是谁」，而不是「大概是内部调用」。</p>",
+    "url": "https://docs.openclaw.ai/plugins/hooks/tool-policy",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-plugin-exec-env-filter",
+    "title": "PATH 永远加不进去：exec 环境变量的过滤名单",
+    "summary": "resolve_exec_env 只在 OpenClaw 自己的 exec 工具上生效，不是给所有 harness 原生 shell 用的。返回的键会先过一遍宿主策略：PATH 一律丢弃，LD_*、DYLD_*、NODE_OPTIONS、代理与 TLS 覆盖变量也全部丢弃。",
+    "content": "<h2>它管的是哪一个 exec</h2>\n<p>resolve_exec_env 让插件在命令真正执行之前，往 OpenClaw 的 exec 工具调用里补充环境变量。它明确不是给每个 harness 原生 shell 用的钩子——想给别的执行路径注入环境，这个钩子帮不上忙。</p>\n<p>事件里能拿到 event.sessionKey、event.toolName（固定是 exec）、event.host（gateway、sandbox 或 node 三者之一），以及 ctx.agentId、ctx.sessionKey、ctx.sessionId、ctx.messageProvider、ctx.channelId 这些上下文字段。</p>\n<h2>优先级与覆盖方向</h2>\n<p>返回一个字符串到字符串的映射即可。处理器按优先级顺序运行，同一个键上后面的结果覆盖前面的。所以「默认值」应该写在高优先级、也就是先跑的那一层，后跑的专用插件才有机会覆盖它。</p>\n<h2>过滤名单</h2>\n<p>钩子输出在合并之前会过一遍宿主的 exec 环境键策略。PATH 永远被丢弃，因为命令解析与 safe-bin 检查依赖它——这是安全边界，不是可配置项。无效的键，以及危险的主机覆盖键也一律丢弃：LD_ 与 DYLD_ 开头的动态链接变量、NODE_OPTIONS、代理变量（HTTP_PROXY、HTTPS_PROXY、ALL_PROXY、NO_PROXY），以及 TLS 覆盖变量（NODE_TLS_REJECT_UNAUTHORIZED、SSL_CERT_FILE 之类）。</p>\n<p>过滤后的插件环境会进入网关的审批与审计元数据，并随节点宿主执行请求一起转发。这两点合起来的意思是：你注入的东西既是运行环境，也是审计证据，所以不要把临时调试用的密钥放进去。</p>\n<h2>写这类钩子的实际建议</h2>\n<p>既然代理与 TLS 变量会被丢掉，想通过钩子给某次命令换出口是走不通的；这类需求应该落在前向代理或沙箱配置上。反过来说，如果某个命令在插件里配了环境却仍然连不上外网，先确认自己注入的正是被过滤的那几个键。</p>",
+    "url": "https://docs.openclaw.ai/plugins/hooks/tool-policy",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-plugin-runtime-no-install",
+    "title": "运行时不会替你装依赖：那两个目录是状态，不是缓存",
+    "summary": "插件的依赖只在安装与更新阶段处理，运行时不跑包管理器、不修依赖树、不改 OpenClaw 包目录。npm 与 git 的安装根是持久状态，删掉就等于删掉所有外部插件，部署清理脚本必须留着它们。",
+    "content": "<h2>分工从一句话开始</h2>\n<p>OpenClaw 只在安装与更新时处理插件依赖。运行时加载不会运行包管理器、不会修复依赖树，也不会改动 OpenClaw 的包目录。这条边界划得很硬，原因很实际：网关启动不该因为某个插件的依赖图而变慢或变质。</p>\n<p>于是责任被切开。插件包拥有自己的依赖图：运行时依赖写在包自己的 dependencies 或 optionalDependencies 里；SDK 与核心的 import 属于 peer 或由 OpenClaw 供给；本地开发插件自带已经装好的依赖；npm 与 git 插件则装进 OpenClaw 拥有的包根。OpenClaw 只拥有生命周期：发现来源、在被明确要求时安装或更新、记录安装元数据、加载入口，以及缺依赖时给出可执行的报错。</p>\n<h2>两个目录是状态，不是缓存</h2>\n<p>npm 包装到 ~/.openclaw/npm/projects/&lt;编码后的包名&gt; 下，每个插件一个独立项目；git 包克隆到 ~/.openclaw/git；本地、路径与归档安装则是复制或引用，且不做依赖修复。</p>\n<p>文档特意强调这些根是持久的安装状态，不是缓存。删掉 ~/.openclaw/npm 或 ~/.openclaw/git，等于删掉所有已安装的外部插件；部署清理脚本必须把它们留着。被取代的插件代际由网关自己回收，不需要清理脚本代劳。</p>\n<h2>npm 安装时的那串参数</h2>\n<p>npm 安装在该插件的项目根内执行，带上 --omit=dev、--omit=peer、--legacy-peer-deps、--ignore-scripts、--no-audit、--no-fund。这串参数解释了三个常见现象：devDependencies 不会为受管运行时项目安装；peer 解析与物化被跳过；生命周期脚本不执行。</p>\n<p>托管 npm 安装会跳过 npm 的 peer 解析，并在安装或更新之后，为声明了宿主 peer 的包重建插件本地的 node_modules/openclaw 链接，避免一份陈旧的宿主包影响该插件内部的 peer 解析。</p>\n<h2>缺依赖时该改哪里</h2>\n<p>插件在运行时因为缺 import 失败，正确做法是改包的清单，而不是手工修受管项目。运行时 import 属于包自己的 dependencies 或 optionalDependencies；在受管项目目录里手动 npm install 只能临时排障，下一次安装或更新会按包元数据重建项目，问题照旧。</p>\n<p>本地插件属于开发者自管的目录，OpenClaw 从不为它们跑 npm install 或 pnpm install，也不做依赖修复——有依赖就在加载之前自己装好。第三方 TypeScript 本地插件走 Jiti 作为应急路径，打包后的 JavaScript 插件与内置插件走原生 import/require。</p>",
+    "url": "https://docs.openclaw.ai/plugins/dependency-resolution",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-plugin-preserve-symlinks-missing-dep",
+    "title": "重装修不了的缺依赖：--preserve-symlinks 让嵌套包找不到",
+    "summary": "网关进程带 --preserve-symlinks 时，外部插件可能每次启动都在注册阶段失败，报缺一个嵌套依赖里的包。包本身是全的，重装和更新都没用；要查的是服务命令与 NODE_OPTIONS。",
+    "content": "<h2>症状长什么样</h2>\n<p>一个外部插件在每次网关启动时都在注册阶段失败，报「外部分发插件的运行时依赖缺失，请重装或更新后重启网关」，后面跟着 ERR_MODULE_NOT_FOUND，找不到的包不是插件的直接依赖，而是它某个嵌套依赖自己的依赖。最迷惑的地方在于：安装包本身是完整的，重装、更新都试过，报错一模一样。</p>\n<p>这是 2026.9.33 及之后版本的一个已知问题。触发条件是网关的 Node 进程带了 --preserve-symlinks，或者环境里有 NODE_PRESERVE_SYMLINKS=1。</p>\n<h2>机制：捕获目录 + 符号链接</h2>\n<p>网关在加载插件之前，会把每个包复制进自己的捕获目录，再用符号链接把它们连起来。嵌套依赖自己的依赖，会被链接到它捕获副本的旁边。Node 平时会顺着符号链接走到那份副本，于是在那里找到需要的包。</p>\n<p>一旦开了 --preserve-symlinks，Node 改为从符号链接所在的路径开始解析——也就是插件目录内部，而那里并没有链接那些包。缺的包确实存在于磁盘上，只是解析路径不再指向它。这就是重装无效的原因。</p>\n<h2>怎么确认网关带了这个标志</h2>\n<p>先跑 openclaw gateway status，看 Command 那一行里有没有 --preserve-symlinks。注意状态输出不会打印 NODE_OPTIONS 或 NODE_PRESERVE_SYMLINKS，所以还要打开它标出的 Service file，以及该服务加载的环境文件，逐个确认这两个变量。Linux 上可以用 systemctl --user cat openclaw-gateway 打印单元与其 drop-in，系统级单元用 systemctl cat。前台运行的网关，则检查启动它的那个 shell 里的环境变量。</p>\n<h2>处理顺序</h2>\n<p>把 --preserve-symlinks 从服务命令和 NODE_OPTIONS 里去掉，同时删掉 NODE_PRESERVE_SYMLINKS=1。改完 systemd 单元要 daemon-reload，然后重启网关，再用 channels status 确认该渠道是否恢复。</p>\n<p>排查这类问题时，先分清「包不全」和「解析路径变了」是两件不同的事。前者重装有效，后者重装无效——报错文本几乎一样，唯一的区分线索是缺的那个包属于嵌套层级而不是直接依赖。</p>",
+    "url": "https://docs.openclaw.ai/plugins/dependency-resolution",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-plugin-bundled-dependency-patches",
+    "title": "补丁依赖必须点名：打包会停下来，而不是发一个没打补丁的包",
+    "summary": "关闭运行时依赖内联之后，每一个打过工作区补丁的直接依赖都必须在 bundleDependencies 或 bundledDependencies 里显式列出。漏一个，打包直接停止；写成 true 也不算选择性声明。",
+    "content": "<h2>内联打包与它的例外</h2>\n<p>OpenClaw 自己的 npm 插件包可以带显式的 bundledDependencies 发布。发布路径会覆盖运行时依赖名单、剥掉只属于开发的工作区元数据、在一个不含源码 node_modules 的独立目录里做一次不执行脚本的 npm install，然后把依赖文件一起打进 tarball，最后删掉暂存目录。源码侧由 pnpm 拥有的依赖树不受影响。</p>\n<h2>补丁依赖的那条窄路</h2>\n<p>当某个直接运行时依赖在它那个精确版本上有已批准的工作区补丁时，npm 与 ClawHub 打包会从匹配的冻结 pnpm 安装里取这份依赖。打包过程会校验已安装补丁的身份，把它的字节打进临时依赖安装目录，然后在发布的清单里把版本号恢复成原始的公开版本说明符。</p>\n<p>这一条也适用于关闭内联的情况。也就是说：关掉内联不等于可以不管补丁依赖。</p>\n<h2>漏声明就停</h2>\n<p>使用 bundleRuntimeDependencies: false 时，每一个打过补丁的依赖都必须在包的 bundleDependencies 或 bundledDependencies 数组里显式点名。否则打包会停下来，而不是发布一个没有打补丁的依赖。显式数组只发它选中的依赖及其必要闭包；写成笼统的 true 不算选择性声明。全局的内联请求也不会覆盖原生重型包的退出选择，陈旧的源码安装同样会让打包停止。</p>\n<h2>原生重型包为什么要退出</h2>\n<p>Codex、ACPX、Copilot、llama.cpp、memory-lancedb、Microsoft Teams、Tlon 这些包通过 openclaw.release.bundleRuntimeDependencies: false 退出内联。它们仍然发布一份精确钉住的清单，但依赖在安装时由 npm 解析，而不是把每个平台的二进制都塞进插件 tarball。</p>\n<h2>锁文件的口径</h2>\n<p>OpenClaw 拥有的 npm 插件包从不带 npm 锁文件。仓库用 pnpm-lock.yaml 作为已提交的产品依赖评审边界，只在临时目录里生成 npm 包锁来校验可发布的依赖图：检查器会剥掉插件的 devDependencies、应用工作区覆盖策略，并拒绝那些不在 pnpm-lock.yaml 里的生成版本，整个过程不往检出目录写任何东西。</p>",
+    "url": "https://docs.openclaw.ai/plugins/dependency-resolution",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-plugin-approval-gate-choice",
+    "title": "五道闸各管一段：可选工具是发现期，插件审批是每次调用",
+    "summary": "可选工具控制模型能不能看见工具，插件授权请求控制某一次调用要不要问人，执行审批管宿主命令，Codex 原生权限与 MCP 征求各自有归属。选错闸的结果是每次都问、或者根本没人问。",
+    "content": "<h2>先按「决定点在哪」选闸</h2>\n<p>插件想让某个动作先经过人同意，可选的闸不止一种，它们的决定点完全不同。</p>\n<p>可选工具是发现期闸：工具在用户显式开启之前对模型不可见，它控制的是通过 tools.allow 暴露的范围。插件授权请求是每次调用的闸：某个插件钩子或插件自有操作在真正执行前停下来，走 plugin.approval.* 的运行时审批。执行审批管的是宿主命令与类 shell 工具，背后是宿主 exec 策略与持久化的 exec 允许清单。Codex 原生权限请求由 Codex app-server 或原生钩子处理，在 OpenClaw 拥有提示时改走插件审批。MCP 审批征求则是在 Codex 把 _meta.codex_approval_kind 标为 mcp_tool_call 时，桥接进插件审批。</p>\n<h2>什么时候两个都要</h2>\n<p>一个敏感工具既不该被模型随便看见，也不该被随便执行时，就把两个闸叠起来：先用可选工具要求显式开启，再用插件授权请求在每次执行前问一次。只做前者，等于开启之后不再过问；只做后者，等于工具一直躺在候选列表里。</p>\n<h2>它们不互相替代</h2>\n<p>插件授权请求针对的是插件与应用层的权限，它不替代宿主执行审批、可选工具允许清单，也不替代 Codex 的原生权限复核。反过来也一样：开了 exec 审批转发，不会把插件审批的提示一起转过去，两者是两套配置。</p>\n<h2>排查时先看是哪一道</h2>\n<p>「工具说插件审批不可用」，通常是没有任何审批界面或已配置的路由接下这个请求；「每次都重新问」则是另一个问题——通用插件审批流程不会替任意钩子记住信任，allow-always 要成为长期承诺，得由请求方自己落盘保存。这两类症状看起来都像「审批坏了」，实际根因分别在路由与持久化。</p>\n<h2>路由是另一层，别和闸混为一谈</h2>\n<p>闸决定「要不要问」，approvals.plugin 决定「问谁、问到哪」。把插件审批转发到指定聊天目标需要单独配置：打开 enabled、把 mode 设成 targets、按需写 agentFilter，再在 targets 里列出渠道与收件人。它与 approvals.exec 相互独立——开启 exec 审批转发不会顺带把插件审批也转发出去，反过来也一样。</p>\n<p>所以一个请求「问了但没人答」，可能卡在闸上（钩子根本没请求审批），也可能卡在路由上（请求发了但没有已连接的审批面能给出决定）。这两类原因的报错文本很像，区分方法是先确认钩子有没有返回 requireApproval，再看审批面的连接状态。</p>",
+    "url": "https://docs.openclaw.ai/plugins/plugin-permission-requests",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-plugin-approval-text-limits",
+    "title": "80 与 512 是硬上限：审批提示写不下，审阅者就只看得到标题",
+    "summary": "title 上限 80 字符、description 上限 512 字符，超时默认 120 秒且最高 600 秒，与请求里写多少无关。severity 省略按 warning，allowedDecisions 省略按三种全给。",
+    "content": "<h2>三个数字先记住</h2>\n<p>插件审批提示里，title 由网关截到 80 字符，description 截到 512 字符。timeoutMs 默认 120000，也就是两分钟，而且不论请求里写多大，上限固定在 600000，即十分钟。这三个数字决定了提示能承载多少信息。</p>\n<p>写提示时的目标读者是那个要点同意的人，所以内容要包含动作、目标与风险，不要包含密钥、令牌或者不该出现在聊天审批界面里的私有载荷。title 短而指向动作，description 具体且有限。</p>\n<h2>两个默认值</h2>\n<p>severity 省略时按 warning。只有做错决定会造成生产损坏或数据丢失的动作才用 critical——把什么都标成 critical，等于取消了这个字段的信息量。allowedDecisions 省略时默认给 allow-once、allow-always、deny 三个选项；当「以后都同意」对这个动作不安全时，就只传 allow-once 与 deny 两个。</p>\n<h2>决定的语义</h2>\n<p>allow-once 让当前调用继续。allow-always 也让当前调用继续，并把决定传给插件。deny 会以一条被拒绝的工具结果拦下调用。超时拦下调用。运行被中止时，取消也算拦下。没有审批路由时同样拦下——请求发出去了，却没有任何界面能落章。</p>\n<p>只有请求里允许的、精确匹配的 allow-once 与 allow-always 才能放行执行；未知、格式错误、不匹配、缺失与超时的决定都会拦下。allowedDecisions 限制的是展示给用户的按钮与命令，网关会拒绝请求里没有提供的那个决定。</p>\n<h2>allow-always 不是自动的</h2>\n<p>对普通的 before_tool_call.requireApproval 钩子来说，OpenClaw 把 allow-once 和 allow-always 都当作本次调用的批准，并把解析后的值传给 onResolution。allow-always 只有在请求的插件或运行时自己实现了持久化时才真的长期有效。所以如果你的插件给出了这个选项，就要实现并说明它到底信任哪些后续调用；做不到就只给 allow-once 与 deny。</p>\n<p>还有一条容易忽略：钩子在同一份返回里既给出 params 又请求审批时，被批准的是当时那一组参数，改动要等审批通过才落地。这也解释了为什么后续处理器即使优先级更低，也只能否决，不能替一次待批的调用改参数。</p>",
+    "url": "https://docs.openclaw.ai/plugins/plugin-permission-requests",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-plugin-approval-scope-display-only",
+    "title": "scope 只给人看：写超了会整段丢掉，提示照留",
+    "summary": "requireApproval.scope 是带类型、可选、纯展示的字段，永不授权也不改变决定。渠道不会从命令或标题里推断它；一旦清洗后越界，OpenClaw 会把 scope 整段省略，只保留原本的审批提示。",
+    "content": "<h2>它的定位</h2>\n<p>当插件知道某个操作的后果时，可以设置 requireApproval.scope。它是带类型、可选、且纯展示的：帮助审阅者理解这次动作，但永不授予权限，也不改变审批决定。声明审批的插件负责提供这些事实，渠道不会从命令、标题或消息文本里推断 scope。</p>\n<h2>三种形状</h2>\n<p>发消息用 message-send：给出目标类型、收件人总数、可选的预览以及受众是 internal 还是 external。付款用 payment：金额必须是精确的十进制字符串，加上币种与收款方或支付系统。对外发布用 external-post：给出目的地，以及可见性是 public 还是 restricted。</p>\n<p>收件人预览最多五个身份。所有字符串在展示前都会被清洗并限长：目标与收件人身份 128 字符，付款金额 40 字符，币种 12 字符。</p>\n<h2>超界就整段省略</h2>\n<p>如果清洗之后会越过某个上限，OpenClaw 会省略整个 scope，同时保留正常的审批提示。这个取舍值得注意：它宁可少给一段上下文，也不展示被截断的、可能误导的金额或收件人列表。所以「scope 没显示」不一定是插件没写，可能是写太长。</p>\n<h2>和参数快照的关系</h2>\n<p>如果钩子在请求审批的同时返回了 params，网关会在提出请求的那一刻把基础参数连同覆盖一起定格，只有批准之后才让覆盖生效。低优先级钩子仍可拦截，但不能改写被待批审批覆盖的那部分参数。</p>\n<p>这两个机制常常一起用：scope 告诉人「要发三条外部邮件」，params 里的实际收件人列表则在批准后才生效，中途被别的钩子改掉会以参数变更的理由拦下。</p>\n<h2>不写 scope 会怎样</h2>\n<p>声明审批的插件如果不提供 scope，审阅者看到的就只有 title 与 description 这两段文字。文档明确写了渠道不会从命令、标题或消息文本里反推出 scope——也就是说，一条写着「发布公告」的提示，不会自动带上「public」这个可见性标记。</p>\n<p>这意味着 scope 的价值全在「插件愿不愿意把已知的后果结构化地说出来」。它不会因为写得好而放宽任何判定，只会因为写得太长而被整段省略。对写插件的人，务实做法是：只声明真正确定的事实，不确定的字段宁可不写，让 title 承担那部分信息。</p>",
+    "url": "https://docs.openclaw.ai/plugins/plugin-permission-requests",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-plugin-dangerous-flags",
+    "title": "dangerousFlags 让 doctor 替你报警：路径相对 config，还支持通配",
+    "summary": "configContracts 里的 dangerousFlags 用 path 加 equals 精确标记某个配置字面量，path 相对 plugins.entries.<id>.config 且支持 * 通配。同组的两个 compatibility 路径字段决定通用配置读取要不要跳过该插件的 setup 面。",
+    "content": "<h2>它的用途</h2>\n<p>configContracts 是清单里给通用核心助手用的一块：这些行为需要在**不加载插件运行时**的前提下被读到。它管四件事——危险标记检测、SecretRef 迁移目标、遗留配置路径收窄。</p>\n<h2>dangerousFlags 的两个字段</h2>\n<p>每一条 dangerousFlags 只有两个字段。path 是点分隔的配置路径，相对 plugins.entries.&lt;id&gt;.config，支持用 * 通配映射或数组段。equals 是标记该值为危险的那个精确字面量，类型可以是字符串、数字、布尔或 null。</p>\n<p>命中的后果是 openclaw doctor 把它标记为不安全或危险，而不是拒绝启动。这个区别很重要：危险标记是给人看的评审信号，不是运行时闸门。写成 accounts.*.allowUnverifiedSenders 等于 true 这类路径，就是典型的用法——它表达的是「这个开关一旦打开，你应该知道自己在做什么」。</p>\n<h2>两个 compatibility 路径的分工</h2>\n<p>compatibilityMigrationPaths 列出根相对路径，表示该插件在 setup 阶段可能有兼容迁移需要处理。它的作用是让通用的运行时配置读取在配置从未引用该插件时，跳过所有插件的 setup 面。compatibilityRuntimePaths 列的是插件在代码完全激活之前就能在运行时服务的兼容路径，用于收窄内置候选集，而不必导入每一个兼容插件的运行时。</p>\n<p>两者都是「省一次加载」的声明，不是权限声明。写漏的代价是性能：本来能跳过的 setup 面被逐个加载。写多了的代价是正确性：本该被迁移的配置被跳过。</p>\n<h2>与 secretInputs 的关系</h2>\n<p>同一块里的 secretInputs 回答的是另一个问题：这条配置里哪些位置放的是密钥，以及取真值失败时该只影响哪一条路径。它与危险标记是两套清单，同一条配置可以同时落在两者里——一个说「打开它很危险」，另一个说「这里存的是密钥」。</p>",
+    "url": "https://docs.openclaw.ai/plugins/manifest/config-and-secrets",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-plugin-secret-inputs-owners",
+    "title": "capability 冷失败，route 留旧值：SecretRef 两种 owner 的差别",
+    "summary": "secretInputs 的每条路径可以声明 ownerKind。capability owner 在 provider 不可用时冷失败，避免旧凭据继续生效；route owner 在全量插件配置与 provider 定义未变时可以保留上次可用值。",
+    "content": "<h2>先看这块声明的是什么</h2>\n<p>secretInputs 声明 plugins.entries.&lt;id&gt;.config 下哪些路径是密钥形状的，以及它们如何参与 SecretRef 迁移、审计、启动期物化与可选的运行时 owner 隔离。它有一个 bundledDefaultEnabled 开关，用于在判断该 SecretRef 面是否生效时覆盖内置插件的默认启用状态——适用于「插件是内置的，但这个面要等配置里显式开启才该激活」的情况。</p>\n<h2>每条路径的三个字段</h2>\n<p>path 是点分隔路径，相对 plugins.entries.&lt;id&gt;.config，支持 * 通配。expected 只有一个合法值，就是字符串。ownerKind 可选，取值 capability 或 route。声明了 owner 之后，解析失败时只会隔离那一条精确匹配的路径；owner id 就是完整的配置路径。</p>\n<h2>两种 owner 的失效行为不同</h2>\n<p>capability owner 在它的 provider 不可用时冷失败，因此一份陈旧凭据不会继续生效。route owner 则可以在它的完整插件配置与 provider 定义保持不变的前提下，保留上一次已知可用的值。</p>\n<p>这个差别对应两种真实场景：能力型密钥（比如某个模型的 API key）一旦失效就不该再被使用；路由型密钥（比如某个渠道的签名密钥）在配置没动的情况下，短暂取不到新值时保留旧值比立刻断掉更安全。</p>\n<h2>脱敏与校验的连带规则</h2>\n<p>声明的路径同时决定设置界面的脱敏范围，包括通配与藏在本地 schema 引用后面的字段。结构化 SecretRef 会保留 source 与 provider，但 id 被遮盖；明文密钥整体遮盖。与它无关的设置项保存时会保留原始引用；要改 source 或 provider 必须给出显式标识。</p>\n<p>对声明了 secretInputs 的插件，configSchema 校验的是解析前的源配置，并与运行时配置配对使用。一个合法的 SecretRef 不会因为解析后的凭据是形状不同的字符串而被拒；但非法的明文源值仍然会校验失败。运行时加载、命令行注册与根命令发现都遵循同一条规则。</p>",
+    "url": "https://docs.openclaw.ai/plugins/manifest/config-and-secrets",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-plugin-manifest-first",
+    "title": "清单管身份，代码管行为：activation 块不替代 register()",
+    "summary": "清单是控制面的真相来源，负责身份、声明、配置校验、界面标签与安装元数据；原生插件的运行时模块才是数据面。activation 与 setup 只是元数据描述符，不替代 register(...) 或 setupEntry。",
+    "content": "<h2>清单回答哪些问题</h2>\n<p>清单是控制面的真相来源。OpenClaw 用它做这几件事：识别插件；发现它声明的渠道、技能、配置 schema 或 bundle 能力；校验 plugins.entries.&lt;id&gt;.config；补全控制界面的标签与占位文案；展示安装与目录元数据；以及在不加载插件运行时的前提下，保留一份廉价的激活与 setup 描述符。</p>\n<p>对原生插件来说，运行时模块是数据面那一半，它注册真正的行为：钩子、工具、命令、provider 流程。清单不注册行为，代码不做身份声明——这条分工如果被打破，通常表现为「界面里能看到插件，但功能一个都不生效」。</p>\n<h2>activation 与 setup 的边界</h2>\n<p>可选的 activation 与 setup 块同样在控制面上，性质是描述而不是实现：它们告诉规划器「什么时候可能需要我」，但既不顶替 register(...)，也不顶替 setupEntry。指望用它们省掉注册代码，只会得到一个被规划到、却什么也没注册的插件。</p>\n<h2>一个具体的好处</h2>\n<p>像「哪个插件拥有这个 provider」这类由清单就能回答的问题，会走元数据快照，不执行插件代码。这意味着状态查询、模型选择器与配置校验都不需要为了一次查找而把插件跑起来。</p>\n<h2>已安装索引不是新鲜度信号</h2>\n<p>持久化的已安装索引属于管理与启动流程，它不是运行时读取的新鲜度信号。运行时读者用的是已发布的元数据代际、派生查找表或显式清单注册表。把已安装索引当成「最新状态」是排查里常见的一个误解：磁盘上的索引比内存里的代际新，并不代表正在跑的网关用的是新的。</p>\n<p>要让它换一代，得走生命周期操作——安装、更新、刷新或 doctor 修复各自会在自己的一代里准备新元数据，然后由网关发布。</p>\n<h2>注册表是单向的</h2>\n<p>加载后的插件并不会直接去改核心的全局变量，而是注册进一个中心注册表：插件记录（身份、来源、起点、状态、诊断）加上各类能力数组——工具、旧式钩子与带类型的钩子、渠道、provider、网关 RPC 处理器、HTTP 路由、CLI 注册器、后台服务、插件自有命令，还有几十个带类型的 provider 家族（语音、嵌入、图像/视频/音乐生成、网页抓取与搜索、agent harness、会话动作等）。</p>\n<p>核心功能随后从这个注册表读取，而不是直接和插件模块对话。于是加载是单向的：插件模块到注册表注册，核心运行时从注册表消费。这个分离对可维护性的意义在于，大多数核心面只需要一个集成点——「读注册表」，而不是为每个插件模块写特例。</p>\n<p>反过来说，一个功能「注册了但界面上没有」，多半是消费侧没读这张表，而不是注册没发生。先确认注册表里有没有这一项，再去查消费路径。</p>",
+    "url": "https://docs.openclaw.ai/plugins/architecture-internals/load-pipeline",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
+  },
+  {
+    "slug": "openclaw-plugin-slack-approver-overrides",
+    "title": "工具、插件、默认三级名册：换名单不撤回已经发出去的卡片",
+    "summary": "Slack 侧审批人名单按工具、插件、默认三级覆盖，只有精确匹配的那一级生效。名单在路由请求时查一次、接受决定时再查一次；改名单不会撤回旧卡片，被移出的人仍能看到但批不了。",
+    "content": "<h2>三级覆盖的顺序</h2>\n<p>approvals.plugin.slack 可以在不改动机器人消息可见范围的前提下限制谁能审批。默认的 approvers 列表作用于所有插件审批；plugins 下的一项会为某个指定的原生工具插件覆盖它；tools 下的一项再为某个精确工具覆盖该插件的列表。</p>\n<p>对原生 OpenClaw 工具来说，插件 id 用工具注册时的那个，工具键用 encodeURIComponent(原始工具名)。只有精确匹配的那一份列表生效，顺序是工具、插件、默认。这一点没有模糊空间：写错一层就等于没写。</p>\n<h2>谁能出现在名单里</h2>\n<p>Slack 审阅者接受所选 Slack 账号内的原始 U… 或 W… 用户 id，也接受带上工作区限定的形式。决定绑定在机器人已认证的那个工作区上；来自其它工作区的限定审阅者收不到审批私信。某一层写成显式空数组，就是在那一层拒绝 Slack 决定。</p>\n<p>如果默认的 approvers 被省略，且请求有一个已知的选中 owner、又没有命中任何覆盖，则沿用该 Slack 账号原有的 allowFrom 或 defaultTo 授权。当存在插件级覆盖却拿不到选中 owner 时，Slack 决定会被拒绝。</p>\n<h2>卡片按钮与 /approve 不是同一把钥匙</h2>\n<p>这些名单授权的是 Slack 卡片按钮与 /approve，而已认证的网关审批客户端仍用自己的作用域。卡片按钮对被列出的审阅者有效，哪怕他没有普通的机器人私信权限；但手打 /approve 仍然需要那份权限。工具卡片可以显示插件提供的标题与描述，即使审阅者读不到源私信或私有频道——选审阅者时要把这个可见性考虑进去。</p>\n<h2>名单变更不会追溯</h2>\n<p>审阅者名单在路由一个新请求时查一次，在接受决定时再查一次。改动名单不会撤回已经发出去的卡片，也不会取消已经排队的消息。一个被移出的前审阅者仍可能看到那张卡，但他已经无法批准；已过期或已取消的请求卡片也不能授权任何动作。</p>\n<p>另外，一旦选中了 Slack 审阅者名单，Slack 只会通过原生审阅者私信投递卡片，通用的 approvals.plugin.targets 转发无法强制这份名单，哪怕目标里写的正是某位审阅者。</p>",
+    "url": "https://docs.openclaw.ai/plugins/plugin-permission-requests",
+    "category": "AI教程",
+    "date": "2026-11-18",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=docs.openclaw.ai&sz=64"
   }
 ]
