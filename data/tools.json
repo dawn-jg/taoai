@@ -4497,32 +4497,6 @@
     "updatedAt": "2026-10-03"
   },
   {
-    "slug": "tool1333",
-    "name": "创作王",
-    "description": "属于AI写作工具·AI小说创作分类。创作王是一款AI写作工具领域的免费增值AI工具，AI一键帮助你创作营销内容。支持AI写作工。",
-    "url": "https://aiapp.cc/",
-    "categories": [
-      "ai-writing"
-    ],
-    "tags": [
-      "AI写作工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-writing-novel",
-    "logo": "/logos/tool1333.png",
-    "domain": "aiapp.cc",
-    "detailed_content": [
-      {
-        "title": "",
-        "html": "<p>创作王是一款功能强大的AI智能创作软件，具有智能回答、创作、编写、翻译、写代码等多种功能，可以满足用户生活和工作的多方面需求。该应用程序采用AI技术，内置ChatGPT，具有智能化的聊天服务，能够帮助用户快速完成文字创作、翻译等任务，提高创作效率。</p>\n<a href=\"https://aiapp.cc/?ref=ai-bot.cn\" rel=\"noopener sponsored\" target=\"_blank\"  rel=\"nofollow noopener\" ><img decoding=\"async\" width=\"800\" height=\"247\" class=\"alignnone size-full wp-image-1336\" src=\"https://ai-bot.cn/wp-content/uploads/2023/04/aiapp-cc-banner.jpeg\"   alt=\"AI创作王Banner\" /></a>\n<p>创作王提供了许多强大的功能，包括周报生成器、邮件小助手、阅读小助手、塔罗牌预测神器、餐厅点评神器、商品点评神器、小红书创作神器、英文写作、解梦神器、SWOT分析法、节日祝福、夸夸神器、知乎问答神器等。这些功能都是根据用户的生活和工作需要而设计的，可以帮助用户更加高效地完成各种任务。 除此之外，创作王还会不断更新，增加更多实用的功能，让用户能够更好地利用AI技术提高创作效率。如果你正在寻找一款多功能、智能化的聊天软件，那么创作王绝对是你不可错过的选择。</p>"
-      }
-    ],
-    "updatedAt": "2026-09-27"
-  },
-  {
     "slug": "vgoapp-com",
     "name": "VGO",
     "description": "属于AI办公工具·AI文档处理分类。VGO 是一个本地优先、AI 原生的效率工具工作室，旗下包含 MDDock、MacSlim、MouseClaw 与 RemoteCrab 等产品。",
@@ -31866,27 +31840,6 @@
     "updatedAt": "2026-10-05"
   },
   {
-    "slug": "tool148",
-    "name": "BW188",
-    "description": "属于AI设计工具·AI平面设计分类。Figma插件，AI生成图标、图片和UX文案。支持AI设计工，适合需要AI辅助设计创作的用户。",
-    "url": "https://magician.design",
-    "categories": [
-      "ai-design"
-    ],
-    "tags": [
-      "AI设计工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-design-graphic",
-    "logo": "/logos/tool148.png",
-    "domain": "magician.design",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
-  },
-  {
     "slug": "tool108",
     "name": "AppIcons.AI",
     "description": "属于AI设计工具·AI平面设计分类。AppIcons.AI是一款AI设计工具领域的AI工具。",
@@ -33599,27 +33552,6 @@
       }
     ],
     "updatedAt": "2026-09-28"
-  },
-  {
-    "slug": "tool14961",
-    "name": "Redirecting...",
-    "description": "Redirecting...是一款AI音频工具领域的免费增值AI工具，AI音乐创作工具，集成了多种乐器声音。支持AI音频工。",
-    "url": "https://fryderyk.ai/",
-    "categories": [
-      "ai-audio"
-    ],
-    "tags": [
-      "AI音频工"
-    ],
-    "featured": false,
-    "rating": 4,
-    "pricing": "freemium",
-    "createdAt": "2025-01-01",
-    "subcategory": "ai-audio-music",
-    "logo": "/logos/tool14961.png",
-    "domain": "fryderyk.ai",
-    "detailed_content": [],
-    "updatedAt": "2026-09-27"
   },
   {
     "slug": "tool12763",
