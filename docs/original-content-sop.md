@@ -355,3 +355,14 @@ npm run build
     全部返回 200，正文 2.4k–92k 字符，最短的两页（`sdk-entrypoints/package-entries` 2.9k、`native-providers` 3.0k）
     也足够写出 900 字以上。判断该子树是否还有料只需看 sitemap 英文根路径里 `plugins/sdk*` 的未采条数
     （第 202 批开始时 66 条全未采，采完 20 篇后仍余 46 条可切）。
+
+56. **网关协议面（`gateway/protocol/*`、`web/control-ui/*`）是第十五层素材：写「线上一帧长什么样」。**
+    第 203 批 20 篇里有 9 篇出自这一层（`handshake` 2、`presence` 2、`auth` 2、`ledgers` 1、`rpc-bootstrap-and-events` 1、
+    `operator-methods` 1），与既有 920 篇 14 字滑窗跨文 0、批内 0。这层与之前十四层的区别是**它给的是可校验的数字与形状**：
+    排队 15 帧 / 每帧 64 KiB、25 MiB 帧上限 vs 20 MiB 单附件（base64 后 26.7 MiB 单独就超）、connect 总预算 30 秒而进展不延长、
+    presence 的 `base` 对不上就必须重取快照、审计账本 30 天与十万条、消息行永远不含 `sessionKey`。
+    **判据：一页里同时出现「一个连接期快照的数字 + 一条「不是空闲超时」类的口径修正 + 一处只能靠重连刷新的取值」，就能切 2 篇**
+    （`handshake` 与 `auth` 各切 2 篇、`presence` 一页切 2 篇：名单增量与 `node.host.stats`）。
+    另外三条可复用：① 这类页的 `.md` 直取同样 90/90 全部 200，不需要代理；② `web/control-ui/chat`（156k）与
+    `web/control-ui/feature-reference`（41k）本轮只切了配对与名单两处，控制台主体仍未开采；
+    ③ **`plugins/reference/*` 是低密度卡片（600–4700 字符），188 条不要整组开采**，单条素材不足以支撑 900 字。
