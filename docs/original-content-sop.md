@@ -341,3 +341,17 @@ npm run build
     真正的信息在「什么情况下它不再是默认」：系统要求文件不认可时降级为 guardian、`tools.exec.mode: auto` 强制 guardian
     并丢掉旧的不安全覆盖、按主机名匹配的远程沙箱条目参与判断。同类还有 `homeScope` 默认按代理隔离，
     但托管搜索与结算终结仍用私有临时家目录——**「默认 A，例外处 B」的成对写法，一页至少能切一篇**。
+
+54. **`plugins/sdk-*` 是第十四层素材：写「对外契约的形状」，与插件运行时层（`plugins/architecture-internals`、
+    `plugins/hooks`、`plugins/manifest`、`plugins/codex-harness*`）几乎不重叠。** 第 202 批 20 篇全部出自
+    `plugins/sdk-migration/*`、`plugins/sdk-entrypoints/*`、`plugins/sdk-channel-plugins/*`、`plugins/sdk-agent-harness/*`
+    这四棵子树，与既有 900 篇 14 字滑窗（仅计 ≥8 汉字）跨文 0、批内 0。这一层不写「插件能做什么」，写的是
+    **一个面算不算契约、什么时候允许删、空值往哪边解释**：`types` + `default` 双出口才算 typed-public、
+    `removeAfter` 严格早于当前 UTC 日期才授权删除而 `removalGate` 单独不算、`deprecated` 与 `removal-pending`
+    到日子后的后果相反、空 allow 不受限而显式空数组全部禁用、`{ kind: "unavailable" }` 要重试而 `null` 是无效身份。
+    **判据：一页里同时出现「一个契约判定（算不算对外面）+ 一个空值的两种解释 + 一条到日子才生效的授权」，就能切 2–3 篇**
+    （`removal-timeline`、`import-paths`、`tool-policy-and-sandbox` 各切 2–3 篇）。
+55. **`plugins/sdk-*` 的 `.md` 直取命中率是 66/66，且不需要代理。** `https://docs.openclaw.ai/plugins/sdk-<x>.md`
+    全部返回 200，正文 2.4k–92k 字符，最短的两页（`sdk-entrypoints/package-entries` 2.9k、`native-providers` 3.0k）
+    也足够写出 900 字以上。判断该子树是否还有料只需看 sitemap 英文根路径里 `plugins/sdk*` 的未采条数
+    （第 202 批开始时 66 条全未采，采完 20 篇后仍余 46 条可切）。
