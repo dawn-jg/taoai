@@ -43200,5 +43200,3490 @@
       }
     ],
     "updatedAt": "2026-09-27"
+  },
+  {
+    "slug": "interiorize-ai",
+    "name": "Interiorize",
+    "description": "属于AI图像工具·AI图片插画生成分类。Interiorize是一款AI图像工具领域的免费增值AI工具，Interiorize 是专注于空间改造的 AI 室内设计工具，用户只需上传房间照片，选择心仪的设计风格，即可在数秒内获得 AI 重新设…。支持设计。",
+    "url": "https://interiorize.ai/",
+    "categories": [
+      "ai-image"
+    ],
+    "tags": [
+      "设计"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "subcategory": "ai-image-illustration",
+    "logo": "/logos/interiorize-ai.png",
+    "domain": "interiorize.ai"
+  },
+  {
+    "slug": "hermes-ai-net",
+    "name": "Hermes Agent",
+    "description": "属于AI智能体·AI Agent框架分类。Hermes Agent是一款AI智能体领域的免费AI工具，Hermes Agent 是 Nous Research 推出的开源自主 AI Agent 框架，非简单的聊天机器人或编程助手，内置。支持智能体、编程、搜索、开源。",
+    "url": "https://hermes-ai.net/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体",
+      "编程",
+      "搜索",
+      "开源"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "free",
+    "createdAt": "2026-06-12",
+    "updatedAt": "2026-06-12",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/hermes-ai-net.png",
+    "domain": "hermes-ai.net"
+  },
+  {
+    "slug": "krene-com",
+    "name": "Krene",
+    "description": "属于AI写作工具·AI文章写作分类。Krene是一款AI写作工具领域的免费增值AI工具，Krene 是专注游戏/影视美术的 AIGC 创作平台。支持聊天。",
+    "url": "https://www.krene.com/",
+    "categories": [
+      "ai-writing"
+    ],
+    "tags": [
+      "聊天"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "subcategory": "ai-writing-article",
+    "logo": "/logos/krene-com.png",
+    "domain": "krene.com"
+  },
+  {
+    "slug": "tasteskill-dev",
+    "name": "Taste Skill",
+    "description": "属于AI设计工具·AI UI设计分类。Taste Skill是一款AI设计工具领域的免费增值AI工具，Taste Skill 是开源的 Agent 技能文件库，可升级 AI 构建的界面质量。支持图像生成、UI设计、设计、智能体。",
+    "url": "https://www.tasteskill.dev/",
+    "categories": [
+      "ai-design"
+    ],
+    "tags": [
+      "图像生成",
+      "UI设计",
+      "设计",
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-05-27",
+    "updatedAt": "2026-05-27",
+    "subcategory": "ai-design-ui",
+    "logo": "/logos/tasteskill-dev.png",
+    "domain": "tasteskill.dev"
+  },
+  {
+    "slug": "ai-qisemiyun-com",
+    "name": "七色米AI",
+    "description": "属于AI视频工具·AI视频生成分类。七色米AI是一款AI视频工具领域的免费增值AI工具，七色米AI是专为中小企业打造的AI智能营销内容创作平台，提供AI电商主图、商品海报、视频、模特试衣、换背景等视觉创作工具，以及市场调研、…。支持海报、文案、商品图。",
+    "url": "https://ai.qisemiyun.com/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "海报",
+      "文案",
+      "商品图"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-16",
+    "updatedAt": "2026-06-16",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/ai-qisemiyun-com.ico",
+    "domain": "ai.qisemiyun.com"
+  },
+  {
+    "slug": "haimeta-com",
+    "name": "Haimeta",
+    "description": "属于AI视频工具·AI视频生成分类。Haimeta是一款AI视频工具领域的免费增值AI工具，Haimeta 是面向创作者、品牌、电商及设计团队的一站式 AI 创意平台，聚合了 30+ 顶级 AI 模型，覆盖图片生成、视频生成、3…。支持视频生成、3D、设计、智能体。",
+    "url": "https://haimeta.com/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "3D",
+      "设计",
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-05-30",
+    "updatedAt": "2026-05-30",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/haimeta-com.png",
+    "domain": "haimeta.com"
+  },
+  {
+    "slug": "weave-32zi-com",
+    "name": "交织 Weave",
+    "description": "属于AI音频工具·AI声音克隆分类。交织 Weave是一款AI音频工具领域的免费增值AI工具，交织 Weave是 AI 驱动的全能创作平台 ，集成了文生视频、图生视频、AI 绘画、智能剧本解析、360° 角色设计、分镜生成、音色配…。支持视频生成、图像生成、设计。",
+    "url": "https://weave.32zi.com/",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "视频生成",
+      "图像生成",
+      "设计"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-01",
+    "updatedAt": "2026-06-01",
+    "subcategory": "ai-audio-clone",
+    "logo": "/logos/weave-32zi-com.png",
+    "domain": "weave.32zi.com"
+  },
+  {
+    "slug": "lickmv-cgref-cn",
+    "name": "立刻MV",
+    "description": "属于AI音频工具·AI音频编辑分类。立刻MV是一款AI音频工具领域的免费增值AI工具，立刻MV（LickMV） 是一站式 AI 音乐视频（MV）创作工具，提供网页端 Studio 和 iPhone App 双版本。支持音乐生成、字幕、自动化。",
+    "url": "https://lickmv.cgref.cn/s/qmnoyy3e29",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "音乐生成",
+      "字幕",
+      "自动化"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "subcategory": "ai-audio-edit",
+    "logo": "/logos/lickmv-cgref-cn.png",
+    "domain": "lickmv.cgref.cn"
+  },
+  {
+    "slug": "open-design-ai",
+    "name": "Open Design",
+    "description": "属于AI设计工具·AI UI设计分类。Open Design是一款AI设计工具领域的免费增值AI工具，Open Design 是开源本地优先的 AI 设计工作空间，定位为 Claude Design 的替代品。支持设计、智能体、自动化、编程。",
+    "url": "https://open-design.ai/",
+    "categories": [
+      "ai-design"
+    ],
+    "tags": [
+      "设计",
+      "智能体",
+      "自动化",
+      "编程"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-05",
+    "updatedAt": "2026-06-05",
+    "subcategory": "ai-design-ui",
+    "logo": "/logos/open-design-ai.png",
+    "domain": "open-design.ai"
+  },
+  {
+    "slug": "oiiyao-com",
+    "name": "Oiiyao 千影万音",
+    "description": "属于AI音频工具·AI音频编辑分类。Oiiyao 千影万音是一款AI音频工具领域的免费增值AI工具，Oiiyao 千影万音是合肥未沐科技有限公司推出的 AI 视频创作与本地化平台，提供视频生成、生成式编辑与转绘，以及视频翻译、配音、口型…。支持视频生成、配音、字幕、翻译。",
+    "url": "https://www.oiiyao.com/",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "视频生成",
+      "配音",
+      "字幕",
+      "翻译"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-12",
+    "updatedAt": "2026-10-12",
+    "subcategory": "ai-audio-edit",
+    "logo": "/logos/oiiyao-com.png",
+    "domain": "oiiyao.com"
+  },
+  {
+    "slug": "uniscribe-co",
+    "name": "UniScribe",
+    "description": "属于AI音频工具·AI音频编辑分类。UniScribe是一款AI音频工具领域的免费增值AI工具，UniScribe 是 AI 免费在线音视频转文字平台，支持上传本地文件或粘贴 YouTube 链接，可将音频/视频快速转录为文本，自动…。支持字幕。",
+    "url": "https://www.uniscribe.co/",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "字幕"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-16",
+    "updatedAt": "2026-06-16",
+    "subcategory": "ai-audio-edit",
+    "logo": "/logos/uniscribe-co.png",
+    "domain": "uniscribe.co"
+  },
+  {
+    "slug": "ohyesai-com",
+    "name": "OhYesAI",
+    "description": "属于AI音频工具·AI音乐生成分类。OhYesAI是一款AI音频工具领域的免费增值AI工具，OhYesAI 是专注于 AI 音乐 MV 创作的音视一体化智能体平台，让每一个声音找到属于它的画面。支持音乐生成、智能体。",
+    "url": "https://ohyesai.com/",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "音乐生成",
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "subcategory": "ai-audio-music",
+    "logo": "/logos/ohyesai-com.png",
+    "domain": "ohyesai.com"
+  },
+  {
+    "slug": "yoco-me",
+    "name": "YOCO智能制课",
+    "description": "属于AI视频工具·AI数字人分类。YOCO智能制课是一款AI视频工具领域的免费增值AI工具，YOCO智能制课是专注于PPT讲解视频生成的AI创作工具，用户只需上传PPT，自动生成专业级数字人讲解视频。支持视频生成、数字人、3D、PPT。",
+    "url": "https://www.yoco.me/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "数字人",
+      "3D",
+      "PPT"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-08",
+    "updatedAt": "2026-06-08",
+    "subcategory": "ai-video-digital-human",
+    "logo": "/logos/yoco-me.png",
+    "domain": "yoco.me"
+  },
+  {
+    "slug": "gemhues-com",
+    "name": "GemHues",
+    "description": "属于AI视频工具·AI视频生成分类。GemHues是一款AI视频工具领域的免费增值AI工具，GemHues （中文名：宝图设计）是面向电商卖家的 AI 商品视觉内容生成平台，覆盖。支持设计、商品图。",
+    "url": "https://www.gemhues.com/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "设计",
+      "商品图"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-09",
+    "updatedAt": "2026-06-09",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/gemhues-com.png",
+    "domain": "gemhues.com"
+  },
+  {
+    "slug": "ccswitch-io",
+    "name": "CC Switch",
+    "description": "属于AI设计工具·AI UI设计分类。CC Switch是一款AI设计工具领域的免费增值AI工具，CC Switch 是开源的跨平台 AI 编程配置管理工具，支持 macOS、Windows 和 Linux。支持UI设计、智能体、编程、开源。",
+    "url": "https://ccswitch.io/",
+    "categories": [
+      "ai-design"
+    ],
+    "tags": [
+      "UI设计",
+      "智能体",
+      "编程",
+      "开源"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-08",
+    "updatedAt": "2026-06-08",
+    "subcategory": "ai-design-ui",
+    "logo": "/logos/ccswitch-io.png",
+    "domain": "ccswitch.io"
+  },
+  {
+    "slug": "zida-school",
+    "name": "知达AI",
+    "description": "属于AI办公工具·AI文档处理分类。知达AI是一款AI办公工具领域的免费增值AI工具，知达AI是专为教育全场景打造的AI智能助教，打破单一学段壁垒，覆盖K12基础教育、职业教育及特殊教育三大领域。支持文档、大模型、教育。",
+    "url": "https://www.zida.school/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "文档",
+      "大模型",
+      "教育"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-09",
+    "updatedAt": "2026-06-09",
+    "subcategory": "ai-office-doc",
+    "logo": "/logos/zida-school.png",
+    "domain": "zida.school"
+  },
+  {
+    "slug": "creator-xiaohongshu-com",
+    "name": "Red Skill",
+    "description": "属于AI办公工具·AI文档处理分类。Red Skill是一款AI办公工具领域的免费增值AI工具，Red Skill是小红书推出的AI Skill分发平台。支持文档、智能体、文案。",
+    "url": "https://creator.xiaohongshu.com/login",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "文档",
+      "智能体",
+      "文案"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-11",
+    "updatedAt": "2026-06-11",
+    "subcategory": "ai-office-doc",
+    "logo": "/logos/creator-xiaohongshu-com.png",
+    "domain": "creator.xiaohongshu.com"
+  },
+  {
+    "slug": "jucloud-cgref-cn",
+    "name": "剧云",
+    "description": "属于AI编程工具·AI编程助手分类。剧云是一款AI编程工具领域的免费增值AI工具，剧云是专注中文剧本创作的云端AI智能平台，为编剧、导演及影视团队提供从创意构思到成稿交付的全流程创作解决方案。支持小说。",
+    "url": "https://jucloud.cgref.cn/s/zdkj0xoe1r",
+    "categories": [
+      "ai-coding"
+    ],
+    "tags": [
+      "小说"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "subcategory": "ai-coding-ide",
+    "logo": "/logos/jucloud-cgref-cn.png",
+    "domain": "jucloud.cgref.cn"
+  },
+  {
+    "slug": "audimind-com",
+    "name": "万象有声",
+    "description": "属于AI写作工具·AI文章写作分类。万象有声是一款AI写作工具领域的免费增值AI工具，万象有声是面向有声内容产业的 AI 一站式创作平台，由原。支持文章写作。",
+    "url": "https://www.audimind.com/",
+    "categories": [
+      "ai-writing"
+    ],
+    "tags": [
+      "文章写作"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-11",
+    "updatedAt": "2026-06-11",
+    "subcategory": "ai-writing-article",
+    "logo": "/logos/audimind-com.png",
+    "domain": "audimind.com"
+  },
+  {
+    "slug": "mimo-xiaomi-com",
+    "name": "MiMo Code",
+    "description": "属于AI智能体·AI Agent框架分类。MiMo Code是一款AI智能体领域的免费增值AI工具，MiMo Code 是小米大模型团队发布的开源 AI 编程助手，基于 OpenCode 采用 MIT 协议开源，内置限时免费的 MiMo…。支持智能体、编程、大模型、开源。",
+    "url": "https://mimo.xiaomi.com/mimocode",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体",
+      "编程",
+      "大模型",
+      "开源"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-11",
+    "updatedAt": "2026-06-11",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/mimo-xiaomi-com.png",
+    "domain": "mimo.xiaomi.com"
+  },
+  {
+    "slug": "trae-cn",
+    "name": "TraeWork",
+    "description": "属于AI办公工具·AI文档处理分类。TraeWork是一款AI办公工具领域的免费增值AI工具，TraeWork 是字节跳动推出的 AI 原生工作台，目前 TraeWork 和 TraeCode 已正式合并，融合为全新的 TRAE。支持文档处理。",
+    "url": "https://www.trae.cn/sem/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "文档处理"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-10",
+    "updatedAt": "2026-10-10",
+    "subcategory": "ai-office-doc",
+    "logo": "/logos/trae-cn.png",
+    "domain": "trae.cn"
+  },
+  {
+    "slug": "melolab-ai",
+    "name": "MeloLab",
+    "description": "属于AI音频工具·AI音乐生成分类。MeloLab是一款AI音频工具领域的免费增值AI工具，MeloLab是一站式 AI 音乐生成与编辑平台，支持通过文字、图片、哼唱或音频输入，一键生成带人声的完整歌曲、伴奏及分轨。支持音乐生成。",
+    "url": "https://melolab.ai/",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "音乐生成"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-15",
+    "updatedAt": "2026-06-15",
+    "subcategory": "ai-audio-music",
+    "logo": "/logos/melolab-ai.png",
+    "domain": "melolab.ai"
+  },
+  {
+    "slug": "51melo-com",
+    "name": "MELO 音乐",
+    "description": "属于AI音频工具·AI音乐生成分类。MELO 音乐是一款AI音频工具领域的免费增值AI工具，MELO 音乐是北京灵犀深智科技有限公司推出的国内领先 AI 音乐生成平台，核心优势集中在中文演唱品质、多模态创作能力与商业版权合规三大…。支持音乐生成。",
+    "url": "https://www.51melo.com/",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "音乐生成"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-16",
+    "updatedAt": "2026-06-16",
+    "subcategory": "ai-audio-music",
+    "logo": "/logos/51melo-com.png",
+    "domain": "51melo.com"
+  },
+  {
+    "slug": "wawawriter-cgref-cn",
+    "name": "蛙蛙漫剧",
+    "description": "属于AI音频工具·AI音频编辑分类。蛙蛙漫剧是一款AI音频工具领域的免费增值AI工具，蛙蛙漫剧是蛙蛙写作推出的AI漫剧创作工具，打通小说-剧本-漫剧视频全链路生产。支持配音、字幕、小说、写作。",
+    "url": "https://wawawriter.cgref.cn/aibot",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "配音",
+      "字幕",
+      "小说",
+      "写作"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-20",
+    "updatedAt": "2026-07-20",
+    "subcategory": "ai-audio-edit",
+    "logo": "/logos/wawawriter-cgref-cn.png",
+    "domain": "wawawriter.cgref.cn"
+  },
+  {
+    "slug": "s-mizai-cn",
+    "name": "蜜崽检索",
+    "description": "属于AI写作工具·AI论文写作分类。蜜崽检索是一款AI写作工具领域的免费增值AI工具，蜜崽检索是 AI 学术检索与研究辅助工具，帮助用户在超过 3.3 亿篇英文文献中快速查找、筛选、阅读和分析文献。支持论文。",
+    "url": "https://s.mizai.cn/",
+    "categories": [
+      "ai-writing"
+    ],
+    "tags": [
+      "论文"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-18",
+    "updatedAt": "2026-06-18",
+    "subcategory": "ai-writing-paper",
+    "logo": "/logos/s-mizai-cn.png",
+    "domain": "s.mizai.cn"
+  },
+  {
+    "slug": "artarchstudio-cgaff-link",
+    "name": "ArtarchStudio",
+    "description": "属于AI视频工具·AI视频生成分类。ArtarchStudio是一款AI视频工具领域的免费增值AI工具，ArtarchStudio 是一站式 AI 内容创作画布平台，集成图像生成、视频生成及创意设计工具于一体，通过统一界面聚合 Happyh…。支持视频生成、图像生成、UI设计、设计。",
+    "url": "https://artarchstudio.cgaff.link/s/3mnz8v5no1",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "图像生成",
+      "UI设计",
+      "设计"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-18",
+    "updatedAt": "2026-06-18",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/artarchstudio-cgaff-link.webp",
+    "domain": "artarchstudio.cgaff.link"
+  },
+  {
+    "slug": "tavafa-com",
+    "name": "Tavafa塔维法",
+    "description": "属于AI设计工具·AI平面设计分类。Tavafa塔维法是一款AI设计工具领域的免费增值AI工具，Tavafa塔维法是新一代 AI 在线设计平台，集 AI 生成、AI 修图与 PS 级像素精修于一体。支持设计、聊天。",
+    "url": "http://www.tavafa.com/",
+    "categories": [
+      "ai-design"
+    ],
+    "tags": [
+      "设计",
+      "聊天"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-22",
+    "updatedAt": "2026-06-22",
+    "subcategory": "ai-design-graphic",
+    "logo": "/logos/tavafa-com.png",
+    "domain": "tavafa.com"
+  },
+  {
+    "slug": "jihegeo-com",
+    "name": "几何AI",
+    "description": "属于AI图像工具·AI商品图生成分类。几何AI是一款AI图像工具领域的免费增值AI工具，几何AI是面向全品类电商的AI视觉生成平台，专注帮助电商卖家和设计师高效完成主图、详情页、场景图、模特图等电商视觉素材的生成。支持设计。",
+    "url": "https://jihegeo.com/",
+    "categories": [
+      "ai-image"
+    ],
+    "tags": [
+      "设计"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-22",
+    "updatedAt": "2026-06-22",
+    "subcategory": "ai-image-product",
+    "logo": "/logos/jihegeo-com.png",
+    "domain": "jihegeo.com"
+  },
+  {
+    "slug": "mojian-cn",
+    "name": "墨见",
+    "description": "属于AI设计工具·AI UI设计分类。墨见是一款AI设计工具领域的免费增值AI工具，墨见是墨刀推出的 AI 伴生协作平台，面向超级个体、创业团队与高压职场人群，平台是一支覆盖产品、设计、研发、增长、法务、财务等全岗位的 …。支持UI设计、设计、编程。",
+    "url": "https://mojian.cn/",
+    "categories": [
+      "ai-design"
+    ],
+    "tags": [
+      "UI设计",
+      "设计",
+      "编程"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-23",
+    "updatedAt": "2026-06-23",
+    "subcategory": "ai-design-ui",
+    "logo": "/logos/mojian-cn.png",
+    "domain": "mojian.cn"
+  },
+  {
+    "slug": "updream-cgref-cn",
+    "name": "updream",
+    "description": "属于AI视频工具·AI视频生成分类。updream是一款AI视频工具领域的免费增值AI工具，updream 是新一代专业级一站式 AI 视频创作平台，面向专业内容创作者，主打长记忆 Agent 、技能库、无界画布三大核心能力，定…。支持视频生成、智能体。",
+    "url": "https://updream.cgref.cn/s/1oe71vme23",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-10",
+    "updatedAt": "2026-11-10",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/updream-cgref-cn.png",
+    "domain": "updream.cgref.cn"
+  },
+  {
+    "slug": "matrix-build",
+    "name": "Matrix",
+    "description": "属于AI办公工具·AI文档处理分类。Matrix是一款AI办公工具领域的免费增值AI工具，Matrix 是超长时间自动化运行的主动式多 Agent 协作平台。支持智能体、自动化。",
+    "url": "https://matrix.build/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "智能体",
+      "自动化"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-24",
+    "updatedAt": "2026-06-24",
+    "subcategory": "ai-office-doc",
+    "logo": "/logos/matrix-build.png",
+    "domain": "matrix.build"
+  },
+  {
+    "slug": "highreach-ai",
+    "name": "HighReach",
+    "description": "属于AI视频工具·AI数字人分类。HighReach是一款AI视频工具领域的免费增值AI工具，HighReach 是面向视频、图像、虚拟人及产品创意的 AI 生成套件（AI Gen Suite），定位为电商与付费营销团队的创意加速器。支持视频生成、数字人、图像生成、图片放大。",
+    "url": "https://highreach.ai/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "数字人",
+      "图像生成",
+      "图片放大"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-30",
+    "updatedAt": "2026-06-30",
+    "subcategory": "ai-video-digital-human",
+    "logo": "/logos/highreach-ai.png",
+    "domain": "highreach.ai"
+  },
+  {
+    "slug": "lobsterai-youdao-com",
+    "name": "LobsterAI",
+    "description": "属于AI办公工具·AI文档处理分类。LobsterAI是一款AI办公工具领域的免费增值AI工具，LobsterAI 是网易推出的全场景办公助手 Agent，也是国内大厂首个开源桌面级 Agent。支持智能体、开源。",
+    "url": "https://lobsterai.youdao.com/#/index?keyfrom=aigjj",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "智能体",
+      "开源"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-26",
+    "updatedAt": "2026-10-26",
+    "subcategory": "ai-office-doc",
+    "logo": "/logos/lobsterai-youdao-com.png",
+    "domain": "lobsterai.youdao.com"
+  },
+  {
+    "slug": "kevvee-com",
+    "name": "Kevvee",
+    "description": "属于AI视频工具·AI视频生成分类。Kevvee是一款AI视频工具领域的免费增值AI工具，Kevvee 是全球首个面向出海品牌的 AI 出海内容 GTM 策略 Agent，不是 AI 视频工具、达人撮合平台或自动化营销工具，是…。支持智能体、自动化、文案。",
+    "url": "https://www.kevvee.com/#top?utm_source=ai-bot.cn",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "智能体",
+      "自动化",
+      "文案"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-31",
+    "updatedAt": "2026-08-31",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/kevvee-com.png",
+    "domain": "kevvee.com"
+  },
+  {
+    "slug": "meigen-ai",
+    "name": "MeiGen",
+    "description": "属于AI视频工具·AI视频生成分类。MeiGen是一款AI视频工具领域的免费增值AI工具，MeiGen是聚焦 AI 提示词（Prompt）的社区画廊与一键生成平台。支持提示词。",
+    "url": "https://www.meigen.ai/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "提示词"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-06-30",
+    "updatedAt": "2026-06-30",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/meigen-ai.png",
+    "domain": "meigen.ai"
+  },
+  {
+    "slug": "meyo123-com",
+    "name": "觅游Meyo",
+    "description": "属于AI智能体·AI Agent框架分类。觅游Meyo是一款AI智能体领域的免费AI工具，觅游（Meyo）是美团推出的AI原生 Agent 社区。支持智能体。",
+    "url": "https://www.meyo123.com/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "free",
+    "createdAt": "2026-06-26",
+    "updatedAt": "2026-06-26",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/meyo123-com.png",
+    "domain": "meyo123.com"
+  },
+  {
+    "slug": "app-pavo-ai-work",
+    "name": "Pavo",
+    "description": "属于AI视频工具·AI视频生成分类。Pavo是一款AI视频工具领域的免费AI工具，Pavo 是 Agnes AI 推出的AI短剧视频创作平台，用户输入一句话创意，AI自动拆解为完整方案，依次完成角色设计、场景构建、分镜…。支持视频生成、设计。",
+    "url": "https://app.pavo-ai.work/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "设计"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "free",
+    "createdAt": "2026-07-20",
+    "updatedAt": "2026-07-20",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/app-pavo-ai-work.png",
+    "domain": "app.pavo-ai.work"
+  },
+  {
+    "slug": "digen-ai",
+    "name": "Digen AI",
+    "description": "属于AI视频工具·AI视频生成分类。Digen AI是一款AI视频工具领域的免费增值AI工具，Digen AI 是 AI 视频创作平台，集成 字节 Seedance、Google Veo 3.1 等主流视频大模型，提供文生视频、图…。支持视频生成、图片放大、大模型。",
+    "url": "https://digen.ai/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "图片放大",
+      "大模型"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-01",
+    "updatedAt": "2026-07-01",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/digen-ai.png",
+    "domain": "digen.ai"
+  },
+  {
+    "slug": "xia345-com",
+    "name": "虾345",
+    "description": "属于AI设计工具·AI平面设计分类。虾345是一款AI设计工具领域的免费AI工具，虾345（xia345）是面向AI Agent生态的综合型导航与信息聚合平台，定位为新手养虾第一站。支持设计、智能体、大模型。",
+    "url": "https://www.xia345.com/",
+    "categories": [
+      "ai-design"
+    ],
+    "tags": [
+      "设计",
+      "智能体",
+      "大模型"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "free",
+    "createdAt": "2026-07-01",
+    "updatedAt": "2026-07-01",
+    "subcategory": "ai-design-graphic",
+    "logo": "/logos/xia345-com.png",
+    "domain": "xia345.com"
+  },
+  {
+    "slug": "zaohua-qq-com",
+    "name": "造化工坊",
+    "description": "属于AI写作工具·AI文章写作分类。造化工坊是一款AI写作工具领域的免费增值AI工具，造化工坊是腾讯光子工作室推出的AI互动游戏创作平台，定位为。支持文章写作。",
+    "url": "https://zaohua.qq.com/",
+    "categories": [
+      "ai-writing"
+    ],
+    "tags": [
+      "文章写作"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-23",
+    "updatedAt": "2026-07-23",
+    "subcategory": "ai-writing-article",
+    "logo": "/logos/zaohua-qq-com.png",
+    "domain": "zaohua.qq.com"
+  },
+  {
+    "slug": "skildart-cgref-cn",
+    "name": "SkildArt",
+    "description": "属于AI视频工具·AI视频生成分类。SkildArt是一款AI视频工具领域的免费增值AI工具，SkildArt 是一站式 AI 视觉创作平台，为商业营销而生，覆盖从创意构思、商品出图、海报设计、模板套图到短视频生成的完整视觉生产流程。支持视频生成、设计、海报、智能体。",
+    "url": "https://skildart.cgref.cn/s/rpexor3e90",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "设计",
+      "海报",
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-21",
+    "updatedAt": "2026-08-21",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/skildart-cgref-cn.png",
+    "domain": "skildart.cgref.cn"
+  },
+  {
+    "slug": "streamlake-com",
+    "name": "StreamLake",
+    "description": "属于AI视频工具·AI视频生成分类。StreamLake是一款AI视频工具领域的免费增值AI工具，StreamLake 是快手旗下 B2B 技术品牌，定位为。支持视频生成。",
+    "url": "https://streamlake.com/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-03",
+    "updatedAt": "2026-07-03",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/streamlake-com.png",
+    "domain": "streamlake.com"
+  },
+  {
+    "slug": "ximixiang-com",
+    "name": "西米AI",
+    "description": "属于AI图像工具·AI图片优化修复分类。西米AI是一款AI图像工具领域的免费增值AI工具，西米AI是专门面向印花行业打造的AI图案提取工具。支持图片优化修复。",
+    "url": "https://ximixiang.com/home?invite_code=9961",
+    "categories": [
+      "ai-image"
+    ],
+    "tags": [
+      "图片优化修复"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-07",
+    "updatedAt": "2026-07-07",
+    "subcategory": "ai-image-enhance",
+    "logo": "/logos/ximixiang-com.png",
+    "domain": "ximixiang.com"
+  },
+  {
+    "slug": "tdream-qq-com",
+    "name": "TDream",
+    "description": "属于AI写作工具·AI文章写作分类。TDream是一款AI写作工具领域的免费增值AI工具，TDream是腾讯推出的AI互动内容创作平台，目前处于早期内测阶段，核心定位。支持文章写作。",
+    "url": "https://tdream.qq.com/",
+    "categories": [
+      "ai-writing"
+    ],
+    "tags": [
+      "文章写作"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-06",
+    "updatedAt": "2026-07-06",
+    "subcategory": "ai-writing-article",
+    "logo": "/logos/tdream-qq-com.png",
+    "domain": "tdream.qq.com"
+  },
+  {
+    "slug": "ai-iiit-cn",
+    "name": "莓图AI",
+    "description": "属于AI设计工具·AI平面设计分类。莓图AI是一款AI设计工具领域的免费增值AI工具，莓图AI是专注于AI图片生成与视觉风格复刻的智能创作平台，核心定位为电商详情图生成与爆款视觉风格复刻，能帮助商家快速产出高质量商品展示素…。支持智能体、教育、商品图。",
+    "url": "https://ai.iiit.cn/",
+    "categories": [
+      "ai-design"
+    ],
+    "tags": [
+      "智能体",
+      "教育",
+      "商品图"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-07",
+    "updatedAt": "2026-07-07",
+    "subcategory": "ai-design-graphic",
+    "logo": "/logos/ai-iiit-cn.png",
+    "domain": "ai.iiit.cn"
+  },
+  {
+    "slug": "maxaeo-cn",
+    "name": "MaxAEO",
+    "description": "属于AI搜索引擎·AI搜索引擎分类。MaxAEO是一款AI搜索引擎领域的免费增值AI工具，MaxAEO 是面向品牌与增长团队的 AI 搜索可见度监测与优化工具，覆盖豆包、DeepSeek、Kimi、通义千问、文心一言、腾讯元宝…。支持搜索。",
+    "url": "https://maxaeo.cn/",
+    "categories": [
+      "ai-search"
+    ],
+    "tags": [
+      "搜索"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-08",
+    "updatedAt": "2026-07-08",
+    "subcategory": "ai-search-engine",
+    "logo": "/logos/maxaeo-cn.png",
+    "domain": "maxaeo.cn"
+  },
+  {
+    "slug": "laper-cgref-cn",
+    "name": "Laper",
+    "description": "属于AI设计工具·AI海报制作分类。Laper是一款AI设计工具领域的免费增值AI工具，Laper 是专为编剧、导演和制片人推出的 AI 原生剧本创作工具。支持海报。",
+    "url": "https://laper.cgref.cn/s/zdkjqq8n1r",
+    "categories": [
+      "ai-design"
+    ],
+    "tags": [
+      "海报"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-22",
+    "updatedAt": "2026-07-22",
+    "subcategory": "ai-design-poster",
+    "logo": "/logos/laper-cgref-cn.png",
+    "domain": "laper.cgref.cn"
+  },
+  {
+    "slug": "wenzhidoc-com",
+    "name": "文智Doc",
+    "description": "属于AI办公工具·AI文档处理分类。文智Doc是一款AI办公工具领域的免费增值AI工具，文智Doc是 AI 文档生成工具，专注于正式文档场景的 AI 文档生成与在线编辑。支持文档、聊天。",
+    "url": "https://wenzhidoc.com/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "文档",
+      "聊天"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-09",
+    "updatedAt": "2026-07-09",
+    "subcategory": "ai-office-doc",
+    "logo": "/logos/wenzhidoc-com.png",
+    "domain": "wenzhidoc.com"
+  },
+  {
+    "slug": "mvland-cn",
+    "name": "MVLAND",
+    "description": "属于AI音频工具·AI音乐生成分类。MVLAND是一款AI音频工具领域的免费增值AI工具，MVLAND 是美图旗下面向创作者的 AI 音乐视频创作平台，支持从灵感到成片的完整 MV 工作流。支持视频生成、音乐生成、自动化。",
+    "url": "https://mvland.cn/",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "视频生成",
+      "音乐生成",
+      "自动化"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "subcategory": "ai-audio-music",
+    "logo": "/logos/mvland-cn.png",
+    "domain": "mvland.cn"
+  },
+  {
+    "slug": "jobright-ai",
+    "name": "Jobright",
+    "description": "属于AI办公工具·AI会议纪要分类。Jobright是一款AI办公工具领域的免费增值AI工具，Jobright 是 AI 求职平台，通过AI技术为求职者提供一站式自动化服务，基于简历的智能职位匹配、针对每个岗位秒级定制ATS友好简…。支持简历、面试、自动化。",
+    "url": "https://jobright.ai/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "简历",
+      "面试",
+      "自动化"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-13",
+    "updatedAt": "2026-07-13",
+    "subcategory": "ai-office-meeting",
+    "logo": "/logos/jobright-ai.png",
+    "domain": "jobright.ai"
+  },
+  {
+    "slug": "biaoda-me",
+    "name": "表答",
+    "description": "属于AI智能体·AI Agent框架分类。表答是一款AI智能体领域的免费增值AI工具，表答是围绕。支持智能体。",
+    "url": "https://biaoda.me/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-13",
+    "updatedAt": "2026-07-13",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/biaoda-me.png",
+    "domain": "biaoda.me"
+  },
+  {
+    "slug": "chatspss-cn",
+    "name": "ChatSPSS",
+    "description": "属于AI办公工具·AI表格处理分类。ChatSPSS是一款AI办公工具领域的免费增值AI工具，ChatSPSS 是 AI 在线智能数据分析助手，用户无需安装传统 SPSS 软件，只需在浏览器中上传 CSV、Excel、SPSS(.…。支持Excel、聊天。",
+    "url": "https://chatspss.cn/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "Excel",
+      "聊天"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-10",
+    "updatedAt": "2026-07-10",
+    "subcategory": "ai-office-excel",
+    "logo": "/logos/chatspss-cn.png",
+    "domain": "chatspss.cn"
+  },
+  {
+    "slug": "qmusespace-com",
+    "name": "QMUSE",
+    "description": "属于AI编程工具·AI代码生成分类。QMUSE是一款AI编程工具领域的免费增值AI工具，QMUSE是蚂蚁集团推出的AI无代码应用生成平台，面向零基础用户，通过自然语言描述即可将想法转化为可运行的Web作品。支持编程、低代码。",
+    "url": "https://www.qmusespace.com/home",
+    "categories": [
+      "ai-coding"
+    ],
+    "tags": [
+      "编程",
+      "低代码"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-10",
+    "updatedAt": "2026-07-10",
+    "subcategory": "ai-coding-generator",
+    "logo": "/logos/qmusespace-com.png",
+    "domain": "qmusespace.com"
+  },
+  {
+    "slug": "krowork-com",
+    "name": "KroWork",
+    "description": "属于AI办公工具·AI文档处理分类。KroWork是一款AI办公工具领域的免费增值AI工具，KroWork 是快手推出的桌面端通用 AI 智能体，用户通过自然语言描述需求，工具可自主拆解任务、调用技能、编写并执行代码，最终交付可…。支持文档、智能体、编程。",
+    "url": "https://krowork.com/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "文档",
+      "智能体",
+      "编程"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-10",
+    "updatedAt": "2026-07-10",
+    "subcategory": "ai-office-doc",
+    "logo": "/logos/krowork-com.png",
+    "domain": "krowork.com"
+  },
+  {
+    "slug": "joyai-com",
+    "name": "JoyAI",
+    "description": "属于AI视频工具·AI数字人分类。JoyAI是一款AI视频工具领域的免费增值AI工具，JoyAI是京东自主研发的一站式AIGC创作平台，基于京东算法深耕，同时接入行业顶尖生图与视频模型，将创意灵感瞬间转化为高清图像、动态视…。支持视频生成、数字人。",
+    "url": "https://joyai.com/?c=sdwvmytium",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "数字人"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-10",
+    "updatedAt": "2026-08-10",
+    "subcategory": "ai-video-digital-human",
+    "logo": "/logos/joyai-com.png",
+    "domain": "joyai.com"
+  },
+  {
+    "slug": "duck-ai",
+    "name": "Duck.ai",
+    "description": "属于AI搜索引擎·AI搜索引擎分类。Duck.ai是一款AI搜索引擎领域的免费AI工具，Duck.ai 是搜索引擎 DuckDuckGo 推出的免费 AI 聊天平台，用户无需注册、无需暴露个人身份即可匿名访问 GPT-4o …。支持搜索、大模型、聊天。",
+    "url": "https://duck.ai/",
+    "categories": [
+      "ai-search"
+    ],
+    "tags": [
+      "搜索",
+      "大模型",
+      "聊天"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "free",
+    "createdAt": "2026-07-20",
+    "updatedAt": "2026-07-20",
+    "subcategory": "ai-search-engine",
+    "logo": "/logos/duck-ai.png",
+    "domain": "duck.ai"
+  },
+  {
+    "slug": "learningbuddy-tencent-com",
+    "name": "LearnBuddy",
+    "description": "属于AI智能体·AI Agent框架分类。LearnBuddy是一款AI智能体领域的免费增值AI工具，LearnBuddy 是腾讯推出的专家同行的AI自主学习平台，定位为面向高校及教育机构的 AI 自主学习平台。支持智能体、教育。",
+    "url": "https://learningbuddy.tencent.com/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体",
+      "教育"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-15",
+    "updatedAt": "2026-07-15",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/learningbuddy-tencent-com.png",
+    "domain": "learningbuddy.tencent.com"
+  },
+  {
+    "slug": "waclaw-ihuiwa-com",
+    "name": "WaClaw",
+    "description": "属于AI视频工具·AI视频生成分类。WaClaw是一款AI视频工具领域的免费增值AI工具，WaClaw 是阿里绘蛙团队推出的电商垂直 AI Agent，基于淘宝、Lazada 等海内外电商生态打造，主打对话即创作。支持智能体、文案、聊天、商品图。",
+    "url": "https://waclaw.ihuiwa.com/workspace?huiwaInviteCode=KVHPQL&target=waclaw",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "智能体",
+      "文案",
+      "聊天",
+      "商品图"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-24",
+    "updatedAt": "2026-07-24",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/waclaw-ihuiwa-com.png",
+    "domain": "waclaw.ihuiwa.com"
+  },
+  {
+    "slug": "xiangpiai-cgref-cn",
+    "name": "小橡皮",
+    "description": "属于AI图像工具·AI图片物体抹除分类。小橡皮是一款AI图像工具领域的免费增值AI工具，小橡皮是面向自媒体与营销人的 AI 文案工作助手，专注于解决 AI 生成内容机器味重、易触平台雷区的痛点。支持文案、内容检测。",
+    "url": "https://xiangpiai.cgref.cn/s/ogewpq4np2",
+    "categories": [
+      "ai-image"
+    ],
+    "tags": [
+      "文案",
+      "内容检测"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-21",
+    "updatedAt": "2026-10-21",
+    "subcategory": "ai-image-object-remove",
+    "logo": "/logos/xiangpiai-cgref-cn.png",
+    "domain": "xiangpiai.cgref.cn"
+  },
+  {
+    "slug": "paopaoai-art",
+    "name": "泡泡AI",
+    "description": "属于AI图像工具·AI图片无损放大分类。泡泡AI是一款AI图像工具领域的免费增值AI工具，泡泡AI是专为服装与电商行业打造的AI图片创作与编辑平台，集商品图生成、智能试衣、虚拟模特定制、商详长图、商品笔记、AI改图、白底图处理…。支持图片放大、文档、商品图。",
+    "url": "https://paopaoai.art/",
+    "categories": [
+      "ai-image"
+    ],
+    "tags": [
+      "图片放大",
+      "文档",
+      "商品图"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-16",
+    "updatedAt": "2026-07-16",
+    "subcategory": "ai-image-upscale",
+    "logo": "/logos/paopaoai-art.png",
+    "domain": "paopaoai.art"
+  },
+  {
+    "slug": "v2fun-art",
+    "name": "V2Fun",
+    "description": "属于AI视频工具·AI视频生成分类。V2Fun是一款AI视频工具领域的免费增值AI工具，V2Fun 是 Vertex Lab（极顶数创）推出的全链路 AI 3D 内容创作平台，将 AI 图像生成、AI 3D 建模、AI 自动…。支持图像生成、3D、自动化。",
+    "url": "https://v2fun.art/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "图像生成",
+      "3D",
+      "自动化"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-20",
+    "updatedAt": "2026-07-20",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/v2fun-art.png",
+    "domain": "v2fun.art"
+  },
+  {
+    "slug": "pixpix-cgref-cn",
+    "name": "PixPix",
+    "description": "属于AI视频工具·AI视频生成分类。PixPix是一款AI视频工具领域的免费增值AI工具，PixPix 是专为跨境电商卖家和运营团队打造的 AI 图视频全链路创作平台。支持视频生成、设计、商品图。",
+    "url": "https://pixpix.cgref.cn/s/5ln1zx5erw",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "设计",
+      "商品图"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-09-28",
+    "updatedAt": "2026-09-28",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/pixpix-cgref-cn.png",
+    "domain": "pixpix.cgref.cn"
+  },
+  {
+    "slug": "skyproduction-cn",
+    "name": "天工短剧工作台",
+    "description": "属于AI办公工具·AI文档处理分类。天工短剧工作台是一款AI办公工具领域的免费增值AI工具，天工短剧工作台（SkyProduction）是昆仑万维旗下天工AI团队推出的一站式AI短剧创作平台，以。支持文档处理。",
+    "url": "https://www.skyproduction.cn/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "文档处理"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-20",
+    "updatedAt": "2026-07-20",
+    "subcategory": "ai-office-doc",
+    "logo": "/logos/skyproduction-cn.png",
+    "domain": "skyproduction.cn"
+  },
+  {
+    "slug": "nile-shop",
+    "name": "Nile",
+    "description": "属于AI智能体·AI Agent框架分类。Nile是一款AI智能体领域的免费增值AI工具，Nile 是专为 Agent 时代推出的智能体电商基座，帮助品牌在不改动现有站点、不雇佣开发者的前提下，快速将商品转化为 AI 原生 l…。支持智能体、商品图。",
+    "url": "https://nile.shop/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体",
+      "商品图"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-20",
+    "updatedAt": "2026-07-20",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/nile-shop.png",
+    "domain": "nile.shop"
+  },
+  {
+    "slug": "likexiu-dubmic-com",
+    "name": "立刻修相片",
+    "description": "属于AI视频工具·AI视频生成分类。立刻修相片是一款AI视频工具领域的免费增值AI工具，立刻修相片是基于立刻 MV的生成式技术推出的老照片修复工具，支持网页端与微信小程序。支持视频生成。",
+    "url": "https://likexiu.dubmic.com/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-21",
+    "updatedAt": "2026-07-21",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/likexiu-dubmic-com.png",
+    "domain": "likexiu.dubmic.com"
+  },
+  {
+    "slug": "paibanxiaoxing-com",
+    "name": "排版小星",
+    "description": "属于AI视频工具·AI视频生成分类。排版小星是一款AI视频工具领域的免费增值AI工具，排版小星是专注于公众号与小红书双平台的 AI智能创作+排版+配图+发布工具，支持文档、链接一键导入，AI 自动识别内容类型并匹配 100…。支持文档、文案。",
+    "url": "https://paibanxiaoxing.com/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "文档",
+      "文案"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-21",
+    "updatedAt": "2026-07-21",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/paibanxiaoxing-com.png",
+    "domain": "paibanxiaoxing.com"
+  },
+  {
+    "slug": "popvid-ai",
+    "name": "PopVid",
+    "description": "属于AI视频工具·AI视频生成分类。PopVid是一款AI视频工具领域的免费增值AI工具，PopVid（前身为MemeGen）是Reverie AI团队开发的互动式AI视频平台。支持视频生成。",
+    "url": "https://popvid.ai/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-27",
+    "updatedAt": "2026-07-27",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/popvid-ai.png",
+    "domain": "popvid.ai"
+  },
+  {
+    "slug": "playabl-ai",
+    "name": "Playabl",
+    "description": "属于AI写作工具·AI文章写作分类。Playabl是一款AI写作工具领域的免费增值AI工具，Playabl 是 AI 原生游戏创作平台，是 Y Combinator Spring 2026 (P26) 批次孵化的明星项目。支持文章写作。",
+    "url": "https://playabl.ai/",
+    "categories": [
+      "ai-writing"
+    ],
+    "tags": [
+      "文章写作"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-27",
+    "updatedAt": "2026-07-27",
+    "subcategory": "ai-writing-article",
+    "logo": "/logos/playabl-ai.png",
+    "domain": "playabl.ai"
+  },
+  {
+    "slug": "tapvid-ai",
+    "name": "TapVid",
+    "description": "属于AI视频工具·AI视频生成分类。TapVid是一款AI视频工具领域的免费增值AI工具，TapVid 是专为内容创作者打造的 AI 讲解视频生成工具。支持视频生成、文案。",
+    "url": "https://tapvid.ai/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "文案"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-23",
+    "updatedAt": "2026-07-23",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/tapvid-ai.png",
+    "domain": "tapvid.ai"
+  },
+  {
+    "slug": "reelfork-com",
+    "name": "ReelFork",
+    "description": "属于AI视频工具·AI视频生成分类。ReelFork是一款AI视频工具领域的免费增值AI工具，ReelFork 是 AI 原生互动视频与AI短剧创作平台，创作者无需编程或拍摄团队即可构建分支叙事互动剧。支持编程。",
+    "url": "https://www.reelfork.com/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "编程"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-27",
+    "updatedAt": "2026-07-27",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/reelfork-com.png",
+    "domain": "reelfork.com"
+  },
+  {
+    "slug": "qwenwork-cn",
+    "name": "千问办公",
+    "description": "属于AI办公工具·AI文档处理分类。千问办公是一款AI办公工具领域的免费增值AI工具，千问办公是阿里推出的一站式 AI Agent 办公工具，由QoderWork、悟空、MuleRun三款智能体产品整合升级而成。支持智能体、大模型、聊天。",
+    "url": "https://qwenwork.cn/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "智能体",
+      "大模型",
+      "聊天"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-14",
+    "updatedAt": "2026-10-14",
+    "subcategory": "ai-office-doc",
+    "logo": "/logos/qwenwork-cn.png",
+    "domain": "qwenwork.cn"
+  },
+  {
+    "slug": "ai-byteplus-com",
+    "name": "Lumina",
+    "description": "属于AI视频工具·AI视频生成分类。Lumina是一款AI视频工具领域的免费增值AI工具，Lumina（ByteDance Lumina）是字节跳动旗下 BytePlus（火山引擎国际版）推出的一站式 AI 创意平台，官方定位…。支持视频生成。",
+    "url": "https://ai.byteplus.com/lumina/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-30",
+    "updatedAt": "2026-07-30",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/ai-byteplus-com.png",
+    "domain": "ai.byteplus.com"
+  },
+  {
+    "slug": "tugaigai-com",
+    "name": "图改改",
+    "description": "属于AI设计工具·AI平面设计分类。图改改是一款AI设计工具领域的免费增值AI工具，图改改是基于 AI 的在线图片文字编辑工具，英文版是PhoText，点击图片中的文字即可直接修改，无需 Photoshop 等专业设计技能。支持设计、聊天。",
+    "url": "https://tugaigai.com/",
+    "categories": [
+      "ai-design"
+    ],
+    "tags": [
+      "设计",
+      "聊天"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-03",
+    "updatedAt": "2026-08-03",
+    "subcategory": "ai-design-graphic",
+    "logo": "/logos/tugaigai-com.png",
+    "domain": "tugaigai.com"
+  },
+  {
+    "slug": "daimax-cn",
+    "name": "袋马",
+    "description": "属于AI编程工具·AI代码生成分类。袋马是一款AI编程工具领域的免费增值AI工具，袋马（DAIMAX）是高德推出的 AI 应用生成平台，主打 Vibe Coding 零代码开发。支持编程、聊天。",
+    "url": "https://www.daimax.cn/",
+    "categories": [
+      "ai-coding"
+    ],
+    "tags": [
+      "编程",
+      "聊天"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-29",
+    "updatedAt": "2026-07-29",
+    "subcategory": "ai-coding-generator",
+    "logo": "/logos/daimax-cn.png",
+    "domain": "daimax.cn"
+  },
+  {
+    "slug": "work-n-cn",
+    "name": "纳米Work",
+    "description": "属于AI视频工具·AI视频生成分类。纳米Work是一款AI视频工具领域的免费增值AI工具，纳米Work是360旗下纳米团队推出的 AI 办公智能体，能直接交付成品的AI专家团队。支持PPT、智能体。",
+    "url": "https://work.n.cn/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "PPT",
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-29",
+    "updatedAt": "2026-07-29",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/work-n-cn.png",
+    "domain": "work.n.cn"
+  },
+  {
+    "slug": "ucloud-cn",
+    "name": "AstraFlow星图",
+    "description": "属于AI开发平台·模型部署平台分类。AstraFlow星图是一款AI开发平台领域的免费增值AI工具，AstraFlow星图是优刻得（UCloud）推出的开发者专属一站式AI开发平台，以。支持模型部署平台。",
+    "url": "https://www.ucloud.cn/site/active/astraflow?ytag=geo_waituo_aibot%E2%80%85",
+    "categories": [
+      "ai-platform"
+    ],
+    "tags": [
+      "模型部署平台"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-09-03",
+    "updatedAt": "2026-09-03",
+    "subcategory": "ai-platform-deploy",
+    "logo": "/logos/ucloud-cn.png",
+    "domain": "ucloud.cn"
+  },
+  {
+    "slug": "bufancv-com",
+    "name": "不繁简历",
+    "description": "属于AI办公工具·AI会议纪要分类。不繁简历是一款AI办公工具领域的免费增值AI工具，不繁简历是 AI 原生简历编辑器，专业简历制作平台。支持简历、论文。",
+    "url": "https://bufancv.com/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "简历",
+      "论文"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-07-31",
+    "updatedAt": "2026-07-31",
+    "subcategory": "ai-office-meeting",
+    "logo": "/logos/bufancv-com.png",
+    "domain": "bufancv.com"
+  },
+  {
+    "slug": "nadoupro-iqiyi-com",
+    "name": "纳逗Pro",
+    "description": "属于AI视频工具·AI视频生成分类。纳逗Pro是一款AI视频工具领域的免费增值AI工具，纳逗Pro是爱奇艺推出的专业级影视制作AI智能体平台，是国内首个面向长篇影视创作的全流程AI制片厂。支持智能体、大模型。",
+    "url": "https://nadoupro.iqiyi.com/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "智能体",
+      "大模型"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-03",
+    "updatedAt": "2026-08-03",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/nadoupro-iqiyi-com.png",
+    "domain": "nadoupro.iqiyi.com"
+  },
+  {
+    "slug": "iqinghu-com",
+    "name": "青虎AI",
+    "description": "属于AI智能体·AI Agent框架分类。青虎AI是一款AI智能体领域的免费增值AI工具，青虎AI是面向电商行业的AI视觉内容与智能运营一站式平台，支持LinkPix、AI工作流、Agent、SoClaw、云设备。支持智能体、自动化。",
+    "url": "https://www.iqinghu.com/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体",
+      "自动化"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-05",
+    "updatedAt": "2026-08-05",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/iqinghu-com.png",
+    "domain": "iqinghu.com"
+  },
+  {
+    "slug": "miaoyaai-cn",
+    "name": "妙呀",
+    "description": "属于AI设计工具·AI平面设计分类。妙呀是一款AI设计工具领域的免费增值AI工具，妙呀是大麦娱乐与阿里Token Foundry联合推出的全球首个潮玩创作者AI设计平台，底层依托阿里自研Wan2.7-Image大模型。支持设计、大模型。",
+    "url": "https://www.miaoyaai.cn/activityDetail?activityId=431&sqm=miaoya.aibot.ls.pc",
+    "categories": [
+      "ai-design"
+    ],
+    "tags": [
+      "设计",
+      "大模型"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-10",
+    "updatedAt": "2026-11-10",
+    "subcategory": "ai-design-graphic",
+    "logo": "/logos/miaoyaai-cn.png",
+    "domain": "miaoyaai.cn"
+  },
+  {
+    "slug": "lawbotai-cn",
+    "name": "Lawbot脱敏猫",
+    "description": "属于AI办公工具·AI文档处理分类。Lawbot脱敏猫是一款AI办公工具领域的免费增值AI工具，Lawbot脱敏猫是面向法律从业者的 AI 法律文档脱敏工具，定位为“法律 AI 的安全层”，先在电脑本机识别合同、诉状、判决书、函件、…。支持文档。",
+    "url": "https://www.lawbotai.cn/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "文档"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-10",
+    "updatedAt": "2026-08-10",
+    "subcategory": "ai-office-doc",
+    "logo": "/logos/lawbotai-cn.png",
+    "domain": "lawbotai.cn"
+  },
+  {
+    "slug": "cline-bot",
+    "name": "Cline",
+    "description": "属于AI智能体·AI Agent框架分类。Cline是一款AI智能体领域的免费增值AI工具，Cline 是开源免费的 AI 编程智能体，以插件、CLI、看板与 SDK 多种形态运行于 VS Code、JetBrains 及终端环…。支持智能体、自动化、编程、开源。",
+    "url": "https://cline.bot/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体",
+      "自动化",
+      "编程",
+      "开源"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-10",
+    "updatedAt": "2026-08-10",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/cline-bot.png",
+    "domain": "cline.bot"
+  },
+  {
+    "slug": "renoise-ai",
+    "name": "Renoise",
+    "description": "属于AI视频工具·AI视频生成分类。Renoise是一款AI视频工具领域的免费增值AI工具，Renoise 是前月之暗面 Noisee 负责人明超平推出的 AI 视频创作平台，整合 Seedance、Minimax、Kling …。支持视频生成、自动化。",
+    "url": "https://renoise.ai/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "自动化"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-11",
+    "updatedAt": "2026-08-11",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/renoise-ai.png",
+    "domain": "renoise.ai"
+  },
+  {
+    "slug": "qwenpaw-agentscope-io",
+    "name": "QwenPaw",
+    "description": "属于AI办公工具·AI文档处理分类。QwenPaw是一款AI办公工具领域的免费增值AI工具，QwenPaw（原名：CoPaw）是阿里 AgentScope 团队开源的个人 AI 智能体工作台，采用本地优先架构，数据完全归用户所有。支持智能体、开源。",
+    "url": "https://qwenpaw.agentscope.io/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "智能体",
+      "开源"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-12",
+    "updatedAt": "2026-08-12",
+    "subcategory": "ai-office-doc",
+    "logo": "/logos/qwenpaw-agentscope-io.png",
+    "domain": "qwenpaw.agentscope.io"
+  },
+  {
+    "slug": "aw-jiaxunai-cn",
+    "name": "知漫剧",
+    "description": "属于AI视频工具·AI视频生成分类。知漫剧是一款AI视频工具领域的免费增值AI工具，知漫剧是专注于漫剧创作的一站式AI智能制作平台，能将静态漫画素材快速转化为动态漫剧视频。支持视频生成。",
+    "url": "https://aw.jiaxunai.cn/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-12",
+    "updatedAt": "2026-08-12",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/aw-jiaxunai-cn.png",
+    "domain": "aw.jiaxunai.cn"
+  },
+  {
+    "slug": "epixa-cn",
+    "name": "Epixa",
+    "description": "属于AI图像工具·AI图片背景移除分类。Epixa是一款AI图像工具领域的免费增值AI工具，Epixa是一站式 AI 图像创作聚合平台，集即梦、Midjourney、香蕉、GPT Image 2、千问等国内外主流图像大模型于一体…。支持抠图、图片放大、大模型。",
+    "url": "https://epixa.cn/?adtag=aibot",
+    "categories": [
+      "ai-image"
+    ],
+    "tags": [
+      "抠图",
+      "图片放大",
+      "大模型"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-15",
+    "updatedAt": "2026-08-15",
+    "subcategory": "ai-image-background-remove",
+    "logo": "/logos/epixa-cn.png",
+    "domain": "epixa.cn"
+  },
+  {
+    "slug": "onsolo-ai",
+    "name": "OnSolo",
+    "description": "属于AI视频工具·AI视频生成分类。OnSolo是一款AI视频工具领域的免费增值AI工具，OnSolo 是腾讯推出的AI原生短剧创作平台，创作者用一句话灵感，能独立完成从剧本到成片的完整短剧。支持视频生成。",
+    "url": "https://onsolo.ai/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-17",
+    "updatedAt": "2026-08-17",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/onsolo-ai.png",
+    "domain": "onsolo.ai"
+  },
+  {
+    "slug": "preview-io",
+    "name": "Preview",
+    "description": "属于AI视频工具·AI视频生成分类。Preview是一款AI视频工具领域的免费增值AI工具，Preview 是 AI 视频制作平台，将脚本、分镜、AI 生成、审片整合到同一无限画布工作区，内置 Preview Agent 创意 …。支持智能体。",
+    "url": "https://preview.io/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-18",
+    "updatedAt": "2026-08-18",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/preview-io.png",
+    "domain": "preview.io"
+  },
+  {
+    "slug": "floatboat-ai",
+    "name": "Floatboat",
+    "description": "属于AI智能体·AI Agent框架分类。Floatboat是一款AI智能体领域的免费增值AI工具，Floatboat 是 AOE Tech Labs 推出的 AI Agent 工作空间，定位。支持智能体。",
+    "url": "https://floatboat.ai/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-20",
+    "updatedAt": "2026-08-20",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/floatboat-ai.png",
+    "domain": "floatboat.ai"
+  },
+  {
+    "slug": "tipkay-com",
+    "name": "TipKay",
+    "description": "属于AI视频工具·AI视频生成分类。TipKay是一款AI视频工具领域的免费增值AI工具，TipKay 是面向自媒体创作者和运营团队的多 Agent 桌面 AI 客户端（支持 Windows 与 macOS）。支持视频生成、智能体、文案。",
+    "url": "https://www.tipkay.com/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "智能体",
+      "文案"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-19",
+    "updatedAt": "2026-08-19",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/tipkay-com.png",
+    "domain": "tipkay.com"
+  },
+  {
+    "slug": "manxiaoya-com",
+    "name": "漫小芽",
+    "description": "属于AI写作工具·AI文章写作分类。漫小芽是一款AI写作工具领域的免费增值AI工具，漫小芽是一站式 AI 漫剧创作平台，主打。支持文章写作。",
+    "url": "https://www.manxiaoya.com/",
+    "categories": [
+      "ai-writing"
+    ],
+    "tags": [
+      "文章写作"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-21",
+    "updatedAt": "2026-08-21",
+    "subcategory": "ai-writing-article",
+    "logo": "/logos/manxiaoya-com.png",
+    "domain": "manxiaoya.com"
+  },
+  {
+    "slug": "modoudance-com",
+    "name": "模兜",
+    "description": "属于AI开发平台·模型训练平台分类。模兜是一款AI开发平台领域的免费增值AI工具，模兜是AI数据众包与专家服务平台，汇聚医疗、法律、影视、语言等领域的专业人士，为大模型提供数据标注、模型评测、Prompt优化、内容创作…。支持大模型、提示词。",
+    "url": "https://modoudance.com/",
+    "categories": [
+      "ai-platform"
+    ],
+    "tags": [
+      "大模型",
+      "提示词"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-21",
+    "updatedAt": "2026-08-21",
+    "subcategory": "ai-platform-training",
+    "logo": "/logos/modoudance-com.png",
+    "domain": "modoudance.com"
+  },
+  {
+    "slug": "askcc-com-cn",
+    "name": "AskCc",
+    "description": "属于AI办公工具·AI会议纪要分类。AskCc是一款AI办公工具领域的免费增值AI工具，AskCc 是面向求职者的 AI 面试智能体，支持 macOS 和 Windows。支持简历、面试、文档、智能体。",
+    "url": "https://askcc.com.cn/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "简历",
+      "面试",
+      "文档",
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-22",
+    "updatedAt": "2026-08-22",
+    "subcategory": "ai-office-meeting",
+    "logo": "/logos/askcc-com-cn.png",
+    "domain": "askcc.com.cn"
+  },
+  {
+    "slug": "selecttranslate-com",
+    "name": "精挑翻译",
+    "description": "属于AI音频工具·AI音频编辑分类。精挑翻译是一款AI音频工具领域的免费增值AI工具，精挑翻译是免费的浏览器 AI 翻译插件，面向外语阅读、学习与跨语言办公场景，提供双语网页对照翻译、PDF 与扫描版/公式类文档翻译、eP…。支持字幕、会议纪要、文档、翻译。",
+    "url": "https://selecttranslate.com/",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "字幕",
+      "会议纪要",
+      "文档",
+      "翻译"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-24",
+    "updatedAt": "2026-08-24",
+    "subcategory": "ai-audio-edit",
+    "logo": "/logos/selecttranslate-com.png",
+    "domain": "selecttranslate.com"
+  },
+  {
+    "slug": "marmos-qq-com",
+    "name": "marmos",
+    "description": "属于AI办公工具·AI表格处理分类。marmos是一款AI办公工具领域的免费增值AI工具，marmos（又名Omega）是腾讯灯塔团队推出的AI原生数据分析平台。支持Excel、聊天。",
+    "url": "https://marmos.qq.com/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "Excel",
+      "聊天"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-22",
+    "updatedAt": "2026-08-22",
+    "subcategory": "ai-office-excel",
+    "logo": "/logos/marmos-qq-com.png",
+    "domain": "marmos.qq.com"
+  },
+  {
+    "slug": "dis-csqixiang-cn",
+    "name": "豆包工作",
+    "description": "属于AI办公工具·AI PPT生成分类。豆包工作是一款AI办公工具领域的免费增值AI工具，豆包工作是字节跳动推出的 AI Agent 办公产品，能自主拆解任务、调用工具，完成写文档、做PPT、搭系统、操作浏览器等复杂工作流。支持PPT、文档、智能体、自动化。",
+    "url": "https://dis.csqixiang.cn/dbwork",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "PPT",
+      "文档",
+      "智能体",
+      "自动化"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "subcategory": "ai-office-ppt",
+    "logo": "/logos/dis-csqixiang-cn.png",
+    "domain": "dis.csqixiang.cn"
+  },
+  {
+    "slug": "zaoju-art",
+    "name": "造剧",
+    "description": "属于AI视频工具·AI视频生成分类。造剧是一款AI视频工具领域的免费增值AI工具，造剧是面向个人创作者与短剧团队的一站式 AI 短剧、AI 漫剧与 AI 视频制作平台。支持视频生成、自动化。",
+    "url": "https://zaoju.art/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "自动化"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/zaoju-art.png",
+    "domain": "zaoju.art"
+  },
+  {
+    "slug": "lickv-com",
+    "name": "立刻成片",
+    "description": "属于AI音频工具·AI音频编辑分类。立刻成片是一款AI音频工具领域的免费增值AI工具，立刻成片（LickV）是音频先行的 AI 短视频生成工具。支持视频生成、设计、文案。",
+    "url": "https://lickv.com/",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "视频生成",
+      "设计",
+      "文案"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "subcategory": "ai-audio-edit",
+    "logo": "/logos/lickv-com.png",
+    "domain": "lickv.com"
+  },
+  {
+    "slug": "seavideo-tv",
+    "name": "海艺剧场",
+    "description": "属于AI视频工具·AI视频生成分类。海艺剧场是一款AI视频工具领域的免费增值AI工具，海艺剧场（seavideo）是面向AI短剧、漫剧与视频创作者的一站式Agent创作平台。支持视频生成、智能体、自动化。",
+    "url": "https://www.seavideo.tv/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "智能体",
+      "自动化"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/seavideo-tv.png",
+    "domain": "seavideo.tv"
+  },
+  {
+    "slug": "ojo-art",
+    "name": "OJO",
+    "description": "属于AI设计工具·AI UI设计分类。OJO是一款AI设计工具领域的免费增值AI工具，OJO 是全球首个 AI 设计 Agent 团队工作台，用户可自由组建 AI 设计团队，调用 200 多种可插拔 Skills，在一张画…。支持UI设计、设计、智能体、编程。",
+    "url": "https://ojo.art/",
+    "categories": [
+      "ai-design"
+    ],
+    "tags": [
+      "UI设计",
+      "设计",
+      "智能体",
+      "编程"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-26",
+    "updatedAt": "2026-08-26",
+    "subcategory": "ai-design-ui",
+    "logo": "/logos/ojo-art.png",
+    "domain": "ojo.art"
+  },
+  {
+    "slug": "chatartpro-com",
+    "name": "ChatArt",
+    "description": "属于AI视频工具·AI视频生成分类。ChatArt是一款AI视频工具领域的免费增值AI工具，ChatArt 是一站式 AI 创作工具，支持 AI 聊天、AI 写作、AI 图片生成与编辑、AI 视频生成、AI 小说创作及 AI 智…。支持视频生成、智能体、小说、写作。",
+    "url": "https://www.chatartpro.com/tw/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "智能体",
+      "小说",
+      "写作"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-27",
+    "updatedAt": "2026-08-27",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/chatartpro-com.png",
+    "domain": "chatartpro.com"
+  },
+  {
+    "slug": "waytometa-cn",
+    "name": "MetaDig",
+    "description": "属于AI音频工具·AI语音合成分类。MetaDig是一款AI音频工具领域的免费增值AI工具，MetaDig是一站式 AI 视频专业创作平台，是面向创作者的无限画布工作流工具。支持视频生成、数字人、配音、自动化。",
+    "url": "https://waytometa.cn/",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "视频生成",
+      "数字人",
+      "配音",
+      "自动化"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-27",
+    "updatedAt": "2026-08-27",
+    "subcategory": "ai-audio-tts",
+    "logo": "/logos/waytometa-cn.png",
+    "domain": "waytometa.cn"
+  },
+  {
+    "slug": "lexcat-cn",
+    "name": "Lexcat",
+    "description": "属于AI办公工具·AI文档处理分类。Lexcat是一款AI办公工具领域的免费增值AI工具，Lexcat 是面向律师、律所和企业法务的 AI 法律助手，提供法律检索、文书与合同起草、案件材料整理、客户洽谈、模拟法庭推演及材料脱敏…。支持文档处理。",
+    "url": "https://www.lexcat.cn/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "文档处理"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-27",
+    "updatedAt": "2026-08-27",
+    "subcategory": "ai-office-doc",
+    "logo": "/logos/lexcat-cn.png",
+    "domain": "lexcat.cn"
+  },
+  {
+    "slug": "xcell-boxindx-cn",
+    "name": "XCell",
+    "description": "属于AI办公工具·AI表格处理分类。XCell是一款AI办公工具领域的免费增值AI工具，XCell 是基于自然语言交互的智能数据分析平台，专注于 Excel 与 CSV 数据的高效处理。支持Excel、内容检测。",
+    "url": "https://xcell.boxindx.cn/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "Excel",
+      "内容检测"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-28",
+    "updatedAt": "2026-08-28",
+    "subcategory": "ai-office-excel",
+    "logo": "/logos/xcell-boxindx-cn.png",
+    "domain": "xcell.boxindx.cn"
+  },
+  {
+    "slug": "meyo-life",
+    "name": "DeepSkill",
+    "description": "属于AI智能体·AI Agent框架分类。DeepSkill是一款AI智能体领域的免费增值AI工具，DeepSkill 是 Agent 技能发现与安装平台，收录超 13 万项经过验证的 Agent 技能。支持智能体。",
+    "url": "https://www.meyo.life/skill",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-09-04",
+    "updatedAt": "2026-09-04",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/meyo-life.png",
+    "domain": "meyo.life"
+  },
+  {
+    "slug": "qwenwork-ai",
+    "name": "QwenWork",
+    "description": "属于AI视频工具·AI视频生成分类。QwenWork是一款AI视频工具领域的免费增值AI工具，QwenWork（千问办公国际版）是阿里推出的一站式AI生产力平台。支持PPT、文档。",
+    "url": "https://qwenwork.ai/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "PPT",
+      "文档"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-09-02",
+    "updatedAt": "2026-09-02",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/qwenwork-ai.png",
+    "domain": "qwenwork.ai"
+  },
+  {
+    "slug": "alphavow-com",
+    "name": "AlphaVow",
+    "description": "属于AI图像工具·AI图片背景移除分类。AlphaVow是一款AI图像工具领域的免费增值AI工具，AlphaVow 是专为设计师、摄影师和电商团队推出的一站式 AI 批量图像处理工具。支持抠图、设计。",
+    "url": "https://alphavow.com/",
+    "categories": [
+      "ai-image"
+    ],
+    "tags": [
+      "抠图",
+      "设计"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-08-29",
+    "updatedAt": "2026-08-29",
+    "subcategory": "ai-image-background-remove",
+    "logo": "/logos/alphavow-com.png",
+    "domain": "alphavow.com"
+  },
+  {
+    "slug": "agentspace-cgref-cn",
+    "name": "Agent.Space",
+    "description": "属于AI智能体·AI Agent框架分类。Agent.Space是一款AI智能体领域的免费增值AI工具，Agent.Space 是面向 AI 编程 Agent 的云端工作空间与模型订阅平台。支持智能体、编程。",
+    "url": "https://agentspace.cgref.cn/s/omkl2mve4d",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体",
+      "编程"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-15",
+    "updatedAt": "2026-10-15",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/agentspace-cgref-cn.png",
+    "domain": "agentspace.cgref.cn"
+  },
+  {
+    "slug": "quchiai-com",
+    "name": "ByteCP",
+    "description": "属于AI办公工具·AI PPT生成分类。ByteCP是一款AI办公工具领域的免费增值AI工具，ByteCP是润建股份曲尺AI旗下AI办公智能体，专业PC客户端。支持PPT、智能体。",
+    "url": "https://www.quchiai.com/bytecp-desktop",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "PPT",
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-09-02",
+    "updatedAt": "2026-09-02",
+    "subcategory": "ai-office-ppt",
+    "logo": "/logos/quchiai-com.png",
+    "domain": "quchiai.com"
+  },
+  {
+    "slug": "wenyouxiaozhu-com",
+    "name": "文优小助",
+    "description": "属于AI写作工具·AI论文写作分类。文优小助是一款AI写作工具领域的免费增值AI工具，文优小助是面向大学生、硕博生及科研人员的AI学术写作辅助工具。支持论文、写作。",
+    "url": "https://wenyouxiaozhu.com/",
+    "categories": [
+      "ai-writing"
+    ],
+    "tags": [
+      "论文",
+      "写作"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-09-03",
+    "updatedAt": "2026-09-03",
+    "subcategory": "ai-writing-paper",
+    "logo": "/logos/wenyouxiaozhu-com.png",
+    "domain": "wenyouxiaozhu.com"
+  },
+  {
+    "slug": "aionclaw-cgref-cn",
+    "name": "AionClaw",
+    "description": "属于AI视频工具·AI视频生成分类。AionClaw是一款AI视频工具领域的免费增值AI工具，AionClaw是杭州趣猿推出的桌面级AI智能体，基于OpenClaw深度升级，一键安装零门槛。支持PPT、Excel、智能体、聊天。",
+    "url": "https://aionclaw.cgref.cn/s/20ep3zjnw1",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "PPT",
+      "Excel",
+      "智能体",
+      "聊天"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-09-16",
+    "updatedAt": "2026-09-16",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/aionclaw-cgref-cn.png",
+    "domain": "aionclaw.cgref.cn"
+  },
+  {
+    "slug": "tarkcloud-com",
+    "name": "TArk元舟",
+    "description": "属于AI开发平台·模型训练平台分类。TArk元舟是一款AI开发平台领域的免费增值AI工具，TArk 元舟是点动科技推出的大模型 API 聚合平台，通过一个统一接口接入全球 100+ 主流大模型，聚合 20+ 顶级厂商算力。支持大模型。",
+    "url": "https://www.tarkcloud.com/zh-CN?login=true",
+    "categories": [
+      "ai-platform"
+    ],
+    "tags": [
+      "大模型"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-09-08",
+    "updatedAt": "2026-09-08",
+    "subcategory": "ai-platform-training",
+    "logo": "/logos/tarkcloud-com.png",
+    "domain": "tarkcloud.com"
+  },
+  {
+    "slug": "autohanding-com",
+    "name": "凹凸工坊",
+    "description": "属于AI设计工具·AI平面设计分类。凹凸工坊是一款AI设计工具领域的免费增值AI工具，凹凸工坊是AI手写稿件生成工具，提供多种手写字体风格，可将Word、PDF、图片或纯文字文档一键转换为逼真的手写稿图片。支持文档。",
+    "url": "https://www.autohanding.com/",
+    "categories": [
+      "ai-design"
+    ],
+    "tags": [
+      "文档"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-09-22",
+    "updatedAt": "2026-09-22",
+    "subcategory": "ai-design-graphic",
+    "logo": "/logos/autohanding-com.png",
+    "domain": "autohanding.com"
+  },
+  {
+    "slug": "datayi-cn",
+    "name": "SoWork",
+    "description": "属于AI智能体·AI Agent框架分类。SoWork是一款AI智能体领域的免费增值AI工具，SoWork 是商汤推出的AI语音输入与智能体工具。支持智能体。",
+    "url": "https://datayi.cn/w/5Rp2Og2o",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-09-22",
+    "updatedAt": "2026-09-22",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/datayi-cn.png",
+    "domain": "datayi.cn"
+  },
+  {
+    "slug": "nashnova-com",
+    "name": "nashnova",
+    "description": "属于AI视频工具·AI数字人分类。nashnova是一款AI视频工具领域的免费增值AI工具，nashnova是面向个人投资者的AI投研工作台，覆盖A股、港股、美股，内置二十多种策略与近百个专家分身，包含与宏观经济学家付鹏联合发布…。支持数字人。",
+    "url": "https://www.nashnova.com/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "数字人"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-01",
+    "updatedAt": "2026-10-01",
+    "subcategory": "ai-video-digital-human",
+    "logo": "/logos/nashnova-com.png",
+    "domain": "nashnova.com"
+  },
+  {
+    "slug": "console-typesafe-ai",
+    "name": "Jev",
+    "description": "属于AI训练模型·大语言模型分类。Jev是一款AI训练模型领域的免费增值AI工具，Jev 是 TypeSafe AI 推出的 AI 结构化决策模型，创始人是前 OpenAI 研究员 Diogo Almeida。支持大语言模型。",
+    "url": "https://console.typesafe.ai/",
+    "categories": [
+      "ai-models"
+    ],
+    "tags": [
+      "大语言模型"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23",
+    "subcategory": "ai-models-llm",
+    "logo": "/logos/console-typesafe-ai.png",
+    "domain": "console.typesafe.ai"
+  },
+  {
+    "slug": "lightvela-com",
+    "name": "LightVela",
+    "description": "属于AI智能体·AI Agent框架分类。LightVela是一款AI智能体领域的免费增值AI工具，LightVela是腾讯云团队推出的云端 AI Agent 托管平台。支持智能体、开源、聊天。",
+    "url": "https://lightvela.com/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体",
+      "开源",
+      "聊天"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-09-28",
+    "updatedAt": "2026-09-28",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/lightvela-com.png",
+    "domain": "lightvela.com"
+  },
+  {
+    "slug": "airjelly-ai",
+    "name": "AirJelly",
+    "description": "属于AI办公工具·AI文档处理分类。AirJelly是一款AI办公工具领域的免费增值AI工具，AirJelly 是全球首个感知上下文的主动式智能体。支持文档、智能体、搜索。",
+    "url": "https://www.airjelly.ai/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "文档",
+      "智能体",
+      "搜索"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-09-29",
+    "updatedAt": "2026-09-29",
+    "subcategory": "ai-office-doc",
+    "logo": "/logos/airjelly-ai.png",
+    "domain": "airjelly.ai"
+  },
+  {
+    "slug": "pixtv-cgref-cn",
+    "name": "PixTV",
+    "description": "属于AI音频工具·AI音频编辑分类。PixTV是一款AI音频工具领域的免费增值AI工具，PixTV 是Pixpix推出的一站式 AI 多模态创作工具，集成 Seedance、Kling、Nano Banana Pro、See…。支持音频编辑。",
+    "url": "https://pixtv.cgref.cn/s/2znrdr6er7",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "音频编辑"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-09-29",
+    "updatedAt": "2026-09-29",
+    "subcategory": "ai-audio-edit",
+    "logo": "/logos/pixtv-cgref-cn.png",
+    "domain": "pixtv.cgref.cn"
+  },
+  {
+    "slug": "pixolet-ai",
+    "name": "PixoLet",
+    "description": "属于AI视频工具·AI视频生成分类。PixoLet是一款AI视频工具领域的免费增值AI工具，PixoLet是专为电商卖家推出的AI商品图与视频创作工具。支持视频生成、海报、文案、商品图。",
+    "url": "https://www.pixolet.ai/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "海报",
+      "文案",
+      "商品图"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-09-30",
+    "updatedAt": "2026-09-30",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/pixolet-ai.png",
+    "domain": "pixolet.ai"
+  },
+  {
+    "slug": "miya-fm",
+    "name": "miya.fm",
+    "description": "属于AI音频工具·AI音乐生成分类。miya.fm是一款AI音频工具领域的免费增值AI工具，miya.fm 是 ACE 公司 推出的个人AI音乐 Agent ，用户无需描述音乐需求，只需给出心情、经历，或粘贴 X 账号/帖子链接…。支持音乐生成、智能体。",
+    "url": "https://miya.fm/",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "音乐生成",
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-07",
+    "updatedAt": "2026-10-07",
+    "subcategory": "ai-audio-music",
+    "logo": "/logos/miya-fm.png",
+    "domain": "miya.fm"
+  },
+  {
+    "slug": "knocket-trtc-io",
+    "name": "Knocket",
+    "description": "属于AI聊天助手·通用对话AI分类。Knocket是一款AI聊天助手领域的免费增值AI工具，Knocket 是腾讯云基于 RTC 实时通信基建推出的轻量级智能 IM 接待系统。支持聊天。",
+    "url": "https://knocket.trtc.io/",
+    "categories": [
+      "ai-chat"
+    ],
+    "tags": [
+      "聊天"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-07",
+    "updatedAt": "2026-10-07",
+    "subcategory": "ai-chat-general",
+    "logo": "/logos/knocket-trtc-io.png",
+    "domain": "knocket.trtc.io"
+  },
+  {
+    "slug": "yijian-chat",
+    "name": "异见圆桌",
+    "description": "属于AI聊天助手·通用对话AI分类。异见圆桌是一款AI聊天助手领域的免费增值AI工具，异见圆桌是AI驱动的思想碰撞产品，用户提出一个问题，AI主持人会邀请立场、背景各异的虚拟嘉宾展开圆桌讨论。支持通用对话AI。",
+    "url": "https://www.yijian.chat/",
+    "categories": [
+      "ai-chat"
+    ],
+    "tags": [
+      "通用对话AI"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-08",
+    "updatedAt": "2026-10-08",
+    "subcategory": "ai-chat-general",
+    "logo": "/logos/yijian-chat.png",
+    "domain": "yijian.chat"
+  },
+  {
+    "slug": "gstarcad-com",
+    "name": "GstarRender AI渲染",
+    "description": "属于AI设计工具·AI平面设计分类。GstarRender AI渲染是一款AI设计工具领域的免费增值AI工具，GstarRender AI渲染是浩辰软件自研的AI设计生成引擎，用。支持设计。",
+    "url": "https://www.gstarcad.com/ai/render/?clientType-GstarRender&fromEvent=AIwebsite",
+    "categories": [
+      "ai-design"
+    ],
+    "tags": [
+      "设计"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-09",
+    "updatedAt": "2026-10-09",
+    "subcategory": "ai-design-graphic",
+    "logo": "/logos/gstarcad-com.png",
+    "domain": "gstarcad.com"
+  },
+  {
+    "slug": "lovepsai-com",
+    "name": "改稿鸦",
+    "description": "属于AI设计工具·AI平面设计分类。改稿鸦是一款AI设计工具领域的免费增值AI工具，改稿鸦是免费的在线AI图片编辑器，主打。支持平面设计。",
+    "url": "https://lovepsai.com/?f=aigjj",
+    "categories": [
+      "ai-design"
+    ],
+    "tags": [
+      "平面设计"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-10",
+    "updatedAt": "2026-10-10",
+    "subcategory": "ai-design-graphic",
+    "logo": "/logos/lovepsai-com.png",
+    "domain": "lovepsai.com"
+  },
+  {
+    "slug": "waffo-ai",
+    "name": "Waffo Pancake",
+    "description": "属于AI开发平台·API服务平台分类。Waffo Pancake是一款AI开发平台领域的免费增值AI工具，Waffo Pancake 是 Waffo 面向 AI 开发者和独立团队的全球收款工具，采用 MoR 模式，Waffo Pancake作…。支持API服务平台。",
+    "url": "https://www.waffo.ai/",
+    "categories": [
+      "ai-platform"
+    ],
+    "tags": [
+      "API服务平台"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-10",
+    "updatedAt": "2026-10-10",
+    "subcategory": "ai-platform-api",
+    "logo": "/logos/waffo-ai.png",
+    "domain": "waffo.ai"
+  },
+  {
+    "slug": "bobby-ai",
+    "name": "Bobby AI",
+    "description": "属于AI智能体·AI Agent框架分类。Bobby AI是一款AI智能体领域的免费增值AI工具，Bobby AI 是新加坡金融科技公司 RockFlow 推出的金融投资 AI Agent，你的全天候投资伙伴。支持智能体。",
+    "url": "https://bobby.ai/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-12",
+    "updatedAt": "2026-10-12",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/bobby-ai.png",
+    "domain": "bobby.ai"
+  },
+  {
+    "slug": "eazo-ai",
+    "name": "Eazo",
+    "description": "属于AI图像工具·AI 3D模型生成分类。Eazo是一款AI图像工具领域的免费增值AI工具，Eazo 是 AI App 与智能体创作及社区平台，由 ASI X Inc. 推出。支持3D、设计、智能体、编程。",
+    "url": "https://eazo.ai/",
+    "categories": [
+      "ai-image"
+    ],
+    "tags": [
+      "3D",
+      "设计",
+      "智能体",
+      "编程"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-13",
+    "updatedAt": "2026-10-13",
+    "subcategory": "ai-image-3d",
+    "logo": "/logos/eazo-ai.png",
+    "domain": "eazo.ai"
+  },
+  {
+    "slug": "eluai-cn",
+    "name": "意流 eluai",
+    "description": "属于AI视频工具·AI视频生成分类。意流 eluai是一款AI视频工具领域的免费增值AI工具，意流 eluai 是面向电商商家、设计师和内容创作者的 AI 视觉创作平台，集图片生成、参考图创作、视频生成与灵感模板于一体。支持视频生成、设计。",
+    "url": "https://eluai.cn/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "设计"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-13",
+    "updatedAt": "2026-10-13",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/eluai-cn.png",
+    "domain": "eluai.cn"
+  },
+  {
+    "slug": "larkagent-cn",
+    "name": "百雀智能",
+    "description": "属于AI智能体·AI Agent框架分类。百雀智能是一款AI智能体领域的免费增值AI工具，百雀智能（LarkAgent AI）是北京数之美科技有限公司推出的AI外贸获客服务，核心产品为。支持智能体。",
+    "url": "https://www.larkagent.cn/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-14",
+    "updatedAt": "2026-10-14",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/larkagent-cn.png",
+    "domain": "larkagent.cn"
+  },
+  {
+    "slug": "functorz-cgref-cn",
+    "name": "Zion",
+    "description": "属于AI编程工具·AI代码生成分类。Zion是一款AI编程工具领域的免费增值AI工具，Zion（函子）是全栈 Vibe No-Coding AI 应用开发平台。支持编程、低代码。",
+    "url": "https://functorz.cgref.cn/s/p3kq687nol",
+    "categories": [
+      "ai-coding"
+    ],
+    "tags": [
+      "编程",
+      "低代码"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-10",
+    "updatedAt": "2026-11-10",
+    "subcategory": "ai-coding-generator",
+    "logo": "/logos/functorz-cgref-cn.png",
+    "domain": "functorz.cgref.cn"
+  },
+  {
+    "slug": "dify-ai",
+    "name": "Dify",
+    "description": "属于AI智能体·AI Agent框架分类。Dify是一款AI智能体领域的免费增值AI工具，Dify 是 LangGenius 公司推出的开源 AI 应用开发平台，支持在统一画布上可视化编排 Agentic 工作流与 RAG P…。支持智能体、自动化、大模型、开源。",
+    "url": "https://dify.ai/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体",
+      "自动化",
+      "大模型",
+      "开源"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-15",
+    "updatedAt": "2026-10-15",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/dify-ai.png",
+    "domain": "dify.ai"
+  },
+  {
+    "slug": "iflytranslate-com",
+    "name": "讯飞翻译是科大讯飞推出的一站式翻译平台",
+    "description": "属于AI音频工具·AI音频编辑分类。讯飞翻译是科大讯飞推出的一站式翻译平台是一款AI音频工具领域的免费增值AI工具，讯飞翻译是科大讯飞推出的一站式翻译平台，提供文本、文档、同声传译、音视频译制及人工翻译等服务，支持百余种语言互译，AI转写准确率达97.5%。支持字幕、文档、翻译。",
+    "url": "https://www.iflytranslate.com/?regFrom=XFFY2001",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "字幕",
+      "文档",
+      "翻译"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-15",
+    "updatedAt": "2026-10-15",
+    "subcategory": "ai-audio-edit",
+    "logo": "/logos/iflytranslate-com.png",
+    "domain": "iflytranslate.com"
+  },
+  {
+    "slug": "rena-qq-com",
+    "name": "Rena览财",
+    "description": "属于AI智能体·AI Agent框架分类。Rena览财是一款AI智能体领域的免费增值AI工具，Rena览财是腾讯面向普通投资者推出的个人股票分析 Agent，Rena览财把每日速读、市场简报和自选股动态关联起来，自动过滤噪音。支持智能体。",
+    "url": "https://rena.qq.com/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-15",
+    "updatedAt": "2026-10-15",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/rena-qq-com.png",
+    "domain": "rena.qq.com"
+  },
+  {
+    "slug": "quady3d-com",
+    "name": "Quady3D",
+    "description": "属于AI图像工具·AI 3D模型生成分类。Quady3D是一款AI图像工具领域的免费增值AI工具，Quady3D 是一站式 AI 3D 创作平台，支持把文字、图片、草图和多视角参考图生成 3D 模型。支持3D。",
+    "url": "https://quady3d.com/",
+    "categories": [
+      "ai-image"
+    ],
+    "tags": [
+      "3D"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-16",
+    "updatedAt": "2026-10-16",
+    "subcategory": "ai-image-3d",
+    "logo": "/logos/quady3d-com.png",
+    "domain": "quady3d.com"
+  },
+  {
+    "slug": "tinrec-com",
+    "name": "秒听",
+    "description": "属于AI音频工具·AI音频编辑分类。秒听是一款AI音频工具领域的免费增值AI工具，秒听是帮用户把沟通内容转化为方案、报告等工作成果的AI会议录音助手。支持字幕、会议纪要、写作。",
+    "url": "https://tinrec.com/cn",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "字幕",
+      "会议纪要",
+      "写作"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-16",
+    "updatedAt": "2026-10-16",
+    "subcategory": "ai-audio-edit",
+    "logo": "/logos/tinrec-com.png",
+    "domain": "tinrec.com"
+  },
+  {
+    "slug": "gaohaole-com",
+    "name": "稿好了",
+    "description": "属于AI图像工具·AI商品图生成分类。稿好了是一款AI图像工具领域的免费增值AI工具，稿好了是面向电商场景的在线AI设计工具，用户上传商品图片并描述需求，可一键生成商品主图、场景图、卖点图、整套商品图，支持商品精修、白底图…。支持设计、海报、文案、商品图。",
+    "url": "https://www.gaohaole.com/",
+    "categories": [
+      "ai-image"
+    ],
+    "tags": [
+      "设计",
+      "海报",
+      "文案",
+      "商品图"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-20",
+    "updatedAt": "2026-10-20",
+    "subcategory": "ai-image-product",
+    "logo": "/logos/gaohaole-com.png",
+    "domain": "gaohaole.com"
+  },
+  {
+    "slug": "wron-ai",
+    "name": "Wron",
+    "description": "属于AI编程工具·AI代码生成分类。Wron是一款AI编程工具领域的免费增值AI工具，Wron是面向独立开发者的AI无代码应用开发平台，用户需用自然语言描述想法，AI能在几分钟内生成可发布的原生移动应用或网站。支持编程、低代码。",
+    "url": "https://www.wron.ai/",
+    "categories": [
+      "ai-coding"
+    ],
+    "tags": [
+      "编程",
+      "低代码"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-21",
+    "updatedAt": "2026-10-21",
+    "subcategory": "ai-coding-generator",
+    "logo": "/logos/wron-ai.png",
+    "domain": "wron.ai"
+  },
+  {
+    "slug": "antom-com",
+    "name": "Antom",
+    "description": "属于AI开发平台·API服务平台分类。Antom是一款AI开发平台领域的免费增值AI工具，Antom是蚂蚁国际旗下的AI驱动全球支付与数字化平台，为全球数百万商户提供一站式跨境收单解决方案。支持API服务平台。",
+    "url": "https://www.antom.com/",
+    "categories": [
+      "ai-platform"
+    ],
+    "tags": [
+      "API服务平台"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-21",
+    "updatedAt": "2026-10-21",
+    "subcategory": "ai-platform-api",
+    "logo": "/logos/antom-com.png",
+    "domain": "antom.com"
+  },
+  {
+    "slug": "everygen-ai-com",
+    "name": "EveryGen AI",
+    "description": "属于AI音频工具·AI语音合成分类。EveryGen AI是一款AI音频工具领域的免费增值AI工具，EveryGen AI 是集视频、图片和音频生成于一体的 AI 创作平台，支持文生视频、图生视频、图片生成与编辑，以及配音、音乐和音效创作。支持视频生成、配音、音乐生成、聊天。",
+    "url": "https://everygen-ai.com/",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "视频生成",
+      "配音",
+      "音乐生成",
+      "聊天"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-23",
+    "updatedAt": "2026-10-23",
+    "subcategory": "ai-audio-tts",
+    "logo": "/logos/everygen-ai-com.png",
+    "domain": "everygen-ai.com"
+  },
+  {
+    "slug": "aliyun-com",
+    "name": "CleverSee",
+    "description": "属于AI视频工具·AI视频生成分类。CleverSee是一款AI视频工具领域的免费增值AI工具，CleverSee 是阿里云推出的面向企业场景的 AI 原生搜索与问答平台，支持私有+联网数据的多源信息检索，提供联网搜索 API 和联…。支持文档、智能体、搜索。",
+    "url": "https://www.aliyun.com/product/cleversee",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "文档",
+      "智能体",
+      "搜索"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-21",
+    "updatedAt": "2026-10-21",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/aliyun-com.png",
+    "domain": "aliyun.com"
+  },
+  {
+    "slug": "letsmagic-cgref-cn",
+    "name": "超级麦吉",
+    "description": "属于AI音频工具·AI音频编辑分类。超级麦吉是一款AI音频工具领域的免费增值AI工具，超级麦吉是开源的企业级 AI Agent 协作平台，可视为「企业版 OpenClaw」。支持设计、PPT、会议纪要、智能体。",
+    "url": "https://letsmagic.cgref.cn/s/5ln12ygerw",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "设计",
+      "PPT",
+      "会议纪要",
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-22",
+    "updatedAt": "2026-10-22",
+    "subcategory": "ai-audio-edit",
+    "logo": "/logos/letsmagic-cgref-cn.png",
+    "domain": "letsmagic.cgref.cn"
+  },
+  {
+    "slug": "dongleya-qq-com",
+    "name": "懂了鸭",
+    "description": "属于AI图像工具·AI 3D模型生成分类。懂了鸭是一款AI图像工具领域的免费增值AI工具，懂了鸭是腾讯PCG推出的AI趣味学习社区，面向亲子用户和一线教师开放。支持3D、PPT、教育。",
+    "url": "https://dongleya.qq.com/",
+    "categories": [
+      "ai-image"
+    ],
+    "tags": [
+      "3D",
+      "PPT",
+      "教育"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-26",
+    "updatedAt": "2026-10-26",
+    "subcategory": "ai-image-3d",
+    "logo": "/logos/dongleya-qq-com.png",
+    "domain": "dongleya.qq.com"
+  },
+  {
+    "slug": "x-ai",
+    "name": "Grok Bot",
+    "description": "属于AI智能体·AI Agent框架分类。Grok Bot是一款AI智能体领域的免费增值AI工具，Grok Bot 是 SpaceXAI 推出的个人专属 AI Agent。支持智能体。",
+    "url": "https://x.ai/bot",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-12",
+    "updatedAt": "2026-11-12",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/x-ai.png",
+    "domain": "x.ai"
+  },
+  {
+    "slug": "tokeny-ai-com",
+    "name": "Tokeny",
+    "description": "属于AI设计工具·AI UI设计分类。Tokeny是一款AI设计工具领域的免费增值AI工具，Tokeny 是面向个人和小团队的桌面 AI 工作助手，支持 Windows、macOS、Linux 三个平台。支持UI设计、PPT、Excel、文档。",
+    "url": "https://tokeny-ai.com/",
+    "categories": [
+      "ai-design"
+    ],
+    "tags": [
+      "UI设计",
+      "PPT",
+      "Excel",
+      "文档"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-27",
+    "updatedAt": "2026-10-27",
+    "subcategory": "ai-design-ui",
+    "logo": "/logos/tokeny-ai-com.png",
+    "domain": "tokeny-ai.com"
+  },
+  {
+    "slug": "aigrow-cn",
+    "name": "PatX知小寻",
+    "description": "属于AI智能体·AI Agent框架分类。PatX知小寻是一款AI智能体领域的免费增值AI工具，PatX知小寻是简爱数智AIGROW旗下、面向企业与专利代理机构的专利原生智能体。支持智能体、写作。",
+    "url": "https://www.aigrow.cn/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体",
+      "写作"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-28",
+    "updatedAt": "2026-10-28",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/aigrow-cn.png",
+    "domain": "aigrow.cn"
+  },
+  {
+    "slug": "wayground-com",
+    "name": "Wayground",
+    "description": "属于AI视频工具·AI视频生成分类。Wayground是一款AI视频工具领域的免费增值AI工具，Wayground（原Quizizz）是专为老师设计的 AI 教学与学习工具，教师输入主题或上传文档，即可 AI 生成测评、课件、视频、…。支持UI设计、设计、文档、翻译。",
+    "url": "https://wayground.com/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "UI设计",
+      "设计",
+      "文档",
+      "翻译"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-31",
+    "updatedAt": "2026-10-31",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/wayground-com.png",
+    "domain": "wayground.com"
+  },
+  {
+    "slug": "capafy-ai",
+    "name": "Capafy",
+    "description": "属于AI视频工具·AI视频生成分类。Capafy是一款AI视频工具领域的免费增值AI工具，Capafy 是面向 AI Agent 的 Skills（技能）市场平台，用户可购买第三方创作者发布的专家级 Agent 技能包，直接在…。支持视频生成、智能体、文案、聊天。",
+    "url": "https://capafy.ai/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成",
+      "智能体",
+      "文案",
+      "聊天"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-28",
+    "updatedAt": "2026-10-28",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/capafy-ai.png",
+    "domain": "capafy.ai"
+  },
+  {
+    "slug": "daxuedao-zscampus-com",
+    "name": "大学岛",
+    "description": "属于AI学习网站·AI课程平台分类。大学岛是一款AI学习网站领域的免费增值AI工具，大学岛是面向高中生、大学生及家长的升学与成长规划平台，采用「信息数据 + AI 成长」双平台模式。支持教育。",
+    "url": "https://daxuedao.zscampus.com/",
+    "categories": [
+      "ai-learning"
+    ],
+    "tags": [
+      "教育"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-10-29",
+    "updatedAt": "2026-10-29",
+    "subcategory": "ai-learning-course",
+    "logo": "/logos/daxuedao-zscampus-com.png",
+    "domain": "daxuedao.zscampus.com"
+  },
+  {
+    "slug": "musicbuddy-cn",
+    "name": "MusicBuddy",
+    "description": "属于AI音频工具·AI音乐生成分类。MusicBuddy是一款AI音频工具领域的免费增值AI工具，MusicBuddy是腾讯音乐推出的AI音乐创作平台，隶属腾讯Buddy家族。支持音乐生成、海报、聊天。",
+    "url": "https://www.musicbuddy.cn/",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "音乐生成",
+      "海报",
+      "聊天"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-02",
+    "updatedAt": "2026-11-02",
+    "subcategory": "ai-audio-music",
+    "logo": "/logos/musicbuddy-cn.png",
+    "domain": "musicbuddy.cn"
+  },
+  {
+    "slug": "yuankongai-com",
+    "name": "元空AI Work",
+    "description": "属于AI办公工具·AI PPT生成分类。元空AI Work是一款AI办公工具领域的免费增值AI工具，元空AI Work是元空智能推出的全场景AI办公平台。支持PPT、编程。",
+    "url": "https://www.yuankongai.com/",
+    "categories": [
+      "ai-office"
+    ],
+    "tags": [
+      "PPT",
+      "编程"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-03",
+    "updatedAt": "2026-11-03",
+    "subcategory": "ai-office-ppt",
+    "logo": "/logos/yuankongai-com.png",
+    "domain": "yuankongai.com"
+  },
+  {
+    "slug": "e2sci-com",
+    "name": "元空AI Science",
+    "description": "属于AI智能体·AI Agent框架分类。元空AI Science是一款AI智能体领域的免费增值AI工具，元空AI Science是元空智能推出的通用科研智能实验台，面向科研人员与科研机构。支持智能体、论文、写作。",
+    "url": "https://www.e2sci.com/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体",
+      "论文",
+      "写作"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-05",
+    "updatedAt": "2026-11-05",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/e2sci-com.png",
+    "domain": "e2sci.com"
+  },
+  {
+    "slug": "studio-wanaka-app",
+    "name": "Wanaka Studio",
+    "description": "属于AI图像工具·AI 3D模型生成分类。Wanaka Studio是一款AI图像工具领域的免费增值AI工具，Wanaka Studio 是 Wanaka 推出的 AI 原生游戏引擎，理念是重做一个人类与 AI 双友好的新引擎。支持3D、智能体、编程。",
+    "url": "https://studio.wanaka.app/",
+    "categories": [
+      "ai-image"
+    ],
+    "tags": [
+      "3D",
+      "智能体",
+      "编程"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-05",
+    "updatedAt": "2026-11-05",
+    "subcategory": "ai-image-3d",
+    "logo": "/logos/studio-wanaka-app.png",
+    "domain": "studio.wanaka.app"
+  },
+  {
+    "slug": "fotor-com-cn",
+    "name": "Fotor",
+    "description": "属于AI音频工具·AI音频编辑分类。Fotor是一款AI音频工具领域的免费增值AI工具，Fotor 是专业的商用和自媒体视频创作Agent，输入一句话、链接或文档，能自动联网查资料、写脚本、排分镜，把画面、配音、配乐、字幕、…。支持视频生成、配音、字幕、文档。",
+    "url": "https://www.fotor.com.cn/agent/?_channel_track_key=8ydOUtRH",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "视频生成",
+      "配音",
+      "字幕",
+      "文档"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-07",
+    "updatedAt": "2026-11-07",
+    "subcategory": "ai-audio-edit",
+    "logo": "/logos/fotor-com-cn.png",
+    "domain": "fotor.com.cn"
+  },
+  {
+    "slug": "so-qq-com",
+    "name": "元宝搜索",
+    "description": "属于AI视频工具·AI视频生成分类。元宝搜索是一款AI视频工具领域的免费AI工具，元宝搜索是腾讯推出的 AI 搜索引擎，C 端入口为 so.qq.com，B 端通过腾讯云以 API、MCP、Skill 开放，二者同源。支持论文、搜索。",
+    "url": "https://so.qq.com/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "论文",
+      "搜索"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "free",
+    "createdAt": "2026-11-10",
+    "updatedAt": "2026-11-10",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/so-qq-com.png",
+    "domain": "so.qq.com"
+  },
+  {
+    "slug": "app-easymofang-com",
+    "name": "易智魔方",
+    "description": "属于AI视频工具·AI视频生成分类。易智魔方是一款AI视频工具领域的免费增值AI工具，易智魔方是易佰网络推出的跨境电商一站式AI创作平台，以易智万象系列行业垂直大模型为核心，通过智能Agent贯通图片、视频、文案等营销素材…。支持智能体、文案、大模型。",
+    "url": "https://app.easymofang.com/create/product-image-set",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "智能体",
+      "文案",
+      "大模型"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-10",
+    "updatedAt": "2026-11-10",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/app-easymofang-com.png",
+    "domain": "app.easymofang.com"
+  },
+  {
+    "slug": "tv-filmora-cn",
+    "name": "Filmora.TV",
+    "description": "属于AI视频工具·AI视频生成分类。Filmora.TV是一款AI视频工具领域的免费增值AI工具，Filmora.TV 是面向 TVC 制作公司、品牌广告团队与 AI 视频工作室的一站式 AI 创作工作台，覆盖从创意脚本、分镜生成、画…。支持视频生成。",
+    "url": "https://tv.filmora.cn/",
+    "categories": [
+      "ai-video"
+    ],
+    "tags": [
+      "视频生成"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-11",
+    "updatedAt": "2026-11-11",
+    "subcategory": "ai-video-generation",
+    "logo": "/logos/tv-filmora-cn.png",
+    "domain": "tv.filmora.cn"
+  },
+  {
+    "slug": "loop-qipaoyin-com",
+    "name": "气泡音扒谱",
+    "description": "属于AI音频工具·AI音乐生成分类。气泡音扒谱是一款AI音频工具领域的免费增值AI工具，气泡音扒谱 BubbleLoop 是 AI 辅助扒谱与音乐练习工具，集分轨听辨、和弦识别、音频转谱及播放练习于一体。支持音乐生成。",
+    "url": "https://loop.qipaoyin.com/",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "音乐生成"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-12",
+    "updatedAt": "2026-11-12",
+    "subcategory": "ai-audio-music",
+    "logo": "/logos/loop-qipaoyin-com.png",
+    "domain": "loop.qipaoyin.com"
+  },
+  {
+    "slug": "aiprd-zuoxue-com",
+    "name": "AIPRD",
+    "description": "属于AI设计工具·AI UI设计分类。AIPRD是一款AI设计工具领域的免费增值AI工具，AIPRD是 AI 驱动的产品需求工作台，用户说一句话想法，Agent 能把 PRD、流程图、可点击原型、数据图表和演示稿生成在同一张画布上。支持UI设计、PPT、智能体。",
+    "url": "https://aiprd.zuoxue.com/go/i3QmU5aZ",
+    "categories": [
+      "ai-design"
+    ],
+    "tags": [
+      "UI设计",
+      "PPT",
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-13",
+    "updatedAt": "2026-11-13",
+    "subcategory": "ai-design-ui",
+    "logo": "/logos/aiprd-zuoxue-com.png",
+    "domain": "aiprd.zuoxue.com"
+  },
+  {
+    "slug": "klap-app",
+    "name": "Klap",
+    "description": "属于AI音频工具·AI音频编辑分类。Klap是一款AI音频工具领域的免费增值AI工具，Klap 是 AI 短视频剪辑工具，能把 YouTube 长视频一键转成适合 TikTok、Reels、Shorts 的竖屏短片。支持字幕。",
+    "url": "https://klap.app/?via=aibot",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "字幕"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-12",
+    "updatedAt": "2026-11-12",
+    "subcategory": "ai-audio-edit",
+    "logo": "/logos/klap-app.png",
+    "domain": "klap.app"
+  },
+  {
+    "slug": "art-vvcut-com",
+    "name": "入画礼",
+    "description": "属于AI写作工具·AI文章写作分类。入画礼是一款AI写作工具领域的免费增值AI工具，入画礼是在线AI艺术肖像创作平台，支持官网与微信小程序。支持提示词。",
+    "url": "https://art.vvcut.com/",
+    "categories": [
+      "ai-writing"
+    ],
+    "tags": [
+      "提示词"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-16",
+    "updatedAt": "2026-11-16",
+    "subcategory": "ai-writing-article",
+    "logo": "/logos/art-vvcut-com.png",
+    "domain": "art.vvcut.com"
+  },
+  {
+    "slug": "likli-net",
+    "name": "likli",
+    "description": "属于AI音频工具·AI语音合成分类。likli是一款AI音频工具领域的免费增值AI工具，likli 是可灵面向内容制作场景推出的 Agent 创作工作台，用户只需说出一个想法或一份 Brief，likli 便能自行理解目标、…。支持视频生成、配音、智能体。",
+    "url": "https://likli.net/home/",
+    "categories": [
+      "ai-audio"
+    ],
+    "tags": [
+      "视频生成",
+      "配音",
+      "智能体"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-18",
+    "updatedAt": "2026-11-18",
+    "subcategory": "ai-audio-tts",
+    "logo": "/logos/likli-net.png",
+    "domain": "likli.net"
+  },
+  {
+    "slug": "usemagpie-ai",
+    "name": "Magpie",
+    "description": "属于AI智能体·AI Agent框架分类。Magpie是一款AI智能体领域的免费增值AI工具，Magpie是开源的本地 AI 模型调度与管理工具，能在本地运行轻量网关，把 Claude Code、Codex 等数十种编程助手的请求…。支持智能体、编程、开源。",
+    "url": "https://usemagpie.ai/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体",
+      "编程",
+      "开源"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-17",
+    "updatedAt": "2026-11-17",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/usemagpie-ai.png",
+    "domain": "usemagpie.ai"
+  },
+  {
+    "slug": "skillry-dev",
+    "name": "Skillry",
+    "description": "属于AI智能体·AI Agent框架分类。Skillry是一款AI智能体领域的免费增值AI工具，Skillry 是 AI Agent 技能市场平台，面向 Claude Code、Codex、Cursor、Kimi Code 等 30…。支持智能体、编程。",
+    "url": "https://skillry.dev/",
+    "categories": [
+      "ai-agent"
+    ],
+    "tags": [
+      "智能体",
+      "编程"
+    ],
+    "featured": false,
+    "rating": 4,
+    "pricing": "freemium",
+    "createdAt": "2026-11-19",
+    "updatedAt": "2026-11-19",
+    "subcategory": "ai-agent-framework",
+    "logo": "/logos/skillry-dev.ico",
+    "domain": "skillry.dev"
   }
 ]
