@@ -744,3 +744,50 @@ security CLI、memory CLI，以及 Cursor 的 Bugbot、CLI。其中飞书那条�
 
 `plugins/*` 仍余 364 条未采（`sdk-*` 与 `codex-harness-*` 两组几乎未动），`gateway/config-*` 一组 30 余页也未采；
 这两处都不缺长度，缺的是切分角度。
+
+## 二十四、第 204 批（2026-11-20）：工具簿记口径变了，教程首次开采控制台与云工人预热层（940 → 960）
+
+**一、基线变了，必须先说清楚**
+
+本批起始 HEAD 为 `7d449221`，其中包含一次内容导入：`70557aa0` 同步 ai-bot.cn 新收录工具 164 条。
+于是工具总数从 1129 变为 **1293**，而原创内容池仍是 **1127**（评测 5 + 原创资料 1127，两者有重叠）。
+`tools.xml` 仍为 1127 —— 也就是说**索引覆盖率从 99.8% 降到 87.2%**，池外 166 条
+（164 条新导入 + 2 条暂缓）全部 `noindex`。
+
+核对结果：池外 166 条里，164 条的正文纯文本为 **0 字**（只有描述与标签，没有任何正文段落），
+2 条为历史暂缓项（`phind-com` 935 字挑战页、`ask-xiaoyuzhoufm-com` 775 字 SPA 壳）。
+名称为不干净的 0 条。**这不是索引面故障，是内容缺口**：新导入的 164 条按 SOP 第二节本就不该进索引
+（采集描述不构成索引依据），要提升覆盖率只有写原创资料一条路，本轮按任务要求未投入。
+
+**二、本批产出：教程页 20 条（940 → 960，tutorials.xml 940 → 960）**
+
+素材首次系统开采四个此前零采的子树，全部 `.md` 直取、无需代理：
+`web/control-ui/*`（8 篇）、`gateway/cloud-workers/*`（7 篇）、`tools/browser/*`（3 篇）、
+`plugins/knowledge/{retrieval,stores-and-access}`（2 篇）。
+
+二十条主线：上下文分解的四类分项与字符估算口径 / 协作草稿的四赫兹、十秒降级与三十秒到期 /
+侧聊的六十一律取消与每人独立线程 / 会话链接与文件链接的识别边界 / JSON 树与原始视图的复制保真 /
+断线变更队列的接纳范围与内存边界 / 控制台图片的三条取法与链接图标的披露代价 /
+预热镜像的捕获点必须早于节点注册 / 三个保留键与固定住的例外 / 预备池的每仓库一个与全局四个 /
+四十五分钟是操作预算不是租期、五种续租失败码 / 机器消失后的抄本、工具调用与工作区三笔账 /
+停止云设备的 draining 与 reclaimed / 每会话换系统与尺寸的排序规则 / 轻量浏览器的合格边界与 AGPL /
+页签清理的归属与重启后的两种命运 / 纯文本主模型的截图描述与回退 / 知识检索的查询契约与无分词 /
+被取代记录的跟随与三个可能为空的字段 / 会话读写授权的两档与一个不存在的只写档。
+
+**三、自检与提交**
+
+独立复算：工具池 1127，池内四条件通过 1127 == `tools.xml` 1127（池内未通过 0）；
+教程 960、≥600 字 960 == `tutorials.xml` 960；快讯 15 == `news.xml` 15；
+可索引合计 **1127 + 960 + 15 = 2102**。14 字滑窗（仅计 ≥8 汉字）跨文 0、批内 0（一次通过）；
+红线词 0、金额 0；标签闭合 20/20；h2 3–7；字数 915–1261。
+`categories.json` 的 count 按主分类（`categories[0]`）复算，15 个分类合计 1293 == 工具总数，无需重算。
+
+**四、下一批建议**
+
+`web/control-ui/*` 仍余 `settings`(99k)、`sessions-and-sidebar`(124k)、`panels`(35k)、`feature-reference`(49k)、
+`asset-delivery`(14k)、`security-model` 后半（审批链接、头像与媒体路由）未切；
+`gateway/cloud-workers/*` 余 `setup-and-bundle-installation`、`desktop`、`environment-file`、
+`dispatching-a-session`、`per-project-default-profiles`、`verify-the-profile`、`security-model`；
+`plugins/knowledge/*` 余 `records-and-ontology`、`scribes`、`maintenance`、`evidence`、`control-ui` 等 8 页；
+`tools/browser/*` 余 `isolation`、`profiles`、`remote`、`existing-session`、`agent-tools`、`security`。
+以上均为高密度未采素材，缺的是切分角度而非长度。
