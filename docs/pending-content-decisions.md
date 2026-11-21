@@ -791,3 +791,55 @@ security CLI、memory CLI，以及 Cursor 的 Bugbot、CLI。其中飞书那条�
 `plugins/knowledge/*` 余 `records-and-ontology`、`scribes`、`maintenance`、`evidence`、`control-ui` 等 8 页；
 `tools/browser/*` 余 `isolation`、`profiles`、`remote`、`existing-session`、`agent-tools`、`security`。
 以上均为高密度未采素材，缺的是切分角度而非长度。
+
+## 二十五、第 205 批（2026-11-21）：教程首次开采设置页与面板页，发现 meta description 模板含「实测」字样
+
+**一、基线未变**
+
+起始 HEAD `1c968a23`，工具 1293、原创池 1127（四条件 1127 == `tools.xml` 1127）、教程 960、快讯 15。
+按任务口径未动工具页与 `news.json`。代理 `127.0.0.1:7897` 本轮不可用（返回 000），
+`docs.openclaw.ai` 直连正常，37 个候选页 `.md` 直取 37/37 全部 200，属「代理通道缺失」而非「素材缺失」。
+
+**二、本批产出：教程页 20 条（960 → 980，`tutorials.xml` 960 → 980）**
+
+素材来自四棵此前未采的子树：`web/control-ui/sessions-and-sidebar`（6）、`web/control-ui/settings`（4）、
+`web/control-ui/panels`（2）、`plugins/knowledge/{tools,scribes}`（3）、`gateway/cloud-workers`（3）、
+`tools/browser/{existing-session,remote}`（2）。
+
+二十条主线：侧边栏 300 条窗口与 4–5 秒随机刷新节流 / 归档的撤销窗口到通知消失才提交、嵌套会话两个选项 /
+稍后处理的三种唤醒与「不停止运行」/ 新建会话标题预取的 1 秒—12 字符—1000 字符三个门槛 /
+浏览器草稿 20 作用域—7 天—25 MiB 与隐身永不持久 / 移动会话的 draining 重试不重放回合 /
+通道设置为何不自动保存（半截令牌会重启通道）/ 保存结果未知时暂停无关写入 / 外观偏好的三种作用域 /
+四个会话来源开关两开两关 / 终端拖文件只粘路径从不回车 / 终端会话归连接还是归会话 /
+知识库页面预算 12000 与 24000、只增不减 / 抄写员的八种状态与状态行 / 抄写员更新为何要发一个对话回合 /
+云上两种运行时的职责分工 / devcontainer 只跑命令不起容器 / 云桌面无公网入口与票据单次 /
+已登录浏览器的引用寿命 / 环回调试地址必须标 attachOnly。
+
+**三、新方法论 60–61（已写入 SOP）**
+
+设置页是第十七层素材，判据「一个与其他对象不同的保存时机 + 一条作用域归属 + 一个出厂值差异」；
+面板与终端页的高产点在「PTY 归属」而非快捷键表，判据「一个所有权判定 + 一个超时或保留期 + 一类被明确拒绝的输入」。
+
+**四、自检与提交**
+
+独立复算：工具 1293、原创池 1127、四条件通过 1127 == `tools.xml` 1127（池外 166 条为 noindex）；
+教程 980、≥600 字 980 == `tutorials.xml` 980；快讯 15 == `news.xml` 15；可索引合计 **2122**。
+20 个新 slug 全部命中 `tutorials.xml`；14 字滑窗（仅计 ≥8 汉字）跨文 0、批内 0（一次通过）；
+红线词 0、金额 0；标签闭合 20/20；h2 均 ≥7；字数 724–1202。
+`categories.json` 的 count 按主分类复算，15 类合计 1293 == 工具总数，无需重算。
+
+**五、体检发现（新，需决策）**
+
+线上工具页的 meta description 由 `app/tools/[slug]/page.tsx` 统一拼接，其中含
+**「TaoAI 编辑实测推荐」**。这与本 SOP 第一节「不虚构」中禁止的「实测」表述直接冲突，
+且作用于全部 1293 个工具页的检索摘要。本批未改动（会一次性改变全站摘要，且属代码而非内容变更），
+建议单独一批处理：把该短语换成「TaoAI 编辑收录」或等价的非体验性表述，重建后抽查 2–3 页。
+
+**六、下一批建议**
+
+`web/control-ui/*` 余 `asset-delivery`(14k)、`development`(23k)、`feature-reference`(49k)；
+`gateway/cloud-workers` 余 `troubleshooting`(31k)、`setup-and-bundle-installation`(16k)、
+`security-model`(9k)、`dispatching-a-session`(7k)、`per-project-default-profiles`(3.6k)、`verify-the-profile`(3.5k)；
+`plugins/knowledge` 余 `records-and-ontology`(12k)、`maintenance`(7.5k)、`evidence`(6k)、`control-ui`(6.8k)、
+`local-history`(4.3k)、`tools` 的声明与回执两节；`tools/browser` 余 `profiles`、`agent-tools`、`security`、
+`isolation`、`troubleshooting`、`login`。
