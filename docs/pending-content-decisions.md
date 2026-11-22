@@ -843,3 +843,51 @@ security CLI、memory CLI，以及 Cursor 的 Bugbot、CLI。其中飞书那条�
 `plugins/knowledge` 余 `records-and-ontology`(12k)、`maintenance`(7.5k)、`evidence`(6k)、`control-ui`(6.8k)、
 `local-history`(4.3k)、`tools` 的声明与回执两节；`tools/browser` 余 `profiles`、`agent-tools`、`security`、
 `isolation`、`troubleshooting`、`login`。
+
+## 二十六、第 206 批（2026-11-22）：教程首次开采 SDK 概览层与运行时层（980 → 1000）
+
+**一、基线未变**
+
+起始 HEAD `7c88717d`（含两条新闻 cron 提交），工具 1293、原创池 1127（四条件 1127 == `tools.xml` 1127）、
+教程 980、快讯 13、工作区干净。按任务口径未动工具页与 `news.json`。
+`docs.openclaw.ai/sitemap.xml` 本轮 15574 条 `loc`、英文根路径 1471 条、未采 1242 条；
+41 个候选页 `.md` 直取 41/41 全部 200，无需代理（代理本轮未使用）。
+
+**二、本批产出：教程页 20 条（980 → 1000，`tutorials.xml` 980 → 1000）**
+
+素材首次开采 `plugins/sdk-overview/*`（9 篇）与 `plugins/sdk-runtime/*`（8 篇）两棵子树，
+另有 `gateway/cloud-workers/troubleshooting`、`plugins/knowledge/records-and-ontology` 各 1 篇、
+`plugins/sdk-agent-harness/core-ownership` 未单独成篇（其事实并入 blind 与 profile 两篇的边界段）。
+
+二十条主线：插件四个入口文件与两条禁止自引规则 / 命令收尾三去向与抄本留哪一条 /
+widget 呈现器的唯一匹配与「失败是返回值」/ 存储 provider 永不覆盖与 512 字节键 /
+云工人 destroy 要等物理拆除证明 / 决策 V1 边界返回 undefined 不凑概率 / 决策模型未配即关且无回退 /
+目录清单 64 层与十万条抛错不截断 / SQLite 写准入准备可重入 / 请求者级 MCP 的五分钟窗口与无共享兜底 /
+回执后工作的独立准入根与 close≠finish / 抄本读取器不建库不修表 /
+OAuth 校验在刷新结算期拒绝会锁死代际 / 原生子代理 requestId 是身份 / blind 的四个删项与 fork 拒绝 /
+档案只减权限且指令注册时快照 / 人员访问策略四种结果 / 模型目录 pending 不等于可用 /
+worker 掉线续跑一次不重放工具 / 知识记录身份来自 id 且重复 id 可列不可查。
+
+**三、新方法论 62–63（已写入 SOP）**
+
+`sdk-overview` 与 `sdk-runtime` 为第十八层素材，写「面与面之间的所有权」，判据「一个准入判定 + 一处不可回退动作 +
+一种必须由调用方保留的句柄或令牌」；「失败语义」是这层最值钱的切面，需把「重试是否安全」写成结论。
+
+**四、自检与提交**
+
+独立复算：工具 1293、原创池 1127、四条件通过 1127 == `tools.xml` 1127（池外 166 条为 noindex，
+其中 164 条正文 0 字、2 条为历史暂缓）；教程 1000、≥600 字 1000 == `tutorials.xml` 1000；
+快讯 13 == `news.xml` 13；可索引合计 **1127 + 1000 + 13 = 2140**。
+20 个新 slug 全部命中 `tutorials.xml`；14 字滑窗（仅计 ≥8 汉字）跨文 0、批内 0（一次通过）；
+红线词 0、金额 0（初稿一处「美元成本」已改为「计价结果」）；标签闭合 20/20；h2 均 ≥4；字数 987–1596。
+`categories.json` 15 类 count 合计 1293 == 工具总数，无需重算。
+
+**五、下一批建议**
+
+`sdk-*` 仍未采尽：`sdk-overview` 余 0（已采完 9 页）、`sdk-runtime` 余 0（8 页已采完）、
+`sdk-agent-harness` 余 8 页（core-ownership 已读未成篇，`sessions-and-results`、`attempt-runtime`、
+`user-input-and-execution`、`selection-policy`、`runtime-config`、`registration`、`native-inventories` 未动）；
+另有 `sdk-channel-inbound/outbound/ingress/gateway-ingress/testing/setup/subpaths` 7 页、
+`plugins/manifest/*` 7 页、`plugins/hooks/*` 5 页、`tools/browser/*` 余 6 页、
+`web/control-ui/{asset-delivery,development,feature-reference}` 3 页。
+`plugins/reference/*` 188 条仍不建议整组开采（低密度卡片）。
