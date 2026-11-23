@@ -891,3 +891,62 @@ worker 掉线续跑一次不重放工具 / 知识记录身份来自 id 且重复
 `plugins/manifest/*` 7 页、`plugins/hooks/*` 5 页、`tools/browser/*` 余 6 页、
 `web/control-ui/{asset-delivery,development,feature-reference}` 3 页。
 `plugins/reference/*` 188 条仍不建议整组开采（低密度卡片）。
+
+## 二十七、第 207 批（2026-11-23）：教程首次开采清单能力/钩子/原生运行时层（1000 → 1021）
+
+**一、基线**
+
+起始 HEAD `1f52cc49`。工具 1293、原创池 1127（四条件通过 1127 == `tools.xml` 1127，池外 166 条为 noindex）、
+教程 1000、快讯 14、工作区干净。按任务口径未动工具页与 `news.json`。
+`docs.openclaw.ai/sitemap.xml` 本轮 15576 条 `loc`，英文根路径 1473 条、未采 1234 条；
+43 个候选页 `.md` 直取 43/43 全部 200，代理本轮返回 000（端口未起），属「代理通道缺失」而非「素材缺失」。
+
+**二、本批产出：教程页 21 条（1000 → 1021，`tutorials.xml` 1000 → 1021）**
+
+素材来自五棵此前未采或只采过邻页的子树：`plugins/sdk-subpaths`（3）、`plugins/sdk-channel-outbound`（4）、
+`plugins/hooks/prompt-and-session`（5）、`plugins/sdk-agent-harness/*`（3）、`plugins/manifest/models`（2）、
+`plugins/sdk-setup`（1）、`web/control-ui/feature-reference`（1）等。
+
+二十一条主线：能力目录出口的冷发现约束（不得查鉴权库/起会话，异步捕获为必填）/
+回环判定解析 IP 字面量而非前缀、只读密钥的 blocked 与 missing 不可合并 /
+脱敏匹配器的偏移量指当前字符串、捕获决定遮哪一段 / 30 分钟租约 + 5 分钟扫描 = 35 分钟上界 /
+isNew 只表示插入行、保留期剪掉后再插入仍报真 / 回执只证明平台接受、线程冲突时聚合省略 /
+未派发标记只许派发边界所有者抛、失败不等于换路径重发 / 回退链空数组即禁用、非字符串数组被当空 /
+系统上下文单项限四分之一、截断留前缀并加固定标记 / 工具授权阶段只能返回两类上下文、指纹不是令牌 /
+被拦轮次只留替换文本、内部原因按敏感处理 / 连续性三态与命令行八种失效原因 /
+核心准备尝试、运行方不得选 provider、会话所有者是显式字段 / 安全拒绝名单的四个保留条件 /
+子代理观察最多 128 条、原生标识不是取消句柄 / 来源绑定注入撤销为单向、批量逐项重验 /
+输出用量按单次响应报、重试共享运行总量 / 外部目录水合只填空、显式 false 亦权威 /
+命令行后端按厂商费率估算、本地部署显式关闭外部价 / 单账户提升的空数组是契约标记而非「不搬」 /
+工具活动按调用计数而非事件计数。
+
+**三、新方法论 64–65（已写入 SOP）**
+
+- 64：`plugins/manifest/*` 与 `plugins/sdk-setup` 属「清单契约层」，写的是**省略与显式之间谁更严**：
+  `activation.onStartup` 省略不再隐式启动、`singleAccountKeysToMove` 空数组才是退出旧式搬迁、
+  `modelsDev` 只填 undefined 且显式 `false` 亦权威。判据：一页里同时出现「一个省略即改变行为的字段 +
+  一个空数组/空值的新含义 + 一处只在发布期生效的校验」，就能切 2–3 篇。
+- 65：`plugins/sdk-channel-outbound` 的产能来自「同一件事有两个时间口径」与「证据分层」：
+  租约 30 分钟但最坏 35 分钟回收、待处理托管不是送达回执、未派发标记只属于派发边界所有者。
+  判据：一页里同时出现「两个数相加减才等于真实等待 + 一份回执能证明到哪一步 + 一个不许跨层使用的断言」，
+  就能切 3 篇以上。
+
+**四、自检与提交**
+
+独立复算：工具 1293、原创池 1127、四条件通过 1127 == `tools.xml` 1127；教程 1021、≥600 字 1021 ==
+`tutorials.xml` 1021；快讯 14 == `news.xml` 14；可索引合计 **1127 + 1021 + 14 = 2162**。
+21 个新 slug 全部命中 `tutorials.xml`；14 字滑窗（仅计 ≥8 汉字）跨文 0、批内 0（一次通过）；
+红线词 0、金额 0；标签闭合 21/21；h2 均 ≥4；字数 893–1304。
+`categories.json` 15 类 count 合计 1293 == 工具总数，无需重算。
+提交 `f396db9b`，push 成功（`1f52cc49..f396db9b`），HEAD==origin/main。
+线上复核：新页 200 且无 robots noindex，生产 `tutorials.xml` 1021 且含新 slug，`tools.xml` 1127。
+
+**五、下一批建议**
+
+`sdk-agent-harness` 余 `selection-policy`、`runtime-config`、`registration`、`native-inventories` 4 页；
+`plugins/sdk-channel-{inbound,ingress,gateway-ingress,testing,subpaths}` 5 页；`plugins/manifest` 余
+`capabilities`、`providers`、`package-json`、`setup-and-auth`、`surfaces` 5 页（`surfaces` 32k，含图标恢复与主题两节）；
+`plugins/hooks/reference`(15k) 与 `plugins/hooks/{lifecycle,messages}` 仍有余量；
+`gateway/cloud-workers/{setup-and-bundle-installation,security-model,dispatching-a-session}`、
+`tools/browser/{profiles,agent-tools,troubleshooting}`、`web/control-ui/development` 亦未成篇。
+`plugins/reference/*` 188 条继续整组跳过。
