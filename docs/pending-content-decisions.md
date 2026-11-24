@@ -950,3 +950,59 @@ isNew 只表示插入行、保留期剪掉后再插入仍报真 / 回执只证�
 `gateway/cloud-workers/{setup-and-bundle-installation,security-model,dispatching-a-session}`、
 `tools/browser/{profiles,agent-tools,troubleshooting}`、`web/control-ui/development` 亦未成篇。
 `plugins/reference/*` 188 条继续整组跳过。
+
+## 二十八、第 208 批（2026-11-24）：教程首次开采钩子体系与「执行者归属」层（1021 → 1043）
+
+**一、基线**
+
+起始 HEAD `5b6e2a2d`（含一条新闻 cron 提交）。工具 1293、原创池 1127（四条件通过 1127 == `tools.xml` 1127，
+池外 166 条为 noindex）、教程 1021、快讯 13、工作区干净。按任务口径未动工具页与 `news.json`。
+`docs.openclaw.ai/sitemap.xml` 本轮 15577 条 `loc`、英文根路径 1474 条、未采 1226 条；
+30 个候选页 `.md` 直取 30/30 全部 200，正文 1.3k–37k。代理 `127.0.0.1:7897` 未起，
+属「代理通道缺失」而非「素材缺失」，全部走 node 直连。
+
+**二、本批产出：教程页 22 条（1021 → 1043，`tutorials.xml` 1021 → 1043）**
+
+素材首次系统开采三棵此前零采的子树：`plugins/hooks/{reference,lifecycle,messages}`（8 篇）、
+`plugins/sdk-agent-harness/{selection-policy,runtime-config,native-inventories,registration}`（7 篇）、
+`gateway/{permission-modes,cloud-workers/security-model,secrets-plan-contract}` 与
+`tools/browser/profiles`（7 篇）。`hooks/*` 与 `cloud-workers/security-model` 此前在 sitemap 里完全未采。
+
+二十二条主线：harness 选择的四级顺序与「前缀永不投票」/ 认领后不换运行时重放与前置错误的 scope /
+运行时策略写在 provider 或模型条目上、整块 agent 级写法被忽略 / 自托管执行器的 60 秒截止与不代起进程 /
+原生就绪状态为何不落在行上（未定义即「现在没有观测」）/ MCP 目录不许为回答查询启动进程、joinCleanup 不算 dispose /
+隔离补全的 host 与 harness 两种授权所有者、权限断言要贴在每次交接前 / 1 KiB schema 按引用转发与 2026-10-12 退役日 /
+五类钩子执行契约 / 超时只停等待不停工作 / 三层超时覆盖与 matcher 四种无效写法 / 两秒排空预算全员共享 /
+停止事件的五种不触发情形 / 资格白名单的反向默认值 / 安装钩子不是安全边界、block:false 等于不表态 /
+cron 投影投快照而非增量 / 取消为假不是放行、两个投递钩子看到的输入不同 / 工人凭据只存哈希且靠围栏 /
+审批绑定五要素（命令＋目录＋环境指纹＋终端设置）/ 谁执行谁负责：CLI 原生工具不受会话模式约束 /
+密钥计划的三个顺序（16 MiB 上限、提供者先于目标、校验失败不落半份）/ 三个浏览器档案的差别其实是「谁来点允许」。
+
+**三、新方法论 66–68（已写入 SOP）**
+
+- 66：`plugins/hooks/*` 为第十九层素材，写「同一份代码在不同契约下的不同命运」；判据「一种执行契约 +
+  一条超时或预算 + 一个反向默认值」。`hooks/reference` 一页切 6 篇。反向默认（省略即不受限）是独立高产点。
+- 67：「执行者归属」为第二十层素材，权限模式、云工人安全模型、harness 选择三层同源；判据「一个执行者归属判定 +
+  一条上限或绑定要素 + 一处失败关闭」。写法上把「谁执行谁负责」放第一句。
+- 68：素材可达性——未采 1226 条，`plugins` 326 / `gateway` 131 / `providers` 100 / `tools` 100，
+  高密度未采子树已在该条列出；`plugins/reference/*` 188 条继续整组跳过。
+
+**四、自检与提交**
+
+独立复算（与 `scripts/generate-sitemap.mjs` 同口径）：工具 1293、原创池 1127、四条件通过 1127 ==
+`tools.xml` 1127（池内未通过 0）；教程 1043、≥600 字 1043 == `tutorials.xml` 1043；
+快讯 13 == `news.xml` 13（解读 ≥180 字 13/13）；可索引合计 **1127 + 1043 + 13 = 2183**。
+22 个新 slug 全部命中 `tutorials.xml`；14 字滑窗（仅计 ≥8 汉字）跨文 0、批内 0（两轮修正后归零，
+修正点：`hooks/reference` 与 `hooks/messages` 两篇撞了「handler 可能已经开始工作」、`hooks/reference` 与
+`hooks/timeout-precedence` 两篇撞了触发来源白名单的整句）；红线词 0、金额 0；标签闭合 22/22；
+h2 均 4–6；字数 720–1051；正文全部含 OpenClaw 自身名。
+`categories.json` 15 类 count 合计 1293 == 工具总数，无需重算。
+提交 `0f8539a6`，push 成功（`5b6e2a2d..0f8539a6`）。
+
+**五、下一批建议**
+
+`plugins/sdk-channel-{inbound,ingress}`、`plugins/sdk-channel-plugins/*`（4）、`plugins/manifest/*` 余 5、
+`plugins/codex-harness*`（约 12 页）、`plugins/voice-call/*`（5）、`plugins/knowledge/*` 余 4；
+`gateway/sandboxing/*`（8）、`gateway/secrets/*`（4）、`gateway/doctor/*`（7）、`gateway/protocol/*` 余 5、
+`gateway/troubleshooting/*`（6）；`tools/subagents/*`（7）、`tools/code-mode/*`（6）、`tools/acp-agents/*`（9）、
+`concepts/active-memory/*`（10）。以上均为 `.md` 直取可用、且与既有 1043 篇无来源重叠的子树。
