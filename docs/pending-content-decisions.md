@@ -1006,3 +1006,58 @@ h2 均 4–6；字数 720–1051；正文全部含 OpenClaw 自身名。
 `gateway/sandboxing/*`（8）、`gateway/secrets/*`（4）、`gateway/doctor/*`（7）、`gateway/protocol/*` 余 5、
 `gateway/troubleshooting/*`（6）；`tools/subagents/*`（7）、`tools/code-mode/*`（6）、`tools/acp-agents/*`（9）、
 `concepts/active-memory/*`（10）。以上均为 `.md` 直取可用、且与既有 1043 篇无来源重叠的子树。
+
+## 二十九、第 209 批（2026-11-25）：教程首次开采子代理回报面、代码模式客户机面、主动记忆与语音通话（1043 → 1063）
+
+**一、基线**
+
+起始 HEAD `2a093bdb`（含一条新闻 cron 提交）。工具 1293、原创池 1127（四条件通过 1127 == `tools.xml` 1127，
+池外 166 条为 noindex）、教程 1043、快讯 14、工作区干净。按任务口径未动工具页与 `news.json`。
+`docs.openclaw.ai/sitemap.xml` 本轮 15577 条 `loc`、英文根路径 1474 条、未采 1215 条；
+29 个候选页 `.md` 直取 29/29 全部 200，正文 1.3k–32k。代理 `127.0.0.1:7897` 未起（curl exit 7），
+属「代理通道缺失」而非「素材缺失」，全部走 node 直连。
+
+**二、本批产出：教程页 20 条（1043 → 1063，`tutorials.xml` 1043 → 1063）**
+
+素材首次系统开采四棵零采子树：`tools/subagents/*`（8 篇）、`tools/code-mode/*`（4 篇）、
+`concepts/active-memory/*`（4 篇）、`plugins/voice-call/*`（4 篇）。其中 `subagents/{announce,operations}`
+与 `code-mode/{tool-surface,output,executors}` 是此前完全未采的页面，`voice-call` 与 `active-memory` 整组首采。
+
+二十条主线：状态取自运行时而非模型文本（ok 也可以是 no output）/ 四道截断 8,000–32,000–160,000–4,000 与
+「指针不等于无损取回」/ 私有回执不自动发渠道且与六个选项互斥 / 并发 8 与准入 5 是两笔账、Swarm 另有一条通道 /
+陈旧窗口取「2 小时」与「运行超时加宽限」的较长者、计数不等于执行者活着 / 三种停止的作用域与「不带运行 ID 不级联」/
+隐藏子代理收尾会带走它起的进程，让出中与持久服务是例外 / 八个工具的硬拒绝清单与「最终白名单只能收窄」/
+64 个挂起槽位与 wait 的五种失败、失效 ID 不是清白证明 / 客户机改名三条规则与不可覆盖的九个全局 /
+桥接层拒收与输出层截断是相反的两件事 / Node 的 vm 不是安全边界且会话沙箱不搬代码单元 / 主动记忆只在持久会话跑 /
+会话 ID 白名单会连私聊一起收窄 / 召回工具清单是上限不是授权 / 4,000 字符预算与样式默认映射 /
+实时与流式两种音频模式互斥 / 挂断的四层计时与两秒宽限 / 同一通话只有一个咨询、busy 里 started 为假 /
+清道夫 120 秒与通话上限 300 秒各管一段、来电白名单只是来电显示筛选。
+
+**三、新方法论 69–71（已写入 SOP）**
+
+- 69：子代理「回报面」（`tools/subagents/{announce,operations}`）为第二十一层素材，写的是**一次交付的账**：
+  状态由谁判定、结果被哪几层裁剪、投递给谁、什么时候作废。判据「一个由运行时而非文本决定的状态 +
+  一组分层上限 + 一条只能部分执行的动作」。
+- 70：代码模式的「客户机面」（`tools/code-mode/{tool-surface,output,executors}`）写的是**宿主与客户机之间的契约**：
+  哪些名字进得去、值怎么过桥、失败发生在哪一侧。判据「一份改名规则 + 两种相反的失败语义 + 一个不是边界的边界」。
+- 71：`concepts/active-memory/*` 与 `plugins/voice-call/*` 的价值在**资格判定**而非功能清单：前者写「哪类会话有资格跑」，
+  后者写「这通电话什么时候结束、同一时刻能跑几个咨询」。判据「一份资格矩阵 + 两个作用域不同的开关 + 一条按时间分段的上限」。
+
+**四、自检与提交**
+
+独立复算（与 `scripts/generate-sitemap.mjs` 同口径）：工具 1293、原创池 1127、四条件通过 1127 ==
+`tools.xml` 1127（池内未通过 0）；教程 1063、≥600 字 1063 == `tutorials.xml` 1063；
+快讯 14 == `news.xml` 14；可索引合计 **1127 + 1063 + 14 = 2204**。
+20 个新 slug 全部命中 `tutorials.xml`；14 字滑窗（仅计 ≥8 汉字）跨文 0、批内 0（一次通过）；
+红线词 0、金额 0；标签闭合 20/20；h2 5–6；字数 711–902；正文全部含自身主题名。
+`categories.json` 15 类 count 合计 1293 == 工具总数，无需重算。
+线上抽查（直连，代理本轮不可用）：`robots.txt` 200 且放行 GPTBot/ClaudeBot 并指向 `sitemap-index.xml`；
+`/tutorials/openclaw-browser-profile-attach-consent` 200、自指 canonical、无 noindex。
+提交 `654f655e`，push 成功（`2a093bdb..654f655e`）。
+
+**五、下一批建议**
+
+`tools/subagents/{announce,operations}` 仍有未切的角度（结算回执乱序、批次归属、清理重试预算）；
+`tools/acp-agents/*`（9 页，整组零采）、`tools/{tts,swarm}`、`gateway/{sandboxing,security}/*` 两组共 29 页、
+`gateway/doctor/*`（8 页）、`plugins/{codex-harness,manifest,architecture-internals}/*`、
+`concepts/{qa-e2e-automation,active-memory/advanced-options}`。以上均为 `.md` 直取可用、且与既有 1063 篇无来源重叠的子树。
