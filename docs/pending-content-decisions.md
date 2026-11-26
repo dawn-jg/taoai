@@ -1061,3 +1061,62 @@ h2 均 4–6；字数 720–1051；正文全部含 OpenClaw 自身名。
 `tools/acp-agents/*`（9 页，整组零采）、`tools/{tts,swarm}`、`gateway/{sandboxing,security}/*` 两组共 29 页、
 `gateway/doctor/*`（8 页）、`plugins/{codex-harness,manifest,architecture-internals}/*`、
 `concepts/{qa-e2e-automation,active-memory/advanced-options}`。以上均为 `.md` 直取可用、且与既有 1063 篇无来源重叠的子树。
+
+## 三十、第 210 批（2026-11-26）：教程首次开采 ACP 会话账、语音合成权限、沙箱边界与审计预算（1063 → 1083）
+
+**一、基线**
+
+起始 HEAD `1bb1dfdb`（含一条新闻 cron 提交）。工具 1293、原创池 1127（四条件通过 1127 == `tools.xml` 1127，
+池外 166 条为 noindex）、教程 1063、快讯 13、工作区干净。按任务口径未动工具页与 `news.json`。
+`docs.openclaw.ai/sitemap.xml` 本轮 15580 条 `loc`、英文根路径 1477 条、未采 1207 条；
+44 个候选页 `.md` 直取 44/44 全部 200，正文 1.5k–107k。代理 `127.0.0.1:7897` 未起（curl exit 7），
+属「代理通道缺失」而非「素材缺失」，全部走 node 直连；push 后线上复核同样走 node 直连。
+
+**二、本批产出：教程页 20 条（1063 → 1083，`tutorials.xml` 1063 → 1083）**
+
+素材首次系统开采五棵此前零采子树：`tools/acp-agents/{bindings,sessions,delivery,controls}`（7 篇）、
+`tools/tts/{commands,personas,field-reference}`（4 篇）、`gateway/sandboxing/{what-gets-sandboxed,ssh-backend,setup-command}` 与索引页（4 篇）、
+`gateway/security/{tool-permissions,audit-checks}`（4 篇）、`gateway/doctor/state-and-sessions`（1 篇）。
+此前 `gateway/sandboxing` 只采过 `workspace-access`、`modes-scope-and-backend`、`multiple-folders-for-one-agent` 三页，
+本轮四页均为新页；ACP 与 TTS 两棵子树整组首采。
+
+二十条主线：ACP 子会话模型四级回落与「超时只能改全局默认」/ 恢复 ID 的归属检查与「查不到不枚举」/
+模型与思考逐项保存、省略不等于重置 / ACP 跑在宿主上而沙箱不包 harness / 受理与送达两个字段 /
+steer 只排队且会被 cancel 带走 / 运行控制按所有者与管理员分档 / TTS 指令的三道闸门与代码块例外 /
+本地偏好与主配置分工、坏文件改写拒绝 / 角色与提供方两层解析与三档 fallbackPolicy /
+4096 硬上限与 30 秒的三个来源、1500 与 4096 不是同一个数 / 沙箱 ls 的分页游标与「没有桥就隐藏」/
+SSH 后端播种一次、远端即真相、凭据内联优先 / setupCommand 只跑一次与失败后拒绝重放 /
+沙箱默认排除托管 GitHub 身份、只读挡不住读 / 跨上下文两个开关要一起关 /
+联网污染不剥夺明确归属的所有者权限 / 节点执行的两层策略与不可改的执行计划 /
+深度审计的扫描预算与截断语义 / 相对路径会话库在 systemd 下长出第二个库。
+
+**三、新方法论 72–74（已写入 SOP）**
+
+- 72：`tools/acp-agents/*` 为「外部 harness 的会话账」，写归属、恢复、投递三处分开判定；
+  判据「一个归属判定 + 一条只查一次就作废的 ID + 两个不能互相推导的返回值」。
+- 73：`tools/tts/*` 的产能在「权限与范围的错位」：默认关闭的提供方开关、只对单次生效的覆盖、读失败时行为相反的分支。
+- 74：沙箱与安全页的剩余角度是「边界没说到的地方」：不进边界的例外、一次性动作失败后拒绝重放、扫描预算与截断语义。
+
+**四、自检与提交**
+
+独立复算（与 `scripts/generate-sitemap.mjs` 同口径）：工具 1293、原创池 1127、四条件通过 1127 ==
+`tools.xml` 1127（池内未通过 0）；教程 1083、≥600 字 1083 == `tutorials.xml` 1083；
+快讯 13 == `news.xml` 13；可索引合计 **1127 + 1083 + 13 = 2223**。
+20 个新 slug 全部命中 `tutorials.xml`；14 字滑窗（仅计 ≥8 汉字）跨文 0、批内 0（修正 1 处与
+`openclaw-pairing-scope-derivation` 撞的「命令载荷里的 shell 文本」）；红线词 0、金额 0；
+标签闭合 20/20；h2 6–9；字数 710–913；正文全部含 OpenClaw 自身名（补 4 篇）。
+`categories.json` 15 类 count 合计 1293 == 工具总数，无需重算。
+提交 `c05ea591`，push 成功（`1bb1dfdb..c05ea591`）。
+线上复核（部署约 4 分钟生效）：`/tutorials/openclaw-acp-host-runtime-boundary` 与
+`/tutorials/openclaw-tts-input-cap-and-timeout` 均 200、自指 canonical、无 noindex；
+生产 `tutorials.xml` 1083 且含新 slug、`tools.xml` 1127、`news.xml` 13；
+`robots.txt` 200 且放行 GPTBot/ClaudeBot 并指向 `sitemap-index.xml`。
+
+**五、下一批建议**
+
+`tools/acp-agents/{quickstart,runbook,troubleshooting}` 与 `tools/acp-agents-setup`(26k) 仍未成篇；
+`tools/tts/{configuration,output,api,quickstart}` 四页可继续切（输出格式与自动摘要行为、提供方矩阵）；
+`gateway/sandboxing/{docker-backend(15k),images-and-setup,podman-backend,crabbox-backend}` 未采；
+`gateway/security/{exposure-runbook,hardened-baseline,access-control,browser-control}` 未采；
+`gateway/doctor/config-migrations`(107k) 只切了 0 篇，`{checks,gateway-and-services,provider-repairs,workspace-and-dreams}` 仍有余量；
+`concepts/qa-e2e-automation/*`（9 页）整组零采。以上均为 `.md` 直取可用、且与既有 1083 篇无来源重叠的子树。
