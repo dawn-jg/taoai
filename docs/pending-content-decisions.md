@@ -1120,3 +1120,55 @@ SSH 后端播种一次、远端即真相、凭据内联优先 / setupCommand 只
 `gateway/security/{exposure-runbook,hardened-baseline,access-control,browser-control}` 未采；
 `gateway/doctor/config-migrations`(107k) 只切了 0 篇，`{checks,gateway-and-services,provider-repairs,workspace-and-dreams}` 仍有余量；
 `concepts/qa-e2e-automation/*`（9 页）整组零采。以上均为 `.md` 直取可用、且与既有 1083 篇无来源重叠的子树。
+
+## 三十一、第 211 批（2026-11-27）：教程首次开采 QA 栈、容器后端页与遥测导出面（1083 → 1104）
+
+**一、基线**
+
+起始 HEAD `897ee83d`（含一条新闻 cron 提交）。工具 1293、原创池 1127（四条件通过 1127 == `tools.xml` 1127，
+池外 166 条为 noindex）、教程 1083、快讯 15、工作区干净。按任务口径未动工具页与 `news.json`。
+`docs.openclaw.ai/sitemap.xml` 本轮 15581 条 `loc`、英文根路径 1478 条、未采 1194 条；
+40 个候选页 `.md` 直取 40/40 全部 200，正文 2.0k–34k。代理 `127.0.0.1:7897` 未起（curl exit 7），
+属「代理通道缺失」而非「素材缺失」，全部走 node 直连；push 后线上复核同样走 node 直连。
+
+**二、本批产出：教程页 21 条（1083 → 1104，`tutorials.xml` 1083 → 1104）**
+
+素材首次系统开采四块此前零采的文档面：`concepts/qa-e2e-automation/*`（5 篇，整组此前零采）、
+`gateway/sandboxing/{docker,podman}-backend`（6 篇，此前该子树只采过三页概念性页面）、
+`gateway/security/{access-control,exposure-runbook,browser-control}`（4 篇）、
+`gateway/opentelemetry/{privacy-and-trace-context,spans-and-events}`（3 篇），
+另 `gateway/doctor/{checks,workspace-and-dreams}`（3 篇）。
+
+二十一条主线：QA Lab 的 409 与 503 两种拒绝语义、排空不取消 / 证据实例身份与「空结果不是通过」/
+覆盖清单是发现工具而非闸门 / 角色评测的盲评与思考档默认 / `execution.channels` 是「或」而展开后要求「全过」/
+Docker 默认无出网与 tmpfs 三档封顶 / 空闲停止 15 分钟与每轮 32 次尝试 / DooD 只认 bind 来源 /
+rootless Podman 的 keep-id 与非零 UID 与宿主 init / 引擎 URI 记录与「连接已改变」/ 密钥环配额只回收一个 LRU 沙箱 /
+私聊四档与配对码一小时三条待批 / 触发授权与上下文可见性是两件事 / 暴露面五种模式与回滚顺序 /
+SSRF 默认不查中间跳转 / 弃用模型只警告不改引用 / 工作区别名重指向要确认 / 记忆文件合并的 pre-merge 备份 /
+正文捕获默认导出的标识白名单 / traceparent 是请求级且握手帧被忽略 / `output.value` 是模型最后一条消息。
+
+**三、新方法论 75–78（已写入 SOP）**
+
+- 75：QA 栈为第二十二层素材，写「一次运行的生命周期与证据归属」；判据「一个状态码的两种含义 + 一个空值不等于通过 + 一条只按单次尝试结算的规则」。
+- 76：容器后端页的产能来自「默认值 + 上限 + 被拒绝的来源」；判据「一个默认收紧项 + 一条容量或次数上限 + 一类被明确拒绝的输入」。
+- 77：导出面的选题在「默认不导出什么」与「同一字段的两种归属」；判据「一个默认关闭的开关 + 一对同名字段的不同含义 + 一条只到某一步为止的证明」。
+- 78：安全页的产能在「拦截点落在哪一层」；判据「一个拦截发生的时机 + 一层它管不到的流量 + 一条只有更严模式才做的检查」。
+
+**四、自检与提交**
+
+独立复算（与 `scripts/generate-sitemap.mjs` 同口径）：工具 1293、原创池 1127、四条件通过 1127 ==
+`tools.xml` 1127（池内未通过 0）；教程 1104、≥600 字 1104 == `tutorials.xml` 1104；
+快讯 15 == `news.xml` 15；可索引合计 **1127 + 1104 + 15 = 2246**。
+21 个新 slug 全部命中 `tutorials.xml`；14 字滑窗（仅计 ≥8 汉字）跨文 0、批内 0（修正 1 处与私聊页撞的
+「不止一个人能私聊机器人」）；红线词 0、金额 0；标签闭合 21/21；h2 6–8；字数 752–1217；
+正文全部含 OpenClaw 自身名（补 6 篇）。`categories.json` 15 类 count 合计 1293 == 工具总数，无需重算。
+
+**五、下一批建议**
+
+`concepts/qa-e2e-automation/{channel-qa-reference,slack-qa,whatsapp-and-credentials,scenario-coverage,extending-the-stack}`
+五页已抓未切（本批只切了 `operator-flow`、`qa-reporting`、`command-surface` 三页），可再出 4–6 篇；`gateway/sandboxing/{images-and-setup,crabbox-backend,supported-capability-matrix}`
+未成篇；`gateway/security/{running-the-audit,operator-incident-response,hardened-baseline}` 只读了部分；
+`gateway/doctor/{gateway-and-services(34k),provider-repairs,running}` 未切；
+`gateway/opentelemetry/{model-calls-and-metrics(28k),configuration(17k),setup}` 仍有大量未采事实；
+`gateway/config-{agents,tools,channels}/*`（23 页）与 `tools/acp-agents/{quickstart,runbook,troubleshooting}`、
+`tools/acp-agents-setup`(26k) 仍未成篇。以上均为 `.md` 直取可用、与既有 1104 篇无来源重叠的子树。
