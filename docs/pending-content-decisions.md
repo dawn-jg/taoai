@@ -1172,3 +1172,64 @@ SSRF 默认不查中间跳转 / 弃用模型只警告不改引用 / 工作区别
 `gateway/opentelemetry/{model-calls-and-metrics(28k),configuration(17k),setup}` 仍有大量未采事实；
 `gateway/config-{agents,tools,channels}/*`（23 页）与 `tools/acp-agents/{quickstart,runbook,troubleshooting}`、
 `tools/acp-agents-setup`(26k) 仍未成篇。以上均为 `.md` 直取可用、与既有 1104 篇无来源重叠的子树。
+
+## 三十二、第 212 批（2026-11-28）：教程首次开采「配置层」——模型槽位、会话保留、压缩预算、绑定顺序（1104 → 1125）
+
+**一、基线**
+
+起始 HEAD `5d991614`（含一条新闻 cron 提交）。工具 1293、原创池 1127（四条件通过 1127 == `tools.xml` 1127，
+池外 166 条为 noindex）、教程 1104、快讯 14（解读 ≥180 字 14 == `news.xml` 14）、工作区干净。
+按任务口径未动工具页与 `news.json`。`docs.openclaw.ai/sitemap.xml` 本轮 15581 条 `loc`、英文根路径 1478 条、
+未采约 1196 条；44 个候选页 `.md` 直取 44/44 全部 200，正文 1.6k–86k。代理 `127.0.0.1:7897` 未起（curl 000），
+属「代理通道缺失」而非「素材缺失」，抓取与线上复核全部走 node 直连。
+
+**二、本批产出：教程页 21 条（1104 → 1125，`tutorials.xml` 1104 → 1125）**
+
+素材首次系统开采 `gateway/config-agents/*` 这棵此前零采的子树（6 页切 21 篇，平均一页 3.5 篇）：
+`models`（6）、`sessions`（5）、`heartbeat-compaction-and-streaming`（4）、`entries-and-multi-agent`（3）、
+`workspace-and-bootstrap`（2）、`messages-and-talk`（1）。这批与既有 1104 篇 14 字滑窗跨文 0、批内 0。
+
+二十一条主线：`modelSelectionScope` 缺省只改当前会话、Telegram 与本地 TUI 永远只改会话 /
+48 小时是每次尝试的预算且每个回落重新领一份、0 才是不限时 / utilityModel 与主模型回落是两条独立链、
+`""` 表示跳过 / imageModel 是补位、pdfModel 三段回落、生成类槽位按提供方顺序推断 /
+contextWindow 与 contextTokens 两件事、merge 模式不禁用模型发现 / 同一个空数组在 modelPolicy 与
+skills、allowAgents、agentToAgent.send 四处含义相反 / reset 缺省 none、daily 与 idle 看不同时间戳、
+后台写入不续命 / communication 双向缺省 always、三条相邻机制不能被它替代 / maxEntries 受保护行会顶住上限 /
+磁盘预算四步回收顺序与清零的三种写法 / 冷存储默认 30 天、面板嵌入字节不能重复相加 / 压缩超时是一个窗口、
+整轮十个窗口 / 示例 50000 不等于默认 20000、摘要另有 16000 上限 / 修剪只改内存、软修剪保留首尾 /
+分段流式非 Telegram 需显式开、QQ 例外 / 绑定六级匹配、显式舰队无命中即拒绝 / agent 级 model 写字符串即严格、
+cron 的继承规则又不同 / 子代理 8 并发、5 准入、5 层深度 / USER.md 固定 4000 只能调低 / 四本上下文预算各管一段 /
+队列缺省 steer、cap 20 超出留摘要、协作转向缺省为真。
+
+**三、新方法论 79–81（已写入 SOP）**
+
+- 79：`gateway/config-agents/*` 是第二十三层素材——**配置层**，写的是「同一个动作在不同层级的缺省方向」。
+  判据「一个默认值与相邻层相反 + 一个只能收紧不能放宽的上限 + 一处空值或清零的特殊语义」，
+  一页可切 3–5 篇（`models` 一页切 6 篇、`sessions` 一页切 5 篇）。
+- 80：**示例块里的数字不等于默认值**。`keepRecentTokens` 示例写 50000、正文写默认 20000；
+  参数页要按「默认」那一句读，示例只当写法参考，否则会把调参基线整体抬高。
+- 81：**同名不同层要先认层再调**。`timeoutSeconds` 在模型尝试（48 小时、每回落各一份）与压缩
+  （180 秒无进展窗口、整轮十窗口）两处语义完全不同，调错地方既不生效也不报错。
+
+**四、自检与提交**
+
+独立复算（与 `scripts/generate-sitemap.mjs` 同口径）：工具 1293、原创池 1127、四条件通过 1127 ==
+`tools.xml` 1127（池内未通过 0）；教程 1125、≥600 字 1125 == `tutorials.xml` 1125；
+快讯 14 == `news.xml` 14；可索引合计 **1127 + 1125 + 14 = 2266**。
+21 个新 slug 全部命中 `tutorials.xml`；14 字滑窗跨文 0、批内 0（一次通过）；红线词 0（修正 1 处「实测一次」）、
+金额 0；标签闭合 21/21；h2 5–7；字数 712–864；12 篇补入 OpenClaw 自身名。
+`categories.json` 15 类 count 合计 1293 == 工具总数，无需重算。
+提交（内容 + 本记录 + 方法论），push 后线上复核两个新页 200、自指 canonical、无 noindex；`robots.txt` 200
+且放行 GPTBot/ClaudeBot、含 Sitemap 行。
+
+**五、下一批建议**
+
+`gateway/config-tools/*` 七页本轮已抓未切，是最现成的产能：`tool-policy`（profile 只选工具不授权、
+`allow` 写 write 会带上 apply_patch 而 `deny` 不会、沙箱工具门会让 MCP 工具静默消失）、
+`custom-providers`（自定义 baseUrl 即网络信任决策、无 usage 时标记不可用而非 0、`supportsStrictMode` 两头缺省相反）、
+`github-identity`（50k，allowInSandbox 默认 false、OAuth 8 小时与 60 秒缓存、恢复节奏 1/2 分钟与三次或一小时停止）、
+`sessions-and-subagents`、`built-in-tools`、`provider-examples`。
+`gateway/config-channels/*`（7 页）整组零采，其中 `mention-gating-and-history`、`shared-policies` 密度较高。
+其余：`gateway/doctor/config-migrations`（86k，本轮仅略读）、`concepts/qa-e2e-automation` 余 5 页、
+`gateway/sandboxing/{images-and-setup,crabbox-backend,openshell-backend,supported-capability-matrix}`、
+`tools/acp-agents-setup`（20k）。以上均为 `.md` 直取可用、与既有 1125 篇无来源重叠的子树。
